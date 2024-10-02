@@ -1,4 +1,4 @@
-title: Ralph Hightower –  log
+title: Ralph Hightower/Blog
 author:
   name: Ralph Hightower
   email: ralph.hightower@gmail.com
@@ -10,6 +10,9 @@ description: >
   in _config.yml. It will appear in your document head meta (for Google search
   results) and in your feed.xml site description.
 
+repository: 'RalphHightower/434'
+url: 'https://ralphhightower.github.io/434/'
+
 # Build settings
 
 # If you clone the Minima repo and build locally, use this setting.
@@ -20,7 +23,9 @@ theme: minima
 # add a line comment on "theme: minima" above.
 #remote_theme: jekyll/minima
 
-# plugins:
+plugins:
+    - jekyll
+    - minima
 #  - jekyll-feed
 #  - jekyll-seo-tag
 
@@ -28,8 +33,8 @@ theme: minima
 
 # If you want to link only specific pages in your header, use this and add the path to the pages
 # in order as they should show up.
-header_pages:
-  - about.md
+# header_pages:
+#   - about.md
 
 # Set to `true` to show excerpts on the homepage.
 #show_excerpts: false
