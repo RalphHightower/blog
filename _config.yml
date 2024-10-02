@@ -1,4 +1,4 @@
-title: Ralph Hightower/Blog
+ttitle: Ralph Hightower/Blog
 author:
   name: Ralph Hightower
   email: ralph.hightower@gmail.com
@@ -23,9 +23,8 @@ theme: minima
 # add a line comment on "theme: minima" above.
 #remote_theme: jekyll/minima
 
-plugins:
-    - jekyll
-    - minima
+# plugins:
+#     - jekyll
 #  - jekyll-feed
 #  - jekyll-seo-tag
 
