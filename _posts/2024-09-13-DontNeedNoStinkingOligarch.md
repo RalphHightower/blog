@@ -3,7 +3,7 @@ layout: post
 tags: []
 categories: []
 date: 2024-09-13 13:14:15
-#excerpt: 'false'
+excerpt: "Musk is the latest example of a totally gearheaded, engineering-brained, Silicon Valley guy who looks at government and says ‘How hard can it be? Let me at it and I can solve it for you.' There’s been many of these characters before, and he’s just the latest.”
 #image: 'BASEURL/assets/blog/img/.png'
 description: 'Donald Trump could turn Elon Musk into an American oligarch'
 #permalink:
