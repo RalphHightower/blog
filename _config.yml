@@ -18,7 +18,8 @@ description: > # This means to ignore newlines until "show_excerpts:"
   I thought that it was a publicity stunt when Trump announced that he was going to run for president.
   I didn't think that he had the qualifications nor the temperament to be president.
   My opinion has not wavered.
-show_excer    
+show_excerpts: false
+
 repository: 'RalphHightower/blog'
 url: 'https://ralphhightower.github.io/blog/'
 timezone: 'America/New_York'
