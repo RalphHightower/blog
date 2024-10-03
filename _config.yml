@@ -1,15 +1,14 @@
-title: 'RalphHightower/Blog'
-
+title: Ralph Hightower – Blog
 author:
-    name: 'Ralph Hightower'
-    email: ralph.hightower@gmail.co
+  name: Ralph Hightower
+  email: ralph.hightower@gmail.com
 
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
 description: >
-    Write an awesome description for your new site here. You can edit this line
-    in _config.yml. It will appear in your document head meta (for Google search
-    results) and in your feed.xml site description.
+  Write an awesome description for your new site here. You can edit this line
+  in _config.yml. It will appear in your document head meta (for Google search
+  results) and in your feed.xml site description.
     
 repository: 'RalphHightower/434'
 url: 'https://ralphhightower.github.io/434/'
@@ -25,16 +24,16 @@ theme: minima
 # add a line comment on "theme: minima" above.
 
 plugins:
-    - jekyll-avatar
-    - jekyll-feed
-    - jekyll-github-metadata
-    - jekyll-mentions
-    - jekyll-optional-front-matter
-    - jekyll-readme-index
-    - jekyll-relative-links
-    - jekyll-seo-tag
-    - jekyll-sitemap
-    - jekyll-titles-from-headings
+  - jekyll-avatar
+  - jekyll-feed
+  - jekyll-github-metadata
+  - jekyll-mentions
+  - jekyll-optional-front-matter
+  - jekyll-readme-index
+  - jekyll-relative-links
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-titles-from-headings
     
 # Theme-specific settings
 
@@ -56,46 +55,46 @@ minima:
     # solarized-light	 Light variant of solarized color scheme.
     # solarized-dark	 Dark variant of solarized color scheme.
     # solarized	 Adaptive skin for solarized color scheme skins.
-    skin: auto
+  skin: auto
     
 # Minima date format.
 # The default value is "%b %d, %Y" (e.g. Nov 14, 2023) 
 # Refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this.
- date_format: "%F %r"
+  date_format: "%F %r"
 
 # Generate social links in footer.
 social_links:
-    - { platform: devto, user_url: "https://dev.to/RalphHightower"}
-    - { platform: facebook, user_url: "https://www.facebook.com/ralph.hightower" }
-    - { platform: flickr, user_url: "https://www.flickr.com/photos/RalphHightower" }
-    - { platform: github, user_url: "https://github.com/RalphHightower" }
-    - { platform: linkedin, user_url: "https://www.linkedin.com/in/RalphHightower" }
-    - { platform: stackoverflow, user_url: "https://stackoverflow.com/users/19978043/ralph-hightower" }
-    - { platform: telegram, user_url: "https://t.me/RalphHightower" }
-    - { platform: youtube, user_url: "https://www.youtube.com/@RalphHightower" }
-    - { platform: orchid, user_url: "https://orcid.org/0009-0009-7630-3554" }
-    # - { platform: dribbble, user_url: "https://dribbble.com/RalphHightower" }
-    # - { platform: google_scholar, user_url: "https://scholar.google.com/citations?user=qc6CJjYAAAAJ" }
-    # - { platform: instagram, user_url: "https://www.instagram.com/RalphHightower" }
-    # - { platform: keybase, user_url: "https://keybase.io/RalphHightower" }
-    # - { platform: microdotblog, user_url: "https://micro.blog/RalphHightower" }
-    # - { platform: pinterest, user_url: "https://www.pinterest.com/RalphHightower" }
-    # - { platform: twitter, user_url: "https://twitter.com/RalphHightower" }
+  - { platform: devto, user_url: "https://dev.to/RalphHightower"}
+  - { platform: facebook, user_url: "https://www.facebook.com/ralph.hightower" }
+  - { platform: flickr, user_url: "https://www.flickr.com/photos/RalphHightower" }
+  - { platform: github, user_url: "https://github.com/RalphHightower" }
+  - { platform: linkedin, user_url: "https://www.linkedin.com/in/RalphHightower" }
+  - { platform: stackoverflow, user_url: "https://stackoverflow.com/users/19978043/ralph-hightower" }
+  - { platform: telegram, user_url: "https://t.me/RalphHightower" }
+  - { platform: youtube, user_url: "https://www.youtube.com/@RalphHightower" }
+  - { platform: orchid, user_url: "https://orcid.org/0009-0009-7630-3554" }
+  # - { platform: dribbble, user_url: "https://dribbble.com/RalphHightower" }
+  # - { platform: google_scholar, user_url: "https://scholar.google.com/citations?user=qc6CJjYAAAAJ" }
+  # - { platform: instagram, user_url: "https://www.instagram.com/RalphHightower" }
+  # - { platform: keybase, user_url: "https://keybase.io/RalphHightower" }
+  # - { platform: microdotblog, user_url: "https://micro.blog/RalphHightower" }
+  # - { platform: pinterest, user_url: "https://www.pinterest.com/RalphHightower" }
+  # - { platform: twitter, user_url: "https://twitter.com/RalphHightower" }
     
 optional_front_matter:
-    remove_originals: true
-    enabled: true
+  remove_originals: true
+  enabled: true
 
 readme_index:
-    enabled: true
-    remove_originals: true
-    with_frontmatter: true
+  enabled: true
+  remove_originals: true
+  with_frontmatter: true
 
 titles_from_headings:
-    enabled: false
-    strip_title: true
-    collections: true
+  enabled: false
+  strip_title: true
+  collections: true
 
 # Optional. The default date format is used if none is specified in the tag.
 last-modified-at:
-    date-format: "%F %r"
+  date-format: "%F %r"
