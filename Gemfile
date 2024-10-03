@@ -19,10 +19,10 @@ gem 'minima', '~> 2.5', '>= 2.5.2'
 # If you have any plugins, put them here!
 group :jekyll_plugins do
 
-gem 'jekyll-default-layout', '~> 0.1.5'
+# gem 'jekyll-default-layout', '~> 0.1.5'
 gem 'jekyll-feed', '~> 0.17.0'
 gem 'jekyll-github-metadata', '~> 2.16', '>= 2.16.1'
-gem 'jekyll-include-cache', '~> 0.2.1'
+# gem 'jekyll-include-cache', '~> 0.2.1'
 gem 'jekyll-mentions', '~> 1.6'
 gem 'jekyll-optional-front-matter', '~> 0.3.2'
 gem 'jekyll-readme-index', '~> 0.3.0'
