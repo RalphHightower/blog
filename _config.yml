@@ -14,10 +14,10 @@ author:
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
 description: > # This means to ignore newlines until "show_excerpts:"
-  Cancel the second season of *"The Apprentice: White House"* before it starts!
-  I thought that it was a publicity stunt when Trump announced that he was going to run for president.
-  I didn't think that he had the qualifications nor the temperament to be president.
-  My opinion has not wavered.
+  I thought that it was a publicity when Trump announced that he was running for president. 
+  Trump has neither the qualifications nor the temperament to be president. 
+  My assessment has not wavered from 2016. 
+  America must not renew "The Apprentice: White House" for a second season. 
 show_excerpts: false
 
 repository: 'RalphHightower/blog'

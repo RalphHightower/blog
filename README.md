@@ -16,6 +16,10 @@ Both candidates are polarizing!
 
 Discussions and comments can be placd here: [RalphHightower/blog · Discussions · GitHub](https://github.com/RalphHightower/blog/discussions).
 
+## Third Rate Game Show Host
+
+"The Apprentice: White House" ended a tumultuous four year season ingloriously in January 2020, in an extraordinary low point in American history when thousands of far-right undesirables lay siege on the US Capitol in a vain attempt to overthrow a fair election. I thought that it was a publicity when Trump announced that he was running for president. Trump has neither the qualifications nor the temperament to be president. My assessment has not wavered from 2016. America must not renew "The Apprentice: White House" for a second season.
+
 ### Donald Trump Needs to Change His Behavior and Demeanor
 
 ***How?***
