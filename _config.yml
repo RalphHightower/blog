@@ -23,10 +23,17 @@ theme: minima
 # add a line comment on "theme: minima" above.
 #remote_theme: jekyll/minima
 
-# plugins:
-#     - jekyll
-#  - jekyll-feed
-#  - jekyll-seo-tag
+plugins:
+    - jekyll-feed
+    - jekyll-github-metadata
+    # - jekyll-include-cache
+    - jekyll-mentions
+    - jekyll-optional-front-matter
+    - jekyll-readme-index
+    # - jekyll-relative-links
+    - jekyll-seo-tag
+    - jekyll-sitemap
+    - jekyll-titles-from-headings
 
 # Theme-specific settings
 
