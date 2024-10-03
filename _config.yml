@@ -1,6 +1,7 @@
-title: RalphHightower/Blog
+title: 'RalphHightower/Blog'
+
 author:
-    name: Ralph Hightower
+    name: 'Ralph Hightower'
     email: ralph.hightower@gmail.co
 
 # The `>` after `description:` means to ignore line-breaks until next key.
