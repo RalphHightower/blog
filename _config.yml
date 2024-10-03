@@ -9,7 +9,7 @@ description: >
     Write an awesome description for your new site here. You can edit this line
     in _config.yml. It will appear in your document head meta (for Google search
     results) and in your feed.xml site description.
-
+    
 repository: 'RalphHightower/434'
 url: 'https://ralphhightower.github.io/434/'
 timezone: 'America/New_York'
@@ -22,19 +22,19 @@ theme: minima
 # As of November 2023, GitHub Pages still uses Minima 2.5.1 (https://pages.github.com/versions/). 
 # If you want to use the latest Minima version on GitHub Pages, use the following setting and 
 # add a line comment on "theme: minima" above.
-#remote_theme: jekyll/minima
 
 plugins:
+    - jekyll-avatar
     - jekyll-feed
     - jekyll-github-metadata
     - jekyll-mentions
     - jekyll-optional-front-matter
     - jekyll-readme-index
-    # - jekyll-relative-links
+    - jekyll-relative-links
     - jekyll-seo-tag
     - jekyll-sitemap
     - jekyll-titles-from-headings
-
+    
 # Theme-specific settings
 
 # If you want to link only specific pages in your header, use this and add the path to the pages
@@ -60,7 +60,7 @@ minima:
 # Minima date format.
 # The default value is "%b %d, %Y" (e.g. Nov 14, 2023) 
 # Refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this.
-    date_format: "%F %r"
+ date_format: "%F %r"
 
 # Generate social links in footer.
 social_links:
@@ -69,32 +69,32 @@ social_links:
     - { platform: flickr, user_url: "https://www.flickr.com/photos/RalphHightower" }
     - { platform: github, user_url: "https://github.com/RalphHightower" }
     - { platform: linkedin, user_url: "https://www.linkedin.com/in/RalphHightower" }
-    - { platform: stackoverflow,  user_url: "https://stackoverflow.com/users/19978043/ralph-hightower" }
+    - { platform: stackoverflow, user_url: "https://stackoverflow.com/users/19978043/ralph-hightower" }
     - { platform: telegram, user_url: "https://t.me/RalphHightower" }
     - { platform: youtube, user_url: "https://www.youtube.com/@RalphHightower" }
     - { platform: orchid, user_url: "https://orcid.org/0009-0009-7630-3554" }
-#    - { platform: dribbble, user_url: "https://dribbble.com/RalphHightower" }
-#    - { platform: google_scholar, user_url: "https://scholar.google.com/citations?user=qc6CJjYAAAAJ" }
-#    - { platform: instagram, user_url: "https://www.instagram.com/RalphHightower" }
-#    - { platform: keybase, user_url: "https://keybase.io/RalphHightower" }
-#    - { platform: microdotblog, user_url: "https://micro.blog/RalphHightower" }
-#    - { platform: pinterest, user_url: "https://www.pinterest.com/RalphHightower" }
-#    - { platform: twitter, user_url: "https://twitter.com/RalphHightower" }
-
+    # - { platform: dribbble, user_url: "https://dribbble.com/RalphHightower" }
+    # - { platform: google_scholar, user_url: "https://scholar.google.com/citations?user=qc6CJjYAAAAJ" }
+    # - { platform: instagram, user_url: "https://www.instagram.com/RalphHightower" }
+    # - { platform: keybase, user_url: "https://keybase.io/RalphHightower" }
+    # - { platform: microdotblog, user_url: "https://micro.blog/RalphHightower" }
+    # - { platform: pinterest, user_url: "https://www.pinterest.com/RalphHightower" }
+    # - { platform: twitter, user_url: "https://twitter.com/RalphHightower" }
+    
 optional_front_matter:
     remove_originals: true
     enabled: true
-    
+
 readme_index:
     enabled: true
     remove_originals: true
     with_frontmatter: true
-    
+
 titles_from_headings:
     enabled: false
     strip_title: true
     collections: true
-    
+
 # Optional. The default date format is used if none is specified in the tag.
 last-modified-at:
     date-format: "%F %r"
