@@ -1,17 +1,26 @@
-title: Ralph Hightower – Blog
+title: Ralph Hightower/Blog
 author:
   name: Ralph Hightower
-  email: ralph.hightower@gmail.com
+  # email: ralph.hightower@gmail.com
+  #email: ralph.hightower@gmail.com
+  email: r a l p h dot h i g h t o w e r at gee mail dot com
+  # street_address:
+  city: Chapin
+  state: South Carolina
+  zip_code: 29036
+  country: United States of America
+  # phone:
 
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
-description: >
-  Write an awesome description for your new site here. You can edit this line
-  in _config.yml. It will appear in your document head meta (for Google search
-  results) and in your feed.xml site description.
-    
-repository: 'RalphHightower/434'
-url: 'https://ralphhightower.github.io/434/'
+description: > # This means to ignore newlines until "show_excerpts:"
+  Cancel the second season of *"The Apprentice: White House"* before it starts!
+  I thought that it was a publicity stunt when Trump announced that he was going to run for president.
+  I didn't think that he had the qualifications nor the temperament to be president.
+  My opinion has not wavered.
+show_excer    
+repository: 'RalphHightower/blog'
+url: 'https://ralphhightower.github.io/blog/'
 timezone: 'America/New_York'
 
 # Build settings
