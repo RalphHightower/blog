@@ -15,8 +15,7 @@ title: 'Prosecutorial Logic versus Toddler Gibberish'
 [^11]: My mother taught high school English and she instilled the proper use of English and grammar. As such, I  cannot listen to Donald Trump speak and mangle words and grammar. It is like listening to fingernails screech across a blackboard. 
 
 ## [Election 2024: What we know about Harris' tactics from past debates / AP News](https://apnews.com/article/harris-debate-approach-trump-matchup-240d0978bd7d38d9757b5d314359b7d0)
-Updated 11:48 AM EDT, September 9, 2024
-By  BILL BARROW
+<br />Updated 11:48 AM EDT, September 9, 2024<br />By  BILL BARROW
 
 ATLANTA (AP) — From her earliest campaigns in California to her serving as President Joe Biden’s running mate, Kamala Harris has honed an aggressive but calibrated approach to debates.
 
@@ -29,6 +28,7 @@ People who have competed against Harris and prepared her rivals say she brings a
 “That little girl was me,” Harris said in a widely circulated quip that punctuated her story about court-ordered busing that helped non-white students attend integrated schools.
 
 ### Landing memorable punches
+
 Castro said Harris has a good feel for when to strike, a quality he traced to her trial experience. In 2019, as multiple Democratic candidates talked over one another, Harris sat back before getting moderators to recognize her.
 
 “Hey, guys, you know what? America does not want to witness a food fight. They want to know how we’re going to put food on their table,” she said, taking control of the conversation and drawing applause.
@@ -38,6 +38,7 @@ When Harris faced Pence in 2020, it was a mostly civil, substantive debate. But 
 “Mr. Vice President, I’m speaking,” she said at one point, with a stern look. At another: “If you don’t mind letting me finish, we can have a conversation.”
 
 ### Finding traps in policy
+
 Debates have sometimes put Harris on the defensive.
 
 In the 2020 primary matches, Tulsi Gabbard, who this year has endorsed Trump, blitzed Harris over how aggressively she prosecuted nonviolent drug offenders as a district attorney.
@@ -49,6 +50,7 @@ Short, one of Pence’s top aides, noted that Republicans and the media have rai
 “We were surprised that she missed some opportunities (against Pence) when the conversation was centered around policy,” Short said.
 
 ### Timing, silence and nonverbal communication
+
 One of Harris’ earliest debate triumphs came in 2010 as she ran for California attorney general. Her opponent was asked about his plans to accept his public pension while still being paid a salary for a current public post.
 
 “I earned it,” Republican Steve Cooley said of the so-called “double-dipping” practice.
@@ -62,6 +64,7 @@ The professor said Harris often will shake her head and, with other looks, teleg
 “She defuses some of the argument that Trump makes that she is ‘a nasty woman,’ that she’s engaging in egregiously unfair behavior, because her nonverbal presentation is actually undercutting that line of attack,” Jamieson said.
 
 ### Meeting a new challenge with Trump
+
 For all of Harris’ debate experience, Tuesday is still a new and massive stage. Democrats who ordinarily tear into Trump instead appeared on Sunday’s news shows to make clear that Harris faced a big task ahead.
 
 “It will take almost superhuman focus and discipline to deal with Donald Trump in a debate,” said Transportation Secretary Pete Buttigieg, yet another of Harris’ 2020 opponents, on CNN. “It’s no ordinary proposition, not because Donald Trump is a master of explaining policy ideas and how they’re going to make people better off. It’s because he’s a master of taking any form or format that is on television and turning it into a show that is all about him.”
