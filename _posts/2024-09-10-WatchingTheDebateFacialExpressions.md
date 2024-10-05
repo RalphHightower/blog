@@ -3,7 +3,7 @@ layout: post
 tags: [Kamala Harris, Donald Trump,  debate]
 date: 2024-09-12 13:14:15
 categories: [2024 presidential election]
-#excerpt: 'false'
+excerpt: 'January 6, 2021, is a block mark in American history. Trump glorifies violence.'
 #image: 'BASEURL/assets/blog/img/.png'
 description: 'Assessment of the Debate'
 #permalink:
