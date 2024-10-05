@@ -1,7 +1,7 @@
 ---
 layout: post
-tags: []
-categories: []
+tags: [Donald Trump]
+categories: [2024 presidential election]
 date: 2024-09-12 12:46:35
 #excerpt: 'false'
 #image: 'BASEURL/assets/blog/img/.png'

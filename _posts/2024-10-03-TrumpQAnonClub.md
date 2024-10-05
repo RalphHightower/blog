@@ -1,7 +1,7 @@
 ---
 layout: post
-tags: []
-categories: []
+tags: [Donald Trump,  QAnon]
+categories: [2024 presidential election]
 date: 2024-08-29 02:55 PM
 excerpt: 'WWG1WGA – Where we go one, we go all.'
 #image: 'BASEURL/assets/blog/img/.png'
