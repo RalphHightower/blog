@@ -18,8 +18,6 @@ description: > # This means to ignore newlines until "show_excerpts:"
   Trump has neither the qualifications nor the temperament to be president. 
   My assessment has not wavered from 2016. 
   America must not renew "The Apprentice: White House" for a second season. 
-show_excerpts: true
-
 repository: 'RalphHightower/blog'
 url: 'https://ralphhightower.github.io/blog/'
 timezone: 'America/New_York'
@@ -54,7 +52,7 @@ plugins:
 # - about.md
 
 # Set to `true` to show excerpts on the homepage.
-show_excerpts: false
+show_excerpts: true
 
 # Minima specific settings, which are only available from Minima 3.0 onward.
 minima:
@@ -93,7 +91,7 @@ social_links:
   # - { platform: twitter, user_url: "https://twitter.com/RalphHightower" }
 
 ai_related_posts:
-  openai_api_key: {{ secrets.OPEN_AI_KEY }
+  openai_api_key: {{ secrets.OPEN_AI_KEY }}
   fetch_enabled: prod
     
 optional_front_matter:
