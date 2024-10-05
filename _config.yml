@@ -18,7 +18,7 @@ description: > # This means to ignore newlines until "show_excerpts:"
   Trump has neither the qualifications nor the temperament to be president. 
   My assessment has not wavered from 2016. 
   America must not renew "The Apprentice: White House" for a second season. 
-show_excerpts: false
+show_excerpts: true
 
 repository: 'RalphHightower/blog'
 url: 'https://ralphhightower.github.io/blog/'
@@ -44,7 +44,8 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-titles-from-headings
-    
+  - jekyll_ai_related_posts
+   
 # Theme-specific settings
 
 # If you want to link only specific pages in your header, use this and add the path to the pages
@@ -90,6 +91,10 @@ social_links:
   # - { platform: microdotblog, user_url: "https://micro.blog/RalphHightower" }
   # - { platform: pinterest, user_url: "https://www.pinterest.com/RalphHightower" }
   # - { platform: twitter, user_url: "https://twitter.com/RalphHightower" }
+
+ai_related_posts:
+  openai_api_key: {{ secrets.OPEN_AI_KEY }
+  fetch_enabled: prod
     
 optional_front_matter:
   remove_originals: true
@@ -108,3 +113,7 @@ titles_from_headings:
 # Optional. The default date format is used if none is specified in the tag.
 last-modified-at:
   date-format: "%F %r"
+
+exclude:
+  - .ai_related_posts_cache.sqlite3
+  - .ai_related_posts_cache.sqlite3-journal
