@@ -3,7 +3,7 @@ layout: post
 tags: [Donald Trump]
 categories: [2024 presidential election]
 date: 2024-09-12 12:46:35
-#excerpt: 'false'
+excerpt: 'One of the principles of America is freedom of speech and a free press. Trump wants to control what the media says about him.'
 #image: 'BASEURL/assets/blog/img/.png'
 description: 'Donald Wants to be King/Dictator for Life'
 #permalink:
