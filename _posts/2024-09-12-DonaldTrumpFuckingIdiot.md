@@ -3,7 +3,7 @@ layout: post
 tags: [Donald Trump]
 categories: [2024 presidential election]
 date: 2024-09-12
-#excerpt: 'false'
+excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 description: "Trump Doesn't Know What the Hell He's Doing"
 #permalink:
