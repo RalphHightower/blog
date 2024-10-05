@@ -1,7 +1,7 @@
 ---
 layout: post
-tags: []
-categories: []
+tags: [Kamala Harris, Donald Trump,  advertising,  football,  Alabama, Georgia]
+categories: [2024 presidential election]
 date: 2024-09-28 04:00 PM
 excerpt: 'Winners never back down from a challenge. Champions know it’s any time, any place. But losers, they whine and waffle and take their ball home'
 #image: 'BASEURL/assets/blog/img/.png'

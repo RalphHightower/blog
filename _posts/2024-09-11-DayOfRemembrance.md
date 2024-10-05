@@ -1,7 +1,7 @@
 ---
 layout: post
-tags: []
-categories: []
+tags: [terrorism,  alQaeda]
+categories: [September 11 2001 terrorist attacks]
 ate: 2024-09-11 13:14:15
 #excerpt: 'false'
 #image: 'BASEURL/assets/blog/img/.png'

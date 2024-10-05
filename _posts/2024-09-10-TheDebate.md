@@ -1,7 +1,7 @@
 ---
 layout: post
-tags: []
-categories: []
+tags: [Kamala Harris, Donald Trump, debate]
+categories: [2024 presidential election]
 date: 2024-09-11
 #excerpt: 'false'
 #image: 'BASEURL/assets/blog/img/.png'
