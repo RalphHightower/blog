@@ -2,7 +2,6 @@ title: Ralph Hightower/Blog
 author:
   name: Ralph Hightower
   # email: ralph.hightower@gmail.com
-  #email: ralph.hightower@gmail.com
   email: r a l p h dot h i g h t o w e r at gee mail dot com
   # street_address:
   city: Chapin
@@ -14,10 +13,7 @@ author:
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
 description: > # This means to ignore newlines until "show_excerpts:"
-  I thought that it was a publicity when Trump announced that he was running for president. 
-  Trump has neither the qualifications nor the temperament to be president. 
-  My assessment has not wavered from 2016. 
-  America must not renew "The Apprentice: White House" for a second season. 
+  Cancel the rerun of "The Apprentice: White House".
 repository: 'RalphHightower/blog'
 url: 'https://ralphhightower.github.io/blog/'
 timezone: 'America/New_York'
