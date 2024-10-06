@@ -49,13 +49,32 @@ Personally, I terminated myX/Twitter account on April 27, 2023 when Musk revoked
 - pieces of the suit that he wore at the debate
 - "Melania" – Melania Trump's fictional autobiography 
 
-## <air quotes>Truth<air quotes> Social Subscribers Are Targets of "Pig-Butchering"[^41] Scams
+[As Trump hawks expensive watches, corruption concerns linger](https://www.msnbc.com/rachel-maddow-show/maddowblog/trump-hawks-expensive-watches-corruption-concerns-linger-rcna173260).<br /> Story by Steve Benen. September 30, 2024.
+
+Benen has seen some suggestions that Trump might be pulling a campaign-finance scheme: A hypothetical wealthy donor wants to give the former president a $100,000 donation — far in excess of the legal limit — so he or she buys an expensive watch. At that point, the nominee could take his cut and write a comparable check in support of his candidacy, since there is no legal limit on what candidates can spend on their own campaigns.
+
+A [Washington Post analysis](https://www.washingtonpost.com/politics/2024/09/27/trump-keeps-creating-avenues-people-quietly-give-him-money/) noted:<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*"Here is a company encouraging people to “join President Trump’s watch community,” offering up a product that retails for six figures. Each watch, the website promises, will include a “personalized ‘Thank You’ message from President Trump,” ensuring, it seems, that Trump knows who made the purchase."*
+
+## Charity Or Diversion?
+
+[Self-proclaimed billionaire Trump launches GoFundMe to help hurricane victims](https://www.independent.co.uk/news/world/americas/us-politics/trump-gofundme-hurricane-helene-billionaire-b2621975.html).<br /> Story by Kelly Rissman. October 1, 2024.
+
+Reportedly, according to Trump, he is worth $4,000,000,000. So, why is he holding a fundraiser on GoFundMe?
+
+Personally,  I'd be concerned that my contribution would be diverted to his campaign finances, or his legal bills.
+
+The GoFundMe page states, *"“an official response for MAGA supporters to offer their financial assistance to their fellow Americans impacted by Hurricane Helene.”
+
+The article also questions if Trump made a personal donation. Probably not. Trump owned and operated Trump Charity, but that was shuttered because it was involved in self-dealing where the beneficiary was Trump himself, and people in his circle also contributed.
+
+## <air quotes> *"Truth"* <air quotes> Social Subscribers Are Targets of "Pig-Butchering"[^41] Scams
 
 ['What idiots we are': Truth Social users lose hundreds of thousands of dollars to scammers](https://www.alternet.org/truth-social-scammers/).<br />Story by Carl Gibson. October 5, 2024.
 
 Some *"Truth"* Social subscribers have lost hundreds of thousands of dollars. The demographics of its subscriber base, older Americans who are retired and have a significantly larger life savings,  makes it a honeypot for scammers.
 
-Romance Scams are taking place on *"Truth"* Social also. One person in his 7's lost $21,000. So Far, he hasn't told his wife.
+Romance Scams are taking place on *"Truth"* Social also. One person in his 7's lost $21,000. So far, he hasn't told his wife.
 
 [^41]: "pig butchering." That type of scam involves a grifter winning the trust of a mark, persuading them to invest in a questionable money-making scheme and cajoling them into making even larger investments by tricking them into thinking they're making money.
 
