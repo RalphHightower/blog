@@ -3,6 +3,8 @@ layout: base
 ---
 ## Reason for Starting a Blog.
 
+I was an independent voter. Trump turned me into a straight ticket Democrat. 
+
 I started my blog because I realized that maintaining my opinion that [Donald Trump Is a Fucking Idiot](https://ralphhightower.github.io/RalphHightower/Opinions/DonaldTrumpIsAFuckingIdiot.html) was going to be unwieldy to update and maintain. You may have a different opinion from mine. But the only person that can convince me that Trump is not a fucking idiot is Donald Trump himself. I probably won't change your opinion or vote. Likewise, you won't be able to change my assignment of Trump.
 
 Both political parties fucked up in 2016.
