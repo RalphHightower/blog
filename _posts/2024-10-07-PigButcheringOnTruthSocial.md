@@ -2,7 +2,7 @@
 layout: post
 tags: [pig butchering, scams]
 categories: [Truth Social, pig butchering]
-date: 2024-10-0702:25 PM
+date: 2024-10-07 02:25 PM
 excerpt: 'After I pay this, they promise there will be no more fees and I will receive my assets'
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
