@@ -3,18 +3,19 @@ layout: post
 tags: [JD Vance, vice president,  Appalachia]
 categories: [2024 presidential election]
 date: 2024-10-07 01:15 PM
-excerpt: 'He is surely too ashamed to face any of us. Judas Iscariot would have a warmer reception'
+excerpt: "hashtag he ain't from here"
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: 'He Ain't From Here'
+title: 'Hillbilly Elegy'
 ---
 
 
 [In the heart of Appalachia, a distant cousin of JD Vance leads an opposing 'authentic hillbilly' movement](https://www.latimes.com/politics/story/2024-10-07/in-the-heart-of-appalachia-a-distant-cousin-of-jd-vance-leads-an-opposing-authentic-hillbilly-movement)
+
 Story by Mackenzie Mays. October 7, 2024.
-Five generations of Vances gathered in West Virginia last month for a reunion, singing hymns and swapping stories in a quiet park hugged by towering green mountains waiting to burst into autumnal shades of orange.
-JD Vance — the Republican vice presidential nominee who reunion attendees say is part of the family — was not among them.
+
+Five generations of Vances gathered in West Virginia last month for a reunion, singing hymns and swapping stories in a quiet park hugged by towering green mountains waiting to burst into autumnal shades of orange. JD Vance — the Republican vice presidential nominee who reunion attendees say is part of the family — was not among them.
 
 - **Family Reunion**: Five generations of Vances gathered in West Virginia, but JD Vance, the Republican vice presidential nominee, did not attend.
 - **Criticism from Terra Vance**: Terra Vance, a distant cousin and Appalachian activist, criticizes JD Vance for misrepresenting Appalachian people in his memoir "Hillbilly Elegy."
