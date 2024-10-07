@@ -15,9 +15,7 @@ title: 'Hillbilly Elegy'
 
 Story by Mackenzie Mays. October 7, 2024.
 
-Five generations of Vances gathered in West Virginia last month for a reunion, singing hymns and swapping stories in a quiet park hugged by towering green mountains waiting to burst into autumnal shades of orange. JD Vance — the Republican vice presidential nominee who reunion attendees say is part of the family — was not among them.
-
-- **Family Reunion**: Five generations of Vances gathered in West Virginia, but JD Vance, the Republican vice presidential nominee, did not attend.
+- **Family Reunion**: Five generations of Vances gathered in West Virginia for a reunion, but JD Vance, the Republican vice presidential nominee, did not attend.
 - **Criticism from Terra Vance**: Terra Vance, a distant cousin and Appalachian activist, criticizes JD Vance for misrepresenting Appalachian people in his memoir "Hillbilly Elegy."
 - **Different Perspectives**: Terra Vance argues that JD Vance's story unfairly blames Appalachian people for their struggles, while she highlights systemic issues and her family's hardships.
 - **Political Divide**: The article discusses the broader Appalachian movement rejecting JD Vance's narrative and the political divide within the Vance family.
