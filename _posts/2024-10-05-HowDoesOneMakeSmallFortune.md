@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [Donald Trump, Elon Musk, X/Twitter, Trump Media and Technology Group]
+tags: [Donald Trump, Elon Musk, X-Twitter, Trump Media and Technology Group]
 categories: [social media]
 date: 2024-10-05 9:15 AM
 excerpt: 'However, the company's future is uncertain, and a lot seems to be hinging on whether the former president gets elected this year. Is this stock too risky to own? Could it ultimately be headed to $0?'
