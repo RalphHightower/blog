@@ -2,9 +2,10 @@
 layout: base
 ---
 # Reason for Starting a Blog
+
 I started my blog because I realized that maintaining my opinion that [Donald Trump Is a Fucking Idiot](https://ralphhightower.github.io/RalphHightower/Opinions/DonaldTrumpIsAFuckingIdiot.html) was
 going to be unwieldy to update and maintain. You may have a different opinion from mine. But the only
-person that can convince me that Trump is not a fucking idiot is Donald Trump himself. I probably won't 
+person that can convince me that Trump is not a fucking idiot is Donald Trump himself. I probably won't
 change your opinion or vote. Likewise, you won't be able to change my assignment of Trump.
 
 Both political parties fucked up in 2016.
@@ -21,12 +22,12 @@ Discussions and comments can be placed here: [RalphHightower/blog · Discussions
 
 ## Third Rate Game Show Host
 
-I thought that it was a publicity when Trump announced that he was running for president. Trump has neither the 
-qualifications nor the temperament to be president. My assessment has not wavered from 2016. America must not 
+I thought that it was a publicity when Trump announced that he was running for president. Trump has neither the
+qualifications nor the temperament to be president. My assessment has not wavered from 2016. America must not
 renew "The Apprentice: White House" for a second season.
 
-"The Apprentice: White House" ended a tumultuous four year season ingloriously in January 2020, in an extraordinary 
-low point in American history when thousands of far-right undesirables lay siege on the US Capitol in a vain attempt 
+"The Apprentice: White House" ended a tumultuous four year season ingloriously in January 2020, in an extraordinary
+low point in American history when thousands of far-right undesirables lay siege on the US Capitol in a vain attempt
 to overthrow a fair election.
 
 ### Donald Trump Needs to Change His Behavior and Demeanor
@@ -40,10 +41,10 @@ to overthrow a fair election.
 - Quit your whining, *"It's not fair"* Grow up and be an adult!
 - Accept the fact that the president lives under a **microscope.** You will be praised by some and condemned others for your actions or inactions.
 
-Trump keeps boasting that he is a highly intelligent person. As Brad Pitt said in the movie, Moneyball, "Show me the money!". 
+Trump keeps boasting that he is a highly intelligent person. As Brad Pitt said in the movie, Moneyball, "Show me the money!".
 In Trump’s case, I say "Show me your Mensa test score!". If you're short on cash, I'll even pay the $99 for you to [take the Mensa Admission Test](https://www.us.mensa.org/join/testing/).
 
-But you more than likely won't own up to my challenge to you. It'll probably be for the same reason that you won't reveal 
+But you more than likely won't own up to my challenge to you. It'll probably be for the same reason that you won't reveal
 your [Internal Revenue Service](https://www.irs.gov/) tax returns as presidents have done as past precedent. You're afraid that revealing that information will prove that you are a fraud.
 
 ### Supreme Court Justice Clarence Thomas
@@ -52,18 +53,18 @@ I also think that [Supreme Court Justice Clarence Thomas should be impeached](ht
 
 ## Briefly About Me
 
-I freeze time; I photograph. I have 50++ years of computer programming and software development; most recently using 
-C# and .Net. Athough I am retired from software development as a vocation, I am still active for personal projects. I have 
-witnessed two final space flights: the US half of the Apollo/Soyuz Test Project, and Space Shuttle STS-135 Atlantis with the 
-Final Four \[CDR Chris Ferguson, PLT Doug Hurley, MS1 Sandra Magnus, MS2 Rex Walheim\], as well as the final landing 
+I freeze time; I photograph. I have 50++ years of computer programming and software development; most recently using
+C# and .Net. Athough I am retired from software development as a vocation, I am still active for personal projects. I have
+witnessed two final space flights: the US half of the Apollo/Soyuz Test Project, and Space Shuttle STS-135 Atlantis with the
+Final Four \[CDR Chris Ferguson, PLT Doug Hurley, MS1 Sandra Magnus, MS2 Rex Walheim\], as well as the final landing
 next to the control tower of the Shuttle Landing Facility (200 yards from the runway).
 
-Photography is another creative endeavor that I have enjoyed since 1980. My first camera was the Canon A-1 which was 
-an innovative camera for the 80's, which I still use. I added one of my bucket list cameras in July 2013, a Canon New F-1 
-with the AE Finder FN and the AE Motor Drive FN. December 2013, I added a DSLR, the Canon 5D Mark III with the 
+Photography is another creative endeavor that I have enjoyed since 1980. My first camera was the Canon A-1 which was
+an innovative camera for the 80's, which I still use. I added one of my bucket list cameras in July 2013, a Canon New F-1
+with the AE Finder FN and the AE Motor Drive FN. December 2013, I added a DSLR, the Canon 5D Mark III with the
 EF 24-105mm f4L. I enjoy photography period. It doesn't matter if I am shooting film or digital.
 
-I have more information on my website: [\[ Ralph Hightower — Website \]](https://ralphhightower.github.io/RalphHightower/), as 
+I have more information on my website: [\[ Ralph Hightower — Website \]](https://ralphhightower.github.io/RalphHightower/), as
 well as information that I want to use and that I am interested in.
 
 ### Personality Tests
