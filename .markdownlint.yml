@@ -1,0 +1,5 @@
+# MD033/no-inline-html : Inline HTML : https://github.com/DavidAnson/markdownlint/blob/v0.35.0/doc/md033.md
+# 2024-10-08 @RalphHightower – override for use in tables and footnotes
+MD033:
+  # Allowed elements
+  allowed_elements: [br]
