@@ -3,7 +3,7 @@ layout: post
 tags: [terrorism,  alQaeda]
 categories: [September 11 2001 terrorist attacks]
 ate: 2024-09-11 13:14:15
-excerpt: ''
+excerpt: 'When I saw the second plane intentionally crash into the secod tower, I thought al-Qaeda'
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
