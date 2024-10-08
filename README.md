@@ -3,9 +3,9 @@ layout: base
 ---
 # Reason for Starting a Blog
 
-I started my blog because I realized that maintaining my opinion that [Donald 
+I started my blog because I realized that maintaining my opinion that [Donald
 Trump Is a Fucking Idiot](https://ralphhightower.github.io/RalphHightower/Opinions/DonaldTrumpIsAFuckingIdiot.html) was
-going to be unwieldy to update and maintain. You may have a different opinion 
+going to be unwieldy to update and maintain. You may have a different opinion
 from mine. But the only person that can convince me that Trump is not a fucking
 idiot is Donald Trump himself. I probably won't
 change your opinion or vote. Likewise, you won't be able to change my assignment
@@ -21,7 +21,7 @@ Both candidates are polarizing!
 [^21]: Trump meets the constitutional age requirement, but that's saying little.
 [^22]: Wikipedia — [Trump derangement syndrome](https://en.wikipedia.org/wiki/Trump_derangement_syndrome?wprov=sfla1)
 
-Discussions and comments can be placed here: [RalphHightower/blog · 
+Discussions and comments can be placed here: [RalphHightower/blog ·
 Discussions · GitHub](https://github.com/RalphHightower/blog/discussions).
 
 ## Third Rate Game Show Host
@@ -32,7 +32,7 @@ president. My assessment has not wavered from 2016. America must not renew
 "The Apprentice: White House" for a second season.
 
 "The Apprentice: White House" ended a tumultuous four year season ingloriously
-in January 2020, in an extraordinary low point in American history when 
+in January 2020, in an extraordinary low point in American history when
 thousands of far-right undesirables lay siege on the US Capitol in a vain
 attempt to overthrow a fair election.
 
@@ -60,13 +60,12 @@ that you are a fraud.
 
 ### Supreme Court Justice Clarence Thomas
 
-
 I also think that [Supreme Court Justice Clarence Thomas should be
 impeached](https://ralphhightower.github.io/RalphHightower/Opinions/ImpeachSCOTUSJusticeClarenceThomas.html)
 because he is ethically financial challenged.
 
 ## Briefly About Me
-12345678911234567892123456789312345678941234567895123456789612345678971234567898
+
 I freeze time; I photograph. I have 50++ years of computer programming and
 software development; most recently using C# and .Net. Athough I am retired
 from software development as a vocation, I am still active for personal
@@ -76,7 +75,7 @@ Final Four \[CDR Chris Ferguson, PLT Doug Hurley, MS1 Sandra Magnus, MS2
 Rex Walheim\], as well as the final landing next to the control tower of
 the Shuttle Landing Facility (200 yards from the runway).
 12345678911234567892123456789312345678941234567895123456789612345678971234567898
-Photography is another creative endeavor that I have enjoyed since 1980. My 
+Photography is another creative endeavor that I have enjoyed since 1980. My
 first camera was the Canon A-1 which was an innovative camera for the 80's,
 which I still use. I added one of my bucket list cameras in July 2013, a
 Canon New F-1 with the AE Finder FN and the AE Motor Drive FN. December 2013,
