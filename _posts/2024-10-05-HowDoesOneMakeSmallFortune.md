@@ -3,7 +3,7 @@ layout: post
 tags: [Donald Trump, Elon Musk, X/Twitter, Trump Media and Technology Group]
 categories: [social media]
 date: 2024-10-05 9:15 AM
-#excerpt: ''
+excerpt: 'However, the company's future is uncertain, and a lot seems to be hinging on whether the former president gets elected this year. Is this stock too risky to own? Could it ultimately be headed to $0?'
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
@@ -12,7 +12,7 @@ title: 'Q: How Does One Make a Small Fortune? A: Start With a Large Fortune!'
  
 ## Is Another Trump Stock Nosediving into the Ground?
 
-It won't be the first time that the paper that the stock is printed on is worth more than the share price. 
+It won't be the first time that the paper that the stock certificate is printed on is worth more than the share price. 
 
 [Is Trump Media & Technology Stock Heading for $0?](https://www.fool.com/investing/2024/09/17/is-trump-media-technology-stock-heading-for-0/?)<br />By David Jagielski – Sep 17, 2024 at 9:45AM. Motley Fool
 
@@ -64,17 +64,17 @@ Reportedly, according to Trump, he is worth $4,000,000,000. So, why is he holdin
 
 Personally,  I'd be concerned that my contribution would be diverted to his campaign finances, or his legal bills.
 
-The GoFundMe page states, *"“an official response for MAGA supporters to offer their financial assistance to their fellow Americans impacted by Hurricane Helene.”
+The GoFundMe page states, *“an official response for MAGA supporters to offer their financial assistance to their fellow Americans impacted by Hurricane Helene.”
 
 The article also questions if Trump made a personal donation. Probably not. Trump owned and operated Trump Charity, but that was shuttered because it was involved in self-dealing where the beneficiary was Trump himself, and people in his circle also contributed.
 
-## <air quotes> *"Truth"* <air quotes> Social Subscribers Are Targets of "Pig-Butchering"[^41] Scams
+## \<air quotes> *"Truth"* \<air quotes> Social Subscribers Are Targets of "Pig-Butchering" Scams
 
 ['What idiots we are': Truth Social users lose hundreds of thousands of dollars to scammers](https://www.alternet.org/truth-social-scammers/).<br />Story by Carl Gibson. October 5, 2024.
 
-Some *"Truth"* Social subscribers have lost hundreds of thousands of dollars. The demographics of its subscriber base, older Americans who are retired and have a significantly larger life savings,  makes it a honeypot for scammers.
+Some *"Truth"* Social subscribers have lost hundreds of thousands of dollarsto pg-butchering[^41] scams. The demographics of its subscriber base, older Americans who are retired and have a significantly larger life savings,  makes it a honeypot for scammers.
 
-Romance Scams are taking place on *"Truth"* Social also. One person in his 7's lost $21,000. So far, he hasn't told his wife.
+Romance Scams are taking place on *"Truth"* Social also. One person in his 70's lost $21,000. So far, he hasn't told his wife.
 
 [^41]: "pig butchering." That type of scam involves a grifter winning the trust of a mark, persuading them to invest in a questionable money-making scheme and cajoling them into making even larger investments by tricking them into thinking they're making money.
 

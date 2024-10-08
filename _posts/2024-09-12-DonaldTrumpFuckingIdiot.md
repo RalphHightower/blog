@@ -3,7 +3,7 @@ layout: post
 tags: [Donald Trump]
 categories: [2024 presidential election]
 date: 2024-09-12
-excerpt: ''
+excerpt: 'I was an independent voter. But Trump turned me into a Democrat. The Republican Party is dead.'
 #image: 'BASEURL/assets/blog/img/.png'
 description: "Trump Doesn't Know What the Hell He's Doing"
 #permalink:
@@ -16,7 +16,7 @@ I initially started out putting my opinions of Trump on this page, [Opinions/Don
 
 But it has become too unwieldy to keep it updated, so I switched to the blogging format. 
 
-I was an independent voter, but watching **The Apprentice: White House** unfold in what was then known as the Republican Primary. 
+I was an independent voter, but watching **The Apprentice: White House** unfold in what was then known as the Republican Primary, there was no way in he'll that I'd vote for Trump.
 
 Both political parties fucked up in 2016.
 
