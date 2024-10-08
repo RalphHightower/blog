@@ -5,10 +5,11 @@ categories: [2024 presidential election]
 date: 2024-09-12
 excerpt: 'I was an independent voter. But Trump turned me into a Democrat. The Republican Party is dead.'
 #image: 'BASEURL/assets/blog/img/.png'
-description: "Trump Doesn't Know What the Hell He's Doing"
+#description: "Trump Doesn't Know What the Hell He's Doing"
 #permalink:
 title: 'Donald Trump is a Fucking Idiot'
 ---
+
 
 # Reason for Starting a Blog 
 
@@ -16,30 +17,30 @@ I initially started out putting my opinions of Trump on this page, [Opinions/Don
 
 But it has become too unwieldy to keep it updated, so I switched to the blogging format. 
 
-I was an independent voter, but watching **The Apprentice: White House** unfold in what was then known as the Republican Primary, there was no way in he'll that I'd vote for Trump.
+I was an independent voter, prior to Trump. I thought that it was a publicity stunt when he announced his run for president. There was no way in hell that I'd vote for Trump. I didn't think that Trump had a snowballs chance in hell of winning. But watching **The Apprentice: White House** unfold, and watching the sycophants and acolytes of the Trump Party cower in fear of Trump, I'm a Democrat straight party voter until the Trump Party dies and sanity returns returns to the Republican Party. 
 
-Both political parties fucked up in 2016.
+Both political parties fucked up in 2016!
 
 - The Democrats chose Hillary because it was *"her turn"*.
 - Whereas the Republicans chose the worst of the worst. The Republican Party died in 2016. It is now the Trump Party, and also his legal defense fund for business, personal, and also government legal problems.
 
-The Republican Party died in July 2024, when the convention chose the most temperamental, volatile, unfit, and unqualified candidate among the *"Dirty Two Dozen"*. It is now known as the Trump Party. 
+The Republican Party died in July 2016, when the convention chose the most temperamental, volatile, unfit, and unqualified candidate among the *"Dirty Two Dozen"*. It is now known as the Trump Party. 
 
 Characteristics of Trump:
 
-1. Boastful
-2. Bully
-3. Charlatan
-4. Cheater
-5. Con Artist
-6. Conceited
-7. Criminal
-8. Crybaby[^112]
-9. Deceitful
-10. Dictator
-11. Draft Dodger 
-12. Egotistical
-13. Fat
+1. Belligerent 
+2. Boastful
+3. Bully
+4. Charlatan
+5. Cheater
+6. Con Artist
+7. Conceited
+8. Criminal
+9. Crybaby[^112]
+10. Deceitful
+11. Dictator
+12. Draft Dodger 
+13. Egotistical
 14. Felon
 15. Fraud
 16. Fragile
@@ -49,24 +50,22 @@ Characteristics of Trump:
 20. Mean
 21. Megalomaniac
 22. Misogynist
-23. Narcissist 
-24. Obese
-25. Pathological Liar
-26. Petty
-27. Philandere
-28. Rotund 
-29. Sore Loser
-30. Spoiled Brat
-31. Sore Winner[^113]
-32. *"Terrible Twos"*
-33. Tax Cheat
-34. Toddler
-35. Unfit
-36. Unqualified
+23. Narcissis
+24. Pathological Liar
+25. Petty
+26. Philander
+27. Sore Loser
+28. Spoiled Brat
+29. Sore Winner[^113]
+30. Tax Cheat
+31. *"Terrible Twos"*
+32. Temperamental
+33. Toddler
+34. Unfit
+35. Unqualified
 37. Volatile
 38. Whiner
 39. Zipper Problems[^114]
-
 
 [^111]: **The Victim Card.** Trump plays the victim card when things don't go his way, or fail. *"It's not my fault. It's the Democrats fault."* Or someone else's fault.
 [^112]: Trump whining ***"It’s not fair!"***
@@ -80,6 +79,7 @@ Characteristics of Trump:
 *How?*
 
 - Tame your temper! Quit throwing **Trumper Tantrums!**
+- Quit your whining, <"It’s not fair! It’s not fair!"*
 - Quit your pathological lying and tell the God-damned truth!
 - Grow up and start treating people with respect. I.e., quit that childish behavior of calling people names.
 - Be a true leader! A true leader recognizes team members, and subordinates for their accomplishment, and accepts the blame when things fail. A true leader does not use intimidation and fear.
@@ -101,7 +101,11 @@ A true leader recognizes and praises their team for their successes and accepts 
 
 As can be seen in the [Presidential Rankings Survey - Historians Rank the Top 10 Presidents / C-SPAN Survey on Presidents 2021](https://www.c-span.org/presidentsurvey2021/?page=overall), section 17 of this page, Trump places dead last among modern day president's.
 
+
+
 Trump may have been a breath of fresh air, but nothing has changed about Trump. He's still a *bull in a china shop.* After four years, Trump still thinks that he can run America like a dictatorship.
+
+
 
 ### Nepotism and Cronyism
 
@@ -117,11 +121,10 @@ Senator Lindsey Graham (T-SC) has the attention span of a squirrel. After the at
 
 [Senator Tim Scott (T-SC) – Meet the Press. May 5, 2024](https://www.nbcnews.com/meet-the-press/video/federal-funding-is-a-privilege-not-a-right-tim-scott-tells-college-presidents-full-interview-210290757680) refused to answer a simple 'yes/no' answer to the question "Will you accept the election results if Trump loses?". As one of Trump's [acolytes](http://www.merriam-webster.com/dictionary/acolyte), Scott is Trump's "lawn jockey". He does not have the courage to stand for what's right.
 
-##### [Opinion / The Messianic Trump Cult - POLITICO](https://www.politico.com/news/magazine/2022/08/31/the-messianic-trump-cult-00054382).  08/31/2022 01:46 PM EDT
-Opinion by Jack Shafer
+##### [Opinion / The Messianic Trump Cult - POLITICO](https://www.politico.com/news/magazine/2022/08/31/the-messianic-trump-cult-00054382).
 
-####  [The One Way History Shows Trump’s Personality Cult Will End - POLITICO](https://www.politico.com/news/magazine/2022/04/16/history-shows-trump-personality-cult-end-00024941).  04/16/2022 07:00 AM EDT
-By MICHAEL KRUSE
+08/31/2022 01:46 PM EDT. Opinion by Jack Shafer
 
+####  [The One Way History Shows Trump’s Personality Cult Will End - POLITICO](https://www.politico.com/news/magazine/2022/04/16/history-shows-trump-personality-cult-end-00024941).
 
-
+04/16/2022 07:00 AM EDT. By MICHAEL KRUSE
