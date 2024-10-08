@@ -3,7 +3,7 @@ layout: post
 tags: [Donald Trump, Elon Musk, social media,  X/Twitter]
 categories: [2024 presidential election]
 date: 2024-10-08 11:45 AM
-excerpt: 'The man once seen as a real-life Tony Stark will now be known as the man who traded in his reputation and self-professed principles to bend the knee to Trump.$
+excerpt: 'The man once seen as a real-life Tony Stark will now be known as the man who traded in his reputation and self-professed principles to bend the knee to Trump.'
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
