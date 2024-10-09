@@ -81,7 +81,7 @@ Canon New F-1 with the AE Finder FN and the AE Motor Drive FN. December 2013,
 I added a DSLR, the Canon 5D Mark III with the EF 24-105mm f4L. I enjoy
 photography period. It doesn't matter if I am shooting film or digital.
 
-I have more information on my website: 
+I have more information on my website:
 [\[ Ralph Hightower — Website \]](https://ralphhightower.github.io/RalphHightower/),
 as well as information that I want to use and that I am interested in.
 
