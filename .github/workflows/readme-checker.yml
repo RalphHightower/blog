@@ -9,5 +9,5 @@ jobs:
       with:
         globs: |
           *.md
-          _posts/*.mmd
+          _posts/*.md
           !test/*.md
