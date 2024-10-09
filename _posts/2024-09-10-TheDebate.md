@@ -12,7 +12,7 @@ title: 'Prosecutorial Logic versus Toddler Gibberish'
 
 ## The Debate: Prosecutorial Logic versus Toddler Gibberish[^11]
 
-[^11]: My mother taught high school English and she instilled the proper use of English and grammar. As such, I  cannot listen to Donald Trump speak and mangle words and grammar. It is like listening to fingernails screech across a blackboard. 
+[^11]: My mother taught high school English and she instilled the proper use of English and grammar. As such, I  cannot listen to Donald Trump speak and mangle words and grammar. It is like listening to fingernails screech across a blackboard.
 
 ### [Election 2024: What we know about Harris' tactics from past debates / AP News](https://apnews.com/article/harris-debate-approach-trump-matchup-240d0978bd7d38d9757b5d314359b7d0)
 
@@ -40,7 +40,8 @@ allies warn that Trump can be a challenging and unpredictable opponent who veers
 between policy critiques, personal attacks, and falsehoods or conspiracy theories.
 
 “That little girl was me,” Harris said in a widely circulated quip that punctuated
-her story about court-ordered busing that helped non-white students attend integrated schools.
+her story about court-ordered busing that helped non-white students attend integrated
+schools.
 
 #### Landing memorable punches
 
@@ -67,8 +68,8 @@ In the 2020 primary matches, Tulsi Gabbard, who this year has endorsed Trump,
 blitzed Harris over how aggressively she prosecuted nonviolent drug offenders
 as a district attorney.
 
-That fall, Pence made Harris sometimes struggle to defend Biden’s positions. 
-Now, her task will be to defend not just Biden’s record, but her own role in that 
+That fall, Pence made Harris sometimes struggle to defend Biden’s positions.
+Now, her task will be to defend not just Biden’s record, but her own role in that
 record and what policies she would pursue as president.
 
 Short, one of Pence’s top aides, noted that Republicans and the media have raised
