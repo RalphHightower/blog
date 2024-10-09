@@ -4,12 +4,11 @@ layout: base
 # Reason for Starting a Blog
 
 I started my blog because I realized that maintaining my opinion that [Donald
-Trump Is a Fucking Idiot](https://ralphhightower.github.io/RalphHightower/Opinions/DonaldTrumpIsAFuckingIdiot.html) was
-going to be unwieldy to update and maintain. You may have a different opinion
+Trump Is a Fucking Idiot](https://ralphhightower.github.io/RalphHightower/Opinions/DonaldTrumpIsAFuckingIdiot.html)
+was going to be unwieldy to update and maintain. You may have a different opinion
 from mine. But the only person that can convince me that Trump is not a fucking
-idiot is Donald Trump himself. I probably won't
-change your opinion or vote. Likewise, you won't be able to change my assignment
-of Trump.
+idiot is Donald Trump himself. I probably won't change your opinion or vote.
+Likewise, you won't be able to change my assignment of Trump.
 
 Both political parties fucked up in 2016.
 
@@ -82,8 +81,9 @@ Canon New F-1 with the AE Finder FN and the AE Motor Drive FN. December 2013,
 I added a DSLR, the Canon 5D Mark III with the EF 24-105mm f4L. I enjoy
 photography period. It doesn't matter if I am shooting film or digital.
 
-I have more information on my website: [\[ Ralph Hightower — Website \]](https://ralphhightower.github.io/RalphHightower/), as
-well as information that I want to use and that I am interested in.
+I have more information on my website: 
+[\[ Ralph Hightower — Website \]](https://ralphhightower.github.io/RalphHightower/),
+as well as information that I want to use and that I am interested in.
 
 ### Personality Tests
 
