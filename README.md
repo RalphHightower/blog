@@ -4,12 +4,11 @@ layout: base
 # Reason for Starting a Blog
 
 I started my blog because I realized that maintaining my opinion that [Donald
-Trump Is a Fucking Idiot](https://ralphhightower.github.io/RalphHightower/Opinions/DonaldTrumpIsAFuckingIdiot.html) was
-going to be unwieldy to update and maintain. You may have a different opinion
+Trump Is a Fucking Idiot](https://ralphhightower.github.io/RalphHightower/Opinions/DonaldTrumpIsAFuckingIdiot.html)
+was going to be unwieldy to update and maintain. You may have a different opinion
 from mine. But the only person that can convince me that Trump is not a fucking
-idiot is Donald Trump himself. I probably won't
-change your opinion or vote. Likewise, you won't be able to change my assignment
-of Trump.
+idiot is Donald Trump himself. I probably won't change your opinion or vote.
+Likewise, you won't be able to change my assignment of Trump.
 
 Both political parties fucked up in 2016.
 
@@ -82,8 +81,9 @@ Canon New F-1 with the AE Finder FN and the AE Motor Drive FN. December 2013,
 I added a DSLR, the Canon 5D Mark III with the EF 24-105mm f4L. I enjoy
 photography period. It doesn't matter if I am shooting film or digital.
 
-I have more information on my website: [\[ Ralph Hightower — Website \]](https://ralphhightower.github.io/RalphHightower/), as
-well as information that I want to use and that I am interested in.
+I have more information on my website:
+[\[ Ralph Hightower — Website \]](https://ralphhightower.github.io/RalphHightower/),
+as well as information that I want to use and that I am interested in.
 
 ### Personality Tests
 
@@ -147,33 +147,3 @@ well as information that I want to use and that I am interested in.
 | [Jazz Bands](https://sc.edu/study/colleges_schools/music/ensembles/jazz_ensembles/index.php) |
 
 [^61]: WUSC-FM was an AM Radio 📻 broadcast station when I was a student.
-
-## [NOAA / NWS Space Weather Prediction Center](https://www.spaceweather.gov/homepage )
-
-## [Malfunction Junction Revamp](https://www.scdotcarolinacrossroads.com/)[^41]
-
-[^41]: [South Carolina Department of Transportation](https://www.scdot.org/) DOT prefers that this massive revamp project to minimize the wrecks and traffic jams at the junctions of I-26, I-20, and I-126 be called *"Carolina Crossroads"*.
-
-## [South Carolina Electric Cooperatives Outages Map](https://outages.ecsc.org/outages/maps)
-
-[^51]: Handy website to convert plain text for display in *Italics*, **Bold**, and ***Bold Italics***
-
-## [What's that site running? / Netcraft](https://sitereport.netcraft.com/ )[^52]
-
-[^52]: Very useful tool to get information on websites. I use this for gathering information on websites that SPAM me. <br />• **GoDaddy has a strict policy that prohibits domain names registered with them from sending SPAM.** **[Report domains registered with GoDaddy](https://supportcenter.godaddy.com/AbuseReport/Index?ci=22420)**. <br />• **Shopify also has a strict policy prohibiting by websites that they host.** **[Report an Issue with a Merchant hosted by Shopify.](https://www.shopify.com/legal/report-aup-violation)**
-
-## [Phone Number Parser Demo for LibPhoneNumber](https://libphonenumber.appspot.com/ )[^53]
-
-[^53]: [google/libphonenumber: Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers.](https://github.com/google/libphonenumber )
-
-## [The trusted source for IP address data, leading IP data provider - IPinfo.io](https://ipinfo.io/ )[^54]
-
-[^54]: Geolocate IP Addresses and ownership.
-
-## [URL Expander — Unshorten Any Short URL To A Long URL](https://urlex.org/ )[^56]
-
-[^55]: Get the expanded URL of any shortened URL without clicking on the link.
-
-## [GitHub Status](https://www.githubstatus.com/ )[^55]
-
-[^56]: Status Check of [GitHub](hps://www.github.com/)
