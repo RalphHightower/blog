@@ -11,8 +11,8 @@ title: 'National debt could increase under Harris, but it would surge under Trum
 ---
 
 [National debt could increase under Harris, but it would surge under Trump: new report / AP News](https://apnews.com/article/budget-deficit-trump-harris-kamala-debt-1ee3ff65e22ccf19d19b792ee22c46da)
-By  JOSH BOAK
-Updated 11:02 AM EDT, October 7, 2024
+
+By  JOSH BOAK. Updated 11:02 AM EDT, October 7, 2024
 
 - **Higher Deficits**: Both Kamala Harris' and Donald Trump's economic plans are projected to significantly increase the national debt over the next decade.
 - **Harris' Plan**: Could add $3.5 trillion to the debt, despite claims of fiscal responsibility and higher taxes on corporations and the wealthy.
