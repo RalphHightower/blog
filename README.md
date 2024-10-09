@@ -147,33 +147,3 @@ as well as information that I want to use and that I am interested in.
 | [Jazz Bands](https://sc.edu/study/colleges_schools/music/ensembles/jazz_ensembles/index.php) |
 
 [^61]: WUSC-FM was an AM Radio 📻 broadcast station when I was a student.
-
-## [NOAA / NWS Space Weather Prediction Center](https://www.spaceweather.gov/homepage )
-
-## [Malfunction Junction Revamp](https://www.scdotcarolinacrossroads.com/)[^41]
-
-[^41]: [South Carolina Department of Transportation](https://www.scdot.org/) DOT prefers that this massive revamp project to minimize the wrecks and traffic jams at the junctions of I-26, I-20, and I-126 be called *"Carolina Crossroads"*.
-
-## [South Carolina Electric Cooperatives Outages Map](https://outages.ecsc.org/outages/maps)
-
-[^51]: Handy website to convert plain text for display in *Italics*, **Bold**, and ***Bold Italics***
-
-## [What's that site running? / Netcraft](https://sitereport.netcraft.com/ )[^52]
-
-[^52]: Very useful tool to get information on websites. I use this for gathering information on websites that SPAM me. <br />• **GoDaddy has a strict policy that prohibits domain names registered with them from sending SPAM.** **[Report domains registered with GoDaddy](https://supportcenter.godaddy.com/AbuseReport/Index?ci=22420)**. <br />• **Shopify also has a strict policy prohibiting by websites that they host.** **[Report an Issue with a Merchant hosted by Shopify.](https://www.shopify.com/legal/report-aup-violation)**
-
-## [Phone Number Parser Demo for LibPhoneNumber](https://libphonenumber.appspot.com/ )[^53]
-
-[^53]: [google/libphonenumber: Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers.](https://github.com/google/libphonenumber )
-
-## [The trusted source for IP address data, leading IP data provider - IPinfo.io](https://ipinfo.io/ )[^54]
-
-[^54]: Geolocate IP Addresses and ownership.
-
-## [URL Expander — Unshorten Any Short URL To A Long URL](https://urlex.org/ )[^56]
-
-[^55]: Get the expanded URL of any shortened URL without clicking on the link.
-
-## [GitHub Status](https://www.githubstatus.com/ )[^55]
-
-[^56]: Status Check of [GitHub](hps://www.github.com/)
