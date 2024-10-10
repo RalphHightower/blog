@@ -3,7 +3,7 @@ layout: post
 tags: [JD Vance, Tim Walz, vice president, debate]
 categories: [2024 presidential election]
 date: 2024-10-09 05:45 PM
-excerpt: ''hat is a damning non-answer.'
+excerpt: 'That is a damning non-answer.'
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
