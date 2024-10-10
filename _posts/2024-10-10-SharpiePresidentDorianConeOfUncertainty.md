@@ -4,7 +4,7 @@ tags: [National Hurricane Center - NOAA, 2019 Hurricane Dorian Cone of Uncertain
 categories: [2024 presidential election]
 date: 2024-10-10 10:19 AM
 excerpt: 'In addition to Florida - South Carolina, North Carolina, Georgia, and Alabama, will most likely be hit (much) harder than anticipated. Looking like one of the largest hurricanes ever. Already category 5. BE CAREFUL! GOD BLESS EVERYONE!'
-image: 'https://ralphhightower.github.io/blog/assets/img/SharpiePrezDorianConeUncertainty.jpeg'
+image: 'https://ralphhightower.github.io/blog/blog/assets/img/SharpiePrezDorianConeUncertainty.jpeg'
 #'BASEURL/assets/blog/img/.png'
 description: '#SharpiePresident Trump Showing an Altered Cone of Uncertainty  of Hurricane Dorian'
 #permalink:
