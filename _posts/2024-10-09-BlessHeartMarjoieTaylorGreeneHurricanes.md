@@ -15,6 +15,8 @@ title: 'Bless Her Heart. Marjorie Taylor Greene Says "They" Can Control the Weat
 
 Story by Katie Hawkinson. October 9, 2024.
 
+MTG: "Yes they can control the weather. It’s ridiculous for anyone to lie and say it can’t be done. Well some of them are listed on NOAA, as well as most of the ways weather can be modified...If your home or business or property is damaged or a loved one is killed by their weather modifications shouldn’t you be eligible for compensation? This is a map of hurricane affected areas with an overlay of electoral map by political party shows how hurricane devastation could affect the election.
+
 - **Weather Control Claims**: Marjorie Taylor Greene reiterated her debunked claim that the government can control the weather, citing cloud seeding as evidence.
 - **Debunking**: Experts and agencies, including NOAA and FEMA, have debunked these claims, stating that current technology cannot create or modify hurricanes.
 - **Conspiracy Theories**: Various conspiracy theories have emerged, including claims that hurricanes are geoengineered for political or economic reasons.
