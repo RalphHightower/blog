@@ -25,6 +25,8 @@ and voters to realize that Trump is not interested in you. Trump is just interes
 - **Public Reaction**: The incident sparked widespread discussion and mockery on social media, with "Sharpiegate" trending on Twitter.
 
 
+![SharpiePresident Trump Showing an Altered Cone of Uncertainty  of Hurricane Dorian](../img/SharpiePrezDorianConeUncertainty.jpeg)
+
 Doubling down later, Trump continued "It may get a little piece of a great place — it’s called
 Alabama. And Alabama could even be in for at least some very strong winds and something
 more than that, it could be. This just came up, unfortunately."
