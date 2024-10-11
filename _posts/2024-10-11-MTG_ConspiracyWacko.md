@@ -1,9 +1,9 @@
 ---
 layout: post
-tags: [conspiracy theories,  hurricanes,  US House of Representatives]
+tags: [MTG, conspiracy theories,  hurricanes,  US House of Representatives]
 categories: [Marjorie Taylor Greene]
 date: 2024-10-11 10:21 AM
-excerpt: 'I think enough has already been said. I ignore her.'
+excerpt: 'I think enough has already been said. I ignore her.
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
@@ -12,6 +12,7 @@ title: 'Bless Her Heart Part 2: Marjorie Taylor Greene – Her Colleagues Opinio
 
 
 | ["Loony tunes": House GOP infighting erupts over Marjorie Taylor Greene's hurricane comments](https://www.axios.com/2024/10/10/mtg-hurricane-milton-helene-house-republicans?)
+
 Story by Andrew Solender. October 10, 2024.
 
 - **Internal Conflict**: House Republicans are clashing, particularly over Rep. Marjorie Taylor Greene's claims that humans can control the weather.
