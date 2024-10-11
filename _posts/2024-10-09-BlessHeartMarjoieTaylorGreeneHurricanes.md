@@ -1,13 +1,13 @@
 ---
 layout: post
-tags: [Marjorie Taylor Greene,  weather contr, hurricanes]
-categories: [conspiracy theories]
+tags: [conspiracy theories,  hurricanes,  US House of Representatives]
+categories: [Marjorie Taylor Greene]
 date: 2024-10-09 04:15 PM
 excerpt: 'Yes they can control the weather. It’s ridiculous for anyone to lie and say it can’t be done. Well some of them are listed on NOAA, as well as most of the ways weather can be modified...If your home or business or property is damaged or a loved one is killed by their weather modifications shouldn’t you be eligible for compensation? This is a map of hurricane affected areas with an overlay of electoral map by political party shows how hurricane devastation could affect the election.'
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: 'Bless Her Heart. Marjorie Taylor Greene Says "They" Can Control the Weather '
+title: 'Bless Her Heart – Part 1: Marjorie Taylor Greene Says "They" Can Control the Weather '
 ---
 
 
