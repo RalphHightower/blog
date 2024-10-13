@@ -8,7 +8,7 @@ image: 'https://ralphhightower.github.io/blog/img/SharpiePrezDorianConeUncertain
 #'BASEURL/assets/blog/img/.png'
 description: '#SharpiePresident Trump Showing an Altered Cone of Uncertainty  of Hurricane Dorian'
 #permalink:
-title: '#SharpiePresident Trump Shows a Cone of Uncertainty of Hurricane Dorian (2019) That He Altered to Include Alabama'
+title: '#SharpiePresident Trump Shows a Cone of Uncertainty of Hurricane Dorian (2018) That He Altered to Include Alabama'
 ---
 
 ## [An Oval Office mystery: Who doctored the hurricane map? - POLITICO](https://www.politico.com/story/2019/09/04/donald-trump-sharpie-hurricane-map-1481733)

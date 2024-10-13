@@ -11,10 +11,8 @@ title: 'Harris Plans to Call Trump a Spoiled Brat/Sore Loser During Alabama/Geor
 ---
 
 ## [Harris plans to troll Trump over second debate during Alabama football game / CNN Politics](https://www.cnn.com/2024/09/28/politics/harris-trump-alabama-football-game/index.html)
-
-By Kaitlan Collins, CNN
+<br />By Kaitlan Collins, CNN
 Published 12:00 PM EDT, Sat September 28, 2024.
-
 When former President Donald Trump looks up from his seat in Bryant-Denny Stadium Saturday night during the Alabama-Georgia football game, he may see more than just 100,000 fans watching a high-stakes college football showdown. That’s because Vice President Kamala Harris plans to troll her opponent over his refusal to debate her for a second time — from the skies.
 
 The Harris campaign has arranged to have a small plane fly over Tuscaloosa during the game with a banner declaring, “Trump’s Punting on 2nd Debate.”

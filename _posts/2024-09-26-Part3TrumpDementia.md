@@ -7,7 +7,7 @@ excerpt: "The problem is twofold. One, they’re not telling us that’s what th
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: "Bless His Heart – Part 3 Dementia: – Bless His Heart: Mary Trump Slams Media's 'Dangerous' Interpretations Of Her Uncle's 'Gibberish'"
+title: "Part 3 – Bless His Heart: Mary Trump Slams Media's 'Dangerous' Interpretations Of Her Uncle's 'Gibberish'"
 ---
 
 

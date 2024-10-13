@@ -1,8 +1,8 @@
 ---
 layout: post
-tags: [Donald Trump,  Elon Musk,  oligarch]
+tags: [Donald Trump, Elon Musk,0  oligarch]
 categories: [2024 presidential election]
-date: 2024-09-13 13:14:15
+date: 2024-09-13 5:10 PM
 excerpt: "Musk is the latest example of a totally gearheaded, engineering-brained, Silicon Valley guy who looks at government and says ‘How hard can it be? Let me at it and I can solve it for you.' There’s been many of these characters before, and he’s just the latest."
 #image: 'BASEURL/assets/blog/img/.png'
 description: 'Donald Trump could turn Elon Musk into an American oligarch'
@@ -67,11 +67,11 @@ Patrick Blumenthal, founder of the Anomaly venture capital fund, suggested that 
 
 ## Trump’s Admiration of Dictators
 
-Trump admires strong-arm dictators, Vladimir Putin of Russia, Kim Jong Un of North Korea, and Victor Orbán of Turkey. 
+Trump admires strong-arm dictators, Vladimir Putin of Russia, Kim Jong Un of North Korea, and Victor Orbán of Turkey.
 
-## Government Ain't Business 
+## Government Ain't Business
 
-The first season of The Apprentice: White House demonstrated that people without any clue as to how the American government works, has no business running a country. 
+The first season of The Apprentice: White House demonstrated that people without any clue as to how the American government works, has no business running a country.
 
 
 ## Trump's Transactional Nature

@@ -9,10 +9,10 @@ excerpt: "However, the company's future is uncertain, and a lot seems to be hing
 #permalink:
 title: 'Q: How Does One Make a Small Fortune? A: Start With a Large Fortune!'
 ---
- 
+
 ## Is Another Trump Stock Nosediving into the Ground?
 
-It won't be the first time that the paper that the stock certificate is printed on is worth more than the share price. 
+It won't be the first time that the paper that the stock certificate is printed on is worth more than the share price.
 
 [Is Trump Media & Technology Stock Heading for $0?](https://www.fool.com/investing/2024/09/17/is-trump-media-technology-stock-heading-for-0/?)<br />By David Jagielski – Sep 17, 2024 at 9:45AM. Motley Fool
 
@@ -47,7 +47,7 @@ Personally, I terminated myX/Twitter account on April 27, 2023 when Musk revoked
 - gold watches
 - [$99 NFT 'digital trading cards' showing Trump dancing, wearing superhero suit](https://www.usatoday.com/story/news/politics/elections/2024/08/27/donald-trump-nft-digital-trading-cards/74969573007/)
 - pieces of the suit that he wore at the debate
-- "Melania" – Melania Trump's fictional autobiography 
+- "Melania" – Melania Trump's fictional autobiography
 
 [As Trump hawks expensive watches, corruption concerns linger](https://www.msnbc.com/rachel-maddow-show/maddowblog/trump-hawks-expensive-watches-corruption-concerns-linger-rcna173260).<br /> Story by Steve Benen. September 30, 2024.
 
