@@ -11,7 +11,8 @@ title: 'Prosecutorial Logic versus Toddler Gibberish'
 ---
 
 ## [Election 2024: What we know about Harris' tactics from past debates / AP News](https://apnews.com/article/harris-debate-approach-trump-matchup-240d0978bd7d38d9757b5d314359b7d0)
-<br />Updated 11:48 AM EDT, September 9, 2024<br />By  BILL BARROW
+
+Updated 11:48 AM EDT, September 9, 2024<br />By  BILL BARROW
 
 ATLANTA (AP) — From her earliest campaigns in California to her serving as President Joe Biden’s running mate, Kamala Harris has honed an aggressive but calibrated approach to debates.
 
