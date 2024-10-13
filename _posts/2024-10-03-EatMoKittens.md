@@ -10,7 +10,7 @@ excerpt: "I’ve seen people on television. The people on television say, ‘My 
 title: "Eat Mor' Kittens"
 ---
 
-# [How J.D. Vance and the Online Right Sabotaged Trump’s Debate](https://nymag.com/intelligencer/article/trump-debate-eating-pets-j-d-vance-cats-dogs-springfield.html)
+## [How J.D. Vance and the Online Right Sabotaged Trump’s Debate](https://nymag.com/intelligencer/article/trump-debate-eating-pets-j-d-vance-cats-dogs-springfield.html)
 
 By Jonathan Chait, who’s been a New York political columnist since 2011. NY Magazine. Sept. 11, 2024
 

@@ -9,10 +9,12 @@ excerpt: 'We had a woman debating. She just talked about, like, the birds and th
 #permalink:
 title: 'WTF is Trump Gibbering About?'
 ---
-# [Trump Speech Takes Seriously Bonkers Turn With ‘Birds And Bees’ Twist / HuffPost Latest News](https://www.huffpost.com/entry/donald-trump-kamala-harris-debate-comment-mocked_n_66f4f937e4b064e1788b5b02)
+
+## [Trump Speech Takes Seriously Bonkers Turn With ‘Birds And Bees’ Twist / HuffPost Latest News](https://www.huffpost.com/entry/donald-trump-kamala-harris-debate-comment-mocked_n_66f4f937e4b064e1788b5b02)
+
 By Lee Moran, Huffington Post. Sep 26, 2024, 02:55 AM EDT.
 
-## Huffington Post Article 
+### Huffington Post Article 
 
 Trump Speech Takes Seriously Bonkers Turn With ‘Birds And Bees’ Twist
 The former president's latest weird attack on Kamala Harris had critics buzzing.

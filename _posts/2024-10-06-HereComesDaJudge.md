@@ -1,27 +1,36 @@
 ---
 layout: post
-tags: [Donald Trump]
-categories: [Overthrow 2020 election,  federal crimes]
+tags: [Donald Trump, Overthrow 2020 election, federal crimes]
+categories: [January 6 2021 Insurrection]
 date: 2024-10-06 4:30 PM 
 excerpt: 'the defendant must stand trial for his private crimes as would any other citizen.'
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: 'Here Comes Da Judge'
+title: 'Part 1 – Here Comes Da Judge'
 ---
 
 
-I live in a county, [Lexington County](https://lex-co.sc.gov/), that is so red the the Republican primary is the general election for county officials. 
+I live in a county, [Lexington County](https://lex-co.sc.gov/), that is so red that the 
+Republican primary is the general election for county officials. 
 
-From April to mid-May 2021,  I was hospitalized at [Lexington Medical Center](https://www..lexmedlcom/). Even then, four months after he was evicted from the [White House](https://www.whitehouse.gov/), Trump was still whining, *"I won! I won!"* Each morning during the daily cognitive test, "What year is it?", "Do you know where you are?", etc., that I'd have a little fun with the nurses.
+From April to mid-May 2021,  I was hospitalized at [Lexington Medical Center](https://www..lexmedlcom/). 
+Even then, four months after he was evicted from the [White House](https://www.whitehouse.gov/), 
+Trump was still whining, *"I won! I won!"* Each morning during the daily cognitive 
+test, "What year is it?", "Do you know where you are?", etc., that I'd have a little fun 
+with the nurses.
+
 I would also add one of the following statements:
+
 1. "Biden is still president." 
 2. "Trump is no longer president.$ 
 
-Consider this, if a Democrat had acted the same as Trump, the "Republicans" would be jumping up and down demanding justice. 
+Consider this, if a Democrat had acted the same as Trump, the "Republicans" would be
+jumping up and down, screaming for justice. 
 
 
 ## [Calmes: Jack Smith's filing shows that Trump is already starring in a Jan. 6 sequel](https://www.latimes.com/opinion/story/2024-10-06/jack-smith-donald-trump-tanya-chutkan-jan-6-insurrection)
+
 Opinion by Jackie Calmes. October 6, 2024.
 
 - **Trump’s 2020 Election Actions:** The article details Trump’s efforts to overturn the 2020 election results, including false claims of fraud and refusal to accept the outcome.
@@ -34,8 +43,6 @@ Trump has demonstrated time and time again, over and over, that Donald Trump has
 Yes, there are voters who will vote for Trump no matter what just because he is their party's nominee. Ignore those comments that she's a communist, or a socialists; that's just Trump who never graduated from elementary school of childish behavior using taunts, and name calling. 
 
 But I urge y'all to vote for Harris/Walz, I'll use a phrase that Trump uses, "Vote for Kamala, or you won't have a country anymore."
-
-## 
 
 I've done my best to replicate the front page of the document filed in the UNITED STATES DISTRICT COURT, DISTRICT OF COLUMBIA of the case, UNITED STATES OF AMERICA v. DONALD J TRUMP.
 
@@ -85,16 +92,19 @@ framework created by Trump for resolving immunity claims; applies that framework
 that none of the defendant's charged conduct is immunized because it either was unofficial or any<br />
 presumptive immunity is rebutted; and requests the relief the Government seeks, which is, at <br />
 bottom, this: that the Court determine that the defendant must stand trial for his private crimes as<br />
-would any other citizen.<br />
+would any other citizen.
+
 <hr />
 
 ## [Read Jack Smith's Trump presidential immunity redacted motion](https://www.msnbc.com/top-stories/latest/trump-presidential-immunity-jack-smith-redacted-motion-document-pdf-rcna173714)
+
 *Judge Tanya Chutkan unsealed the 165-page motion in the federal election interference case on Wednesday.*
 Oct. 2, 2024, 4:16 PM EDT / Updated Oct. 2, 2024, 4:38 PM EDT
 
 This page has the court filing of the government’s case against Donald Trump.
 
 ## [Judge Chutkan Hands Jack Smith a Win in Case Against Donald Trump](https://www.newsweek.com/judge-chutkan-hands-jack-smith-win-case-against-donald-trump-1958815)
+
 Story by Kaitlin Lewis. September 24, 2024.
 
 Trump's defense team argued in a motion on Monday that the "fundamentally unfair" request from Smith should be shot down.
@@ -113,10 +123,12 @@ Story by Sean O'Driscoll. September 26, 2024.
 
 In her order, Judge Chutkan wrote: "The rest of the nine-page opposition rehashes Defendant's position that immunity briefing should not begin until he files a motion to dismiss several months from now. The court has already addressed the scheduling objections Defendant raised when he was given an opportunity to do so."
 
-## [Judge Tanya Chutkan gives Trump deadline to object to unsealing Jan. 6 evidence](https://www.nydailynews.com/2024/09/27/judge-tanya-chutkan-trump-deadline-object-unsealing-jan-6-evidence/).
+## [Judge Tanya Chutkan gives Trump deadline to object to unsealing Jan. 6 evidence](https://www.nydailynews.com/2024/09/27/judge-tanya-chutkan-trump-deadline-object-unsealing-jan-6-evidence/)
+
 Story by Dave Goldiner, New York Daily News. September 27, 2024.
 
 ## [Judge unseals Jack Smith’s evidence dump against Trump weeks out from election: ‘Make them riot’](https://nypost.com/2024/10/02/us-news/trump-resorted-to-crimes-after-losing-2020-election-in-failed-bid-to-cling-to-power-feds/)
+
 Story by Caitlin Doornbos, Ryan King. October 2, 2024.
 
 Trump cries, **‘I DID NOTHING WRONG, THEY DID!’[^61]** as judge unseals Jack Smith’s evidence dump against ex-prez weeks out from election.

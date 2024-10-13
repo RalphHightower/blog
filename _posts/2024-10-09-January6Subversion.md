@@ -10,7 +10,7 @@ excerpt: 'That is a damning non-answer.'
 title: 'Trump and January 6 Subversion Took Center Stage at VP Debate'
 ---
 
-[Jan. 6 and Trump’s subversion took center stage. Will that sway voters? - The Washington Post](https://www.washingtonpost.com/elections/2024/10/06/jan-6-trump-election/)
+## [Jan. 6 and Trump’s subversion took center stage. Will that sway voters? - The Washington Post](https://www.washingtonpost.com/elections/2024/10/06/jan-6-trump-election/)
 
 Analysis by Dan Balz. October 6, 2024 at 5:00 a.m. EDT
 
