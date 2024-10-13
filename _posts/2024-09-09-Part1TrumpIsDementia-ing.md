@@ -3,7 +3,7 @@ layout: post
 tags: [Donald Trump,  dementia, cognitive decline]
 categories: [2024 presidential election]
 date: 2024-09-09 04:30 PM
-excerpt: 'The warning lights aren’t flashing because nobody covering him expects otherwise. Surely a political press corps that spent months arguing that President Biden’s age rendered him mentally unfit, wouldn’t look the other way when the Republican candidate, the oldest person to run for president in American history, is not only old but decompensating before our very eyes. The difference of course is that Biden is aging while Donald is dementing. – Mary Trump, niece of Trump'
+excerpt: 'The warning lights aren’t flashing because nobody covering him expects otherwise. Surely a political press corps that spent months arguing that President Biden’s age rendered him mentally unfit, wouldn’t look the other way when the Republican candidate, the oldest person to run for president in American history, is not only old but decompensating before our very eyes. The difference of course is that Biden is aging while Donald is dementing. – Mary Trump, psychologist, and niece of Trump
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
