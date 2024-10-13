@@ -30,7 +30,7 @@ rescue and recovery teams on the ground.
 - **Historical Pattern**: The incident reflects Trump's long-standing approach of never backing down from false statements, a tactic he has used in both his business and political careers.
 - **Distraction Concerns**: Meteorologists and officials expressed concern that the controversy distracted from the serious threat posed by Hurricane Dorian to the Carolinas.
 
-![SharpiePresident Trump Showing an Altered Cone of Uncertainty  of Hurricane Dorian](../img/SharpiePrezDorianConeUncertainty.jpeg)
+![SharpiePresident Trump Showing an Altered Cone of Uncertainty  of Hurricane Dorian](https://ralphhightower.github.io/blog/img/SharpiePrezDorianConeUncertainty.jpeg)
 
 “There are a lot of statements he makes to protect his base, but this is not him
 protecting his base. His base does not care about the hurricane,” said Barbara Res,
