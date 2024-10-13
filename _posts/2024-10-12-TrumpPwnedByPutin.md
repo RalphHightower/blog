@@ -11,7 +11,7 @@ title: 'Trump Pwned By Putin'
 ---
 
 
-[Trump's close relationship with Putin could come back to haunt the US](https://www.businessinsider.com/trump-relationship-putin-back-to-us-woodward-book-ukraine-russia-2024-10)
+## [Trump's close relationship with Putin could come back to haunt the US](https://www.businessinsider.com/trump-relationship-putin-back-to-us-woodward-book-ukraine-russia-2024-10)
 
 Analysis by Tom Porter and Hannah Abraham Oct 9, 2024, 12:06 AM EDT
 
