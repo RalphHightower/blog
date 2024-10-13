@@ -36,6 +36,7 @@ as if he were tossing out MAGA hats at a campaign rally?
 
 ![Trump Tossing Paper Towel Rolls Into Puerto Rican Crowd After Hurricane Dorian As If He Were Tossing MAGA Baseball Caps At a Campaign Rally](https://ralphhightower.github.io/blog/img/241010-donald-trump-paper-towels-al-1022-242643.jpg)
 
+
 The Trump administration would later stall $20 billion in hurricane relief for Puerto
 Rico, relief that Congress approved. In a closed-door meeting with Republicans,
 Trump also said federal funding was “way out of proportion to what Texas and
