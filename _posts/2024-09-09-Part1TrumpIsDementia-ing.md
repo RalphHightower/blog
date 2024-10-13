@@ -7,7 +7,7 @@ excerpt: 'The warning lights aren’t flashing because nobody covering him expec
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: 'Trump Is Dementia-ing'
+title: 'Bless His Heart – Part 1 Dementia: Trump Is Dementia-ing'
 ---
 
 
