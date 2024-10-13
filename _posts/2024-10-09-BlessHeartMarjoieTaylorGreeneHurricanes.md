@@ -11,7 +11,7 @@ title: 'Bless Her Heart – Part 1: Marjorie Taylor Greene Says "They" Can Contr
 ---
 
 
-[MTG doubles down on weather modification conspiracy theory despite experts rubbishing ‘hurricane control’](https://www.independent.co.uk/news/world/americas/us-politics/marjorie-taylor-greene-weather-control-hurricane-b2626699.html)
+## [MTG doubles down on weather modification conspiracy theory despite experts rubbishing ‘hurricane control’](https://www.independent.co.uk/news/world/americas/us-politics/marjorie-taylor-greene-weather-control-hurricane-b2626699.html)
 
 Story by Katie Hawkinson. October 9, 2024.
 

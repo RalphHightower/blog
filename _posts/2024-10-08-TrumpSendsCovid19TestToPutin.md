@@ -10,7 +10,7 @@ excerpt: 'Trump was the most reckless and impulsive president in American histor
 title: 'Trump Sent Covid-19 Tests During 2020 Shortage to Putin'
 ---
 
-[Bob Woodward’s new book ‘War’ reports Trump gave Putin covid tests in 2020 - The Washington Post](https://www.washingtonpost.com/politics/2024/10/08/bob-woodward-new-book-war-trump-putin-biden/)
+## [Bob Woodward’s new book ‘War’ reports Trump gave Putin covid tests in 2020 - The Washington Post](https://www.washingtonpost.com/politics/2024/10/08/bob-woodward-new-book-war-trump-putin-biden/)
 
 By Isaac Stanley-Becker. October 8, 2024 at 8:56 a.m. EDT
 

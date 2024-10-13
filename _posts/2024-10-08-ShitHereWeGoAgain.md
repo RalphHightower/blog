@@ -7,11 +7,11 @@ excerpt: 'I, AB, do solemnly swear (or affirm) that I will support and defend th
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: 'Shit! Here We Go Again. The Trump Party Wants to Overturn States Election Results'
+title: ''Shit! Here We Go Again. The Trump Party Wants to Overturn States Election Results'
 ---
 
 
-[Pro-Trump Republicans gearing up for fresh effort to undermine 2024 presidential election](https://www.nydailynews.com/2024/10/06/pro-trump-republicans-gearing-up-for-fresh-effort-to-undermine-2024-presidential-election/)
+## [Pro-Trump Republicans gearing up for fresh effort to undermine 2024 presidential election](https://www.nydailynews.com/2024/10/06/pro-trump-republicans-gearing-up-for-fresh-effort-to-undermine-2024-presidential-election/)
 
 Story by Dave Goldiner, New York Daily News. October 6, 2024.
 

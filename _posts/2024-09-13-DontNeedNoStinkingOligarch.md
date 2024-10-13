@@ -10,7 +10,7 @@ description: 'Donald Trump could turn Elon Musk into an American oligarch'
 title: "America Don't Need No Skinking Oligarch"
 ---
 
-# [Donald Trump Could Turn Elon Musk into an American Oligarch](https://www.politico.com/news/2024/09/07/trump-elon-musk-government-position-00177845)
+## [Donald Trump Could Turn Elon Musk into an American Oligarch](https://www.politico.com/news/2024/09/07/trump-elon-musk-government-position-00177845)
 
 Story by Liz Crampton, Lara Korte, Derek Robertson and Brendan Bordelon. Politico.
 September 8, 2024

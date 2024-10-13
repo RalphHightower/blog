@@ -11,7 +11,7 @@ title: 'Hillbilly Elegy'
 ---
 
 
-[In the heart of Appalachia, a distant cousin of JD Vance leads an opposing 'authentic hillbilly' movement](https://www.latimes.com/politics/story/2024-10-07/in-the-heart-of-appalachia-a-distant-cousin-of-jd-vance-leads-an-opposing-authentic-hillbilly-movement)
+## [In the heart of Appalachia, a distant cousin of JD Vance leads an opposing 'authentic hillbilly' movement](https://www.latimes.com/politics/story/2024-10-07/in-the-heart-of-appalachia-a-distant-cousin-of-jd-vance-leads-an-opposing-authentic-hillbilly-movement)
 
 Story by Mackenzie Mays. October 7, 2024.
 

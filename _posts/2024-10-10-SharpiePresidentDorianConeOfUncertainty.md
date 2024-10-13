@@ -11,7 +11,7 @@ description: '#SharpiePresident Trump Showing an Altered Cone of Uncertainty  of
 title: '#SharpiePresident Trump Shows a Cone of Uncertainty of Hurricane Dorian (2018) That He Altered to Include Alabama'
 ---
 
-[An Oval Office mystery: Who doctored the hurricane map? - POLITICO](https://www.politico.com/story/2019/09/04/donald-trump-sharpie-hurricane-map-1481733)
+## [An Oval Office mystery: Who doctored the hurricane map? - POLITICO](https://www.politico.com/story/2019/09/04/donald-trump-sharpie-hurricane-map-1481733)
 
 By CAITLIN OPRYSKO. 09/04/2019 06:26 PM EDT
 
@@ -25,7 +25,7 @@ and voters to realize that Trump is not interested in you. Trump is just interes
 - **Public Reaction**: The incident sparked widespread discussion and mockery on social media, with "Sharpiegate" trending on Twitter.
 
 
-![SharpiePresident Trump Showing an Altered Cone of Uncertainty  of Hurricane Dorian](https://ralphhightower.github.io/blog/img/SharpiePrezDorianConeUncertainty.jpeg)
+![SharpiePresident Trump Showing an Altered Cone of Uncertainty  of Hurricane Dorian](../img/SharpiePrezDorianConeUncertainty.jpeg)
 
 Doubling down later, Trump continued "It may get a little piece of a great place — it’s called
 Alabama. And Alabama could even be in for at least some very strong winds and something

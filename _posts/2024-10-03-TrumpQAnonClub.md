@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [Donald Trump,  QAnon]
+tags: [Donald Trump, QAnon]
 categories: [2024 presidential election]
 date: 2024-08-29 02:55 PM
 excerpt: 'WWG1WGA – Where we go one, we go all.'
@@ -9,9 +9,13 @@ excerpt: 'WWG1WGA – Where we go one, we go all.'
 #permalink:
 title: 'Q-Anon Fan Club Member Trump Wants to Jail Those He Views as PoliticalEnemies'
 ---
-[Trump shares social media posts with QAnon phrases and calls for jailing lawmakers, special counsel / AP News](https://apnews.com/article/trump-social-media-conspiracy-e3bbd855a2710d6b4bb4f480dd77e190)
+
+
+## [Trump shares social media posts with QAnon phrases and calls for jailing lawmakers, special counsel / AP News](https://apnews.com/article/trump-social-media-conspiracy-e3bbd855a2710d6b4bb4f480dd77e190)
+
 By MICHELLE L. PRICE
 Updated 2:06 PM EDT, August 28, 2024
+
 NEW YORK (AP) — Donald Trump shared more than a dozen posts on his social media network Wednesday that call for the trial or jailing of House lawmakers who investigated the attack on the U.S. Capitol, special counsel Jack Smith and others, along with images that reference the QAnon conspiracy theory.
 
 The former president began posting a string of messages Tuesday evening after Smith filed a new indictment against him over his efforts to undo his loss in the 2020 presidential election. The new indictment keeps the same criminal charges but narrows the allegations against Trump following a Supreme Court opinion last month that extended broad immunity to former presidents.

@@ -11,7 +11,7 @@ title: 'Donald Trump is a Fucking Idiot'
 ---
 
 
-# Reason for Starting a Blog 
+## Reason for Starting a Blog 
 
 I initially started out putting my opinions of Trump on this page, [Opinions/Donald Trump Is a Fucking Idiot / Ralph Hightower](https://ralphhightower.github.io/RalphHightower/Opinions/DonaldTrumpIsAFuckingIdiot.html).
 
@@ -121,10 +121,4 @@ Senator Lindsey Graham (T-SC) has the attention span of a squirrel. After the at
 
 [Senator Tim Scott (T-SC) – Meet the Press. May 5, 2024](https://www.nbcnews.com/meet-the-press/video/federal-funding-is-a-privilege-not-a-right-tim-scott-tells-college-presidents-full-interview-210290757680) refused to answer a simple 'yes/no' answer to the question "Will you accept the election results if Trump loses?". As one of Trump's [acolytes](http://www.merriam-webster.com/dictionary/acolyte), Scott is Trump's "lawn jockey". He does not have the courage to stand for what's right.
 
-##### [Opinion / The Messianic Trump Cult - POLITICO](https://www.politico.com/news/magazine/2022/08/31/the-messianic-trump-cult-00054382).
 
-08/31/2022 01:46 PM EDT. Opinion by Jack Shafer
-
-####  [The One Way History Shows Trump’s Personality Cult Will End - POLITICO](https://www.politico.com/news/magazine/2022/04/16/history-shows-trump-personality-cult-end-00024941).
-
-04/16/2022 07:00 AM EDT. By MICHAEL KRUSE
