@@ -15,7 +15,7 @@ author:
 description: > # This means to ignore newlines until "show_excerpts:"
   Cancel the rerun of "The Apprentice: White House".
 repository: 'RalphHightower/blog'
-url: 'https://ralphhightower.github.io/blog/'
+url: 'https://ralphhightower.github.io/'
 timezone: 'America/New_York'
 
 # Build settings
