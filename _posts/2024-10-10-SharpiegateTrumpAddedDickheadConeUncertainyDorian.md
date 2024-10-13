@@ -3,7 +3,7 @@ layout: post
 tags: [major hurricanes, falsehoods,  misinformation,  2019 Hurricane Dorian]
 categories: [2024 presidential election]
 date: 2024-10-10 1:16 PM
-#excerpt: 'There are a lot of statements he makes to protect his base, but this is not him protecting his base. His base does not care about the hurricane. This is a personal thing. He just can’t be wrong. – Barbara Res, a former executive vice president of the Trump Organization.'
+excerpt: 'There are a lot of statements he makes to protect his base, but this is not him protecting his base. His base does not care about the hurricane. This is a personal thing. He just can’t be wrong. – Barbara Res, a former executive vice president of the Trump Organization.'
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:

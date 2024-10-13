@@ -35,9 +35,9 @@ gem 'jekyll-sitemap', '~> 1.4'
 gem 'jekyll-titles-from-headings', '~> 0.5.3'
 
 # { 2024-09-29 @RalphHightower
-# /home/runner/work/blog434/blog434/vendor/bundle/ruby/3.3.0/gems/jekyll-4.3.4/lib/jekyll.rb:28: warning: csv was loaded from the standard library, but will no longer be part of the default gems since Ruby 3.4.0. Add csv to your Gemfile or gemspec. Also contact author of jekyll-4.3.4 to add csv into its gemspec.
+# /home/runner/work/blog/blog/vendor/bundle/ruby/3.3.0/gems/jekyll-4.3.4/lib/jekyll.rb:28: warning: csv was loaded from the standard library, but will no longer be part of the default gems since Ruby 3.4.0. Add csv to your Gemfile or gemspec. Also contact author of jekyll-4.3.4 to add csv into its gemspec.
 gem 'csv', '~> 3.3'
-# /home/runner/work/blog434/blog434/vendor/bundle/ruby/3.3.0/gems/safe_yaml-1.0.5/lib/safe_yaml/transform.rb:1: warning: base64 was loaded from the standard library, but will no longer be part of the default gems since Ruby 3.4.0. Add base64 to your Gemfile or gemspec. Also contact author of safe_yaml-1.0.5 to add base64 into its gemspec.
+# /home/runner/work/blog/blog/vendor/bundle/ruby/3.3.0/gems/safe_yaml-1.0.5/lib/safe_yaml/transform.rb:1: warning: base64 was loaded from the standard library, but will no longer be part of the default gems since Ruby 3.4.0. Add base64 to your Gemfile or gemspec. Also contact author of safe_yaml-1.0.5 to add base64 into its gemspec.
 gem 'base64', '~> 0.2.0'
 # } 2024-09-29 @RalphHightower
 end
