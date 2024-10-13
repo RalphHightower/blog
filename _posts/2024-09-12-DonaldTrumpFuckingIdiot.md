@@ -11,24 +11,24 @@ title: 'Donald Trump is a Fucking Idiot'
 ---
 
 
-## Reason for Starting a Blog 
+## Reason for Starting a Blog
 
 I initially started out putting my opinions of Trump on this page, [Opinions/Donald Trump Is a Fucking Idiot / Ralph Hightower](https://ralphhightower.github.io/RalphHightower/Opinions/DonaldTrumpIsAFuckingIdiot.html).
 
-But it has become too unwieldy to keep it updated, so I switched to the blogging format. 
+But it has become too unwieldy to keep it updated, so I switched to the blogging format.
 
-I was an independent voter, prior to Trump. I thought that it was a publicity stunt when he announced his run for president. There was no way in hell that I'd vote for Trump. I didn't think that Trump had a snowballs chance in hell of winning. But watching **The Apprentice: White House** unfold, and watching the sycophants and acolytes of the Trump Party cower in fear of Trump, I'm a Democrat straight party voter until the Trump Party dies and sanity returns returns to the Republican Party. 
+I was an independent voter, prior to Trump. I thought that it was a publicity stunt when he announced his run for president. There was no way in hell that I'd vote for Trump. I didn't think that Trump had a snowballs chance in hell of winning. But watching **The Apprentice: White House** unfold, and watching the sycophants and acolytes of the Trump Party cower in fear of Trump, I'm a Democrat straight party voter until the Trump Party dies and sanity returns returns to the Republican Party.
 
 Both political parties fucked up in 2016!
 
 - The Democrats chose Hillary because it was *"her turn"*.
 - Whereas the Republicans chose the worst of the worst. The Republican Party died in 2016. It is now the Trump Party, and also his legal defense fund for business, personal, and also government legal problems.
 
-The Republican Party died in July 2016, when the convention chose the most temperamental, volatile, unfit, and unqualified candidate among the *"Dirty Two Dozen"*. It is now known as the Trump Party. 
+The Republican Party died in July 2016, when the convention chose the most temperamental, volatile, unfit, and unqualified candidate among the *"Dirty Two Dozen"*. It is now known as the Trump Party.
 
 Characteristics of Trump:
 
-1. Belligerent 
+1. Belligerent
 2. Boastful
 3. Bully
 4. Charlatan
@@ -39,7 +39,7 @@ Characteristics of Trump:
 9. Crybaby[^112]
 10. Deceitful
 11. Dictator
-12. Draft Dodger 
+12. Draft Dodger
 13. Egotistical
 14. Felon
 15. Fraud
@@ -101,11 +101,7 @@ A true leader recognizes and praises their team for their successes and accepts 
 
 As can be seen in the [Presidential Rankings Survey - Historians Rank the Top 10 Presidents / C-SPAN Survey on Presidents 2021](https://www.c-span.org/presidentsurvey2021/?page=overall), section 17 of this page, Trump places dead last among modern day president's.
 
-
-
 Trump may have been a breath of fresh air, but nothing has changed about Trump. He's still a *bull in a china shop.* After four years, Trump still thinks that he can run America like a dictatorship.
-
-
 
 ### Nepotism and Cronyism
 
@@ -121,4 +117,4 @@ Senator Lindsey Graham (T-SC) has the attention span of a squirrel. After the at
 
 [Senator Tim Scott (T-SC) – Meet the Press. May 5, 2024](https://www.nbcnews.com/meet-the-press/video/federal-funding-is-a-privilege-not-a-right-tim-scott-tells-college-presidents-full-interview-210290757680) refused to answer a simple 'yes/no' answer to the question "Will you accept the election results if Trump loses?". As one of Trump's [acolytes](http://www.merriam-webster.com/dictionary/acolyte), Scott is Trump's "lawn jockey". He does not have the courage to stand for what's right.
 
-
+

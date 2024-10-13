@@ -7,7 +7,7 @@ excerpt: 'I, AB, do solemnly swear (or affirm) that I will support and defend th
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: 'Shit! Here We Go Again. The Trump Party Wants to Overturn States Election Results'
+title: ''Shit! Here We Go Again. The Trump Party Wants to Overturn States Election Results'
 ---
 
 

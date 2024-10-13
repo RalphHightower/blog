@@ -1,9 +1,9 @@
 ---
 layout: post
-tags: [noaa, project 2025, hurricanes, fema, us versus them, red state versus blue state]
+tags: [noaa, project 2025, hurricanes, fema, us versus them]
 categories: [2024 presidential election]
-date: 2024-10-12 10:00 AM
-excerpt: 'Former Trump administration official Olivia Troye told The New York Times that he viewed disaster relief as a matter of “red states vs. blue states.”'
+date: 2024-10-11 5:16 PM
+excerpt: 'Just weeks before the November election, we are again reminded of the dangers of disinformation amplified by the ex-president. In the aftermath of Helene, North Carolina Attorney General Josh Stein joined MSNBC’s “The Weekend” to address how Trump’s lies about FEMA undermine the government’s response in the western part of his state. “It’s devastating psychologically to those people because they now believe, some of them, that FEMA is going to be contrary to their interests rather than trying to help them get back on their feet.'
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
@@ -34,8 +34,7 @@ a *"Republican"[^12].*
 Who can forget that photo of Trump lobbing rolls of paper towels into the crowd
 as if he were tossing out MAGA hats at a campaign rally?
 
-![Trump Tossing Paper Towel Rolls Into Puerto Rican Crowd After Hurricane Dorian As If He Were Tossing MAGA Baseball Caps At a Campaign Rally](https://ralphhightower.github.io/blog/img/241010-donald-trump-paper-towels-al-1022-242643.jpg)
-
+![President Trump Tossing Rolls of Paper Towels into Puerto Rican Crowd After a Hurricane.](../img/241010-donald-trump-paper-towels-al-1022-242643.jpg)
 
 The Trump administration would later stall $20 billion in hurricane relief for Puerto
 Rico, relief that Congress approved. In a closed-door meeting with Republicans,

@@ -23,4 +23,4 @@ By Isaac Stanley-Becker. October 8, 2024 at 8:56 a.m. EDT
 Trump demonstrated during his term as president, 1/2017 - 1/2021, that he is friends
 with our enemies and that our allies are enemies. Were you still trying to put your name on a building in Russia?
 
-[^11]: I trust a respected journalist like Bob Woodward, who helped bring down a presidency and chronicled the events of Watergate in *All the President's Men.* Trump is nothing more than a pathological liar. Richard Nixon almost the nation to a constitutional crisis. The conservative justices on today's Supreme Court are in Trump’s back pocket. 
+[^11]: I trust a respected journalist like Bob Woodward, who helped bring down a presidency and chronicled the events of Watergate in *All the President's Men.* Trump is nothing more than a pathological liar. Richard Nixon almost the nation to a constitutional crisis. The conservative justices on today's Supreme Court are in Trump’s back pocket.

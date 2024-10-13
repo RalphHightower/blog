@@ -14,7 +14,7 @@ title: 'WTF is Trump Gibbering About?'
 
 By Lee Moran, Huffington Post. Sep 26, 2024, 02:55 AM EDT.
 
-### Huffington Post Article 
+### Huffington Post Article
 
 Trump Speech Takes Seriously Bonkers Turn With ‘Birds And Bees’ Twist
 The former president's latest weird attack on Kamala Harris had critics buzzing.
@@ -31,7 +31,7 @@ Then came the wild tangent:
 
 We had a woman debating. She just talked about, like, the birds and the bees. She didn’t talk about … when you asked a question, there was never an answer. There was never any knowledge. When you saw her the other day, and by the way, when she did the interview previous with the Pennsylvania person who was a nice person, I know him very well, they were the softest questions, she was unable, literally unable to answer the questions. We can’t have that. We cannot have it. We need four strong years, we have to bring our country back.
 
-<iframe 
+<iframe
     width="560" height="315"
     src="    https://www.youtube.com/embed/ilkvDNhsbyg?start=1476&end=1497">
 </iframe>
@@ -40,7 +40,7 @@ The former president then returned to his script, but not before critics on soci
 
 Donald Trump: “We got great marks on that debate. We had a women debating, she just talked about, like, the birds and the bees…There was never an answer. There was never any knowledge.”
 
-## My Take 
+## My Take
 
 Listen you Trumpers, sure Biden is 81 years old. Yes, at the first and only debate with Trump, he seemed out of it. Many called for him to step down. He'll turn 82 this November. Trump puts together an endless stream of words, hoping that it'll make sense.
 
@@ -52,9 +52,9 @@ Now, I'm not talking about him being assassinated while in office even though th
 
 No, I'm talking about the insurance actuarial odds of him completing the full term of office. Trump is in the twilight of his life. Let him do what he does best.
 
-- Running his family-owned business, Trump Organization, towards its fifth bankruptcy. 
-- Running another company to its death, Truth Social. Watching it do a death spiral into the ground. 
+- Running his family-owned business, Trump Organization, towards its fifth bankruptcy.
+- Running another company to its death, Truth Social. Watching it do a death spiral into the ground.
 - Turning large fortunes into small fortunes.
-- Playing golf, and cheating on his golf score. 
+- Playing golf, and cheating on his golf score.
 
-— Ralph Hightower 
+— Ralph Hightower

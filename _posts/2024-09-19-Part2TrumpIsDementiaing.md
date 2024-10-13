@@ -7,7 +7,7 @@ excerpt: "They didn’t correct her once. And they corrected me, everything I sa
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: 'Bless His Heart – Part 2 Dementia: Trump forgets there was no debate audience, claims crowd "went crazy"'
+title: 'Trump forgets there was no debate audience, claims crowd "went crazy"'
 ---
 
 
@@ -21,7 +21,7 @@ News Fellow
 
 Not  only is Trump forgetting what the question was when he veers off topic and starts answering with gibberish, but he is now **seeing people** where there are none.
 
-Faux News did not bother to correct Trump that there was no studio audience as agreed upon by ABC New and both the Harris campaign and the Trump campaign. 
+Faux News did not bother to correct Trump that there was no studio audience as agreed upon by ABC New and both the Harris campaign and the Trump campaign.
 
 Former President Donald Trump appeared on a taped segment of Fox News' "Gutfeld!" Wednesday, complaining once again that the ABC News debate moderators bothered to fact-check him while falsely claiming that the debate audience ***"went crazy"***[^21] for his performance. Host Greg Gutfeld chose not to fact-check Trump over the fact that there was no debate audience whatsoever, per the rules set by ABC News and agreed to by both campaigns.
 

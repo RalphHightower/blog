@@ -58,4 +58,4 @@ The former president’s indulgence of the conspiracy theory is among the ways T
 
 If Trump wanted Hillary locked up, then he should've hired her.
 
-Roger Stone. Steve Bannon. All Trump confidants that have served time in prison. 
+Roger Stone. Steve Bannon. All Trump confidants that have served time in prison.
