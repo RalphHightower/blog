@@ -7,7 +7,7 @@ excerpt: "They didn’t correct her once. And they corrected me, everything I sa
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: 'Trump forgets there was no debate audience, claims crowd "went crazy"'
+title: 'Bless His Heart – Part 2 Dementia: Trump forgets there was no debate audience, claims crowd "went crazy"'
 ---
 
 

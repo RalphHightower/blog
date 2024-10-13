@@ -1,9 +1,10 @@
 ---
 layout: post
-tags: [noaa, project 2025, hurricanes, fema, us versus them]
+tags: [noaa, project 2025, hurricanes, fema, us versus them, red state versus blue state]
 categories: [2024 presidential election]
-0#date: 2019-06-25 13:14:15
-#excerpt: ''
+date: 2019-06-25 13:14:15
+excerpt: 'Former Trump administration official
+Olivia Troye told The New York Times that he viewed disaster relief as a matter of “red states vs. blue states.”'
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:

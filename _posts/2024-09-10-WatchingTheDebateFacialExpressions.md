@@ -9,6 +9,8 @@ description: 'Assessment of the Debate'
 #permalink:
 title: 'Watching the Debate'
 ---
+
+
 ## Watching the Debate — Differences in Facial Expressions
 
 The 'Don'[^11] is displaying the same facial expression that he displayed in his booking photo in New York City, and Atlanta. It was also that scowl sitting at the defense table during his New York false business records that were really bribery payments to porn star, Stormy Daniels. 
