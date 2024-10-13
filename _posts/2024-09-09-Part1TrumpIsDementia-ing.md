@@ -9,6 +9,8 @@ excerpt: 'The warning lights aren’t flashing because nobody covering him expec
 #permalink:
 title: 'Trump Is Dementia-ing'
 ---
+
+
 ## [Trump’s psychologist niece says he’s ‘dementing’ in wake of ‘gibberish’ answer on childcare question](https://www.independent.co.uk/news/world/americas/us-politics/donald-trump-mary-childcare-dementia-b2609220.html)
 
 Gustaf Kilander. Sun, September 8, 2024 at 7:49 PM EDT
