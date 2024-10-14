@@ -7,7 +7,7 @@ excerpt: "The rest of the nine-page opposition rehashes Defendant's position tha
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: "Here Comes Da Judge Part 1: Judge Unimpressed With Trump’s Sneaky Strategy"
+title: "Federal Court @ Here Comes Da Judge – Part 1: Judge Unimpressed With Trump’s Sneaky Strategy"
 ---
 
 
