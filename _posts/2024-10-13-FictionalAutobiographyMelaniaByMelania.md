@@ -2,15 +2,16 @@
 layout: post
 tags: []
 categories: []
-#date: 2019-06-25 13:14:15
-#excerpt: ''
+date: 2024-10-13 06:00 PM
+excerpt: 'The violence we witnessed was unequivocally unacceptable. However, many individuals felt the election was mishandled and that the vice president should halt the confirmation process. – Melania Trump'
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: 'title'
+title: 'Fictional Autobiography: Melania by Melania Trump' 
 ---
 
 [Melania by Melania Trump review – a blame-dodging masterclass](https://www.theguardian.com/us-news/2024/oct/13/melania-trump-memoir-review)
+
 Story by Lloyd Green. October 13, 2024.
 
 - **Blame and Deflection**: Melania frequently blames staffers for various issues, including the plagiarism of Michelle Obama's speech, while also stressing her love for her husband.[^12]
@@ -38,7 +39,9 @@ Really?
 
 Talk about throwing the staff under any passing bus. And yet, to quote the deathless words of Kimberly Guilfoyle, Don Jr’s fiancée: “The best is yet to come.”
 
-“‘Why was the speech not vetted?’, I asked Donald in frustration … From then on, I realized the importance of being intimately involved with every detail of my public life. No longer would I delegate specific tasks or trust others to ensure my reputation was protected.”
+“‘Why was the speech not vetted?’, I asked Donald in frustration … From then on, I realized the importance of being intimately involved with every detail of my public life. No longer would I delegate specific tasks or trust others to ensure my reputation was protected.”[^11]
+
+[^11]: @RalphHightower: Honey, your reputation is tarnished by association with your hubby.
 
 Specifically, Melania blames Meredith McIver of the Trump Organization – to whom she says she herself read Michelle Obama’s words, words Melania then repeatedly practiced. As the saying goes, shit rolls downhill.
 
