@@ -1,13 +1,13 @@
 ---
 layout: post
-tags: []
-categories: []
+tags: [Donald Trump,  dementia, cognitive decline]
+categories: [2024 presidential election]
 date: 2024-09-19 15:14:45
 excerpt: "They didn’t correct her once. And they corrected me, everything I said, practically. I think nine times or 11 times. And the audience was absolutely — they went crazy."
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: 'Trump forgets there was no debate audience, claims crowd "went crazy"'
+title: 'Bless His Heart – Dementia Part 2: Trump forgets there was no debate audience, claims crowd "went crazy"'
 ---
 
 
