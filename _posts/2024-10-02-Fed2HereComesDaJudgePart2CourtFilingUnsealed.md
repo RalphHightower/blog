@@ -7,7 +7,7 @@ excerpt: 'I DID NOTHING WRONG, THEY DID!FOR 60 DAYS PRIOR TO AN ELECTION, THE DE
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: 'Here Comes Da Judge Part 2: Trump Throws a Trumper Tantrum When Judge Unseals Government Evidence Dump'
+title: 'Federal Court @ Here Comes Da Judge – Part 2: Trump Throws a Trumper Tantrum When Judge Unseals Government Evidence Dump'
 ---
 
 ## [Judge unseals Jack Smith’s evidence dump against Trump weeks out from election: ‘Make them riot’](https://nypost.com/2024/10/02/us-news/trump-resorted-to-crimes-after-losing-2020-election-in-failed-bid-to-cling-to-power-feds/)
