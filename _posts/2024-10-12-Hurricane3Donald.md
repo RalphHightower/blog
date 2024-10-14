@@ -7,7 +7,7 @@ excerpt: 'Just weeks before the November election, we are again reminded of the 
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: 'Hurricane Donald (Trump) – A Category 6 Hurricane'
+title: 'Hurricane – Part 3: Hurricane Donald (Trump) – A Category 6 Hurricane'
 ---
 
 
