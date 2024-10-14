@@ -7,7 +7,7 @@ excerpt: 'Trump may have had up to seven phone calls with Putin since leaving of
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: 'Vladimir Putin Part 1: Trump Pwned By Putin'
+title: 'Vladimir Putin Part 3: Trump Pwned By Putin'
 ---
 
 
