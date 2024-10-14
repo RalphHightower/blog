@@ -7,7 +7,7 @@ excerpt: 'the defendant must stand trial for his private crimes as would any oth
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: 'Part 1 – Here Comes Da Judge'
+title: 'Federal Court – Part 3: Here Comes Da Judge'
 ---
 
 
