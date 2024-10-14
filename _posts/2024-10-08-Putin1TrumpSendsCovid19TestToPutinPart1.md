@@ -1,13 +1,13 @@
 ---
 layout: post
-tags: [Donald Trump,  VladimirPutin,  Covid-19 tests]
+tags: [Donald Trump, Vladimir Putin,  Covid-19 tests]
 categories: [2024 presidential election]
 date: 2024-10-08 11:30 PM
 excerpt: 'Trump was the most reckless and impulsive president in American history and is demonstrating the very same character as a presidential candidate in 2024'
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: 'Trump Sent Covid-19 Tests During 2020 Shortage to Putin'
+title: 'Vladimir Putin – Part 1: Trump Sent Covid-19 Tests During 2020 Shortage to Putin'
 ---
 
 ## [Bob Woodward’s new book ‘War’ reports Trump gave Putin covid tests in 2020 - The Washington Post](https://www.washingtonpost.com/politics/2024/10/08/bob-woodward-new-book-war-trump-putin-biden/)

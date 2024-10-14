@@ -7,7 +7,7 @@ excerpt: "A violation of the Logan Act carries with it up to three years in pris
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: "Vladmir Putin Part 2: Add Another Federal Crime to Trump’s Legal Woes"
+title: "Vladmir Putin Part 4: Add Another Federal Crime to Trump’s Legal Woes"
 ---
 
 

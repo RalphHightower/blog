@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [MTG, conspiracy theories,  hurricanes,  US House of Representatives]
+tags: [MTG, conspiracy theories,  hurricanes, US House of Representatives]
 categories: [Marjorie Taylor Greene]
 date: 2024-10-11 10:21 AM
 excerpt: 'I think enough has already been said. I ignore her.'

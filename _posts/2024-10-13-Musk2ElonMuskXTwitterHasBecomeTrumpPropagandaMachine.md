@@ -7,7 +7,7 @@ excerpt: 'According to a new report by the New York Times, Musk has allegedly us
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: 'Fuck Free Speech! Elon Musk Has Turned His X/Twitter Social Media Platform Into a Trump Propaganda Machine'
+title: 'Elon Musk – Part 2: Fuck Free Speech! Elon Musk Has Turned His X/Twitter Social Media Platform Into a Trump Propaganda Machine'
 ---
 
 
