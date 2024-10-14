@@ -7,7 +7,7 @@ excerpt: 'There are a lot of statements he makes to protect his base, but this i
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: 'Trump Puts Needless Lives at Risk During and After Hurricanes With Lies, Falsehoods,  and Misinformation.'
+title: 'Hurricane – Part 2: Trump Puts Needless Lives at Risk During and After Hurricanes With Lies, Falsehoods,  and Misinformation.'
 ---
 
 
