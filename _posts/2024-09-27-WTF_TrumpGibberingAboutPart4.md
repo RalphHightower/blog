@@ -1,13 +1,13 @@
 ---
 layout: post
-tags: [Donald Trump,  dementia]
+tags: [Donald Trump, dementia, cognitive decline]
 categories: [2024 presidential election]
 date: 2024-09-27 5:20 PM
 excerpt: 'We had a woman debating. She just talked about, like, the birds and the bees. She didn’t talk about … when you asked a question, there was never an answer. There was never any knowledge. When you saw her the other day, and by the way, when she did the interview previous with the Pennsylvania person who was a nice person, I know him very well, they were the softest questions, she was unable, literally unable to answer the questions. We can’t have that. We cannot have it. We need four strong years, we have to bring our country back.'
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: 'WTF is Trump Gibbering About?'
+title: 'Bless His Heart – Dementia Part 4: WTF is Trump Gibbering About?'
 ---
 
 ## [Trump Speech Takes Seriously Bonkers Turn With ‘Birds And Bees’ Twist / HuffPost Latest News](https://www.huffpost.com/entry/donald-trump-kamala-harris-debate-comment-mocked_n_66f4f937e4b064e1788b5b02)
