@@ -2,8 +2,8 @@
 layout: post
 tags: [Donald Trump, Vladimir Putin, federal crime, Logan Act]
 categories: [2024 presidential election]
-#date: 2024-10-13 4:39 PM
-#excerpt: 'A violation of the Logan Act carries with it up to three years in prison. So yes, we all want to know; Did Donald Trump violate the Logan Act? And here's the answer. He might have,'
+date: 2024-10-13 4:39 PM
+excerpt: 'A violation of the Logan Act carries with it up to three years in prison. So yes, we all want to know; Did Donald Trump violate the Logan Act? And here's the answer. He might have,'
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
