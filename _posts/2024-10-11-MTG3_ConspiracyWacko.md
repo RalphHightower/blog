@@ -7,7 +7,7 @@ excerpt: 'I think enough has already been said. I ignore her.'
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: 'Bless Her Heart – Part 2: Marjorie Taylor Greene – Her Colleagues Opinions'
+title: 'Bless Her Heart – Part 3: Marjorie Taylor Greene – Her Colleagues Opinions'
 ---
 
 
