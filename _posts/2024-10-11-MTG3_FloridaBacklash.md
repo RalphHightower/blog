@@ -7,7 +7,7 @@ excerpt: "And then obviously, we have my favorite, Marjorie Taylor Greene, who r
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: 'Bless Her Heart – Part 4: Marjorie Taylor Greene — Conspiracy Machine'
+title: 'Bless Her Heart – Part 3: Marjorie Taylor Greene — Conspiracy Machine'
 ---
 
 

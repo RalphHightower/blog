@@ -3,11 +3,11 @@ layout: post
 tags: [MTG, conspiracy theories,  hurricanes, US House of Representatives]
 categories: [Marjorie Taylor Greene]
 date: 2024-10-11 10:21 AM
-excerpt: 'I think enough has already been said. I ignore her.'
+excerpt: 'I think enough has already been said. I ignore her. Rep. Don Bacon (T-Neb.)'
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: 'Bless Her Heart – Part 3: Marjorie Taylor Greene – Her Colleagues Opinions'
+title: 'Bless Her Heart – Part 2: Marjorie Taylor Greene – Her Colleagues Opinions'
 ---
 
 
