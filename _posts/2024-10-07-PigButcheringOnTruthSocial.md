@@ -3,7 +3,7 @@ layout: post
 tags: [pig butchering, scams]
 categories: [Truth Social, pig butchering]
 date: 2024-10-07 02:25 PM
-excerpt: 'After I pay this, they promise there will be no more fees and I will receive my assets'
+excerpt: 'After I pay this, they promise there will be no more fees and I will receive my assets. – one of the gullible "Truth Social" victims.'
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
