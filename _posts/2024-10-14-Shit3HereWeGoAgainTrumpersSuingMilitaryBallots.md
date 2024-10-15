@@ -7,7 +7,8 @@ excerpt: '“This lawsuit was filed after voting had already begun in North Caro
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: 'Shit! Here We Go Again Part 3: "Republicans" Targeting Military Overseas Ballots'
+title: 'Shit! Here We Go Again Part 3: L"Republicans" Targeting Military Overseas Ballots'
+title'
 ---
 
 
