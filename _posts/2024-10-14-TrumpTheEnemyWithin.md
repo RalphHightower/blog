@@ -2,7 +2,7 @@
 layout: post
 tags: [Kamala Harris, Tim Walz, Donald Trump, JD Vance]
 categories: [2024 presidential election]
-date: 2024-10-14 5:00 PM
+date: 2019-06-25 13:14:15
 excerpt: 'You heard his words, coming from him. He’s talking about the enemy within … he’s talking about that he considers anyone that doesn’t support him, or who will not bend to his will, an enemy of our country. He’s saying he would use the military to go after them … and we know who he would target, because he has attacked them before: Journalists whose stories who he doesn’t like, election officials who refuse to cheat by finding extra votes for him, judges who insist on following the law instead of bending to his will. This is among the reasons I believe so strongly that a second Trump term would be a huge risk for America, and dangerous.'
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
