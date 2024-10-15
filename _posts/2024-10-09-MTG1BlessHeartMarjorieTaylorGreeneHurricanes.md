@@ -7,7 +7,7 @@ excerpt: 'Yes they can control the weather. It’s ridiculous for anyone to lie 
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: 'Bless Her Heart – Part 2: Marjorie Taylor Greene Says "They" Can Control the Weather '
+title: 'Bless Her Heart – Part 1: Marjorie Taylor Greene Says "They" Can Control the Weather '
 ---
 
 
