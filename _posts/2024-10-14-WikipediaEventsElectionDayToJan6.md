@@ -1,9 +1,10 @@
 ---
 layout: post
-tags: [January 6 2021 insurrection, 2020 election overthrow attempt, Donald Trump]
+tags: [January 6 2021 insurrection,  2020 election overthrow attempt, Donald Trump]
 categories: [2024 presidential election]
 date: 2024-10-14 4:37 PM
-excerpt: 'Big protest in D.C. on January 6th. Be there, will be wild! – Donald Trump'
+excerpt: 'There is no role for the U.S. military in determining the outcome of an American election. – joint statement by Army Secretary Ryan D. McCarthy and Army Chief of Staff General James McConville'
+#excerpt: Big protest in D.C. on January 6th. Be there, will be wild! – Donald Trump'
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
@@ -16,7 +17,9 @@ title: 'Wikipedia- A Synopsis of Trump After the 2020 election'
 
 ## [2020 United States presidential election](https://en.wikipedia.org/wiki/2020_United_States_presidential_election?wprov=sfla1)
 
-Starting in December, Trump called for his supporters to stage a massive protest in Washington, D.C., on January 6 to argue against certification of the electoral vote, using tweets such as "Big protest in D.C. on January 6th. Be there, will be wild!" D.C. police were concerned, and the National Guard was alerted because several rallies in December had turned violent.
+Starting in December, Trump called for his supporters to stage a massive protest in Washington, D.C., on January 6 to argue against certification of the electoral vote, using tweets such as "Big protest in D.C. on January 6th. Be there, will be wild!"[^11] D.C. police were concerned, and the National Guard was alerted because several rallies in December had turned violent.
+
+[^11]: @RalphHightower: If Trump's "Big protest in D.C. on January 6th. Be there, will be wild!" is in Wikipedia, Trump is sure to be found guilty in the Federal government’s case against Trump.
 
 A December 18 meeting in the White House discussed Michael Flynn's suggestion to overturn the election by invoking martial law and rerunning the election in several swing states under military supervision. Army Secretary Ryan D. McCarthy and Army Chief of Staff General James McConville later issued a joint statement saying: "There is no role for the U.S. military in determining the outcome of an American election." In a December 20 tweet, Trump dismissed accusations that he wanted to declare martial law as "fake news".
 
