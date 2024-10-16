@@ -1,6 +1,8 @@
 Thank you very much, everybody. Thank you. Thank you very much. It’s a great honor to be here and thank you, John. It’s really wonderful to be back in Detroit and it’s a true honor to be back at the Detroit Economic Club. Really terrific people. I was here in 2016, so maybe you brought a little luck. We’re going to do it again. We’re going to do it again. Before we begin, I want to send our love to everyone affected by the hurricane. As you know, it was a rough night and who would’ve thought a lot of things happening at one time, but that’s just ripped through Florida and also the people of North Carolina, Georgia, Alabama, South Carolina, Florida again and Tennessee for what they went through with Hurricane Helene. We had quite a combination.
 
-I’d like to congratulate Governors of Florida, Ron DeSantis, Governor Brian Kemp of Georgia and South Carolina, Henry McMaster. They were really hit hard and they’ve done really a fantastic job. The federal government, on the other hand, has not done what you’re supposed to be doing, in particular with respect to North Carolina. They’ve let those people suffer unjustly, unjustly and we’re praying for all of those who lost a house or much more importantly, a precious loved one. There were many, actually many, many in Georgia and North Carolina. Florida will rebuild and come back strong. It always does. I look forward to returning very soon. We’ll be there very soon and okay, now let’s get to the reason that I’m here today.
+I’d like to congratulate Governors of Florida, Ron DeSantis, Governor Brian Kemp of Georgia and South Carolina, Henry McMaster.[^11] They were really hit hard and they’ve done really a fantastic job. The federal government, on the other hand, has not done what you’re supposed to be doing, in particular with respect to North Carolina. They’ve let those people suffer unjustly, unjustly and we’re praying for all of those who lost a house or much more importantly, a precious loved one. There were many, actually many, many in Georgia and North Carolina. Florida will rebuild and come back strong. It always does. I look forward to returning very soon. We’ll be there very soon and okay, now let’s get to the reason that I’m here today.
+
+[^11]: @RalphHightower: What about North Carolina's governor, Roy Cooper? Isn’t he doing a great job also? Oh, he's a Democrat, who you call, *"the enemy within"* Gotcha.
 
 I think you’re going to find some interesting things, both good and bad, but we make the bad into good. That’s what we like to do. It was just announced that inflation came in substantially hotter than expected last month, double what was predicted, with much of the gain coming from food prices going up, rent and housing costs going up and car prices going up. Interest rates, as you know, are also a big factor. They’re very high. They’ve gone from 2% when I was in office to 10% now and you can’t get the money. That means it’s much higher than 10%, which really kills the American dream for young people. We have a lot of young people here, a lot of college people here. The fact is that the Federal Reserve brought the interest rates down a little too quickly. It was too big a cut and everyone knows that was a political maneuver that they tried to do before the election, but they did the wrong thing. It was totally a political decision and inflation has started to rise.
 
@@ -265,6 +267,6 @@ T: You should be proud of it.
 
 2: I am.
 
-Speaker 1: Young man, there’s no need to feel down[^11]
+Speaker 1: Young man, there’s no need to feel down[^299]
 
-[^11]: @RalphHightower: I think that they started playing The Village People "YMCA".
+[^299]: @RalphHightower: I think that they started playing The Village People "YMCA".
