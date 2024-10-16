@@ -77,7 +77,7 @@ minima:
   - { platform: stackoverflow, user_url: "https://stackoverflow.com/users/19978043/ralph-hightower" }
   - { platform: telegram, user_url: "https://t.me/RalphHightower" }
   - { platform: youtube, user_url: "https://www.youtube.com/@RalphHightower" }
-  - { platform: orchid, user_url: "https://orcid.org/0009-0009-7630-3554" }
+  # - { platform: orchid, user_url: "https://orcid.org/0009-0009-7630-3554" }
   # - { platform: dribbble, user_url: "https://dribbble.com/RalphHightower" }
   # - { platform: google_scholar, user_url: "https://scholar.google.com/citations?user=qc6CJjYAAAAJ" }
   # - { platform: instagram, user_url: "https://www.instagram.com/RalphHightower" }
