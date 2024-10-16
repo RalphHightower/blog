@@ -7,7 +7,7 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: 'Bless His Heart – Dementia Part 6: Rambling "Tossed Salad od Words Speech" at Detroit Economic Club'
+title: 'Bless His Heart – Dementia Part 6: Rambling "Tossed Salad of Words Speech" at Detroit Economic Club'
 ---
 
 
