@@ -29,7 +29,7 @@ By Greta Reich. 10/06/2024 12:51 PM EDT
 [^12]: @RalphHightower: [Senator Tom Cotton](https://www.cotton.senate.gov/), Trump is indicted for attempting to overturn a fair election and inciting an insurrection/riot, causing significant damage to the United States Capitol. Participants included Q-Anon, Pride Boys, Zero Percent erst, and Oath Losers.
 
 
-### Planning of January 6 events^[21]
+### Planning of January 6 events[^21]
 
 On December 18, four days after the Electoral College voted, Trump called for supporters to attend a rally before the January 6 Congressional vote count, writing on Twitter, "Big protest in D.C. on January 6th. Be there, will be wild!".
 
