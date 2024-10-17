@@ -35,10 +35,10 @@ layout: base
           {{ post.excerpt }}
         {%- endif -%}
         {%- if post.categories -%}
-          categories: {{ post.categories }}
+          {{ categories: post.categories }}
         {%- endif -%}
         {%- if post.tags -%}
-          tags: {{ post.tags }}
+          {{ tags: post.tags }}
         {%- endif -%}
       </li>
       {%- endfor -%}
