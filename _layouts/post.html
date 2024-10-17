@@ -34,12 +34,6 @@ layout: base
         {%- if site.show_excerpts -%}
           {{ post.excerpt }}
         {%- endif -%}
-        {%- if post.categories -%}
-          {{ categories: post.categories }}
-        {%- endif -%}
-        {%- if post.tags -%}
-          {{ tags: post.tags }}
-        {%- endif -%}
       </li>
       {%- endfor -%}
     </ul>
