@@ -7,7 +7,7 @@ date: 2024-10-17 11:57 AM
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: 'Trump's Extramarital Affairs, Mistresses, and One Night Stands'
+title: "Trump's Extramarital Affairs, Mistresses, and One Night Stands"
 ---
 
 
