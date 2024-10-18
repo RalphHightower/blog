@@ -7,7 +7,7 @@ excerpt: "To keep it simple for the State of Florida: it’s the First Amendment
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: "It’s the First Amendment, U.S. District Judge Tells Florida Governor DeSantis."
+title: "It’s the First Amendment, Stupid! U.S. District Judge Tells Florida Governor DeSantis."
 ---
 
 
