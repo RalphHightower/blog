@@ -21,7 +21,9 @@ Updated 10:54 PM EDT, Thu October 17, 2024
 - **Legal Battle**: The judge ruled the state's threats were unconstitutional, amounting to viewpoint discrimination.
 - **Resignation**: John Wilson, the health department's general counsel, resigned, citing conscience issues.
 
-“To keep it simple for the State of Florida: it’s the First Amendment, stupid.” Chief U.S. District Judge Mark E. Walker of the Northern District of Florida granted a temporary restraining order against Florida’s surgeon general after the state health department threatened to bring criminal charges against broadcasters airing the ad that promoted a ballot measure to overturn Florida’s six-week abortion ban by enshrining abortion rights in the state constitution.
+“To keep it simple for the State of Florida: it’s the First Amendment, stupid.”[^11] Chief U.S. District Judge Mark E. Walker of the Northern District of Florida granted a temporary restraining order against Florida’s surgeon general after the state health department threatened to bring criminal charges against broadcasters airing the ad that promoted a ballot measure to overturn Florida’s six-week abortion ban by enshrining abortion rights in the state constitution.
+
+[^11]: @RalphHightower: I love that parody of Bill Clinton's campaign slogan, "It's the economy, stupid."
 
 In the 30-second ad, a brain cancer survivor named Caroline says the state law would have prevented her from receiving a life-saving abortion: “The doctors knew that if I did not end my pregnancy, I would lose my baby, I would lose my life, and my daughter would lose her mom. Florida has now banned abortions, even in cases like mine.”
 
