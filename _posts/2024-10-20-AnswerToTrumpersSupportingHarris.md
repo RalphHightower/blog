@@ -7,7 +7,7 @@ excerpt: To every Republican supporting her, what the hell are you doing? You’
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: 'Bless His Heart – Senator Lindsey Graham (T-SC): Why Are You "Republicans" Supporting Harris?"
+title: 'Bless His Heart – Senator Lindsey Graham (T-SC): Why Are You "Republicans" Supporting Harris?'
 ---
 
 
