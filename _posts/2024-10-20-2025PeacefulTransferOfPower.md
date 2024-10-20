@@ -7,7 +7,7 @@ excerpt: "I do not have faith that Mike Johnson will fulfill his constitutional 
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: 'Liz Cheney former Repl (T-WY) Warns "Republicans" About Election Security and Peaceful Transfer of Power'
+title: 'Liz Cheney former Repl (R-WY) Warns "Republicans" About Election Security and Peaceful Transfer of Power'
 ---
 
 
