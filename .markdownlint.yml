@@ -2,7 +2,7 @@
 # 2024-10-08 @RalphHightower – override for use in tables and footnotes
 MD033:
   # Allowed elements
-  allowed_elements: [br]
+  allowed_elements: [br,sup]
 
 # MD013/Line length : https://github.com/DavidAnson/markdownlint/blob/v0.35.0/doc/md013.md
 # 2024-20-08 @RalphHightower — pass on headings, tables
