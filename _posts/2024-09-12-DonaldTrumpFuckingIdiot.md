@@ -13,11 +13,18 @@ title: 'Donald Trump is a Fucking Idiot'
 
 ## Reason for Starting a Blog
 
-I initially started out putting my opinions of Trump on this page, [Opinions/Donald Trump Is a Fucking Idiot / Ralph Hightower](https://ralphhightower.github.io/RalphHightower/Opinions/DonaldTrumpIsAFuckingIdiot.html).
+I initially started out putting my opinions of Trump on this page,
+[Opinions/Donald Trump Is a Fucking Idiot / Ralph Hightower](https://ralphhightower.github.io/RalphHightower/Opinions/DonaldTrumpIsAFuckingIdiot.html).
 
-But it has become too unwieldy to keep it updated, so I switched to the blogging format.
+But it has become too unwieldy to keep it updated, so I switched to thblogging format.
 
-I was an independent voter, prior to Trump. I thought that it was a publicity stunt when he announced his run for president. There was no way in hell that I'd vote for Trump. I didn't think that Trump had a snowballs chance in hell of winning. But watching **The Apprentice: White House** unfold, and watching the sycophants and acolytes of the Trump Party cower in fear of Trump, I'm a Democrat straight party voter until the Trump Party dies and sanity returns returns to the Republican Party.
+I was an independent voter, prior to Trump. I thought that it was a publicity
+stunt when he announced his run for president. There was no way in hell that I'd
+vote for Trump. I didn't think that Trump had a snowballs chance in hell of
+winning. But watching **The Apprentice: White House** unfold, and watching the
+sycophants and acolytes of the Trump Party cower in fear of Trump, I'm a
+Democrat straight party voter until the Trump Party dies and sanity returns
+returns to the Republican Party.
 
 Both political parties fucked up in 2016!
 
@@ -89,32 +96,56 @@ Trump may act *"presidential"* for five minutes, but it is impossible for him to
 
 ### Government Ain't Business
 
-Government is not a business and should not be run as a business. Government provides services and has laws to manage the smooth functioning of society. Trump has no business experience running a large corporation having executive officers with a board of directors as independent advisors. The Trump Organization is *simply* a large family-run business, which he runs like a dictatorship.
+Government is not a business and should not be run as a business. Government
+provides services and has laws to manage the smooth functioning of society.
+Trump has no business experience running a large corporation having executive
+officers with a board of directors as independent advisors. The Trump
+Organization is *simply* a large family-run business, which he runs like a
+dictatorship.
 
 ### Leadership
 
-Leadership is not intimidation and fear. Trump has absolutely, no fucking clue as to how government works. He thinks that he can run government like his family owned business. Trump thinks that he can just bark orders and people will jump through hoops like a circus poodle and that he can fire and hire federal employees at will.
+Leadership is not intimidation and fear. Trump has absolutely, no fucking clue
+as to how government works. He thinks that he can run government like his family
+owned business. Trump thinks that he can just bark orders and people will jump
+through hoops like a circus poodle and that he can fire and hire federal
+employees at will.
 
-A true leader recognizes and praises their team for their successes and accepts blame and responsibility when things fail. Trump claims credit for others' accomplishment, the *"I did that all by myself!"*, and blames others for his failures, the *"It's not my fault."*[^111]
+A true leader recognizes and praises their team for their successes and accepts
+blame and responsibility when things fail. Trump claims credit for others'
+accomplishment, the *"I did that all by myself!"*, and blames others for his
+failures, the *"It's not my fault."*[^111]
 
 ### The Apprentice: White House
 
-As can be seen in the [Presidential Rankings Survey - Historians Rank the Top 10 Presidents / C-SPAN Survey on Presidents 2021](https://www.c-span.org/presidentsurvey2021/?page=overall), section 17 of this page, Trump places dead last among modern day president's.
+As can be seen in the [Presidential Rankings Survey - Historians Rank the Top 10
+Presidents / C-SPAN Survey on Presidents 2021](https://www.c-span.org/presidentsurvey2021/?page=overall),
+section 17 of this page, Trump places dead last among modern day president's.
 
-Trump may have been a breath of fresh air, but nothing has changed about Trump. He's still a *bull in a china shop.* After four years, Trump still thinks that he can run America like a dictatorship.
+Trump may have been a breath of fresh air, but nothing has changed about Trump.
+He's still a *bull in a china shop.* After four years, Trump still thinks that
+he can run America like a dictatorship.
 
 ### Nepotism and Cronyism
 
 Trump's executive office and cabinet was rife with [nepotism](http://www.merriam-webster.com/dictionary/nepotism) and [cronyism](http://www.merriam-webster.com/word-of-the-day/2024/09/03/).
 
-Trump's daughter, Ivanka Kushner and son-in-law, Jared Kushner, were unqualified to be part of his executive office.
+Trump's daughter, Ivanka Kushner and son-in-law, Jared Kushner, were unqualified
+to be part of his executive office.
 
 ### Cult Worship and Idolatry
 
 #### Acolytes and Sycophants
 
-Senator Lindsey Graham (T-SC) has the attention span of a squirrel. After the attempted insurrection on January 6, 2021, Graham said *"That's it! I'm done with Trump."* He was on NBC's Meet The Press after the failed assassination of Trump in 2024. He said that he was supposed to play golf with Trump that weekend. Graham is one of Trump's [sycophants](http://www.merriam-webster.com/dictionary/sycophant). He has he head so far up  Trump's ass that he doesn't know if it's night or day.
+Senator Lindsey Graham (T-SC) has the attention span of a squirrel. After the
+attempted insurrection on January 6, 2021, Graham said 
+*"That's it! I'm done with Trump."* He was on NBC's Meet The Press after the
+failed assassination of Trump in 2024. He said that he was supposed to play golf
+with Trump that weekend. Graham is one of Trump's [sycophants](http://www.merriam-webster.com/dictionary/sycophant).
+He has he head so far up  Trump's ass that he doesn't know if it's night or day.
 
-[Senator Tim Scott (T-SC) – Meet the Press. May 5, 2024](https://www.nbcnews.com/meet-the-press/video/federal-funding-is-a-privilege-not-a-right-tim-scott-tells-college-presidents-full-interview-210290757680) refused to answer a simple 'yes/no' answer to the question "Will you accept the election results if Trump loses?". As one of Trump's [acolytes](http://www.merriam-webster.com/dictionary/acolyte), Scott is Trump's "lawn jockey". He does not have the courage to stand for what's right.
-
-
+[Senator Tim Scott (T-SC) – Meet the Press. May 5, 2024](https://www.nbcnews.com/meet-the-press/video/federal-funding-is-a-privilege-not-a-right-tim-scott-tells-college-presidents-full-interview-210290757680)
+refused to answer a simple 'yes/no' answer to the question "Will you accept the
+election results if Trump loses?". As one of Trump's
+[acolytes](http://www.merriam-webster.com/dictionary/acolyte), Scott is Trump's
+"lawn jockey". He does not have the courage to stand for what's right.
