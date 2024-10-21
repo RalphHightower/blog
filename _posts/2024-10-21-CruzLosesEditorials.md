@@ -1,13 +1,13 @@
 ---
 layout: post
-tags: [Colin Allred, Ted Cruz, Texas ]
+tags: [Colin Allred, Ted Cruz, Texas]
 categories: [2024 US Senate Race Texas]
 date: 2024-10-21 9:14 AM
 excerpt: "Cruz could have supported the peaceful transfer of power in the 2020 presidential election. He instead was the first senator to rise in objection to certifying the electoral vote and one of just six to do so. His actions were a catalyst for what became one of the worst days in our nation's history."
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: 'title'
+title: "Bless His Heart: Senator Ted 'Cancun' Cruz (T-SC) Ain't Endorsed Major Texas Newspapers"
 ---
 
 
