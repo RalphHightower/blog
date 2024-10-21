@@ -7,7 +7,7 @@ excerpt: 'The last few years have been challenging for the knowledge community w
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: 'Shit! Here We Go Again Part 4: Trump Taught "Republicans" How To Try To Steal Elections"
+title: 'Shit! Here We Go Again Part 4: Trump Taught "Republicans" How To Try To Steal Elections'
 ---
 
 
