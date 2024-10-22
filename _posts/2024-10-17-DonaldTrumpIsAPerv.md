@@ -19,5 +19,8 @@ Several former Miss USA and Miss Teen USA contestants accused Trump of entering 
 
 Trump has denied all the allegations against him, saying he has been the victim of media bias, conspiracies, and a political smear campaign. In October 2016, Trump publicly vowed to sue all the women who have made allegations of sexual misconduct against him, as well as The New York Times for publishing the allegations.[^412]
 
+[Amazon.com: All the President's Women: Donald Trump and the Making of a Predator: 9780316492669: Levine, Barry, El-Faizy, Monique: Books](https://www.amazon.com/gp/product/0316492663?ie=UTF8&tag=thewaspos09-20&camp=1789&linkCode=xm2&creativeASIN=0316492663). $14.98 hardback
+
 [^411]: Wikipedia – [Donald Trump sexual misconduct allegations](https://en.wikipedia.org/wiki/Donald_Trump_sexual_misconduct_allegations?wprov=sfla1)
+
 [^412]: [Book review of All the President's Women: Donald Trump and the Making of a Predator by Barry Levine and Monique El-Faizy - The Washington Post](https://www.washingtonpost.com/outlook/a-thorough-revolting-history-of-trumps-behavior-toward-women/2019/10/23/3dea9ac4-d00d-11e9-b29b-a528dc82154a_story.html). October 23, 2019 at 12:02 p.m. EDT
