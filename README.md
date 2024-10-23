@@ -10,15 +10,22 @@ from mine. But the only person that can convince me that Trump is not a fucking
 idiot is Donald Trump himself. I probably won't change your opinion or vote.
 Likewise, you won't be able to change my assignment of Trump.
 
+And no, I do not have Trump Derangement Syndrome[42]. My opinion of Trump hasn't 
+wavered from when he first announced his presidential run. He's still a fucking
+idiot.
+
+At least,  I don't belong to a cult or have RTD[^43].
+
 Both political parties fucked up in 2016.
 
 - The Democrats chose Hillary because it was *"her turn."*
-- The Republicans chose the candidate, Donald Trump, that was, and still is, unfit and unqualified to be president.[^21]
+- The Republicans chose the candidate, Donald Trump, that was, and still is, unfit and unqualified to be president.[^41]
 
 Both candidates are polarizing!
 
-[^21]: Trump meets the constitutional age requirement, but that's saying little.
-[^22]: Wikipedia — [Trump derangement syndrome](https://en.wikipedia.org/wiki/Trump_derangement_syndrome?wprov=sfla1)
+[^41]: Trump meets the constitutional age requirement, but that's saying little.
+[^42]: Wikipedia — [Trump derangement syndrome](https://en.wikipedia.org/wiki/Trump_derangement_syndrome?wprov=sfla1)
+[^43]: Rabid Trump Disease.
 
 Discussions and comments can be placed here: [RalphHightower/blog ·
 Discussions · GitHub](https://github.com/RalphHightower/blog/discussions).
