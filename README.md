@@ -17,7 +17,7 @@ Both political parties fucked up in 2016.
 
 Both candidates are polarizing!
 
-[^21]: Trump meets the constitutional age requirement, but that's saying little.
+[^21]: Trump meets the constitutional age requirement, but that's saying little. Plus Trump is dementia-ning! Talking about Arnold Palmer's balls, no it's not Titlist; it's that part of the anatomy that LPGA pros don't have.
 [^22]: Wikipedia — [Trump derangement syndrome](https://en.wikipedia.org/wiki/Trump_derangement_syndrome?wprov=sfla1)
 
 Discussions and comments can be placed here: [RalphHightower/blog ·
@@ -41,10 +41,13 @@ attempt to overthrow a fair election.
 
 - Tame your temper! Quit throwing **Trumper Tantrums!**
 - Quit your pathological lying and tell the **God-damned truth!**
+- Quit your **God-damned gaslighting[^51]**!
 - Start treating people with **respect!** I.e., quit that childish behavior of calling people names and acting like a school-yard bully.
 - Be a true leader! A true leader recognizes team members, and subordinates for their accomplishment, and accepts the blame when things fail. A true leader does not use intimidation and fear.
 - Quit your whining, *"It's not fair"* Grow up and be an adult!
 - Accept the fact that the president lives under a **microscope.** You will be praised by some and condemned others for your actions or inactions.
+
+[^51]: [gaslighting –  Merriam-Webster](http://www.merriam-webster.com/dictionary/gaslighting): noun<br /gas·​light·​ing \| \ ˈgas-ˌlī-tiŋ , -ˈlī- \<br />Definition (Entry 1 of 2)<br />1: psychological manipulation of a person usually over an extended period of time that causes the victim to question the validity of their own thoughts, perception of reality, or memories and typically leads to confusion, loss of confidence and self-esteem, uncertainty of one's emotional or mental stability, and a dependency on the perpetrator<br />//Gaslighting can be a very effective tool for the abuser to control an individual. It's done slowly so the victim writes off the event as a one off or oddity and doesn't realize they are being controlled and manipulated.<br />— Melissa Spino<br />//Gaslighting can happen in any relationship circumstance, including between friends and family members—not just in couple relationships.<br />— Deena Bouknight<br />//This is a classic gaslighting technique—telling victims that others are crazy and lying, and that the gaslighter is the only source for "true" information. It makes victims question their reality …<br />— Stephanie Sarkis<br />2: the act or practice of grossly misleading someone especially for one's own advantage<br />//Election season can create emotions spanning from immense anxiety all the way to extreme apathy. The public arguing, divisiveness, and competition for votes, including political gaslighting, can be overwhelming and exhausting.<br />— Vernita Perkins and Leonard A. Jason<br />//As the midterm elections approach, Americans have gotten an earful both about crime itself and how the other side is distorting the news about it for political gain. “Cherry-picking!” “Fearmongering!” “Gaslighting!”<br />— Chris Herrmann and Fritz Umbach<br />//Intense gaslighting techniques are making it difficult for Montana's commoners to discern what's truth and what's propaganda.<br />— Steve Kelly<br />//This corporate gaslighting effectively blames children for being addicted to social media and conveniently ignores how companies have intentionally designed their products to have addictive features …<br />— Nancy Kim
 
 Trump keeps boasting that he is a highly intelligent person. As Brad Pitt said
 in the movie, Moneyball, "Show me the money!". In Trump’s case, I say "Show
