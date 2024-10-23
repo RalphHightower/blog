@@ -7,7 +7,7 @@ excerpt: 'The last thing in the world the former Joint Chiefs chair wants to be 
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: 'Former Joint Chiefs Gen. Miley: Trump Fascist to the Core and The Most Dangerous Person to this Country.'
+title: 'Former Joint Chiefs Gen. Miley: Trump Fascist to the Core and The Most Dangerous Person to this Country.
 ---
 ## [I know Mark Milley. We should take his Trump warning seriously.](https://www.msnbc.com/top-stories/latest/trump-mark-milley-facist-dangerous-weaponization-military-rcna175537)
 

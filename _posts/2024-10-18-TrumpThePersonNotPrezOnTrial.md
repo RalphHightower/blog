@@ -13,6 +13,7 @@ title: 'Trump the Private Citizen On Trial, Not As President '
 
 ## [Jack Smith 'Outsmarted' Supreme Court in Trump Filing: Historian - Newsweek](https://www.newsweek.com/donald-trump-jack-smith-prosecution-washington-tanya-chutkan-evidence-release-1966195)
 
+
 By Sean O'Driscoll
 Senior Crime and Courts Reporter
 Published Oct 09, 2024 at 5:16 AM EDT. Updated Oct 09, 2024 at 8:30 AM EDT
@@ -22,7 +23,4 @@ Published Oct 09, 2024 at 5:16 AM EDT. Updated Oct 09, 2024 at 8:30 AM EDT
 - **New Evidence**: Smith's October 2 evidence brief includes previously unknown details about Trump's actions during the January 6 Capitol riot.
 - **Future Implications**: The continuation of Trump's prosecution depends on the outcome of the upcoming presidential election.
 
-Federal prosecutor Jack Smith reframed the indictment of Donald Trump's attempt
-to overturn the election as Donald Trump, the private citizen, running for
-reelection, bypassing the potential probles regarding the overly broad
-*"presidential immunity"* that was granted by the Supreme Court. 
+Federal prosecutor Jack Smith reframed the indictment of Donald Trump's attempt to overturn the election as Donald Trump, the private citizen, running for reelection, bypassing the potential probles regarding the overly broad *"presidential immunity"* that was granted by the Supreme Court. 

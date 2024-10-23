@@ -1,13 +1,13 @@
 ---
 layout: post
-tags: [Donald Trump, Ivana Marie Zelníčková, Marla Maples. Melania (Melanija) Knavs, porn star, Stormy Daniels, Playboy© Playmate  Karen McDougal, marital infidelity, extramarital affairs]
+tags: [Donald Trump, Ivana Marie Zelníčková, Marla Maples. Melania (Melanija) Knavs, Stormy Daniels, Karen McDougal, marital infidelity, extramarital affairs, porn star, Playboy©]
 categories: [2024 presidential election]
 date: 2024-10-17 11:57 AM
-excerpt: 'In 2018, Knavs and her husband, Viktor, obtained green cards and then became naturalized U.S. citizens using the U.S. family-based immigration program, which Trump had denounced as "chain migration"'
+#excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: "Trump's Wives, Extramarital Affairs, Mistresses, and One Night Stands"
+title: 'Trump's Extramarital Affairs, Mistresses, and One Night Stands'
 ---
 
 

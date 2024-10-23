@@ -1,17 +1,17 @@
 ---
 layout: post
-tags: [Colin Allred, Ted Cruz, Texas]
+tags: [Colin Allred, Ted Cruz, Texas ]
 categories: [2024 US Senate Race Texas]
 date: 2024-10-21 9:14 AM
-excerpt: "Cruz could have supported the peaceful transfer of power in the 2020 presidential election. He instead was the first senator to rise in objection to certifying the electoral vote and one of just six to do so. His actions were a catalyst for what became one of the worst days in our nation's history."
+excerpt: "Cruz  could have supported the peaceful transfer of power in the 2020 presidential election. He instead was the first senator to rise in objection to certifying the electoral vote and one of just six to do so. His actions were a catalyst for what became one of the worst days in our nation's history.''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: "Bless His Heart: Senator Ted 'Cancun' Cruz (T-SC) Ain't Endorsed Major Texas Newspapers"
+title: 'title'
 ---
 
 
-## [Ted Cruz Suffers Blow as Texas' Biggest Newspaper Endorses Opponent](https://www.newsweek.com/ted-cruz-blow-newspaper-endorses-opponent-1972051)
+## [Ted Cruz (T-TX)](https://www.cruz.senate.gov/) Suffers Blow as Texas' Biggest Newspaper Endorses Opponent](https://www.newsweek.com/ted-cruz-blow-newspaper-endorses-opponent-1972051)
 
 @RalphHightower: US Senator "[Cancun Cruz (T-TX)](https://www.cruz.senate.gov/)" (T-TX) faced severe criticism and backlash for fleeing Texas when the Lone Star electric grid failed during the February 2021 blizzard.[^11]
 
