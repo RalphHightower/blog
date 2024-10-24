@@ -46,23 +46,24 @@ Characteristics of Trump:
 16. Fragile
 17. Gaslighter
 18. Grifter
-19. Huckster
-20. Mean
-21. Megalomaniac
-22. Misogynist
-23. Narcissis
-24. Pathological Liar
-25. Petty
-26. Philander
-27. Sore Loser
-28. Spoiled Brat
-29. Sore Winner[^113]
-30. Tax Cheat
-31. *"Terrible Twos"*
-32. Temperamental
-33. Toddler
-34. Unfit
-35. Unqualified
+19. Hypocrite
+20. Huckster
+21. Mean
+22. Megalomaniac
+23. Misogynist
+24. Narcissis
+25. Pathological Liar
+26. Petty
+27. Philander
+28. Sore Loser
+29. Spoiled Brat
+30. Sore Winner[^113]
+31. Tax Cheat
+32. *"Terrible Twos"*
+33. Temperamental
+34. Toddler
+35. Unfit
+36. Unqualified
 37. Volatile
 38. Whiner
 39. Zipper Problems[^114]
@@ -117,4 +118,4 @@ Senator Lindsey Graham (T-SC) has the attention span of a squirrel. After the at
 
 [Senator Tim Scott (T-SC) – Meet the Press. May 5, 2024](https://www.nbcnews.com/meet-the-press/video/federal-funding-is-a-privilege-not-a-right-tim-scott-tells-college-presidents-full-interview-210290757680) refused to answer a simple 'yes/no' answer to the question "Will you accept the election results if Trump loses?". As one of Trump's [acolytes](http://www.merriam-webster.com/dictionary/acolyte), Scott is Trump's "lawn jockey". He does not have the courage to stand for what's right.
 
-
+
