@@ -7,7 +7,7 @@ excerpt: 'To sow election doubt, Trump escalated use of “rigged election” an
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: 'title'
+title: 'Conspiracy Part 1: Trump Is King Of Conspiracies'
 ---
 
 
