@@ -7,7 +7,7 @@ excerpt: "Cruz could have supported the peaceful transfer of power in the 2020 p
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: "Bless His Heart: Senator Ted 'Cancun' Cruz (T-SC) Ain't Endorsed Major Texas Newspapers"
+title: "Bless His Heart: Senator Ted 'Cancun' Cruz (T-TX) Ain't Endorsed Major Texas Newspapers"
 ---
 
 
