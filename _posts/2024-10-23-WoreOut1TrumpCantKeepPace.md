@@ -29,3 +29,5 @@ By Steve Benen
 As for the possible explanations for these many cancelations, Politico reported that Trump’s team told one outlet that the candidate’s schedule has been so busy that it’s led to “exhaustion.”
 
 “Being president of the United States is probably one of the hardest jobs in the world.” Harris told reporters late last week, after referencing the Politico report. “And so, we really do need to ask if he’s exhausted being on the campaign trail, is he fit to do the job?”
+
+@RalphHightower: With the exception of Joe Biden, because his hair was already white, the presidency ages a person. Just look at the before and after photos of Bush (W), Clinton, and Obama. They all ended their two terms with significantly grayed hair. Trump, vain as he is, still has that Tang colored hair.
