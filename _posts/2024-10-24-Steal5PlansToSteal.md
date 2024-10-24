@@ -3,7 +3,7 @@ layout: post
 tags: [Donald Trump, Kamala Harris. election integrity]
 categories: [2024 presidential election]
 date: 2024-10-24 9:48 AM
-excerpt: 'My main concern is voter intimidation by poll watchers, as well as intimidating election workers and getting into their faces, generally slowing them down and creating disruptions. –  Andrew Garber, a lawyer and elections expert with New York University's non-partisan Brennan Center for Justice.'
+excerpt: "My main concern is voter intimidation by poll watchers, as well as intimidating election workers and getting into their faces, generally slowing them down and creating disruptions. –  Andrew Garber, a lawyer and elections expert with New York University's non-partisan Brennan Center for Justice."
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
