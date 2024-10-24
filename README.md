@@ -39,8 +39,9 @@ president. My assessment has not wavered from 2016. America must not renew
 
 "The Apprentice: White House" ended a tumultuous four year season ingloriously
 in January 2020, in an extraordinary low point in American history when
-thousands of far-right undesirables lay siege on the US Capitol in a vain
-attempt to overthrow a fair election.
+thousands of far-right undesirables, Pride Boys, Zero Percenters and Oath Losers,
+lay siege on the US Capitol in a vain attempt of insurrection to overthrow a
+fair election.
 
 ### Donald Trump Needs to Change His Behavior and Demeanor
 
