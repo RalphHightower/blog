@@ -3,7 +3,7 @@ layout: post
 tags: [Donald Trump, enemy within, natural American citizens, hateful rhetoric, dangerous rhetoric, Pride Boys, Zero Percenters, Oath Losers, insurrection act, military deployment against Amercans citizens]
 categories: [2024 presidential election]
 date: 2024-10-26 5:45 PM
-excerpt: '“The crazy lunatics that we have — the fascists, the Marxists, the communists, the people that we have that are actually running the country, Those people are more dangerous — the enemy from within — than Russia and China and other people. – Donald Trump, former president. And let's keep his title as former. @RalphHightower'
+excerpt: '“The crazy lunatics that we have — the fascists, the Marxists, the communists, the people that we have that are actually running the country, Those people are more dangerous — the enemy from within — than Russia and China and other people. – Donald Trump, former president. And let us keep his title as former. @RalphHightower'
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
