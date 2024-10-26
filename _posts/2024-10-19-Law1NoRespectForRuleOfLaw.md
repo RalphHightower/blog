@@ -62,7 +62,7 @@ You had a peaceful transfer of power? Come on President Trump,[^11] you had had
 a peaceful transfer of power compared to Venezuela.[^12] But it was by far the
 most, the worst transfer of power for a long time.[^13]
 
-![Grumpy Trump Looks Like He's Been Sent to a Corner By His Teacher](/img/GrumpyTrumpChicago.jpeg)
+![Grumpy Trump Looks Like He's Been Sent to a Corner By His Teacher](/blog/img/GrumpyTrumpChicago.jpeg)
 
 [^11]: @RalphHightower: There was nothing peaceful of Congress' certification of the 2020 presidential election. The insurrection led Trump’s Pride Boys, Zero Percenters, and Oath Losers is a black stain in American history. 
 
