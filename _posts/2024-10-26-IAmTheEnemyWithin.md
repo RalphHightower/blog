@@ -25,9 +25,15 @@ I am not any of the following:
 
 I am an American natural citizen as is my wife. Both our fathers served served in WW II. I was an independent voter, until Trump was elected and I saw what were formerly known as Republicans cower in fear of Trump. I am now a straight party Democrat and I will continue to be until Trumpism dies.
 
-My opinion of Trump has not wavered from 2015. He is still a **fucking idiot**, unqualified and unfit to serve himself[^11] as president!
+My opinion of Trump has not wavered from 2015. He is still a **fucking idiot**, unqualified and unfit to be president, only fit to serve himself[^11] as president!
 
 [^11]: @RalphHightower: Notice I that used *"serve himself as president"* instead of serve as president? That is because the only person that Trump thinks of, is himself. 
+
+Donald Trump on Friday said “the enemy from within” the United States poses a greater threat than the dictator of North Korea, a pariah state and long-standing American adversary — reprising a phrase that has drawn criticism during a meandering three-hour interview with the popular podcaster Joe Rogan.
+
+“We had no problem with him,” Trump said of North Korean leader Kim Jong Un[^51], before adding, “I say it to people, we have a bigger problem, in my opinion, with the enemy from within.”
+
+[^51]: @RalphHightower: Of course not! We've known that you admire dictators, Adolf Hitler, Vladimir Putin, Kim Jong-un, Viktor Orbán; that you are pen-pals with Kim Jong-un. 
 
 - **Trump's Focus on Enemies**: Donald Trump is increasingly fixated on Americans he believes have wronged him, labeling them as more dangerous than foreign adversaries.
 - **Criticism and Concerns**: Critics, including former aides and Vice President Kamala Harris, warn that Trump's rhetoric and potential actions in a second term could threaten democracy.
@@ -38,7 +44,6 @@ In his rallies and interviews, the former president is increasingly fixated on t
 
 [^21]: [If elected, Trump plans to further test limits of military power at home / AP News](https://apnews.com/article/trump-military-border-civil-unrest-domestic-use-a136c69cc85184b07f161c4c09b46c50). By  STEPHEN GROVES. Updated 10:02 PM EDT, October 13, 2024
 [^22]: [Trump's promise of payback for prosecution follows years of attacking democratic traditions / AP News](https://apnews.com/article/trump-retribution-indictment-documents-biden-american-democracy-5a8ec37b359fee85d0f0956139d79f51). By  Nicholas Riccardi and Gary Fields. Published 12:23 AM EDT, June 16, 2023
-
 
 “The crazy lunatics that we have — the fascists, the Marxists, the communists, the people that we have that are actually running the country,” Trump said this month at a rally in Wisconsin. “Those people are more dangerous — the enemy from within — than Russia and China and other people.”
 
