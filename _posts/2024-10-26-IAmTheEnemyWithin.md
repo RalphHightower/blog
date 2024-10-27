@@ -3,7 +3,7 @@ layout: post
 tags: [Donald Trump, enemy within, natural American citizens, hateful rhetoric, dangerous rhetoric, Pride Boys, Zero Percenters, Oath Losers, insurrection act, military deployment against Amercans citizens]
 categories: [2024 presidential election]
 date: 2024-10-26 5:45 PM
-excerpt: '“The crazy lunatics that we have — the fascists, the Marxists, the communists, the people that we have that are actually running the country, Those people are more dangerous — the enemy from within — than Russia and China and other people. – Donald Trump, former president. And let's keep his title as former. @RalphHightower'
+excerpt: '“The crazy lunatics that we have — the fascists, the Marxists, the communists, the people that we have that are actually running the country, Those people are more dangerous — the enemy from within — than Russia and China and other people. – Donald Trump, former president. And let us keep his title as former. @RalphHightower'
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
@@ -42,6 +42,8 @@ In his rallies and interviews, the former president is increasingly fixated on t
 
 “The crazy lunatics that we have — the fascists, the Marxists, the communists, the people that we have that are actually running the country,” Trump said this month at a rally in Wisconsin. “Those people are more dangerous — the enemy from within — than Russia and China and other people.”
 
+@RalphHightower: I am not a lunatic. Unlike you, Trump, I am not in cognitive decline, or as your psychologist niece, Mary Trump says, experiencing dementia.
+
 Trump got push-back from the closest thing to far-right *"state-run"* media, [Faux News](https://www.foxnews,com/):
 
 - Howard Kurtz of Fox News told Trump in an interview last weekend that “enemies from within is a pretty ominous phrase, if you’re talking about other Americans.”
@@ -59,5 +61,3 @@ Trump would staff his administration with sycophants, ass-kissers, boot-lickers,
 Here's What Schiff has to say:
 
 - "We’re seeing a lot of very erratic behavior, which would be OK if it was your crazy grandpa, crazy old grandpa, but this is a candidate for president. Trump has replaced competent advisers with utter sycophants (in his prior term). If Trump returns to power, we’re all going to have to do everything we can to defend our democracy and our institutions.”
-
-
