@@ -7,7 +7,7 @@ excerpt: "“Their immigration status was not what it should be for them to be l
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: 'Deport Elon Musk. MuskX Was as Illegal Alien. '
+title: 'Deport Elon Musk. MuskX Was as Illegal Alien.'
 ---
 
 
