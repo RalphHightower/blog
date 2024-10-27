@@ -3,7 +3,7 @@ layout: post
 tags: [USC, Carolina Marching Band, Thanksgiving Day Parade, Macys, New York City, fundraising, Columbia, South Carolina, WIS-TV]
 categories: [Macy's Thanksgiving Day Parade, University of South Carolina Marching Band]
 date: 2024-10-26 8:35 PM
-excerpt: '“An invitation to the Macy’s Thanksgiving Day Parade is the National Championship for Marching Bands and an incredible honor. This is the first time in the band’s 104 year history that it’s been invited and therefore not a normal line-item expense that we or any band anticipates. With transportation, housing, food and other expenses, the entire cost for 400 people is $650,000. We have raised about half of it so far, so time is of the essence! The students will be on the road for an entire week.” – Audra Vaz, The Assistant Dean for Advancement at the USC School of Music.
+excerpt: '“An invitation to the Macy’s Thanksgiving Day Parade is the National Championship for Marching Bands and an incredible honor. This is the first time in the band’s 104 year history that it’s been invited and therefore not a normal line-item expense that we or any band anticipates. With transportation, housing, food and other expenses, the entire cost for 400 people is $650,000. We have raised about half of it so far, so time is of the essence! The students will be on the road for an entire week.” – Audra Vaz, The Assistant Dean for Advancement at the USC School of Music.'
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
