@@ -7,7 +7,7 @@ excerpt: 'no election superintendent (or member of a board of elections and regi
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: 'Steal This Election – Part 7: Georgia Government Employee Refuses To Do Her Job'board
+title: 'Steal This Election – Part 7: Georgia Government Employee Refuses To Do Her Job.'
 ---
 
 
