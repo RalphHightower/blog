@@ -43,8 +43,8 @@ plugins:
   - jekyll-relative-links
   - jekyll-seo-tag
   - jekyll-sitemap
-  - jekyll-tagging
-  # - jekyll-titles-from-headings
+  # - jekyll-tagging
+  - jekyll-titles-from-headings
   - h32-jekyll-tagging
   - jekyll_ai_related_posts
    
