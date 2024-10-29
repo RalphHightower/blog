@@ -17,8 +17,7 @@ Story by Michael Isikoff. October 28, 2024.
 
 @RalphHightower: Trump has been a grifter[^11], a con man as long as he has been a businessman. It is ironic that the table has been turned, even though it is on a smaller scale. 
 
-[^11]: [
-"grifter" • Merriam-Webster:](http://www.merriam-webster.com/dictionary/grifter) verb<br />\ ˈgrift  \<br />grift​ed; grift​ing; grifts<br />Definition<br />transitive ​verb<br />: to obtain (money or property) illicitly (as in a confidence game)<br />intransitive ​verb<br />: to acquire money or property illicitly<br />Other Words<br />grift noun<br />grift​er noun
+[^11]: @RalphHightower: "grifter" • Merriam-Webster:](http://www.merriam-webster.com/dictionary/grifter) verb<br />\ ˈgrift  \<br />grift​ed; grift​ing; grifts<br />Definition<br />transitive ​verb<br />: to obtain (money or property) illicitly (as in a confidence game)<br />intransitive ​verb<br />: to acquire money or property illicitly<br />Other Words<br />grift noun<br />grift​er noun
 
 - **Whistleblower Allegations**: A Trump campaign worker was fired after alleging that top campaign officials were involved in "grift and greed," funneling millions to overcharging companies.
 - **Surveillance Concerns**: The worker claimed that campaign leadership installed a listening device in a conference room to snoop on private conversations.
