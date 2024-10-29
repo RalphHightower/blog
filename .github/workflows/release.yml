@@ -1,4 +1,4 @@
-name: relase.yml – Release
+name: release.yml – Release
 "on":
   push:
     branches:
