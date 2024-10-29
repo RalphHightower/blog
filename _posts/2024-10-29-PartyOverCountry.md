@@ -16,6 +16,10 @@ title: "Fuck the Country! Damn Democracy. It's Party Over Country!"
 Oct. 22, 2024, 5:40 PM EDT
 By Michael A. Cohen, MSNBC Columnist
 
+@RalphHightower: Although there are brave souls like former Vice President Dick Cheney (R)[^11] and former US Rep. Liz Cheney (R-WY)[^11], that are willing to put Country over party, there are no elected Republicans with the courage to rise up and speak against Trump. There are only elected Trumpers that cower in fear of Trump.
+
+[^11]: @RalphHightower: Liz and Dick Cheney keep the Republican designation. The former Republicans are denoted by T, for Trumpers.
+
 ### No matter how low your opinion of Sen. Mitch McConnell — and his chronic, craven, cynicism — he still somehow finds a way to shock and amaze.
 
 The Associated Press published excerpts from a new biography of Senator Mitch McConnell (T-SC), written by Michael Tackett, AP’s deputy Washington bureau chief. In the biography, McConnell assessed Trump as:
@@ -43,15 +47,15 @@ But there's no love lost between Trump’s cult and McConnell. Yet, despite of M
 Trump’s cult members greeted McConnell at the 2024 convention with:
 
 - resounding boos from the delegates
-- the faithful cult members heckled McConnell as he pledged the support of Kentucky’s delegation to Trump’s presidential bid. 
+- the faithful cult members heckled McConnell as he pledged the support of Kentucky’s delegation to Trump’s presidential bid.
 
-No matter how much Trump and his supporters vilify and attack him, McConnell’s devotion is stupefyingly consistent. 
+No matter how much Trump and his supporters vilify and attack him, McConnell’s devotion is stupefyingly consistent.
 
-McConnell almost voted to convict Trump in his second impeachment. 
+McConnell almost voted to convict Trump in his second impeachment.
 
 It becomes a matter of ifs:
 
-- if McConnell voted to convict Trump after his second impeachment. If he had done so — and 
+- if McConnell voted to convict Trump after his second impeachment. If he had done so — and
 - if McConnell had rallied enough Republicans behind him
 
 Then it likely would have stopped Trump from ever running again for public office, and the GOP would have been rid of a man who McConnell privately considers “despicable.”
@@ -60,15 +64,17 @@ McConnell couldn’t go through it and instead criticized Trump’s actions on J
 
 Make no mistake: There is a singular explanation for Trump’s continued viability as a candidate.
 
-It would be one thing if McConnell’s support for Trump were driven by personal ambition. That would be awful and cynical — but it matches the attitudes of many other Republican politicians, including Trump’s own running mate JD Vance, who have publicly supported Trump even while privately vilifying him. 
+It would be one thing if McConnell’s support for Trump were driven by personal ambition. That would be awful and cynical — but it matches the attitudes of many other Republican politicians, including Trump’s own running mate JD Vance, who have publicly supported Trump even while privately vilifying him.
 
 Indeed, McConnell referenced this sentiment gap when asked for comment about his private remarks. “Whatever I may have said about President Trump pales in comparison to what JD Vance, Lindsey Graham and others have said about him, but we are all on the same team now.”
 
 Translation: ***We’re all a bunch of cynical, feckless cowards who will subsume our private judgment for our public ambitions. But at least we’re united in our cravenness.***
 
-However, unlike Vance and Graham, McConnell’s political path is nearing its conclusion. He is stepping down as Senate Republican leader at the end of this year and is unlikely to run for re-election in 2026. He doesn’t have to worry about alienating Trump’s supporters. 
- 
-Seemingly, the only possible explanation for McConnell’s continued acquiescence to Trump’s humiliation is that, as a lifelong Republican, he can’t imagine coming out against a Republican president. For McConnell, **loyalty to his party is greater than his support for his country.** 
+However, unlike Vance and Graham[^71], McConnell’s political path is nearing its conclusion. He is stepping down as Senate Republican leader at the end of this year and is unlikely to run for re-election in 2026. He doesn’t have to worry about alienating Trump’s supporters.
+
+[^71]: @RalphHightower: Senator Lindsey Graham (T-SC) is one of Trump's biggest sycophants. He wants to keep his golf privileges with Trump.
+
+Seemingly, the only possible explanation for McConnell’s continued acquiescence to Trump’s humiliation is that, as a lifelong Republican, he can’t imagine coming out against a Republican president. For McConnell, **loyalty to his party is greater than his support for his country.**
 
 For years, there’s been a raging debate in political circles as to who or what is responsible for Trump’s political rise. But make no mistake: There is a singular explanation for Trump’s continued viability as a candidate — a party of craven and cynical politicians who would rather endorse a narcissistic, ill-tempered and despicable liar than do what they know to be right.
 
