@@ -3,7 +3,7 @@ layout: post
 tags: [Donald Trump, Mitch McConnell, impeachment, party loyalty]
 categories: [2024 presidential election]
 date: 2024-10-29 2:00 PM
-excerpt: '“Whatever I may have said about President Trump pales in comparison to what JD Vance, Lindsey Graham and others have said about him, but we are all on the same team now.”'
+excerpt: '“Whatever I may have said about President Trump pales in comparison to what JD Vance, Lindsey Graham and others have said about him, but we are all on the same team now.” – Senator Mitch McConnell (T-KY)'
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
@@ -22,7 +22,7 @@ By Michael A. Cohen, MSNBC Columnist
 
 ### No matter how low your opinion of Sen. Mitch McConnell — and his chronic, craven, cynicism — he still somehow finds a way to shock and amaze.
 
-The Associated Press published excerpts from a new biography of Senator Mitch McConnell (T-SC), written by Michael Tackett, AP’s deputy Washington bureau chief. In the biography, McConnell assessed Trump as:
+The Associated Press published excerpts from a new biography of Senator Mitch McConnell (T-KY), written by Michael Tackett, AP’s deputy Washington bureau chief. In the biography, McConnell assessed Trump as:
 
 - “stupid”
 - “ill-tempered”
@@ -53,7 +53,7 @@ No matter how much Trump and his supporters vilify and attack him, McConnell’s
 
 McConnell almost voted to convict Trump in his second impeachment.
 
-It becomes a matter of ifs:
+It becomes a matter of “ifs”:
 
 - if McConnell voted to convict Trump after his second impeachment. If he had done so — and
 - if McConnell had rallied enough Republicans behind him
