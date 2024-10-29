@@ -45,7 +45,6 @@ plugins:
   - jekyll-sitemap
   - jekyll-tagging
   - jekyll-titles-from-headings
-  # - h32-jekyll-tagging
   - jekyll_ai_related_posts
    
 # Theme-specific settings
