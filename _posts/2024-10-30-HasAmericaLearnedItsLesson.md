@@ -31,7 +31,7 @@ Sarah Longwell:
 - "Are they all lying?"
 - "Are we supposed to be skeptical that Trump called soldiers 'suckers' and 'losers' when he said as much out loud about John McCain?"[^31]
 - "Are we supposed to be skeptical that Trump praised Hitlers generals when he dined with white supremacist Nick Fuentes and calls people 'vermin' and talks about immigrants 'poisoning the blood' of America?"[^32]
-- "Trump is dangerous and unfit and all the responsible people who served in his last term have told us as much," Longwell concluded.
+- "Trump is dangerous and unfit and all the responsible people who served in his last term have told us as much."
 - "The dead-eyed Trump sycophants like [Sen. Lindsey Graham (T-SC)] or [Republican strategist Scott Jennings] who gaslight Americans about Trump in the face of a mountain of evidence should be dismissed."
 
 [^31]: Trump during a 2015 rally called McCain a "loser" and said that he preferred people who were not captured.
