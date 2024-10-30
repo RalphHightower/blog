@@ -7,7 +7,7 @@ excerpt: "It’s really rich for Democratic leaders to say that Donald Trump is 
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: 'So what? Nothing mlMatters to Trump Except Trump.'
+title: 'So what? Nothing Matters to Trump Except Trump.'
 ---
 
 
