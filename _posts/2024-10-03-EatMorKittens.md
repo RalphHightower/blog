@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [legal immigrants,  hoaxes, lies, JD [JD “John Boy” Vance (T-OH)](https://www.vance.senate.gov/), Donald Trump]
+tags: [legal immigrants, hoaxes, lies, JD Vance, Donald Trump]
 categories: [2024 presidential election]
 date: 2024-09-12 5:11 PM
 excerpt: "I’ve seen people on television. The people on television say, ‘My dog was taken and used for food.'"
@@ -10,7 +10,7 @@ excerpt: "I’ve seen people on television. The people on television say, ‘My 
 title: "Eat Mor' Kittens"
 ---
 
-## [How [JD “John Boy” Vance (T-OH)](https://www.vance.senate.gov/) and the Online Right Sabotaged Trump’s Debate](https://nymag.com/intelligencer/article/trump-debate-eating-pets-j-d-vance-cats-dogs-springfield.html)
+## [How JD “John Boy” Vance (T-OH) and the Online Right Sabotaged Trump’s Debate](https://nymag.com/intelligencer/article/trump-debate-eating-pets-j-d-vance-cats-dogs-springfield.html)
 
 By Jonathan Chait, who’s been a New York political columnist since 2011. NY Magazine. Sept. 11, 2024
 
