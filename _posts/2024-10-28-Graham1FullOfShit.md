@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [Donald Trump, fascist, Lindsey [Lindsey Graham (T-SC)](https://www.lgraham.senate.gov/)]
+tags: [Donald Trump, fascist, Lindsey Graham]
 categories: [2024 presidential election]
 date: 2024-10-28 9:30 AM
 excerpt: "Kelly’s undermining a concept that's been good for America. I think our generals have sort of been apolitical. He's entitled to his opinion. I just categorically reject it. Three weeks before the election, you're calling basically Trump Hitler, a fascist, is not going to resonate. What happened to joy on the Democratic side? They went from joy to now Trump is Hitler. Well, that's desperation. I think General Kelly's criticisms are not based on facts. I think it's emotional, it's sad, and it's not going to matter. – Sen. Lindsey [Lindsey Graham (T-SC)](https://www.lgraham.senate.gov/) (T-SC). [Lindsey Graham (T-SC)](https://www.lgraham.senate.gov/) just wants to keep his golf Privileges, @RalphHightower"
