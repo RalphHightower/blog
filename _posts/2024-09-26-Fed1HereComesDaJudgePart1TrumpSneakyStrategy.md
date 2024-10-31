@@ -11,7 +11,8 @@ title: "Federal Court @ Here Comes Da Judge – Part 1: Judge Unimpressed With T
 ---
 
 
-## [Judge Chutkan Unimpressed by Donald Trump's 'Sneaky Strategy': Attorney](https://www.newsweek.com/donald-trump-jack-smith-tanya-chutkan-indictment-election-fraud-january-6-1959699).
+## [Judge Chutkan Unimpressed by Donald Trump's 'Sneaky Strategy': Attorney](https://www.newsweek.com/donald-trump-jack-smith-tanya-chutkan-indictment-election-fraud-january-6-1959699)
+
 Story by Sean O'Driscoll. September 26, 2024.
 
 - **Judge's Decision**: Judge Tanya Chutkan rejected Donald Trump's attempt to delay his election-fraud case by allowing a 180-page opening brief from the prosecution.

@@ -1,9 +1,9 @@
 ---
 layout: post
-tags: [JD Vance, Tim Walz, vice president, debate]
+tags: JD Vance, Tim Walz, vice president, debate]
 categories: [2024 presidential election]
 date: 2024-10-09 05:45 PM
-excerpt: 'That is a damning non-answer. Walz response to Vance when asked the question: "Did he lose the 2020 election?"'
+excerpt: 'That is a damning non-answer. Walz response to [JD “John Boy” Vance (T-OH)](https://www.vance.senate.gov/) when asked the question: "Did he lose the 2020 election?"'
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
@@ -19,5 +19,5 @@ Analysis by Dan Balz. October 6, 2024 at 5:00 a.m. EDT
 - **Unplanned Focus**: The focus on these issues emerged coincidentally and it's uncertain how long they will remain central or influence voters.
 - **High Stakes**: Many voters see the stakes of the 2024 election as particularly consequential due to these issues.
 
-Trump found the perfect sycophant in Vance as candidate V.P. Trump's first question was probably "Are you great at lying?";
+Trump found the perfect sycophant in [JD “John Boy” Vance (T-OH)](https://www.vance.senate.gov/) as candidate V.P. Trump's first question was probably "Are you great at lying?";
 the second was more than likely, "Can you answer a question by not answering the question?"
