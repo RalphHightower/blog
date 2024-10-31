@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [[JD “John Boy” Vance (T-OH)](https://www.vance.senate.gov/), vice president,  Appalachia]
+tags: [JD Vance, vice president,  Appalachia]
 categories: [2024 presidential election]
 date: 2024-10-07 01:15 PM
 excerpt: "hashtag he ain't from here"
@@ -11,7 +11,7 @@ title: 'Hillbilly Elegy'
 ---
 
 
-## [In the heart of Appalachia, a distant cousin of [JD “John Boy” Vance (T-OH)](https://www.vance.senate.gov/) leads an opposing 'authentic hillbilly' movement](https://www.latimes.com/politics/story/2024-10-07/in-the-heart-of-appalachia-a-distant-cousin-of-jd-vance-leads-an-opposing-authentic-hillbilly-movement)
+## [In the heart of Appalachia, a distant cousin of JD “John Boy” Vance (T-OH) leads an opposing 'authentic hillbilly' movement](https://www.latimes.com/politics/story/2024-10-07/in-the-heart-of-appalachia-a-distant-cousin-of-jd-vance-leads-an-opposing-authentic-hillbilly-movement)
 
 Story by Mackenzie Mays. October 7, 2024.
 
