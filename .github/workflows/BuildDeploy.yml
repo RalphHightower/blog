@@ -12,18 +12,13 @@ jobs:
       BUNDLE_JOBS: 4
       BUNDLE_RETRY: 3
     steps:
-      - name: Harden Runner
-        uses: step-security/harden-runner@91182cccc01eb5e619899d80e4e971d6181294a7 # v2.10.1
-        with:
-          egress-policy: audit
-
       - name: Checkout Repository
-        uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
+        uses: actions/checkout@v4
         with:
           repository: jekyll/minima
           ref: demo-site
       - name: Set up Ruby 2.7
-        uses: ruby/setup-ruby@98aefb3c83eea830993080938ed245dc8e2b843b # v1.198.0
+        uses: ruby/setup-ruby@v1
         with:
           ruby-version: 2.7
           bundler-cache: true
