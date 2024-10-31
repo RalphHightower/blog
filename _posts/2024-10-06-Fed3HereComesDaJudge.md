@@ -99,6 +99,7 @@ would any other citizen.
 ## [Read Jack Smith's Trump presidential immunity redacted motion](https://www.msnbc.com/top-stories/latest/trump-presidential-immunity-jack-smith-redacted-motion-document-pdf-rcna173714)
 
 *Judge Tanya Chutkan unsealed the 165-page motion in the federal election interference case on Wednesday.*
+
 Oct. 2, 2024, 4:16 PM EDT / Updated Oct. 2, 2024, 4:38 PM EDT
 
 This page has the court filing of the government’s case against Donald Trump.

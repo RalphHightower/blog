@@ -14,7 +14,9 @@ title: 'Q: How Does One Make a Small Fortune? A: Start With a Large Fortune!'
 
 It won't be the first time that the paper that the stock certificate is printed on is worth more than the share price.
 
-[Is Trump Media & Technology Stock Heading for $0?](https://www.fool.com/investing/2024/09/17/is-trump-media-technology-stock-heading-for-0/?)<br />By David Jagielski – Sep 17, 2024 at 9:45AM. Motley Fool
+[Is Trump Media & Technology Stock Heading for $0?](https://www.fool.com/investing/2024/09/17/is-trump-media-technology-stock-heading-for-0/?)
+
+By David Jagielski – Sep 17, 2024 at 9:45AM. Motley Fool
 
 Key Points
 - Trump Media stock resembles more of a meme stock than a long-term investment.

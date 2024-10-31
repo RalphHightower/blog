@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [legal immigrants,  hoaxes, lies, JD Vance, Donald Trump]
+tags: [legal immigrants,  hoaxes, lies, JD [JD “John Boy” Vance (T-OH)](https://www.vance.senate.gov/), Donald Trump]
 categories: [2024 presidential election]
 date: 2024-09-12 5:11 PM
 excerpt: "I’ve seen people on television. The people on television say, ‘My dog was taken and used for food.'"
@@ -10,7 +10,7 @@ excerpt: "I’ve seen people on television. The people on television say, ‘My 
 title: "Eat Mor' Kittens"
 ---
 
-## [How J.D. Vance and the Online Right Sabotaged Trump’s Debate](https://nymag.com/intelligencer/article/trump-debate-eating-pets-j-d-vance-cats-dogs-springfield.html)
+## [How [JD “John Boy” Vance (T-OH)](https://www.vance.senate.gov/) and the Online Right Sabotaged Trump’s Debate](https://nymag.com/intelligencer/article/trump-debate-eating-pets-j-d-vance-cats-dogs-springfield.html)
 
 By Jonathan Chait, who’s been a New York political columnist since 2011. NY Magazine. Sept. 11, 2024
 
@@ -26,9 +26,9 @@ The conservative movement was built on the premise that the main organs of knowl
 
 The lie that migrants are eating pets in Springfield, Ohio, is a classic example of that method in operation. The story originated from white-supremacist sites online, which relentlessly promote the idea that non-white immigrants are dirty and dangerous. It quickly worked its way from the far right into mainstream conservative channels. Republicans seemed to think the idea gave them a potent meme.
 
-J.D. Vance, an important bridge between the GOP and elements of the radical right that have been activated by Trump, played a key role. “Reports now show that people have had their pets abducted and eaten by people who shouldn’t be in this country,” Vance tweeted.
+[JD “John Boy” Vance (T-OH)](https://www.vance.senate.gov/), an important bridge between the GOP and elements of the radical right that have been activated by Trump, played a key role. “Reports now show that people have had their pets abducted and eaten by people who shouldn’t be in this country,” [JD “John Boy” Vance (T-OH)](https://www.vance.senate.gov/) tweeted.
 
-When reporters discovered the story was baseless — the closest thing to a factual basis for it appears to be a woman in a different city, Canton, who is not Haitian, arrested for killing a cat — Vance pivoted in a revealing fashion. “It’s possible, of course, that all of these rumors will turn out to be false,” he conceded. But then he insisted other facts about immigration were true. (“That local schools have struggled to keep up with newcomers who don’t know English. That rents have risen so fast that many Springfield families can’t afford to put a roof over their head.”) And so, he urged his “fellow patriots” to continue spreading the lie about pet murder:
+When reporters discovered the story was baseless — the closest thing to a factual basis for it appears to be a woman in a different city, Canton, who is not Haitian, arrested for killing a cat — [JD “John Boy” Vance (T-OH)](https://www.vance.senate.gov/) pivoted in a revealing fashion. “It’s possible, of course, that all of these rumors will turn out to be false,” he conceded. But then he insisted other facts about immigration were true. (“That local schools have struggled to keep up with newcomers who don’t know English. That rents have risen so fast that many Springfield families can’t afford to put a roof over their head.”) And so, he urged his “fellow patriots” to continue spreading the lie about pet murder:
 
 This was a familiar sentiment on the right, a smug indifference to truth. The libs would whine, and they would win.
 
@@ -40,12 +40,12 @@ Politics, like life, is not a morality play. Virtue is not always rewarded, nor 
 
 ## Eat Mor Kittens[^11]
 
-Boy, did Trump find the perfect sycophant in J.D. *"John Boy"*[^12] Vance. This lie that Haitian immigrants eating people’s d9gs and cats has taken a life 9f its own. Trump and Vance aren't refuting the lies. They're doubling down.
+Boy, did Trump find the perfect sycophant in [JD “John Boy” Vance (T-OH)](https://www.vance.senate.gov/)[^12]. This lie that Haitian immigrants eating people’s d9gs and cats has taken a life 9f its own. Trump and [JD “John Boy” Vance (T-OH)](https://www.vance.senate.gov/) aren't refuting the lies. They're doubling down.
 
 Mike Pence turned out to be too much of a "goody two-shoes" for Trump, not even shirking his ceremonial duty as vice president to certify the 2020 election results.
 
-Vance? He has no ethics to uphold the constitution. There are other Trumpers who would not honor their constitutional duty if they were VP. Senator Tim Scott (T-SC) refused to answer the straight question if he would certify the election results if a Democrat won[^13].
+[JD “John Boy” Vance (T-OH)](https://www.vance.senate.gov/)? He has no ethics to uphold the constitution. There are other Trumpers who would not honor their constitutional duty if they were VP. Senator Tim Scott (T-SC) refused to answer the straight question if he would certify the election results if a Democrat won[^13].
 
 [^11]: With apologies to [Chick-fil-A®](https://www.chick-fil-a.com) and their advertising using cows spray painting graffiti, *"Eat Mor Chikin"*
-[^12]: J.D. Vance wrote a book called Hillbilly Eligy, so I'd give J.D. the nickname of "John Boy" from the TV series, The Waltons.
+[^12]: [JD “John Boy” Vance (T-OH)](https://www.vance.senate.gov/) wrote a book called Hillbilly Eligy, so I'd give J.D. the nickname of "John Boy" from the TV series, The Waltons.
 [^13]: [Sen. Scott refuses to say he will accept 2024 election results, says Tru...](https://youtube.com/watch?v=DdeuagPSVQc&). Meet The Press. May 5, 2024 L

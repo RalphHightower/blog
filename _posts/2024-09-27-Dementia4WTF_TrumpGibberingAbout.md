@@ -33,7 +33,7 @@ We had a woman debating. She just talked about, like, the birds and the bees. Sh
 
 <iframe
     width="560" height="315"
-    src="    https://www.youtube.com/embed/ilkvDNhsbyg?start=1476&end=1497">
+    src="https://www.youtube.com/embed/ilkvDNhsbyg?start=1476&end=1497">
 </iframe>
 
 The former president then returned to his script, but not before critics on social media pounced on his rhetoric — in particular the “birds and the bees” line.
