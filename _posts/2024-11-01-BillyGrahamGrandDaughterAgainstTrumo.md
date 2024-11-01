@@ -1,13 +1,13 @@
 ---
 layout: post
-tags: []
-categories: []
-#date: 2019-06-25 13:14:15
-#excerpt: "“I’m speaking to the woman who feels that tug in their spirit. It’s okay to follow your conscience. And it’s okay to use your voice at the polls this November.”I have not spoken to my uncle, but his voice was a large reason for my speaking out. The world is watching. When church leaders hold Trump up as a representative of our faith, the damage to the Gospel is immense. The world sees the hypocrisy, and the result is [they want] nothing to do with it.” –  Jerushah Duford, granddaughter of the late televangelist Billy Graham"
+tags: [Donald Trump, republican women endorse Harris]
+categories: [2024 presidential election]
+date: 2024-11-01 12:52 PM
+excerpt: "“I’m speaking to the woman who feels that tug in their spirit. It’s okay to follow your conscience. And it’s okay to use your voice at the polls this November.”I have not spoken to my uncle, but his voice was a large reason for my speaking out. The world is watching. When church leaders hold Trump up as a representative of our faith, the damage to the Gospel is immense. The world sees the hypocrisy, and the result is [they want] nothing to do with it.” –  Jerushah Duford, granddaughter of the late televangelist Billy Graham"
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: 'Republican Women Against Trump Including Billy Graham's Granddaughter, Franklin's Niece"
+title: "Republican Women Against Trump Including Billy Graham's Granddaughter, Franklin's Niece"
 ---
 
 
