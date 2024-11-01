@@ -7,7 +7,7 @@ excerpt: "“If you’re not going to pay your bills, we’re just not going to 
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: "Trump, The Deadbeat, Owes Cities Over $1,000,000 From His 2020 Campaign.'
+title: "Trump, The Deadbeat, Owes Cities Over $1,000,000 From His 2020 Campaign."
 ---
 
 
