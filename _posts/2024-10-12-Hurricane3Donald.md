@@ -57,7 +57,7 @@ downsizing the National Oceanic and Atmospheric Administration. Project 2025
 calls the NOAA a leading driver of “the climate change alarm industry” and claims
 the agency is “harmful to future U.S. prosperity.”
 
-[^13]: @RalphHightower – Privatization of [NOAA](https://noaa.gov/) is an extremely, decisionly, bad decision. NOAA operates the[GOES – Geostationary Operational Environmental Satellites Network](https://www.star.nesdis.noaa.gov/GOES/). All the data that NOAA produces is public information. It doesn't cost the public anything to access the information. With private weather companies, critical information may be withheld that endanger the public, or the information may be paid subscription only.
+[^13]: @RalphHightower – Privatization of [NOAA](https://noaa.gov/) is an extremely, decisionly, bad decision. NOAA operates the [GOES – Geostationary Operational Environmental Satellites Network](https://www.star.nesdis.noaa.gov/GOES/). All the data that NOAA produces is public information. It doesn't cost the public anything to access the information. With private weather companies, critical information may be withheld that endanger the public, or the information may be paid subscription only.
 
 I wrote two blog posts where Trump altered a [National Hurricane Center](https://nhc.noaa.gov/)
 track to extend the "Cone of Uncertainty" into Alabama.
