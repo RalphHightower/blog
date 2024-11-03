@@ -2,8 +2,8 @@
 layout: post
 tags: [Donald Trump,  Viktor Orbán, non-sanctioned foreign leaders contact]
 categories: [2024 presidential election]
-#date: 2024-11-02 5:38 PM
-#excerpt: "It was an honour to visit President [Trump] at Mar-a-Lago today. We discussed ways to make #peace. The good news of the day: he’s going to solve it! – Viktor Orbán, Hungary's dictator"
+date: 2024-11-02 5:38 PM
+excerpt: "It was an honour to visit President [Trump] at Mar-a-Lago today. We discussed ways to make #peace. The good news of the day: he’s going to solve it! – Viktor Orbán, Hungary's dictator"
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
