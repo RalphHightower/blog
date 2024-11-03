@@ -7,7 +7,7 @@ excerpt: '“The policy of the U.S. government is to try to isolate Vladimir Put
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: 'The Manchurian Candidate Musk: Engaging In Tslks With Putin, As Has Trump'
+title: 'The Manchurian Candidate Musk: Engaging In Talks With Putin, As Has Trump'
 ---
 
 
