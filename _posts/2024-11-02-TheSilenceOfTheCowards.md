@@ -1,8 +1,8 @@
 ---
 layout: post
-tags: []
-categories: []
-#date: 2019-06-25 13:14:15
+tags: [billionaires, campaign contributions, Elon Musk, Bill Ackermann, Warren Buffet, Robert Johnson, Winklevoss (Cameron & Tyler), Miriam Adelson, Ben Horowitz, Marc Andreesen, Ben Horowitz, Ike Perlmutter, Richard Uihlein, Jamie Dimon, Patrick Soon-Shiong, Jeff Bezos]
+categories: [2024 presidential election]
+date: 2024-11-02 4:50 PM
 #excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
@@ -31,8 +31,8 @@ All-In:
 - Robert “Woody” Johnson, New York Jets owner – “Americans remember how good it was or how much better it was on the border and inflation and gas prices and grocery prices, all that, during the Trump administration, and they want to get back there.”
 - Winklevoss (Cameron & Tyler) twins. donated more than $1 million each to support Trump, citing Trump’s “Pro-Bitcoin Pro-Crypto Pro-Business” position.[^31]
 - Miriam Adelson, owner of the Dallas Mavericks and the wife of the late casino executive Sheldon Adelson
--  Tesla CEO Elon Musk,
-- Marc Andreesen  venture capitalists
+- Tesla CEO Elon Musk,
+- Marc Andreesen, venture capitalists
 - Ben Horowitz, venture capitalists
 - Ike Perlmutter, former Marvel Chairman
 - Richard Uihlein, shipping magnate
@@ -49,7 +49,7 @@ Cowards:
 Beneficiaries of a Trump Win:
 
 - Dictators
-    -Vladimir Putin
+    - Vladimir Putin
     - Viktor Orbán
 - Trump
     - DJ (Don Jr)
@@ -61,7 +61,3 @@ Beneficiaries of a Trump Win:
 Losers of a Trump Win
 - America
 - Democracy
-
-
-
-div style="padding-bottom: 56.25%; position: relative;"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/wTP2RUD_cL0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; fullscreen"  style="position: absolute; top: 0px; left: 0px; width: 100%; height: 100%;"><small>Powered by <a href="title"</a> generator</small></iframe></div>
