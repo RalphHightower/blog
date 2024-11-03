@@ -7,7 +7,7 @@ categories: [2024 presidential election]
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: 'title'
+title: 'Trump Friendly Tyrant/Dictator Viktor Orbán of Hungary Wishes Him "Good Luck" in Election. Wants to Play More Golf at Mar-a-Lago'
 ---
 
 
