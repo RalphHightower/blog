@@ -3,11 +3,11 @@ layout: post
 tags: [Donald Trump, garbage truck publicity stunt, Kamala Harris, George Takei, Star Trek, Mary Trump]
 categories: [2024 presidential election]
 date: 2024-11-03 2:46 PM
-excerpt: '“Hm, interesting choice to place the garbage in the front of the truck.” – Mary Trump, psychologist, Donald's niece'
+excerpt: "“Hm, interesting choice to place the garbage in the front of the truck.” – Mary Trump, psychologist, Donald's niece"
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: '“In fairness, it’s not really a Trump garbage truck until it’s on fire.” – George Takei portrayed Lt. Hikaru. Sulu on Star Trek"'
+title: "“In fairness, it’s not really a Trump garbage truck until it’s on fire.” – George Takei portrayed Lt. Hikaru. Sulu on Star Trek"
 ---
 
 
