@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [Donald Trump,  Attorney General]
+tags: [Donald Trump, Attorney General]
 categories: [2024 presidential election]
 date: 2024-11-03 12:15 AM
 excerpt: "“From their perspective, they didn’t do things right the first time. They didn’t clear house enough. There were insiders thwarting their objectives.” – former Trump Justice Department official who requested anonymity to speak candidly about inner workings."
@@ -81,8 +81,12 @@ The DOJ Candidate List
 - **Kash Patel**, who is assisting in the process of compiling candidates, is also a potential candidate himself. Patel is former federal public defender and former federal prosecutor in the Justice Department’s national security division who went on to become a top House staffer helping craft Republican responses to the investigations of Trump and Russian election interference. Patel has been a staunch and visible defender of Trump, showing up at his criminal trial in Manhattan and perpetuating conspiracy theories about the 2020 election. During the Trump administration, he worked as chief of staff to the secretary of defense.
 - **Aileen Cannon**, the judge who dismissed the classified documents case and is also overseeing the criminal case against the man who allegedly attempted to assassinate Trump on his Florida golf course. Trump appointed Cannon to the federal bench in Florida shortly before he left office, and he has repeatedly praised her for issuing a multitude of rulings favorable to the former president.
 
-![Josh Hawley (T-MO) Raising a Closed Fist In Support of Trump’s Far Right Fringe Groups, Pride Boys, Zero Percenters, Oath Losers, BoogerLougies. Prior to Laying Siege On the US Capitol In a Failed Insurrection Attempt to Overthrow the Federal Government](https://ralphhightower.github.io/blog/img/JoshHawleySalute.jpg)
+![Josh Hawley (T-MO) Raising a Closed Fist In Support of Trump’s Far Right Fringe Groups, Pride Boys, Zero Percenters, Oath Losers, BoogerLougies. Prior to Laying Siege On the US Capitol In a Failed Insurrection Attempt to Overthrow the Federal Government](/img/JoshHawleySalute.jpg)
 
-![Josh Hawley (T-MO) Fleeing Trump’s Far Right Fringe Groups, Pride Boys, Zero Percenters, Oath Losers, BoogerLougies](https://ralphhightower.github.io/blog/img/RunJoshRun0106.png!)
+**Josh Hawley (T-MO) Raising a Closed Fist In Support of Trump’s Far Right Fringe Groups, Pride Boys, Zero Percenters, Oath Losers, BoogerLougies, Prior to Laying Siege On the US Capitol In a Failed Insurrection Attempt to Overthrow the Federal Government**
+
+![Josh Hawley (T-MO) Fleeing Trump’s Far Right Fringe Groups: Pride Boys, Zero Percenters, Oath Losers, BoogerLougies](/img/RunJoshRun0106.png)
+
+**Josh Hawley (T-MO) Fleeing Trump’s Far Right Fringe Groups: Pride Boys, Zero Percenters, Oath Losers, BoogerLougies**
 
 [^41]: @RalphHightower: Oh **HELL NO!!!** There’s that indelible image of Hawley walking to work, behind the fence barricade raising a closed fist up as a sign of unity to that amalgamation of Trump far-right fringe nut-jobs, the Pride Boys, Zero Percenters, Oath Losers, BoogerLougies, that would lay siege on the US Capitol on January 6, 2021, in a failed insurrection attempt to overthrow the government. 
