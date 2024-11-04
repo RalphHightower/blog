@@ -3,7 +3,7 @@ layout: post
 tags: [Donald Trump, dementia, cognitive decline]
 categories: [2024 presidential election]
 date: 2024-11-04 1:40 PM
-excerpt: "I'm not 80, and I'm not that close to 80. – the 78-year-old former president''
+excerpt: "I'm not 80, and I'm not that close to 80. – the 78-year-old former president"
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
