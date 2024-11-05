@@ -14,7 +14,6 @@ title: 'POTUS 45: Among Past Presidents, Trump Ranks Bottom of the Barrel'
 ## [Presidential Rankings Survey - Historians Rank the Top 10 Presidents / C-SPAN Survey on Presidents 2021](https://www.c-span.org/presidentsurvey2021/?page=overall)
 
 I took ex-president Trump's ranking from the table of all presidents to make it easier to read. Biden's term won't be assessed until after his term ends.
-
 Interesting to note of Trump’s best ranking in the categories of public persuasion (32), economic management (34), and viosion/setting an agenda (36), Trump is still in the bottom third.
 
 ### Donald Trump's Rankings[^1701]
