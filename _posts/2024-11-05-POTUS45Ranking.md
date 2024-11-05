@@ -34,4 +34,4 @@ Interesting to note of Trump’s best ranking in the categories of public persua
 
 [^1701]: @RalphHightower: Interestingly, Donald Trump ranks dead last in the category of Moral Authority.
 
-Overall, Trump ranks 41 of 44, above Franklin Pierce (42),  Andrew Johnson (43), and James Buchanan (44)
+Overall, Trump ranks 41 of 44, above Franklin Pierce (42),  Andrew Johnson (43), and James Buchanan (44).
