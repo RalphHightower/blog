@@ -21,41 +21,56 @@ No, I do not have TDS, Trump Derangement Syndrome[^52]. My opinion of Trump
 hasn't wavered from when he first announced his candidacy. He's still a fucking 
 idiot.
 
+I did not vote for Trump in 2016 because he has serious character flaws.
+Trump's actions following the 2020 election should have disqualified him
+from ever serving again. However, the Trumpers[^54] in the House and Senate 
+chose **"Party Over Country"**
+
 At least I don't belong to the Trump cult or have RTD[^53].
 
 [^51]: Trump meets the constitutional age requirement, but that's saying little. Plus Trump is dementia-ning! Talking about Arnold Palmer's balls, no it's not Titlist; it's that part of the anatomy that LPGA pros don't have.
 [^52]: Wikipedia — [Trump derangement syndrome](https://en.wikipedia.org/wiki/Trump_derangement_syndrome?wprov=sfla1)
 [^53]: Rabid Trump Disease.
+[^54]: The Republican Party died July 2016 when it chose Trump as its candidate for president 
 
 Discussions and comments can be placed here: [RalphHightower/blog ·
 Discussions · GitHub](https://github.com/RalphHightower/blog/discussions).
 
-## Third Rate Game Show Host
+## Donald Trump – The Reasons Against Him
 
-I thought that it was a publicity when Trump announced that he was running for
-president. Trump has neither the qualifications nor the temperament to be
-president. My assessment has not wavered from 2016. America must not renew
-"The Apprentice: White House" for a second season.
+### Constitutional Court Cases
 
-"The Apprentice: White House" ended a tumultuous four year season ingloriously
-in January 2020, in an extraordinary low point in American history when
-thousands of far-right undesirables, Pride Boys, Zero Percenters and Oath Losers,
-lay siege on the US Capitol in a vain attempt of insurrection to overthrow a
-fair election.
+There are two court cases that have not yet convened and must be decided
+because Trump's behavior and actions following the 2020 presidential 
+election threaten the very fabric of our nation. 
 
-### Donald Trump Needs to Change His Behavior and Demeanor
+1. Federal – Attempt to Overthrow the 2020 Election and the January 6, 2021 Insurrection.
+2. State – Georgia. Strong-Arm Attempt to Falsify Their Election Result. 
+
+### Donald Trump's Serious Character Flaws
+
+Trump's character flaws preclude him from running anything other 
+than his family-owned business. His character flaws precluded me from
+even considering him.
+
+Apparently, stewing in his own venom and demons after losing
+the 2020 election has taken its toll on Trump's mental facility.
+He has become more unhinged, losing focus, experiencing 
+cognitive decline and dementia. 
+ 
+#### Trump Needs to Change His Behavior and Demeanor
 
 ***How?***
 
 - Tame your temper! Quit throwing **Trumper Tantrums!**
 - Quit your pathological lying and tell the **God-damned truth!**
-- Quit your **God-damned gaslighting[^53]**!
+- Quit your **God-damned gaslighting[^71]**!
 - Start treating people with **respect!** I.e., quit that childish behavior of calling people names and acting like a school-yard bully.
 - Be a true leader! A true leader recognizes team members, and subordinates for their accomplishment, and accepts the blame when things fail. A true leader does not use intimidation and fear.
 - Quit your whining, *"It's not fair"* Grow up and be an adult!
 - Accept the fact that the president lives under a **microscope.** You will be praised by some and condemned others for your actions or inactions.
 
-[^53]: [gaslighting –  Merriam-Webster](http://www.merriam-webster.com/dictionary/gaslighting): noun<br /gas·​light·​ing \| \ ˈgas-ˌlī-tiŋ , -ˈlī- \<br />Definition (Entry 1 of 2)<br />1: psychological manipulation of a person usually over an extended period of time that causes the victim to question the validity of their own thoughts, perception of reality, or memories and typically leads to confusion, loss of confidence and self-esteem, uncertainty of one's emotional or mental stability, and a dependency on the perpetrator<br />//Gaslighting can be a very effective tool for the abuser to control an individual. It's done slowly so the victim writes off the event as a one off or oddity and doesn't realize they are being controlled and manipulated.<br />— Melissa Spino<br />//Gaslighting can happen in any relationship circumstance, including between friends and family members—not just in couple relationships.<br />— Deena Bouknight<br />//This is a classic gaslighting technique—telling victims that others are crazy and lying, and that the gaslighter is the only source for "true" information. It makes victims question their reality …<br />— Stephanie Sarkis<br />2: the act or practice of grossly misleading someone especially for one's own advantage<br />//Election season can create emotions spanning from immense anxiety all the way to extreme apathy. The public arguing, divisiveness, and competition for votes, including political gaslighting, can be overwhelming and exhausting.<br />— Vernita Perkins and Leonard A. Jason<br />//As the midterm elections approach, Americans have gotten an earful both about crime itself and how the other side is distorting the news about it for political gain. “Cherry-picking!” “Fearmongering!” “Gaslighting!”<br />— Chris Herrmann and Fritz Umbach<br />//Intense gaslighting techniques are making it difficult for Montana's commoners to discern what's truth and what's propaganda.<br />— Steve Kelly<br />//This corporate gaslighting effectively blames children for being addicted to social media and conveniently ignores how companies have intentionally designed their products to have addictive features …<br />— Nancy Kim
+[^71]: [gaslighting –  Merriam-Webster](http://www.merriam-webster.com/dictionary/gaslighting): noun<br /gas·​light·​ing \| \ ˈgas-ˌlī-tiŋ , -ˈlī- \<br />Definition (Entry 1 of 2)<br />1: psychological manipulation of a person usually over an extended period of time that causes the victim to question the validity of their own thoughts, perception of reality, or memories and typically leads to confusion, loss of confidence and self-esteem, uncertainty of one's emotional or mental stability, and a dependency on the perpetrator<br />//Gaslighting can be a very effective tool for the abuser to control an individual. It's done slowly so the victim writes off the event as a one off or oddity and doesn't realize they are being controlled and manipulated.<br />— Melissa Spino<br />//Gaslighting can happen in any relationship circumstance, including between friends and family members—not just in couple relationships.<br />— Deena Bouknight<br />//This is a classic gaslighting technique—telling victims that others are crazy and lying, and that the gaslighter is the only source for "true" information. It makes victims question their reality …<br />— Stephanie Sarkis<br />2: the act or practice of grossly misleading someone especially for one's own advantage<br />//Election season can create emotions spanning from immense anxiety all the way to extreme apathy. The public arguing, divisiveness, and competition for votes, including political gaslighting, can be overwhelming and exhausting.<br />— Vernita Perkins and Leonard A. Jason<br />//As the midterm elections approach, Americans have gotten an earful both about crime itself and how the other side is distorting the news about it for political gain. “Cherry-picking!” “Fearmongering!” “Gaslighting!”<br />— Chris Herrmann and Fritz Umbach<br />//Intense gaslighting techniques are making it difficult for Montana's commoners to discern what's truth and what's propaganda.<br />— Steve Kelly<br />//This corporate gaslighting effectively blames children for being addicted to social media and conveniently ignores how companies have intentionally designed their products to have addictive features …<br />— Nancy Kim
 
 Trump keeps boasting that he is a highly intelligent person. As Brad Pitt said
 in the movie, Moneyball, "Show me the money!". In Trump’s case, I say "Show
@@ -68,7 +83,20 @@ Service](https://www.irs.gov/) tax returns as presidents have done as
 past precedent. You're afraid that revealing that information will prove
 that you are a fraud.
 
-### Supreme Court Justice Clarence Thomas
+### Third Rate Game Show Host
+
+I thought that it was a publicity when Trump announced that he was running for
+president. Trump has neither the qualifications nor the temperament to be
+president. My assessment has not wavered from 2016. America must not renew
+"The Apprentice: White House" for a second season.
+
+"The Apprentice: White House" ended a tumultuous four year sea``son ingloriously
+in January 2020, in an extraordinary low point in American history when
+thousands of far-right undesirables, Pride Boys, Zero Percenters and Oath Losers,
+lay siege on the US Capitol in a vain attempt of insurrection to overthrow a
+fair election.
+
+## Supreme Court Justice Clarence Thomas
 
 I also think that [Supreme Court Justice Clarence Thomas should be
 impeached](https://ralphhightower.github.io/RalphHightower/Opinions/ImpeachSCOTUSJusticeClarenceThomas.html)
