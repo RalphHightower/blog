@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [Donald Trump, president rsking, history]
+tags: [Donald Trump, president ranking, history]
 categories: [presidential ranking]
 date: 2024-11-05 8:57 AM
 #excerpt: ''
@@ -32,7 +32,6 @@ Interesting to note of Trump’s best ranking in the categories of public persua
 | Pursued Equal Justice For All	| 27.6 | 40 |
 | Performance Within Context of Times	| 28.3	| 42 |
 
-[^1701]: Interestingly, Donald Trump ranks dead last in the category of Moral Authority.
+[^1701]: @RalphHightower: Interestingly, Donald Trump ranks dead last in the category of Moral Authority.
 
 Overall, Trump ranks 41 of 44, above Franklin Pierce (42),  Andrew Johnson (43), and James Buchanan (44)
-
