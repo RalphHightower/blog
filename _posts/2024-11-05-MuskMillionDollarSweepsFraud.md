@@ -3,7 +3,7 @@ layout: post
 tags: [Donald Trump, Elon Musk, million dollars sweepstakes]
 categories: [2024 presidential election]
 date: 2024-11-05 2:40 PM
-excerpt: ''“This was all a political marketing masquerading as a lottery,” Krasner testified Monday morning. “That’s what it is. A grift. They were scammed for their information,” Krasner said. “It has almost unlimited use.” – Philadelphia District Attorney"
+excerpt: "“This was all a political marketing masquerading as a lottery,” Krasner testified Monday morning. “That’s what it is. A grift. They were scammed for their information,” Krasner said. “It has almost unlimited use.” – Philadelphia District Attorney"
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
