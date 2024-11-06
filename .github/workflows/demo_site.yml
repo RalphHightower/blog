@@ -22,10 +22,10 @@ jobs:
         with:
           repository: jekyll/minima
           ref: demo-site
-      - name: Set up Ruby 3.3.4
-        uses: ruby/setup-ruby@98aefb3c83eea830993080938ed245dc8e2b843b # v1.198.0
+      - name: Set up Ruby 3.3.6
+        uses: ruby/setup-ruby@v1.200.0        
         with:
-          ruby-version: 3.3.4
+          ruby-version: 3.3.6
           bundler-cache: true
       - name: Clone target branch
         run: |
