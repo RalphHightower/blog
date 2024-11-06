@@ -22,7 +22,7 @@ jobs:
         with:
           repository: jekyll/minima
           ref: demo-site
-      - name: Set up Ruby 3.3.^
+      - name: Set up Ruby 3.3.6
         uses: ruby/setup-ruby@v1.200
         with:
           ruby-version: 3.3.6
