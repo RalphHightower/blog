@@ -7,7 +7,7 @@ excerpt: '"The relationship that Elon Musk has with the federal government is un
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: 'Quid Pro Quo – The Symbiotic Relationship of Two Parasites 
+title: 'Quid Pro Quo – The Symbiotic Relationship of Two Parasites: Elon Musk & Donald Trump'
 ---
 
 
