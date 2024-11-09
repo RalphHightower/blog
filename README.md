@@ -47,6 +47,12 @@ election threaten the very fabric of our nation.
 1. Federal – Attempt to Overthrow the 2020 Election and the January 6, 2021 Insurrection.
 2. State – Georgia. Strong-Arm Attempt to Falsify Their Election Result. 
 
+**Damn!** How the hell did Trump win?! Although the federal case will
+be winding down since the [DOJ](https://www.justice.gov/) has some regulation 
+that sitting presidents cannot be tried:
+
+#### Donald Trump Is Guilty For Attempting To Overturn An Election And Instigating The January 6, 2021 Insurrection
+
 ### Donald Trump's Serious Character Flaws
 
 Trump's character flaws preclude him from running anything other 
