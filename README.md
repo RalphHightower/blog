@@ -44,8 +44,10 @@ There are two court cases that have not yet convened and must be decided
 because Trump's behavior and actions following the 2020 presidential 
 election threaten the very fabric of our nation. 
 
-1. Federal – Attempt to Overthrow the 2020 Election and the January 6, 2021 Insurrection.
-2. State – Georgia. Strong-Arm Attempt to Falsify Their Election Result. 
+1. Federal – Attempt to Overthrow the 2020 Election and the January 6, 2021 Insurrection.[^201]
+2. State – Georgia. Strong-Arm Attempt to Falsify Their Election Result.
+
+[^201]: Federal prosecutor, Jack Smith, layed out compelling, iron-clad indictments revised for Trump, the citizen running for reelection, and not then President Trump, where he would, and did claim presidential immunity; the Supreme Court directed Smith to not include presidential duties. I cannot bring myself to strike through his federal case.
 
 **Damn!** How the hell did Trump win?! Although the federal case will
 be winding down since the [DOJ](https://www.justice.gov/) has some regulation 
