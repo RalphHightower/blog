@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [JD Vance, vice president,  Appalachia]
+tags: [JD Vance, vice president, Appalachia]
 categories: [2024 presidential election]
 date: 2024-10-07 01:15 PM
 excerpt: "hashtag he ain't from here"
