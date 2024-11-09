@@ -3,7 +3,7 @@ layout: post
 tags: [Donald Trump, election fraud, election theft, election certification]
 categories: [January 6, 2021 Insurrection]
 date: 2024-11-08 8:55 PM
-excerpt: 'As I look at this from a thousand foot perspective, I find it important to renew my warning from ECF No. 329, that, 'wielding extreme government force can lead to a dangerous cycle of escalating retribution as control of the government continues changing hands. – William Pope, Topeka, KS'
+excerpt: 'As I look at this from a thousand foot perspective, I find it important to renew my warning from ECF No. 329, that, wielding extreme government force can lead to a dangerous cycle of escalating retribution as control of the government continues changing hands. – William Pope, Topeka, KS'
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
