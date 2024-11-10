@@ -1,13 +1,13 @@
 ---
 layout: post
-tags: [Donald Trump, Melania Trump, JD Vance, Usha Vance,  Appalachia]
+tags: [Donald Trump, Melania Trump, JD Vance, Usha Vance Appalachia]
 categories: [president-elect, vp-elect, wives]
 date: 2024-11-08 4:56 PM
 excerpt: 'Vance is not Appalachian. He was born and raised in Middletown, Ohio, well outside any maps of the distinct geographical and cultural region. Trump picking this Rust Belt charlatan as his running mate Monday sparked a resounding and unifying rant among conservative and liberal hillbillies alike in my social media feed: We do not acknowledge him. – Willie Carver'
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: 'Donald Trump, JD Vance & Their Wives'
+title: "GPS-challenged JD Vance Ain't From Appalachia"
 ---
 
 
@@ -18,7 +18,11 @@ title: 'Donald Trump, JD Vance & Their Wives'
 July 17, 2024, 3:53 PM EDT
 By Willie Carver, poet and writer
 
-JD *"John Boy[^11]"* Vance's 2016 memoir, "Hillbilly Elegy" piqued the interest of America; however, it recycles a narrative America has relied on for a century to sleep soundly despite the everyday horrors of our society: Rich people do well because they are morally better than the poor.
+@RalphHightower: About that title. JD is as GPS-challenged as former governor, Mark Sanford, who went hiking the Appalachia Trail and ended up in Argentina, in the arms and bosoms of hig mistress.
+
+JD *"John Boy[^21]"* Vance's 2016 memoir, "Hillbilly Elegy" piqued the interest of America; however, it recycles a narrative America has relied on for a century to sleep soundly despite the everyday horrors of our society: Rich people do well because they are morally better than the poor.
+
+[^21]: @RalphHightower: Since JD claims to be from Appalachia, give him the nickname, John Boy, from The Waltons. 
 
 [^11]: @RalphHightower: Since JD claims to be from Appalachia, let's nickname him "John Boy" from The Waltons.
 
