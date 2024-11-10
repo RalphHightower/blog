@@ -24,6 +24,8 @@ JD *"John Boy[^21]"* Vance's 2016 memoir, "Hillbilly Elegy" piqued the interest 
 
 [^21]: @RalphHightower: Since JD claims to be from Appalachia, give him the nickname, John Boy, from The Waltons. 
 
+[^11]: @RalphHightower: Since JD claims to be from Appalachia, let's nickname him "John Boy" from The Waltons.
+
 Add some powerful embellishments to get a bestseller.
 
 - a firebrand “pistol packing lunatic” mamaw who protects at all costs
