@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [Donald Trump, Attorney General, Jeffrey Clark, Mike Lee, Josh Hawley, Eric Schmitt, Todd Blanche, Emil Bove, John Ratcliffe, Jeffrey Jensen, Will Levi, Mike Davis, Kash Patel, , Aileen Cannon]
+tags: [Donald Trump, Attorney General, Jeffrey Clark, Mike Lee, Josh Hawley, Eric Schmitt, Todd Blanche, Emil Bove, John Ratcliffe, Jeffrey Jensen, Will Levi, Mike Davis, Kash Patel, Aileen Cannon]
 categories: [2024 presidential election]
 date: 2024-11-03 12:15 AM
 excerpt: "“From their perspective, they didn’t do things right the first time. They didn’t clear house enough. There were insiders thwarting their objectives.” – former Trump Justice Department official who requested anonymity to speak candidly about inner workings."
