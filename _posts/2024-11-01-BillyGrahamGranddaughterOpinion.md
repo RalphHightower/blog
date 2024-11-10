@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: [Donald Trump, Kamala Harris, Jerusah Duford, evangelical Christians, Franklin Graham, Billy Graham]
-categories: [20024 presidential election]
+categories: [2024 presidential election]
 date: 2024-11-01 12:33 PM
 excerpt: "For example, one of my grandfather's favorite Bible verses was Micah 6:8, which requires us to love kindness and mercy and to walk humbly. For Trump, however, his notoriety and wealth fuels his ego. While he puts on a façade of religion, he rejects the fundamentals of Christianity. We have seen the ways he treats those who are marginalized, women, and anyone who disagrees with him. Yet, Jesus has told us that “...people will know we are disciples by your love.” (John 13:35). Furthermore he, himself, has admitted that he does not ask for forgiveness from anyone."
 #image: 'BASEURL/assets/blog/img/.png'
