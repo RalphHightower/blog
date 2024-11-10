@@ -20,6 +20,8 @@ By Willie Carver, poet and writer
 
 JD *"John Boy[^11]"* Vance's 2016 memoir, "Hillbilly Elegy" piqued the interest of America; however, it recycles a narrative America has relied on for a century to sleep soundly despite the everyday horrors of our society: Rich people do well because they are morally better than the poor.
 
+[^11]: @RalphHightower: Since JD claims to be from Appalachia, let's nickname him "John Boy" from The Waltons.
+
 Add some powerful embellishments to get a bestseller.
 
 - a firebrand “pistol packing lunatic” mamaw who protects at all costs
