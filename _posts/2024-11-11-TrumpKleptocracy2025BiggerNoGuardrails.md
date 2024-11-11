@@ -43,6 +43,4 @@ Given Lutnick’s vast business interests, the Times added, it’s not known how
 
 Looking ahead, there's little reason for optimism. Indeed, The New Republic’s Greg Sargent recently highlighted a broader context, noting that if Trump moves forward with plans to purge much of the federal workforce, replacing career civil servants with loyalists, Americans might soon see a dynamic in which independent officials “muzzle themselves, both in terms of putting out good government data that contradicts the Trump propaganda line, and in terms of not letting people know, blowing the whistle, when higher-ups, MAGA loyalists types, corrupt the agency.”
 
-[kleptocracy • Merriam-Webster's definition:](http://www.merriam-webster.com/dictionary/kleptocracy)<br />nounklep·​toc·​ra·​cy | \ klep-ˈtä-krə-sē  \<br />plural klep​toc​ra​cies<br />Definition<br />: government by those who seek chiefly status and personal gain at the expense of the governed<br />/>also : a particular government of this kind
-
-
+[kleptocracy • Merriam-Webster's definition:](http://www.merriam-webster.com/dictionary/kleptocracy)<br />noun<br />klep·​toc·​ra·​cy <br /> klep-ˈtä-krə-sē <br />plural klep​toc​ra​cies<br />Definition<br />: government by those who seek chiefly status and personal gain at the expense of the governed<br />also : a particular government of this kind
