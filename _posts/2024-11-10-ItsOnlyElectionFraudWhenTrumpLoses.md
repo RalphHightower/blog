@@ -15,7 +15,7 @@ title: "Trump: There’s Only Election Fraud When I Lose"
 
 Mike Wendling & Jake Horton. BBC Verify. November 8, 2024.
 
-@RalphHightower: Trump, more than likely, cheats at golf. Trump is a pathological liar, so yes, Trump cheats at everything in life.
+@RalphHightower: Trump, more than likely, cheats at golf. Trump is a pathological liar, so yes, Trump cheats at everything in business, in life.
 
 Unlike Trump’s campaign in 2020, however, the Harris campaign and top Democratic Party officials have not endorsed allegations of cheating or voter fraud.
 

@@ -34,7 +34,7 @@ Fanboi[^11], Elon Musk, boosted Trump’s election by:
 
 [^11]: “Fanboi” (also spelled “fanboy”) is a slang term used to describe an individual who is extremely passionate or overly enthusiastic about a specific product, brand, or technology, often to the point of being biased or unable to critique it objectively.
 
-![Fanboi Elon Musk Acting Like a Schoolgirl at a Taylor Swift Concert](https://ralphhightower.github.io/img/ElonMuskAtTaylorSwiftConcert.jpg)
+![Fanboi Elon Musk Acting Like a Schoolgirl at a Taylor Swift Concert](https://ralphhightower.github.io/blog/img/ElonMuskAtTaylorSwiftConcert.jpg)
 <br />Fanboi Elon Musk Acting Like a Schoolgirl at a Taylor Swift Concert
 
 ### What Does Fanboi Elon Musk Want?
