@@ -17,7 +17,7 @@ Story by Holly Bishop. November 13, 2024.
 
 "We think that the benefits of being on X are now outweighed by the negatives and that resources could be better used promoting our journalism elsewhere. This is something we have been considering for a while given the often disturbing content promoted or found on the platform, including far-right conspiracy theories and racism. The US presidential election campaign served only to underline what we have considered for a long time: that X is a toxic media platform and that its owner, [Elon Musk](https://x.com/elonmusk), has been able to use its influence to shape political discourse. Social media can be an important tool for news organisations and help us to reach new audiences but, at this point, X now plays a diminished role in promoting our work." – The Guardian. 
 
-X/Twitter has become a cesspool of hate speech. Many companies have quit advertising on X/Twitter because they want to protect their brand name from that negativity. Head Twit, [Elon Musk](https://x.com/elonmusk), recently lost a lawsuit claiming that companies quit advertising on X/Twitter was a violation of free speech. 
+X/Twitter has become a cesspool of hate speech. Many companies have quit advertising on X/Twitter because they want to protect their brand name from that negativity. Head Twit, [Elon Musk](https://x.com/elonmusk), recently lost a lawsuit claiming that companies quit advertising on X/Twitter was a violation of free speech.
 
 Thousands of X/Twitter users have left the social media platform. It was reported earlier that X/Twitter had lost a fifth of the value from [Musk's](https://x.com/elonmusk) original purchase price. 
 
