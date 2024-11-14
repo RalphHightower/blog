@@ -38,7 +38,7 @@ That was new, but it wasn’t the most unsettling comment on the subject. The Wa
 
 In an interview that aired on Fox News, Maria Bartiromo asked Trump whether he was “expecting chaos on Election Day.” As part of the question, she referred to immigrants with criminal records and those on terrorist watch lists.
 
-<div style="padding-bottom: 56.25%; position: relative;"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/CdYzvBeEP8k&" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; fullscreen"  style="position: absolute; top: 0px; left: 0px; width: 100%; height: 100%;"><small>Powered by <a href="https://embed.tube/embed-code-generator/youtube/">Trump says military, national guard should be used to handle 'enemy within'</a> generator</small></iframe></div>
+<div style="padding-bottom: 56.25%; position: relative;"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/CdYzvBeEP8k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; fullscreen"  style="position: absolute; top: 0px; left: 0px; width: 100%; height: 100%;"><small>Powered by <a href="https://embed.tube/embed-code-generator/youtube/">Trump says military, national guard should be used to handle 'enemy within'</a> generator</small></iframe></div>
 
 “I think the bigger problem is the enemy from within. We have some very bad people. We have some sick people, radical left lunatics. It should be very easily handled by, if necessary, by National Guard — or if really necessary, by the military, because they can’t let that happen.”
 
