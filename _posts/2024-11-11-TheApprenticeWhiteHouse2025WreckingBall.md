@@ -7,7 +7,7 @@ excerpt: "He has suggested potential prosecutions of many dozens of political fo
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: 'The Apprentice: White House 2025 Unhenged'
+title: 'The Apprentice: White House 2025 Wrecking Ball
 ---
 
 
