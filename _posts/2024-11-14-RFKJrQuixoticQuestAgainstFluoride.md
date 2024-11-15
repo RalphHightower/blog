@@ -26,7 +26,7 @@ Story by Joseph Choi. November 14, 2024.
 
 [^11]: [Robert F. Kennedy Jr. – Wikipedia](https://en.wikipedia.org/wiki/Robert_F._Kennedy_Jr.?wprov=sfla1)
 
-President-elect [Trump's](https://x.com/realdonaldtrump) transactional view of people wa
+President-elect [Trump's](https://x.com/realdonaldtrump) transactional view of people is to reward them for their sycophantic loyalty. 
 
 Ah, there is [RFKJr](https://x.com/robertfkennedjr)'s expertise on oral health: conspiracy theorist. That explains how he knows the dangers of fluoridation. Another of his widely debunked conspiracies is that vaccine is cause autism.
 
