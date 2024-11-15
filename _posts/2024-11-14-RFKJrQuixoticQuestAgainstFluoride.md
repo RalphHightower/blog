@@ -3,7 +3,7 @@ layout: post
 tags: [Robert F Kennedy Jr, Donald Trump, conspiracy theory, fluoridation]
 categories: [2025 Trump Administration]
 date: 2024-11-14 3:45 PM
-#excerpt: ''
+excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
