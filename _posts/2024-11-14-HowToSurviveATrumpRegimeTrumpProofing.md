@@ -2,8 +2,8 @@
 layout: post
 tags: [autocracy, kleptocracy, resistance]
 categories: [Donald Trump]
-date: 2024-11-14  PM
-excerpt: 'Mary Trump reveals how Americans are already organizing against her uncle's incoming administration, from governors "Trump-proofing" their states to everyday citizens taking extraordinary stands.'
+date: 2024-11-14  8:26 PM
+excerpt: "Mary Trump reveals how Americans are already organizing against her uncle's incoming administration, from governors “Trump-proofing” their states to everyday citizens taking extraordinary stands."
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
