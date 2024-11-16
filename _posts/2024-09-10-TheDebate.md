@@ -3,7 +3,7 @@ layout: post
 tags: [Kamala Harris, Donald Trump, debate]
 categories: [2024 presidential election]
 date: 2024-09-11
-excerpt: 'My mother taught high school English and she instilled the proper use of English and grammar. As such, I  cannot listen to Donald Trump speak and mangle words and grammar. It is like listening to fingernails screech across a blackboard.'
+excerpt: 'My mother taught high school English and she instilled the proper use of English and grammar. As such, I cannot listen to Donald Trump speak and mangle words and grammar. It is like listening to fingernails screech across a blackboard.'
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
@@ -11,7 +11,7 @@ title: 'Prosecutorial Logic versus Toddler Gibberish'
 ---
 
 ## [Election 2024: What we know about Harris' tactics from past debates / AP News](https://apnews.com/article/harris-debate-approach-trump-matchup-240d0978bd7d38d9757b5d314359b7d0)
-<br />Updated 11:48 AM EDT, September 9, 2024<br />By  BILL BARROW
+<br />Updated 11:48 AM EDT, September 9, 2024<br />By BILL BARROW
 
 ATLANTA (AP) — From her earliest campaigns in California to her serving as President Joe Biden’s running mate, Kamala Harris has honed an aggressive but calibrated approach to debates.
 
@@ -69,6 +69,6 @@ Castro noted that Trump is “a nasty and crafty stage presence” who makes pre
 
 “The best thing she can do,” Castro said, “is not get distracted by his antics.”
 
-@RalphHightower: During Trump's third presidential race, his *"tossed salad of words"* have sounded more like gibberish. During his first run for president,  he talked like a five year old, and that is disparaging to five year olds.<br />My mother taught high school English and she instilled the proper use of English and grammar. As such, I  cannot listen to Donald Trump speak and mangle words and grammar. It is like listening to fingernails screech across a blackboard.
+@RalphHightower: During Trump's third presidential race, his *"tossed salad of words"* have sounded more like gibberish. During his first run for president, he talked like a five year old, and that is disparaging to five year olds.<br />My mother taught high school English and she instilled the proper use of English and grammar. As such, I cannot listen to Donald Trump speak and mangle words and grammar. It is like listening to fingernails screech across a blackboard.
 
 

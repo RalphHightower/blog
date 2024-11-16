@@ -32,8 +32,8 @@ Then came the wild tangent:
 We had a woman debating. She just talked about, like, the birds and the bees. She didn’t talk about … when you asked a question, there was never an answer. There was never any knowledge. When you saw her the other day, and by the way, when she did the interview previous with the Pennsylvania person who was a nice person, I know him very well, they were the softest questions, she was unable, literally unable to answer the questions. We can’t have that. We cannot have it. We need four strong years, we have to bring our country back.
 
 <iframe
-    width="560" height="315"
-    src="https://www.youtube.com/embed/ilkvDNhsbyg?start=1476&end=1497">
+ width="560" height="315"
+ src="https://www.youtube.com/embed/ilkvDNhsbyg?start=1476&end=1497">
 </iframe>
 
 The former president then returned to his script, but not before critics on social media pounced on his rhetoric — in particular the “birds and the bees” line.
@@ -44,7 +44,7 @@ Donald Trump: “We got great marks on that debate. We had a women debating, she
 
 Listen you Trumpers, sure Biden is 81 years old. Yes, at the first and only debate with Trump, he seemed out of it. Many called for him to step down. He'll turn 82 this November. Trump puts together an endless stream of words, hoping that it'll make sense.
 
-My mother taught high school English and she instilled in me the proper use of English and grammar. Listening to Trump talk is like listening to fingernails screech across a chalkboard.  I'll read the transcript of his *"speech"* later. Even then, it still won't make sense. He talks like a five-year old; althogh hat comparison is disparaging to five-year oldsl
+My mother taught high school English and she instilled in me the proper use of English and grammar. Listening to Trump talk is like listening to fingernails screech across a chalkboard. I'll read the transcript of his *"speech"* later. Even then, it still won't make sense. He talks like a five-year old; althogh hat comparison is disparaging to five-year oldsl
 
 But your guy, Trump, isn't far behind. He turned 78 this past June. Campaigning against Biden four years ago, Trump was whining that Biden was too old. *Uh, Trump, have you looked in the mirror? You're where Biden was four years ago.*"
 

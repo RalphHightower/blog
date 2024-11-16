@@ -19,6 +19,8 @@ Women deserve the right to health-care, not dictated by men in legislature, or b
 
 <div style="padding-bottom: 56.25%; position: relative;"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/_bfxiIoFgFo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; fullscreen"  style="position: absolute; top: 0px; left: 0px; width: 100%; height: 100%;"><small>Powered by <a href="https://embed.tube/embed-code-generator/youtube/">Interview with Mika Brzezinski, Stevie Nicks, with Sheryl Crow (10/30/24) on MSNBC "MorningJoe"</a> generator</small></iframe></div>
 
+<div style="padding-bottom: 56.25%; position: relative;"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/_bfxiIoFgFo?si=K5e8ppTKc8mBNhrf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
 Stevie Nicks says she doesn’t have many regrets, but one of them is not voting until she turned 70.
 
 “I never voted until I was 70, but now I regret that, and I regret that and I tell everybody on the stage for the last two years, I regret that,” the now 76-year-old rocker told Mika Brzezinski during an appearance on MSNBC. “And I don’t have very many regrets.”

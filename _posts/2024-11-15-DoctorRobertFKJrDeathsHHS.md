@@ -1,9 +1,9 @@
 ---
 layout: post
-tags: []
-categories: []
+tags: [Robert F Kennedy Jr, Donald Trump, Health Human Services]
+categories: [2025 Trump Administration]
 date: 2024-11-15 10:27 AM
-excerpt: "[RFK Jr.](https://x.com/robertfkennedjr) is one of the most dangerous, misguided, and hypocritical figures in the global 'wellness' movement. He has said that there’s no vaccine that is safe and effective. He has no idea how science or chemistry work. This is a disaster waiting to happen.–  Mike Rothschild, journalist"
+excerpt: "RFK Jr. is one of the most dangerous, misguided, and hypocritical figures in the global 'wellness' movement. He has said that there’s no vaccine that is safe and effective. He has no idea how science or chemistry work. This is a disaster waiting to happen.–  Mike Rothschild, journalist"
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
@@ -31,9 +31,9 @@ Former U.S. Secretary of Labor Robert Reich observed that [RFK Jr.](https://x.co
 
 If he is confirmed, [RFK Jr.](https://x.com/robertfkennedjr) would oversee agencies in charge of researching and developing new medicines and cures to disease. Northwestern University law professor Paul Gowder opined that there would be "a lot of deaths" if [RFK Jr.](https://x.com/robertfkennedjr) was able to enact his agenda at HHS. Pulaski Institution CEO Alan Elrod lamented that all of that research may be at risk if [Trump](https://x.com/realdonaldtrump) is successful in elevating [RFK Jr.](https://x.com/robertfkennedjr)
 
-"Truly remarkable what we are potentially set to squander as a nation," he wrote on Bluesky. "RFK will gut and degrade the most sophisticated public health research bodies in the world."
+"Truly remarkable what we are potentially set to squander as a nation," he wrote on Bluesky. "[RFK Jr.](https://x.com/robertfkennedjr) will gut and degrade the most sophisticated public health research bodies in the world."
 
-Author Faine Greenwood — a researcher at the Signal Program at the Harvard Humanitarian Initiative — wasn't as convinced that [RFK Jr.](https://x.com/robertfkennedjr) would be effective in dismantling public health institutions. Greenwood noted that the pharmaceutical industry has been "bathing in vast seas of money thanks to the MRNA revolution, and I do not see them letting Captain Brain Worms light that all on fire without a face-eating fight."
+Author Faine Greenwood — a researcher at the Signal Program at the Harvard Humanitarian Initiative — wasn't as convinced that [RFK](https://x.com/robertfkennedjr) would be effective in dismantling public health institutions. Greenwood noted that the pharmaceutical industry has been "bathing in vast seas of money thanks to the MRNA revolution, and I do not see them letting Captain Brain Worms light that all on fire without a face-eating fight."
 
 [RFK Jr.](https://x.com/robertfkennedjr)'s nomination is just the latest in a tumultuous week of announcements from the President-elect as he names his choices for his second term Cabinet. Dartmouth College political scientist Brendan Nyhan commented on the flurry of controversial nominations, like former Rep. [Matt Gaetz](https://x.com/mattgaetz) (R-Fla.) for Attorney General, Fox News host Pete Hegseth for Secretary of Defense and former Rep. Tulsi Gabbard (D-Hawaii) for Director of National Intelligence.
 

@@ -11,7 +11,7 @@ title: 'The Cult of Personality – Trump Part 1: How The Trump Personality Cult
 ---
 
 
-##  [The One Way History Shows Trump’s Personality Cult Will End - POLITICO](https://www.politico.com/news/magazine/2022/04/16/history-shows-trump-personality-cult-end-00024941).
+## [The One Way History Shows Trump’s Personality Cult Will End - POLITICO](https://www.politico.com/news/magazine/2022/04/16/history-shows-trump-personality-cult-end-00024941).
 
 *An expert on autocracy assesses how far America has slipped away from democracy, and what it will take to get it back.*
 

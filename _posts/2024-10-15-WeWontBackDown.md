@@ -86,7 +86,7 @@ Amanda Wheeler, a spokesperson for Vermont Gov. Phil Scott, said he would “abs
 
 ### Why secretaries of state will stand in the way of election interference
 
-The top election officials in three swing states — Arizona, Michigan, and Nevada — are elected Democrats. Wisconsin’s top election official, Meagan Wolfe, is a nonpartisan appointee Trump asked Republicans to impeach, in part over false and misleading claims of the 2020 election. The Republican secretaries of state in Pennsylvania and Georgia, Schmidt and Raffensperger, also were tested in 2020.   
+The top election officials in three swing states — Arizona, Michigan, and Nevada — are elected Democrats. Wisconsin’s top election official, Meagan Wolfe, is a nonpartisan appointee Trump asked Republicans to impeach, in part over false and misleading claims of the 2020 election. The Republican secretaries of state in Pennsylvania and Georgia, Schmidt and Raffensperger, also were tested in 2020.  
 
 "For the last four-plus years there have been a lot of political attempts to try to sway me, and I’ve stood strong through all of those, and I have no intent to stop," Wolfe told USA TODAY. She said her job "all day every day is to recognize political pressure or influence for what it is and do my job as an election official without giving deference to that."
 
@@ -98,7 +98,7 @@ Karen Brinson Bell, the nonpartisan executive director of the North Carolina Sta
 
 After the Board of Elections signs off, Elaine Marshall, North Carolina's Democratic secretary of state, certifies the results to the governor. Then she convenes the Electoral College. "If I were to get a call about switching electors, I mean, I wouldn’t do it," she said. "There is no authority for that. And it’s just not going to happen on my watch."
 
-In New Hampshire, Republican Secretary of State David Scanlan historically sends a letter to the five-member executive council to certify the presidential election, according to Cinde Warmington, the only Democrat on the five-member council.  She said she isn't concerned about the council doing its job.  
+In New Hampshire, Republican Secretary of State David Scanlan historically sends a letter to the five-member executive council to certify the presidential election, according to Cinde Warmington, the only Democrat on the five-member council. She said she isn't concerned about the council doing its job. 
 
 Susan Beals, the chief election official for Virginia, said in a statement that certification of the election is a “ministerial duty,” a legal term that means officials can’t decline to do it for subjective reasons. The Virginia State Board of Elections, which has three Republicans and two Democrats, said in a statement that it would “fulfill its responsibility to certify the results of the 2024 November general election.”
 

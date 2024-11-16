@@ -27,4 +27,4 @@ One of the principles of America is freedom of speech and a free press. Trump wa
 
 America has no need for state-run media. [Faux News](https://foxnews.com) is the closest news media as state-run media. The Trump Party[^12] controls [Faux News](https://foxnews.com).
 
-[^12]: The Republican Party ceased to exist in 2016 when it chose the most unqualified candidate, Trump, as its presidential candidate during their July July 2016 national  convention convention.
+[^12]: The Republican Party ceased to exist in 2016 when it chose the most unqualified candidate, Trump, as its presidential candidate during their July July 2016 national convention convention.

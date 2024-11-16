@@ -15,7 +15,7 @@ title: "If Trump Declares Victory Early to Make Voters Think It's No Use To Vote
 
 *Andrew Weissmann: Trump declaring election victory early is ‘illegal’*
 
-Legal expert Andrew Weissmann joins The Weekend to discuss the threats posed from a second Trump term and how the legal system is preparing to fight back, should he challenge the election results.  November 2, 2024.
+Legal expert Andrew Weissmann joins The Weekend to discuss the threats posed from a second Trump term and how the legal system is preparing to fight back, should he challenge the election results. November 2, 2024.
 
-<div style="padding-bottom: 56.25%; position: relative;"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/M2-FeocLYao" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; fullscreen"  style="position: absolute; top: 0px; left: 0px; width: 100%; height: 100%;"><small>Powered by <a href="Andrew Weissmann: Trump declaring election victory early is ‘illegal’"</a> generator</small></iframe></div>
+<div style="padding-bottom: 56.25%; position: relative;"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/M2-FeocLYao" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; fullscreen" style="position: absolute; top: 0px; left: 0px; width: 100%; height: 100%;"><small>Powered by <a href="Andrew Weissmann: Trump declaring election victory early is ‘illegal’"</a> generator</small></iframe></div>
 

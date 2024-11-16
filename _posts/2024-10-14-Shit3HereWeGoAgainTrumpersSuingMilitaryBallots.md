@@ -13,7 +13,7 @@ title: 'Shit! Here We Go Again Part 3: "Republicans" Targeting Military Overseas
 
 ## [Election 2024: Republican lawsuits target rules for overseas voters / AP News](https://apnews.com/article/overseas-voters-military-ballots-election-2024-republicans-a275299f6828ec0f54133ea5614ca0df)
 
-By  CHRISTINA A. CASSIDY and NICHOLAS RICCARDI
+By CHRISTINA A. CASSIDY and NICHOLAS RICCARDI
 Updated 12:24 AM EDT, October 14, 2024
 
 - **Overseas Voting Challenges**: Republicans are challenging how states handle overseas and military voters, claiming potential fraud without evidence.
@@ -21,7 +21,7 @@ Updated 12:24 AM EDT, October 14, 2024
 - **Demographic Shift**: More overseas voters are presumed to lean Democratic, prompting Republican scrutiny.
 - **Legal Actions**: Lawsuits in states like Pennsylvania, Michigan, and North Carolina aim to change or challenge current voting practices for overseas voters.
 
-@RalphHightower: The Trumpers, fka, *"Republicans"*, are cherry picking the states to challenge, which happen to be battleground states. If they have proof of voter fraud, then  file lawsuits against all fifty states, plus the territories. 
+@RalphHightower: The Trumpers, fka, *"Republicans"*, are cherry picking the states to challenge, which happen to be battleground states. If they have proof of voter fraud, then file lawsuits against all fifty states, plus the territories. 
 
 Ballots already have been sent to overseas and military voters under a federally mandated deadline. Trump and his Republican allies contend these ballots could be part of an elaborate scheme to steal the election from him, a claim for which there is no evidence. Their challenge comes as the voters who receive the ballots are increasingly from groups that are presumed to be Democratic.
 Here’s a look at the issues involved and what’s driving the claims.

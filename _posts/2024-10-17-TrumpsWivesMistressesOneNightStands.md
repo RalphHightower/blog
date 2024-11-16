@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [Donald Trump, Ivana Marie Zelníčková, Marla Maples. Melania (Melanija) Knavs, porn star, Stormy Daniels, Playboy© Playmate  Karen McDougal, marital infidelity, extramarital affairs]
+tags: [Donald Trump, Ivana Marie Zelníčková, Marla Maples. Melania (Melanija) Knavs, porn star, Stormy Daniels, Playboy© Playmate Karen McDougal, marital infidelity, extramarital affairs]
 categories: [2024 presidential election]
 date: 2024-10-17 11:57 AM
 excerpt: 'In 2018, Knavs and her husband, Viktor, obtained green cards and then became naturalized U.S. citizens using the U.S. family-based immigration program, which Trump had denounced as "chain migration"'
@@ -21,7 +21,7 @@ I contend that Trump was having extramarital affairs with his second-to-be wife 
 |---|---|---|---|---|---|---|
 | Ivana Marie Zelníčková[^301] | 1977 | 1990[^313] | Czechoslovakia (until 1993)<br />Czech Republic (from 1993)<br />Austria (from 1973)<br />United States (from 1988) | \$14 million9[^302]<br />a 45-room mansion, Greenwich, Conn.<br />Trump Plaza apartment | \$650,000 annually | use of the 118-room Mar-a-Lago mansion in Florida for one month a year |
 | Marla Maples[^311] | 1993 | 1999[^312]<sup>,</sup>[^322] | American | between 1 – 5 million | | Apartment in one of Trump's buildings |
-| Melania (Melanija) Knavs[^321] | 2005 | *not yet* | Yugoslavia. 1970-1991<br />Slovenia. 1991–present<br />United States. 2006–present. |  |   |   |
+| Melania (Melanija) Knavs[^321] | 2005 | *not yet* | Yugoslavia. 1970-1991<br />Slovenia. 1991–present<br />United States. 2006–present. | |  |  |
 
 In 2018, Knavs and her husband, Viktor, obtained green cards and then became naturalized U.S. citizens using the U.S.'s family-based immigration program, which Trump had denounced as "chain migration".[^323]<br />Correal, Annie; Cochrane, Emily (August 9, 2018). "Melania Trump's Parents Become U.S. Citizens, Using 'Chain Migration' Trump Hates". The New York Times. Archived from the original on April 24, 2022. Retrieved January 10, 2024.<br />[4] Cochrane, Emily (February 21, 2018). "Questions Swirl as Melania Trump's Parents Obtain Green Cards". The New York Times. Washington. Archived from the original on January 10, 2024. Retrieved January 10, 2024.<br />
 

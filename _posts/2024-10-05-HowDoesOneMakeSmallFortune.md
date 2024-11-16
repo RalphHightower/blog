@@ -64,7 +64,7 @@ A [Washington Post analysis](https://www.washingtonpost.com/politics/2024/09/27/
 
 Reportedly, according to Trump, he is worth $4,000,000,000. So, why is he holding a fundraiser on GoFundMe?
 
-Personally,  I'd be concerned that my contribution would be diverted to his campaign finances, or his legal bills.
+Personally, I'd be concerned that my contribution would be diverted to his campaign finances, or his legal bills.
 
 The GoFundMe page states, *“an official response for MAGA supporters to offer their financial assistance to their fellow Americans impacted by Hurricane Helene.”
 
@@ -72,13 +72,12 @@ The article also questions if Trump made a personal donation. Probably not. Trum
 
 ## \<air quotes> *"Truth"* \<air quotes> Social Subscribers Are Targets of "Pig-Butchering" Scams
 
-['What idiots we are': Truth Social users lose hundreds of thousands of dollars to scammers](https://www.alternet.org/truth-social-scammers/).<br />Story by Carl Gibson. October 5, 2024.
+['What idiots we are': Truth Social users lose hundreds of thousands of dollars to scammers](https://www.alternet.org/truth-social-scammers/)
 
-Some *"Truth"* Social subscribers have lost hundreds of thousands of dollarsto pg-butchering[^41] scams. The demographics of its subscriber base, older Americans who are retired and have a significantly larger life savings,  makes it a honeypot for scammers.
+Story by Carl Gibson. October 5, 2024.
+
+Some *"Truth"* Social subscribers have lost hundreds of thousands of dollarsto pg-butchering[^41] scams. The demographics of its subscriber base, older Americans who are retired and have a significantly larger life savings, makes it a honeypot for scammers.
 
 Romance Scams are taking place on *"Truth"* Social also. One person in his 70's lost $21,000. So far, he hasn't told his wife.
 
 [^41]: "pig butchering." That type of scam involves a grifter winning the trust of a mark, persuading them to invest in a questionable money-making scheme and cajoling them into making even larger investments by tricking them into thinking they're making money.
-
-
-

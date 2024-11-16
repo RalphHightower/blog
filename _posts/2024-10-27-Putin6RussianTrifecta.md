@@ -13,7 +13,7 @@ title: 'Vladimir Putin – Part 6: Russian Trifecta: Putin, Trump, Musk / The Ma
 
 ## [Here's a look at Musk's contact with Putin and why it matters / AP News](https://apnews.com/article/musk-putin-x-trump-tesla-election-russia-9cecb7cb0f23ccce49336771280ae179)
 
-By  DAVID KLEPPER and LISA MASCARO
+By DAVID KLEPPER and LISA MASCARO
 Updated 5:35 PM EDT, October 25, 2024
 
 - **Musk-Putin Contacts**: Elon Musk has been in regular contact with Russian President Vladimir Putin over the past two years, discussing personal matters, business, and geopolitics.
@@ -53,7 +53,7 @@ Musk then refused to allow Ukraine in 2023 to use Starlink for a surprise attack
 
 He also floated a peace proposal that would have required Ukraine to drop plans for NATO membership and given Russia permanent control of Crimea, which it seized in 2014. The plan infuriated Ukrainian leaders.[^131]
 
-[^131]: @RalphHightower: Musk is venturing into  diplomacy between nations, and area that has been reserved for nations. What's in it for Musk?
+[^131]: @RalphHightower: Musk is venturing into diplomacy between nations, and area that has been reserved for nations. What's in it for Musk?
 
 The timing of the calls reported by The Journal and Musk’s changing views on Ukraine was a “disturbing coincidence,” said Bradley Bowman, a former West Point assistant professor who is now senior director of the Center on Military and Political Power at the Foundation for Defense of Democracies, a Washington-based think tank.
 
