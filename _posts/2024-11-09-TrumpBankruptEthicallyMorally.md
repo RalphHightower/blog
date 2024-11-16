@@ -7,7 +7,7 @@ excerpt: 'Until the Trump transition signs that document, the Biden administrati
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: 'Trump Is Bankrupt, Morally and Ethically. Refuses to Sign Ethics Statement Legislated Prompted By His
+title: 'Trump Is Bankrupt, Morally and Ethically. Refuses to Sign Ethics Statement Legislated Prompted By His Lifetime of Lies'
 ---
 
 
