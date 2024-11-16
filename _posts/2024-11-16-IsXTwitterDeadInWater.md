@@ -3,7 +3,7 @@ layout: post
 tags: [X, Twitter, social media]
 categories: [Elon Musk]
 date: 2024-11-16 12:40 PM
-#excerpt: "Public figures aren’t the only ones denouncing their use of the X platform. This week,The Guardian told its readers it would no longer post content from their official X accounts, largely due to [Musk](https://x.com/elonmusk)’s impact on the “toxic media platform” and for using “its influence to shape political discourse,” which The Guardian said includes amplifying “far-right conspiracy theories and racism.”"
+excerpt: "Public figures aren’t the only ones denouncing their use of the X platform. This week,The Guardian told its readers it would no longer post content from their official X accounts, largely due to [Musk](https://x.com/elonmusk)’s impact on the “toxic media platform” and for using “its influence to shape political discourse,” which The Guardian said includes amplifying “far-right conspiracy theories and racism.”"
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
