@@ -2,8 +2,8 @@
 layout: post
 tags: [Donald Trump, golf, kleptocracy]
 categories: [2024 presidential election]
-#date: 2024-10-17 11:34 AM
-#excerpt: ''
+date: 2024-10-17 11:34 AM
+excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:

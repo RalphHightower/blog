@@ -114,7 +114,7 @@ Trump's daughter, Ivanka Kushner and son-in-law, Jared Kushner, were unqualified
 
 #### Acolytes and Sycophants
 
-Senator Lindsey Graham (T-SC) has the attention span of a squirrel. After the attempted insurrection on January 6, 2021, Graham said *"That's it! I'm done with Trump."* He was on NBC's Meet The Press after the failed assassination of Trump in 2024. He said that he was supposed to play golf with Trump that weekend. Graham is one of Trump's [sycophants](http://www.merriam-webster.com/dictionary/sycophant). He has he head so far up  Trump's ass that he doesn't know if it's night or day.
+Senator Lindsey Graham (T-SC) has the attention span of a squirrel. After the attempted insurrection on January 6, 2021, Graham said *"That's it! I'm done with Trump."* He was on NBC's Meet The Press after the failed assassination of Trump in 2024. He said that he was supposed to play golf with Trump that weekend. Graham is one of Trump's [sycophants](http://www.merriam-webster.com/dictionary/sycophant). He has he head so far up Trump's ass that he doesn't know if it's night or day.
 
 [Senator Tim Scott (T-SC) – Meet the Press. May 5, 2024](https://www.nbcnews.com/meet-the-press/video/federal-funding-is-a-privilege-not-a-right-tim-scott-tells-college-presidents-full-interview-210290757680) refused to answer a simple 'yes/no' answer to the question "Will you accept the election results if Trump loses?". As one of Trump's [acolytes](http://www.merriam-webster.com/dictionary/acolyte), Scott is Trump's "lawn jockey". He does not have the courage to stand for what's right.
 

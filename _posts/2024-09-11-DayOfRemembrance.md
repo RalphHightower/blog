@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [terrorism,  alQaeda]
+tags: [terrorism, alQaeda]
 categories: [September 11 2001 terrorist attacks]
 ate: 2024-09-11 13:14:15
 excerpt: 'When I saw the second plane intentionally crash into the second tower, I thought al-Qaeda'
@@ -10,7 +10,7 @@ excerpt: 'When I saw the second plane intentionally crash into the second tower,
 title: '9/11/2001 Remembered'
 ---
 
-I remember the day well. I was listening to the radio when I heard the DJ announce that a plane had crashed into one of the World Trade Centers; initially, they thought that it was a small airplane. I turned on the TV to watch the second passenger jet purposefully fly into the second World Trade Center. I said to myself,  "al-Qaeda." This wasn’t the first time that they attacked America.
+I remember the day well. I was listening to the radio when I heard the DJ announce that a plane had crashed into one of the World Trade Centers; initially, they thought that it was a small airplane. I turned on the TV to watch the second passenger jet purposefully fly into the second World Trade Center. I said to myself, "al-Qaeda." This wasn’t the first time that they attacked America.
 
 The news media websites were straining from the requests. They had to ditch the graphics and display updates simply as text. I got more information from [Slashdot: News for nerds, stuff that matters](https://slashdot.org/).
 

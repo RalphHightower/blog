@@ -12,7 +12,7 @@ title: 'I Am The Enemy Within – @RalphHightower'
 
 ## [Who does Trump see as 'enemies from within'? / AP News](https://apnews.com/article/donald-trump-enemies-from-within-5c4a34776469a55e71d3ba4d4e68cf62)
 
-By  JONATHAN J. COOPER. Updated 12:23 AM EDT, October 26, 2024.
+By JONATHAN J. COOPER. Updated 12:23 AM EDT, October 26, 2024.
 
 Trump has ramped up his dangerous rhetoric declaring war on US citizens that do not support him. Now, instead of crazies taking pot-shots at him, his misfit army of Pride Boys, Zero Percenters, and Oath Losers, will start targeting normal, law abiding citizens.
 
@@ -42,8 +42,8 @@ Donald Trump on Friday said “the enemy from within” the United States poses 
 
 In his rallies and interviews, the former president is increasingly fixated on the Americans he believes have wronged or betrayed him. They are worse, he says, than foreign adversaries of the United States. And he’s made plain his desire to use the power of the federal government[^21], including the military, to go after them[^22].
 
-[^21]: [If elected, Trump plans to further test limits of military power at home / AP News](https://apnews.com/article/trump-military-border-civil-unrest-domestic-use-a136c69cc85184b07f161c4c09b46c50). By  STEPHEN GROVES. Updated 10:02 PM EDT, October 13, 2024
-[^22]: [Trump's promise of payback for prosecution follows years of attacking democratic traditions / AP News](https://apnews.com/article/trump-retribution-indictment-documents-biden-american-democracy-5a8ec37b359fee85d0f0956139d79f51). By  Nicholas Riccardi and Gary Fields. Published 12:23 AM EDT, June 16, 2023
+[^21]: [If elected, Trump plans to further test limits of military power at home / AP News](https://apnews.com/article/trump-military-border-civil-unrest-domestic-use-a136c69cc85184b07f161c4c09b46c50). By STEPHEN GROVES. Updated 10:02 PM EDT, October 13, 2024
+[^22]: [Trump's promise of payback for prosecution follows years of attacking democratic traditions / AP News](https://apnews.com/article/trump-retribution-indictment-documents-biden-american-democracy-5a8ec37b359fee85d0f0956139d79f51). By Nicholas Riccardi and Gary Fields. Published 12:23 AM EDT, June 16, 2023
 
 “The crazy lunatics that we have — the fascists, the Marxists, the communists, the people that we have that are actually running the country,” Trump said this month at a rally in Wisconsin. “Those people are more dangerous — the enemy from within — than Russia and China and other people.”
 

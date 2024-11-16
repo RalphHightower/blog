@@ -3,7 +3,7 @@ layout: post
 tags: [Donald Trump, president ranking, history]
 categories: [presidential ranking]
 date: 2024-11-05 8:57 AM
-#excerpt: ''
+excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:

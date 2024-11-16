@@ -14,7 +14,7 @@ title: "Federal Court @ Here Comes Da Judge – Part 3: Massive Court Filing Lay
 I live in a county, [Lexington County](https://lex-co.sc.gov/), that is so red that the 
 Republican primary is the general election for county officials. 
 
-From April to mid-May 2021,  I was hospitalized at [Lexington Medical Center](https://www..lexmedlcom/). 
+From April to mid-May 2021, I was hospitalized at [Lexington Medical Center](https://www..lexmedlcom/). 
 Even then, four months after he was evicted from the [White House](https://www.whitehouse.gov/), 
 Trump was still whining, *"I won! I won!"* Each morning during the daily cognitive 
 test, "What year is it?", "Do you know where you are?", etc., that I'd have a little fun 
@@ -46,7 +46,7 @@ But I urge y'all to vote for Harris/Walz, I'll use a phrase that Trump uses, "Vo
 
 I've done my best to replicate the front page of the document filed in the UNITED STATES DISTRICT COURT, DISTRICT OF COLUMBIA of the case, UNITED STATES OF AMERICA v. DONALD J TRUMP.
 
-That document is 165 pages long. I am not going to screenscrape a document that large and separate the words with spaces. It is also quite damning. My copy  and paste brought in the text with as many as five to seven words strung together without separation[^11]. The court document is available from many different news media websites. Heck, it may even be available on Faux News.
+That document is 165 pages long. I am not going to screenscrape a document that large and separate the words with spaces. It is also quite damning. My copy and paste brought in the text with as many as five to seven words strung together without separation[^11]. The court document is available from many different news media websites. Heck, it may even be available on Faux News.
 
 [^11]: Sort of like *"Trump-Speak"* where Trump strings random thoughts into a *"tossed salad of words",* and hopes it makes sensel
 
@@ -63,7 +63,7 @@ IN THE UNITED STATES DISTRICT COURT <br />
 <br />
 FOR THE DISTRICT OF COLUMBIA<br />
 
-|   |   |   |
+|  |  |  |
 |---|---|---|
 | UNITED STATES OF AMERICA | * | |
 | | * | |

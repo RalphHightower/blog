@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: JD Vance, Tim Walz, vice president, debate]
+tags: [JD Vance, Tim Walz, vice president, debate]
 categories: [2024 presidential election]
 date: 2024-10-09 05:45 PM
 excerpt: 'That is a damning non-answer. Walz response to [JD “John Boy” Vance (T-OH)](https://www.vance.senate.gov/) when asked the question: "Did he lose the 2020 election?"'

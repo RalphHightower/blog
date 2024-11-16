@@ -3,7 +3,7 @@ layout: post
 tags: [Grateful Dead, Phil Lesh, musician, bass guitar, jam band]
 categories: [Grateful Dead, Phil Lesh]
 date: 2024-10-26 11:49 PM
-excerpt: '"I was awakened to the power of music early in life through the magic of radio broadcasts and by listening to my father play, from memory, his favorite tunes on the piano. Music saved me by giving me a real sense of accomplishment."  Lesh wrote in his 2005 autobiography.'
+excerpt: '"I was awakened to the power of music early in life through the magic of radio broadcasts and by listening to my father play, from memory, his favorite tunes on the piano. Music saved me by giving me a real sense of accomplishment." Lesh wrote in his 2005 autobiography.'
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
@@ -34,5 +34,5 @@ Story by Bob Cronin. October 25, 2024.
 - **Contributions**: He co-wrote several iconic songs, including "St. Stephen," "Dark Star," "Cumberland Blues," "Truckin'," and "Box of Rain."
 - **Legacy**: Lesh's innovative bass playing and harmonies were integral to the Grateful Dead's music, and he remained with the band from 1965 until Jerry Garcia's death in 1995.
 
-"I was awakened to the power of music early in life through the magic of radio broadcasts and by listening to my father play, from memory, his favorite tunes on the piano. Music saved me by giving me a real sense of accomplishment."  Lesh wrote in his 2005 autobiography.
+"I was awakened to the power of music early in life through the magic of radio broadcasts and by listening to my father play, from memory, his favorite tunes on the piano. Music saved me by giving me a real sense of accomplishment." Lesh wrote in his 2005 autobiography.
 

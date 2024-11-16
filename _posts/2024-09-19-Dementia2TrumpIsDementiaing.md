@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [Donald Trump,  dementia, cognitive decline]
+tags: [Donald Trump, dementia, cognitive decline]
 categories: [2024 presidential election]
 date: 2024-09-19 15:14:45
 excerpt: "They didn’t correct her once. And they corrected me, everything I said, practically. I think nine times or 11 times. And the audience was absolutely — they went crazy."
@@ -19,7 +19,7 @@ News Fellow
 
 *Appearing on Fox News, the 78-year-old Republican claimed that he won over an audience that did not exist.*
 
-Not  only is Trump forgetting what the question was when he veers off topic and starts answering with gibberish, but he is now **seeing people** where there are none.
+Not only is Trump forgetting what the question was when he veers off topic and starts answering with gibberish, but he is now **seeing people** where there are none.
 
 Faux News did not bother to correct Trump that there was no studio audience as agreed upon by ABC New and both the Harris campaign and the Trump campaign.
 

@@ -6,7 +6,7 @@ date: 2024-10-10 10:19 AM
 excerpt: 'In addition to Florida - South Carolina, North Carolina, Georgia, and Alabama, will most likely be hit (much) harder than anticipated. Looking like one of the largest hurricanes ever. Already category 5. BE CAREFUL! GOD BLESS EVERYONE!'
 image: 'https://ralphhightower.github.io/blog/img/SharpiePrezDorianConeUncertainty.jpeg'
 #'BASEURL/assets/blog/img/.png'
-description: '#SharpiePresident Trump Showing an Altered Cone of Uncertainty  of Hurricane Dorian'
+description: '#SharpiePresident Trump Showing an Altered Cone of Uncertainty of Hurricane Dorian'
 #permalink:
 title: 'Hurricane – Part 1: #SharpiePresident Trump Shows a Cone of Uncertainty of Hurricane Dorian (2019) That He Altered to Include Alabama'
 ---
@@ -25,7 +25,7 @@ and voters to realize that Trump is not interested in you. Trump is just interes
 - **Public Reaction**: The incident sparked widespread discussion and mockery on social media, with "Sharpiegate" trending on Twitter.
 
 
-![SharpiePresident Trump Showing an Altered Cone of Uncertainty  of Hurricane Dorian](https://ralphhightower.github.io/blog/img/SharpiePrezDorianConeUncertainty.jpeg)
+![SharpiePresident Trump Showing an Altered Cone of Uncertainty of Hurricane Dorian](https://ralphhightower.github.io/blog/img/SharpiePrezDorianConeUncertainty.jpeg)
 
 Doubling down later, Trump continued "It may get a little piece of a great place — it’s called
 Alabama. And Alabama could even be in for at least some very strong winds and something

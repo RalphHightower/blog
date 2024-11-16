@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [Georgia, Mark Meadows, state rimes]
+tags: [Georgia, Mark Meadows, state crimes]
 categories: [2020 presidential election fraud]
 date: 2019-06-25 13:14:15
 excerpt: 'A U.S. district judge and the 11th U.S. Circuit Court of Appeals both ruled that the case against Meadows and some of his co-defendants should remain in state court. A federal judge has also refused to move an Arizona fake elector case against him there to federal court.'

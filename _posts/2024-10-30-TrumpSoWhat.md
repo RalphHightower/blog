@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [Donald Trump, JD Vance,  indifference]
+tags: [Donald Trump, JD Vance, indifference]
 categories: [2024 presidential election]
 date: 2024-10-30 11:33 AM
 excerpt: "It’s really rich for Democratic leaders to say that Donald Trump is a unique threat to democracy when he peacefully gave over power on Jan. 20. – lied JD Vance during VP debate, ignoring January 6th"
@@ -24,7 +24,7 @@ By Eugene Robinson. October 3, 2024 at 5:11 p.m. EDT
 
 When told his vice president was being hustled to safety during the shocking and bloody Capitol insurrection on Jan. 6, 2021?
 
-  - So what? 
+ - So what? 
 
 The rioters were chanting “hang Mike Pence” as they stalked the halls? 
 
