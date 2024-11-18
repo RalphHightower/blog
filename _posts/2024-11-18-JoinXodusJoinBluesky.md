@@ -22,6 +22,9 @@ Story by Euronews. November 18, 2024.
 
 @RalphHightower: [X/Twitter](https://x.com) has become a cesspool of bigotry and hate speech. Companies have pulled their  advertising dollars from [X/Twitter](https:// x.com/) to protect their brand name. 
 ![Elon Musk At Taylor Swift Concert](https://ralphhightower.github.io/blog/img/ElonMuskAtTaylorSwiftConcert.jpg)
+
+### [Elon Musk](https://x.com/elonmusk) Acting As If He Is At a [Taylor Swift Concert](https://www.taylorswift.com/)
+
 [Elon Musk](https://x.com/elonmush) claims to be a proponent of free speech. However, once Florida's governor Ron DeSantis dropped out of the 2024 presidential race, [Musk](https://x.com/elonmusk) hitched his wagon to [Trump](https://x.com/realdonaldtrump) and turned [X/Twitter](https://x.com/) into a [Trump Propaganda Machine](x.com/realdonaldtrump), spreading misinformation, and conspiracy theories against the Democrats in the 2024 election. 
 
 As of April 27, 2023, I deactivated my Twitter account based on this Elon Musk tweet:<br />[@ElonMusk](https://twitter.com/elonmusk/status/1651602599345373186): *Anyone making materially false statements on this platform will get Community Noted, including you, me, Tucker, advertisers, head of state, etc. No exceptions. <br />Convince the people and let the chips fall where they may.* <br />@RalphHightower: Seriously? Yet you welcomed back a pathological liar, Donald Trump, who incited and welcomed violence in an attempted coup d'état on January 6 in the storming of the U.S. Capitol. Twitter has gone to ***HELL!***
