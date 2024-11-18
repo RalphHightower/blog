@@ -7,7 +7,7 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: 'Ditch X/Twitter! Join the #Xodus. Sign Up for [Bluesky](https://bsky.app/).'
+title: 'Ditch X/Twitter! Join the #Xodus. Sign Up for Bluesky.'
 ---
 
 
@@ -21,6 +21,9 @@ Story by Euronews. November 18, 2024.
 - **Global Impact**: [Bluesky](https://bsky.app/) has previously seen user increases, such as after [X](https://X com/) was banned in Brazil, highlighting its growing global presence.
 
 @RalphHightower: [X/Twitter](https://x.com) has become a cesspool of bigotry and hate speech. Companies have pulled their  advertising dollars from [X/Twitter](https:// x.com/) to protect their brand name. 
+
+### [Elon Musk](https://x.com/elonmusk) Acting As If He Were At a [Taylor Swift Concert](https://www.taylorswift.com/)
+
 ![Elon Musk At Taylor Swift Concert](https://ralphhightower.github.io/blog/img/ElonMuskAtTaylorSwiftConcert.jpg)
 [Elon Musk](https://x.com/elonmush) claims to be a proponent of free speech. However, once Florida's governor Ron DeSantis dropped out of the 2024 presidential race, [Musk](https://x.com/elonmusk) hitched his wagon to [Trump](https://x.com/realdonaldtrump) and turned [X/Twitter](https://x.com/) into a [Trump Propaganda Machine](x.com/realdonaldtrump), spreading misinformation, and conspiracy theories against the Democrats in the 2024 election. 
 
