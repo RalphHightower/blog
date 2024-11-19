@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [billionaires, campaign contributions, Elon Musk, Bill Ackermann, Warren Buffet, Robert Johnson, Winklevoss (Cameron & Tyler), Miriam Adelson, Ben Horowitz, Marc Andreesen, Ben Horowitz, Ike Perlmutter, Richard Uihlein, Jamie Dimon, Patrick Soon-Shiong, Jeff Bezos]
+tags: [billionaires, campaign contributions, Elon Musk, Bill Ackermann, Warren Buffet, Robert Johnson, Winklevoss (Cameron & Tyler), Miriam Adelson, Ben Horowitz, Marc Andreesen, Ben Horowitz, Ike Perlmutter, Richard Uihlein, Jamie Dimon, Patrick Soon-Shiong, Jeff Bezos, politics]
 categories: [2024 presidential election]
 date: 2024-11-02 4:50 PM
 excerpt: "With Trump, there is no such thing as an ironclad deal that doesn’t benefit him personally. His appetite for retribution is well-established, and any slight or perceived disloyalty is enough to curry his disfavor."

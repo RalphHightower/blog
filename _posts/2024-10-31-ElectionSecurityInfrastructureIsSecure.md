@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [Donald Trump, gaslighting election fears fraud, election security, Cybersecurity and Infrastructure Security Agency, Jan Easterly]
+tags: [Donald Trump, gaslighting election fears fraud, election security, Cybersecurity and Infrastructure Security Agency, Jan Easterly, politics, video]
 categories: [2024 presidential election]
 date: 2024-10-31 3:06 PM
 excerpt: "Yeah, well, great to be with you. So it is a very complex threat environment and it's our foreign adversaries but it's also cybersecurity threats, it's physical security threats. The thing that I would want the american people to know is that based on extesive work by state and local election officials over the past several years, the reality is our election infrastructure has never been more secure. Whoever you vote for, you can have confidence that your vote. Will be counted as cast."

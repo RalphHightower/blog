@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [Donald Trump,  economics, working-class]
+tags: [Donald Trump,  economics, working-class,  politics]
 categories: [2024 presidential election]
 date: 2024-11-02 9:06 AM
 excerpt: ''

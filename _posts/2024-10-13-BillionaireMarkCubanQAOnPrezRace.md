@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: [Kamala Harris,  Donald Trump,  Mark Cuban, Elon Musk]
-categories: [2024 presidential race]
+categories: [2024 presidential race, politics]
 date: 2024-10-13 3:37 PM
 excerpt: 'They know that Kamala is far more stable, open minded, she has done a great job communicating with business leaders, she is not an ideologue, she takes feedback from Republicans, independents and more.'
 #image: 'BASEURL/assets/blog/img/.png'

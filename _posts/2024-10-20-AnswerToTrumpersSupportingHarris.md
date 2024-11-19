@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [Donald Trump,  Lindsey Graham, Meet The Press, Kristen Welker, peaceful transfer of power, election security]
+tags: [Donald Trump,  Lindsey Graham, Meet The Press, Kristen Welker, peaceful transfer of power, election security, politics]
 categories: [2024 presidential election]
 date: 2024-10-20 4:44 PM
 excerpt: To every Republican supporting her, what the hell are you doing? You’re supporting the most radical nominee in the history of American politics. What are you doing? You’re trying to convince me that Donald Trump’s rhetoric is the danger to this country? The danger to this country is the policies of Biden and Harris. Her fingerprints are all over this disaster. And I can’t take four more years of this crap. When you support her, you’re supporting four more years of garbage policy. So what the hell are you doing as a Republican, blessing this stuff? – Senator Lindsey (T-SC) on Meet The Press 10/20/2024. Maybe they want to return to normalcy – @RalphHightower'

@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [Donald Trump, overseas vote count, frivolous lawsuits, state vote counting, cherry picking]
+tags: [Donald Trump, overseas vote count, frivolous lawsuits, state vote counting, cherry picking, politics]
 categories: [2024 presidential election]
 date: 2024-10-14 3:30 PM
 excerpt: '“This lawsuit was filed after voting had already begun in North Carolina for the general election. The time to challenge the rules for voter eligibility is well before an election, not after votes have already been cast.” – said Patrick Gannon, a spokesman for the North Carolina State Board of Elections.Gannon said in a statement.'

@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [Freedom of Speech, abortion rights,  medically necessary abortions]
+tags: [Freedom of Speech, abortion rights,  medically necessary abortions, politics]
 categories: [Florida Governor DeSantis]
 date: 2024-10-18 9:37 AM
 excerpt: "To keep it simple for the State of Florida: it’s the First Amendment, stupid. – Chief U.S. District Judge Mark E. Walker of the Northern District of Florida to Florida Governor DeSantis."

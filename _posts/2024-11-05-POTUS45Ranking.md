@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [Donald Trump, president ranking, history]
+tags: [Donald Trump, president ranking, history, politics]
 categories: [presidential ranking]
 date: 2024-11-05 8:57 AM
 excerpt: ''

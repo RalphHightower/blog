@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [Donald Trump, dementia, cognitive decline]
+tags: [Donald Trump, dementia, cognitive decline, politics, Mary Trump]
 categories: [2024 presidential election]
 date: 2024-09-26 08:01 PM
 excerpt: "The problem is twofold. One, they’re not telling us that’s what they’re doing. They’re reporting it as if these are the things Donald is saying coherently. And secondly, they’re not really translating him at all, because his gibberish, really, is untranslatable. What they’re doing is they’re imbuing meaning upon his words that actually doesn’t exist in those words, which is much more dangerous.– Mary Trump, psychologist, and niece of Trump"

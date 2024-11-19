@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [Donald Trump, grifter]
+tags: [Donald Trump, grifter, politics]
 categories: [2024 presidential election]
 date: 2024-10-28 6:58 PM
 excerpt: "“The grift and greed I‘ve witnessed makes me sick and I think leadership has been bad stewards of generous donors money. I‘m 100 % on Team Trump—I want the very best for this campaign, but what I’ve witnessed is greedy and wrong.” – anonymous campaign whistleblower"

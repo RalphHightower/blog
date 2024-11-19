@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: [Kamala Harris, Donald Trump, national debt]
-categories: [2024 presidential election]
+categories: [2024 presidential election, politics]
 date: 2024-10-07 5:09 PM
 excerpt: 'Neither candidate has meaningfully stressed budget deficit reduction in their pitch to voters. But multiple analyses show a clear difference of Harris being much more fiscally responsible than Trump.'
 #image: 'BASEURL/assets/blog/img/.png'

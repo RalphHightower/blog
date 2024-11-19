@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [Donald Trump, Overthrow 2020 election, federal crimes]
+tags: [Donald Trump, Overthrow 2020 election, federal crimes, politics]
 categories: [January 6 2021 Insurrection]
 date: 2024-10-06 4:30 PM 
 excerpt: 'the defendant must stand trial for his private crimes as would any other citizen.'

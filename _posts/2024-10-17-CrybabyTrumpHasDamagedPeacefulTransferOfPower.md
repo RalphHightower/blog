@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [Donald Trump, United States Constitution, Peaceful Transfer of Power, irreparable damage, senator, Tom Cotton, Arkansas]
+tags: [Donald Trump, United States Constitution, Peaceful Transfer of Power, irreparable damage, senator, Tom Cotton, Arkansas, politics]
 categories: [2024 presidential election, January 6 2021 Insurrection]
 date: 2024-10-17 2:33 PM
 excerpt: "“This is unverified, un-cross-examined hearsay from grand jury testimony, which usually isn’t revealed publicly for that reason. He went to court. He asked for special permission to file a brief that’s four times as long as a normal brief and to have it disclosed less than 30 days before the election. This is professional misconduct in all likelihood by Jack Smith and it should be investigated. This is a perfect example of actual election interference, Jack Smith violating Department of Justice regulations to try to get out as much unverified so-called evidence as he has because he’s angry that he lost and the Democrats don’t think they can beat Donald Trump on issues like inflation and immigration.” Rep. Tom Cotton (T-AR) told “Meet the Press” host Kristen Welker."

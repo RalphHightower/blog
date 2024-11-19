@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [Donald Trump, Elon Musk, oligarch]
+tags: [Donald Trump, Elon Musk, oligarch, politics]
 categories: [2024 presidential election, Elon Musk]
 date: 2024-09-13 5:10 PM
 excerpt: "Musk is the latest example of a totally gearheaded, engineering-brained, Silicon Valley guy who looks at government and says ‘How hard can it be? Let me at it and I can solve it for you.' There’s been many of these characters before, and he’s just the latest."

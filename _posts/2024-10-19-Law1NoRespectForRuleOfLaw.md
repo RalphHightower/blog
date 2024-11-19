@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [Donald Trump, Economic Club of Chicago, January 6 2021 Insurrection, Law and Order, peaceful transfer of power]
+tags: [Donald Trump, Economic Club of Chicago, January 6 2021 Insurrection, Law and Order, peaceful transfer of power, politics]
 categories: [2024 presidential election]
 date: 2024-10-19 6:55 PM
 excerpt: 'You had a peaceful transfer of power? Come on President Trump, you had had a peaceful transfer of power compared to Venezuela. But it was by far the most, the worst transfer of power for a long time. – John Micklethwait, Editor-in-chief of Bloomberg News'

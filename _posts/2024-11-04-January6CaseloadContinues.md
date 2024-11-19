@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [Donald Trump, January 6 2021 Insurrection]
+tags: [Donald Trump, January 6 2021 Insurrection, politics]
 categories: [January 6 2021 Insurrection]
 date: 2024-11-04 1:03 PM
 excerpt: "[Weeks] assaulted us simply because we were doing our job, tried to steal our equipment and disarmed us to prolong the chaos and incapacitate the officers to hinder our response. My family — my wife and son — nearly got to bury me because I was honoring my oath and being crushed by people like him, by the mob he joined. He knew what he was doing and didn’t care who he was hurting or if the officers had a family or if they were bleeding — as I was, from both my hands. His actions as a member of the mob contributed to the pain that my family and I have suffered, physically, mentally, morally and financially since Jan. 6. – former Capitol Police Sgt. Aquilino Gonell, a military veteran who was repeatedly assaulted while protecting the Capito"

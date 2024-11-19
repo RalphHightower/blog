@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [Donald Trump, Vladimir Putin, Elon Musk, United States, Russia, SpaceX, national security risk]
+tags: [Donald Trump, Vladimir Putin, Elon Musk, United States, Russia, SpaceX, national security risk, politics]
 categories: [2024 presidential election, national security]
 date: 2024-10-27 2:20 PM
 excerpt: "“He’s a war criminal who is slaughtering civilians. That makes this wrong in my view. You have to decide what team you are on. Are you on the American team or are you on the Russian team?” – Michael McFaul, former US Ambassador to Russia"

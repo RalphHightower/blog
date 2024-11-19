@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [Donald Trump, Vladimir Putin, national threat, security risk, United States of America, Russia]
+tags: [Donald Trump, Vladimir Putin, national threat, security risk, United States of America, Russia, politics]
 categories: [2024 presidential election]
 date: 2024-10-12 5:33 PM
 excerpt: 'Trump may have had up to seven phone calls with Putin since leaving office in 2021, citing a Trump aide.'

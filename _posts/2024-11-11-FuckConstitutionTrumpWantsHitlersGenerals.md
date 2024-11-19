@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [president-elect Donald Trump, Department of Defense]
+tags: [president-elect Donald Trump, Department of Defense, politics]
 categories: [2025 American Apocalypse]
 date: 2024-11-11 5:10 PM
 excerpt: '"He will destroy the Department of Defense, frankly. He will go in and he will dismiss generals who stand up for the Constitution." – Jack Reed, Democrat who leads the Senate Armed Services Committee'

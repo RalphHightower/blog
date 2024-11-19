@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [Donald Trump, Mike Pence, Jim Mattis, Mark Esper, Mark Milley, John Bolton, William Barr, Tom Bossert, Ty Cobb]
+tags: [Donald Trump, Mike Pence, Jim Mattis, Mark Esper, Mark Milley, John Bolton, William Barr, Tom Bossert, Ty Cobb, politics]
 categories: [2024 presidential election]
 date: 2024-10-30 1:38 PM
 excerpt: "When a former Trump official comes out with a story demonstrating Trump’s unfitness for office, nihilistic Trump defenders leap into action, questioning the motives, context, or credibility of the individual making the claim. They want you to forget the cumulative weight of the accusations against Trump coming from a raft of his own former employees. ‐ The Bulwark's Sarah Longwell"

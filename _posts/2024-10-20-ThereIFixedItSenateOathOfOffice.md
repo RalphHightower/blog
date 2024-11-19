@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [oath of office, allegiance to Trump, Lindsey Graham, John McCain]
+tags: [oath of office, allegiance to Trump, Lindsey Graham, John McCain, politics]
 categories: [MAGA Trump Party House Senate Oath of Office]
 date: 2024-10-20 3:17 PM
 excerpt: 'I do solemnly swear (or affirm) that I will support and defend Trump, his businesses, his sons, 

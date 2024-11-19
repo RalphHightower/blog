@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [Donald Trump, kleptocracy, son-in-law, daughter, sons, profiting from daddy]
+tags: [Donald Trump, kleptocracy, son-in-law, daughter, sons, profiting from daddy, politics]
 categories: [2024 presidential election]
 date: 2024-10-27 9:47 AM
 excerpt: '“The scale of these undisclosed foreign payments to Mr. Kushner coupled with the national security implications of his apparent ongoing efforts to sell political influence to the highest foreign bidder are unprecedented and demand action from DOJ. We therefore urge you to appoint a Special Counsel to investigate whether Mr. Kushner is influencing U.S. domestic and foreign policy on behalf of foreign government clients without making the appropriate mandatory disclosures.” – letter to DOJ requesting an investigation.'

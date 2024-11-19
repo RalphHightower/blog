@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [Donald Trump, Kamala Harris, Joe Biden, Peaceful Transfer of Power]
+tags: [Donald Trump, Kamala Harris, Joe Biden, Peaceful Transfer of Power, politics]
 categories: [2024 presidential election]
 date: 2024-10-24 12:42 PM
 excerpt: 'Receiving transition money and resources comes with a significant string attached: To receive it, each transition team must agree to disclose its private donors and impose a $5,000 limit on contributions from individuals or organizations. Campaigns are also required to submit an ethics plan to the White House and promise not to hire lobbyists or other people with conflicts of interests for the transition. Finally, the candidates are supposed to submit an initial list of people who will need security clearances to receive the sort of classified briefings that will help get the incoming administration up to speed on national security issues.'

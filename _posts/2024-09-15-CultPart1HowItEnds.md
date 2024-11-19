@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [trump cult, autocracy, president for life]
+tags: [trump cult, autocracy, president for life, politics]
 categories: [2024 presidential election]
 date: 2024-09-15 6:19 PM
 excerpt: 'I just predicted that he wouldn’t leave in a quiet manner. He’s an authoritarian, and they can’t leave office. They don’t have good endings and they don’t leave properly. – Ben-Ghiat, a professor of history and Italian studies at New York University'

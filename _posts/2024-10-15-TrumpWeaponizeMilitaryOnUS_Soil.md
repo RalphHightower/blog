@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [Donald Trump, military, US soil, against citizens]
+tags: [Donald Trump, military, US soil, against citizens, politics]
 categories: [2024 presidential election]
 date: 2024-10-15 5:45 PM
 excerpt: 'The last thing in the world the former Joint Chiefs chair wants to be is political. For him to take this step shows the gravity of the situation that Trump should never set foot in the Oval Office again. Trump should go nowhere near the Oval Office again – former Joint Chiefs, retired General Mark Milley'

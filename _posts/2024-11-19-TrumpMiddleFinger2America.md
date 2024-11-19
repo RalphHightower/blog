@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [Donald Trump, Bob Woodward, Cabinet picks, politics]
+tags: [Donald Trump, Bob Woodward, Cabinet picks, politics, video]
 categories: [Trump 47 president-elect]
 date: 2024-11-19 9:08 AM
 excerpt: "Legendary journalist Bob Woodward reacts to Trump's Cabinet picks."

@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [Kamala Harris, Democrats, Donald Trump, election fraud, election lies]
+tags: [Kamala Harris, Democrats, Donald Trump, election fraud, election lies, politics]
 categories: [2024 presidential election]
 date: 2024-11-04 12:19 PM
 excerpt: 'In the global struggle between tyranny and democracy, the President of the United States must always be on the side of freedom. – Kamala Harris'

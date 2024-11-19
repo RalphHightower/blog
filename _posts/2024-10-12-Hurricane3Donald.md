@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: [noaa, project 2025, hurricanes, fema, us versus them]
-categories: [2024 presidential election]
+categories: [2024 presidential election, politics]
 date: 2024-10-11 5:16 PM
 excerpt: 'Just weeks before the November election, we are again reminded of the dangers of disinformation amplified by the ex-president. In the aftermath of Helene, North Carolina Attorney General Josh Stein joined MSNBC’s “The Weekend” to address how Trump’s lies about FEMA undermine the government’s response in the western part of his state. “It’s devastating psychologically to those people because they now believe, some of them, that FEMA is going to be contrary to their interests rather than trying to help them get back on their feet.'
 #image: 'BASEURL/assets/blog/img/.png'

@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [Georgia, Fulton County, election board, election integrity, refusal to perform job]
+tags: [Georgia, Fulton County, election board, election integrity, refusal to perform job, politics]
 categories: [2024 presidential election]
 date: 2024-10-27 12:06 AM
 excerpt: 'no election superintendent (or member of a board of elections and registration) may refuse to certify or abstain from certifying election results under any circumstance.'

@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [Donald Trump, Vladimir Putin,  Covid-19 tests]
+tags: [Donald Trump, Vladimir Putin,  Covid-19 tests, politics]
 categories: [2024 presidential election]
 date: 2024-10-08 11:30 PM
 excerpt: 'Trump was the most reckless and impulsive president in American history and is demonstrating the very same character as a presidential candidate in 2024'

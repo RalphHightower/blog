@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [Donald Trump, Lindsey Graham, Nebraska, Electoral College Vote Distribution, malignant narcissist]
+tags: [Donald Trump, Lindsey Graham, Nebraska, Electoral College Vote Distribution, malignant narcissist, politics]
 categories: [2024 presidential election]
 date: 2024-10-25 1:34 PM
 excerpt: "Graham, keep your God-damned fucking business out of Nebraska. Trump is in cognitive decline. He doesn't have the stamina to campaign. Several psychiatrists through examining videos, have said that he meets the criteria of malignant narcissism. He's a loose cannon. @RalphHightower"

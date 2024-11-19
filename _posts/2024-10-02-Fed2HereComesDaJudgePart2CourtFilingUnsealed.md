@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [Donald Trump, US Government, 2021 Election Overthrow Attempt, court filing unsealed]
+tags: [Donald Trump, US Government, 2021 Election Overthrow Attempt, court filing unsealed, politics]
 categories: [2024 presidential election, January 6 2021 Insurrection, federal crimes trial]
 date: 2024-10-02 3:47 PM
 excerpt: 'I DID NOTHING WRONG, THEY DID!FOR 60 DAYS PRIOR TO AN ELECTION, THE DEPARTMENT OF INJUSTICE IS SUPPOSED TO DO ABSOLUTELY NOTHING THAT WOULD TAINT OR INTERFERE WITH A CASE. THEY DISOBEYED THEIR OWN RULE IN FAVOR OF COMPLETE AND TOTAL ELECTION INTERFERENCE. I DID NOTHING WRONG, THEY DID! THE CASE IS A SCAM, JUST LIKE ALL OF THE OTHERS, INCLUDING THE DOCUMENTS CASE, WHICH WAS DISMISSED! – One guess as to who used their TwitterPhone. @RalphHightower '

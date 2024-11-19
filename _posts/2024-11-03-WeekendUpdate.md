@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [Donald Trump, garbage truck, sanitation worker, Colin Jost, Michael Che, Saturday Night Live, Weekend Update]
+tags: [Donald Trump, garbage truck, sanitation worker, Colin Jost, Michael Che, Saturday Night Live, Weekend Update, politics, video]
 categories: [2024 presidential election]
 date: 2024-11-03 5:16 PM
 excerpt: "Well, next week the American people will decide if the next president will be Kamala Harris or if everyone at SNL will get audited. 

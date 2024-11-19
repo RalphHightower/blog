@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [civil court, judgements]
+tags: [civil court, judgements, politics]
 categories: [president-elect Donald Trump]
 date: 2024-11-09 4:25 PM
 excerpt: "“No matter what the next administration throws at us, we’re ready. We’re ready to respond to their attacks. So despite what has happened on the national stage, we will continue to stand tall in the face of injustice, revenge, retribution.” – Letitia James, New York Attorney General"

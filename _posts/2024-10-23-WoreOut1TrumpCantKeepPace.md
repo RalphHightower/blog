@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [Donald Trump, dementia, exhaustion, decrepit, Kamala Harris]
+tags: [Donald Trump, dementia, exhaustion, decrepit, Kamala Harris, politics]
 categories: [2024 presidential election]
 date: 2024-10-23 8:24 PM
 excerpt: "Being president of the United States is probably one of the hardest jobs in the world. And so, we really do need to ask if he’s exhausted being on the campaign trail, is he fit to do the job? – Vice President Kamala Harris"

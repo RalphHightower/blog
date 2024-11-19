@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [X, Twitter, worse business deal, social media]
+tags: [X, Twitter, worse business deal, social media, politics]
 categories: [Elon Musk]
 date: 2024-11-09 12:56 PM
 excerpt: 'The company under his tenure has had a fraught relationship with advertisers—which provide the majority of its revenue—with Musk telling some to “go fuck yourself” after they abandoned the site. X also sued an advertising coalition and some of its members earlier this month alleging it conspired a boycott of the platform that cost the company billions of dollars.'

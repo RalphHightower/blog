@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [Donald Trump, federal crimes, Supreme Court, federal court]
+tags: [Donald Trump, federal crimes, Supreme Court, federal court, politics]
 categories: [2024 presidential election, January 6 2021 Insurrection]
 date: 2024-10-18 10:40 AM
 excerpt: "Smith's filing tries to slice through the [Supreme] Court's security shield regarding the insurrection. Skillfully quoting from or alluding to language in the Court majority's own opinion, the filing demolishes the notion that Trump's activities, culminating on January 6, deserve immunity. Consider, for example, Smith's telling of Trump's reaction to the news from one of his staff, at the height of the violence on January 6, that his tweets attacking Pence had placed Pence's life in extreme danger. 'So what?' Trump reportedly replied. He had clearly intended for his tweets to reach the mob at the Capitol. His nonchalance about the vice president's life epitomizes the lengths to which he would go to complete his coup d'état."

@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [MTG, conspiracy theories,  hurricanes, US House of Representatives]
+tags: [MTG, conspiracy theories,  hurricanes, US House of Representatives, politics]
 categories: [Marjorie Taylor Greene]
 date: 2024-10-11 10:21 AM
 excerpt: 'I think enough has already been said. I ignore her. Rep. Don Bacon (T-Neb.)'
@@ -17,7 +17,7 @@ Story by Andrew Solender. October 10, 2024.
 
 - **Internal Conflict**: House Republicans are clashing, particularly over Rep. [Marjorie Taylor Greene (T-GA)](https://greene.house.gov/)'s claims that humans can control the weather.
 - **Greene's Controversial Statements**: Greene's social media posts about weather control during hurricanes have sparked backlash from her colleagues.
-- **Rebukes from Colleagues**: Several House Republicans, including Reps. Carlos Gimenez and Chuck Edwards, have publicly refuted [Greene (T-GA)](https://greene.house.gov/)'s claims.
+- **Rebukes from Colleagues**: Several House Republicans, including Reps. Carlos Gimenez and Chuck Edwards, have publicly refuted [Greene's (T-GA)](https://greene.house.gov/) claims.
 - **Ongoing Tensions**: [Greene (T-GA)](https://greene.house.gov/) has a history of causing friction within the House, leading to past disciplinary actions and widespread disapproval.
 
 Said Rep. Don Bacon (R-Neb.): "I think enough has already been said. I ignore her."

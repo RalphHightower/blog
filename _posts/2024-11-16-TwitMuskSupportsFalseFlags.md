@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [X/Twitter, false flag, conspiracy theories, social media]
+tags: [X/Twitter, false flag, conspiracy theories, social media, politics]
 categories: [Elon Musk]
 #date: 2019-06-25 13:14:15
 #excerpt: ''

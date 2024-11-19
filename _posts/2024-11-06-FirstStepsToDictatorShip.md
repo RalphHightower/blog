@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [president-elect, Donald Trump, constitutional amendments]
+tags: [president-elect, Donald Trump, constitutional amendments, politics]
 categories: [dictatorship]
 date: 2024-11-06 1:43 PM
 excerpt: “I know I told you that I would be covering the Trump election night party from Palm Beach but turns out I have pissed off Trump’s campaign manager with my reporting and they decided to deny my credentials. I have been honest and fair this entire time covering this election and I will be now broadcasting in studio with Brian Williams from LA.” Tara Palmeri – Puck"

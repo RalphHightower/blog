@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [Donald Trump, dementia, Arnold Palmer, sex organs, Latrobe Pennsylvania]
+tags: [Donald Trump, dementia, Arnold Palmer, sex organs, Latrobe Pennsylvania, politics]
 categories: [2024 presidential election]
 date: 2024-10-20 12:39 PM
 excerpt: "“Arnold Palmer was all man, and I say that in all due respect to women. This is a guy that was all man. When he took the showers with other pros, they came out of there. They said, ‘Oh my God. That’s unbelievable,’ I had to say. We have women that are highly sophisticated here, but they used to look at Arnold as a man.”"

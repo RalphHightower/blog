@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [FEMA, hurricanes, federal government]
+tags: [FEMA, hurricanes, federal government, politics]
 categories: [Hurricanes Relief Facts]
 date: 2024-10-15 8:18 PM
 excerpt: 'I encourage you to remember that everything you see on Facebook, X, or any other social media platform is not always fact. Please make sure you are fact checking what you read online with a reputable source,” U.S. Rep. Chuck Edwards (T-NC)'

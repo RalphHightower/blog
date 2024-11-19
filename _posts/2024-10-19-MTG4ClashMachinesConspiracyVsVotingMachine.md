@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [MTG, conspiracy theories, voting systems, Dominion Voting, US House of Representatives]
+tags: [MTG, conspiracy theories, voting systems, Dominion Voting, US House of Representatives, politics]
 categories: [Marjorie Taylor Greene]
 date: 2024-10-19 2:24 PM
 excerpt: "They marked Donald Trump and they marked who they were voting for the rest of the way down their ballot on the machine. When this voter printed their ballot and they looked, it had changed. It was not Donald Trump, it was not me and it was not the other ones they had voted for. It had switched. So they had to start over, and they went through it several times and it kept on making the same error. It kept on switching the votes.... It sounds similar to what we heard in 2020. This happened in Whitfield County in my district - GA-14. We vote on Dominion voting machines then it prints a paper ballot with our selections made on the machines. This voter's printed ballot had been changed from their selections made on the machine. Good thing they checked their paper ballot before turning it in! After several attempts of trying to change it to reflect their correct choices, they had to void the ballot and use a different machine. Please double check your printed ballot before you turn it in to make sure it has marked the candidates you voted for!!! – US Rep. Marjorie Taylor Greene (T-GA)"
