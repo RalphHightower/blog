@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [Donald Trump, deadbeat, campaign debt, unpaid bills due cities]
+tags: [Donald Trump, deadbeat, campaign debt, unpaid bills due cities, politics]
 categories: [2024 presidential election]
 date: 2024-11-01 10:22 AM
 excerpt: "“If you’re not going to pay your bills, we’re just not going to entertain you using city facilities, and that’s the way it should be. With anyone who wants to use any [city-owned] facility … you can’t have money owed to the city. For us to consider the fact that we’re half a million dollars short is something we would do for any candidate or anyone who wants to rent the convention center in general. – Albuquerque mayor Tim Keller"

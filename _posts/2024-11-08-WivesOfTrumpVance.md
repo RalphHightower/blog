@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [personalities, Donald Trump, Melania Trump, JD Vance, Usha Vance]
+tags: [personalities, Donald Trump, Melania Trump, JD Vance, Usha Vance, politics]
 categories: [2025 President-Elect, 2025 VP-elect]
 date: 2024-11-08 1:41 PM
 excerpt: 'Trump is angry and vitriolic, while Melania is purse-lipped and stoic; he is emotionally incontinent, while she often appears to be in emotional rigor mortis; he is behaviorally uninhibited and says whatever he wants, while she is studiously reserved, perhaps because she has very little to say.'

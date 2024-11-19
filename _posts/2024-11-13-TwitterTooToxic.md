@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [Elon Musk, X, Twitter, The Guardian, social media]
+tags: [Elon Musk, X, Twitter, The Guardian, social media, politics]
 categories: [Elon Musk]
 date: 2024-11-13 11:39 AM
 excerpt: '"We think that the benefits of being on X are now outweighed by the negatives and that resources could be better used promoting our journalism elsewhere. This is something we have been considering for a while given the often disturbing content promoted or found on the platform, including far-right conspiracy theories and racism. The US presidential election campaign served only to underline what we have considered for a long time: that X is a toxic media platform and that its owner, Elon Musk, has been able to use its influence to shape political discourse. Social media can be an important tool for news organisations and help us to reach new audiences but, at this point, X now plays a diminished role in promoting our work." – The Guardian.'

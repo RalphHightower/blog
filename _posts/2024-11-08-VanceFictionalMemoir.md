@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: [Donald Trump, Melania Trump, JD Vance, Usha Vance Appalachia]
-categories: [president-elect, vp-elect, wives]
+categories: [president-elect, vp-elect, wives, politics]
 date: 2024-11-08 4:56 PM
 excerpt: 'Vance is not Appalachian. He was born and raised in Middletown, Ohio, well outside any maps of the distinct geographical and cultural region. Trump picking this Rust Belt charlatan as his running mate Monday sparked a resounding and unifying rant among conservative and liberal hillbillies alike in my social media feed: We do not acknowledge him. – Willie Carver'
 #image: 'BASEURL/assets/blog/img/.png'

@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [Arizona Attorney General, Kris Mayes, Donald Trump]
+tags: [Arizona Attorney General, Kris Mayes, Donald Trump, politics]
 categories: [2020 presidential election fraud]
 date: 2024-11-11 5:20 PM
 excerpt: "This is a time for patriots to stand up for our Constitution, for us to remember that millions of Americans fought and sacrificed and died for our Constitution. And just because, you know, I don't even know how to describe the individual, would say those disgusting things about the top law enforcement officer of the state of New York, just because they say those things doesn't mean we are going to stand down. – Arizona Attorney General Kris Mayes"

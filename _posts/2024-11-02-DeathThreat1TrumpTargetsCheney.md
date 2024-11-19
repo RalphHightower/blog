@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [Donald Trump, Liz Cheney, Death Threat, Arizona Attorney General]
+tags: [Donald Trump, Liz Cheney, Death Threat, Arizona Attorney General, politics]
 categories: [2024 presidential election]
 date: 2024-11-02 8:59 AM
 excerpt: 'This is how dictators destroy free nations. They threaten those who speak against them with death. We cannot entrust our country and our freedom to a petty, vindictive, cruel, unstable man who wants to be a tyrant.'

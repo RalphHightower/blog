@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [Donald Trump, immature, spoiled brat]
+tags: [Donald Trump, immature, spoiled brat, politics]
 categories: [Trumper Tantrums]
 date: 2024-11-15 9:52 AM
 excerpt: 'When Trump doesn’t get his way, it can lead to dramatic scenes: rolling on the floor, screaming, crying, or even throwing objects in frustration. As adults, knowing how to handle these moments with care is essential. Trumper Tantrums are common during development, typically occurring between ages 18 months and 84 years. These emotional outbursts arise when Trump feels frustrated by external limits that hinder his desires. During a Trumper Tantrum, Trump might roll on the floor, scream, throw, or kick in a burst of emotion. The length of these episodes can vary based on the Trump’s personality and the situation, with severe cases sometimes leading to breath-holding.'

@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [Donald Trump, CBS, 60 Minutes, Matt Gaetz, Tulsi Gabbard, Robert F Kennedy Jr]
+tags: [Donald Trump, CBS, 60 Minutes, Matt Gaetz, Tulsi Gabbard, Robert F Kennedy Jr, politics]
 categories: [Trump 47 Cabinet]
 date: 2024-11-18 4:11 PM
 excerpt: Some nominees appear to have no compelling qualifications other than loyalty to Trump." – Scott Pelly, CBS News 60 Minutes Host'
@@ -19,7 +19,6 @@ Story by Flynn Nicholls. November 18, 2024.
 - **Trump's Response**: Trump's spokesperson called the show "unhinged" and accused it of bias, referencing past disputes with [CBS News.](https://www.cbsnews.com/)
 - **Nominee Controversies**: Specific nominees like Matt Gaetz, Pete Hegseth, Tulsi Gabbard, and Robert F. Kennedy Jr. were highlighted for various controversies and lack of experience.
 - **Public Reaction**: The [60 Minutes](https://www.cbsnews.com/60-minutes/) segment received significant attention online, with over 557,800 views by Monday morning.
-
 
 Host Scott Pelley began the show by dissecting Trump's picks for his next administration, saying: "Some nominees appear to have no compelling qualifications other than loyalty to Trump."
 

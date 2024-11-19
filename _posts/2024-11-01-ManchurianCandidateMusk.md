@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [Elon Musk, Vladimir Putin, national security ridk]
+tags: [Elon Musk, Vladimir Putin, national security risk, politics]
 categories: [2024 presidential election]
 date: 2024-11-01 9:44 AM
 excerpt: '“The policy of the U.S. government is to try to isolate Vladimir Putin, and Elon Musk is directly undercutting that. What is Putin doing with Musk? Putin is trying to reduce his international isolation and impact American foreign policy.” – Bradley Bowman, a former West Point assistant professor who is now senior director of the Center on Military and Political Power at the Foundation for Defense of Democracies'

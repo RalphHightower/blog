@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [Arizona Attorney General, Kris Mayes, false Electoral College scam, Rudy Giuliani, Kelli Ward, Michael Ward, Anthony Kern, Jake Hoffman, Robert Montgomery, Samuel Moorhead, Nancy Cottle, Loraine Pellegrino, Greg Safsten, Christina Bobb, Tyler Bowyer, Jim Lamon, Mike Roman, Jenna Ellis, Christina Bobb, John Eastman]
+tags: [Arizona Attorney General, Kris Mayes, false Electoral College scam, Rudy Giuliani, Kelli Ward, Michael Ward, Anthony Kern, Jake Hoffman, Robert Montgomery, Samuel Moorhead, Nancy Cottle, Loraine Pellegrino, Greg Safsten, Christina Bobb, Tyler Bowyer, Jim Lamon, Mike Roman, Jenna Ellis, Christina Bobb, John Eastman,  politics]
 categories: [2020 presidential election fraud]
 date: 2024-11-10 6:12 PM
 excerpt: "“I have no intention of breaking that case up. I have no intention of dropping that case. A grand jury in the state of Arizona decided that these individuals who engaged in an attempt to overthrow our democracy in 2020 should be held accountable, so we won’t be cowed, we won’t be intimidated.” – Arizona Attorney General Kris Mayes"

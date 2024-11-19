@@ -1,13 +1,13 @@
 ---
 layout: post
-tags: [corruption, kleptocracy]
+tags: [corruption, kleptocracy, politics]
 categories: [Donald Trump]
 date: 2024-11-09 1:24 PM
 excerpt: 'Until the Trump transition signs that document, the Biden administration is legally barred from providing it with the security clearances needed to share classified intelligence and national defense briefings. It also cannot give transition employees physical access to the 438 different federal agencies that they will soon control, and it cannot allow them to review their files. But by law, that agreement cannot be signed until an ethics plan that conforms to federal statute is submitted to the White House and posted online, creating something of a game of chicken between the outgoing Biden administration and the incoming Trump transition.'
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: 'Trump Is Bankrupt, Morally and Ethically. Refuses to Sign Ethics Statement Legislated Prompted By His Lifetime of Lies'
+title: 'Trump Is Bankrupt, Morally and Ethically. Refuses to Sign Ethics Statement Legislated Prompted By His
 ---
 
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [Donald Trump, election fraud, Kamala Harris, election integrity]
+tags: [Donald Trump, election fraud, Kamala Harris, election integrity, politics]
 categories: [2024 presidential election]
 date: 2024-11-10 8:41 PM
 excerpt: '"There is absolutely no truth to this allegation. It is yet another example of disinformation. Voting in Philadelphia has been safe and secure." – Seth Bluestein, the Republican City Commissioner in Philadelphia, posted on X.'

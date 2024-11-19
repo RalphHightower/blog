@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [Donald Trump, 9/11 security threat]
+tags: [Donald Trump, 9/11 security threat, politics]
 categories: [Trump 47 Transition Team]
 date: 2024-11-17 7:51 PM
 excerpt: "The 9/11 Commission determined that the delayed transition hampered the Bush administration's ability to get key appointees in place and up to speed, recommending a number of reforms so ‟transitions can work more effectively.”"

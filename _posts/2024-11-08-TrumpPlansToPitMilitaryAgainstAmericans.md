@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [Donald Trump, deploy military US soil, enemy within]
+tags: [Donald Trump, deploy military US soil, enemy within, politics]
 categories: [Trump politicizing American military on US soil against citizens]
 date: 2024-11-08 
 excerpt: 'The thought of Trump exacting retribution by politicizing the American military should terrify us all.'

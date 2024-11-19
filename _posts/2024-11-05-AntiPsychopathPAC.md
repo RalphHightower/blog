@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [Kamala Harris, Donald Trump, mental instability, cognitive decline, dementia]
+tags: [Kamala Harris, Donald Trump, mental instability, cognitive decline, dementia, politics]
 categories: [2024 presidential election]
 date: 2024-11-05 2:10 PM
 excerpt: "Many Americans do not understand that we are on the verge of a type of apocalypse in this country if Trump and his MAGA Republicans and the larger fascist movement win this week’s election. This lack of engagement may be from a lack of information or a failure of imagination. The future of the country is literally at stake. If we go over this cliff there’s no way back. The people who don’t understand the extreme dangers of Trump and MAGA are living in a fool’s paradise. The people who understand how dire this situation is are terrified right now. That is a rational response given the reality of the dangers."

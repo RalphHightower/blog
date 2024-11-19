@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [x, Twitter, social media]
+tags: [x, Twitter, social media, politics]
 categories: [Elon Musk]
 date: 2024-11-01 9:37 AM
 excerpt: '“Sometimes it is unclear what is driving a litigation, and only by reading between the lines of a complaint can one attempt to surmise a plaintiff’s true purpose. Other times, a complaint is so unabashedly and vociferously about one thing that there can be no mistaking that purpose. This case represents the latter circumstance. This case is about punishing the defendants for their speech.” – wrote Charles Breyer, the US district judge, in the ruling dismissing X/Twitter lawsuit against Center for Countering Digital Hate.'

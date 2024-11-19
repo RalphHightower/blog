@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [Tim Scott, Dana Bush, election fraud, Donald Trump, CNN]
+tags: [Tim Scott, Dana Bush, election fraud, Donald Trump, CNN, politics]
 categories: [2024 presidential election]
 date: 2024-11-04 9:47 AM
 excerpt: "I appreciate your optimism, that‘s your job on the eve of the election, but what I’m asking about is what if he doesn’t win? And the fact of the matter is that Trump is already spreading false claims about cheating in Pennsylvania. He has repeatedly predicted a massive victory even though polls show that the race is very close. He’s setting the stage for his supporters not to believe the results if he loses. Do you want him stop doing that?"

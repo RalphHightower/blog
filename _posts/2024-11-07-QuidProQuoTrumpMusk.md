@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [Donald Trump, Elon Musk, SpaceX, Tesla, NRLB, NHTSA, National Highway Traffic Safety Administration, National Labor Relations Board]
+tags: [Donald Trump, Elon Musk, SpaceX, Tesla, NRLB, NHTSA, National Highway Traffic Safety Administration, National Labor Relations Board, politics]
 categories: [federal government graft]
 date: 2024-11-07 1:31 PM
 excerpt: '"The relationship that Elon Musk has with the federal government is unprecedented." – Stephen Diamond, a professor at Santa Clara University Law School'

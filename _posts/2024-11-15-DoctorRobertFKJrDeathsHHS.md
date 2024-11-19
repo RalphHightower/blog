@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [Robert F Kennedy Jr, Donald Trump, Health Human Services]
+tags: [Robert F Kennedy Jr, Donald Trump, Health Human Services, politics]
 categories: [2025 Trump Administration]
 date: 2024-11-15 10:27 AM
 excerpt: "RFK Jr. is one of the most dangerous, misguided, and hypocritical figures in the global 'wellness' movement. He has said that there’s no vaccine that is safe and effective. He has no idea how science or chemistry work. This is a disaster waiting to happen.–  Mike Rothschild, journalist"
