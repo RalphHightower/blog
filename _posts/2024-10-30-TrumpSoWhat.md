@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [Donald Trump, JD Vance, indifference]
+tags: [Donald Trump, JD Vance, indifference, politics]
 categories: [2024 presidential election]
 date: 2024-10-30 11:33 AM
 excerpt: "It’s really rich for Democratic leaders to say that Donald Trump is a unique threat to democracy when he peacefully gave over power on Jan. 20. – lied JD Vance during VP debate, ignoring January 6th"

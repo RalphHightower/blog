@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [Donald Trump, Liz Cheney, Meet The Press, Kristen Welker, election security, peaceful transfer of power]
+tags: [Donald Trump, Liz Cheney, Meet The Press, Kristen Welker, election security, peaceful transfer of power, politics]
 categories: [2024 presidential election]
 date: 2024-10-20 4:37 PM
 excerpt: "I do not have faith that Mike Johnson will fulfill his constitutional obligations and if you look at what he did in 2020. He knew and he knew with specificity that claims of fraud that Donald Trump was making and that he was repeating, he knew those to be false...I think it's very concerning and I do think that Donald Trump has consistently said in the last few months that this election is going to be rigged and if he loses that's why. So, I think it's very important the Republicans not be a majority in the House come January 2025. Liz Cheney, former Representative(R-WI) to Meet The Press host, Kristen Welker if she had faith that this election will be free and fair and that there will be peaceful transfer of power."

@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [Donald Trump, Mitch McConnell, impeachment, party loyalty]
+tags: [Donald Trump, Mitch McConnell, impeachment, party loyalty, politics]
 categories: [2024 presidential election]
 date: 2024-10-29 2:00 PM
 excerpt: '“Whatever I may have said about President Trump pales in comparison to what JD Vance, Lindsey Graham and others have said about him, but we are all on the same team now.” – Senator Mitch McConnell (T-KY)'

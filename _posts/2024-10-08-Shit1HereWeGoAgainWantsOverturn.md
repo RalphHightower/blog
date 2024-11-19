@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: [election interference, Donald Trump, federal crimes]
-categories: [2024 presidential election]
+categories: [2024 presidential election, politics]
 date: 2024-10-08 11:00 PM
 excerpt: 'I, AB, do solemnly swear (or affirm) that I will support and defend the Constitution of the United States against all enemies, foreign and domestic; that I will bear true faith and allegiance to the same; that I take this obligation freely, without any mental reservation or purpose of evasion; and that I will well and faithfully discharge the duties of the office on which I am about to enter. So help me God.'
 #image: 'BASEURL/assets/blog/img/.png'

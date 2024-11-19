@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [Donald Trump, Elon Musk, X-Twitter, not free speech,  propaganda, social media]
+tags: [Donald Trump, Elon Musk, X-Twitter, not free speech,  propaganda, social media, politics]
 categories: [2024 presidential election]
 date: 2024-10-13 7:27 PM
 excerpt: 'According to a new report by the New York Times, Musk has allegedly used his influence at Twitter/X to block links to information that could harm the Trump campaign, and suspended the reporter who published it. It also says that Musk has set up a “war room” in the key swing state of Pennsylvania, where he and “a team of lawyers, public-relations professionals, canvassing experts and longtime friends” are plotting to install the former president in the White House once again.'

@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [Donald Trump, gaslighting, pathological lies]
+tags: [Donald Trump, gaslighting, pathological lies, politics]
 categories: [2024 presidential election]
 date: 2024-10-24 1:19 PM
 excerpt: 'To sow election doubt, Trump escalated use of “rigged election” and “election interference” statements in advance of the 2024 election compared to the previous two elections—the statements described as part of a “heads I win; tails you cheated” rhetorical strategy.'

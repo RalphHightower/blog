@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [Donald Trump,  emoluments clause, GSA per diem]
+tags: [Donald Trump,  emoluments clause, GSA per diem, politics]
 categories: [2024 presidential election]
 date: 2024-10-20 3:38 PM
 excerpt: 'Not only did former President Trump’s D.C. hotel routinely charge the Secret Service more than the government rate, it frequently charged the Secret Service more than it did other patrons, including members of a foreign royal family and a Chinese business interest.'

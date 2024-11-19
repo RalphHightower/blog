@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [Donald Trump, Arnold Palmer, La Trobe Pennsylvania, golf, sex organs, dementia]
+tags: [Donald Trump, Arnold Palmer, La Trobe Pennsylvania, golf, sex organs, dementia, politics]
 categories: [2024 presidential election]
 date: 2024-10-23 4:51 PM
 excerpt: 'But Arnold Palmer was all man. And I say that in all due respect to women, and I love women, but this guy, this is a guy that was all man. This man was strong and tough. And I refuse to say it, but when he took showers with the other pros, they came out there, they said, “Oh my God, that’s unbelievable.” I had to say it. We have women that are highly sophisticated here, but they used to look at Arnold, this is bad, but he was really something special. Arnold was something special. So I just want to tell you, you’re very lucky, the people that live in La Trobe, and it’s an honor for me to be here because of him. Actually, he was a great man. And I don’t think there would be golf… To the extent that you have it today, it probably wouldn’t be that way without the great Arnold Palmer. So enjoy it, everybody. And I had to tell you the shower part of it, because it’s true. What can I tell you? We want to be honest. We want to be upfront. It’s true.'

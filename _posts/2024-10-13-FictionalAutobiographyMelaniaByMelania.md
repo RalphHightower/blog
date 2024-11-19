@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [Melania Trump, autobiography]
+tags: [Melania Trump, autobiography, politics]
 categories: [Melania Trump]
 date: 2024-10-13 06:00 PM
 excerpt: 'The violence we witnessed was unequivocally unacceptable. However, many individuals felt the election was mishandled and that the vice president should halt the confirmation process. – Melania Trump'

@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [January 6 2021 Insurrection, Donald Trump, World War II, WWII, Japanese internment]
+tags: [January 6 2021 Insurrection, Donald Trump, World War II, WWII, Japanese internment, politics]
 categories: [2024 presidential election]
 date: 2024-10-22 3:21 PM
 excerpt: 'Japanese Americans are not and should not be compared to insurrectionists who committed major crimes and in which people were hurt and killed. And I think that that is just so horrible to try to even make that comparison or allege that there’s any similarities between the two. – Sharon Yamato, the daughter of former Japanese Americans who were incarcerated.'

@@ -1,8 +1,8 @@
 ---
 layout: post
 tags: [Stevie Nicks, The Lighthouse, Fleetwood Mac, Sheryl Crow 
-MSNBC Morning Joe, Women's Healthcare, Donald Trump]
-categories: [2024 presidential election]
+MSNBC Morning Joe, Women's Healthcare, Donald Trump, politics]
+categories: [2024 presidential election, video]
 date: 2024-10-31 2:53 PM
 excerpt: "“Really, if you think about it, no matter who wins — God help us — no matter who wins, it’s not over, right? I mean, the government, whatever, we have to figure out a way to bring back Roe v. Wade. We all had to pick causes. This was the cause I chose. So you know what, at the end of the ’50s and ’60s and going into the ’70s, everybody was writing protest songs: Bob Dylan, Joan Baez, Joni Mitchell, Stephen Stills, it was like lots and lots and lots” – Stevie Nicks"
 #image: 'BASEURL/assets/blog/img/.png'

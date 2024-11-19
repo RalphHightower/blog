@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [Kamala Harris, Donald Trump, false claims of voter fraud, voter fraud penalties]
+tags: [Kamala Harris, Donald Trump, false claims of voter fraud, voter fraud penalties, politics]
 categories: [2024 presidential election]
 date: 2024-10-16 10:54 AM
 excerpt: 'You’re probably not going to have a perfect election system. But if you’re looking for one that you should have confidence in, you should feel good about that here in America. – Republican Trey Grayson, a former Kentucky secretary of state and the advisory board chair of the Secure Elections Project.'

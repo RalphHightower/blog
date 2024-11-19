@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [January 6 2021 insurrection, 2020 election overthrow attempt, Donald Trump]
+tags: [January 6 2021 insurrection, 2020 election overthrow attempt, Donald Trump, politics]
 categories: [2024 presidential election]
 date: 2024-10-14 4:37 PM
 excerpt: 'Big protest in D.C. on January 6th. Be there, will be wild! – Donald Trump'

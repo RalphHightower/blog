@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: [legal immigrants, hoaxes, lies, JD Vance, Donald Trump]
-categories: [2024 presidential election]
+categories: [2024 presidential election, politics]
 date: 2024-09-12 5:11 PM
 excerpt: "I’ve seen people on television. The people on television say, ‘My dog was taken and used for food.'"
 #image: 'BASEURL/assets/blog/img/.png'

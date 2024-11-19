@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [Donald Trump, Miss USA, Miss Teen USA, beauty pageants pervert, voyeur, ogling vulnerable women and teens in various states of undress]
+tags: [Donald Trump, Miss USA, Miss Teen USA, beauty pageants pervert, voyeur, ogling vulnerable women and teens in various states of undress, politics]
 categories: [2024 presidential election]
 date: 2024-10-17 12:24 PM
 excerpt: 'Several former Miss USA and Miss Teen USA contestants accused Trump of entering the dressing rooms of beauty pageant contestants while contestants were in various stages of undress. Trump had already referred to this practice during a 2005 interview on The Howard Stern Show, saying he could "get away with things like that" because he owned the Miss Universe franchise.'

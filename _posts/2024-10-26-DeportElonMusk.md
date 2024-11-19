@@ -1,7 +1,7 @@
 ---
 layout: post
-tags: [Elon Musk, illegal immigrants, student visa, work visa, Security and Exchange Commission, Zip2]
-categories: [illegal aliens]
+tags: [illegal aliens, illegal immigrants, student visa, work visa, Security and Exchange Commission, Zip2, politics]
+categories: [Elon Musk]
 date: 2024-10-26 7:39 PM
 excerpt: "“Their immigration status was not what it should be for them to be legally employed running a company in the U.S. We don’t want our founder being deported. We want to take care of this long before there’s anything that could screw up the company’s path to an initial public offering.” – Derek Proudian, a Zip2 board member."
 #image: 'BASEURL/assets/blog/img/.png'

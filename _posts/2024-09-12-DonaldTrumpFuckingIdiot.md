@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [Donald Trump]
+tags: [Donald Trump, politics]
 categories: [2024 presidential election]
 date: 2024-09-12
 excerpt: 'I was an independent voter. But Trump turned me into a Democrat. The Republican Party is dead.'

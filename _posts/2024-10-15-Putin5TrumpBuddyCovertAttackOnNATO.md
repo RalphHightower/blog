@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [Donald Trump, Vladimir Putin, NATO, Europe, Russia, sabotage, assassinations, destabilization]
+tags: [Donald Trump, Vladimir Putin, NATO, Europe, Russia, sabotage, assassinations, destabilization, politics]
 categories: [2024 presidential election]
 date: 2024-10-15 2:27 PM
 excerpt: "What Putin is trying to do is hit us everywhere. We also have red lines and Putin is trying to feel them. Putin is testing the West’s boundaries, trying to push NATO without crossing into full-scale conflict. – Fiona Hill, who previously served on America's National Security Council"

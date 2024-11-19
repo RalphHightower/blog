@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [trump cult, autocracy, president for life]
+tags: [trump cult, autocracy, president for life, politics]
 categories: [2024 presidential election]
 date: 2024-09-16 6:38 PM
 excerpt: 'First, he and his supporters believed that the Jan. 6 riots and the blocking of congressional certification would extend his presidency. When the Capitol siege turned out to be a bloody, tear-gas-stained dud, QAnon theorists asserted that Jan. 20, 2021, — Inauguration Day — would be the day of the Great Awakening following Trump’s signing of the Insurrection Act to declare martial law and conduct mass arrests of his enemies.'

@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: [election integrity, planned vote counting fraud]
-categories: [2024 presidential election]
+categories: [2024 presidential election, politics]
 date: 2024-10-13 6:34 PM
 excerpt: 'Pennsylvania and Georgia, two of the most hard-fought prizes for Trump and Harris, are the states that most worry election experts. MAGA loyalists are in place in Georgia at the state and county level. They control the state board and have authorized county officials to withhold vote certifications for any “reasonable inquiry” they might conjure; ordered that ballots be counted by hand, a time-consuming and mistake-prone practice; and insisted on naming vote monitors for Democratic-leaning Fulton County, home to Atlanta and a plurality of Black residents. Democrats and voting groups are suing.'
 #image: 'BASEURL/assets/blog/img/.png'

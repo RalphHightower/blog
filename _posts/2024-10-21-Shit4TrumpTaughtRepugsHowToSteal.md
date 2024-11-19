@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [social media, misinformation, disinformation]
+tags: [social media, misinformation, disinformation,  politics]
 categories: [2024 presidential election]
 date: 2024-10-21 2:28 PM
 excerpt: 'The last few years have been challenging for the knowledge community working with platforms. The impact of layoffs, budget cuts in journalism programs, and the crackdown on trust and safety teams at X (formerly Twitter) and other major platforms have set troubling precedents as we approach the upcoming elections. – Baybars Orsek, managing director at the fact-checking organization Logically Facts.'

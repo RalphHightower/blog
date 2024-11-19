@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [Donald Trump, strong arm overthrow attempt, states vote certifications]
+tags: [Donald Trump, strong arm overthrow attempt, states vote certifications, politics]
 categories: [2024 presidential election]
 date: 2024-10-15 3:56 PM
 excerpt: "No one I’ve ever encountered who’s involved with election administration like this would give in to threats or intimidation. Anyone involved in elections is pursuing their responsibilities professionally, and no amount of pressure or coercion would interfere in that in any way. – Pennsylvania Secretary of State Al Schmidt, a Republican"

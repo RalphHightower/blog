@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [Donald Trump, dementia, cognitive decline]
+tags: [Donald Trump, dementia, cognitive decline, politics]
 categories: [2024 presidential election]
 date: 2024-09-19 15:14:45
 excerpt: "They didn’t correct her once. And they corrected me, everything I said, practically. I think nine times or 11 times. And the audience was absolutely — they went crazy."
