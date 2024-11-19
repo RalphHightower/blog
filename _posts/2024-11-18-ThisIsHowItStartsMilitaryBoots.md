@@ -20,7 +20,7 @@ Story by Ryan Bort. November 18, 2024.
 - **High Costs**: The logistical implications of removing millions of people will be expensive.
 - **Aggressive Approach**: [Trump's](https://x.com/realdonaldtrump) administration, led by Tom Homan, aims to deport criminals first with a "shock and awe" strategy.
 
-### {% avatar [USERNAME] %} the Am “enemy within”
+### I am the *“enemy within”* – @RalphHightower
 
 @RalphHightower: To **[Team Trump](https://x.com/realdonaldtrump)**, I say “That’s FUCKING BULLSHIT! A National Emergency is to be used only when America is attacked!”
 
