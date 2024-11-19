@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [Jack Dorsey, Elon Musk, #Xodus, X/Twitter, Bluesky]
+tags: [Jack Dorsey, Elon Musk, Xodus, X/Twitter, Bluesky]
 categories: [Bluesky]
 date: 2024-11-18 6:34 PM
 excerpt: "[X] Changes to the algorithms and default user feed means I am constantly wading through a nauseating torrent of misinformation, rage bait, demagogic pundits, product placement for Musk’s other companies and imbecilic short videos that skew violent and prurient. – Zeeshan Aleem"
