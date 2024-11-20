@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: [legal immigrants, hoaxes, lies, JD Vance, Donald Trump]
-categories: [2024 presidential election, politics]
+categories: [2024 presidential election, politics, video]
 date: 2024-09-12 5:11 PM
 excerpt: "I’ve seen people on television. The people on television say, ‘My dog was taken and used for food.'"
 #image: 'BASEURL/assets/blog/img/.png'
@@ -40,7 +40,9 @@ Politics, like life, is not a morality play. Virtue is not always rewarded, nor 
 
 ## Eat Mor Kittens[^11]
 
-Boy, did Trump find the perfect sycophant in [JD “John Boy” Vance (T-OH)](https://www.vance.senate.gov/)[^12]. This lie that Haitian immigrants eating people’s d9gs and cats has taken a life 9f its own. Trump and [JD “John Boy” Vance (T-OH)](https://www.vance.senate.gov/) aren't refuting the lies. They're doubling down.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/v0DEYf9DBOk?si=YAP4ND58FzoVybBP&amp;start=370" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Boy, did Trump find the perfect sycophant in [JD “John Boy” Vance (T-OH)](https://www.vance.senate.gov/)[^12]. This lie that Haitian immigrants eating people’s dogs and cats has taken a life of its own. Trump and [JD “John Boy” Vance (T-OH)](https://www.vance.senate.gov/) aren't refuting the lies. They're doubling down.
 
 Mike Pence turned out to be too much of a "goody two-shoes" for Trump, not even shirking his ceremonial duty as vice president to certify the 2020 election results.
 
@@ -48,4 +50,4 @@ Mike Pence turned out to be too much of a "goody two-shoes" for Trump, not even 
 
 [^11]: With apologies to [Chick-fil-A®](https://www.chick-fil-a.com) and their advertising using cows spray painting graffiti, *"Eat Mor Chikin"*
 [^12]: [JD “John Boy” Vance (T-OH)](https://www.vance.senate.gov/) wrote a book called Hillbilly Eligy, so I'd give J.D. the nickname of "John Boy" from the TV series, The Waltons.
-[^13]: [Sen. Scott refuses to say he will accept 2024 election results, says Tru...](https://youtube.com/watch?v=DdeuagPSVQc&). Meet The Press. May 5, 2024 L
+[^13]: [Sen. Scott refuses to say he will accept 2024 election results, says Tru...](https://youtube.com/watch?v=DdeuagPSVQc&). Meet The Press. May 5, 2024

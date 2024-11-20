@@ -32,7 +32,7 @@ The CNN host demanded to know whether Trump would honor the results of the elect
 
 **Bash** pressed him again: “I appreciate your optimism, that‘s your job on the eve of the election, but what I’m asking about is what if he doesn’t win? And the fact of the matter is that Trump is already spreading false claims about cheating in Pennsylvania. He has repeatedly predicted a massive victory even though polls show that the race is very close. He’s setting the stage for his supporters not to believe the results if he loses. Do you want him stop doing that?”
 
-[Tim Scott (T-SC)](https://www.scott.senate.gov/): “I would never tell any candidate on the ballot to talk about what happens if they lose. Obviously, you’re going to lean into the victory, especially,” 
+[Tim Scott (T-SC)](https://www.scott.senate.gov/): “I would never tell any candidate on the ballot to talk about what happens if they lose. Obviously, you’re going to lean into the victory, especially,”
 
 **Bash:** “I appreciate that, senator, forgive me but spreading false rumors, saying false things about fraud – you think it’s okay to spread false rumors about fraud and undermine the integrity of the election regardless of what happens?"
 
@@ -50,6 +50,15 @@ Instead of addressing Trump’s election fraud claims, [Scott (T-SC)](https://ww
 
 **[Scott (T-SC)](https://www.scott.senate.gov/)** again did not directly answer the question, instead cryptically speaking about seeing a “strong shift in the right direction among voters.
 
-**Bash:** “You said you believe that the election will be free and fair. So does that mean that you are confident that if Donald Trump loses – I know you think he‘s going to win, but let’s just play this out – if he loses, that he will concede?" 
+**Bash:** “You said you believe that the election will be free and fair. So does that mean that you are confident that if Donald Trump loses – I know you think he‘s going to win, but let’s just play this out – if he loses, that he will concede?"
 
-**[Scott (T-SC)](https://www.scott.senate.gov/):** “I’m confident that he’s going to win without any question. And, yes, I do believe that we will have a fair election. We will honor the results and we will celebrate the 47th president being Donald Trump,” 
+**[Scott (T-SC)](https://www.scott.senate.gov/):** “I’m confident that he’s going to win without any question. And, yes, I do believe that we will have a fair election. We will honor the results and we will celebrate the 47th president being Donald Trump,”
+
+### May 5, 2024 #2024Election #Trump #TimScott
+
+Sen. Tim Scott (T-S.C.) joins Meet the Press. Scott refuses to answer a simple yes/no question: *"Will you accept the results of this election?"*
+
+@RalphHightower: 2024-11-20, prior to the election, I was concerned about democracy. Post-election, I fear for democracy.
+Yea, it's derogatory calling Scott, "Trump's Lawn Jockey". But truth is truth. The Trumpers live in fear of Trump. With the video frozen, I now see that Scott (T-SC) has a few more books in his library with multiple books of two titles.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3QWwZAMpiRs?si=_YOVHnkGLpCCq6Zw&amp;start=410" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

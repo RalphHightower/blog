@@ -2,7 +2,7 @@
 layout: post
 tags: [Georgia, Mark Meadows, state crimes, politics]
 categories: [2020 presidential election fraud]
-date: 2024-11-12 6:50 PM
+date: 2024-11-12 6:50 AM
 excerpt: 'A U.S. district judge and the 11th U.S. Circuit Court of Appeals both ruled that the case against Meadows and some of his co-defendants should remain in state court. A federal judge has also refused to move an Arizona fake elector case against him there to federal court.'
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
@@ -17,8 +17,24 @@ WASHINGTON (AP) — The Supreme Court refused Tuesday to let former Trump White 
 
 The justices did not detail their reasoning in a brief order denying his appeal, as is typical. There were no publicly noted dissents.
 
-@RalphHightower: Why should chief of staff get presidential immunity? He ain't president. Plus, the crime involved a state. The Supreme Court had said that Trump could be tried on cases that did not involve a president's duties.
+----
+### The Donald Went Down to Georgia (Parody)
 
+Embedding videos don't work with these videos, but clicking on the videos will take you to YouTube. 
+
+#### This one has better lyrics
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cP-vHAwAVdg?si=raFvppP9kI93TDjB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+#### One man band
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cQcn7XEEc4Q?si=-sk1A6oGnwKq1JSK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1EOb7UG3Asg?si=nbxeUFIIXyX8Q0ry" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+@RalphHightower: Why should chief of staff get presidential immunity? **He ain't president!** Plus, the crime involved a state. The Supreme Court had said that Trump could be tried on cases that did not involve a president's duties.
+
+----
 Meadows was one of 19 people indicted in Georgia and accused of participating in an illegal scheme to keep then-president Donald Trump in power after he lost the 2020 election. Trump was also charged, though after he won reelection last week to a second term, any trial appears unlikely, at least while he holds office. Both men have denied wrongdoing.
 
 Attorney George Terwilliger said Meadows will continue to assert his innocence in state court and expects to win an exoneration.

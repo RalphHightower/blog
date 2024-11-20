@@ -15,7 +15,7 @@ title: 'Ditch X/Twitter! Join the #Xodus. Sign Up for Bluesky.'
 
 Story by Euronews. November 18, 2024.
 
-- **[Bluesky](https://bsky.app/)'s Growth**: [Bluesky](https://bsky.app/), a decentralized social media platform, has seen a significant increase in users, adding one million users in a day and reaching a total of 19 million users.
+- **[Bluesky's](https://bsky.app/) Growth**: [Bluesky](https://bsky.app/), a decentralized social media platform, has seen a significant increase in users, adding one million users in a day and reaching a total of 19 million users.
 - **Platform Features**: [Bluesky](https://bsky.app/) offers a Discover feed, a chronological feed, direct messaging, and video sharing. It is built on the AT Protocol, promoting independence for creators and freedom for developers.
 - **Shift from [X](https://x.com/)**: Many users, including academics, journalists, and celebrities, are moving from [X (formerly Twitter)](https://x.com/) to [Bluesky](https://bsky.app/), partly due to changes made by [Elon Musk](https://x.com/elonmusk) and his support for [Donald Trump.](https://x.com/realdonaldtrump)
 - **Global Impact**: [Bluesky](https://bsky.app/) has previously seen user increases, such as after [X](https://X com/) was banned in Brazil, highlighting its growing global presence.

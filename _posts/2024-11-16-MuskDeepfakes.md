@@ -21,7 +21,12 @@ The lawsuit, filed in federal court this week, targets a law that aims to combat
 
 Assembly Bill 2655 was one of three bills California Gov. Gavin Newsom signed into law this year to address growing concerns about deepfakes ahead of the 2024 U.S. presidential election. California lawmakers have been trying to mitigate technology's potential risks but also face backlash from powerful tech executives wary of efforts they see as possibly restricting users' online speech.
 
-The focus on election deepfakes came after Newsom sparred online with [Musk](https://x com/elonmusk), who shared a viral video of Vice President Kamala Harris that used AI to alter what the Democrat said in one of her campaign ads. Republican Donald Trump, who had [Musk](https://x com/elonmusk)'s strong backing in his successful run to reclaim the presidency, also posted deepfake images of Taylor Swift that falsely suggested the megastar had endorsed him.
+The focus on election deepfakes came after Newsom sparred online with [Musk](https://x com/elonmusk), who shared a viral video of Vice President Kamala Harris that used AI to alter what the Democrat said in one of her campaign ads. Republican Donald Trump, who had [Musk's](https://x com/elonmusk) strong backing in his successful run to reclaim the presidency, also posted deepfake images of Taylor Swift that falsely suggested the megastar had endorsed him.
+
+### Fanboi Elon Musk Acting Like a Schoolgirl at a Taylor Swift Concert
+
+![Fanboi Elon Musk Acting Like a Schoolgirl at a Taylor Swift Concert](https://ralphhightower.github.io/blog/img/ElonMuskAtTaylorSwiftConcert.jpg)
+
 
 X alleges the new law would prompt social media sites to lean toward labeling or removing legitimate election content out of caution.
 

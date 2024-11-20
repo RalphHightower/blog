@@ -30,12 +30,13 @@ Fanboi[^11], Elon Musk, boosted Trump’s election by:
 3. A spate of misleading ads online[^11] ([Elon Musk-Funded PAC Supercharges ‘Progress 2028’ Democrat Impersonation Ad Campaign](https://www.404media.co/elon-musk-funded-pac-supercharges-progress-2028-democrat-impersonation-ad-campaign/). Jason Koebler. Oct 29, 2024 at 10:54 AM. *An Elon Musk-funded PAC is targeting Republicans with ads that depict a fever-dream caricature of what Harris would do if elected president*) 
 4. An aggressive voter turnout operation in swing states.
 5. Used his social media propaganda machine, X/Twitter, to spread conspiracy theories of immigration and election fraud.
-6. Used X/Twitter to drump beat support for Trump. 
+6. Used X/Twitter to drum beat support for Trump. 
 
 [^11]: “Fanboi” (also spelled “fanboy”) is a slang term used to describe an individual who is extremely passionate or overly enthusiastic about a specific product, brand, or technology, often to the point of being biased or unable to critique it objectively.
 
+### Fanboi Elon Musk Acting Like a Schoolgirl at a Taylor Swift Concert
+
 ![Fanboi Elon Musk Acting Like a Schoolgirl at a Taylor Swift Concert](https://ralphhightower.github.io/blog/img/ElonMuskAtTaylorSwiftConcert.jpg)
-<br />Fanboi Elon Musk Acting Like a Schoolgirl at a Taylor Swift Concert
 
 ### What Does Fanboi Elon Musk Want?
 
