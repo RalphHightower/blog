@@ -1,7 +1,7 @@
 ---
 layout: post
-tags: [Donald Trump, Kamala Harris, past presidential candidate performance, politics]
-categories: [president-elect Donald Trump 47]
+tags: [president-elect 47, Kamala Harris, past presidential candidate performance, politics]
+categories: [Donald Trump]
 date: 2024-11-19 4:41 PM
 excerpt: "Trump’s still ahead of Harris in the popular vote. He also maintains a lead in the decisive, though absurdly anti-democratic, Electoral College— slightly less than Barack Obama’s in 2012, slightly more Joe Biden’s in 2020—based on a pattern of wins in battleground states. So, the failure to win a majority won’t cost Trump the presidency. But he’s lost his ability to suggest that he trounced the Democrat. In fact, she’s now trailing him by just 1.68 percent of the vote."
 #image: 'BASEURL/assets/blog/img/.png'
@@ -54,6 +54,8 @@ Let’s put this in perspective: Trump is winning a lower percent of the popular
 | Ronald Reagan | 1984 | 58.8% |
 | Reagan | 1980 | 50.7% |
 | Jimmy Carter | 1976 | 50.1% |
+| Trump | 2024 | 49.94% |
+| Trump | 2016 | 48.2% |
 
 And, of course, Trump numbers are way below the presidents who won what could reasonably be described as “unprecedented and powerful” mandates. As Trump’s percentage continues to slide, he’ll fall below the thresholds achieved by most presidents in the past century.
 

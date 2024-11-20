@@ -1,7 +1,7 @@
 ---
 layout: post
-tags: [Donald Trump, garbage truck publicity stunt, Kamala Harris, George Takei, Star Trek, Mary Trump]
-categories: [2024 presidential election, politics]
+tags: [Donald Trump, garbage truck publicity stunt, Kamala Harris, George Takei, Star Trek, Mary Trump, politics]
+categories: [2024 presidential election]
 date: 2024-11-03 2:46 PM
 excerpt: "“Hm, interesting choice to place the garbage in the front of the truck.” – Mary Trump, psychologist, Donald's niece"
 #image: 'BASEURL/assets/blog/img/.png'

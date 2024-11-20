@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: [Joe Biden, judicial nominees confirmation, Donald Trump]
-categories: [president-elect Trump 47]
+categories: [2024 post election]
 date: 2024-11-19 3:24 PM
 excerpt: '"Regardless of party, the American people expect their leaders to fight for the rule of law and to ensure the criminal justice system can function effectively in every state. Delaying the confirmation of highly qualified, experienced judges takes a real-life toll on constituents and leads to backlogs of criminal cases -- meaning Senator Thune was correct in 2020 when he said senators have every urgent reason for Republicans and Democrats to continue working together in good faith to staff the federal bench." – White House spokesperson Andrew Bates said in a statement.'
 #image: 'BASEURL/assets/blog/img/.png'

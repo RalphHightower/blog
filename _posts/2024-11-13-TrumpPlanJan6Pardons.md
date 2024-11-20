@@ -1,7 +1,7 @@
 ---
 layout: post
-tags: [Donald Trump, pardons, Ty Cobb]
-categories: [January 6 2021 Insurrection, politics]
+tags: [Donald Trump, pardons, Ty Cobb, politics]
+categories: [January 6 2021 Insurrection]
 date: 2024-11-13 10:24 AM
 excerpt: "“It is highly possible that Trump will go forward with these pardons. But the move would further demean the rule of law to those of us in this country, and it’s not going to go unseen around the world. I mean, this is the type of conduct that, when viewed internationally, makes it impossible to distinguish the United States from a third-world country or, you know, a South American dictatorship. This is really lawlessness of the highest order, and there’s no principal basis for it. I think it’d be a very sad event.” – Ty Cobb, former White House Trump attorney. "
 #image: 'BASEURL/assets/blog/img/.png'

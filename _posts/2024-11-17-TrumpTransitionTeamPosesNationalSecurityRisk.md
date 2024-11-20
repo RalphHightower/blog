@@ -1,7 +1,7 @@
 ---
 layout: post
-tags: [Donald Trump, 9/11 security threat, politics]
-categories: [Trump 47 Transition Team]
+tags: [Donald Trump, 9/11 security threat, transition team, ethics agreement, politics]
+categories: [2024 post election]
 date: 2024-11-17 7:51 PM
 excerpt: "The 9/11 Commission determined that the delayed transition hampered the Bush administration's ability to get key appointees in place and up to speed, recommending a number of reforms so ‟transitions can work more effectively.”"
 #image: 'BASEURL/assets/blog/img/.png'
@@ -15,17 +15,17 @@ title: "Trump’s Transition Team Delays Poses Extreme National Security Risk/Th
 
 Story by Avery Lotz. November 16, 2024.
 
-- **Transition Delays**: [Trump](https://x.com/realdonaldtrump)'s transition team has not signed key agreements with the General Services Administration (GSA) and the White House, delaying access to federal resources and security clearances.
+- **Transition Delays**: [Trump's](https://x.com/realdonaldtrump) transition team has not signed key agreements with the General Services Administration (GSA) and the White House, delaying access to federal resources and security clearances.
 - **Risks**: Missing these agreements could hamper secure communications and coordination between the incoming and outgoing administrations, potentially leading to significant operational issues.
 - **Political Tensions**: The process has become politicized, with [Trump](https://x.com/realdonaldtrump) team expressing distrust of the Biden administration and concerns over ethics pledges and donor disclosures.
-- **Negotiations Ongoing**: Discussions between [Trump](https://x.com/realdonaldtrump)'s and Biden's teams are ongoing, with both sides working to resolve the issues and ensure a smooth transition.
+- **Negotiations Ongoing**: Discussions between [Trump's](https://x.com/realdonaldtrump) and Biden's teams are ongoing, with both sides working to resolve the issues and ensure a smooth transition.
 
 With 65 days until President-elect [Trump](https://x.com/realdonaldtrump) is sworn in, his administration-in-waiting is still bypassing the official process designed to facilitate the transfer of control over the vast federal bureaucracy.
 
-**Why it matters:** [Trump](https://x.com/realdonaldtrump)'s transition team tells Axios they're still discussing the agreements needed to kickstart the transition. For now, future [Trump](https://x.com/realdonaldtrump) administration officials won't have access to the agencies they'll soon lead, to secure communications systems, or potentially to security briefings and clearances.
+**Why it matters:** [Trump's](https://x.com/realdonaldtrump) transition team tells Axios they're still discussing the agreements needed to kickstart the transition. For now, future [Trump](https://x.com/realdonaldtrump) administration officials won't have access to the agencies they'll soon lead, to secure communications systems, or potentially to security briefings and clearances.
 
-- [Trump](https://x.com/realdonaldtrump)'s team has so far declined to sign agreements which would force them to disclose donors and pledge to avoid conflicts of interest.
-- The transition process is designed such that the winner quickly gets access to office space, federal funding, and government personnel and systems, and other recent presidential transitions — including [Trump](https://x.com/realdonaldtrump)'s in 2016 — began it well before Election Day.
+- [Trump's](https://x.com/realdonaldtrump) team has so far declined to sign agreements which would force them to disclose donors and pledge to avoid conflicts of interest.
+- The transition process is designed such that the winner quickly gets access to office space, federal funding, and government personnel and systems, and other recent presidential transitions — including [Trump's](https://x.com/realdonaldtrump) in 2016 — began it well before Election Day.
 - [Trump](https://x.com/realdonaldtrump) told President Biden when they met Wednesday that the transition will be "as smooth as it can get." Without the agreements in place, experts are doubtful.
 
 ### What are the agreements?
@@ -87,9 +87,9 @@ Also mandated by the White House agreement and required by the Presidential Tran
 
 [^431]: [General Services Administrator says Biden transition can formally begin](https://www.axios.com/2020/11/23/gsa-biden-transition). Updated Nov 23, 2020.
 
-**What they're saying:** [Trump](https://x.com/realdonaldtrump)'s team has emphasized that their transition has been privately funded, and thus they don't need congressionally appropriated dollars.
+**What they're saying:** [Trump's](https://x.com/realdonaldtrump) team has emphasized that their transition has been privately funded, and thus they don't need congressionally appropriated dollars.
 
-- [Tulsi Gabbard](https://x.com/tulsigabbard), a member of [Trump](https://x.com/realdonaldtrump)'s transition team and his pick to oversee U.S. intelligence, accused the Biden administration of trying to control the transition process.."They're freaking out because they can't place their moles within the transition team to try to figure out what [Donald Trump](https://x.com/realdonaldtrump) is doing so that they can spin up their media propaganda machines and try to preempt and undermine the work that we are doing to bring great patriots together to actually fix the government," she said before the election.
+- [Tulsi Gabbard](https://x.com/tulsigabbard), a member of [Trump's](https://x.com/realdonaldtrump) transition team and his pick to oversee U.S. intelligence, accused the Biden administration of trying to control the transition process.."They're freaking out because they can't place their moles within the transition team to try to figure out what [Donald Trump](https://x.com/realdonaldtrump) is doing so that they can spin up their media propaganda machines and try to preempt and undermine the work that we are doing to bring great patriots together to actually fix the government," she said before the election.
 
 ### What's the latest on negotiations?
 
@@ -97,5 +97,5 @@ Also mandated by the White House agreement and required by the Presidential Tran
 
 **The other side:** Press Secretary Karine Jean-Pierre told reporters last week that Chief of Staff Jeff Zients had reached out to [Trump](https://x.com/realdonaldtrump) transition co-chairs Linda McMahon and Howard Lutnick, and that while the necessary agreements had yet to be signed, the administration was "ready to assist" to ensure a smooth transition.
 
-- Lutnick told CNN before the election that [Trump](https://x.com/realdonaldtrump)'s team will "probably" sign the agreements, assuming the lawyers can "work it out."
+- Lutnick told CNN before the election that [Trump's](https://x.com/realdonaldtrump) team will "probably" sign the agreements, assuming the lawyers can "work it out."
 - He added: "But these are not important issues."

@@ -1,7 +1,7 @@
 ---
 layout: post
-tags: [Donald Trump, Federal Court, Federal Crime, 2020 Election Overthrow Attempts, January 6, 2021 Insurrection, politics]
-categories: [2020 Election Overthrow Attempt]
+tags: [Donald Trump, 2020 Election Overthrow Attempt, Federal Court, Federal Crime, January 6 2021 Insurrection, politics]
+categories: [2024 presidential election]
 date: 2024-10-15 8:52 PM
 excerpt: "WHETHER NOW THE FULLY DEBUNKED RUSSIA, RUSSIA, RUSSIA, IRAN, IRAN, IRAN, UKRAINE, UKRAINE, UKRAINE, 51 INTELLIGENCE AGENTS, SPYING ON MY CAMPAIGN, IMPEACHMENT HOAX NUMBER ONE, IMPEACHMENT HOAX NUMBER TWO, OR ANY OF THE OTHER SCAMS, THIS ILLEGAL ACTION TAKEN BY THE JUSTICE DEPARTMENT, INCLUDING THEIR RAID ON MAR-A-LAGO FOR A CASE THAT WAS DISMISSED, WILL END JUST LIKE ALL OF THE OTHERS – WITH COMPLETE VICTORY FOR ‘PRESIDENT DONALD J. TRUMP.’ MAKE AMERICA GREAT AGAIN!"
 #image: 'BASEURL/assets/blog/img/.png'

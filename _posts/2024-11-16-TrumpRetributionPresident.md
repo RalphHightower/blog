@@ -1,7 +1,7 @@
 ---
 layout: post
-tags: [Trump Cabinet, loyalists, acolytes, sycophants, misfits, unqualified, politics]
-categories: [47 president-elect Donald Trump]
+tags: [Trump Cabinet, loyalists, acolytes, sycophants, misfits, unqualified, politics, Donald Trump]
+categories: [2024 post election]
 date: 2024-11-16 10:48 AM
 excerpt: "''Trump’s first wave of cabinet nominations and White House appointments, within the week after he won the 2024 presidential election, have stunned members of Congress, veterans and active-duty service members, public health advocates and democratic advocates, who have warned for years that he is building a government of loyalists to fulfill his campaign-trail promises to deliver “retribution” by destroying the “deep state.”"
 #image: 'BASEURL/assets/blog/img/.png'

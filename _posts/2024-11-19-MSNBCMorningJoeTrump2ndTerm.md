@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: [Donald Trump, MSNBC, Morning Joe, politics, Mar-a-Lago, video]
-categories: [Trump 47 president]
+categories: [2024 post election]
 date: 2024-11-19 8:53 AM
 excerpt: 'Joe Scarborough and Mika Brzezinski discuss a weekend meeting with Donald Trump at Mar-a-Lago and how Morning Joe plans to cover a second Trump term.'
 #image: 'BASEURL/assets/blog/img/.png'

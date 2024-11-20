@@ -1,7 +1,7 @@
 ---
 layout: post
-tags: [Department of Justice, Attorney General, Matt Gaetz, politics, video]
-categories: [2025 Trump Cabinet]
+tags: [Department of Justice, Attorney General, Matt Gaetz, politics, video, Donald Trump]
+categories: 2024 post election]
 date: 2024-11-16 10:17 AM
 excerpt: "‘He will turn DOJ into a petting zoo for Trump’: Fmr. DOJ official sounds off on Gaetz's nomination."
 #image: 'BASEURL/assets/blog/img/.png'

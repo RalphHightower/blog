@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: [Donald Trump, Elon Musk, oligarch, politics]
-categories: [2024 presidential election, Elon Musk]
+categories: [2024 presidential election]
 date: 2024-09-13 5:10 PM
 excerpt: "Musk is the latest example of a totally gearheaded, engineering-brained, Silicon Valley guy who looks at government and says ‘How hard can it be? Let me at it and I can solve it for you.' There’s been many of these characters before, and he’s just the latest."
 #image: 'BASEURL/assets/blog/img/.png'
@@ -74,7 +74,7 @@ Patrick Blumenthal, founder of the Anomaly venture capital fund, suggested that 
 The first season of The Apprentice: White House demonstrated that people without any clue as to how the American government works, has no business running a country.
 
 
-## [Trump](https://x.com/realdonaldtrump)'s Transactional Nature
+## [Trump's](https://x.com/realdonaldtrump) Transactional Nature
 
 ### No Surprise that [Trump](https://x.com/realdonaldtrump) Wants [Musk](https://x.com/elonmusk) Support and Money for an Administration Position
 

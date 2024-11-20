@@ -2,7 +2,7 @@
 layout: post
 tags: [Kamala Harris, Donald Trump, debate, politics]
 categories: [2024 presidential election]
-date: 2024-09-11
+date: 2024-09-11 6:02 PM
 excerpt: 'My mother taught high school English and she instilled the proper use of English and grammar. As such, I cannot listen to Donald Trump speak and mangle words and grammar. It is like listening to fingernails screech across a blackboard.'
 #image: 'BASEURL/assets/blog/img/.png'
 #description:

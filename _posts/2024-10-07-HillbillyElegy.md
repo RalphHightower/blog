@@ -1,7 +1,7 @@
 ---
 layout: post
-tags: [JD Vance, vice president, Appalachia]
-categories: [2024 presidential election, politics]
+tags: [JD Vance, vice president, Appalachia, politics]
+categories: [2024 presidential election]
 date: 2024-10-07 01:15 PM
 excerpt: "hashtag he ain't from here"
 #image: 'BASEURL/assets/blog/img/.png'
@@ -19,8 +19,8 @@ Five generations of Vances gathered in West Virginia last month for a reunion, s
 
 - **Family Reunion**: Five generations of Vances gathered in West Virginia, but [JD “John Boy” Vance (T-OH)](https://www.vance.senate.gov/), the Republican vice presidential nominee, did not attend.
 - **Criticism from Terra Vance**: Terra Vance, a distant cousin and Appalachian activist, criticizes [JD “John Boy” Vance (T-OH)](https://www.vance.senate.gov/) for misrepresenting Appalachian people in his memoir "Hillbilly Elegy."
-- **Different Perspectives**: Terra Vance argues that [JD “John Boy” Vance (T-OH)](https://www.vance.senate.gov/)'s story unfairly blames Appalachian people for their struggles, while she highlights systemic issues and her family's hardships.
-- **Political Divide**: The article discusses the broader Appalachian movement rejecting [JD “John Boy” Vance (T-OH)](https://www.vance.senate.gov/)'s narrative and the political divide within the Vance family.
+- **Different Perspectives**: Terra Vance argues that [JD “John Boy” Vance's (T-OH)](https://www.vance.senate.gov/) story unfairly blames Appalachian people for their struggles, while she highlights systemic issues and her family's hardships.
+- **Political Divide**: The article discusses the broader Appalachian movement rejecting [JD “John Boy” Vance's (T-OH)](https://www.vance.senate.gov/) narrative and the political divide within the Vance family.
 
 
 "He is surely too ashamed to face any of us. Judas Iscariot would have a warmer reception," said Terra Vance, an Appalachian activist who genealogy records show shares some ancestors with the politician.
@@ -39,7 +39,7 @@ Watching the debate and rooting for Walz, Terra Vance threw her hands up in frus
 
 "Why have debates or elections if there's no expectation of honesty?" she wrote.
 
-That kind of "intentional political deception" was a hallmark of those in power "in the coal camps my and [JD “John Boy” Vance (T-OH)](https://www.vance.senate.gov/)'s recent ancestors occupied," she added.
+That kind of "intentional political deception" was a hallmark of those in power "in the coal camps my and [JD “John Boy” Vance's (T-OH)](https://www.vance.senate.gov/) recent ancestors occupied," she added.
 
 In his memoir, [JD “John Boy” Vance (T-OH)](https://www.vance.senate.gov/) mentions his own family ties to the same clan and their role in "one of the most famous family feuds in American history.”
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: [Donald Trump, Vladimir Putin, bromance, politics]
-categories: [2024 presidentialelection]
+categories: [2024 presidential election]
 date: 2024-10-09 07:26 PM
 excerpt: 'Trump was the most reckless and impulsive president in American history and is demonstrating the very same character as a presidential candidate in 2024.'
 #image: 'BASEURL/assets/blog/img/.png'

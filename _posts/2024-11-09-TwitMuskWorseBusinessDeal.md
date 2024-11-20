@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [X, Twitter, worse business deal, social media, politics]
+tags: [X, Twitter, worse business deal, social media, politics, fractional ceo]
 categories: [Elon Musk]
 date: 2024-11-09 12:56 PM
 excerpt: 'The company under his tenure has had a fraught relationship with advertisers—which provide the majority of its revenue—with Musk telling some to “go fuck yourself” after they abandoned the site. X also sued an advertising coalition and some of its members earlier this month alleging it conspired a boycott of the platform that cost the company billions of dollars.'
@@ -17,7 +17,7 @@ Dan Ladden-Hall. August 20, 2024
 
 - **Worst Merger-Finance Deal**: The loans used by Elon [Musk](https://x.com/elonmusk) to buy Twitter have become the worst merger-finance deal for banks since the 2008-09 financial crisis.
 - **Stuck Loans**: Banks involved in the deal, including Bank of America and Morgan Stanley, have been unable to sell the debt without taking huge losses.
-- **Financial Decline**: The value of the loans declined significantly after [Musk](https://x.com/elonmusk)'s $44 billion takeover, with X (formerly Twitter) now worth around $19 billion.
+- **Financial Decline**: The value of the loans declined significantly after [Musk's](https://x.com/elonmusk) $44 billion takeover, with X (formerly Twitter) now worth around $19 billion.
 - **Impact on Banks**: The unsold loans have negatively affected the banks' performance and the compensation of top investment bankers.
 
 Loans that [Elon Musk](https://x.com/elonmusk) used to buy Twitter have become the worst merger-finance deal for banks since the financial crisis of 2008-09, according to a report.

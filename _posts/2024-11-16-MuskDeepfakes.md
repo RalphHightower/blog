@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [deepfakes, California, legislation  intelligence, election fraud, politics]
+tags: [deepfakes, California, legislation intelligence, election fraud, politics]
 categories: [Elon Musk]
 date: 2024-11-16 10:59 AM
 excerpt: "The focus on election deepfakes came after Newsom sparred online with Musk, who shared a viral video of Vice President Kamala Harris that used AI to alter what the Democrat said in one of her campaign ads. Republican Donald Trump, who had Musk's strong backing in his successful run to reclaim the presidency, also posted deepfake images of Taylor Swift that falsely suggested the megastar had endorsed him."
