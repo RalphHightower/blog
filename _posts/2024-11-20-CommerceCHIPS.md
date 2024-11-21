@@ -3,7 +3,7 @@ layout: post
 tags: [Commerce Secretary Gina Raimondo, department of commerce, CHIP Act, high-tech, design, manufacturing, politics, USA]
 categories: [Joe Biden]
 date: 2024-11-20 11:18 AM
-excerpt: ''
+excerpt: "“The Commerce Department is somewhat unique in so far as everything we've done and are doing is bipartisan, and the CHIPS Act is a national security program and still has great bipartisan support to this day,” Raimondo said, adding she’s spoken with Hill Republicans, including Texas Sen. John Cornyn, as recently as last week."
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
