@@ -3,7 +3,7 @@ layout: post
 tags: [Donald Trump, golf, kleptocracy, politics]
 categories: [2024 presidential election]
 date: 2024-10-17 11:34 AM
-excerpt: ''
+excerpt: Donald Trump once stated, “I won’t have time to play golf.” Yet, he always makes time to stay and play at one of his golf resorts. Even though he owns the resorts, he charges, in excess of the GSA rate, the Secret Service detail protecting him and his family room and boards while he stays at his properties, besides his entourage and support staff.
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
