@@ -1,8 +1,8 @@
 ---
 layout: post
-tags: [Pete Hegseth, Departmentof Defense, white supremacist, white nationalist, politics]
-categories: [president-elect Trump]
-date: 2024-11-17 2:10 PM.
+tags: [Pete Hegseth, Departmentof Defense, white supremacist, white nationalist, politics, Donald Trump]
+categories: [2024 post election]
+date: 2024-11-17 2:10 PM
 excerpt: "“Pete Hegseth's tattoos are the ones that white nationalists get. Federal law enforcement knows these symbols well. Pete Hegseth was banned[^41] from national guard duty at Biden’s inauguration for those tattoos. The Senate should consider this disqualifying for a nominee for Secretary of Defense…” – Olivia Troye, former White House Homeland Security and counter-terrorism adviser."
 #image: 'BASEURL/assets/blog/img/.png'
 #description:

@@ -1,13 +1,9 @@
 ---
 layout: post
-tags: [oath of office, allegiance to Trump, Lindsey Graham, John McCain, politics]
-categories: [MAGA Trump Party House Senate Oath of Office]
+tags: [oath of office, allegiance to Trump, Lindsey Graham, John McCain, politics, MAGA, Trump Party]
+categories: [Oath of Office]
 date: 2024-10-20 3:17 PM
-excerpt: 'I do solemnly swear (or affirm) that I will support and defend Trump, his businesses, his sons, 
-daughter, and son-in-law against all enemies, foreign and domestic; that I will bear true faith and 
-allegiance to the same; that I take this obligation grudgingly, under threats and coercion; and that I 
-will well and faithfully discharge the duties of the office on which I am about to enter: So help me 
-Trump.'
+excerpt: 'I do solemnly swear (or affirm) that I will support and defend Trump, his businesses, his sons, daughter, and son-in-law against all enemies, foreign and domestic; that I will bear true faith and allegiance to the same; that I take this obligation grudgingly, under threats and coercion; and that I will well and faithfully discharge the duties of the office on which I am about to enter: So help me Trump.'
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:

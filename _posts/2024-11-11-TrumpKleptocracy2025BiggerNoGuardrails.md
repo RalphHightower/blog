@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: [Donald Trump, government corruption, government fraud, politics]
-categories: [2025 presidential transition]
+categories: [2024 post election]
 date: 2024-11-11 3:28 PM
 excerpt: "Mr. Trump’s transition team was required to submit the ethics plan by Oct. 1, according to the Presidential Transition Act. While the transition team’s leadership has privately drafted an ethics code and a conflict-of-interest statement governing its staff, those documents do not include language, required under the law, that explains how Mr. Trump himself will address conflicts of interest during his presidency."
 #image: 'BASEURL/assets/blog/img/.png'

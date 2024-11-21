@@ -1,7 +1,7 @@
 ---
 layout: post
-tags: [privatize, VeteransAffairs, Pete Hegseth, politics, video]
-categories: [2025 Trump Administration]
+tags: [privatize, Veterans Affairs, Pete Hegseth, politics, video, Donald Trump]
+categories: [2024 post election]
 date: 2024-11-16 11:25 AM
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'

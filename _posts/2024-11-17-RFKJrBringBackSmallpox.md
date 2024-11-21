@@ -1,7 +1,7 @@
 ---
 layout: post
-tags: [Donald Trump, Robert F Kennedy Jr, public health, vaccines, herd immunity, politics]
-categories: [Trump 47 cabinet,  department of health and human services]
+tags: [Donald Trump, Robert F Kennedy Jr, public health, vaccines, herd immunity, politics  Trump 47 cabinet,  department of health and human services]
+categories: [2024 post election]
 date: 2024-11-17 8:04 PM
 excerpt: "“RFK says he won't take away vaccines if they are working. The problem with this statement is that vaccines do work or they would never have been approved in the first place. My biggest fear is that RFK will discount evidence and decades of research to revoke approval of vaccines. Then no one will be able to get those vaccines. While changes in policy could be reversed with a change of administration in 4 years, the impacts on children who miss vaccines during that time will be lifelong or even deadly.” – Cynthia Leifer"
 #image: 'BASEURL/assets/blog/img/.png'

@@ -2,7 +2,7 @@
 layout: post
 tags: [Donald Trump, politics]
 categories: [2024 presidential election]
-date: 2024-09-12
+date: 2024-09-12 6:36 PM
 excerpt: 'I was an independent voter. But Trump turned me into a Democrat. The Republican Party is dead.'
 #image: 'BASEURL/assets/blog/img/.png'
 #description: "Trump Doesn't Know What the Hell He's Doing"

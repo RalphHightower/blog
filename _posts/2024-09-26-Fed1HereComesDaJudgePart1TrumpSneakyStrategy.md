@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: [Donald Trump, 2020 Election Overthrow Attempt, federal court, federal crimes, politics]
-categories: [2024 presidential election, January 6, 2021 Insurrection]
+categories: [2024 presidential election, January 6 2021 Insurrection]
 date: 2024-09-26 4:00 PM
 excerpt: "The rest of the nine-page opposition rehashes Defendant's position that immunity briefing should not begin until he files a motion to dismiss several months from now. The court has already addressed the scheduling objections Defendant raised when he was given an opportunity to do solemnly – Judge Chutkan"
 #image: 'BASEURL/assets/blog/img/.png'

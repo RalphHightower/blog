@@ -1,7 +1,7 @@
 ---
 layout: post
-tags: [Donald Trump, CBS, 60 Minutes, Matt Gaetz, Tulsi Gabbard, Robert F Kennedy Jr, politics]
-categories: [Trump 47 Cabinet]
+tags: [Donald Trump, Cabinet, 60 Minutes, Matt Gaetz, Tulsi Gabbard, Robert F Kennedy Jr, politics]
+categories: [2024 post election]
 date: 2024-11-18 4:11 PM
 excerpt: Some nominees appear to have no compelling qualifications other than loyalty to Trump." – Scott Pelly, CBS News 60 Minutes Host'
 #image: 'BASEURL/assets/blog/img/.png'
