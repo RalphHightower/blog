@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: [Elon Musk, Vivek Ramaswamy, sycophants, politics, 2025 Trump Administration, Department Of Government Efficiency, Donald Trump]
-categories:[2024 post election]
+categories: [2024 post election]
 date: 2024-11-15 11:06 AM
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
