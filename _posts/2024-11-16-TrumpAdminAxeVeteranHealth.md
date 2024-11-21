@@ -3,7 +3,7 @@ layout: post
 tags: [privatize, Veterans Affairs, Pete Hegseth, politics, video, Donald Trump]
 categories: [2024 post election]
 date: 2024-11-16 11:25 AM
-excerpt: ''
+excerpt: "Donald Trump, having embraced the idea of privatizing veterans' health care, wants Hegseth to replace David Shulkin as his secretary of Veterans Affairs."
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:

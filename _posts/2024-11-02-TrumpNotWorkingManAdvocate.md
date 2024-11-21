@@ -3,7 +3,7 @@ layout: post
 tags: [Donald Trump,  economics, working-class,  politics]
 categories: [2024 presidential election]
 date: 2024-11-02 9:06 AM
-excerpt: ''
+excerpt: 'Continue to reduce the civil service, meaning the nonpolitical federal employees whom he collectively calls “the Deep State”.'
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
@@ -37,4 +37,4 @@ Story by Eli Hager. November 2, 2024.
 15. Shrinking Job Corps and cutting funding for work-training programs — which help people get off of government assistance — nearly in half.
 16. Restricting the collective bargaining rights of unions, through which workers fight for better wages and working conditions.
 17. Trump also never gave up on his goal of dismantling the Affordable Care Act.
-18. Continue to reduce the civil service, meaning the nonpolitical federal employees whom he collectively calls “the Deep State.
+18. Continue to reduce the civil service, meaning the nonpolitical federal employees whom he collectively calls “the Deep State”.

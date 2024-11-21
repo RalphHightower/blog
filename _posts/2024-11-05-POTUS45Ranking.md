@@ -3,7 +3,7 @@ layout: post
 tags: [Donald Trump, president ranking, history, politics]
 categories: [presidential ranking]
 date: 2024-11-05 8:57 AM
-excerpt: ''
+excerpt: 'Interestingly, Donald Trump ranks dead last in the category of Moral Authority. Overall, Trump ranks 41 of 44, above Franklin Pierce (42),  Andrew Johnson (43), and James Buchanan (44).'
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:

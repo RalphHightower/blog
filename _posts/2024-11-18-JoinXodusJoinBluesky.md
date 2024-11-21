@@ -3,7 +3,7 @@ layout: post
 tags: [Bluesky, X/Twitter, social media, Jack Dorsey, Elon Musk]
 categories: [Bluesky]
 date: 2024-11-18 9:58 AM
-excerpt: ''
+excerpt: 'Millions of users have joined the social media platform Bluesky in the wake of the US presidential election.'
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
