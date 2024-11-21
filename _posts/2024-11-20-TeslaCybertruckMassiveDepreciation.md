@@ -3,7 +3,7 @@ layout: post
 tags: [Cybertruck, electric vehicle, Elon Musk, massive depreciation, urban cowboys]
 categories: [Tesla]
 #date: 2019-06-25 13:14:15
-#excerpt: ''
+#excerpt: "With a depreciation rate of over 100% in three months, the Cybertruck's loss in value tops the rate for the Maserati Quattroporte, which had a rate of 64.5% over five years. The first-generation Nissan Leaf's rate was also higher with a 72% loss after five years. That doesn't look too good for Tesla."
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
@@ -32,7 +32,8 @@ That would mean a price cut of $206,999 from what he originally paid. The EV onl
 
 Despite a clean CARFAX report, the accelerated depreciation caught up with the buyer quickly.
 
-That means the Cybertruck depreciated the quickest
+### That means the Cybertruck depreciated the quickest
+
 Before Cybertrucks were delivered to buyers, Tesla included a clause in the contract to prevent people from buying one and selling it for more money after the first year. Tesla eventually did away with the rule, but it didn't stop people from trying.
 
 With a depreciation rate of over 100% in three months, the Cybertruck's loss in value tops the rate for the Maserati Quattroporte, which had a rate of 64.5% over five years. The first-generation Nissan Leaf's rate was also higher with a 72% loss after five years. That doesn't look too good for Tesla.
