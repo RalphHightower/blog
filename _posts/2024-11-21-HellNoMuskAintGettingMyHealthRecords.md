@@ -11,7 +11,7 @@ title: "Hell No! Elon Ain't Getting My Medical Data!"
 ---
 
 
-## Elon Musk asked people to upload their medical data to X so his AI company could learn to interpret MRIs and CT scans](https://fortune.com/2024/11/20/elon-musk-x-user-medical-information-privacy-ai-grok/)
+## [Elon Musk asked people to upload their medical data to X so his AI company could learn to interpret MRIs and CT scans](https://fortune.com/2024/11/20/elon-musk-x-user-medical-information-privacy-ai-grok/)
 
 Story by Sasha Rogelberg. November 20, 2024.
 
