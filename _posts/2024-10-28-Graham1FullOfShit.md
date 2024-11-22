@@ -7,7 +7,7 @@ excerpt: "Kelly’s undermining a concept that's been good for America. I think 
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: 'Bless His Heart: Sen. Lindsey Graham (T-SC) Is Full Od Shit!'
+title: 'Bless His Heart: Sen. Lindsey Graham (T-SC) Is Full Of Shit!'
 ---
 
 
