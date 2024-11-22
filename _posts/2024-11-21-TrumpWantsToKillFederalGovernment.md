@@ -3,7 +3,7 @@ layout: post
 tags: [Donald Trump, president-elect, federal government, king]
 categories: [2024 post election]
 date: 2024-11-21 7:28 PM
-#lexcerpt: 'If Trump successfully pushed for the elimination of that law, he could gain unilateral power to defund vast swaths of the federal government, refuse to dole out foreign aid, or withhold federal funds to pressure others to bend to his will.'
+excerpt: 'If Trump successfully pushed for the elimination of that law, he could gain unilateral power to defund vast swaths of the federal government, refuse to dole out foreign aid, or withhold federal funds to pressure others to bend to his will.'
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
