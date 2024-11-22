@@ -3,7 +3,7 @@ layout: post
 tags: [Donald Trump, Angela Merkel, United States, Germany, politics]
 categories: [2024 post election]
 date: 2024-11-22 9:06 AM
-excerpt: '“The more people there were in the room, the greater was his urge to be the winner. You can't chat with him. Every meeting is a competition: you or me.” – Angela Merkel, former German chancellor through four presidents.'
+excerpt: "“The more people there were in the room, the greater was his urge to be the winner. You can't chat with him. Every meeting is a competition: you or me.” – Angela Merkel, former German chancellor through four presidents."
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
