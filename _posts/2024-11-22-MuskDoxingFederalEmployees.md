@@ -7,7 +7,7 @@ excerpt: "“These tactics are aimed at sowing terror and fear at federal employ
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: 'Elon Musk is Doxing Federal Employees. Musk Terminated @ElonJet for Dox8ng.'
+title: 'Elon Musk is Doxing Federal Employees. Musk Terminated @ElonJet for Doxing.'
 ---
 
 
@@ -84,31 +84,4 @@ A representative of the “datahazard” X account, who didn’t give a name, sa
 
 LinkedIn and Facebook pages for Thomas, who lives in the Seattle area, were no longer live as of Wednesday.
 
-[^1]:  [doz – Merriam-Webster's definition:](http://www.merriam-webster.com/dictionary/dox)<br />
-verb<br />
-\ ˈdäks  \<br />
-variants: or doxx<br />
-doxed or doxxed; dox​ing or dox​xing; dox​es or dox​xes<br />
-Definition<br />
-transitive ​verb<br />
-informal<br />
-: to publicly identify or publish private information about (someone) especially as a form of punishment or revenge<br />
-//… Facebook, like other platforms, wants to prevent users from being doxed or otherwise targeted for harassment …<br />
-— Karissa Bell<br />
-//On general principles, I support Internet anonymity and look askance at people's efforts to "out" or "dox" anonymous Web commenters whose views they disagree with, much less for simple sport.<br />
-— Damon Poeter<br />
-//This isn't the first time the LAPD has been doxxed. In 2011, a group affiliated with the online hackers Anonymous claimed responsibility for posting personal information of more than 40 officers, including their home addresses, campaign contributions, property records, and names of family members after they claimed the LAPD oppressed them by shutting down the Occupy L.A. Movement.<br />
-— Christine Pelisek<br />
-Other Words<br />
-doxing or doxxing noun, plural dox​ings or dox​xings informal<br />
-//They were doxed when an anonymous Wikipedia user edited their pages. The information was quickly removed after the doxing was discovered and aides contacted authorities.<br />
-— Alex Horton and Reis Thebault<br />
-//… "doxxing"—the term used for the troll harassment technique of finding and then posting a user's sensitive personal information, including addresses, phone numbers, and even Social Security numbers.<br />
-— Harry Bruinius<br />
-//The Bergen County Prosecutor's Office Cyber Crimes Unit began investigating a pattern of doxxings and harassing phone calls that targeted the employees, authorities said.<br />
-— Chris Sheldon<br />
-First Known Use<br />
-2009, in the meaning defined above<br />
-History and Etymology<br />
-respelling of docs, plural of doc (short for document entry 1), verbal derivative based on earlier dropping docs, doc-dropping, etc., describing the same act<br />
-<br />
+[^1]:  [dox – Merriam-Webster's definition:](http://www.merriam-webster.com/dictionary/dox)<br />verb<br />\ ˈdäks  \<br />variants: or doxx<br />doxed or doxxed; dox​ing or dox​xing; dox​es or dox​xes<br />Definition<br />transitive ​verb<br />informal<br />: to publicly identify or publish private information about (someone) especially as a form of punishment or revenge<br />//… Facebook, like other platforms, wants to prevent users from being doxed or otherwise targeted for harassment …<br />— Karissa Bell<br />//On general principles, I support Internet anonymity and look askance at people's efforts to "out" or "dox" anonymous Web commenters whose views they disagree with, much less for simple sport.<br />— Damon Poeter<br />//This isn't the first time the LAPD has been doxxed. In 2011, a group affiliated with the online hackers Anonymous claimed responsibility for posting personal information of more than 40 officers, including their home addresses, campaign contributions, property records, and names of family members after they claimed the LAPD oppressed them by shutting down the Occupy L.A. Movement.<br />— Christine Pelisek<br />Other Words<br />doxing or doxxing noun, plural dox​ings or dox​xings informal<br />//They were doxed when an anonymous Wikipedia user edited their pages. The information was quickly removed after the doxing was discovered and aides contacted authorities.<br />— Alex Horton and Reis Thebault<br />//… "doxxing"—the term used for the troll harassment technique of finding and then posting a user's sensitive personal information, including addresses, phone numbers, and even Social Security numbers.<br />— Harry Bruinius<br />//The Bergen County Prosecutor's Office Cyber Crimes Unit began investigating a pattern of doxxings and harassing phone calls that targeted the employees, authorities said.<br />— Chris Sheldon<br />First Known Use<br />2009, in the meaning defined above<br />History and Etymology<br />respelling of docs, plural of doc (short for document entry 1), verbal derivative based on earlier dropping docs, doc-dropping, etc., describing the same act
