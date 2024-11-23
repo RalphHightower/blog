@@ -3,7 +3,7 @@ layout: post
 tags: [gravity well, oceanography, geology]
 categories: [Earth science]
 date: 2024-11-23 4:10 PM
-excerpt: 'The Indian Ocean "gravity hole" is the site of the deepest dent in Earth's gravitational field. It's a circular ocean region with a gravitational pull that's so weak, sea levels are 348 feet (106 meters) lower there than elsewhere on Earth. Discovered in 1948, the origins of this giant gravity hole — or geoid low, as it is technically called — remained a mystery until recently.'
+excerpt: "The Indian Ocean “gravity hole” is the site of the deepest dent in Earth's gravitational field. It's a circular ocean region with a gravitational pull that's so weak, sea levels are 348 feet (106 meters) lower there than elsewhere on Earth. Discovered in 1948, the origins of this giant gravity hole — or geoid low, as it is technically called — remained a mystery until recently."
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
