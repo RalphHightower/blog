@@ -7,7 +7,7 @@ excerpt: "“There is no greater advocate for a free and fair press than Donald 
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: 'New Trump Press Secretary 
+title: 'New Trump Press Secretary Starts Off With Bold Lies – No Difference From Lies of the Past'
 ---
 
 
