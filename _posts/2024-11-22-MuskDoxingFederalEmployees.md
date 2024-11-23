@@ -7,7 +7,7 @@ excerpt: "“These tactics are aimed at sowing terror and fear at federal employ
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: 'Elon Musk is Doxing Federal Employees. Musk Terminated @ElonJet for Doxong.'
+title: 'Elon Musk is Doxing Federal Employees. Musk Terminated @ElonJet for Dox8ng.'
 ---
 
 
