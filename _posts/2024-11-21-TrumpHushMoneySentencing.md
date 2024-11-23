@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: [Donald Trump, Stormy Daniels, guilty, New York, hush money, politics]
-categories: [2024 post election]
+categories: [2024 post election, presidential act]
 date: 2024-11-21 1:55 PM
 excerpt: 'Among other penalties, he faces as little as no time in jail, and as much as four years in prison, though former New York City judges have said it is highly unlikely that a septuagenarian first-time offender would get any jail time on a nonviolent, low-level felony. Any sentence would almost certainly be placed on hold while he appeals, the former judges also said.'
 #image: 'BASEURL/assets/blog/img/.png'

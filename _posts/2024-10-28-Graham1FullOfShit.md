@@ -35,6 +35,3 @@ In fact, former House Republican Conference Chair Liz Cheney has held some publi
 “Well, don’t listen to [Lindsey Graham (T-SC)](https://www.lgraham.senate.gov/),” Cheney responded. “It’s good life advice, actually.”
 
 It was a funny line, and it generated some applause from the audience, but that’s not all Cheney has had to say on the matter. In fact, at the same event, Cheney also said, “If you wouldn’t ... hire somebody to babysit your kids, you shouldn’t make that guy president of the United States. In this election, we need to elect the person who is the responsible adult.” – Liz Cheney (R-WY)
-
-
-

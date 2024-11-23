@@ -22,7 +22,7 @@ Story by Natalie Venegas. November 16, 2024.
 
 Following this year's presidential election, billionaire [Elon Musk](https://x.com/elonmusk) has said there will be "consequences" for those who "pushed foreign interference hoaxes" in a post on his social media platform, which sparked backlash on Saturday.
 
-President-elect [Donald Trump](https://x.com/realdonaldtrump) announced on Tuesday that the founder of Tesla and SpaceX would lead what he called the "Department of Government Efficiency" or (DOGE), along with entrepreneur [Vivek Ramaswamy](https://x.com/vivekgramaswamy), to "dismantle Government Bureaucracy, slash excess regulations, cut wasteful expenditures, and restructure Federal Agencies."
+President-elect [Donald Trump](https://x.com/realdonaldtrump) announced on Tuesday that the founder of Tesla and SpaceX would lead what he called the "Department of Government Efficiency" or (DOGE), along with entrepreneur [Vivek Ramaswamy](https://x.com/vivekgramaswamy)](https://x.com/vivekgramaswamy), to "dismantle Government Bureaucracy, slash excess regulations, cut wasteful expenditures, and restructure Federal Agencies."
 
 No such department exists and the president-elect didn't offer many details about how it would operate or how it would be staffed, if at all. [Trump](https://x.com/realdonaldtrump)'s statement said DOGE "will provide advice and guidance from outside of Government, and will partner with the White House and Office of Management & Budget."
 
