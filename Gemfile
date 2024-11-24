@@ -11,7 +11,7 @@ source 'https://rubygems.org'
 # Happy Jekylling!
 
 gem 'jekyll', '~> 4.3', '>= 4.3.4'
-gem 'kramdown', '~> 2.4'
+gem 'kramdown', '~> 2.5', '>= 2.5.1'
 gem 'sassc-embedded', '~> 1.78'
 gem 'rake', '~> 13.2', '>= 13.2.1'
 gem 'minima', '~> 2.5', '>= 2.5.2'
