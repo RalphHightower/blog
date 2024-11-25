@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: [military court martial, Afghanistan withdrawal, fuck-up, Taliban negotiation]
-categories: [president-elect Donald Trump]
+categories: [Donald Trump]
 date: 2024-11-24 7:55 PM
 excerpt: 'Officials working on the transition are considering creating a commission to investigate the 2021 withdrawal from Afghanistan, including gathering information about who was directly involved in the decision-making for the military, how it was carried out and whether the military leaders could be eligible for charges as serious as treason, the two sources said.'
 #image: 'BASEURL/assets/blog/img/.png'
@@ -15,7 +15,8 @@ title: 'The Trump Blame Game: Trump Plans Trumped-Up Court Martials for Fucked U
 
 The Trump withdrawal plan that he approved with the Taliban called for a May 2021 withdrawal would've been a fuck-up if Trump had been president; instead President Joe Biden delayed the withdrawal until August 2021. The Afghan military folded like a stack of cards.
 
-![Donny Trump with Parents at Boarding High School](https://ralphhightower.github.io/blog/img/5852ccc8dd0895cb558b4e99.jpeg)
+![Donny Trump with Parents at Boarding High School](https://ralphhightower.github.io/blog/img/DonnyTrumpParentsVisitNYBoardingSchool.jpeg)
+
 ### Donny Trump With His Parents Visit to Boarding School
 
 #### [Donald Trump: Military School Felt Like Serving in the Military](https://people.com/politics/donald-trump-military-school-felt-like-serving-in-the-military/)
