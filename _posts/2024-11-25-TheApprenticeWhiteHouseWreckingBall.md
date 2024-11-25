@@ -7,7 +7,7 @@ excerpt: "DOGE’s agenda threatens to upend federal governance, from environmen
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: 'The Apprentice: White House – Wrecking Ball"
+title: "The Apprentice: White House – Wrecking Ball"
 ---
 
 
