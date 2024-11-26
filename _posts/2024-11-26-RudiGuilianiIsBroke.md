@@ -3,7 +3,7 @@ layout: post
 tags: [Donald Trump, politics, stop the steal, Georgia election officials defamation lawsuit]
 categories: [Rudy Giuliani]
 date: 2024-11-26 3:29 PM
-excerpt: "“Your implication that I’ve not been diligent about it is totally incorrect, Everything I have is tied up. I don’t have a car. I don’t have a credit card. I don’t have cash. I can’t get to bank accounts that truly would be mine because they have put stop orders on, for example, my Social Security account. … I don’t have a penny, and it’s been tied up by them.”Your implication that I’ve not been diligent about it is totally incorrect, Everything I have is tied up. I don’t have a car. I don’t have a credit card. I don’t have cash. I can’t get to bank accounts that truly would be mine because they have put stop orders on, for example, my Social Security account. … I don’t have a penny, and it’s been tied up by them.”"
+excerpt: "“Your implication that I’ve not been diligent about it is totally incorrect. Everything I have is tied up. I don’t have a car. I don’t have a credit card. I don’t have cash. I can’t get to bank accounts that truly would be mine because they have put stop orders on, for example, my Social Security account. … I don’t have a penny, and it’s been tied up by them.”"
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
