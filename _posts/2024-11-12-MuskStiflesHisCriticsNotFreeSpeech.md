@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [First Amendment, Free Speech, X-Twitter, Elon Musk, social media, politics]
+tags: [First Amendment, Free Speech, X-Twitter, Elon Musk, social media, politics, Tesla, National Highway Traffic Safety Administration (NHTSA)]
 categories: [Elon Musk]
 date: 2024-11-12 5:08 PM
 excerpt: "“Elon Musk is an incredibly thin-skinned man who’s incapable of taking honest criticism, even when based on verifiable facts, and has already weaponized courts to try and punish his perceived enemies. We live in a country of checks and balances, and we have faith in our judicial system and in the freedoms afforded to us by the Constitution,” Ahmed said."

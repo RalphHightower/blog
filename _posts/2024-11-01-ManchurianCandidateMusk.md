@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [Elon Musk, Vladimir Putin, national security risk, politics]
+tags: [Elon Musk, Vladimir Putin, national security risk, politics, Tesla, National Highway Traffic Safety Administration (NHTSA), Federal Aviation Administration (FAA), NASA, Federal Communications Commission (FCC), Starlink]
 categories: [2024 presidential election]
 date: 2024-11-01 9:44 AM
 excerpt: '“The policy of the U.S. government is to try to isolate Vladimir Putin, and Elon Musk is directly undercutting that. What is Putin doing with Musk? Putin is trying to reduce his international isolation and impact American foreign policy.” – Bradley Bowman, a former West Point assistant professor who is now senior director of the Center on Military and Political Power at the Foundation for Defense of Democracies'
@@ -13,7 +13,7 @@ title: 'The Manchurian Candidate Musk: Engaging In Talks With Putin, As Has Trum
 
 ## [Here's a look at Musk's contact with Putin and why it matters / AP News](https://apnews.com/article/musk-putin-x-trump-tesla-election-russia-9cecb7cb0f23ccce49336771280ae179)
 
-By  DAVID KLEPPER and LISA MASCARO
+By DAVID KLEPPER and LISA MASCARO
 Updated 5:35 PM EDT, October 25, 2024
 
 - **Musk-Putin Contacts**: Elon Musk has been in regular contact with Russian President Vladimir Putin over the past two years, discussing personal matters, business, and geopolitics.
@@ -26,31 +26,31 @@ Musk owns the following:
 - SpaceX. National security risk as a major government contractor supplying [NASA](https://www.nasa.gov/) with launch services and crew flights to the [International Space Station - NASA](https://www.nasa.gov/international-space-station/).
 - Starlink. Satellite constellation proving communication and internet services.
 - X/Twitter. A social media network that has become:
-    - Propaganda machine for Trump;
-    - Russian outlet for election misinformation, myths to influence the outcome of the 2024 presidential election;
-    - Conspiracy nutjobs such as [@MTG](https://greene.house.gov), conspiracy theories;
-    - cesspool of bigotry and hate speech.
+  - Propaganda machine for Trump;
+  - Russian outlet for election misinformation, myths to influence the outcome of the 2024 presidential election;
+  - Conspiracy nutjobs such as [@MTG](https://greene.house.gov), conspiracy theories;
+  - cesspool of bigotry and hate speech.
 
 Musk's Foreign Influencers:
 
 - Presents a national security risk, given his companies’ work for the government
 - X/Twitter:
-    - has provided Russian a method to interfere with American politics,m
-    - conspiracy theories
-    - source for the far right
+  - has provided Russian a method to interfere with American politics,m
+  - conspiracy theories
+  - source for the far right
 - dumped millions of dollars into Trump’s campaign
 - During one call, Putin asked Musk not to activate his Starlink satellite system over Taiwan as a favor for Chinese President Xi Jinping, whose ties to Putin have grown closer. The request from Putin on Starlink as a favor to China is likely to get attention, given U.S. support for Taiwan and concerns about the growing partnership between the Kremlin and Beijing.
 - On Ukraine:
-    - Musk’s views have shifted since he initially supported Kyiv following Russia’s 2022 invasion
-    - provided it with his Starlink system for communications.
-    - Musk then refused to allow Ukraine in 2023 to use Starlink for a surprise attack on Russian soldiers in Crimea.
-    - also floated a peace proposal that would have required Ukraine to drop plans for NATO membership
-    - given Russia permanent control of Crimea, which it seized in 2014. The plan infuriated Ukrainian leaders.
-    - Last year, Musk mocked Ukrainian President Volodymyr Zelenskyy’s request for aid
-    - said in February that Ukraine couldn’t win the war.
+  - Musk’s views have shifted since he initially supported Kyiv following Russia’s 2022 invasion
+  - provided it with his Starlink system for communications.
+  - Musk then refused to allow Ukraine in 2023 to use Starlink for a surprise attack on Russian soldiers in Crimea.
+  - also floated a peace proposal that would have required Ukraine to drop plans for NATO membership
+  - given Russia permanent control of Crimea, which it seized in 2014. The plan infuriated Ukrainian leaders.
+  - Last year, Musk mocked Ukrainian President Volodymyr Zelenskyy’s request for aid
+  - said in February that Ukraine couldn’t win the war.
 - China:
-    - Tesla operates Gigafactory Shanghai, has developed a close relationship with China’s leaders. His remarks about China have been friendly.
-    - He has suggested Taiwan cede some control to Beijing by becoming a special administrative region.
+  - Tesla operates Gigafactory Shanghai, has developed a close relationship with China’s leaders. His remarks about China have been friendly.
+  - He has suggested Taiwan cede some control to Beijing by becoming a special administrative region.
 
 Trump:
 
@@ -77,7 +77,7 @@ Moscow has growing ties to other American adversaries. The U.S. has accused Russ
 “The policy of the U.S. government is to try to isolate Vladimir Putin, and Elon Musk is directly undercutting that. What is Putin doing with Musk? Putin is trying to reduce his international isolation and impact American foreign policy.”
  Bowman said.
 
-Trump campaign press secretary Karoline Leavitt called Musk “a once-in-a-generation industry leader” whose ideas could benefit “our broken federal bureaucracy[^51]. As for Putin, there’s only one candidate in the race that he did not invade another country under, and it’s President Trump  President Trump has long said that he will re-establish his peace through strength foreign policy to deter Russia’s aggression and end the war in Ukraine.”
+Trump campaign press secretary Karoline Leavitt called Musk “a once-in-a-generation industry leader” whose ideas could benefit “our broken federal bureaucracy[^51]. As for Putin, there’s only one candidate in the race that he did not invade another country under, and it’s President Trump President Trump has long said that he will re-establish his peace through strength foreign policy to deter Russia’s aggression and end the war in Ukraine.”
 
 [^51]: Elon Musk, as self-declared "nona-manager", has no inside experience with government.
 

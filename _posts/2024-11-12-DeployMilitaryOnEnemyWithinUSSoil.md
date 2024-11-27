@@ -1,7 +1,7 @@
 ---
 layout: post
-tags: [enemy within, deploy military on US citizens, video, politics, Donald Trump]
-categories: [2024 post election]
+tags: [enemy within, deploy military on US citizens, video, politics]
+categories: [Donald Trump]
 date: 2024-11-12 2:35 PM
 excerpt: 'The Associated Press had a related report on this, taking stock of the bigger picture: “During his first term as president, Donald Trump tested the limits of how he could use the military to achieve policy goals. If given a second term, the Republican and his allies are preparing to go much further, reimagining the military as an all-powerful tool to deploy on U.S. soil.”'
 #image: 'BASEURL/assets/blog/img/.png'

@@ -1,7 +1,7 @@
 ---
 layout: post
-tags: [Donald Trump, revenge, enemy within, wacky ideas, conspiracy theories, politics]
-categories: [2024 post election]
+tags: [revenge, enemy within, wacky ideas, conspiracy theories, politics]
+categories: [Donald Trump]
 date: 2024-11-11 8:27 PM
 excerpt: "He has suggested potential prosecutions of many dozens of political foes. He tried to target his political foes plenty in his first term — often privately and without the investigations leading to charges. He might be less burdened by the propriety of that this time around. Trump has regularly claimed that the Biden administration is behind his own criminal prosecutions, even as there’s no evidence of political influence. He says he has “every right” to seek prosecutions himself."
 #image: 'BASEURL/assets/blog/img/.png'

@@ -1,7 +1,7 @@
 ---
 layout: post
-tags: [Donald Trump, military deployment US soil, politics]
-categories: [2024 post election]
+tags: [military deployment US soil, politics]
+categories: [Donald Trump]
 date: 2024-11-18 5:16 PM
 excerpt: 'There will certainly be a price tag, however, and it will be high given the logistical implications of removing millions of people from the nation.'
 #image: 'BASEURL/assets/blog/img/.png'

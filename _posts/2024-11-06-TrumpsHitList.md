@@ -1,7 +1,7 @@
 ---
 layout: post
-tags: [Donald Trump, revenge, retribution, political enemies, politics]
-categories: [2024 post election]
+tags: [revenge, retribution, political enemies, politics]
+categories: [Donald Trump]
 date: 2024-11-06 10:53 AM
 excerpt: "Many Trump supporters dismissed the threats as campaign rhetoric aimed at whipping up his base. They noted that his exhortations against his enemies only rarely led to action during his first four years in office. But others — including some of Trump’s closest advisers — have warned ominously that he’s far more likely to follow through in a second term. He won’t be inhibited by the need to run for reelection. He will be emboldened by a Supreme Court ruling that grants presidents broad immunity from criminal accountability after they leave office. And he is expected to be surrounded by aides more willing to dispense with norms to carry out his wishes. @RalphHightower: Trump does not like being told that his idea is wrong, or worse, stupid. His advisers will be staffed with sycophants, brown nosers, ass kissers, boot lickers, and acolytes, yes men."
 

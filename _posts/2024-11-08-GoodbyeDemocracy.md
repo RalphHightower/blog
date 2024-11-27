@@ -1,7 +1,7 @@
 ---
 layout: post
-tags: [Donald Trump, autocracy, kleptocracy, united states, politics]
-categories: [2024 post election]
+tags: [autocracy, kleptocracy, united states, politics]
+categories: [Donald Trump]
 date: 2024-11-08 3:47 PM
 excerpt: "In 2016, we could all pretend that Trump was an aberration. Not this time. People knew exactly what they were voting for. Democracy just isn’t that high on the list of priorities. The likely chaos of the last two years of Trump’s upcoming term may become fertile ground for a populist demagogue. A billionaire who flouts the laws that apply to everyone else and hands out pardons and special deals to his cronies while ordinary people suffer is a tempting foil if you want to whip up popular anger. For 250 years we have had this quaint notion that democracy was an end in itself. But all good autocrats know that democracy is just a tool to be discarded when it’s no longer useful."
 #image: 'BASEURL/assets/blog/img/.png'
