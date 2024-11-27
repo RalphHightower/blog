@@ -2,12 +2,12 @@
 layout: post
 tags: [Elon Musk, Vivek Ramaswamy, Department of Government Efficiency (DOGE), federal agencies, government service, Tesla, National Highway Traffic Safety Administration (NHTSA), Federal Communications Commission (FCC), Federal Aviation Administration (FAA)]
 categories: [Donald Trump]
-date: 2024-11-25 11:00
+date: 2024-11-25 11:00 PM
 excerpt: "DOGE’s agenda threatens to upend federal governance, from environmental protections to public health programs. Critics warn that the commission’s proposals prioritize corporate profits and austerity over the public good, risking long-term harm to the nation’s social fabric. Based on Elon Musk’s comments, the so-called Department of Government Efficiency is poised to make far-reaching recommendations that could have a devastating impact on Americans and enormously benefit insiders, starting with Musk himself."
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: 'The Apprentice: White House – Wrecking Ball"
+title: 'The Apprentice: White House – Wrecking Ball'
 ---
 
 
