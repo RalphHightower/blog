@@ -1,7 +1,7 @@
 ---
 layout: post
-tags: [Donald Trump, Elon Musk, Mary Trump, politics, video]
-categories: [2024 post election]
+tags: [Elon Musk, Mary Trump, politics, video]
+categories: [Donald Trump]
 date: 2024-11-19 9:25 AM
 excerpt: "Mary Trump reveals how Donald's alliance with Elon Musk is already falling apart, as the billionaire's ego clashes with Trump's transition team. Watch as world leaders tell Musk to “fuck off,” while Trump's cabinet picks face serious allegations and ethics investigations. The honeymoon phase didn't last long."
 #image: 'BASEURL/assets/blog/img/.png'

@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [X/Twitter, false flag, conspiracy theories, social media, politics]
+tags: [X/Twitter, false flag, conspiracy theories, social media, politics, Tesla, National Highway Traffic Safety Administration (NHTSA)]
 categories: [Elon Musk]
 date: 2024-11-16 3:27 PM
 excerpt: '"There will be consequences for those who pushed foreign interference hoaxes. The Hammer of Justice is coming." Elon Musk wrote on Saturday, who perpetuated hoaxes and conspiracies.'

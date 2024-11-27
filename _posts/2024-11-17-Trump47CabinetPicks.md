@@ -1,7 +1,7 @@
 ---
 layout: post
-tags: [Donald Trump, Kristi Noem, Lee Zeldin, Elise Stefanik, Matt Gaetz,  Colin Jost, Michael Che, Weekend Update, Saturday Night Live, politics, video, cabinet picks]
-categories: [2024 post election]
+tags: [Kristi Noem, Lee Zeldin, Elise Stefanik, Matt Gaetz,  Colin Jost, Michael Che, Weekend Update, Saturday Night Live, politics, video, cabinet picks]
+categories: [Donald Trump]
 date: 2024-11-17 1:49 PM
 excerpt: "“Trump nominated Kristi Noem to lead the Department of Homeland Security, Lee Zeldin to head the EPA and Elise Stefanik as ambassador to the U.N. and then someone yelled, ‘Now do a silly one. And Gaetz said the same thing he does when he sees a teenage girl, ‘I’ll do it,’”"
 #image: 'BASEURL/assets/blog/img/.png'

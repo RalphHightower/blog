@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [Donald Trump, Environmental Protection Agency (EPA), Texas Commission on Environmental Quality (TCEQ), Austin Water, Austin Texas, politics, Tesla, SpaceX, Department of Government Efficiency (DOGE), Bay Area Air Quality Management District, Clean Air Act, Clean Water Act, Gigafactory ]
+tags: [Donald Trump, Environmental Protection Agency (EPA), Texas Commission on Environmental Quality (TCEQ), Austin Water, Austin Texas, politics, Tesla, SpaceX, Department of Government Efficiency (DOGE), Bay Area Air Quality Management District, Clean Air Act, Clean Water Act, Gigafactory, National Highway Traffic Safety Administration (NHTSA)]
 categories: [Elon Musk]
 date: 2024-11-25 1:29 PM
 excerpt: "A Journal investigation shows that Tesla bosses were aware of the problems but sometimes chose short-term fixes to avoid slowing production. Former employees said they feared they might lose their job if they drew attention internally to potential environmental hazards, because senior managers didn’t consider such issues to be mission critical. As head of the company, Musk set the tone, these people said, pushing employees to move fast and complaining frequently in public statements that unnecessary regulations are strangling the U.S."

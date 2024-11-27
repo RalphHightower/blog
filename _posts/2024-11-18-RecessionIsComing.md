@@ -1,7 +1,7 @@
 ---
 layout: post
-tags: [Donald Trump, president-elect, recession, economy, politics, video]
-categories: [2024 post election]
+tags: [president-elect, recession, economy, politics, video]
+categories: [Donald Trump]
 date: 2024-11-18 4:37 PM
 excerpt: '"My view is that the economy is going to continue to slow down and probably will experience a recession next year," Hanke said.'
 #image: 'BASEURL/assets/blog/img/.png'

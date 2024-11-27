@@ -1,7 +1,7 @@
 ---
 layout: post
-tags: [Elon Musk, Vivek Ramaswamy, sycophants, politics, 2025 Trump Administration, Department Of Government Efficiency, Donald Trump]
-categories: [2024 post election]
+tags: [Elon Musk, Vivek Ramaswamy, sycophants, politics, 2025 Trump Administration, Department Of Government Efficiency]
+categories: [Donald Trump]
 date: 2024-11-15 11:06 AM
 excerpt: "Social media users were quick to point out some of the programs that received funding despite lacking current Congressional authorization. One is the Veterans’ Health Care Eligibility Reform Act of 1996, which helps provide funding for veterans’ medical care. The authorization expired in 1998, but still receives about $120 billion in funding. It was hardly the only notable agency that could see a funding stream tried up. Others included a bill that helped NASA and the International Space Station."
 #image: 'BASEURL/assets/blog/img/.png'

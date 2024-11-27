@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [Donald Trump, Elon Musk, oligarch, politics]
+tags: [Donald Trump, Elon Musk, oligarch, politics, Tesla, National Highway Traffic Safety Administration (NHTSA), SpaceX, Federal Aviation Administration (FAA), NASA, Federal Communications Commission (FCC), Starlink]
 categories: [2024 presidential election]
 date: 2024-09-13 5:10 PM
 excerpt: "Musk is the latest example of a totally gearheaded, engineering-brained, Silicon Valley guy who looks at government and says ‘How hard can it be? Let me at it and I can solve it for you.' There’s been many of these characters before, and he’s just the latest."
@@ -20,7 +20,7 @@ September 8, 2024
 
 Former President [Donald Trump's](https://x.com/realdonaldtrump) plan to have [Elon Musk](https://x.com/elonmusk) lead a government efficiency commission would vault the world’s richest man to an unprecedented role: American oligarch.
 
-The details of the commission and [Musk's](https://x.com/elonmusk) involvement are still vague, but any formal role in government would give greater influence to the billionaire owner of Tesla, Space X, satellite company Starlink and the social media platform X — signature ventures that have benefited from federal contracts, tax credits and government incentives.
+The details of the commission and [Musk's](https://x.com/elonmusk) involvement are still vague, but any formal role in government would give greater influence to the billionaire owner of Tesla, SpaceX, satellite company Starlink and the social media platform X — signature ventures that have benefited from federal contracts, tax credits and government incentives.
 
 “This is like red lights blaring, all kinds of conflicts of interest,” said Danielle Brian, president of the Project on Government Oversight.
 Beyond the possible competing interests, [Musk](https://x.com/elonmusk)’s potential foray into government would represent a striking development for the tech titan, who would essentially have a role at the highest levels of business, manufacturing, media and Washington.

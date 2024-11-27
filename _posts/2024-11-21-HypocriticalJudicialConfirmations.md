@@ -1,7 +1,7 @@
 ---
 layout: post
-tags: [Joe Biden, judge confirmations, Charles (Chuck) Schumer, John Thune, Senate, Donald Trump, politics]
-categories: [2024 post election]
+tags: [Joe Biden, judge confirmations, Charles (Chuck) Schumer, John Thune, Senate, politics]
+categories: [Donald Trump]
 date: 2024-11-21 12:23 PM
 excerpt: '“I want to thank the majority leader for making judicial confirmations such a priority. And I look forward to confirming more outstanding judicial nominees this week.” — Thune, in a statement on the Senate floor, Nov. 18, 2020. — FOUR YEARS LATER — “If Sen. Schumer thought Senate Republicans would just roll over and allow him to quickly confirm multiple Biden-appointed judges to lifetime jobs in the final weeks of the Democrat majority, he thought wrong.” — Republican leader John Thune (R-South Dakota), in a statement to Fox News, Nov. 18, 2024.'
 #image: 'BASEURL/assets/blog/img/.png'

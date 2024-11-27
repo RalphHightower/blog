@@ -1,13 +1,13 @@
 ---
 layout: post
-tags: [Elon Musk, Vivek Ramaswamy, Department of Government Efficiency (DOGE), federal agencies, government service]
+tags: [Elon Musk, Vivek Ramaswamy, Department of Government Efficiency (DOGE), federal agencies, government service, Tesla, National Highway Traffic Safety Administration (NHTSA), Federal Communications Commission (FCC), Federal Aviation Administration (FAA)]
 categories: [Donald Trump]
 date: 2024-11-25 11:00
 excerpt: "DOGE’s agenda threatens to upend federal governance, from environmental protections to public health programs. Critics warn that the commission’s proposals prioritize corporate profits and austerity over the public good, risking long-term harm to the nation’s social fabric. Based on Elon Musk’s comments, the so-called Department of Government Efficiency is poised to make far-reaching recommendations that could have a devastating impact on Americans and enormously benefit insiders, starting with Musk himself."
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: "The Apprentice: White House – Wrecking Ball"
+title: 'The Apprentice: White House – Wrecking Ball"
 ---
 
 
@@ -24,7 +24,7 @@ As [Musk](https://x.com/elonmusk) is a fractional CEO[^11] of many companies tha
 
 Even as an unpaid "volunteer to thefederalgovernment,  [Musk](https://x.com/elonmusk) and his companies could benefit financially from the federal government. 
 
-[11]: fractional CEO: while there is a definition meaning a short term CEO as a temporary leader, my definition is since he has a leadership role in many companies, he doesn't have the time to provide leadership for all his companies: X, SpaceX. Starlink, SpaceX  Tesla, Neuralink, Hyperloop, Boring Company, xAI, Solar City, Tesla Energy.
+[11]: fractional CEO: while there is a definition meaning a short term CEO as a temporary leader, my definition is since he has a leadership role in many companies, he doesn't have the time to provide leadership for all his companies: X, SpaceX. Starlink, SpaceX, Tesla, Neuralink, Hyperloop, Boring Company, xAI, Solar City, Tesla Energy.
 
 Trump has not learned a damn thing from his first term as president. JD Vance has less than two years of experience in government. Musk and Ramaswamy have zero experience in government. That’s four imbeciles that will have major repercussions on America for a long time.
 

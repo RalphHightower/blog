@@ -1,7 +1,7 @@
 ---
 layout: post
-tags: [Donald Trump, Elon Musk, kickbacks, political favors, AI, Tesla, H1B Visa, skilled immigrants, electric vehicles, autonomous driving, China, Starlink, politics]
-categories: [2024 post election]
+tags: [Elon Musk, kickbacks, political favors, AI, Tesla, H1B Visa, skilled immigrants, electric vehicles, autonomous driving, China, Starlink, politics, National Highway Traffic Safety Administration (NHTSA), Federal Communications Commission (FCC)]
+categories: [Donald Trump]
 date: 2024-11-10 4:56 PM
 excerpt: "The Tesla CEO played a pivotal role in securing a second Trump presidency. Here’s where he stands on the issues."
 #image: 'BASEURL/assets/blog/img/.png'
