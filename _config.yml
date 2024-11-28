@@ -22,7 +22,7 @@ description: > # This means to ignore newlines until "show_excerpts:"
 
 
 repository: 'RalphHightower/blog'
-url: 'https://ralphhightower.github.io/'
+url: 'https://ralphhightower.github.io'
 baseurl: "blog/"
 timezone: 'America/New_York'
 
