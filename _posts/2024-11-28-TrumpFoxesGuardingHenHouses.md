@@ -37,8 +37,6 @@ Elon Musk is involved in several high-profile companies, either as an owner, maj
 5. **Neuralink**: Musk co-founded Neuralink, a neurotechnology company developing implantable brain–machine interfaces⁶.
 6. **xAI**: This is Musk's artificial intelligence company, launched in 2023, aiming to understand the true nature of the universe⁴.
 
-Musk's involvement in these companies showcases his diverse interests and ambitious goals, from sustainable energy to space exploration and artificial intelligence.
-
 Source: Conversation with Copilot, 11/28/2024
 (1) The Complete List of Elon Musk Companies - Thomasnet. https://www.thomasnet.com/insights/elon-musk-companies/.
 (2) List of Elon Musk Companies: How the Tech Mogul Manages Them All - Observer. https://observer.com/2023/10/elon-musk-companies-key-people/.
@@ -52,8 +50,6 @@ Vivek Ramaswamy is a prominent entrepreneur and investor involved in several com
 
 1. **Roivant Sciences**: Ramaswamy founded this pharmaceutical company in 2014. He was the CEO until 2021 and remained chairman until 2023¹².
 2. **Strive Asset Management**: He co-founded this investment firm in 2022 and serves as the Executive Chairman³⁴.
-
-Ramaswamy's ventures primarily focus on biotechnology and financial services. His leadership in these companies reflects his interest in innovation and investment.
 
 Source: Conversation with Copilot, 11/28/2024
 (1) Vivek Ramaswamy - Wikipedia. https://en.wikipedia.org/wiki/Vivek_Ramaswamy.
