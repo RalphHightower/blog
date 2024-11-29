@@ -60,6 +60,7 @@ Source: Conversation with Copilot, 11/28/2024
 Several federal government agencies have oversight over the companies owned or led by Elon Musk and Vivek Ramaswamy. Here are the key agencies involved:
 
 ### Elon Musk's Companies:
+
 1. **Tesla**:
    - **National Highway Traffic Safety Administration (NHTSA)**: Oversees vehicle safety standards and recalls.
    - **Environmental Protection Agency (EPA)**: Regulates emissions and environmental compliance.
@@ -93,7 +94,15 @@ Several federal government agencies have oversight over the companies owned or l
    - **Department of Commerce**: Oversees technology and innovation policies⁴.
    - **Internal Revenue Service (IRS)**: November person or company is exempt.
 
+7. **Starlink**:
+   - **Federal Aviation Administration (FAA)**: Regulates commercial space launches and reentries
+   - **Federal Trade Commission (FTC)**: Ensures consumer protection and privacy standards.
+   - **Federal Communications Commission (FCC)**: Regulates communications and broadcasting⁴.
+   - **Internal Revenue Service (IRS)**: November person or company is exempt.
+
+
 ### Vivek Ramaswamy's Companies:
+
 1. **Roivant Sciences**:
    - **Food and Drug Administration (FDA)**: Regulates drug development and approval.
    - **Securities and Exchange Commission (SEC)**: Monitors financial disclosures and securities regulations¹.
