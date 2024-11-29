@@ -65,40 +65,40 @@ Several federal government agencies have oversight over the companies owned or l
    - **National Highway Traffic Safety Administration (NHTSA)**: Oversees vehicle safety standards and recalls.
    - **Environmental Protection Agency (EPA)**: Regulates emissions and environmental compliance.
    - **Securities and Exchange Commission (SEC)**: Monitors financial disclosures and securities regulations³.
-   - **Internal Revenue Service (IRS)**: November person or company is exempt.
+   - **Internal Revenue Service (IRS)**: No person or company is exempt.
 
 2. **SpaceX**:
    - **Federal Aviation Administration (FAA)**: Regulates commercial space launches and reentries.
    - **National Aeronautics and Space Administration (NASA)**: Collaborates on space missions and contracts.
    - **Department of Defense (DoD)**: Engages in defense contracts and satellite launches².
    - **Environmental Protection Agency (EPA)**: Regulates emissions and environmental compliance.
-   - **Internal Revenue Service (IRS)**: November person or company is exempt.
+   - **Internal Revenue Service (IRS)**: No person or company is exempt.
 
 3. **X (formerly Twitter)**:
    - **Federal Trade Commission (FTC)**: Ensures consumer protection and privacy standards.
    - **Federal Communications Commission (FCC)**: Regulates communications and broadcasting⁴.
-   - **Internal Revenue Service (IRS)**: November person or company is exempt.
+   - **Internal Revenue Service (IRS)**: No person or company is exempt.
 
 4. **The Boring Company**:
    - **Department of Transportation (DOT)**: Oversees transportation infrastructure projects.
    - **Environmental Protection Agency (EPA)**: Ensures environmental compliance for tunneling projects⁴.
-   - **Internal Revenue Service (IRS)**: November person or company is exempt.
+   - **Internal Revenue Service (IRS)**: No person or company is exempt.
 
 5. **Neuralink**:
    - **Food and Drug Administration (FDA)**: Regulates medical devices and clinical trials.
    - **National Institutes of Health (NIH)**: Provides research funding and oversight⁴.
-   - **Internal Revenue Service (IRS)**: November person or company is exempt.
+   - **Internal Revenue Service (IRS)**: No person or company is exempt.
 
 6. **xAI**:
    - **Federal Trade Commission (FTC)**: Monitors AI ethics and consumer protection.
    - **Department of Commerce**: Oversees technology and innovation policies⁴.
-   - **Internal Revenue Service (IRS)**: November person or company is exempt.
+   - **Internal Revenue Service (IRS)**: No person or company is exempt.
 
 7. **Starlink**:
    - **Federal Aviation Administration (FAA)**: Regulates commercial space launches and reentries
    - **Federal Trade Commission (FTC)**: Ensures consumer protection and privacy standards.
    - **Federal Communications Commission (FCC)**: Regulates communications and broadcasting⁴.
-   - **Internal Revenue Service (IRS)**: November person or company is exempt.
+   - **Internal Revenue Service (IRS)**: No person or company is exempt.
 
 
 ### Vivek Ramaswamy's Companies:
@@ -106,12 +106,12 @@ Several federal government agencies have oversight over the companies owned or l
 1. **Roivant Sciences**:
    - **Food and Drug Administration (FDA)**: Regulates drug development and approval.
    - **Securities and Exchange Commission (SEC)**: Monitors financial disclosures and securities regulations¹.
-   - **Internal Revenue Service (IRS)**: November person or company is exempt.
+   - **Internal Revenue Service (IRS)**: No person or company is exempt.
 
 2. **Strive Asset Management**:
    - **Securities and Exchange Commission (SEC)**: Oversees investment management and compliance.
    - **Department of Labor (DOL)**: Regulates fiduciary responsibilities and retirement plans³.
-   - **Internal Revenue Service (IRS)**: November person or company is exempt.
+   - **Internal Revenue Service (IRS)**: No person or company is exempt.
 
 These agencies ensure that the companies comply with various regulations and standards, from safety and environmental impact to financial transparency and consumer protection.
 
