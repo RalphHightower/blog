@@ -1,16 +1,16 @@
 ---
 layout: post
 tags: [Chernobyl Exclusion Zone (CEZ), University of South Carolina (USC), radiation, genome research, evolution]
-categories: [genetic researchqq]
+categories: [genetic research]
 date: 2024-11-30 12:49 PM
-excerpt: ''mNow, as the explosion reaches its 40th anniversary, biologists decided to take a closer look at the animals located inside the Chernobyl Exclusion Zone (CEZ), whose size can be compared with Yosemite National Park. These biologists investigated how the decades of radiation exposure may have possibly altered these animals' genomes and sped up their evolution.'
+excerpt: "Now, as the explosion reaches its 40th anniversary, biologists decided to take a closer look at the animals located inside the Chernobyl Exclusion Zone (CEZ), whose size can be compared with Yosemite National Park. These biologists investigated how the decades of radiation exposure may have possibly altered these animals' genomes and sped up their evolution."
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
 title: "USC Researcher Studies Feral Dogs in Chernobyl Exclusion Zone on Radiation's Impacts on Genetic Mutations"
 ---
 
-M
+
 ## [Chernobyl's Feral Dogs Offer Clues to Radiation's Role in Evolution](https://www.dogclub.com/p/chernobyls-feral-dogs-offer-clues-to-radiations-role-in-evolution/)
 
 Story by Angela Park. November 29, 2024.
