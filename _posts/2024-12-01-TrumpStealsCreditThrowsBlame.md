@@ -3,7 +3,7 @@ layout: post
 tags: [Mary Trump Media, Donald Trump, Joe Biden, steals credits, blames others for his failures, politics]
 categories: [Donald Trump]
 date: 2019-06-25 13:14:15
-excerpt: 'Watch how Trump shamelessly claims credit for Biden's achievements - from insulin pricing to infrastructure projects - while planning to destroy these same programs once in office. See his pattern of taking credit for successes and denying all failures, even as progressives attempt to work with him for the American people.'
+excerpt: "Watch how Trump shamelessly claims credit for Biden's achievements - from insulin pricing to infrastructure projects - while planning to destroy these same programs once in office. See his pattern of taking credit for successes and denying all failures, even as progressives attempt to work with him for the American people."
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
