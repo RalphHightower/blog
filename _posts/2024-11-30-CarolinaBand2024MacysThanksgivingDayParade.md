@@ -116,6 +116,10 @@ Macy's Thanksgiving Day Parade LIVE: Macy's Parade 2024 In New York LIVE / Thank
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/C0QubkQucSU?si=XrG1Jj9kbFfP4bB2&start=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen start=0></iframe>
 
+##### Nov 28, 2024  – [Nayan](https://www.youtube.com/@nayanpanchal39) – 2024 MACY'S THANKSGIVING DAY PARADE
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OTvoK8kSWQ?si=935dqJEZeqZrLzmp&amp;start=5010" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 Live from the route of Macy’s Thanksgiving parade. The 98th edition features 17 giant character balloons, 22 floats, 15 novelty and heritage inflatables, 11 marching bands, 700 clowns and 10 performance groups.
 
 Macy's Thanksgiving Day Parade LIVE: Preparations Begin in New York / Macy's Parade 2024 USA / CNBC TV18
@@ -126,7 +130,14 @@ Live showing huge balloons used in the annual Macy's Thanksgiving Day Parade in 
 
 Americans are gearing up for the iconic Macy's parade. Since its inception in 1924, the festive event has drawn millions of spectators to the streets of New York City. Last year, a whopping three million viewers tuned in to watch the live broadcast from the comfort of their homes. Here's all you need to know about the 98th annual Macy's Thanksgiving Parade:
 
-The annual festive event is slated for Thursday, November 28. Similar to last year, the 2024 Macy's Thanksgiving Day parade will step off from West 77th Street and Central Park West and make its way to Macy's Herald Square via Sixth Avenue. It will begin with the traditional ribbon-cutting ceremony, with Alison Brie holding the scissors this year.Every year, American audiences are treated to a wide array of entertainment during the parade. The lineup for the 2024 parade includes Idina Menzel, T-Pain, Jennifer Hudson, Kylie Minogue, Billy Porter, Ariana Madix, Bishop Briggs, Charli D'Amelio, Chloe Bailey, Coco Jones, Dan + Shay, Dasha, Jimmy Fallon & the Roots, and Kylie Cantrall.
+The annual festive event is slated for Thursday, November 28. Similar to last year, the 2024 Macy's Thanksgiving Day parade will step off from West 77th Street and Central Park West and make its way to Macy's Herald Square via Sixth Avenue. It will begin with the traditional ribbon-cutting ceremony, with Alison Brie holding the scissors this year. Every year, American audiences are treated to a wide array of entertainment during the parade. The lineup for the 2024 parade includes Idina Menzel, T-Pain, Jennifer Hudson, Kylie Minogue, Billy Porter, Ariana Madix, Bishop Briggs, Charli D'Amelio, Chloe Bailey, Coco Jones, Dan + Shay, Dasha, Jimmy Fallon & the Roots, and Kylie Cantrall.
+
+##### [Carolina Band brings a mighty sound to Macy’s Thanksgiving Day Parade](https://www.wistv.com/2024/11/29/carolina-band-brings-mighty-sound-macys-thanksgiving-day-parade/)
+
+By Naomi Popa
+*Published: Nov. 29, 2024 at 8:03 AM EST*
+
+----
 
 Nov 27, 2024
 
