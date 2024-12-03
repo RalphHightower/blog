@@ -17,4 +17,4 @@ title: 'Bless His Heart – Dementia Part 6: Rambling "Tossed Salad of Words Spe
 
 ### Trump Transcript
 
-{% include_relative DetroitEconomicClub/20241010DetroitEconomicClub.md %}
+{% include_relative ../../DetroitEconomicClub/20241010DetroitEconomicClub.md %}
