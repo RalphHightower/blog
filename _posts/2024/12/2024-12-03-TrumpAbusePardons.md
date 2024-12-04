@@ -7,7 +7,7 @@ excerpt: "Rachel Maddow looks at Donald Trump's shameless abuse of the president
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: "Trump's shameless abuse of pardons, nepotism disqualifies him from criticizing Biden pardon"'
+title: "Trump's shameless abuse of pardons, nepotism disqualifies him from criticizing Biden pardon"
 ---
 
 
