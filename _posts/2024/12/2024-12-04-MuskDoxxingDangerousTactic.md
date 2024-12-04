@@ -3,7 +3,7 @@ layout: post
 tags: [Elon Musk, Vivek Ramaswamy, Department of Government Efficiency (DOGE), dox, public safety, personal lives, federal employees, politics]
 categories: [Donald Trump]
 date: 2024-12-04 3:05 PM
-excerpt: ''“It’s his way of intimidating people to either quit or also send a signal to all the other agencies that ‘you’re next’.” – Mary “Missy” Cummings, engineering and computer science professor at George Mason University, one of the first female fighter pilots in the US Navy, who drew Musk’s ire because of her criticisms of Tesla when she was at the National Highway Traffic Safety Administration.
+excerpt: "“It’s his way of intimidating people to either quit or also send a signal to all the other agencies that ‘you’re next’.” – Mary “Missy” Cummings, engineering and computer science professor at George Mason University, one of the first female fighter pilots in the US Navy, who drew Musk’s ire because of her criticisms of Tesla when she was at the National Highway Traffic Safety Administration."
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
