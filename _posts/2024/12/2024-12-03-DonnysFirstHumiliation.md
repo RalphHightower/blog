@@ -3,11 +3,11 @@ layout: post
 tags: [Mary Trump Media, Trump Family Dinner, mashed potatoes]
 categories: [Donald Trump]
 date: 2024-12-03 6:55 PM
-excerpt: 'Donald Trump was tormenting his little brother, Robert. He gets a bowl of mashed potatoes dumped on his head."
+excerpt: "Donald Trump was tormenting his little brother, Robert. He gets a bowl of mashed potatoes dumped on his head."
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: 'Donny the Tormentor Humiliated at Family Dinner. Sister Mary Recalls the Story at Thanksgiving Dinner at the White House"
+title: "Donny the Tormentor Humiliated at Family Dinner. Sister Mary Recalls the Story at Thanksgiving Dinner at the White House"
 ---
 
 
