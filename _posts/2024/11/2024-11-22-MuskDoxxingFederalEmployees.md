@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [Elon Musk, Vivek Ramaswamy, federal employees, federal government, Tesla, National Highway Traffic Safety Administration (NHTSA)]
+tags: [Elon Musk, dox, doxxing, threats, personal safety, federal employees, X‐Twitter, Department Of Government Efficiency (DOGE), Vivek Ramaswamy, National Highway Traffic Safety Administration (NHTSA), politics]
 categories: [security risks, security threat, personal safety, personal privacy]
 date: 2024-11-22 7:05 PM
 excerpt: "“These tactics are aimed at sowing terror and fear at federal employees. It’s intended to make them fearful that they will become afraid to speak up. We are a comparative steal, and we want to help clean it up too. The people I represent have been called names like deep state, but they are working people just like you and I.” –  Everett Kelley, president of the American Federation of Government Employees, which represents more than 800,000 of the 2.3 million civilian federal employees and former Army sergeant."

@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [Elon Musk, X‐Twitter, dox, federal employees, Department Of Government Efficiency (DOGE), threats, personal safety, politics]
+tags: [Elon Musk, dox, doxxing, threats, personal safety, federal employees, X‐Twitter, Department Of Government Efficiency (DOGE), Vivek Ramaswamy, politics]
 categories: [Donald Trump]
 date: 2024-12-04 1:41 PM
 excerpt: "DOGE is not a real department. It's a “presidential advisory committee”, which sounds very official, but isn't compensated and doesn't come with any real power. These committees have a long history of being used to create the appearance of “doing something” “while doing nothing.”"
