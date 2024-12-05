@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [TODAY Show, New YorkCity, New York]
+tags: [University of South Carolina, Carolina Marching Band, Macys Thanksgiving Day Parade, Macys Gamecocks, TODAY Show, New York City, New York]
 categories: [2024 Macy's Thanksgiving Day Parade, University of South Carolina, Marching Band]
 date: 2024-12-01 3:59 PM
 excerpt: "GAME! -- COCKS! Let's go! By the way, thank you so much. For letting me have this honor. Wearing the uniform is a big deal down there, so I wanted to represent Columbia, South Carolina, Jay Jacobs, I know this is your dream job. You'll be seeing them tomorrow for the very first time during the big parade. Are you guys ready? Are you excited? – Craig Melvin, wearing a Carolina Band uniform, with drums."
@@ -139,6 +139,80 @@ By Naomi Popa
 ##### Dec 1, 2024 – [@WIS News 10](https://www.youtube.com/@wisnews10) – Carolina Band brings a mighty sound to Macy's Thanksgiving Day Parade
 
 <iframe width="932" height="524" src="https://www.youtube.com/embed/xQIzBaJ7Jas" title="Carolina Band brings a mighty sound to Macy&#39;s Thanksgiving Day Parade" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+##### Nov 11, 2024 – Nov 20, 2024 [The Band's Music Videography](https://www.youtube.com/@TheBandsMusicVideography) – 104th Meets 98th 🥁 || MACY’S THANKSGIVING PARADE 🦃 / Carolina AT Clemson 🐅 • Double Beat 2024 #15
+
+<iframe width="853" height="480" src="https://www.youtube.com/embed/7cNCGLefw-A" title="104th Meets 98th 🥁 || MACY’S THANKSGIVING PARADE 🦃 / Carolina AT Clemson 🐅 • Double Beat 2024 #15" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Dec 1, 2024  #MacysThanksgivingDayParade #Macys #Gamecocks
+Welcome to the fifteenth episode of Double Beat 2024!
+
+It’s finally here. After 15 months of buildup, preparations, and fundraising—and much, much more work behind the scenes over the last several years—the Carolina Band is Marching to NYC for the 98th Macy’s Thanksgiving Day Parade! We’ve got a jam-packed week full of performances on the TODAY show and a pep rally at piers 16 and 17 with the University of Massachusetts Minutemen Marching Band, culminating with the parade and the performance on the famous Herald Square! Shoutout to all the Gamecocks that made the trip to NYC, shoutout to all of the people who donated to send the band to NYC, and shoutout to all of the people associated with the band that made this trip possible; everyone played their part to make this happen—whether it was the current members, the band alumni, the band staff, or the extended band family.
+
+No rest for the weary, however! It’s also Palmetto Bowl Week as the 15th-ranked Gamecocks travel to the upstate for the rivalry matchup against the 12th-ranked Tigers of Clemson as South Carolina attempts to bring the trophy back home where it belongs and bolster up its college football playoff résumé one final time before Selection Sunday in a little over a week in what’s potentially the biggest Carolina-Clemson football game out of the 121 games played between these two bitter rivals.
+
+The Beats Covered:
+00:00 – MACY’S 2024 || How We Got Here
+01:19 – Wed. 11.27.2024 || NBC’s TODAY Show
+04:31 – Wed. 11.27.2024 || Pep Rally at the Pier with UMass
+22:21 – Thurs. 11.28.2024 || MACY’S THANKSGIVING DAY PARADE
+28:07 – Thurs. 11.28.2024 || THE CAROLINA BAND ON HERALD SQUARE
+29:27 – Sat. 11.30.2024 || The Palmetto Bowl: South Carolina vs. Clemson
+31:03 – Sat. 11.30.2024 || HALFTIME: Winter Chills
+32:06 – Sat. 11.30.2024 || Fourth Quarter Highlights
+32:32 – Sat. 11.30.2024 || Postgame Celebrations
+35:39 – Sat. 11.30.2024 || Welcome Home
+
+Carolina Selections:
+
+♪ • “CBDL Lot Pieces”
+♫ • “Sandstorm”
+♫ • “CBDL Cadence Sequence”
+
+♪ • “Carolina Band Pregame”
+♫ • “March Out” 
+♫ • “Gridiron Fanfare” 
+♫ • “Four Corner Salute”
+♫ • “Carolina Let Your Voices Ring (Old Fight)”
+♫ • “We Hail Thee Carolina”
+♫ • “The Fighting Gamecocks Lead the Way”
+♫ • “The Garnet and Black March”
+♫ • “Go Carolina”
+
+♪ • “Gamecocks Take Manhattan!”
+♫ • “Fly Me to the Moon” by Frank Sinatra
+♫ • “Take the “A” Train” by Duke Ellington
+♫ • “Fame” by Irene Cara
+♫ • “New York, New York” by Frank Sinatra
+
+♪ • “Winter Chills”
+♫ • “In the Christmas Mood”
+♫ • “You’re a Mean One, Mr. Grinch”
+♫ • “Greensleeves”
+
+♪ • “2024 Stands Tunes”
+♫ • “2001”
+♫ • “Cocky’s 2001”
+♫ • “Million Dollar Baby”
+♫ • “Neck”
+♫ • “Shake a Tail Feather”
+
+Carolina Nuggets of Wisdom:
+Carolina Band on NBC’s ‪@TODAY‬ Show:    • Macy’s Thanksgiving Day parade turns ...   //    • See TODAY's Craig Melvin live out his...  
+📌 Pregame/Halftime Shows on ‪@TheCarolinaBand‬ channel:    • Winter Chills (Clemson game)  
+📌 Concerts/Recitals Livestreams on ‪@GamecockMusic‬ channel:    • 241119 Palmetto Pans  
+💸 Help the Carolina Band get to NYC: PROJECT DONATION GOAL MET!!
+
+👏 Footage Credit: South Carolina Band Parents Facebook Page
+👏 Herald Square: NBC Broadcast of the 98th Macy’s Thanksgiving Day Parade
+👏 Clemson Hype Video:   / carolinabanddrumline  
+👏 Football Game Footage:    / @sfcocking  
+👏 Neck Footage: Kirk Randazzo, Voice of the Carolina Band
+👏 Beamer Band Footage: https://x.com/toddsummers7/status/186...
+👏 Press Conference Footage:    • Postgame: (Clemson) Shane Beamer News...  
+👏 Thumbnail Photo: University of South Carolina
+
+#CarolinaBand #Gamecocks #CarolinaBandNYC #BuiltForLoud #MarchingBand #Macys #MacysThanksgivingDayParade #ThanksgivingDay #Parade #BeatClemson #SECFootball #Football
 
 ----
 
