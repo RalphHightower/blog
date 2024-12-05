@@ -4,11 +4,11 @@ tags: [United States of America, South Korea, national emergency, martial law, d
 categories: [Donald Trump]
 date: 2024-12-05 5:14 PM
 excerpt: "“The US Constitution allows for the suspension of habeas corpus which is in effect martial law,”
-That is a presidential decision and one which he will make based on his assessment of the threat to the constitution and the nation. When the people’s representatives spoke, the military sided with the legislature and the people, not with the executive. The Korean and U.S. constitutions are constructed with the express purpose of preventing a dictator. That is what republican government is all about”—that is, republican with a small “r.” – David Maxwell, a retired U.S. army special forces colonel.
+That is a presidential decision and one which he will make based on his assessment of the threat to the constitution and the nation. When the people’s representatives spoke, the military sided with the legislature and the people, not with the executive. The Korean and U.S. constitutions are constructed with the express purpose of preventing a dictator. That is what republican government is all about”—that is, republican with a small “r.” – David Maxwell, a retired U.S. army special forces colonel."
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: 'Trump: First National Emergency. Then Martial Law. Finally, Dictator For Life!
+title: 'Trump: First National Emergency. Then Martial Law. Finally, Dictator For Life!'
 ---
 
 
