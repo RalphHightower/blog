@@ -5,6 +5,6 @@
     "semantic-release": "^24.2.0"
   },
   "dependencies": {
-    "npm": "^10.9.1"
+    "npm": "^10.9.2"
   }
 }
