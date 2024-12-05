@@ -11,6 +11,11 @@ title: 'Head Twit Elon Musk Puts Lives of Federal Employees at Risk'
 ---
 
 
+## [Elon Musk publicized the names of government employees he wants to cut. It’s terrifying federal workers / CNN Business](https://www.cnn.com/2024/11/27/business/elon-musk-government-employees-targets/index.html)
+
+By Hadas Gold and Rene Marsh, CNN
+Updated 11:38 AM EST, Wed November 27, 2024
+
 When President-elect Donald Trump said Elon Musk and Vivek Ramaswamy would recommend major cuts to the federal government in his administration, many public employees knew that their jobs could be on the line.
 
 Now they have a new fear: becoming the personal targets of the world’s richest man – and his legions of followers[^21].
