@@ -3,7 +3,7 @@ layout: post
 tags: [Donald Trump Jr (DJ), Eric Trump, cryptocurrency, criminal activities, Trump organization, money laundering, drug cartels, scams, pig-butchering, politics]
 categories: [Donald Trump]
 date: 2024-12-06 12:48 PM
-excerpt: ''“People dramatically underestimate the amount of risk in the investments they have. They barely understand the risk in their stocks. For every billionaire or Bitcoin person, there's tens of thousands, if not hundreds of thousands of people that have tried it and lost tons of money. If you're worried about creating a dream for your family and the future - don't get caught up in hurting bias. Don't get caught up in fear of trying to make something because someone made 20 per cent last year.” – Mark Matson, entrepreneur."
+excerpt: "“People dramatically underestimate the amount of risk in the investments they have. They barely understand the risk in their stocks. For every billionaire or Bitcoin person, there's tens of thousands, if not hundreds of thousands of people that have tried it and lost tons of money. If you're worried about creating a dream for your family and the future - don't get caught up in hurting bias. Don't get caught up in fear of trying to make something because someone made 20 per cent last year.” – Mark Matson, entrepreneur."
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
