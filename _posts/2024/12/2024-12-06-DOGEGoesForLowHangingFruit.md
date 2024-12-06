@@ -3,7 +3,7 @@ layout: post
 tags: [Elon Musk, Vivek Ramaswamy, Department of Government Efficiency (DOGE), performance audits, politics]
 categories: [Donald Trump]
 date: 2024-12-06 10:06 AM
-excerpt: ''The Department of Energy’s Fiscal Year 2024 performance report has revealed nearly $1 billion in wasteful spending.'
+excerpt: 'The Department of Energy’s Fiscal Year 2024 performance report has revealed nearly $1 billion in wasteful spending.'
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
