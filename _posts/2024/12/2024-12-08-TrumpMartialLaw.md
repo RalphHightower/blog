@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [South Korea, United States of America, politics], Mary Trump Media]
+tags: [South Korea, United States of America, politics, Mary Trump Media]
 categories: [Donald Trump]
 date: 2024-12-08 3:20 PM
 excerpt: ''
