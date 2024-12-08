@@ -7,7 +7,7 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: 'Meet the Press: Trump, the Unity President? That's Funny!"
+title: "Meet the Press: Trump, the Unity President? That's Funny!"
 ---
 
 
