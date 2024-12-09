@@ -1,52 +1,60 @@
 ---
 layout: base
 ---
-# Reason for Starting a Blog[^100010]
+# Reason for Starting a Blog[^110]
 
-[^100010]: I am the *“enemy within”*.
-
-Prior to the November 5, 2024 presidential election, I had concerns for **Democracy.** Now, I have fears for **Democracy.** Fears that America won't survive a second Trump term.
+[^110]: I am the *“enemy within”*.
 
 ## I Am the *“Enemy Within”*
 
-I started my blog because I realized that maintaining my opinion that [Donald Trump Is a Fucking Idiot](https://ralphhightower.github.io/RalphHightower/Opinions/DonaldTrumpIsAFuckingIdiot.html) was going to be unwieldy to update and maintain. You may have a different opinion from mine. But the only person that can convince me that Trump is not a fucking idiot is Donald Trump himself. I probably won't change your opinion or vote. Likewise, you won't be able to change my assignment of Trump.
+I started my blog because I realized that maintaining my opinion that [Donald Trump Is a Fucking Idiot](https://ralphhightower.github.io/RalphHightower/Opinions/DonaldTrumpIsAFuckingIdiot.html) was going to be unwieldy to update and maintain. You may have a different opinion from mine. But the only person that can convince me that Trump is not a fucking idiot is Donald Trump himself. I probably won't change your opinion or vote. Likewise, you won't be able to change my assessment of Trump.
 
 Both political parties fucked up in 2016.
 
 - The Democrats chose Hillary because it was *"her turn."*
-- The Republicans chose the candidate, Donald Trump, that was, and still is, unfit and unqualified to be president.[^100010]
+- The Republicans chose the candidate, Donald Trump, that was, and still is, unfit and unqualified to be president.[^310]
 
-[^100010]: Trump meets the constitutional age requirement, but that's saying little. Plus Trump is dementia-ning! Talking about Arnold Palmer's balls, no it's not Titlist; it's that part of the anatomy that LPGA pros don't have.
+[^310]: Trump meets the constitutional age requirement, but that's saying little. Plus Trump is dementia-ning! Talking about Arnold Palmer's balls, no it's not Titlist; it's that part of the anatomy that LPGA pros don't have.
 
-Both candidates are polarizing!
+Both candidates were polarizing! Trump still is.
 
-No, I do not have TDS, Trump Derangement Syndrome[^100020]. My opinion of Trump hasn't wavered from when he first announced his candidacy. He's still a fucking idiot.
+No, I do not have TDS (Trump Derangement Syndrome)[^320]<sup>,</sup>[^325], or RTD[^340] nor do I belong to the Cult of Trump. My opinion of Trump hasn't wavered from when he first announced his candidacy. He's still a fucking idiot.
 
-[^100020]: Wikipedia — [Trump derangement syndrome](https://en.wikipedia.org/wiki/Trump_derangement_syndrome?wprov=sfla1)
+[^320]: Wikipedia — [Trump derangement syndrome](https://en.wikipedia.org/wiki/Trump_derangement_syndrome?wprov=sfla1)
+[^325]: Trump's sycophants, acolytes, and cul members, are just as infantile as Trump with his name calling and labeling.
+[^340]: Rabid Trump Disease.
 
-I did not vote for Trump in 2016 because he has serious character flaws. Trump's actions following the 2020 election should have disqualified him from ever serving again. However, the Trumpers[^100030] in the House and Senate chose **"Party Over Country"**
+Trump's actions following the 2020 election should have disqualified him from ever serving again. However, the Trumpers[^330] in the House and Senate chose **"Party Over Country"**
 
-[^100030]: The Republican Party died July 2016 when it chose Trump as its candidate for president
-At least I don't belong to the Trump cult or have RTD[^100040].
-
-[^100040]: Rabid Trump Disease.
+[^330]: The Republican Party died July 2016 when it chose Trump as its candidate for president.
 
 Discussions and comments can be placed here: [RalphHightower/blog · Discussions · GitHub](https://github.com/RalphHightower/blog/discussions).
 
+During Trump's presidential campaigns in 2015 (primary), 2016 campaign and his presidency from January 20, 2017 through January 6, 2020's provoked Insurrection, I assessed these critical character flaws of Donald Trump:
+
+1. Pathological lying
+2. Hypocrisy[^120]
+3. Immaturity[^130]
+4. Temper[^140]
+5. Narcissism[^150]
+6. Obsessive-Compulsive Personality[^170]
+7. Strong-Arm Dictator Wannabe[^180]
+8. Grifter 
+9. Cheat
+10. Thief[^1100]
+
+[^120]: Trump whines, *"It's not fair! Biden has weaponized the [Justice system](https://www.justice.gov/) against me!"* Yet, when he gets into office the second time, he's going to direct the [Department of Justice](https://www.justice.gov/) to target his political enemies, and the enemies within. 
+[^130]: That childish behavior of calling people names. 
+[^140]: Two words. **Trumper Tantrums**
+[^150]: Flattering Trump allows one to manipulate Trump. Vladimir Putin is former KGB. He knows how to control Trump. 
+[^170]: People with OCPD may have a preoccupation with order, perfectionism, and control. They may also have the following traits: <br />• **Perfectionism:** They may demand perfection in all tasks, which can lead to missed deadlines. <br />• **Preoccupation with details:** They may be preoccupied with lists, rules, and order. <br />• **Lack of flexibility:** They may be unwilling to compromise or allow others to do things. <br />• **Difficulty working with others:** They may have difficulty delegating tasks or working with others unless they can do things exactly as they want. 
+People with OCPD may have a preoccupation with order, perfectionism, and control. They may also have the following traits: <br />• **Perfectionism:** They may demand perfection in all tasks, which can lead to missed deadlines. <br />• **Preoccupation with details:** They may be preoccupied with lists, rules, and order. <br />• **Lack of flexibility:** They may be unwilling to compromise or allow others to do things. <br />• **Difficulty working with others:** They may have difficulty delegating tasks or working with others unless they can do things exactly as they want. <br />• **Difficulty coping with criticism:** They may have difficulty coping with criticism and may over-focus on flaws in others. 
+[^180]: Trump admires strong-arm dictators, Hungary's Viktor Orbàn, Russia's Vladimir Putin, North Korea's Kim Jun-Un.
+[^1100]: I'd call it thievery when one pays less than the agreed upon contracted price for goods or services. It was in Wikipedia or a news story on the web that Trump paid something like 30% for several grand pianos for his casinos.<br />It’s like I buy a Ford truck priced at \$100,000 and I tell the dealer, "It’s a good truck, but it’s not worth \$100,000. I'll pay you \$30,000 for the truck."
+
+Prior to the November 5, 2024 presidential election, I had concerns for **Democracy.** Now, I have fears for **Demmocracy.** Fears that America won't survive a second Trump term.
+
 ## Donald Trump – The Reasons Against Him
-
-### Constitutional Court Cases
-
-There are two court cases that have not yet convened and must be decided because Trump's behavior and actions following the 2020 presidential  melection threaten the very fabric of our nation.
-
-1. Federal – Attempt to Overthrow the 2020 Election and the January 6, 2021 Insurrection.[^111010]
-2. State – Georgia. Strong-Arm Attempt to Falsify Their Election Result.
-
-[^111010]: Federal prosecutor, Jack Smith, layed out compelling, iron-clad indictments revised for Trump, the citizen running for reelection, and not then President Trump, where he would, and did claim presidential immunity; the Supreme Court directed Smith to not include presidential duties. I cannot bring myself to strike through his federal case.
-
-**Damn!** How the hell did Trump win?! Although the federal case will be winding down since the [DOJ](https://www.justice.gov/) has some regulation  that sitting presidents cannot be tried:
-
-#### Donald Trump Is Guilty For Attempting To Overturn An Election And Instigating The January 6, 2021 Insurrection
 
 ### Donald Trump's Serious Character Flaws
 
@@ -60,17 +68,30 @@ Apparently, stewing in his own venom and demons after losing the 2020 election h
 
 - Tame your temper! Quit throwing **Trumper Tantrums!**
 - Quit your pathological lying and tell the **God-damned truth!**
-- Quit your **God-damned gaslighting[^112110]**!
+- Quit your **God-damned gaslighting[^610]**!
 - Start treating people with **respect!** I.e., quit that childish behavior of calling people names and acting like a school-yard bully.
 - Be a true leader! A true leader recognizes team members, and subordinates for their accomplishment, and accepts the blame when things fail. A true leader does not use intimidation and fear.
 - Quit your whining, *"It's not fair"* Grow up and be an adult!
 - Accept the fact that the president lives under a **microscope.** You will be praised by some and condemned others for your actions or inactions.
 
-[^112110]: [gaslighting –  Merriam-Webster](http://www.merriam-webster.com/dictionary/gaslighting): noun<br /gas·​light·​ing \| \ ˈgas-ˌlī-tiŋ , -ˈlī- \<br />Definition (Entry 1 of 2)<br />1: psychological manipulation of a person usually over an extended period of time that causes the victim to question the validity of their own thoughts, perception of reality, or memories and typically leads to confusion, loss of confidence and self-esteem, uncertainty of one's emotional or mental stability, and a dependency on the perpetrator<br />//Gaslighting can be a very effective tool for the abuser to control an individual. It's done slowly so the victim writes off the event as a one off or oddity and doesn't realize they are being controlled and manipulated.<br />— Melissa Spino<br />//Gaslighting can happen in any relationship circumstance, including between friends and family members—not just in couple relationships.<br />— Deena Bouknight<br />//This is a classic gaslighting technique—telling victims that others are crazy and lying, and that the gaslighter is the only source for "true" information. It makes victims question their reality …<br />— Stephanie Sarkis<br />2: the act or practice of grossly misleading someone especially for one's own advantage<br />//Election season can create emotions spanning from immense anxiety all the way to extreme apathy. The public arguing, divisiveness, and competition for votes, including political gaslighting, can be overwhelming and exhausting.<br />— Vernita Perkins and Leonard A. Jason<br />//As the midterm elections approach, Americans have gotten an earful both about crime itself and how the other side is distorting the news about it for political gain. “Cherry-picking!” “Fearmongering!” “Gaslighting!”<br />— Chris Herrmann and Fritz Umbach<br />//Intense gaslighting techniques are making it difficult for Montana's commoners to discern what's truth and what's propaganda.<br />— Steve Kelly<br />//This corporate gaslighting effectively blames children for being addicted to social media and conveniently ignores how companies have intentionally designed their products to have addictive features …<br />— Nancy Kim
+[^610]: [gaslighting –  Merriam-Webster](http://www.merriam-webster.com/dictionary/gaslighting): noun<br /gas·​light·​ing \| \ ˈgas-ˌlī-tiŋ , -ˈlī- \<br />Definition (Entry 1 of 2)<br />1: psychological manipulation of a person usually over an extended period of time that causes the victim to question the validity of their own thoughts, perception of reality, or memories and typically leads to confusion, loss of confidence and self-esteem, uncertainty of one's emotional or mental stability, and a dependency on the perpetrator<br />//Gaslighting can be a very effective tool for the abuser to control an individual. It's done slowly so the victim writes off the event as a one off or oddity and doesn't realize they are being controlled and manipulated.<br />— Melissa Spino<br />//Gaslighting can happen in any relationship circumstance, including between friends and family members—not just in couple relationships.<br />— Deena Bouknight<br />//This is a classic gaslighting technique—telling victims that others are crazy and lying, and that the gaslighter is the only source for "true" information. It makes victims question their reality …<br />— Stephanie Sarkis<br />2: the act or practice of grossly misleading someone especially for one's own advantage<br />//Election season can create emotions spanning from immense anxiety all the way to extreme apathy. The public arguing, divisiveness, and competition for votes, including political gaslighting, can be overwhelming and exhausting.<br />— Vernita Perkins and Leonard A. Jason<br />//As the midterm elections approach, Americans have gotten an earful both about crime itself and how the other side is distorting the news about it for political gain. “Cherry-picking!” “Fearmongering!” “Gaslighting!”<br />— Chris Herrmann and Fritz Umbach<br />//Intense gaslighting techniques are making it difficult for Montana's commoners to discern what's truth and what's propaganda.<br />— Steve Kelly<br />//This corporate gaslighting effectively blames children for being addicted to social media and conveniently ignores how companies have intentionally designed their products to have addictive features …<br />— Nancy Kim
 
 Trump keeps boasting that he is a highly intelligent person. As Brad Pitt said in the movie, Moneyball, "Show me the money!". In Trump’s case, I say "Show me your Mensa test score!". If you're short on cash, I'll even pay the $99 for you to [take the Mensa Admission Test](https://www.us.mensa.org/join/testing/).
 
 But you more than likely won't own up to my challenge to you. It'll probably be for the same reason that you won't reveal your [Internal Revenue Service](https://www.irs.gov/) tax returns as presidents have done as past precedent. You're afraid that revealing that information will prove that you are a fraud.
+
+### Constitutional Court Cases
+
+There are two court cases that have not yet convened and must be decided because Trump's behavior and actions following the 2020 presidential  melection threaten the very fabric of our nation.
+
+1. Federal – Attempt to Overthrow the 2020 Election and the January 6, 2021 Insurrection.[^810]
+2. State – Georgia. Strong-Arm Attempt to Falsify Their Election Result.
+
+[^810]: Federal prosecutor, Jack Smith, layed out compelling, iron-clad indictments revised for Trump, the citizen running for reelection, and not then President Trump, where he would, and did claim presidential immunity; the Supreme Court directed Smith to not include presidential duties. I cannot bring myself to strike through his federal case.
+
+**Damn!** How the hell did Trump win?! Although the federal case will be winding down since the [DOJ](https://www.justice.gov/) has some regulation  that sitting presidents cannot be tried:
+
+#### Donald Trump Is Guilty For Attempting To Overturn An Election And Instigating The January 6, 2021 Insurrection
 
 ### Third Rate Game Show Host
 
