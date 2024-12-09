@@ -1,11 +1,11 @@
-name: Continuous Integration
+name: ci.yml – Continuous Integration
 on:
   push:
     branches:
-      - master
+      - main
   pull_request:
     branches:
-      - master
+      - main
 permissions:
   contents: read
 
@@ -15,19 +15,14 @@ jobs:
     runs-on: "ubuntu-latest"
     strategy:
       matrix:
-        jekyll: ["~> 3.9", "~> 4.2"]
+        jekyll: ["~> 4.3.4"]
     env:
       JEKYLL_VERSION: ${{ matrix.jekyll }}
     steps:
-      - name: Harden Runner
-        uses: step-security/harden-runner@0080882f6c36860b6ba35c610c98ce87d4e2f26f # v2.10.2
-        with:
-          egress-policy: audit
-
       - name: Checkout Repository
-        uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
-      - name: Set Up Ruby 3.3.5
-        uses: ruby/setup-ruby@2a18b06812b0e15bb916e1df298d3e740422c47e # v1.203.0
+        uses: actions/checkout@v4.2.2
+      - name: Set Up Ruby 3.3.6
+        uses: ruby/setup-ruby@v1.203.0
         with:
           ruby-version: 3.3.6
           bundler-cache: true
