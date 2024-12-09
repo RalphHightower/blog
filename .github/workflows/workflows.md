@@ -11,10 +11,10 @@
 | actions/upload-artifact@v4.4.3 | Oct 9, 2024 14 | [actions/upload-artifact](https://github.com/actions/upload-artifact) |
 | actions/upload-pages-artifact@v3.0.1 | Feb 7, 2024 | [actions/upload-pages-artifact: A composite action for packaging and uploading an artifact that can be deployed to GitHub Pages.](https://github.com/actions/upload-pages-artifact) |
 | amannn/action-semantic-pull-request@v5.5.3 | Jun 28, 2024 | [amannn/action-semantic-pull-request: A GitHub Action that ensures that your PR title matches the Conventional Commits spec](https://github.com/amannn/action-semantic-pull-request) |
-| github/codeql-action/analyze@v2.19.4 | Dec 2, 2024 | [github/codeql-action: Actions for running CodeQL analysis](https://github.com/github/codeql-action) |
-| github/codeql-action/autobuild@v2.19.4 | Dec 2, 2024 | [github/codeql-action: Actions for running CodeQL analysis](https://github.com/github/codeql-action) |
-| github/codeql-action/init@v2.19.4 | Dec 2, 2024 | [github/codeql-action: Actions for running CodeQL analysis](https://github.com/github/codeql-action) |
-| github/codeql-action/upload-sarif@v2.19.4 | Dec 2, 2024 | [github/codeql-action: Actions for running CodeQL analysis](https://github.com/github/codeql-action) |
+| github/codeql-action/analyze@v2.20.0 | Dec 6, 2024 | [github/codeql-action: Actions for running CodeQL analysis](https://github.com/github/codeql-action) |
+| github/codeql-action/autobuild@v2.20.0 | Dec 6, 2024 | [github/codeql-action: Actions for running CodeQL analysis](https://github.com/github/codeql-action) |
+| github/codeql-action/init@v2.20.0 | Dec 6, 2024 | [github/codeql-action: Actions for running CodeQL analysis](https://github.com/github/codeql-action) |
+| github/codeql-action/upload-sarif@v2.20.0 | Dec 6, 2024 | [github/codeql-action: Actions for running CodeQL analysis](https://github.com/github/codeql-action) |
 | googleapis/release-please-action@4.1.3 | Jun 10, 2024 | [googleapis/release-please-action: automated releases based on conventional commits](https://github.com/googleapis/release-please-action)
 | googleapis/release-please@v16.15.0 | Dec 2, 2024 | [googleapis/release-please: generate release PRs based on the conventionalcommits.org spec](https://github.com/googleapis/release-please) |
 | lowlighter/metrics@3.34 | Sep 12, 2023 | [lowlighter/metrics: 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!](https://github.com/lowlighter/metrics) |
