@@ -8,6 +8,8 @@
     },
   "contributors": [
     "ralph.hightower@gmail.com ",
+    "[dependabot[bot]](https://github.com/apps/dependabot)",
+    "[step-security-bot](https://github.com/step-security-bot)"
     ],
   "version": "v1.0.0",
   "type": "website",
