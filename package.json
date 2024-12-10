@@ -17,6 +17,10 @@
     "email": "ralph.hightower@gmail.com"
     },
   "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RalphHightower/blog.git"
+  },
   "keywords": [
     "windows", 
     "c-sharp", 
@@ -38,8 +42,4 @@
     "markdownlint-cli2-formatter-json": "^0.0.8",
     "semantic-release": "^24.2.0"
   },
-  "dependencies": {
-    "npm": "^10.9.2"
-  },
-"packageManager": "npm@10.9.2"
 }
