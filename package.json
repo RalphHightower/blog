@@ -5,40 +5,40 @@
     "name": "Ralph Hightower",
     "email": "ralph.hightower@gmail.com",
     "url": "https://ralphhightower.github.io/RalphHightower/"
-    },
+  },
   "contributors": [
     "ralph.hightower@gmail.com ",
     "[dependabot[bot]](https://github.com/apps/dependabot)",
     "[step-security-bot](https://github.com/step-security-bot)"
-    ],
+  ],
   "version": "v1.0.0",
   "type": "website",
   "homepage": "https://ralphhightower.github.io/blog/",
   "bugs": {
     "url": "https://github.com/RalphHightower/blog/issues",
     "email": "ralph.hightower@gmail.com"
-    },
+  },
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/RalphHightower/blog.git"
   },
   "keywords": [
-    "windows", 
-    "c-sharp", 
-    "unix", 
-    "beer", 
-    "politics", 
-    "photography", 
-    "software-engineering", 
-    "software-development", 
-    "dslr", 
-    "software-architecture", 
-    "software-engineer", 
-    "university-of-south-carolina", 
-    "slr", 
+    "windows",
+    "c-sharp",
+    "unix",
+    "beer",
+    "politics",
+    "photography",
+    "software-engineering",
+    "software-development",
+    "dslr",
+    "software-architecture",
+    "software-engineer",
+    "university-of-south-carolina",
+    "slr",
     "anti-trump"
-    ],
+  ],
   "devDependencies": {
     "@semantic-release/changelog": "^6.0.3",
     "@semantic-release/commit-analyzer": "^13.0.0",
