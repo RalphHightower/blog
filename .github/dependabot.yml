@@ -24,3 +24,13 @@ updates:
       interval: "weekly"
     commit-message:
       prefix: "[info](sec) bundler:"
+
+  - package-ecosystem: github-actions
+    directory: /
+    schedule:
+      interval: daily
+
+  - package-ecosystem: bundler
+    directory: /
+    schedule:
+      interval: daily
