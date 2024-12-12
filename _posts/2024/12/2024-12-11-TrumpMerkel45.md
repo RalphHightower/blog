@@ -1,13 +1,13 @@
 ---
 layout: post
-tags: [Angela Merkel, Germany, CNN, North Atlantic Treaty Organization (NATO), interview, politics]
+tags: [Angela Merkel, Germany, Chancellor, CNN, North Atlantic Treaty Organization (NATO), interview, politics]
 categories: [Donald Trump]
 date: 2024-12-11 9:44 AM
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: 'title'
+title: "Former German Chancellor Angela Merkel Reflects on Trump’s First Te4j"
 ---
 
 
