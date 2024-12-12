@@ -9,6 +9,8 @@ layout: base
 
 I started my blog because I realized that maintaining my opinion that [Donald Trump Is a Fucking Idiot](https://ralphhightower.github.io/RalphHightower/Opinions/DonaldTrumpIsAFuckingIdiot.html) was going to be unwieldy to update and maintain. You may have a different opinion from mine. But the only person that can convince me that Trump is not a fucking idiot is Donald Trump himself. I probably won't change your opinion or vote. Likewise, you won't be able to change my assessment of Trump.
 
+Prior to the November 5, 2024 presidential election, I had concerns for **Democracy.** Now, I have fears for **Democracy.** Fears that America won't survive a second Trump term.
+
 Both political parties fucked up in 2016.
 
 - The Democrats chose Hillary because it was *"her turn."*
@@ -51,8 +53,6 @@ During Trump's presidential campaigns in 2015 (primary), 2016 campaign and his p
 People with OCPD may have a preoccupation with order, perfectionism, and control. They may also have the following traits: <br />• **Perfectionism:** They may demand perfection in all tasks, which can lead to missed deadlines. <br />• **Preoccupation with details:** They may be preoccupied with lists, rules, and order. <br />• **Lack of flexibility:** They may be unwilling to compromise or allow others to do things. <br />• **Difficulty working with others:** They may have difficulty delegating tasks or working with others unless they can do things exactly as they want. <br />• **Difficulty coping with criticism:** They may have difficulty coping with criticism and may over-focus on flaws in others. 
 [^180]: Trump admires strong-arm dictators, Hungary's Viktor Orbàn, Russia's Vladimir Putin, North Korea's Kim Jun-Un.
 [^1100]: I'd call it thievery when one pays less than the agreed upon contracted price for goods or services. It was in Wikipedia or a news story on the web that Trump paid something like 30% for several grand pianos for his casinos.<br />It’s like I buy a Ford truck priced at \$100,000 and I tell the dealer, "It’s a good truck, but it’s not worth \$100,000. I'll pay you \$30,000 for the truck."
-
-Prior to the November 5, 2024 presidential election, I had concerns for **Democracy.** Now, I have fears for **Demmocracy.** Fears that America won't survive a second Trump term.
 
 ## Donald Trump – The Reasons Against Him
 
