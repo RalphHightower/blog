@@ -3,7 +3,7 @@ layout: post
 tags: [wire tapping, Department of Justice (DOJ), inspector general, journalists, Congress, Weaponizing Justice, politics]
 categories: [Donald Trump]
 date: 2024-12-12 2:44 PM
-excerpt: '"the close proximity in time between access to classified information and subsequent publication of the information… risks chilling Congress’s ability to conduct oversight of the executive branch,” the inspector general wrote."
+excerpt: "the close proximity in time between access to classified information and subsequent publication of the information… risks chilling Congress’s ability to conduct oversight of the executive branch,” the inspector general wrote."
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
