@@ -1,5 +1,5 @@
 ---
-layout: base
+layout: page
 ---
 # Creating / Editing Blog Posts, Configuration Files, Workflows
 
