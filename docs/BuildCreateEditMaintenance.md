@@ -7,7 +7,7 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: '@RalphHightower/blog/docs/: Creating / Editing Blog Posts, Configuration Files, Workflows'
+title: 'Creating / Editing Blog Posts, Configuration Files, Workflows'
 ---
 
 ## Editing Software 
