@@ -44,7 +44,7 @@ McConnell, who has had multiple health scares in recent years, was replaced as t
 
 McConnell says the world is ‘more dangerous now than before World War II’: Full interview
 
-https://youtu.be/FWD-EyLLkjk?t=6
+<iframe width="932" height="524" src="https://www.youtube.com/embed/FWD-EyLLkjk" title="McConnell says the world is ‘more dangerous now than before World War II’: Full interview" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Apr 28, 2024  #Republicans #Trump #MitchMcConnell
 Senate Minority Leader Mitch McConnell (R-Ky.) joins Meet the Press to discuss aid to Ukraine, abortion, Donald Trump and the future of the Republican Party.
