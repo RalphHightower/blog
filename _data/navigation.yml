@@ -2,3 +2,11 @@
   link: /
 - name: Blog Posts
   link: /blog.html
+- name: Documentation/CHANGELOG.md
+  link: /docs/CHANGELOG.mtml
+- name: Documentation / Creating / Maintenance
+  link: /docs/BuildCreateEditMaintenance.html
+- name: Documentation / Brief Purpose For Blogging
+  link: /docs/PURPOSE.html
+- name: Discussions
+  link: https://github.com/RalphHightower/blog/discussions
