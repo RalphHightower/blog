@@ -7,7 +7,7 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: 'What Do We Know About Kristi Noem For Homeland Security?"
+title: "What Do We Know About Kristi Noem For Homeland Security?"
 ---
 
 
