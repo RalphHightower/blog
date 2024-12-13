@@ -1,3 +1,6 @@
+---
+layout: base
+---
 # [Ruby Gems](https://rubygems.org/)
 
 These Ruby libraries are used in @RalphHightower/blog.
