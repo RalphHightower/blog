@@ -1,5 +1,5 @@
 ---
-layout: base
+layout: page
 ---
 # @RalphHightower/blog CHANGELOG
 

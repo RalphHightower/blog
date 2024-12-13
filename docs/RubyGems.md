@@ -1,5 +1,5 @@
 ---
-layout: base
+layout: page
 ---
 # [Ruby Gems](https://rubygems.org/)
 
