@@ -1,3 +1,6 @@
+---
+layout: base
+---
 # Purpose / Reason
 
 ## @RalphHightower/blog
