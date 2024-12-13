@@ -7,7 +7,7 @@ excerpt: "Prior to the 2024 USA's presidential election, I had concerns for demo
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: '@RalphHightower/docs/PURPOSE: Purpose / Reason'
+title: 'Purpose / Reason'
 ---
 
 ## @RalphHightower/blog
