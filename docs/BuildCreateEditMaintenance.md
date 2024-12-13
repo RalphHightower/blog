@@ -1,9 +1,59 @@
 ---
 layout: page
 ---
-# Workflows 
+# Creating / Editing Blog Posts, Configuration Files, Workflows
 
-These workflows are used in the development and maintenance of @RalphHightower/blog
+## Editing Software 
+
+I use this Android app[^11] on my smartphone and tablet. The source code is on the second bullet point.
+
+- [Markor: Edit Markdown offline](https://play.google.com/store/apps/details?id=net.gsantner.markor)
+- [gsantner/markor: Text editor - Notes & ToDo (for Android) - Markdown, todo.txt, plaintext, math, ..](https://github.com/gsantner/markor)
+
+Markor is used for:
+
+- Creating/Editing blog posts
+- Creating/Editing web pages
+- Creating/Editing configuration files
+- Creating/Editing workflows
+
+[^11]: @RalphHightower: I only work with Android, Windows, Linux, Unix, and Solaris. Apple folks,figure out what best works for y'all
+
+## [Ruby Gems](https://rubygems.org/)
+
+These Ruby libraries are used in @RalphHightower/blog.
+
+| Ruby Gems | Version | Date |
+|---|---|---|
+| gem 'jekyll', '~> 4.3', '>= 4.3.4' | | |
+| gem 'kramdown', '~> 2.5', '>= 2.5.1' | | |
+| gem 'sassc-embedded', '~> 1.78' | | |
+| gem 'rake', '~> 13.2', '>= 13.2.1' | | |
+| gem 'minima', '~> 2.5', '>= 2.5.2' | | |
+| gem 'jekyll_ai_related_posts', '~> 0.1.4' | | |
+| gem 'jekyll-avatar', '~> 0.8.0' | | |
+| gem 'jekyll-default-layout', '~> 0.1.5' | | |
+| gem 'jekyll-feed', '~> 0.17.0' | | |
+| gem 'jekyll-github-metadata', '~> 2.16', '>= 2.16.1' | | |
+| ~~gem 'jekyll-include-cache', '~> 0.2.1'~~ | | |
+| gem 'jekyll-last-modified-at', '~> 1.3', '>= 1.3.2' | | |
+| gem 'jekyll-mentions', '~> 1.6' | | |
+| gem 'jekyll-optional-front-matter', '~> 0.3.2' | | |
+| gem 'jekyll-readme-index', '~> 0.3.0' | | |
+| gem 'jekyll-relative-links', '~> 0.7.0' | | |
+| gem 'jekyll-seo-tag', '~> 2.8' | | |
+| gem 'jekyll-sitemap', '~> 1.4' | | |
+| ~~gem 'jekyll-tagging', github: 'RalphHightower/jekyll-tagging', branch: 'master'~~[^11] | | |
+| ~~gem 'jekyll-tagging', '~> 1.1'~~[^11] | | |
+| gem 'jekyll-titles-from-headings', '~> 0.5.3' | | |
+|  | | |
+| gem 'csv', '~> 3.3' | | |
+| gem 'base64', '~> 0.2.0' | | |
+| gem 'nuggets', '~> 1.6', '>= 1.6.1' | | |
+
+[^11]: @RalphHightower: Couldn't get tagging to work 
+
+## Workflows used
 
 | action | date | github |
 |---|---|---|
@@ -28,3 +78,7 @@ These workflows are used in the development and maintenance of @RalphHightower/b
 | ossf/scorecard-action@v2.4.0 | Jul 26, 2024 | [ossf/scorecard-action: Official GitHub Action for OpenSSF Scorecard.](https://github.com/ossf/scorecard-action) |
 | ruby/setup-ruby@v1.203.0 | Dec 6, 2024 | [ruby/setup-ruby: An action to download a prebuilt Ruby and add it to the PATH in 5 seconds](https://github.com/ruby/setup-ruby) |
 | step-security/harden-runner@v2.10.2 | Nov 18, 2024 | [step-security/harden-runner: Network egress filtering and runtime security for GitHub-hosted and self-hosted runners](https://github.com/step-security/harden-runner) |
+
+## GitHub Codespace
+
+GitHub Codespace is also used for adding npm packages, updating, and other situations where a Linux shell is faster and easier than using the web interface. 
