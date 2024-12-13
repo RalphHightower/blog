@@ -1,3 +1,6 @@
+---
+layout: base
+---
 # Workflows 
 
 These workflows are used in the development and maintenance of @RalphHightower/blog
