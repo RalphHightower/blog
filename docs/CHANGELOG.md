@@ -7,7 +7,7 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: '@RalphHightower/blog: CHANGELOG'
+title: 'CHANGELOG'
 ---
 
 
