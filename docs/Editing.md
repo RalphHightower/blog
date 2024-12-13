@@ -1,3 +1,6 @@
+---
+layout: base
+---
 # Creating / Editing Blog Posts, Configuration Files, Workflows
 
 I use this Android app[^11] on my smartphone and tablet. The source code is on the second bullet point.
