@@ -1,7 +1,14 @@
 ---
 layout: page
+tags: [creation, editing, maintenance, blog]
+categories: [RalphHightower]
+date: 2024-12-13 3:21 PM
+excerpt: ''
+#image: 'BASEURL/assets/blog/img/.png'
+#description:
+#permalink:
+title: '@RalphHightower/blog/docs/: Creating / Editing Blog Posts, Configuration Files, Workflows'
 ---
-# Creating / Editing Blog Posts, Configuration Files, Workflows
 
 ## Editing Software 
 
