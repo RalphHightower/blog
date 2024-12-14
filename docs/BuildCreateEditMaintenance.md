@@ -10,7 +10,9 @@ excerpt: ''
 title: 'Posting, Configuration, Workflows'
 ---
 
-## This blog is built with [Jekyll 4.3.4](https://github.com/jekyll) using the theme, [jekyll/minima: Minima is a one-size-fits-all Jekyll theme for writers.](https://github.com/jekyll/minima). [GitHub](https://github.com/) for version control and hosting. 
+## Blog Software 
+
+This blog is built with [Jekyll 4.3.4](https://github.com/jekyll) using the theme, [jekyll/minima: Minima is a one-size-fits-all Jekyll theme for writers.](https://github.com/jekyll/minima). [GitHub](https://github.com/) for version control and hosting. 
 
 - [Jekyll • Simple, blog-aware, static sites / Transform your plain text into static websites and blogs](https://jekyllrb.com/)
 
