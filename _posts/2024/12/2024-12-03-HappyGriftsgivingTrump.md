@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [Mary Trump Media, grifter, Trump cabinet, politics]
+tags: [Mary Trump Media, grift, Trump cabinet, politics]
 categories: [Donald Trump]
 date: 2024-12-03 7:42 PM
 excerpt: "Welcome to Griftsgiving! From $1,000 Trump Bibles to patriotic guitars, watch the MAGA marketplace turn the holidays into a cash grab. See how the “parallel economy” sells fear for profit while Don Jr. ditches the White House for venture capital, and politicians hawk personalized videos instead of governing. The feast of scams is served - and everyone's invited to see how the grift keeps giving."
