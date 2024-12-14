@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [Mary Trump Media, politics]
+tags: [humiliation, revenge, Mary Trump Media, politics]
 categories: [Donald Trump]
 date: 2024-12-03 7:01 PM
 excerpt: "Trump's pattern of using humiliation as a control tactic gets exposed, from his early influences to his current revenge against those who've challenged him. This deep dive reveals how past Democratic humiliations shaped his ruthless approach to power, and why he's obsessed with forcing others to debase themselves"

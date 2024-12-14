@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [Elon Musk, Department of Government Efficiency (DOGE), grifter, swamp thing, MSNBC, Ari Melber, politics]
+tags: [Elon Musk, Department of Government Efficiency (DOGE), grift, swamp thing, MSNBC, Ari Melber, politics]
 categories: [Donald Trump]
 date: 2024-12-13 12:11 PM
 excerpt: ''
