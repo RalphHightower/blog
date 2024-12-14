@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [Donald Trump, sex predator]
+tags: [Donald Trump, sex predator, politics]
 categories: [Jeffrey Epstein]
 date: 2024-12-08 3:37 PM
 excerpt: ''

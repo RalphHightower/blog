@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [Pete Hegseth, Trump perfume, Trump colonge, politics]
+tags: [grift, Pete Hegseth, Trump perfume, Trump colonge, Mary  Trump  Media,politics]
 categories: [Donald Trump]
 date: 2024-12-09 8:19 PM
 excerpt: ''
