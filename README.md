@@ -40,20 +40,22 @@ During Trump's presidential campaigns in 2015 (primary), 2016 campaign and his p
 3. Immaturity[^130]
 4. Temper[^140]
 5. Narcissism[^150]
-6. Obsessive-Compulsive Personality[^170]
-7. Strong-Arm Dictator Wannabe[^180]
-8. Grifter
-9. Cheat
-10. Thief[^190]
+6. Pigheadedness[^160]
+7. Grifter
+8. Obsessive-Compulsive Personality[^180]
+9. Strong-Arm Dictator Wannabe[^190]
+10. Cheat[^1000]
+11. Thief[^1100]
 
 [^120]: Trump whines, *"It's not fair! Biden has weaponized the [Justice system](https://www.justice.gov/) against me!"* Yet, when he gets into office the second time, he's going to direct the [Department of Justice](https://www.justice.gov/) to target his political enemies, and the enemies within. 
 [^130]: That childish behavior of calling people names. 
 [^140]: Two words. **Trumper Tantrums**
 [^150]: Flattering Trump allows one to manipulate Trump. Vladimir Putin is former KGB. He knows how to control Trump. 
-[^170]: People with OCPD may have a preoccupation with order, perfectionism, and control. They may also have the following traits: <br />• **Perfectionism:** They may demand perfection in all tasks, which can lead to missed deadlines. <br />• **Preoccupation with details:** They may be preoccupied with lists, rules, and order. <br />• **Lack of flexibility:** They may be unwilling to compromise or allow others to do things. <br />• **Difficulty working with others:** They may have difficulty delegating tasks or working with others unless they can do things exactly as they want.<//br />People with OCPD may have a preoccupation with order, perfectionism, and control. They may also have the following traits: <br />• **Perfectionism:** They may demand perfection in all tasks, which can lead to missed deadlines. <br />• **Preoccupation with details:** They may be preoccupied with lists, rules, and order. <br />• **Lack of flexibility:** They may be unwilling to compromise or allow others to do things. <br />• **Difficulty working with others:** They may have difficulty delegating tasks or working with others unless they can do things exactly as they want. <br />• **Difficulty coping with criticism:** They may have difficulty coping with criticism and may over-focus on flaws in others. 
-
-[^180]: Trump admires strong-arm dictators, Hungary's Viktor Orbàn, Russia's Vladimir Putin, North Korea's Kim Jun-Un.
-[^190]: I'd call it thievery when one pays less than the agreed upon contracted price for goods or services. It was in Wikipedia or a news story on the web that Trump paid something like 30% for several grand pianos for his casinos.<br />It’s like I buy a Ford truck priced at \$100,000 and I tell the dealer, "It’s a good truck, but it’s not worth \$100,000. I'll pay you \$30,000 for the truck."
+[^160]: Absolute, total, fucking, lacking, devoid of ability or willingness to compromise.<br>There is no ability to work towards a *win-win* situation; which could become a *lose-lose* scenario.<br />With Trump, it is *"I win. You lose."*
+[^180]: People with OCPD may have a preoccupation with order, perfectionism, and control. They may also have the following traits: <br />• **Perfectionism:** They may demand perfection in all tasks, which can lead to missed deadlines. <br />• **Preoccupation with details:** They may be preoccupied with lists, rules, and order. <br />• **Lack of flexibility:** They may be unwilling to compromise or allow others to do things. <br />• **Difficulty working with others:** They may have difficulty delegating tasks or working with others unless they can do things exactly as they want.<br />People with OCPD may have a preoccupation with order, perfectionism, and control. They may also have the following traits: <br />• **Perfectionism:** They may demand perfection in all tasks, which can lead to missed deadlines. <br />• **Preoccupation with details:** They may be preoccupied with lists, rules, and order. <br />• **Lack of flexibility:** They may be unwilling to compromise or allow others to do things. <br />• **Difficulty working with others:** They may have difficulty delegating tasks or working with others unless they can do things exactly as they want. <br />• **Difficulty coping with criticism:** They may have difficulty coping with criticism and may over-focus on flaws in others. 
+[^190]: Trump admires strong-arm dictators, Hungary's Viktor Orbàn, Russia's Vladimir Putin, North Korea's Kim Jun-Un.
+[^1000]: Trump cheats on:<br />• wives<br />• taxes – personal income<br />• personal property tax<br />• real estate property tax<br />• corporate income<br />• financial loans<br />• insurance)<br />• golf<br />• elections *(tries to)*
+[^1100]: I'd call it thievery when one pays less than the agreed upon contracted price for goods or services. It was in Wikipedia or a news story on the web that Trump paid something like 30% for several grand pianos for his casinos.<br />It’s like I buy a Ford truck priced at \$100,000 and I tell the dealer, "It’s a good truck, but it’s not worth \$100,000. I'll pay you \$30,000 for the truck."
 
 ## Donald Trump – The Reasons Against Him
 
