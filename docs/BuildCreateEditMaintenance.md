@@ -10,10 +10,13 @@ excerpt: ''
 title: 'Posting, Configuration, Workflows'
 ---
 
-| Purpose | Problem Issues, Security Issues |
+## Points of Contact
+
+| Purpose | Address Link |
 |---|---|
-| | [Issues · RalphHightower/blog](https://github.com/RalphHightower/blog/issues) |
-| | [Discussions · RalphHightower/blog](https://github.com/RalphHightower/blog/discussions) |
+| Discussions about blog posts | [Discussions · RalphHightower/blog](https://github.com/RalphHightower/blog/discussions) |
+| Problems with the blog | [Issues · RalphHightower/blog](https://github.com/RalphHightower/blog/issues) |
+| Security problems | [Security Advisories · RalphHightower/blog](https://github.com/RalphHightower/blog/security/advisories) |
 
 ## Blog Software 
 
