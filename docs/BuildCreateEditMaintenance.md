@@ -2,7 +2,7 @@
 layout: page
 tags: [creation, editing, maintenance, blog]
 categories: [RalphHightower]
-date: 2024-12-13 3:21 PM
+date: 2024-12-14 10:42 PM
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
@@ -10,16 +10,20 @@ excerpt: ''
 title: 'Posting, Configuration, Workflows'
 ---
 
-| Purpose | Problem Issues, Security Issues |
+## Points of Contact
+
+| Purpose | Address Link |
 |---|---|
-| | [Issues · RalphHightower/blog](https://github.com/RalphHightower/blog/issues) |
-| | [Discussions · RalphHightower/blog](https://github.com/RalphHightower/blog/discussions) |
+| Discussions about blog posts | [Discussions · RalphHightower/blog](https://github.com/RalphHightower/blog/discussions) |
+| Problems with the blog | [Issues · RalphHightower/blog](https://github.com/RalphHightower/blog/issues) |
+| Security problems | [Security Advisories · RalphHightower/blog](https://github.com/RalphHightower/blog/security/advisories) |
 
-## Blog Software 
+## Blog Software Foundation
 
-This blog is built with [Jekyll 4.3.4](https://github.com/jekyll) using the theme, [jekyll/minima: Minima is a one-size-fits-all Jekyll theme for writers.](https://github.com/jekyll/minima). [GitHub](https://github.com/) for version control and hosting. 
+This blog is built with [Jekyll 4.3.4](https://github.com/jekyll) using the [jekyll/minima](https://github.com/jekyll/minima/) theme. [GitHub](https://github.com/) for version control and hosting. 
 
 - [Jekyll • Simple, blog-aware, static sites / Transform your plain text into static websites and blogs](https://jekyllrb.com/)
+- [jekyll/minima: Minima is a one-size-fits-all Jekyll theme for writers.](https://github.com/jekyll/minima/)
 
 ## Editing Software 
 
