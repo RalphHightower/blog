@@ -1,8 +1,8 @@
 ---
 layout: post
 tags: [France, Macron, grift, JD Vance, Kimberly Guilfoyle, Greece, Mary Trump Media, politics]
-categories: []
-#date: 2019-06-25 13:14:15
+categories: [Donald Trump]
+#date: 2024-12-14 4:59 PM
 #excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
