@@ -24,7 +24,9 @@ Both candidates were polarizing! Trump still is.
 No, I do not have TDS (Trump Derangement Syndrome)[^320]<sup>,</sup>[^325], or RTD[^340] nor do I belong to the Cult of Trump. My opinion of Trump hasn't wavered from when he first announced his candidacy. He's still a fucking idiot.
 
 [^320]: Wikipedia — [Trump derangement syndrome](https://en.wikipedia.org/wiki/Trump_derangement_syndrome?wprov=sfla1)
+
 [^325]: Trump's sycophants, acolytes, and cul members, are just as infantile as Trump with his name calling and labeling.
+
 [^340]: Rabid Trump Disease.
 
 Trump's actions following the 2020 election should have disqualified him from ever serving again. However, the Trumpers[^330] in the House and Senate chose **"Party Over Country"**
@@ -40,20 +42,30 @@ During Trump's presidential campaigns in 2015 (primary), 2016 campaign and his p
 3. Immaturity[^130]
 4. Temper[^140]
 5. Narcissism[^150]
-6. Obsessive-Compulsive Personality[^170]
-7. Strong-Arm Dictator Wannabe[^180]
-8. Grifter
-9. Cheat
-10. Thief[^190]
+6. Pigheadedness[^160]
+7. Grifter
+8. Obsessive-Compulsive Personality[^180]
+9. Strong-Arm Dictator Wannabe[^190]
+10. Cheat[^1000]
+11. Thief[^1100]
 
 [^120]: Trump whines, *"It's not fair! Biden has weaponized the [Justice system](https://www.justice.gov/) against me!"* Yet, when he gets into office the second time, he's going to direct the [Department of Justice](https://www.justice.gov/) to target his political enemies, and the enemies within. 
-[^130]: That childish behavior of calling people names. 
-[^140]: Two words. **Trumper Tantrums**
-[^150]: Flattering Trump allows one to manipulate Trump. Vladimir Putin is former KGB. He knows how to control Trump. 
-[^170]: People with OCPD may have a preoccupation with order, perfectionism, and control. They may also have the following traits: <br />• **Perfectionism:** They may demand perfection in all tasks, which can lead to missed deadlines. <br />• **Preoccupation with details:** They may be preoccupied with lists, rules, and order. <br />• **Lack of flexibility:** They may be unwilling to compromise or allow others to do things. <br />• **Difficulty working with others:** They may have difficulty delegating tasks or working with others unless they can do things exactly as they want.<//br />People with OCPD may have a preoccupation with order, perfectionism, and control. They may also have the following traits: <br />• **Perfectionism:** They may demand perfection in all tasks, which can lead to missed deadlines. <br />• **Preoccupation with details:** They may be preoccupied with lists, rules, and order. <br />• **Lack of flexibility:** They may be unwilling to compromise or allow others to do things. <br />• **Difficulty working with others:** They may have difficulty delegating tasks or working with others unless they can do things exactly as they want. <br />• **Difficulty coping with criticism:** They may have difficulty coping with criticism and may over-focus on flaws in others. 
 
-[^180]: Trump admires strong-arm dictators, Hungary's Viktor Orbàn, Russia's Vladimir Putin, North Korea's Kim Jun-Un.
-[^190]: I'd call it thievery when one pays less than the agreed upon contracted price for goods or services. It was in Wikipedia or a news story on the web that Trump paid something like 30% for several grand pianos for his casinos.<br />It’s like I buy a Ford truck priced at \$100,000 and I tell the dealer, "It’s a good truck, but it’s not worth \$100,000. I'll pay you \$30,000 for the truck."
+[^130]: That childish behavior of calling people names. 
+
+[^140]: Two words. **Trumper Tantrums**
+
+[^150]: Flattering Trump allows one to manipulate Trump. Vladimir Putin is former KGB. He knows how to control Trump. 
+
+[^160]: Absolute, total, fucking, lacking, devoid of ability or willingness to compromise.<br>There is no ability to work towards a *win-win* situation; which could become a *lose-lose* scenario.<br />With Trump, it is *"I win. You lose."*
+
+[^180]: People with OCPD may have a preoccupation with order, perfectionism, and control. They may also have the following traits: <br />• **Perfectionism:** They may demand perfection in all tasks, which can lead to missed deadlines. <br />• **Preoccupation with details:** They may be preoccupied with lists, rules, and order. <br />• **Lack of flexibility:** They may be unwilling to compromise or allow others to do things. <br />• **Difficulty working with others:** They may have difficulty delegating tasks or working with others unless they can do things exactly as they want.<br />People with OCPD may have a preoccupation with order, perfectionism, and control. They may also have the following traits: <br />• **Perfectionism:** They may demand perfection in all tasks, which can lead to missed deadlines. <br />• **Preoccupation with details:** They may be preoccupied with lists, rules, and order. <br />• **Lack of flexibility:** They may be unwilling to compromise or allow others to do things. <br />• **Difficulty working with others:** They may have difficulty delegating tasks or working with others unless they can do things exactly as they want. <br />• **Difficulty coping with criticism:** They may have difficulty coping with criticism and may over-focus on flaws in others. 
+
+[^190]: Trump admires strong-arm dictators, Hungary's Viktor Orbàn, Russia's Vladimir Putin, North Korea's Kim Jun-Un.
+
+[^1000]: Trump cheats on:<br />• wives<br />• taxes – personal income<br />• personal property tax<br />• real estate property tax<br />• corporate income<br />• financial loans<br />• insurance)<br />• golf<br />• elections *(tries to)*
+
+[^1100]: I'd call it thievery when one pays less than the agreed upon contracted price for goods or services. It was in Wikipedia or a news story on the web that Trump paid something like 30% for several grand pianos for his casinos.<br />It’s like I buy a Ford truck priced at \$100,000 and I tell the dealer, "It’s a good truck, but it’s not worth \$100,000. I'll pay you \$30,000 for the truck."
 
 ## Donald Trump – The Reasons Against Him
 
@@ -122,10 +134,15 @@ I have more information on my website: [\[ Ralph Hightower — Website \]](https
 | [Game of Thrones Personality Test](https://mygotcharacter.com/)[^13] | Primary Character: [Mance Rayder](https://mygotcharacter.com/EKJKKKCKIACFCK.html)[^14]<br />Secondary Character:  [Ser Jaime Lannister](https://mygotcharacter.com/EKJKKKCKIACFCK.html)[^15]<br />Tertiary Character: [Ygritte](https://mygotcharacter.com/EKJKKKCKIACFCK.html)[^16] |
 
 [^11]: I'm a [Chevy](https://www.chevrolet.com/) guy and Tahoe is a model name. I love it!
+
 [^12]: People with INTP preferences are quiet, thoughtful, and analytical. They tend to put a great deal of consideration into everything they do. INTPs are generally easygoing and genuine. They might seem to “zone out” from time to time while they consider new concepts or explore how something works. They are often happiest laying low and working hard behind the scenes. While they may seem impersonal with people they don’t know well, they like to have a close group of people they open up to. They are naturally adept at building structural models or coming up with new concepts for solving problems. They tend to see the world as a system that can be analyzed, and this is how they approach just about everything in life.<br />• 4.8% of the population • 5.8% of men • 4.0% of women •<br />× analytical × conceptual × logical ×<br />× quiet × independent × easygoing ×<br />× complex × driven × curious ×<br />× questioning × methodical × values competence ×<br />× self-critical × thoughtful × innovative ×<br />× problem solver × reflective × autonomous ×
+
 [^13]: I had to Google the GOT Personality Test. Oh, I don't subscribe to HBO, so all I know of Game of Thrones is that's it's sorta like King Arthur set in medieval times.<br />I took the GOT Personality Test. I saw that reference in a LinkedIn news article about using personality tests to get the right balance of different personalities. I think using a personality test to determine employment is a form of discrimination and I use that rather strictly because there's race discrimination and gender discrimination.
+
 [^14]: Primary Character: Mance Rayder <br />Nickname: King Beyond the Wall<br />Traits: Inspiring, Formidable, Pioneer<br />Your primary character is Mance Rayder. You are a charismatic, calm, and determined man with strong leadership qualities. You tend to rise quickly through the ranks of any organization you enter. You have good social and diplomatic skills, allowing you to collaborate with many different types of people. You have an honest yet stern persona which earns you respect and admiration of those around you. You are very trusting which can be your greatest weakness. You value freedom above all else.
+
 [^15]: Secondary Character: Ser Jaime Lannister<br />Nickname: The Kingslayer<br />Traits: Arrogant, Sarcastic, Apathetic<br />Your secondary character is Ser Jaime Lannister. You are charming and capable of impeccable politeness in the right circumstances. In the wrong circumstances, others perceive you to be disdainful, sarcastic and arrogant. However your arrogance may just be confidence, as you excel in a number of areas, including intelligence. You don't mock others over minor failings but you are usually very blunt. You typically just say what you are thinking without regard to the feelings of those that you perceive as incompetent. You regard ruthlessness as a virtue and behave in an unapologetically amoral way. You're not politically ambitious and sly maneuvering is not your way.
+
 [^16]: Tertiary Character: Ygritte<br />Nickname: Ygritte<br />Traits: Wild, Uncoventional, Determined<br />Your tertiary character is Ygritte. You are brave and unconventional. You have a mind of your own and prefer not to conform with the demands of societu're cunning and value freedom above all else. You're loyal, but also very passionate and you follow to your heart much more than your head. You live a very fulfilled life, chasing your dreams but this sometimes causes others to mistrust you although you have little enmity in your heart.
 
 ### Where I Can Be Found
@@ -170,5 +187,6 @@ I have more information on my website: [\[ Ralph Hightower — Website \]](https
 | [Carolina Band](https://sc.edu/study/colleges_schools/music/ensembles/usc_bands/athletic_bands/carolina_band/index.php)  |
 | [University Band](https://sc.edu/study/colleges_schools/music/ensembles/usc_bands/concert_bands/university_band.php) |
 | [Jazz Bands](https://sc.edu/study/colleges_schools/music/ensembles/jazz_ensembles/index.php) |
+
 
 [^61]: WUSC-FM was an AM Radio 📻 broadcast station when I was a student.
