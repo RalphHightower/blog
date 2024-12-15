@@ -10,6 +10,11 @@ excerpt: ''
 title: 'Posting, Configuration, Workflows'
 ---
 
+| Purpose | Problem Issues, Security Issues |
+|---|---|
+| | [Issues · RalphHightower/blog](https://github.com/RalphHightower/blog/issues) |
+| | [Discussions · RalphHightower/blog](https://github.com/RalphHightower/blog/discussions) |
+
 ## Blog Software 
 
 This blog is built with [Jekyll 4.3.4](https://github.com/jekyll) using the theme, [jekyll/minima: Minima is a one-size-fits-all Jekyll theme for writers.](https://github.com/jekyll/minima). [GitHub](https://github.com/) for version control and hosting. 
