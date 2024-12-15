@@ -1,6 +1,7 @@
 ---
 layout: base
 ---
+
 # Reason for Starting a Blog[^110]
 
 [^110]: I am the *“enemy within”*.
@@ -41,18 +42,18 @@ During Trump's presidential campaigns in 2015 (primary), 2016 campaign and his p
 5. Narcissism[^150]
 6. Obsessive-Compulsive Personality[^170]
 7. Strong-Arm Dictator Wannabe[^180]
-8. Grifter 
+8. Grifter
 9. Cheat
-10. Thief[^1100]
+10. Thief[^190]
 
 [^120]: Trump whines, *"It's not fair! Biden has weaponized the [Justice system](https://www.justice.gov/) against me!"* Yet, when he gets into office the second time, he's going to direct the [Department of Justice](https://www.justice.gov/) to target his political enemies, and the enemies within. 
 [^130]: That childish behavior of calling people names. 
 [^140]: Two words. **Trumper Tantrums**
 [^150]: Flattering Trump allows one to manipulate Trump. Vladimir Putin is former KGB. He knows how to control Trump. 
-[^170]: People with OCPD may have a preoccupation with order, perfectionism, and control. They may also have the following traits: <br />• **Perfectionism:** They may demand perfection in all tasks, which can lead to missed deadlines. <br />• **Preoccupation with details:** They may be preoccupied with lists, rules, and order. <br />• **Lack of flexibility:** They may be unwilling to compromise or allow others to do things. <br />• **Difficulty working with others:** They may have difficulty delegating tasks or working with others unless they can do things exactly as they want. 
-People with OCPD may have a preoccupation with order, perfectionism, and control. They may also have the following traits: <br />• **Perfectionism:** They may demand perfection in all tasks, which can lead to missed deadlines. <br />• **Preoccupation with details:** They may be preoccupied with lists, rules, and order. <br />• **Lack of flexibility:** They may be unwilling to compromise or allow others to do things. <br />• **Difficulty working with others:** They may have difficulty delegating tasks or working with others unless they can do things exactly as they want. <br />• **Difficulty coping with criticism:** They may have difficulty coping with criticism and may over-focus on flaws in others. 
+[^170]: People with OCPD may have a preoccupation with order, perfectionism, and control. They may also have the following traits: <br />• **Perfectionism:** They may demand perfection in all tasks, which can lead to missed deadlines. <br />• **Preoccupation with details:** They may be preoccupied with lists, rules, and order. <br />• **Lack of flexibility:** They may be unwilling to compromise or allow others to do things. <br />• **Difficulty working with others:** They may have difficulty delegating tasks or working with others unless they can do things exactly as they want.<//br />People with OCPD may have a preoccupation with order, perfectionism, and control. They may also have the following traits: <br />• **Perfectionism:** They may demand perfection in all tasks, which can lead to missed deadlines. <br />• **Preoccupation with details:** They may be preoccupied with lists, rules, and order. <br />• **Lack of flexibility:** They may be unwilling to compromise or allow others to do things. <br />• **Difficulty working with others:** They may have difficulty delegating tasks or working with others unless they can do things exactly as they want. <br />• **Difficulty coping with criticism:** They may have difficulty coping with criticism and may over-focus on flaws in others. 
+
 [^180]: Trump admires strong-arm dictators, Hungary's Viktor Orbàn, Russia's Vladimir Putin, North Korea's Kim Jun-Un.
-[^1100]: I'd call it thievery when one pays less than the agreed upon contracted price for goods or services. It was in Wikipedia or a news story on the web that Trump paid something like 30% for several grand pianos for his casinos.<br />It’s like I buy a Ford truck priced at \$100,000 and I tell the dealer, "It’s a good truck, but it’s not worth \$100,000. I'll pay you \$30,000 for the truck."
+[^190]: I'd call it thievery when one pays less than the agreed upon contracted price for goods or services. It was in Wikipedia or a news story on the web that Trump paid something like 30% for several grand pianos for his casinos.<br />It’s like I buy a Ford truck priced at \$100,000 and I tell the dealer, "It’s a good truck, but it’s not worth \$100,000. I'll pay you \$30,000 for the truck."
 
 ## Donald Trump – The Reasons Against Him
 
@@ -121,15 +122,10 @@ I have more information on my website: [\[ Ralph Hightower — Website \]](https
 | [Game of Thrones Personality Test](https://mygotcharacter.com/)[^13] | Primary Character: [Mance Rayder](https://mygotcharacter.com/EKJKKKCKIACFCK.html)[^14]<br />Secondary Character:  [Ser Jaime Lannister](https://mygotcharacter.com/EKJKKKCKIACFCK.html)[^15]<br />Tertiary Character: [Ygritte](https://mygotcharacter.com/EKJKKKCKIACFCK.html)[^16] |
 
 [^11]: I'm a [Chevy](https://www.chevrolet.com/) guy and Tahoe is a model name. I love it!
-
 [^12]: People with INTP preferences are quiet, thoughtful, and analytical. They tend to put a great deal of consideration into everything they do. INTPs are generally easygoing and genuine. They might seem to “zone out” from time to time while they consider new concepts or explore how something works. They are often happiest laying low and working hard behind the scenes. While they may seem impersonal with people they don’t know well, they like to have a close group of people they open up to. They are naturally adept at building structural models or coming up with new concepts for solving problems. They tend to see the world as a system that can be analyzed, and this is how they approach just about everything in life.<br />• 4.8% of the population • 5.8% of men • 4.0% of women •<br />× analytical × conceptual × logical ×<br />× quiet × independent × easygoing ×<br />× complex × driven × curious ×<br />× questioning × methodical × values competence ×<br />× self-critical × thoughtful × innovative ×<br />× problem solver × reflective × autonomous ×
-
 [^13]: I had to Google the GOT Personality Test. Oh, I don't subscribe to HBO, so all I know of Game of Thrones is that's it's sorta like King Arthur set in medieval times.<br />I took the GOT Personality Test. I saw that reference in a LinkedIn news article about using personality tests to get the right balance of different personalities. I think using a personality test to determine employment is a form of discrimination and I use that rather strictly because there's race discrimination and gender discrimination.
-
 [^14]: Primary Character: Mance Rayder <br />Nickname: King Beyond the Wall<br />Traits: Inspiring, Formidable, Pioneer<br />Your primary character is Mance Rayder. You are a charismatic, calm, and determined man with strong leadership qualities. You tend to rise quickly through the ranks of any organization you enter. You have good social and diplomatic skills, allowing you to collaborate with many different types of people. You have an honest yet stern persona which earns you respect and admiration of those around you. You are very trusting which can be your greatest weakness. You value freedom above all else.
-
 [^15]: Secondary Character: Ser Jaime Lannister<br />Nickname: The Kingslayer<br />Traits: Arrogant, Sarcastic, Apathetic<br />Your secondary character is Ser Jaime Lannister. You are charming and capable of impeccable politeness in the right circumstances. In the wrong circumstances, others perceive you to be disdainful, sarcastic and arrogant. However your arrogance may just be confidence, as you excel in a number of areas, including intelligence. You don't mock others over minor failings but you are usually very blunt. You typically just say what you are thinking without regard to the feelings of those that you perceive as incompetent. You regard ruthlessness as a virtue and behave in an unapologetically amoral way. You're not politically ambitious and sly maneuvering is not your way.
-
 [^16]: Tertiary Character: Ygritte<br />Nickname: Ygritte<br />Traits: Wild, Uncoventional, Determined<br />Your tertiary character is Ygritte. You are brave and unconventional. You have a mind of your own and prefer not to conform with the demands of societu're cunning and value freedom above all else. You're loyal, but also very passionate and you follow to your heart much more than your head. You live a very fulfilled life, chasing your dreams but this sometimes causes others to mistrust you although you have little enmity in your heart.
 
 ### Where I Can Be Found
@@ -140,28 +136,25 @@ I have more information on my website: [\[ Ralph Hightower — Website \]](https
 | Facebook | [RalphHightower](https://www.facebook.com/ralph.hightower/) (I spend more time on LinkedIn than I do on Facebook.) |
 | GitHub | **[RalphHightower (Ralph Hightower\)](https://github.com/RalphHightower)** |
 | GitLab | [RalphHightower](https://gitlab.com/RalphHightower) |
-| GitLab | [Permanent Vacations](https://gitlab.com/permanent-vacations) |
-| Google Dev | [RalphHightower](https://g.dev/RalphHightower) |
+| GitLab | [Permanent Vacations](https://gitlab.com/permanent-vacations) | Google Dev | [RalphHightower](https://g.dev/RalphHightower) |
 | Gravatar | [RalphHightower](http://gravatar.com/ralphhightower) |
 | Hackster.io | [ralph-hightower](https://www.hackster.io/ralph-hightower) |
 | IEEE Collabratec | [RalphHightower](https://ieee-collabratec.ieee.org/app/p/RalphHightower) |
 | LinkedIn Profile | **[RalphHightower](https://www.linkedin.com/in/ralphhightower/)** (LinkedIn is where I spend the majority of my time.) |
 | Photography Portfolio \(Flickr\) | **[RalphHightower](https://www.flickr.com/photos/ralphhightower/)** |
 | Stack Overflow | [ralph-hightower](https://stackoverflow.com/users/19978043/ralph-hightower) |
-| Twitter | ~~[RalphHightower](https://twitter.com/RalphHightower)~~[^21]
+| Twitter | ~~[RalphHightower](https://twitter.com/RalphHightower)~~[^21] |
 | YouTube | [RalphHightower](https://www.youtube.com/@RalphHightower&show_icons)  |
 
 [^21]: As of April 27, 2023, I deactivated my Twitter account based on this Elon Musk tweet:<br />[@ElonMusk](https://twitter.com/elonmusk/status/1651602599345373186): *Anyone making materially false statements on this platform will get Community Noted, including you, me, Tucker, advertisers, head of state, etc. No exceptions. <br />Convince the people and let the chips fall where they may.* <br />@RalphHightower: Seriously? Yet you welcomed back a pathological liar, Donald Trump, who incited and welcomed violence in an attempted coup d'état on January 6 in the storming of the U.S. Capitol. Twitter has gone to ***HELL!***
 
 ### Authored Websites
 
-|[RalphHightower](https://ralphhightower.github.io/RalphHightower/) | Description |
+| [RalphHightower](https://ralphhightower.github.io/RalphHightower/) | Description |
 |---|---|
-| [RalphHightower](https://ralphhightower.github.io/RalphHightower/) GitHub Repositories | Primary Website|
-| [Azure-Resources](https://ralphhightower.github.io/Azure-Resources/ )|Useful Documents for Azure|
-| [GM-Canada-OnStar-2G-Sunset](https://ralphhightower.github.io/GM-Canada-OnStar-2G-Sunset/ )|Canada sunsetted cellular CDMA 2G technology in 2015. GM Canada figured out how to retain OnStar functionality in affected vehicles without using a dongle like GM USA. Documents from [NHTSA (US) nhtsa\.gov](https://www.nhtsa.gov).|
-| [Sushi](https://ralphhightower.github.io/Sushi/ ) | A place for sushi recipes and checklists for checking off menu items. |
-| [SpaceShuttleMissionSchedule](https://ralphhightower.github.io/SpaceShuttleMissionSchedule/ )[^31]|NASA Space Shuttle Mission Schedule Transfer to Outlook Calendar|
+| [RalphHightower](https://ralphhightower.github.io/RalphHightower/) GitHub Repositories | Primary Website |
+| [Azure-Resources](https://ralphhightower.github.io/Azure-Resources/ )| Useful Documents for Azure |
+| [GM-Canada-OnStar-2G-Sunset](https://ralphhightower.github.io/GM-Canada-OnStar-2G-Sunset/ )|Canada sunsetted cellular CDMA 2G technology in 2015. GM Canada figured out how to retain OnStar functionality in affected vehicles without using a dongle like GM USA. Documents from [NHTSA (US) nhtsa\.gov](https://www.nhtsa.gov).| [Sushi](https://ralphhightower.github.io/Sushi/ ) | A place for sushi recipes and checklists for checking off menu items. | [SpaceShuttleMissionSchedule](https://ralphhightower.github.io/SpaceShuttleMissionSchedule/ )[^31]|NASA Space Shuttle Mission Schedule Transfer to Outlook Calendar|
 | [RalphHightower/minimaUSCGamecockSandstorm](https://ralphhightower.github.io/minimaUSCGamecockSandstorm/USCGamecocksSandstorm.html) | USC Gamecock Sandstorm theme derived from [jekyll](https://github.com/jekyll/jekyll ) / [minimaa](https://github.com/jekyll/minima), a one-size-fits-all Jekyll theme for USC Gamecock writers. **[Production Ready]** |
 
 [^31]: Support ended with wheelstop of Space Shuttle Atlantis on July 21, 2011 with the end of the Space Shuttle fleet.
