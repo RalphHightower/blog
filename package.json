@@ -1,54 +1,45 @@
 {
-  "name": "blog",
-  "description": "RalphHightower/blog – This is my personal blog with a heavy anti-Trump emphasis, occasionally a post that's non-political. 2015, I assessed Trump as a stupid, effing idiot with severe character flaws. 2024 pre-election, I had concerns for democracy; post-election, I have fears for democracy. This blog is built with Jekyll 4.3.4. No code.",
+  "name": "blog" 
+  "description": "@RalphHightower/blog – This is my personal blog with a heavy anti-Trump emphasis, occasionally a post that's non-political. 2015, I assessed Trump as a stupid, effing idiot with severe character flaws. 2024 pre-election, I had concerns for democracy; post-election, I have fears for democracy. This blog is built with Jekyll 4.3.4. No code.",
   "author": {
     "name": "Ralph Hightower",
-    "email": "ralph.hightower@gmail.com",
-    "url": "https://ralphhightower.github.io/RalphHightower/"
-  },
+    "email": "ralph.hightower+blog@gmail.com",
+    "url": "https://ralphhightower.github.io/blog/"
+    },
   "contributors": [
-    "ralph.hightower@gmail.com ",
-    "[dependabot[bot]](https://github.com/apps/dependabot)",
-    "[step-security-bot](https://github.com/step-security-bot)"
-  ],
+    "ralph.hightower+blog@gmail.com ",
+    ],
   "version": "v1.0.0",
   "type": "website",
   "homepage": "https://ralphhightower.github.io/blog/",
   "bugs": {
     "url": "https://github.com/RalphHightower/blog/issues",
-    "email": "ralph.hightower@gmail.com"
-  },
+    "email": "ralph.hightower+blog-bugs@gmail.com"
+    },
   "license": "Apache-2.0",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/RalphHightower/blog.git"
-  },
   "keywords": [
-    "windows",
-    "c-sharp",
-    "unix",
-    "beer",
-    "politics",
-    "photography",
-    "software-engineering",
-    "software-development",
-    "dslr",
-    "software-architecture",
-    "software-engineer",
-    "university-of-south-carolina",
-    "slr",
+    "windows", 
+    "c-sharp", 
+    "unix", 
+    "beer", 
+    "politics", 
+    "photography", 
+    "software-engineering", 
+    "software-development", 
+    "dslr", 
+    "software-architecture", 
+    "software-engineer", 
+    "university-of-south-carolina", 
+    "slr", 
     "anti-trump"
-  ],
+    ],
   "devDependencies": {
-    "@semantic-release/changelog": "^6.0.3",
-    "@semantic-release/commit-analyzer": "^13.0.0",
-    "@semantic-release/git": "^10.0.1",
-    "@semantic-release/release-notes-generator": "^14.0.1",
-    "markdownlint-cli2": "^0.16.0",
+    "markdownlint-cli2": "^0.15.0",
     "markdownlint-cli2-formatter-json": "^0.0.8",
     "semantic-release": "^24.2.0"
   },
   "dependencies": {
     "npm": "^10.9.2"
-  }
+  },
+"packageManager": "npm@10.9.0"
 }
