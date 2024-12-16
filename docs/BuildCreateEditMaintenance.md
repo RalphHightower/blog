@@ -94,7 +94,7 @@ These Ruby libraries are used in @RalphHightower/blog.
 | googleapis/release-please@v16.15.0 | Dec 2, 2024 | [googleapis/release-please: generate release PRs based on the conventionalcommits.org spec](https://github.com/googleapis/release-please) |
 | lowlighter/metrics@3.34 | Sep 12, 2023 | [lowlighter/metrics: 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!](https://github.com/lowlighter/metrics) |
 | ossf/scorecard-action@v2.4.0 | Jul 26, 2024 | [ossf/scorecard-action: Official GitHub Action for OpenSSF Scorecard.](https://github.com/ossf/scorecard-action) |
-| ruby/setup-ruby@v1.203.0 | Dec 6, 2024 | [ruby/setup-ruby: An action to download a prebuilt Ruby and add it to the PATH in 5 seconds](https://github.com/ruby/setup-ruby) |
+| ruby/setup-ruby@v1.204.0 | Dec 13, 2024 | [ruby/setup-ruby: An action to download a prebuilt Ruby and add it to the PATH in 5 seconds](https://github.com/ruby/setup-ruby) |
 | step-security/harden-runner@v2.10.2 | Nov 18, 2024 | [step-security/harden-runner: Network egress filtering and runtime security for GitHub-hosted and self-hosted runners](https://github.com/step-security/harden-runner) |
 
 ## GitHub Codespace
