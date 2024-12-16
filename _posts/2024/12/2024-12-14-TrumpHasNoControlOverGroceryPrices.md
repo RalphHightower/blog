@@ -7,7 +7,7 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: 'title'
+title: 'Donald Trump: Grocery Prices Are Hard! Besides, I'm a Billionaire; I Don’t Care!"
 ---
 
 
