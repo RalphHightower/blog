@@ -10,10 +10,11 @@ excerpt: ''
 title: 'Posting, Configuration, Workflows'
 ---
 
-| Purpose | Problem Issues, Security Issues |
+| Purpose | Points of Contact |
 |---|---|
-| | [Issues · RalphHightower/blog](https://github.com/RalphHightower/blog/issues) |
-| | [Discussions · RalphHightower/blog](https://github.com/RalphHightower/blog/discussions) |
+| Bug reports, Enhancements Requested | [Issues · RalphHightower/blog](https://github.com/RalphHightower/blog/issues) |
+| Comments, Discussions blog related | [Discussions · RalphHightower/blog](https://github.com/RalphHightower/blog/discussions) |
+| Security Advisories, Security Vulnerabilities | Security Issues may be reported via [Security Advisories · RalphHightower/blog](https://github.com/RalphHightower/blog/security/advisories), or privately to <ralph.hightower+blog-sec@gmail.com> |
 
 ## Blog Software 
 
