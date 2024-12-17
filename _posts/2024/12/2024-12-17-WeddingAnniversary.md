@@ -7,7 +7,7 @@ categories: [Wedding Anniversary]
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: "For Our 45<sup>th</sup> Wedding Anniversary in 2022, I thought That I'd Do Something Different"
+title: "For Our 45th Wedding Anniversary in 2022, I thought That I'd Do Something Different"
 ---
 
 
