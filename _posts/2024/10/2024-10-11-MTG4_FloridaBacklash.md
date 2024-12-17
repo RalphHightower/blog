@@ -17,15 +17,14 @@ Story by Ben Blanchet. October 10, 2024.
 
 
 
-- **Misinformation**: Rep. Jared Moskowitz criticized Rep. Marjorie Taylor Greene for spreading dangerous misinformation about weather control during Hurricane Milton.
+- **Misinformation**: Rep. Jared Moskowitz criticized Rep. [Marjorie Taylor Greene (T-GA14)](https://greene.house.gov/) for spreading dangerous misinformation about weather control during Hurricane Milton.
 - **Political Response**: President Joe Biden condemned both Greene and former President Donald Trump for their disinformation regarding hurricane relief efforts.
 - **Impact on Public**: Moskowitz highlighted the risks of misinformation, especially during emergencies, and stressed the need for accurate information to ensure public safety.
 - **Disaster Politics**: The article discusses the ongoing issue of "disaster politics" and how it affects emergency management and public perception.
 
-Rep. Jared Moskowitz (D-Fla.) scorched Rep. Marjorie Taylor Greene (R-GA)
+Rep. Jared Moskowitz (D-Fla.) scorched Rep. Marjorie Taylor Greene (T-GA14)
 on Wednesday as Hurricane Milton hit his home state.
 “And then obviously, we have my favorite, Marjorie Taylor Greene, who
-
 runs the Mensa caucus, talking about the fact that we have a weather
 machine. If there are aliens watching and they’re looking at all of this,
 they can definitely confirm there is no intelligent life in Congress with
