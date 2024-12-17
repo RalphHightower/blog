@@ -15,8 +15,15 @@ I started my blog because I realized that maintaining my opinion that [Donald Tr
 |---|---|
 | Bug reports, Enhancements Requested | [Issues · RalphHightower/blog](https://github.com/RalphHightower/blog/issues) |
 | Comments, Discussions blog related | [Discussions · RalphHightower/blog](https://github.com/RalphHightower/blog/discussions) |
-| Security Advisories, Security Vulnerabilities | Security Issues may be reported via [Security Advisories · RalphHightower/blog](https://github.com/RalphHightower/blog/security/advisories), or privately to <ralph.hightower+blog-sec@gmail.com> |
+| Security Advisories, Security Vulnerabilities | [Security Advisories · RalphHightower/blog](https://github.com/RalphHightower/blog/security/advisories),<br />or privately to <ralph.hightower+blog-sec@gmail.com> |
 
+#### Email Marketing
+
+There are two types of marketing by emails:
+
+1. Permission based marketing: Send an introductory email asking for permission to send email marketing. If I respond "Okay", then you may proceed.
+2. Forgiveness based marketing: Spammer just goes ahead and blasts me with spam, offering a link to unsubscribe. Why is it my responsibility to unsubscribe from emails that I never subscribed to?<br />Don't be a jerk. Don't assume that your email "got lost". I received it. It's just a waste of my time to respond. I never buy spammed products.
+    </div>
 ### Politics
 
 Both political parties fucked up in 2016.
