@@ -24,7 +24,7 @@ Jost, alongside his “Weekend Update” co-host Michael Che, roasted Trump’s 
 
 He joked that Trump continued to announce “everyone he’s going to fire” in six months.
 
-“Trump nominated Kristi Noem to lead the Department of Homeland Security, Lee Zeldin to head the EPA and Elise Stefanik as ambassador to the U.N. and then someone yelled, ‘Now do a silly one,’” said Jost as a picture of former Rep. Matt Gaetz (R-Fla.) appeared on the screen.
+“Trump nominated Kristi Noem to lead the Department of Homeland Security, Lee Zeldin to head the EPA and Elise Stefanik as ambassador to the U.N. and then someone yelled, ‘Now do a silly one,’” said Jost as a picture of former Rep. Matt Gaetz (T-FL) appeared on the screen.
 
 Trump nominated Gaetz, who has faced allegations of sexual misconduct, to be his attorney general on Wednesday. The pick has sparked bipartisan backlash.
 
