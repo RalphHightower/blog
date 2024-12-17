@@ -3,11 +3,11 @@ layout: post
 tags: [first amendment, Des Moines Register, Iowa, politics]
 categories: [Donald Trump]
 date: 2024-12-17 11:14 AM
-excerpt: "“The odds of success here are slim to none, but winning in court is not likely the real goal of this lawsuit," said Clay Calvert, a media law expert and professor at the University of Florida's Levin College of Law. "The true motivation is to intimidate the press and journalists. I unfortunately suspect this lawsuit is just a harbinger of things to come.”
+excerpt: "“The odds of success here are slim to none, but winning in court is not likely the real goal of this lawsuit. The true motivation is to intimidate the press and journalists. I unfortunately suspect this lawsuit is just a harbinger of things to come.” – Clay Calvert, a media law expert and professor at the University of Florida's Levin College of Law"
 image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: 'Donald Trump Attacks Founding Documents Of Our Constitution: First Amendment Under Attack"
+title: "Donald Trump Attacks Founding Documents Of Our Constitution: First Amendment Under Attack"
 ---
 
 
