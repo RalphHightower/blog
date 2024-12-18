@@ -39,7 +39,7 @@
     "semantic-release": "^24.2.0"
   },
   "dependencies": {
-    "npm": "^10.9.2"
+    "npm": "^11.0.0"
   },
 "packageManager": "npm@10.9.0"
 }
