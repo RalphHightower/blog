@@ -7,7 +7,7 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: 'Trump Says: Bringing Grocery Prices Down Is Hard!"
+title: "Trump Says: Bringing Grocery Prices Down Is Hard!"
 ---
 
 
