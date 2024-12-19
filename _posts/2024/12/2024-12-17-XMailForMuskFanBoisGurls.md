@@ -11,8 +11,9 @@ title: "Musk/Tesla Fan Bois and Fan Gurls: Get Ready For XMail and Have Trump Pr
 ---
 
 
-## Seriously?
+## Seriously? But Fan Bois and Fan Gurls of Musk and Tesla Cult Will Sign Up.
 
+![Fanboi Elon Musk Acting Like a Schoolgirl at a Taylor Swift Concert](https://ralphhightower.github.io/blog/img/ElonMuskAtTaylorSwiftConcert.jpg)
 XMail is too late. Once Musk joined the Trump Cult, it has become a Trump propaganda macine. X/Twitter has become a cesspool of bigotry and hate speech.
 
 ### [Elon Musk Hints at 'Xmail' : A Potential Rival to Gmail and Apple Mail / Entrepreneur](https://www.entrepreneur.com/en-in/news-and-trends/elon-musk-hints-at-xmail-a-potential-rival-to-gmail-and/484394)
