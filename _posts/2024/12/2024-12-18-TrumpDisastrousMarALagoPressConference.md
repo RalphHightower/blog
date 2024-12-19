@@ -1,9 +1,9 @@
 ---
 layout: post
-tags: []
-categories: []
-#date: 2019-06-25 13:14:15
-#excerpt: ''
+tags: [Mar-a-Lago, Florida, unhinged, press conference, politics]
+categories: [Donald Trump]
+date: 2024-12-18 7:17 PM
+excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
