@@ -34,7 +34,7 @@
     "anti-trump"
     ],
   "devDependencies": {
-    "markdownlint-cli2": "^0.15.0",
+    "markdownlint-cli2": "^0.16.0",
     "markdownlint-cli2-formatter-json": "^0.0.8",
     "semantic-release": "^24.2.0"
   },
