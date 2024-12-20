@@ -7,7 +7,7 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: 'Liz Cheney: Blasts Partisan Report For Participating On January 6, 2021 Committe"
+title: "Liz Cheney: Blasts Partisan Report For Participating On January 6, 2021 Committe"
 ---
 
 
