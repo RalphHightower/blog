@@ -7,7 +7,7 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: 'title'
+title: 'Government Shutdown: Governing Is For Adults. Pretending Is For Trumpers'
 ---
 
 
