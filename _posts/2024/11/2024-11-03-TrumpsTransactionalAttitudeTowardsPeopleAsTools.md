@@ -11,9 +11,11 @@ title: "Trump's People Transactions: Did Trump Bribe South Carolina's Lieutenant
 ---
 
 
-## [Donald Trump admits EV flip-flop was a quid pro quo to secure Elon Musk’s support / Fortune](https://fortune.com/2024/08/05/donald-trump-elon-musk-tesla-endorsement/)[^711]. 
+## Trump's Transactional Attitude Of People As Tools
 
-### Everything Is a Transaction to Trump. Even Relationships
+Everything Is a Transaction to Trump. Even Relationships
+
+### [Donald Trump admits EV flip-flop was a quid pro quo to secure Elon Musk’s support / Fortune](https://fortune.com/2024/08/05/donald-trump-elon-musk-tesla-endorsement/)[^711]. 
 
 August 5, 2024 at 8:48 AM EDT
 
