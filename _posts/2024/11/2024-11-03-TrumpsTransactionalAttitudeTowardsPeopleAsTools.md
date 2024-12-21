@@ -2,8 +2,8 @@
 layout: post
 tags: [Donald Trump, South Carolina, Governor, Nikki Hailey, Lieutenant Governor, Henry McMaster]
 categories: [2024 presidential election]
-#date: 2024-11-03 
-#excerpt: ''
+date: 2024-11-03  5:09 PM
+excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
