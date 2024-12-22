@@ -1,8 +1,10 @@
 ---
 layout: post
-tags: []
-categories: []
-date: 2019-06-25 13:14:15excerpt: '“I love you, Elon, but you need to take 5 seconds to check your sources before highlighting bottom feeders looking for clicks.” Rep. Dan Crenshaw (T-TX) wrote on X/Twitter.'
+layout: post
+tags: [Elon Musk, government funding, government shutdown, continuing resolution, debt ceiling, Trump government disfunction, unelected governance, stopgap agreement, politics]
+categories: [Donald Trump]
+date: 2024-12-21 11:24 PM
+excerpt: '“I love you, Elon, but you need to take 5 seconds to check your sources before highlighting bottom feeders looking for clicks.” Rep. Dan Crenshaw (T-TX) wrote on X/Twitter.'
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
