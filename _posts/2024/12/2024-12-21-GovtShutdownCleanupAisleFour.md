@@ -7,7 +7,7 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: "Government Shutdown: Clean Up On Ailse Four"p
+title: "Government Shutdown: Clean Up On Ailse Four"
 ---
 
 
