@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [Elon Musk, government funding, government shutdown, continuing resolution, debt ceiling, Trump government disfunction, unelected governance, stopgap agreement, politics]
+tags: [Elon Musk, government funding, government shutdown, continuing resolution, debt ceiling, Trump government disfunction, unelected governance, stopgap agreement, politics,  MSNBC]
 categories: [Donald Trump]
 date: 2024-12-19 10:26 PM
 excerpt: 'This is the start of the Elon Musk Presidency. Trump has now been delegated vice president'
