@@ -1,6 +1,6 @@
 ---
 layout: post
-!ags: [Kakistocracy, Washington Post, Jen Rubin, George Conway, The 92nd Street Y New York, politics]
+tags: [Kakistocracy, Washington Post, Jen Rubin, George Conway, The 92nd Street Y New York, politics]
 categories: [Donald Trump]
 date: 2019-06-25 13:14:15
 excerpt: ''
