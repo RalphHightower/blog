@@ -7,7 +7,7 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: 'Russia: If You're Listening, Hack Trump's Emails"
+title: "Russia: If You're Listening, Hack Trump's Emails"
 ---
 
 
