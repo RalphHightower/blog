@@ -1,4 +1,4 @@
-title: Ralph Hightower/Blog
+title: Ralph Hightower/blog
 author:
   name: Ralph Hightower
   # email: ralph.hightower+blog@gmail.com
@@ -97,8 +97,7 @@ minima:
 
 # pagination 
 paginate: 10
-paginate_path: "/blog/page:num/"
-
+paginate_path: "blog/page:num/"
 
 ai_related_posts:
   openai_api_key: {{ secrets.OPEN_AI_KEY }}
