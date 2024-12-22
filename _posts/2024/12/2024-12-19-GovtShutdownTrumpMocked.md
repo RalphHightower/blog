@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [Elon Musk, government funding, government shutdown, continuing resolution, debt ceiling, Trump government disfunction, unelected governance, stopgap agreement, politics]
+tags: [Elon Musk, government funding, government shutdown, continuing resolution, debt ceiling, Trump government disfunction, unelected governance, stopgap agreement, politics, CNN]
 categories: [Donald Trump]
 date: 2024-12-19 3:06 PM
 excerpt: ''
