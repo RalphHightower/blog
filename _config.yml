@@ -20,7 +20,6 @@ description: > # This means to ignore newlines until "show_excerpts:"
   Capitol in a vain attempt of insurrection to overthrow a fair election.
   Cancel the rerun of “The Apprentice: White House – Wrecking Ball 2025”. 
 
-
 repository: 'RalphHightower/blog'
 url: 'https://ralphhightower.github.io'
 baseurl: "blog/"
@@ -41,6 +40,7 @@ plugins:
   - jekyll-github-metadata
   - jekyll-mentions
   - jekyll-optional-front-matter
+  - jekyll-paginate
   - jekyll-readme-index
   - jekyll-relative-links
   - jekyll-seo-tag
@@ -94,6 +94,11 @@ minima:
   # - { platform: microdotblog, user_url: "https://micro.blog/RalphHightower" }
   # - { platform: pinterest, user_url: "https://www.pinterest.com/RalphHightower" }
   # - { platform: twitter, user_url: "https://twitter.com/RalphHightower" }
+
+# pagination 
+paginate: 10
+paginate_path: "/blog/page:num/"
+
 
 ai_related_posts:
   openai_api_key: {{ secrets.OPEN_AI_KEY }}
