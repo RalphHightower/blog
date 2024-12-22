@@ -7,7 +7,7 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: 'Liz Cheney: Trump Threatens Cheney On "Truth Social"'l
+title: 'Liz Cheney: Trump Threatens Cheney On "Truth Social"'
 ---
 
 
