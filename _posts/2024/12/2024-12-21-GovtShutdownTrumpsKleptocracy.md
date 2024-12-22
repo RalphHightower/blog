@@ -6,7 +6,7 @@ date: 2024-12-21 6:34 PM
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: 'Government Shutdown: Trump Is Turning America Into His Kleptocracy"
+title: "Government Shutdown: Trump Is Turning America Into His Kleptocracy"
 ---
 
 
