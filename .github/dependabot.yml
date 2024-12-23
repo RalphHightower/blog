@@ -3,6 +3,8 @@
 
 version: 2
 updates:
+permissions:
+  contents: write
   # Enable version updates for npm
   - package-ecosystem: "npm"
     # Look for `package.json` and `lock` files in the `root` directory
