@@ -96,8 +96,8 @@ minima:
   # - { platform: twitter, user_url: "https://twitter.com/RalphHightower" }
 
 # pagination 
-paginate: 10
-paginate_path: "/blog/page:num/"
+# paginate: 10
+# paginate_path: "/blog/page:num/"
 
 ai_related_posts:
   openai_api_key: {{ secrets.OPEN_AI_KEY }}
