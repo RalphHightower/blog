@@ -2,8 +2,8 @@
 layout: post
 tags: [events of 1977]
 categories: [Wedding Anniversary]
-#date: 2019-06-25 13:14:15
-#excerpt: ''
+date: 2024-12-17 9:25 AM
+excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:

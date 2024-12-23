@@ -2,7 +2,7 @@
 layout: post
 tags: [MSNBC, Elon Musk, government funding, government shutdown, continuing resolution, debt ceiling, Trump government disfunction, unelected governance, stopgap agreement, children cancer research, politics]
 categories: [Donald Trump]
-date: 2019-06-25 13:14:15
+date: 2024-12-21 4:26 PM
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:

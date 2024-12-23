@@ -2,8 +2,8 @@
 layout: post
 tags: [Your Daily Political Fix, Mary Trump, cabinet, politics]
 categories: [Donald Trump]
-#date: 2019-06-25 13:14:15
-#excerpt: ''
+date: 2024-12-21 5:29 PM
+excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
