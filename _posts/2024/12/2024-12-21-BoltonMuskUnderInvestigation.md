@@ -2,7 +2,7 @@
 layout: post
 tags: [SpaceX, Tesla, security clearance, government protocols, cnn, federal reviews, politics]
 categories: [Elon Musk]
-date: 2019-06-25 13:14:15
+date: 2024-12-21 8:26 AM
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
