@@ -7,7 +7,7 @@ excerpt: "There could be tort civil claims payable from Patel's pocket for illeg
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: "There Could Be Civil Penalties For Unlawful Abuse of Law Regarding Trump's Retribution of Political Enemies and 'Enemies Within'c
+title: "There Could Be Civil Penalties For Unlawful Abuse of Law Regarding Trump's Retribution of Political Enemies and 'Enemies Within'"
 ---
 
 
