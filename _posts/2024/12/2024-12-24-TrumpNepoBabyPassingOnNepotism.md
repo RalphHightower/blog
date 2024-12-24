@@ -7,7 +7,7 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: "Trump Was a Nepo Baby. Continues Family Tradition. Ivanka’s Father-In-Laws Has Ties to Hezbollah"w 
+title: "Trump Was a Nepo Baby. Continues Family Tradition. Ivanka’s Father-In-Laws Has Ties to Hezbollah"
 ---
 
 
