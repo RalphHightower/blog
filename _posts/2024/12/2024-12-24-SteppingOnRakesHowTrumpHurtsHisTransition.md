@@ -1,13 +1,13 @@
 ---
 layout: post
-tags: []
-categories: []
+tags: [government shutdown, continuing resolution, debt limit, politics]
+categories: [Donald Trump]
 date: 2024-12-24 2:19 PM
-excerpt: ''
+excerpt: 'Leave it to President-elect Donald Trump to take one Washington crisis and add another one on top. As a plan to keep the federal government over the holidays began to waver this week, Trump injected a new demand: pausing — or altogether abolishing — the debt ceiling before he takes office in January.'
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: "Stepping Rakes – Trump Ruins His Coronation"
+title: "Goverment Shutdown: Stepping Rakes – Trump Ruins His Coronation"
 ---
 
 
@@ -31,7 +31,7 @@ It’s not uncommon for a president-elect to enjoy a “honeymoon” phase in th
 
 In theory, Donald Trump could be enjoying his “honeymoon” phase. In practice, the Republican keeps stepping on rakes.
 
-Take last week, for example. My MSNBC colleague Hayes Brown summarized:
+Take last week, for example. Maddow's MSNBC colleague Hayes Brown summarized:
 
 _Leave it to President-elect Donald Trump to take one Washington crisis and add another one on top. As a plan to keep the federal government over the holidays began to waver this week, Trump injected a new demand: pausing — or altogether abolishing — the debt ceiling before he takes office in January._
 
@@ -44,3 +44,5 @@ Roughly an hour and a half later, he published a follow-up piece, adding that an
 On Thursday, Trump echoed his demand. A day later, he did it again.
 
 GOP lawmakers on Capitol Hill initially expressed confusion — a debt ceiling increase is still months away, and the issue played literally no role whatsoever in the negotiations surrounding the continuing resolution — before ultimately expressing indifference. On Friday night, the House and Senate approved a spending package that prevented a shutdown, and it was silent on the nation’s borrowing limit.
+
+@RalphHightower: Stepping on rakes. That is a hilarious image. If I can find a [YouTube](https://www.youtube.com/) video clip from when I watched cartoons, I'll embed the cartoon. 
