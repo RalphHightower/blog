@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [Christmas parody, Mar-a-Lago, Florida, tariffs, Richard Nixon, Elon Musk, Pete Hegseth, Tucker Carlson, Robert F Kennedy Jr (RFK Jr), Tulsi Gabbard, Moscow, Russia, Lara Trump, senator, Kimberly Guilfoyle, Donald Jr (DJ), grifter, gold Bibles, cheap cologne, gold tennis shoes, Vivek Ramaswamy, North Atlantic Treaty Organization (NATO), Kash Patel, Federal Bureau of Investigation (FBI), illegal aliens, mass deportations, Santa Claus, term limits, Palm Beach Post, politics]
+tags: [Christmas parody, Mar-a-Lago, Florida, pardons, January 6 2021 Insurrection, tariffs, Richard Nixon, Elon Musk, Pete Hegseth, Tucker Carlson, Robert F Kennedy Jr (RFK Jr), Tulsi Gabbard, Moscow, Russia, Lara Trump, senator, Kimberly Guilfoyle, Greece, Donald Jr (DJ), grifter, gold Bibles, cheap cologne, gold tennis shoes, Vivek Ramaswamy, North Atlantic Treaty Organization (NATO), Kash Patel, Federal Bureau of Investigation (FBI), illegal aliens, mass deportations, Santa Claus, term limits, Palm Beach Post, politics]
 categories: [Donald Trump]
 date: 2024-12-24 5:08 PM
 excerpt: "“Now Dasher, now Prancer, now Comet and Vixen. Here lives the guy who's far worse than Nixon.”"
