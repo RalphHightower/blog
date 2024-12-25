@@ -7,7 +7,7 @@ date: 2024-12-25 11:20 AM
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: 'I Love It When a Plan Comes Together – "Hannibal" Smith, The A-Team"
+title: 'I Love It When a Plan Comes Together – "Hannibal" Smith, The A-Team'
 ---
 
 
