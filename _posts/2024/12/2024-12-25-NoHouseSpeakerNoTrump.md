@@ -3,7 +3,7 @@ layout: post
 tags: [Mike Johnson, House Speaker, January 6 vote certification, politics]
 categories: [Donald Trump]
 date: 2024-12-25 11:20 AM
-#excerpt: '"There will be no Democrats available to save him or the extreme MAGA Republicans from themselves based on the breaching of a bipartisan agreement that reflected priorities that were good for the American people." – Hakeem Jeffries (D-NY), Democratic minority leader.'
+excerpt: '"There will be no Democrats available to save him or the extreme MAGA Republicans from themselves based on the breaching of a bipartisan agreement that reflected priorities that were good for the American people." – Hakeem Jeffries (D-NY), Democratic minority leader.'
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
