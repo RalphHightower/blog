@@ -3,7 +3,7 @@ layout: post
 tags: [Democrats, Elon Musk, vanity, ego, politics]
 categories: [Donald Trump]
 date: 2024-12-25 2:01 PM
-excerpt: '“When you initially begin in that role, you have enormous influence. And he loves having you around and he loves listening to you, and you’re the best thing in the world. It will always decline. And that’s what happens. And you’ll see it. It will happen with Elon Musk too.” – Chris Christie, former NJ governor (T-NJ)
+excerpt: '“When you initially begin in that role, you have enormous influence. And he loves having you around and he loves listening to you, and you’re the best thing in the world. It will always decline. And that’s what happens. And you’ll see it. It will happen with Elon Musk too.” – Chris Christie, former NJ governor (T-NJ)'
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
