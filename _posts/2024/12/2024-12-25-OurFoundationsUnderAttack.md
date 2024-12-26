@@ -7,7 +7,7 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: "America's Core Foundation Is Attached By President-Elect Trump: Freedom Of Speech, Freedom Of the Press"
+title: "America's Core Foundation Is Attacked By President-Elect Trump: Freedom Of Speech, Freedom Of the Press"
 ---
 
 
