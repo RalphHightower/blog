@@ -1,13 +1,13 @@
 ---
 layout: post
-tags: [Supreme Court of the United States (SCOTUS), Clarence Thomas, Samuel Alito, ethics committee, lack of legislative oversight, MSNBC, politics]
-categories: [Donald Trump]
+tags: [Clarence Thomas, Harlan Crow, ethics, self-reporting, no oversight, Donald Trump, politics]
+categories: [Supreme Court of the United States (SCOTUS)]
 date: 2024-12-23 9:31 PM
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: "Justices Clarence Thomas and Samuel Alito Failed to Report  Lavish Gifts"
+title: "Clarence Thomas Ethics Part 1: Justices Clarence Thomas and Samuel Alito Failed to Report  Lavish Gifts"
 ---
 
 
