@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [Mary Trump Media, Donald Trump, Joe Biden, steals credits, blames others for his failures, politics]
+tags: [Mary Trump Media, Donald Trump, Joe Biden, steals credits, blames others for his failures, glory hog, blame-shifter, politics]
 categories: [Donald Trump]
 date: 2024-12-01 9:28 PM
 excerpt: "Watch how Trump shamelessly claims credit for Biden's achievements - from insulin pricing to infrastructure projects - while planning to destroy these same programs once in office. See his pattern of taking credit for successes and denying all failures, even as progressives attempt to work with him for the American people."
