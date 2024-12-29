@@ -7,7 +7,7 @@ excerpt: "‘With Trump's Republican Party there is no honor among thieves’: R
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: 'The Apprentice – Wrecking Ball: Goodbye Democracy. Trumpers Plan Con
+title: 'The Apprentice – Wrecking Ball: Goodbye Democracy. Trumpers Plan Constitutional Constitutional Convention to Rewrite It For Themselves'
 ---
 
 
