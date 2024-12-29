@@ -177,3 +177,15 @@ I have more information on my website: [\[ Ralph Hightower — Website \]](https
 | [Jazz Bands](https://sc.edu/study/colleges_schools/music/ensembles/jazz_ensembles/index.php) |
 
 [^61]: WUSC-FM was an AM Radio 📻 broadcast station when I was a student.
+
+| [![OpenSSF Best Practices](https://www.bestpractices.dev/projects/9780/badge)](https://www.bestpractices.dev/projects/9780) |
+|:---|
+| ![Ralph Hightower Repository’s Stats](https://github-readme-stats.vercel.app/api?username=RalphHightower&show_icons=true&title_color=73000a&text_color=73000a&border_color=73000a&icon_color=73000a&bg_color=ffffff&include_all_commits=false&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)|
+| ![GitHub Streak](https://streak-stats.vercel.app?user=RalphHightower&date_format=Y-m-d&border=73000a&stroke=73000a&ring=73000a&fire=73000a&currStreakNum=73000a&sideNums=73000a&currStreakLabel=73000a&sideLabels=73000a&dates=73000a) |
+| ![RalphHightower's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RalphHightower&theme=minimal&color=73000a&title_color=73000a&line=73000a&point=73000a) |
+| ![GitHub Summary Cards](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RalphHightower&theme=default) |
+
+|    |    |
+|---|---|
+| ![GitHub Repositories By Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RalphHightower&theme=default) | ![GitHub Most Committed By Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RalphHightower&theme=default) |
+| ![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RalphHightower&theme=default) | ![GitHub Commits By Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RalphHightower&theme=default&utcOffset=-5) |
