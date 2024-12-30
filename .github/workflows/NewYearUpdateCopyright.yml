@@ -1,6 +1,7 @@
 name: Create Issue to Update Year In. Relevant Files
 # developer: @RalphHightower 
 on:
+  workflow_dispatch:
   schedule:
     - cron: "0 5 1 1 *" # America/New_York 
     - cron: "0,15,30,45 * * * *" # test on quarter hou4
