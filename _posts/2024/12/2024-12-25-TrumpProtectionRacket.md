@@ -19,6 +19,8 @@ Story by Brad Reed. December 25, 2024.
 
 Not only is Trump a grifter, but he's demanding protection money.
 
+- Uber Technologies (\$2 million)
+- Pratt Industries (\$1 million)
 - Amazon (\$1 million)
 - AT&T (\$1 million)
 - Bank of America (\$1 million)
@@ -28,9 +30,10 @@ Not only is Trump a grifter, but he's demanding protection money.
 - General Motors (\$1 million)
 - Goldman Sachs (\$1 million)
 - Intuit (\$1 million) (\$1 million)
+- Kraken (\$1 million)
+- Meta, the parent company of Facebook (\$1 million). 
 - Stanley Black & Decker (\$1 million)
 - Toyota (\$1 million) (\$1 million)
 - Uber (\$1 million, plus another \$1 million from its CEO)"
-- Meta, the parent company of Facebook (\$1 million). The powerful drug lobby  (\$1 million)
 - Pharmaceutical Research and Manufacturers (PhRMA) drug lobby, (\$1 million)
-- Sam Altman, the CEO of OpenAI. (\$1 million)
+- Sam Altman/OpenAI. (\$1 million)
