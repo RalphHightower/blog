@@ -20,10 +20,10 @@ permissions:
     # Look for `Ruby Gems` in the following directories 
     directories: 
       - "/"
-      - "_plugins"
+  #    - "_plugins"
     # Check for updates once a week
     schedule:
-      interval: "weekly"
+      interval: "daily"
     commit-message:
       prefix: "[info](sec) bundler:"
 
