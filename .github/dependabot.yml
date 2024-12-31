@@ -32,7 +32,7 @@ permissions:
     schedule:
       interval: daily
 
-  - package-ecosystem: bundler
-    directory: /
-    schedule:
-      interval: daily
+#  - package-ecosystem: bundler
+#    directory: /
+#    schedule:
+#      interval: daily
