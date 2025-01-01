@@ -7,7 +7,7 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: 'The Truth About The Apprentice Movie"
+title: "Trump: The Truth About The Apprentice Movie"
 ---
 
 
