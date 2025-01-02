@@ -74,7 +74,7 @@ Trump Trinkets:
 - $199 “FIGHT FIGHT FIGHT” cologne for men 
 - $195 quarter-zip sweatshirts
 - $99 coffee table tome, “SAVE AMERICA.”
-- $95 Mar-a-Lago bauble
+- $95 [Mar-a-Lago](https://www.maralagoclub.com/) bauble
 - $92 glass MAGA hat ornament
 - $86 “GIANT Trump Chocolate Gold Bar”
 - $85 cigar ashtrays

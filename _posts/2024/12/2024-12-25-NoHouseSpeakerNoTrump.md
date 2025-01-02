@@ -23,7 +23,7 @@ Story by Travis Gettys. December 24, 2024.
 
 "If we have some kind of protracted fight where we can't elect a speaker — the speaker's not elected, we're not sworn in, and if we're not sworn in, we can't certify the election." – Rep. Carlos Gimenez (T-FL).
 
-Rep. Pat Fallon (T-TX) suggested that Trump should invite Johnson to celebrate Christmas with him at Mar-a-Lago to affirm his support, and other GOP lawmakers agreed that replacing him as speaker could throw the start of Trump's second term into chaos.
+Rep. Pat Fallon (T-TX) suggested that Trump should invite Johnson to celebrate Christmas with him at [Mar-a-Lago](https://www.maralagoclub.com/) to affirm his support, and other GOP lawmakers agreed that replacing him as speaker could throw the start of Trump's second term into chaos.
 
 "To ensure President Trump can take office and hit the ground running on Jan. 20, we must be able to certify the 2024 election on Jan. 6. However, without a speaker, we cannot complete this process." – Rep. Claudia Tenney (T-NY).
 

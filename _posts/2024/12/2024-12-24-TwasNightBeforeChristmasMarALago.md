@@ -23,7 +23,7 @@ The temperature had fallen to a muggy 78.
 
 ***
 
-And at Trump’s Mar-a-Lago, well after dusk
+And at Trump’s [Mar-a-Lago](https://www.maralagoclub.com/), well after dusk
 
 Not a creature was stirring, not even a Musk.
 
@@ -257,7 +257,7 @@ But he sure did exclaim as he rode out of sight.
 
 Frank Cerabino is a news columnist with The Palm Beach Post, part of the USA TODAY Network-Florida, where this column originally appeared.
 
-**This article originally appeared on Palm Beach Post: 'Twas the night before Christmas at Trump's Mar-a-Lago | Opinion
+**This article originally appeared on Palm Beach Post: 'Twas the night before Christmas at Trump's [Mar-a-Lago](https://www.maralagoclub.com/) | Opinion
 **
 
 @RalphHightower: Perfect! It's his hometown newspaper. 
