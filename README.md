@@ -8,7 +8,7 @@ layout: base
 
 ## I Am the *“Enemy Within”*
 
-I started my blog because I realized that maintaining my opinion that [Donald Trump Is a Fucking Idiot](https://ralphhightower.github.io/RalphHightower/Opinions/DonaldTrumpIsAFuckingIdiot.html) was going to be unwieldy to update and maintain. You may have a different opinion from mine. But the only person that can convince me that Trump is not a fucking idiot is Donald Trump himself. I probably won't change your opinion or vote. Likewise, you won't be able to change my assessment of Trump.
+I started my blog because I realized that maintaining my opinion/editorial page that [Donald Trump Is a Fucking Idiot](https://ralphhightower.github.io/RalphHightower/Opinions/DonaldTrumpIsAFuckingIdiot.html) was going to be unwieldy to update and maintain. You may have a different opinion from mine. But the only person that can convince me that Trump is not a fucking idiot is Donald Trump himself. I probably won't change your opinion or vote. Likewise, you won't be able to change my assessment of Trump.
 
 Prior to the November 5, 2024 presidential election, I had concerns for **Democracy.** Now, I have fears for **Democracy.** Fears that America won't survive a second Trump term.
 
@@ -21,11 +21,11 @@ Both political parties fucked up in 2016.
 
 Both candidates were polarizing! Trump still is.
 
-No, I do not have TDS (Trump Derangement Syndrome)[^320]<sup>,</sup>[^325], or RTD[^340] nor do I belong to the Cult of Trump. My opinion of Trump hasn't wavered from when he first announced his candidacy. He's still a fucking idiot.
+No, I do not have TDS (Trump Derangement Syndrome)[^320]<sup>,</sup>[^325]. I certainly never was a member of the Cult of Trump. Trumpers are infected with RTD[^340]. My assessment of Trump hasn't wavered from when he first announced his candidacy in 2015. He's still a fucking idiot.
 
-[^320]: Wikipedia — [Trump derangement syndrome](https://en.wikipedia.org/wiki/Trump_derangement_syndrome?wprov=sfla1)
+[^320]: [Wikipedia — Trump derangement syndrome](https://en.wikipedia.org/wiki/Trump_derangement_syndrome?wprov=sfla1)
 [^325]: Trump's sycophants, acolytes, and cul members, are just as infantile as Trump with his name calling and labeling.
-[^340]: Rabid Trump Disease.
+[^340]: @RalphHightower: Since Trumpers have their TDS for us, I created the *"Rabid Trump Disease"* for them. Either that, or Trump Cultists.
 
 Trump's actions following the 2020 election should have disqualified him from ever serving again. However, the Trumpers[^330] in the House and Senate chose **"Party Over Country"**
 
@@ -80,7 +80,9 @@ Apparently, stewing in his own venom and demons after losing the 2020 election h
 
 [^610]: [gaslighting –  Merriam-Webster](http://www.merriam-webster.com/dictionary/gaslighting): noun<br /gas·​light·​ing \| \ ˈgas-ˌlī-tiŋ , -ˈlī- \<br />Definition (Entry 1 of 2)<br />1: psychological manipulation of a person usually over an extended period of time that causes the victim to question the validity of their own thoughts, perception of reality, or memories and typically leads to confusion, loss of confidence and self-esteem, uncertainty of one's emotional or mental stability, and a dependency on the perpetrator<br />//Gaslighting can be a very effective tool for the abuser to control an individual. It's done slowly so the victim writes off the event as a one off or oddity and doesn't realize they are being controlled and manipulated.<br />— Melissa Spino<br />//Gaslighting can happen in any relationship circumstance, including between friends and family members—not just in couple relationships.<br />— Deena Bouknight<br />//This is a classic gaslighting technique—telling victims that others are crazy and lying, and that the gaslighter is the only source for "true" information. It makes victims question their reality …<br />— Stephanie Sarkis<br />2: the act or practice of grossly misleading someone especially for one's own advantage<br />//Election season can create emotions spanning from immense anxiety all the way to extreme apathy. The public arguing, divisiveness, and competition for votes, including political gaslighting, can be overwhelming and exhausting.<br />— Vernita Perkins and Leonard A. Jason<br />//As the midterm elections approach, Americans have gotten an earful both about crime itself and how the other side is distorting the news about it for political gain. “Cherry-picking!” “Fearmongering!” “Gaslighting!”<br />— Chris Herrmann and Fritz Umbach<br />//Intense gaslighting techniques are making it difficult for Montana's commoners to discern what's truth and what's propaganda.<br />— Steve Kelly<br />//This corporate gaslighting effectively blames children for being addicted to social media and conveniently ignores how companies have intentionally designed their products to have addictive features …<br />— Nancy Kim
 
-Trump keeps boasting that he is a highly intelligent person. As Brad Pitt said in the movie, Moneyball, "Show me the money!". In Trump’s case, I say "Show me your Mensa test score!". If you're short on cash, I'll even pay the $99 for you to [take the Mensa Admission Test](https://www.us.mensa.org/join/testing/).
+Trump keeps boasting that he is a highly intelligent person. As Brad Pitt said in the movie, Moneyball, "Show me the money!". In Trump’s case, I say **"Show me your Mensa test score!"**. If you're short on cash[^620], I'll even pay the $99 for you to [take the Mensa Admission Test](https://www.us.mensa.org/join/testing/).
+
+[^620]: @RalphHightower: I cannot fathom why a billionaire, as you claim, is short on cash, but apparently you are since you refused to pay Grand Rapids, Michigan for providing additional security of police overtime and the venue rental expenses. 
 
 But you more than likely won't own up to my challenge to you. It'll probably be for the same reason that you won't reveal your [Internal Revenue Service](https://www.irs.gov/) tax returns as presidents have done as past precedent. You're afraid that revealing that information will prove that you are a fraud.
 
@@ -139,7 +141,8 @@ I have more information on my website: [\[ Ralph Hightower — Website \]](https
 | Facebook | [RalphHightower](https://www.facebook.com/ralph.hightower/) (I spend more time on LinkedIn than I do on Facebook.) |
 | GitHub | **[RalphHightower (Ralph Hightower\)](https://github.com/RalphHightower)** |
 | GitLab | [RalphHightower](https://gitlab.com/RalphHightower) |
-| GitLab | [Permanent Vacations](https://gitlab.com/permanent-vacations) | Google Dev | [RalphHightower](https://g.dev/RalphHightower) |
+| GitLab | [Permanent Vacations](https://gitlab.com/permanent-vacations) |
+| Google Dev | [RalphHightower](https://g.dev/RalphHightower) |
 | Gravatar | [RalphHightower](http://gravatar.com/ralphhightower) |
 | Hackster.io | [ralph-hightower](https://www.hackster.io/ralph-hightower) |
 | IEEE Collabratec | [RalphHightower](https://ieee-collabratec.ieee.org/app/p/RalphHightower) |
@@ -156,13 +159,15 @@ I have more information on my website: [\[ Ralph Hightower — Website \]](https
 | [RalphHightower](https://ralphhightower.github.io/RalphHightower/) | Description |
 |---|---|
 | [RalphHightower](https://ralphhightower.github.io/RalphHightower/) GitHub Repositories | Primary Website |
-| [Azure-Resources](https://ralphhightower.github.io/Azure-Resources/ )| Useful Documents for Azure |
-| [GM-Canada-OnStar-2G-Sunset](https://ralphhightower.github.io/GM-Canada-OnStar-2G-Sunset/ )|Canada sunsetted cellular CDMA 2G technology in 2015. GM Canada figured out how to retain OnStar functionality in affected vehicles without using a dongle like GM USA. Documents from [NHTSA (US) nhtsa\.gov](https://www.nhtsa.gov).|
-| [Sushi](https://ralphhightower.github.io/Sushi/ ) | A place for sushi recipes and checklists for checking off menu items. |
-| [SpaceShuttleMissionSchedule](https://ralphhightower.github.io/SpaceShuttleMissionSchedule/ )[^31]|NASA Space Shuttle Mission Schedule Transfer to Outlook Calendar|
+| [Azure-Resources](https://ralphhightower.github.io/Azure-Resources/ ) | Useful Documents for Azure |
+| [GM-Canada-OnStar-2G-Sunset](https://ralphhightower.github.io/GM-Canada-OnStar-2G-Sunset/ ) | Canada sunsetted cellular CDMA 2G technology in 2015. GM Canada figured out how to retain OnStar functionality in affected vehicles without using a dongle like GM USA. Documents from [(US)[^31] National Highway Transportation Safety Administration (NHTSA) nhtsa\.gov](https://www.nhtsa.gov). |
+| [Sushi](https://ralphhightower.github.io/Sushi/ ) | Right now, it's a place for checklists for checking off sushi menu items in the Columbia, South Carolina metro area (Richland and Lexington counties)[^33]. |
+| [SpaceShuttleMissionSchedule](https://ralphhightower.github.io/SpaceShuttleMissionSchedule/ )[^32] | NASA Space Shuttle Mission Schedule Transfer to Outlook Calendar|
 | [RalphHightower/minimaUSCGamecockSandstorm](https://ralphhightower.github.io/minimaUSCGamecockSandstorm/USCGamecocksSandstorm.html) | USC Gamecock Sandstorm theme derived from [jekyll](https://github.com/jekyll/jekyll ) / [minimaa](https://github.com/jekyll/minima), a one-size-fits-all Jekyll theme for USC Gamecock writers. **[Production Ready]** |
 
-[^31]: Support ended with wheelstop of Space Shuttle Atlantis on July 21, 2011 with the end of the Space Shuttle fleet.
+[^31]: @RalphHightower: I find it ironic that a United States federal agency has information for cars and trucks registered in Canada.
+[^32]: Support ended with wheelstop of Space Shuttle Atlantis on July 21, 2011 with the end of the Space Shuttle fleet.
+[^31]: @RalphHightower: The Columbia metro area probably encompasses a larger area than those two counties, but Lexington and Richland are as far as we are willing to drive. Plus, crossing the Broad River to the Northeast area of Columbia is a farther distance. I've included Sandhills Shopping Center since we would eat there after meeting with our financial advisor when he was located out that way.
 
 ### [USC Gamecocks](https://www.sc.edu/)
 
