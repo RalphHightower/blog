@@ -3,7 +3,7 @@ layout: post
 tags: [MSNBC, H1B visas, Elon Musk, Vivek Ramaswamy, maga base, Steve Bannon,  politicsaa q]
 categories: [Donald Trump]
 date: 2024-12-31 7:39 PM
-#mexcerpt: ''
+excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
