@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [Supreme Court of the United States (SCOTUS), ChiefJustice, John Roberts, vice president-elect, politics]
+tags: [Supreme Court of the United States (SCOTUS), ChiefJustice, John Roberts, vice president-elect, Donald Trump, president-elect, politics]
 categories: [JD Vance]
 date: 2025-01-02 3:20 PM
 excerpt: "“Every Administration suffers defeats in the court system — sometimes in cases with major ramifications for executive or legislative power or other consequential topics. Nevertheless, for the past several decades, the decisions of the courts, popular or not, have been followed, and the Nation has avoided the standoffs that plagued the 1950s and 1960s[^41]<sup>,</sup>[^42]. Within the past few years, however, elected officials from across the political spectrum have raised the specter of open disregard for federal court rulings. These dangerous suggestions, however sporadic, must be soundly rejected.” – John Roberts, Supreme Court Chief Justice"
