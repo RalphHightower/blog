@@ -7,7 +7,7 @@ excerpt: "Trump is playing checkers in a three dimensional world of chess"
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: 'title'
+title: 'Bully Our Allies. Play Nice With Our Enemies. Yea, That Sounds Like Trump'
 ---
 
 
