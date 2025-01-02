@@ -145,7 +145,7 @@ people had a gun[^53]. Nobody was killed except for Ashley Babbitt[^54]. She was
 killed. She was killed. She was shot in the head by a policeman that had no…
 What he did was horrible.[^55]
 
-[^50]: @RalphHightower: Like a spoiled brat, Trump went home to his golf resort, Mar-a-Lago, to sulk, and nurse his ego.
+[^50]: @RalphHightower: Like a spoiled brat, Trump went home to his golf resort, [Mar-a-Lago](https://www.maralagoclub.com/), to sulk, and nurse his ego.
 
 [^51]: @RalphHightower: The inauguration was peaceful, looking a bit bizarre with the twelve foot chain-link barricades, topped with razor wire.
 

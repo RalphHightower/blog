@@ -15,7 +15,7 @@ title: 'Spoiled Brat/Crybaby Trump Has Ir​rep​a​ra​bly Damaged the Unite
 
 By Greta Reich. 10/06/2024 12:51 PM EDT
 
-**Former** President Trump has irreparably damaged our nation's peaceful transfer of power behaving as a spoiled brat and crybaby. Instead of gracefully attending the inauguration of President Biden, he sulked at his golf resort home, Mar-a-Lago. 
+**Former** President Trump has irreparably damaged our nation's peaceful transfer of power behaving as a spoiled brat and crybaby. Instead of gracefully attending the inauguration of President Biden, he sulked at his golf resort home, [Mar-a-Lago](https://www.maralagoclub.com/). 
 
 - **Unsealed Legal Brief**: A federal judge unsealed special counsel Jack Smith’s 165-page brief detailing Donald Trump’s alleged criminal activities related to the Jan. 6 Capitol riot.
 - **Sen. Tom Cotton's Response**: Cotton criticized the brief as “unverified hearsay” and accused Smith of professional misconduct.

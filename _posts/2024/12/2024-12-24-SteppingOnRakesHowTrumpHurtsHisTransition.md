@@ -37,7 +37,7 @@ _Leave it to President-elect Donald Trump to take one Washington crisis and add 
 
 Throughout his first term, Trump had a habit of screwing up policy agreements with 11th-hour demands that didn’t make a lot of sense, and last week’s developments suggested that the president-elect learned very little from those experiences.
 
-A stopgap spending bill was working its way through the legislative process on Capitol Hill, which generated very little interest from Mar-a-Lago — that is, until late Wednesday afternoon, when Trump published an item to his social media platform demanding that congressional Republicans add a debt ceiling increase to the bill. Failing to do so, Trump added, would be “a betrayal of our country.”
+A stopgap spending bill was working its way through the legislative process on Capitol Hill, which generated very little interest from [Mar-a-Lago](https://www.maralagoclub.com/) — that is, until late Wednesday afternoon, when Trump published an item to his social media platform demanding that congressional Republicans add a debt ceiling increase to the bill. Failing to do so, Trump added, would be “a betrayal of our country.”
 
 Roughly an hour and a half later, he published a follow-up piece, adding that any Republican who would be “so stupid” as to approve a spending bill without increasing the debt limit “should, and will, be Primaried.”
 

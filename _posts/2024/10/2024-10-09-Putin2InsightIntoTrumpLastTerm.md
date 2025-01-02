@@ -23,14 +23,14 @@ Trump’s advisers having clandestine meetings with foreign country officials? T
 Hurricane Helene relief, Trump is undermining government relief by spreading falsehoods; but lies are expected from pathological liar.
  Seven phone calls to Putin as a private citizen? Trump is a ro7ge, loose cannon.
 
-In one scene, Woodward recounts a moment at Mar-a-Lago where Trump tells a senior aide to leave the room so “he
+In one scene, Woodward recounts a moment at [Mar-a-Lago](https://www.maralagoclub.com/) where Trump tells a senior aide to leave the room so “he
  could have what he said was a private phone call with Russian President Vladimir Putin.”
 
 “According to Trump’s aide, there have been multiple phone calls between Trump and Putin, maybe as many as seven
 in the period since Trump left the White House in 2021,” Woodward writes.
 
 Woodward also writes about Trump’s decision to run for president again, including a series of conversations
-with his ally and golfing buddy, Sen. Lindsey Graham. “Going to Mar-a-Lago is a little bit like going to North
+with his ally and golfing buddy, Sen. Lindsey Graham. “Going to [Mar-a-Lago](https://www.maralagoclub.com/) is a little bit like going to North
 Korea,” Graham said. “Everybody stands up and claps every time Trump comes in.” The South Carolina Republican
 is quoted as saying Biden “won fair and square” but that Trump “doesn’t like to hear that.” Woodward goes on
 to describe Graham’s attempts to give Trump campaign advice for 2024.

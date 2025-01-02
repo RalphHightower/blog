@@ -51,7 +51,7 @@ This article contains a list of conspiracy theories, many of them misleading, di
 
 ##### Biden Administration
 
-- False claim that the Biden administration had been ready to kill him during the FBI search of Mar-a-Lago
+- False claim that the Biden administration had been ready to kill him during the FBI search of [Mar-a-Lago](https://www.maralagoclub.com/)
 - Conspiracy theories about the 2024 Atlantic hurricane season
 
 ##### Kamala Harris
