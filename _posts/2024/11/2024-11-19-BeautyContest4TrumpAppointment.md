@@ -11,7 +11,7 @@ title: "'Desire for drama': The Mar-a-Lago beauty pageant to win a key Trump pos
 ---
 
 
-## Donald Trump confirmed he's considering using the U.S. military to carry out mass deportations when he takes office — so how much will it cost? Plus, it's a battle royale at Mar-a-Lago to figure out who will be Trump's Treasury Secretary. Carol Leonnig, Leigh Ann Caldwell, and Mark Leibovich join Stephanie Ruhle on The 11th Hour.
+## Donald Trump confirmed he's considering using the U.S. military to carry out mass deportations when he takes office — so how much will it cost? Plus, it's a battle royale at [Mar-a-Lago](https://www.maralagoclub.com/) to figure out who will be Trump's Treasury Secretary. Carol Leonnig, Leigh Ann Caldwell, and Mark Leibovich join Stephanie Ruhle on The 11th Hour.
 
 Nov 19, 2024  #MaraLago #Trump #Treasury
 
