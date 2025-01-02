@@ -1,9 +1,9 @@
 ---
 layout: post
-tags: [Wall Street Journal (WSJ), China, ByteDance, TikTok, Supreme Court of the United States (SCOTUS), Joe Biden, ]
+tags: [Wall Street Journal (WSJ), China, ByteDance, TikTok, Supreme Court of the United States (SCOTUS), Joe Biden, politics]
 categories: [Donald Trump]
 date: 2025-01-01 8:28 PM
-excerpt: "“... wants the Supreme Court to treat him like a second President with Joe Biden so he can save TikTok. The brief is extraordinary in several ways, none of them good. Mr. Trump wants the Court to treat him as if he’s already President before he’s inaugurated. Trump for all intents and purposes is a "private citizen" until he's inaugurated, the board countered. He is also in essence "asking the Justices to let him rewrite a law he doesn’t like.” – Wall Street Journal editorial board"
+excerpt: "“... wants the Supreme Court to treat him like a second President with Joe Biden so he can save TikTok. The brief is extraordinary in several ways, none of them good. Mr. Trump wants the Court to treat him as if he’s already President before he’s inaugurated. Trump for all intents and purposes is a “private citizen” until he's inaugurated, the board countered. He is also in essence asking the Justices to let him rewrite a law he doesn’t like.” – Wall Street Journal editorial board"
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
