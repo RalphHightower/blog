@@ -36,6 +36,6 @@ Sarah Longwell:
 
 [^31]: Trump during a 2015 rally called McCain a "loser" and said that he preferred people who were not captured.
 
-[^32]: Trump hosted Fuentes at Mar-a-Lago in 2022, called political rivals "vermin" in a Veteran's Day post in 2023, and claimed immigrants were "poisoning the blood of our country" during a rally in March.
+[^32]: Trump hosted Fuentes at [Mar-a-Lago](https://www.maralagoclub.com/) in 2022, called political rivals "vermin" in a Veteran's Day post in 2023, and claimed immigrants were "poisoning the blood of our country" during a rally in March.
 
 [^33]: @RalphHightower: Trumpers choose "Party Over Country".

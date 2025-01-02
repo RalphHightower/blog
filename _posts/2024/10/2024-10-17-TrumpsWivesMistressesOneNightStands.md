@@ -19,7 +19,7 @@ I contend that Trump was having extramarital affairs with his second-to-be wife 
 
 | Wife | Married | Divorced | Nationality | Settlement | Alimony | Fringe Benefits |
 |---|---|---|---|---|---|---|
-| Ivana Marie Zelníčková[^301] | 1977 | 1990[^313] | Czechoslovakia (until 1993)<br />Czech Republic (from 1993)<br />Austria (from 1973)<br />United States (from 1988) | \$14 million9[^302]<br />a 45-room mansion, Greenwich, Conn.<br />Trump Plaza apartment | \$650,000 annually | use of the 118-room Mar-a-Lago mansion in Florida for one month a year |
+| Ivana Marie Zelníčková[^301] | 1977 | 1990[^313] | Czechoslovakia (until 1993)<br />Czech Republic (from 1993)<br />Austria (from 1973)<br />United States (from 1988) | \$14 million9[^302]<br />a 45-room mansion, Greenwich, Conn.<br />Trump Plaza apartment | \$650,000 annually | use of the 118-room [Mar-a-Lago](https://www.maralagoclub.com/) mansion in Florida for one month a year |
 | Marla Maples[^311] | 1993 | 1999[^312]<sup>,</sup>[^322] | American | between 1 – 5 million | | Apartment in one of Trump's buildings |
 | Melania (Melanija) Knavs[^321] | 2005 | *not yet* | Yugoslavia. 1970-1991<br />Slovenia. 1991–present<br />United States. 2006–present. | |  |  |
 

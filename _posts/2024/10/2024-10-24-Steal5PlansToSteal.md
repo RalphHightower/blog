@@ -33,4 +33,4 @@ Trump is a narcissistic, pathological liar using gaslighting to dupe the former 
 
 @RalphHightower: Trump gaslit the cult followers into believing that the election was stolen, tweeted to his cult members to show up at the Capitol to riot and halt the certification of the results.
 
-Unlike past precedents, Trump was sulking at his Mar-a-Lago golf resort instead of "passing the baton" at Biden's inauguration.
+Unlike past precedents, Trump was sulking at his [Mar-a-Lago](https://www.maralagoclub.com/) golf resort instead of "passing the baton" at Biden's inauguration.

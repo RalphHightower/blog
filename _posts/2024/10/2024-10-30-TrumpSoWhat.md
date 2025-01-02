@@ -40,13 +40,13 @@ What Trump wanted Pence to do was refuse to certify Joe Biden’s victory in the
 
 “It’s really rich for Democratic leaders to say that Donald Trump is a unique threat to democracy when he peacefully gave over power on Jan. 20.” – JD Vance said during the vice presidential debate.
 
-@RalphHightower: The inauguration of Biden and Harris was peaceful. But Trump, the spoiled brat, was sulking at his Mar-a-Lago mansion in Florida. Trump was the first modern president to snub his successor’s swearing-in, another departure from our democratic traditions. However, the certification of the election was a God-damned fucking riot!
+@RalphHightower: The inauguration of Biden and Harris was peaceful. But Trump, the spoiled brat, was sulking at his [Mar-a-Lago](https://www.maralagoclub.com/) mansion in Florida. Trump was the first modern president to snub his successor’s swearing-in, another departure from our democratic traditions. However, the certification of the election was a God-damned fucking riot!
 
 Neither Trump nor Vance will forthrightly acknowledge that Trump lost the 2020 election. And to this day, Trump will not commit to accepting defeat if — hopefully, when — Harris beats him on Election Day.
 
 - So what if Trump was convicted on 34 felony counts by a New York jury? 
 - So what if the charges — falsification of business records — stemmed from the way he illegally disguised the payment of $130,000 in hush money to an adult-film actress for keeping quiet about her sexual liaison with Trump? Who cares?
-- So what if Trump spent a year obstructing attempts by the National Archives to retrieve the classified documents he took with him to Mar-a-Lago?
+- So what if Trump spent a year obstructing attempts by the National Archives to retrieve the classified documents he took with him to [Mar-a-Lago](https://www.maralagoclub.com/)?
 - So what if he kept this sensitive material in a gaudy ballroom and a chandeliered bathroom? What’s it to you?
 - So what if Trump called the top election official in Georgia and pressured him to announce the discovery of just enough votes to reverse Biden’s victory in that state? “All I want to do is this: I just want to find 11,780 votes,” Trump said, in a conversation he cannot deny because it was recorded.
 - So what if Trump lies constantly, blatantly, sometimes viciously, even when there is no dispute about the truth? 
