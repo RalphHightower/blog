@@ -15,7 +15,7 @@ title: "New Orleans Strong: Starting the Healing Process"
 
 Suspect in deadly New Orleans attack likely acted alone, FBI says; Suspect in Las Vegas bombing had apparent self-inflicted gunshot, police said; Families remember victims of New Orleans terror attack; and more on tonight’s broadcast.
 
-<iframe width="932" height="524" src="https://www.youtube.com/embed/vNg24sWxzKs&amp;start=1168" title="Nightly News Full Episode - Jan. 2" frameborder="0"  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen;></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vNg24sWxzKs?si=bHK_L_Ir1PlcuGxj&amp;start=1163" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 00:00 Intro
 01:32 FBI: New Orleans attacker acted alone
