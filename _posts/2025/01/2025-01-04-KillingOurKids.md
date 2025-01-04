@@ -2,8 +2,8 @@
 layout: post
 tags: [MSNBC, Chris Murphy, Elon Musk, oligarchy, Rober F Kennedy Jr (RFKJr), Department of Health and Human Services (DHHS), Kash Patel, Federal Burea of Investigation, administration cabinet, politics ]
 categories: [Donald Trump]
-date: 2019-06-25 13:14:15
-0#excerpt: "“Why are we giving RFK Jr. a pass? Okay, he wants to ban pharmaceutical advertising. That's nice. He also wants to kill our kids by withdrawing vaccines from our schools and taking fluoride out of our drinking water. Democrats have to fight these nominees.”– Sen. Chris Murphy (D‐ T)"
+date: 2025-01-04 11:34 AM
+excerpt: "“Why are we giving RFK Jr. a pass? Okay, he wants to ban pharmaceutical advertising. That's nice. He also wants to kill our kids by withdrawing vaccines from our schools and taking fluoride out of our drinking water. Democrats have to fight these nominees.”– Sen. Chris Murphy (D‐ T)"
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
