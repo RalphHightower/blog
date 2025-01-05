@@ -37,4 +37,4 @@ Jean-Pierre began her answer by giving props to the media.
 
 [^101]: @RalphHightower: Trump does not serve as president. He only serves himself and nobody else. Demagog came to me writing this. The first definition[^121] fits Trump to a "T".
 
-[^121]: [demagog • Merriam-Webster:](http://www.merriam-webster.com/dictionary/demagog)<br />noun<br />dem·​a·​gogue || \ ˈde-mə-ˌgäg  \<br />variants: or less commonly dem​a​gog<br />Definition (Entry 1 of 2)<br />&&1: a leader who makes use of popular prejudices and false claims and promises in order to gain power**<br /><br />~~2: a leader championing the cause of the common people in ancient times~~
+[^121]: [demagog • Merriam-Webster:](http://www.merriam-webster.com/dictionary/demagog)<br />noun<br />dem·​a·​gogue <br />variants: or less commonly dem​a​gog<br />Definition (Entry 1 of 2)<br /> **1: a leader who makes use of popular prejudices and false claims and promises in order to gain power**<br />~~2: a leader championing the cause of the common people in ancient times~~
