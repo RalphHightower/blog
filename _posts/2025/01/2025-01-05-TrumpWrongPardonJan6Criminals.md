@@ -3,7 +3,7 @@ layout: post
 tags: [AP News, Kristen Welker, Meet the Press, NBC, presidential pardons, Marjorie Taylor Greene, Jim Jordan, Gus Bilirakis, Dusty Johnson, Aquilino Gonell, Jamie Raskin, Bennie Thompson, Jim Himes, US House, US Capitol Police, politics]
 categories: [Donald Trump, January 6 2021 insurrection]
 date: 2025-01-05 4:43 PM
-excerpt: "“You cannot be pro-police officer and rule of law if you are pardoning people who betrayed that trust, injured police officers and ransacked the Capitol.” – ret8red US Capitol Police Officer Sgt. Aquilino Gonell"
+excerpt: "“You cannot be pro-police officer and rule of law if you are pardoning people who betrayed that trust, injured police officers and ransacked the Capitol.” – retired US Capitol Police Officer Sgt. Aquilino Gonell"
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
