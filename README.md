@@ -36,7 +36,7 @@ Discussions and comments can be placed here: [RalphHightower/blog · Discussions
 During Trump's presidential campaigns in 2015 (primary), 2016 campaign and his presidency from January 20, 2017 through January 6, 2020's provoked Insurrection, I assessed these critical character flaws of Donald Trump:
 
 1. Pathological lying
-2. Tyrant
+2. Demagog[^120]
 3. Hypocrisy[^130]
 4. Immaturity[^140]
 5. Temper[^150]
@@ -48,6 +48,7 @@ During Trump's presidential campaigns in 2015 (primary), 2016 campaign and his p
 11. Cheat[^1100]
 12. Thief[^1200]
 
+[^120]: [demagog • Merriam-Webster:](http://www.merriam-webster.com/dictionary/demagog)<br />noun<br />dem·​a·​gogue <br />variants: or less commonly dem​a​gog<br />Definition (Entry 1 of 2)<br /> **: a leader who makes use of popular prejudices and false claims and promises in order to gain power** <br />~~2: a leader championing the cause of the common people in ancient times~~
 [^130]: Trump whines, *"It's not fair! Biden has weaponized the [Justice system](https://www.justice.gov/) against me!"* Yet, when he gets into office the second time, he's going to direct the [Department of Justice](https://www.justice.gov/) to target his political enemies, and the enemies within. 
 [^140]: That childish behavior of calling people names. 
 [^150]: Two words. **Trumper Tantrums**
