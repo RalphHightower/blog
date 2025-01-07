@@ -3,7 +3,7 @@ layout: post
 tags: [NBC, Meet the Press, Kristen, John Thune, Federal Bureau of Investigation (FBI), Kash Patel, Department of Justice (DOJ), political enemies, politics]
 categories: [Donald Trump]
 date: 2025-01-07 5:24 PM
-excerpt: ''
+excerpt: "Yet another evasive answer from the leader of the Senate on whether it’s suitable for a presidential attack dog to lead the most powerful law enforcement agency in the country."
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
