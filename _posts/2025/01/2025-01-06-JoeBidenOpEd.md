@@ -3,11 +3,11 @@ layout: post
 tags: [January6 2021, insurrection, Donald Trump, democracy, peaceful transfer of power, politics]
 categories: [Joe Biden]
 date: 2025-01-06 4:32 PM
-excerpt: ''
+excerpt: "An unrelenting effort has been underway to rewrite — even erase — the history of that day. To tell us we didn’t see what we all saw with our own eyes. To dismiss concerns about it as some kind of partisan obsession. To explain it away as a protest that just got out of hand."
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: "Washington Post OpEd / Joe Biden: Democracy Prevailed Over The January 6, 2021 Insurrectionists l"
+title: "Washington Post OpEd / Joe Biden: Democracy Prevailed Over The January 6, 2021 Insurrectionists"
 ---
 
 
