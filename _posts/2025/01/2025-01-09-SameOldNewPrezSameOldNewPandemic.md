@@ -23,3 +23,5 @@ Sanjaya Senanayake, an infectious disease specialist at the Australian National 
 
 He told express.co.uk: "It does cause a problem, and it is quite likely, as [China](https://www.gov.cn/) is seeing a lot of it, that with all the global travel that we see, particularly at this time of year, it may be taken to other parts of the world."
 
+@RalphHightower: Trump has also vowed to pull out from the World Health Organization (WHO), which means that the United States won't receive notifications of disease outbreaks in other parts of the world. 
+
