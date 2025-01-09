@@ -1,9 +1,9 @@
 ---
 layout: post
-tags: [Mary Trump Media, Department of Justice (DOJ), US District Court, election fraud, January 6 2021, NY State Business Fraud Sentencing, Stormy Daniels, hush money, politics]
+tags: [Mary Trump Media, Department of Justice (DOJ), US District Court, election fraud, January 6 2021, NY State, Business Fraud Sentencing, Stormy Daniels, porn star, extramarital sex, hush money, politics]
 categories: [Donald Trump]
 date: 2025-01-08 9:29 PM
-excerpt: 'It was reported elsewhere that Trump does not want sentencing by NY State Judge Mechan because he would then become a convicted felon; even with no jail time, parole, or fines. Although the New Jersey golf courses are in DJ's (Don Jr), Trump is the ultimate beneficiary and those NJ courses would lose their liquor license. It is not known if CA, NC, and FL have similar laws. Also, he does not want the public to know what he did in trying to overturn the 2020 election and his role in inciting the January 6 2021 insurrection."
+excerpt: "It was reported elsewhere that Trump does not want sentencing by NY State Judge Mechan because he would then become a convicted felon; even with no jail time, parole, or fines. Although the New Jersey golf courses are in DJ's (Don Jr), Trump is the ultimate beneficiary and those NJ courses would lose their liquor license. It is not known if CA, NC, and FL have similar laws. Also, he does not want the public to know what he did in trying to overturn the 2020 election and his role in inciting the January 6 2021 insurrection."
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
