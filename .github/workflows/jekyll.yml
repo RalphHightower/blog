@@ -32,7 +32,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
      - name: Harden Runner
-       uses: step-security/harden-runner@0080882f6c36860b6ba35c610c98ce87d4e2f26f # v2.10.2
+       uses: step-security/harden-runner@v2.10.3
        with:
         disable-sudo: true
         egress-policy: block
@@ -49,8 +49,8 @@ jobs:
        uses: ruby/setup-ruby@4a9ddd6f338a97768b8006bf671dfbad383215f4 # v1.207.0
        with:
           ruby-version: '3.3.6' # Not needed with a .ruby-version file
-          bundler-cache: true # runs 'bundle install' and caches installed gems automatically
-          cache-version: 1 # Increment this number if you need to re-download cached gems
+          bundler-cache: false # runs 'bundle install' and caches installed gems automatically
+          cache-version: 6 # Increment this number if you need to re-download cached gems
      - name: Setup Pages
        id: pages
        uses: actions/configure-pages@983d7736d9b0ae728b81ab479565c72886d7745b # v5.0.0
@@ -74,7 +74,7 @@ jobs:
     needs: build
     steps:
         - name: Harden Runner
-          uses: step-security/harden-runner@0080882f6c36860b6ba35c610c98ce87d4e2f26f # v2.10.2
+          uses: step-security/harden-runner@v2.10.3
           with:
             disable-sudo: true
             egress-policy: block
