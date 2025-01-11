@@ -31,5 +31,5 @@ permissions:
     directory: /
     schedule:
       interval: daily
-commit-message:
+    commit-message:
       prefix: "[info](sec) gh-actions:"
