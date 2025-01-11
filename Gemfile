@@ -12,7 +12,7 @@ source 'https://rubygems.org'
 
 gem 'jekyll', '~> 4.3', '>= 4.3.4'
 gem 'kramdown', '~> 2.5', '>= 2.5.1'
-gem 'sassc-embedded', '~> 1.78'
+gem 'sassc-embedded', '~> 1.80', '>= 1.80.1'
 gem 'rake', '~> 13.2', '>= 13.2.1'
 gem 'minima', '~> 2.5', '>= 2.5.2'
 
@@ -28,7 +28,7 @@ gem 'jekyll-github-metadata', '~> 2.16', '>= 2.16.1'
 gem 'jekyll-last-modified-at', '~> 1.3', '>= 1.3.2'
 gem 'jekyll-mentions', '~> 1.6'
 gem 'jekyll-optional-front-matter', '~> 0.3.2'
-gem 'jekyll-paginate', '~> 1.1'
+gem 'jekyll-paginate-v2', '~> 3.0'
 gem 'jekyll-readme-index', '~> 0.3.0'
 gem 'jekyll-relative-links', '~> 0.7.0'
 gem 'jekyll-seo-tag', '~> 2.8'
@@ -37,9 +37,17 @@ gem 'jekyll-sitemap', '~> 1.4'
 # gem 'jekyll-tagging', '~> 1.1'
 gem 'jekyll-titles-from-headings', '~> 0.5.3'
 
+# { 2025-01-11 @RalphHightower jekyll_ai_related_posts
+gem 'activerecord', '~> 8.0', '>= 8.0.1'
+gem 'faraday', '~> 2.12', '>= 2.12.2'
+gem 'sqlite3', '~> 2.5'
+# gem 'zeitwerk', '~> 2.6', '>= 2.6.18'
+gem 'zeitwerk', '~> 2.7', '>= 2.7.1'
+# } 2025-01-11 @RalphHightower 
+
 # { 2024-09-29 @RalphHightower
 # /home/runner/work/blog/blog/vendor/bundle/ruby/3.3.0/gems/jekyll-4.3.4/lib/jekyll.rb:28: warning: csv was loaded from the standard library, but will no longer be part of the default gems since Ruby 3.4.0. Add csv to your Gemfile or gemspec. Also contact author of jekyll-4.3.4 to add csv into its gemspec.
-gem 'csv', '~> 3.3'
+gem 'csv', '~> 3.3', '>= 3.3.2'
 # /home/runner/work/blog/blog/vendor/bundle/ruby/3.3.0/gems/safe_yaml-1.0.5/lib/safe_yaml/transform.rb:1: warning: base64 was loaded from the standard library, but will no longer be part of the default gems since Ruby 3.4.0. Add base64 to your Gemfile or gemspec. Also contact author of safe_yaml-1.0.5 to add base64 into its gemspec.
 gem 'base64', '~> 0.2.0'
 # } 2024-09-29 @RalphHightower
