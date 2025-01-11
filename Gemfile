@@ -40,7 +40,8 @@ gem 'jekyll-titles-from-headings', '~> 0.5.3'
 # { 2025-01-11 @RalphHightower jekyll_ai_related_posts
 gem 'activerecord', '~> 8.0', '>= 8.0.1'
 gem 'faraday', '~> 2.12', '>= 2.12.2'
-gem 'sqlite3', '~> 2.5'
+# gem 'sqlite3', '~> 2.5'
+gem 'sqlite3', '~> 1.4', '>= 1.4.4'
 # gem 'zeitwerk', '~> 2.6', '>= 2.6.18'
 gem 'zeitwerk', '~> 2.7', '>= 2.7.1'
 # } 2025-01-11 @RalphHightower 
