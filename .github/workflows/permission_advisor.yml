@@ -21,16 +21,7 @@ jobs:
   advisor:
     runs-on: ubuntu-latest
     steps:
-    - name: Harden Runner
-      uses: step-security/harden-runner@v2.10.3
-      with:
-       disable-sudo: true
-       egress-policy: block
-       allowed-endpoints: >
-        github.com:443
-   
     - uses: GitHubSecurityLab/actions-permissions/advisor@v1.0.2-beta5
       with:
         name: ${{ inputs.name }}
         count: ${{ inputs.count }}
-        
