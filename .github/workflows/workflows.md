@@ -1,14 +1,13 @@
 ---
 layout: page
 title: GitHub Workflows
-#permalink: /Astronomy/
 ---
 
-## Revision Date: 2025-01-10 8:55 PM
+## Revision Date: 2025-01-11 1:05 AM
 
 | action | date | github |
 |---|---|---|
-| DavidAnson/markdownlint-cli2-action@v19.0.0 | Dec 28, 2024 |[DavidAnson/markdownlint-cli2-action: A GitHub Action to run the markdownlint-cli2 tool for linting Markdown/CommonMark files with the markdownlint library](https://github.com/DavidAnson/markdownlint-cli2-action) |
+| DavidAnson/markdownlint-cli2-action@v19.0.0 | Dec 28, 2024 | [DavidAnson/markdownlint-cli2-action: A GitHub Action to run the markdownlint-cli2 tool for linting Markdown/CommonMark files with the markdownlint library](https://github.com/DavidAnson/markdownlint-cli2-action) |
 | GitHubSecurityLab/actions-permissions/advisor@v1.0.2-beta5 | Dec 19, 2024 | [GitHubSecurityLab/actions-permissions: GitHub token permissions Monitor and Advisor actions](https://github.com/GitHubSecurityLab/actions-permissions) |
 | actions/checkout@v4.2.2 | Oct 23, 2024 | [actions/checkout: Action for checking out a repo](https://github.com/actions/checkout) |
 | actions/configure-pages@v5.0.0 | Mar 29, 2024 | [actions/configure-pages: An action to enable Pages and extract various metadata about a site. It can also be used to configure various static site generators we support as starter workflows.](https://github.com/actions/configure-pages) |
@@ -28,4 +27,4 @@ title: GitHub Workflows
 | lowlighter/metrics@3.34 | Sep 12, 2023 | [lowlighter/metrics: 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!](https://github.com/lowlighter/metrics) |
 | ossf/scorecard-action@v2.4.0 | Jul 26, 2024 | [ossf/scorecard-action: Official GitHub Action for OpenSSF Scorecard.](https://github.com/ossf/scorecard-action) |
 | ruby/setup-ruby@v1.207.0 | Dec 30, 2024 | [ruby/setup-ruby: An action to download a prebuilt Ruby and add it to the PATH in 5 seconds](https://github.com/ruby/setup-ruby) |
-| step-security/harden-runner@v2.10.2 | Nov 18, 2024 | [step-security/harden-runner: Network egress filtering and runtime security for GitHub-hosted and self-hosted runners](https://github.com/step-security/harden-runner) |
+| step-security/harden-runner@v2.10.3 | Jan 9, 2025 | [step-security/harden-runner: Network egress filtering and runtime security for GitHub-hosted and self-hosted runners](https://github.com/step-security/harden-runner) |
