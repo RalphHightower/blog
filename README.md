@@ -4,9 +4,9 @@ layout: base
 
 # Reason for Starting a Blog[^110]
 
-[^110]: I am the *“enemy within”*.
+[^110]: I am the *“enemy from within”*.
 
-## I Am the *“Enemy Within”*
+## I Am the *“Enemy From Within”*
 
 I started my blog because I realized that maintaining my opinion/editorial page that [Donald Trump Is a Fucking Idiot](https://ralphhightower.github.io/RalphHightower/Opinions/DonaldTrumpIsAFuckingIdiot.html) was going to be unwieldy to update and maintain. You may have a different opinion from mine. But the only person that can convince me that Trump is not a fucking idiot is Donald Trump himself. I probably won't change your opinion or vote. Likewise, you won't be able to change my assessment of Trump.
 
@@ -60,6 +60,8 @@ During Trump's presidential campaigns in 2015 (primary), 2016 campaign and his p
 [^1200]: I'd call it thievery when one pays less than the agreed upon contracted price for goods or services. It was in Wikipedia or a news story on the web that Trump paid something like 30% for several grand pianos for his casinos.<br />It’s like I buy a Ford truck priced at \$100,000 and I tell the dealer, "It’s a good truck, but it’s not worth \$100,000. I'll pay you \$30,000 for the truck."
 
 ## Donald Trump – The Reasons Against Him
+
+January 10, 2024, Donald J Trump was convicted on thirty-four counts for the falsification of business records related to paying *"hush money"* to porn star, Stormy Daniels, for an extramarital affair. No jail time. No probation. No fines or penalties. Nothing. 
 
 ### Donald Trump's Serious Character Flaws
 
