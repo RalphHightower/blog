@@ -13,6 +13,8 @@ title: "Donald's Legal Troubles: Federal Election January 6 2021 Insurrection & 
 
 ## Trump HIT with CRUSHING BLOW in Major Appeal
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oBrBm82lVVI?si=As4HL4hCuHrGImJh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 Jan 7, 2025  #marytrump #trumpcabinet #donaldtrump
 In this episode, Mary Trump discusses the latest developments in Donald Trump's ongoing legal struggles. She highlights his efforts to block the release of Special Counsel Jack Smith’s final report on the stolen documents and January 6th investigations, and how his personal judge, Aileen Cannon, is helping to delay transparency. Mary dives into Donald's desperate attempts to prevent sentencing in his election interference case and the bizarre behavior surrounding his gag order. She also addresses the broader implications of his legal battles and the challenges to democracy.
 
