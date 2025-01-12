@@ -61,7 +61,7 @@ During Trump's presidential campaigns in 2015 (primary), 2016 campaign and his p
 
 ## Donald Trump – The Reasons Against Him
 
-January 10, 2024, Donald J Trump was convicted on thirty-four counts for the falsification of business records related to paying *"hush money"* to porn star, Stormy Daniels, for an extramarital affair. No jail time. No probation. No fines or penalties. Nothing. 
+January 10, 2024, Donald J Trump was convicted on thirty-four counts, with an unconditional discharge, for the falsification of business records related to paying *"hush money"* to porn star, Stormy Daniels, for an extramarital affair. No jail time. No probation. No fines or penalties. Nothing. 
 
 ### Donald Trump's Serious Character Flaws
 
