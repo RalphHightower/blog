@@ -11,7 +11,7 @@ title: "Musk Is Using DOGE (Department Of Government Efficiency) To Enrich Himse
 ---
 
 
-That was fast: Musk busted for abusing MAGA role in crypto plot, GOP budget chief debunks DOGE
+## That was fast: Musk busted for abusing MAGA role in crypto plot, GOP budget chief debunks DOGE
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/21xB_-wkHYk?si=3qHpb_Q-5N3GIynb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
