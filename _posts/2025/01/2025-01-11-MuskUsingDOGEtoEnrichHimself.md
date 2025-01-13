@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [Department of Energy (DOE), State Department (State), Department of Commerce (Commerce), Department of Veterans Affairs (VA), Department of Interior (Interior), Department of Homeland Security (DHS), Department of Agriculture (DOA), Department of Transportation (DOT), Department of Defense (DOD), Environmental Protection Agency (EPA), National Aeronautics and Space Administration (NASA), Federal Drug Administration (FDA), Federal Communications Commission (FCC), Securitiesand Exchange Commission (SEC), Internal Revenue Service (IRS), Social Security Administration (SSA), Department of Government Efficiency (DOGE), Tesla, SpaceX, Neurolink, Starlink, Boring Company, X-Twitter, Donald Trump, Ethics, politics]
+tags: [Department of Energy (DOE), State Department (State), Department of Commerce (Commerce), Department of Veterans Affairs (VA), Department of Interior (Interior), Department of Homeland Security (DHS), Department of Agriculture (DOA), Department of Transportation (DOT), Department of Defense (DOD), Environmental Protection Agency (EPA), National Aeronautics and Space Administration (NASA), Federal Drug Administration (FDA), Federal Communications Commission (FCC), Securities and Exchange Commission (SEC), Internal Revenue Service (IRS), Social Security Administration (SSA), Department of Government Efficiency (DOGE), Tesla, SpaceX, Neurolink, Starlink, Boring Company, X-Twitter, Donald Trump, Ethics, politics]
 categories: [Elon Musk]
 date: 2025-01-11 11:15 PM
 excerpt: ''
