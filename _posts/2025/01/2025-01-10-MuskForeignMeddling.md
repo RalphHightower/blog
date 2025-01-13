@@ -22,6 +22,6 @@ Mary Trump discusses Elon Musk's troubling influence on global politics, from su
 0:00 Introduction
 1:56 [Canada’s](https://www.canada.ca/) Political Context
 4:06 Musk’s [UK](https://www gov.uk/) Controversy
-8:03 [Germany](https://www.bundesregierung.de/ Responds to Musk
+8:03 [Germany](https://www.bundesregierung.de/) Responds to Musk
 12:04 Elon’s Global Agenda
 

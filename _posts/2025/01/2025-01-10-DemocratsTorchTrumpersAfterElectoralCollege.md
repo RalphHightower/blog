@@ -1,8 +1,8 @@
 ---
 layout: post
-tags: []
-categories: []
-date: 2019-06-25 13:14:15
+tags: [MSNBC, Lindsey Graham, Marco Rubio, Mitch McConnell, election certification, January 6 2021 amnesia, politics]
+categories: [Donald Trump]
+date: 2025-01-12 7:53 PM
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
@@ -11,7 +11,7 @@ title: "Echos From Four Years Ago: MAGA Trumper Senators Torch Trump For Incitin
 ---
 
 
-Whoa: See Rubio, Graham & GOP leaders 'torch' Jan. 6 MAGA mob: Melber's 2025 Breakdown
+## Whoa: See Rubio, Graham & GOP leaders 'torch' Jan. 6 MAGA mob: Melber's 2025 Breakdown
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zZAW7sHsZms?si=XXnXm-q2rhLI0dKH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
