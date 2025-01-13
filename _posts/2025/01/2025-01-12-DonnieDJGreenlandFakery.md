@@ -1,13 +1,13 @@
 ---
 layout: post
-tags: [Mary Trump Media, New York state sentencing, DJ (Don Jr), Jeff Bezos, Melania Mockumentary, Greenland, politics]
+tags: [Mary Trump Media, New York state sentencing, DJ (Don Jr) Trump, Jeff Bezos, Melania Mockumentary, Greenland, politics]
 categories: [Donald Trump]
 date: 2025-01-12 7:19 PM
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: 'title'
+title: "DJ (Donnie Jr) Fake Greenland Stunt, Plus Other News From MAGA Trumplandia"
 ---
 
 
