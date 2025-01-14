@@ -3,7 +3,7 @@ layout: post
 tags: [2020 presidential election, election interference, election fraud, January 6 2021 Insurrection, Department of Justice (DOJ), special counsel, Jack Smith, Federal Attorney General, Merrick Garland, politics]
 categories: [Donald Trump]
 date: 2025-01-14 5:52 PM
-excerpt: ''
+excerpt: "The Department’s view that the Constitution prohibits the continued indictment and prosecution of a President is categorical and does not tum on the gravity of the crimes charged, the strength of the Government’s proof, or the merits of the prosecution, which the Office stands fully behind. Indeed, but for Mr. Trump’s election and imminent return to the Presidency, the Office assessed that the admissible evidence was sufficient to obtain and sustain a conviction at trial. – Special Counsel Jack Smith's Report to US Attorney General Merrick Garland"
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
