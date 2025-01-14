@@ -7,7 +7,7 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: "Civil War Breaks Out At Mar-a-Lago
+title: "Civil War Breaks Out At Mar-a-Lago"
 ---
 
 
