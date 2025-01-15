@@ -7,7 +7,7 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: 'Trumper Tantrum Tally: Trump Goes ALL-CAPS In Rant On “Truth Social” Over DOJ Report On January 6 2021 Insurrection and Election Interference"
+title: "Trumper Tantrum Tally: Trump Goes ALL-CAPS In Rant On “Truth Social” Over DOJ Report On January 6 2021 Insurrection and Election Interference"
 ---
 
 
