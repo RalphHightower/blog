@@ -3,7 +3,7 @@ layout: post
 tags: [White House, president, democracy, Supreme Court reform, Supreme Court ethics, campaign finance reform, Constitution, congressional insider trading reform, tax code reform, politics]
 categories: [Joe Biden]
 date: 2025-01-16 4:51 PM
-excerpt: ''
+excerpt: 'But we know the idea of America — our institution, our people, our values that uphold it — are constantly being tested. Ongoing debates about power and the exercise of power, about whether we lead by the example of our power or the power of our example, whether we show the courage to stand up to the abuse of power or we yield to it. – President Joe Biden'
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
