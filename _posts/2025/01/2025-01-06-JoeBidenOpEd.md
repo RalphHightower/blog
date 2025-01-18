@@ -20,7 +20,7 @@ January 5, 2025 at 9:00 p.m. EST
 By Joe Biden
 Joe Biden is president of the United States.
 
-On this Jan. 6, order will be called. Clerks, staff and members of Congress will gather to certify the results of a free and fair presidential election and ensure a peaceful transfer of power. Capitol Police will stand guard over the citadel of our democracy.
+On this Jan. 6, order will be called. Clerks, staff and members of [Congress](https://www.congress.gov/) will gather to certify the results of a free and fair presidential election and ensure a peaceful transfer of power. ,[Capitol Police](https://www.uscp.gov/) will stand guard over the citadel of our democracy.
 
 The vice president of the United States, faithful to her duty under our Constitution, will preside over the certification of her opponent’s victory in the November election.
 
@@ -61,7 +61,7 @@ I don't know if our nation can withstand the assault on our Constitution and gra
 The litigious president-elect Trump had filed a lawsuit against [ABC News](https://abcnews.go.com/) for which [ABC News](https://abcnews.go.com/) capitulated $15,000,000.
 
 Trump is attacking the first amendment:
-- freedom of the press,  freedom of speech 
+- freedom of the press, freedom of speech 
 Trump has demanded that the [Federal Communications Commission (FCC)](https://www.fcc.gov/) pull the b!roadcast licenses of various television networks, which it has no authority. The [FCC](https://www.fcc.gov/) licenses individual broadcast stations not networks as a collective.
 
 Trump is suing The [Des Moines Register](https://

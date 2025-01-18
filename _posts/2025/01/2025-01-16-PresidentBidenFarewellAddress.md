@@ -73,7 +73,7 @@ I’m so proud of how much we’ve accomplished together for the American people
 
 That’s why I’ve upheld my duty to ensure a peaceful and orderly transition of power to ensure we lead by the power of our example[^251]. I have no doubt that America is in a position to continue to succeed.
 
-[^251]: @RalphHightower: Unlike January 6, 2021 whe Trump incited mod violence when Trump’s cult members rampage the United States Capitol to halt the certification of Joe Biden as president and stage a violent insurrection, attacking [United States Capitol Police](http://www.uscp.gov/) defending Congressional members and staff, threatening Vice President Mike Pence, and [Nancy Pelosi (D-CA11)](https://pelosi.house.gov/).
+[^251]: @RalphHightower: Unlike January 6, 2021 whe Trump incited mod violence when Trump’s cult members rampage the United States Capitol to halt the certification of Joe Biden as president and stage a violent insurrection, attacking [United States Capitol Police](https://www.uscp.gov/) defending Congressional members and staff, threatening Vice President Mike Pence, and [Nancy Pelosi (D-CA11)](https://pelosi.house.gov/).
 
 That’s why, in my farewell address tonight, I want to warn the country of some things that give me great concern. And this is the dangerous concer- — and that’s the dangerous concentration of power in the hands of very few ultra-wealthy people, and the dangerous consequences if their abuse of power is left unchecked[^261].
 
