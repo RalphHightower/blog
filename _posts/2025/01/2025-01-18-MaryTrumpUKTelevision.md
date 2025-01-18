@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [Mary Trump Media,revenge president, global chaos, Elon Musk United Kingdom [UK), politics]
+tags: [Mary Trump Media,revenge president, global chaos, Elon Musk United Kingdom (UK), politics]
 categories: [Donald Trump]
 date: 2025-01-18 5:54 PM
 excerpt: ''
