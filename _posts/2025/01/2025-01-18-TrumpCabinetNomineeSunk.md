@@ -7,7 +7,7 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: "You Sunk My Battleship! Hegseth Torpedoes During Senate Hearing#
+title: "You Sunk My Battleship! Hegseth Torpedoes During Senate Hearing"
 ---
 
 
