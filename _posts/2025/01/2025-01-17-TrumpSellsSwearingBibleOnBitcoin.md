@@ -11,7 +11,7 @@ title: "For Sale: Grifter Trump Auctions His Swearing In Bible On Bitcoin"
 ---
 
 
-## Trump Considers Saving [TikTok](https://tiktok. Com/), Biden Warns of Ultrarich Oligarchy and Rise of Tech | Tonight Show
+## Trump Considers Saving [TikTok](https://tiktok.com/), Biden Warns of Ultrarich Oligarchy and Rise of Tech | Tonight Show
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hPUYuCoEqAU?si=fXUhSNezirpvPZGH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
