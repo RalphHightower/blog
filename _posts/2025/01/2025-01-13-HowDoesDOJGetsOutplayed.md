@@ -2,7 +2,7 @@
 layout: post
 tags: [MSNBC, Department of Justice (DOJ), Merrick Garland, Joe Biden, Jack Smith, election interference, election fraud, January 6 2021 insurrection, special counsel, special report, politics]
 categories: [Donald Trump]
-date: 2019-06-25 13:14:15
+date: 2025-01-13 6:44 PM
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
