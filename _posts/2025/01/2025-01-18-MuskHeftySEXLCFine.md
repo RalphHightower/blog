@@ -7,7 +7,7 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: 'title'
+title: 'Securities and Exchange Commission (SEC) Fine Is Chump Change For Musk Not Revealing His Minority (5%) Stake In Twitter'
 ---
 
 
