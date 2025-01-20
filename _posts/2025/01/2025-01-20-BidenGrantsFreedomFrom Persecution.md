@@ -11,9 +11,12 @@ title: "President Biden Grants Pardons To Public Servants For Freedom From Perse
 ---
 
 
-## [Statement from President Joe Biden / The White House](https://www.whitehouse.gov/briefing-room/statements-releases/2025/01/20/statement-from-president-joe-biden-15/)
+## [Statement from President Joe Biden / The White House](https://www.whitehouse.gov/briefing-room/statements-releases/2025/01/20/statement-from-president-joe-biden-15/)[^11]
 
-<p style="text-align: center">January 20, 2025</br >
+[^11]: @RalphHightower: This link is sure to disappear at noon (EST) January 20, 2025. I don’t know if there is an archive site for former presidents or not. But if there is, I'll update this post.
+
+<p style="text-align: center">January 20, 2025
+
 Statement from President Joe Biden</p >
 
 Our nation relies on dedicated, selfless public servants every day. They are the lifeblood of our democracy.
@@ -33,3 +36,5 @@ I believe in the rule of law, and I am optimistic that the strength of our legal
 That is why I am exercising my authority under the Constitution to pardon General Mark A. Milley, Dr. Anthony S. Fauci, the Members of Congress and staff who served on the Select Committee, and the U.S. Capitol and D.C. Metropolitan police officers who testified before the Select Committee. The issuance of these pardons should not be mistaken as an acknowledgment that any individual engaged in any wrongdoing, nor should acceptance be misconstrued as an admission of guilt for any offense. Our nation owes these public servants a debt of gratitude for their tireless commitment to our country.
 
 <p style="text-align: center">###</p >
+
+@RalphHightower: PS. Trump, don't fuck up America or democracy. 
