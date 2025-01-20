@@ -4,9 +4,9 @@ layout: base
 
 # Reason for Starting a Blog[^110]
 
-[^110]: I am the *“enemy from within”*.
+[^110]: I am the *“enemy within”*.
 
-## I Am the *“Enemy From Within”*
+## I Am the *“Enemy Within”*
 
 I started my blog because I realized that maintaining my opinion/editorial page that [Donald Trump Is a Fucking Idiot](https://ralphhightower.github.io/RalphHightower/Opinions/DonaldTrumpIsAFuckingIdiot.html) was going to be unwieldy to update and maintain. You may have a different opinion from mine. But the only person that can convince me that Trump is not a fucking idiot is Donald Trump himself. I probably won't change your opinion or vote. Likewise, you won't be able to change my assessment of Trump.
 
