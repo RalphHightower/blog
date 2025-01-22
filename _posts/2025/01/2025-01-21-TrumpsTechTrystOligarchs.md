@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [MSNBC, Sam Altman, Jeff Bezos, Tim Cook, Elon Musk, Sundar Pincha, Vivek Ramaswamy, Shou Xi Chew, Amazon, Apple, Google, Nest, YouTube, OpenAI, Tesla, SpaceX, Starlink, X-Twitter, Boring, xAI, Neuralink, TikTok, inauguration, conauguration, oligarchy, politics]
+tags: [MSNBC, Sam Altman, Jeff Bezos, Tim Cook, Larry Ellison, Elon Musk, Sundar Pincha, Vivek Ramaswamy, Shou Xi Chew, Amazon, Apple, Google, Nest, YouTube, Oracle, OpenAI, Tesla, SpaceX, Starlink, X-Twitter, Boring, xAI, Neuralink, TikTok, inauguration, conauguration, oligarchy, politics]
 categories: [Donald Trump]
 date: 2025-01-21 3:46 PM
 excerpt: ''
@@ -20,16 +20,17 @@ President Trump signed a wave of executive orders yesterday on immigration, ener
 
 [Amazon](https://www.amazon.com/)
 [Apple](https://www.google.com/)
+[Boring](https:://www.boringcompany.com/)
 [Google](https://www.google.com/)
 [OpenAI](https://openai.com/)
-[Tesla](https://www.tesla.com/)
+[Oracle](https://www.oracle.com/)
+[Nest](https://nest.com/)
+[Neuralink](https://neuralink.com/)
 [SpaceX](https://www.spacex.com/)
 [Starlink](https://www.starlink.com/)
-[X](https://x.com/)
-[Twitter](https://twitter.com/)
-[Boring](https:://www.boringcompany.com/)
-[xAI](https://x.ai/)
-[Neuralink](https://neuralink.com/)
+[Tesla](https://www.tesla.com/)
 [TikTok](https://www.tiktok.com/)
-[Nest](https://nest.com/)
+[Twitter](https://twitter.com/)
+[X](https://x.com/)
+[xAI](https://x.ai/)
 [YouTube](https://www.youtube.com/)
