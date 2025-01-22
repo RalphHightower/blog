@@ -7,7 +7,7 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: 'Trump Has ZERO Respect For Rule of Law. Plans to Pardon January 6th, 2921 Insurrectionists Criminals'
+title: 'Trump Has ZERO Respect For Rule of Law. Plans to Pardon January 6th, 2021 Insurrectionists Criminals'
 ---
 
 
