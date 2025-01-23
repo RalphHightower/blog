@@ -55,11 +55,11 @@ Jan 20, 2025
 
 LOS ANGELES – Governor Gavin Newsom today issued the following statement after President Trump took a slew of executive actions aimed at reversing America’s progress on climate, including withdrawing from the Paris Agreement – the international treaty for combating climate change.
 
-![Helicopter dropping water onto fire](../../../img/calfire_GhwRk5xXoAE_e1I.jpg)
+![Helicopter dropping water onto fire](https://ralphhightower.github.io/blog/img/calfire_GhwRk5xXoAE_e1I.jpg)
 
-![CALFIRE Firefighters along a fire line](../../../img/calfire_GhwRY0pXUAAN7Dt-980x735.jpg)
+![CALFIRE Firefighters along a fire line](https://ralphhightower.github.io/blog/img/calfire_GhwRY0pXUAAN7Dt-980x735.jpg)
 
-![Firefighter and helicopter water drop](../../../img/calfire_GhwTaL9WwAADLJe-980x654.jpg)
+![Firefighter and helicopter water drop](https://ralphhightower.github.io/blog/img/calfire_GhwTaL9WwAADLJe-980x654.jpg)
 
 If you don’t believe in science, believe your own damn eyes.
 
