@@ -160,6 +160,10 @@ readme_index:
   remove_originals: true
   with_frontmatter: true
 
+relative_links:
+  enabled:     true
+  collections: false
+  
 tag_page_layout: tag_page
 tag_page_dir: tag
 
