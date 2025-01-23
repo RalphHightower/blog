@@ -47,6 +47,8 @@ During Trump's presidential campaigns in 2015 (primary), 2016 campaign and his p
 10. Strong-Arm Dictator Wannabe[^1000]
 11. Cheat[^1100]
 12. Thief[^1200]
+13. Glory Hog[^1300]
+14. Blameshifter[^1400]
 
 [^120]: [demagog • Merriam-Webster:](http://www.merriam-webster.com/dictionary/demagog)<br />noun<br />dem·​a·​gogue <br />variants: or less commonly dem​a​gog<br />Definition (Entry 1 of 2)<br /> **: a leader who makes use of popular prejudices and false claims and promises in order to gain power** <br />~~2: a leader championing the cause of the common people in ancient times~~
 [^130]: Trump whines, *"It's not fair! Biden has weaponized the [Justice system](https://www.justice.gov/) against me!"* Yet, when he gets into office the second time, he's going to direct the [Department of Justice](https://www.justice.gov/) to target his political enemies, and the enemies within. 
@@ -58,6 +60,8 @@ During Trump's presidential campaigns in 2015 (primary), 2016 campaign and his p
 [^1000]: Trump admires strong-arm dictators, Hungary's Viktor Orbàn, Russia's Vladimir Putin, North Korea's Kim Jun-Un.
 [^1100]: Trump cheats on:<br />• wives<br />• taxes – personal income<br />• personal property tax<br />• real estate property tax<br />• corporate income<br />• financial loans<br />• insurance<br />• golf<br />• elections *(tries to)*
 [^1200]: I'd call it thievery when one pays less than the agreed upon contracted price for goods or services. It was in Wikipedia or a news story on the web that Trump paid something like 30% for several grand pianos for his casinos.<br />It’s like I buy a Ford truck priced at \$100,000 and I tell the dealer, "It’s a good truck, but it’s not worth \$100,000. I'll pay you \$30,000 for the truck."
+[^1300]: Unlike a true leader who praises his/her team for their successes a glory hog steals all the congratulations with &"I did that!"*
+[^1400]: Another trait of a true leader is accepting responsibility for when things go wrong. Unlike Trump's *"It's not my fault. It's the [insert target here]."*
 
 ## Donald Trump – The Reasons Against Him
 
