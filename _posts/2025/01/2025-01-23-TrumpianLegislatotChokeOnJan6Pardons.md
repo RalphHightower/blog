@@ -1,8 +1,8 @@
 ---
 layout: post
-tags: []
-categories: []
-date: 2019-06-25 13:14:15
+tags: [MSNBC, January 6 2021, insurrection, pardon abuse, politics]
+categories: [Donald Trump]
+date: 2025-01-23 3:18 PM
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
