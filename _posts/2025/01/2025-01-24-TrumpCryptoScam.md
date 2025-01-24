@@ -21,9 +21,13 @@ Donald Trump decided this week was the perfect week to launch his latest grift: 
 Crypto Memes have even less value than cryptocurrency. 
 
 [Securities and Exchange (SEC)](https://www.sec.gov/)
+
 [Commodity Futures Trading Commission (CFTC)](https://www.cftc.gov/)
+
 [Department of Treasury (Treasury)](https://home.treasury.gov/)
+
 [U.S. Office of Government Ethics (OGE)](https://www.oge.gov/)
 
 [$TRUMP](https://gettrumpmemes.com/)
+
 [$MELANIA](https://melaniameme.com/)
