@@ -67,12 +67,15 @@ Governor Gavin Newsom
 
 ### [Putting People Over Fish: Stopping Radical Environmentalism to Provide Water to Southern California – The White House](https://www.whitehouse.gov/presidential-actions/2025/01/putting-people-over-fish-stopping-radical-environmentalism-to-provide-water-to-southern-california/)
 
-<p style="text-align: center">Presidential Actions</br >
-Putting People over Fish: Stopping Radical</br >
-Environmentalism to Provide Water to Southern</br >
-California</br >
+<p style="text-align: center">Presidential Actions
+
+Putting People over Fish: Stopping Radical
+
+Environmentalism to Provide Water to Southern
+
+California
+
 January 20, 2025</p>
-January 20, 2025
 
 MEMORANDUM FOR THE [SECRETARY OF COMMERCE](https://www.commerce.gov/)
 
