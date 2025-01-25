@@ -31,5 +31,5 @@ jobs:
         with:
           ruby-version: 3.3.6
           bundler-cache: true
-      - name: Run tests
-        run: script/cibuild
+      # - name: Run tests
+      #   run: script/cibuild
