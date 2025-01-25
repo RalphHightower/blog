@@ -52,7 +52,13 @@ The Congress shall have power to enforce, by appropriate legislation, the provis
 
 ### [Protecting The Meaning And Value Of American Citizenship – The White House](https://www.whitehouse.gov/presidential-actions/2025/01/protecting-the-meaning-and-value-of-american-citizenship/)
 
-<p style="text-align: center">Presidential Actions</br >PROTECTING THE MEANING AND VALUE OF AMERICAN CITIZENSHIP</br >EXECUTIVE ORDER</br >January 20, 2025</p>
+<p style="text-align: center">Presidential Actions
+  
+PROTECTING THE MEANING AND VALUE OF AMERICAN CITIZENSHIP
+
+EXECUTIVE ORDER
+
+January 20, 2025</p>
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered:
 
