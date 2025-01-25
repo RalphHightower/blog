@@ -7,7 +7,7 @@ excerpt: 'Crypto Memes have even less value than cryptocurrency. '
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: "Trump Family Grift/Ponzi Scene: $TRUMP, $MELANIA Meme Coins"
+title: "Trump Family Grift/Ponzi Scam: $TRUMP, $MELANIA Meme Coins"
 ---
 
 
