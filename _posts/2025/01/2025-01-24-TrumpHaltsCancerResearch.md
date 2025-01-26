@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [MSNBC, National Institute of Health (NIH), cancer research, Alzheimer]
+tags: [MSNBC, National Institute of Health (NIH), National Cancer Institute (NIC), Centers for Disease Control (CDC), National Institutes of Health (NIH), National Institute of Allergy and Infectious Diseases (NIAID), National Institute of Arthritis, Musculoskeletal and Skin Diseases (NIAMSD), National Institute on Deafness and Other Communication Disorders (NIDOCD), National Institute of Diabetes and Digestive and Kidney Diseases (NIDDKD), National Institute of Mental Health (NINH), National Institute of Neurological Disorders and Stroke (NINDS), National Heart, Lung and Blood Institute (NHLB), cancer research, Alzheimer, president, White House, politics]
 categories: [Donald Trump]
 date: 2025-01-24 4:15 PM
 excerpt: ''
@@ -15,21 +15,26 @@ title: "Trump Halts Government Funding Research For Cures Of Cancer, Alzheimer's
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/it3N0j9fw8k?si=7110IYZYJ2Nud2zX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Jan 23, 2025  #MSNBC #Trump #cancerresearch
-"As of today, it looks as though Donald Trump is in the process of freezing federally-funded cancer research in the United States," says Chris Hayes.
+Jan 23, 2025  #MSNBC [#Trump](https://www whitehouse.gov/) #cancerresearch
+"As of today, it looks as though [Donald Trump](https://www whitehouse.gov/) is in the process of freezing federally-funded cancer research in the United States," says Chris Hayes.
 
-[Centers for Disease Control](https://www.cdc.gov/)
+[Centers for Disease Control (CDC)](https://www.cdc.gov/)
 
 [National Institutes of Health (NIH)](https://www.nih.gov/)
 
-[National Institute of Allergy and Infectious Diseases](http://www.niaid.nih.gov/)
+[National Cancer Institute (NIC)](https://www.cancer.gov/)
 
-[National Institute of Arthritis, Musculoskeletal and Skin Diseases](https://www.niams.nih.gov/)
+[National Institute of Allergy and Infectious Diseases (NIAID)](http://www.niaid.nih.gov/)
 
-[National Institute on Deafness and Other Communication Disorders](https://www.nidcd.nih.gov/)
+[National Institute of Arthritis, Musculoskeletal and Skin Diseases (NIAMSD)](https://www.niams.nih.gov/)
 
-[National Institute of Diabetes and Digestive and Kidney Diseases](https://www.niddk.nih.gov/)
+[National Institute on Deafness and Other Communication Disorders (NIDOCD)](https://www.nidcd.nih.gov/)
 
-[National Institute of Mental Health](https://www.nimh.nih.gov/)
+[National Institute of Diabetes and Digestive and Kidney Diseases (NIDDKD)](https://www.niddk.nih.gov/)
 
-[National Institute of Neurological Disorders and Stroke](https://www.ninds.nih.gov/)
+[National Institute of Mental Health (NINH)](https://www.nimh.nih.gov/)
+
+[National Institute of Neurological Disorders and Stroke (NINDS)](https://www.ninds.nih.gov/)
+
+[National Heart, Lung and Blood Institute (NHLB)](https://www.nhlbi.nih.gov/)
+
