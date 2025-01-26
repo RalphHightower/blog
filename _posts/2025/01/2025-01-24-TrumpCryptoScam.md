@@ -7,7 +7,7 @@ excerpt: 'Crypto Memes have even less value than cryptocurrency. '
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: "Trump Family Grift/Ponzi Scam: $TRUMP, $MELANIA Meme Coins"
+title: "Trump Family Grift/Ponzi Scene: $TRUMP, $MELANIA Meme Coins"
 ---
 
 
@@ -21,13 +21,9 @@ Donald Trump decided this week was the perfect week to launch his latest grift: 
 Crypto Memes have even less value than cryptocurrency. 
 
 [Securities and Exchange (SEC)](https://www.sec.gov/)
-
 [Commodity Futures Trading Commission (CFTC)](https://www.cftc.gov/)
-
 [Department of Treasury (Treasury)](https://home.treasury.gov/)
-
 [U.S. Office of Government Ethics (OGE)](https://www.oge.gov/)
 
 [$TRUMP](https://gettrumpmemes.com/)
-
 [$MELANIA](https://melaniameme.com/)

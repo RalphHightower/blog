@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [MSNBC, January 6 2021, insurrection, pardon abuse, politics]
+tags: [MSNBC, January6 2021, insurrection, pardon abuse, politics]
 categories: [Donald Trump]
 date: 2025-01-23 3:18 PM
 excerpt: ''

@@ -7,7 +7,7 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: "Federal Judge Lambast Trump For January 6 Pardons, Wasted Investigations, Courts' Time and Money"
+title: 'Federal Judge Lambast Trump For January 6 Pardons, Wasted Investigations, Courts' Time and Money'
 ---
 
 
