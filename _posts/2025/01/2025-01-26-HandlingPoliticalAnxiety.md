@@ -3,11 +3,11 @@ layout: post
 tags: [MSNBC, political anxiety, president, White House, politics]
 categories: [Donald Trump]
 date: 2025-01-26 5:42 PM
-#lexcerpt: ''
+excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: Political Anxiety: How To Cope With The Dystopian Years Of Trump"
+title: "Political Anxiety: How To Cope With The Dystopian Years Of Trump"
 ---
 
 
