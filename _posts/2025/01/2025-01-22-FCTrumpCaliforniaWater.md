@@ -55,7 +55,7 @@ Jan 20, 2025
 
 LOS ANGELES – Governor Gavin Newsom today issued the following statement after President Trump took a slew of executive actions aimed at reversing America’s progress on climate, including withdrawing from the Paris Agreement – the international treaty for combating climate change.
 
-![Helicopter dropping water onto fire](https://ralphhightower.github.io/blog/img/calfire_GhwRk5xXoAE_e1I.jpg)
+![Helicopter dropping water onto fire](https://ralphhightower.github.io/blog//img/calfire_GhwRk5xXoAE_e1I.jpg)
 
 ![CALFIRE Firefighters along a fire line](https://ralphhightower.github.io/blog/img/calfire_GhwRY0pXUAAN7Dt-980x735.jpg)
 
@@ -67,15 +67,12 @@ Governor Gavin Newsom
 
 ### [Putting People Over Fish: Stopping Radical Environmentalism to Provide Water to Southern California – The White House](https://www.whitehouse.gov/presidential-actions/2025/01/putting-people-over-fish-stopping-radical-environmentalism-to-provide-water-to-southern-california/)
 
-<p style="text-align: center">Presidential Actions
+<p style="text-align: center">Presidential Actions</p>
+<p style="text-align: center">Putting People over Fish: Stopping Radical</p>
+<p style="text-align: center">Environmentalism to Provide Water to Southern</p>
+<p style="text-align: center">California</p>
+<p style="text-align: center">January 20, 2025</p>
 
-Putting People over Fish: Stopping Radical
-
-Environmentalism to Provide Water to Southern
-
-California
-
-January 20, 2025</p>
 
 MEMORANDUM FOR THE [SECRETARY OF COMMERCE](https://www.commerce.gov/)
 

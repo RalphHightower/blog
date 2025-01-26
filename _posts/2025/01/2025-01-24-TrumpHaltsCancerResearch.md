@@ -18,7 +18,7 @@ title: "Trump Halts Government Funding Research For Cures Of Cancer, Alzheimer's
 Jan 23, 2025  #MSNBC #Trump #cancerresearch
 "As of today, it looks as though Donald Trump is in the process of freezing federally-funded cancer research in the United States," says Chris Hayes.
 
-[Center for Disease Control](https://www.cdc.gov/)
+[Centers for Disease Control](https://www.cdc.gov/)
 
 [National Institutes of Health (NIH)](https://www.nih.gov/)
 
@@ -31,4 +31,5 @@ Jan 23, 2025  #MSNBC #Trump #cancerresearch
 [National Institute of Diabetes and Digestive and Kidney Diseases](https://www.niddk.nih.gov/)
 
 [National Institute of Mental Health](https://www.nimh.nih.gov/)
-.[National Institute of Neurological Disorders and Stroke](https://www.ninds.nih.gov/)
+
+[National Institute of Neurological Disorders and Stroke](https://www.ninds.nih.gov/)

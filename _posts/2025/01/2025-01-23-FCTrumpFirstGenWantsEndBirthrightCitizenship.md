@@ -13,7 +13,7 @@ title: "Fact Checking Trump: Donald Trump, a First Generation American Citizen, 
 
 ## Sharpie President Trump Cannot Change the Constitution By Executive Order
 
-The Fourteenth Amendment has been part of the Constitution since July 9, 1868. The Supreme Court upheld the amendment in 1884. Donald Trump cannot go willy-nilly and change the Constitution by fiat or Executive Order with his Sharpie. 
+The Fourteenth Amendment has been part of the Constitution since July 9, 1868. The [Supreme Court](https://www.supremecourt.gov/) upheld the amendment in 1884. Donald Trump cannot go willy-nilly and change the Constitution by fiat or Executive Order with his Sharpie. 
 
 Videos from Donnie Trump's estranged niece and MSNBC follow Trump's Executive Order
 
@@ -21,7 +21,7 @@ Videos from Donnie Trump's estranged niece and MSNBC follow Trump's Executive Or
 
 Donald is a first generation American.
 
-As defined in section 4, part (b), Donald's father, Fred Trump, is a first generation United States citizen.[^11] As defined in Section 4, part (a), of his executive order, his mother, Mary Anne MacLeod Trump, was born in Scotland,[^15].
+As defined in section 4, part (b), [Donald's father, Fred Trump](, is a first generation United States citizen.[^11] As defined in Section 4, part (a), of his executive order, his mother, Mary Anne MacLeod Trump, was born in Scotland,[^15].
 
 Fred Trump's father, Frederick Trump, born in the Kingdom of Bavaria, which became part of the newly formed German Empire. He immigrated to America to avoid the German draft.[^13]
 
@@ -52,13 +52,10 @@ The Congress shall have power to enforce, by appropriate legislation, the provis
 
 ### [Protecting The Meaning And Value Of American Citizenship – The White House](https://www.whitehouse.gov/presidential-actions/2025/01/protecting-the-meaning-and-value-of-american-citizenship/)
 
-<p style="text-align: center">Presidential Actions
-  
-PROTECTING THE MEANING AND VALUE OF AMERICAN CITIZENSHIP
-
-EXECUTIVE ORDER
-
-January 20, 2025</p>
+<p style="text-align: center">Presidential Actions</p>
+<p style="text-align: center">PROTECTING THE MEANING AND VALUE OF AMERICAN CITIZENSHIP
+<p style="text-align: center">EXECUTIVE ORDER</p>
+<p style="text-align: center">January 20, 2025</p>
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered:
 
