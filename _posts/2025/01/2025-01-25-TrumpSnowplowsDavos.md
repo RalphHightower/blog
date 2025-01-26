@@ -7,7 +7,7 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: "Donald Trump Snowblows On His Face At The World Economic Forum In Davos Switzerland"
+title: "Donald Trump Snowplows On His Face At The World Economic Forum In Davos Switzerland"
 ---
 
 
