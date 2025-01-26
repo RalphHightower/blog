@@ -7,7 +7,7 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: "Trump Is Already Weaponizing Federal Government Against His 
+title: "Trump Is Already Weaponizing Federal Government Against His Political Enemies"
 ---
 
 ## President Trump already using the executive branch as a ‘personal political weapon’
