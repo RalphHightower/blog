@@ -1,7 +1,7 @@
 ---
 layout: post
-tags: []
-categories: []
+tags: [Washington Post, inspector generals, independent auditors, federal agencies, politics]
+categories: [Donald Trump]
 date: 2025-01-26 1:25 PM
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
