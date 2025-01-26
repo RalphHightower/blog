@@ -18,7 +18,8 @@ title: "Trump Halts Government Funding Research For Cures Of Cancer, Alzheimer's
 Jan 23, 2025  #MSNBC #Trump #cancerresearch
 "As of today, it looks as though Donald Trump is in the process of freezing federally-funded cancer research in the United States," says Chris Hayes.
 
-[Center for Disease Control](https://www.cdc.gov/)
+[Centers for Disease Control](https://www.cdc.gov/)
+
 [National Institutes of Health (NIH)](https://www.nih.gov/)
 
 [National Institute of Allergy and Infectious Diseases](http://www.niaid.nih.gov/)
