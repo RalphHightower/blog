@@ -162,7 +162,7 @@ readme_index:
 
 relative_links:
   enabled:     true
-  collections: false
+  collections: true
   
 tag_page_layout: tag_page
 tag_page_dir: tag
