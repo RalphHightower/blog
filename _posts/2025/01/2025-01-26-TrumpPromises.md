@@ -1,7 +1,7 @@
 ---
 layout: post
-tags: []
-categories: []
+tags: [Washington Post, campaign promises, defense, democracy, economy, education, environment, health, immigration, politics]
+categories: [Donald Trump]
 date: 2025-01-26 2:42 PM
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
@@ -66,6 +66,7 @@ completed
 **Actions taken:** On his first day, Trump signed an executive order pardoning virtually all of the Jan. 6 defendants and commuting the sentences of the remaining 14 — a broad move that gives some form of clemency to all those charged or convicted in the riot.
 
 ### Economy 
+
 #### Impose tariffs on goods from other nations
 underway
 
@@ -96,6 +97,8 @@ no public action
 **The promise:** Cryptocurrency companies and investors backed Trump’s campaign, and he promised that he would make the United States “the crypto capital of the planet.” He has pledged to adopt proposals written by industry insiders, and the Republican platform says it will keep crypto transactions “free from Government Surveillance and Control.”
 
 Actions taken: Trump on Thursday signed an executive order that aims to ease cryptocurrency regulations. The order established a working group that will advise Trump on crypto policy and tasked federal agencies to review their rules on the financial technology. It also revoked an order issued under Biden designed to improve cryptocurrency safeguards.
+
+### Education 
 
 #### Eliminate the Education Department
 no public action
@@ -141,7 +144,7 @@ underway
 
 **Actions taken:** The United States is set to once again withdraw from the agreement as Trump has signed an executive order that removes the country from the pact. The withdrawal will take effect in one year.
 
-### health
+### Health
 #### Lower health-care costs and prescription drug costs
 no public action
 
@@ -170,7 +173,6 @@ underway
 
 **Actions taken:** On his first day as president, Trump declared a national emergency on the U.S.-Mexico border, where he is preparing to send 10,000 troops, according to a U.S. Customs and Border Protection briefing document obtained by The Post. Trump also said during his inaugural speech that he plans to use the Alien Enemies Act of 1798 — last used during World War II to intern Japanese immigrants and others — to quickly remove people the administration deems to be a threat.
 
-### Immigration 
 #### Restore the ‘Remain in Mexico’ program
 underway
 
