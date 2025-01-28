@@ -1,9 +1,9 @@
 ---
 layout: post
 tags: [Raw Story, Colombia (CO), Columbia SC (CAE), Columbia MO (COU), trade war, tariffs]
-categories: []
+categories: [Donald Trump]
 date: 2025-01-27 7:33 PM
-excerpt: ''
+excerpt: "“ICYMI President Donald J. Trump's TRUTH on Columbia sanctions.” – Donald Trump"
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
@@ -19,7 +19,7 @@ Story by David McAfee. January 26, 2025
 
 [Trump](https://www.whitehouse.gov/) issued a press release on “[Truth Social](https://truthsocial.com/)” misspelling the nation's name:
 
-- "ICYMI [President Donald J. Trump](https://www.whitehouse.gov/)'s TRUTH on Columbia[^101] sanctions." 
+- "ICYMI [President Donald J. Trump's](https://www.whitehouse.gov/) TRUTH on Columbia[^101] sanctions." 
 
 Aaron Rupar, Journalist:
 
@@ -37,7 +37,7 @@ Jeff Stein, [White House](https://www.whitehouse.gov/) economics reporter for [T
 
 A.J. Delgado, Former [Trump](https://www.whitehouse.gov/) campaign aide:
 
-- "Did a [WHITE HOUSE](https://www whitehouse.gov/) PRESS RELEASE really misspell [Colombia](https://www.gov.co/)? I remember how much I had to proof read and correct BASIC mistakes in drafts by others on the 2016 Campaign but this is... wow. Only the dumbest of the dumb work in this [White House](https://www whitehouse.gov/)."
+- "Did a [WHITE HOUSE](https://www.whitehouse.gov/) PRESS RELEASE really misspell [Colombia](https://www.gov.co/)? I remember how much I had to proof read and correct BASIC mistakes in drafts by others on the 2016 Campaign but this is... wow. Only the dumbest of the dumb work in this [White House](https://www whitehouse.gov/)."
 
 Popular internet personality Three Year Letterman:
 
