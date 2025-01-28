@@ -3,7 +3,7 @@ layout: post
 tags: [Raw Story, Colombia (CO), Columbia SC (CAE), Columbia MO (COU), trade war, tariffs]
 categories: [Donald Trump]
 date: 2025-01-27 7:33 PM
-excerpt: ''
+excerpt: "ICYMI President Donald J. Trump’s TRUTH on Columbia sanctions. – Donald Trump on “Truth Social”"
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
@@ -17,9 +17,9 @@ Story by David McAfee. January 26, 2025
 
 [Colombia](https://www.gov.co/) refused repatriation of illegal immigrants from the [United States](https://.www.usa.gov/). [Trump](https://www.whitehouse.gov/) immediately imposed a tariff on [Colombia](https://www.gov.co/) for refusing permission for the plane to land.
 
-[Trump](https://www.whitehouse.gov/) issued a press release on “[Truth Social](https://truthsocial.com/)” misspelling the nation's name:
+[Trump](https://www.whitehouse.gov/) issued a press release on [“Truth Social”](https://truthsocial.com/) misspelling the nation's name:
 
-- "ICYMI [President Donald J. Trump](https://www.whitehouse.gov/)'s TRUTH on Columbia[^101] sanctions." 
+- "ICYMI [President Donald J. Trump's](https://www.whitehouse.gov/) TRUTH on Columbia[^101] sanctions." 
 
 Aaron Rupar, Journalist:
 
@@ -63,15 +63,15 @@ Ruben Gallego, Democratic lawmaker:
 
 Bakari Sellers, Former Democratic lawmaker :
 
-- "Adding some facts here. [Colombia](https://www.gov.co/) accepted 475 deportation flights under Biden, more than 120 in 2024 alone," Sellers then added. "All this without a trade war."
+- "Adding some facts here. [Colombia](https://www.gov.co/) accepted 475 deportation flights under [Biden](https://.archives.gov/), more than 120 in 2024 alone. All this without a trade war."
 
-Dan Pfeiffer, a former senior adviser to Barack Obama:
+Dan Pfeiffer, a former senior adviser to [Barack Obama](https://obamawhitehouse.archives.gov/homepage/):
 
 - "Ooh, a dumb and pointless trade war in less than a week Great work!"
 
 YouTube Channel @LiveFromTheResistance:
 
-- "And we have a trade war with [[Colombia](https://www.gov.co/)](https://www.gov.co/) in less than 1 week which will send prices of gasoline and products skyrocketing for Americans. Thanks [Trump](https://www.whitehouse.gov/)."
+- "And we have a trade war with [Colombia](https://www.gov.co/) in less than 1 week which will send prices of gasoline and products skyrocketing for Americans. Thanks [Trump](https://www.whitehouse.gov/)."
 
 Aaron Parnas, Attorney:
 

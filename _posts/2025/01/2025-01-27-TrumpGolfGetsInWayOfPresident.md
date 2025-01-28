@@ -3,7 +3,7 @@ layout: post
 tags: [Raw Story, golf, emolument clause, self dealing, Miami Hotel & Resort in Doral / Trump Hotels, president, White House, politics]
 categories: [Donald Trump]
 date: 2025-01-27 7:42 PM
-excerpt: "“No. I don't think so. I'm busy.” – Donald Trump, when asked about playing golf"
+excerpt: "“No. I don’t think so. I’m busy.” – Donald Trump when asked if he was going to play golf."
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
