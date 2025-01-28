@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: [Raw Story, Colombia (CO), Columbia SC (CAE), Columbia MO (COU), trade war, tariffs]
-categories: []
+categories: [Donald Trump]
 date: 2025-01-27 7:33 PM
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
