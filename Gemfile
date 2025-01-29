@@ -10,7 +10,7 @@ source 'https://rubygems.org'
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
 
-gem 'jekyll', '~> 4.3', '>= 4.3.4'
+gem 'jekyll', '~> 4.4'
 gem 'kramdown', '~> 2.5', '>= 2.5.1'
 gem 'sassc-embedded', '~> 1.80', '>= 1.80.1'
 gem 'rake', '~> 13.2', '>= 13.2.1'
@@ -48,7 +48,7 @@ gem 'sqlite3', '~> 1.4', '>= 1.4.4'
 
 # { 2024-09-29 @RalphHightower
 # /home/runner/work/blog/blog/vendor/bundle/ruby/3.3.0/gems/jekyll-4.3.4/lib/jekyll.rb:28: warning: csv was loaded from the standard library, but will no longer be part of the default gems since Ruby 3.4.0. Add csv to your Gemfile or gemspec. Also contact author of jekyll-4.3.4 to add csv into its gemspec.
-gem 'csv', '~> 3.3', '>= 3.3.2'
+# gem 'csv', '~> 3.3', '>= 3.3.2'
 # /home/runner/work/blog/blog/vendor/bundle/ruby/3.3.0/gems/safe_yaml-1.0.5/lib/safe_yaml/transform.rb:1: warning: base64 was loaded from the standard library, but will no longer be part of the default gems since Ruby 3.4.0. Add base64 to your Gemfile or gemspec. Also contact author of safe_yaml-1.0.5 to add base64 into its gemspec.
 gem 'base64', '~> 0.2.0'
 # } 2024-09-29 @RalphHightower
