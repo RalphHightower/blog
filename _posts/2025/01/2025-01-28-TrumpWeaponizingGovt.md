@@ -1,13 +1,13 @@
 ---
 layout: post
-tags: [Washington Post, weaponization, political enemies, retribution, vengeance, White House (WH), Department of Justice (DOJ), Federal Bureau of Investigation (FBI), Joe Biden, Joint Chiefs of Staff (JCS), Kash Patel, Georgia, Georgia Senate, Georgia Supreme Court, Fani Willis, Jim Jordan (T-OH), politics]
+tags: [Washington Post, weaponization, political enemies, retribution, vengeance, White House (WH), Department of Justice (DOJ), Federal Bureau of Investigation (FBI), Joe Biden, Joint Chiefs of Staff (JCS), Kash Patel, Georgia (GA), Georgia Senate, Georgia Supreme Court, Michigan (MI), Michigan Secretary of State (MISOS), Fani Willis, Jim Jordan (T-OH), politics]
 categories: [Donald Trump]
 date: 2025-01-28 1:40 PM
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: "Pay
+title: "Federal and State Civil Servants Are Preparing for Persecution From Trump, Possibly Loss of Life By the Hands of MAGAlandia Citizens"
 ---
 
 
@@ -108,7 +108,7 @@ Zaid said he has received death threats and been swatted because of his work on 
 
 “I have been publicly litigating cases against every [administration](https://www.whitehouse.gov/) since [President Clinton](https://clintonwhitehose2.archives.gov/) and against terrorist states,” he said. “I have never seen this type of behavior outside of authoritarian states or the history books.”
 
-Michigan Secretary of State Jocelyn Benson (D) said years of harassment, litigation and misinformation have helped prepare her for what could come next.
+[Michigan](https://www.michigan.gov/som) [Secretary of State](https://www.michigan.gov/sos) Jocelyn Benson (D) said years of harassment, litigation and misinformation have helped prepare her for what could come next.
 
 “We’re ready for anything,” said Benson, who launched a bid for governor last week and who oversaw the 2020 and 2024 elections in Michigan. “No amount of bullying or harassment or threats or intimidation is going to change the truth of the 2020 election.”
 
