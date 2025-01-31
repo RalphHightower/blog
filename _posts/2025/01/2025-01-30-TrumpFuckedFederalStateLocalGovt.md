@@ -14,44 +14,44 @@ title: 'title'
 
 ## [Trump Orders Freeze On All Federal Grants And Loans / HuffPost Latest News](https://www.huffpost.com/entry/donald-trump-grants-loans-freeze_n_67984689e4b00dc186534c4f)
 
-*Democrats warned that Trump’s latest order could harm programs used by millions of Americans, including early childhood programs, and food and rent assistance.*
+*Democrats warned that [Trump’s](https://www.whitehouse.gov/) latest order could harm programs used by millions of Americans, including early childhood programs, and food and rent assistance.*
 
 By  Igor Bobic and Jonathan Cohn
 Jan 27, 2025, 10:50 PM EST
 
 [Trump](https://www.whitehouse.gov/) issued a [memo freezing all grants, loans, and assistance](https://www.whitehouse.gov/fact-sheets/2025/01/omb-q-a-regarding-memorandum-m-25-13/) and in the process fucked up money going to stat and local governments nationwide. 
 
-Matthew J. Vaeth, the acting director of the White House [Office of Management and Budget](https://www.whitehouse.gov/omb/), writes in the memo that federal agencies should temporarily pause grant and loan programs until Trump’s administration can ensure they are consistent with the president’s agenda, including bans on diversity, equity and inclusion initiatives, and limits on clean energy spending.
+Matthew J. Vaeth, the acting director of the White House [Office of Management and Budget](https://www.whitehouse.gov/omb/), writes in the memo that federal agencies should temporarily pause grant and loan programs until [Trump](https://www.whitehouse.gov/)’s administration can ensure they are consistent with the president’s agenda, including bans on diversity, equity and inclusion initiatives, and limits on clean energy spending.
 
-- “The American people elected Donald J. Trump to be President of the United States and gave him a mandate to increase the impact of every federal tax dollar,” Vaeth wrote. “The use of Federal resources to advance Marxist equity, transgenderism, and green new deal social engineering policies is a waste of taxpayer dollars that does not improve the day-to-day lives of those we serve.”
+- “The American people elected [Donald J. Trump](https://www.whitehouse.gov/) to be President of the United States and gave him a mandate to increase the impact of every federal tax dollar,” Vaeth wrote. “The use of Federal resources to advance Marxist equity, transgenderism, and green new deal social engineering policies is a waste of taxpayer dollars that does not improve the day-to-day lives of those we serve.”
 
-Democrats warned that Trump’s latest directive could significantly harm programs used by millions of Americans, including food and rent assistance, early childhood programs, nonprofit organizations and children’s health insurance, among many others.
+Democrats warned that [Trump](https://www.whitehouse.gov/)’s latest directive could significantly harm programs used by millions of Americans, including food and rent assistance, early childhood programs, nonprofit organizations and children’s health insurance, among many others.
 
-“They say this is only temporary, but no one should believe that,” Senate Minority Leader Chuck Schumer D-NY)](
+“They say this is only temporary, but no one should believe that,” [Senate](https://www.senate.gov/) [Minority Leader Chuck Schumer D-NY)](https://schumer.senate.gov/)
 said in a statement on Monday. 
-- “Donald Trump must direct his Administration to reverse course immediately and the taxpayers’ money should be distributed to the people. These grants help people in red states and blue states, support families, help parents raise kids, and lead to stronger communities. This freeze means missed payrolls and rent payments and everything in between: chaos for everything from universities to non-profit charities.”
+- “[Donald Trump](https://www.whitehouse.gov/) must direct his Administration to reverse course immediately and the taxpayers’ money should be distributed to the people. These grants help people in red states and blue states, support families, help parents raise kids, and lead to stronger communities. This freeze means missed payrolls and rent payments and everything in between: chaos for everything from universities to non-profit charities.”
 
-Last week, Trump ordered government agencies to pause other funds appropriated by Congress — including key climate investments, money for infrastructure projects and nearly all U.S. assistance to foreign nations — challenging the constitutional role of Congress and its power of the purse.
+Last week, [Trump](https://www.whitehouse.gov/) ordered government agencies to pause other funds appropriated by [Congress](https://www.congress.gov/) — including key climate investments, money for infrastructure projects and nearly all U.S. assistance to foreign nations — challenging the constitutional role of [Congress](https://www.congress.gov/) and its power of the purse.
 
-And over the weekend, Trump fired at least 18 inspectors general whose job is to root out corruption in government agencies. He did it without notifying Congress, a move critics denounced as a “chilling purge.”
+And over the weekend, [Trump](https://www.whitehouse.gov/) fired at least 18 inspectors general whose job is to root out corruption in government agencies. He did it without notifying [Congress](https://www.congress.gov/), a move critics denounced as a “chilling purge.”
 
-Trump’s executive orders are likely to face legal challenges, but his intention is not difficult to grasp: an unprecedented effort to seize power, from a president far more unbound this time than during his first presidential term.
+[Trump's](https://www.whitehouse.gov/) executive orders are likely to face legal challenges, but his intention is not difficult to grasp: an unprecedented effort to seize power, from a president far more unbound this time than during his first presidential term.
 
-Monday’s proclamation is only the latest Trump attempt to freeze federal government functions. Last week, Trump ordered government agencies to pause other funds appropriated by Congress — including key climate investments, money for infrastructure projects and nearly all U.S. assistance to foreign nations — challenging the constitutional role of Congress and its power of the purse.
+Monday’s proclamation is only the latest [Trump](https://www.whitehouse.gov/) attempt to freeze federal government functions. Last week, [Trump](https://www.whitehouse.gov/) ordered government agencies to pause other funds appropriated by [Congress](https://www.congress.gov/) — including key climate investments, money for infrastructure projects and nearly all U.S. assistance to foreign nations — challenging the constitutional role of [Congress](https://www.congress.gov/) and its power of the purse.
 
-And over the weekend, Trump fired at least 18 inspectors general whose job is to root out corruption in government agencies. He did it without notifying Congress, a move critics denounced as a “chilling purge.”
+And over the weekend, [Trump](https://www.whitehouse.gov/) fired at least 18 inspectors general whose job is to root out corruption in government agencies. He did it without notifying [Congress](https://www.congress.gov/), a move critics denounced as a “chilling purge.”
 
-Trump’s executive orders are likely to face legal challenges, but his intention is not difficult to grasp: an unprecedented effort to seize power, from a president far more unbound this time than during his first presidential term.
+[Trump](https://www.whitehouse.gov/)’s executive orders are likely to face legal challenges, but his intention is not difficult to grasp: an unprecedented effort to seize power, from a president far more unbound this time than during his first presidential term.
 
 Bobby Kogan, senior director of federal budget policy at the liberal Center for American Progress:
 
 - “This is what we were worried about ― some enormous, broad thing that would stop funding for huge swaths of the government that he simply doesn’t like and doesn’t agree with. He says he’s going after grants, loans and federal financial assistance, and he calls it three out of ten trillion dollars, so theoretically he’s pausing like a third of government funding ― which is illegal and massive.”
 
-Trump and his allies have long opposed the Impoundment Control Act, which sets limits on how much a president can restrict money that’s been approved by Congress. This latest order may be designed to spark a legal battle and ensure the Impoundment Control Act is reviewed by the U.S. Supreme Court, where conservatives hold a 6-3 majority.
+[Trump](https://www.whitehouse.gov/) and his allies have long opposed the Impoundment Control Act, which sets limits on how much a president can restrict money that’s been approved by Congress. This latest order may be designed to spark a legal battle and ensure the Impoundment Control Act is reviewed by the U.S. Supreme Court, where conservatives hold a 6-3 majority.
 
-University of Michigan law professor Samuel Bagenstos, also served in the Biden administration as general counsel at both the Office of Management and Budget as well as the Department of Health and Human Services:
+[University of Michigan](https://umich.edu/) law professor Samuel Bagenstos, also served in the Biden administration as general counsel at both the Office of Management and Budget as well as the Department of Health and Human Services:
 
-- “The Trump Administration is ostentatiously flouting Congress’s power of the purse, which is one of the most basic principles of our republic. It’s almost like they’re daring people to sue them so they can challenge the constitutionality of the Impoundment Control Act and get the Supreme Court to decide the issue as soon as possible.”
+- “The [Trump](https://www.whitehouse.gov/) Administration is ostentatiously flouting [Congress's,](https://www.congress.gov/) power of the purse, which is one of the most basic principles of our republic. It’s almost like they’re daring people to sue them so they can challenge the constitutionality of the [Impoundment Control Act](https://www.gao.gov/legal/appropriations-law/impoundment-control-act-resources) and get the Supreme Court to decide the issue as soon as possible.”
 
 ### Federal Government Agencies Impacted
 
@@ -111,9 +111,9 @@ There are at least 500 individual programs that are administered by the impacted
 
 ### [OMB Q&A Regarding Memorandum M-25-13 – The White House](https://www.whitehouse.gov/fact-sheets/2025/01/omb-q-a-regarding-memorandum-m-25-13/). January 28, 2025.
 
-In implementing President Trump’s Executive Orders, OMB issued guidance requesting that agencies temporarily pause, to the extent permitted by law, grant, loan or federal financial assistance programs that are implicated by the President’s Executive Orders.
+In implementing [President Trump](https://www.whitehouse.gov/)’s Executive Orders, OMB issued guidance requesting that agencies temporarily pause, to the extent permitted by law, grant, loan or federal financial assistance programs that are implicated by the President’s Executive Orders.
 
-**Any program not implicated by the President’s Executive Orders is not subject to the pause.**
+**Any program not implicated by the [President’s](https://www.whitehouse.gov) Executive Orders is not subject to the pause.**
 
 The Executive Orders listed in the guidance are:
 
@@ -139,17 +139,19 @@ Any payment required by law to be paid will be paid without interruption or dela
 
 **Q: Is this a freeze on all Federal financial assistance?**
 
-A: No, the pause does not apply across-the-board. It is expressly limited to programs, projects, and activities implicated by the President’s Executive Orders, such as ending DEI, the green new deal, and funding nongovernmental organizations that undermine the national interest.
+A: No, the pause does not apply across-the-board. It is expressly limited to programs, projects, and activities implicated by the [President’s](https://www.whitehouse.gov/) Executive Orders, such as ending DEI, the green new deal, and funding nongovernmental organizations that undermine the national interest.
 
 **Q: Is this a freeze on benefits to Americans like SNAP or student loans?**
 
-A: No, any program that provides direct benefits to Americans is explicitly excluded from the pause and exempted from this review process. In addition to Social Security and Medicare, already explicitly excluded in the guidance, mandatory programs like Medicaid and SNAP will continue without pause.Funds for small businesses, farmers, Pell grants, Head Start, rental assistance, and other similar programs will not be paused. If agencies are concerned that these programs may implicate the President’s Executive Orders, they should consult OMB to begin to unwind these objectionable policies without a pause in the payments.
+A: No, any program that provides direct benefits to Americans is explicitly excluded from the pause and exempted from this review process. In addition to Social Security and Medicare, already explicitly excluded in the guidance, mandatory programs like Medicaid and SNAP will continue without pause.Funds for small businesses, farmers, Pell grants, Head Start, rental assistance, and other similar programs will not be paused. If agencies are concerned that these programs may implicate the [President’s](https://www.whitehouse.gov/) Executive Orders, they should consult OMB to begin to unwind these objectionable policies without a pause in the payments.
 
 **Q: Is the pause of federal financial assistance an impoundment?**
 
-A: No, it is not an impoundment under the Impoundment Control Act. It is a temporary pause to give agencies time to ensure that financial assistance conforms to the policies set out in the President’s Executive Orders, to the extent permitted by law. Temporary pauses are a necessary part of program implementation that have been ordered by past presidents to ensure that programs are being executed and funds spent in accordance with a new President’s policies and do not constitute impoundments.
+A: No, it is not an impoundment under the [Impoundment Control Act](https://www.gao.gov/legal/appropriations-law/impoundment-control-act-resources). It is a temporary pause to give agencies time to ensure that financial assistance conforms to the policies set out in the [President’s](https://www.whitehouse.gov/) Executive Orders, to the extent permitted by law. Temporary pauses are a necessary part of program implementation that have been ordered by past presidents to ensure that programs are being executed and funds spent in accordance with a new President’s policies and do not constitute impoundments.
 
 **Q: Why was this pause necessary?**
 
-A: To act as faithful stewards of taxpayer money, new administrations must review federal programs to ensure that they are being executed in accordance with the law and the new President’s policies.
+A: To act as faithful stewards of taxpayer money[^666], new administrations must review federal programs to ensure that they are being executed in accordance with the law and the new President’s policies.
+
+[^666]: @RalphHightower: Trump doesn't give a fuck about being a good steward. 
 
