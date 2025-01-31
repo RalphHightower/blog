@@ -10,17 +10,27 @@ layout: base
 
 ### Synopsis
 
-Surviving “The Apprentice: White House – Wrecking Ball”. Trump 2.0 is about Trump’s destruction of America and her democracy. Putting it in his words, “You got to fight for your country, or you won’t have a country.” Hold Trump’s feet to the fire on his campaign promises. He promised to lower grocery prices, gas prices, car/truck prices, inflation, housing prices. Grade him on the budget deficit, economy, energy, consumer goods, groceries, appliances, unemployment, stock market, interest rate, trade deficit.
+In 2015, I assessed Trump as unqualified, and unfit to be president. 
 
-~~“The Apprentice: White House” ended a tumultuous four year season ingloriously on January 6, 2021, at an extraordinary low point in American history when thousands of far-right undesirables, Pride Boys, Zero Percenters, Oath Losers, and Booger Loogies, lay siege on the US Capitol in a vain attempt of insurrection to overthrow a fair election. Cancel the rerun of “The Apprentice: White House – Wrecking Ball 2025”. – @RalphHightower~~
+There is no university postgraduate, graduate, or undergraduate degree program that offers a degree qualifying one with the skills to be president. 
 
-### Contributing
+Prior to that long shot of Trump 1.0 winning the election, past presidents have been governors of states, or legislators at the national or state level. Even Vice presidents have had some experience with government. Trump is the head of a family-owned business. He has never been CEO of a publicly traded large corporation with a board of directors. 
+
+Surviving “The Apprentice: White House – Wrecking Ball”. Trump 2.0 is about Trump’s destruction of America and her democracy. Putting it in his words, “You got to fight for your country, or you won’t have a country.” 
+
+### Call to Action
+
+Hold Trump’s feet to the fire on his campaign promises. He promised to lower grocery prices, gas prices, car/truck prices, inflation, housing prices. Grade him on appliances prices, budget deficit, car and truck prices, consumer goods, economy, energy, groceries, housing prices, inflation, interest rate, stock market, trade deficit, unemployment.
+
+### Contributing 
 
 This is my blog with an extremely anti-Trump bias. If you agree that Trump is going to destroy America and Democracy, I'll consider your contribution. I'll probably have to make administration changes to accept multiple authors.
 
-I've posted guidelines, rules, and the template for blog posts at: [RalphHightower/blog General · Discussions · GitHub](https://github.com/RalphHightower/blog/discussions/categories/general)
+I've posted guidelines, rules, and the template for blog posts at: [RalphHightower/blog Guidelines Policies Rules · Discussions · GitHub](https://github.com/RalphHightower/blog/discussions/categories/guidelines-policies-rules)
 
 ### Documentation
+
+This blog is built on [Jekyll](https://www.jekyllrb.com/); the source code is available on GitHub at [Jekyll](https://github.com/jekyll). Documentation is in the `docs/` folder. Guidance, rules, and policies are in the `docs/` folder.
 
 ### Discussions
 
@@ -42,9 +52,14 @@ Issues can be created at [Issues · RalphHightower/blog](https://github.com/Ralp
 
 ### Security 
 
+If a security issue is found, I can be notified by one of the following methods:
+
+- [Security Policy · RalphHightower/blog](https://github.com/RalphHightower/blog/security/policy)
+- [Security Advisories · RalphHightower/blog](https://github.com/RalphHightower/blog/security/advisories)
+
 ## Election Results
 
-### 2024
+### [2024 Presidential Election Results – Federal Election Commission (FEC)](https://www.fec.gov/resources/cms-content/documents/2024presgeresults.pdf)
 
 | Candidate | Votes | Percentage | Electoral College |
 |---|--:|---:|---:|
@@ -52,22 +67,19 @@ Issues can be created at [Issues · RalphHightower/blog](https://github.com/Ralp
 | Trump (T) | 77,302,580 | 49.80% | 312 |
 | (Difference) | 2,284,967 | 1.48% | 86 |
 
-[2024 Presidential Election Results – Federal Election Commission (FEC)](https://www.fec.gov/resources/cms-content/documents/2024presgeresults.pdf)
 
-### 2020
-
+### [2020 Presidential Election Results – Federal Election Commission (FEC)](https://www.fec.gov/resources/cms-content/documents/federalelections2020.pdf)
 | Candidate | Votes | Percentage | Electoral College |
 |---|--:|---:|---:|
 | Biden (D) | 81,283,501 | 51.31% | 306 |
 | Trump (T) | 74,223,975 | 46.85% | 232 |
 | (Difference) | 7,059,526.00 | 4.46% | 74 |
 
-[2020 Presidential Election Results – Federal Election Commission (FEC)](https://www.fec.gov/resources/cms-content/documents/federalelections2020.pdf)
 
 *Maine appoints its electors proportionally. Biden-Harris won in the First Congressional District and took the state; Trump-Pence won the Second Congressional District. Maine's electoral votes were proportionally awarded accordingly: for President, Biden 3 and Trump 1; for Vice President, Harris 3 and Pence 1.
 **Nebraska appoints its electors proportionally. Trump-Pence won in the First and Third Congressional Districts and took the state; Biden-Harris won the Second Congressional District. Nebraska's electoral votes were proportionally awarded accordingly: for President, Trump 4 and Biden 1; for Vice President, Pence 4 and Harris 1.
 
-### 2016
+### [2016 Presidential Election Results – Federal Election Commission (FEC)](https://www.fec.gov/resources/cms-content/documents/federalelections2020.pdf)
 
 | Candidate | Votes | Percentage | Electoral College |
 |---|--:|---:|---:|
@@ -75,13 +87,10 @@ Issues can be created at [Issues · RalphHightower/blog](https://github.com/Ralp
 | Trump (T) | 62,984,828 | 46.09% | 304 |
 | (Difference) | 2,868,686 | 2.09% | 77 |
 
-[2016 Presidential Election Results – Federal Election Commission (FEC)](https://www.fec.gov/resources/cms-content/documents/federalelections2020.pdf)
-
 *Hawaii does not appoint its electors proportionally. Due to faithless voting, the electoral votes for Hawaii were: for President, Clinton 3 and Bernie Sanders 1; for Vice President, Kaine 3 and Elizabeth Warren 1.
   **Maine appoints its electors proportionally. Clinton/Kaine won in the First Congressional District and took the state; Trump/Pence won the Second Congressional District. Maine's electoral votes were proportionally awarded accordingly: for President, Clinton 3 and Trump 1; for Vice President, Kaine 3 and Pence 1.
  ***Texas does not appoint its electors proportionally. Due to faithless voting, the electoral votes for Texas were: for President, Trump 36, Ron Paul 1, and John Kasich 1; for Vice President, Pence 37 and Carly Fiorina 1.
 ****Washington does not appoint its electors proportionally. Due to faithless voting, the electoral votes for Washington were: for President, Clinton 8, Colin Powell 3, and Faith Spotted Eagle 1; for Vice President, Kaine 8, Elizabeth Warren 1, Susan Collins 1, Maria Cantwell 1, and Winona LaDuke 1.
-
 
 ## I Am the *“Enemy Within”*
 
@@ -153,7 +162,7 @@ Apparently, stewing in his own venom and demons after losing the 2020 election h
 ***How?***
 
 - Tame your temper! Quit throwing **Trumper Tantrums!**
-- **Quit your pathological lying and tell the **God-damned truth!**
+- **Quit your pathological lying and tell the God-damned truth!**
 - Quit your **God-damned gaslighting[^610]**!
 - Start treating people with **respect!** I.e., quit that childish behavior of calling people names and acting like a school-yard bully.
 - Be a true leader! A true leader recognizes team members, and subordinates for their accomplishment, and accepts the blame when things fail. A true leader does not use intimidation and fear.
@@ -277,4 +286,5 @@ I have more information on my website: [Ralph Hightower — Website](https://ral
 |  |  |
 |---|---|
 | ![GitHub Repositories By Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RalphHightower&theme=default) | ![GitHub Most Committed By Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RalphHightower&theme=default) |
-| ![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RalphHightower&theme=default) | ![GitHub Commits By Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RalphHightower&theme=default&utcOffset=-5) |
+
+| ![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RalphHightower&theme=default) | ![GitHub Commits By Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RalphHightower&theme=default&utcOffset=-5) |
