@@ -8,13 +8,13 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: 'title'
+title: 'President Trump Fucked Up The Federal Government By Freezing Funds Causing Major Pain For Veterans, State and Locals Governments Nationwide"
 ---
 
 
 ## [Trump Orders Freeze On All Federal Grants And Loans / HuffPost Latest News](https://www.huffpost.com/entry/donald-trump-grants-loans-freeze_n_67984689e4b00dc186534c4f)
 
-*Democrats warned that [Trump’s](https://www.whitehouse.gov/) latest order could harm programs used by millions of Americans, including early childhood programs, and food and rent assistance.*
+*[Democrats](https://democrats.org/) warned that [Trump’s](https://www.whitehouse.gov/) latest order could harm programs used by millions of Americans, including early childhood programs, and food and rent assistance.*
 
 By  Igor Bobic and Jonathan Cohn
 Jan 27, 2025, 10:50 PM EST
@@ -25,21 +25,21 @@ Matthew J. Vaeth, the acting director of the White House [Office of Management a
 
 - “The American people elected [Donald J. Trump](https://www.whitehouse.gov/) to be President of the United States and gave him a mandate to increase the impact of every federal tax dollar,” Vaeth wrote. “The use of Federal resources to advance Marxist equity, transgenderism, and green new deal social engineering policies is a waste of taxpayer dollars that does not improve the day-to-day lives of those we serve.”
 
-Democrats warned that [Trump](https://www.whitehouse.gov/)’s latest directive could significantly harm programs used by millions of Americans, including food and rent assistance, early childhood programs, nonprofit organizations and children’s health insurance, among many others.
+[Democrats](https://democrats.org/) warned that [Trump](https://www.whitehouse.gov/)’s latest directive could significantly harm programs used by millions of Americans, including food and rent assistance, early childhood programs, nonprofit organizations and children’s health insurance, among many others.
 
 “They say this is only temporary, but no one should believe that,” [Senate](https://www.senate.gov/) [Minority Leader Chuck Schumer D-NY)](https://schumer.senate.gov/)
 said in a statement on Monday. 
 - “[Donald Trump](https://www.whitehouse.gov/) must direct his Administration to reverse course immediately and the taxpayers’ money should be distributed to the people. These grants help people in red states and blue states, support families, help parents raise kids, and lead to stronger communities. This freeze means missed payrolls and rent payments and everything in between: chaos for everything from universities to non-profit charities.”
 
-Last week, [Trump](https://www.whitehouse.gov/) ordered government agencies to pause other funds appropriated by [Congress](https://www.congress.gov/) — including key climate investments, money for infrastructure projects and nearly all U.S. assistance to foreign nations — challenging the constitutional role of [Congress](https://www.congress.gov/) and its power of the purse.
+Last week, [Trump](https://www.whitehouse.gov/) ordered government agencies to pause other funds appropriated by [[Congress](https://www.congress.gov/(](https://www.congress.gov/) — including key climate investments, money for infrastructure projects and nearly all U.S. assistance to foreign nations — challenging the constitutional role of [[Congress](https://www.congress.gov/(](https://www.congress.gov/) and its power of the purse.
 
-And over the weekend, [Trump](https://www.whitehouse.gov/) fired at least 18 inspectors general whose job is to root out corruption in government agencies. He did it without notifying [Congress](https://www.congress.gov/), a move critics denounced as a “chilling purge.”
+And over the weekend, [Trump](https://www.whitehouse.gov/) fired at least 18 inspectors general whose job is to root out corruption in government agencies. He did it without notifying [[Congress](https://www.congress.gov/(](https://www.congress.gov/), a move critics denounced as a “chilling purge.”
 
 [Trump's](https://www.whitehouse.gov/) executive orders are likely to face legal challenges, but his intention is not difficult to grasp: an unprecedented effort to seize power, from a president far more unbound this time than during his first presidential term.
 
-Monday’s proclamation is only the latest [Trump](https://www.whitehouse.gov/) attempt to freeze federal government functions. Last week, [Trump](https://www.whitehouse.gov/) ordered government agencies to pause other funds appropriated by [Congress](https://www.congress.gov/) — including key climate investments, money for infrastructure projects and nearly all U.S. assistance to foreign nations — challenging the constitutional role of [Congress](https://www.congress.gov/) and its power of the purse.
+Monday’s proclamation is only the latest [Trump](https://www.whitehouse.gov/) attempt to freeze federal government functions. Last week, [Trump](https://www.whitehouse.gov/) ordered government agencies to pause other funds appropriated by [[Congress](https://www.congress.gov/(](https://www.congress.gov/) — including key climate investments, money for infrastructure projects and nearly all U.S. assistance to foreign nations — challenging the constitutional role of [[Congress](https://www.congress.gov/(](https://www.congress.gov/) and its power of the purse.
 
-And over the weekend, [Trump](https://www.whitehouse.gov/) fired at least 18 inspectors general whose job is to root out corruption in government agencies. He did it without notifying [Congress](https://www.congress.gov/), a move critics denounced as a “chilling purge.”
+And over the weekend, [Trump](https://www.whitehouse.gov/) fired at least 18 inspectors general whose job is to root out corruption in government agencies. He did it without notifying [[Congress](https://www.congress.gov/(](https://www.congress.gov/), a move critics denounced as a “chilling purge.”
 
 [Trump](https://www.whitehouse.gov/)’s executive orders are likely to face legal challenges, but his intention is not difficult to grasp: an unprecedented effort to seize power, from a president far more unbound this time than during his first presidential term.
 
@@ -47,11 +47,11 @@ Bobby Kogan, senior director of federal budget policy at the liberal Center for 
 
 - “This is what we were worried about ― some enormous, broad thing that would stop funding for huge swaths of the government that he simply doesn’t like and doesn’t agree with. He says he’s going after grants, loans and federal financial assistance, and he calls it three out of ten trillion dollars, so theoretically he’s pausing like a third of government funding ― which is illegal and massive.”
 
-[Trump](https://www.whitehouse.gov/) and his allies have long opposed the Impoundment Control Act, which sets limits on how much a president can restrict money that’s been approved by Congress. This latest order may be designed to spark a legal battle and ensure the Impoundment Control Act is reviewed by the U.S. Supreme Court, where conservatives hold a 6-3 majority.
+[Trump](https://www.whitehouse.gov/) and his allies have long opposed the Impoundment Control Act, which sets limits on how much a president can restrict money that’s been approved by [Congress](https://www.congress.gov/(. This latest order may be designed to spark a legal battle and ensure the Impoundment Control Act is reviewed by the U.S. Supreme Court, where conservatives hold a 6-3 majority.
 
 [University of Michigan](https://umich.edu/) law professor Samuel Bagenstos, also served in the Biden administration as general counsel at both the Office of Management and Budget as well as the Department of Health and Human Services:
 
-- “The [Trump](https://www.whitehouse.gov/) Administration is ostentatiously flouting [Congress's,](https://www.congress.gov/) power of the purse, which is one of the most basic principles of our republic. It’s almost like they’re daring people to sue them so they can challenge the constitutionality of the [Impoundment Control Act](https://www.gao.gov/legal/appropriations-law/impoundment-control-act-resources) and get the Supreme Court to decide the issue as soon as possible.”
+- “The [Trump](https://www.whitehouse.gov/) Administration is ostentatiously flouting [[Congress](https://www.congress.gov/('s,](https://www.congress.gov/) power of the purse, which is one of the most basic principles of our republic. It’s almost like they’re daring people to sue them so they can challenge the constitutionality of the [Impoundment Control Act](https://www.gao.gov/legal/appropriations-law/impoundment-control-act-resources) and get the Supreme Court to decide the issue as soon as possible.”
 
 ### Federal Government Agencies Impacted
 
