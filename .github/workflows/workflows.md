@@ -18,13 +18,13 @@ title: GitHub Workflows
 | actions/upload-artifact@v4.6.0 | Jan 9, 2025 | [actions/upload-artifact](https://github.com/actions/upload-artifact) |
 | actions/upload-pages-artifact@v3.0.1 | Feb 7, 2024 | [actions/upload-pages-artifact: A composite action for packaging and uploading an artifact that can be deployed to GitHub Pages.](https://github.com/actions/upload-pages-artifact) |
 | amannn/action-semantic-pull-request@v5.5.3 | Jun 28, 2024 | [amannn/action-semantic-pull-request: A GitHub Action that ensures that your PR title matches the Conventional Commits spec](https://github.com/amannn/action-semantic-pull-request) |
-| github/codeql-action/analyze@v2.20.1 | Dec 12, 2024 | [github/codeql-action: Actions for running CodeQL analysis](https://github.com/github/codeql-action) |
-| github/codeql-action/autobuild@v2.20.1 | Dec 12, 2024 | [github/codeql-action: Actions for running CodeQL analysis](https://github.com/github/codeql-action) |
-| github/codeql-action/init@v2.20.01 | Dec 12, 2024 | [github/codeql-action: Actions for running CodeQL analysis](https://github.com/github/codeql-action) |
-| github/codeql-action/upload-sarif@v2.20.1 | Dec 12, 2024 | [github/codeql-action: Actions for running CodeQL analysis](https://github.com/github/codeql-action) |
+| github/codeql-action/analyze@v2.20.3 | Jan 24, 2025 | [github/codeql-action: Actions for running CodeQL analysis](https://github.com/github/codeql-action) |
+| github/codeql-action/autobuild@v2.20.3 | Jan 24, 2025 | [github/codeql-action: Actions for running CodeQL analysis](https://github.com/github/codeql-action) |
+| github/codeql-action/init@v2.20.3 | Jan 24, 2025 | [github/codeql-action: Actions for running CodeQL analysis](https://github.com/github/codeql-action) |
+| github/codeql-action/upload-sarif@v2.20.3 | Jan 24, 2025 | [github/codeql-action: Actions for running CodeQL analysis](https://github.com/github/codeql-action) |
 | googleapis/release-please-action@4.1.3 | Jun 10, 2024 | [googleapis/release-please-action: automated releases based on conventional commits](https://github.com/googleapis/release-please-action)
 | googleapis/release-please@v16.15.0 | Nov 13, 2024 | [googleapis/release-please: generate release PRs based on the conventionalcommits.org spec](https://github.com/googleapis/release-please) |
 | lowlighter/metrics@3.34 | Sep 12, 2023 | [lowlighter/metrics: 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!](https://github.com/lowlighter/metrics) |
 | ossf/scorecard-action@v2.4.0 | Jul 26, 2024 | [ossf/scorecard-action: Official GitHub Action for OpenSSF Scorecard.](https://github.com/ossf/scorecard-action) |
-| ruby/setup-ruby@v1.213.0 | Jan 18, 2025 | [ruby/setup-ruby: An action to download a prebuilt Ruby and add it to the PATH in 5 seconds](https://github.com/ruby/setup-ruby) |
-| step-security/harden-runner@v2.10.3 | Jan 9, 2025 | [step-security/harden-runner: Network egress filtering and runtime security for GitHub-hosted and self-hosted runners](https://github.com/step-security/harden-runner) |
+| ruby/setup-ruby@v1.215.0 | Jan 30, 2025 | [ruby/setup-ruby: An action to download a prebuilt Ruby and add it to the PATH in 5 seconds](https://github.com/ruby/setup-ruby) |
+| step-security/harden-runner@v2.10.4 | Jan 19, 2025 | [step-security/harden-runner: Network egress filtering and runtime security for GitHub-hosted and self-hosted runners](https://github.com/step-security/harden-runner) |
