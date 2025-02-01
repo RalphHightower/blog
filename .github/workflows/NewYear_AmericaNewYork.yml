@@ -1,7 +1,7 @@
-name: scorecard.yml — OpenSSF Scorecard
+- name: scorecard.yml — OpenSSF Scorecard
 "on":
   schedule:
-    - cron: 31 2 * * 1
+    - cron: 0 5 1 1 *
   push:
     branches:
       - main
@@ -31,12 +31,12 @@ jobs:
           results_format: sarif
           publish_results: true
       - name: Upload artifact
-        uses: actions/upload-artifact@65c4c4a1ddee5b72f698fdd19549f0f0fb45cf08 # v4.6.0
+        uses: actions/upload-artifact@v4.6.0
         with:
           name: SARIF file
           path: results.sarif
           retention-days: 5
       - name: Upload to code-scanning
-        uses: github/codeql-action/upload-sarif@v2.20.3
+        uses: github/codeql-action/upload-sarif@6c089f53dd51dc3fc7e599c3cb5356453a52ca9e # v2.20.0
         with:
           sarif_file: results.sarif
