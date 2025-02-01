@@ -3,8 +3,8 @@ layout: home
 title: Blog Posts
 ---
 
-{% if paginator.total_pages > 1 %}
 <div class="pagination">
+{% if paginator.total_pages > 1 %}
   {% if paginator.previous_page %}
     <a href="{{ paginator.previous_page_path | relative_url }}">&laquo; Prev</a>
   {% else %}
@@ -26,5 +26,5 @@ title: Blog Posts
   {% else %}
     <span>Next &raquo;</span>
   {% endif %}
-</div>
 {% endif %}
+</div>
