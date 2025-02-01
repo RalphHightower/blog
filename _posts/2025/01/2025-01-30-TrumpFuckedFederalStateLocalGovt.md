@@ -8,7 +8,7 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: 'President Trump Fucked Up The Federal Government By Freezing Funds Causing Major Pain For Veterans, State and Locals Governments Nationwide"
+title: "President Trump Fucked Up The Federal Government By Freezing Funds Causing Major Pain For Veterans, State and Locals Governments Nationwide"
 ---
 
 
