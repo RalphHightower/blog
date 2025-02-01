@@ -14,7 +14,7 @@ title: GitHub Workflows
 | actions/dependency-review-action@v4.5.0 | Nov 20, 2024 | [actions/dependency-review-action: A GitHub Action for detecting vulnerable dependencies and invalid licenses in your PRs](https://github.com/actions/dependency-review-action) |
 | actions/deploy-pages@4.0.5 | Mar 18, 2024 | [actions/deploy-pages: GitHub Action to publish artifacts to GitHub Pages for deployments](https://github.com/actions/deploy-pages) |
 | actions/jekyll-build-pages@v1.0.13 | Aug 6, 2024 | [actions/jekyll-build-pages: A simple GitHub Action for producing Jekyll build artifacts compatible with GitHub Pages.](https://github.com/actions/jekyll-build-pages) |
-| actions/setup-node@v4.1.0 | Oct 24, 2024 | [actions/setup-node: Set up your GitHub Actions workflow with a specific version of node.js](https://github.com/actions/setup-node) |
+| actions/setup-node@v4.2.0 | Jan 22, 2025 | [actions/setup-node: Set up your GitHub Actions workflow with a specific version of node.js](https://github.com/actions/setup-node) |
 | actions/upload-artifact@v4.6.0 | Jan 9, 2025 | [actions/upload-artifact](https://github.com/actions/upload-artifact) |
 | actions/upload-pages-artifact@v3.0.1 | Feb 7, 2024 | [actions/upload-pages-artifact: A composite action for packaging and uploading an artifact that can be deployed to GitHub Pages.](https://github.com/actions/upload-pages-artifact) |
 | amannn/action-semantic-pull-request@v5.5.3 | Jun 28, 2024 | [amannn/action-semantic-pull-request: A GitHub Action that ensures that your PR title matches the Conventional Commits spec](https://github.com/amannn/action-semantic-pull-request) |
