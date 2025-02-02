@@ -10,8 +10,8 @@ source 'https://rubygems.org'
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
 
-# gem 'jekyll', '~> 4.4', '>= 4.4.1'
-gem 'jekyll', '~> 4.3', '>= 4.3.4'
+gem 'jekyll', '~> 4.4', '>= 4.4.1'
+# gem 'jekyll', '~> 4.3', '>= 4.3.4'
 gem 'kramdown', '~> 2.5', '>= 2.5.1'
 gem 'sassc-embedded', '~> 1.80', '>= 1.80.1'
 gem 'rake', '~> 13.2', '>= 13.2.1'
