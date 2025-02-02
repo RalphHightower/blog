@@ -10,8 +10,8 @@ source 'https://rubygems.org'
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
 
-# gem 'jekyll', '~> 4.4', '>= 4.4.1'
-gem 'jekyll', '~> 4.3', '>= 4.3.4'
+gem 'jekyll', '~> 4.4', '>= 4.4.1'
+# gem 'jekyll', '~> 4.3', '>= 4.3.4'
 gem 'kramdown', '~> 2.5', '>= 2.5.1'
 gem 'sassc-embedded', '~> 1.80', '>= 1.80.1'
 gem 'rake', '~> 13.2', '>= 13.2.1'
@@ -31,6 +31,7 @@ gem 'jekyll-optional-front-matter', '~> 0.3.2'
 gem 'jekyll-paginate-v2', '~> 3.0'
 gem 'jekyll-readme-index', '~> 0.3.0'
 gem 'jekyll-relative-links', '~> 0.7.0'
+gem 'jekyll-sass-converter', '~> 3.1' # for: gem 'jekyll', '~> 4.4', '>= 4.4.1'
 gem 'jekyll-seo-tag', '~> 2.8'
 gem 'jekyll-sitemap', '~> 1.4'
 # gem 'jekyll-tagging', github: 'RalphHightower/jekyll-tagging', branch: 'master'
