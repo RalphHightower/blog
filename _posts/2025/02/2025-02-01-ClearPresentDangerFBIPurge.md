@@ -7,11 +7,11 @@ excerpt: "@RalphHightower: This FBI and DOJ purge is serious. No longer will Fed
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: "A CLEAR AND PRESENT DANGER! Trump's Purge Of FBI Agents On January 6 Cases Ends Equal and Just Law Enforcement Regardless of Polical Persuasion"
+title: "🚨 A CLEAR AND PRESENT DANGER! Trump's Purge Of FBI Agents On January 6 Cases Ends Equal and Just Law Enforcement Regardless of Polical Persuasion 🚨"
 ---
 
 
-## :rotating_light: Trump moves toward ending independent law enforcement as a core American value with mass purge :rotating_light:
+## 🚨 Trump moves toward ending independent law enforcement as a core American value with mass purge 🚨
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IQ1HWDhLOoQ?si=AsfAso91JaJNxTXy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
