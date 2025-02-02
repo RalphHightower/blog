@@ -28,7 +28,7 @@ repository: 'RalphHightower/blog'
 url: 'https://ralphhightower.github.io'
 baseurl: "blog/"
 timezone: 'America/New_York'
-
+excerpt_separator: "excerpt: "
 # Build settings
 
 # If you clone the Minima repo and build locally, use this setting.
