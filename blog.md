@@ -15,9 +15,11 @@ title: Blog Posts
     {% if page == paginator.page %}
       <em>{{ page }}</em>
     {% elsif page == 1 %}
-      <a href="{{ site.paginate_path | relative_url | replace: 'page:num/', '' }}">{{ page }}</a>
+      <a href="{{ site.paginate_path | relative_url | replace: 'page:num/', '' }}">{{ page.title }}</a>
     {% else %}
-      <a href="{{ site.paginate_path | relative_url | replace: ':num', page }}">{{ page }}</a>
+      page.date<br />
+      <a href="{{ site.paginate_path | relative_url | replace: ':num', page }}">{{ page.title }}</a>
+      page.excerpt
     {% endif %}
   {% endfor %}
 
