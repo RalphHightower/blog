@@ -7,6 +7,8 @@ excerpt: "“Every Administration suffers defeats in the court system — someti
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
+pagination: 
+  enabled: true
 title: "Supreme Justice Chief Justice Veiled “Head Slap” At Vice President-Elect JD Vance"
 ---
 

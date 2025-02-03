@@ -7,6 +7,8 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
+pagination: 
+  enabled: true
 title: "Trump Supports His Lies As Free Speech. But He Will Persecute Those Who Fact Check Him!"
 ---
 

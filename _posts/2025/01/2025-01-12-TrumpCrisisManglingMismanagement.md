@@ -7,6 +7,8 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
+pagination: 
+  enabled: true
 title: "Trump’s Disgusting Nonexistent, Vindicative Crisis Handling"
 ---
 
