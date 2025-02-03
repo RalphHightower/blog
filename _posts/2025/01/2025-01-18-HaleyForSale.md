@@ -7,6 +7,8 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
+pagination: 
+  enabled: true
 title: "Nikki Haley Is an Opportunist Politician Willing To Sell Her Soul"
 ---
 
