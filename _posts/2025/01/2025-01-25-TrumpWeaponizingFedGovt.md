@@ -7,6 +7,8 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
+pagination: 
+  enabled: true
 title: "Trump Is Already Weaponizing Federal Government Against His Political Enemies"
 ---
 
