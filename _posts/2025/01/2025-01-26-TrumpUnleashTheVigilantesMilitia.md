@@ -7,6 +7,8 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
+pagination: 
+  enabled: true
 title: "Trump Unleashes The January 6, 2021 Insurrectionists To Serve As His Vigilantes And Militias"
 ---
 

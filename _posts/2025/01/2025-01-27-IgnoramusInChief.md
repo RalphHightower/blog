@@ -7,6 +7,8 @@ excerpt: "ICYMI President Donald J. Trump’s TRUTH on Columbia sanctions. – D
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
+pagination: 
+  enabled: true
 title: "Ignoramus-In-Chief, Trump, Confuses Colombia, the Country,  With Columbia, the Cities"
 ---
 
@@ -71,7 +73,7 @@ Dan Pfeiffer, a former senior adviser to [Barack Obama](https://obamawhitehouse.
 
 YouTube Channel @LiveFromTheResistance:
 
-- "And we have a trade war with [Colombia](https://www.gov.co/) in less than 1 week which will send prices of gasoline and products skyrocketing for Americans. Thanks [Trump](https://www.whitehouse.gov/)."
+1. "And we have a trade war with [Colombia](https://www.gov.co/) in less than 1 week which will send prices of gasoline and products skyrocketing for Americans. Thanks [Trump](https://www.whitehouse.gov/)."
 
 Aaron Parnas, Attorney:
 

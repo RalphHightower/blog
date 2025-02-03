@@ -1,12 +1,14 @@
 ---
 layout: post
-tags: [Mary Trump Media, inauguration, frigid cold, snow, maga disappointment]
+tags: [Mary Trump Media, Snowflake Trump, inauguration, frigid cold, snow, maga disappointment]
 categories: [Donald Trump]
 date: 2025-01-21 5:17 PM
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
+pagination: 
+  enabled: true
 title: "Hell Freezes Over!: 'Snowflake Trump' MAGA Disappointment. Trumplandia Residents In DC To See Conauguration In Person Forced To Watch On Jumbotron In Arena"
 ---
 

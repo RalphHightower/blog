@@ -7,7 +7,9 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: "Political Anxiety: How To Cope With The Dystopian Years Of Trump"
+pagination: 
+  enabled: true
+title: Political Anxiety: How To Cope With The Dystopian Years Of Trump"
 ---
 
 

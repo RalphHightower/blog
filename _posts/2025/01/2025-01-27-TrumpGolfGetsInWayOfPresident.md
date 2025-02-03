@@ -7,6 +7,8 @@ excerpt: "“No. I don’t think so. I’m busy.” – Donald Trump when asked 
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
+pagination: 
+  enabled: true
 title: "Not Too Busy To Play Golf: Our Golfer-In-Chief, Donald (“I'm Busy”) Trump, Finds Time To Play Golf"
 ---
 

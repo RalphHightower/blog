@@ -7,6 +7,8 @@ excerpt: "“... wants the Supreme Court to treat him like a second President wi
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
+pagination: 
+  enabled: true
 title: "President-elect Trump Flips Flops On Banning TikTok"
 ---
 

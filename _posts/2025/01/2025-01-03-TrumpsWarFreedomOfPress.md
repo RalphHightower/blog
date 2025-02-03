@@ -7,6 +7,8 @@ excerpt: "Now, of course, he has the awesome power of the federal government beh
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
+pagination: 
+  enabled: true
 title: "Trump Continues Attacks First Amendment: Freedom Of the Press"
 ---
 
