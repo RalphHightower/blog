@@ -7,6 +7,8 @@ excerpt: "“If you need proof that our age is all gilded up, this Monday the th
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
+pagination: 
+  enabled: true
 title: "Luxury Skyboxes For Tech Oligarchs at Trump's Inauguration"
 ---
 
