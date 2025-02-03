@@ -1,12 +1,14 @@
 ---
 layout: post
-tags: [Washington Post, inspector generals, independent auditors, federal agencies, politics]
-categories: [Donald Trump]
+tags: []
+categories: []
 date: 2025-01-26 1:25 PM
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
+pagination: 
+  enabled: true
 title: "Trump Fires Inspector Generals Across Multiple Agencies. Expect Foxes To Guard The Hen Houses"
 ---
 

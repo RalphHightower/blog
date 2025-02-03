@@ -7,6 +7,8 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
+pagination: 
+  enabled: true
 title: "Trump Halts Medical Research, Muzzles Health Agencies From Notifying Medical Professionals & Public"
 ---
 

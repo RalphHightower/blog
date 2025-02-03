@@ -7,6 +7,8 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
+pagination: 
+  enabled: true
 title: "Trump's Tech Trysts: Tech Oligarchs, Altman, Bezos, Brin, Cook, Musk, Pinchai, Zuckerberg, Chew, Ob​se​qui​ous​ly Kneel Down Before Trump"
 ---
 

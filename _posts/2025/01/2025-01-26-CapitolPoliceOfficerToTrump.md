@@ -7,6 +7,8 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
+pagination: 
+  enabled: true
 title: "Capitol Police Officer Attacked January 6 2021 Public That Trump Enablers Are Still In Congress"
 ---
 

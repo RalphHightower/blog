@@ -7,6 +7,8 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
+pagination: 
+  enabled: true
 title: "Federal and State Civil Servants Are Preparing for Persecution From Trump, Possibly Loss of Life By the Hands of MAGAlandia Citizens"
 ---
 
