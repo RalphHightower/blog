@@ -17,12 +17,12 @@ description: >
   It’s going to be a long slog to survive “The Apprentice: White House – Wrecking Ball 2025”. Hold Trump’s feet to the fire on his campaign promises. He promised to lower grocery prices, gas prices, car/truck prices, inflation, housing prices. Grade him on appliances prices, budget deficit, car and truck prices, consumer goods, economy, energy, groceries, housing prices, inflation, interest rate, stock market, trade deficit, unemployment. Join the Resistance! I am the “enemy within”.
 
 # description: > # This means to ignore newlines until "show_excerpts:"
-#   “The Apprentice: White House” ended a tumultuous four year season 
+#   “The Apprentice: White House” ended a tumultuous four year season
 #   ingloriously on January 6, 2021, at an extraordinary low point in
 #   American history when thousands of far-right undesirables, Pride Boys,
 #   Zero Percenters, Oath Losers, and Booger Loogies, lay siege on the US
 #   Capitol in a vain attempt of insurrection to overthrow a fair election.
-#   Cancel the rerun of “The Apprentice: White House – Wrecking Ball 2025”. 
+#   Cancel the rerun of “The Apprentice: White House – Wrecking Ball 2025”.
 
 repository: 'RalphHightower/blog'
 url: 'https://ralphhightower.github.io'
@@ -34,8 +34,8 @@ timezone: 'America/New_York'
 # If you clone the Minima repo and build locally, use this setting.
 theme: minima
 
-# As of November 2023, GitHub Pages still uses Minima 2.5.1 (https://pages.github.com/versions/). 
-# If you want to use the latest Minima version on GitHub Pages, use the following setting and 
+# As of November 2023, GitHub Pages still uses Minima 2.5.1 (https://pages.github.com/versions/).
+# If you want to use the latest Minima version on GitHub Pages, use the following setting and
 # add a line comment on "theme: minima" above.
 
 plugins:
@@ -52,7 +52,7 @@ plugins:
   # - jekyll-tagging
   - jekyll-titles-from-headings
   - jekyll_ai_related_posts
-   
+
 # Theme-specific settings
 
 # If you want to link only specific pages in your header, use this and add the path to the pages
@@ -74,9 +74,9 @@ minima:
     # solarized-dark	 Dark variant of solarized color scheme.
     # solarized	 Adaptive skin for solarized color scheme skins.
   skin: auto
-    
+
 # Minima date format.
-# The default value is "%b %d, %Y" (e.g. Nov 14, 2023) 
+# The default value is "%b %d, %Y" (e.g. Nov 14, 2023)
 # Refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this.
   date_format: "%F %r"
 
@@ -99,14 +99,10 @@ minima:
   # - { platform: pinterest, user_url: "https://www.pinterest.com/RalphHightower" }
   # - { platform: twitter, user_url: "https://twitter.com/RalphHightower" }
 
-# pagination 
-# paginate: 10
-# paginate_path: "/blog/page:num/"
-
 ai_related_posts:
   openai_api_key: {{ secrets.OPEN_AI_KEY }}
   fetch_enabled: prod
-    
+
 # Optional. The default date format is used if none is specified in the tag.
 last-modified-at:
   date-format: "%F %r"
@@ -116,24 +112,17 @@ optional_front_matter:
   enabled: true
 
 # Pagination Settings: jekyll-paginate-v2
-# Produces a cleaner folder structure when using categories
-permalink: /:year/:month/:title.html
-
-# Explicitly turn off the old code
-paginate: nil
-paginate_path: nil
-
-# Pagination Settings
 pagination:
   enabled: true
   per_page: 3
-  offset: 2
   permalink: '/page/:num/'
-  title: ':title - page :num of :max'
+  title: ' - page :num'
   limit: 0
   sort_field: 'date'
   sort_reverse: true
-  
+# Produces a cleaner folder structure when using categories
+permalink: /:year/:month/:title.html
+
 readme_index:
   enabled: true
   remove_originals: true
@@ -142,7 +131,7 @@ readme_index:
 relative_links:
   enabled:     true
   collections: true
-  
+
 tag_page_layout: tag_page
 tag_page_dir: tag
 
