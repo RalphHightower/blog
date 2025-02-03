@@ -1,7 +1,7 @@
 ---
 layout: post
-tags: []
-categories: []
+tags: [Washington Post, campaign promises, defense, democracy, economy, education, environment, health, immigration, politics]
+categories: [Donald Trump]
 date: 2025-01-26 2:42 PM
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
