@@ -7,6 +7,8 @@ excerpt: "@RalphHightower: This FBI and DOJ purge is serious. No longer will Fed
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
+pagination: 
+  enabled: true
 title: "🚨 A CLEAR AND PRESENT DANGER! Trump's Purge Of FBI Agents On January 6 Cases Ends Equal and Just Law Enforcement Regardless of Polical Persuasion 🚨"
 ---
 
