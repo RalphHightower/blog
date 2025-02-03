@@ -1,12 +1,14 @@
 ---
 layout: post
-tags: [MSNBC, grift, con, pathological liar, president, White House, politics]
+tags: [MSNBC, 1-202-456-1414, grift, con, pathological liar, president, White House, politics]
 categories: [Donald Trump]
 date: 2025-01-26 6:27 PM
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
+pagination: 
+  enabled: true
 title: "Historic House For Sale In District Of Columbia. Call 1-202-456-1414"
 ---
 

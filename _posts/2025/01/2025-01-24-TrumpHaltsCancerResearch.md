@@ -7,6 +7,8 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
+pagination: 
+  enabled: true
 title: "Trump Halts Government Funding Research For Cures Of Cancer, Alzheimer's, And Other Diseases"
 ---
 

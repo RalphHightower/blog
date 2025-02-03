@@ -7,6 +7,8 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
+pagination: 
+  enabled: true
 title: "Echos From Four Years Ago: MAGA Trumper Senators Torch Trump For Inciting January 6, 2021 Insurrection"
 ---
 

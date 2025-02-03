@@ -7,6 +7,8 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
+pagination: 
+  enabled: true
 title: "They're Not 'Hostages'! They're Fucking Criminals! Trump pardons over fifteen hundred (1,500) January 6, 2021 Insurrectionists!"
 ---
 

@@ -7,6 +7,8 @@ excerpt: "“I'm actually glad you asked this question because one of the things
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
+pagination: 
+  enabled: true
 title: "Freedom of the Press: White House Spokesperson Thanks Journalists For Fact Checking"
 ---
 

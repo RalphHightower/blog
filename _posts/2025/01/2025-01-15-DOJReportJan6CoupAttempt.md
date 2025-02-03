@@ -7,6 +7,8 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
+pagination: 
+  enabled: true
 title: "Department of Justice January 6 2021 Report Reveals Trump Attempted Coup d'état"
 ---
 
