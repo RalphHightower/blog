@@ -7,6 +7,8 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
+pagination:
+  enabled: true
 title: "Trump's Campaign Promises"
 ---
 
@@ -212,4 +214,3 @@ underway
 **The promise:** Trump pledged to build the wall and did not finish it during his first term, but his campaign has said the remaining construction could be done quickly and cheaply.
 
 **Actions taken:** On his first day, Trump declared a national emergency at the southern border, which directed the departments of Homeland Security and Defense to complete construction of the border wall.
-

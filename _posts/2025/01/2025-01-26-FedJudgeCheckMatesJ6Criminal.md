@@ -1,12 +1,14 @@
 ---
 layout: post
-tags: [Legal AF, Oath Keepers, Stuart Rhodes, January 6 2021,  insurrection, politics]
+tags: [Legal, AF, Oath Keepers, Stuart Rhodes, January 6 2021,  insurrection, politics]
 categories: [Donald Trump]
 date: 2025-01-26 5:30 PM
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
+pagination: 
+  enabled: true
 title: "Federal Judges Have Not Forgotten January 6th: Dismiss Case Without Prejudice (Case Can Be Recalled)"
 ---
 
