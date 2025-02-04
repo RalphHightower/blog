@@ -7,8 +7,6 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-pagination:
-  enable: true
 title: "For Preservation Before Trump Rewriting History: Kellye SoRelle Sentenced For January 6"
 ---
 
