@@ -117,13 +117,13 @@ optional_front_matter:
 permalink: /:year/:month/:title.html
 
 # Explicitly turn off the old code
-paginate: nil
-paginate_path: nil
+# paginate: nil
+# paginate_path: nil
 
 # Pagination Settings
 pagination:
   enabled: true
-  per_page: 3
+  per_page: 5
   offset: 2
   permalink: '/page/:num/'
   title: ':title - page :num of :max'
