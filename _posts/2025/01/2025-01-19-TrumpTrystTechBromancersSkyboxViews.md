@@ -7,7 +7,6 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-  enabled: true
 title: "Trump's Tech Trysts: Tech Titan Bromancers Get Skybox Seating For Trump's Inauguration"
 ---
 
