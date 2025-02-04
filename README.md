@@ -69,12 +69,12 @@ If a security issue is found, I can be notified by one of the following methods:
 
 
 ### [2020 Presidential Election Results – Federal Election Commission (FEC)](https://www.fec.gov/resources/cms-content/documents/federalelections2020.pdf)
+
 | Candidate | Votes | Percentage | Electoral College |
 |---|--:|---:|---:|
 | Biden (D) | 81,283,501 | 51.31% | 306 |
 | Trump (T) | 74,223,975 | 46.85% | 232 |
 | (Difference) | 7,059,526.00 | 4.46% | 74 |
-
 
 *Maine appoints its electors proportionally. Biden-Harris won in the First Congressional District and took the state; Trump-Pence won the Second Congressional District. Maine's electoral votes were proportionally awarded accordingly: for President, Biden 3 and Trump 1; for Vice President, Harris 3 and Pence 1.
 **Nebraska appoints its electors proportionally. Trump-Pence won in the First and Third Congressional Districts and took the state; Biden-Harris won the Second Congressional District. Nebraska's electoral votes were proportionally awarded accordingly: for President, Trump 4 and Biden 1; for Vice President, Pence 4 and Harris 1.
@@ -143,6 +143,7 @@ During Trump's presidential campaigns in 2015 (primary), 2016 campaign and his p
 [^190]: People with OCPD may have a preoccupation with order, perfectionism, and control. They may also have the following traits: <br />• **Perfectionism:** They may demand perfection in all tasks, which can lead to missed deadlines. <br />• **Preoccupation with details:** They may be preoccupied with lists, rules, and order. <br />• **Lack of flexibility:** They may be unwilling to compromise or allow others to do things. <br />• **Difficulty working with others:** They may have difficulty delegating tasks or working with others unless they can do things exactly as they want.<br />People with OCPD may have a preoccupation with order, perfectionism, and control. They may also have the following traits: <br />• **Perfectionism:** They may demand perfection in all tasks, which can lead to missed deadlines. <br />• **Preoccupation with details:** They may be preoccupied with lists, rules, and order. <br />• **Lack of flexibility:** They may be unwilling to compromise or allow others to do things. <br />• **Difficulty working with others:** They may have difficulty delegating tasks or working with others unless they can do things exactly as they want. <br />• **Difficulty coping with criticism:** They may have difficulty coping with criticism and may over-focus on flaws in others.
 [^1000]: Trump admires strong-arm dictators, Hungary's Viktor Orbàn, Russia's Vladimir Putin, North Korea's Kim Jun-Un.
 [^1100]: Trump cheats on:<br />• wives<br />• taxes – personal income<br />• personal property tax<br />• real estate property tax<br />• corporate income<br />• financial loans<br />• insurance<br />• golf<br />• elections *(tries to)*
+
 [^1200]: I'd call it thievery when one pays less than the agreed upon contracted price for goods or services. It was in Wikipedia or a news story on the web that Trump paid something like 30% for several grand pianos for his casinos.<br />It’s like I buy a Ford truck priced at \$100,000 and I tell the dealer, "It’s a good truck, but it’s not worth \$100,000. I'll pay you \$30,000 for the truck.".
 [^1300]: Unlike a true leader who praises his/her team for their successes a glory hog steals all the congratulations with &"I did that!"*
 [^1400]: Another trait of a true leader is accepting responsibility for when things go wrong. Unlike Trump's *"It's not my fault. It's the [insert target here]."*
@@ -276,6 +277,8 @@ I have more information on my website: [Ralph Hightower — Website](https://ral
 
 [![OpenSSF Best Practices](https://www.bestpractices.dev/projects/9780/badge)](https://www.bestpractices.dev/projects/9780)
 
+
+
 | |
 |:---|
 | ![Ralph Hightower Repository’s Stats](https://github-readme-stats.vercel.app/api?username=RalphHightower&show_icons=true&title_color=73000a&text_color=73000a&border_color=73000a&icon_color=73000a&bg_color=ffffff&include_all_commits=false&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)|
@@ -287,4 +290,4 @@ I have more information on my website: [Ralph Hightower — Website](https://ral
 |---|---|
 | ![GitHub Repositories By Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RalphHightower&theme=default) | ![GitHub Most Committed By Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RalphHightower&theme=default) |
 
-| ![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RalphHightower&theme=default) | ![GitHub Commits By Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RalphHightower&theme=default&utcOffset=-5) |
+| ![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RalphHightower&theme=default) | ![GitHub Commits By Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RalphHightower&theme=default&utcOffset=-5) |
