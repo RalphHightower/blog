@@ -8,5 +8,5 @@
   link: /docs/PURPOSE.html
 - name: Blog Posts
   link: /blog.html
-- name: Blog Pages
-  link: /blog/index.html
+- name: Blog Pager
+  link: /blogpager.html
