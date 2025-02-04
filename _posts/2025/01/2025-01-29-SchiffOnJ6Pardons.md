@@ -7,8 +7,6 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-pagination: 
-  enabled: true
 title: "Senator Schiff Blasts Trump For Pardoning January 6 Insurrectionists"
 ---
 

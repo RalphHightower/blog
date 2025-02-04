@@ -7,8 +7,6 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-pagination: 
-  enabled: true
 title: "Pain Point Pricked: Trump Bristles With Questions Over January 6 Pardons"
 ---
 

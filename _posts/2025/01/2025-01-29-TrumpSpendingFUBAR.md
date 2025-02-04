@@ -8,8 +8,6 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-pagination: 
-  enabled: true
 title: "Trump’s Project 2025 Executive Order Halts Federal, States, and Locals Governments Dead In The Water"
 ---
 

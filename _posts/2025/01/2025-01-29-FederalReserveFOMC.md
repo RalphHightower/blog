@@ -7,8 +7,6 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-pagination: 
-  enabled: true
 title: "Federal Reserve Holds Interest Rate Steady Despite Trump's Attempt To Wreck Havoc On Inflation And Unemployment"
 ---
 
