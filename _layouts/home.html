@@ -28,7 +28,7 @@ layout: base
             {{ post.title | escape }}
           </a>
         </h3>
-        {%- if site.show_excerpts -%}
+        {%- if post.excerpt -%}
           {{ post.excerpt }}
         {%- endif -%}
       </li>
@@ -53,7 +53,5 @@ layout: base
       {% endif %}
   </ul>
   {% endif %}
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
 
 </div>
