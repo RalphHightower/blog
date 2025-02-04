@@ -7,8 +7,6 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-pagination: 
-  enabled: true
 title: "Department of Justice (DOJ( Will Release Special Prosecutor's Report On Trump’s Federal Criminal Indictment On January 6, 2021 Insurrection and Fraud/Interference Case"
 ---
 

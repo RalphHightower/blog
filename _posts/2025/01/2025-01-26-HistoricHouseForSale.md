@@ -7,8 +7,6 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-pagination: 
-  enabled: true
 title: "Historic House For Sale In District Of Columbia. Call 1-202-456-1414"
 ---
 

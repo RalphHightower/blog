@@ -7,8 +7,6 @@ excerpt: "It was reported elsewhere that Trump does not want sentencing by NY St
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-pagination: 
-  enabled: true
 title: "Trump’s Appeals Fails: DOJ Special Counsel Report Release, NY Business Fraud Sentencing"
 ---
 

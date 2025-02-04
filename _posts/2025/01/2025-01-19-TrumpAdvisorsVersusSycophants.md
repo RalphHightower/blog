@@ -7,8 +7,6 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-pagination: 
-  enabled: true
 title: "Trump Cabinet Differences: 45 Had Advisors. 47 Has Sycophants"
 ---
 

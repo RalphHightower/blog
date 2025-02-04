@@ -7,7 +7,6 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-pagination: 
   enabled: true
 title: "What Will Be Revealed In Trump's Federal Election Interference Case?"
 ---

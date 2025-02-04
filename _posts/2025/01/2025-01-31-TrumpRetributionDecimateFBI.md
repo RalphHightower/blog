@@ -7,8 +7,6 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-pagination: 
-  enabled: true
 title: "“The Wrath of Trump” Will Decimate the FBI Special Agent Core Investigating January 6 2021 Insurrectionists"
 ---
 

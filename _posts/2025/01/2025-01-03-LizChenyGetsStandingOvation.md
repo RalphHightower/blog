@@ -7,8 +7,6 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-pagination: 
-  enabled: true
 title: "Trump Must Be Beet Red! Former Rep. Liz Cheney (R-WY) Is Awarded American Citizens Award By President Joe Biden. Gets a Standing Ovation Also!"
 ---
 

@@ -7,8 +7,6 @@ excerpt: "Yet another evasive answer from the leader of the Senate on whether it
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-pagination: 
-  enabled: true
 title: "Trump Cabal Does Not Rule Out Persecuting Political Enemies (Persecute, Not Prosecute)"
 ---
 

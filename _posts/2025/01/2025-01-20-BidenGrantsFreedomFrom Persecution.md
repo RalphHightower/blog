@@ -7,8 +7,6 @@ excerpt: "Our nation relies on dedicated, selfless public servants every day. Th
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-pagination: 
-  enabled: true
 title: "President Biden Grants Pardons To Public Servants For Freedom From Persecution By Trump"
 ---
 

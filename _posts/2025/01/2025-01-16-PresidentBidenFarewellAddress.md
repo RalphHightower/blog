@@ -7,8 +7,6 @@ excerpt: 'But we know the idea of America — our institution, our people, our v
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-pagination: 
-  enabled: true
 title: "President Biden's Farewell Address"
 ---
 

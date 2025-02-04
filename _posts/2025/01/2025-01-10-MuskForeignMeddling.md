@@ -2,13 +2,11 @@
 layout: post
 tags: [Mary Trump Media, Germany, United Kingdom (UK), Canada, politics]
 categories: [Elon Musk, Donald Trump]
-date: 2025-01-10
+date: 2025-01-10 10:34 PM
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-pagination: 
-  enabled: true
 title: "Elon Musk’s Global Meddling Smacked DOWN By World Leaders"
 ---
 

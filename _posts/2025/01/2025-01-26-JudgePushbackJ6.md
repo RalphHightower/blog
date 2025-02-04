@@ -7,8 +7,6 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-pagination: 
-  enabled: true
 title: "DC District Judge Responds To Trump’s Pardons Of January 6, 2021 Insurrectionists"
 ---
 

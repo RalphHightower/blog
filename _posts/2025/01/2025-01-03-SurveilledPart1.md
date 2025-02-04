@@ -7,9 +7,7 @@ excerpt: "“Spyware is this powerful surveillance tool. Big spyware companies s
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-pagination: 
-  enabled: true
-title: "Suveilled Part 1: A Spy in Your Pocket? Ronan Farrow Exposes Secrets of High-Tech Spyware in New Film “Surveilled” / Democracy Now!"
+title: "Surveilled Part 1: A Spy in Your Pocket? Ronan Farrow Exposes Secrets of High-Tech Spyware in New Film “Surveilled” / Democracy Now!"
 ---
 
 

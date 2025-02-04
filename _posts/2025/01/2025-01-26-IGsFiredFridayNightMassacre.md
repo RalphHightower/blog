@@ -7,8 +7,6 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-pagination: 
-  enabled: true
 title: "Trump Fires Inspector Generals Across Multiple Agencies. Expect Foxes To Guard The Hen Houses"
 ---
 

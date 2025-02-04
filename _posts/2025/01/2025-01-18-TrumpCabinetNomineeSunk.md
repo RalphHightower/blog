@@ -7,8 +7,6 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-pagination: 
-  enabled: true
 title: "You Sunk My Battleship! Hegseth Torpedoes During Senate Hearing"
 ---
 

@@ -7,8 +7,6 @@ excerpt: "“It does cause a problem, and it is quite likely, as China is seeing
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-pagination: 
-  enabled: true
 title: "Same, Old, New President. Same Old, New Pandemic."
 ---
 

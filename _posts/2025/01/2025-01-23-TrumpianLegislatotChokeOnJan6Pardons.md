@@ -7,8 +7,6 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-pagination: 
-  enabled: true
 title: "Trumpian Legislators Invoke Sergeant Schultz (Hogan Heroes) Defense: I Know Nothing! I Know Nothing!"
 ---
 

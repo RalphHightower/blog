@@ -7,8 +7,6 @@ excerpt: "ICYMI President Donald J. Trump’s TRUTH on Columbia sanctions. – D
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-pagination: 
-  enabled: true
 title: "Ignoramus-In-Chief, Trump, Confuses Colombia, the Country,  With Columbia, the Cities"
 ---
 

@@ -7,8 +7,6 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-pagination: 
-  enabled: true
 title: "Such a Petty, Little Man! Removing General Milley's Portrait From the Pentagon."
 ---
 

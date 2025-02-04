@@ -7,8 +7,6 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-pagination: 
-  enabled: true
 title: "DJ (Donnie Jr) Fake Greenland Stunt, Plus Other News From MAGA Trumplandia"
 ---
 

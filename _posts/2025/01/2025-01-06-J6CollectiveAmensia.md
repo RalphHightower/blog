@@ -7,8 +7,6 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-pagination: 
-  enabled: true
 title: "Trumpian Legislators Have Memory Wiped Of January 6, 2021 Insurrection"
 ---
 

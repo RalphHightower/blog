@@ -7,8 +7,6 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-pagination: 
-  enabled: true
 title: "Former D.C. Police Officer Tells Oath Keepers Founder, Stewart Rhodes: Go Fuck Yourself"
 ---
 
