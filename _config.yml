@@ -156,3 +156,4 @@ titles_from_headings:
 exclude:
   - .ai_related_posts_cache.sqlite3
   - .ai_related_posts_cache.sqlite3-journal
+  - blog.html
