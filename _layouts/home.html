@@ -8,12 +8,13 @@ layout: base
 </style>
 
 <div class="home">
+  {%- if page.title -%}
+    <h1 class="page-heading">{{ page.title }}</h1>
+  {%- endif -%}
 
-  <h1 class="page-heading">Posts</h1>
-  
   {{ content }}
 
-  <ul class="post-list">
+    <ul class="post-list">
     <!-- 
         Here is the main paginator logic called.
         All calls to site.posts should be replaced by paginator.posts 
