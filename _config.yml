@@ -28,6 +28,7 @@ repository: 'RalphHightower/blog'
 url: 'https://ralphhightower.github.io'
 baseurl: "blog/"
 timezone: 'America/New_York'
+github_username: RalphHightower
 
 # Build settings
 
@@ -112,16 +113,23 @@ optional_front_matter:
   enabled: true
 
 # Pagination Settings: jekyll-paginate-v2
+# Produces a cleaner folder structure when using categories
+permalink: /:year/:month/:title.html
+
+# Explicitly turn off the old code
+paginate: nil
+paginate_path: nil
+
+# Pagination Settings
 pagination:
   enabled: true
   per_page: 3
+  offset: 2
   permalink: '/page/:num/'
-  title: ' - page :num'
+  title: ':title - page :num of :max'
   limit: 0
   sort_field: 'date'
   sort_reverse: true
-# Produces a cleaner folder structure when using categories
-permalink: /:year/:month/:title.html
 
 readme_index:
   enabled: true
