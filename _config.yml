@@ -127,6 +127,7 @@ pagination:
   offset: 2
   permalink: '/page/:num/'
   title: ':title - page :num of :max'
+  indexpage: 'blogpager'
   limit: 0
   sort_field: 'date'
   sort_reverse: true
