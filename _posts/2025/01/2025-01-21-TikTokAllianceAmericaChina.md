@@ -7,8 +7,6 @@ excerpt: "Trump wants the US Government to buy 50% of TikTok! The other half own
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-pagination: 
-  enabled: true
 title: "Damnest, Dumbest Idea: Trump Wants 50/50 Ownership Of TikTok With America and China"
 ---
 

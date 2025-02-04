@@ -7,8 +7,6 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-pagination: 
-  enabled: true
 title: "Hell Freezes Over!: 'Snowflake Trump' MAGA Disappointment. Trumplandia Residents In DC To See Conauguration In Person Forced To Watch On Jumbotron In Arena"
 ---
 

@@ -7,8 +7,6 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-pagination: 
-  enabled: true
 title: "Federal Judge Lambast Trump For January 6 Pardons, Wasted Investigations, Courts' Time and Money"
 ---
 

@@ -7,8 +7,6 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-pagination: 
-  enabled: true
 title: "Mary Trump Interviewed On UK Television"
 ---
 

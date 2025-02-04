@@ -7,8 +7,6 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-pagination: 
-  enabled: true
 title: "Trump's Elon Musk Still Living South Africa's Apartheid: Heil Hitler! At Post-Inauguration Activity"
 ---
 

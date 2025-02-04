@@ -7,8 +7,6 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-pagination: 
-  enabled: true
 title: "Trump, the “Law and Order President”, Says It’s Okay to Assault Police Officers Following His Orders"
 ---
 

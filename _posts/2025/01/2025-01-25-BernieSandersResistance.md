@@ -7,8 +7,6 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-pagination: 
-  enabled: true
 title: "Bernie Sanders: Focus On What’s Important During the Dystopian Rule of Trump"
 ---
 

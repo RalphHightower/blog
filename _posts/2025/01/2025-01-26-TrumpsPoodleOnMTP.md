@@ -7,8 +7,6 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-pagination: 
-  enabled: true
 title: "Trump's Poodle, Senator Lindsey Graham (T-SC), On NBC Meet The Press"
 ---
 

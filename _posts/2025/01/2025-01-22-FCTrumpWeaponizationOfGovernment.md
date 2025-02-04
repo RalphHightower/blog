@@ -7,8 +7,6 @@ excerpt: "Trump flips the world upside-down to conform to his beliefs. What’s 
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-pagination: 
-  enabled: true
 title: "Fact Checking Trump: Federal Employees Pledge Oath To Constitution, Not The President"
 ---
 

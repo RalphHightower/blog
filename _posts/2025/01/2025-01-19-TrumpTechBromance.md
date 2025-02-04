@@ -7,8 +7,6 @@ excerpt: "@RalphHightower: As CEO of these companies: SpaceX, Starlink, Tesla, N
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-pagination: 
-  enabled: true
 title: "Trump's Tech Tryst: Gamers Accuse Musk of Cheating. Musk Throws A Trumper Tantrum!"
 ---
 

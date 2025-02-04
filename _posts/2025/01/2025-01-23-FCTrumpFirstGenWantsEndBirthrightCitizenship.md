@@ -7,8 +7,6 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-pagination: 
-  enabled: true
 title: "Fact Checking Trump: Donald Trump, a First Generation American Citizen, Wants To End Birthright Citizenship."
 ---
 

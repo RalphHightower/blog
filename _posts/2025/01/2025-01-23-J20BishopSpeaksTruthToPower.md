@@ -7,8 +7,6 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-pagination: 
-  enabled: true
 title: 'Bishop Mariann Edgar Budde Speaks Truth To Power At Inaugural Prayer Service'
 ---
 

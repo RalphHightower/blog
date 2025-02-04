@@ -7,8 +7,6 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-pagination: 
-  enabled: true
 title: "For Sale: Grifter Trump Auctions His Swearing In Bible On Bitcoin"
 ---
 

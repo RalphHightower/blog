@@ -7,8 +7,6 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-pagination: 
-  enabled: true
 title: "How Trump Makes America Worse: Grift, Family Favors, Conflicts of Interest, Comingling of Money and Politics"
 ---
 

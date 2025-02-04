@@ -7,8 +7,6 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-pagination: 
-  enabled: true
 title: "Federal Judges Have Not Forgotten January 6th: Dismiss Case Without Prejudice (Case Can Be Recalled)"
 ---
 

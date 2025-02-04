@@ -7,8 +7,6 @@ date: 2025-01-26 5:42 PM
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-pagination: 
-  enabled: true
 title: "Political Anxiety: How To Cope With The Dystopian Years Of Trump"
 ---
 
