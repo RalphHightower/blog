@@ -7,8 +7,6 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-pagination: 
-  enabled: true
 title: "Trump Made History As 45th President. As 47th, He'll Make History As First Convicted Felon To Occupy Office"
 ---
 

@@ -7,8 +7,6 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-pagination: 
-  enabled: true
 title: "Will Trump's Choice For Attorney General Psm Bondi (T-FL) Do Something Illegal For Trump? In a Word, Yes: @RalphHightower"
 ---
 

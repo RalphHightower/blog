@@ -7,8 +7,6 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-pagination: 
-  enabled: true
 title: "Donald's Legal Troubles: Federal Election January 6 2021 Insurrection & Fraud/Interference Report; Plus New York State Sentencing"
 ---
 

@@ -7,8 +7,6 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-pagination: 
-  enabled: true
 title: "Musk Is Using DOGE (Department Of Government Efficiency) To Enrich Himself. Serious Ethics Violation If He Were a Federal Employee!"
 ---
 

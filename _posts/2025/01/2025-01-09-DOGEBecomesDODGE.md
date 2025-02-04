@@ -7,8 +7,6 @@ excerpt: "Musk's boast that he could easily find the budgetary savings was never
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-pagination: 
-  enabled: true
 title: "Typical Trump Bait and Switch Tactic, Elon MuskSays Unlikely to Save $2 Trillion. DOGE Has Become DODGE."
 ---
 

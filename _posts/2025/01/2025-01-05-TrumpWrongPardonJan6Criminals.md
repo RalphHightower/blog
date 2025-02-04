@@ -7,8 +7,6 @@ excerpt: "“You cannot be pro-police officer and rule of law if you are pardoni
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-pagination: 
-  enabled: true
 title: "Trump Is Not the #LawAndOrder President!"
 ---
 

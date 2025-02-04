@@ -7,8 +7,6 @@ excerpt: "“Why are we giving RFK Jr. a pass? Okay, he wants to ban pharmaceuti
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-pagination: 
-  enabled: true
 title: "Killing Our Kids Softly With His Song – Robert F Kennedy Jr (RFKJr)'s Newest Hit Single On The Top 40 MAGA Hits"
 ---
 

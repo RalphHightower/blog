@@ -7,8 +7,6 @@ excerpt: 'DJ (Don Jr) gave those Greenlanders a free lunch and a MAGGOT hat.'
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-pagination: 
-  enabled: true
 title: "Greenlander Member of Danish Parliament: Greenland Is Not For Sale!"
 ---
 

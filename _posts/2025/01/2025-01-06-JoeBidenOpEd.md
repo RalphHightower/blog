@@ -7,8 +7,6 @@ excerpt: "An unrelenting effort has been underway to rewrite — even erase — 
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-pagination: 
-  enabled: true
 title: "Washington Post OpEd / Joe Biden: Democracy Prevailed Over The January 6, 2021 Insurrectionists"
 ---
 

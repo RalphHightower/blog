@@ -7,8 +7,6 @@ excerpt: "“This is where it gets really tricky and, frankly, even bleak. And I
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-pagination: 
-  enabled: true
 title: '“Surveilled Part 2”: Ronan Farrow on the Spyware Technology the Trump Admin Could Use to Hack Your Phone / Democracy Now!'
 ---
 
