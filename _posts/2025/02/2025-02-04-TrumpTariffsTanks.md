@@ -7,7 +7,7 @@ date: 2025-02-04 9:48 PM
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: 'Trump's Terrible Tariff Tanks Stock Market"
+title: "Trump's Terrible Tariff Tanks Stock Market"
 ---
 
 
