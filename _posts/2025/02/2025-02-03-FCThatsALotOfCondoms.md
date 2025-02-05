@@ -7,7 +7,7 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: "Fact Checking Trump: $50,000,000? That's a Lot of Condoms For Hamas"
+title: "Fact Checking Trump: $50,000,000? That's a Lot of Condoms Fir Hamas"
 ---
 
 

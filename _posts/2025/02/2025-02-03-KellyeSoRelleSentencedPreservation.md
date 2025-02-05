@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [Department of Justice (DOJ), Federal Bureau of Investigation (FBI), District of Columbia (DC), Donald Trump, Joe Biden, January 6 2021, insurrection, Oath Keepers, politics]
+tags: [Department of Justice (DOJ(, Federal Bureau of Investigation (FBI), District of Columbia (DC), Donald Trump, Joe Biden, January 6 2021, insurrection, Oath Keepers politics]
 categories: [Kellye SoRelle]
 date: 2025-02-03 5:00 PM
 excerpt: ''
