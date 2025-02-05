@@ -124,11 +124,11 @@ permalink: /:year/:month/:title.html
 pagination:
   enabled: true
   per_page: 15
-  offset: 0
+  offset: 2
   permalink: '/page/:num/'
   title: ':title - page :num of :max'
   indexpage: 'blogpager'
-  limit: 5
+  limit: 0
   sort_field: 'date'
   sort_reverse: true
   trail:
