@@ -7,7 +7,7 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: "Nothing Bew: Trump (Mary) Trolls Trump"
+title: "Nothing New: Trump (Mary) Trolls Trump"
 ---
 
 
