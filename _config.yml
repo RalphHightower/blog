@@ -128,7 +128,7 @@ pagination:
   permalink: '/page/:num/'
   title: ':title - page :num of :max'
   indexpage: 'blogpager'
-  limit: 1
+  limit: 5
   sort_field: 'date'
   sort_reverse: true
   trail:
