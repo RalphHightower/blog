@@ -28,7 +28,7 @@ layout: base
             {{ post.title | escape }}
           </a>
         </h3>
-        {%- if post.excerpt -%}
+        {%- if post.excerpt.size > 0 -%}
           {{ post.excerpt }}
         {%- endif -%}
       </li>
