@@ -1,13 +1,13 @@
 ---
 layout: post
-tags: [MSNBC, Federal Bureau of Investigation (FBI), [lDepartment of Justice (DOJ), White House (WH), president (POTUS), politics)
-categories: []
+tags: [MSNBC, Federal Bureau of Investigation (FBI), Department of Justice (DOJ), White House (WH), president (POTUS), politics]
+categories: [Donald Trump]
 date: 2025-02-05 10:48 PM
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: "Holy Cow Batman! Did the Joker Just Fire the Commissione
+title: "Holy Cow Batman! Did the Joker Just Fire the Commissioner"
 ---
 
 
