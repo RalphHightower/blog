@@ -3,7 +3,7 @@ layout: post
 tags: [MSNBC, Elon Musk, Department of Government Efficiency (DOGE), US Aid for International Development (USAID), White House (WH), politics]
 categories: [Donald Trump]
 date: 2025-02-05 10:20 PM
-0#excerpt: ''
+excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
