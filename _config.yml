@@ -128,7 +128,8 @@ pagination:
   permalink: '/page/:num/'
   title: ':title - page :num of :max'
   indexpage: 'blogpager'
-  limit: 0
+  # limit=0 displays 30+ paging links below site title. How can I get just 1 link to blog?
+  limit: 1
   sort_field: 'date'
   sort_reverse: true
   trail:
