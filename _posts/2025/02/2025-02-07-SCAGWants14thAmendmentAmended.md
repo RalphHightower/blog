@@ -11,17 +11,21 @@ title: "My Dumb State, South Carolina: South Carolina's Attorney General, Alan W
 ---
 
 
+## Donald Trump Barely Made It From Being An Anchor Baby. 
+
 [Donald](https://www.whitehouse.gov/) is a first generation American.
+
+His immigrant mother from Scotland, Mary Anne MacLeod, became an American citizen in 1942. Trump was born in 1946.
 
 As defined in Section 4, part (b), Donald's father, [Fred Trump](https://en.wikipedia.org/wiki/Fred_Trump?wprov=sfla1), is a first generation United States citizen. As defined in Section 4, part (a), of his [executive order](https://www.whitehouse.gov/presidential-actions/2025/01/protecting-the-meaning-and-value-of-american-citizenship/), his mother, [Mary Anne MacLeod Trump](https://en.wikipedia.org/wiki/Mary_Anne_MacLeod_Trump?wprov=sfla1), was born in Scotland.
 
 [Fred Trump's](https://en.wikipedia.org/wiki/Fred_Trump?wprov=sfla1) father, [Frederick Trump](https://en.wikipedia.org/wiki/Frederick_Trump?wprov=sfla1), born in the Kingdom of Bavaria, which became part of the newly formed German Empire. He immigrated to America to avoid the German draft. (Check Wikipedia)
 
-• Donald Trump – 
+- Donald Trump – 
 https://en.wikipedia.org/wiki/Donald_Trump?wprov=sfla1
-• Fred Trump – https://en.wikipedia.org/wiki/Fred_Trump?wprov=sfla1
-• Mary Anne MacLeod Trump – https://en.wikipedia.org/wiki/Mary_Anne_MacLeod_Trump?wprov=sfla1
-• Frederick Trump – https://en.wikipedia.org/wiki/Frederick_Trump?wprov=sfla1
+- Fred Trump – https://en.wikipedia.org/wiki/Fred_Trump?wprov=sfla1
+- Mary Anne MacLeod Trump – https://en.wikipedia.org/wiki/Mary_Anne_MacLeod_Trump?wprov=sfla1
+- Frederick Trump – https://en.wikipedia.org/wiki/Frederick_Trump?wprov=sfla1
 
 [Fourteenth Amendment](https://constitution.congress.gov/constitution/amendment-14/) – https://constitution.congress.gov/constitution/amendment-14/
 
