@@ -1,15 +1,14 @@
 ---
 layout: post
-tags: [South Carolina (SC) Attorney General, Pandemic, National Institutes of Health (NIH), National Institute of Allergy and Infectious Diseases (NIAID), Wuhan Institute of Virology, China (CN), states attorneys general, attorney general, partisan lawsuit Alan Wilson, South Carolina (SC), Jonathan Skrmetti, Tennessee (TN), John Guard, Florida (FL), Liz Murrill, Louisiana (LA), Ken Paxton, Texas (TX), Steve Marshall, Alabama (AL), Raúl Labrador, Idaho (ID), Drew Wrigley, North Dakota (ND), Derek E. Brown, Utah (UT), Todd Rokita, Indiana (IN), Marty Jackley, South Dakota (SD), Tim Griffin, Arkansas (AK), Austin Knudson, Montana (MT), Andrew Bailey, Missouri (MO), Kris Kobach, Kansas (KS), John B. McCuskey, West Virginia (WV), Mike Hilgers, Nebraska (NE), James Comer, Bill Cassidy, Rand Paul, Dr. Jay Bhattacharya MD PhD, Donald Trump, White House (WH), politics]
+tags: [South Carolina (SC) Attorney General, Pandemic, National Institutes of Health (NIH), National Institute of Allergy and Infectious Diseases (NIAID), Wuhan Institute of Virology, China (CN), states attorneys general, attorney general, partisan lawsuit, Alan Wilson, South Carolina (SC), Jonathan Skrmetti, Tennessee (TN), John Guard, Florida (FL), Liz Murrill, Louisiana (LA), Ken Paxton, Texas (TX), Steve Marshall, Alabama (AL), Raúl Labrador, Idaho (ID), Drew Wrigley, North Dakota (ND), Derek E. Brown, Utah (UT), Todd Rokita, Indiana (IN), Marty Jackley, South Dakota (SD), Tim Griffin, Arkansas (AK), Austin Knudson, Montana (MT), Andrew Bailey, Missouri (MO), Kris Kobach, Kansas (KS), John B. McCuskey, West Virginia (WV), Mike Hilgers, Nebraska (NE), James Comer, Bill Cassidy, Rand Paul, Dr. Jay Bhattacharya MD PhD, Donald Trump, White House (WH), politics]
 categories: [Alan Wilson]
 date: 2025-02-06 6:17 PM
-excerpt: ''
+excerpt: "‘Prosecute’ vs. ‘Persecute’: “One you do in court, the other you do if you’re a jerk. – Merriam-Webster”"
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: "My Dumb State South Carolina: South Carolina's Attorney General Weaponizes State Government To Persecute Trump's Perceived Enemy, Dr. Anthony Fauci, For His COVID-19 Pandemic Response"
+title: "My Dumb State, South Carolina: South Carolina's Attorney General, Alan Wilson, Weaponizes State Government To Persecute Trump's Perceived Enemy, Dr. Anthony Fauci, For His COVID-19 Pandemic Response"
 ---
-
 
 ## [South Carolina's](https://www.sc.gov/) [Attorney General](https://.www.scag.gov) [Alan Wilson](https://www.scag.gov/about-the-office/meet-the-attorney-general/) Is The Most Hyper Partisan Attorney General
 
@@ -22,7 +21,7 @@ title: "My Dumb State South Carolina: South Carolina's Attorney General Weaponiz
 FEB 05, 2025
 (COLUMBIA, S.C.) – [South Carolina](https://www.sc.gov/) [Attorney General](https://www scag.gov) [Alan Wilson](https://www.scag.gov/about-the-office/meet-the-attorney-general/) is leading a coalition of state attorneys general in an investigation into Dr. Anthony Fauci’s role in the COVID-19 pandemic response, demanding accountability for alleged mismanagement, misleading statements, and suppression of scientific debate. In a letter to Speaker of the House [Mike Johnson](https://mikejohnson.house.gov/) and Senate Majority Leader [John Thune](https://www.thune.senate.gov/), the attorneys general commend ongoing Congressional efforts to uncover misconduct and request state-level cooperation in pursuing any violations of state laws.
 
-“[President Biden](bidenwhitehouse.archives.gov)’s blanket pardon of Dr. Fauci is a shameful attempt to prevent accountability,” said [Attorney General Wilson](https://www.scag.gov/about-the-office/meet-the-attorney-general/). “If any of these findings indicate violations of state laws, we are fully prepared to take appropriate action to ensure justice is served.”
+“[President Biden's](bidenwhitehouse.archives.gov) blanket pardon of Dr. Fauci is a shameful attempt to prevent accountability,” said [Attorney General Wilson](https://www.scag.gov/about-the-office/meet-the-attorney-general/). “If any of these findings indicate violations of state laws, we are fully prepared to take appropriate action to ensure justice is served.”
 
 The letter follows the release of the House Select Subcommittee on the Coronavirus Pandemic’s final report, which details widespread failures and potential misconduct by high-ranking government officials, including Dr. Fauci. The report highlights misleading public statements regarding COVID-19’s origins, mismanagement of [National Institutes of Health (NIH)](https://www.nih.gov/) funding, and efforts to suppress scientific discussions about vaccine risks.
 
@@ -33,7 +32,7 @@ Key Findings from the Congressional Report:
 - [NIH](https://www.nih.gov/) Oversight Failures – The [NIH](https://www.nih.gov/) reportedly mismanaged taxpayer funds by failing to properly oversee grants to EcoHealth Alliance, which funneled funding to the Wuhan lab.
 - Suppression of Scientific Dissent – Prominent scientists who raised concerns about vaccine risks were allegedly silenced, limiting public awareness of potential side effects.
 - Despite these findings, former [President Joe Biden](bidenwhitehouse.archives.gov) issued a sweeping pardon for Dr. Fauci, shielding him from federal prosecution for any offenses committed during his tenure. However, the attorneys general assert that this federal pardon does not prevent state-level legal action.
-
+- 
 The attorneys general have requested that [Congress](https://www.congress.gov/) provide them with any relevant findings that could lead to state investigations and potential prosecutions. They reaffirm their commitment to upholding public trust, ensuring transparency, and preventing similar failures in future public health crises.
 
 Signatories to the Letter Include:
@@ -48,12 +47,12 @@ Signatories to the Letter Include:
 - [Drew Wrigley](https://attorneygeneral.nd.gov/attorney-generals-office/), [Attorney General](https://attorneygeneral.nd.gov/) of [North Dakota](https://www.nd.gov/)
 - [Derek E. Brown](https://attorneygeneral.utah.gov/staff/derek-brown/), [Attorney General](https://attorneygeneral.utah.gov/) of [Utah](https://www.utah.gov/)
 - [Todd Rokita](https://www.in.gov/attorneygeneral/about-the-office/about-the-attorney-general/), [Attorney General](https://www.in.gov/attorneygeneral/) of [Indiana](https://www.in.gov/)
-- Marty Jackley, [Attorney General](https://atg.sd.gov/#gsc.tab=0) of [South Dakota](https://www.sd.gov/)
+- [Marty Jackley](https://atg.sd.gov/OurOffice/bio.aspx#gsc.tab=0), [Attorney General](https://atg.sd.gov/#gsc.tab=0) of [South Dakota](https://www.sd.gov/)
 - [Tim Griffin](https://arkansasag.gov/meet-tim/), [Attorney General](https://arkansasag.gov/) of [Arkansass](https://www.az.gov/)
 - [Austin Knudson](https://dojmt.gov/attorney-generals-office/about-austin-knudsen/), [Attorney General](https://dojmt.gov/) of [Montana](https://www.mt.gov/)
 - [Andrew Bailey](https://ago.mo.gov/about-us/about-ag-bailey/), [Attorney General](https://ago.mo.gov/) of [Missouri](https://www.mo.gov/)
 - [Kris Kobach](https://www.ag.ks.gov/about-us/attorney-general-kris-w-kobach), [Attorney General](https://www.ag.ks.gov/) of [Kansas](https://www.kansas.gov/)
-- John B. McCuskey, [Attorney General](https://ago.wv.gov/Pages/default.aspx) of [West Virginia](https://www.wv.gov/)
+- [John B. McCuskey](https://ago.wv.gov/about/Pages/Meet-The-Attorney-General.aspx), [Attorney General](https://ago.wv.gov/Pages/default.aspx) of [West Virginia](https://www.wv.gov/)
 - Mike Hilgers, [Attorney General](https://ago.nebraska.gov/) of [Nebraska](https://www.nebraska.gov/)
 
 The attorneys general urge Congressional leaders to continue their investigative efforts and ensure that all responsible parties are held accountable at both federal and state levels.
@@ -132,7 +131,7 @@ John Guard
 [Todd Rokita](https://www.in.gov/attorneygeneral/about-the-office/about-the-attorney-general/)
 [Attorney General](https://www.in.gov/attorneygeneral/) of [Indiana](https://www.in.gov/)
 
-Marty Jackley
+[Marty Jackley](https://atg.sd.gov/OurOffice/bio.aspx#gsc.tab=0)
 [Attorney General](https://atg.sd.gov/#gsc.tab=0) of [South Dakota](https://www.sd.gov/)
 
 [Tim Griffin](https://arkansasag.gov/meet-tim/)
@@ -147,7 +146,7 @@ Marty Jackley
 [Kris Kobach](https://www.ag.ks.gov/about-us/attorney-general-kris-w-kobach)
 [Attorney General](https://www.ag.ks.gov/) of [Kansas](https://www.kansas.gov/)
 
-John B. McCuskey
+[John B. McCuskey](https://ago.wv.gov/about/Pages/Meet-The-Attorney-General.aspx)
 [Attorney General](https://ago.wv.gov/Pages/default.aspx) of [West Virginia](https://www.wv.gov/)
 
 Mike Hilgers
