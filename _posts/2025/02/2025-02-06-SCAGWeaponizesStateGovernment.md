@@ -1,13 +1,13 @@
 ---
 layout: post
-tags: [South Carolina (SC) Attorney General, Pandemic, National Institutes of Health (NIH), National Institute of Allergy and Infectious Diseases (NIAID), Wuhan Institute of Virology, China (CN), states attorneys general, attorney general, partisan lawsuit Alan Wilson, South Carolina (SC), Jonathan Skrmetti, Tennessee (TN), John Guard, Florida (FL), Liz Murrill, Louisiana (LA), Ken Paxton, Texas (TX), Steve Marshall, Alabama (AL), Raúl Labrador, Idaho (ID), Drew Wrigley, North Dakota (ND), Derek E. Brown, Utah (UT), Todd Rokita, Indiana (IN), Marty Jackley, South Dakota (SD), Tim Griffin, Arkansas (AK), Austin Knudson, Montana (MT), Andrew Bailey, Missouri (MO), Kris Kobach, Kansas (KS), John B. McCuskey, West Virginia (WV), Mike Hilgers, Nebraska (NE), James Comer, Bill Cassidy, Rand Paul, Dr. Jay Bhattacharya, MD, PhD, Donald Trump, White House (WH), politics]]
+tags: [South Carolina (SC) Attorney General, Pandemic, National Institutes of Health (NIH), National Institute of Allergy and Infectious Diseases (NIAID), Wuhan Institute of Virology, China (CN), states attorneys general, attorney general, partisan lawsuit Alan Wilson, South Carolina (SC), Jonathan Skrmetti, Tennessee (TN), John Guard, Florida (FL), Liz Murrill, Louisiana (LA), Ken Paxton, Texas (TX), Steve Marshall, Alabama (AL), Raúl Labrador, Idaho (ID), Drew Wrigley, North Dakota (ND), Derek E. Brown, Utah (UT), Todd Rokita, Indiana (IN), Marty Jackley, South Dakota (SD), Tim Griffin, Arkansas (AK), Austin Knudson, Montana (MT), Andrew Bailey, Missouri (MO), Kris Kobach, Kansas (KS), John B. McCuskey, West Virginia (WV), Mike Hilgers, Nebraska (NE), James Comer, Bill Cassidy, Rand Paul, Dr. Jay Bhattacharya MD PhD, Donald Trump, White House (WH), politics]
 categories: [Alan Wilson]
 date: 2025-02-06 6:17 PM
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: 'My Dumb State South Carolina: South Carolina's Attorney General Weaponizes State Government To Persecute Trump's Perceived Enemy, Dr. Anthony Fauci, For His COVID-19 Pandemic Response"
+title: "My Dumb State South Carolina: South Carolina's Attorney General Weaponizes State Government To Persecute Trump's Perceived Enemy, Dr. Anthony Fauci, For His COVID-19 Pandemic Response"
 ---
 
 
