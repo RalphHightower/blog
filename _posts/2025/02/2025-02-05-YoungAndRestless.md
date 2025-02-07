@@ -2,12 +2,12 @@
 layout: post
 tags: [The Hill, Elon Musk, Department of Government Efficiency (DOGE)]
 categories: [Donald Trump]
-date: 2019-06-25 13:14:15
+date: 2025-02-05 6:15 PM
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: "The Young and The Restless: Novices Playing Around With Government Systems – DOGE, Elon 3"
+title: "The Young and The Restless: Novices Playing Around With Government Systems – DOGE, Elon Musk"
 ---
 
 
