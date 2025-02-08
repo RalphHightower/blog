@@ -37,6 +37,7 @@ github_username: RalphHightower
 
 # Build settings
 page_excerpts: true
+show_excerpts: true
 
 # If you clone the Minima repo and build locally, use this setting.
 theme: minima
