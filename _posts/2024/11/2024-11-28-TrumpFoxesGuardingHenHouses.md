@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [Elon Musk, Vivek Ramaswamy, Department of Government Efficiency (DOGE), Department of Commerce (DOC), Department of Defense (DOD), Department of Labor (DOL), Department of Transportation (DOT), Environmental Protection Agency (EPA), Federal Aviation Administration (FAA), Federal Communications Commission (FCC), Federal Trade Commission (FTC), Food and Drug Administration (FDA), Internal Revenit y it yui it y yyiyyuuuiuiuiiiiiii99iiuue Service (IRS), National Highway Traffic Safety Administration (NHTSA), National Aeronautics and Space Administration (NASA), National Institutes of Health (NIH), Securities and Exchange Commission (SEC), Supreme Court (SCOTUS), Social Security Administration (SSA), Federal Government, Federal Agencies, Tesla, SpaceX, Starlink, X-Twitter, Boring Company, Neuralink, xAI, Roivant Sciences,  Strive Asset Management, politics]
+tags: [Elon Musk, Vivek Ramaswamy, Department of Government Efficiency (DOGE), Department of Commerce (DOC), Department of Defense (DOD), Department of Labor (DOL), Department of Transportation (DOT), Environmental Protection Agency (EPA), Equal Employment Opportunity Commission (EEOC(, Federal Aviation Administration (FAA), Federal Communications Commission (FCC), Federal Trade Commission (FTC), Food and Drug Administration (FDA), Internal Revenue Service (IRS), National Highway Traffic Safety Administration (NHTSA), National Aeronautics and Space Administration (NASA), National Institutes of Health (NIH), Securities and Exchange Commission (SEC), Supreme Court (SCOTUS), Social Security Administration (SSA), Federal Government, Federal Agencies, Tesla, SpaceX, Starlink, X-Twitter, Boring Company, Neuralink, xAI, Roivant Sciences,  Strive Asset Management, politics]
 categories: [Donald Trump]
 date: 2024-11-28 10:19 PM
 excerpt: "“These are the people that they’re going to need to review all these regulations. If they really want to make a major dent in the stock of regulations, they’re going to need people who have been working with these regulations day in and day out, and that’s the career civil service staff.” – James Broughel, senior fellow at the Competitive Enterprise Institute"
@@ -18,6 +18,7 @@ title: 'Trump Administration: DOGE Are the Foxes Guarding the Hen Houses'
 - [Department of Labor – DOL](https://www.dol.gov/)
 - [Department of Transportation – DOT](https://www.dot.gov/)
 - [Environmental Protection Agency – EPA](https://www.epa.gov/)
+- [Equal Employment Opportunity Commission (EEOC)](https://www.eroc.gov/)
 - [Federal Aviation Administration – FAA](https://www.faa.gov/)
 - [Federal Communications Commission – FCC](https://www.fcc.gov/)
 - [Federal Drug Administration – FDA](https://www.fda.gov/)
@@ -69,6 +70,7 @@ Several federal government agencies have oversight over the companies owned or l
    - **[Internal Revenue Service (IRS)](https;//www.irs.gov/)**: No person or company is exempt.
    - **[Department of Labor (DOL)](https://www.dol.gov/)**: Regulates fiduciary responsibilities and retirement plans³.
    - **[Social Security Administration](https://www.ssa.gov/)**: Runs the Social Security retirement, survivors, and disability insurance programs.
+   - **[Equal Employment Opportunity Commission](https://www.eeoc.gov/)**: The Equal Employment Opportunity Commission (EEOC) enforces laws that make discrimination illegal in the workplace. The commission oversees all types of work situations including hiring, firing, promotions, harassment, training, wages, and benefits.
 
 2. **[SpaceX](https://www.spacex.com/)**:
    - **[Federal Aviation Administration (FAA)](https://www.fda.gov/)**: Regulates commercial space launches and reentries.
@@ -78,6 +80,7 @@ Several federal government agencies have oversight over the companies owned or l
    - **[Internal Revenue Service (IRS)](https;//www.irs.gov/)**: No person or company is exempt.
    - **[Department of Labor (DOL)](https://www.dol.gov/)**: Regulates fiduciary responsibilities and retirement plans³.
    - **[Social Security Administration](https://www.ssa.gov/)**: Runs the Social Security retirement, survivors, and disability insurance programs.
+   - **[Equal Employment Opportunity Commission](https://www.eeoc.gov/)**: The Equal Employment Opportunity Commission (EEOC) enforces laws that make discrimination illegal in the workplace. The commission oversees all types of work situations including hiring, firing, promotions, harassment, training, wages, and benefits.
 
 3. **[X](https://x.com/) (formerly [Twitter](https://twitter.com/))**:
    - **[Federal Trade Commission (FTC)](https://www.ftc.gov/)**: Ensures consumer protection and privacy standards.
@@ -85,6 +88,7 @@ Several federal government agencies have oversight over the companies owned or l
    - **[Internal Revenue Service (IRS)](https;//www.irs.gov/)**: No person or company is exempt.
    - **[Department of Labor (DOL)](https://www.dol.gov/)**: Regulates fiduciary responsibilities and retirement plans³.
    - **[Social Security Administration](https://www.ssa.gov/)**: Runs the Social Security retirement, survivors, and disability insurance programs.
+   - **[Equal Employment Opportunity Commission](https://www.eeoc.gov/)**: The Equal Employment Opportunity Commission (EEOC) enforces laws that make discrimination illegal in the workplace. The commission oversees all types of work situations including hiring, firing, promotions, harassment, training, wages, and benefits.
 
 4. **[The Boring Company](https://www.boringcompany.com/)**:
    - **[Department of Transportation (DOT)](https://www.dot.gov/)**: Oversees transportation infrastructure projects.
@@ -92,6 +96,7 @@ Several federal government agencies have oversight over the companies owned or l
    - **[Internal Revenue Service (IRS)](https;//www.irs.gov/)**: No person or company is exempt.
    - **[Department of Labor (DOL)](https://www.dol.gov/)**: Regulates fiduciary responsibilities and retirement plans³.
    - **[Social Security Administration](https://www.ssa.gov/)**: Runs the Social Security retirement, survivors, and disability insurance programs.
+   - **[Equal Employment Opportunity Commission](https://www.eeoc.gov/)**: The Equal Employment Opportunity Commission (EEOC) enforces laws that make discrimination illegal in the workplace. The commission oversees all types of work situations including hiring, firing, promotions, harassment, training, wages, and benefits.
 
 5. **[Neuralink](https://neuralink.com/)**:
    - **[Food and Drug Administration (FDA)](https://www.fda.gov/)**: Regulates medical devices and clinical trials.
@@ -106,6 +111,7 @@ Several federal government agencies have oversight over the companies owned or l
    - **[Internal Revenue Service (IRS)](https;//www.irs.gov/)**: No person or company is exempt.
    - **[Department of Labor (DOL)](https://www.dol.gov/)**: Regulates fiduciary responsibilities and retirement plans³.
    - **[Social Security Administration](https://www.ssa.gov/)**: Runs the Social Security retirement, survivors, and disability insurance programs.
+   - **[Equal Employment Opportunity Commission](https://www.eeoc.gov/)**: The Equal Employment Opportunity Commission (EEOC) enforces laws that make discrimination illegal in the workplace. The commission oversees all types of work situations including hiring, firing, promotions, harassment, training, wages, and benefits.
 
 7. **[Starlink](https://www.starlink.com/)**:
    - **[Federal Aviation Administration (FAA)](https://www.fda.gov/)**: Regulates commercial space launches and reentries
@@ -114,6 +120,7 @@ Several federal government agencies have oversight over the companies owned or l
    - **[Internal Revenue Service (IRS)](https;//www.irs.gov/)**: No person or company is exempt.
    - **[Department of Labor (DOL)](https://www.dol.gov/)**: Regulates fiduciary responsibilities and retirement plans³.
    - **[Social Security Administration](https://www.ssa.gov/)**: Runs the Social Security retirement, survivors, and disability insurance programs.
+   - **[Equal Employment Opportunity Commission](https://www.eeoc.gov/)**: The Equal Employment Opportunity Commission (EEOC) enforces laws that make discrimination illegal in the workplace. The commission oversees all types of work situations including hiring, firing, promotions, harassment, training, wages, and benefits.
 
 ### Vivek Ramaswamy's Companies:
 
@@ -123,12 +130,14 @@ Several federal government agencies have oversight over the companies owned or l
    - **[Internal Revenue Service (IRS)](https;//www.irs.gov/)**: No person or company is exempt.
    - **[Department of Labor (DOL)](https://www.dol.gov/)**: Regulates fiduciary responsibilities and retirement plans³.
    - **[Social Security Administration](https://www.ssa.gov/)**: Runs the Social Security retirement, survivors, and disability insurance programs.
+   - **[Equal Employment Opportunity Commission](https://www.eeoc.gov/)**: The Equal Employment Opportunity Commission (EEOC) enforces laws that make discrimination illegal in the workplace. The commission oversees all types of work situations including hiring, firing, promotions, harassment, training, wages, and benefits.
 
 2. **[Strive Asset Management](https://strivefinds.com/)**:
    - **[Securities and Exchange Commission (SEC)](https://www.sec.gov/)**: Oversees investment management and compliance.
    - **[Department of Labor (DOL)](https://www.dol.gov/)**: Regulates fiduciary responsibilities and retirement plans³.
    - **[Internal Revenue Service (IRS)](https;//www.irs.gov/)**: No person or company is exempt.
    - **[Social Security Administration](https://www.ssa.gov/)**: Runs the Social Security retirement, survivors, and disability insurance programs.
+   - **[Equal Employment Opportunity Commission](https://www.eeoc.gov/)**: The Equal Employment Opportunity Commission (EEOC) enforces laws that make discrimination illegal in the workplace. The commission oversees all types of work situations including hiring, firing, promotions, harassment, training, wages, and benefits.
 
 These agencies ensure that the companies comply with various regulations and standards, from safety and environmental impact to financial transparency and consumer protection.
 
