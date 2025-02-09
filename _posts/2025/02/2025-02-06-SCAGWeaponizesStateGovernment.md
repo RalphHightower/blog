@@ -16,14 +16,10 @@ title: "My Dumb State, South Carolina: South Carolina's Attorney General, Alan W
 
 [^11]: ['Prosecute' vs. 'Persecute' – Merriam-Webster](https://www.merriam-webster.com/grammar/prosecuted-vs-persecuted-usage) – “One you do in court, the other you do if you're a jerk.”
 
-### [The Trump Administration and the COVID‐19 crisis: Exploring the warning‐response problems and missed opportunities of a public health emergency - PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC9115435/)
-
-There were over 400,000 deaths attributed to COVID-19 in the United States during [Trump #45's](https://www.whitehouse.gov/) term as president.
-
 ### [Attorney General Alan Wilson leads coalition of AGs investigating Dr. Anthony Fauci’s COVID-19 response - South Carolina Attorney General](https://www.scag.gov/about-the-office/news/attorney-general-alan-wilson-leads-coalition-of-ags-investigating-dr-anthony-fauci-s-covid-19-response/)
 
 FEB 05, 2025
-(COLUMBIA, S.C.) – [South Carolina](https://www.sc.gov/) [Attorney General](https://www.scag.gov/) [Alan Wilson](https://www.scag.gov/about-the-office/meet-the-attorney-general/) is leading a coalition of state attorneys general in an investigation into Dr. Anthony Fauci’s role in the COVID-19 pandemic response, demanding accountability for alleged mismanagement, misleading statements, and suppression of scientific debate. In a letter to Speaker of the House [Mike Johnson](https://mikejohnson.house.gov/) and Senate Majority Leader [John Thune](https://www.thune.senate.gov/), the attorneys general commend ongoing Congressional efforts to uncover misconduct and request state-level cooperation in pursuing any violations of state laws.
+(COLUMBIA, S.C.) – [South Carolina](https://www.sc.gov/) [Attorney General](https://www scag.gov) [Alan Wilson](https://www.scag.gov/about-the-office/meet-the-attorney-general/) is leading a coalition of state attorneys general in an investigation into Dr. Anthony Fauci’s role in the COVID-19 pandemic response, demanding accountability for alleged mismanagement, misleading statements, and suppression of scientific debate. In a letter to Speaker of the House [Mike Johnson](https://mikejohnson.house.gov/) and Senate Majority Leader [John Thune](https://www.thune.senate.gov/), the attorneys general commend ongoing Congressional efforts to uncover misconduct and request state-level cooperation in pursuing any violations of state laws.
 
 “[President Biden's](bidenwhitehouse.archives.gov) blanket pardon of Dr. Fauci is a shameful attempt to prevent accountability,” said [Attorney General Wilson](https://www.scag.gov/about-the-office/meet-the-attorney-general/). “If any of these findings indicate violations of state laws, we are fully prepared to take appropriate action to ensure justice is served.”
 
@@ -36,7 +32,7 @@ Key Findings from the Congressional Report:
 - [NIH](https://www.nih.gov/) Oversight Failures – The [NIH](https://www.nih.gov/) reportedly mismanaged taxpayer funds by failing to properly oversee grants to EcoHealth Alliance, which funneled funding to the Wuhan lab.
 - Suppression of Scientific Dissent – Prominent scientists who raised concerns about vaccine risks were allegedly silenced, limiting public awareness of potential side effects.
 - Despite these findings, former [President Joe Biden](bidenwhitehouse.archives.gov) issued a sweeping pardon for Dr. Fauci, shielding him from federal prosecution for any offenses committed during his tenure. However, the attorneys general assert that this federal pardon does not prevent state-level legal action.
-- 
+
 The attorneys general have requested that [Congress](https://www.congress.gov/) provide them with any relevant findings that could lead to state investigations and potential prosecutions. They reaffirm their commitment to upholding public trust, ensuring transparency, and preventing similar failures in future public health crises.
 
 Signatories to the Letter Include:
@@ -69,16 +65,16 @@ February 5, 2025
 
 To: [Congressional Leadership](https://www.congress.gov/)
 
-The Honorable [Mike Johnson](https://mikejohnson.house.gov/)<br />
-Speaker of the House<br />
-[United States House of Representatives](https://www.house.gov)<br />
-568 Cannon House Office Building<br />
+The Honorable [Mike Johnson](https://mikejohnson.house.gov/)
+Speaker of the House
+[United States House of Representatives](https://www.house.gov)
+568 Cannon House Office Building
 Washington, D.C. 20003
 
-The Honorable [John Thune](https://www.thune.senate.gov/)<br />
-Majority Leader<br />
-[United States Senate](https://www.senate.gov/)<br />
-511 Dirksen Senate Office Building<br />
+The Honorable [John Thune](https://www.thune.senate.gov/)
+Majority Leader
+[United States Senate](https://www.senate.gov/)
+511 Dirksen Senate Office Building
 Washington, D.C. 20510
 
 **Re: An inquiry into the response to COVID-19**
@@ -106,7 +102,7 @@ Despite these serious findings, former [President Biden](bidenwhitehouse.archive
 Sincerely,
 
 [Alan Wilson](https://www.scag.gov/about-the-office/meet-the-attorney-general/)
-[Attorney General](https://www.scag.gov/) of [South Carolina](https://www.sc.gov/)
+[Attorney General](https://www scag.gov) of [South Carolina](https://www.sc.gov/)
 
 [Jonathan Skrmetti](https://www.tn.gov/attorneygeneral/about-the-office/general-skrmetti.html)
 [Attorney General](https://www.tn.gov/attorneygeneral.html) of [Tennessee](https://www.tn.gov/)
@@ -158,19 +154,19 @@ Mike Hilgers
 
 **cc: Congressman [James Comer](https://comer.house.gov), Senator [Rand Paul](https://www.paul.senate.gov/), Senator [Bill Cassidy](https://www.cassidy.senate.gov/), and [Dr. Jay Bhattacharya](http://healthpolicy.fsi.stanford.edu/people/jay_bhattacharya)**
 
-Congressman [James Comer](https://comer.house.gov)<br />
-2410 Rayburn House Office Building<br />
+Congressman [James Comer](https://comer.house.gov)
+2410 Rayburn House Office Building
 Washington, D.C. 20515
 
-Senator [Bill Cassidy](https://www.cassidy.senate.gov/)<br />
-455 Dirksen Senate Office Building<br />
+Senator [Bill Cassidy](https://www.cassidy.senate.gov/)
+455 Dirksen Senate Office Building
 Washington, D.C. 20510
 
-Senator [Rand Paul](https://www.paul.senate.gov/)<br />
-295 Russell Senate Office Building<br />
+Senator [Rand Paul](https://www.paul.senate.gov/)
+295 Russell Senate Office Building
 Washington, D.C. 20510
 
-[Dr. Jay Bhattacharya, MD, PhD](http://healthpolicy.fsi.stanford.edu/people/jay_bhattacharya)<br />
-Encina Commons, Room 100<br />
-615 Crothers Way<br />
+[Dr. Jay Bhattacharya, MD, PhD](http://healthpolicy.fsi.stanford.edu/people/jay_bhattacharya)
+Encina Commons, Room 100
+615 Crothers Way
 Stanford, CA 94305

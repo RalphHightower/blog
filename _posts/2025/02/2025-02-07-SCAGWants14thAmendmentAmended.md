@@ -11,21 +11,17 @@ title: "My Dumb State, South Carolina: South Carolina's Attorney General, Alan W
 ---
 
 
-## Donald Trump Barely Made It From Being An Anchor Baby. 
-
 [Donald](https://www.whitehouse.gov/) is a first generation American.
-
-His immigrant mother from Scotland, Mary Anne MacLeod, became an American citizen in 1942. Trump was born in 1946.
 
 As defined in Section 4, part (b), Donald's father, [Fred Trump](https://en.wikipedia.org/wiki/Fred_Trump?wprov=sfla1), is a first generation United States citizen. As defined in Section 4, part (a), of his [executive order](https://www.whitehouse.gov/presidential-actions/2025/01/protecting-the-meaning-and-value-of-american-citizenship/), his mother, [Mary Anne MacLeod Trump](https://en.wikipedia.org/wiki/Mary_Anne_MacLeod_Trump?wprov=sfla1), was born in Scotland.
 
 [Fred Trump's](https://en.wikipedia.org/wiki/Fred_Trump?wprov=sfla1) father, [Frederick Trump](https://en.wikipedia.org/wiki/Frederick_Trump?wprov=sfla1), born in the Kingdom of Bavaria, which became part of the newly formed German Empire. He immigrated to America to avoid the German draft. (Check Wikipedia)
 
-- Donald Trump – 
+• Donald Trump – 
 https://en.wikipedia.org/wiki/Donald_Trump?wprov=sfla1
-- Fred Trump – https://en.wikipedia.org/wiki/Fred_Trump?wprov=sfla1
-- Mary Anne MacLeod Trump – https://en.wikipedia.org/wiki/Mary_Anne_MacLeod_Trump?wprov=sfla1
-- Frederick Trump – https://en.wikipedia.org/wiki/Frederick_Trump?wprov=sfla1
+• Fred Trump – https://en.wikipedia.org/wiki/Fred_Trump?wprov=sfla1
+• Mary Anne MacLeod Trump – https://en.wikipedia.org/wiki/Mary_Anne_MacLeod_Trump?wprov=sfla1
+• Frederick Trump – https://en.wikipedia.org/wiki/Frederick_Trump?wprov=sfla1
 
 [Fourteenth Amendment](https://constitution.congress.gov/constitution/amendment-14/) – https://constitution.congress.gov/constitution/amendment-14/
 
@@ -121,7 +117,7 @@ By the authority vested in me as [President](https://www.whitehouse.gov/) by the
 
 Section 1.  Purpose.  The privilege of United States citizenship is a priceless and profound gift.  The Fourteenth [Fourteenth Amendment](https://constitution.congress.gov/constitution/amendment-14/) states:  “All persons born or naturalized in the United States, and subject to the jurisdiction thereof, are citizens of the United States and of the State wherein they reside.”  That provision rightly repudiated the [Supreme Court of the United States’s](https://www.scotus.gov/) shameful decision in Dred Scott v. Sandford, 60 U.S. (19 How.) 393 (1857), which misinterpreted the [Constitution](https://constitution.congress.gov/) as permanently excluding people of African descent from eligibility for United States citizenship solely based on their race.
 
-But the [Fourteenth Amendment](https://constitution.congress.gov/constitution/amendment-14/) has never been interpreted to extend citizenship universally to everyone born within the United States.  The [Fourteenth Amendment](https://constitution.congress.gov/constitution/amendment-14/) has always excluded from birthright citizenship persons who were born in the United States but not “subject to the jurisdiction thereof.”  Consistent with this understanding, the [Congress](https://www.congress.gov/) has further specified through legislation that “a person born in the United States, and subject to the jurisdiction thereof” is a national and citizen of the United States at birth, [8 U.S.C. 1401](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1401&num=0&edition=prelim), generally mirroring the [Fourteenth Amendment](https://constitution.congress.gov/constitution/amendment-14/)’s text.
+But the Fourteenth [Fourteenth Amendment](https://constitution.congress.gov/constitution/amendment-14/) has never been interpreted to extend citizenship universally to everyone born within the United States.  The [Fourteenth Amendment](https://constitution.congress.gov/constitution/amendment-14/) has always excluded from birthright citizenship persons who were born in the United States but not “subject to the jurisdiction thereof.”  Consistent with this understanding, the [Congress](https://www.congress.gov/) has further specified through legislation that “a person born in the United States, and subject to the jurisdiction thereof” is a national and citizen of the United States at birth, [8 U.S.C. 1401](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1401&num=0&edition=prelim), generally mirroring the [Fourteenth Amendment](https://constitution.congress.gov/constitution/amendment-14/)’s text.
 
 Among the categories of individuals born in the United States and not subject to the jurisdiction thereof, the privilege of United States citizenship does not automatically extend to persons born in the United States: 
 
