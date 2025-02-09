@@ -1,7 +1,7 @@
 ---
 layout: page
-tags: []
-categories: []
+tags: [Resistance Party]
+categories: [We Are the "Enemy Within"]
 date: 2025-02-08 6:56 PM
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
