@@ -69,6 +69,7 @@ Several federal government agencies have oversight over the companies owned or l
    - **[Internal Revenue Service (IRS)](https;//www.irs.gov/)**: No person or company is exempt.
    - **[Department of Labor (DOL)](https://www.dol.gov/)**: Regulates fiduciary responsibilities and retirement plans³.
    - **[Social Security Administration](https://www.ssa.gov/)**: Runs the Social Security retirement, survivors, and disability insurance programs.
+   - **[Equal Employment Opportunity Commission](https://www.eeoc.gov/)**: The Equal Employment Opportunity Commission (EEOC) enforces laws that make discrimination illegal in the workplace. The commission oversees all types of work situations including hiring, firing, promotions, harassment, training, wages, and benefits.
 
 2. **[SpaceX](https://www.spacex.com/)**:
    - **[Federal Aviation Administration (FAA)](https://www.fda.gov/)**: Regulates commercial space launches and reentries.
@@ -78,6 +79,7 @@ Several federal government agencies have oversight over the companies owned or l
    - **[Internal Revenue Service (IRS)](https;//www.irs.gov/)**: No person or company is exempt.
    - **[Department of Labor (DOL)](https://www.dol.gov/)**: Regulates fiduciary responsibilities and retirement plans³.
    - **[Social Security Administration](https://www.ssa.gov/)**: Runs the Social Security retirement, survivors, and disability insurance programs.
+   - **[Equal Employment Opportunity Commission](https://www.eeoc.gov/)**: The Equal Employment Opportunity Commission (EEOC) enforces laws that make discrimination illegal in the workplace. The commission oversees all types of work situations including hiring, firing, promotions, harassment, training, wages, and benefits.
 
 3. **[X](https://x.com/) (formerly [Twitter](https://twitter.com/))**:
    - **[Federal Trade Commission (FTC)](https://www.ftc.gov/)**: Ensures consumer protection and privacy standards.
@@ -85,6 +87,7 @@ Several federal government agencies have oversight over the companies owned or l
    - **[Internal Revenue Service (IRS)](https;//www.irs.gov/)**: No person or company is exempt.
    - **[Department of Labor (DOL)](https://www.dol.gov/)**: Regulates fiduciary responsibilities and retirement plans³.
    - **[Social Security Administration](https://www.ssa.gov/)**: Runs the Social Security retirement, survivors, and disability insurance programs.
+   - **[Equal Employment Opportunity Commission](https://www.eeoc.gov/)**: The Equal Employment Opportunity Commission (EEOC) enforces laws that make discrimination illegal in the workplace. The commission oversees all types of work situations including hiring, firing, promotions, harassment, training, wages, and benefits.
 
 4. **[The Boring Company](https://www.boringcompany.com/)**:
    - **[Department of Transportation (DOT)](https://www.dot.gov/)**: Oversees transportation infrastructure projects.
@@ -92,6 +95,7 @@ Several federal government agencies have oversight over the companies owned or l
    - **[Internal Revenue Service (IRS)](https;//www.irs.gov/)**: No person or company is exempt.
    - **[Department of Labor (DOL)](https://www.dol.gov/)**: Regulates fiduciary responsibilities and retirement plans³.
    - **[Social Security Administration](https://www.ssa.gov/)**: Runs the Social Security retirement, survivors, and disability insurance programs.
+   - **[Equal Employment Opportunity Commission](https://www.eeoc.gov/)**: The Equal Employment Opportunity Commission (EEOC) enforces laws that make discrimination illegal in the workplace. The commission oversees all types of work situations including hiring, firing, promotions, harassment, training, wages, and benefits.
 
 5. **[Neuralink](https://neuralink.com/)**:
    - **[Food and Drug Administration (FDA)](https://www.fda.gov/)**: Regulates medical devices and clinical trials.
@@ -106,6 +110,7 @@ Several federal government agencies have oversight over the companies owned or l
    - **[Internal Revenue Service (IRS)](https;//www.irs.gov/)**: No person or company is exempt.
    - **[Department of Labor (DOL)](https://www.dol.gov/)**: Regulates fiduciary responsibilities and retirement plans³.
    - **[Social Security Administration](https://www.ssa.gov/)**: Runs the Social Security retirement, survivors, and disability insurance programs.
+   - **[Equal Employment Opportunity Commission](https://www.eeoc.gov/)**: The Equal Employment Opportunity Commission (EEOC) enforces laws that make discrimination illegal in the workplace. The commission oversees all types of work situations including hiring, firing, promotions, harassment, training, wages, and benefits.
 
 7. **[Starlink](https://www.starlink.com/)**:
    - **[Federal Aviation Administration (FAA)](https://www.fda.gov/)**: Regulates commercial space launches and reentries
@@ -114,6 +119,7 @@ Several federal government agencies have oversight over the companies owned or l
    - **[Internal Revenue Service (IRS)](https;//www.irs.gov/)**: No person or company is exempt.
    - **[Department of Labor (DOL)](https://www.dol.gov/)**: Regulates fiduciary responsibilities and retirement plans³.
    - **[Social Security Administration](https://www.ssa.gov/)**: Runs the Social Security retirement, survivors, and disability insurance programs.
+   - **[Equal Employment Opportunity Commission](https://www.eeoc.gov/)**: The Equal Employment Opportunity Commission (EEOC) enforces laws that make discrimination illegal in the workplace. The commission oversees all types of work situations including hiring, firing, promotions, harassment, training, wages, and benefits.
 
 ### Vivek Ramaswamy's Companies:
 
@@ -123,12 +129,14 @@ Several federal government agencies have oversight over the companies owned or l
    - **[Internal Revenue Service (IRS)](https;//www.irs.gov/)**: No person or company is exempt.
    - **[Department of Labor (DOL)](https://www.dol.gov/)**: Regulates fiduciary responsibilities and retirement plans³.
    - **[Social Security Administration](https://www.ssa.gov/)**: Runs the Social Security retirement, survivors, and disability insurance programs.
+   - **[Equal Employment Opportunity Commission](https://www.eeoc.gov/)**: The Equal Employment Opportunity Commission (EEOC) enforces laws that make discrimination illegal in the workplace. The commission oversees all types of work situations including hiring, firing, promotions, harassment, training, wages, and benefits.
 
 2. **[Strive Asset Management](https://strivefinds.com/)**:
    - **[Securities and Exchange Commission (SEC)](https://www.sec.gov/)**: Oversees investment management and compliance.
    - **[Department of Labor (DOL)](https://www.dol.gov/)**: Regulates fiduciary responsibilities and retirement plans³.
    - **[Internal Revenue Service (IRS)](https;//www.irs.gov/)**: No person or company is exempt.
    - **[Social Security Administration](https://www.ssa.gov/)**: Runs the Social Security retirement, survivors, and disability insurance programs.
+   - **[Equal Employment Opportunity Commission](https://www.eeoc.gov/)**: The Equal Employment Opportunity Commission (EEOC) enforces laws that make discrimination illegal in the workplace. The commission oversees all types of work situations including hiring, firing, promotions, harassment, training, wages, and benefits.
 
 These agencies ensure that the companies comply with various regulations and standards, from safety and environmental impact to financial transparency and consumer protection.
 
