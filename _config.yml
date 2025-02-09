@@ -14,12 +14,7 @@ author:
 # If you want to omit the line-break after the end of text, use `>-` instead.
 
 description: >
-  It’s going to be a long slog to survive “The Apprentice: White House – Wrecking Ball 2025”. 
-  Hold Trump’s feet to the fire on his campaign promises. He promised to lower grocery prices, 
-  gas prices, car/truck prices, inflation, housing prices. Grade him on appliances prices, 
-  budget deficit, car and truck prices, consumer goods, economy, energy, groceries, housing 
-  prices, inflation, interest rate, stock market, trade deficit, unemployment. Join the 
-  Resistance! I am one of the “enemy within”.
+  It’s going to be a long slog to survive “The Apprentice: White House – Wrecking Ball 2025”. Hold Trump’s feet to the fire on his campaign promises. He promised to lower grocery prices, gas prices, car/truck prices, inflation, housing prices. Grade him on appliances prices, budget deficit, car and truck prices, consumer goods, economy, energy, groceries, housing prices, inflation, interest rate, stock market, trade deficit, unemployment. Join the Resistance! I am the “enemy within”.
 
 # description: > # This means to ignore newlines until "show_excerpts:"
 #   “The Apprentice: White House” ended a tumultuous four year season
@@ -36,8 +31,6 @@ timezone: 'America/New_York'
 github_username: RalphHightower
 
 # Build settings
-page_excerpts: true
-show_excerpts: true
 
 # If you clone the Minima repo and build locally, use this setting.
 theme: minima
@@ -68,9 +61,6 @@ plugins:
 # header_pages:
 # - about.md
 
-# Set to `true` to show excerpts on the homepage.
-show_excerpts: true
-
 # Minima specific settings, which are only available from Minima 3.0 onward.
 minima:
     # Minima skin selection.
@@ -82,6 +72,9 @@ minima:
     # solarized-dark	 Dark variant of solarized color scheme.
     # solarized	 Adaptive skin for solarized color scheme skins.
   skin: auto
+
+# Set to `true` to show excerpts on the homepage.
+  show_excerpts: true
 
 # Minima date format.
 # The default value is "%b %d, %Y" (e.g. Nov 14, 2023)
@@ -131,7 +124,7 @@ permalink: /:year/:month/:title.html
 pagination:
   enabled: true
   per_page: 15
-  offset: 0
+  offset: 2
   permalink: '/page/:num/'
   title: ':title - page :num of :max'
   indexpage: 'blogpager'
