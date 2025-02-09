@@ -7,7 +7,7 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: "Make Your Voices Heard!"
+title: "Resistance Is Not Futile! Make Your Voices Heard!"
 ---
 
 
@@ -38,9 +38,19 @@ So, when you call:
 - Be clear on what you want — "I'm disappointed that the Senator..." or "I want to thank the Senator for their vote on... " or "I want the Senator to know that voting in _____ way is the wrong decision for our state because... " Don't leave any ambiguity.
 - They may get to know your voice/get sick of you — it doesn't matter. The people answering the phones generally turn over every 6 weeks anyway, so even if they're really sick of you, they'll be gone in 6 weeks.
 
-From experience since the election: If you hate being on the phone & feel awkward (which is a lot of people) don't worry about it — there are a bunch of scripts (Indivisible has some, there are lots of others floating around these day). After a few days of calling, it starts to feel a lot more natural. 
+If you hate being on the phone & feel awkward (which is a lot of people) don't worry about it — there are a bunch of scripts (Indivisible has some, there are lots of others floating around these day). After a few days of calling, it starts to feel a lot more natural. 
 
-Put the 6 numbers in your phone (all under P – Politician.) An example is McCaskill MO, Politician McCaskill DC, Politician Blunt MO, etc., which makes it really easy to click down the list each day.
+### Box Trump In Hell!
+
+Call the White House vomment line: 1-202-456-1111. If it's the weekend, then he's golfing at [Mar-a-Lago](https://www.maralagoclub.com/); call him at tel:561-832-2600. On a weekly basis, give the prices:
+
+- Dozen Grade-A large eggs
+- Bacon
+- Gallon of gas.
+
+Trump campaigned like a used-car salesman, ***"Bait and Switch"***. He promised to lower the price of grocery and gas.
+
+Put the 6 numbers in your phone (all under P – Politician.) An example is Politican Wilson SC, Politician Wilson DC, Politician Graham SC, etc., which makes it really easy to click down the list each day.
 
 **If you want to share this, please copy and paste.
 
@@ -61,7 +71,8 @@ Clyburn is not in my district, but as the sole Democrat in his gerrymandered Dis
 | **Kingstree, SC** |
 | 130 W. Main Street<br />Kingstree, SC 29556<br />Phone: (843) 355-1211<br />Fax: (843) 355-1232<br />Hours: Monday-Friday 9:00AM-5:00PM |
 | **Santee, SC**176 Municipal Way<br />Santee, SC 29142<br />Phone: (803) 854-4700<br />Fax: (803) 854-4900<br />Hours: Monday-Friday 9:00AM-5:00PM |
-| **Washington, DC**274 Cannon House Office Building<br />Washington, DC 20515<br />Phone: (202) 225-3315<br />Fax: (202) 225-2313<br />Hours: Monday-Friday 9:00AM-5:00PM |
+| **Washington, DC** |
+| 274 Cannon House Office Building<br />Washington, DC 20515<br />Phone: (202) 225-3315<br />Fax: (202) 225-2313<br />Hours: Monday-Friday 9:00AM-5:00PM |
 | **Columbia, SC**1225 Lady Street, Suite 200<br />Columbia, SC 29201<br />Phone: (803) 799-1100<br />Fax: (803) 799-9060<br />Hours: Monday-Friday 9:00AM-5:00PM |
 | **Sumter, SC**129 South Harvin Street<br />Sumter, SC 29150<br />Phone: (803) 883-5020<br />Hours: 2nd and 4th Mondays 10:00AM–4:00PM |
 
@@ -119,7 +130,7 @@ Yes, my assessment has racial overtones, but [Scott](https://www.scott.senate.go
 | **Low Country** |
 | 2500 City Hall Lane<br />3rd Floor Suite<br />North Charleston, SC 29406<br />Phone: (843) 727-4525<br />Fax: (855) 802-9355 |
 | **Washington D.C.** |
-| 104 Hart Senate Office<br />wwwBuilding<br />Washington, DC 20510<br />Phone: (202) 224-6121<br />Fax: (202) 228-5143 |
+| 104 Hart Senate Office Building<br />Washington, DC 20510<br />Phone: (202) 224-6121<br />Fax: (202) 228-5143 |
 
 ### President
 
@@ -128,4 +139,4 @@ Yes, my assessment has racial overtones, but [Scott](https://www.scott.senate.go
 | **[White House](https://www.whitehouse.gov)** |
 | 1600 Pennsylvania Ave., NW<br />Washington, DC 20500<br />1-202-456-1414 (switchboard)<br />1-202-456-1111 (comments) |
 | **[Mar-a-Lago](https://www.maralagoclub.com/)** |
-| The Mar-a-Lago Club<br />1100 South Ocean Boulevard, Palm Beach, Florida 33480<br />561.832.2600 |
+| The Mar-a-Lago Club<br />1100 South Ocean Boulevard<br />Palm Beach, Florida 33480<br />561.832.2600 |
