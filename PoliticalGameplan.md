@@ -40,7 +40,7 @@ So, when you call:
 
 From experience since the election: If you hate being on the phone & feel awkward (which is a lot of people) don't worry about it — there are a bunch of scripts (Indivisible has some, there are lots of others floating around these day). After a few days of calling, it starts to feel a lot more natural. 
 
-Put the 6 numbers in your phone (all under P – Politician.) An example is McCaskill MO, Politician McCaskill DC, Politician Blunt MO, etc., which makes it really easy to click down the list each day.
+Put the 6 numbers in your phone (all under P – Politician.) An example is Politican Wilson DC, Politician McCaskill DC, Politician Blunt MO, etc., which makes it really easy to click down the list each day.
 
 **If you want to share this, please copy and paste.
 
@@ -56,14 +56,15 @@ Clyburn is not in my district, but as the sole Democrat in his gerrymandered Dis
 
 ###### Office Locations 
 
+
 | Office Locations |
 |---|
 | **Kingstree, SC** |
-| 130 W. Main Street<br />Kingstree, SC 29556<br />Phone: (843) 355-1211<br />Fax: (843) 355-1232<br />Hours: Monday-Friday 9:00AM-5:00PM |
-| **Santee, SC**176 Municipal Way<br />Santee, SC 29142<br />Phone: (803) 854-4700<br />Fax: (803) 854-4900<br />Hours: Monday-Friday 9:00AM-5:00PM |
-| **Washington, DC**274 Cannon House Office Building<br />Washington, DC 20515<br />Phone: (202) 225-3315<br />Fax: (202) 225-2313<br />Hours: Monday-Friday 9:00AM-5:00PM |
-| **Columbia, SC**1225 Lady Street, Suite 200<br />Columbia, SC 29201<br />Phone: (803) 799-1100<br />Fax: (803) 799-9060<br />Hours: Monday-Friday 9:00AM-5:00PM |
-| **Sumter, SC**129 South Harvin Street<br />Sumter, SC 29150<br />Phone: (803) 883-5020<br />Hours: 2nd and 4th Mondays 10:00AM–4:00PM |
+| 130 W. Main Street<br />Kingstree, SC 29556<br />Phone: <a href="tel:+18433551211">(843) 355-1211</a><br />Fax: <a href="tel:+18433551232">(843) 355-1232</a><br />Hours: Monday-Friday 9:00AM-5:00PM |
+| **Santee, SC**176 Municipal Way<br />Santee, SC 29142<br />Phone: <a href="+18038544700">(803) 854-4700</a><br />Fax: <a href="+18038544900">(803) 854-4900</a><br />Hours: Monday-Friday 9:00AM-5:00PM |
+| **Washington, DC**274 Cannon House Office Building<br />Washington, DC 20515<br />Phone: <a href="+12022553315">(202) 225-3315</a><br />Fax: <a href="+12022252313">(202) 225-2313</a><br />Hours: Monday-Friday 9:00AM-5:00PM |
+| **Columbia, SC**1225 Lady Street, Suite 200<br />Columbia, SC 29201<br />Phone: <a href="+18037991100">(803) 799-1100</a><br />Fax: <a href="+18037999060">(803) 799-9060</a><br />Hours: Monday-Friday 9:00AM-5:00PM |
+| **Sumter, SC**129 South Harvin Street<br />Sumter, SC 29150<br />Phone: <a href="+18038835020">(803) 883-5020</a><br />Hours: 2nd and 4th Mondays 10:00AM–4:00PM |
 
 #### [Trump Party](https://www.gop.com/)
 
@@ -77,7 +78,7 @@ Little good that contacting Wilson will do. He's a political chameleon. First, h
 
 | Washington, DC Office | Aiken/Barnwell Office | The Midlands Office |
 |---|---|---|
-| 1436 Longworth House Office Building<br />Washington, DC  20515<br />Phone: (202) 225-2452 | 1930 University Parkway, Suite 1600<br />Aiken, SC  29801<br />Phone: (803) 642-6416<br />Fax: (803) 642-6418 | 1700 Sunset Blvd (US 378), Suite 1<br />West Columbia, SC  29169<br />Phone: (803) 939-0041<br />Fax: (803) 939-0078 |
+| 1436 Longworth House Office Building<br />Washington, DC  20515<br />Phone: <a href="+12022252452">(202) 225-2452</a> | 1930 University Parkway, Suite 1600<br />Aiken, SC  29801<br />Phone: <a href="+18036426416">(803) 642-6416</a><br />Fax: <a href="+18036426417">(803) 642-6418</a> | 1700 Sunset Blvd (US 378), Suite 1<br />West Columbia, SC  29169<br />Phone: <a href="+18038390041">(803) 939-0041</a><br />Fax: <a href="+18038380078">(803) 939-0078</a> |
 
 ### [Senante](https://www.senate.gov/)
 
@@ -90,19 +91,19 @@ Little good that contacting Wilson will do. He's a political chameleon. First, h
 | Office Locations |
 |---|
 | **Washington D.C. Office** |
-| 211 Russell Senate Office Building<br />Washington, DC 20510<br />Office: (202) 224-5972<br />Fax: (202) 224-3808 |
+| 211 Russell Senate Office Building<br />Washington, DC 20510<br />Office: <a href="+12022245972">(202) 224-5972</a><br />Fax: <a href="+12022243808">(202) 224-3808</a> |
 | **Upstate Office** |
-| 2 West Washington Street, Suite 808<br />Greenville, SC 29601<br />Main: (864) 250-1417<br />Fax: (864) 250-4322 |
+| 2 West Washington Street, Suite 808<br />Greenville, SC 29601<br />Main: <a href="+18642501416">(864) 250-1417</a><br />Fax: <a href="+18642504322">(864) 250-4322</a> |
 | **Midlands Office** |
-| 2142 Boyce Street, Suite 404<br />Columbia, SC 29201<br />(803) 933-0112 office<br />(803) 933-0957 fax |
+| 2142 Boyce Street, Suite 404<br />Columbia, SC 29201<br /><a href="+18039330112">(803) 933-0112</a> office<br /><a href="+18039330957">(803) 933-0957</a> fax |
 | **Pee Dee Office** |
-| McMillan Federal Building<br />401 West Evans Street, Suite 111<br />Florence, SC 29501<br />Main: (843) 669-1505<br />Fax: (843) 669-9015 |
+| McMillan Federal Building<br />401 West Evans Street, Suite 111<br />Florence, SC 29501<br />Main: <a href="+18436681504">(843) 669-1505_/a><br />Fax: <a href="+18336699015">(843) 669-9015</a> |
 | **Lowcountry Office** |
-| 4 Carriage Lane, Suite 401<br />Charleston, SC 29407<br />Main: (843) 849-3887<br />Fax: (843) 971-3669 |
+| 4 Carriage Lane, Suite 401<br />Charleston, SC 29407<br />Main: <a href="+18438493887">(843) 849-3887</a><br />Fax: <a href="+18439713669">(843) 971-3669</a> |
 | **Piedmont Office** |
-| 235 East Main Street, Suite 100<br />Rock Hill, SC 29730<br />Main: (803) 366-2828<br />Fax: (803) 366-5353 |
+| 235 East Main Street, Suite 100<br />Rock Hill, SC 29730<br />Main: <a href="+18033662828">(803) 366-2828</a><br />Fax: <a href="+18033665353">(803) 366-5353</a> |
 | **Golden Corner Office** |
-| 124 Exchange Street, Suite A<br />Pendleton, SC 29670<br />Main: (864) 646-4090<br />Fax: (864) 646-8609 |
+| 124 Exchange Street, Suite A<br />Pendleton, SC 29670<br />Main: <a href="+18646464090"<(864) 646-4090</a><br />Fax: <a href="+18646468609">(864) 646-8609</a> |
 
 #### [Scott, Tim](https://www.scott.senate.gov/)
 
@@ -113,19 +114,19 @@ Yes, my assessment has racial overtones, but [Scott](https://www.scott.senate.go
 | Office Locations |
 |---|
 | **Midlands** |
-| 1901 Main Street<br />Suite 1425<br />Columbia, SC 29201<br />Phone: (803) 771-6112<br />Fax: (855) 802-9355<br /> |
+| 1901 Main Street<br />Suite 1425<br />Columbia, SC 29201<br />Phone: <a href="+18037716112">(803) 771-6112</a><br />Fax: <a href="+18558028355">(855) 802-9355</a><br /> |
 | **Upstate** |
-| 301 N. Main Street<br />Suite 1006<br />Greenville, SC 29601<br />Phone: (864) 233-5366<br />Fax: (855) 802-9355 |
+| 301 N. Main Street<br />Suite 1006<br />Greenville, SC 29601<br />Phone: <a href="+18642235366">(864) 233-5366</a><br />Fax: <a href="+18558929355">(855) 802-9355</a> |
 | **Low Country** |
-| 2500 City Hall Lane<br />3rd Floor Suite<br />North Charleston, SC 29406<br />Phone: (843) 727-4525<br />Fax: (855) 802-9355 |
+| 2500 City Hall Lane<br />3rd Floor Suite<br />North Charleston, SC 29406<br />Phone: <a href="+18437274525">(843) 727-4525</a><br />Fax: <a href="+18558928355">(855) 802-9355</a> |
 | **Washington D.C.** |
-| 104 Hart Senate Office<br />wwwBuilding<br />Washington, DC 20510<br />Phone: (202) 224-6121<br />Fax: (202) 228-5143 |
+| 104 Hart Senate Office<br />wwwBuilding<br />Washington, DC 20510<br />Phone: <a href="+12022246121">(202) 224-6121</a><br />Fax: <a href="+12022275143"<(202) 228-5143</a> |
 
 ### President
 
 | Locations |
 |---|
 | **[White House](https://www.whitehouse.gov)** |
-| 1600 Pennsylvania Ave., NW<br />Washington, DC 20500<br />1-202-456-1414 (switchboard)<br />1-202-456-1111 (comments) |
+| 1600 Pennsylvania Ave., NW<br />Washington, DC 20500<br /><a href="tel:+12024561111">1-202-456-1111 (comments)</a><br /><a href="tel:+12024561414">1-202-456-1414 (switchboard)</a> |
 | **[Mar-a-Lago](https://www.maralagoclub.com/)** |
-| The Mar-a-Lago Club<br />1100 South Ocean Boulevard, Palm Beach, Florida 33480<br />561.832.2600 |
+| The Mar-a-Lago Club<br />1100 South Ocean Boulevard, Palm Beach, Florida 33480<br /><a href="tel:+15618322600">561.832.2600</a> |
