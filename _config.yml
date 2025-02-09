@@ -63,6 +63,7 @@ plugins:
 
 # Minima specific settings, which are only available from Minima 3.0 onward.
 minima:
+  show_excerpts: true
     # Minima skin selection.
     # Available skins are:
     # classic	 Default, light color scheme.
@@ -73,13 +74,10 @@ minima:
     # solarized	 Adaptive skin for solarized color scheme skins.
   skin: auto
 
-# Set to `true` to show excerpts on the homepage.
-  show_excerpts: true
-
 # Minima date format.
 # The default value is "%b %d, %Y" (e.g. Nov 14, 2023)
 # Refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this.
-  date_format: "%F %r"
+  date_format: "%B %e, %Y %I:%M %p %Z"
 
 # Generate social links in footer.
   social_links:
@@ -128,8 +126,6 @@ pagination:
   permalink: '/page/:num/'
   title: ':title - page :num of :max'
   indexpage: 'blogpager'
-  # limit=0 displays 30+ paging links below site title. How can I get just 1 link to blog?
-  # 1 just displays 1 page
   limit: 0
   sort_field: 'date'
   sort_reverse: true
