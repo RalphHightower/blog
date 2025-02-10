@@ -148,9 +148,9 @@ Little good that contacting Wilson will do. He's a political chameleon. First, h
 |---|---|---|
 | 1436 Longworth House Office Building<br />Washington, DC  20515<br />Phone: <a href="tel:+12022252452">(202) 225-2452</a> | 1930 University Parkway, Suite 1600<br />Aiken, SC  29801<br />Phone: <a href="tel:+18036426416">(803) 642-6416</a><br />Fax: <a href="tel:+18036426417">(803) 642-6418</a> | 1700 Sunset Blvd (US 378), Suite 1<br />West Columbia, SC  29169<br />Phone: <a href="tel:+18038390041">(803) 939-0041</a><br />Fax: <a href="tel:+18038380078">(803) 939-0078</a> |
 
-### [Senante](https://www.senate.gov/)
+### [Senate](https://www.senate.gov/)
 
-#### [Graham, Lindsey](https://www.lgraham.senate.gov/)
+#### [Graham, Lindsey (T-SC)](https://www.lgraham.senate.gov/)
 
 [Trump's](https://www.whitehouse.gov/) Poodle.
 
@@ -173,7 +173,7 @@ Little good that contacting Wilson will do. He's a political chameleon. First, h
 | **Golden Corner Office** |
 | 124 Exchange Street, Suite A<br />Pendleton, SC 29670<br />Main: <a href="tel:+18646464090"<(864) 646-4090</a><br />Fax: <a href="tel:+18646468609">(864) 646-8609</a> |
 
-#### [Scott, Tim](https://www.scott.senate.gov/)
+#### [Scott, Tim (T-SC)](https://www.scott.senate.gov/)
 
 Yes, my assessment has racial overtones, but [Scott](https://www.scott.senate.gov/) is [Trump's](https://www.whitehouse.gov/) *"lawn jockey."*
 
