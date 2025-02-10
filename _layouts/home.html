@@ -27,11 +27,11 @@ layout: base
             {{ post.title | escape }}
           </a>
         </h3>
-        {%- if site.minima.show_excerpt -%}
-          {%- if post.excerpt.size > 0 -%}
-            <p>DEBUG: {{ post.excerpt }}</p>
-          {%- endif -%}
-        {%- endif -%}
+        <!-- {%- if site.minima.show_excerpt -%} -->
+          <!-- {%- if post.excerpt.size > 0 -%} -->
+            <p>DEBUG: {{ post.excerpt | escape }} </p>
+          <!-- {%- endif -%} -->
+        <!-- {%- endif -%} -->
       </li>
     {% endfor %}
   </ul>
