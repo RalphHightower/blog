@@ -75,7 +75,9 @@ There are at least 500 individual programs that are administered by the impacted
 50. [U.S. Institute of Peace (USIP)](http://www.usip.org/)
 51. [U.S. International Development Finance Corporation (DFC)](https://www.dfc.gov/)
 
-### [OMB Q&A Regarding Memorandum M-25-13 – The White House](https://www.whitehouse.gov/fact-sheets/2025/01/omb-q-a-regarding-memorandum-m-25-13/). January 28, 2025.
+### [OMB Q&A Regarding Memorandum M-25-13 – The White House](https://www.whitehouse.gov/fact-sheets/2025/01/omb-q-a-regarding-memorandum-m-25-13/)[^660]. January 28, 2025.
+
+[^660]: @RalphHightower: [Trump's](https://www.whitehouse.gov/) Executive Order has been deleted. HTTP404
 
 In implementing [President Trump](https://www.whitehouse.gov/)’s Executive Orders, OMB issued guidance requesting that agencies temporarily pause, to the extent permitted by law, grant, loan or federal financial assistance programs that are implicated by the President’s Executive Orders.
 
