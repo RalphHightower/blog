@@ -1,8 +1,8 @@
 ---
 layout: post
 tags: [Mary Trump Media, White House (WH), Elon Musk, politics]
-categories: []
-date: 2019-06-25 13:14:15
+categories: [Donald Trump]
+date: 2025-02-04 8:45 PM
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
