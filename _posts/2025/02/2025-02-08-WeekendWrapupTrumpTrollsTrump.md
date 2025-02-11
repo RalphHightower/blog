@@ -3,7 +3,7 @@ layout: post
 tags: [Mary Trump Media, White House (WH), Army Corps of Engineers (CORP), California (CA), CalFire, egg prices, US Department of Agriculture (USDA), Department of Defense (DOD), Pete Hegseth, John Kennedy (T-LA), Proud Boys, Enrico Tarrio, politics]
 categories: [Donald Trump]
 date: 2025-02-08 11:20 PM
-excerpt: "“I love omelets. I could eat an omelet at every meal. It’s better than sex. But you can’t make an omelet without breaking some eggs.” – Senator John Kennedy (T-LA)
+excerpt: "“I love omelets. I could eat an omelet at every meal. It’s better than sex. But you can’t make an omelet without breaking some eggs.” – Senator John Kennedy (T-LA)"
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
