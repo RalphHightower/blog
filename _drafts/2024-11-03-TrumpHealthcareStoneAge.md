@@ -1,13 +1,13 @@
 ---
 layout: post
-tags: []
+tags: [The Hill, Robert F Kennedy Jr (RFKJr), healthcare,  Department of Health and Human Services (HHS), politics]
 categories: [2024 presidential election]
 date: 2019-06-25 13:14:15
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: 'Trump Intends To Send Healthcare BackcTo Stone Age
+title: 'Trump Intends To Send Healthcare Back To Stone Age'
 ---
 
 
