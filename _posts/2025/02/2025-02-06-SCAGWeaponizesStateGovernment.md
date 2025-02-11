@@ -102,7 +102,7 @@ Despite these serious findings, former [President Biden](bidenwhitehouse.archive
 Sincerely,
 
 [Alan Wilson](https://www.scag.gov/about-the-office/meet-the-attorney-general/)
-[Attorney General](https://www scag.gov) of [South Carolina](https://www.sc.gov/)
+[Attorney General](https://www.scag.gov) of [South Carolina](https://www.sc.gov/)
 
 [Jonathan Skrmetti](https://www.tn.gov/attorneygeneral/about-the-office/general-skrmetti.html)
 [Attorney General](https://www.tn.gov/attorneygeneral.html) of [Tennessee](https://www.tn.gov/)
