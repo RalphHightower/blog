@@ -30,6 +30,8 @@ baseurl: "blog/"
 timezone: 'America/New_York'
 github_username: RalphHightower
 
+page_excerpts: true
+
 # Build settings
 
 # If you clone the Minima repo and build locally, use this setting.
