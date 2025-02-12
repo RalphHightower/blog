@@ -50,5 +50,5 @@ Trump thought he could control the narrative, but his Super Bowl interviews were
 - Palestinian relocation
 - [Canada (CA)](https://www.canada.ca/)
 - Tariffs (steel, aluminum)
-- [Ukraine](https://www.president.gov.ua/)
-- [Volodymyr Zelenskyy](https://www..gov.ua/)
+- [Volodymyr Zelenskyy](https://www.president.gov.ua/)
+- [Ukraine](https://www..gov.ua/)
