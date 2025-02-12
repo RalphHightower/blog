@@ -1,13 +1,13 @@
 ---
 layout: post
-tags: []
-categories: []
-#date: 2019-06-25 13:14:15
-#excerpt: ''
+tags: [MSNBC, Constitutional Collapse, third term, politics]
+categories: [Donald Trump]
+date: 2025-02-11 11:41 PM
+excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: 'title'
+title: "🚨NO! HELL NO! 🚨: Third Trump Term Would Be a Constitutional Collapse"
 ---
 
 
