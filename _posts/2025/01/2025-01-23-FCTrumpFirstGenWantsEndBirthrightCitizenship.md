@@ -106,7 +106,7 @@ THE [WHITE HOUSE](https://www.whitehouse.gov/),
 January 20, 2025.
 
 ----
-## Mary Trump UNVEILS [Trump](https://www.whitehouse.gov/)'s BIRTHRIGHT Family Past
+## Mary Trump UNVEILS [Trump's](https://www.whitehouse.gov/) BIRTHRIGHT Family Past
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eSs6f8rlmkc?si=3jIhabP9YbkewA2X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

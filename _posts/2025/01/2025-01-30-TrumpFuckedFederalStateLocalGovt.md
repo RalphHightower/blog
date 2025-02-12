@@ -31,17 +31,17 @@ Matthew J. Vaeth, the acting director of the White House [Office of Management a
 said in a statement on Monday. 
 - “[Donald Trump](https://www.whitehouse.gov/) must direct his Administration to reverse course immediately and the taxpayers’ money should be distributed to the people. These grants help people in red states and blue states, support families, help parents raise kids, and lead to stronger communities. This freeze means missed payrolls and rent payments and everything in between: chaos for everything from universities to non-profit charities.”
 
-Last week, [Trump](https://www.whitehouse.gov/) ordered government agencies to pause other funds appropriated by [[Congress](https://www.congress.gov/(](https://www.congress.gov/) — including key climate investments, money for infrastructure projects and nearly all U.S. assistance to foreign nations — challenging the constitutional role of [[Congress](https://www.congress.gov/(](https://www.congress.gov/) and its power of the purse.
+Last week, [Trump](https://www.whitehouse.gov/) ordered government agencies to pause other funds appropriated by [Congress](https://www.congress.gov/) — including key climate investments, money for infrastructure projects and nearly all U.S. assistance to foreign nations — challenging the constitutional role of [[Congress](https://www.congress.gov/l](https://www.congress.gov/) and its power of the purse.
 
-And over the weekend, [Trump](https://www.whitehouse.gov/) fired at least 18 inspectors general whose job is to root out corruption in government agencies. He did it without notifying [[Congress](https://www.congress.gov/(](https://www.congress.gov/), a move critics denounced as a “chilling purge.”
+And over the weekend, [Trump](https://www.whitehouse.gov/) fired at least 18 inspectors general whose job is to root out corruption in government agencies. He did it without notifying [Congress](https://www.congress.gov/), a move critics denounced as a “chilling purge.”
 
 [Trump's](https://www.whitehouse.gov/) executive orders are likely to face legal challenges, but his intention is not difficult to grasp: an unprecedented effort to seize power, from a president far more unbound this time than during his first presidential term.
 
-Monday’s proclamation is only the latest [Trump](https://www.whitehouse.gov/) attempt to freeze federal government functions. Last week, [Trump](https://www.whitehouse.gov/) ordered government agencies to pause other funds appropriated by [[Congress](https://www.congress.gov/(](https://www.congress.gov/) — including key climate investments, money for infrastructure projects and nearly all U.S. assistance to foreign nations — challenging the constitutional role of [[Congress](https://www.congress.gov/(](https://www.congress.gov/) and its power of the purse.
+Monday’s proclamation is only the latest [Trump](https://www.whitehouse.gov/) attempt to freeze federal government functions. Last week, [Trump](https://www.whitehouse.gov/) ordered government agencies to pause other funds appropriated by [Congress](https://www.congress.gov/) — including key climate investments, money for infrastructure projects and nearly all U.S. assistance to foreign nations — challenging the constitutional role of [Congress](https://www.congress.gov/) and its power of the purse.
 
-And over the weekend, [Trump](https://www.whitehouse.gov/) fired at least 18 inspectors general whose job is to root out corruption in government agencies. He did it without notifying [[Congress](https://www.congress.gov/(](https://www.congress.gov/), a move critics denounced as a “chilling purge.”
+And over the weekend, [Trump](https://www.whitehouse.gov/) fired at least 18 inspectors general whose job is to root out corruption in government agencies. He did it without notifying [Congress](https://www.congress.gov/), a move critics denounced as a “chilling purge.”
 
-[Trump](https://www.whitehouse.gov/)’s executive orders are likely to face legal challenges, but his intention is not difficult to grasp: an unprecedented effort to seize power, from a president far more unbound this time than during his first presidential term.
+[Trump's](https://www.whitehouse.gov/) executive orders are likely to face legal challenges, but his intention is not difficult to grasp: an unprecedented effort to seize power, from a president far more unbound this time than during his first presidential term.
 
 Bobby Kogan, senior director of federal budget policy at the liberal Center for American Progress:
 

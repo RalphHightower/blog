@@ -7,7 +7,7 @@ excerpt: ''
 image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: "Break In Case of Emergency :rotating_light: Coping Tips From Trump’s Estranged Niece, Mary Trump"
+title: "Break In Case of Emergency 🚨 Coping Tips From Trump’s Estranged Niece, Mary Trump"
 ---
 
 

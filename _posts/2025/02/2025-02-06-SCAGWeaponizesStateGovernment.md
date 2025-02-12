@@ -32,12 +32,12 @@ Key Findings from the Congressional Report:
 - [NIH](https://www.nih.gov/) Oversight Failures – The [NIH](https://www.nih.gov/) reportedly mismanaged taxpayer funds by failing to properly oversee grants to EcoHealth Alliance, which funneled funding to the Wuhan lab.
 - Suppression of Scientific Dissent – Prominent scientists who raised concerns about vaccine risks were allegedly silenced, limiting public awareness of potential side effects.
 - Despite these findings, former [President Joe Biden](bidenwhitehouse.archives.gov) issued a sweeping pardon for Dr. Fauci, shielding him from federal prosecution for any offenses committed during his tenure. However, the [attorneys general](https://republicanags.com/) assert that this federal pardon does not prevent state-level legal action.
-.
+
 The [attorneys general](https://republicanags.com/) have requested that [Congress](https://www.congress.gov/) provide them with any relevant findings that could lead to state investigations and potential prosecutions. They reaffirm their commitment to upholding public trust, ensuring transparency, and preventing similar failures in future public health crises.
 
 Signatories to the Letter Include:
 
-- [Alan Wilson](https://www.scag.gov/about-the-office/meet-the-attorney-general/), [Attorney General](https://wwwscag.gov) of [South Carolina](https://www.sc.gov/)
+- [Alan Wilson](https://www.scag.gov/about-the-office/meet-the-attorney-general/), [Attorney General](https://www scag.gov) of [South Carolina](https://www.sc.gov/)
 - [Jonathan Skrmetti](https://www.tn.gov/attorneygeneral/about-the-office/general-skrmetti.html), [Attorney General](https://www.tn.gov/attorneygeneral.html) of [Tennessee](https://www.tn.gov/)
 - John Guard, [Acting Attorney General](https://www.myfloridalegal.com/) of [Florida](https://www.myflorida.com/)
 - [Liz Murrill](https://ag.louisiana.gov/About), [Attorney General](https://ag.louisiana.gov/) of [Louisiana](https://www.louisiana.gov/)
@@ -102,7 +102,7 @@ Despite these serious findings, former [President Biden](bidenwhitehouse.archive
 Sincerely,
 
 [Alan Wilson](https://www.scag.gov/about-the-office/meet-the-attorney-general/)
-[Attorney General](https://www.scag.gov) of [South Carolina](https://www.sc.gov/)
+[Attorney General](https://www scag.gov) of [South Carolina](https://www.sc.gov/)
 
 [Jonathan Skrmetti](https://www.tn.gov/attorneygeneral/about-the-office/general-skrmetti.html)
 [Attorney General](https://www.tn.gov/attorneygeneral.html) of [Tennessee](https://www.tn.gov/)

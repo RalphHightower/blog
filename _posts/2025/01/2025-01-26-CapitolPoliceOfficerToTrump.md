@@ -18,4 +18,4 @@ title: "Capitol Police Officer Attacked January 6 2021 Public That Trump Enabler
 Jan 23, 2025
 The [US Capitol Police officer](https://www.uscp.gov/) who was brutally crushed on January 6 just stunned [Donald Trump](https://www.whitehouse.gov/) with a devastating bombshell!
 
-[Trump Party](https://www.gop.com/(
+[Trump Party](https://www.gop.com/)
