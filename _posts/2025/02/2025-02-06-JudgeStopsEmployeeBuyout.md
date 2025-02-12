@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [Mary Trump Media, federal employees, buyout offers, Elon Musk, White House (WH), Federal Courts of the United States (USFCS), Office of Personnel Management (OPM), politics)
+tags: [Mary Trump Media, federal employees, buyout offers, Elon Musk, White House (WH), Federal Courts of the United States (USFCS), Office of Personnel Management (OPM), politics]
 categories: [Donald Trump]
 date: 2025-02-06 9:39 PM
 excerpt: ''
