@@ -1,13 +1,13 @@
 ---
 layout: post
-tags: [Washington Post, democracy, republic, autocracy, kleptocracy, inspector general, Congress, Democrat Party, Merit Systems Protection Board (MSPB), Federal Labor Relations Authority (FLRA), Office of Government Ethics (OGE), Office of Special Counsel (OSC), White House, George W. Bush, Barack Obama, Watergate, Richard M Nixon, Partnership for Public Service, Hampton Dellinger, Cathy Harris, Susan Tsui Grundmann, David Huitema, politics]
+tags: [Washington Post, democracy, republic, autocracy, kleptocracy, inspector general, Congress, Democrat Party, Merit Systems Protection Board (MSPB), Federal Labor Relations Authority (FLRA), Office of Government Ethics (OGE), Office of Special Counsel (OSC), White House (WH), president (POTUS), White House, George W. Bush, Barack Obama, Watergate, Richard M Nixon, Partnership for Public Service, Hampton Dellinger, Cathy Harris, Susan Tsui Grundmann, David Huitema, politics]
 categories: [Donald Trump]
 date: 2025-02-13 1:35 PM
 excerpt: '“Purging the federal government is the first step to authoritarianism so there will be “no one left to say, ‘I won’t follow this illegal order,’ and no one left to point out that ‘this is illegal,’ and no one left to blow the whistle on the illegality. Once you lose all of these guardrails, it’s all over. There is nothing similar to a republic left.” – Walter M. Shaub Jr., a former director of the Office of Government Ethics'
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: '🚨 Trump Is Destroying America! Turning America Into a Kleptocracy For Him and His Billionaire Buddies! 🚨"
+title: "🚨 Trump Is Destroying America! Turning America Into a Kleptocracy For Him and His Billionaire Buddies! 🚨"
 ---
 
 ## Kleptocracy and Autocracy: What’s the Diff?
@@ -115,18 +115,19 @@ Shaub said his worries extend beyond what [Trump](https://www.whitehouse.gov/) i
 
 - “Once you lose all of these guardrails, it’s all over. There is nothing similar to a republic left.”
 
-[Congress](https:///www.congress.gov/)
-[Democrat Party](https://www.democrats.org/)
-[Merit Systems Protection Board (MSPB)](https://www.mspb.gov/)
-[Federal Labor Relations Authority (FLRA)](https//:www.flra.gov/)
-[Office of Government Ethics (OGE)](https://www.oge.gov/)
-[Office of Special Counsel (OSC)](https://osc.gov/)
-[White House](https://www.whitehouse.gov/)
-[George W. Bush](https://georgewbush-whitehouse.archives.gov/president/)
-[Barack Obama](https://obamawhitehouse.archives.gov/)
-[Watergate](https://www.archives.gov/research/investigations/watergate)
-[Partnership for Public Service](https://ourpublicservice.org/)
-Hampton Dellinger
-Cathy Harris
-Susan Tsui Grundmann
-David Huitema
+- [Congress](https:///www.congress.gov/)
+- [Democrat Party](https://www.democrats.org/)
+- [Merit Systems Protection Board (MSPB)](https://www.mspb.gov/)
+- [Federal Labor Relations Authority (FLRA)](https//:www.flra.gov/)
+- [Office of Government Ethics (OGE)](https://www.oge.gov/)
+- [Office of Special Counsel (OSC)](https://osc.gov/)
+- [President of the United States (POTUS)](https://www.whitehouse.gov/)
+- [White House (WH)](https://www.whitehouse.gov/)
+- [George W. Bush](https://georgewbush-whitehouse.archives.gov/president/)
+- [Barack Obama](https://obamawhitehouse.archives.gov/)
+- [Watergate](https://www.archives.gov/research/investigations/watergate)
+- [Partnership for Public Service](https://ourpublicservice.org/)
+- Hampton Dellinger
+- Cathy Harris
+- Susan Tsui Grundmann
+- David Huitema
