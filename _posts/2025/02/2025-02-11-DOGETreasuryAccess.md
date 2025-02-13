@@ -2,7 +2,7 @@
 layout: post
 tags: [CBS, Elon Musk, Department of Government Efficiency (DOGE), Treasury, Bureau of the Fiscal Service (BFS), White House, president (POTUS), politics]
 categories: [Donald Trump]
-date: 2019-06-25 13:14:15
+date: 2025-02-11 9:23 PM
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
