@@ -171,7 +171,7 @@ Little good that contacting Wilson will do. He's a political chameleon. First, h
 | **Piedmont Office** |
 | 235 East Main Street, Suite 100<br />Rock Hill, SC 29730<br />Main: <a href="tel:+18033662828">(803) 366-2828</a><br />Fax: <a href="tel:+18033665353">(803) 366-5353</a> |
 | **Golden Corner Office** |
-| 124 Exchange Street, Suite A<br />Pendleton, SC 29670<br />Main: <a href="tel:+18646464090"<(864) 646-4090</a><br />Fax: <a href="tel:+18646468609">(864) 646-8609</a> |
+| 124 Exchange Street, Suite A<br />Pendleton, SC 29670<br />Main: <a href="tel:+18646464090">(864) 646-4090</a><br />Fax: <a href="tel:+18646468609">(864) 646-8609</a> |
 
 #### [Scott, Tim (T-SC)](https://www.scott.senate.gov/)
 
