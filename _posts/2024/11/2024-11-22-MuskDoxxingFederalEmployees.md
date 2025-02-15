@@ -26,7 +26,7 @@ Story by Jim Carlton, Rebecca Ballhaus. November 22, 2024.
 - **[Musk's](https://x.com/elonmusk) Criticism**: Elon [Musk](https://x.com/elonmusk), co-director of the Department of Government Efficiency, has been targeting specific federal employees on X, leading to online harassment.
 - **DOGE Initiative**: [Musk](https://x.com/elonmusk) and [Vivek Ramaswamy](https://x.com/vivekgramaswamy) are leading an initiative to reduce government spending and regulations, proposing drastic measures like mass layoffs.
 - **Public Backlash**: [Musk's](https://x.com/elonmusk) actions have sparked significant backlash, with critics arguing that his tactics instill fear among federal employees.
-- **Highlighted Case**: Ashley Thomas, a federal employee, became a target of [Musk](https://x.com/elonmusk)'s followers after he questioned her role, leading to widespread ridicule and threats.
+- **Highlighted Case**: Ashley Thomas, a federal employee, became a target of [Musk's](https://x.com/elonmusk) followers after he questioned her role, leading to widespread ridicule and threats.
 
 As co-director of President-elect [Donald Trump's](https://x.com/realdonaldtrump) nascent Department of Government Efficiency, [Elon Musk](https://x.com/elonmusk) has wasted no time posting to his 205 million followers on X about specific government departments he views as bloated.
 

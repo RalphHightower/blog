@@ -53,11 +53,11 @@ Although there has been speculation online that some of these declines could be 
 
 In any case, such follower losses coincide with growth in activity on rival platforms. New users of Threads in the last month grew 394% year over year, according to Sensor Tower. Meta said in October the service had reached 275 million monthly active users. Adam Mosseri, the head of Instagram who also oversees Threads, said Thursday that the platform had added another 15 million users so far in November, and was "going on three months with more than a million sign ups a day."
 
-While [[Bluesky](https://bsky.app/)](https://bsky.app/) has far fewer users, it's been a trending topic on [X](https://x.com/) and Threads over the last week as people discussed where there were heading while leaving [X](https://x.com/). Since the election, it has added almost 1 million new users, to a total of nearly 15 million.
+While [[Bluesky](https://bsky.app/) has far fewer users, it's been a trending topic on [X](https://x.com/) and Threads over the last week as people discussed where there were heading while leaving [X](https://x.com/). Since the election, it has added almost 1 million new users, to a total of nearly 15 million.
 
 TikTok, Facebook, Instagram, and Snapchat have all added users as well each month over the last year, from 3% to 10%, according to Sensor Tower.
 
-Despite all of the apparent momentum away from [X](https://x.com/), and the manipulation of its content algorithm in favor of right-wing politics and [Musk](https://x.com/elonmusk) himself, at least some of the people who may be leaving [X](https://x.com/) are being replaced by new users. It’s possible there is a sort of swap going on—use among people fed up with the pro-Trump drift and [Musk](https://x.com/elonmusk)'s omnipresence is, to some extent, being covered by people who are attracted to exactly that.
+Despite all of the apparent momentum away from [X](https://x.com/), and the manipulation of its content algorithm in favor of right-wing politics and [Musk](https://x.com/elonmusk) himself, at least some of the people who may be leaving [X](https://x.com/) are being replaced by new users. It’s possible there is a sort of swap going on—use among people fed up with the pro-Trump drift and [Musk's](https://x.com/elonmusk) omnipresence is, to some extent, being covered by people who are attracted to exactly that.
 
 According to Sensor Tower, new mobile app users for [X](https://x.com/) jumped 17% in October, among the few notable increases it’s seen since [Musk](https://x.com/elonmusk)’s takeover.
 
