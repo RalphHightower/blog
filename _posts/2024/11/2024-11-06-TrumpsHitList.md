@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [revenge, retribution, political enemies, politics]
+tags: [strategic lawsuits against public participation (SLAPP), revenge, retribution, political enemies, politics]
 categories: [Donald Trump]
 date: 2024-11-06 10:53 AM
 excerpt: "Many Trump supporters dismissed the threats as campaign rhetoric aimed at whipping up his base. They noted that his exhortations against his enemies only rarely led to action during his first four years in office. But others — including some of Trump’s closest advisers — have warned ominously that he’s far more likely to follow through in a second term. He won’t be inhibited by the need to run for reelection. He will be emboldened by a Supreme Court ruling that grants presidents broad immunity from criminal accountability after they leave office. And he is expected to be surrounded by aides more willing to dispense with norms to carry out his wishes. @RalphHightower: Trump does not like being told that his idea is wrong, or worse, stupid. His advisers will be staffed with sycophants, brown nosers, ass kissers, boot lickers, and acolytes, yes men."
@@ -16,11 +16,11 @@ title: "President-elect Trump’s Hit List"
 
 Story by Josh Gerstein. November 6, 2024.
 
-For years, Donald Trump has vehemently promised that his term would be retribution and revenge for his political enemies, real and imaginary.
+For years, [Donald Trump](https://www.whitehouse.gov/) has vehemently promised that his term would be retribution and revenge for his political enemies, real and imaginary.
 
 Many Trump supporters dismissed the threats as campaign rhetoric aimed at whipping up his base. They noted that his exhortations against his enemies only rarely led to action during his first four years in office.
 
-But others — including some of Trump’s closest advisers — have warned ominously that he’s far more likely to follow through in a second term. He won’t be inhibited by the need to run for reelection. He will be emboldened by a Supreme Court ruling that grants presidents broad immunity from criminal accountability after they leave office. And he is expected to be surrounded by aides more willing to dispense with norms to carry out his wishes.
+But others — including some of [Trump’s](https://www.whitehouse.gov/) closest advisers — have warned ominously that he’s far more likely to follow through in a second term. He won’t be inhibited by the need to run for reelection. He will be emboldened by a Supreme Court ruling that grants presidents broad immunity from criminal accountability after they leave office. And he is expected to be surrounded by aides more willing to dispense with norms to carry out his wishes.
 
 1. **President Joe Biden –** Trump has frequently called Biden corrupt and, in June, reposted a Truth Social message that said he should be “arrested for treason.” In a speech last year, Trump vowed[^101]: “I will appoint a real special prosecutor to go after the most corrupt president in the history of the United States of America, Joe Biden, and the entire Biden crime family.”
 2. **Vice President Kamala Harris –** Trump has described Harris’ failure to control migration as so severe that people have been "murdered because of her action at the border.” He told a campaign rally in Pennsylvania in September that Harris “should be impeached and prosecuted” for her role in permitting what he termed an “invasion” of the U.S. by undocumented immigrants.
