@@ -66,6 +66,7 @@ plugins:
 # Minima specific settings, which are only available from Minima 3.0 onward.
 minima:
   show_excerpts: true
+  page_excerpts: true
     # Minima skin selection.
     # Available skins are:
     # classic	 Default, light color scheme.
