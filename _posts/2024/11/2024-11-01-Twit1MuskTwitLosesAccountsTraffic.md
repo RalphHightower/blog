@@ -18,10 +18,10 @@ title: 'Twit Elon Musk: X/Twitter Loses Users, Traffic'
 Alex Hern UK technology editor
 Tue 26 Mar 2024 13.41 EDT
 
-- **Twitter Usage Decline**: Since [Elon Musk](https://x.com/elonmusk)'s takeover and rebranding to X, daily app users in the US have dropped by 23% as of February 2024.
+- **Twitter Usage Decline**: Since [Elon Musk's](https://x.com/elonmusk) takeover and rebranding to X, daily app users in the US have dropped by 23% as of February 2024.
 - **Global Impact**: Globally, X's daily active app users fell by 15%, reaching 174 million.
 - **Company Valuation**: Fidelity has marked down the value of X by 71.5% from November 2022 to November 2023, valuing it at just over $12.5 billion.
-- **Legal Update**: A judge dismissed [Musk](https://x.com/elonmusk)'s lawsuit against the Center for Countering Digital Hate, citing it as an attempt to punish the defendants for their speech.
+- **Legal Update**: A judge dismissed [Musk's](https://x.com/elonmusk) lawsuit against the Center for Countering Digital Hate, citing it as an attempt to punish the defendants for their speech.
 
 Use of Twitter in the US has slumped by more than a fifth since [Elon Musk](https://x.com/elonmusk) bought the site and rebranded it to X, according to data from app-monitoring company Sensor Tower.[^11]
 

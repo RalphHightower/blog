@@ -18,13 +18,13 @@ Story by Natalie Venegas. November 16, 2024.
 - **[Elon Musk's](https://x.com/elonmusk) Appointment**: President-elect [Donald Trump](https://x.com/realdonaldtrump) announced [Elon Musk](https://x.com/elonmusk) will lead the "Department of Government Efficiency" (DOGE) to reduce government bureaucracy and waste.
 - **[Musk's](https://x.com/elonmusk) Warning**: [Musk](https://x.com/elonmusk) warned of "consequences" for those who pushed "foreign interference hoaxes" in the 2024 election.
 - **Foreign Interference Concerns**: The [FBI](https://www.fbi.gov/) and other agencies warned about ongoing foreign interference, particularly from Russia and Iran, aimed at undermining U.S. elections.
-- **Public Reactions**: [Musk](https://x.com/elonmusk)'s remarks sparked backlash, with critics accusing him of threatening free speech and political persecution.
+- **Public Reactions**: [Musk's](https://x.com/elonmusk) remarks sparked backlash, with critics accusing him of threatening free speech and political persecution.
 
 Following this year's presidential election, billionaire [Elon Musk](https://x.com/elonmusk) has said there will be "consequences" for those who "pushed foreign interference hoaxes" in a post on his social media platform, which sparked backlash on Saturday.
 
 President-elect [Donald Trump](https://x.com/realdonaldtrump) announced on Tuesday that the founder of Tesla and SpaceX would lead what he called the "Department of Government Efficiency" or (DOGE), along with entrepreneur [Vivek Ramaswamy](https://x.com/vivekgramaswamy)](https://x.com/vivekgramaswamy), to "dismantle Government Bureaucracy, slash excess regulations, cut wasteful expenditures, and restructure Federal Agencies."
 
-No such department exists and the president-elect didn't offer many details about how it would operate or how it would be staffed, if at all. [Trump](https://x.com/realdonaldtrump)'s statement said DOGE "will provide advice and guidance from outside of Government, and will partner with the White House and Office of Management & Budget."
+No such department exists and the president-elect didn't offer many details about how it would operate or how it would be staffed, if at all. [Trump's](https://x.com/realdonaldtrump) statement said DOGE "will provide advice and guidance from outside of Government, and will partner with the White House and Office of Management & Budget."
 
 However, the appointment of [Musk](https://x.com/elonmusk) has raised concerns as the billionaire, who frequently posts his political opinions on X, formerly Twitter, which he bought in October 2022, has continued to speak on what he aims to do given his recent appointment.
 

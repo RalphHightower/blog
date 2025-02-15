@@ -15,9 +15,9 @@ title: 'Elon Musk – Part 1: Yadda, yadda, yadda. And the check is the mail'
 
 Story by Ayman Mohyeldin and Andrew Kenlon and Allison Detzel. October 7, 2024.
 
-- **[Elon Musk](https://x.com/elonmusk)'s Promise**: [Musk](https://x.com/elonmusk) initially vowed to keep Twitter[^11] politically neutral, aiming to upset both the far right and far left equally[^12].
+- **[Elon Musk's](https://x.com/elonmusk) Promise**: [Musk](https://x.com/elonmusk) initially vowed to keep Twitter[^11] politically neutral, aiming to upset both the far right and far left equally[^12].
 - **Political Involvement**: Despite his promise, [Musk](https://x.com/elonmusk) endorsed Republican candidates and voiced support for Ron DeSantis and later [Donald Trump](https://x.com/realdonaldtrump).
-- **Feud with [Trump](https://x.com/realdonaldtrump)**: [Musk](https://x.com/elonmusk) and [Trump](https://x.com/realdonaldtrump) had a public feud, with [Trump](https://x.com/realdonaldtrump) mocking [Musk](https://x.com/elonmusk)'s campaign efforts and [Musk](https://x.com/elonmusk) criticizing [Trump](https://x.com/realdonaldtrump)'s age[^13]<sup>,</sup>[^14].
+- **Feud with [Trump](https://x.com/realdonaldtrump)**: [Musk](https://x.com/elonmusk) and [Trump](https://x.com/realdonaldtrump) had a public feud, with [Trump](https://x.com/realdonaldtrump) mocking [Musk's](https://x.com/elonmusk) campaign efforts and [Musk](https://x.com/elonmusk) criticizing [Trump's](https://x.com/realdonaldtrump) age[^13]<sup>,</sup>[^14].
 - **Shift in Stance**: [Musk](https://x.com/elonmusk) eventually endorsed [Trump](https://x.com/realdonaldtrump) and donated to a political group supporting him, despite earlier criticisms.
 
 Two years ago, when billionaire [Elon Musk](https://x.com/elonmusk) bought what was once called Twitter, he vowed to keep it a nonbiased platform. In fact, that was his mission statement. Just days after purchasing the platform, [Musk](https://x.com/elonmusk) said, “For Twitter to deserve public trust, it must be politically neutral, which effectively means upsetting the far right and the far left equally.”

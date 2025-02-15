@@ -20,7 +20,7 @@ President Trump signed a wave of executive orders yesterday on immigration, ener
 
 - [AH Capital Management, LLC](https://www.a16z.com/)
 - [Amazon](https://www.amazon.com/)
-- [Apple](https://www.google.com/)
+- [Apple](https://www.apple.com/)
 - [Boring](https:://www.boringcompany.com/)
 - [Clarium Capital](https://www.clarium.com/)
 - [Founders Fund](https://www.foundersfund.con/)

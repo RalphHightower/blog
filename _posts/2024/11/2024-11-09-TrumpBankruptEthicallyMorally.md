@@ -16,7 +16,7 @@ Story by Tom Boggioni. November 9, 2024.
 
 - **Transition Team Issues**: [Donald Trump's](https://x.com/realdonaldtrump) presidential transition team has hit a snag due to overdue paperwork, which includes a legally required ethics pledge.
 - **Security Concerns**: The delay in submitting the paperwork is causing concerns about America's security, as it prevents the transition team from accessing classified intelligence and national defense briefings.
-- **Access Restrictions**: The missing paperwork also blocks [Trump](https://x.com/realdonaldtrump)'s team from accessing federal agencies and reviewing their files.
+- **Access Restrictions**: The missing paperwork also blocks [Trump's](https://x.com/realdonaldtrump) team from accessing federal agencies and reviewing their files.
 - **Ethics Code**: While the transition team has drafted an ethics code, it lacks specific language on how [Trump](https://x.com/realdonaldtrump) will address conflicts of interest during his presidency.
 
 [Donald Trump's](https://x.com/realdonaldtrump) presidential transition team has failed to turn in paperwork –– now over a month overdue — that would clear the path to the turnover of sensitive documents which would allow the incoming administration to hit the ground running after the former president returns to the Oval Office.
@@ -29,7 +29,7 @@ According to the report from the Times' Ken Bensinger, the failure to address th
 
 Reporting, "While the transition team’s leadership has privately drafted an ethics code and a conflict-of-interest statement governing its staff, those documents do not include language, required under the law, that explains how Mr. [Trump](https://x.com/realdonaldtrump) himself will address conflicts of interest during his presidency," Bensinger added, "The [Trump](https://x.com/realdonaldtrump) transition’s ethics documents are silent on the question of Mr. Trump](https://x.com/realdonaldtrump)’s ethical conduct."
 
-The report adds that the missing paperwork also blocks [Trump](https://x.com/realdonaldtrump)'s people from the "physical access to the 438 different federal agencies that they will soon control, and it cannot allow them to review their files."
+The report adds that the missing paperwork also blocks [Trump's](https://x.com/realdonaldtrump) people from the "physical access to the 438 different federal agencies that they will soon control, and it cannot allow them to review their files."
 
 President-elect [Donald J. Trump](https://x.com/realdonaldtrump) has not yet submitted a legally required ethics pledge stating that he will avoid conflicts of interest and other ethical concerns while in office, raising concerns that his refusal to do so will hamper the smooth transition to power.[^81]
 
