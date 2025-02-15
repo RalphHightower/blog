@@ -35,7 +35,7 @@ Editorial Excerpts from from Dallas Morning News:
 
 - "We looked not only at their actions but also listened to their words, and, after doing so, we recommend voters cast their ballots for Allred in the coming election."
 - [Cruz (T-TX)](https://www.cruz.senate.gov/) had "long embraced the politics of division" and on items of crucial importance to the country, he "digs in the most partisan mode possible, making no room for common ground." 
-- Noted [Cruz (T-TX)](https://www.cruz.senate.gov/)'s opposition to the bipartisan border deal, the CHIPs and Science Act, and the bipartisan Infrastructure Investment and Jobs Act—all of which Allred supported.
+- Noted [Cruz's (T-TX)](https://www.cruz.senate.gov/) opposition to the bipartisan border deal, the CHIPs and Science Act, and the bipartisan Infrastructure Investment and Jobs Act—all of which Allred supported.
 - Criticized [Cruz (T-TX)](https://www.cruz.senate.gov/) for his support of former President Donald Trump's efforts to overturn President Joe Biden's 2020 victory.
 - [Cruz (T-TX)](https://www.cruz.senate.gov/) "could have supported the peaceful transfer of power in the 2020 presidential election.
 - He instead was the first senator to rise in objection to certifying the electoral vote and one of just six to do so. His actions were a catalyst for what became one of the worst days in our nation's history."
