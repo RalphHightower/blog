@@ -1,12 +1,12 @@
 ---
 layout: post
-tags: [Elon Musk, government funding, government shutdown, continuing resolution, debt ceiling, Trump government disfunction, unelected governance, stopgap agreement, politics,  MSNBC]
+tags: [Elon Musk, government funding, government shutdown, continuing resolution, debt ceiling, Trump government disfunction, unelected governance, stopgap agreement, politics, MSNBC]
 categories: [Donald Trump]
 date: 2024-12-23 12:27 AM
-excerpt: 'Sunday, former White House press secretary Jen Psaki claimed a statement from Donald Trump's incoming press secretary that her boss is "the Leader of the Republican Party. Full stop," is a bad sign for the president-elect.'
+excerpt: "Sunday, former White House press secretary Jen Psaki claimed a statement from Donald Trump's incoming press secretary that her boss is “the Leader of the Republican Party. Full stop,” is a bad sign for the president-elect."
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
-#permalink:
+#permalink:“Enemy Within”
 title: "Government Shutdown: Yea Right... Trump Is In 'Control'"
 ---
 
