@@ -17,14 +17,14 @@ I initially started out putting my opinions of Trump on this page, [Opinions/Don
 
 But it has become too unwieldy to keep it updated, so I switched to the blogging format.
 
-I was an independent voter, prior to Trump. I thought that it was a publicity stunt when he announced his run for president. There was no way in hell that I'd vote for Trump. I didn't think that Trump had a snowballs chance in hell of winning. But watching **The Apprentice: White House** unfold, and watching the sycophants and acolytes of the Trump Party cower in fear of Trump, I'm a Democrat straight party voter until the Trump Party dies and sanity returns returns to the Republican Party.
+I was an independent voter, prior to Trump. I thought that it was a publicity stunt when he announced his run for president. There was no way in hell that I'd vote for Trump. I didn't think that Trump had a snowballs chance in hell of winning. But watching **The Apprentice: White House** unfold, and watching the sycophants and acolytes of the Trump Party cower in fear of Trump, I'm a Democrat straight party voter until the Trump Party dies and sanity returns returns to the [Trumpian Party](https://www.gop.com/).
 
 Both political parties fucked up in 2016!
 
 - The Democrats chose Hillary because it was *"her turn"*.
-- Whereas the Republicans chose the worst of the worst. The Republican Party died in 2016. It is now the Trump Party, and also his legal defense fund for business, personal, and also government legal problems.
+- Whereas the [Trumpians](https://www.gop.com/) chose the worst of the worst. The [Trumpian Party](https://www.gop.com/) died in 2016. It is now the Trump Party, and also his legal defense fund for business, personal, and also government legal problems.
 
-The Republican Party died in July 2016, when the convention chose the most temperamental, volatile, unfit, and unqualified candidate among the *"Dirty Two Dozen"*. It is now known as the Trump Party.
+The [Trumpian Party](https://www.gop.com/) died in July 2016, when the convention chose the most temperamental, volatile, unfit, and unqualified candidate among the *"Dirty Two Dozen"*. It is now known as the Trump Party.
 
 Characteristics of Trump:
 
