@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [Elon Musk, Vivek Ramaswamy, Department of Government Efficiency (DOGE), Department of Commerce (DOC), Department of Defense (DOD), Department of Labor (DOL), Department of Transportation (DOT), Environmental Protection Agency (EPA), Equal Employment Opportunity Commission (EEOC(, Federal Aviation Administration (FAA), Federal Communications Commission (FCC), Federal Trade Commission (FTC), Food and Drug Administration (FDA), Internal Revenue Service (IRS), National Highway Traffic Safety Administration (NHTSA), National Aeronautics and Space Administration (NASA), National Institutes of Health (NIH), Securities and Exchange Commission (SEC), Supreme Court (SCOTUS), Social Security Administration (SSA), Federal Government, Federal Agencies, Tesla, SpaceX, Starlink, X-Twitter, Boring Company, Neuralink, xAI, Roivant Sciences,  Strive Asset Management, politics]
+tags: [Elon Musk, Vivek Ramaswamy, Department of Government Efficiency (DOGE), Department of Commerce (DOC), Department of Defense (DOD), Department of Labor (DOL), Department of Transportation (DOT), Environmental Protection Agency (EPA), Federal Aviation Administration (FAA), Federal Communications Commission (FCC), Federal Trade Commission (FTC), Food and Drug Administration (FDA), Internal Revenit y it yui it y yyiyyuuuiuiuiiiiiii99iiuue Service (IRS), National Highway Traffic Safety Administration (NHTSA), National Aeronautics and Space Administration (NASA), National Institutes of Health (NIH), Securities and Exchange Commission (SEC), Supreme Court (SCOTUS), Social Security Administration (SSA), Federal Government, Federal Agencies, Tesla, SpaceX, Starlink, X-Twitter, Boring Company, Neuralink, xAI, Roivant Sciences,  Strive Asset Management, politics]
 categories: [Donald Trump]
 date: 2024-11-28 10:19 PM
 excerpt: "“These are the people that they’re going to need to review all these regulations. If they really want to make a major dent in the stock of regulations, they’re going to need people who have been working with these regulations day in and day out, and that’s the career civil service staff.” – James Broughel, senior fellow at the Competitive Enterprise Institute"
@@ -18,7 +18,6 @@ title: 'Trump Administration: DOGE Are the Foxes Guarding the Hen Houses'
 - [Department of Labor – DOL](https://www.dol.gov/)
 - [Department of Transportation – DOT](https://www.dot.gov/)
 - [Environmental Protection Agency – EPA](https://www.epa.gov/)
-- [Equal Employment Opportunity Commission (EEOC)](https://www.eroc.gov/)
 - [Federal Aviation Administration – FAA](https://www.faa.gov/)
 - [Federal Communications Commission – FCC](https://www.fcc.gov/)
 - [Federal Drug Administration – FDA](https://www.fda.gov/)
