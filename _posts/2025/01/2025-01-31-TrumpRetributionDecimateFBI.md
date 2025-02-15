@@ -21,6 +21,6 @@ NBC Justice reporter Ryan Reilly and former U.S. Attorney Harry Litman join Nico
 - [White House (WH)](https://www.whitehouse.gov/)
 - [Department of Justice (DOJ)](https://www.justice.gov/)
 - [Federal Bureau of Investigation (FBI)](https://www.fbi.gov/)
-- [Supreme Court (SCOTUS)](https://www.scotus.gov/)
+- [Supreme Court (SCOTUS)](http://www.supremecourtus.gov/)
 - [U.S. Courts (USC)](https://.www.uscourts.gov/)
 
