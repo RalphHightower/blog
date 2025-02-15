@@ -17,7 +17,7 @@ ATLANTA (AP) — From her earliest campaigns in California to her serving as Pre
 
 She tries to blend punch lines with details that build toward a broader narrative. She might shake her head to signal her disapproval while her opponent is speaking, counting on viewers to see her reaction on a split screen. And she has a go-to tactic to pivot debates back in her favor: saying she’s glad to answer a question as she gathers her thoughts to explain an evolving position or defend a past one.
 
-Tuesday’s presidential debate will put the Democratic vice president’s skills to a test unlike any she’s faced. Harris faces former President Donald Trump, the Republican nominee, who will participate in his seventh general election debate since 2016 for an event that will be seen by tens of millions of viewers just as early voting in November’s election starts around the country.
+Tuesday’s presidential debate will put the Democratic vice president’s skills to a test unlike any she’s faced. Harris faces former President Donald Trump, the [Trumpian nominee](https://www.gop.com/), who will participate in his seventh general election debate since 2016 for an event that will be seen by tens of millions of viewers just as early voting in November’s election starts around the country.
 
 People who have competed against Harris and prepared her rivals say she brings a series of advantages to the matchup, including her prosecutorial background juxtaposed with Trump being the first U.S. president convicted of felony crimes. Still, Harris allies warn that Trump can be a challenging and unpredictable opponent who veers between policy critiques, personal attacks, and falsehoods or conspiracy theories.
 
@@ -41,7 +41,7 @@ In the 2020 primary matches, Tulsi Gabbard, who this year has endorsed Trump, bl
 
 That fall, Pence made Harris sometimes struggle to defend Biden’s positions. Now, her task will be to defend not just Biden’s record, but her own role in that record and what policies she would pursue as president.
 
-Short, one of Pence’s top aides, noted that Republicans and the media have raised questions about more liberal positions Harris took in her 2020 primary campaign, especially on fracking, universal healthcare, reparations for slavery and how to treat migrants who cross the U.S. border illegally.
+Short, one of Pence’s top aides, noted that [Trumpians](https://www.gop.com/) and the media have raised questions about more liberal positions Harris took in her 2020 primary campaign, especially on fracking, universal healthcare, reparations for slavery and how to treat migrants who cross the U.S. border illegally.
 
 “We were surprised that she missed some opportunities (against Pence) when the conversation was centered around policy,” Short said.
 
@@ -49,7 +49,7 @@ Short, one of Pence’s top aides, noted that Republicans and the media have rai
 
 One of Harris’ earliest debate triumphs came in 2010 as she ran for California attorney general. Her opponent was asked about his plans to accept his public pension while still being paid a salary for a current public post.
 
-“I earned it,” Republican Steve Cooley said of the so-called “double-dipping” practice.
+“I earned it,” [Trumpian](https://www.gop.com/) Steve Cooley said of the so-called “double-dipping” practice.
 
 Harris looked on silently, with a slightly amused look as Cooley explained himself. When moderators recognized her, she said just seven words – “Go for it, Steve. You earned it!” — in a serious tone but with a look that communicated her sarcasm. The exchange landed in her television ads within days.
 
@@ -70,5 +70,3 @@ Castro noted that Trump is “a nasty and crafty stage presence” who makes pre
 “The best thing she can do,” Castro said, “is not get distracted by his antics.”
 
 @RalphHightower: During Trump's third presidential race, his *"tossed salad of words"* have sounded more like gibberish. During his first run for president, he talked like a five year old, and that is disparaging to five year olds.<br />My mother taught high school English and she instilled the proper use of English and grammar. As such, I cannot listen to Donald Trump speak and mangle words and grammar. It is like listening to fingernails screech across a blackboard.
-
-
