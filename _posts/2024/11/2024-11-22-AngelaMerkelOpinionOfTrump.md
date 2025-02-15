@@ -16,7 +16,7 @@ title: "Angela Merkel Assessment of Donald Trump"
 Story by AP. November 22, 2024.
 
 - **Merkel's Reflections on Trump](https://x.com/realdonaldtrump)**: Former German Chancellor Angela Merkel expressed "sorrow" at Donald [Trump's](https://x.com/realdonaldtrump) return to power, describing her interactions with him as competitive and challenging for multilateralism.
-- **Tense Relations**: Merkel recalled the tense period during [Trump's](https://x.com/realdonaldtrump)'s first term, highlighting a notable incident where Trump](https://x.com/realdonaldtrump) refused a handshake during a 2017 visit.
+- **Tense Relations**: Merkel recalled the tense period during [Trump's](https://x.com/realdonaldtrump) first term, highlighting a notable incident where Trump](https://x.com/realdonaldtrump) refused a handshake during a 2017 visit.
 - **Trump](https://x.com/realdonaldtrump) Approach**: Merkel noted that Trump](https://x.com/realdonaldtrump) was curious and sought details to use for his advantage, emphasizing his competitive nature in meetings.
 - **Election Disappointment**: Merkel was disappointed by [Trump](https://x.com/realdonaldtrump) victory over Kamala Harris in the recent election, as well as Hillary Clinton's loss in 2016.
 
