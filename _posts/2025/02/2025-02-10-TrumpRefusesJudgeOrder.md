@@ -37,7 +37,7 @@ The ruling doesn't apply to other spending pauses outlined in different memos, i
 
 But McConnell, who is based in Rhode Island and was nominated by President Barack Obama, said his order blocked the administration from a wide range of funding cuts.
 
-The [Republican administration](https://www.whitehouse.gov/) previously said the sweeping funding pause would bring federal spending in line with the [president’s agenda](https://www.whitehouse.gov/), and the [White House](https://www.whitehouse.gov/) press secretary has indicated some spending halts would continue as part of his blitz of executive orders.
+The [Trumpian administration](https://www.whitehouse.gov/) previously said the sweeping funding pause would bring federal spending in line with the [president’s agenda](https://www.whitehouse.gov/), and the [White House](https://www.whitehouse.gov/) press secretary has indicated some spending halts would continue as part of his blitz of executive orders.
 
 A different federal judge in Washington has issued a temporary restraining order against the funding freeze plan and since expressed concern that some nonprofit groups weren’t getting their funding.
 
