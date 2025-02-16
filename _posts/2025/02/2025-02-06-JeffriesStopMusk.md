@@ -2,7 +2,7 @@
 layout: post
 tags: [MSNBC, TaxpayerData Protection Act, Hakeem Jeffries (D-NY8), Haley Stevens (D-MI11), Katherine Clark (D-MI8), Pete Aguilar (D-CA33), Treasury Department, Bureau of Fiscal Service, Tax Data Protection Act, Department of Government Efficiency (DOGE), White House (WH,), President Of The United States (POTUS), Elon Musk, Boring, Neuralink, SpaceX, Starlink, Tesla, Twitter, X, xAI, politics]
 categories: [Donald Trump]
-date: 2025-02-06 11:20 AM
+date: 2025-02-06 2:49 PM
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:

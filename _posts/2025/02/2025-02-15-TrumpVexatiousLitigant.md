@@ -2,7 +2,7 @@
 layout: post
 tags: [Salan, White House (WH), President Of The United States (POTUS), US Courts (USCOURTS), Supreme Court of the United States (SCOTUS), politics]
 categories: [Donald Trump]
-date: 2025-02-15 5:24 PM
+date: 2025-02-15 2:38 PM
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
