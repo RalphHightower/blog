@@ -18,5 +18,5 @@ title: "You Got To Know When To Hold Them. Know When To Fold Them. Trump Folded 
 Feb 3, 2025  #marytrump [#trumpcabinet](https://www.whitehouse.gov/) [#donaldtrump](https://www.whitehouse.gov/)
 [Donald Trump](https://www.whitehouse.gov/)talked a big game last weekend, placing tariffs on America's greatest allies. Luckily, [Mexico](https://www.gob.mx/) and [Canada](https://www.canada.ca/) punched back! Mary Trump has the story. 
 
-[Canada (CA)](https://www.canada.ca/)
-[Mexico (MX)](https://www.gob.mx/)
+- [Canada (CA)](https://www.canada.ca/)
+- [Mexico (MX)](https://www.gob.mx/)

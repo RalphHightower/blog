@@ -25,6 +25,6 @@ As Donald Trump rushes beyond the bounds of his authority to dismantle the U.S. 
 
 - [White House](https://www.whitehouse.gov/)
 - [US Courts](https://www.uscourts.gov/)
-- [Supreme Court](https://www.scotus.gov/)
+- [Supreme Court](http://www.supremecourtus.gov/)
 - [Constitution](https://constitution.congress.gov/)
 

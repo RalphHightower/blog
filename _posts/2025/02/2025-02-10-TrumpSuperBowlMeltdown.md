@@ -31,7 +31,7 @@ Trump thought he could control the narrative, but his Super Bowl interviews were
 - [Department of Defense](https://www.defense.gov/)
 - no FBI background check
 - lawsuits
-- [Supreme Court](https://www.scotus.gov/)
+- [Supreme Court](http://www.supremecourtus.gov/)
 - [Twitter](https://twitter.com/)
 - [ X ](https://x.com/)
 - job cuts
