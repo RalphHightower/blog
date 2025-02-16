@@ -1,14 +1,13 @@
 ---
 layout: post
-tags: [Salan,
-politics]
+tags: [Salan, White House (WH), President Of The United States (POTUS), US Courts (USCOURTS), Supreme Court of the United States (SCOTUS), politics]
 categories: [Donald Trump]
 date: 2025-02-15 5:24 PM
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: 'title'
+title: "US Courts Should Tell Trump: Obey Our Orders and Maybe We'll Schedule a Court Date For Your Vexatious SLAPP"
 ---
 
 
