@@ -1,13 +1,13 @@
 ---
 layout: post
-tags: []
-categories: []
-#date: 2019-06-25 13:14:15
-#excerpt: ''
+tags: [Bureau of the Fiscal Service, Treasury Department, Department of Government Efficiency (DOGE), Social Security Administration (SSA), Internal Revenue Service (IRS), politics]
+categories: [Donald Trump]
+date: 2025-02-05 11:18 AM
+excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: 'title'
+title: "Massive Data Breach In Treasury. Millions of Personal Identifiable Information Stolen"
 ---
 
 
@@ -46,3 +46,5 @@ However, the [Bureau of the Fiscal Service](http://www.fiscal.treasury.gov/) **c
 - [Department of Government Efficiency (DOGE)](https://doge.com/)
 - [Social Security Administration (SSA)](https://www.ssa.gov/)
 - [Internal Revenue Service (IRS)](https://www.irs.gov/)
+- [White House (WH)](https://www.washingtonpost.com)
+- [President Of The United States (POTUS)](https;//whitehouse.gov/)
