@@ -1,30 +1,42 @@
 ---
 layout: post
-tags: [MSNBC, Volodymyr Zelenskyy, Ukraine, Vladimir Putin, Russia, Office of the Director of National Intelligence (ODNI), North Atlantic Treaty Organization (NATO), Education Department (ED), White House (WH), President Of The United States (POTUS), politics]
+tags: [MSNBC, TaxpayerData Protection Act, Hakeem Jeffries (D-NY8), Haley Stevens (D-MI11), Katherine Clark (D-MI8), Pete Aguilar (D-CA33), Treasury Department, Bureau of Fiscal Service, Tax Data Protection Act, Department of Government Efficiency (DOGE), White House (WH,), President Of The United States (POTUS), Elon Musk, Boring, Neuralink, SpaceX, Starlink, Tesla, Twitter, X, xAI, politics]
 categories: [Donald Trump]
-date: 2025-02-13 11:17 AM
+date: 2025-02-06 11:20 AM
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: "Federal Civil Servants Enjoy Making a Difference."
+title: "Taxpayer Data Protection Act to Clip President Musk"
 ---
 
 
-## Trump and Musk were wrong about government employees — they actually want to work
+## ‘Billionaire puppet master!’: Jeffries moves to STOP 'out of control' Elon Musk
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kF1Dunfk_ko?si=7-C_fWbHM7cxwWdh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qQuQs-EXg88?si=WK1CW1DSBcrblFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Feb 13, 2025  #federalemployees [#ElonMusk](https://x.com/,elonmusk/) [#Trump](https://www.whitehouse.gov/)
-[President Trump](https://www.whitehouse.gov/) spent his day calling the [Education Department](https://www.ed.gov/) a con job, telling America that [Putin](http://kremlin.ru/) would be visiting sometime soon, and seeing his new [DNI](https://dni.gov/) [Tulsi Gabbard]() sworn in. Plus, big news for the [Trump administration's](https://www.whitehouse.gov/) plan to offer buyouts to 2 million federal employees. Ahmed Baba, Evan McMorris-Santoro, and Allan Smith join Stephanie Ruhle for The 11th Hour Nightcap.
-5% general attrition. [Ukraine](https://www.gov.ua/) not getting [NATO membership](https://www.nato.int/), not getting land back. 
+Feb 6, 2025  #msnbc #elonmusk #hakeemjeffries
 
-- [Volodymyr Zelenskyy](https://www.president.gov.ua/)
-- [Ukraine](https://www.gov.ua/)
-- [Vladimir Putin](http://kremlin.ru/)
-- [Russia](http://government.ru/)
-- [Office of the Director of National Intelligence (ODNI)](https://www.dni.gov/)
-- [North Atlantic Treaty Organization (NATO)](https://www.nato.int/)
-- [Education Department (ED)](https://www.ed.gov/)
-- [White House (WH)](https://www.whitehouse.gov/)
+House Minority Leader [Hakeem  (D-NY8)](https://jeffries.house.gov/), alongside House Democratic Caucus leadership hosted a press conference, where they announced a plan to introduce a bill titled the Taxpayer Data Protection Act, with the purpose "to shield the American people from this out of control power grab permanently, and to make sure that the financial, personal, medical and confidential information of the American people is protected," as stated by [Jeffries](https://jeffries.house.gov/).
+
+- TaxpayerData Protection Act
+- [Jeffries, Hakeem (D-NY8)](https://jeffries.house.gov/)
+- [Stevens, Haley (D-MI11)](https://stevens.house.gov/)
+- [Clark, Katherine (D-MI8)](https://katherineclark.house.gov/index.cfm/home)
+- [Aguilar, Pete (D-CA33)](https://aguilar.house.gov/)
+- [Treasury Department](https://home.treasury.gov/)
+- [Bureau of Fiscal Service]()
+- [Tax Data Protection Act]()
+- [Department of Government Efficiency (DOGE)](https://doge.gov/)
+- [White House (WH,)](https://www.whitehouse.gov/)
 - [President Of The United States (POTUS)](https://www.whitehouse.gov/)
+- [Elon Musk](https://x.com/elonmusk/)
+- [Boring](https:://www.boringcompany.com/)
+- [Neuralink](https://neuralink.com/)
+- [SpaceX](https://www.spacex.com/)
+- [Starlink](https://www.starlink.com/)
+- [Tesla](https://www.tesla.com/)
+- [Twitter](https://twitter.com/)
+- [ X ](https://x.com/)
+- [xAI](https://x.ai/)
+- politics
