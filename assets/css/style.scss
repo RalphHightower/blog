@@ -3,5 +3,5 @@
 ---
 
 @use
-  "minima/skins/{{ site.minima.skin | default: 'classic' }}",
-  "minima/initialize";
+  "minima/skins/{{ site.minima.skin | default: 'classic' }}";
+@use  "minima/initialize";
