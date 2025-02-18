@@ -72,7 +72,7 @@ Sec. 3.  Terminating Illegal Discrimination in the Federal Government.  (a)  The
 (iv)   The Presidential Memorandum of October 5, 2016 (Promoting Diversity and Inclusion in the National Security Workforce).
 (b)  The Federal contracting process shall be streamlined to enhance speed and efficiency, reduce costs, and require Federal contractors and subcontractors to comply with our civil-rights laws.  Accordingly:
 (i)    Executive Order 11246 of September 24, 1965 (Equal Employment Opportunity), is hereby revoked.  For 90 days from the date of this order, Federal contractors may continue to comply with the regulatory scheme in effect on January 20, 2025.
-(ii)   The Office of [Federal Contract Compliance Program](shttps://www.dol.gov/agencies/ofccp) within the [Department of Labor](https://www.dol.gov/( shall immediately cease:
+(ii)   The Office of [Federal Contract Compliance Program](shttps://www.dol.gov/agencies/ofccp) within the [Department of Labor](https://www.dol.gov/) shall immediately cease:
 (A)  Promoting “diversity”;
 (B)  Holding Federal contractors and subcontractors responsible for taking “affirmative action”; and
 (C)  Allowing or encouraging Federal contractors and subcontractors to engage in workforce balancing based on race, color, sex, sexual preference, religion, or national origin.
