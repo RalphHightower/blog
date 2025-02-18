@@ -2,7 +2,7 @@
 layout: post
 tags: [Mary Trump Media, US Department of Agriculture (USDA), US Aid for International Development (USAID), Department of Justice (DOJ), National Labor Relations Board (NLRB), Securities and Exchange Commission (SEC), Federal Aviation Administration (FAA), Consumer Finance Protection Bureau (CFPB), Federal Communications (FCC), Department of Defense (DOD), Equal Employment Opportunity Commission (EEOC), US Courts (USCOURTS), Department of Government Efficiency (DOGE), White House (WH), President Of The United States (POTUS), Elon Musk, Boring, Neuralink, SpaceX, Starlink, Tesla, Twitter, X, xAI, Inspector Generals, $13 billions in government contracts, Grift, Corruption, Conflict of interest, politics]
 categories: [Donald Trump]
-date: 2025-02-14 6:04 PM
+date: 2025-02-14 10:52 AM
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:

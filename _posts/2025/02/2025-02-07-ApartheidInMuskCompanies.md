@@ -72,7 +72,7 @@ Sec. 3.  Terminating Illegal Discrimination in the Federal Government.  (a)  The
 (iv)   The Presidential Memorandum of October 5, 2016 (Promoting Diversity and Inclusion in the National Security Workforce).
 (b)  The Federal contracting process shall be streamlined to enhance speed and efficiency, reduce costs, and require Federal contractors and subcontractors to comply with our civil-rights laws.  Accordingly:
 (i)    Executive Order 11246 of September 24, 1965 (Equal Employment Opportunity), is hereby revoked.  For 90 days from the date of this order, Federal contractors may continue to comply with the regulatory scheme in effect on January 20, 2025.
-(ii)   The Office of [Federal Contract Compliance Program](shttps://www.dol.gov/agencies/ofccp) within the [Department of Labor](https://www.dol.gov/( shall immediately cease:
+(ii)   The Office of [Federal Contract Compliance Program](shttps://www.dol.gov/agencies/ofccp) within the [Department of Labor](https://www.dol.gov/) shall immediately cease:
 (A)  Promoting “diversity”;
 (B)  Holding Federal contractors and subcontractors responsible for taking “affirmative action”; and
 (C)  Allowing or encouraging Federal contractors and subcontractors to engage in workforce balancing based on race, color, sex, sexual preference, religion, or national origin.
@@ -111,3 +111,32 @@ Sec. 8.  General Provisions.  (a)  Nothing in this order shall be construed to i
 THE [WHITE HOUSE](https://www.whitehouse.gov/),
 January 21, 2025.
 
+## [EEOC Sues Tesla for Racial Harassment and Retaliation / U.S. Equal Employment Opportunity Commission](https://www.eeoc.gov/newsroom/eeoc-sues-tesla-racial-harassment-and-retaliation)
+
+Press Release
+09-28-2023
+
+Federal Lawsuit Alleges Black Employees Endured Open Hostility and Racism
+FREMONT, Calif. – Electric car maker Tesla, Inc., violated federal law by tolerating widespread and ongoing racial harassment of its Black employees and by subjecting some of these workers to retaliation for opposing the harassment, the U.S. Equal Employment Opportunity Commission (EEOC) charged in a lawsuit filed today.
+
+According to the EEOC’s suit, since at least 2015 to the present, Black employees at Tesla’s Fremont, California manufacturing facilities have routinely endured racial abuse, pervasive stereotyping, and hostility as well as epithets such as variations of the N-word, “monkey,” “boy,” and “black b*tch.” Slurs were used casually and openly in high-traffic areas and at worker hubs. Black employees regularly encountered graffiti, including variations of the N-word, swastikas, threats, and nooses, on desks and other equipment, in bathroom stalls, within elevators, and even on new vehicles rolling off the production line, the EEOC said.
+
+The EEOC’s investigation also found that those who raised objections to racial hostility suffered various forms of retaliation, including terminations, changes in job duties, transfers, and other adverse employment actions.
+
+The EEOC investigated Tesla after EEOC Chair Charlotte A. Burrows filed a commissioner’s charge alleging that Tesla violated Title VII of the Civil Rights Act of 1964 by subjecting Black employees to an unlawful hostile work environment and retaliating against employees for opposing harassment. Title VII prohibits racial harassment and requires employers who receive harassment complaints to take prompt and appropriate action to investigate and stop it.
+
+After first attempting to reach a pre-litigation settlement through conciliation, the EEOC filed its lawsuit (EEOC v Tesla, Inc., Case No. 4:23-cv-04984) in U.S. District Court for the Northern District of California. The EEOC’s lawsuit seeks compensatory and punitive damages, and back pay for the affected workers, as well as injunctive relief designed to reform Tesla’s employment practices to prevent such discrimination in the future.
+
+“Combatting systemic harassment in workplaces is a key strategic enforcement priority for the EEOC. Unfortunately, as the lawsuits EEOC has filed this fiscal year show, racial harassment remains a persistent problem in employment. Every employee deserves to have their civil rights respected, and no worker should endure the kind of shameful racial bigotry our investigation revealed,” said Burrows. “Today’s lawsuit makes clear that no company is above the law, and the EEOC will vigorously enforce federal civil rights protections to help ensure American workplaces are free from unlawful harassment and retaliation.”
+
+EEOC San Francisco District Office Director Nancy Sienko said, “When you let a standard slip, you’ve set a new standard. Determining that prolific racial slurs do not merit serious discipline and failing to correct harassing conduct sends an entirely wrong message to employees. It also violates an employer’s legal responsibility to act swiftly and effectively to stop race-based harassment.”
+
+EEOC San Francisco District Office Regional Attorney Roberta L. Steele said, “The allegations in this case are disturbing. No worker should have to endure racial harassment and retaliation to earn a living six decades after the enactment of Title VII.”
+
+[For more information on race discrimination, please visit https://www.eeoc.gov/racecolor-discrimination. For more information on harassment, please visit](https://www.eeoc.gov/harassment.)
+
+The litigation of this case will be led by Senior Trial Attorney James Baker and Assistant Regional Attorney Marcia Mitchell.
+
+The suit was brought by the EEOC’s San Francisco District Office, which has jurisdiction over Northern California, Northern Nevada, Oregon, Washington, Alaska, Idaho and Montana. The San Francisco District has offices in Oakland, San Francisco, San Jose, and Seattle.
+
+The EEOC advances opportunity in the workplace by enforcing federal laws prohibiting employment discrimination. More information is available at www.eeoc.gov. Stay connected with the latest EEOC news by subscribing to our email updates.
