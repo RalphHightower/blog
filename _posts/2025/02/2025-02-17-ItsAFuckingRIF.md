@@ -1,8 +1,8 @@
 ---
 layout: post
-tags: []
-categories: []
-date: 2019-06-25 13:14:15
+tags: [USA Today, reduction in force (RIF), U.S. Department of Education (ED), U.S. Department of Agriculture (USDA), Natural Resources Conservation Service (NRCS), U.S. Department of Veterans Affairs (VA), U.S. Forest Service, National Park Service, U.S. Fish and Wildlife Service (FWS), Land Management and Reclamation, Bureau of Land Management (BLM), Department of Government Efficiency (DOGE), President Of The United States (POTUS), White House (WH), Elon Musk, Boring, Neuralink, SpaceX, Starlink, Tesla, Twitter, X, xAI, politics]
+categories: [Donald Trump]
+date: 2025-02-17 10:56 PM
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
@@ -17,10 +17,10 @@ Story by Zac Anderson and Terry Collins, USA TODAY. February 17, 2025
 
 1. Federal employees are upset about the performance language in their termination letters, arguing that it is not true and unfairly impacts their work records.
 2. Many fired employees claim they were never informed of performance issues before being terminated.
-3. The mass terminations began after the Trump administration offered buyouts and targeted probationary employees.
+3. The mass terminations began after the [Trump administration](https://www.whitehouse.gov/) offered buyouts and targeted probationary employees.
 4. Some workers are concerned that the performance language in the letters might affect their ability to file for unemployment benefits and find new jobs.
 5. Labor attorneys suggest that the performance language might be "boilerplate" and used to avoid triggering legal requirements for a reduction in force.
-6. The White House defends the terminations as part of a broader effort to cut federal agencies and reduce waste, fraud, and abuse.
+6. The [White House](https://www.whitehouse.gov/) defends the terminations as part of a broader effort to cut federal agencies and reduce waste, fraud, and abuse.
 7. Fired workers plan to challenge their dismissals, citing good performance records and the emotional and financial impact of losing their jobs.
 8. Probationary employees are unlikely to win legal challenges against their terminations unless they can prove discrimination based on race, age, or another protected status.
 
@@ -36,34 +36,35 @@ Rinckey said probationary employees are unlikely to win in court if they challen
 
 “The government can terminate anyone during their probationary period. Do I think they have any legal protections? Probably not,” Rinckey said, adding that they’d have to prove discrimination on the basis of race, age or another protected status.
 
-Not directly address the language in the letters, White House spokesperson Harrison Fields:
+Not directly address the language in the letters, [White House](https://www.whitehouse.gov/) spokesperson Harrison Fields:
 
-- “President Trump returned to Washington with a mandate from the American people to bring about unprecedented change in our federal government to uproot waste, fraud, and abuse. This isn’t easy to do in a broken system entrenched in bureaucracy and bloat, but it’s a task long overdue.” 
+- “[President Trump](https://www.whitehouse.gov/) returned to Washington with a mandate from the American people to bring about unprecedented change in our federal government to uproot waste, fraud, and abuse. This isn’t easy to do in a broken system entrenched in bureaucracy and bloat, but it’s a task long overdue.” 
 
-- U.S. Department of Education (1):
-- U.S. Department of Agriculture (1):
-- Natural Resources Conservation Service (1):
-- U.S. Forest Service (4):
+- [U.S. Department of Education (ED)](https://www.ed.gov/) (1):
+- [U.S. Department of Agriculture (USDA)](https://www.usda.gov/) (1):
+- [Natural Resources Conservation Service](https://www.nrcs.usda.gov/) (1):
+- [U.S. Forest Service](https://www.fs.usda.gov/) (4):
 
     - “The Agency finds, based on your performance, that you have not demonstrated that your further employment at the Agency would be in the public interest.” 
     
-Edith Robinson, 32, a fired Forest Service worker who performed hiking trail maintenance in Montana:
+Edith Robinson, 32, a fired [Forest Service](https://www.fs.usda.gov/) worker who performed hiking trail maintenance in Montana:
 - “This is not personal, this is a government takeover. For me personally, I read it as a biased opinion of what is in the public interest.”
 
 ### 'An illegal termination'
 
-Fired U.S. Department of Veterans Affairs data scientist Elena Moseyko was incensed to see that her termination letter mentioned her performance. Moseyko said she has “an excellent performance record” and plans to challenge her dismissal.
+Fired [U.S. Department of Veterans Affairs](https://www.va.gov/) data scientist Elena Moseyko was incensed to see that her termination letter mentioned her performance. Moseyko said she has “an excellent performance record” and plans to challenge her dismissal.
 
 “This was an illegal termination,” Moseyko said, adding: “They terminated thousands of people, and thousands of people cannot possibly all have bad performance. It’s not possible. So basically this is illegal.”
 
-Chris Johnson, who was fired from his job in Arizona with the Natural Resources Conservation Service, believes that highlighting his performance in the letter gives him grounds to challenge his termination because he can point to successful performance reviews.
+Chris Johnson, who was fired from his job in [Arizona](https://www.az.gov/) with the [Natural Resources Conservation Service](https://www.nrcs.usda.gov/), believes that highlighting his performance in the letter gives him grounds to challenge his termination because he can point to successful performance reviews.
 
 “To me, that gives me legal grounds to appeal," he said.
 
 Aside from having their job performance questioned, terminated workers also were grappling with financial issues and the emotional impact of losing jobs they find meaningful.
 
-'Dream job'
-Longtime environmentalist Brian Gibbs said he lost his "dream job" as a park ranger with the National Park Service at Effigy Mounds National Monument in Harpers Ferry, Iowa. Gibbs, 41, got his termination letter Friday via email from his supervisor.
+### 'Dream job'
+
+Longtime environmentalist Brian Gibbs said he lost his "dream job" as a park ranger with the [National Park Service](https://www.nps.gov/index.htm) at [Effigy Mounds National Monument](https://www.nps.gov/efmo/index.htm) in [Harpers Ferry](https://harpersferryiowa.com/), [Iowa](https://www.iowa.gov/). Gibbs, 41, got his termination letter Friday via email from his supervisor.
 
 Gibbs describes himself as "the smiling face that greets you at the front door" at the visitors center. He gave tours and delivered presentations at schools about the 2,500-year-old American Indian burial and ceremonial mounds at the site. He said he grew up coming to the area as a child, fascinated with all things nature.
 
@@ -73,13 +74,13 @@ It's also the site where Gibbs first told his now-wife Emily that he loved her a
 
 ### 'I just got here'
 
-Hayley Robinson, 27, had barely started as a biologist for the U.S. Fish and Wildlife Service when she learned during an online meeting with 400 probationary employees in her department Friday that they no longer had their jobs.
+Hayley Robinson, 27, had barely started as a biologist for the [U.S. Fish and Wildlife Service](https://www.fws.gov/) when she learned during an online meeting with 400 probationary employees in her department Friday that they no longer had their jobs.
 
-Robinson said the devastating part is she and her partner relocated more than 1,700 miles from Champaign, Illinois, to Las Vegas for Robinson's new job. They still have unpacked boxes in their newly leased rental home.
+Robinson said the devastating part is she and her partner relocated more than 1,700 miles from [Champaign](https://champaignil.gov/), [Illinois](https://www.illinois.gov/), to [Las Vegas](https://www.lasvegasnevada.gov/) for Robinson's new job. They still have unpacked boxes in their newly leased rental home.
 
 "This was my first biologist position that I worked so hard for and it was ripped away from me," said Robinson tearfully. "I feel very vulnerable and scared about my future."
 
-Robinson was still connecting with her counterparts at the Land Management and Reclamation bureaus on what projects she would consult them on how to mitigate the effects of their proposed projects from potentially harming federally protected threatened and endangered species."I hadn’t been assigned my first official consultation yet," Robinson said, tearfully. "I didn't even get the chance to get to know my coworkers; To decorate my desk. I just got here. It's terrible."
+Robinson was still connecting with her counterparts at the [Land Management and Reclamation](https://www.blm.gov/programs/energy-and-minerals/oil-and-gas/reclamation) bureaus on what projects she would consult them on how to mitigate the effects of their proposed projects from potentially harming federally protected threatened and endangered species. "I hadn’t been assigned my first official consultation yet," Robinson said, tearfully. "I didn't even get the chance to get to know my coworkers; To decorate my desk. I just got here. It's terrible."
 
 Robinson said what's sad is many Americans don't know who the dismissed federal workers are or what they do.
 
@@ -87,7 +88,7 @@ Robinson said what's sad is many Americans don't know who the dismissed federal 
 
 ### 'Termination not performance-based'
 
-Harmon, 26, worked for the Forest Service in Emmett, Idaho, on a timber marking crew that helped prepare tracts of timber on federal land for harvesting by loggers.
+Harmon, 26, worked for the [Forest Service](https://www.fs.usda.gov/) in [Emmett](https://www.cityofemmett.org/), [Idaho](https://www.idaho.gov/), on a timber marking crew that helped prepare tracts of timber on federal land for harvesting by loggers.
 
 The job brings in money for the government and also helps with fire prevention because the crews make sure the harvesting is done in a way that makes the forest more fire-resilient.
 
@@ -136,47 +137,72 @@ Does this help clarify the situation?
 
 EXECUTIVE ORDER
 February 11, 2025
-By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered:
+By the authority vested in me as [President](https://www.whitehouse.gov/) by the (Constitution](https://constitution.congress.gov/) and the laws of the United States of America, it is hereby ordered:
 
 Section 1.  Purpose.  To restore accountability to the American public, this order commences a critical transformation of the Federal bureaucracy.  By eliminating waste, bloat, and insularity, my Administration will empower American families, workers, taxpayers, and our system of Government itself.
 
-Sec. 2.  Definitions.  (a)  “Agency” has the meaning given to it in section 3502 of title 44, United States Code, except that such term does not include the Executive Office of the President or any components thereof.
+Sec. 2.  Definitions.  (a)  “Agency” has the meaning given to it in section 3502 of title 44, United States Code, except that such term does not include the [Executive Office](https://www.whitehouse.gov/) of the [President](https://www.whitehouse.gov/) or any components thereof.
 (b)  “Agency Head” means the highest-ranking official of an agency, such as the Secretary, Administrator, Chairman, or Director, unless otherwise specified in this order.
-(c)  “DOGE Team Lead” means the leader of the Department of Government Efficiency (DOGE) Team at each agency, as defined in Executive Order 14158 of January 20, 2025 (Establishing and Implementing the President’s “Department of Government Efficiency”).
-(d)  “Employee” has the meaning given to it by section 2105 of title 5, United States Code, and includes individuals who serve in the executive branch and who qualify as employees under that section for any purpose.
+(c)  “[DOGE](https://doge.gov/)” means the leader of the [Department of Government Efficiency (DOGE)](https://doge.gov/) Team at each agency, as defined in [Executive Order 14158 of January 20, 2025 (Establishing and Implementing the President’s “Department of Government Efficiency”)](https://www.whitehouse.gov/presidential-actions/2025/01/establishing-and-implementing-the-presidents-department-of-government-efficiency/).
+(d)  “Employee” has the meaning given to it by [section 2105 of title 5, United States Code](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section2105&num=0&edition=prelim), and includes individuals who serve in the executive branch and who qualify as employees under that section for any purpose.
 (e)  “Immigration enforcement” means the investigation, enforcement, or assisting in the investigation or enforcement of Federal immigration law, including with respect to Federal immigration law that penalizes a person’s presence in, entry, or reentry to, or employment in, the United States, but does not include assisting individuals in applying for immigration benefits or efforts to prevent enforcement of immigration law or to prevent deportation or removal from the United States.
 (f)  “Law enforcement” means:
 (i)   engagement in or supervision of the prevention, detection, investigation, or prosecution of, or the incarceration of any person for, any violation of law; or
 (ii)  the protection of Federal, State, local, or foreign government officials against threats to personal safety.
-(g)  “Temporary employee” has the meaning given to it in 5 C.F.R. part 316.
-(h)  “Reemployed annuitant” has the meaning given to it in 5 C.F.R. part 837.
+(g)  “Temporary employee” has the meaning given to it in [5 C.F.R. part 316](https://www.ecfr.gov/current/title-5/chapter-I/subchapter-B/part-316).
+(h)  “Reemployed annuitant” has the meaning given to it in [5 C.F.R. part 837](https://www.ecfr.gov/current/title-5/chapter-I/subchapter-B/part-837).
 
-Sec. 3.  Reforming the Federal Workforce to Maximize Efficiency and Productivity.  (a)  Hiring Ratio.  Pursuant to the Presidential Memorandum of January 20, 2025 (Hiring Freeze), the Director of the Office of Management and Budget shall submit a plan to reduce the size of the Federal Government’s workforce through efficiency improvements and attrition (Plan).  The Plan shall require that each agency hire no more than one employee for every four employees that depart, consistent with the plan and any applicable exemptions and details provided for in the Plan.  This order does not affect the standing freeze on hiring as applied to the Internal Revenue Service.  This ratio shall not apply to functions related to public safety, immigration enforcement, or law enforcement.  Agency Heads shall also adhere to the Federal Hiring Plan that will be promulgated pursuant to Executive Order 14170 of January 20, 2025 (Reforming the Federal Hiring Process and Restoring Merit to Government Service).
-(b)  Hiring Approval.  Each Agency Head shall develop a data-driven plan, in consultation with its DOGE Team Lead, to ensure new career appointment hires are in highest-need areas.
-(i)    This hiring plan shall include that new career appointment hiring decisions shall be made in consultation with the agency’s DOGE Team Lead, consistent with applicable law.
-(ii)   The agency shall not fill any vacancies for career appointments that the DOGE Team Lead assesses should not be filled, unless the Agency Head determines the positions should be filled.
-(iii)  Each DOGE Team Lead shall provide the United States DOGE Service (USDS) Administrator with a monthly hiring report for the agency.
-(c)  Reductions in Force.  Agency Heads shall promptly undertake preparations to initiate large-scale reductions in force (RIFs), consistent with applicable law, and to separate from Federal service temporary employees and reemployed annuitants working in areas that will likely be subject to the RIFs.  All offices that perform functions not mandated by statute or other law shall be prioritized in the RIFs, including all agency diversity, equity, and inclusion initiatives; all agency initiatives, components, or operations that my Administration suspends or closes; and all components and employees performing functions not mandated by statute or other law who are not typically designated as essential during a lapse in appropriations as provided in the Agency Contingency Plans on the Office of Management and Budget website.  This subsection shall not apply to functions related to public safety, immigration enforcement, or law enforcement.
-(d)  Rulemaking.  Within 30 days of the date of this order, the Director of the Office of Personnel Management (OPM) shall initiate a rulemaking that proposes to revise 5 C.F.R. 731.202(b) to include additional suitability criteria, including:
+Sec. 3.  Reforming the Federal Workforce to Maximize Efficiency and Productivity.  (a)  Hiring Ratio.  Pursuant to the [Presidential Memorandum of January 20, 2025 (Hiring Freeze)](https://www.whitehouse.gov/presidential-actions/2025/01/hiring-freeze/), the Director of the [Office of Management and Budget](https://www.whitehouse.gov/omb/) shall submit a plan to reduce the size of the Federal Government’s workforce through efficiency improvements and attrition (Plan).  The Plan shall require that each agency hire no more than one employee for every four employees that depart, consistent with the plan and any applicable exemptions and details provided for in the Plan.  This order does not affect the standing freeze on hiring as applied to the [Internal Revenue Service](https://www.irs.gov/).  This ratio shall not apply to functions related to public safety, immigration enforcement, or law enforcement.  Agency Heads shall also adhere to the Federal Hiring Plan that will be promulgated pursuant to [Executive Order 14170 of January 20, 2025 (Reforming the Federal Hiring Process and Restoring Merit to Government Service)](https://www.whitehouse.gov/presidential-actions/2025/01/reforming-the-federal-hiring-process-and-restoring-merit-to-government-service/).
+(b)  Hiring Approval.  Each Agency Head shall develop a data-driven plan, in consultation with its [DOGE](https://doge.gov/), to ensure new career appointment hires are in highest-need areas.
+(i)    This hiring plan shall include that new career appointment hiring decisions shall be made in consultation with the agency’s [DOGE](https://doge.gov/), consistent with applicable law.
+(ii)   The agency shall not fill any vacancies for career appointments that the [DOGE](https://doge.gov/) assesses should not be filled, unless the Agency Head determines the positions should be filled.
+(iii)  Each [DOGE](https://doge.gov/) Team Lead shall provide the United States [DOGE](https://doge.gov/) Service (USDS) Administrator with a monthly hiring report for the agency.
+(c)  Reductions in Force.  Agency Heads shall promptly undertake preparations to initiate large-scale reductions in force (RIFs), consistent with applicable law, and to separate from Federal service temporary employees and reemployed annuitants working in areas that will likely be subject to the RIFs.  All offices that perform functions not mandated by statute or other law shall be prioritized in the RIFs, including all agency diversity, equity, and inclusion initiatives; all agency initiatives, components, or operations that my [Administration](https://www.whitehouse.gov/) suspends or closes; and all components and employees performing functions not mandated by statute or other law who are not typically designated as essential during a lapse in appropriations as provided in the Agency Contingency Plans on the [Office of Management and Budget](https://www.whitehouse.gov/omb/) website.  This subsection shall not apply to functions related to public safety, immigration enforcement, or law enforcement.
+(d)  Rulemaking.  Within 30 days of the date of this order, the Director of the [Office of Personnel Management (OPM)](https://www.opm.gov/) shall initiate a rulemaking that proposes to revise [5 C.F.R. 731.202(b)](https://www.ecfr.gov/current/title-5/chapter-I/subchapter-B/part-731/subpart-B/section-731.202) to include additional suitability criteria, including:
 (i)    failure to comply with generally applicable legal obligations, including timely filing of tax returns;
 (ii)   failure to comply with any provision that would preclude regular Federal service, including citizenship requirements;
-(iii)  refusal to certify compliance with any applicable nondisclosure obligations, consistent with 5 U.S.C. 2302(b)(13), and failure to adhere to those compliance obligations in the course of Federal employment; and
+(iii)  refusal to certify compliance with any applicable nondisclosure obligations, consistent with [5 U.S.C. 2302(b)(13)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section2302&num=0&edition=prelim)
+and failure to adhere to those compliance obligations in the course of Federal employment; and
 (iv)   theft or misuse of Government resources and equipment, or negligent loss of material Government resources and equipment.
-(e)  Developing Agency Reorganization Plans.  Within 30 days of the date of this order, Agency Heads shall submit to the Director of the Office of Management and Budget a report that identifies any statutes that establish the agency, or subcomponents of the agency, as statutorily required entities.  The report shall discuss whether the agency or any of its subcomponents should be eliminated or consolidated.
-(f)  Within 240 days of the date of this order, the USDS Administrator shall submit a report to the President regarding implementation of this order, including a recommendation as to whether any of its provisions should be extended, modified, or terminated.
+(e)  Developing Agency Reorganization Plans.  Within 30 days of the date of this order, Agency Heads shall submit to the Director of the [Office of Management and Budget](https://www.whitehouse.gov/omb/) a report that identifies any statutes that establish the agency, or subcomponents of the agency, as statutorily required entities.  The report shall discuss whether the agency or any of its subcomponents should be eliminated or consolidated.
+(f)  Within 240 days of the date of this order, the USDS Administrator shall submit a report to the [President](https://www.whitehouse.gov/) regarding implementation of this order, including a recommendation as to whether any of its provisions should be extended, modified, or terminated.
 
 Sec. 4.  Exclusions.  (a)  This order does not apply to military personnel.
 (b)  Agency Heads may exempt from this order any position they deem necessary to meet national security, homeland security, or public safety responsibilities.
-(c)  The Director of OPM may grant exemptions from this order where those exemptions are otherwise necessary and shall assist in promoting workforce reduction.
+(c)  The [Director of OPM](https://www.opm.gov/) may grant exemptions from this order where those exemptions are otherwise necessary and shall assist in promoting workforce reduction.
 
 Sec. 5.  General Provisions.  (a)  Nothing in this order shall be construed to impair or otherwise affect:
 (i)   the authority granted by law to an executive department, agency, or the head thereof; or
-(ii)  the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+(ii)  the functions of the Director of the [Office of Management and Budget](https://www.whitehouse.gov/omb/) relating to budgetary, administrative, or legislative proposals.
 (b)  This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
 (c)  This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
 
 
 
 
-THE WHITE HOUSE,
+THE [WHITE HOUSE](https://www.whitehouse.gov/),
 February 11, 2025.
+
+----
+
+- [U.S. Department of Education (ED)](https://www.ed.gov/)
+- [U.S. Department of Agriculture (USDA)](https://www.usda.gov/)
+- [Natural Resources Conservation Service (NRCS)](https://www.nrcs.usda.gov/) 
+- [U.S. Department of Veterans Affairs (VA)](https://www.va.gov/)
+- [U.S. Forest Service](https://www.fs.usda.gov/)
+- [National Park Service](https://www.nps.gov/index.htm)
+- [U.S. Fish and Wildlife Service (FWS)](https://www.fws.gov/)
+- [Land Management and Reclamation](https://www.blm.gov/programs/energy-and-minerals/oil-and-gas/reclamation)
+- [Bureau of Land Management (BLM)](https://www.blm.gov/programs/energy-and-minerals/oil-and-gas/reclamation)
+- [Department of Government Efficiency (DOGE)](https;//foge.gov/)
+- [President Of The United States (POTUS)](https://www.whitehouse.gov)
+- [White House (WH)](https://www.whitehouse.gov/)
+- [Elon Musk](https://x.com/elonmusk/)
+- [Boring](https:://www.boringcompany.com/)
+- [Neuralink](https://neuralink.com/)
+- [SpaceX](https://www.spacex.com/)
+- [Starlink](https://www.starlink.com/)
+- [Tesla](https://www.tesla.com/)
+- [Twitter](https://twitter.com/)
+- [ X ](https://x.com/)
+- [xAI](https://x.ai/)
