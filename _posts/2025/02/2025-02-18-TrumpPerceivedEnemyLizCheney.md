@@ -7,7 +7,7 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: 'Petty, Little Trump Could Still Persecute Liz Cheney (R-WY) by SLAPP (Strategic Lawsuit Against Public Participation)"
+title: "Petty, Little Trump Could Still Persecute Liz Cheney (R-WY) by SLAPP (Strategic Lawsuit Against Public Participation)"
 ---
 
 
