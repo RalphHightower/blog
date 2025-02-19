@@ -2,7 +2,7 @@
 layout: post
 tags: [Mary Trump Media, Elon Musk, Boring, Neuralink, SpaceX, Starlink, Tesla, Twitter, X, xAI, Department of Government Efficiency (DOGE), White House (WH)]
 categories: [Donald Trump]
-date: 2019-06-25 13:14:15
+date: 2025-02-14 4:21 PM
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
