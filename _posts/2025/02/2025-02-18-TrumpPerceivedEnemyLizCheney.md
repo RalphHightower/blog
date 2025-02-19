@@ -1,13 +1,13 @@
 ---
 layout: post
-tags: [Raw Story, ]
+tags: [Raw Story, Liz Cheney (R-WY), Dr. Anthony Fauci, General Mark Milley, Kimberly Wehle, University of Baltimore Law School, House of Representatives, Army, National Institute of Allergy and Infectious Diseases (NIAID), Constitution of the United States, Department of Justice (DOJ), Internal Revenue Service (IRS), Supreme Court of the United States (SCOTUS), US Courts (USCOURTS), President Of The United States (POTUS), White House (WH), politics]
 categories: [Donald Trump]
 date: 2025-02-18 12:50 PM
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: 'title'
+title: 'Petty, Little Trump Could Still Persecute Liz Cheney (R-WY) by SLAPP (Strategic Lawsuit Against Public Participation)"
 ---
 
 
@@ -44,7 +44,7 @@ These protections are designed to ensure that members of [Congress](https://www.
 
 "The pardon would not shield Cheney from subpoenas and other unpleasantries arising from an investigation. If slapped with a subpoena for testimony or documents, Cheney would have to employ counsel to seek a court order protecting her from having to respond."
 
-"The [Supreme Court](https://www..supremecourt.gov^) has never ruled on whether a pardon can quash a subpoena. Preemptive pardons that anticipate future investigations — like those [Biden](bidenwhitehouse.archives.gov) gave the Jan. 6 committee members, [Dr. Anthony Fauci](), [Gen. Mark Milley](https://www.army.mil/) and five Biden family members — are largely unprecedented, with the prominent exception of President Gerald Ford’s pardon of Richard Nixon for his involvement in Watergate."
+"The [Supreme Court](https://www..supremecourt.gov^) has never ruled on whether a pardon can quash a subpoena. Preemptive pardons that anticipate future investigations — like those [Biden](bidenwhitehouse.archives.gov) gave the Jan. 6 committee members, [Dr. Anthony Fauci](https://www.nih.gov/), [Gen. Mark Milley](https://www.army.mil/) and five Biden family members — are largely unprecedented, with the prominent exception of President Gerald Ford’s pardon of Richard Nixon for his involvement in Watergate."
 
 Cheney's acceptance of a pardon would also make it hard for her to refuse to testify because she could no longer cite a Fifth Amendment right to avoid self-incrimination on topics covered by the pardon. Trump could also initiate criminal investigations into matters not covered by the pardon, such as her tax history or banking transactions.
 
@@ -57,3 +57,20 @@ Targets could attempt a selective prosecution defense, but [Wehle](https://law.u
 But as long as the [Trump's](https://www.whitehouse.gov/) [Department of Justice](https://www.justice.gov/) can provide a shred of evidence, no matter how flimsy, to suggest Cheney might have committed a crime, it might not matter that her prosecution was motivated by revenge – and the situation is so unprecedented that there's no case law to guide the courts.
 
 "So far, however, there are no published cases involving similar facts — because no prior president overtly promised to use the [Justice Department](https://www.justice.gov/) as an arm of personal vengeance, let alone secured the [White House](https://www.whitehouse.gov/) in an election touting that conviction. Any court considering a case alleging that [Trump’s](https://www.whitehouse.gov/) rhetoric triggered a vindictive prosecution defense would be addressing a number of legal issues for the first time."
+
+- Liz Cheney (R-WY)
+- Dr. Anthony Fauci 
+- General Mark Milley 
+- [Kimberly Wehle](https://law.ubalt.edu/faculty/profiles/wehle-kimberly.cfm)
+- [University of Baltimore Law School](https://law.ubalt.edu/)
+- [House of Representatives](https://www.house.gov/)
+- [Army](https://www.army.mil/)
+- [National Institute of Allergy and Infectious Diseases (NIAID)](http://www.niaid.nih.gov/)
+- [Constitution of the United States](https://constitution.congress.gov/)
+- [Department of Justice (DOJ)](https://www.justice.gov/)
+- [Internal Revenue Service (IRS)](https://www.irs.gov/)
+- [Supreme Court of the United States (SCOTUS)](https://www.supremecourt.gov/)
+- [US Courts (USCOURTS)](https://www.uscourts.gov/)
+- [President Of The United States (POTUS)](https://www.whitehouse.gov/)
+- [White House (WH)](https://www.whitehouse.gov/)
+- politics
