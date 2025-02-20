@@ -7,7 +7,7 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: "Democratic Attorneys General Band Together To Stop Largest Data Breach on Personal Identifiable Information (PII) In Federal Government Computers"
+title: "Democrat Attorneys General Band Together To Stop Largest Data Breach on Personal Identifiable Information (PII) In Federal Government Computers"
 ---
 
 
