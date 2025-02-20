@@ -1,13 +1,13 @@
 ---
 layout: post
-tags: []
-categories: []
+tags: [Democratic Attorneys General Association, Arizona Attorney General, Kris Mayes, California Attorney General, Rob Bonta, Colorado Attorney General, Phil Weiser, Connecticut Attorney General, William Tong, Delaware Attorney General, Kathy Jennings, Hawaii Attorney General, Anne E. Lopez, Illinois Attorney General, Kwame Raoul, Maine Attorney General, Aaron M. Frey, Maryland Attorney General, Anthony G. Brown, Massachusetts Attorney General, Andrea Joy Campbell, Minnesota Attorney General, Keith Ellison, New Jersey Attorney General, Matthew J. Platkin, Minnesota Attorney General, Keith Ellison, lNevada Attorney General, Aaron Ford, Oregon Attorney General, Dan Rayfield, North Carolina Attorney General, Jeff Jackson, Rhode Island Attorney General, Peter F. Neronha, Vermont Attorney General, Charity R. Wisconsin Attorney General, Arizona, California, Colorado, Connecticut, Delaware, Hawaii, Illinois, Maine, Maryland, Massachusetts, Minnesota, New Jersey, Minnesota, Nevada, Oregon, North Carolina, Rhode Island, Vermont, Centers for Medicare and Medicaid Services (CMS), Internal Revenue Service (IRS), Department of Justice (DOJ), Medicare, Medicaid, Department of Veterans Affairs (VA), Treasury Department, Bureau of the Fiscal Service (BFS), Congress, Constitution, White House (WH), President of the United States, Department of Government Efficiency (DOGE), Elon Musk, Neuralink, SpaceX, Starlink, Tesla, Twitter, X, xAI, politics]
+categories: [Donald Trump]
 date: 2025-02-19 11:22 PM
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: "Democrat Attorneys General Band Together To Stop Largest Data Breach on Personal Identifiable Information (PII) In Federal Government Computers"
+title: "Democratic Attorneys General Band Together To Stop Largest Data Breach on Personal Identifiable Information (PII) In Federal Government Computers"
 ---
 
 
@@ -52,7 +52,7 @@ Joining [Attorney General](https://ag.ny.gov/) [James](https://ag.ny.gov/about/m
 - [Arizona Attorney General](https://www.azag.gov/)
 - [Arizona Attorney General Kris Mayes](https://www.azag.gov/kris-mayes)
 - [California Attorney General](https://oag.ca.gov/)
-- [Caligornia Attorney General Rob Bonta](https://oag.ca.gov/about)
+- [California Attorney General Rob Bonta](https://oag.ca.gov/about)
 - [Colorado Attorney General](https://coag.gov/)
 - [Colorado Attorney General Phil Weiser](https://coag.gov/about-us/colorado-attorney-general/)
 - [Connecticut Attorney General](https://portal.ct.gov/ag)
@@ -109,4 +109,3 @@ Joining [Attorney General](https://ag.ny.gov/) [James](https://ag.ny.gov/about/m
 - [ X ](https://x.com/)
 - [xAI](https://x.ai/)
 - politics
--  
