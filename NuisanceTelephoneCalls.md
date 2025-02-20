@@ -1,8 +1,8 @@
 ---
 layout: page
-tags: [assholes, Donald Trump, Elon Musk, Betsy DeVos., MAGA billionaires, billionaire, Trump donors, ]
+tags: [assholes, Donald Trump, Elon Musk, Betsy DeVos., MAGA billionaires, billionaire, Trump donors, Republican PAC]
 categories: [Telephone Numbers]
-date: 2025-02-18 10:23 PM
+date: 2025-02-19 10:34 PM
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description: 
@@ -12,10 +12,18 @@ title: "Nuisance Telephone Numbers – No Acknowledgement"
 
 The telephone numbers below have called and there is an empty person on the other end.
 
-[^11]: @RalphHightower: ¤¤ denotes voice mail left.
+RalphHightower: ¤¤ denotes voice mail left.
 
 | Telephone Number | Location | Date Time[^11] | Caller | Social Media |
 |---|---|---|---|---|
+| <a href="tel:+18035684607">+1 (803) 568-8460</a> | SC. Swansea | 2025-02-19 06:55 PM | Raulerson Paul | |
+| <a href="tel:+18037018101">+1 (803) 701-1810</a> | SC. Clover | 2025-02-19 05:32 PM | [Wise Computer Consulting](https://deewise.com/) | |
+| <a href="tel:+18038443146">+1 (803) 844-4314</a> | SC. Beech Island | 2025-02-19 03:52 PM | - | |
+| <a href="tel:+18036930636">+1 (803) 693-3063</a> | SC. York | 2025-02-19 03:16 PM | - | |
+| <a href="tel:+18035267139">+1 (803) 526-6713</a> | SC. York | 2025-02-19 01:26 PM | - | |
+| <a href="tel:+18037883636">+1 (803) 788-8363</a> | SC. Columbia | 2025-02-19 12:11 PM | Direct Auto Ins | |
+| <a href="tel:+18035056160">+1 (803) 505-5616</a> | SC. Alcolu | 2025-02-19 11:08 AM | Holly Garneau | |
+| <a href="tel:+18032584148">+1 (803) 258-8414</a> | SC. Springfield | 2025-02-19 9:41 AM | Potential Spam | |
 | <a href="tel:+18035929382">+1 (803) 592-2938</a> | SC. Putcybgv | 2025-02-18 01:07 PM | - | |
 | <a href="tel:+18035120952">+1 (803) 512-2095</a> | SC. | 2025-02-18 12:57 PM | - | |
 | <a href="tel:+18032458004">+1 (803) 245-5800</a> | SC . Bamberg | 2025-02-18 12:42 PM | Black Water Bar | |
@@ -140,7 +148,7 @@ The telephone numbers below have called and there is an empty person on the othe
 | <a href="tel:+18039030743">+1 (803) 903-3074</a> | SC. Hampton | 2025-01-23 12:01 PM | - |  |
 | <a href="tel:+18034923642">+1 (803) 492-2364</a> | SC. Eutawville | 2025-01-22 02:56 PM | Grauer Jeff |  |
 | <a href="tel:+18036618368">+1 (803) 661-1836</a> | SC. Columbia | 2025-01-22 02:10 PM | Kennett, Phoebe |  |
-| <a href="tel:+18034408456">+1 (803) 440-0845</a> | SC. Columbia | 2025-01-21 07:00 PM | ##InsuranceFraud |  |
+| <a href="tel:+18034408456">+1 (803) 440-0845</a> | SC. Columbia | 2025-01-21 07:00 PM | #InsuranceFraud |  |
 | <a href="tel:+18033991323">+1 (803) 399-9132</a> | SC. Lexington | 2025-01-21 05:34 PM | Palmetto Diagnostics / #InsuranceFraud |  |
 | <a href="tel:+18034902982">+1 (803) 490-0298</a> | SC. Lexington | 2025-01-21 03:47 PM | Kay S Ornelas |  |
 | <a href="tel:+18038755976">+1 (803) 875-5597</a> | SC. Eastover | 2025-01-21 03:21 PM | - |  |
@@ -188,13 +196,13 @@ The telephone numbers below have called and there is an empty person on the othe
 | <a href="tel:+18038785074">+1 (803) 878-8507</a> | SC. Orangeburg | 2025-01-13 05:15 PM | #InsuranceFraud |  |
 | <a href="tel:+18034808358">+1 (803) 480-8358</a> | SC. Johnston | 2025-01-13 05:12 PM ¤¤ | - |  |
 | <a href="tel:+18034808358">+1 (803) 480-8358</a> | SC. Johnston | 2025-01-13 05:11 PM | - |  |
-| <a href="tel:+18036061651">+1 (803) 606-6165</a> | Elizabeth Laude | 2025-01-13 04:57 PM | - |  |
 | <a href="tel:+18034867302">+1 (803) 486-6730</a> | SC. Bishopville | 2025-01-13 04:34 PM | S Carolina |  |
 | <a href="tel:+18034923768">+1 (803) 492-2376</a> | SC. Eutawville | 2025-01-13 01:58 PM | Rouse Dominica |  |
 | <a href="tel:+18039928941">+1 (803) 992-2894</a> | SC. Rock Hill | 2025-01-13 12:48 PM | Healthcare |  |
 | <a href="tel:+18038878758">+1 (803) 887-7875</a> | SC. Clover | 2025-01-13 11:36 AM | - |  |
 | <a href="tel:+18037929494">+1 (803) 792-2949</a> | SC. York | 2025-01-13 11:17 AM | - |  |
 | <a href="tel:+15312231909">+1 (531) 223-3190</a> | NE. Howells | 2025-01-13 10:29 AM | - |  |
+| <a href="tel:+18036061651">+1 (803) 606-6165</a> | SC. Columbia | 2025-01-12 04:57 PM | Elizabeth Laude |  |
 | <a href="tel:+12028643313">+1 (202) 864-4331</a> | DC. Washington | 2025-01-09 01:38 PM | - |  |
 | <a href="tel:+18032625185">+1 (803) 262-2518</a> | SC. Aiken | 2025-01-09 11:44 AM | Tanyo Lilia |  |
 | <a href="tel:+16282143985">+1 (628) 214-3985</a> | CA. Novato | 2025-01-09 11:16 AM | #TaxFraud ¤¤ |  |
@@ -213,9 +221,6 @@ The telephone numbers below have called and there is an empty person on the othe
 | <a href="tel:+18035880562">+1 (803) 588-8056</a> | SC. Bishopville | 2025-01-03 04:28 AM | - |  |
 | <a href="tel:+18035103836">+1 (803) 510-0383</a> | SC. North Augusta | 2025-01-03 04:17 AM | SRP Federal Credit Union |  |
 | <a href="tel:+18034835213">+1 (803) 483-3521</a> | SC. Bishopville | 2025-01-02 12:39 AM | - |  |
-| <a href="tel:+16592176182">+1 (659) 217-7618</a> | NJ. West Blocton | 202409-16 06:28 PM | Potential Spam |  |
-| <a href="tel:+18034469378">+1 (803) 446-6937</a> | SC. Columbia | 2024-97-29 01:20 PM | Ian Fish |  |
-| <a href="tel:+18035345769">+1 (803) 534-4576</a> | SC. Orangeburg | 2024-12-93 10:42 AM | Composite Build |  |
 | <a href="tel:+18039243073">+1 (803) 924-4307</a> | SC. Newberry | 2024-12-17 05:57 PM | Mary Ravan |  |
 | <a href="tel:+18037646405">+1 (803) 764-4640</a> | SC. Columbia | 2024-12-16 11:32 PM AM | Crumey Arnitha |  |
 | <a href="tel:+18037646405">+1 (803) 764-4640</a> | SC. Columbia | 2024-12-16 11:pm AM | Crumey Arnitha |  |
@@ -227,68 +232,69 @@ The telephone numbers below have called and there is an empty person on the othe
 | <a href="tel:+18033600000">+1 (803) 360-0000</a> | SC. Columbia | 2024-12-10 04:57 PM | - |  |
 | <a href="tel:+17372362530">+1 (737) 236-3625</a> | TX. Austin | 2024-12-10 11:28 AM | #TaxFraud ¤¤ |  |
 | <a href="tel:+17372362530">+1 (737) 236-3625</a> | TX. Austin | 2024-12-10 11:26 AM | #TaxFraud |  |
-| <a href="tel:+16452192052">+1 (645) 219-9205</a> | FL. | 2024-12-09 03:58 PM | potential spam |  |
-| <a href="tel:+18287102053">+1 (828) 710-0205</a> | NC. Asheville | 2024-12-09 03:39 PM | ##TaxFraud |  |
+| <a href="tel:+16452192052">+1 (645) 219-9205</a> | FL. | 2024-12-09 03:58 PM | Potential Spam |  |
+| <a href="tel:+18287102053">+1 (828) 710-0205</a> | NC. Asheville | 2024-12-09 03:39 PM | #TaxFraud |  |
 | <a href="tel:+13082756291">+1 (308) 275-5629</a> | NE. Gering | 2024-12-07 12:02 PM | - |  |
-| <a href="tel:+12053009065">+1 (205) 300-0906</a> | AL. Jasper | 2024-12-04 04:57 PM | potential spam |  |
+| <a href="tel:+12053009065">+1 (205) 300-0906</a> | AL. Jasper | 2024-12-04 04:57 PM | Potential Spam |  |
 | <a href="tel:+18547586056">+1 (854) 758-8605</a> | SC. Florence | 2024-12-03 07:51 PM | - |  |
 | <a href="tel:+18037718464">+1 (803) 771-1846</a> | SC. Columbia | 2024-12-03 07:17 PM | The State Media #SocialSecurityFraud | - |
 | <a href="tel:+18037718464">+1 (803) 771-1846</a> | SC. Columbia | 2024-12-03 07:17 PM | The State Media #SocialSecurityFraud |  |
 | <a href="tel:+14788345139">+1 (478) 834-3451</a> | GA. East Dublin | 2024-12-03 03:49 PM | #TaxFraud ¤¤ |  |
 | <a href="tel:+18038864431">+1 (803) 886-6443</a> | SC. Salley | 2024-12-03 01:32 PM | - |  |
 | <a href="tel:+18035368256">+1 (803) 536-6825</a> | SC. Orangeburg | 2024-12-03 12:26 PM | SC State Govt |  |
-| <a href="tel:+18033591383">+1 (803) 359-9138</a> | SC. Lexington | 2024-12-03 11:46 AM | fdn |  |
+| <a href="tel:+18033591383">+1 (803) 359-9138</a> | SC. Lexington | 2024-12-03 11:46 AM | FDN |  |
+| <a href="tel:+18035345769">+1 (803) 534-4576</a> | SC. Orangeburg | 2024-12-03 10:42 AM | Composite Build |  |
 | <a href="tel:+18039943592">+1 (803) 994-4359</a> | SC. Whitmore | 2024-12-02 07:27 PM | - |  |
-| <a href="tel:+15408246985">+1 (540) 824-4698</a> | VA. Blacksburg | 2024-12-02 05:54 PM | potential spam |  |
-| <a href="tel:+15046711226">+1 (504) 671-1122</a> | LA. New Orleans | 2024-12-02 05:38 PM | potential spam |  |
+| <a href="tel:+15408246985">+1 (540) 824-4698</a> | VA. Blacksburg | 2024-12-02 05:54 PM | Potential Spam |  |
+| <a href="tel:+15046711226">+1 (504) 671-1122</a> | LA. New Orleans | 2024-12-02 05:38 PM | Potential Spam |  |
 | <a href="tel:+18033401231">+1 (803) 340-0123</a> | SC. Sumter | 2024-12-02 05:23 PM | Mark Tittle |  |
-| <a href="tel:+16616946509">+1 (661) 694-4650</a> | CA. Bakersfield | 2024-12-02 03:17 PM | potential spam |  |
+| <a href="tel:+16616946509">+1 (661) 694-4650</a> | CA. Bakersfield | 2024-12-02 03:17 PM | Potential Spam |  |
 | <a href="tel:+18032531775">+1 (803) 253-3177</a> | SC. | 2024-12-02 03:12 PM |  |  |
 | <a href="tel:+19382187385">+1 (938) 218-8738</a> | AL. Huntsville | 2024-12-02 01:59 PM | #TaxFraud |  |
 | <a href="tel:+19382187385">+1 (938) 218-8738</a> | AL. Huntsville | 2024-12-02 01:51 PM ¤¤ #TaxFraud |  |  |
 | <a href="tel:+19382187385">+1 (938) 218-8738</a> | AL. Huntsville | 2024-12-02 01:51 PM | #TaxFraud | - |
 | <a href="tel:+19382187385">+1 (938) 218-1873</a> | AL. Huntsville | 2024-12-02 01:41 PM | #TaxFraud ¤¤ |  |
-| <a href="tel:+18035923812">+1 (803) 592-2381</a> | SC. Eastover | 2024-12-02 12:35 PM |  |  |
 | <a href="tel:+18035923812">+1 (803) 592-2381</a> | SC. Eastover | 2024-12-02 12:35 PM | - |  |
+| <a href="tel:+18035923812">+1 (803) 592-2381</a> | SC. Eastover | 2024-12-02 12:35 PM |  |  |
 | <a href="tel:+18039293093">+1 (803) 929-9309</a> | SC. Columbia | 2024-12-02 10:30 AM | USAO |  |
 | <a href="tel:+18039293093">+1 (803) 929-9309</a> | SC. Columbia | 2024-12-02 10:30 AM | USAO |  |
 | <a href="tel:+18036387592">+1 (803) 638-8759</a> | SC. Columbia | 2024-12-02 08:51 AM | DODEA Schools |  |
 | <a href="tel:+18036387592">+1 (803) 638-8759</a> | SC. Columbia | 2024-12-02 08:51 AM | DODEA Schools |  |
-| <a href="tel:+16616946509">+1 (661) 694-4650</a> | CA. Bakersfield | 2024-12-02 03:17 AM | potential spam |  |
+| <a href="tel:+16616946509">+1 (661) 694-4650</a> | CA. Bakersfield | 2024-12-02 03:17 AM | Potential Spam |  |
 | <a href="tel:+18032531775">+1 (803) 253-3177</a> | SC. Columbia | 2024-12-02 03:12"pm | - |  |
-| <a href="tel:+18038058060">+1 (803) 805-5806</a> | SC. Whitmire | 2024-12-01 05:53 PM |  |  |
 | <a href="tel:+18038058060">+1 (803) 805-5806</a> | SC. Whitmire | 2024-12-01 05:53 PM | - |  |
-| <a href="tel:+18038189897">+1 (803) 818-8989</a> | SC. York | 2024-12-01 05:50 PM |  |  |
+| <a href="tel:+18038058060">+1 (803) 805-5806</a> | SC. Whitmire | 2024-12-01 05:53 PM |  |  |
 | <a href="tel:+18038189897">+1 (803) 818-8989</a> | SC. York | 2024-12-01 05:50 PM | - |  |
+| <a href="tel:+18038189897">+1 (803) 818-8989</a> | SC. York | 2024-12-01 05:50 PM |  |  |
 | <a href="tel:+18032580309">+1 (803) 258-8030</a> | SC. Springfield | 2024-12-01 05:21 PM | Peay Reginald |  |
-| <a href="tel:+18036669645">+1 (803) 666-6964</a> | SC. Dalzel | 2024-12-01 05:07 PM |  |  |
 | <a href="tel:+18036669645">+1 (803) 666-6964</a> | SC. Dalzel | 2024-12-01 05:07 PM | - |  |
+| <a href="tel:+18036669645">+1 (803) 666-6964</a> | SC. Dalzel | 2024-12-01 05:07 PM |  |  |
 | <a href="tel:+18038060621">+1 (803) 806-6062</a> | SC. Columbia | 2024-12-01 04:34 PM | Probably Fraud |  |
 | <a href="tel:+18032580309">+1 (803) 258-8030</a> | SC. Springfield | 2024-12-01 04:21 PM | Reginald Peay |  |
-| <a href="tel:+18036026840">+1 (803) 602-2684</a> | SC. Columbia | 2024-12-01 04:08 PM |  |  |
 | <a href="tel:+18036026840">+1 (803) 602-2684</a> | SC. Columbia | 2024-12-01 04:08 PM | - |  |
-| <a href="tel:+18038818351">+1 (803) 881-1835</a> | SC. Columbia | 2024-12-01 01:15 PM |  |  |
+| <a href="tel:+18036026840">+1 (803) 602-2684</a> | SC. Columbia | 2024-12-01 04:08 PM |  |  |
 | <a href="tel:+18038818351">+1 (803) 881-1835</a> | SC. Columbia | 2024-12-01 01:15 PM | - |  |
+| <a href="tel:+18038818351">+1 (803) 881-1835</a> | SC. Columbia | 2024-12-01 01:15 PM |  |  |
 | <a href="tel:+18036515107">+1 (803) 651-1510</a> | SC. Sumter | 2024-12-01 11:06 sm | - |  |
 | <a href="tel:+18036515107">+1 (803) 651-1510</a> | SC. Sumter | 2024-12-01 11:06 AM |  |  |
-| <a href="tel:+18035601324">+1 (803) 560-0132</a> | SC. Fort Mill | 2024-12-01 09:06 AM | Probably Fraud |  |
 | <a href="tel:+18035601324">+1 (803) 560-0132</a> | SC. Fort Mill | 2024-12-01 09:06 AM | probably fraud |  |
+| <a href="tel:+18035601324">+1 (803) 560-0132</a> | SC. Fort Mill | 2024-12-01 09:06 AM | Probably Fraud |  |
 | <a href="tel:+18038060621">+1 (803) 806-6062</a> | SC. Columbia | 2024-12-01 04:34 | probably fraud |  |
-| <a href="tel:+18036743053">+1 (803) 674-4305</a> | SC. Batesburg | 2024-11-30 03:45 PM |  |  |
 | <a href="tel:+18036743053">+1 (803) 674-4305</a> | SC. Batesburg | 2024-11-30 03:45 PM | - |  |
-| <a href="tel:+18033366240">+1 (803) 336-6624</a> | SC. Edgefield | 2024-11-30 02:12 PM |  |  |
+| <a href="tel:+18036743053">+1 (803) 674-4305</a> | SC. Batesburg | 2024-11-30 03:45 PM |  |  |
 | <a href="tel:+18033366240">+1 (803) 336-6624</a> | SC. Edgefield | 2024-11-30 02:12 PM | - |  |
+| <a href="tel:+18033366240">+1 (803) 336-6624</a> | SC. Edgefield | 2024-11-30 02:12 PM |  |  |
 | <a href="tel:+18039109430">+1 (803) 910-0943</a> | SC. Bowman | 2024-11-29 01:41 PM | - |  |
 | <a href="tel:+18039109430">+1 (803) 910-0943</a> | SC. Bowman | 2024-11-29 01:41 AM |  |  |
 | <a href="tel:+525643221135">+52-56-4322-1135</a> | Mexico | 2024-11-27 05:06 PM |  |  |
-| <a href="tel:+18037649552">+1 (803) 764-4955</a> | SC. Columbia | 2024-11-26 07:26 PM |  |  |
 | <a href="tel:+18037649552">+1 (803) 764-4955</a> | SC. Columbia | 2024-11-26 07:26 PM | - |  |
-| <a href="tel:+18039458678">+1 (803) 945-5867</a> | SC. Little Mountain | 2024-11-26 03:52 PM |  |  |
+| <a href="tel:+18037649552">+1 (803) 764-4955</a> | SC. Columbia | 2024-11-26 07:26 PM |  |  |
 | <a href="tel:+18039458678">+1 (803) 945-5867</a> | SC. Little Mountain | 2024-11-26 03:52 PM | - |  |
-| <a href="tel:+18439381940">+1 (843) 938-8194</a> | SC. Hartsville | 2024-11-26 12:52 AM |  |  |
+| <a href="tel:+18039458678">+1 (803) 945-5867</a> | SC. Little Mountain | 2024-11-26 03:52 PM |  |  |
 | <a href="tel:+18439381940">+1 (843) 938-8194</a> | SC. Hartsville | 2024-11-26 12:52 PM | - |  |
-| <a href="tel:+18039521319">+1 (803) 952-2131</a> | SC. North Augusta | 2024-11-26 10:51 AM |  |  |
+| <a href="tel:+18439381940">+1 (843) 938-8194</a> | SC. Hartsville | 2024-11-26 12:52 AM |  |  |
 | <a href="tel:+18039521319">+1 (803) 952-2131</a> | SC. North Augusta | 2024-11-26 10:51 AM | Savannah Rvr Site |  |
+| <a href="tel:+18039521319">+1 (803) 952-2131</a> | SC. North Augusta | 2024-11-26 10:51 AM |  |  |
 | <a href="tel:+18033600000">+1 (803) 360-0000</a> | SC. Columbia | 2024-11-25 05:47 PM | - |  |
 | <a href="tel:+13854103642">+1 (385) 410-0364</a> | UT. Morgan | 2024-11-18 12:40 PM ¤¤ | Blocked – Medium risk |  |
 | <a href="tel:+19202833623">+1 +1 (920) 283-8336</a> | EI. Green Bay | 2024-11-13 12:18 ¤¤ |  |  |
@@ -302,20 +308,21 @@ The telephone numbers below have called and there is an empty person on the othe
 | <a href="tel:+12272039089">+1 (227) 203-3908</a> | MD. Frederick | 2024-11-04 06:16 PM | - |  |
 | <a href="tel:+19283076966">+1 (928) 307-7696</a> | AZ. Marble Canyon | 2024-11-01 04:09 PM ¤¤ | Potential Spam |  |
 | <a href="tel:+19283076966">+1 (928) 307-7696</a> | AZ. Marble Canyon | 2024-11-01 04:09 PM ¤¤ | - |  |
-| <a href="tel:+19283076966">+1 (928) 307-7696</a> | AZ. Marble Canyon | 2024-11-01 04:08 PM Potential Spam |  |  |
 | <a href="tel:+19283076966">+1 (928) 307-7696</a> | AZ. Marble Canyon | 2024-11-01 04:08 PM | - |  |
-| <a href="tel:+18053219410">+1 (805) 321-1941</a> | SC. San Luis Obispo | 2024-10-23 01:09 PM ¤¤ | Blocked – Medium risk |  |
+| <a href="tel:+18053219410">+1 (805) 321-1941</a> | CA. San Luis Obispo | 2024-10-23 01:09 PM ¤¤ | Blocked – Medium risk |  |
 | <a href="tel:+18053219410">+1 (805) 321-1941</a> | CA. San Luis Obispo | 2024-10-23 01:09 PM ¤¤ | - |  |
-| <a href="tel:+18039666431">+1 (803) 966-6643</a> | SC. Columbia | 2024-10-17 01:04 PM |  |  |
 | <a href="tel:+18039666431">+1 (803) 966-6643</a> | SC. Columbia | 2024-10-17 01:04 PM | - |  |
+| <a href="tel:+18039666431">+1 (803) 966-6643</a> | SC. Columbia | 2024-10-17 01:04 PM |  |  |
 | <a href="tel:+18033600000">+1 (803) 360-0000</a> | SC. Columbia | 2024-10-13 04:21 PM | - |  |
 | <a href="tel:+18037151972">+1 (803) 715-5197</a> | SC. Orangeburg | 2024-10-07 12:41 PM | - |  |
 | <a href="tel:+18644638935">+1 (864) 463-3893</a> | SC. Cowpens | 2024-09-25 09:48 AM |  |  |
+| <a href="tel:+16592176182">+1 (659) 217-7618</a> | NJ. West Blocton | 2024-09-16 06:28 PM | Potential Spam |  |
 | <a href="tel:+12024359336">+1 (202) 435-5933</a> | DC. Washington | 2024-08-29 12:15 PM | #IdentityFraud |  |
 | <a href="tel:+12024359336">+1 (202) 435-5933</a> | DC. Washington | 2024-08-29 12:15 AM | #IndentityTheftFraud |  |
 | <a href="tel:+12016880173">+1 (201) 688-8017</a> | NJ. Bayonne | 2024-08-28 09:03 PM | #IndentityTheftFraud |  |
 | <a href="tel:+12016880173">+1 (201) 688-8017</a> | NJ. Bayonne | 2024-08-28 09:03 AM | #IndentityTheftFraud |  |
 | <a href="tel:+16802159846">+1 (680) 215-5984</a> | NY. Newark | 2024-08-22 PM | NSID |  |
+| <a href="tel:+18034469378">+1 (803) 446-6937</a> | SC. Columbia | 2024-07-29 01:20 PM | Ian Fish |  |
 | <a href="tel:+16817168264">+1 (681) 716-6826</a> | WV. Craigsville | 2024-07-24 AM | #IdentityFraud |  |
 | <a href="tel:+13502176286">+1 (350) 217-7628</a> | CA. Stockton | 2024-07-01 10:47 AM |  |  |
 | <a href="tel:+18548774845">+1 (854) 877-7484</a> | AR. Little Rock | 2024-05-09 05:33 PM | #FraternalOrderOfPolice |  |
