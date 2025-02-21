@@ -7,7 +7,7 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: "Trump Just Threw Ukraine Under The Trump. What a Fucking Idiot."
+title: "Trump Just Threw Ukraine Under The Bus. What a Fucking Idiot."
 ---
 
 
