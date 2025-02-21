@@ -21,7 +21,7 @@ In this episode, Mary Trump dissects how billionaires and CEOs are using their w
 - [AH Capital Management, LLC](https://www.a16z.com/)
 - [Amazon](https://www.amazon.com/)
 - [Apple](https://www.apple.com/)
-- [Boring](https:://www.boringcompany.com/)
+- [Boring](https://www.boringcompany.com/)
 - [Clarium Capital](https://www.clarium.com/)
 - [Founders Fund](https://www.foundersfund.con/)
 - [Google](https://www.google.com/)
