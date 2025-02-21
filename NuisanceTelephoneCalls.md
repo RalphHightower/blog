@@ -2,7 +2,7 @@
 layout: page
 tags: [assholes, Donald Trump, Elon Musk, Betsy DeVos., MAGA billionaires, billionaire, Trump donors, Republican PAC]
 categories: [Telephone Numbers]
-date: 2025-02-19 10:34 PM
+date: 2025-02-20 8:04 PM
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description: 
@@ -16,6 +16,18 @@ RalphHightower: ¤¤ denotes voice mail left.
 
 | Telephone Number | Location | Date Time[^11] | Caller | Social Media |
 |---|---|---|---|---|
+| <a href="tel:+18034720155">+1 (803) 472-2015</a> | SC. | 2025-02-20 06:03 PM | Vickie Osbourne | |
+| <a href="tel:+18032743253">+1 (803) 274-4325</a> | SC. | 2025-02-20 05:45 PM | - | |
+| <a href="tel:+18039565351">+1 (803) 956-6535</a> | SC. Bamberg | 2025-02-20 05:22 PM | - | |
+| <a href="tel:+18037645616">+1 (803) 764-4561</a> | SC. Columbia | 2025-02-20 03:57 PM | - | |
+| <a href="tel:+18393000957">+1 (839) 300-0095</a> | SC. Sumter | 2025-02-20 03:40 PM | - | |
+| <a href="tel:+18396006320">+1 (839) 600-0632</a> | SC. | 2025-02-20 03:30 PM | - | |
+| <a href="tel:+18038565253">+1 (803) 856-6525</a> | SC. | 2025-02-20 02:51 PM | - | |
+| <a href="tel:+18037661026">+1 (803) 766-6102</a> | SC. Columbia | 2025-02-20 91:45 PM | - | |
+| <a href="tel:+18038835446">+1 (803) 883-3544</a> | SC. | 2025-02-20 01:16 PM | - | |
+| <a href="tel:+18035207915">+1 (803) 520-0791</a> | SC. Lexington | 2025-02-20 11:46 AM | Potential Spam | |
+| <a href="tel:+18039554648">+1 (803) 955-5464</a> | SC. West Columbia | 2025-02-20 10:59 AM | Kenny Hite | |
+| <a href="tel:+18038661923">+1 (803) 866-6192</a> | SC. Olar | 2025-02-20 09:10 AM | Potential Spam | |
 | <a href="tel:+18035684607">+1 (803) 568-8460</a> | SC. Swansea | 2025-02-19 06:55 PM | Raulerson Paul | |
 | <a href="tel:+18037018101">+1 (803) 701-1810</a> | SC. Clover | 2025-02-19 05:32 PM | [Wise Computer Consulting](https://deewise.com/) | |
 | <a href="tel:+18038443146">+1 (803) 844-4314</a> | SC. Beech Island | 2025-02-19 03:52 PM | - | |
