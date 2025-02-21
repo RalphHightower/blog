@@ -29,6 +29,31 @@ Joining [Attorney General](https://ag.ny.gov/) James in filing the lawsuit are t
 This matter is being handled by Special Counsel Andrew Amer, Special Counsel for Complex Litigation Colleen Faherty, and Special Counsel for Federal Initiatives Rabia Muqaddam, under the supervision of First Deputy Attorney General Jennifer Levy.
 
 
+## [Attorney General James Releases Statement on Swift Victory in Lawsuit Stopping DOGE’s Attacks on Americans](https://ag.ny.gov/press-release/2025/attorney-general-james-releases-statement-swift-victory-lawsuit-stopping-doges-0)
+
+February 8, 2025
+[NEW YORK]() – [New York]() [Attorney General]() [Letitia James]() today released the below statement after a federal judge in the [Southern District of New York]() [granted her motion for a temporary restraining order](https://urldefense.com/v3/__https:/links-1.govdelivery.com/CL0/https:*2F*2Fag.ny.gov*2Fsites*2Fdefault*2Ffiles*2Fcourt-filings*2Fstate-of-new-york-et-al-v-trump-et-al-order-2025.pdf/1/01000194e60c8227-07b3a909-087d-45a1-9783-06aefa5a73a8-000000/-RVDj8P49nsqekb18HqZ813fmA3FI-PmlYC106TJQuE=391__;JSUlJSUlJQ!!Ke5ujdWW74OM!_WYwHoytrLD-dp3UQ8D1gA-N2CEqoxhx4J-jmvSc-lAi-8oaEKj6382H_lPWkcj0e1d9QhwEMoOzZZ_QHtIyXJpjhgBY0OQ7qVErgtxGew$) (TRO) just a few hours after she [led a coalition of 18 other attorneys general in suing to stop Elon Musk and his so-called “Department of Government Efficiency” (DOGE)](https://urldefense.com/v3/__https:/links-1.govdelivery.com/CL0/https:*2F*2Fag.ny.gov*2Fpress-release*2F2025*2Fattorney-general-james-leads-multistate-coalition-suing-stop-elon-musk-and-doges/1/01000194e60c8227-07b3a909-087d-45a1-9783-06aefa5a73a8-000000/9ajnb15Kwm0fSCXiCE63suDxFVlwlrSSVVvlrg8MMs8=391__;JSUlJSU!!Ke5ujdWW74OM!_WYwHoytrLD-dp3UQ8D1gA-N2CEqoxhx4J-jmvSc-lAi-8oaEKj6382H_lPWkcj0e1d9QhwEMoOzZZ_QHtIyXJpjhgBY0OQ7qVFYhfX6VQ$) from accessing Americans’ private information. [Elon Musk]() and his [DOGE employees]() are now blocked from accessing Americans’ most sensitive personal information and must immediately destroy any and all copies of records they have already obtained.
+
+“From the moment [Elon Musk]() and his [DOGE employees]() gained unprecedented access to our personal private data, state bank account details, and other sensitive information, Americans across the country have been horrified.
+
+“Over the past week, my office has heard from more than a thousand [New Yorkers]() who were afraid they would lose their privacy and the critical funding their communities count on because of [Musk]() and [DOGE’s]() interference.
+
+“We knew the [Trump administration’s]() choice to give this access to unauthorized individuals was illegal, and this morning, a federal court agreed.
+
+“I have said it before, and I will say it again: no one is above the law. Now, Americans can trust that [Musk]() – the world’s richest man – and his friends will not have free rein over their personal information while our lawsuit proceeds.”
+
+Last week, the [U.S. Department of the Treasury]() adopted a new policy that granted “special government employees,” including [Elon Musk]() and [DOGE staffers](), access to its [central payment system](). This [payment system]() contains Americans’ private personal data and controls vital funding that millions of Americans depend on, including [Social Security payments](), [veterans’ benefits](), [Medicare]() and [Medicaid]() payments, and more. The [payment system]() also controls billions of dollars that states rely on to support essential services like law enforcement, public education, health care, and critical infrastructure.
+
+Yesterday, [Attorney General]() [James]() [led a coalition of 18 other attorneys general in filing a lawsuit against the Trump administration to stop this unauthorized disclosure of Americans’ private information and sensitive data](https://urldefense.com/v3/__https:/links-1.govdelivery.com/CL0/https:*2F*2Fag.ny.gov*2Fpress-release*2F2025*2Fattorney-general-james-leads-multistate-coalition-suing-stop-elon-musk-and-doges/2/01000194e60c8227-07b3a909-087d-45a1-9783-06aefa5a73a8-000000/T4cY1YOo_OKZMK3_agyc61v814SkdWeY_JOcNmeZUro=391__;JSUlJSU!!Ke5ujdWW74OM!_WYwHoytrLD-dp3UQ8D1gA-N2CEqoxhx4J-jmvSc-lAi-8oaEKj6382H_lPWkcj0e1d9QhwEMoOzZZ_QHtIyXJpjhgBY0OQ7qVHMfiaEug$). Early this morning, a federal judge found that the states proved they were likely to succeed on their "particularly strong" statutory claims and would suffer irreparable harm without urgent court intervention.
+
+[Elon Musk]() and his [DOGE employees]() are now blocked from accessing Americans’ most sensitive personal information and must immediately destroy any and all copies of records they have already obtained. The court will hear arguments on [Attorney General]() [James]() and the coalition’s motion for a preliminary injunction on February 14, 2025.
+
+Joining [Attorney General]() [James]() in this lawsuit are the [attorneys general]() of [Arizona](), [California](), [Colorado](), [Connecticut](), [Delaware](), [Hawaii](), [Illinois](), [Maine](), [Maryland](), [Massachusetts](), [Minnesota](), [Nevada](), [New Jersey](), [North Carolina](), [Oregon](), [Rhode Island](), [Vermont](), [and Wisconsin]().
+
+This matter is being handled by Special Counsel Andrew Amer, Special Counsel for Complex Litigation Colleen K. Faherty, and Special Counsel for Federal Initiatives Rabia Muqaddam, all of the Executive Division. Additional support is being provided by Assistant Attorney General Stephen Thompson and Legal Assistant Nyna Sargent of the Charities Bureau. The Charities Bureau is part of the Division for Social Justice, which is led by Chief Deputy Attorney General Meghan Faux. The Executive Division and the Division for Social Justice are both overseen by First Deputy Attorney General Jennifer Levy.
+
+----
+
 ## [Attorney General James and 11 Attorneys General Release Joint Statement on Lawsuit to Protect Americans from Elon Musk’s DOGE](https://ag.ny.gov/press-release/2025/attorney-general-james-and-11-attorneys-general-release-joint-statement-lawsuit)
 
 February 14, 2025
