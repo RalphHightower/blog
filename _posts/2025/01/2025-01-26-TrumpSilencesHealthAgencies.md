@@ -32,23 +32,14 @@ Epidemiologist Dr. Eric Feigl-Ding, critical care physician Dr. Michael Anderson
 Jan 24, 2025  #birdflu #MSNBC #Trump
 Rachel Maddow reports on the damage already being done by the bird flu outbreak and how Donald Trump's freeze on communication from health agencies threatens efforts to contain the disease.
 
-[Centers for Disease Control (CDC)](https://www.cdc.gov/)
-
-[National Institutes of Health (NIH)](https://www.nih.gov/)
-
-[National Cancer Institute (NIC)](https://www.cancer.gov/)
-
-[National Institute of Allergy and Infectious Diseases (NIAID)](http://www.niaid.nih.gov/)
-
-[National Institute of Arthritis, Musculoskeletal and Skin Diseases (NIAMSD)](https://www.niams.nih.gov/)
-
-[National Institute on Deafness and Other Communication Disorders (NIDOCD)](https://www.nidcd.nih.gov/)
-
-[National Institute of Diabetes and Digestive and Kidney Diseases (NIDDKD)](https://www.niddk.nih.gov/)
-
-[National Institute of Mental Health (NINH)](https://www.nimh.nih.gov/)
-
-[National Institute of Neurological Disorders and Stroke (NINDS)](https://www.ninds.nih.gov/)
-
-[National Heart, Lung and Blood Institute (NHLB)](https://www.nhlbi.nih.gov/)
+- [Centers for Disease Control (CDC)](https://www.cdc.gov/)
+- [National Institutes of Health (NIH)](https://www.nih.gov/)
+- [National Cancer Institute (NIC)](https://www.cancer.gov/)
+- [National Institute of Allergy and Infectious Diseases (NIAID)](http://www.niaid.nih.gov/)
+- [National Institute of Arthritis, Musculoskeletal and Skin Diseases (NIAMSD)](https://www.niams.nih.gov/)
+- [National Institute on Deafness and Other Communication Disorders (NIDOCD)](https://www.nidcd.nih.gov/)
+- [National Institute of Diabetes and Digestive and Kidney Diseases (NIDDKD)](https://www.niddk.nih.gov/)
+- [National Institute of Mental Health (NINH)](https://www.nimh.nih.gov/)
+- [National Institute of Neurological Disorders and Stroke (NINDS)](https://www.ninds.nih.gov/)
+- [National Heart, Lung and Blood Institute (NHLB)](https://www.nhlbi.nih.gov/)
 
