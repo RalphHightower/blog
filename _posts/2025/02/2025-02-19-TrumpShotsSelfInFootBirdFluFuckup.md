@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: []
+tags: [NBC News, avian flu, bird flu, H5N1, Centers for Disease Control (CDC), National Institutes of Health (NIH), U.S. Agency for International Development, Food and Drug Administration (FDA), Office of Pandemic Preparedness and Response Policy (OPPR), US Department of Agriculture (USDA), Brooke Rollins, Congress, Health and Human Services (HHS), Secretary Robert F. Kennedy Jr. (RFKJr), Senate, US House of Representatives, Congressional Dads Caucus, Jimmy (D-CA34), Suhas Subramanyam (VA-10), Sylvester Turner (TX-18), Raul Ruiz M.D. (CA-25), Gil Cisneros (CA-31), Seth Magaziner (RI-02), Chris Deluzio (PA-17), Eric Swalwell (CA-14), Eugene Simon Vindman (VA-07), Mike Levin (CA-49), Brad Sherman (CA-32), Rashida Tlaib (MI-12), Jimmy Panetta (CA-19), Brittany Pettersen (CO-07), Seth Moulton (MA-06), Jason Crow (CO-06), Johnny Olszewski, Jr. (MD-02), Dan Goldman (NY-10), Robert J. Menendez (NJ-08), Ted Lieu (CA-36), Marc Veasey (TX-33), Dave Min (CA-47), Don Beyer (VA-08), Tim Kennedy (NY-26), Morgan McGarvey (KY-03), Steven Horsford (NV-04), Derek Tran (CA-45), Joaquin Castro (TX-20), J. Luis Correa (CA-46), Brendan Boyle (PA-02), George Whitesides (CA-27), Kevin Mullin (CA-15), Joe Neguse (CO-02), Chris Deluzio, J. Luis Correa, Reduction In Force, Adriane Casalotti, National Association of County and City Health Officials, Stephen Morrison, Center for Strategic and International Studies, World Health Organization, Tedros Adhanom Ghebreyesus, Johns Hopkins, Center for Health Security, Erin Sorrell, Jennifer Nuzzo, Brown University, School of Public Health, United Egg Producers, National Restaurant Association, Pamela’s Green Deli, Trader Joe’s, Walmart, Sam’s Club, Kroger, Aldi, Whole Foods, Costco, Texas Department of Agriculture, Sid Miller, politics]
 categories: [Donald Trump]
 date: 2025-02-19 7:25 PM
 excerpt: ''
@@ -95,8 +95,6 @@ Public health researchers have said the Biden administration didn’t react quic
 
 The [Trump administration](https://www whitehouse.gov/) will have to work with officials in states that still aren’t regularly testing their milk to try to get them on board, said Morrison. [Texas’ state agriculture commissioner](https://texasagriculture.gov/), [Sid Miller](https://texasagriculture.gov/About/Commissioner-Miller), told [NBC News](https://www.nbcnews.com/news/us-news/push-detect-virus-milk-supply-testing-bird-flu](https://www.cdc.gov/bird-flu/index.html)-cows-rcna188612) that surveillance milk testing was unnecessary in [Texas](https://www.texas.gov/) since there weren’t any active cases of [bird flu](https://www.cdc.gov/bird-flu/index.html) in the state’s commercial cattle or poultry.
 
-“From April until the end of the Biden administration, the response was slow and sluggish,” said [Morrison](https://www.csis.org/people/j-stephen-morrison). “We are still not testing animals and humans at the level that is needed, we still don’t have a coherent strategy and a system of accountability, and we still don’t have in place the kind of compensation mechanisms needed for those dairy farmers who suffer losses because of infections in their herds.”
-
 Researchers worry the U.S. is running out of time to strengthen its response.
 
 “If we don’t act now, we’re only giving the virus more opportunity to continue to adapt and potentially evolve into something more dangerous in a human population,” said Erin Sorrell, a senior scholar at the [Johns Hopkins](https://www.hopkinsmedicine.org/) Center for Health Security. “Now is the time to act.”
@@ -124,7 +122,7 @@ In [New York City](https://nyc.gov/), some bodegas have taken to selling eggs on
 
 ----
 
-### Letter to [Trump](https://www.whitehouse.gov/) from Congressional Dads Caucus](https://gomez.house.gov/dadscaucus/)
+### Letter to [Trump](https://www.whitehouse.gov/) from [Congressional Dads Caucus](https://gomez.house.gov/dadscaucus/)
 
 February 13, 2025
 
@@ -323,7 +321,8 @@ You can find the full letter text [HERE](https://gomez.house.gov/UploadedFiles/D
 - [Costco](https://www.costco.com/) 
 - [Texas Department of Agriculture](https://texasagriculture.gov/)
 - [Sid Miller](https://texasagriculture.gov/About/Commissioner-Miller)
-- 
+- politics 
+
 “If we don’t act now, we’re only giving the virus more opportunity to continue to adapt and potentially evolve into something more dangerous in a human population. Now is the time to act.” – Erin Sorrell, a senior scholar at the Johns HopkinsCenter for Health Security.
 "“We are looking at every possible scenario to ensure that we are doing everything we can in a safe, secure manner, but also to ensure that Americans have the food that they need.  a mom of four teenagers, actually, I fully understand and feel the pain of the cost of these eggs.” – Brooke Rollins, USDA Secretary"
 “When you add that uncertainty, it plays into what health departments can do when their entire funding situation is at risk. It makes it even harder to do more when you don’t think you’ll have the resources or they might get pulled out from under you.” – Adriane Casalotti, chief of government and public affairs National Association of County and City Health Officials

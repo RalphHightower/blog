@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [strategic lawsuits against public participation (SLAPP), Donald Trump, Constitution, Fourteenth Amendment, Mary Anne MacLeod Trump, Scotland, Fred Trump, Frederick Trump, Medicaid, Attorney General, Alan Wilson, South Carolina, Brenna Bird, Iowa (IA), Lynn Fitch, Mississippi (MS), Bridget Hill, Wyoming (WY), John Guard, Florida (FL), Liz Murrill, Louisiana (LA), Gentner Drummond, Oklahoma (OK), Steve Marshall, Alabama (AL), Raúl Labrador, Idaho (ID), Drew Wrigley, North Dakota (ND), Derek E. Brown, Utah (UT), Todd Rokita, Indiana (IN), Marty Jackley, South Dakota (OK), Tim Griffin, Arkansas (AR), Austin Knudson, Montana (MT), Andrew Bailey, Missouri (MO), Kris Kobach, Kansas (KS), Mike Hilgers, Nebraska (NE), politics]
+tags: [my dumb state, strategic lawsuits against public participation (SLAPP), Donald Trump, Constitution, Fourteenth Amendment, Mary Anne MacLeod Trump, Scotland, Fred Trump, Frederick Trump, Medicaid, Attorney General, Alan Wilson, South Carolina, Brenna Bird, Iowa (IA), Lynn Fitch, Mississippi (MS), Bridget Hill, Wyoming (WY), John Guard, Florida (FL), Liz Murrill, Louisiana (LA), Gentner Drummond, Oklahoma (OK), Steve Marshall, Alabama (AL), Raúl Labrador, Idaho (ID), Drew Wrigley, North Dakota (ND), Derek E. Brown, Utah (UT), Todd Rokita, Indiana (IN), Marty Jackley, South Dakota (OK), Tim Griffin, Arkansas (AR), Austin Knudson, Montana (MT), Andrew Bailey, Missouri (MO), Kris Kobach, Kansas (KS), Mike Hilgers, Nebraska (NE), politics]
 categories: [Alan Wilson]
 date: 2025-02-07 11:13 AM
 excerpt: ''

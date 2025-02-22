@@ -1,6 +1,7 @@
 ---
 layout: post
-tags: [MSNBC, merger, golf, PGATOUR.COM, Liv Golf, Saudi Arabia, Department of Government Efficiency (DOGE), White House (WH), President Of The United States (POTUS), Elon Musk, Boring, Neuralink, SpaceX, Starlink, Tesla, Twitter, X, xAI, politics]
+tags: [MSNBC, merger, golf, PGATOUR.COM, Liv Golf, Saudi Arabia, Department of Government Efficiency (DOGE), 
+White House (WH), President Of The United States (POTUS), Elon Musk, Boring, Neuralink, SpaceX, Starlink, Tesla, Twitter, X, xAI, politics]
 categories: [Donald Trump]
 date: 2025-02-21 3:49 PM
 excerpt: ''

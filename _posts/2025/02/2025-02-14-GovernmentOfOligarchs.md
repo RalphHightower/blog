@@ -19,7 +19,7 @@ Feb 14, 2025  [#donaldtrump](https://www whitehouse.gov/) #marytrump #currenteve
 [Elon Musk](https://x.com/elonmusk/) isn’t a rogue genius—he’s cashing in on [Trump’s presidency](https://www whitehouse.gov/). With billions in contracts and investigations buried, his biggest scam is finally unraveling.
 
 - [Elon Musk](https://x.com/elonmusk/)
-- [Boring](https:://www.boringcompany.com/)
+- [Boring](https://www.boringcompany.com/)
 - [Neuralink](https://neuralink.com/)
 - [SpaceX](https://www.spacex.com/)
 - [Starlink](https://www.starlink.com/)
@@ -27,6 +27,6 @@ Feb 14, 2025  [#donaldtrump](https://www whitehouse.gov/) #marytrump #currenteve
 - [Twitter](https://twitter.com/)
 - [ X ](https://x.com/)
 - [xAI](https://x.ai/)
-- [Department of Government Efficiency (DOGE)](https;//foge.gov/)
+- [Department of Government Efficiency (DOGE)](https;//doge.gov/)
 - [White House (WH)](https://www.whitehouse.gov/)
 

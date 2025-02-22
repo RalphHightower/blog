@@ -24,7 +24,7 @@ Feb 10, 2025  #marytrump [#trumpcabinet](https://www.whitehouse.gov/) [#donaldtr
 - [US Courts (USCOURTS)](https://www.uscourts.gov/)
 - [Department of Government Efficiency (DOGE)](https://doge.gov/)
 - [Elon Musk](https://x.com/elonmusk/)
-- [Boring](https:://www.boringcompany.com/)
+- [Boring](https://www.boringcompany.com/)
 - [Neuralink](https://neuralink.com/)
 - [SpaceX](https://www.spacex.com/)
 - [Starlink](https://www.starlink.com/)
