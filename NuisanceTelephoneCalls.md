@@ -2,7 +2,7 @@
 layout: page
 tags: [assholes, Donald Trump, Elon Musk, Betsy DeVos., MAGA billionaires, billionaire, Trump donors, Republican PAC]
 categories: [Telephone Numbers]
-date: 2025-02-20 8:04 PM
+date: 2025-02-21 10:03 PM
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description: 
@@ -12,10 +12,22 @@ title: "Nuisance Telephone Numbers – No Acknowledgement"
 
 The telephone numbers below have called and there is an empty person on the other end.
 
-RalphHightower: ¤¤ denotes voice mail left.
+[^11]: RalphHightower: ¤¤ denotes voice mail left.
 
 | Telephone Number | Location | Date Time[^11] | Caller | Social Media |
 |---|---|---|---|---|
+| <a href="tel:+18037080663">+1 (803) 708-8066</a> | SC. Columbia | 2025-02-21 06:50 PM | Perfect Love Childcare | |
+| <a href="tel:+18038784675">+1 (803) 878-8467</a> | SC. Orangeburg | 2025-02-21 05:22 PM | - | |
+| <a href="tel:+18038509260">+1 (803) 850-0926</a> | SC. Fairfax | 2025-02-21 05:10 PM | Potential Spam | |
+| <a href="tel:+18037264159">+1 (803) 726-6415</a> | SC. Columbia | 2025-02-21 04:50 PM | [Spirit Telecom](http://www.spiritcom.com/) | |
+| <a href="tel:+18034317468">+1 (803) 431-1746</a> | SC. Fort Mill | 2025-02-21 01:24 PM | Zachman Mary | |
+| <a href="tel:+18038391272">+1 (803) 839-9127</a> | SC. Newberry | 2025-02-21 11:00 AM | Potential Spam | |
+| <a href="tel:+18033051451">+1 (803) 305-5145</a> | SC. Sumter | 2025-02-21 10:49 AM | Iyesha Johnson | |
+| <a href="tel:+18033120857">+1 (803) 312-2085</a> | SC. Columbia | 2025-02-21 10:16 AM | - | |
+| <a href="tel:+18035207804">+1 (803) 520-0780</a> | SC. Lexington | 2025-02-21 10:13 AM | Jones Michael | |
+| <a href="tel:+18033401189">+1 (803) 340-0118</a> | SC. | 2025-02-21 09:02 AM | Rosa Dix | |
+| | | 2025-02-21 0 | | |
+| <a href="tel:+18037661026">+1 (803) 766-6102</a> | SC. Columbia | 2025-02-20 91:45 PM | - | |
 | <a href="tel:+18034720155">+1 (803) 472-2015</a> | SC. | 2025-02-20 06:03 PM | Vickie Osbourne | |
 | <a href="tel:+18032743253">+1 (803) 274-4325</a> | SC. | 2025-02-20 05:45 PM | - | |
 | <a href="tel:+18039565351">+1 (803) 956-6535</a> | SC. Bamberg | 2025-02-20 05:22 PM | - | |
@@ -23,7 +35,6 @@ RalphHightower: ¤¤ denotes voice mail left.
 | <a href="tel:+18393000957">+1 (839) 300-0095</a> | SC. Sumter | 2025-02-20 03:40 PM | - | |
 | <a href="tel:+18396006320">+1 (839) 600-0632</a> | SC. | 2025-02-20 03:30 PM | - | |
 | <a href="tel:+18038565253">+1 (803) 856-6525</a> | SC. | 2025-02-20 02:51 PM | - | |
-| <a href="tel:+18037661026">+1 (803) 766-6102</a> | SC. Columbia | 2025-02-20 91:45 PM | - | |
 | <a href="tel:+18038835446">+1 (803) 883-3544</a> | SC. | 2025-02-20 01:16 PM | - | |
 | <a href="tel:+18035207915">+1 (803) 520-0791</a> | SC. Lexington | 2025-02-20 11:46 AM | Potential Spam | |
 | <a href="tel:+18039554648">+1 (803) 955-5464</a> | SC. West Columbia | 2025-02-20 10:59 AM | Kenny Hite | |
