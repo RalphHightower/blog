@@ -26,7 +26,6 @@ The telephone numbers below have called and there is an empty person on the othe
 | <a href="tel:+18033120857">+1 (803) 312-2085</a> | SC. Columbia | 2025-02-21 10:16 AM | - | |
 | <a href="tel:+18035207804">+1 (803) 520-0780</a> | SC. Lexington | 2025-02-21 10:13 AM | Jones Michael | |
 | <a href="tel:+18033401189">+1 (803) 340-0118</a> | SC. | 2025-02-21 09:02 AM | Rosa Dix | |
-| | | 2025-02-21 0 | | |
 | <a href="tel:+18037661026">+1 (803) 766-6102</a> | SC. Columbia | 2025-02-20 91:45 PM | - | |
 | <a href="tel:+18034720155">+1 (803) 472-2015</a> | SC. | 2025-02-20 06:03 PM | Vickie Osbourne | |
 | <a href="tel:+18032743253">+1 (803) 274-4325</a> | SC. | 2025-02-20 05:45 PM | - | |
