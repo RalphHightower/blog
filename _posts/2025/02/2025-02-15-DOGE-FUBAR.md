@@ -27,7 +27,7 @@ Rachel Maddow looks at a series of unforced errors by Elon Musk and the [DOGE](h
 - [President Of The United States (POTUS)](https://www.whitehouse.gov/)
 - [White House (WH](https://www.whitehouse.gov/)
 - [Elon Musk](https://x.com/elonmusk/)
-- [Boring](https:://www.boringcompany.com/)
+- [Boring](https://www.boringcompany.com/)
 - [Neuralink](https://neuralink.com/)
 - [SpaceX](https://www.spacex.com/)
 - [Starlink](https://www.starlink.com/)
