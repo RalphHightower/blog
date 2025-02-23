@@ -1,13 +1,13 @@
 ---
 layout: post
-tags: []
-categories: []
-#date: 2019-06-25 13:14:15
-#excerpt: ''
+tags: [Mary Trump Media, North Atlantic Treaty Organization (NATO), European Union, Volodymyr Zelenskyy, Ukraine, Vladimir Putin, Russia, United Nations, New York (NY), Governor New York, Kathy Hochul, White House (WH), President Of The United States (POTUS),politics]
+categories: [Donald Trump]
+date: 2025-02-22 11:54 PM
+excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: 'title'
+title: "How Low Can Trump’s Ratings Go?"
 ---
 
 
@@ -36,7 +36,7 @@ Feb 20, 2025  #marytrump #trumpcabinet [#donaldtrump](https://www.whitehouse.gov
 - [New York (NY)](https:www.ny.gov)
 - [Governor New York](https://www.governor.ny.gov/)
 - [Kathy Hochul](https://www.governor.ny.gov/about-governor-hochul)
-- [White House](https://www.whitehouse.gov/)
-- [President Of The United States](https://www.whitehouse.gov/)
+- [White House (WH)](https://www.whitehouse.gov/)
+- [President Of The United States (POTUS)](https://www.whitehouse.gov/)
 - politics
 
