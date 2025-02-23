@@ -7,7 +7,7 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: 'The Russians Hack Melania Trump"
+title: "The Russians Hack Melania Trump"
 ---
 
 
