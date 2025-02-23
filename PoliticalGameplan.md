@@ -69,8 +69,8 @@ Clyburn is not in my district, but as the sole Democrat in his gerrymandered Dis
 | **Washington, DC** |
 | 274 Cannon House Office Building<br />27 Independence Ave SE<br />Washington, DC 20515<br />Phone: <a href="tel:+12022553315">(202) 225-3315</a><br />Fax: <a href="tel:+12022252313">(202) 225-2313</a><br />Hours: Monday-Friday 9:00AM-5:00PM |
 | **Columbia, SC** |
-    | 1225 Lady Street, Suite 200<br />Columbia, SC 29201<br />Phone: <a href="tel:+18037991100">(803) 799-1100</a><br />Fax: <a href="tel:+18037999060">(803) 799-9060</a><br />Hours: Monday-Friday 9:00AM-5:00PM |
-    | **Sumter, SC** |
+| 1225 Lady Street, Suite 200<br />Columbia, SC 29201<br />Phone: <a href="tel:+18037991100">(803) 799-1100</a><br />Fax: <a href="tel:+18037999060">(803) 799-9060</a><br />Hours: Monday-Friday 9:00AM-5:00PM |
+| **Sumter, SC** |
 | 129 South Harvin Street<br />Sumter, SC 29150<br />Phone: <a href="tel:+18038835020">(803) 883-5020</a><br />Hours: 2nd and 4th Mondays 10:00AM–4:00PM |
 
 ##### [Trump Party](https://www.gop.com/)
@@ -121,7 +121,7 @@ Class II.
 | 124 Exchange Street, Suite A<br />Pendleton, SC 29670<br />Main: <a href="tel:+18646464090">(864) 646-4090</a><br />Fax: <a href="tel:+18646468609">(864) 646-8609</a> |
 
 {% post_url: 2024/10/2024-10-20-AnswerToTrumpersSupportingHarris %}
-{% post_url: 2024/12/2024-12-12-Lin{dseyGrahamSupportsPatek4FBI %}
+{% post_url: 2024/12/2024-12-12-LindseyGrahamSupportsPatek4FBI %}
 {% post_url: 2024/12/2024-12-15-LindseyGraham29241215MTP %}
 {% post_url: 2025/01/2025-01-26-TrumpsPoodleOnMTP %}
 
@@ -144,7 +144,7 @@ Class III.
 | **Low Country** |
 | 2500 City Hall Lane<br />3rd Floor Suite<br />North Charleston, SC 29406<br />Phone: <a href="tel:+18437274525">(843) 727-4525</a><br />Fax: <a href="tel:+18558928355">(855) 802-9355</a> |
 
-{% post_url: 2034/11/2024-11-04-TimScottIsTrumpsLawnJockey %}
+{% post_url: 2024/11/2024-11-04-TimScottIsTrumpsLawnJockey %}
 
 #### President
 
