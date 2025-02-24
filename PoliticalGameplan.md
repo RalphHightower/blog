@@ -45,8 +45,8 @@ title: "Resistance Is Not Futile!"
 | (Difference) | 2,868,686 | 2.09% | 77 |
 
 *Hawaii does not appoint its electors proportionally. Due to faithless voting, the electoral votes for Hawaii were: for President, Clinton 3 and Bernie Sanders 1; for Vice President, Kaine 3 and Elizabeth Warren 1.
-  **Maine appoints its electors proportionally. Clinton/Kaine won in the First Congressional District and took the state; Trump/Pence won the Second Congressional District. Maine's electoral votes were proportionally awarded accordingly: for President, Clinton 3 and Trump 1; for Vice President, Kaine 3 and Pence 1.
- ***Texas does not appoint its electors proportionally. Due to faithless voting, the electoral votes for Texas were: for President, Trump 36, Ron Paul 1, and John Kasich 1; for Vice President, Pence 37 and Carly Fiorina 1.
+**Maine appoints its electors proportionally. Clinton/Kaine won in the First Congressional District and took the state; Trump/Pence won the Second Congressional District. Maine's electoral votes were proportionally awarded accordingly: for President, Clinton 3 and Trump 1; for Vice President, Kaine 3 and Pence 1.
+***Texas does not appoint its electors proportionally. Due to faithless voting, the electoral votes for Texas were: for President, Trump 36, Ron Paul 1, and John Kasich 1; for Vice President, Pence 37 and Carly Fiorina 1.
 ****Washington does not appoint its electors proportionally. Due to faithless voting, the electoral votes for Washington were: for President, Clinton 8, Colin Powell 3, and Faith Spotted Eagle 1; for Vice President, Kaine 8, Elizabeth Warren 1, Susan Collins 1, Maria Cantwell 1, and Winona LaDuke 1.
 
 ### Political Contacts
@@ -120,10 +120,10 @@ Class II.
 | **Golden Corner Office** |
 | 124 Exchange Street, Suite A<br />Pendleton, SC 29670<br />Main: <a href="tel:+18646464090">(864) 646-4090</a><br />Fax: <a href="tel:+18646468609">(864) 646-8609</a> |
 
-- [Bless His Heart – Senator Lindsey Graham (T-SC): Why Are You "Republicans" Supporting Harris?]({% post_url: 2024/10/2024-10-20-AnswerToTrumpersSupportingHarris %})
-- [MSNBC Morning Joe Panel Discusses Kash Patel as Trump's Pick for FBI Director]({% post_url: 2024/12/2024-12-12-LindseyGrahamSupportsPatek4FBI %})
-- [Sen. Lindsey Graham (T-SC) States That Trump Won't Prosecute Political Enemies. Yea, Right!]({% post_url: 2024/12/2024-12-15-LindseyGraham20241215MTP %})
 - [Trump's Poodle, Senator Lindsey Graham (T-SC), On NBC Meet The Press]({% post_url: 2025/01/2025-01-26-TrumpsPoodleOnMTP %})
+- [Sen. Lindsey Graham (T-SC) States That Trump Won't Prosecute Political Enemies. Yea, Right!]({% post_url: 2024/12/2024-12-15-LindseyGraham20241215MTP %})
+- [MSNBC Morning Joe Panel Discusses Kash Patel as Trump's Pick for FBI Director]({% post_url: 2024/12/2024-12-12-LindseyGrahamSupportsPatek4FBI %})
+- [Bless His Heart – Senator Lindsey Graham (T-SC): Why Are You "Republicans" Supporting Harris?]({% post_url: 2024/10/2024-10-20-AnswerToTrumpersSupportingHarris %})
 
 ##### [Scott, Tim (T-SC)](https://www.scott.senate.gov/)
 
@@ -169,10 +169,12 @@ Class III.
 | General Information: <a href="1-8037343970">1-803-734-3970</a> |
 | Constituent Services: <a href="1-8037373953">1-803-737-3953</a> |
 
-{% post_url: 2020/11/2020-11-09-SCAGSuesPA %}
-{% post_url: 2025/02/2025-02-06-SCAGWeaponizesStateGovernment %}
-{% post_url: 2025/02/2025-02-07-SCAGWants14thAmendmentAmended %}
-{% post_url: 2025/02/2025-02-21-SC-AG-SupportsDOGE-DataBreachOfPII %}
+##### My Dumb State: South Carolina
+
+- [🚨 My Dumb State, South Carolina: Attorney General Alan Wilson Is Not Interested In Protecting South Carolinians' Personal Identifiable Information (PII)In the Biggest Data Breach of the US Treasury Central Payment System! 🚨]({% post_url: 2025/02/2025-02-21-SC-AG-SupportsDOGE-DataBreachOfPII %})
+- [My Dumb State, South Carolina: South Carolina's Attorney General, Alan Wilson, Weaponizes State Government To Persecute Trump's Perceived Enemy, Dr. Anthony Fauci, For His COVID-19 Pandemic Response]({% post_url: 2025/02/2025-02-06-SCAGWeaponizesStateGovernment %})
+- [My Dumb State, South Carolina: South Carolina's Attorney General, Alan Wilson, Wants To Amend The Fourteenth Amendment]({% post_url: 2025/02/2025-02-07-SCAGWants14thAmendmentAmended %})
+- [My Dumb State: South Carolina Attorney General Alan Wilson & RAGA Sues Pennsylvania For Election Fraud Over 2020 Presidential Election]({% post_url: 2020/11/2020-11-09-SCAGSuesPA %})
 
 ## Game Plan Strategy
 
