@@ -69,8 +69,8 @@ Clyburn is not in my district, but as the sole Democrat in his gerrymandered Dis
 | **Washington, DC** |
 | 274 Cannon House Office Building<br />27 Independence Ave SE<br />Washington, DC 20515<br />Phone: <a href="tel:+12022553315">(202) 225-3315</a><br />Fax: <a href="tel:+12022252313">(202) 225-2313</a><br />Hours: Monday-Friday 9:00AM-5:00PM |
 | **Columbia, SC** |
-| 1225 Lady Street, Suite 200<br />Columbia, SC 29201<br />Phone: <a href="tel:+18037991100">(803) 799-1100</a><br />Fax: <a href="tel:+18037999060">(803) 799-9060</a><br />Hours: Monday-Friday 9:00AM-5:00PM |
-| **Sumter, SC** |
+    | 1225 Lady Street, Suite 200<br />Columbia, SC 29201<br />Phone: <a href="tel:+18037991100">(803) 799-1100</a><br />Fax: <a href="tel:+18037999060">(803) 799-9060</a><br />Hours: Monday-Friday 9:00AM-5:00PM |
+    | **Sumter, SC** |
 | 129 South Harvin Street<br />Sumter, SC 29150<br />Phone: <a href="tel:+18038835020">(803) 883-5020</a><br />Hours: 2nd and 4th Mondays 10:00AM–4:00PM |
 
 ##### [Trump Party](https://www.gop.com/)
@@ -120,10 +120,10 @@ Class II.
 | **Golden Corner Office** |
 | 124 Exchange Street, Suite A<br />Pendleton, SC 29670<br />Main: <a href="tel:+18646464090">(864) 646-4090</a><br />Fax: <a href="tel:+18646468609">(864) 646-8609</a> |
 
-- [Bless His Heart – Senator Lindsey Graham (T-SC): Why Are You "Republicans" Supporting Harris?]({% post_url: 2024/10/2024-10-20-AnswerToTrumpersSupportingHarris %})
-- [MSNBC Morning Joe Panel Discusses Kash Patel as Trump's Pick for FBI Director]({% post_url: 2024/12/2024-12-12-LindseyGrahamSupportsPatek4FBI %})
-- [Sen. Lindsey Graham (T-SC) States That Trump Won't Prosecute Political Enemies. Yea, Right!]({% post_url: 2024/12/2024-12-15-LindseyGraham20241215MTP %})
 - [Trump's Poodle, Senator Lindsey Graham (T-SC), On NBC Meet The Press]({% post_url: 2025/01/2025-01-26-TrumpsPoodleOnMTP %})
+- [Sen. Lindsey Graham (T-SC) States That Trump Won't Prosecute Political Enemies. Yea, Right!]({% post_url: 2024/12/2024-12-15-LindseyGraham20241215MTP %})
+- [MSNBC Morning Joe Panel Discusses Kash Patel as Trump's Pick for FBI Director]({% post_url: 2024/12/2024-12-12-LindseyGrahamSupportsPatek4FBI %})
+- [Bless His Heart – Senator Lindsey Graham (T-SC): Why Are You "Republicans" Supporting Harris?]({% post_url: 2024/10/2024-10-20-AnswerToTrumpersSupportingHarris %})
 
 ##### [Scott, Tim (T-SC)](https://www.scott.senate.gov/)
 
@@ -169,10 +169,12 @@ Class III.
 | General Information: <a href="1-8037343970">1-803-734-3970</a> |
 | Constituent Services: <a href="1-8037373953">1-803-737-3953</a> |
 
-{% post_url: 2020/11/2020-11-09-SCAGSuesPA %}
-{% post_url: 2025/02/2025-02-06-SCAGWeaponizesStateGovernment %}
-{% post_url: 2025/02/2025-02-07-SCAGWants14thAmendmentAmended %}
-{% post_url: 2025/02/2025-02-21-SC-AG-SupportsDOGE-DataBreachOfPII %}
+##### My Dumb State: South Carolina
+
+- [🚨 My Dumb State, South Carolina: Attorney General Alan Wilson Is Not Interested In Protecting South Carolinians' Personal Identifiable Information (PII)In the Biggest Data Breach of the US Treasury Central Payment System! 🚨]({% post_url: 2025/02/2025-02-21-SC-AG-SupportsDOGE-DataBreachOfPII %})
+- [My Dumb State, South Carolina: South Carolina's Attorney General, Alan Wilson, Weaponizes State Government To Persecute Trump's Perceived Enemy, Dr. Anthony Fauci, For His COVID-19 Pandemic Response]({% post_url: 2025/02/2025-02-06-SCAGWeaponizesStateGovernment %})
+- [My Dumb State, South Carolina: South Carolina's Attorney General, Alan Wilson, Wants To Amend The Fourteenth Amendment]({% post_url: 2025/02/2025-02-07-SCAGWants14thAmendmentAmended %})
+- [My Dumb State: South Carolina Attorney General Alan Wilson & RAGA Sues Pennsylvania For Election Fraud Over 2020 Presidential Election]({% post_url: 2020/11/2020-11-09-SCAGSuesPA %})
 
 ## Game Plan Strategy
 
