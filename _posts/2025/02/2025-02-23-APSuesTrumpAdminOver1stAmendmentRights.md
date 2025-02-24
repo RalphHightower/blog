@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [Associated Press (AP), Afghanistan (AF), AP Stylebook, BALLARD SPAHR LLP, Jay Ward Brown, Charles D. Tobin, Maxwell S. Mishkin, Sasha Dudding, Bloomberg, CNN, Jim Acosta, Mar-a-Lago, Florida (FL), Newsmax, New York Times, Playboy, Brian Karem, Cuba (CU), U.S. Constitution, First Amendment, Fifth Amendment, Washington DC, Director of National Intelligence (DNI), Tulsi Gabbard, Department of the Interior (DOI), Secretary of the Interior (DOI), Louisiana (LA), Nebraska (NE), United States (US), U.S. DC District Court, U.S. District Judge Trevor McFadden, President of the United States (POTUS), White House (WH), White House Deputy Chief of Staff, Taylor Budowich, White House Press Secretary, Karoline Leavitt, White House Chief of Staff, Susan Wiles, Air Force One, President Donald J Trump, Executive Orders, Restoring Freedom Of Speech And Ending Federal Censorship, Restoring Names That Honor American Greatness, Gulf of America Day, 2025, Ending The Weaponization Of The Federal Government, India (IN), Prime Minister Narendra Modi, C-SPAN, Conservative Political Action Conference (CPAC), Pulitzer Prize, Republican Governors Association (RGA), White House Correspondents Association (WHCA), politics]
+tags: [Associated Press (AP), Freedom of Press, Freedom of Speech, Afghanistan (AF), AP Stylebook, BALLARD SPAHR LLP, Jay Ward Brown, Charles D. Tobin, Maxwell S. Mishkin, Sasha Dudding, Bloomberg, CNN, Jim Acosta, Mar-a-Lago, Florida (FL), Newsmax, New York Times, Playboy, Brian Karem, Cuba (CU), U.S. Constitution, First Amendment, Fifth Amendment, Washington DC, Director of National Intelligence (DNI), Tulsi Gabbard, Department of the Interior (DOI), Secretary of the Interior (DOI), Louisiana (LA), Nebraska (NE), United States (US), U.S. DC District Court, U.S. District Judge Trevor McFadden, President of the United States (POTUS), White House (WH), White House Deputy Chief of Staff, Taylor Budowich, White House Press Secretary, Karoline Leavitt, White House Chief of Staff, Susan Wiles, Air Force One, President Donald J Trump, Executive Orders, Restoring Freedom Of Speech And Ending Federal Censorship, Restoring Names That Honor American Greatness, Gulf of America Day, 2025, Ending The Weaponization Of The Federal Government, India (IN), Prime Minister Narendra Modi, C-SPAN, Conservative Political Action Conference (CPAC), Pulitzer Prize, Republican Governors Association (RGA), White House Correspondents Association (WHCA), politics]
 categories: [Donald Trump]
 date: 2025-02-23 12:36 PM
 excerpt: ''
@@ -603,6 +603,8 @@ Counsel for Plaintiff [The Associated Press](https://www.apnews.com/)
 - [Cuba (CU)](https://www.gob.cu/)
 - [U.S. Constitution](https://constitution.congress.gov/)
 - [First Amendment](https://constitution.congress.gov/constitution/amendment-1/)
+- Freedom of Speech
+- Freedom of Press 
 - [Fifth Amendment](https://constitution.congress.gov/constitution/amendment-5/)
 - [Washington DC](https://dc.gov/)[Director of National Intelligence (DNI)](https://www.dni.gov)
 - [Tulsi Gabbard](https://www.dni.gov/index.php/who-we-are/leadership/director-of-national-intelligence)
