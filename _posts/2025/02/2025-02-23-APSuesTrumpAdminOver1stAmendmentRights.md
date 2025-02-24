@@ -7,7 +7,7 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: 'title'
+title: "Associated Press (AP) Sues White House Staff For Blocking Core Foundation: Freedom Of Speech And Press"
 ---
 
 
@@ -18,7 +18,7 @@ Updated 10:11 PM EST, February 21, 2025
 
 The [Associated Press](https://www.apnews.com/) sued [three Trump administration officials](https://www.whitehouse.gov/) Friday over access to presidential events, citing freedom of speech in asking a federal judge to stop [the blocking of its journalists](https://apnews.com/article/trump-ap-journalism-first-amendment-8a83d8b506053249598e807f8e91e1ae). “We’ll see them in court,” the [White House](https://www.whitehouse.gov/) press secretary said in response.
 
-The lawsuit was filed Friday afternoon in [U.S. District Court](https://www.dcd.uscourts.gov/) in Washington, D.C., 10 days after the [White House](https://www.whitehouse.gov/) began restricting access to the news agency. It was assigned to [U.S. District Judge Trevor McFadden](https://www.dcd.uscourts.gov/content/district-judge-trevor-n-mcfadden), a [Trump](https://www.whitehouse.gov/) nominee.
+The lawsuit was filed Friday afternoon in [U.S. District Court](https://www.dcd.uscourts.gov/) in [Washington, D.C.](), 10 days after the [White House](https://www.whitehouse.gov/) began restricting access to the news agency. It was assigned to [U.S. District Judge Trevor McFadden](https://www.dcd.uscourts.gov/content/district-judge-trevor-n-mcfadden), a [Trump](https://www.whitehouse.gov/) nominee.
 
 The [AP](https://www.apnews.com/) says its case is about an unconstitutional effort by the [White House](https://www.whitehouse.gov/)  to control speech — in this case [not changing its style](https://www.ap.org/the-definitive-source/announcements/ap-style-guidance-on-gulf-of-mexico-mount-mckinley/) from the Gulf of Mexico to the “Gulf of America,” as [President Donald Trump](https://www.whitehouse.gov/) did last month with an executive order.
 
@@ -84,7 +84,11 @@ February 13, 2025
 
 “This is a textbook violation of not only the [First Amendment](https://constitution.congress.gov/constitution/amendment-1/), but the [president’s](https://www.whitehouse.gov/) own [executive order on freedom of speech and ending federal censorship](https://www.whitehouse.gov/presidential-actions/2025/01/restoring-freedom-of-speech-and-ending-federal-censorship/)[^89]. We again call on the [White House](https://www.whitehouse.gov/)  to immediately reverse course and restore access to [AP](https://www.apnews.com/) journalists.”
 
-[^89]: @RalphHightower: [Trump’s Executive Order](https://www.whitehouse.gov/presidential-actions/2025/01/restoring-freedom-of-speech-and-ending-federal-censorship/) really means [Beginning Censorship and Ending Freedom Of The Press]({% post_url: 2025/01/2025-01-20-TrumpEndsFreedomOfSpeechPress %})
+[^89]: @RalphHightower: [Trump’s Executive Order](https://www.whitehouse.gov/presidential-actions/2025/01/restoring-freedom-of-speech-and-ending-federal-censorship/) really means 
+
+[Beginning Censorship and Ending Freedom Of The Press]({% post_url: 2025/01/2025-01-20-TrumpEndsFreedomOfSpeechPress %})
+[Beginning Censorship and Ending Freedom Of The Press]({% post_url: 2025/01/2025-01-20-TrumpEndsFreedomOfSpeechPress %})
+
 -Eugene Daniels, [White House](https://www.whitehouse.gov/)  Correspondents’ Association President
 
 
@@ -585,6 +589,8 @@ Counsel for Plaintiff [The Associated Press](https://www.apnews.com/)
 
 - [Afghanistan (AF)](https://moi.gov.af/)
 - [Associated Press (AP)](https://www.apnews.com/)
+- David Bauder
+- Julie Pace
 - [AP Stylebook](https://www.apstylebook.com/)
 - [BALLARD SPAHR LLP](https://www.ballardspahr.com/)
 - Jay Ward Brown
@@ -638,4 +644,5 @@ Counsel for Plaintiff [The Associated Press](https://www.apnews.com/)
 - [Pulitzer Prize](https://www.pulitzer.org/)
 - [Republican Governors Association (RGA)](https://www.rga.org/)
 - [White House Correspondents Association (WHCA)](https://whca.press/)
+- Eugene Daniels
 - politics
