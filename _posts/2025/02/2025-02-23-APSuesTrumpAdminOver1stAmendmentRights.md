@@ -84,7 +84,7 @@ February 13, 2025
 
 “This is a textbook violation of not only the [First Amendment](https://constitution.congress.gov/constitution/amendment-1/), but the [president’s](https://www.whitehouse.gov/) own [executive order on freedom of speech and ending federal censorship](https://www.whitehouse.gov/presidential-actions/2025/01/restoring-freedom-of-speech-and-ending-federal-censorship/)[^89]. We again call on the [White House](https://www.whitehouse.gov/)  to immediately reverse course and restore access to [AP](https://www.apnews.com/) journalists.”
 
-[^89]: @RalphHightower: [Trump’s Executive Order](https://www.whitehouse.gov/presidential-actions/2025/01/restoring-freedom-of-speech-and-ending-federal-censorship/) really means [Beginning Censorship and Ending Freedom Of The Press]( {% post_url: 2025/01/2025-01-20-TrumpEndsFreedomOfSpeechPress) %}.
+[^89]: @RalphHightower: [Trump’s Executive Order](https://www.whitehouse.gov/presidential-actions/2025/01/restoring-freedom-of-speech-and-ending-federal-censorship/) really means [Beginning Censorship and Ending Freedom Of The Press]( {% post_url: 2025/01/2025-01-20-TrumpEndsFreedomOfSpeechPress %}).
 
 
 -Eugene Daniels, [White House](https://www.whitehouse.gov/)  Correspondents’ Association President
