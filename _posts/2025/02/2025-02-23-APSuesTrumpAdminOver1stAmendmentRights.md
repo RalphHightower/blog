@@ -1,17 +1,17 @@
 ---
 layout: post
-tags: [Associated Press (AP), Freedom of Press, Freedom of Speech, Afghanistan (AF), AP Stylebook, BALLARD SPAHR LLP, Jay Ward Brown, Charles D. Tobin, Maxwell S. Mishkin, Sasha Dudding, Bloomberg, CNN, Jim Acosta, Mar-a-Lago, Florida (FL), Newsmax, New York Times, Playboy, Brian Karem, Cuba (CU), U.S. Constitution, First Amendment, Fifth Amendment, Washington DC, Director of National Intelligence (DNI), Tulsi Gabbard, Department of the Interior (DOI), Secretary of the Interior (DOI), Louisiana (LA), Nebraska (NE), United States (US), U.S. DC District Court, U.S. District Judge Trevor McFadden, President of the United States (POTUS), White House (WH), White House Deputy Chief of Staff, Taylor Budowich, White House Press Secretary, Karoline Leavitt, White House Chief of Staff, Susan Wiles, Air Force One, President Donald J Trump, Executive Orders, Restoring Freedom Of Speech And Ending Federal Censorship, Restoring Names That Honor American Greatness, Gulf of America Day, 2025, Ending The Weaponization Of The Federal Government, India (IN), Prime Minister Narendra Modi, C-SPAN, Conservative Political Action Conference (CPAC), Pulitzer Prize, Republican Governors Association (RGA), White House Correspondents Association (WHCA), politics]
+tags: [Associated Press (AP), Afghanistan (AF), AP Stylebook, BALLARD SPAHR LLP, Jay Ward Brown, Charles D. Tobin, Maxwell S. Mishkin, Sasha Dudding, Bloomberg, CNN, Jim Acosta, Mar-a-Lago, Florida (FL), Newsmax, New York Times, Playboy, Brian Karem, Cuba (CU), U.S. Constitution, First Amendment, Fifth Amendment, Washington DC, Director of National Intelligence (DNI), Tulsi Gabbard, Department of the Interior (DOI), Secretary of the Interior (DOI), Louisiana (LA), Nebraska (NE), United States (US), U.S. DC District Court, U.S. District Judge Trevor McFadden, President of the United States (POTUS), White House (WH), White House Deputy Chief of Staff, Taylor Budowich, White House Press Secretary, Karoline Leavitt, White House Chief of Staff, Susan Wiles, Air Force One, President Donald J Trump, Executive Orders, Restoring Freedom Of Speech And Ending Federal Censorship, Restoring Names That Honor American Greatness, Gulf of America Day, 2025, Ending The Weaponization Of The Federal Government, India (IN), Prime Minister Narendra Modi, C-SPAN, Conservative Political Action Conference (CPAC), Pulitzer Prize, Republican Governors Association (RGA), White House Correspondents Association (WHCA), politics]
 categories: [Donald Trump]
 date: 2025-02-23 12:36 PM
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: "Associated Press (AP) Sues White House Staff For Blocking Core Foundation: Freedom Of Speech And Press"
+title: 'title'
 ---
 
 
-## [AP sues 3 Trump administration officials, citing freedom of speech / AP News](https://apnews.com/article/ap-lawsuit-trump-administration-officials-0352075501b779b8b187667f3427e0e8)
+## [AP sues 3 Trump administration officials, citing freedom of speech / [AP News](https://apnews.com/article/ap-lawsuit-trump-administration-officials-0352075501b779b8b187667f3427e0e8)
 
 By  DAVID BAUDER
 Updated 10:11 PM EST, February 21, 2025
@@ -44,7 +44,7 @@ While [AP](https://www.apnews.com/) journalists have still been allowed on [Whit
 
 The lawsuit said the [AP](https://www.apnews.com/) had made “several unsuccessful efforts” to persuade the administration that its conduct was unlawful. Julie Pace, AP’s senior vice president and executive editor, traveled to Florida this week to meet with Wiles.
 
-### The [AP](https://www.apnews.com/) [Stylebook](https://www.apstylebook.com/) is a sticking point
+### The [AP Stylebook](https://www.apstylebook.com/) is a sticking point
 
 In an email to [AP](https://www.apnews.com/), Wiles said the news organization was targeted because its influential stylebook is used as a standard by many journalists, scholars and students across the country, the lawsuit said. She said the administration was hopeful the name change would be reflected in the [AP](https://www.apnews.com/) Stylebook “where American audiences are concerned.”
 
@@ -60,7 +60,7 @@ In a radio interview with [Fox News’](https://www.foxnews.com/) Brian Kilmeade
 
 He said “just about everybody” accepted the Gulf of America name change but “[AP](https://www.apnews.com/) wants to be cute.” There has been a mixed response from other news organizations: The [New York Times](https://www.nytimes.com/) and [Washington Post](https://www.washingtonpost.com/) are continuing to use Gulf of Mexico, while [Fox News](https://www.foxnews.com/) has switched to [Trump’s](https://www.whitehouse.gov/) choice. [Google Maps](https://www.google.com/maps) is using Gulf of America for users in the [United States](https://www.usa.gov/).
 
-### [Statement on [White House](https://www.whitehouse.gov/)  Excluding [AP](https://www.apnews.com/) from News Coverage / [White House  Correspondents' Association (WHCA)](https://whca.press/2025/02/11/statement-on-white-house-excluding-ap-from-news-coverage/)
+### [Statement on White House Excluding AP from News Coverage / [White House  Correspondents' Association (WHCA)](https://whca.press/2025/02/11/statement-on-white-house-excluding-ap-from-news-coverage/)
 
 February 11, 2025
 
@@ -84,9 +84,7 @@ February 13, 2025
 
 “This is a textbook violation of not only the [First Amendment](https://constitution.congress.gov/constitution/amendment-1/), but the [president’s](https://www.whitehouse.gov/) own [executive order on freedom of speech and ending federal censorship](https://www.whitehouse.gov/presidential-actions/2025/01/restoring-freedom-of-speech-and-ending-federal-censorship/)[^89]. We again call on the [White House](https://www.whitehouse.gov/)  to immediately reverse course and restore access to [AP](https://www.apnews.com/) journalists.”
 
-[^89]: @RalphHightower: [Trump’s Executive Order](https://www.whitehouse.gov/presidential-actions/2025/01/restoring-freedom-of-speech-and-ending-federal-censorship/) really means [Beginning Censorship and Ending Freedom Of The Press]( {% post_url: 2025/01/2025-01-20-TrumpEndsFreedomOfSpeechPress %}).
-
-
+[^89]: @RalphHightower: [Trump’s Executive Order](https://www.whitehouse.gov/presidential-actions/2025/01/restoring-freedom-of-speech-and-ending-federal-censorship/) really means [Beginning Censorship and Ending Freedom Of The Press]({% post_url: 2025/01/2025-01-20-TrumpEndsFreedomOfSpeechPress %})
 -Eugene Daniels, [White House](https://www.whitehouse.gov/)  Correspondents’ Association President
 
 
@@ -605,8 +603,6 @@ Counsel for Plaintiff [The Associated Press](https://www.apnews.com/)
 - [Cuba (CU)](https://www.gob.cu/)
 - [U.S. Constitution](https://constitution.congress.gov/)
 - [First Amendment](https://constitution.congress.gov/constitution/amendment-1/)
-- Freedom of Speech
-- Freedom of Press
 - [Fifth Amendment](https://constitution.congress.gov/constitution/amendment-5/)
 - [Washington DC](https://dc.gov/)[Director of National Intelligence (DNI)](https://www.dni.gov)
 - [Tulsi Gabbard](https://www.dni.gov/index.php/who-we-are/leadership/director-of-national-intelligence)
