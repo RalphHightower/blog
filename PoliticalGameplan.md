@@ -45,8 +45,8 @@ title: "Resistance Is Not Futile!"
 | (Difference) | 2,868,686 | 2.09% | 77 |
 
 *Hawaii does not appoint its electors proportionally. Due to faithless voting, the electoral votes for Hawaii were: for President, Clinton 3 and Bernie Sanders 1; for Vice President, Kaine 3 and Elizabeth Warren 1.
-  **Maine appoints its electors proportionally. Clinton/Kaine won in the First Congressional District and took the state; Trump/Pence won the Second Congressional District. Maine's electoral votes were proportionally awarded accordingly: for President, Clinton 3 and Trump 1; for Vice President, Kaine 3 and Pence 1.
- ***Texas does not appoint its electors proportionally. Due to faithless voting, the electoral votes for Texas were: for President, Trump 36, Ron Paul 1, and John Kasich 1; for Vice President, Pence 37 and Carly Fiorina 1.
+**Maine appoints its electors proportionally. Clinton/Kaine won in the First Congressional District and took the state; Trump/Pence won the Second Congressional District. Maine's electoral votes were proportionally awarded accordingly: for President, Clinton 3 and Trump 1; for Vice President, Kaine 3 and Pence 1.
+***Texas does not appoint its electors proportionally. Due to faithless voting, the electoral votes for Texas were: for President, Trump 36, Ron Paul 1, and John Kasich 1; for Vice President, Pence 37 and Carly Fiorina 1.
 ****Washington does not appoint its electors proportionally. Due to faithless voting, the electoral votes for Washington were: for President, Clinton 8, Colin Powell 3, and Faith Spotted Eagle 1; for Vice President, Kaine 8, Elizabeth Warren 1, Susan Collins 1, Maria Cantwell 1, and Winona LaDuke 1.
 
 ### Political Contacts
@@ -69,8 +69,8 @@ Clyburn is not in my district, but as the sole Democrat in his gerrymandered Dis
 | **Washington, DC** |
 | 274 Cannon House Office Building<br />27 Independence Ave SE<br />Washington, DC 20515<br />Phone: <a href="tel:+12022553315">(202) 225-3315</a><br />Fax: <a href="tel:+12022252313">(202) 225-2313</a><br />Hours: Monday-Friday 9:00AM-5:00PM |
 | **Columbia, SC** |
-    | 1225 Lady Street, Suite 200<br />Columbia, SC 29201<br />Phone: <a href="tel:+18037991100">(803) 799-1100</a><br />Fax: <a href="tel:+18037999060">(803) 799-9060</a><br />Hours: Monday-Friday 9:00AM-5:00PM |
-    | **Sumter, SC** |
+| 1225 Lady Street, Suite 200<br />Columbia, SC 29201<br />Phone: <a href="tel:+18037991100">(803) 799-1100</a><br />Fax: <a href="tel:+18037999060">(803) 799-9060</a><br />Hours: Monday-Friday 9:00AM-5:00PM |
+| **Sumter, SC** |
 | 129 South Harvin Street<br />Sumter, SC 29150<br />Phone: <a href="tel:+18038835020">(803) 883-5020</a><br />Hours: 2nd and 4th Mondays 10:00AM–4:00PM |
 
 ##### [Trump Party](https://www.gop.com/)
