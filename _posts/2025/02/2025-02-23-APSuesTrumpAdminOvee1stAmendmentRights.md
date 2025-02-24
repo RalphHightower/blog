@@ -11,7 +11,7 @@ title: "Associated Press (AP) Sues White House Staff For Blocking Core Foundatio
 ---
 
 
-## [AP sues 3 Trump administration officials, citing freedom of speech / [AP News](https://apnews.com/article/ap-lawsuit-trump-administration-officials-0352075501b779b8b187667f3427e0e8)
+## [AP sues 3 Trump administration officials, citing freedom of speech / AP News](https://apnews.com/article/ap-lawsuit-trump-administration-officials-0352075501b779b8b187667f3427e0e8)
 
 By  DAVID BAUDER
 Updated 10:11 PM EST, February 21, 2025
