@@ -27,7 +27,7 @@ These are the key points from the article on cybersecurity.
 
 1. **[TSA](https://www.tsa.gov/) Chief Dismissal**: David Pekoske, the [TSA](https://www.tsa.gov/) chief responsible for critical cybersecurity improvements, was fired despite his contributions to pipeline, rail, and aviation sectors.
 
-2. **AI & Cryptocurrency**: [Trump](https://www.whitehouse.gov/) voided a [Biden](https://bidenwhitehouse.archives.gov/) executive order on AI research, promoting a new AI Action Plan and strategic national digital assets stockpile. The new administration’s stance on AI and cryptocurrency is influenced by [Trump](https://www.whitehouse.gov/) [family investments in memecoins]({% post_url 2025/01/2025-01-24-TrumpCryptoScam %}).
+2. **AI & Cryptocurrency**: [Trump](https://www.whitehouse.gov/) voided a [Biden](https://bidenwhitehouse.archives.gov/) executive order on AI research, promoting a new AI Action Plan and strategic national digital assets stockpile. The new administration’s stance on AI and cryptocurrency is influenced by [Trump](https://www.whitehouse.gov/) [family investments in memecoins]({% post_url /2025/01/2025-01-24-TrumpCryptoScam %}).
 
 3. **Weaponization & Disinformation**: [Trump](https://www.whitehouse.gov/) issued orders to end alleged weaponization of federal agencies and to restore free speech, impacting security, privacy, and civil liberties. This included pardoning individuals involved in the January 6 Capitol riot and asserting free speech rights against federal censorship.
 
