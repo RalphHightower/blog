@@ -2,7 +2,7 @@
 layout: page
 tags: [assholes, Donald Trump, Elon Musk, Betsy DeVos., MAGA billionaires, billionaire, Trump donors, Republican PAC]
 categories: [Telephone Numbers]
-date: 2025-02-22 8:02 PM
+date: 2025-02-24 8:27 PM
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description: 
@@ -16,8 +16,21 @@ The telephone numbers below have called and there is an empty person on the othe
 
 | Telephone Number | Location | Date Time[^11] | Caller | Social Media |
 |---|---|---|---|---|
-| <a href="tel:+18036633360">+1 (803) 663-3336</a> | SC. Graniteville | 2025-02-22 03:51 PM | | |
-| <a href="tel:+19283710340">+1 (928) 371-1034</a> | AZ. Phoenix | 2025-02-22 01:16 PM | | |
+| <a href="tel:+18039392321">+1 (803) 939-9232</a> | SC. Columbia | 2025-02-24 06:21 PM | McDaniels, Devin | |
+| <a href="tel:+18038483541">+1 (803) 848-8354</a> | SC. Sumter | 2025-02-24 06:19 PM | Potential Spam | |
+| <a href="tel:+18034306345">+1 (803) 430-0634</a> | SC. | 2025-02-24 05:36 PM | - | |
+| <a href="tel:+18032189127">+1 (803) 218-8912</a> | SC. Salley | 2025-02-24 04:24 PM | Potential Spam | |
+| <a href="tel:+18038881344">+1 (803) 888-8134</a> | SC. | 2025-02-24 04:19 PM | - | |
+| <a href="tel:+18036130186">+1 (803) 613-3018</a> | SC. North Augusta | 2025-02-24 03:15 PM | - | |
+| <a href="tel:+18035374735">+1 (803) 537-7473</a> | SC. Newberry | 2025-02-24 03:01 PM | - | |
+| <a href="tel:+18038234003">+1 (803) 823-3400</a> | SC. | 2025-02-24 02:47 PM | - | |
+| <a href="tel:+18035291406">+1 (803) 529-9140</a> | SC. Columbia | 2025-02-24 01:22 PM | Cust Svc | |
+| <a href="tel:+18038086057">+1 (803) 808-8605</a> | SC. Columbia | 2025-02-24 11:46 AM | Virginia T Murphy | |
+| <a href="tel:+18034836731">+1 (803) 483-3673</a> | SC. | 2025-02-24 11:01 AM | Mary Faraon | |
+| <a href="tel:+18039455878">+1 (803) 945-5587</a> | SC. Little Mountain | 2025-02-24 10:39 AM | - | |
+| <a href="tel:+18034909490">+1 (803) 490-0949</a> | SC. | 2025-02-24 09:30 AM | Felicia Kinney | |
+| <a href="tel:+18036633360">+1 (803) 663-3336</a> | SC. Graniteville | 2025-02-22 03:51 PM | - | |
+| <a href="tel:+19283710340">+1 (928) 371-1034</a> | AZ. Phoenix | 2025-02-22 01:16 PM | - | |
 | <a href="tel:+18037080663">+1 (803) 708-8066</a> | SC. Columbia | 2025-02-21 06:50 PM | Perfect Love Childcare | |
 | <a href="tel:+18038784675">+1 (803) 878-8467</a> | SC. Orangeburg | 2025-02-21 05:22 PM | - | |
 | <a href="tel:+18038509260">+1 (803) 850-0926</a> | SC. Fairfax | 2025-02-21 05:10 PM | Potential Spam | |
