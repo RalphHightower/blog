@@ -77,7 +77,7 @@ Clyburn is not in my district, but as the sole Democrat in his gerrymandered Dis
 
 ###### [Wilson, Joe (T-SC2)](https://joewilson.house.gov/)
 
-Little good that contacting Wilson will do. He's a political chameleon. First, he was a "Tea Bagger." Now, he's a Trumper. I haven’t voted for [Wilson](https://joewilson.house.gov/) ever since he [embarrassed](https://youtu.be/qgce06Yw2ro?si=_4lYajFhM0EEXhXT) [South Carolina](https://www sc gov/).
+Little good that contacting Wilson will do. He's a political chameleon. First, he was a "Tea Bagger." Now, he's a Trumper. I haven’t voted for [Wilson](https://joewilson.house.gov/) ever since he [embarrassed](https://youtu.be/qgce06Yw2ro?si=_4lYajFhM0EEXhXT) [South Carolina](https://www.sc.gov/).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5N-BRrhxh0Y?si=28YVkGCc6bmrFwl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -120,10 +120,10 @@ Class II.
 | **Golden Corner Office** |
 | 124 Exchange Street, Suite A<br />Pendleton, SC 29670<br />Main: <a href="tel:+18646464090">(864) 646-4090</a><br />Fax: <a href="tel:+18646468609">(864) 646-8609</a> |
 
-- [Trump's Poodle, Senator Lindsey Graham (T-SC), On NBC Meet The Press]({% post_url: 2025/01/2025-01-26-TrumpsPoodleOnMTP %})
-- [Sen. Lindsey Graham (T-SC) States That Trump Won't Prosecute Political Enemies. Yea, Right!]({% post_url: 2024/12/2024-12-15-LindseyGraham20241215MTP %})
-- [MSNBC Morning Joe Panel Discusses Kash Patel as Trump's Pick for FBI Director]({% post_url: 2024/12/2024-12-12-LindseyGrahamSupportsPatek4FBI %})
-- [Bless His Heart – Senator Lindsey Graham (T-SC): Why Are You "Republicans" Supporting Harris?]({% post_url: 2024/10/2024-10-20-AnswerToTrumpersSupportingHarris %})
+- [Trump's Poodle, Senator Lindsey Graham (T-SC), On NBC Meet The Press]({% post_url /2025/01/2025-01-26-TrumpsPoodleOnMTP %})
+- [Sen. Lindsey Graham (T-SC) States That Trump Won't Prosecute Political Enemies. Yea, Right!]({% post_url /2024/12/2024-12-15-LindseyGraham20241215MTP %})
+- [MSNBC Morning Joe Panel Discusses Kash Patel as Trump's Pick for FBI Director]({% post_url /2024/12/2024-12-12-LindseyGrahamSupportsPatek4FBI %})
+- [Bless His Heart – Senator Lindsey Graham (T-SC): Why Are You "Republicans" Supporting Harris?]({% post_url /2024/10/2024-10-20-AnswerToTrumpersSupportingHarris %})
 
 ##### [Scott, Tim (T-SC)](https://www.scott.senate.gov/)
 
@@ -144,7 +144,7 @@ Class III.
 | **Low Country** |
 | 2500 City Hall Lane<br />3rd Floor Suite<br />North Charleston, SC 29406<br />Phone: <a href="tel:+18437274525">(843) 727-4525</a><br />Fax: <a href="tel:+18558928355">(855) 802-9355</a> |
 
-- [Sen. Tim Scott (T-SC) Is Trump's Lawn Jockey]({% post_url: 2034/11/2024-11-04-TimScottIsTrumpsLawnJockey %})
+- [Sen. Tim Scott (T-SC) Is Trump's Lawn Jockey]({% post_url /2024/11/2024-11-04-TimScottIsTrumpsLawnJockey %})
 
 #### President
 
@@ -171,10 +171,10 @@ Class III.
 
 ##### My Dumb State: South Carolina
 
-- [🚨 My Dumb State, South Carolina: Attorney General Alan Wilson Is Not Interested In Protecting South Carolinians' Personal Identifiable Information (PII)In the Biggest Data Breach of the US Treasury Central Payment System! 🚨]({% post_url: 2025/02/2025-02-21-SC-AG-SupportsDOGE-DataBreachOfPII %})
-- [My Dumb State, South Carolina: South Carolina's Attorney General, Alan Wilson, Weaponizes State Government To Persecute Trump's Perceived Enemy, Dr. Anthony Fauci, For His COVID-19 Pandemic Response]({% post_url: 2025/02/2025-02-06-SCAGWeaponizesStateGovernment %})
-- [My Dumb State, South Carolina: South Carolina's Attorney General, Alan Wilson, Wants To Amend The Fourteenth Amendment]({% post_url: 2025/02/2025-02-07-SCAGWants14thAmendmentAmended %})
-- [My Dumb State: South Carolina Attorney General Alan Wilson & RAGA Sues Pennsylvania For Election Fraud Over 2020 Presidential Election]({% post_url: 2020/11/2020-11-09-SCAGSuesPA %})
+- [🚨 My Dumb State, South Carolina: Attorney General Alan Wilson Is Not Interested In Protecting South Carolinians' Personal Identifiable Information (PII)In the Biggest Data Breach of the US Treasury Central Payment System! 🚨]({% post_url /2025/02/2025-02-21-SC-AG-SupportsDOGE-DataBreachOfPII %})
+- [My Dumb State, South Carolina: South Carolina's Attorney General, Alan Wilson, Weaponizes State Government To Persecute Trump's Perceived Enemy, Dr. Anthony Fauci, For His COVID-19 Pandemic Response]({% post_url /2025/02/2025-02-06-SCAGWeaponizesStateGovernment %})
+- [My Dumb State, South Carolina: South Carolina's Attorney General, Alan Wilson, Wants To Amend The Fourteenth Amendment]({% post_url /2025/02/2025-02-07-SCAGWants14thAmendmentAmended %})
+- [My Dumb State: South Carolina Attorney General Alan Wilson & RAGA Sues Pennsylvania For Election Fraud Over 2020 Presidential Election]({% post_url /2020/11/2020-11-09-SCAGSuesPA %})
 
 ## Game Plan Strategy
 
@@ -364,7 +364,7 @@ Put the 6 numbers in your phone (all under P – Politician.) An example is Poli
    - **[Social Security Administration](https://www.ssa.gov/)**: Runs the Social Security retirement, survivors, and disability insurance programs.
    - **[Equal Employment Opportunity Commission](https://www.eeoc.gov/)**: The Equal Employment Opportunity Commission (EEOC) enforces laws that make discrimination illegal in the workplace. The commission oversees all types of work situations including hiring, firing, promotions, harassment, training, wages, and benefits.
 
-7. **[Starlink](https://www.starlink.com/)**:
+1. **[Starlink](https://www.starlink.com/)**:
    - **[Federal Aviation Administration (FAA)](https://www.fda.gov/)**: Regulates commercial space launches and reentries
    - **[Federal Trade Commission (FTC)](https://www.ftc.gov/)**: Ensures consumer protection and privacy standards.
    - **[Federal Communications Commission (FCC)](https://www.fcc.gov/)**: Regulates communications and broadcasting⁴.
