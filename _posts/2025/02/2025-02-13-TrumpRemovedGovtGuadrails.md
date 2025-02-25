@@ -65,7 +65,7 @@ By Colby Itkowitz, Yvonne Wingett Sanchez and Olivia George
 Inspector Generals[^81]:
 
 - serves as an independent auditor to the agency that they are assigned to and report on findings of waste, fraud, and abuse.
-[^81]: [Trump](https://www.whitehouse.gov/) [had fired 18 Inspector Generals earlier]({% post_url 2025/01/2025-01-26-IGsFiredFridayNightMassacre %}).
+[^81]: [Trump](https://www.whitehouse.gov/) [had fired 18 Inspector Generals earlier]({% post_url /2025/01/2025-01-26-IGsFiredFridayNightMassacre %}).
 
 [Merit Systems Protection Board](https://www.mspb.gov/):
 
@@ -99,7 +99,7 @@ Walter M. Shaub Jr., a former director of the [Office of Government Ethics](http
 
 - Susan Tsui Grundmann, chairwoman of the [Federal Labor Relations Authority](https//:www.flra.gov/), which protects federal employee unions from actions taken against them, also received her notice of termination earlier this week.
 
-The dismissals come on the heels of [Trump's](https://www.whitehouse.gov/) mass firing of [18 inspectors general]({% post_url 2025/01/2025-01-26-IGsFiredFridayNightMassacre %}) working within government agencies to identify waste and abuse. Inspectors general have fewer protections and can be removed by the president without cause, but [Congress](https://www.congress.gov/) is supposed to receive at least 30 days’ notice of a termination. Several of those fired in the latest round have sued the administration and said they are confident of their legal recourse.
+The dismissals come on the heels of [Trump's](https://www.whitehouse.gov/) mass firing of [18 inspectors general]({% post_url /2025/01/2025-01-26-IGsFiredFridayNightMassacre %}) working within government agencies to identify waste and abuse. Inspectors general have fewer protections and can be removed by the president without cause, but [Congress](https://www.congress.gov/) is supposed to receive at least 30 days’ notice of a termination. Several of those fired in the latest round have sued the administration and said they are confident of their legal recourse.
 
 Some critics likened the current pace of firings to the atmosphere during the presidency of [Richard M. Nixon](https://en.wikipedia.org/wiki/Richard_Nixon), who during the [Watergate](https://www.archives.gov/research/investigations/watergate) scandal in 1973 infamously ordered the firing of special prosecutor Archibald Cox, the lead investigator of the president’s role in the break-in. Cox had refused [Nixon](https://en.wikipedia.org/wiki/Richard_Nixon)’s request to drop a subpoena of his White House tape recordings. But top Justice Department officials in turn refused to fire Cox, resigning instead, in an episode that became known as the Saturday Night Massacre and that contributed to the filing of impeachment charges against [Nixon](https://en.wikipedia.org/wiki/Richard_Nixon) 10 days later.
 
