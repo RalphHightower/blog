@@ -106,7 +106,7 @@ ai_related_posts:
 
 # Optional. The default date format is used if none is specified in the tag.
 last-modified-at:
-  date-format: "%F %r"
+  date-format: "%b %e, %Y %I:%M %p %Z, %a"
 
 optional_front_matter:
   remove_originals: true
