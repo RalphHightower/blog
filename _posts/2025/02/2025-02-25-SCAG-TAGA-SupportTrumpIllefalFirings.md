@@ -35,7 +35,7 @@ The as-filed briefs are available [here](https://www.scag.gov/media/onaat03s/del
 
 [^1201]: Gwynne A. Wilcox[^1202] [National Labor Relations Board (NLRB)](https://www.nlrb.gov/). The National Labor Relations Board (NLRB) enforces the National Labor Relations Act by investigating allegations of wrong-doing brought by workers, unions, or employers, conducting elections, and deciding and resolving cases.
 
-[^1202]: The Board has five Members and primarily acts as a quasi-judicial body in deciding cases on the basis of formal records in administrative proceedings. Board Members are appointed by the President to [5-year terms, with Senate consent, the term of one Member expiring each year](https://www.nlrb.gov/about-nlrb/who-we-are/the-board). Gwen Wilcox term does not enf until August 27, 2028. This is another blatant example of [Trump](https://www.whitehouse.gov/administration/donald-j-trump/u) ignoring laws.
+[^1202]: The Board has five Members and primarily acts as a quasi-judicial body in deciding cases on the basis of formal records in administrative proceedings. Board Members are appointed by the President to [5-year terms, with Senate consent, the term of one Member expiring each year](https://www.nlrb.gov/about-nlrb/who-we-are/the-board). Gwen Wilcox term does not end until August 27, 2028. This is another blatant example of [Trump](https://www.whitehouse.gov/administration/donald-j-trump/u) ignoring laws.
 
 [^1301]: Robert P. Storch, Inspector General at [Department of Defense](https://www.defense.gov/). The Department of Defense (DOD) provides the military forces needed to deter war, and to protect the security of the United States. 
 
