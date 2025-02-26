@@ -171,6 +171,7 @@ Class III.
 
 ##### My Dumb State: South Carolina
 
+- [My Dumb State, South Carolina: Supports Trump’s Illegal, Lawless Firings Of Government Watchdogs]({% post_url/2025/02/2025-02-25-SCAG-TAGA-SupportTrumpIllefalFirings %})
 - [🚨 My Dumb State, South Carolina: Attorney General Alan Wilson Is Not Interested In Protecting South Carolinians' Personal Identifiable Information (PII)In the Biggest Data Breach of the US Treasury Central Payment System! 🚨]({% post_url /2025/02/2025-02-21-SC-AG-SupportsDOGE-DataBreachOfPII %})
 - [My Dumb State, South Carolina: South Carolina's Attorney General, Alan Wilson, Weaponizes State Government To Persecute Trump's Perceived Enemy, Dr. Anthony Fauci, For His COVID-19 Pandemic Response]({% post_url /2025/02/2025-02-06-SCAGWeaponizesStateGovernment %})
 - [My Dumb State, South Carolina: South Carolina's Attorney General, Alan Wilson, Wants To Amend The Fourteenth Amendment]({% post_url /2025/02/2025-02-07-SCAGWants14thAmendmentAmended %})
