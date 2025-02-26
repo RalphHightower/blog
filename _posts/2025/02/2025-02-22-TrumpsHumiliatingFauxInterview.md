@@ -1,8 +1,8 @@
 ---
 layout: post
-tags: []
-categories: []
-date: 2019-06-25 13:14:15
+tags: [Mary Trump Media, Faux News, North Atlantic Treaty Organization (NATO), European Union (EU), Volodymyr Zelenskyy, Ukraine (UA), Vladimir Putin, Russia (RU), United Nations (UN), Kristi Noem, Department of Homeland Security (DHS), Elon Musk, Boring, Neuralink, SpaceX, Starlink, Tesla, Twitter, X, xAI, White House (WH), President Of The United States (POTUS), politics]
+categories: [Donald Trump]
+date: 2025-02-22 8:44 PM
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
@@ -24,25 +24,25 @@ Feb 19, 2025  #marytrump #trumpcabinet [#donaldtrump](https://www.whitehouse.gov
 - not satisfied with Holman that deportations numbers down 
 - [Elon](https://x.com/elonmusk/) conflict of interest: will recuse self on company
 - [USAID](https://www.usaid.gov/)
-- mandate from American people give [Trump](https://www whitehouse.gov/) to slash burn. Unelected bureaucracy to roadblock [Trump](https://www whitehouse.gov/). 
+- mandate from American people give [Trump](https://www whitehouse.gov/) to slash burn. Unelected bureaucracy to roadblock [Trump](https://www.whitehouse.gov/). 
 - Civil servants nonpartisan to help run government help people 
 - bureaucracy is not a form of government 
 - laid-off national nuclear safety administration. Tried to hire them back but don't have contact information 
 - [usda](https://www.usda.gov/) accidentally fired people on bir flu
 - incinerate COVID-19 test $500 million of tests
 - abandon [Ukraine](https://www..gov.ua/) and [Europe](https://commission.europa.eu/) 
-- [Trump](https://www whitehouse.gov/) claims [Zelenskyy](https://www.president.gov.ua/) is dictator 
+- [Trump](https://www whitehouse.gov/) claims [Zelenskyy](https://www.president.gov.ua/) is dictator
 
 - [Faux News](https://www.foxnews.com/)
 - [North Atlantic Treaty Organization (NATO)](https://www.nato.int/)
-- [European Union](https://commission.europa.eu/)
+- [European Union (EU)](https://commission.europa.eu/)
 - [Volodymyr Zelenskyy](https://www.president.gov.ua/)
-- [Ukraine](https://www..gov.ua/)
+- [Ukraine (UA)](https://www..gov.ua/)
 - [Vladimir Putin](http://kremlin.ru/)
-- [Russia](http://government.ru/)
-- [United Nations](https://www.un.org/)
+- [Russia (RU)](http://government.ru/)
+- [United Nations (UN)](https://www.un.org/)
 - [Kristi Noem](https://www.dhs.gov/person/kristi-noe)
-- [Department of Homeland Security](https://www.dhs.gov/)
+- [Department of Homeland Security (DHS)](https://www.dhs.gov/)
 - [Elon Musk](https://x.com/elonmusk/)
 - [Boring](https://www.boringcompany.com/)
 - [Neuralink](https://neuralink.com/)
@@ -52,8 +52,8 @@ Feb 19, 2025  #marytrump #trumpcabinet [#donaldtrump](https://www.whitehouse.gov
 - [Twitter](https://twitter.com/)
 - [ X ](https://x.com/)
 - [xAI](https://x.ai/)
-- [White House](https://www.whitehouse.gov/)
-- [President Of The United States](https://www.whitehouse.gov/)
+- [White House (WH)](https://www.whitehouse.gov/)
+- [President Of The United States (POTUS)](https://www.whitehouse.gov/)
 - politics
 
 ### Election Results
