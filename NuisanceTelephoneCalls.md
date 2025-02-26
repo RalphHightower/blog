@@ -26,7 +26,6 @@ The telephone numbers below have called and there is an empty person on the othe
 | <a href="tel:+18035206779">+1 (803) 520-0677</a> | SC. Lexington | 2025-02-25 11:14 AM | Cindy Merrow | |
 | <a href="tel:+18033288315">+1 (803) 328-8831</a> | SC. Rock Hill | 2025-02-25 09:21 AM | Young David | |
 | <a href="tel:+18034540429">+1 (803) 454-4042</a> | SC. Columbia | 2025-02-25 09:17 AM | - | |
-| | | 2025-02-25 0 | | |
 | <a href="tel:+18034909490">+1 (803) 490-0949</a> | SC. | 2025-02-24 09:36 AM | Felicia Kinney | |
 | <a href="tel:+18038469930">+1 (803) 846-6993</a> | SC. Columbia | 2023-09-01 06:11 AM | Dash Eric #WrongNumber |  |
 | <a href="tel:+18038469930">+1 (803) 846-6993</a> | SC. Columbia | 2023-09-01 06:27 AM | Dash Eric #WrongNumber |  |
