@@ -85,7 +85,7 @@ Little good that contacting Wilson will do. He's a political chameleon. First, h
 
 | Washington, DC Office | Aiken/Barnwell Office | The Midlands Office |
 |---|---|---|
-| 1436 Longworth House Office Building<br />1 Independence Ave SE<br />Washington, DC  20515<br />Phone: <a href="tel:+12022252452">(202) 225-2452</a> | 1930 University Parkway, Suite 1600<br />Aiken, SC  29801<br />Phone: <a href="tel:+18036426416">(803) 642-6416</a><br />Fax: <a href="tel:+18036426417">(803) 642-6418</a> | 1700 Sunset Blvd (US 378), Suite 1<br />West Columbia, SC  29169<br />Phone: <a href="tel:+18038390041">(803) 939-0041</a><br />Fax: <a href="tel:+18038380078">(803) 939-0078</a> |
+| 1436 Longworth House Office Building<br />1 Independence Ave SE<br />Washington, DC  20515<br />Phone: <a href="tel:+12022252452">(202) 225-2452</a> | 1930 University Parkway, Suite 1600<br />Aiken, SC  29801<br />Phone: <a href="tel:+18036426416">(803) 642-6416</a><br />Fax: <a href="tel:+18036426418">(803) 642-6418</a> | 1700 Sunset Blvd (US 378), Suite 1<br />West Columbia, SC  29169<br />Phone: <a href="tel:+18038390041">(803) 939-0041</a><br />Fax: <a href="tel:+18038380078">(803) 939-0078</a> |
 
 #### [US Senate](https://www.senate.gov/)
 
@@ -108,11 +108,11 @@ Class II.
 | **Washington D.C. Office** |
 | 211 Russell Senate Office Building<br />2 Constitution Ave NE<br />Washington, DC 20510<br />Office: <a href="tel:+12022245972">(202) 224-5972</a><br />Fax: <a href="tel:+12022243808">(202) 224-3808</a> |
 | **Upstate Office** |
-| 2 West Washington Street, Suite 808<br />Greenville, SC 29601<br />Main: <a href="tel:+18642501416">(864) 250-1417</a><br />Fax: <a href="tel:+18642504322">(864) 250-4322</a> |
+| 2 West Washington Street, Suite 808<br />Greenville, SC 29601<br />Main: <a href="tel:+18642501417">(864) 250-1417</a><br />Fax: <a href="tel:+18642504322">(864) 250-4322</a> |
 | **Midlands Office** |
 | 2142 Boyce Street, Suite 404<br />Columbia, SC 29201<br /><a href="tel:+18039330112">(803) 933-0112</a> office<br /><a href="tel:+18039330957">(803) 933-0957</a> fax |
 | **Pee Dee Office** |
-| McMillan Federal Building<br />401 West Evans Street, Suite 111<br />Florence, SC 29501<br />Main: <a href="tel:+18436681504">(843) 669-1505_/a><br />Fax: <a href="tel:+18336699015">(843) 669-9015</a> |
+| McMillan Federal Building<br />401 West Evans Street, Suite 111<br />Florence, SC 29501<br />Main: <a href="tel:+18436681505">(843) 669-1505_/a><br />Fax: <a href="tel:+18336699015">(843) 669-9015</a> |
 | **Lowcountry Office** |
 | 4 Carriage Lane, Suite 401<br />Charleston, SC 29407<br />Main: <a href="tel:+18438493887">(843) 849-3887</a><br />Fax: <a href="tel:+18439713669">(843) 971-3669</a> |
 | **Piedmont Office** |
@@ -142,7 +142,7 @@ Class III.
 | **Upstate** |
 | 301 N. Main Street<br />Suite 1006<br />Greenville, SC 29601<br />Phone: <a href="tel:+18642235366">(864) 233-5366</a><br />Fax: <a href="tel:+18558929355">(855) 802-9355</a> |
 | **Low Country** |
-| 2500 City Hall Lane<br />3rd Floor Suite<br />North Charleston, SC 29406<br />Phone: <a href="tel:+18437274525">(843) 727-4525</a><br />Fax: <a href="tel:+18558928355">(855) 802-9355</a> |
+| 2500 City Hall Lane<br />3rd Floor Suite<br />North Charleston, SC 29406<br />Phone: <a href="tel:+18437274525">(843) 727-4525</a><br />Fax: <a href="tel:+18558929355">(855) 802-9355</a> |
 
 - [Sen. Tim Scott (T-SC) Is Trump's Lawn Jockey]({% post_url /2024/11/2024-11-04-TimScottIsTrumpsLawnJockey %})
 
@@ -171,13 +171,15 @@ Class III.
 
 ##### My Dumb State: South Carolina
 
-- [My Dumb State, South Carolina: Supports Trump’s Illegal, Lawless Firings Of Government Watchdogs]({% post_url/2025/02/2025-02-25-SCAG-TAGA-SupportTrumpIllefalFirings %})
+- [My Dumb State, South Carolina: Supports Trump’s Illegal, Lawless Firings Of Government Watchdogs]({% post_url/2025/02/2025-02-25-SCAG-TAGA-SupportTrumpIllegalFirings %})
 - [🚨 My Dumb State, South Carolina: Attorney General Alan Wilson Is Not Interested In Protecting South Carolinians' Personal Identifiable Information (PII)In the Biggest Data Breach of the US Treasury Central Payment System! 🚨]({% post_url /2025/02/2025-02-21-SC-AG-SupportsDOGE-DataBreachOfPII %})
 - [My Dumb State, South Carolina: South Carolina's Attorney General, Alan Wilson, Weaponizes State Government To Persecute Trump's Perceived Enemy, Dr. Anthony Fauci, For His COVID-19 Pandemic Response]({% post_url /2025/02/2025-02-06-SCAGWeaponizesStateGovernment %})
 - [My Dumb State, South Carolina: South Carolina's Attorney General, Alan Wilson, Wants To Amend The Fourteenth Amendment]({% post_url /2025/02/2025-02-07-SCAGWants14thAmendmentAmended %})
 - [My Dumb State: South Carolina Attorney General Alan Wilson & RAGA Sues Pennsylvania For Election Fraud Over 2020 Presidential Election]({% post_url /2020/11/2020-11-09-SCAGSuesPA %})
 
 ## Game Plan Strategy
+
+@RalphHightower: What's below the chapter headings are summaries of the chapters. Click on the headings to read the full chapters.
 
 ### [Indivisible](https://indivisible.org/)
 

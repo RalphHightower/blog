@@ -16,9 +16,10 @@ The telephone numbers below have called and there is an empty person on the othe
 
 | Telephone Number | Location | Date Time[^11] | Caller | Social Media |
 |---|---|---|---|---|
+| <a href="tel:+18033273532">+1 (803) 327-3532</a> | SC. | 2025-02-26 06:09 ¤¤ PM | Murnane Michael | |
 | <a href="tel:+18033273532">+1 (803) 327-3532</a> | SC. | 2025-02-26 06:08 PM | Murnane Michael | |
 | <a href="tel:+18033998919">+1 (803) 399-8919</a> | SC. Lexington | 2025-02-26 05:47 PM | Heather Ford | |
-| <a href="tel:+18035472731">+1 (803) 547-2731</a> | SC. Fort Mill | 2025-02-26 05:27 PM | Rufin Hilda | |
+| <a href="tel:+18035472731">+1 (803) 547-2731</a> | SC. Fort Mill | 2025-02-26 05:27 PM | Ruffin Hilda | |
 | <a href="tel:+18038075459">+1 (803) 807-5459</a> | SC. Columbia | 2025-02-26 04:48 PM | - | |
 | <a href="tel:+18036044427">+1 (803) 604-4427</a> | SC. Batesburg | 2025-02-26 04:03 PM | - | |
 | <a href="tel:+18038796520">+1 (803) 879-6520</a> | SC. | 2025-02-26 03:30 PM | - | |
