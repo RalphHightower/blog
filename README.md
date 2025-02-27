@@ -35,14 +35,15 @@ This blog is built on [Jekyll](https://www.jekyllrb.com/); the source code is av
 ### Discussions
 
 - [RalphHightower/blog · Discussions · GitHub](https://github.com/RalphHightower/blog/discussions)
-  - Announcements
-  - Blog Commentary
-  - General 
-  - Guidelines, Rules, Policies
-  - Notes
-  - Ideas
-  - Polls
-  - Q&A
+    - [Announcements](https://github.com/RalphHightower/blog/discussions/categories/announcements)
+    - [Blog Commentary](https://github.com/RalphHightower/blog/discussions/categories/blog-commentary)
+    - [General](https://github.com/RalphHightower/blog/discussions/categories/general)
+    - [Guidelines, Policies, Rules](https://github.com/RalphHightower/blog/discussions/categories/guidelines-policies-rules)
+    - [Ideas](https://github.com/RalphHightower/blog/discussions/categories/ideas)
+    - [Notes](https://github.com/RalphHightower/blog/discussions/categories/notes)
+    - [Polls](https://github.com/RalphHightower/blog/discussions/categories/polls)
+    - [Q&A](https://github.com/RalphHightower/blog/discussions/categories/q-a)
+    - [References](https://github.com/RalphHightower/blog/discussions/categories/references)
 
 ### Issues
 
