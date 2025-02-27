@@ -2,7 +2,7 @@
 layout: page
 tags: [assholes, Donald Trump, Elon Musk, Betsy DeVos., MAGA billionaires, billionaire, Trump donors, Republican PAC]
 categories: [Telephone Numbers]
-date: 2025-02-25 7:58 PM
+date: 2025-02-26 9:10 PM
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description: 
@@ -16,6 +16,24 @@ The telephone numbers below have called and there is an empty person on the othe
 
 | Telephone Number | Location | Date Time[^11] | Caller | Social Media |
 |---|---|---|---|---|
+| <a href="tel:+18033273532">+1 (803) 327-3532</a> | SC. | 2025-02-26 06:08 PM | Murnane Michael | |
+| <a href="tel:+18033998919">+1 (803) 399-8919</a> | SC. Lexington | 2025-02-26 05:47 PM | Heather Ford | |
+| <a href="tel:+18035472731">+1 (803) 547-2731</a> | SC. Fort Mill | 2025-02-26 05:27 PM | Rufin Hilda | |
+| <a href="tel:+18038075459">+1 (803) 807-5459</a> | SC. Columbia | 2025-02-26 04:48 PM | - | |
+| <a href="tel:+18036044427">+1 (803) 604-4427</a> | SC. Batesburg | 2025-02-26 04:03 PM | - | |
+| <a href="tel:+18038796520">+1 (803) 879-6520</a> | SC. | 2025-02-26 03:30 PM | - | |
+| <a href="tel:+18034996502">+1 (803) 499-6502</a> | SC. | 2025-02-26 03:15 PM | Lisa Fadden | |
+| <a href="tel:+18033492423">+1 (803) 349-2423</a> | SC. | 2025-02-26 02:46 PM | - | |
+| <a href="tel:+18033866795">+1 (803) 386-6795</a> | SC. Columbia | 2025-02-26 02:26 PM | - | |
+| <a href="tel:+18033968854">+1 (803) 396-8854</a> | SC. Fort Mill | 2025-02-26 12:43 PM | Folger Paul & D | |
+| <a href="tel:+18038787957">+1 (803) 878-7957</a> | SC. Orangeburg | 2025-02-26 12:41 PM | - | |
+| <a href="tel:+13855290617">+1 +1 (385) 529-0617</a> | UT. West Jordan | 2025-02-26 12:22 PM | #TaxFraud | |
+| <a href="tel:+15406190202">+1 (540) 619-0202</a> | VA. Hamilton | 2025-02-26 12:21 PM | - | |
+| <a href="tel:+18032192616">+1 (803) 219-2616</a> | SC Blackville | 2025-02-26 11:46 AM | Potential Spam | |
+| <a href="tel:+18032192616">+1 (803) 219-2616</a> | SC Blackville | 2025-02-26 11:46 AM | Potential Spam | |
+| <a href="tel:+18034925629">+1 (803) 492-5629</a> | SC. Eutawville | 2025-02-26 10:06 AM | - | |
+| <a href="tel:+18032270341">+1 (803) 227-0341</a> | SC. | 2025-02-26 10:00 AM | Potential Spam | |
+| <a href="tel:+18033273532">+1 (803) 327-3532</a> | SC. | 2025-02-26 06:09 PM¤¤ | Murnane Michael | |
 | <a href="tel:+18036308295">+1 (803) 630-8295</a> | SC Clover | 2025-02-25 06:55 PM | Potential Spam | |
 | <a href="tel:+18039623457">+1 (803) 962-3457</a> | SC. Fort Mill | 2025-02-25 06:38 PM | Potential Spam | |
 | <a href="tel:+18038739270">+1 (803) 873-9270</a> | SC. Columbia | 2025-02-25 04:53 PM | USDAAPHISPROD | |
