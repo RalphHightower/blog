@@ -7,7 +7,7 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: "Trump Party Legislators Are Heading Straight Into a Buzzsaw. Actually, I'd Prefer the Guillotine For Them"
+title: "Trump Party Legislators Are Heading Straight Into a Woodchipper"
 ---
 
 
