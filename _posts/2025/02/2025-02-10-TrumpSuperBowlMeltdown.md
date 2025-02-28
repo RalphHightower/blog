@@ -51,4 +51,4 @@ Trump thought he could control the narrative, but his Super Bowl interviews were
 - [Canada (CA)](https://www.canada.ca/)
 - Tariffs (steel, aluminum)
 - [Volodymyr Zelenskyy](https://www.president.gov.ua/)
-- [Ukraine](https://www..gov.ua/)
+- [Ukraine](https://www.gov.ua/)

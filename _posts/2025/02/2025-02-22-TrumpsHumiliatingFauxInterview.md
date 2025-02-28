@@ -24,20 +24,20 @@ Feb 19, 2025  #marytrump #trumpcabinet [#donaldtrump](https://www.whitehouse.gov
 - not satisfied with Holman that deportations numbers down 
 - [Elon](https://x.com/elonmusk/) conflict of interest: will recuse self on company
 - [USAID](https://www.usaid.gov/)
-- mandate from American people give [Trump](https://www whitehouse.gov/) to slash burn. Unelected bureaucracy to roadblock [Trump](https://www.whitehouse.gov/). 
+- mandate from American people give [Trump](https://www whitehouse.gov/) to slash burn. Unelected bureaucracy to roadblock [Trump](https://www whitehouse.gov/). 
 - Civil servants nonpartisan to help run government help people 
 - bureaucracy is not a form of government 
 - laid-off national nuclear safety administration. Tried to hire them back but don't have contact information 
 - [usda](https://www.usda.gov/) accidentally fired people on bir flu
 - incinerate COVID-19 test $500 million of tests
-- abandon [Ukraine](https://www..gov.ua/) and [Europe](https://commission.europa.eu/) 
-- [Trump](https://www whitehouse.gov/) claims [Zelenskyy](https://www.president.gov.ua/) is dictator
+- abandon [Ukraine](https://www.gov.ua/) and [Europe](https://commission.europa.eu/) 
+- [Trump](https://www whitehouse.gov/) claims [Zelenskyy](https://www.president.gov.ua/) is dictator 
 
 - [Faux News](https://www.foxnews.com/)
 - [North Atlantic Treaty Organization (NATO)](https://www.nato.int/)
 - [European Union (EU)](https://commission.europa.eu/)
 - [Volodymyr Zelenskyy](https://www.president.gov.ua/)
-- [Ukraine (UA)](https://www..gov.ua/)
+- [Ukraine (UA)](https://www.gov.ua/)
 - [Vladimir Putin](http://kremlin.ru/)
 - [Russia (RU)](http://government.ru/)
 - [United Nations (UN)](https://www.un.org/)
