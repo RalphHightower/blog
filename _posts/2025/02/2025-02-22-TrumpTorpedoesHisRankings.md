@@ -29,7 +29,7 @@ Feb 20, 2025  #marytrump #trumpcabinet [#donaldtrump](https://www.whitehouse.gov
 - [North Atlantic Treaty Organization (NATO)](https://www.nato.int/)
 - [European Union](https://commission.europa.eu/)
 - [Volodymyr Zelenskyy](https://www.president.gov.ua/)
-- [Ukraine](https://www..gov.ua/)
+- [Ukraine](https://www.gov.ua/)
 - [Vladimir Putin](http://kremlin.ru/)
 - [Russia](http://government.ru/)
 - [United Nations](https://www.un.org/)

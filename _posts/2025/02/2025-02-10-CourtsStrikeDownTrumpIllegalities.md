@@ -19,7 +19,7 @@ Trump’s latest overreach sparks legal battles—will he ignore the courts? Wat
 
 - [US Aid for International Development (USAID)](https://www.usaid.gov/)
 - [Starlink](https://www.starlink.com/)
-- [Ukraine](https://www..gov.ua/)
+- [Ukraine](https://www.gov.ua/)
 - Inspector General (USAID)
 - strategic purge
 - [Tesla](https://www.tesla.com/)
