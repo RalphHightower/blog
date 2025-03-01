@@ -8,7 +8,7 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: "Project 3025, Which Trump Claims He Knew Nothing About, Is Decimating Federal Government Like Massive Wildfires 🔥" 
+title: "Project 2025, Which Trump Claims He Knew Nothing About, Is Decimating Federal Government Like Massive Wildfires 🔥" 
 ---
 
 
