@@ -1,13 +1,14 @@
 ---
 layout: post
-tags: []
-categories: []
-#date: 2019-06-25 13:14:15
-#excerpt: ''
+tags: [Social Security Administration (SSA), Project 2025, White House (WH), President Of The United States (POTUS), 
+President Donald J. Trump, Department of Government Efficiency (DOGE), Elon Musk, Boring, Neuralink, SpaceX, Starlink, Tesla, Twitter, X, xAI, politics]
+categories: [Donald Trump]
+date: 2025-02-28 12:39 PM
+excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: 'title'
+title: "Project 3025, Which Trump Claims He Knew Nothing About, Is Decimating Federal Government Like Massive Wildfires 🔥" 
 ---
 
 
@@ -17,9 +18,9 @@ There is no *silver* lining to this massive slash and burn of the Federal Govern
 
 Unemployment will skyrocket, inflation will rise, stock markets will crash. 
 
-### Election Results
+It is in [Project 2025's](https://www.project2025.org/) to slash the civil servant workforce cutting services to Americans!
 
-Don
+### Election Results
 
 #### [2024 Presidential Election Results – Federal Election Commission (FEC)](https://www.fec.gov/resources/cms-content/documents/2024presgeresults.pdf)
 
@@ -52,7 +53,6 @@ Don
 **[Maine](https://www.maine.gov/) appoints its electors proportionally. Clinton/Kaine won in the First Congressional District and took the state; Trump/Pence won the Second Congressional District. [Maine's](https://www.maine.gov/) electoral votes were proportionally awarded accordingly: for President, Clinton 3 and Trump 1; for Vice President, Kaine 3 and Pence 1.
 ***[Texas](https://www.texas.gov/) does not appoint its electors proportionally. Due to faithless voting, the electoral votes for Texas were: for President, Trump 36, Ron Paul 1, and John Kasich 1; for Vice President, Pence 37 and Carly Fiorina 1.
 ****[Washington](https://www.wa.gov/) does not appoint its electors proportionally. Due to faithless voting, the electoral votes for [Washington](https://www.wa.gov/) were: for President, Clinton 8, Colin Powell 3, and Faith Spotted Eagle 1; for Vice President, Kaine 8, Elizabeth Warren 1, Susan Collins 1, Maria Cantwell 1, and Winona LaDuke 1.
-
 
 ## [Press Release / Press Office / SSA](https://www.ssa.gov/news/press/releases/2025/#2025-02-27)
 
@@ -130,6 +130,19 @@ To get more [Social Security](https://www.ssa.gov/) news, follow the Press Offic
 
 ----
 
+- [Social Security Administration (SSA)](https://www.ssa.gov/)
+- [Project 2025](https://www.project2025.org/)
 - [White House (WH)](https://www.whitehouse.gov/)
 - [President Of The United States (POTUS)](https://www.whitehouse.gov/)
 - [President Donald J. Trump](https://www.whitehouse.gov/administration/donald-j-trump/)
+- [Department of Government Efficiency (DOGE)](https://www.doge.gov/)
+- [Elon Musk](https://x.com/elonmusk/)
+- [Boring](https://www.boringcompany.com/)
+- [Neuralink](https://neuralink.com/)
+- [SpaceX](https://www.spacex.com/)
+- [Starlink](https://www.starlink.com/)
+- [Tesla](https://www.tesla.com/)
+- [Twitter](https://twitter.com/)
+- [ X ](https://x.com/)
+- [xAI](https://x.ai/)
+- politics
