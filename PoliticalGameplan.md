@@ -10,7 +10,6 @@ excerpt: ''
 title: "Resistance Is Not Futile!"
 ---
 
-
 ## We Are The *"Enemy Within"*
 
 [Trump](https://www.whitehouse.gov/) did not win by a mandate. He did not cross over 50% in 2024 or 2016, although he got 9 more electoral votes the third time around. His margin of victory was less than 1.5%, 1.48% to be exact. I don’t give a shit about those election deniers; these are the undisputed numbers as recorded by the [Federal Election Commission](https://www.fec.gov/).
@@ -27,7 +26,7 @@ title: "Resistance Is Not Futile!"
 
 #### [2020 Presidential Election Results – Federal Election Commission (FEC)](https://www.fec.gov/resources/cms-content/documents/federalelections2020.pdf)
 
-| Candidate | Votes | Percentage | Electoral College
+| Candidate | Votes | Percentage | Electoral College|
 |---|--:|---:|---:|
 | Biden (D) | 81,283,501 | 51.31% | 306 |
 | Trump (T) | 74,223,975 | 46.85% | 232 |
@@ -64,14 +63,14 @@ Clyburn is not in my district, but as the sole Democrat in his gerrymandered Dis
 | Office Locations |
 |---|
 | **Kingstree, SC** |
-| 130 W. Main Street<br />Kingstree, SC 29556<br />Phone: <a href="tel:+18433551211">(843) 355-1211</a><br />Fax: <a href="tel:+18433551232">(843) 355-1232</a><br />Hours: Monday-Friday 9:00AM-5:00PM |
-| **Santee, SC**<br >176 Municipal Way<br />Santee, SC 29142<br />Phone: <a href="tel:+18038544700">(803) 854-4700</a><br />Fax: <a href="tel:+18038544900">(803) 854-4900</a><br />Hours: Monday-Friday 9:00AM-5:00PM |
+| 130 W. Main Street <br /> Kingstree, SC 29556 <br /> Phone: <a href="tel:+18433551211">(843) 355-1211</a> <br /> Fax: <a href="tel:+18433551232">(843) 355-1232</a> <br /> Hours: Monday-Friday 9:00AM-5:00PM |
+| **Santee, SC**<br >176 Municipal Way <br /> Santee, SC 29142 <br /> Phone: <a href="tel:+18038544700">(803) 854-4700</a> <br /> Fax: <a href="tel:+18038544900">(803) 854-4900</a> <br /> Hours: Monday-Friday 9:00AM-5:00PM |
 | **Washington, DC** |
-| 274 Cannon House Office Building<br />27 Independence Ave SE<br />Washington, DC 20515<br />Phone: <a href="tel:+12022553315">(202) 225-3315</a><br />Fax: <a href="tel:+12022252313">(202) 225-2313</a><br />Hours: Monday-Friday 9:00AM-5:00PM |
+| 274 Cannon House Office Building <br /> 27 Independence Ave SE <br /> Washington, DC 20515 <br /> Phone: <a href="tel:+12022553315">(202) 225-3315</a> <br /> Fax: <a href="tel:+12022252313">(202) 225-2313</a> <br /> Hours: Monday-Friday 9:00AM-5:00PM |
 | **Columbia, SC** |
-| 1225 Lady Street, Suite 200<br />Columbia, SC 29201<br />Phone: <a href="tel:+18037991100">(803) 799-1100</a><br />Fax: <a href="tel:+18037999060">(803) 799-9060</a><br />Hours: Monday-Friday 9:00AM-5:00PM |
+| 1225 Lady Street, Suite 200 <br /> Columbia, SC 29201 <br /> Phone: <a href="tel:+18037991100">(803) 799-1100</a> <br /> Fax: <a href="tel:+18037999060">(803) 799-9060</a> <br /> Hours: Monday-Friday 9:00AM-5:00PM |
 | **Sumter, SC** |
-| 129 South Harvin Street<br />Sumter, SC 29150<br />Phone: <a href="tel:+18038835020">(803) 883-5020</a><br />Hours: 2nd and 4th Mondays 10:00AM–4:00PM |
+| 129 South Harvin Street <br /> Sumter, SC 29150 <br /> Phone: <a href="tel:+18038835020">(803) 883-5020</a> <br /> Hours: 2nd and 4th Mondays 10:00AM–4:00PM |
 
 ##### [Trump Party](https://www.gop.com/)
 
@@ -85,7 +84,7 @@ Little good that contacting Wilson will do. He's a political chameleon. First, h
 
 | Washington, DC Office | Aiken/Barnwell Office | The Midlands Office |
 |---|---|---|
-| 1436 Longworth House Office Building<br />1 Independence Ave SE<br />Washington, DC  20515<br />Phone: <a href="tel:+12022252452">(202) 225-2452</a> | 1930 University Parkway, Suite 1600<br />Aiken, SC  29801<br />Phone: <a href="tel:+18036426416">(803) 642-6416</a><br />Fax: <a href="tel:+18036426418">(803) 642-6418</a> | 1700 Sunset Blvd (US 378), Suite 1<br />West Columbia, SC  29169<br />Phone: <a href="tel:+18038390041">(803) 939-0041</a><br />Fax: <a href="tel:+18038380078">(803) 939-0078</a> |
+| 1436 Longworth House Office Building <br /> 1 Independence Ave SE <br /> Washington, DC  20515 <br /> Phone: <a href="tel:+12022252452">(202) 225-2452</a> | 1930 University Parkway, Suite 1600 <br /> Aiken, SC  29801 <br /> Phone: <a href="tel:+18036426416">(803) 642-6416</a> <br /> Fax: <a href="tel:+18036426418">(803) 642-6418</a> | 1700 Sunset Blvd (US 378), Suite 1 <br /> West Columbia, SC  29169 <br /> Phone: <a href="tel:+18038390041">(803) 939-0041</a> <br /> Fax: <a href="tel:+18038380078">(803) 939-0078</a> |
 
 #### [US Senate](https://www.senate.gov/)
 
@@ -106,19 +105,19 @@ Class II.
 | Office Locations |
 |---|
 | **Washington D.C. Office** |
-| 211 Russell Senate Office Building<br />2 Constitution Ave NE<br />Washington, DC 20510<br />Office: <a href="tel:+12022245972">(202) 224-5972</a><br />Fax: <a href="tel:+12022243808">(202) 224-3808</a> |
+| 211 Russell Senate Office Building <br /> 2 Constitution Ave NE <br /> Washington, DC 20510 <br /> Office: <a href="tel:+12022245972">(202) 224-5972</a> <br /> Fax: <a href="tel:+12022243808">(202) 224-3808</a> |
 | **Upstate Office** |
-| 2 West Washington Street, Suite 808<br />Greenville, SC 29601<br />Main: <a href="tel:+18642501417">(864) 250-1417</a><br />Fax: <a href="tel:+18642504322">(864) 250-4322</a> |
+| 2 West Washington Street, Suite 808 <br /> Greenville, SC 29601 <br /> Main: <a href="tel:+18642501417">(864) 250-1417</a> <br /> Fax: <a href="tel:+18642504322">(864) 250-4322</a> |
 | **Midlands Office** |
-| 2142 Boyce Street, Suite 404<br />Columbia, SC 29201<br /><a href="tel:+18039330112">(803) 933-0112</a> office<br /><a href="tel:+18039330957">(803) 933-0957</a> fax |
+| 2142 Boyce Street, Suite 404 <br /> Columbia, SC 29201 <br /> <a href="tel:+18039330112">(803) 933-0112</a> office <br /> <a href="tel:+18039330957">(803) 933-0957</a> fax |
 | **Pee Dee Office** |
-| McMillan Federal Building<br />401 West Evans Street, Suite 111<br />Florence, SC 29501<br />Main: <a href="tel:+18436681505">(843) 669-1505_/a><br />Fax: <a href="tel:+18336699015">(843) 669-9015</a> |
+| McMillan Federal Building <br /> 401 West Evans Street, Suite 111 <br /> Florence, SC 29501 <br /> Main: <a href="tel:+18436681505">(843) 669-1505_/a> <br /> Fax: <a href="tel:+18336699015">(843) 669-9015</a> |
 | **Lowcountry Office** |
-| 4 Carriage Lane, Suite 401<br />Charleston, SC 29407<br />Main: <a href="tel:+18438493887">(843) 849-3887</a><br />Fax: <a href="tel:+18439713669">(843) 971-3669</a> |
+| 4 Carriage Lane, Suite 401 <br /> Charleston, SC 29407 <br /> Main: <a href="tel:+18438493887">(843) 849-3887</a> <br /> Fax: <a href="tel:+18439713669">(843) 971-3669</a> |
 | **Piedmont Office** |
-| 235 East Main Street, Suite 100<br />Rock Hill, SC 29730<br />Main: <a href="tel:+18033662828">(803) 366-2828</a><br />Fax: <a href="tel:+18033665353">(803) 366-5353</a> |
+| 235 East Main Street, Suite 100 <br /> Rock Hill, SC 29730 <br /> Main: <a href="tel:+18033662828">(803) 366-2828</a> <br /> Fax: <a href="tel:+18033665353">(803) 366-5353</a> |
 | **Golden Corner Office** |
-| 124 Exchange Street, Suite A<br />Pendleton, SC 29670<br />Main: <a href="tel:+18646464090">(864) 646-4090</a><br />Fax: <a href="tel:+18646468609">(864) 646-8609</a> |
+| 124 Exchange Street, Suite A <br /> Pendleton, SC 29670 <br /> Main: <a href="tel:+18646464090">(864) 646-4090</a> <br /> Fax: <a href="tel:+18646468609">(864) 646-8609</a> |
 
 - [Trump's Poodle, Senator Lindsey Graham (T-SC), On NBC Meet The Press]({% post_url /2025/01/2025-01-26-TrumpsPoodleOnMTP %})
 - [Sen. Lindsey Graham (T-SC) States That Trump Won't Prosecute Political Enemies. Yea, Right!]({% post_url /2024/12/2024-12-15-LindseyGraham20241215MTP %})
@@ -136,13 +135,13 @@ Class III.
 | Office Locations |
 |---|
 | **Washington D.C.** |
-| 104 Hart Senate Office<br />120 Constitution Ave NE<br />Washington, DC 20510<br />Phone: <a href="tel:+12022246121">(202) 224-6121</a><br />Fax: <a href="tel:+12022275143">(202) 228-5143</a> |
+| 104 Hart Senate Office <br /> 120 Constitution Ave NE <br /> Washington, DC 20510 <br /> Phone: <a href="tel:+12022246121">(202) 224-6121</a> <br /> Fax: <a href="tel:+12022275143">(202) 228-5143</a> |
 | **Midlands** |
-| 1901 Main Street<br />Suite 1425<br />Columbia, SC 29201<br />Phone: <a href="tel:+18037716112">(803) 771-6112</a><br />Fax: <a href="tel:+18558028355">(855) 802-9355</a><br /> |
+| 1901 Main Street <br /> Suite 1425 <br /> Columbia, SC 29201 <br /> Phone: <a href="tel:+18037716112">(803) 771-6112</a> <br /> Fax: <a href="tel:+18558028355">(855) 802-9355</a> <br /> |
 | **Upstate** |
-| 301 N. Main Street<br />Suite 1006<br />Greenville, SC 29601<br />Phone: <a href="tel:+18642235366">(864) 233-5366</a><br />Fax: <a href="tel:+18558929355">(855) 802-9355</a> |
+| 301 N. Main Street <br /> Suite 1006 <br /> Greenville, SC 29601 <br /> Phone: <a href="tel:+18642235366">(864) 233-5366</a> <br /> Fax: <a href="tel:+18558929355">(855) 802-9355</a> |
 | **Low Country** |
-| 2500 City Hall Lane<br />3rd Floor Suite<br />North Charleston, SC 29406<br />Phone: <a href="tel:+18437274525">(843) 727-4525</a><br />Fax: <a href="tel:+18558929355">(855) 802-9355</a> |
+| 2500 City Hall Lane <br /> 3rd Floor Suite <br /> North Charleston, SC 29406 <br /> Phone: <a href="tel:+18437274525">(843) 727-4525</a> <br /> Fax: <a href="tel:+18558929355">(855) 802-9355</a> |
 
 - [Sen. Tim Scott (T-SC) Is Trump's Lawn Jockey]({% post_url /2024/11/2024-11-04-TimScottIsTrumpsLawnJockey %})
 
@@ -153,21 +152,34 @@ Class III.
 | Locations |
 |---|
 | **[White House](https://www.whitehouse.gov)** |
-| 1600 Pennsylvania Ave., NW<br />Washington, DC 20500<br /><a href="tel:+12024561111">1-202-456-1111</a> (comments)<br /><a href="tel:+12024561414">1-202-456-1414</a> (switchboard) |
+| 1600 Pennsylvania Ave., NW <br /> Washington, DC 20500 <br /> <a href="tel:+12024561111">1-202-456-1111</a> (comments) <br /> <a href="tel:+12024561414">1-202-456-1414</a> (switchboard) |
 | **[Mar-a-Lago](https://www.maralagoclub.com/)** |
-| The Mar-a-Lago Club<br />1100 South Ocean Boulevard, Palm Beach, Florida 33480<br /><a href="tel:+15618322600">(561) 832-2600</a> |
+| The Mar-a-Lago Club <br /> 1100 South Ocean Boulevard, <br /> Palm Beach, Florida 33480 <br /> <a href="tel+15618322600">+1 (561) 832-2600</a> |
+| Trump National Golf Club Los Angeles <br /> One Trump National Drive <br /> Rancho Palos Verdes, CA 90275 <br /> <a href="tel:+13102655000">+1 (310) 265-5000</a> |
+| Trump International Golf Club <br /> 3505 Summit Blvd <br /> West Palm Beach FL 33406 <br /> <a href="tel:+1561.682.0700">+1 (561) 682-0700</a> |
+| Trump National Doral Golf Club <br /> 4400 N.W. 87th Ave <br /> Miami, FL 33178 <br /> <a href="tel:+1305.592.2000">+1305.592.2000</a> |
+| Trump National Jupiter Golf Club <br /> 115 Eagle Tree Terrace <br /> Jupiter FL 33477 <br /> <a href="tel:+15616918700">+1 (561) 691-8700</a> |
+| Trump National Golf Club Charlotte <br /> 120 Trump Square <br /> Mooresville, NC 28117 <br /> <a href="tel:+17047997300">+1 (704) 799-7300</a> |
+| Trump National Golf Club Bedminster <br /> 900 Lamington Road <br /> Bedminster, NJ 07921 <br /> <a href="tel:+1908.470.4400">+1 (908) 470-4400</a> |
+| Trump National Golf Club Colts Neck <br /> One Trump National Blvd <br /> Colts Neck, NJ 07722 <br /> <a href="tel:+15619731550">+1 (561) 973-1550</a> |
+| Trump National Golf Club Philadelphia <br /> 500 West Branch Ave. <br /> Pine Hill, NJ 08021 <br /> <a href="tel:+18564353100">+1 (856) 435-3100</a> |
+| Trump National Golf Club Hudson Valley <br /> 178 Stormville Rd <br /> Hopewell Junction, NY 12533 <br /> <a href="tel:+1845.223.1600">+1 (845) 223-1600</a> |
+| Trump National Golf Club Westchester <br /> 100 Shadow Tree Lane <br /> Briarcliff Manor, NY 10510 <br /> <a href="tel:+19149440900">+1 (914) 944-0900</a> |
+| Trump National Golf Club Washington, D.C. <br /> 20391 Lowes Island Blvd <br /> Potomac Falls, VA 20165 <br /> <a href="tel:+17034444801">+1 (703) 444-4801</a> |
+| Trump International Golf Club Dubai <br /> DAMAC Hills <br /> Al Hebiah Third District Dubai <br /> <a href="tel:+971042453939">+971 (0) 4 245 3939</a> |
+| Trump International Golf Links & Hotel Ireland, Doonbeg <br /> DOONBEG CO. CLARE, IRELAND <br /> Phone: <a href="tel:+353659055600">+353 65 905 5600</a> |
+| Trump MacLeod House & Lodge Scotland <br /> Menie Estate Balmedie <br /> Aberdeenshire, Scotland AB23 8YE <br /> PHONE: <a href="tel:+441358743300">+44 1358 743300</a> <br /> RESERVE: <a href="tel:+441358743300">+44 1358 743300</a> |
+| Trump Turnberry <br /> Maidens Road KA26 9LT Turnberry <br /> Ayrshire Scotland <br /> <a href="tel:+441655331000">+44.1655.331.000</a> <br /> <a href="tel:+4401655334115">+44 01655 334115</a> |
 
 #### [South Carolina](https://www.sc.gov/) [Attorney General](https://www.scag.gov/) [Alan Wilson](https://www.scag.gov/about-the-office/meet-the-attorney-general/)
 
-[Alan Wilson (T)](https://www.scag.gov/about-the-office/meet-the-attorney-general/) is the most nakedly partisan [Attorney General](https://www.scag.gov/) that [South Carolina](https://www.s.gov/) has ever had. Wilson is an election denier; he thinks that the [Democrats](https://www.democrats.org/) stole the 2020 election. 
+[Alan Wilson (T)](https://www.scag.gov/about-the-office/meet-the-attorney-general/) is the most nakedly partisan [Attorney General](https://www.scag.gov/) that [South Carolina](https://www.s.gov/) has ever had. Wilson is an election denier; he thinks that the [Democrats](https://www.democrats.org/) stole the 2020 election.
 
 | Mailing Address |
 |---|
-| The Honorable Alan Wilson<br />P.O. Box 11549<br />Columbia, S.C. 29211 |
+| The Honorable Alan Wilson <br /> P.O. Box 11549 <br /> Columbia, S.C. 29211 |
 | **Office Location** |
-| Rembert Dennis Building<br />1000 Assembly Street, Room 519<br />Columbia, S.C. 29201 |
-| General Information: <a href="1-8037343970">1-803-734-3970</a> |
-| Constituent Services: <a href="1-8037373953">1-803-737-3953</a> |
+| Rembert Dennis Building <br /> 1000 Assembly Street, Room 519 <br /> Columbia, S.C. 29201 <br /> General Information: <a href="1-8037343970">1-803-734-3970</a> <br /> Constituent Services: <a href="1-8037373953">1-803-737-3953</a> |
 
 ##### My Dumb State: South Carolina
 
@@ -254,7 +266,7 @@ Class III.
 
 ----
 
-### Advice From a High-Level Staffer For a Senator 
+### Advice From a High-Level Staffer For a Senator
 
 FOR THOSE OF YOU LOOKING TO TURN YOUR despair INTO ACTION, here's some advice from a high-level staffer for a Senator.
 
@@ -321,7 +333,7 @@ Put the 6 numbers in your phone (all under P – Politician.) An example is Poli
    - **[Securities and Exchange Commission (SEC)](https://www.sec.gov/)**: Monitors financial disclosures and securities regulations³.
    - **[Internal Revenue Service (IRS)](https;//www.irs.gov/)**: No person or company is exempt.
    - **[Department of Labor (DOL)](https://www.dol.gov/)**: Regulates fiduciary responsibilities and retirement plans³.
-   - **[Social Security Administration](https://www.ssa.gov/)**: Runs the Social Security retirement, survivors, and disability insurance programs. 
+   - **[Social Security Administration](https://www.ssa.gov/)**: Runs the Social Security retirement, survivors, and disability insurance programs.
    - **[Equal Employment Opportunity Commission](https://www.eeoc.gov/)**: The Equal Employment Opportunity Commission (EEOC) enforces laws that make discrimination illegal in the workplace. The commission oversees all types of work situations including hiring, firing, promotions, harassment, training, wages, and benefits.
 
 2. **[SpaceX](https://www.spacex.com/)**:
