@@ -1,13 +1,13 @@
 ---
 layout: post
-tags: []
-categories: []
-#date: 2019-06-25 13:14:15
-#excerpt: ''
+tags: [Mary Trump Media, Trump Gaza, EB5 Green Cards $5B, Joe Wilson (T-SC2), Immigration and Customs Enforcement (ICE), President Donald J Trump, President of the United States (POTUS), White House (WH), politics]
+categories: [Donald Trump]
+date: 2025-02-28 3:21 PM
+excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: 'title'
+title: "Huckster-In-Chief Hawks $5,000,000,000 EB5 Green Cards, Trinkets From Oval Office, Pitches Trump Gaza Casino. Joe Wilson (T-SC2) Wants Trump $250 Dollar Bill"
 ---
 
 
@@ -21,6 +21,9 @@ Feb 27, 2025  #marytrump [#trumpcabinet](https://www.whitehouse.gov/) [#donaldtr
 
 - Mary Trump Media
 - Trump Gaza
+- EB5 Green Cards $5B
+- [Joe Wilson (T-SC2)](https://joewilson.house.gov/)
+- [Immigration and Customs Enforcement (ICE)](https:www.ice.gov/)
 - [President Donald J Trump](https://www.whitehouse.gov/administration/donald-j-trump/)
 - [President Donald Trump](https://www.whitehouse.gov/administration/donald-j-trump/) 
 - [President of the United States (POTUS)](https://www.whitehouse.gov/)
