@@ -1,13 +1,13 @@
 ---
 layout: post
-tags: [AP News, National Oceanic and Atmospheric Administration (NOAA), American Meteorological Society (AMS), Chris Van Hollen (D-MD), Project 2025, Russ Vought, President Of The United States (POTUS), President Donald J. Trump, Department of Governmennt Efficiency (DOGE), Elon Musk, Boring, Neuralink, SpaceX, Starlink, Tesla, Twitter, X, xAI, politics]
+tags: [National Oceanic and Atmospheric Administration (NOAA), American Meteorological Society (AMS), Chris Van Hollen (D-MD), Project 2025, Russ Vought, President Of The United States (POTUS), President Donald J. Trump, Department of Governmennt Efficiency (DOGE), Elon Musk, Boring, Neuralink, SpaceX, Starlink, Tesla, Twitter, X, xAI, politics]
 categories: [Donald Trump]
 date: 2025-03-01 2:20 PM
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: "Trump’s Project 2025 Plan Endangers Public Safety With Layoffs in National Oceanic and Atmospheric Administration (NOAA)"
+title: "Trump’s Project 2025 Plan Endangers Public Safety With Layoffs in National Oceanic and Atmospheric Administration (NOAA) hurricane mm"
 ---
 
 
@@ -16,7 +16,7 @@ title: "Trump’s Project 2025 Plan Endangers Public Safety With Layoffs in Nati
 By  SETH BORENSTEIN
 Updated 5:35 PM EST, February 28, 2025
 
-### [NOAA](https://www.noaa.gov/) Layoffs Pose Significant Risks to Public Safety and Economy
+**NOAA Layoffs Pose Significant Risks to Public Safety and Economy**
 
 The recent mass layoffs at the [National Oceanic and Atmospheric Administration (NOAA)](https://www.noaa.gov/) have raised serious concerns about public safety and economic stability. Former agency heads and experts warn that these cuts could lead to unnecessary deaths and substantial economic losses.
 

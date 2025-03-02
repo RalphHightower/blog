@@ -20,18 +20,3 @@ title: "Fucking Idiots: Trump & Vance Shouting at Zelenskyy While He Tries To Ed
 
 Feb 28, 2025  [#Trump](https://www.whitehouse.gov/administration/donald-j-trump/) [#Zelenskyy](https://www.president.gov.ua/) [#JDVance](https://www.whitehouse.gov/administration/jd-vance/)
 [President Trump](https://www.whitehouse.gov/administration/donald-j-trump/), [Ukrainian President Zelenskyy](https://www.president.gov.ua/) and [Vice President Vance](https://www.whitehouse.gov/administration/jd-vance/) had a tense exchange about the ongoing war with [Russia](http://government.ru/). [Vance](https://www.whitehouse.gov/administration/jd-vance/) asked [Zelenskyy](https://www.president.gov.ua/) if he has ever said "thank you" for U.S. aid and [Trump](https://www.whitehouse.gov/administration/donald-j-trump/) clashed with him over what has been provided.
-
-- [North Atlantic Treaty Organization (NATO)](https://www.nato.int/)
-- [European Union](https://commission.europa.eu/)
-- [Volodymyr Zelenskyy](https://www.president.gov.ua/)
-- [Ukraine](https://www.gov.ua/)
-- [Vladimir Putin](http://kremlin.ru/)
-- [Russia](http://government.ru/)
-- [United Nations](https://www.un.org/)
-- [White House (WH)](https://www.whitehouse.gov/)
-- [President Of The United States (POTUS)](https://www.whitehouse.gov/)
-- [President Donald J. Trump](https://www.whitehouse.gov/administration/donald-j-trump/)
-- [Vice President JD Vance](https://www.whitehouse.gov/administration/jd-vance/)
-- politics
-
-

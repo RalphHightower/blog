@@ -93,11 +93,11 @@ February 13, 2025
 
 [AP](https://www.apnews.com/) vs. Budowich
 Contributed by
-AP Staff ([Associated Press](https://www.apnews.com/)
+AP Staff [Associated Press](https://www.apnews.com/)
 
 p. 1
-      IN THE UNITED STATES DISTRICT COURT
-FOR THE DISTRICT OF COLUMBIA
+      IN [THE UNITED STATES DISTRICT COURT
+FOR THE DISTRICT OF COLUMBIA](https://www.dcd.uscourts.gov/)
 THE [ASSOCIATED PRESS](https://www.apnews.com/),
 200 Liberty Street
 New York, NY 10281,
@@ -105,20 +105,20 @@ Plaintiff,
 v.
 TAYLOR BUDOWICH,
 in his official capacity as
-White House Deputy Chief of Staff
+[White House](https://www.whitehouse.gov/) Deputy Chief of Staff
 1600 Pennsylvania Avenue NW
 Washington, DC 20500,
 KAROLINE LEAVITT
 in her official capacity as
-White House Press Secretary
+[White House](https://www.whitehouse.gov/) Press Secretary
 1600 Pennsylvania Avenue NW
-Washington, DC 20500,
+[Washington, DC](https://dc.gov/) 20500,
 and
 SUSAN WILES,
 in her official capacity as
-White House Chief of Staff
+[White House](https://www.whitehouse.gov/) Chief of Staff
 1600 Pennsylvania Avenue NW
-Washington, DC 20500,
+[Washington, DC](https://dc.gov/) 20500,
 Defendants.
 Case No. _________
 Emergency Hearing Requested
@@ -573,14 +573,14 @@ Jay Ward Brown (#437686)
 Charles D. Tobin (#83626)
 Maxwell S. Mishkin (#1031356)
 1909 K Street NW, 12th Floor
-Washington, DC 20006
-Tel: <a href="+12026612200">(202) 661-2200</a>
-Fax: <a href="+1">(202) 661-2299</a>
+[Washington, DC](https://dc.gov/) 20006
+Tel: <a href="tel:+12026612200">(202) 661-2200</a>
+Fax: <a href="tel:+12026612299">(202) 661-2299</a>
 brownjay@ballardspahr.com
 tobinc@ballardspahr.com
 mishkinm@ballardspahr.com
 Sasha Dudding (#1735532)
-1675 Broadwp M,   (212) 223-1942</a>
+1675 Broadwp M,   <a href="tel:+12122231942">(212) 223-1942</a>
 duddings@ballardspahr.com
 Counsel for Plaintiff [The Associated Press](https://www.apnews.com/)
 

@@ -7,8 +7,7 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: "Trump Party Legislators Are Heading Straight Into a Woodchipper"
----
+title: "Trump Party Legislators Are Heading Straight Into a Woodchipper"---
 
 
 ## ['Walking into a political buzzsaw': GOP warned latest move could push voters over edge](https://www.rawstory.com/gop-2671224385/)
