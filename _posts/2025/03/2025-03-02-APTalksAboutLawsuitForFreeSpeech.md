@@ -47,7 +47,6 @@ When asked if she had any predictions about the lawsuit, she responded:
 - [Restoring Names That Honor American Greatness](https://www.whitehouse.gov/presidential-actions/2025/01/restoring-names-that-honor-american-greatness/)
 - [Restoring Freedom Of Speech And Ending Federal Censorship](https://www.whitehouse.gov/presidential-actions/2025/01/restoring-freedom-of-speech-and-ending-federal-censorship/)
 - [President Donald J Trump](https://www.whitehouse.gov/administration/donald-j-trump/)
-- [President Donald Trump](https://www.whitehouse.gov/administration/donald-j-trump/) 
 - [President of the United States (POTUS)](https://www.whitehouse.gov/)
 - [White House (WH)](https://www.whitehouse.gov/)
 - politics
