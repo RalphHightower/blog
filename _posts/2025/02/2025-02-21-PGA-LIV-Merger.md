@@ -26,7 +26,7 @@ Pablo Torre. Host of "Pablo Torre Finds Out", Eric Lipton, New York Times Invest
 - [White House (WH)](https://www.whitehouse.gov/)
 - [President of the United States (POTUS)](https://www.whitehouse.gov/)
 -  [Department of Government Efficiency (DOGE)](https://doge.gov/)
-- [White House (WH,)](https://www.whitehouse.gov/)
+- [White House (WH)](https://www.whitehouse.gov/)
 - [President Of The United States (POTUS)](https://www.whitehouse.gov/)
 - [Elon Musk](https://x.com/elonmusk/)
 - [Boring](https://www.boringcompany.com/)

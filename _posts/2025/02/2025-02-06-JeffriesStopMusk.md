@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [MSNBC, TaxpayerData Protection Act, Hakeem Jeffries (D-NY8), Haley Stevens (D-MI11), Katherine Clark (D-MI8), Pete Aguilar (D-CA33), Treasury Department, Bureau of Fiscal Service, Tax Data Protection Act, Department of Government Efficiency (DOGE), White House (WH,), President Of The United States (POTUS), Elon Musk, Boring, Neuralink, SpaceX, Starlink, Tesla, Twitter, X, xAI, politics]
+tags: [MSNBC, TaxpayerData Protection Act, Hakeem Jeffries (D-NY8), Haley Stevens (D-MI11), Katherine Clark (D-MI8), Pete Aguilar (D-CA33), Treasury Department, Bureau of Fiscal Service, Tax Data Protection Act, Department of Government Efficiency (DOGE), White House (WH), President Of The United States (POTUS), Elon Musk, Boring, Neuralink, SpaceX, Starlink, Tesla, Twitter, X, xAI, politics]
 categories: [Donald Trump]
 date: 2025-02-06 11:56 AM
 excerpt: ''
@@ -28,7 +28,7 @@ House Minority Leader [Hakeem  (D-NY8)](https://jeffries.house.gov/), alongside 
 - [Bureau of Fiscal Service]()
 - [Tax Data Protection Act]()
 - [Department of Government Efficiency (DOGE)](https://doge.gov/)
-- [White House (WH,)](https://www.whitehouse.gov/)
+- [White House (WH)](https://www.whitehouse.gov/)
 - [President Of The United States (POTUS)](https://www.whitehouse.gov/)
 - [Elon Musk](https://x.com/elonmusk/)
 - [Boring](https://www.boringcompany.com/)
