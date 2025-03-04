@@ -7,7 +7,7 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: 'title'
+title: "Trump Loses Control of His Cult. DOGE (DOUCHE) Fails (ABEND). Trumpians Revolt!"
 ---
 
 
@@ -15,8 +15,8 @@ title: 'title'
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/x4_aUpS7KaU?si=Qck4rh-s1PVpdoTI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Feb 26, 2025  #marytrump [#trumpcabinet]() [#donaldtrump]()
-[Trump’s]() sham agency-[DOGE](https://www.doge.gov/), led by [Musk](), is spiraling into chaos. Mass firings, AI-driven layoffs, and fake savings claims are backfiring as furious [GOP]() lawmakers scramble for answers. Public outrage is exploding, and [Republicans]() are losing control. The MAGA power grab is crumbling—watch it all unfold!
+Feb 26, 2025  #marytrump [#trumpcabinet](https://www.whitehouse.gov/) [#donaldtrump](https://www.whitehouse.gov/administration/donald-j-trump/)
+[Trump’s](https://www.whitehouse.gov/administration/donald-j-trump/) sham agency-[DOGE](https://www.doge.gov/), led by [Musk](https://x.com/elonmusk/), is spiraling into chaos. Mass firings, AI-driven layoffs, and fake savings claims are backfiring as furious [GOP](https://www.gop.com/) lawmakers scramble for answers. Public outrage is exploding, and [Republicans](https://www.gop.com/) are losing control. The MAGA power grab is crumbling—watch it all unfold!
 - [DOGE](https://www.doge.gov/) cutting waste with no evidence
 - wall of receipts accounting errors
 - contract cancellations yield no savings
@@ -45,6 +45,7 @@ Feb 26, 2025  #marytrump [#trumpcabinet]() [#donaldtrump]()
 - [White House (WH)](https://www.whitehouse.gov/)
 - [President Of The United States (POTUS)](https://www.whitehouse.gov/)
 - [President Donald Trump](https://www.whitehouse.gov/administration/donald-j-trump/)
+- [Trump Party](https://www.gop.com/)
 - politics
 
 
