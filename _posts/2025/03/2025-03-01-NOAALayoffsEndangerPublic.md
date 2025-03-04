@@ -39,9 +39,6 @@ In summary, the [NOAA](https://www.noaa.gov/) layoffs pose significant threats t
 - [Van Hollen, Chris (D-MD)](https://www.vanhollen.senate.gov/)
 - [Project 2025](https://www.project2025.org/)
 - [Russ Vought / LinkedIn](https://www.linkedin.com/in/russ-vought-787396226/)[^1000]
-- [President Of The United States (POTUS)](https://www.whitehouse.gov/)
-- [President Donald J. Trump](https://www.whitehouse.gov/administration/donald-j-trump/)
-- [Department of Government Efficiency (DOGE)](https://www.doge.gov/)
 - [Elon Musk](https://x.com/elonmusk/)
 - [Boring](https://www.boringcompany.com/)
 - [Neuralink](https://neuralink.com/)
@@ -51,6 +48,10 @@ In summary, the [NOAA](https://www.noaa.gov/) layoffs pose significant threats t
 - [Twitter](https://twitter.com/)
 - [ X ](https://x.com/)
 - [xAI](https://x.ai/)
+- [Department of Government Efficiency (DOGE)](https://www.doge.gov/)
+- [President Donald J. Trump](https://www.whitehouse.gov/administration/donald-j-trump/)
+- [President Of The United States (POTUS)](https://www.whitehouse.gov/)
+- [White House (WH)](https://www.whitehouse.gov/)
 - politics
 
 [^1000]: One of the architects of [Project 2025](https://www.project2025.org/)
