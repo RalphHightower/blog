@@ -12,6 +12,7 @@ title: "Huckster-In-Chief Hawks $5,000,000,000 EB5 Green Cards, Trinkets From Ov
 
 
 ## SHAMELESS: Trump HAWKS Citizenship, Homelands, and Merch from the Oval Office!
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5hUs6nXx0OM?si=O2_PJK-yg3uGXsqa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Feb 27, 2025  #marytrump [#trumpcabinet](https://www.whitehouse.gov/) [#donaldtrump](https://www.whitehouse.gov/administration/donald-j-trump/)
