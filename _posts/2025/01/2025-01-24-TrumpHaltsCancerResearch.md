@@ -18,23 +18,32 @@ title: "Trump Halts Government Funding Research For Cures Of Cancer, Alzheimer's
 Jan 23, 2025  #MSNBC [#Trump](https://www whitehouse.gov/) #cancerresearch
 "As of today, it looks as though [Donald Trump](https://www whitehouse.gov/) is in the process of freezing federally-funded cancer research in the United States," says Chris Hayes.
 
-[Centers for Disease Control (CDC)](https://www.cdc.gov/)
+- [MSNBC](https://www.msnbc.com/)
+- [U.S. Department of Health and Human Services](https://www.hhs.gov/)
+- [Robert F. Kennedy, Jr.](https://www.hhs.gov/about/leadership/robert-kennedy.html)
+- [Centers for Disease Control (CDC)](https://www.cdc.gov/)
+- [National Institutes of Health (NIH)](https://www.nih.gov/)
+- [National Cancer Institute (NIC)](https://www.cancer.gov/)
+- [National Institute of Allergy and Infectious Diseases (NIAID)](http://www.niaid.nih.gov/)
+- [National Institute of Arthritis, Musculoskeletal and Skin Diseases (NIAMSD)](https://www.niams.nih.gov/)
+- [National Institute on Deafness and Other Communication Disorders (NIDOCD)](https://www.nidcd.nih.gov/)
+- [National Institute of Diabetes and Digestive and Kidney Diseases (NIDDKD)](https://www.niddk.nih.gov/)
+- [National Institute of Mental Health (NINH)](https://www.nimh.nih.gov/)
+- [National Institute of Neurological Disorders and Stroke (NINDS)](https://www.ninds.nih.gov/)
+- [National Heart, Lung and Blood Institute (NHLB)](https://www.nhlbi.nih.gov/)
+- [Department of Government Efficiency (DOGE)](https://www.doge.gov/)
+- [Elon Musk](https://x.com/elonmusk/)
+- [Boring](https://www.boringcompany.com/)
+- [Neuralink](https://neuralink.com/)
+- [SpaceX](https://www.spacex.com/)
+- [Starlink](https://www.starlink.com/)
+- [Tesla](https://www.tesla.com/)
+- [Twitter](https://twitter.com/)
+- [ X ](https://x.com/)
+- [xAI](https://x.ai/)
+- [President Donald J. Trump](https://www.whitehouse.gov/administration/donald-j-trump/)
+- [President Of The United States (POTUS)](https://www.whitehouse.gov/)
+- [White House (WH)](https://www.whitehouse.gov/)
+- politics
 
-[National Institutes of Health (NIH)](https://www.nih.gov/)
-
-[National Cancer Institute (NIC)](https://www.cancer.gov/)
-
-[National Institute of Allergy and Infectious Diseases (NIAID)](http://www.niaid.nih.gov/)
-
-[National Institute of Arthritis, Musculoskeletal and Skin Diseases (NIAMSD)](https://www.niams.nih.gov/)
-
-[National Institute on Deafness and Other Communication Disorders (NIDOCD)](https://www.nidcd.nih.gov/)
-
-[National Institute of Diabetes and Digestive and Kidney Diseases (NIDDKD)](https://www.niddk.nih.gov/)
-
-[National Institute of Mental Health (NINH)](https://www.nimh.nih.gov/)
-
-[National Institute of Neurological Disorders and Stroke (NINDS)](https://www.ninds.nih.gov/)
-
-[National Heart, Lung and Blood Institute (NHLB)](https://www.nhlbi.nih.gov/)
 
