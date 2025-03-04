@@ -7,7 +7,7 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: 
+title: "Smoke and Mirrors: Trump and House Trumpers Cut Social Security, Medicare and Medicaid For Tax Cuts For His Billionaire Buddies With a Trillion Dollar Budget"
 ---
 
 
