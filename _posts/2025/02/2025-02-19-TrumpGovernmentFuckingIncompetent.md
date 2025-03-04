@@ -1,6 +1,7 @@
 ---
 layout: post
-tags: [[National Nuclear Security Administration (NNSA)](https://www.energy.gov/nnsa/national-nuclear-security-administration)]
+tags: [Department of Government Efficiency (DOGE), Elon Musk, Boring, Neuralink, SpaceX, Starlink, Tesla, Twitter, X, xAI, 
+United States of America (US), White House (WH), President Of The United States (POTUS), President Donald J. Trump, politics]
 categories: [Donald Trump]
 date: 2025-02-19 1:07 PM
 excerpt: ''
