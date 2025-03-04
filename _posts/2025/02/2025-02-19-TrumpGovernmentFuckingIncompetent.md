@@ -8,7 +8,7 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: 'Trump Administration is Fucking Incompetent"
+title: "Trump Administration is Fucking Incompetent"
 ---
 
 
