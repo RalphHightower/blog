@@ -27,7 +27,7 @@ Multiple [Pentagon chiefs]() just dropped a devastating bombshell on [Trump](htt
 - remove legal constraints
 - undermines all volunteer force
 
-- [Defense Advanced Research Projects Agency](https://www.darpa.mil/)
+- [Defense Advanced Research Projects Agency (DARPA)](https://www.darpa.mil/)
 - [Defense Contract Audit Agency (DCAA)](https://www.dcaa.mil/)
 - [Defense Contract Management Agency (DCMA](https://www.dcma.mil/)
 - [Defense Counterintelligence and Security Agency (DCSA)](https://www.dcsa.mil/)
