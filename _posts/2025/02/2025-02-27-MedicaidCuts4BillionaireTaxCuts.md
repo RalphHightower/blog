@@ -2,7 +2,7 @@
 layout: post
 tags: [Mary Trump Media, Medicaid, Social Security Administration (SSA), Alexandria Ocasio-Cortez (D-NY14), Rand Paul (T-KY), National Center for Complementary and Integrative Health (NC IH), National Heart, Lung and Blood Institute (NHLBI), National Institute of Allergy and Infectious Diseases (NIAID), National Institute of Arthritis, Musculoskeletal and Skin Diseases (NIAMS), National Institute on Deafness and Other Communication Disorders (NIDCD), National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK), National Institute of Mental Health (NIMH), National Institute of Neurological Disorders and Stroke (NINDS), National Institutes of Health (NIH), Centers for Disease Control and Prevention (CDC), Food and Drug Administration (FDA), U.S. Department of Health and Human Services (HHS), House of Representatives, Senate, Congress, President Donald J Trump, President of the United States (POTUS), White House (WH), politics]
 categories: [Donald Trump]
-date: 2025-01-27 1:59 PM
+date: 2025-02-27 1:59 PM
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
