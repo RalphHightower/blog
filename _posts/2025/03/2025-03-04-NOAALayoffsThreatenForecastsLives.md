@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [Axios, UCLA, Atmospheric and Oceanic Sciences / AOS, 
+tags: [Axios, University of California Los Angeles (UCLA), Atmospheric and Oceanic Sciences / AOS, 
 Institute of the Environment and Sustainability at UCLA — Moving science to action, Daniel Swain — Institute of the Environment and Sustainability at UCLA, Tom Di Liberto, Elon Musk, Boring, Neuralink, SpaceX, Starlink, Tesla, Twitter, X, xAI, Department of Government Efficiency (DOGE), Congress, Implementing the President’s “Department of Government Efficiency” Cost Efficiency Initiative – The White House. February 26, 2025, U.S. Department of Commerce, National Oceanic and Atmospheric Administration, National Weather Service, Environmental Modeling Center (EMC), NOAA Geophysical Fluid Dynamics Laboratory (GFDL), NOAA Great Lakes Environmental Research Laboratory (GLERL) - Ann Arbor, MI, USA, Office of Space Commerce / National Oceanic and Atmospheric Administration, Satellites / National Oceanic and Atmospheric Administration, Senate, Senate Committee on Commerce, Science and Transportation, U.S. Senator Maria Cantwell (D-DA), 
 Gross Domestic Product / U.S. Bureau of Economic Analysis (BEA), President Donald J. Trump, 
 President Of The United States (POTUS), 
@@ -66,7 +66,7 @@ Multiple layoffs hit the [NWS' Environmental Modeling Center](https://www.emc.nc
 **What we're watching**: How the cuts — and potentially deeper staff reductions to come — affect the accuracy and timeliness of [NOAA's](http://www.noaa.gov/) extreme weather warnings as well as its climate products.
 
 - [Axios](https://www.acios.com/)
-- [UCLA](https://www.ucla.edu/)
+- [University of California Los Angeles (UCLA)](https://www.ucla.edu/)
 - [Atmospheric and Oceanic Sciences / AOS](https://atmos.ucla.edu/)
 - [Institute of the Environment and Sustainability at UCLA — Moving science to action](https://www.ioes.ucla.edu/)
 - [Daniel Swain — Institute of the Environment and Sustainability at UCLA](https://www.ioes.ucla.edu/person/daniel-swain/)
