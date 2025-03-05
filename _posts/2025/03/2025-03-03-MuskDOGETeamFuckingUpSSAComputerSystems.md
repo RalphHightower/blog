@@ -11,7 +11,14 @@ title: "Elon Musk’s Department of Government Efficiency (DOGE), aka DOUCE, Are
 ---
 
 
-## [Social Security payments could suffer interruption soon as DOGE causes ‘system collapse,’ former commissioner warns—‘start saving now’](https://fortune.com/2025/03/03/social-security-payments-benefits-interruption-doge-cuts-system-collapse-retirement-disability/)
+##  Security head warns system could soon ‘collapse’ thanks to DOGE cuts
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-HeLgZo9iwU?si=CXeA95O_45Im6NHr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Mar 3, 2025  #SocialSecurity #ElonMusk #DOGE
+Former Social Security commissioner Martin O’Malley is warning that DOGE cuts will likely trigger the system to collapse “within 30 to 90 days.” Rep. Pramila Jayapal joins to discuss. 
+
+### [Social Security payments could suffer interruption soon as DOGE causes ‘system collapse,’ former commissioner warns—‘start saving now’](https://fortune.com/2025/03/03/social-security-payments-benefits-interruption-doge-cuts-system-collapse-retirement-disability/)
 
 Story by Jason Ma. March 3, 2025
 
@@ -80,4 +87,3 @@ It predicted that the [Social Security](https://Www.ssa.gov/) Board of Trustees 
 - [President Of The United States (POTUS)](https://www.whitehouse.gov/)
 - [White House (WH)](https://www.whitehouse.gov/)
 - politics
-
