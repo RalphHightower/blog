@@ -86,7 +86,6 @@ minima:
 # Refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this.
   date_format: "%b %e, %Y %I:%M %p %Z, %a"
 
-minima:
 #  social_links:
 #    - title: Jekyll repository at GitHub
 #      icon: github
