@@ -21,6 +21,7 @@ page_excerpts: true
         Here is the main paginator logic called.
         All calls to site.posts should be replaced by paginator.posts 
     -->
+    {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
     {% for post in paginator.posts %}
       <li>
         <span class="post-meta">{{ post.date | date: date_format }}</span>
