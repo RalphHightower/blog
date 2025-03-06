@@ -3,7 +3,7 @@ layout: post
 tags: [Pink Floyd, Ukraine (UA), Hospitallers, Vostok SOS, Kyiv Volunteer, Livyj Bereh]
 categories: [Ukraine]
 date: 2025-03-05 5:59 PM
-excerpt: 'Oyu luzi chervona kalyna pokhylylasya, Chohos' nasha slavna Ukrayina zazhurylasya. A my tuyu chervonu kalynu pidiymemo, A my nashu slavnu Ukrayinu, hey-hey, rozveselymo!'
+excerpt: "Oyu luzi chervona kalyna pokhylylasya, Chohos' nasha slavna Ukrayina zazhurylasya. A my tuyu chervonu kalynu pidiymemo, A my nashu slavnu Ukrayinu, hey-hey, rozveselymo!"
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
