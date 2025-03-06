@@ -155,21 +155,21 @@ Class III.
 | 1600 Pennsylvania Ave., NW <br /> Washington, DC 20500 <br /> <a href="tel:+12024561111">1-202-456-1111</a> (comments) <br /> <a href="tel:+12024561414">1-202-456-1414</a> (switchboard) |
 | **[Mar-a-Lago](https://www.maralagoclub.com/)** |
 | The Mar-a-Lago Club <br /> 1100 South Ocean Boulevard, <br /> Palm Beach, Florida 33480 <br /> <a href="tel+15618322600">+1 (561) 832-2600</a> |
-| Trump National Golf Club Los Angeles <br /> One Trump National Drive <br /> Rancho Palos Verdes, CA 90275 <br /> <a href="tel:+13102655000">+1 (310) 265-5000</a> |
-| Trump International Golf Club <br /> 3505 Summit Blvd <br /> West Palm Beach FL 33406 <br /> <a href="tel:+1561.682.0700">+1 (561) 682-0700</a> |
-| Trump National Doral Golf Club <br /> 4400 N.W. 87th Ave <br /> Miami, FL 33178 <br /> <a href="tel:+1305.592.2000">+1305.592.2000</a> |
-| Trump National Jupiter Golf Club <br /> 115 Eagle Tree Terrace <br /> Jupiter FL 33477 <br /> <a href="tel:+15616918700">+1 (561) 691-8700</a> |
-| Trump National Golf Club Charlotte <br /> 120 Trump Square <br /> Mooresville, NC 28117 <br /> <a href="tel:+17047997300">+1 (704) 799-7300</a> |
-| Trump National Golf Club Bedminster <br /> 900 Lamington Road <br /> Bedminster, NJ 07921 <br /> <a href="tel:+1908.470.4400">+1 (908) 470-4400</a> |
-| Trump National Golf Club Colts Neck <br /> One Trump National Blvd <br /> Colts Neck, NJ 07722 <br /> <a href="tel:+15619731550">+1 (561) 973-1550</a> |
-| Trump National Golf Club Philadelphia <br /> 500 West Branch Ave. <br /> Pine Hill, NJ 08021 <br /> <a href="tel:+18564353100">+1 (856) 435-3100</a> |
-| Trump National Golf Club Hudson Valley <br /> 178 Stormville Rd <br /> Hopewell Junction, NY 12533 <br /> <a href="tel:+1845.223.1600">+1 (845) 223-1600</a> |
-| Trump National Golf Club Westchester <br /> 100 Shadow Tree Lane <br /> Briarcliff Manor, NY 10510 <br /> <a href="tel:+19149440900">+1 (914) 944-0900</a> |
-| Trump National Golf Club Washington, D.C. <br /> 20391 Lowes Island Blvd <br /> Potomac Falls, VA 20165 <br /> <a href="tel:+17034444801">+1 (703) 444-4801</a> |
-| Trump International Golf Club Dubai <br /> DAMAC Hills <br /> Al Hebiah Third District Dubai <br /> <a href="tel:+971042453939">+971 (0) 4 245 3939</a> |
-| Trump International Golf Links & Hotel Ireland, Doonbeg <br /> DOONBEG CO. CLARE, IRELAND <br /> Phone: <a href="tel:+353659055600">+353 65 905 5600</a> |
-| Trump MacLeod House & Lodge Scotland <br /> Menie Estate Balmedie <br /> Aberdeenshire, Scotland AB23 8YE <br /> PHONE: <a href="tel:+441358743300">+44 1358 743300</a> <br /> RESERVE: <a href="tel:+441358743300">+44 1358 743300</a> |
-| Trump Turnberry <br /> Maidens Road KA26 9LT Turnberry <br /> Ayrshire Scotland <br /> <a href="tel:+441655331000">+44.1655.331.000</a> <br /> <a href="tel:+4401655334115">+44 01655 334115</a> |
+| **[Trump National Golf Club Los Angeles](https://www.trumpnationallosangeles.com/)** <br /> One Trump National Drive <br /> Rancho Palos Verdes, CA 90275 <br /> <a href="tel:+13102655000">+1 (310) 265-5000</a> |
+| **[Trump International Golf Club](https://www.trumpinternationalpalmbeaches.com/)** <br /> 3505 Summit Blvd <br /> West Palm Beach FL 33406 <br /> <a href="tel:+15616820700">+1 (561) 682-0700</a> |
+| **[Trump National Doral Golf Club](https://www.trumpgolfdoral.com/)** <br /> 4400 N.W. 87th Ave <br /> Miami, FL 33178 <br /> <a href="tel:+13055922000">+1305.592.2000</a> |
+| **[Trump National Jupiter Golf Club](https://www.trumpnationaljupiter.com/about)** <br /> 115 Eagle Tree Terrace <br /> Jupiter FL 33477 <br /> <a href="tel:+15616918700">+1 (561) 691-8700</a> |
+| **[Trump National Golf Club Charlotte](https://www.trumpnationalcharlotte.com/)** <br /> 120 Trump Square <br /> Mooresville, NC 28117 <br /> <a href="tel:+17047997300">+1 (704) 799-7300</a> |
+| **[Trump National Golf Club Bedminster](https://www.trumpnationalbedminster.com/)** <br /> 900 Lamington Road <br /> Bedminster, NJ 07921 <br /> <a href="tel:+1908.470.4400">+1 (908) 470-4400</a> |
+| **[Trump National Golf Club Colts Neck](https://www.trumpcoltsneck.com/)** <br /> One Trump National Blvd <br /> Colts Neck, NJ 07722 <br /> <a href="tel:+15619731550">+1 (561) 973-1550</a> |
+| **[Trump National Golf Club Philadelphia](https://www.trumpnationalphiladelphia.com/)** <br /> 500 West Branch Ave. <br /> Pine Hill, NJ 08021 <br /> <a href="tel:+18564353100">+1 (856) 435-3100</a> |
+| **[Trump National Golf Club Hudson Valley](https://www.trumpnationalhudsonvalley.com/)** <br /> 178 Stormville Rd <br /> Hopewell Junction, NY 12533 <br /> <a href="tel:+1845.223.1600">+1 (845) 223-1600</a> |
+| **[Trump National Golf Club Westchester](https://www.trumpnationalwestchester.com/)** <br /> 100 Shadow Tree Lane <br /> Briarcliff Manor, NY 10510 <br /> <a href="tel:+19149440900">+1 (914) 944-0900</a> |
+| **[Trump National Golf Club Washington, D.C.](https://www.trumpnationaldc.com/)** <br /> 20391 Lowes Island Blvd <br /> Potomac Falls, VA 20165 <br /> <a href="tel:+17034444801">+1 (703) 444-4801</a> |
+| **[Trump International Golf Club Dubai](https://www.trumpgolfdubai.com/)** <br /> DAMAC Hills <br /> Al Hebiah Third District Dubai <br /> <a href="tel:+971042453939">+971 (0) 4 245 3939</a> |
+| **[Trump International Golf Links & Hotel Ireland, Doonbeg](https://www.trumpgolfireland.com/)** <br />  DOONBEG CO. CLARE, IRELAND <br /> Phone: <a href="tel:+353659055600">+353 65 905 5600</a> |
+| **[Trump MacLeod House & Lodge Scotland](https://www.trumphotels.com/macleod-house)** <br /> Menie Estate Balmedie <br /> Aberdeenshire, Scotland AB23 8YE <br /> PHONE: <a href="tel:+441358743300">+44 1358 743300</a> <br /> RESERVE: <a href="tel:+441358743300">+44 1358 743300</a> |
+| **[Trump Turnberry](https://www.turnberry.co.uk/)** <br /> Maidens Road KA26 9LT Turnberry <br /> Ayrshire Scotland <br /> <a href="tel:+441655331000">+44.1655.331.000</a> <br /> <a href="tel:+4401655334115">+44 01655 334115</a> |
 
 #### [South Carolina](https://www.sc.gov/) [Attorney General](https://www.scag.gov/) [Alan Wilson](https://www.scag.gov/about-the-office/meet-the-attorney-general/)
 
@@ -315,75 +315,69 @@ Put the 6 numbers in your phone (all under P – Politician.) An example is Poli
 | [U.S. Agency for International Development (USAID)](http://www.usaid.gov/) | The U.S. Agency for International Development (USAID) is the principal U.S. agency to extend assistance to countries recovering from disaster, trying to escape poverty, and engaging in democratic reforms. | Investigating Starlink contract with Ukraine | Agency closure attempted. Funding cuts. |
 | [U.S. Department of Agriculture](https://www.usda.gov/) | The Department of Agriculture (USDA) provides leadership on food, agriculture, natural resources, and related issues. | Investigating Neuralink excessive use of animals used for product testing. | Inspector General fired |
 | [Consumer Financial Protection Bureau](https://www.consumerfinance.gov/) | The Consumer Financial Protection Bureau (CFPB) helps consumers by providing educational materials and accepting complaints. It supervises banks, lenders, and large non-bank entities, such as credit reporting agencies and debt collection companies. The Bureau also works to make credit card, mortgage, and other loan disclosures clearer, so consumers can understand their rights and responsibilities. | Investigating Tesla |  |
-| [Department of Justice](https://www.justice.gov/) | The Department of Justice (DOJ) enforces federal laws, seeks just punishment for the guilty, and ensures the fair and impartial administration of justice.
-| [Department of Labor](https://www.dol.gov/) | The Department of Labor (DOL) administers federal labor laws to guarantee workers' rights to fair, safe, and healthy working conditions, including minimum hourly wage and overtime pay, protection against employment discrimination, and unemployment insurance.
-| [Environmental Protection Agency](https://www.epa.gov/) | The Environmental Protection Agency (EPA) protects people and the environment from significant health risks, sponsors and conducts research, and develops and enforces environmental regulations.
-| [Federal Aviation Administration](https://www.faa.gov/) | The Federal Aviation Administration (FAA) works to ensure that air travel is safe.
-| [Federal Emergency Management Agency](https://www.fema.gov/) | The Federal Emergency Management Agency (FEMA) supports citizens and emergency personnel to build, sustain, and improve the nation's capability to prepare for, protect against, respond to, recover from, and mitigate all hazards.
-| [Federal Communications Commission](https://www.fcc.gov/) | The Federal Communications Commission (FCC) regulates interstate and international communications through cable, radio, television, satellite and wire. The goal of the Commission is to promote connectivity and ensure a robust and competitive market.
-| [Federal Trade Commission](https://www.ftc.gov/) | The Federal Trade Commission (FTC) works to prevent fraudulent, deceptive, and unfair business practices. They also provide information to help consumers spot, stop, and avoid scams and fraud.
-| [Department of Justice](https://www.justice.gov/) | The Department of Justice (DOJ) enforces federal laws, seeks just punishment for the guilty, and ensures the fair and impartial administration of justice.
-| [National Aeronautics and Space Administration](https://www.nasa.gov/) | The National Aeronautics and Space Administration (NASA) explores space, and researches Earth systems, the solar system, and the universe.
-| [National Labor Relations Board](https://www.nlrb.gov/) | The National Labor Relations Board (NLRB) enforces the National Labor Relations Act by investigating allegations of wrong-doing brought by workers, unions, or employers, conducting elections, and deciding and resolving cases.
+| [Department of Justice](https://www.justice.gov/) | The Department of Justice (DOJ) enforces federal laws, seeks just punishment for the guilty, and ensures the fair and impartial administration of justice. |
+| [Department of Labor](https://www.dol.gov/) | The Department of Labor (DOL) administers federal labor laws to guarantee workers' rights to fair, safe, and healthy working conditions, including minimum hourly wage and overtime pay, protection against employment discrimination, and unemployment insurance. |
+| [Environmental Protection Agency](https://www.epa.gov/) | The Environmental Protection Agency (EPA) protects people and the environment from significant health risks, sponsors and conducts research, and develops and enforces environmental regulations. |
+| [Federal Aviation Administration](https://www.faa.gov/) | The Federal Aviation Administration (FAA) works to ensure that air travel is safe. |
+| [Federal Emergency Management Agency](https://www.fema.gov/) | The Federal Emergency Management Agency (FEMA) supports citizens and emergency personnel to build, sustain, and improve the nation's capability to prepare for, protect against, respond to, recover from, and mitigate all hazards. |
+| [Federal Communications Commission](https://www.fcc.gov/) | The Federal Communications Commission (FCC) regulates interstate and international communications through cable, radio, television, satellite and wire. The goal of the Commission is to promote connectivity and ensure a robust and competitive market. |
+| [Federal Trade Commission](https://www.ftc.gov/) | The Federal Trade Commission (FTC) works to prevent fraudulent, deceptive, and unfair business practices. They also provide information to help consumers spot, stop, and avoid scams and fraud. |
+| [Department of Justice](https://www.justice.gov/) | The Department of Justice (DOJ) enforces federal laws, seeks just punishment for the guilty, and ensures the fair and impartial administration of justice. |
+| [National Aeronautics and Space Administration](https://www.nasa.gov/) | The National Aeronautics and Space Administration (NASA) explores space, and researches Earth systems, the solar system, and the universe. |
+| [National Labor Relations Board](https://www.nlrb.gov/) | The National Labor Relations Board (NLRB) enforces the National Labor Relations Act by investigating allegations of wrong-doing brought by workers, unions, or employers, conducting elections, and deciding and resolving cases. |
 
 1. **[Tesla](https://www.tesla.com/)**:
-   - **[National Highway Traffic Safety Administration (NHTSA)](https://www.nhtsa.gov/)**: Oversees vehicle safety standards and recalls.
-   - **[Environmental Protection Agency (EPA)](https://www.epa.gov/)**: Regulates emissions and environmental compliance.
-   - **[National Labor Relations Board (NRLB)](https://www.nlrb.gov/)**: The National Labor Relations Board (NLRB) enforces the National Labor Relations Act by investigating allegations of wrong-doing brought by workers, unions, or employers, conducting elections, and deciding and resolving cases.
-   - **[Securities and Exchange Commission (SEC)](https://www.sec.gov/)**: Monitors financial disclosures and securities regulations³.
-   - **[Internal Revenue Service (IRS)](https;//www.irs.gov/)**: No person or company is exempt.
-   - **[Department of Labor (DOL)](https://www.dol.gov/)**: Regulates fiduciary responsibilities and retirement plans³.
-   - **[Social Security Administration](https://www.ssa.gov/)**: Runs the Social Security retirement, survivors, and disability insurance programs.
-   - **[Equal Employment Opportunity Commission](https://www.eeoc.gov/)**: The Equal Employment Opportunity Commission (EEOC) enforces laws that make discrimination illegal in the workplace. The commission oversees all types of work situations including hiring, firing, promotions, harassment, training, wages, and benefits.
-
+    1. **[National Highway Traffic Safety Administration (NHTSA)](https://www.nhtsa.gov/)**: Oversees vehicle safety standards and recalls.
+    2. **[Environmental Protection Agency (EPA)](https://www.epa.gov/)**: Regulates emissions and environmental compliance.
+    3. **[National Labor Relations Board (NRLB)](https://www.nlrb.gov/)**: The National Labor Relations Board (NLRB) enforces the National Labor Relations Act by investigating allegations of wrong-doing brought by workers, unions, or employers, conducting elections, and deciding and resolving cases.
+    4. **[Securities and Exchange Commission (SEC)](https://www.sec.gov/)**: Monitors financial disclosures and securities regulations³.
+    5. **[Internal Revenue Service (IRS)](https;//www.irs.gov/)**: No person or company is exempt.
+    6. **[Department of Labor (DOL)](https://www.dol.gov/)**: Regulates fiduciary responsibilities and retirement plans³
+    7. **[Social Security Administration](https://www.ssa.gov/)**: Runs the Social Security retirement, survivors, and disability insurance programs.
+    8. **[Equal Employment Opportunity Commission](https://www.eeoc.gov/)**: The Equal Employment Opportunity Commission (EEOC) enforces laws that make discrimination illegal in the workplace. The commission oversees all types of work situations including hiring, firing, promotions, harassment, training, wages, and benefits.
 2. **[SpaceX](https://www.spacex.com/)**:
-   - **[Federal Aviation Administration (FAA)](https://www.fda.gov/)**: Regulates commercial space launches and reentries.
-   - **[National Aeronautics and Space Administration (NASA)](https://www.nasa.gov/)**: Collaborates on space missions and contracts.
-   - **[Department of Defense (DOD)](https://www.defense.gov/)**: Engages in defense contracts and satellite launches².
-   - **[Environmental Protection Agency (EPA)](https://www.epa.gov/)**: Regulates emissions and environmental compliance.
-   - **[National Labor Relations Board (NRLB)](https://www.nlrb.gov/)**: The National Labor Relations Board (NLRB) enforces the National Labor Relations Act by investigating allegations of wrong-doing brought by workers, unions, or employers, conducting elections, and deciding and resolving cases.
-      - **[Internal Revenue Service (IRS)](https;//www.irs.gov/)**: No person or company is exempt.
-   - **[Department of Labor (DOL)](https://www.dol.gov/)**: Regulates fiduciary responsibilities and retirement plans³.
-   - **[Social Security Administration](https://www.ssa.gov/)**: Runs the Social Security retirement, survivors, and disability insurance programs.
-   - **[Equal Employment Opportunity Commission](https://www.eeoc.gov/)**: The Equal Employment Opportunity Commission (EEOC) enforces laws that make discrimination illegal in the workplace. The commission oversees all types of work situations including hiring, firing, promotions, harassment, training, wages, and benefits.
-
+    1. **[Federal Aviation Administration (FAA)](https://www.fda.gov/)**: Regulates commercial space launches and reentries.
+    2. **[National Aeronautics and Space Administration (NASA)](https://www.nasa.gov/)**: Collaborates on space missions and contracts.
+    3. **[Department of Defense (DOD)](https://www.defense.gov/)**: Engages in defense contracts and satellite launches².
+    4. **[Environmental Protection Agency (EPA)](https://www.epa.gov/)**: Regulates emissions and environmental compliance.
+    5. **[National Labor Relations Board (NRLB)](https://www.nlrb.gov/)**: The National Labor Relations Board (NLRB) enforces the National Labor Relations Act by investigating allegations of wrong-doing brought by workers, unions, or employers, conducting elections, and deciding and resolving cases.
+    6. **[Internal Revenue Service (IRS)](https;//www.irs.gov/)**: No person or company is exempt.
+    7. **[Department of Labor (DOL)](https://www.dol.gov/)**: Regulates fiduciary responsibilities and retirement plans³.
+    8. **[Social Security Administration](https://www.ssa.gov/)**: Runs the Social Security retirement, survivors, and disability insurance programs.
+    9. **[Equal Employment Opportunity Commission](https://www.eeoc.gov/)**: The Equal Employment Opportunity Commission (EEOC) enforces laws that make discrimination illegal in the workplace. The commission oversees all types of work situations including hiring, firing, promotions, harassment, training, wages, and benefits.
 3. **[X](https://x.com/) (formerly [Twitter](https://twitter.com/))**:
-   - **[Federal Trade Commission (FTC)](https://www.ftc.gov/)**: Ensures consumer protection and privacy standards.
-   - **[Federal Communications Commission (FCC)](https://www.fcc.gov/)**: Regulates communications and broadcasting⁴.
-   - **[Internal Revenue Service (IRS)](https;//www.irs.gov/)**: No person or company is exempt.
-   - **[Department of Labor (DOL)](https://www.dol.gov/)**: Regulates fiduciary responsibilities and retirement plans³.
-   - **[Social Security Administration](https://www.ssa.gov/)**: Runs the Social Security retirement, survivors, and disability insurance programs.
-   - **[Equal Employment Opportunity Commission](https://www.eeoc.gov/)**: The Equal Employment Opportunity Commission (EEOC) enforces laws that make discrimination illegal in the workplace. The commission oversees all types of work situations including hiring, firing, promotions, harassment, training, wages, and benefits.
-
+    1. **[Federal Trade Commission (FTC)](https://www.ftc.gov/)**: Ensures consumer protection and privacy standards
+    2. **[Federal Communications Commission (FCC)](https://www.fcc.gov/)**: Regulates communications and broadcasting⁴.
+    3. **[Internal Revenue Service (IRS)](https;//www.irs.gov/)**: No person or company is exempt.
+    4. **[Department of Labor (DOL)](https://www.dol.gov/)**: Regulates fiduciary responsibilities and retirement plans³.
+    5. **[Social Security Administration](https://www.ssa.gov/)**: Runs the Social Security retirement, survivors, and disability insurance programs.
+    6. **[Equal Employment Opportunity Commission](https://www.eeoc.gov/)**: The Equal Employment Opportunity Commission (EEOC) enforces laws that make discrimination illegal in the workplace. The commission oversees all types of work situations including hiring, firing, promotions, harassment, training, wages, and benefits.
 4. **[The Boring Company](https://www.boringcompany.com/)**:
-   - **[Department of Transportation (DOT)](https://www.dot.gov/)**: Oversees transportation infrastructure projects.
-   - **[Environmental Protection Agency (EPA)](https://www.epa.gov/)**: Ensures environmental compliance for tunneling projects⁴.
-   - **[Internal Revenue Service (IRS)](https;//www.irs.gov/)**: No person or company is exempt.
-   - **[Department of Labor (DOL)](https://www.dol.gov/)**: Regulates fiduciary responsibilities and retirement plans³.
-   - **[Social Security Administration](https://www.ssa.gov/)**: Runs the Social Security retirement, survivors, and disability insurance programs.
-   - **[Equal Employment Opportunity Commission](https://www.eeoc.gov/)**: The Equal Employment Opportunity Commission (EEOC) enforces laws that make discrimination illegal in the workplace. The commission oversees all types of work situations including hiring, firing, promotions, harassment, training, wages, and benefits.
-
+    1. **[Department of Transportation (DOT)](https://www.dot.gov/)**: Oversees transportation infrastructure projects.
+    2. **[Environmental Protection Agency (EPA)](https://www.epa.gov/)**: Ensures environmental compliance for tunneling projects⁴.
+    3. **[Internal Revenue Service (IRS)](https;//www.irs.gov/)**: No person or company is exempt.
+    4. **[Department of Labor (DOL)](https://www.dol.gov/)**: Regulates fiduciary responsibilities and retirement plans³.
+    5. **[Social Security Administration](https://www.ssa.gov/)**: Runs the Social Security retirement, survivors, and disability insurance programs.
+    6. **[Equal Employment Opportunity Commission](https://www.eeoc.gov/)**: The Equal Employment Opportunity Commission (EEOC) enforces laws that make discrimination illegal in the workplace. The commission oversees all types of work situations including hiring, firing, promotions, harassment, training, wages, and benefits.
 5. **[Neuralink](https://neuralink.com/)**:
-   - **[Food and Drug Administration (FDA)](https://www.fda.gov/)**: Regulates medical devices and clinical trials.
-   - **[National Institutes of Health (NIH)](https://www.nih.gov/)**: Provides research funding and oversight⁴.
-   - **[Internal Revenue Service (IRS)](https;//www.irs.gov/)**: No person or company is exempt.
-   - **[Department of Labor (DOL)](https://www.dol.gov/)**: Regulates fiduciary responsibilities and retirement plans³.
-    - **[Social Security Administration](https://www.ssa.gov/)**: Runs the Social Security retirement, survivors, and disability insurance programs.
-    - **[US Department of Agriculture (USDA)](https://www.usda.gov/)**:
-
+    1. **[Food and Drug Administration (FDA)](https://www.fda.gov/)**: Regulates medical devices and clinical trials.
+    2. **[National Institutes of Health (NIH)](https://www.nih.gov/)**: Provides research funding and oversight⁴.
+    3. **[Internal Revenue Service (IRS)](https;//www.irs.gov/)**: No person or company is exempt.
+    4. **[Department of Labor (DOL)](https://www.dol.gov/)**: Regulates fiduciary responsibilities and retirement plans³.
+    5. **[Social Security Administration](https://www.ssa.gov/)**: Runs the Social Security retirement, survivors, and disability insurance programs.
+    6. **[US Department of Agriculture (USDA)](https://www.usda.gov/)**:
 6. **[xAI](https://x.ai/)**:
-   - **[Federal Trade Commission (FTC)](https://www.ftc.gov/)**: Monitors AI ethics and consumer protection.
-   - **[Department of Commerce (DOC)](https://www.commerce.gov/)**: Oversees technology and innovation policies⁴.
-   - **[Internal Revenue Service (IRS)](https;//www.irs.gov/)**: No person or company is exempt.
-   - **[Department of Labor (DOL)](https://www.dol.gov/)**: Regulates fiduciary responsibilities and retirement plans³.
-   - **[Social Security Administration](https://www.ssa.gov/)**: Runs the Social Security retirement, survivors, and disability insurance programs.
-   - **[Equal Employment Opportunity Commission](https://www.eeoc.gov/)**: The Equal Employment Opportunity Commission (EEOC) enforces laws that make discrimination illegal in the workplace. The commission oversees all types of work situations including hiring, firing, promotions, harassment, training, wages, and benefits.
-
-1. **[Starlink](https://www.starlink.com/)**:
-   - **[Federal Aviation Administration (FAA)](https://www.fda.gov/)**: Regulates commercial space launches and reentries
-   - **[Federal Trade Commission (FTC)](https://www.ftc.gov/)**: Ensures consumer protection and privacy standards.
-   - **[Federal Communications Commission (FCC)](https://www.fcc.gov/)**: Regulates communications and broadcasting⁴.
-   - **[Internal Revenue Service (IRS)](https;//www.irs.gov/)**: No person or company is exempt.
-   - **[Department of Labor (DOL)](https://www.dol.gov/)**: Regulates fiduciary responsibilities and retirement plans³.
-   - **[Social Security Administration](https://www.ssa.gov/)**: Runs the Social Security retirement, survivors, and disability insurance programs.
-   - **[Equal Employment Opportunity Commission](https://www.eeoc.gov/)**: The Equal Employment Opportunity Commission (EEOC) enforces laws that make discrimination illegal in the workplace. The commission oversees all types of work situations including hiring, firing, promotions, harassment, training, wages, and benefits.
+    1. **[Federal Trade Commission (FTC)](https://www.ftc.gov/)**: Monitors AI ethics and consumer protection.
+    2. **[Department of Commerce (DOC)](https://www.commerce.gov/)**: Oversees technology and innovation policies⁴.
+    3. **[Internal Revenue Service (IRS)](https;//www.irs.gov/)**: No person or company is exempt.
+    4. **[Department of Labor (DOL)](https://www.dol.gov/)**: Regulates fiduciary responsibilities and retirement plans³.
+    5. **[Social Security Administration](https://www.ssa.gov/)**: Runs the Social Security retirement, survivors, and disability insurance programs.
+    6. **[Equal Employment Opportunity Commission](https://www.eeoc.gov/)**: The Equal Employment Opportunity Commission (EEOC) enforces laws that make discrimination illegal in the workplace. The commission oversees all types of work situations including hiring, firing, promotions, harassment, training, wages, and benefits.
+7. **[Starlink](https://www.starlink.com/)**:
+    1. **[Federal Aviation Administration (FAA)](https://www.fda.gov/)**: Regulates commercial space launches and reentries
+    2. **[Federal Trade Commission (FTC)](https://www.ftc.gov/)**: Ensures consumer protection and privacy standards.
+    3. **[Federal Communications Commission (FCC)](https://www.fcc.gov/)**: Regulates communications and broadcasting⁴.
+    4. **[Internal Revenue Service (IRS)](https;//www.irs.gov/)**: No person or company is exempt.
+    5. **[Department of Labor (DOL)](https://www.dol.gov/)**: Regulates fiduciary responsibilities and retirement plans³.
+    6. **[Social Security Administration](https://www.ssa.gov/)**: Runs the Social Security retirement, survivors, and disability insurance programs.
+    7. **[Equal Employment Opportunity Commission](https://www.eeoc.gov/)**: The Equal Employment Opportunity Commission (EEOC) enforces laws that make discrimination illegal in the workplace. The commission oversees all types of work situations including hiring, firing, promotions, harassment, training, wages, and benefits.
