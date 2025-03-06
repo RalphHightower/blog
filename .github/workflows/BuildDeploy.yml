@@ -18,7 +18,7 @@ jobs:
       BUNDLE_RETRY: 3
     steps:
       - name: Harden Runner
-        uses: step-security/harden-runner@v2.11.0
+        uses: step-security/harden-runner@4d991eb9b905ef189e4c376166672c3f2f230481 # v2.11.0
         with:
           egress-policy: audit
 
@@ -28,7 +28,7 @@ jobs:
           repository: jekyll/minima
           ref: demo-site
       - name: Set up Ruby 3.3.6
-        uses: ruby/setup-ruby@v1.222.0
+        uses: ruby/setup-ruby@277ba2a127aba66d45bad0fa2dc56f80dbfedffa # v1.222.0
         with:
           ruby-version: 3.3.6
           bundler-cache: true
