@@ -1,4 +1,4 @@
-- name: scorecard.yml — OpenSSF Scorecard
+name: NewYear_AmericaNewYork.yml
 "on":
   schedule:
     - cron: 0 5 1 1 *
