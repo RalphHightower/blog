@@ -3,7 +3,7 @@ layout: post
 tags: [Michigan, Elissa Slotkin (D-MI), Senate, House of Representatives, Congress, Joint Session of Congress, 
 Long Winded String of Lies About Accomplishments, President Donald J. Trump, President Of The United States (POTUS), White House (WH), politics]
 categories: [Donald Trump]
-date: 2025-03-06v7:10 PM
+date: 2025-03-06 7:10 PM
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
