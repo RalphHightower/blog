@@ -27,9 +27,10 @@ https://6abc.com/live-updates/trump
 - [House of Representatives](https://www.house.gov/)
 - [Congress](https://congress.gov/)
 - Joint Session of Congress
-- Long Winded String of Lies About Accomplishments
+- Long Winded String of Lies About Accomplishments[^11]
 - [President Donald J. Trump](https://www.whitehouse.gov/administration/donald-j-trump/)
 - [President Of The United States (POTUS)](https://www.whitehouse.gov/)
 - [White House (WH)](https://www.whitehouse.gov/)
 - politics
 
+[^11]: @RalphHightower: I didn't watch or listen to him. [Trump](https://www.whitehouse.gov/administration/donald-j-trump/) talks like a five-year old. Yes, that is disparaging to five year old, but they'll become better speakers of the English language. I'll wait until [Mary Trump Media - YouTube](https://www.youtube.com/channel/UCSzRlpPbZTA6b8weTKnSHlA) morphs his speech to make him sound like a chipmunk. 
