@@ -176,7 +176,11 @@ Class III.
 | **[Trump MacLeod House & Lodge Scotland](https://www.trumphotels.com/macleod-house)** <br /> Menie Estate Balmedie <br /> Aberdeenshire, Scotland AB23 8YE <br /> PHONE: <a href="tel:+441358743300">+44 1358 743300</a> <br /> RESERVE: <a href="tel:+441358743300">+44 1358 743300</a> |
 | **[Trump Turnberry](https://www.turnberry.co.uk/)** <br /> Maidens Road KA26 9LT Turnberry <br /> Ayrshire Scotland <br /> <a href="tel:+441655331000">+44.1655.331.000</a> <br /> <a href="tel:+4401655334115">+44 01655 334115</a> |
 
-#### [South Carolina](https://www.sc.gov/) [Attorney General](https://www.scag.gov/) [Alan Wilson](https://www.scag.gov/about-the-office/meet-the-attorney-general/)
+#### [South Carolina](https://www.sc.gov/) [Attorney General](https://www.scag.gov/)
+
+##### [Trump Party](https://www.gop.com/)
+
+###### [Alan Wilson](https://www.scag.gov/about-the-office/meet-the-attorney-general/)
 
 [Alan Wilson (T)](https://www.scag.gov/about-the-office/meet-the-attorney-general/) is the most nakedly partisan [Attorney General](https://www.scag.gov/) that [South Carolina](https://www.s.gov/) has ever had. Wilson is an election denier; he thinks that the [Democrats](https://www.democrats.org/) stole the 2020 election.
 
@@ -194,6 +198,12 @@ Class III.
 - [My Dumb State, South Carolina: South Carolina's Attorney General, Alan Wilson, Wants To Amend The Fourteenth Amendment]({% post_url /2025/02/2025-02-07-SCAGWants14thAmendmentAmended %})
 - [My Dumb State: South Carolina Attorney General Alan Wilson & RAGA Sues Pennsylvania For Election Fraud Over 2020 Presidential Election]({% post_url /2020/11/2020-11-09-SCAGSuesPA %})
 
+#### Attorneys General
+
+##### [Democratic Attorneys General Association](https://dems.ag/)
+
+##### [Trumpian Attorneys General Association](https://republicanags.com/)
+ 
 ## Game Plan Strategy
 
 @RalphHightower: What's below the chapter headings are summaries of the chapters. Click on the headings to read the full chapters.
