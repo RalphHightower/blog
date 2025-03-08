@@ -55,6 +55,7 @@ Multiple [Pentagon chiefs]() just dropped a devastating bombshell on [Trump](htt
 - [U.S. Space Command](https://www.spacecom.mil/)
 - [U.S. Africa Command (AFRICOM)](https://www.africom.mil/)
 - [U.S. Central Command (CENTCOM)](https://www.centcom.mil/)
+- [U.S. European Command](https://www.eucom.mil/)
 - [U.S. Indo-Pacific Command (USINDOPACOM)](https://www.pacom.mil/)
 - [U.S. Northern Command (USNORTHCOM)](https://www.northcom.mil/)
 - [United States of America (US)](https://www.usa.gov/)
