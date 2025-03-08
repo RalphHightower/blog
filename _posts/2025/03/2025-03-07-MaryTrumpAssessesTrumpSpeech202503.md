@@ -13,7 +13,8 @@ title: "Donald Trump’s Endless Stream of Lies To Joint Session of Congress"
 
 ## Trump makes FATAL MISTAKE in DISASTROUS Address
 
-[Trump](https://www.whitehouse.gov/administration/donald-j-trump/) makes FATAL MISTAKE in DISASTROUS Address.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6hLwpWACgE4?si=3-dp8dYcupzbZUFq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 Mar 5, 2025  #marytrump [#trumpcabinet](https://www.whitehouse.gov/) [#donaldtrump](https://www.whitehouse.gov/administration/donald-j-trump/)
 Subscribe here:    / @marytrumpmedia
 [Donald Trump’s](https://www.whitehouse.gov/administration/donald-j-trump/) latest address to [Congress](https://www.congress.gov/) was a disaster—full of hypocrisy, lies, and authoritarian threats. From gaslighting about “free speech” to defending [Elon Musk’s](https://x.com/elonmusk/) illegal power grab, this speech revealed it all. Even [Republicans](https://www.gop.com/) were caught off guard. Let’s break it down!
@@ -29,21 +30,21 @@ Subscribe here:    / @marytrumpmedia
 - cut $4B from [NIH](https://www.nih.gov/) to college grants for cancer research
 - [SSA](https://www.ssa.gov/) near collapse in 30 days.
 - pardons J6 criminals
-- Andrew Tate faces six trafficking charges in [Romania]() for next trafficking. Extradition to [Florida](https://www.myflorida.com/) because he is a [Trump](https://www.whitehouse.gov/administration/donald-j-trump/) supporters
+- Andrew Tate faces six trafficking charges in [Romania](https://www.presidencia.gob.pa/) for next trafficking. Extradition to [Florida](https://www.myflorida.com/) because he is a [Trump](https://www.whitehouse.gov/administration/donald-j-trump/) supporters
 
 ## Trump’s Speech BLOWS UP IN HIS FACE—World Leaders ERUPT!
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3i0ib3FuAM8?si=91xjr0HYuRBgjyE5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3i0ib3FuAM8?si=coR2VeKkoGo-nGC5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Mar 5, 2025  #marytrump [#trumpcabinet]() #donaldtrump
-[Trump](https://www.whitehouse.gov/administration/donald-j-trump/) just humiliated himself on the world stage—again. His unhinged speech threatening war, annexation, and trade wars has sparked outrage from [U.S.](https://www.usa.gov/) allies and global leaders. From [Mexico](https://www.gob.mx=) to [Greenland](https://grl-rep.dk/en/rep/sek), world leaders are shutting him down fast. Watch as his reckless imperialist rant backfires spectacularly.
+Mar 5, 2025  #marytrump [#trumpcabinet](https://www.whitehouse.gov/) [#donaldtrump](https://www.whitehouse.gov/administration/donald-j-trump/)
+[Trump](https://www.whitehouse.gov/administration/donald-j-trump/) just humiliated himself on the world stage—again. His unhinged speech threatening war, annexation, and trade wars has sparked outrage from [U.S.](https://www.usa.gov/) allies and global leaders. From [Mexico](https://www.gob.mx/) to [Greenland](https://grl-rep.dk/en/rep/sek), world leaders are shutting him down fast. Watch as his reckless imperialist rant backfires spectacularly.
 
 - dictator in a small banana Republic
-- get [Panama canal]()
+- get [Panama canal](https://pancanal.com/en/)
 - tariffs tariffs tariffs
 - [China](https://www.gov.cn/) does not control Panama canal
 - annex [Greenland](https://grl-rep.dk/en/rep/sek)
-- [Greenland](https://grl-rep.dk/en/rep/sek) wants independence from [Denmark]()
+- [Greenland](https://grl-rep.dk/en/rep/sek) wants independence from [Denmark](https://denmark.dk/)
 - [Trudeau](https://www.pm.gc.ca/) on [Trump’s tariffs](https://www.whitehouse.gov/administration/donald-j-trump/). Never be 51st state
 
 - [Canada](https://www.canada.ca/)
