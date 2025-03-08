@@ -1,7 +1,7 @@
 ---
 layout: post
-tags: [music video]
-categories: [Pink Floyd, Learning to Fly]
+tags: [Pink Floyd, Learning to Fly]
+categories: [music video]
 date: 2024-12-01 8:44 PM
 excerpt: "A soul in tension that's learning to fly. Condition grounded, but determined to try"
 #image: 'BASEURL/assets/blog/img/.png'

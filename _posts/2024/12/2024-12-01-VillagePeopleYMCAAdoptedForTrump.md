@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: [YMCA, parody, The Village People, Kenan Thompson, Mikey Day, Beck Bennett, Chris Redd, Bowen Yang, Weekend Update, Donald Trump]
-categories: [Saturday Night Live, Weekend Update]
+categories: [Saturday Night Live, Weekend Update, music video]
 date: 2024-12-01 8:34 PM
 excerpt: "We're Gonna Shave Ivanka's Head. She'll Look Like Jean-Luc Picard"
 #image: 'BASEURL/assets/blog/img/.png'
