@@ -1,8 +1,8 @@
 ---
 layout: page
-tags: [assholes, Donald Trump, Elon Musk, Betsy DeVos., MAGA billionaires, billionaire, Trump donors, Republican PAC]
+tags: [assholes, Donald Trump, Elon Musk, Betsy DeVos., MAGA billionaires, billionaire, Trump donors, Republican PAC, Make America Great Again (MAGA)]
 categories: [Telephone Numbers]
-date: 2025-03-06 7:23 PM
+date: 2025-03-07 6:54 PM
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description: 
@@ -16,6 +16,23 @@ The telephone numbers below have called and there is an empty person on the othe
 
 | Telephone Number | Location | Date Time[^11] | Caller | Social Media |
 |---|---|---|---|---|
+| <a href="tel:+18038776345">+1 (803) 877-6345</a> | SC. | 2025-03-07 05:46 PM | - | |
+| <a href="tel:+18034927987">+1 (803) 492-7987</a> | SC. Eutawville | 2025-03-07 05:09 PM ¤¤ | Tratt Alvoid | |
+| <a href="tel:+18034927987">+1 (803) 492-7987</a> | SC. Eutawville | 2025-03-07 05:09 PM | Tratt Alvoid | |
+| <a href="tel:+18034372357">+1 (803) 437-2357</a> | SC. | 2025-03-07 05:03 PM | Rouse Gertie | |
+| <a href="tel:+18038572389">+1 (803) 857-2389</a> | SC. | 2025-03-07 04:58 PM | - | |
+| <a href="tel:+18038597102">+1 (803) 859-7102</a> | SC. | 2025-03-07 04:35 PM | Potential Spam | |
+| <a href="tel:+18039048351">+1 (803) 904-8351</a> | SC. | 2025-03-07 04:23 PM | - | |
+| <a href="tel:+18037533302">+1 (803) 753-3302</a> | SC. | 2025-03-07 01:05 PM | Burr Forman LLP | |
+| <a href="tel:+18038307508">+1 (803) 830-7508</a> | SC. Columbia | 2025-03-07 12:28 PM | Potential Spam | |
+| <a href="tel:+18039473880">+1 (803) 947-3880</a> | SC. Newberry | 2025-03-07 12:04 PM | - | |
+| <a href="tel:+18037560492">+1 (803) 756-0492</a> | SC. Columbia | 2025-03-07 11:31 AM ¤¤ | - | |
+| <a href="tel:+18037560492">+1 (803) 756-0492</a> | SC. Columbia | 2025-03-07 11:29 AM | - | |
+| <a href="tel:+18033172830">+1 (803) 317-2830</a> | SC. Batesburg | 2025-03-07 11:27 AM | Richard Mallon | |
+| <a href="tel:+18039167693">+1 (803) 916-7693</a> | SC. Branchville | 2025-03-07 11:00 AM | Potential Spam | |
+| <a href="tel:+18034045809">+1 (803) 404-5809</a> | SC. Columbia | 2025-03-07 10:57 AM | Hester Drywall | |
+| <a href="tel:+18032191262">+1 (803) 219-1262</a> | SC. | 2025-03-07 09:43 AM ¤¤ | - | |
+| <a href="tel:+18032191262">+1 (803) 219-1262</a> | SC. | 2025-03-07 09:41 AM | - | |
 | <a href="tel:+18035735415">+1 (803) 573-5415</a> | SC. Allendale | 2025-03-06 05:24 PM | Potential Spam | |
 | <a href="tel:+18039004683">+1 (803) 900-4683</a> | SC. Columbia | 2025-03-06 04:42 PM | Potential Spam | |
 | <a href="tel:+18034554316">+1 (803) 455-4316</a> | SC. | 2025-03-06 04:02 PM | Potential Spam | |
@@ -28,7 +45,7 @@ The telephone numbers below have called and there is an empty person on the othe
 | <a href="tel:+18033076924">+1 (803) 307-6924</a> | SC. Batesburg | 2025-03-06 12:19 PM | - | |
 | <a href="tel:+18038475231">+1 (803) 847-5231</a> | SC. | 2025-03-06 11:20 AM | Hill Plumbing | |
 | <a href="tel:+18038223545">+1 (803) 822-3545</a> | SC. | 2025-03-06 10:16 AM | [Midlands Tech C](https://www.midlandstech.edu/) | |
-| <a href="tel:+18039928678">+1 (803) 992-8678</a> | SC. Fort Mill | 2025-03-06 09:58 AM | Oerlicon Balzer | |
+| <a href="tel:+18039928678">+1 (803) 992-8678</a> | SC. Fort Mill | 2025-03-06 09:58 AM | Oerlikon Balzer | |
 | <a href="tel:+18039210407">+1 (803) 921-0407</a> | SC. Eutawville | 2025-03-05 05:55 PM ¤¤ | - | |
 | <a href="tel:+18039210407">+1 (803) 921-0407</a> | SC. Eutawville | 2025-03-05 05:54 PM | - | |
 | <a href="tel:+18033580424">+1 (803) 358-0424</a> | SC. Lexington | 2025-03-05 05:14 PM ¤¤ | ANDERSON ANDRE | |
@@ -337,7 +354,7 @@ The telephone numbers below have called and there is an empty person on the othe
 | <a href="tel:+18035855916">+1 (803) 585-5916</a> | SC. Orangeburg | 2025-01-15 10:42 AM ¤¤ | | |
 | <a href="tel:+18035855916">+1 (803) 585-5916</a> | SC. Orangeburg | 2025-01-15 10:42 AM ¤¤ | - | |
 | <a href="tel:+18035855916">+1 (803) 585-5916</a> | SC. Orangeburg | 2025-01-15 10:41 AM | - | |
-| <a href="tel:+18035142417">+1 (803) 514-2417</a> | SC. Aiken | 2025-01-15 09:46 AM | Vivian Baltzefar | |
+| <a href="tel:+18035142417">+1 (803) 514-2417</a> | SC. Aiken | 2025-01-15 09:46 AM | Vivian Baltzegar | #BillPayFraud|
 | <a href="tel:+18032284389">+1 (803) 228-4389</a> | SC. Fort Mill | 2025-01-14 06:50 PM | - | |
 | <a href="tel:+18033538353">+1 (803) 353-8353</a> | SC. Eastover | 2025-01-14 03:40 PM | Dinkins, Jimmy | |
 | <a href="tel:+18393883853">+1 (839) 388-3853</a> | SC. Rock Hill | 2025-01-14 12:31 PM | RMR | |
