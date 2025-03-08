@@ -93,6 +93,7 @@ Mar 2, 2025  #donaldtrump #marytrump #currentevents
 - [U.S. Department of Agriculture (USDA)](https://www.usda.gov/)
 - [U.S. Department of Commerce (DOC)](https://www.commerce.gov/)
 - [U.S. Department of Health and Human Services  (HHS)](https://www.hhs.gov/)
+- [U.S. European Command](https://www.eucom.mil/)
 - [U.S. Fleet Forces Command (FLEET)](https://www.usff.navy.mil/)
 - [U.S. Indo-Pacific Command (USINDOPACOM)](https://www.pacom.mil/)
 - [U.S. Marine Corps](https://www.marines.mil/)

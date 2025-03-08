@@ -17,7 +17,7 @@ title: "Canada Responds to Trump Tariffs: Prime Minister Justin Trudeau & Foreig
 
 Feb 3, 2025  OTTAWA
 February 1, 2025
-[Prime Minister]() [Justin Trudeau]() makes an announcement in response to [U.S.](8035735415) tariffs on [Canada](https://www.canada.ca/).
+[Prime Minister](https://www.pm.gc.ca/) [Justin Trudeau](https://www.pm.gc.ca/) makes an announcement in response to [U.S.](https://www.usa.gov/) tariffs on [Canada](https://www.canada.ca/).
 - neighbors 
 - friends 
 - partners 
@@ -31,8 +31,8 @@ February 1, 2025
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/z3rIlAITjXk?si=a1xDgleC1xVWPBt7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Mar 6, 2025  [#CNN]() #News
-[Canadian]() [Foreign Minister]() [Mélanie Joly]() talks to [CNN's]() (Christiane Amanpour]() about Trump's ideas on trade, military cooperation, annexation and more. [#CNN]() #News
+Mar 6, 2025  [#CNN](http://www.cnn.com/) #News
+[Canadian](https://www.canada.ca/) [Foreign Minister](https://www.international.gc.ca/global-affairs-affaires-mondiales/home-accueil.aspx) [Mélanie Joly](https://www.international.gc.ca/global-affairs-affaires-mondiales/home-accueil.aspx) talks to [CNN's](http://www.cnn.com/) Christiane Amanpour about [Trump's](https://www.whitehouse.gov/administration/donald-j-trump/) ideas on trade, military cooperation, annexation and more. [#CNN](http://www.cnn.com/) #News
 - [Canada](https://www.canada.ca/) 
     - energy
         - oil/gas
@@ -41,8 +41,9 @@ Mar 6, 2025  [#CNN]() #News
     - agriculture 
     - fertilizer 
 
-- [Justin Trudeau - Prime Minister of Canada](https://www.pm.gc.ca/en)
-- [Mélanie Joly Global Affairs Canada](https://www.international.gc.ca/global-affairs-affaires-mondiales/home-accueil.aspx?lang=eng)
+- [Canada Government](https://www.canada.ca/)
+- [Justin Trudeau - Prime Minister of Canada](https://www.pm.gc.ca/)
+- [Mélanie Joly Global Affairs Canada](https://www.international.gc.ca/global-affairs-affaires-mondiales/home-accueil.aspx)
 - [U.S. Department of Commerce](https://www.commerce.gov/)
 - [Foreign Agricultural Service](https://www.fas.usda.gov/)
 - [U.S. International Trade Commission](https://www.usitc.gov/)

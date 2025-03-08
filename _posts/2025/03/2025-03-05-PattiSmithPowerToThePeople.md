@@ -1,7 +1,7 @@
 ---
 layout: post
-tags: [People Have the Power, protest song]
-categories: [Patti Smith]
+tags: [Patty Smith, People Have the Power, protest song]
+categories: [music video]
 date: 2025-03-05 6:31 PM
 excerpt: "I was dreamin' in my dreamin', Of an aspect bright and fair, And my sleepin' it was broken, But my dream it lingered near. In the form of shinin' valleys, Where the pure air recognized, Oh, and my senses newly opened, And I awakened to the cry. And the people have the power, To redeem the work of fools, From the meek the graces shower, It's decreed the people rule. People have the power, People have the power, People have the power, People have the power."
 #image: 'BASEURL/assets/blog/img/.png'

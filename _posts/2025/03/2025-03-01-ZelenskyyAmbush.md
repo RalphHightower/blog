@@ -32,4 +32,3 @@ Former United States Ambassador to the [United Nation](https://www.un.org/) join
 - [Vice President JD Vance](https://www.whitehouse.gov/administration/jd-vance/)
 - politics
 
-
