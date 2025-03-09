@@ -31,7 +31,7 @@ description: >
 
 repository: 'RalphHightower/blog'
 url: 'https://ralphhightower.github.io'
-baseurl: "/blog/"
+baseurl: "blog/"
 timezone: 'America/New_York'
 github_username: RalphHightower
 
