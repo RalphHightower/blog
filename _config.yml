@@ -110,7 +110,7 @@ minima:
 
 ai_related_posts:
   openai_api_key: {{ secrets.OPEN_AI_KEY }}
-  fetch_enabled: prod
+  fetch_enabled: production
 
 # Optional. The default date format is used if none is specified in the tag.
 last-modified-at:
