@@ -7,14 +7,26 @@ excerpt: "Trump did not win by a mandate. He did not cross over 50% in 2024 or 2
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: "Resistance Is Not Futile! – Political Gameplan / Strategy"
+title: "Political Gameplan / Strategy: Resistance Is Not Futile!"
 ---
 
 ## We Are The *"Enemy Within"*
 
-[Trump](https://www.whitehouse.gov/) did not win by a mandate. He did not cross over 50% in 2024 or 2016, although he got 9 more electoral votes the third time around. His margin of victory was less than 1.5%, 1.48% to be exact. I don’t give a shit about those election deniers; these are the undisputed numbers as recorded by the [Federal Election Commission](https://www.fec.gov/).
+### Pain Point Issues
+
+*"This is @RalphHightower from Chapin, South Carolina, with the daily farm report. Despite Donald Trump promising to lower the price of eggs as a Day 1 priority and signing an Executive Order ordering chickens to lay cheaper eggs, a dozen Grade A large eggs are \$10 with prices expected to rise. A pound of steaks are \$25 to \$30. It is now Day ## of the Trump presidency. It sounds like Trump’s campaign promises are from a car salesperson: **Bait and Switch**. This concludes today’s farm market report from Chapin, South Carolina, with Ralph Hightower reporting."*
+
+Grade A large Eggs \$8 dozen
+Steak \$20 pound
+Inflation rising
+Weekly unemployment highest since last January
+Stock market down
+Enemies with our allies
+Friends with our enemies
 
 ### Election Results
+
+[Trump](https://www.whitehouse.gov/administration/donald-j-trump/) did not win by a mandate. He did not cross over 50% in 2024 or 2016, although he got 9 more electoral votes the third time around. His margin of victory was less than 1.5%, 1.48% to be exact. I don’t give a shit about those election deniers; these are the undisputed numbers as recorded by the [Federal Election Commission](https://www.fec.gov/).
 
 #### [2024 Presidential Election Results – Federal Election Commission (FEC)](https://www.fec.gov/resources/cms-content/documents/2024presgeresults.pdf)
 
@@ -104,7 +116,7 @@ Class III terms run from the beginning of the 118th Congress on January 3, 2023,
 
 ###### [Graham, Lindsey (T-SC)](https://www.lgraham.senate.gov/)
 
-[Trump's](https://www.whitehouse.gov/) Poodle.
+[Trump's](https://www.whitehouse.gov/administration/donald-j-trump/) Poodle.
 
 Class II.
 
@@ -132,7 +144,7 @@ Class II.
 
 ###### [Scott, Tim (T-SC)](https://www.scott.senate.gov/)
 
-Yes, my assessment has racial overtones, but [Scott](https://www.scott.senate.gov/) is [Trump's](https://www.whitehouse.gov/) *"lawn jockey."*
+Yes, my assessment has racial overtones, but [Scott](https://www.scott.senate.gov/) is [Trump's](https://www.whitehouse.gov/administration/donald-j-trump/) *"lawn jockey."*
 
 Class III.
 
@@ -153,6 +165,8 @@ Class III.
 #### President
 
 ##### [Trump Party](https://www.gop.com/)
+
+[Roll Call Factba.se - Donald J. Trump's Public Schedule](https://rollcall.com/factbase/trump/topic/calendar/)
 
 | Locations |
 |---|
