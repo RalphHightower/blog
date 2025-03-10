@@ -14,7 +14,7 @@ title: "Political Gameplan / Strategy: Resistance Is Not Futile!"
 
 ### Pain Point Issues
 
-*"This is @RalphHightower from Chapin, South Carolina, with the daily farm report. Despite Donald Trump promising to lower the price of eggs as a Day 1 priority and signing an Executive Order ordering chickens to lay cheaper eggs, a dozen Grade A large eggs are \$10 with prices expected to rise. In bovine news, steaks are \$25 to \$30 a pound. It is now Day ## of the Trump presidency. It sounds like Trump’s campaign promises are from a car salesperson: **Bait and Switch**. This concludes today’s farm market report from Chapin, South Carolina, with Ralph Hightower reporting."*
+*"This is @RalphHightower from Chapin, South Carolina, with the daily farm market report. Despite Donald Trump promising to lower the price of eggs as a Day 1 campaign promise and signing an Executive Order ordering chickens to lay cheaper eggs, a dozen Grade A large eggs are \$10 with prices expected to rise. In bovine news, steaks are \$25 to \$30 a pound. It is now Day ## of the Trump presidency. It sounds like Trump’s campaign promises are from a car salesperson: **Bait and Switch**. This concludes today’s farm market report from Chapin, South Carolina, with Ralph Hightower reporting."*
 
 Grade A large Eggs \$8 dozen
 Steak \$20 pound
