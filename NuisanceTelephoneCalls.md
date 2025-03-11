@@ -16,6 +16,16 @@ The telephone numbers below have called and there is an empty person on the othe
 
 | Telephone Number | Location | Date Time[^11] | Caller | Social Media |
 |---|---|---|---|---|
+| <a href="tel:+18038455386">+1 (803) 845-5386</a> | SC. Aiken | 2025-03-11 05:26 PM | Cynthia Jones | |
+| <a href="tel:+18032183800">+1 (803) 218-3800</a> | SC. | 2025-03-11 05:12 PM | - | |
+| <a href="tel:+18032994840">+1 (803) 299-4840</a> | SC. Columbia | 2025-03-11 04:39 PM | Potential Spam | |
+| <a href="tel:+18038871122">+1 (803) 887-1122</a> | SC. Clover | 2025-03-11 04:06 PM | Potential Spam | |
+| <a href="tel:+18032078376">+1 (803) 207-8376</a> | SC. Rock Hill | 2025-03-11 03:28 PM | - | |
+| <a href="tel:+18034123276">+1 (803) 412-3276</a> | SC. Rock Hill | 2025-03-11 01:55 PM | Carolina Energy | |
+| <a href="tel:+18034658235">+1 (803) 465-8235</a> | SC. Columbia | 2025-03-11 01:16 PM | Capitol Telecom | |
+| <a href="tel:+18039368508">+1 (803) 936-8508</a> | SC. | 2025-03-11 11:24 AM | Potential Spam | |
+| <a href="tel:+18032394105">+1 (803) 239-4105</a> | SC. Columbia | 2025-03-11 10:43 AM ¤¤ | SYSCO Columbia | |
+| <a href="tel:+18032394105">+1 (803) 239-4105</a> | SC. Columbia | 2025-03-11 10:41 AM | SYSCO Columbia | |
 | <a href="tel:+18036515396">+1 (803) 651-5396</a> | SC. Sumter | 2025-03-10 04:52 PM | - | |
 | <a href="tel:+18038976929">+1 (803) 897-6929</a> | SC. | 2025-03-10 04:07 PM | Potential Spam | |
 | <a href="tel:+18037926917">+1 (803) 792-6917</a> | SC. | 2025-03-10 01:37 PM | - | |
