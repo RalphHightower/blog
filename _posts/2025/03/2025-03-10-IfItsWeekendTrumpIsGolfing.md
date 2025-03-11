@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [Huffington Post, Trump National Doral Golf Club, The Mar-a-Lago Club, Trump International Golf Club, Palm Beach County, Miami International Airport - (MIA), 
+tags: [Huffington Post, golf, weekends, Trump National Doral Golf Club, The Mar-a-Lago Club, Trump International Golf Club, Palm Beach County, Miami International Airport - (MIA), 
 Secrets of US Beast: Inside world’s most powerful President’s ride, Coast Guard (USCG), C-17 Globemaster III > Air Force > Fact Sheet Display, Government Accountability Office (GAO), 
 President Donald J. Trump, Air Force One, President Of The United States (POTUS), White House (WH), politics]
 categories: [Donald Trump]
@@ -9,7 +9,7 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: 'title'
+title: "If It's the Weekend, Then Trump Has Taken Air Force One With the C-130 With the Armored Presidential Limousine and Entourage to Mar-a-Lago to Play Golf"
 ---
 
 
