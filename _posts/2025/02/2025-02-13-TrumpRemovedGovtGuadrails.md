@@ -51,7 +51,7 @@ By Colby Itkowitz, Yvonne Wingett Sanchez and Olivia George
 - Critics argue that these actions create a lawless environment and undermine existing mechanisms to root out government waste, fraud, and abuse.
 - Concerns are raised about the appointment of **Douglas A. Collins** to lead multiple agencies, questioning his ability to manage these roles effectively.
 - Legal challenges are being made against [Trump's](https://www.whitehouse.gov/) actions, with some officials suing for wrongful termination.
-- Critics liken the current situation to the Nixon](https://en.wikipedia.org/wiki/Richard_Nixon) presidency, warning of the potential erosion of accountability and the establishment of an authoritarian regime.
+- Critics liken the current situation to the [Nixon](https://en.wikipedia.org/wiki/Richard_Nixon) presidency, warning of the potential erosion of accountability and the establishment of an authoritarian regime.
 - Advocates for a stronger federal government express alarm over the implications of these firings for government oversight and the protection of federal employees.
 
 [Office of Government Ethics](https://www.oge.gov/):
@@ -65,7 +65,7 @@ By Colby Itkowitz, Yvonne Wingett Sanchez and Olivia George
 Inspector Generals[^81]:
 
 - serves as an independent auditor to the agency that they are assigned to and report on findings of waste, fraud, and abuse.
-[^81]: [Trump](https://www.whitehouse.gov/) [had fired 18 Inspector Generals earlier]({% link _posts/2025/01/2025/01/2025-01-26-IGsFiredFridayNightMassacre.md %}).
+[^81]: [Trump](https://www.whitehouse.gov/) [had fired 18 Inspector Generals earlier]({% link _posts/2025/01/2025-01-26-IGsFiredFridayNightMassacre.md %}).
 
 [Merit Systems Protection Board](https://www.mspb.gov/):
 
