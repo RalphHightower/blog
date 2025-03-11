@@ -1,13 +1,13 @@
 ---
 layout: post
-tags: [MSNBC, Nicolle Wallace, Rachel Maddow, John Brennan, Politico, Australia Government, United Kingdom Government, New Zealand Government, Magyarország Kormánya - főoldal (Hungary), Domov / Úrad vlády Slovenskej republiky (Slovakia), Syrian Government, Kremlin, Russia, Vladimir Putin, Ukraine (UA), Volodymyr Zelenskyy, United Nations (UN), North Atlantic Treaty Organization (NATO), European Union (EU), United States of America (US), Central Intelligence Agency, Office of the Director of National Intelligence (ODNI), Tulsi Gabbard, North Atlantic, Treaty Organization (NATO), White House (WH), President Of The United States (POTUS), President Donald J. Trump, politics]
+tags: [MSNBC, Nicolle Wallace, Rachel Maddow, ,  John Brennan, Politico, Australia Government, United Kingdom Government, New Zealand Government, Magyarország Kormánya - főoldal (Hungary), Domov / Úrad vlády Slovenskej republiky (Slovakia), Syrian Government, Kremlin, Russia, Vladimir Putin, Ukraine (UA), Volodymyr Zelenskyy, United Nations (UN), North Atlantic Treaty Organization (NATO), European Union (EU), United States of America (US), Central Intelligence Agency, Office of the Director of National Intelligence (ODNI), Tulsi Gabbard, North Atlantic, Treaty Organization (NATO), White House (WH), President Of The United States (POTUS), President Donald J. Trump, politics]
 categories: [Donald Trump]
 date: 2025-03-06 9:57 PM
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: "Trump Is the Manchurian Candidate: Fucking Unelievable! Europe, NATO, and Our Former Allies No Longer Trust the US as Trump Shifts Allegiance With Tussia!"
+title: "Trump Is the Manchurian Candidate: Fucking Believable! Europe, NATO, and Our Former Allies No Longer Trust the US as Trump Shifts Allegiance With Tussia!"
 ---
 
 
@@ -114,7 +114,7 @@ In summary, the current administration's approach has created significant uncert
 - [United States of America (US)](https://www.usa.gov/)
 - [Central Intelligence Agency](https://www.cia.gov/)
 - [Office of the Director of National Intelligence (ODNI)](https://www.dni.gov/)
-- [Tulsi Gabbard – Director of National Intelligence (ODNI)](https://www.dni.gov/index.php/who-we-are/leadership/director-of-national-intelligence)- [North Atlantic Treaty Organization (NATO)](https://www.nato.int/)
+- [Tulsi Gabbard – Director of National Intelligence (ODNI)](https://www.dni.gov/index.php/who-we-are/leadership/director-of-national-intelligence)
 - [White House (WH)](https://www.whitehouse.gov/)
 - [President Of The United States (POTUS)](https://www.whitehouse.gov/)
 - [President Donald J. Trump](https://www.whitehouse.gov/administration/donald-j-trump/)
