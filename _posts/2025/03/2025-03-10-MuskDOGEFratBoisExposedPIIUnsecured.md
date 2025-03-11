@@ -15,7 +15,7 @@ title: "All Your Personal Identifiable Information (PII) Are Belong To Us!"
 
 [^1]: [All your base are belong to us - Wikipedia](https://en.wikipedia.org/wiki/All_your_base_are_belong_to_us)
 
-- {% link: _posts/2025/03/2025-03-03-MuskDOGETeamFuckingUpSSAComputerSystems.md %}
+- {% link _posts/2025/03/2025-03-03-MuskDOGETeamFuckingUpSSAComputerSystems.md %}
 
 ## Martin O'Malley: Musk wants to break Social Security so he can loot it
 
@@ -40,7 +40,7 @@ Tiffany Flick, a top [Social Security Administration](https://www.ssa.gov/) befo
 
 Flick, who served as the [SSA's](https://www.ssa.gov/) acting chief of staff until her forced departure in February, said that [DOGE]() representatives sought unrestricted access to databases containing personal information on millions of Americans. She alleges that data was exposed in unsecured locations outside [SSA offices](https://www.ssa.gov) and that the political appointees refused to explain their need for the information, which is protected by law.
 
-The declaration is part of a lawsuit filed by [Democracy Forward](https://democracyforward.org/) on behalf of unions and retirees seeking to block [DOGE's]() access to the data. Flick described the unfolding of the events as a "de facto coup" in which agency outsiders circumvented the chain of command and made decisions affecting agency operations. She also warned that the integrity of [Social Security programs](https://www.https://www.ssa.gov/) could be at risk due to the loss of institutional knowledge and the potential mishandling of critical data.
+The declaration is part of a lawsuit filed by [Democracy Forward](https://democracyforward.org/) on behalf of unions and retirees seeking to block [DOGE's](https://www.doge.gov/) access to the data. Flick described the unfolding of the events as a "de facto coup" in which agency outsiders circumvented the chain of command and made decisions affecting agency operations. She also warned that the integrity of [Social Security programs](https://www.https://www.ssa.gov/) could be at risk due to the loss of institutional knowledge and the potential mishandling of critical data.
 
 Flick recounted how [DOGE-aligned officials]() gained access to [SSA](https://www.ssa.gov/) systems despite concerns over their credentials and understanding of the data. She added that career officials resisted their demands, but pressure from the [Trump administration](https://www.whitehouse.gov/) ultimately resulted in their removal. Acting Commissioner Michelle King also retired abruptly after refusing to provide [DOGE]() access to taxpayer databases.
 
