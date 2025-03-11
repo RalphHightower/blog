@@ -1,4 +1,4 @@
-- name: scorecard.yml — OpenSSF Scorecard
+name: scorecard.yml — OpenSSF Scorecard
 "on":
   schedule:
     - cron: 0 5 1 1 *
