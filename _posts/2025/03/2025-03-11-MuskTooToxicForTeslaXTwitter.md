@@ -4,7 +4,7 @@ tags: [Rolling Stone, electric vehicles (EV), Chevrolet, Ford, GMC, Hyundai, Kia
 Acura, Lexus, Elon Musk, Boring, Neuralink, SpaceX, Starlink, Tesla, Twitter, X, xAI, 
 Department of Government Efficiency (DOGE), U.S. Constitution, First Amendment, Freedom of Speech, Freedom of Press, Executive Orders, President Donald J. Trump, President Of The United States (POTUS), White House (WH), politics]
 categories: []
-date: 2019-06-25 13:14:15
+date: 2025-03-11 8:20 PM
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
