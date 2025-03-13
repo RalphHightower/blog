@@ -1,5 +1,5 @@
 ---
-layout: post, 
+layout: post
 tags: [Ralph Hightower, my dumb state, South Carolina, Steve Marshall, Alabama, Treg Taylor Attorney General of Alaska, Tim Griffin, Arkansas, John Guard – Acting Attorney General of Florida, Chris Carr, Georgia, Todd Rokita, Indiana, Raúl Labrador, Idaho, Brenna Bird, Iowa, Kris Kobach, Kansas, Liz Murrill, Louisiana, Lynn Fitch, Mississippi, Andrew Bailey, Missouri, Austin Knudson, Montana, Mike Hilgers, Nebraska, Drew Wrigley, North Dakota, Dave Yost, Ohio, Gentner Drummond, Oklahoma, Alan Wilson, South Carolina, Marty Jackley, South Dakota, Jonathan Skrmetti, Tennessee, Ken Paxton, Texas, Derek E. Brown, Utah, John B. McCuskey, West Virginia, Trumpian Attorneys General Association, Letitia James, New York, Constitution, U.S. Constitution, Eighth Amendment, Fourteenth Amendment, Department of Justice (DOJ), US Courts, President Donald J. Trump, White House (WH), President of the United States (POTUS), politics]
 categories: [Alan Wilson]
 date: 2024-07-26 1:47 PM
