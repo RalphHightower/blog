@@ -9,7 +9,7 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: "Weekends Are Made For Michelob. For Trump, Weekends Are Meant For Golfing ⛳️ 
+title: "Weekends Are Made For Michelob. For Trump, Weekends Are Meant For Golfing ⛳️ "
 ---
 
 
