@@ -56,19 +56,34 @@ Friends with our enemies
 | (Difference) | 2,868,686 | 2.09% | 77 |
 
 *Hawaii does not appoint its electors proportionally. Due to faithless voting, the electoral votes for Hawaii were: for President, Clinton 3 and Bernie Sanders 1; for Vice President, Kaine 3 and Elizabeth Warren 1.
+
 **Maine appoints its electors proportionally. Clinton/Kaine won in the First Congressional District and took the state; Trump/Pence won the Second Congressional District. Maine's electoral votes were proportionally awarded accordingly: for President, Clinton 3 and Trump 1; for Vice President, Kaine 3 and Pence 1.
+
 ***Texas does not appoint its electors proportionally. Due to faithless voting, the electoral votes for Texas were: for President, Trump 36, Ron Paul 1, and John Kasich 1; for Vice President, Pence 37 and Carly Fiorina 1.
+
 ****Washington does not appoint its electors proportionally. Due to faithless voting, the electoral votes for Washington were: for President, Clinton 8, Colin Powell 3, and Faith Spotted Eagle 1; for Vice President, Kaine 8, Elizabeth Warren 1, Susan Collins 1, Maria Cantwell 1, and Winona LaDuke 1.
+
+
 
 ### Political Contacts
 
+
+
 #### [US House of Representatives](https://www.house.gov/)
+
+
 
 ##### [Democrat Party](https://www,democrats.org/)
 
+
+
 ###### [Clyburn, James (D-SC6)](https://clyburn.house.gov/)
 
+
+
 Clyburn is not in my district, but as the sole Democrat in his gerrymandered District 6, he is a member of the opposition party and the most likely congressman to be receptive to my concerns.
+
+
 
 | Office Locations |
 |---|
@@ -83,13 +98,23 @@ Clyburn is not in my district, but as the sole Democrat in his gerrymandered Dis
 | **Sumter, SC** |
 | 129 South Harvin Street <br /> Sumter, SC 29150 <br /> Phone: <a href="tel:+18038835020">(803) 883-5020</a> <br /> Hours: 2nd and 4th Mondays 10:00AM–4:00PM |
 
+
+
 ##### [Trump Party](https://www.gop.com/)
+
+
 
 ###### [Wilson, Joe (T-SC2)](https://joewilson.house.gov/)
 
+
+
 Little good that contacting Wilson will do. He's a political chameleon. First, he was a "Tea Bagger." Now, he's a Trumper. I haven’t voted for [Wilson](https://joewilson.house.gov/) ever since he [embarrassed](https://youtu.be/qgce06Yw2ro?si=_4lYajFhM0EEXhXT) [South Carolina](https://www.sc.gov/).
 
+
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5N-BRrhxh0Y?si=28YVkGCc6bmrFwl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
 
 | Office Locations |
 | **Washington, DC Office** |
@@ -100,25 +125,41 @@ Little good that contacting Wilson will do. He's a political chameleon. First, h
 | **Aiken/Barnwell Office** |
 | 1930 University Parkway, Suite 1600 <br /> Aiken, SC  29801 <br /> Phone: <a href="tel:+18036426416">(803) 642-6416</a> <br /> Fax: <a href="tel:+18036426418">(803) 642-6418</a> |
 
+
 #### [US Senate](https://www.senate.gov/)
+
+
 
 ##### [Democrat Party](https://www.democrats.org/)
 
 I wish that South Carolina wasn't such a red state. Maybe purple? The county that I live in, [Lexington County](https://www.lex-co.gov/), is so red that the [Trumpian Primary](https://www.gop.com/) is the general election for county offices.
 
+
 ##### [Trump Party](https://www.gop.com/)
 
 Class I terms run from the beginning of the 119th Congress on January 3, 2025, to the end of the 121st Congress on January 3, 2031. Senators in Class I were elected to office in the November 2024 general election, unless they took their seat through appointment or special election.
 
+
+
 Class II terms run from the beginning of the 117th Congress on January 3, 2021, to the end of the 119th Congress on January 3, 2027. Senators in Class II were elected to office in the November 2020 general election, unless they took their seat through appointment or special election.
+
+
 
 Class III terms run from the beginning of the 118th Congress on January 3, 2023, to the end of the 120th Congress on January 3, 2029. Senators in Class III were elected to office in the November 2022 general election, unless they took their seat through appointment or special election.
 
+
+
 ###### [Graham, Lindsey (T-SC)](https://www.lgraham.senate.gov/)
+
+
 
 [Trump's](https://www.whitehouse.gov/administration/donald-j-trump/) Poodle.
 
+
+
 Class II.
+
+
 
 | Office Locations |
 |---|
@@ -137,16 +178,25 @@ Class II.
 | **Golden Corner Office** |
 | 124 Exchange Street, Suite A <br /> Pendleton, SC 29670 <br /> Main: <a href="tel:+18646464090">(864) 646-4090</a> <br /> Fax: <a href="tel:+18646468609">(864) 646-8609</a> |
 
+
+
 - [Trump's Poodle, Senator Lindsey Graham (T-SC), On NBC Meet The Press]({% post_url /2025/01/2025-01-26-TrumpsPoodleOnMTP %})
 - [Sen. Lindsey Graham (T-SC) States That Trump Won't Prosecute Political Enemies. Yea, Right!]({% post_url /2024/12/2024-12-15-LindseyGraham20241215MTP %})
 - [MSNBC Morning Joe Panel Discusses Kash Patel as Trump's Pick for FBI Director]({% post_url /2024/12/2024-12-12-LindseyGrahamSupportsPatek4FBI %})
 - [Bless His Heart – Senator Lindsey Graham (T-SC): Why Are You "Republicans" Supporting Harris?]({% post_url /2024/10/2024-10-20-AnswerToTrumpersSupportingHarris %})
 
+
 ###### [Scott, Tim (T-SC)](https://www.scott.senate.gov/)
+
+
 
 Yes, my assessment has racial overtones, but [Scott](https://www.scott.senate.gov/) is [Trump's](https://www.whitehouse.gov/administration/donald-j-trump/) *"lawn jockey."*
 
+
+
 Class III.
+
+
 
 
 | Office Locations |
@@ -160,13 +210,18 @@ Class III.
 | **Low Country** |
 | 2500 City Hall Lane <br /> 3rd Floor Suite <br /> North Charleston, SC 29406 <br /> Phone: <a href="tel:+18437274525">(843) 727-4525</a> <br /> Fax: <a href="tel:+18558029355">(855) 802-9355</a> |
 
+
+
 - [Sen. Tim Scott (T-SC) Is Trump's Lawn Jockey]({% post_url /2024/11/2024-11-04-TimScottIsTrumpsLawnJockey %})
+
 
 #### President
 
 ##### [Trump Party](https://www.gop.com/)
 
 [Roll Call Factba.se - Donald J. Trump's Public Schedule](https://rollcall.com/factbase/trump/topic/calendar/)
+
+
 
 | Locations |
 |---|
@@ -205,11 +260,14 @@ Class III.
 | **Scotland, Ayrshire** |
 | **[Trump Turnberry](https://www.turnberry.co.uk/)** <br /> Maidens Road KA26 9LT Turnberry <br /> Ayrshire Scotland <br /> <a href="tel:+441655331000">+44.1655.331.000</a> <br /> <a href="tel:+4401655334115">+44 01655 334115</a> |
 
+
 #### [South Carolina](https://www.sc.gov/) [Attorney General](https://www.scag.gov/)
 
 ##### [Trump Party](https://www.gop.com/)
 
 ###### [Alan Wilson](https://www.scag.gov/about-the-office/meet-the-attorney-general/)
+
+
 
 [Alan Wilson (T)](https://www.scag.gov/about-the-office/meet-the-attorney-general/) is the most nakedly partisan [Attorney General](https://www.scag.gov/) that [South Carolina](https://www.s.gov/) has ever had. Wilson is an election denier; he thinks that the [Democrats](https://www.democrats.org/) stole the 2020 election.
 
@@ -219,14 +277,22 @@ Class III.
 | **Office Location** |
 | Rembert Dennis Building <br /> 1000 Assembly Street, Room 519 <br /> Columbia, S.C. 29201 <br /> General Information: <a href="1-8037343970">1-803-734-3970</a> <br /> Constituent Services: <a href="1-8037373953">1-803-737-3953</a> |
 
+
+
 ##### My Dumb State: South Carolina
 
-- [My Dumb State, South Carolina: Supports Trump’s Illegal, Lawless Firings Of Government Watchdogs]({% link _posts/2025/02/2025-02-25-SCAG-TAGA-SupportTrumpIllegalFirings.md %})
-- [🚨 My Dumb State, South Carolina: Attorney General Alan Wilson Is Not Interested In Protecting South Carolinians' Personal Identifiable Information (PII)In the Biggest Data Breach of the US Treasury Central Payment System! 🚨]({% link _posts/2025/02/2025-02-21-SC-AG-SupportsDOGE-DataBreachOfPII.md %})
-- [My Dumb State, South Carolina: South Carolina's Attorney General, Alan Wilson, Weaponizes State Government To Persecute Trump's Perceived Enemy, Dr. Anthony Fauci, For His COVID-19 Pandemic Response]({% link _posts/2025/02/2025-02-06-SCAGWeaponizesStateGovernment.md %})
-- [My Dumb State, South Carolina: South Carolina's Attorney General, Alan Wilson, Wants To Amend The Fourteenth Amendment]({% link _posts/2025/02/2025-02-07-SCAGWants14thAmendmentAmended.md %})
-- [My Dumb State: South Carolina Attorney General Alan Wilson & Trumpian Attorneys General Whine About New York Fine of Trump Organization For Thirty-Four Felony Civil Indictments of Falsification of Business Records For Financial Fraud, Insurance Fraud, & Property Tax Fraud]({% link _posts/2024-07-26-SCAG-NYCivilVerdictTrumpBusinessFraud.md %})
-- [My Dumb State: South Carolina Attorney General Alan Wilson & TAGA Sues Pennsylvania For Election Fraud Over 2020 Presidential Election]({% link _posts/2020/11/2020-11-09-SCAGSuesPA.md %})
+
+
+- [My Dumb State, South Carolina: Supports Trump’s Illegal, Lawless Firings Of Government Watchdogs]({% link _posts/2025/02/2025-02-25-SCAG-TAGA-SupportTrumpIllegalFirings %})
+- [🚨 My Dumb State, South Carolina: Attorney General Alan Wilson Is Not Interested In Protecting South Carolinians' Personal Identifiable Information (PII)In the Biggest Data Breach of the US Treasury Central Payment System! 🚨]({% link _posts/2025/02/2025-02-21-SC-AG-SupportsDOGE-DataBreachOfPII %})
+
+- [My Dumb State, South Carolina: South Carolina's Attorney General, Alan Wilson, Weaponizes State Government To Persecute Trump's Perceived Enemy, Dr. Anthony Fauci, For His COVID-19 Pandemic Response]({% link _posts/2025/02/2025-02-06-SCAGWeaponizesStateGovernment %})
+
+- [My Dumb State, South Carolina: South Carolina's Attorney General, Alan Wilson, Wants To Amend The Fourteenth Amendment]({% post_url /2025/02/2025-02-07-SCAGWants14thAmendmentAmended %})
+- [My Dumb State: South Carolina Attorney General Alan Wilson & Trumpian Attorneys General Whine About New York Fine of Trump Organization For Thirty-Four Felony Civil Indictments of Falsification of Business Records For Financial Fraud, Insurance Fraud, & Property Tax Fraud]( link _post/2024-07-26-SCAG-NYCivilVerdictTrumpBusinessFraud.md %})
+
+- [My Dumb State: South Carolina Attorney General Alan Wilson & TAGA Sues Pennsylvania For Election Fraud Over 2020 Presidential Election]({% link _posts/2024/07/2024-07-26-SCAG-NYCivilVerdictTrumpBusinessFraud.md %})
+
 
 #### Attorneys General
 
@@ -238,92 +304,181 @@ Class III.
 
 @RalphHightower: What's below the chapter headings are summaries of the chapters. Click on the headings to read the full chapters.
 
+
+
 ### [Indivisible](https://indivisible.org/)
+
+
 
 *Our democracy is under threat. But we will not yield to fascism. We will stand together, and we'll fight back in defense of our rights, our communities, and our values. Join us.*
 
+
+
 #### INDIVISIBLE: A PRACTICAL GUIDE TO DEMOCRACY ON THE BRINK.
+
+
 
 *Strategies, Tactics, & Tips For How Everyday Americans Can Fight Back Together Wherever We Live*
 
+
+
 ##### [Chapter 1: What Happened and Why it Matters](https://indivisible.org/resource/guide#chapter1)
+
+
 
 > Heading into the 2024 election, Americans were angry about inflation and frustrated with the status quo. Some voters either flipped to Trump or didn’t vote at all. That gave Trump the margins to win — but it doesn’t give him a mandate for dictatorship or Project 2025. Americans of all stripes are going to be pissed when Trump 2.0 comes to town dressed in chaos, corruption, and cruelty. We can stoke that backlash to break up their coalition and build ours.
 
+
+
 ##### [Chapter 2: A Quick Primer on Constituent Power](https://indivisible.org/resource/guide#chapter2)
+
+
 
 > Trump wants us to believe that the presidency is all-powerful. It ain’t true. Political power in our democracy overlaps between local, state, and federal electeds. Your power comes from your ability to be a source of support (or a pain in the ass) to those electeds. You can use this power to get them to stand up to Trump 2.0 or face political consequences. We review the basics of constituent power — what it is, how it works, and how yours can do the most good in this moment where you live.
 
+
+
 ##### [Chapter 3: The Plan to Get Through the Next 2 Years](https://indivisible.org/resource/guide#chapter3)
+
+
 
 > Our best chance to get through this era with some amount of democracy intact is to hang on until 2026 and win big in the midterms — breaking Trump’s hold on Congress and making sure election deniers and saboteurs aren’t in charge of the 2028 election. We’ve boiled it down to three big plays:
 
+
+
 > 1. We will all throw in to say NO to the Project 2025 agenda pushed by the White House and Congress. We’ll stop what we can and pick strategic fights to drive national backlash to win in 2026.
+
 > 2. We will play hardball wherever we’ve got Democrats in local, city, or state office — pushing them to block, delay, and challenge MAGA’s attacks.
+
 > 3. We will work to protect and win elections — defending against election deniers in swing states and turning all that national backlash into an electoral majority coalition that delivers big wins in 2026.
+
+
 
 > You’ll plug into the plays that make the most sense for where you live and the leverage you have. Think of it as a giant national pro-democracy team — some of us are playing offense, some are playing defense, but if we all play our roles, we’ll make it through together.
 
+
+
 ##### [Chapter 4: Protect and Prepare](https://indivisible.org/resource/guide#chapter4)
+
+
 
 > Things are about to get much worse, and we need to treat an attack on one as an attack on all of us. That means supporting communities under threat and preparing to operate under increasingly authoritarian conditions. We’ll review how to:
 
+
+
 > 1. Organize to Protect Communities Under Threat. MAGA will hit hard, and we’ll need to stand together.
+
 > 2. Operate Under Authoritarian Creep. We’re not giving up on democracy, but we are not naive about what we face. We’ll cover lessons learned about operating under increasingly authoritarian conditions.
+
+
 
 ##### [Chapter 5: Practical steps for finding or forming your local Indivisible group](https://indivisible.org/resource/guide#chapter5)
 
+
+
 > Fascists depend on you, believing you’re alone and powerless. And honestly, on your own, you don’t have a ton of power. But, organized groups of individuals do have power. If you’re a fan of an existing group in your area, join it. If not, get a few friends together, start a new local Indivisible group, and build from there. Your local group is the basis for everything else you can hope to achieve in this period. This chapter includes some starter recommendations for how to pull your new, local, volunteer-led Indivisible group together, connect with others on the ground, and get to work.
+
+
 
 ### [5 Calls](https://5calls.org/) – Calling Your Representative and Senators
 
+
+
 #### [Keep the US Postal Service Independent ⭑ 5 Calls](https://5calls.org/issue/usps-us-postal-service-takeover/)
+
+
 
 #### [Support Ukraine ⭑ 5 Calls](https://5calls.org/issue/ukraine-russia-zelinsky/)
 
+
+
 #### [Protect Your IRS Data from DOGE ⭑ 5 Calls](https://5calls.org/issue/musk-doge-irs-data-privacy/)
+
+
 
 #### [Fight the Constitutional Crisis ⭑ 5 Calls](https://5calls.org/issue/constitutional-crisis-trump-musk/)
 
+
+
 #### [Oppose Safety Net Cuts to Fund Billionaire Tax Breaks - Vote Tues 2/25 ⭑ 5 Calls](https://5calls.org/issue/budget-safety-net-cuts-wealthy-tax-breaks/)
+
+
 
 #### [Defend Our National Parks ⭑ 5 Calls](https://5calls.org/issue/protect-national-parks-nps-nfs/)
 
+
+
 #### [Fight Against Elon Musk’s/DOGE Government Takeover ⭑ 5 Calls](https://5calls.org/issue/elon-musk-opm-gsa-takeover/)
+
+
 
 #### [Texas v. Becerra: What it is and How You Can Help Stop the Attack on Section 504 - DREDF](https://dredf.org/protect-504/)
 
+
+
 #### [Protect the Department of Education ⭑ 5 Calls](https://5calls.org/issue/education-department-hr899/)
+
+
 
 #### [Defend the Consumer Financial Protection Bureau (CFPB) ⭑ 5 Calls](https://5calls.org/issue/consumer-financial-protection-bureau-cfpb-vought/)
 
+
+
 #### [Protect the Mission of the Environmental Protection Agency (EPA) ⭑ 5 Calls](https://5calls.org/issue/epa-environmental-protection-agency-zeldin/)
+
+
 
 #### [Condemn a US Takeover of Gaza ⭑ 5 Calls](https://5calls.org/issue/trump-us-gaza-palestinian-occupation/)
 
+
+
 #### [Save NIH and NSF Research Funding ⭑ 5 Calls](https://5calls.org/issue/nih-nsf-funding-cuts/)
+
+
 
 #### [State AGs: Prosecute DOGE for Illegal Data Breach ⭑ 5 Calls](https://5calls.org/issue/musk-doge-data-lawsuit/)
 
+
+
 #### [Oppose The SAVE Act (H.R. 22 / S.128) – A Voter Suppression Bill ⭑ 5 Calls](https://5calls.org/issue/save-act-voter-suppression/)
+
+
 
 ### [Simple Sabotage Field Manual / Project Gutenberg](https://www.gutenberg.org/cache/epub/26184/pg26184-images.html)
 
+
+
 ----
+
+
 
 ### Advice From a High-Level Staffer For a Senator
 
+
+
 FOR THOSE OF YOU LOOKING TO TURN YOUR despair INTO ACTION, here's some advice from a high-level staffer for a Senator.
+
+
 
 There are two things that we should be doing all the time right now. You should NOT be bothering with online petitions or emailing.
 
+
+
 1. The best thing you can do to be heard and get your congressperson to pay attention is to have face-to-face time — if they have town halls, go to them. Go to their local offices. If you're in DC, try to find a way to go to an event of theirs. Go to the "mobile offices" that their staff hold periodically (all these times are located on each congressperson's website). When you go, ask questions. A lot of them. And push for answers. The louder and more vocal and present you can be at those the better
+
 2. But those in-person events don't happen every day. So, the absolute most important thing that people should be doing every day is calling.
 
+
+
 YOU SHOULD MAKE 6 CALLS A DAY:
+
 2 each (DC office and your local office) to your 2 Senators & your 1 Representative.
 
+
+
 The staffer was very clear that any sort of online contact basically gets immediately ignored, and letters pretty much get thrown in the trash (unless you have a particularly strong emotional story — but even then it's not worth the time it took you to craft that letter).
+
+
 
 Calls are what all the congresspeople pay attention to. Every single day, the Senior Staff and the Senator get a report of the 3 most-called-about topics for that day at each of their offices (in DC and local offices), and exactly how many people said what about each of those topics. They're also sorted by zip code and area code. She said that Republican callers generally outnumber Democrat callers 4-1, and when it's a particular issue that single-issue-voters pay attention to (like ~~gun control~~[^71], or planned parenthood funding, etc...), it's often closer to 11-1, and that's recently pushed Republican congressmen on the fence to vote with the Republicans. In the last 8 years, Republicans have called, and Democrats haven't.
 
@@ -334,24 +489,45 @@ Areas of concern:
 - Unemployment
 - [Elon Musk](https://x.com/elonmusk/) has unfettered access to government computer systems that contain Personal Identifiable Information (PII) such as [Social Security](https://www.ssa.gov/) numbers, health information information protected by the [Health Insurance Portability and Accountability Act (HIPAA)](https://www.hhs.gov/hipaa/for-professionals/privacy/laws-regulations/index.html). He and his [Department of Government Efficiency (DOGE)](https://doge.gov/), a high school graduate, and college students bulldozed their way into government computer systems, including the federal government payment system.
 
+
+
 [^71]: @RalphHightower: Forget it. Despite all the commercials on [YouTube](https://www.youtube.com/), Trumpian legislators ain't gonna budge.
+
+
 
 When you call:
 
+
+
 - When calling the DC office, ask for the Staff member in charge of whatever you're calling about ("Hi, I'd like to speak with the staffer in charge of Healthcare, please") — local offices won't always have specific ones, but they might. If you get transferred to that person, awesome. If you don't, that's ok — ask for that person's name, and then just keep talking to whoever answered the phone. Don't leave a message (unless the office doesn't pick up at all — then you can — but it's better to talk to the staffer who first answered than leave a message for the specific staffer in charge of your topic).
+
 - Give them your zip code. They won't always ask for it, but make sure you give it to them, so they can mark it down. Extra points if you live in a zip code that traditionally votes for them, since they'll want to make sure they get/keep your vote.
+
 - If you can make it personal, make it personal. "I voted for you in the last election and I'm worried/happy/whatever" or "I'm a teacher, and I am appalled by ——-," or "as a single mother" or "as a white, middle class woman," or whatever.
+
 - Pick 1-2 specific things per day to focus on. Don't rattle off everything you're concerned about — they're figuring out what 1-2 topics to mark you down for on their lists. So, focus on 1-2 per day. Ideally something that will be voted on/taken up in the next few days, but it doesn't really matter — even if there's not a vote coming up in the next week, call anyway. It's important that they just keep getting calls.
+
 - Be clear on what you want — "I'm disappointed that the Senator..." or "I want to thank the Senator for their vote on... " or "I want the Senator to know that voting in _____ way is the wrong decision for our state because... " Don't leave any ambiguity.
+
 - They may get to know your voice/get sick of you — it doesn't matter. The people answering the phones generally turn over every 6 weeks anyway, so even if they're really sick of you, they'll be gone in 6 weeks.
+
+
 
 From experience since the election: If you hate being on the phone & feel awkward (which is a lot of people) don't worry about it — there are a bunch of scripts (Indivisible has some, there are lots of others floating around these day). After a few days of calling, it starts to feel a lot more natural.
 
+
+
 Put the 6 numbers in your phone (all under P – Politician.) An example is Politican Wilson DC, Politician McCaskill DC, Politician Blunt MO, etc., which makes it really easy to click down the list each day.
+
+
 
 **If you want to share this, please copy and paste.
 
+
+
 ## [Elon Musk](https://x.com/elonmusk/) has contracts worth billions of dollars with the federal government and as a fractional CEO of his myriad of companies at stake.
+
+
 
 ### Elon Musk’s Personal Vendettas
 
@@ -370,6 +546,8 @@ Put the 6 numbers in your phone (all under P – Politician.) An example is Poli
 | [Department of Justice](https://www.justice.gov/) | The Department of Justice (DOJ) enforces federal laws, seeks just punishment for the guilty, and ensures the fair and impartial administration of justice. |
 | [National Aeronautics and Space Administration](https://www.nasa.gov/) | The National Aeronautics and Space Administration (NASA) explores space, and researches Earth systems, the solar system, and the universe. |
 | [National Labor Relations Board](https://www.nlrb.gov/) | The National Labor Relations Board (NLRB) enforces the National Labor Relations Act by investigating allegations of wrong-doing brought by workers, unions, or employers, conducting elections, and deciding and resolving cases. |
+
+
 
 1. **[Tesla](https://www.tesla.com/)**:
     1. **[National Highway Traffic Safety Administration (NHTSA)](https://www.nhtsa.gov/)**: Oversees vehicle safety standards and recalls.
