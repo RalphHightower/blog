@@ -10,6 +10,7 @@ excerpt: "“Ultimately, you’re going to see the system collapse and an interr
 title: "Elon Musk’s Department of Government Efficiency (DOGE), aka DOUCE, Are Fucking Up Social Security Computer Systems. Expect Late Payments of 60 to 90 Days"
 ---
 
+- {% link _posts/2025/03/2025-03-10-MuskDOGEFratBoisExposedPIIUnsecured.md %}
 
 ##  Security head warns system could soon ‘collapse’ thanks to DOGE cuts
 
@@ -87,3 +88,4 @@ It predicted that the [Social Security](https://Www.ssa.gov/) Board of Trustees 
 - [President Of The United States (POTUS)](https://www.whitehouse.gov/)
 - [White House (WH)](https://www.whitehouse.gov/)
 - politics
+
