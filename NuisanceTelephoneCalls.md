@@ -2,7 +2,7 @@
 layout: page
 tags: [assholes, Donald Trump, Elon Musk, Betsy DeVos., MAGA billionaires, billionaire, Trump donors, Republican PAC, Make America Great Again (MAGA)]
 categories: [Telephone Numbers]
-date: 2025-03-11 7:45 PM
+date: 2025-03-12 9:20 PM
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description: 
@@ -16,6 +16,19 @@ The telephone numbers below have called and there is an empty person on the othe
 
 | Telephone Number | Location | Date Time[^11] | Caller | Social Media |
 |---|---|---|---|---|
+| <a href="tel:+18037845681">+1 (803) 784-5681</a> | SC. Camden | 2025-03-12 05:52 PM | Potential Spam | |
+| <a href="tel:+18037845681">+1 (803) 784-5681</a> | SC. Camden | 2025-03-12 05:51 PM | Potential Spam | |
+| <a href="tel:+18033696852">+1 (803) 369-6852</a> | SC. | 2025-03-12 03:52 PM | Potential Spam | |
+| <a href="tel:+18033696852">+1 (803) 369-6852</a> | SC. | 2025-03-12 03:51 PM | Potential Spam | |
+| <a href="tel:+18037083106">+1 (803) 708-3106</a> | SC. | 2025-03-12 03:34 PM | Daniel Renedo | |
+| <a href="tel:+18037098572">+1 (803) 709-8572</a> | SC. Barnwell | 2025-03-12 03:17 PM | - | |
+| <a href="tel:+18035992647">+1 (803) 599-2647</a> | SC. Beech Island | 2025-03-12 02:33 PM | - | |
+| <a href="tel:+18038440510">+1 (803) 844-0510</a> | SC. Beech Island | 2025-03-12 02:28 PM | Potential Spam | |
+| <a href="tel:+18038072476">+1 (803) 807-2476</a> | SC. | 2025-03-12 01:49 PM | - | |
+| <a href="tel:+18038072476">+1 (803) 807-2476</a> | SC. | 2025-03-12 01:48 PM | - | |
+| <a href="tel:+18038818703">+1 (803) 881-8703</a> | SC. Columbia | 2025-03-12 11:15 AM | Potential Spam | |
+| <a href="tel:+18038818703">+1 (803) 881-8703</a> | SC. Columbia | 2025-03-12 11:14 AM | Potential Spam | |
+| <a href="tel:+18035705968">+1 (803) 570-5968</a> | SC. Orangeburg | 2025-03-12 10:34 AM | - | |
 | <a href="tel:+18038455386">+1 (803) 845-5386</a> | SC. Aiken | 2025-03-11 05:26 PM | Cynthia Jones | |
 | <a href="tel:+18032183800">+1 (803) 218-3800</a> | SC. | 2025-03-11 05:12 PM | - | |
 | <a href="tel:+18032994840">+1 (803) 299-4840</a> | SC. Columbia | 2025-03-11 04:39 PM | Potential Spam | |
