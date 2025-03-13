@@ -221,12 +221,12 @@ Class III.
 
 ##### My Dumb State: South Carolina
 
-- [My Dumb State, South Carolina: Supports Trump’s Illegal, Lawless Firings Of Government Watchdogs]({% link _posts/2025/02/2025-02-25-SCAG-TAGA-SupportTrumpIllegalFirings %})
-- [🚨 My Dumb State, South Carolina: Attorney General Alan Wilson Is Not Interested In Protecting South Carolinians' Personal Identifiable Information (PII)In the Biggest Data Breach of the US Treasury Central Payment System! 🚨]({% link _posts/2025/02/2025-02-21-SC-AG-SupportsDOGE-DataBreachOfPII %})
-- [My Dumb State, South Carolina: South Carolina's Attorney General, Alan Wilson, Weaponizes State Government To Persecute Trump's Perceived Enemy, Dr. Anthony Fauci, For His COVID-19 Pandemic Response]({% link _posts/2025/02/2025-02-06-SCAGWeaponizesStateGovernment %})
-- [My Dumb State, South Carolina: South Carolina's Attorney General, Alan Wilson, Wants To Amend The Fourteenth Amendment]({% post_url /2025/02/2025-02-07-SCAGWants14thAmendmentAmended %})
-- [My Dumb State: South Carolina Attorney General Alan Wilson & Trumpian Attorneys General Whine About New York Fine of Trump Organization For Thirty-Four Felony Civil Indictments of Falsification of Business Records For Financial Fraud, Insurance Fraud, & Property Tax Fraud]( link _post/2024-07-26-SCAG-NYCivilVerdictTrumpBusinessFraud.md %})
-- [My Dumb State: South Carolina Attorney General Alan Wilson & TAGA Sues Pennsylvania For Election Fraud Over 2020 Presidential Election]({% post_url /2020/11/2020-11-09-SCAGSuesPA %})
+- [My Dumb State, South Carolina: Supports Trump’s Illegal, Lawless Firings Of Government Watchdogs]({% link _posts/2025/02/2025-02-25-SCAG-TAGA-SupportTrumpIllegalFirings.md %})
+- [🚨 My Dumb State, South Carolina: Attorney General Alan Wilson Is Not Interested In Protecting South Carolinians' Personal Identifiable Information (PII)In the Biggest Data Breach of the US Treasury Central Payment System! 🚨]({% link _posts/2025/02/2025-02-21-SC-AG-SupportsDOGE-DataBreachOfPII.md %})
+- [My Dumb State, South Carolina: South Carolina's Attorney General, Alan Wilson, Weaponizes State Government To Persecute Trump's Perceived Enemy, Dr. Anthony Fauci, For His COVID-19 Pandemic Response]({% link _posts/2025/02/2025-02-06-SCAGWeaponizesStateGovernment.md %})
+- [My Dumb State, South Carolina: South Carolina's Attorney General, Alan Wilson, Wants To Amend The Fourteenth Amendment]({% link _posts/2025/02/2025-02-07-SCAGWants14thAmendmentAmended.md %})
+- [My Dumb State: South Carolina Attorney General Alan Wilson & Trumpian Attorneys General Whine About New York Fine of Trump Organization For Thirty-Four Felony Civil Indictments of Falsification of Business Records For Financial Fraud, Insurance Fraud, & Property Tax Fraud]({% link _posts/2024-07-26-SCAG-NYCivilVerdictTrumpBusinessFraud.md %})
+- [My Dumb State: South Carolina Attorney General Alan Wilson & TAGA Sues Pennsylvania For Election Fraud Over 2020 Presidential Election]({% link _posts/2020/11/2020-11-09-SCAGSuesPA.md %})
 
 #### Attorneys General
 
