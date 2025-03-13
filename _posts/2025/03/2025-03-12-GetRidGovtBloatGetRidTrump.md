@@ -11,7 +11,7 @@ title: "Get Rid of Government Bloat! Get Rid of Trump 🐋 "
 ---
 
 
-- []({% link _post/2025/03/2025-03-10-IfItsWeekendTrumpIsGolfing.md %})
+- [Weekends Are Made For Michelob. For Trump, Weekends Are Meant For Golfing ⛳️]({% link _posts/2025/03/2025-03-10-IfItsWeekendTrumpIsGolfing.md %})
 
 ## [Trump Has Harsh Response to Federal Workers Losing Jobs](https://www.thedailybeast.com/trump-has-harsh-response-to-federal-workers-losing-jobs/)
 
@@ -92,3 +92,4 @@ Taxpayers have already paid [$18.2 million for him to hit the links](https://www
 - [President Of The United States (POTUS)](https://www.whitehouse.gov/)
 - [White House (WH)](https://www.whitehouse.gov/)
 - politics
+
