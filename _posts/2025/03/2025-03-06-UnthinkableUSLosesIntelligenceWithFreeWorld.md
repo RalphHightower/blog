@@ -7,7 +7,7 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: "Trump Is the Manchurian Candidate: Fucking Believable! Europe, NATO, and Our Former Allies No Longer Trust the US as Trump Shifts Allegiance With Tussia!"
+title: "Trump Is the Manchurian Candidate: Fucking Believable! Europe, NATO, and Our Former Allies No Longer Trust the US as Trump Shifts Allegiance With Russia!"
 ---
 
 
