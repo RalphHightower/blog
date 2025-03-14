@@ -92,4 +92,3 @@ Taxpayers have already paid [$18.2 million for him to hit the links](https://www
 - [President Of The United States (POTUS)](https://www.whitehouse.gov/)
 - [White House (WH)](https://www.whitehouse.gov/)
 - politics
-

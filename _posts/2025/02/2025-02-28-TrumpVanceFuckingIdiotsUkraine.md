@@ -11,8 +11,7 @@ title: "Fucking Idiots: Trump & Vance Shouting at Zelenskyy While He Tries To Ed
 ---
 
 
-@RalphHightower: Gawd! What fucking assholes. First, it was absolutely wrong to have peace talks with the [US](https://www.usa.gov/), and [Russia](http://government.ru/) without [Ukraine's](https://www.gov.ua/) presence. [Trump](https://www.whitehouse.gov/administration/donald-j-trump/) and [Vance](https://www.whitehouse.gov/administration/jd-vance/) have been in office for a little over a month and they're shouting "YouTube should be grateful.", "You're in a bad spot to bargain.", "This war would've been over in two weeks!"
- [Russia](http://government.ru/) attacked [Ukraine](https://www.gov.ua/) three years ago. [Russia](http://government.ru/) has control of [Ukraine's](https://www.gov.ua/) coast. They don't have any ports now. [Ukraine](https://www.gov.ua/) wants their land back!
+@RalphHightower: Gawd! What fucking assholes. First, it was absolutely wrong to have peace talks with the [US](https://www.usa.gov/), and [Russia](http://government.ru/) without [Ukraine's](https://www.gov.ua/) presence. [Trump](https://www.whitehouse.gov/administration/donald-j-trump/) and [Vance](https://www.whitehouse.gov/administration/jd-vance/) have been in office for a little over a month and they're shouting "YouTube should be grateful.", "You're in a bad spot to bargain.", "This war would've been over in two weeks!" [Russia](http://government.ru/) attacked [Ukraine](https://www.gov.ua/) three years ago. [Russia](http://government.ru/) has control of [Ukraine's](https://www.gov.ua/) coast. They don't have any ports now. [Ukraine](https://www.gov.ua/) wants their land back!
 
 ## BREAKING: Trump tells Zelenskyy he's 'gambling with World War III' in tense exchange
 
