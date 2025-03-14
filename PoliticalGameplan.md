@@ -10,6 +10,8 @@ excerpt: "Trump did not win by a mandate. He did not cross over 50% in 2024 or 2
 title: "Political Gameplan / Strategy: Resistance Is Not Futile!"
 ---
 
+
+
 ## We Are The *"Enemy Within"*
 
 ### Pain Point Issues
@@ -45,6 +47,7 @@ Friends with our enemies
 | (Difference) | 7,059,526.00 | 4.46% | 74 |
 
 *Maine appoints its electors proportionally. Biden-Harris won in the First Congressional District and took the state; Trump-Pence won the Second Congressional District. Maine's electoral votes were proportionally awarded accordingly: for President, Biden 3 and Trump 1; for Vice President, Harris 3 and Pence 1.
+
 **Nebraska appoints its electors proportionally. Trump-Pence won in the First and Third Congressional Districts and took the state; Biden-Harris won the Second Congressional District. Nebraska's electoral votes were proportionally awarded accordingly: for President, Trump 4 and Biden 1; for Vice President, Pence 4 and Harris 1.
 
 #### [2016 Presidential Election Results – Federal Election Commission (FEC)](https://www.fec.gov/resources/cms-content/documents/federalelections2020.pdf)
@@ -56,8 +59,11 @@ Friends with our enemies
 | (Difference) | 2,868,686 | 2.09% | 77 |
 
 *Hawaii does not appoint its electors proportionally. Due to faithless voting, the electoral votes for Hawaii were: for President, Clinton 3 and Bernie Sanders 1; for Vice President, Kaine 3 and Elizabeth Warren 1.
+
 **Maine appoints its electors proportionally. Clinton/Kaine won in the First Congressional District and took the state; Trump/Pence won the Second Congressional District. Maine's electoral votes were proportionally awarded accordingly: for President, Clinton 3 and Trump 1; for Vice President, Kaine 3 and Pence 1.
+
 ***Texas does not appoint its electors proportionally. Due to faithless voting, the electoral votes for Texas were: for President, Trump 36, Ron Paul 1, and John Kasich 1; for Vice President, Pence 37 and Carly Fiorina 1.
+
 ****Washington does not appoint its electors proportionally. Due to faithless voting, the electoral votes for Washington were: for President, Clinton 8, Colin Powell 3, and Faith Spotted Eagle 1; for Vice President, Kaine 8, Elizabeth Warren 1, Susan Collins 1, Maria Cantwell 1, and Winona LaDuke 1.
 
 ### Political Contacts
@@ -148,7 +154,6 @@ Yes, my assessment has racial overtones, but [Scott](https://www.scott.senate.go
 
 Class III.
 
-
 | Office Locations |
 |---|
 | **Washington D.C.** |
@@ -166,7 +171,7 @@ Class III.
 
 ##### [Trump Party](https://www.gop.com/)
 
-[Roll Call Factba.se - Donald J. Trump's Public Schedule](https://rollcall.com/factbase/trump/topic/calendar/)
+[Roll Call Factbase - Donald J. Trump's Public Schedule](https://rollcall.com/factbase/trump/topic/calendar/)
 
 | Locations |
 |---|
@@ -221,10 +226,10 @@ Class III.
 
 ##### My Dumb State: South Carolina
 
-- [My Dumb State, South Carolina: Supports Trump’s Illegal, Lawless Firings Of Government Watchdogs]({% link _posts/2025/02/2025-02-25-SCAG-TAGA-SupportTrumpIllegalFirings %})
-- [🚨 My Dumb State, South Carolina: Attorney General Alan Wilson Is Not Interested In Protecting South Carolinians' Personal Identifiable Information (PII)In the Biggest Data Breach of the US Treasury Central Payment System! 🚨]({% link _posts/2025/02/2025-02-21-SC-AG-SupportsDOGE-DataBreachOfPII %})
-- [My Dumb State, South Carolina: South Carolina's Attorney General, Alan Wilson, Weaponizes State Government To Persecute Trump's Perceived Enemy, Dr. Anthony Fauci, For His COVID-19 Pandemic Response]({% link _posts/2025/02/2025-02-06-SCAGWeaponizesStateGovernment %})
-- [My Dumb State, South Carolina: South Carolina's Attorney General, Alan Wilson, Wants To Amend The Fourteenth Amendment]({% post_url /2025/02/2025-02-07-SCAGWants14thAmendmentAmended %})
+- [My Dumb State, South Carolina: Supports Trump’s Illegal, Lawless Firings Of Government Watchdogs]({% link _posts/2025/02/2025-02-25-SCAG-TAGA-SupportTrumpIllegalFirings.md %})
+- [🚨 My Dumb State, South Carolina: Attorney General Alan Wilson Is Not Interested In Protecting South Carolinians' Personal Identifiable Information (PII) In the Biggest Data Breach of the US Treasury Central Payment System! 🚨]({% link _posts/2025/02/2025-02-21-SC-AG-SupportsDOGE-DataBreachOfPII.md %})
+- [My Dumb State, South Carolina: South Carolina's Attorney General, Alan Wilson, Weaponizes State Government To Persecute Trump's Perceived Enemy, Dr. Anthony Fauci, For His COVID-19 Pandemic Response]({% link _posts/2025/02/2025-02-06-SCAGWeaponizesStateGovernment.md %})
+- [My Dumb State, South Carolina: South Carolina's Attorney General, Alan Wilson, Wants To Amend The Fourteenth Amendment]({% link _posts/2025/02/2025-02-07-SCAGWants14thAmendmentAmended.md %})
 - [My Dumb State: South Carolina Attorney General Alan Wilson & Trumpian Attorneys General Whine About New York Fine of Trump Organization For Thirty-Four Felony Civil Indictments of Falsification of Business Records For Financial Fraud, Insurance Fraud, & Property Tax Fraud]( link _post/2024-07-26-SCAG-NYCivilVerdictTrumpBusinessFraud.md %})
 - [My Dumb State: South Carolina Attorney General Alan Wilson & TAGA Sues Pennsylvania For Election Fraud Over 2020 Presidential Election]({% link _posts/2024/07/2024-07-26-SCAG-NYCivilVerdictTrumpBusinessFraud.md %})
 
@@ -233,7 +238,7 @@ Class III.
 ##### [Democratic Attorneys General Association](https://dems.ag/)
 
 ##### [Trumpian Attorneys General Association](https://republicanags.com/)
- 
+
 ## Game Plan Strategy
 
 @RalphHightower: What's below the chapter headings are summaries of the chapters. Click on the headings to read the full chapters.
@@ -257,17 +262,14 @@ Class III.
 ##### [Chapter 3: The Plan to Get Through the Next 2 Years](https://indivisible.org/resource/guide#chapter3)
 
 > Our best chance to get through this era with some amount of democracy intact is to hang on until 2026 and win big in the midterms — breaking Trump’s hold on Congress and making sure election deniers and saboteurs aren’t in charge of the 2028 election. We’ve boiled it down to three big plays:
-
 > 1. We will all throw in to say NO to the Project 2025 agenda pushed by the White House and Congress. We’ll stop what we can and pick strategic fights to drive national backlash to win in 2026.
 > 2. We will play hardball wherever we’ve got Democrats in local, city, or state office — pushing them to block, delay, and challenge MAGA’s attacks.
 > 3. We will work to protect and win elections — defending against election deniers in swing states and turning all that national backlash into an electoral majority coalition that delivers big wins in 2026.
-
 > You’ll plug into the plays that make the most sense for where you live and the leverage you have. Think of it as a giant national pro-democracy team — some of us are playing offense, some are playing defense, but if we all play our roles, we’ll make it through together.
 
 ##### [Chapter 4: Protect and Prepare](https://indivisible.org/resource/guide#chapter4)
 
 > Things are about to get much worse, and we need to treat an attack on one as an attack on all of us. That means supporting communities under threat and preparing to operate under increasingly authoritarian conditions. We’ll review how to:
-
 > 1. Organize to Protect Communities Under Threat. MAGA will hit hard, and we’ll need to stand together.
 > 2. Operate Under Authoritarian Creep. We’re not giving up on democracy, but we are not naive about what we face. We’ll cover lessons learned about operating under increasingly authoritarian conditions.
 
@@ -317,10 +319,11 @@ FOR THOSE OF YOU LOOKING TO TURN YOUR despair INTO ACTION, here's some advice fr
 
 There are two things that we should be doing all the time right now. You should NOT be bothering with online petitions or emailing.
 
-1. The best thing you can do to be heard and get your congressperson to pay attention is to have face-to-face time — if they have town halls, go to them. Go to their local offices. If you're in DC, try to find a way to go to an event of theirs. Go to the "mobile offices" that their staff hold periodically (all these times are located on each congressperson's website). When you go, ask questions. A lot of them. And push for answers. The louder and more vocal and present you can be at those the better
+1. The best thing you can do to be heard and get your congressperson to pay attention is to have face-to-face time — if they have town halls, go to them. Go to their local offices. If you're in DC, try to find a way to go to an event of theirs. Go to the "mobile offices" that their staff hold periodically (all these times are located on each congressperson's website). When you go, ask questions. A lot of them. And push for answers. The louder and more vocal and present you can be at those the better.
 2. But those in-person events don't happen every day. So, the absolute most important thing that people should be doing every day is calling.
 
 YOU SHOULD MAKE 6 CALLS A DAY:
+
 2 each (DC office and your local office) to your 2 Senators & your 1 Representative.
 
 The staffer was very clear that any sort of online contact basically gets immediately ignored, and letters pretty much get thrown in the trash (unless you have a particularly strong emotional story — but even then it's not worth the time it took you to craft that letter).
@@ -328,6 +331,7 @@ The staffer was very clear that any sort of online contact basically gets immedi
 Calls are what all the congresspeople pay attention to. Every single day, the Senior Staff and the Senator get a report of the 3 most-called-about topics for that day at each of their offices (in DC and local offices), and exactly how many people said what about each of those topics. They're also sorted by zip code and area code. She said that Republican callers generally outnumber Democrat callers 4-1, and when it's a particular issue that single-issue-voters pay attention to (like ~~gun control~~[^71], or planned parenthood funding, etc...), it's often closer to 11-1, and that's recently pushed Republican congressmen on the fence to vote with the Republicans. In the last 8 years, Republicans have called, and Democrats haven't.
 
 Areas of concern:
+
 - Egg prices
 - Gas prices
 - Inflation
@@ -337,7 +341,6 @@ Areas of concern:
 [^71]: @RalphHightower: Forget it. Despite all the commercials on [YouTube](https://www.youtube.com/), Trumpian legislators ain't gonna budge.
 
 When you call:
-
 - When calling the DC office, ask for the Staff member in charge of whatever you're calling about ("Hi, I'd like to speak with the staffer in charge of Healthcare, please") — local offices won't always have specific ones, but they might. If you get transferred to that person, awesome. If you don't, that's ok — ask for that person's name, and then just keep talking to whoever answered the phone. Don't leave a message (unless the office doesn't pick up at all — then you can — but it's better to talk to the staffer who first answered than leave a message for the specific staffer in charge of your topic).
 - Give them your zip code. They won't always ask for it, but make sure you give it to them, so they can mark it down. Extra points if you live in a zip code that traditionally votes for them, since they'll want to make sure they get/keep your vote.
 - If you can make it personal, make it personal. "I voted for you in the last election and I'm worried/happy/whatever" or "I'm a teacher, and I am appalled by ——-," or "as a single mother" or "as a white, middle class woman," or whatever.
@@ -403,6 +406,7 @@ Put the 6 numbers in your phone (all under P – Politician.) An example is Poli
     3. **[Internal Revenue Service (IRS)](https;//www.irs.gov/)**: No person or company is exempt.
     4. **[Department of Labor (DOL)](https://www.dol.gov/)**: Regulates fiduciary responsibilities and retirement plans³.
     5. **[Social Security Administration](https://www.ssa.gov/)**: Runs the Social Security retirement, survivors, and disability insurance programs.
+
     6. **[Equal Employment Opportunity Commission](https://www.eeoc.gov/)**: The Equal Employment Opportunity Commission (EEOC) enforces laws that make discrimination illegal in the workplace. The commission oversees all types of work situations including hiring, firing, promotions, harassment, training, wages, and benefits.
 5. **[Neuralink](https://neuralink.com/)**:
     1. **[Food and Drug Administration (FDA)](https://www.fda.gov/)**: Regulates medical devices and clinical trials.
