@@ -33,7 +33,7 @@ Our [recommendations](https://www.gao.gov/products/gao-25-107210#summary_recomme
 
 NOAA operates two Lockheed WP-3D Orion aircraft as Hurricane Hunters
 
-![Lockheed WP-3D Orion](../../../assets/Fast_Facts_107210.png)
+![Lockheed WP-3D Orion](/assets/Fast_Facts_107210.png)
 
 ### Highlights
 
@@ -69,7 +69,7 @@ NOAA plans to acquire six aircraft to replace its three aging planes, and the Ai
 
 Winter Season Reconnaissance Missions Have Increased
 
-![Winter Seasons Missions. Pacific Basin: 2015 ‐mthru 2019. Pacific/Atlantic Basins: 2020 thru 2024 with more Pacific missions than Atlantic](../../../assets/rId12_image2.png)
+![Winter Seasons Missions. Pacific Basin: 2015 ‐mthru 2019. Pacific/Atlantic Basins: 2020 thru 2024 with more Pacific missions than Atlantic](/assets/rId12_image2.png)
 
 Note: Atmospheric rivers are regions in the atmosphere that transport water vapor from the tropics to higher latitudes, leading to extreme precipitation and flooding on the U.S. West Coast. This figure includes reconnaissance missions NOAA and the Air Force flew but does not include other types of missions such as research missions focused on atmospheric rivers.
 
