@@ -2,7 +2,7 @@
 layout: page
 tags: [assholes, Donald Trump, Elon Musk, Betsy DeVos., MAGA billionaires, billionaire, Trump donors, Republican PAC, Make America Great Again (MAGA)]
 categories: [Telephone Numbers]
-date: 2025-03-13 8:29 PM
+date: 2025-03-14 7:32 PM
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description: 
@@ -16,6 +16,18 @@ The telephone numbers below have called and there is an empty person on the othe
 
 | Telephone Number | Location | Date Time[^11] | Caller | Social Media |
 |---|---|---|---|---|
+| <a href="tel:+18032945417">+1 (803) 294-5417</a> | SC. Dalzel | 2025-03-14 04:43 PM | | |
+| <a href="tel:+18034562681">+1 (803) 456-2681</a> | SC. | 2025-03-14 03:37 PM | | |
+| <a href="tel:+18039371947">+1 (803) 937-1947</a> | SC. Orangeburg | 2025-03-14 01:44 PM | Edward Jones | |
+| <a href="tel:+18032180565">+1 (803) 218-0565</a> | SC. Salley | 2025-03-14 01:35 PM | | |
+| <a href="tel:+18033732592">+1 (803) 373-2592</a> | SC. Beech Island | 2025-03-14 12:37 PM | Potential Spam | |
+| <a href="tel:+18032201324">+1 (803) 220-1324</a> | SC. Aiken | 2025-03-14 12:29 PM | Potential Spam | |
+| <a href="tel:+18032660127">+1 (803) 266-0127</a> | SC. Williston | 2025-03-14 11:34 AM | | |
+| <a href="tel:+17864751348">+1 (786) 475-1348</a> | FL. Miami | 2025-03-14 11:18 AM | | |
+| <a href="tel:+18035153007">+1 (803) 515-3007</a> | SC. Orangeburg | 2025-03-14 11:13 AM | | |
+| <a href="tel:+18037829800">+1 (803) 782-9800</a> | SC. | 2025-03-14 09:41 AM | National Tax Service | |
+| <a href="tel:+18037829800">+1 (803) 782-9800</a> | SC. | 2025-03-14 09:41 AM ¤¤ | National Tax Service | |
+| <a href="tel:+18037829800">+1 (803) 782-9800</a> | SC. | 2025-03-14 09:40 AM | National Tax Service | |
 | <a href="tel:+18038577376">+1 (803) 857-7376</a> | SC. S Carolina | 2025-03-13 06:26 PM ¤¤ | - | |
 | <a href="tel:+18038577376">+1 (803) 857-7376</a> | SC. S Carolina | 2025-03-13 06:24 PM | - | |
 | <a href="tel:+18033760410">+1 (803) 376-0410</a> | SC. Columbia | 2025-03-13 06:01 PM ¤¤ | - | |
