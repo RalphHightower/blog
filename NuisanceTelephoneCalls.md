@@ -2,7 +2,7 @@
 layout: page
 tags: [assholes, Donald Trump, Elon Musk, Betsy DeVos., MAGA billionaires, billionaire, Trump donors, Republican PAC, Make America Great Again (MAGA)]
 categories: [Telephone Numbers]
-date: 2025-03-12 9:20 PM
+date: 2025-03-13 8:29 PM
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description: 
@@ -16,7 +16,27 @@ The telephone numbers below have called and there is an empty person on the othe
 
 | Telephone Number | Location | Date Time[^11] | Caller | Social Media |
 |---|---|---|---|---|
-| <a href="tel:+18037845681">+1 (803) 784-5681</a> | SC. Camden | 2025-03-12 05:52 PM | Potential Spam | |
+| <a href="tel:+18038577376">+1 (803) 857-7376</a> | SC. S Carolina | 2025-03-13 06:26 PM ¤¤ | - | |
+| <a href="tel:+18038577376">+1 (803) 857-7376</a> | SC. S Carolina | 2025-03-13 06:24 PM | - | |
+| <a href="tel:+18033760410">+1 (803) 376-0410</a> | SC. Columbia | 2025-03-13 06:01 PM ¤¤ | - | |
+| <a href="tel:+18033760410">+1 (803) 376-0410</a> | SC. Columbia | 2025-03-13 05:59 PM | - | |
+| <a href="tel:+18037529596">+1 (803) 752-9596</a> | SC. Fort Mill | 2025-03-13 05:32 PM ¤¤ | - | |
+| <a href="tel:+18037529596">+1 (803) 752-9596</a> | SC. Fort Mill | 2025-03-13 05:31 PM | - | |
+| <a href="tel:+18039976509">+1 (803) 997-6509</a> | SC. Orangeburg | 2025-03-13 04:55 PM | - | |
+| <a href="tel:+18037526127">+1 (803) 752-6127</a> | SC. | 2025-03-13 04:44 PM | - | |
+| <a href="tel:+18038835544">+1 (803) 883-5544</a> | SC. Sumter | 2025-03-13 04:13 PM | Sanders Kinda A | |
+| <a href="tel:+18039027061">+1 (803) 902-7061</a> | SC. | 2025-03-13 03:31 PM | Potential Spam | |
+| <a href="tel:+18036837424">+1 (803) 683-7424</a> | SC. Columbia | 2025-03-13 02:54 PM | - | |
+| <a href="tel:+18032637683">+1 (803) 263-7683</a> | SC. Norway | 2025-03-13 02:45 PM | Potential Spam | |
+| <a href="tel:+18038798907">+1 (803) 879-8907</a> | SC. Clover | 2025-03-13 10:48 AM ¤¤ | - | |
+| <a href="tel:+18038798907">+1 (803) 879-8907</a> | SC. Clover | 2025-03-13 10:47 AM | - | |
+| <a href="tel:+12069250239">+1 (206) 925-0239</a> | WA. Seattle | 2025-03-13 10:46 AM ¤¤ | #TaxFraud | |
+| <a href="tel:+12408403378">+1 (240) 840-3378</a> | MD. Frederick | 2025-03-13 10:45 AM | - | |
+| <a href="tel:+18039165623">+1 (803) 916-5623</a> | SC. | 2025-03-13 10:35 AM ¤¤ | Potential Spam | |
+| <a href="tel:+18038189160">+1 (803) 818-9160</a> | SC. York | 2025-03-13 10:34 AM | - | |
+| <a href="tel:+18039165623">+1 (803) 916-5623</a> | SC. | 2025-03-13 10:34 AM | Potential Spam | |
+| <a href="tel:+18037920524">+1 (803) 792-0524</a> | SC. York | 2025-03-13 09:56 AM | Potential Spam | |
+| <a href="tel:+18037845681">+1 (803) 784-5681</a> | SC. Camden | 2025-03-12 05:52 PM ¤¤ | Potential Spam | |
 | <a href="tel:+18037845681">+1 (803) 784-5681</a> | SC. Camden | 2025-03-12 05:51 PM | Potential Spam | |
 | <a href="tel:+18033696852">+1 (803) 369-6852</a> | SC. | 2025-03-12 03:52 PM | Potential Spam | |
 | <a href="tel:+18033696852">+1 (803) 369-6852</a> | SC. | 2025-03-12 03:51 PM | Potential Spam | |
