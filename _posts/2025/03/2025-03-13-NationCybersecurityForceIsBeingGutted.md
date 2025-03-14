@@ -12,18 +12,18 @@ title: "Trump’s Slash & Burn 🔥 of Cybersecurity and Infrastructure Security
 
 Further Reading 
 
-- [Under Trump, US Cyberdefense Loses Its Head / WIRED](https://www.wired.com/story/big-interview-jen-easterly-cisa-cybersecurity/). By Lily Hay Newman
-The Big Story Jan 23, 2025 6:00 AM
-- [Trump Is the Manchurian Candidate: Fucking Believable! Europe, NATO, and Our Former Allies No Longer Trust the US as Trump Shifts Allegiance With Russia! / @RalphHightower]({% link _posts/2025/03/2025-03-06-UnthinkableUSLosesIntelligenceWithFreeWorld.md %}). @RalphHightower March 6, 2025
-- [The XZ Backdoor: Everything You Need to Know / WIRED](https://arstechnica.com/security/2024/04/what-we-know-about-the-xz-utils-backdoor-that-almost-infected-the-world/). Dan Goodin, Ars Technica. SecurityApr 2, 2024 4:00 AM
-- [CDK Global, Change Healthcare cyberattacks highlight risks of sector-specific tech vendors](https://www.axios.com/2024/06/21/cdk-cyberattack-supply-chain-hacks). Jun 21, 2024 - Sam Sabin<br /> *Technology&<br /> *How one cyberattack causes relentless ripple effects*
-- [Cybersecurity agency's top recruits decimated by DOGE cuts - CBS News](https://www.cbsnews.com/news/cybersecurity-agencys-top-recruits-doge-cuts/). By Nicole Sganga. March 7, 2025 / 10:13 AM EST / CBS News
-- [Top US Election Security Watchdog Forced to Stop Election Security Work / WIRED](https://www.wired.com/story/cisa-election-security-freeze-memo/). Eric Geller. Security. Feb 14, 2025 10:07 PM
-- [The Top Cybersecurity Agency in the US Is Bracing for Donald Trump / WIRED](https://www.wired.com/story/cisa-cuts-trump-2/). Eric Geller. Security. Dec 16, 2024 6:30 AM
-- [How a Right-Wing Controversy Could Sabotage US Election Security / WIRED](https://www.wired.com/story/gop-secretaries-of-state-cisa-controversy/). Eric Geller. Security. Feb 26, 2024 8:00 AM
-- [DOGE Now Has Access to the Top US Cybersecurity Agency / WIRED](https://www.wired.com/story/doge-cisa-coristine-cybersecurity/#intcid=_wired-article-bottom-recirc_26a14984-b592-477a-85b6-7bc7de3bdeda_roberta-similarity1). Kim Zetter. Security. Feb 19, 2025 8:59 PM
-- [A Log4J Vulnerability Has Set the Internet 'On Fire' / WIRED](https://www.wired.com/story/log4j-flaw-hacking-internet/). Lily Hay Newman. Security Dec 10, 2021 2:54 PM
-- [Elon Musk’s DOGE Is Being Sued Under the Privacy Act: What to Know / WIRED](https://www.wired.com/story/privacy-act-doge-lawsuits/)<br />Eric Geller<br />Security. Feb 18, 2025 4:50 PM
+- [Under Trump, US Cyberdefense Loses Its Head / WIRED](https://www.wired.com/story/big-interview-jen-easterly-cisa-cybersecurity/). By Lily Hay Newman <br /> The Big Story <br /> Jan 23, 2025 6:00 AM
+- [Trump Is the Manchurian Candidate: Fucking Believable! Europe, NATO, and Our Former Allies No Longer Trust the US as Trump Shifts Allegiance With Russia! / @RalphHightower]({% link _posts/2025/03/2025-03-06-UnthinkableUSLosesIntelligenceWithFreeWorld.md %}). @RalphHightower <br /> March 6, 2025
+- [The XZ Backdoor: Everything You Need to Know / WIRED](https://arstechnica.com/security/2024/04/what-we-know-about-the-xz-utils-backdoor-that-almost-infected-the-world/). Dan Goodin <br /> Ars Technica. Security <br /> Apr 2, 2024 4:00 AM
+- [CDK Global, Change Healthcare cyberattacks highlight risks of sector-specific tech vendors](https://www.axios.com/2024/06/21/cdk-cyberattack-supply-chain-hacks). Jun 21, 2024 - Sam Sabin <br /> *Technology <br /> *How one cyberattack causes relentless ripple effects*
+- [Cybersecurity agency's top recruits decimated by DOGE cuts - CBS News](https://www.cbsnews.com/news/cybersecurity-agencys-top-recruits-doge-cuts/). By Nicole Sganga. <br /> March 7, 2025 / 10:13 AM EST / CBS News
+- [Top US Election Security Watchdog Forced to Stop Election Security Work / WIRED](https://www.wired.com/story/cisa-election-security-freeze-memo/). Eric Geller <br /> Security. <br /> Feb 14, 2025 10:07 PM
+- [The Top Cybersecurity Agency in the US Is Bracing for Donald Trump / WIRED](https://www.wired.com/story/cisa-cuts-trump-2/). Eric Geller <br /> Security. <br /> Dec 16, 2024 6:30 AM
+- [How a Right-Wing Controversy Could Sabotage US Election Security / WIRED](https://www.wired.com/story/gop-secretaries-of-state-cisa-controversy/). Eric Geller <br /> Security. Feb 26, 2024 8:00 AM
+- [DOGE Now Has Access to the Top US Cybersecurity Agency / WIRED](https://www.wired.com/story/doge-cisa-coristine-cybersecurity/#intcid=_wired-article-bottom-recirc_26a14984-b592-477a-85b6-7bc7de3bdeda_roberta-similarity1). Kim Zetter <br /> Security. <br /> Feb 19, 2025 8:59 PM
+- [A Log4J Vulnerability Has Set the Internet 'On Fire' / WIRED](https://www.wired.com/story/log4j-flaw-hacking-internet/). Lily Hay Newman <br /> Security Dec 10, 2021 2:54 PM
+- [Elon Musk’s DOGE Is Being Sued Under the Privacy Act: What to Know / WIRED](https://www.wired.com/story/privacy-act-doge-lawsuits/)<b
+- r />Eric Geller<br /> Security. <br /> Feb 18, 2025 4:50 PM
 - [On May 7, 2021, Colonial Pipeline ransomware attack](https://en.wikipedia.org/wiki/Colonial_Pipeline_ransomware_attack?wprov=sfla1)
 
 ## [Cybersecurity and Infrastructure Security Agency](https://www.cisa.gov/)
