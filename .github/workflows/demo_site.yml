@@ -28,7 +28,7 @@ jobs:
           repository: jekyll/minima
           ref: demo-site
       - name: Set up Ruby 3.3.6
-        uses: ruby/setup-ruby@bbda85882f33075a3727c01e3c8d0de0be6146ce # v1.224.0
+        uses: ruby/setup-ruby@f2f7aa6d9e90cf861031aa96fb6eb46b35cf19cd5b6854d7aedac11ff2c9530b # v1.226.0
         with:
           ruby-version: 3.3.6
           bundler-cache: true
