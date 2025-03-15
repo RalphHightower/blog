@@ -57,7 +57,7 @@ The briefs describe how only children born to American citizens or legal nonciti
 [Attorney General](https://www.iowaattorneygeneral.gov/) of [Iowa](https://iowa.gov/)
 
 [Alan Wilson](https://www.scag.gov/about-the-office/meet-the-attorney-general/)
-[Attorney General](https://www scag.gov) of [South Carolina](https://www.sc.gov/)
+[Attorney General](https://www.scag.gov) of [South Carolina](https://www.sc.gov/)
 
 [Lynn Fitch](https://attorneygenerallynnfitch.com/)
 [Attorney General](https://attorneygenerallynnfitch.com/) of [Mississippi](https://www.ms.gov/)
