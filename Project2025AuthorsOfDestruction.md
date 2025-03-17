@@ -7,11 +7,11 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: "Authors of Destruction: Project 2025 – A Manual For the Destruction of the United States of America"
+title: "Authors of Destruction: Project 2025"
 ---
 
 
-## [Homepage / Indivisible](https://indivisible.org/)
+## [Fight Back – Indivisible](https://indivisible.org/)
 
 **We fight on, together**
 _Our democracy is under threat. But we will not yield to fascism. We will stand together and we'll fight back in defense of our rights, our communities, and our values. Join us._
