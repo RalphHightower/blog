@@ -11,12 +11,14 @@ title: "Authors of Destruction: Project 2025 – A Manual For the Destruction of
 ---
 
 
-### [Homepage / Indivisible](https://indivisible.org/)
+## [Homepage / Indivisible](https://indivisible.org/)
 
 **We fight on, together**
 _Our democracy is under threat. But we will not yield to fascism. We will stand together and we'll fight back in defense of our rights, our communities, and our values. Join us._
 
-#### Project 2025 – Their Playbook For the Destruction of the United States of America flashing ⚠️ 
+[Project 2025](https://www.project2025.org/) is the manual that [President](https://www.whitehouse.gov/administration/donald-j-trump/) [Trump](https://www.donaldjtrump.com/) is using to destroy [America](https://www.usa.gov/).
+
+### Project 2025 – Their Playbook For the Destruction of the United States of America flashing ⚠️ 
 
 | Writer | Chapter | Title |
 |---|---|---|
@@ -44,9 +46,9 @@ _Our democracy is under threat. But we will not yield to fascism. We will stand 
 | [Benjamin S. Carson, Sr., MD](https://www.linkedin.com/in/realbencarson/) | 15 | [Department of Housing and Urban Development](https://static.project2025.org/2025_MandateForLeadership_CHAPTER-15.pdf) |
 | [William Perry Pendley](https://www.linkedin.com/in/william-perry-pendley-3a30653a/) | 16 | [Department of Interior](https://static.project2025.org/2025_MandateForLeadership_CHAPTER-16.pdf) |
 | Gene Hamilton | 17 | [Department of Justice](https://static.project2025.org/2025_MandateForLeadership_CHAPTER-17.pdf) |
-| Jonathan Berry | 18 | [Department of Labor and Related Agencies](https://static.project2025.org/2025_MandateForLeadership_CHAPTER-18.pdf) |
-| Diana Furchtgott-Roth | 19 | [Department of Transportation](https://static.project2025.org/2025_MandateForLeadership_CHAPTER-19.pdf) |
-| Brooks D. Tucker | 20 | [Department of Veterans Affairs](https://static.project2025.org/2025_MandateForLeadership_CHAPTER-20.pdf) |
+| [Jonathan Berry](https://www.linkedin.com/in/jonathan-berry-a5640a2/) | 18 | [Department of Labor and Related Agencies](https://static.project2025.org/2025_MandateForLeadership_CHAPTER-18.pdf) |
+| [Diana Furchtgott-Roth](https://www.linkedin.com/in/diana-fr/) | 19 | [Department of Transportation](https://static.project2025.org/2025_MandateForLeadership_CHAPTER-19.pdf) |
+| [Brooks D. Tucker](https://www.linkedin.com/in/brookstucker/) | 20 | [Department of Veterans Affairs](https://static.project2025.org/2025_MandateForLeadership_CHAPTER-20.pdf) |
 | | Section 4 | [The Economy](https://static.heritage.org/project2025/2025_MandateForLeadership_SECTION-04.pdf)
 | Thomas F. Gilman | 21 | [Department of Commerce](https://static.project2025.org/2025_MandateForLeadership_CHAPTER-21.pdf) |
 | William L. Walton, Stephen Moore, David R. Burton | 22 | [Department of the Treasury](https://static.project2025.org/2025_MandateForLeadership_CHAPTER-22.pdf) |
@@ -69,6 +71,10 @@ _Our democracy is under threat. But we will not yield to fascism. We will stand 
 
 Kent Lassman
 
+- [President Donald J. Trump](https://www.whitehouse.gov/administration/donald-j-trump/)
+- [President Of The United States (POTUS)](https://www.whitehouse.gov/)
+- [White House (WH)](https://www.whitehouse.gov/)
+- [Donald J Trump](https://www.donaldjtrump.com/)
 - [Kevin D. Roberts, PhD](https://www.linkedin.com/in/kevin-d-roberts-5ba65047/)
 - [Rick Dearborn](https://www.linkedin.com/in/rick-dearborn-a1702a16a/)
 - [Russ Vought](https://www.linkedin.com/in/russ-vought-787396226/)
