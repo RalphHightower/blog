@@ -1,14 +1,16 @@
 ---
 layout: page
-tags: [assholes, Donald Trump, Elon Musk, Betsy DeVos., MAGA billionaires, billionaire, Trump donors, Republican PAC, Make America Great Again (MAGA)]
+tags: [assholes, Donald Trump, Elon Musk, Betsy DeVos, MAGA billionaires, billionaire, Trump donors, Republican PAC, Make America Great Again (MAGA)]
 categories: [Telephone Numbers]
-date: 2025-03-14 7:32 PM
+date: 2025-03-17 6:56 PM
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description: 
 #permalink: 
-title: "Nuisance Telephone Numbers – No Acknowledgement"
+title: "Nuisance Telephone Numbers"
 ---
+
+## No Acknowledgement 
 
 The telephone numbers below have called and there is an empty person on the other end.
 
@@ -16,6 +18,14 @@ The telephone numbers below have called and there is an empty person on the othe
 
 | Telephone Number | Location | Date Time[^11] | Caller | Social Media |
 |---|---|---|---|---|
+| <a href="tel:+18037231048">+1 (803) 723-1048</a> | SC. Newberry | 2025-03-17 03:39 PM | - | |
+| <a href="tel:+18036785870">+1 (803) 678-5870</a> | SC. Columbia | 2025-03-17 03:38 PM | Potential Spam | |
+| <a href="tel:+18037643503">+1 (803) 764-3503</a> | SC. | 2025-03-17 03:15 PM | Core Campus College | |
+| <a href="tel:+18034160237">+1 (803) 416-0237</a> | SC. Xuja | 2025-03-17 01:06 PM | - | |
+| <a href="tel:+18039700493">+1 (803) 970-0493</a> | SC. Rock Hill | 2025-03-17 01:00 PM | Potential Spam | |
+| <a href="tel:+18034852588">+1 (803) 485-2588</a> | SC. Manning | 2025-03-17 12:50 PM | C Thurlow | |
+| <a href="tel:+18032917152">+1 (803) 291-7152</a> | SC. Salley | 2025-03-17 11:02 AM | - | |
+| <a href="tel:+18035732673">+1 (803) 573-2673</a> | SC. Allendale | 2025-03-17 09:51 AM | Potential Spam | |
 | <a href="tel:+18038051961">+1 (803) 805-1961</a> | SC. Whitmire | 2025-03-15 03:08 PM | Potential Spam | |
 | <a href="tel:+18039029812">+1 (803) 902-9812</a> | SC. | 2025-03-15 03:01 PM | Potential Spam | |
 | <a href="tel:+18038475030">+1 (803) 847-5030</a> | SC. Sumter | 2025-03-15 12:29 PM | - | |
