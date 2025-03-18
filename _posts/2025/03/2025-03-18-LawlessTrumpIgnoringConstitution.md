@@ -1,13 +1,26 @@
 ---
 layout: post
-tags: []
-categories: []
-#date: 2019-06-25 13:14:15
-#excerpt: ''
+tags: [alrernet, North Korea, Kim Jong-un, Vladimir Putin
+Russia
+Alien and Sedition Acts (1798) / National Archives
+President Richard Nixon
+Supreme Court of the United States
+US Courts
+Congress
+House
+Senate
+President Donald J. Trump
+President Of The United States (POTUS)
+White House (WH)
+Donald J Trump
+politics]
+categories: [Donald Trump]
+date: 2025-03-18 7:33 PM
+excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: 'title'
+title: "Compared to Trump, Richard Nixon of Watergate Infamy Is a Saint"
 ---
 
 
@@ -77,6 +90,8 @@ Every single [American](https://www.usa.gov/) who values freedom, regardless of 
 
 If we let this stand, history won’t ask how it happened—it will ask why we didn’t stop it.
 
+- North Korea
+- Kim Jong-un
 - [Vladimir Putin](http://kremlin.ru/)
 - [Russia](http://government.ru/)
 - [Alien and Sedition Acts (1798) / National Archives](https://www.archives.gov/milestone-documents/alien-and-sedition-acts)
