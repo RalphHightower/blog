@@ -2,7 +2,7 @@
 layout: page
 tags: [assholes, Donald Trump, Elon Musk, Betsy DeVos, MAGA billionaires, billionaire, Trump donors, Republican PAC, Make America Great Again (MAGA)]
 categories: [Telephone Numbers]
-date: 2025-03-17 6:56 PM
+date: 2025-03-18 7:09 PM
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description: 
@@ -18,6 +18,24 @@ The telephone numbers below have called and there is an empty person on the othe
 
 | Telephone Number | Location | Date Time[^11] | Caller | Social Media |
 |---|---|---|---|---|
+| <a href="tel:+18032331065">+1 (803) 233-1065</a> | SC. | 2025-03-18 06:25 PM ¤¤ | Potential Spam | |
+| <a href="tel:+18032331065">+1 (803) 233-1065</a> | SC. | 2025-03-18 06:2r PM | Potential Spam | |
+| <a href="tel:+18038797037">+1 (803) 879-7037</a> | SC. | 2025-03-18 05:05 PM | Potential Spam | |
+| <a href="tel:+18036742307">+1 (803) 674-2307</a> | SC. Batesburg | 2025-03-18 04:54 PM | - | |
+| <a href="tel:+18037126218">+1 (803) 712-6218</a> | SC. Winnsboro | 2025-03-18 04:10 PM | - | |
+| <a href="tel:+18037468539">+1 (803) 746-8539</a> | SC. Clover | 2025-03-18 03:46 PM | Potential Spam | |
+| <a href="tel:+18033076121">+1 (803) 307-6121</a> | SC. Batesburg | 2025-03-18 03:02 PM | Eaton | |
+| <a href="tel:+18039965873">+1 (803) 996-5873</a> | SC. | 2025-03-18 02:18 PM ¤¤ | Claude Hammond | |
+| <a href="tel:+18039965873">+1 (803) 996-5873</a> | SC. | 2025-03-18 02:18 PM | Claude Hammond | |
+| <a href="tel:+18036371297">+1 (803) 637-1297</a> | SC. Edgefield | 2025-03-18 02:02 PM | - | |
+| <a href="tel:+18032474529">+1 (803) 247-4529</a> | SC. North | 2025-03-18 01:58 PM | - | |
+| <a href="tel:+18032312076">+1 (803) 231-2076</a> | SC. Columbia | 2025-03-18 01:57 PM | Potential Spam | |
+| <a href="tel:+18039292323">+1 (803) 929-2323</a> | SC. Columbia | 2025-03-18 01:54 PM | Synovus | |
+| <a href="tel:+18032337875">+1 (803) 233-7875</a> | SC. Columbia | 2025-03-18 01:16 PM | Fancher Anna C | |
+| <a href="tel:+18035787058">+1 (803) 578-7058</a> | SC. Fort Mill | 2025-03-18 01:00 PM | - | |
+| <a href="tel:+18032181289">+1 (803) 218-1289</a> | SC. | 2025-03-18 12:44 PM | - | |
+| <a href="tel:+18033400338">+1 (803) 340-0338</a> | SC. | 2025-03-18 11:57 AM | Stephanie Williams | |
+| <a href="tel:+18033258049">+1 (803) 325-8049</a> | SC. Rock Hill | 2025-03-18 10:54 AM | - | |
 | <a href="tel:+18037231048">+1 (803) 723-1048</a> | SC. Newberry | 2025-03-17 03:39 PM | - | |
 | <a href="tel:+18036785870">+1 (803) 678-5870</a> | SC. Columbia | 2025-03-17 03:38 PM | Potential Spam | |
 | <a href="tel:+18037643503">+1 (803) 764-3503</a> | SC. | 2025-03-17 03:15 PM | Core Campus College | |
@@ -29,15 +47,15 @@ The telephone numbers below have called and there is an empty person on the othe
 | <a href="tel:+18038051961">+1 (803) 805-1961</a> | SC. Whitmire | 2025-03-15 03:08 PM | Potential Spam | |
 | <a href="tel:+18039029812">+1 (803) 902-9812</a> | SC. | 2025-03-15 03:01 PM | Potential Spam | |
 | <a href="tel:+18038475030">+1 (803) 847-5030</a> | SC. Sumter | 2025-03-15 12:29 PM | - | |
-| <a href="tel:+18032945417">+1 (803) 294-5417</a> | SC. Dalzel | 2025-03-14 04:43 PM | | |
-| <a href="tel:+18034562681">+1 (803) 456-2681</a> | SC. | 2025-03-14 03:37 PM | | |
+| <a href="tel:+18032945417">+1 (803) 294-5417</a> | SC. Dalzel | 2025-03-14 04:43 PM | - | |
+| <a href="tel:+18034562681">+1 (803) 456-2681</a> | SC. | 2025-03-14 03:37 PM | - | |
 | <a href="tel:+18039371947">+1 (803) 937-1947</a> | SC. Orangeburg | 2025-03-14 01:44 PM | Edward Jones | |
-| <a href="tel:+18032180565">+1 (803) 218-0565</a> | SC. Salley | 2025-03-14 01:35 PM | | |
+| <a href="tel:+18032180565">+1 (803) 218-0565</a> | SC. Salley | 2025-03-14 01:35 PM | - | |
 | <a href="tel:+18033732592">+1 (803) 373-2592</a> | SC. Beech Island | 2025-03-14 12:37 PM | Potential Spam | |
 | <a href="tel:+18032201324">+1 (803) 220-1324</a> | SC. Aiken | 2025-03-14 12:29 PM | Potential Spam | |
-| <a href="tel:+18032660127">+1 (803) 266-0127</a> | SC. Williston | 2025-03-14 11:34 AM | | |
-| <a href="tel:+17864751348">+1 (786) 475-1348</a> | FL. Miami | 2025-03-14 11:18 AM | | |
-| <a href="tel:+18035153007">+1 (803) 515-3007</a> | SC. Orangeburg | 2025-03-14 11:13 AM | | |
+| <a href="tel:+18032660127">+1 (803) 266-0127</a> | SC. Williston | 2025-03-14 11:34 AM | - | |
+| <a href="tel:+17864751348">+1 (786) 475-1348</a> | FL. Miami | 2025-03-14 11:18 AM | - | |
+| <a href="tel:+18035153007">+1 (803) 515-3007</a> | SC. Orangeburg | 2025-03-14 11:13 AM | - | |
 | <a href="tel:+18037829800">+1 (803) 782-9800</a> | SC. | 2025-03-14 09:41 AM | National Tax Service | |
 | <a href="tel:+18037829800">+1 (803) 782-9800</a> | SC. | 2025-03-14 09:41 AM ¤¤ | National Tax Service | |
 | <a href="tel:+18037829800">+1 (803) 782-9800</a> | SC. | 2025-03-14 09:40 AM | National Tax Service | |

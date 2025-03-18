@@ -53,20 +53,20 @@ _Our democracy is under threat. But we will not yield to fascism. We will stand 
 | Thomas F. Gilman | 21 | [Department of Commerce](https://static.project2025.org/2025_MandateForLeadership_CHAPTER-21.pdf) |
 | William L. Walton, Stephen Moore, David R. Burton | 22 | [Department of the Treasury](https://static.project2025.org/2025_MandateForLeadership_CHAPTER-22.pdf) |
 | | 23 | [Export-Import Bank](https://static.project2025.org/2025_MandateForLeadership_CHAPTER-23.pdf) |
-| Veronique de Rugy | 23a | [The Export-Import Bank Should Be Abolished](https://static.project2025.org/2025_MandateForLeadership_CHAPTER-23.pdf) |
-| Jennifer Hazelton | 23b | [The Case For the Export-Import Bank](https://static.project2025.org/2025_MandateForLeadership_CHAPTER-23.pdf#page=8) |
+| [Veronique de Rugy](https://www.linkedin.com/in/veronique-de-rugy-50204876/) | 23a | [The Export-Import Bank Should Be Abolished](https://static.project2025.org/2025_MandateForLeadership_CHAPTER-23.pdf) |
+| [Jennifer Hazelton](https://www.linkedin.com/in/jennifer-hazelton-34b1605/) | 23b | [The Case For the Export-Import Bank](https://static.project2025.org/2025_MandateForLeadership_CHAPTER-23.pdf#page=8) |
 | Paul Winfree | 24 | [Federal Reserve](https://static.project2025.org/2025_MandateForLeadership_CHAPTER-24.pdf) |
-| Karen Kerrigan | 25 | [Small Business Administration](https://static.project2025.org/2025_MandateForLeadership_CHAPTER-25.pdf) |
+| [Karen Kerrigan](https://www.linkedin.com/in/karenkerrigan/) | 25 | [Small Business Administration](https://static.project2025.org/2025_MandateForLeadership_CHAPTER-25.pdf) |
 | | 26 | [Trade](https://static.project2025.org/2025_MandateForLeadership_CHAPTER-26.pdf) |
 | Peter Navarro | 26a | [The Case For Fair Trade](https://static.project2025.org/2025_MandateForLeadership_CHAPTER-26.pdf) |
-| Kent Lassman | 26b | [The Case For Free Trade](https://static.project2025.org/2025_MandateForLeadership_CHAPTER-26.pdf#page=32) |
+| [Kent Lassman](https://www.linkedin.com/in/kent-lassman-8521a77/) | 26b | [The Case For Free Trade](https://static.project2025.org/2025_MandateForLeadership_CHAPTER-26.pdf#page=32) |
 | | Section 5 | [Independent Regulatory Agencies](https://static.project2025.org/2025_MandateForLeadership_SECTION-05.pdf)
 | | 27 | [Financial Regulatory Resources](https://static.project2025.org/2025_MandateForLeadership_CHAPTER-27.pdf) |
-| David R. Burton | 27a | [Securities and Exchange Commission and Related Agencies](https://static.project2025.org/2025_MandateForLeadership_CHAPTER-27.pdf) |
+| [David R. Burton](https://www.linkedin.com/in/davidrburton/) | 27a | [Securities and Exchange Commission and Related Agencies](https://static.project2025.org/2025_MandateForLeadership_CHAPTER-27.pdf) |
 | Robert Bowles | 27b | [Consumer Financial Protection Bureau](https://static.project2025.org/2025_MandateForLeadership_CHAPTER-27.pdf#page=9) |
-| Brendan Carr | 28 | [Federal Communications Commission](https://static.project2025.org/2025_MandateForLeadership_CHAPTER-28.pdf) |
+| [Brendan Carr](https://www.linkedin.com/in/brendan-carr-0030b126/) | 28 | [Federal Communications Commission](https://static.project2025.org/2025_MandateForLeadership_CHAPTER-28.pdf) |
 | Hans A. von Spakovsky | 29 | [Federal Election Commission](https://static.project2025.org/2025_MandateForLeadership_CHAPTER-29.pdf) |
-| Adam Candeub | 30 | [Federal Trade Commission](https://static.project2025.org/2025_MandateForLeadership_CHAPTER-30.pdf) |
+| [Adam Candeub](https://www.linkedin.com/in/adam-candeub-18b54958/) | 30 | [Federal Trade Commission](https://static.project2025.org/2025_MandateForLeadership_CHAPTER-30.pdf) |
 | Edwin J. Feulner | Afterword | [Onward](https://static.project2025.org/2025_MandateForLeadership_AFTERWORD.pdf) |
 
 Kent Lassman
@@ -95,6 +95,13 @@ Kent Lassman
 - [Roger Severino](https://www.linkedin.com/in/roger-severino-193496/)
 - [Benjamin S. Carson, Sr., MD](https://www.linkedin.com/in/realbencarson/)
 - [William Perry Pendley](https://www.linkedin.com/in/william-perry-pendley-3a30653a/)
+- [Adam Candeub](https://www.linkedin.com/in/adam-candeub-18b54958/)
+- [Brendan Carr](https://www.linkedin.com/in/brendan-carr-0030b126/)
+- [David R. Burton](https://www.linkedin.com/in/davidrburton/)
+- [Kent Lassman](https://www.linkedin.com/in/kent-lassman-8521a77/)
+- [Karen Kerrigan](https://www.linkedin.com/in/karenkerrigan/)
+- [Jennifer Hazelton](https://www.linkedin.com/in/jennifer-hazelton-34b1605/)
+- [Veronique de Rugy](https://www.linkedin.com/in/veronique-de-rugy-50204876/)
 
 
 ### Partners In Crime 
