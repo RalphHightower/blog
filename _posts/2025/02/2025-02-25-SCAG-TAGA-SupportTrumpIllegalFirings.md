@@ -37,7 +37,7 @@ The as-filed briefs are available [here](https://www.scag.gov/media/onaat03s/del
 
 [^1202]: The Board has five Members and primarily acts as a quasi-judicial body in deciding cases on the basis of formal records in administrative proceedings. Board Members are appointed by the President to [5-year terms, with Senate consent, the term of one Member expiring each year](https://www.nlrb.gov/about-nlrb/who-we-are/the-board). Gwen Wilcox term does not end until August 27, 2028. This is another blatant example of [Trump](https://www.whitehouse.gov/administration/donald-j-trump/u) ignoring laws.
 
-[^1301]: Robert P. Storch, Inspector General at [Department of Defense](https://www.defense.gov/). The >Department of Defense (DOD)](https://www.defense.gov/) provides the military forces needed to deter war, and to protect the security of the United States. 
+[^1301]: Robert P. Storch, Inspector General at [Department of Defense](https://www.defense.gov/). The [Department of Defense (DOD)](https://www.defense.gov/) provides the military forces needed to deter war, and to protect the security of the United States. 
 
 - [Republican Attorneys General Association](https://republicanags.com/)
 - [Steve Marshall](https://www.alabamaag.gov/about/), [Attorney General](https://www.alabamaag.gov/) of [Alabama](https://www.alabama.gov/)
@@ -67,8 +67,8 @@ The as-filed briefs are available [here](https://www.scag.gov/media/onaat03s/del
 - [Pete Hegseth](https://www.defense.gov/About/Biographies/Biography/Article/4040890/hon-pete-hegseth/)
 - [National Labor Relations Board (NLRB)](https://www.nlrb.gov/)
 - Gwen Wilcox 
+- [Supreme Court of the United States (SCOTUS)](https://www.supremecourt.gov/)
 - [District of Columbia / United States District Court](https://www.dcd.uscourts.gov/)
-- [Supreme Court of the United States (SCOTUS)](https://www.supremecourt.giv/)
 - [Constitution](https://constitution.congress.gov/)
 - [Treasury Department](https://home.treasury.gov/)
 - [Scott Bessent](https://home.treasury.gov/about/general-information/officials/scott-bessent)
