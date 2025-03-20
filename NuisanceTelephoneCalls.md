@@ -2,7 +2,7 @@
 layout: page
 tags: [assholes, Donald Trump, Elon Musk, Betsy DeVos, MAGA billionaires, billionaire, Trump donors, Republican PAC, Make America Great Again (MAGA)]
 categories: [Telephone Numbers]
-date: 2025-03-18 7:09 PM
+date: 2025-03-20 12:08 AM
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description: 
@@ -18,8 +18,21 @@ The telephone numbers below have called and there is an empty person on the othe
 
 | Telephone Number | Location | Date Time[^11] | Caller | Social Media |
 |---|---|---|---|---|
+| <a href="tel:+18037057571">+1 (803) 705-7571</a> | SC. Columbia | 2025-03-19 06:27 PM | Benedict College | |
+| <a href="tel:+18038874297">+1 (803) 887-4297</a> | SC | 2025-03-19 05:29 PM | Potential Spam | |
+| <a href="tel:+18034023438">+1 (803) 402-3438</a> | SC | 2025-03-19 04:32 PM | - | |
+| <a href="tel:+18039991563">+1 (803) 999-1563</a> | SC. Columbia | 2025-03-19 03:49 PM | - | |
+| <a href="tel:+18032743834">+1 (803) 274-3834</a> | SC. Branchville | 2025-03-19 03:00 PM | Potential Spam | |
+| <a href="tel:+18032748078">+1 (803) 274-8078</a> | SC. | 2025-03-19 02:10 PM | - | |
+| <a href="tel:+18034844253">+1 (803) 484-4253</a> | SC. Bishopville | 2025-03-19 01:13 PM | Lucille March | |
+| <a href="tel:+18034844253">+1 (803) 484-4253</a> | SC. Bishopville | 2025-03-19 01:12 PM | Lucille March | |
+| _p_8034502259 | SC. | 2025-03-19 01:04 PM | Potential Spam | |
+| <a href="tel:+18038380509">+1 (803) 838-0509</a> | SC. Ridge Spring | 2025-03-19 12:30 PM | - | |
+| <a href="tel:+18399999951">+1 (839) 999-9951</a> | SC. Little Mountain | 2025-03-19 12:05 PM | - | |
+| <a href="tel:+18036515674">+1 (803) 651-5674</a> | SC. Sumter | 2025-03-19 11:09 AM | - | |
+| <a href="tel:+18039350466">+1 (803) 935-0466</a> | SC. | 2025-03-19 10:39 AM | Allendale Corre | |
 | <a href="tel:+18032331065">+1 (803) 233-1065</a> | SC. | 2025-03-18 06:25 PM ¤¤ | Potential Spam | |
-| <a href="tel:+18032331065">+1 (803) 233-1065</a> | SC. | 2025-03-18 06:2r PM | Potential Spam | |
+| <a href="tel:+18032331065">+1 (803) 233-1065</a> | SC. | 2025-03-18 06:24 PM | Potential Spam | |
 | <a href="tel:+18038797037">+1 (803) 879-7037</a> | SC. | 2025-03-18 05:05 PM | Potential Spam | |
 | <a href="tel:+18036742307">+1 (803) 674-2307</a> | SC. Batesburg | 2025-03-18 04:54 PM | - | |
 | <a href="tel:+18037126218">+1 (803) 712-6218</a> | SC. Winnsboro | 2025-03-18 04:10 PM | - | |
