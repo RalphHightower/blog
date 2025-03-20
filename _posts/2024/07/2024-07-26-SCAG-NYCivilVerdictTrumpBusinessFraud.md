@@ -44,7 +44,7 @@ You can read the brief [here](https://www.scag.gov/media/3nzpqgev/ny-v-trump-sta
 - [Drew Wrigley](https://attorneygeneral.nd.gov/attorney-generals-office/) – [Attorney General](https://attorneygeneral.nd.gov/) of [North Dakota](https://www.nd.gov/)
 - [Dave Yost](https://www.ohioattorneygeneral.gov/About-AG/Dave-Yost) – [Attorney General](https://www.ohioattorneygeneral.gov/) of [Ohio](https://ohio.gov/)
 - [Gentner Drummond](https://oklahoma.gov/oag/about/bio.html), [Attorney General](https://oklahoma.gov/oag.html) of [Oklahoma](https://oklahoma.gov/)
-- [Alan Wilson](https://www.scag.gov/about-the-office/meet-the-attorney-general/) – [Attorney General](https://www scag.gov/) of [South Carolina](https://www.sc.gov/)
+- [Alan Wilson](https://www.scag.gov/about-the-office/meet-the-attorney-general/) – [Attorney General](https://www.scag.gov/) of [South Carolina](https://www.sc.gov/)
 - [Marty Jackley](https://atg.sd.gov/OurOffice/bio.aspx#gsc.tab=0) – [Attorney General](https://atg.sd.gov/#gsc.tab=0) of [South Dakota](https://www.sd.gov/)
 - [Jonathan Skrmetti](https://www.tn.gov/attorneygeneral/about-the-office/general-skrmetti.html) – [Attorney General](https://www.tn.gov/attorneygeneral.html) of [Tennessee](https://www.tn.gov/)
 - [Ken Paxton](https://www.texasattorneygeneral.gov/about-office) – [Attorney General](https://www.texasattorneygeneral.gov/) of [Texas](https://www.texas.gov/)
@@ -104,5 +104,5 @@ You can read the brief [here](https://www.scag.gov/media/3nzpqgev/ny-v-trump-sta
 - [US Courts](https://www.uscourts.gov/)
 - [President Donald J. Trump](https://www.whitehouse.gov/administration/donald-j-trump/)
 - [White House (WH)](https://www.whitehouse.gov/)
-- [President of the United States (POTUS)](https://www whitehouse.gov/)
+- [President of the United States (POTUS)](https://www.whitehouse.gov/)
 - politics
