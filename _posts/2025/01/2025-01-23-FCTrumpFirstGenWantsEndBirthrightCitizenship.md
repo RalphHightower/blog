@@ -119,4 +119,3 @@ This week, [Donald](https://www.whitehouse.gov/) placed an executive order in an
 
 Jan 22, 2025  [#Trump](https://www.whitehouse.gov/) [#Constitution](https://constitution.congress.gov/) #birthrightcitizenship
 [Donald Trump](https://www.whitehouse.gov/) issued one of his first executive orders to end birthright citizenship. MSNBC’s Ari Melber delivers a special report on how the order flatly contradicts the [14th Amendment](https://constitution.congress.gov/constitution/amendment-14/) of The [#Constitution](https://constitution. congress.gov/)](https://constitution.congress.gov/constitution/). MSNBC’s Ari Melber delivers a special report. (The Beat's YouTube playlist: https://msnbc.com/ari Ari: / arimelber Beat merch: www.msnbc.com/Beat5)
- 
