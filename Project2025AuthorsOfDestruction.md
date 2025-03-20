@@ -7,18 +7,18 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: "Authors of Destruction: Project 2025"
+title: "Authors of Mass Destruction: Project 2025"
 ---
 
 
-## [Homepage / Indivisible](https://indivisible.org/)
+## [Indivisible](https://indivisible.org/)
 
 **We fight on, together**
 _Our democracy is under threat. But we will not yield to fascism. We will stand together and we'll fight back in defense of our rights, our communities, and our values. Join us._
 
-[Project 2025](https://www.project2025.org/) is the manual that [President](https://www.whitehouse.gov/administration/donald-j-trump/) [Trump](https://www.donaldjtrump.com/) is using to destroy [America](https://www.usa.gov/).
+### [Project 2025](https://www.project2025.org/) is the manual that [President](https://www.whitehouse.gov/administration/donald-j-trump/) [Trump](https://www.donaldjtrump.com/) is using to destroy [America](https://www.usa.gov/).
 
-### Project 2025 – Their Playbook For the Destruction of the United States of America flashing ⚠️
+#### Project 2025 – Their Playbook For the Destruction of the United States of America flashing ⚠️
 
 | Writer | Chapter | Title |
 |---|---|---|
@@ -51,7 +51,7 @@ _Our democracy is under threat. But we will not yield to fascism. We will stand 
 | [Brooks D. Tucker](https://www.linkedin.com/in/brookstucker/) | 20 | [Department of Veterans Affairs](https://static.project2025.org/2025_MandateForLeadership_CHAPTER-20.pdf) |
 | | Section 4 | [The Economy](https://static.heritage.org/project2025/2025_MandateForLeadership_SECTION-04.pdf)
 | Thomas F. Gilman | 21 | [Department of Commerce](https://static.project2025.org/2025_MandateForLeadership_CHAPTER-21.pdf) |
-| William L. Walton, Stephen Moore, David R. Burton | 22 | [Department of the Treasury](https://static.project2025.org/2025_MandateForLeadership_CHAPTER-22.pdf) |
+| William L. Walton, Stephen Moore, [David R. Burton](https://www.linkedin.com/in/davidrburton/) | 22 | [Department of the Treasury](https://static.project2025.org/2025_MandateForLeadership_CHAPTER-22.pdf) |
 | | 23 | [Export-Import Bank](https://static.project2025.org/2025_MandateForLeadership_CHAPTER-23.pdf) |
 | [Veronique de Rugy](https://www.linkedin.com/in/veronique-de-rugy-50204876/) | 23a | [The Export-Import Bank Should Be Abolished](https://static.project2025.org/2025_MandateForLeadership_CHAPTER-23.pdf) |
 | [Jennifer Hazelton](https://www.linkedin.com/in/jennifer-hazelton-34b1605/) | 23b | [The Case For the Export-Import Bank](https://static.project2025.org/2025_MandateForLeadership_CHAPTER-23.pdf#page=8) |
@@ -67,41 +67,53 @@ _Our democracy is under threat. But we will not yield to fascism. We will stand 
 | [Brendan Carr](https://www.linkedin.com/in/brendan-carr-0030b126/) | 28 | [Federal Communications Commission](https://static.project2025.org/2025_MandateForLeadership_CHAPTER-28.pdf) |
 | Hans A. von Spakovsky | 29 | [Federal Election Commission](https://static.project2025.org/2025_MandateForLeadership_CHAPTER-29.pdf) |
 | [Adam Candeub](https://www.linkedin.com/in/adam-candeub-18b54958/) | 30 | [Federal Trade Commission](https://static.project2025.org/2025_MandateForLeadership_CHAPTER-30.pdf) |
-| Edwin J. Feulner | Afterword | [Onward](https://static.project2025.org/2025_MandateForLeadership_AFTERWORD.pdf) |
+| [Edwin J. Feulner](https://www.linkedin.com/in/ed-feulner-46397712/) | Afterword | [Onward](https://static.project2025.org/2025_MandateForLeadership_AFTERWORD.pdf) |
 
-Kent Lassman
+Daren Bakst
+Robert Bowles
+Donald Devine
+Thomas F. Gilman
+Gene Hamilton
+Dennis Dean Kirk
+Christopher Miller
+Stephen Moore
+Peter Navarro
+Hans A. von Spakovsky
+William L. Walton
+Paul Winfree
 
 - [President Donald J. Trump](https://www.whitehouse.gov/administration/donald-j-trump/)
 - [President Of The United States (POTUS)](https://www.whitehouse.gov/)
 - [White House (WH)](https://www.whitehouse.gov/)
 - [Donald J Trump](https://www.donaldjtrump.com/)
-- [Kevin D. Roberts, PhD](https://www.linkedin.com/in/kevin-d-roberts-5ba65047/)
-- [Rick Dearborn](https://www.linkedin.com/in/rick-dearborn-a1702a16a/)
-- [Russ Vought](https://www.linkedin.com/in/russ-vought-787396226/)
-- Donald Devine
-- Dennis Dean Kirk
-- [Paul Dans](https://www.linkedin.com/in/paul-dans-3a029225/)
- - Christopher Miller
-- [Ken Cuccinelli](https://www.linkedin.com/in/ken-cuccinelli-91867530/)
-- [Kiron K. Skinner](https://www.linkedin.com/in/kiron-k-skinner-9a7a6768/)
-- [Dustin J. Carmack](https://www.linkedin.com/in/dustin-c-ab159a27/)
-- [Mora Namdar](https://www.linkedin.com/in/mora-namdar-8910062b/)
-- [Mike Gonzalez](https://www.linkedin.com/in/mike-gonzalez-7243bb2/)
-- [Max Primorac](https://www.linkedin.com/in/max-primorac-21503712/)
 - Daren Bakst
 - [Lindsey M. Burke](https://www.linkedin.com/in/lindseyburke/)
-- [Bernard L. McNamee](https://www.linkedin.com/in/bernard-l-mcnamee-ba626637/)
-- [Mandy M. Gunasekara](https://www.linkedin.com/in/mandy-gunasekara-570aa53a/)
-- [Roger Severino](https://www.linkedin.com/in/roger-severino-193496/)
-- [Benjamin S. Carson, Sr., MD](https://www.linkedin.com/in/realbencarson/)
-- [William Perry Pendley](https://www.linkedin.com/in/william-perry-pendley-3a30653a/)
-- [Adam Candeub](https://www.linkedin.com/in/adam-candeub-18b54958/)
-- [Brendan Carr](https://www.linkedin.com/in/brendan-carr-0030b126/)
 - [David R. Burton](https://www.linkedin.com/in/davidrburton/)
-- [Kent Lassman](https://www.linkedin.com/in/kent-lassman-8521a77/)
-- [Karen Kerrigan](https://www.linkedin.com/in/karenkerrigan/)
+- [Adam Candeub](https://www.linkedin.com/in/adam-candeub-18b54958/)
+- [Dustin J. Carmack](https://www.linkedin.com/in/dustin-c-ab159a27/)
+- [Brendan Carr](https://www.linkedin.com/in/brendan-carr-0030b126/)
+- [Benjamin S. Carson, Sr., MD](https://www.linkedin.com/in/realbencarson/)
+- [Ken Cuccinelli](https://www.linkedin.com/in/ken-cuccinelli-91867530/)
+- [Rick Dearborn](https://www.linkedin.com/in/rick-dearborn-a1702a16a/)
+- Donald Devine
+- [Edwin J. Feulner](https://www.linkedin.com/in/ed-feulner-46397712/)
+- [Paul Dans](https://www.linkedin.com/in/paul-dans-3a029225/)
+- [Mike Gonzalez](https://www.linkedin.com/in/mike-gonzalez-7243bb2/)
+- [Mandy M. Gunasekara](https://www.linkedin.com/in/mandy-gunasekara-570aa53a/)
 - [Jennifer Hazelton](https://www.linkedin.com/in/jennifer-hazelton-34b1605/)
+- [Karen Kerrigan](https://www.linkedin.com/in/karenkerrigan/)
+- Dennis Dean Kirk
+- [Kent Lassman](https://www.linkedin.com/in/kent-lassman-8521a77/)
+- [Bernard L. McNamee](https://www.linkedin.com/in/bernard-l-mcnamee-ba626637/)
+ - Christopher Miller
+- [Mora Namdar](https://www.linkedin.com/in/mora-namdar-8910062b/)
+- [Max Primorac](https://www.linkedin.com/in/max-primorac-21503712/)
+- [William Perry Pendley](https://www.linkedin.com/in/william-perry-pendley-3a30653a/)
+- [Kevin D. Roberts, PhD](https://www.linkedin.com/in/kevin-d-roberts-5ba65047/)
 - [Veronique de Rugy](https://www.linkedin.com/in/veronique-de-rugy-50204876/)
+- [Roger Severino](https://www.linkedin.com/in/roger-severino-193496/)
+- [Kiron K. Skinner](https://www.linkedin.com/in/kiron-k-skinner-9a7a6768/)
+- [Russ Vought](https://www.linkedin.com/in/russ-vought-787396226/)
 
 
 ### Partners In Crime 
