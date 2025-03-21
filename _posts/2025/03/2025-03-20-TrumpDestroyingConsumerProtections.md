@@ -7,8 +7,8 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
----
 title: "President Trump Is Destroying Consumer Protections For Americans"
+---
 
 
 [Trump](https://www.whitehouse.gov/administration/donald-j-trump/) is destroying consumer protections. Earlier, he tried to eliminate the [Consumer Financial Protection Bureau (CFPB)](https://www.consumerfinance.gov/). The [Federal Trade Commission](https://www.ftc.gov/) commissioners are appointed for seven year terms to remove politics from their judgments. It has five commissioners, so there will be one party in the majority, but the minority members can issue dissenting opinions, much like the [Supreme Court](https://www.supremecourt.gov/).
