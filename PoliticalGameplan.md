@@ -139,10 +139,10 @@ Class II.
 | **Golden Corner Office** |
 | 124 Exchange Street, Suite A <br /> Pendleton, SC 29670 <br /> Main: <a href="tel:+18646464090">(864) 646-4090</a> <br /> Fax: <a href="tel:+18646468609">(864) 646-8609</a> |
 
-- [Trump's Poodle, Senator Lindsey Graham (T-SC), On NBC Meet The Press]({% post_url /2025/01/2025-01-26-TrumpsPoodleOnMTP %})
-- [Sen. Lindsey Graham (T-SC) States That Trump Won't Prosecute Political Enemies. Yea, Right!]({% post_url /2024/12/2024-12-15-LindseyGraham20241215MTP %})
-- [MSNBC Morning Joe Panel Discusses Kash Patel as Trump's Pick for FBI Director]({% post_url /2024/12/2024-12-12-LindseyGrahamSupportsPatek4FBI %})
-- [Bless His Heart – Senator Lindsey Graham (T-SC): Why Are You "Republicans" Supporting Harris?]({% post_url /2024/10/2024-10-20-AnswerToTrumpersSupportingHarris %})
+- [Trump's Poodle, Senator Lindsey Graham (T-SC), On NBC Meet The Press]({% link _posts/2025/01/2025-01-26-TrumpsPoodleOnMTP.md %})
+- [Sen. Lindsey Graham (T-SC) States That Trump Won't Prosecute Political Enemies. Yea, Right!]({% link _posts/2024/12/2024-12-15-LindseyGraham20241215MTP.md %})
+- [MSNBC Morning Joe Panel Discusses Kash Patel as Trump's Pick for FBI Director]({% link _posts/2024/12/2024-12-12-LindseyGrahamSupportsPatek4FBI.md %})
+- [Bless His Heart – Senator Lindsey Graham (T-SC): Why Are You "Republicans" Supporting Harris?]({% link _posts/2024/10/2024-10-20-AnswerToTrumpersSupportingHarris.md %})
 
 ###### [Scott, Tim (T-SC)](https://www.scott.senate.gov/)
 
@@ -162,7 +162,7 @@ Class III.
 | **Low Country** |
 | 2500 City Hall Lane <br /> 3rd Floor Suite <br /> North Charleston, SC 29406 <br /> Phone: <a href="tel:+18437274525">(843) 727-4525</a> <br /> Fax: <a href="tel:+18558029355">(855) 802-9355</a> |
 
-- [Sen. Tim Scott (T-SC) Is Trump's Lawn Jockey]({% post_url /2024/11/2024-11-04-TimScottIsTrumpsLawnJockey %})
+- [Sen. Tim Scott (T-SC) Is Trump's Lawn Jockey]({% link _posts/2024/11/2024-11-04-TimScottIsTrumpsLawnJockey.md %})
 
 #### President
 
@@ -223,12 +223,22 @@ Class III.
 
 ##### My Dumb State: South Carolina
 
-- [My Dumb State, South Carolina: Supports Trump’s Illegal, Lawless Firings Of Government Watchdogs]({% link _posts/2025/02/2025-02-25-SCAG-TAGA-SupportTrumpIllegalFirings.md %})
-- [🚨 My Dumb State, South Carolina: Attorney General Alan Wilson Is Not Interested In Protecting South Carolinians' Personal Identifiable Information (PII)In the Biggest Data Breach of the US Treasury Central Payment System! 🚨]({% link _posts/2025/02/2025-02-21-SC-AG-SupportsDOGE-DataBreachOfPII.md %})
-- [My Dumb State, South Carolina: South Carolina's Attorney General, Alan Wilson, Weaponizes State Government To Persecute Trump's Perceived Enemy, Dr. Anthony Fauci, For His COVID-19 Pandemic Response]({% link _posts/2025/02/2025-02-06-SCAGWeaponizesStateGovernment.md %})
-- [My Dumb State, South Carolina: South Carolina's Attorney General, Alan Wilson, Wants To Amend The Fourteenth Amendment]({% link _posts/2025/02/2025-02-07-SCAGWants14thAmendmentAmended.md %})
-- [My Dumb State: South Carolina Attorney General Alan Wilson & Trumpian Attorneys General Whine About New York Fine of Trump Organization For Thirty-Four Felony Civil Indictments of Falsification of Business Records For Financial Fraud, Insurance Fraud, & Property Tax Fraud]({% link _posts/2024/07/2024-07-26-SCAG-NYCivilVerdictTrumpBusinessFraud.md %})
-- [My Dumb State: South Carolina Attorney General Alan Wilson & TAGA Sues Pennsylvania For Election Fraud Over 2020 Presidential Election]({% link _posts/2024/07/2024-07-26-SCAG-NYCivilVerdictTrumpBusinessFraud.md %})
+- []({% link _posts/2025-03-14-SCAGAmend14AmendmentPart2.md %})
+- []({% link _posts/2025-02-25-SCAG-TAGA-SupportTrumpIllegalFirings.md %})
+- []({% link _posts/2025-02-07-SCAGWants14thAmendmentAmended.md %})
+- []({% link _posts/2025-01-28-SCAG-DEI.md %})
+- []({% link _posts/2025-02-06-SCAGWeaponizesStateGovernment.md %})
+- []({% link _posts/2024-11-01-SCAG-StopJackSmith.md %})
+- []({% link _posts/2024-07-26-SCAG-NYCivilVerdictTrumpBusinessFraud.md %})
+- []({% link _posts/2020-11-09-SCAGSuesPA.md %})
+
+- [My Dumb State, South Carolina: South Carolina's Attorney General, Alan Wilson, Wants To Amend The Fourteenth Amendment – Part 2 (Ninth Appeals Court)]({% link _posts/2025-03-14-SCAGAmend14AmendmentPart2.md %}). March 14, 2025.
+- [My Dumb State, South Carolina: Supports Trump’s Illegal, Lawless Firings Of Government Watchdogs]({% link _posts/2025/02/2025-02-25-SCAG-TAGA-SupportTrumpIllegalFirings.md %}). February 25, 2025.
+- [🚨 My Dumb State, South Carolina: Attorney General Alan Wilson Is Not Interested In Protecting South Carolinians' Personal Identifiable Information (PII)In the Biggest Data Breach of the US Treasury Central Payment System! 🚨]({% link _posts/2025/02/2025-02-21-SC-AG-SupportsDOGE-DataBreachOfPII.md %}). February 21, 2025
+- [My Dumb State, South Carolina: South Carolina's Attorney General, Alan Wilson, Wants To Amend The Fourteenth Amendment]({% link _posts/2025/02/2025-02-07-SCAGWants14thAmendmentAmended.md %}). February 7, 2025.
+- [My Dumb State, South Carolina: Attorney General, Alan Wilson, Weaponizes State Government To Persecute Trump's Perceived Enemy, Dr. Anthony Fauci, For His COVID-19 Pandemic Response]({% link _posts/2025/02/2025-02-06-SCAGWeaponizesStateGovernment.md %}). February 6, 2025.
+- [My Dumb State, South Carolina: Attorney General Alan Wilson & Trumpian Attorneys General Whine About New York Fine of Trump Organization For Thirty-Four Felony Civil Indictments of Falsification of Business Records For Financial Fraud, Insurance Fraud, & Property Tax Fraud]({% link _posts/2024-07-26-SCAG-NYCivilVerdictTrumpBusinessFraud.md %}). July 26, 2024.
+- [My Dumb State, South Carolina: Attorney General Alan Wilson & TAGA Sues Pennsylvania For Election Fraud Over 2020 Presidential Election]({% link _posts/2024/07/2024-07-26-SCAG-NYCivilVerdictTrumpBusinessFraud.md %}). July 
 
 #### Attorneys General
 
@@ -363,8 +373,8 @@ Put the 6 numbers in your phone (all under P – Politician.) An example is Poli
 | [U.S. Department of Agriculture](https://www.usda.gov/) | The Department of Agriculture (USDA) provides leadership on food, agriculture, natural resources, and related issues. | Investigating Neuralink excessive use of animals used for product testing. | Inspector General fired |
 | [Consumer Financial Protection Bureau](https://www.consumerfinance.gov/) | The Consumer Financial Protection Bureau (CFPB) helps consumers by providing educational materials and accepting complaints. It supervises banks, lenders, and large non-bank entities, such as credit reporting agencies and debt collection companies. The Bureau also works to make credit card, mortgage, and other loan disclosures clearer, so consumers can understand their rights and responsibilities. | Investigating Tesla |  |
 | [Department of Justice](https://www.justice.gov/) | The Department of Justice (DOJ) enforces federal laws, seeks just punishment for the guilty, and ensures the fair and impartial administration of justice. |
-| [Department of Labor](https://www.dol.gov/) | The Department of Labor (DOL) administers federal labor laws to guarantee workers' rights to fair, safe, and healthy working conditions, including minimum hourly wage and overtime pay, protection against employment discrimination, and unemployment insurance. |
-| [Environmental Protection Agency](https://www.epa.gov/) | The Environmental Protection Agency (EPA) protects people and the environment from significant health risks, sponsors and conducts research, and develops and enforces environmental regulations. |
+| [Department of Labor](https://www.dol.gov/) | The Department of Labor (DOL) administers federal labor laws to guarantee workers' rights to fair, safe, and healthy working conditions, including minimum hourly wage and overtime pay, protection against employment discrimination, and unemployment insurance. | Investigating Musk's companies for unfair labor practices, discrimination |
+| [Environmental Protection Agency](https://www.epa.gov/) | The Environmental Protection Agency (EPA) protects people and the environment from significant health risks, sponsors and conducts research, and develops and enforces environmental regulations. | Fined Tesla, SpaceX |
 | [Federal Aviation Administration](https://www.faa.gov/) | The Federal Aviation Administration (FAA) works to ensure that air travel is safe. |
 | [Federal Emergency Management Agency](https://www.fema.gov/) | The Federal Emergency Management Agency (FEMA) supports citizens and emergency personnel to build, sustain, and improve the nation's capability to prepare for, protect against, respond to, recover from, and mitigate all hazards. |
 | [Federal Communications Commission](https://www.fcc.gov/) | The Federal Communications Commission (FCC) regulates interstate and international communications through cable, radio, television, satellite and wire. The goal of the Commission is to promote connectivity and ensure a robust and competitive market. |
