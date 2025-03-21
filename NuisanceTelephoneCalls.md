@@ -2,7 +2,7 @@
 layout: page
 tags: [assholes, Donald Trump, Elon Musk, Betsy DeVos, MAGA billionaires, billionaire, Trump donors, Republican PAC, Make America Great Again (MAGA)]
 categories: [Telephone Numbers]
-date: 2025-03-20 7:26 PM
+date: 2025-03-21 7:10 PM
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description: 
@@ -18,6 +18,22 @@ The telephone numbers below have called and there is an empty person on the othe
 
 | Telephone Number | Location | Date Time[^11] | Caller | Social Media |
 |---|---|---|---|---|
+| <a href="tel:+18035250868">+1 (803) 525-0868</a> | SC. York | 2025-03-21 06:18 PM | - | |
+| <a href="tel:+18033395401">+1 (803) 339-5401</a> | SC. S Carolina | 2025-03-21 06:02 PM | - | |
+| <a href="tel:+18038739051">+1 (803) 873-9051</a> | SC. Columbia | 2025-03-21 05:04 PM | - | |
+| <a href="tel:+18039022430">+1 (803) 902-2430</a> | SC. York | 2025-03-21 04:59 PM | Potential Spam | |
+| <a href="tel:+18038596912">+1 (803) 859-6912</a> | SC. Beech Island | 2025-03-21 04:22 PM | - | |
+| <a href="tel:+18037567655">+1 (803) 756-7655</a> | SC. Columbia | 2025-03-21 04:17 PM | - | |
+| <a href="tel:+18032660970">+1 (803) 266-0970</a> | SC. Williston | 2025-03-21 04:08 PM | - | |
+| <a href="tel:+18032660970">+1 (803) 266-0970</a> | SC. Williston | 2025-03-21 04:07 PM | - | |
+| <a href="tel:+18039454906">+1 (803) 945-4906</a> | SC. Little Mountain | 2025-03-21 02:58 PM | Potential Spam | |
+| <a href="tel:+18039554624">+1 (803) 955-4624</a> | SC. | 2025-03-21 01:58 PM | - | |
+| <a href="tel:+18039613758">+1 (803) 961-3758</a> | SC. Waejy Ihshj | 2025-03-21 01:12 PM | Potential Spam | |
+| <a href="tel:+18033172006">+1 (803) 317-2006</a> | SC. Batesburg | 2025-03-21 12:03 PM | Potential Spam | |
+| <a href="tel:+18032918520">+1 (803) 291-8520</a> | SC. Salley | 2025-03-21 11:51 AM | Potential Spam | |
+| <a href="tel:+18038484570">+1 (803) 848-4570</a> | SC. Sumter | 2025-03-21 11:19 AM | - | |
+| <a href="tel:+18033997841">+1 (803) 399-7841</a> | SC. Lexington | 2025-03-21 10:53 AM | Potential Spam | |
+| <a href="tel:+18038121307">+1 (803) 812-1307</a> | SC. | 2025-03-21 10:00 AM | Potential Spam | |
 | <a href="tel:+18036209687">+1 (803) 620-9687</a> | SC. York | 2025-03-20 06:40 PM | - | |
 | <a href="tel:+18036185363">+1 (803) 618-5363</a> | SC. Johnston | 2025-03-20 05:57 PM ¤¤ | - | |
 | <a href="tel:+18039530206">+1 (803) 953-0206</a> | SC. | 2025-03-20 05:28 PM | Potential Spam | |
