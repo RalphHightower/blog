@@ -38,6 +38,9 @@ gem 'jekyll-sitemap', '~> 1.4'
 # gem 'jekyll-tagging', '~> 1.1'
 gem 'jekyll-titles-from-headings', '~> 0.5.3'
 
+# Nokogiri updates packaged libxslt to v1.1.43 to resolve multiple CVEs
+gem 'nokogiri', '~> 1.18', '>= 1.18.5'
+
 # { 2025-01-11 @RalphHightower jekyll_ai_related_posts
 # gem 'activerecord', '~> 7.2', '>= 7.2.2.1'
 # gem 'activerecord', '~> 8.0', '>= 8.0.1'
