@@ -89,36 +89,19 @@ The [Federal Economic Statistics Advisory Committee (FESAC)](https://apps.bea.go
 ### Federal Agencies In Article 
 
 | Federal Agency | Functions |
-|---|
-| [U.S. Department of Commerce](https://www.commerce.gov/) | The Department of Commerce (DOC) works with businesses, universities, communities, and the Nation’s workers to promote job creation, economic growth, sustainable development, and improved standards of living for Americans. |
-| [Consumer Financial Protection Bureau](https://www.consumerfinance.gov/) | The Consumer Financial Protection Bureau (CFPB) helps consumers by providing educational materials and accepting complaints. It supervises banks, lenders, and large non-bank entities, such as credit reporting agencies and debt collection companies. The Bureau also works to make credit card, mortgage, and other loan disclosures clearer, so consumers can understand their rights and responsibilities. |
-| [Census Bureau](https://www.census.gov/) | The U.S. Census Bureau provides data about the nation's people and economy. 
-| [Bureau of Economic Analysis](https://www.bea.gov/) | The Bureau of Economic Analysis (BEA) produces economic accounts statistics that enable government and business decision makers, researchers, and the American public to follow and understand the performance of the Nation's economy. |
-| [Department of Labor](https://www.dol.gov/) | The Department of Labor (DOL) administers federal labor laws to guarantee workers' rights to fair, safe, and healthy working conditions, including minimum hourly wage and overtime pay, protection against employment discrimination, and unemployment insurance. |
-| [Bureau of Labor Statistics](https://stats.bls.gov/) | The Bureau of Labor Statistics (BLS) measures labor market activity, working conditions, and price changes in the economy. |
-| [Department of the Treasury](https://home.treasury.gov/) | The Department of the Treasury manages federal finances by collecting taxes and paying bills and by managing currency, government accounts and public debt. The Department of the Treasury also enforces finance and tax laws. |
+|---|---|
+| [Bureau of Economic Analysis (BEA)](https://www.bea.gov/) | The [Bureau of Economic Analysis (BEA)](https://www.bea.gov/) produces economic accounts statistics that enable government and business decision makers, researchers, and the American public to follow and understand the performance of the Nation's economy. |
+| [Bureau of Labor Statistics (BLS)](https://stats.bls.gov/) | The [Bureau of Labor Statistics (BLS)](https://stats.bls.gov/) measures labor market activity, working conditions, and price changes in the economy. |
+| [Census Bureau](https://www.census.gov/) | The >U.S. Census Bureau](https://www.census.gov/) provides data about the nation's people and economy. 
+| [Consumer Financial Protection Bureau (CFPB)](https://www.consumerfinance.gov/) | The [Consumer Financial Protection Bureau (CFPB)](https://www.consumerfinance.gov/) helps consumers by providing educational materials and accepting complaints. It supervises banks, lenders, and large non-bank entities, such as credit reporting agencies and debt collection companies. The Bureau also works to make credit card, mortgage, and other loan disclosures clearer, so consumers can understand their rights and responsibilities. |
 | [Council of Economic Advisers](https://www.whitehouse.gov/cea) | The Council of Economic Advisers (CEA) gives the president advice on domestic and international economic policy. |
+| [U.S. Department of Commerce (DOC)](https://www.commerce.gov/) | The [Department of Commerce (DOC)](https://www.commerce.gov/) works with businesses, universities, communities, and the Nation’s workers to promote job creation, economic growth, sustainable development, and improved standards of living for Americans. |
+| [Department of Labor](https://www.dol.gov/) | The [Department of Labor (DOL)](https://www.dol.gov/) administers federal labor laws to guarantee workers' rights to fair, safe, and healthy working conditions, including minimum hourly wage and overtime pay, protection against employment discrimination, and unemployment insurance. |
+| [Department of the Treasury](https://home.treasury.gov/) | The Department of the Treasury manages federal finances by collecting taxes and paying bills and by managing currency, government accounts and public debt. The Department of the Treasury also enforces finance and tax laws. |
+| [Federal Economic Statistics Advisory Committee (FESAC)](https://apps.bea.gov/) | The [Federal Economic Statistics Advisory Committee (FESAC)](https://apps.bea.gov/) advises the Directors of the [Department of Commerce's](https://www.commerce.gov/) statistical agencies, the [Bureau of Economic Analysis (BEA)](https://www.bea.gov/) and the [U.S. Census Bureau](https://www.census.gov/), and the Commissioner of the [Department of Labor's](https://www.dol.gov/) [Bureau of Labor Statistics (BLS)](https://www.bls.gov/), on statistical methodology and other technical matters related to the collection, tabulation, and analysis of federal economic statistics. |
 | [National Institutes of Health](https://www.nih.gov/) | The National Institutes of Health (NIH) is the primary Federal agency for conducting and supporting medical research. |
 | [National Science Foundation](http://www.nsf.gov/) | The National Science Foundation (NSF) supports research and education across all fields of science and technology, primarily through grants. |
 | [Federal Reserve System](https://www.federalreserve.gov/) | The Federal Reserve is the central bank of the United States. It formulates and administers credit and monetary policy. |
-| [Board](https://www.federalreserve.gov/aboutthefed/default.htm) |
-| [01-Boston](https://www.federalreserve.gov/aboutthefed/federal-reserve-system-boston.htm) |
-| [02-New York](https://www.federalreserve.gov/aboutthefed/federal-reserve-system-new-york.htm) |
-| [03-Philadelphia](https://www.federalreserve.gov/aboutthefed/federal-reserve-system-philadelphia.htm) |
-| [04-Cleveland](https://www.federalreserve.gov/aboutthefed/federal-reserve-system-cleveland.htm) |
-| [05-Richmond](https://www.federalreserve.gov/aboutthefed/federal-reserve-system-richmond.htm) |
-| [06-Atlanta](https://www.federalreserve.gov/aboutthefed/federal-reserve-system-atlanta.htm) |
-| [07-Chicago](https://www.federalreserve.gov/aboutthefed/federal-reserve-system-chicago.htm) |
-| [08-St. Louis](https://www.federalreserve.gov/aboutthefed/federal-reserve-system-st-louis.htm) |
-| [09-Minneapolis](https://www.federalreserve.gov/aboutthefed/federal-reserve-system-minneapolis.htm) |
-| [10-Kansas City](https://www.federalreserve.gov/aboutthefed/federal-reserve-system-kansas-city.htm) |
-| [11-Dallas](https://www.federalreserve.gov/aboutthefed/federal-reserve-system-dallas.htm) |
-| [12-San Francisco](https://www.federalreserve.gov/aboutthefed/federal-reserve-system-san-francisco.htm) |
- |
- | [Division of Research and Statistics](https://www.federalreserve.gov/aboutthefed/officialstaff.htm#12362) |
-| [Bureau of Labor Statistics (BLS)](https://stats.bls.gov/) | The Bureau of Labor Statistics (BLS) measures labor market qactivity, working conditions, and price changes in the economy. |
-| [Bureau of Economic Analysis (BEA)](https://www.bea.gov/) | The [Bureau of Economic Analysis (BEA)](https://www.bea.gov/) produces economic accounts statistics that enable government and business decision makers, researchers, and the American public to follow and understand the performance of the Nation's economy. |
-| [Federal Economic Statistics Advisory Committee (FESAC)](https://apps.bea.gov/)
 
 - [中国政府网_中央人民政府门户网站](https://www.gov.cn/)
 - [The State Council of the People's Republic of China](https://english.www.gov.cn/)
