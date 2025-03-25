@@ -126,7 +126,7 @@ If [Trump’s](https://www.whitehouse.gov/administration/donald-j-trump/) confro
 - [The State Council of the People's Republic of China](https://english.www.gov.cn/)
 - [中国政府网_中央人民政府门户网站](https://www.gov.cn/)
 - [Vladimir Putin](http://kremlin.ru/)
-- [Naenara Democratic People's Republic of Korea](http://naenara.com.kp/main/index/en/first)
+- [Naenara Democratic People's Republic of Korea](http://naenara.com.kp/)
 - [Russia](http://government.ru/)
 - [North Atlantic Treaty Organization (NATO)](https://www.nato.int/)
 - [European Union (EU)](https://commission.europa.eu/)
