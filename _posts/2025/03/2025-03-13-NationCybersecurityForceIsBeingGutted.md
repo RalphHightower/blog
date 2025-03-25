@@ -22,8 +22,7 @@ Further Reading
 - [How a Right-Wing Controversy Could Sabotage US Election Security / WIRED](https://www.wired.com/story/gop-secretaries-of-state-cisa-controversy/). Eric Geller <br /> Security. Feb 26, 2024 8:00 AM
 - [DOGE Now Has Access to the Top US Cybersecurity Agency / WIRED](https://www.wired.com/story/doge-cisa-coristine-cybersecurity/#intcid=_wired-article-bottom-recirc_26a14984-b592-477a-85b6-7bc7de3bdeda_roberta-similarity1). Kim Zetter <br /> Security. <br /> Feb 19, 2025 8:59 PM
 - [A Log4J Vulnerability Has Set the Internet 'On Fire' / WIRED](https://www.wired.com/story/log4j-flaw-hacking-internet/). Lily Hay Newman <br /> Security Dec 10, 2021 2:54 PM
-- [Elon Musk’s DOGE Is Being Sued Under the Privacy Act: What to Know / WIRED](https://www.wired.com/story/privacy-act-doge-lawsuits/)<b
-- r />Eric Geller<br /> Security. <br /> Feb 18, 2025 4:50 PM
+- [Elon Musk’s DOGE Is Being Sued Under the Privacy Act: What to Know / WIRED](https://www.wired.com/story/privacy-act-doge-lawsuits/)<br />Eric Geller<br /> Security. <br /> Feb 18, 2025 4:50 PM
 - [On May 7, 2021, Colonial Pipeline ransomware attack](https://en.wikipedia.org/wiki/Colonial_Pipeline_ransomware_attack?wprov=sfla1)
 
 ## [Cybersecurity and Infrastructure Security Agency](https://www.cisa.gov/)
@@ -126,7 +125,7 @@ If [Trump’s](https://www.whitehouse.gov/administration/donald-j-trump/) confro
 - [The State Council of the People's Republic of China](https://english.www.gov.cn/)
 - [中国政府网_中央人民政府门户网站](https://www.gov.cn/)
 - [Vladimir Putin](http://kremlin.ru/)
-- [Naenara Democratic People's Republic of Korea](http://naenara.com.kp/main/index/en/first)
+- [Naenara Democratic People's Republic of Korea](http://naenara.com.kp/)
 - [Russia](http://government.ru/)
 - [North Atlantic Treaty Organization (NATO)](https://www.nato.int/)
 - [European Union (EU)](https://commission.europa.eu/)
