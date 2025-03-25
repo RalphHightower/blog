@@ -99,13 +99,13 @@ The [Federal Economic Statistics Advisory Committee (FESAC)](https://apps.bea.go
 | [Department of Labor](https://www.dol.gov/) | The [Department of Labor (DOL)](https://www.dol.gov/) administers federal labor laws to guarantee workers' rights to fair, safe, and healthy working conditions, including minimum hourly wage and overtime pay, protection against employment discrimination, and unemployment insurance. |
 | [Department of the Treasury](https://home.treasury.gov/) | The Department of the Treasury manages federal finances by collecting taxes and paying bills and by managing currency, government accounts and public debt. The Department of the Treasury also enforces finance and tax laws. |
 | [Federal Economic Statistics Advisory Committee (FESAC)](https://apps.bea.gov/) | The [Federal Economic Statistics Advisory Committee (FESAC)](https://apps.bea.gov/) advises the Directors of the [Department of Commerce's](https://www.commerce.gov/) statistical agencies, the [Bureau of Economic Analysis (BEA)](https://www.bea.gov/) and the [U.S. Census Bureau](https://www.census.gov/), and the Commissioner of the [Department of Labor's](https://www.dol.gov/) [Bureau of Labor Statistics (BLS)](https://www.bls.gov/), on statistical methodology and other technical matters related to the collection, tabulation, and analysis of federal economic statistics. |
-| [National Institutes of Health](https://www.nih.gov/) | The National Institutes of Health (NIH) is the primary Federal agency for conducting and supporting medical research. |
-| [National Science Foundation](http://www.nsf.gov/) | The National Science Foundation (NSF) supports research and education across all fields of science and technology, primarily through grants. |
-| [Federal Reserve System](https://www.federalreserve.gov/) | The Federal Reserve is the central bank of the United States. It formulates and administers credit and monetary policy. |
+| [National Institutes of Health (NIH)](https://www.nih.gov/) | The [National Institutes of Health (NIH)](https://www.nih.gov/) is the primary Federal agency for conducting and supporting medical research. |
+| [National Science Foundation (NSF)](http://www.nsf.gov/) | The [National Science Foundation (NSF)](http://www.nsf.gov/) supports research and education across all fields of science and technology, primarily through grants. |
+| [Federal Reserve System](https://www.federalreserve.gov/) | The [Federal Reserve System](https://www.federalreserve.gov/) is the central bank of the United States. It formulates and administers credit and monetary policy. |
 
 - [中国政府网_中央人民政府门户网站](https://www.gov.cn/)
 - [The State Council of the People's Republic of China](https://english.www.gov.cn/)
-- [Home](https://hiringlab.co/)
+- [Hiring Lab](https://hiringlab.co/)
 - [AIG Insurance AIG US](https://www.aig.com/home)
 - [Economic Consulting & Strategy - Analysis Group](https://www.analysisgroup.com/)
 - [Apple](https://www.apple.com/)
