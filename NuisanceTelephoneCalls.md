@@ -2,7 +2,7 @@
 layout: page
 tags: [assholes, Donald Trump, Elon Musk, Betsy DeVos, MAGA billionaires, billionaire, Trump donors, Republican PAC, Make America Great Again (MAGA)]
 categories: [Telephone Numbers]
-date: 2025-03-22 8:14 PM
+date: 2025-03-24 8:33 PM
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description: 
@@ -18,6 +18,23 @@ The telephone numbers below have called and there is an empty person on the othe
 
 | Telephone Number | Location | Date Time[^11] | Caller | Social Media |
 |---|---|---|---|---|
+| <a href="tel:+18038365407">+1 (803) 836-5407</a> | SC. Hickory Grove | 2025-03-24 06:10 PM | | |
+| <a href="tel:+18038066459">+1 (803) 806-6459</a> | SC. | 2025-03-24 05:56 PM | | |
+| <a href="tel:+18038833951">+1 (803) 883-3951</a> | SC. Sumter | 2025-03-24 05:33 PM | Potential Spam | |
+| <a href="tel:+18034309664">+1 (803) 430-9664</a> | SC. Johnston | 2025-03-24 05:00 PM | Potential Spam | |
+| <a href="tel:+18037205305">+1 (803) 720-5305</a> | SC. Sumter | 2025-03-24 04:56 PM | | |
+| <a href="tel:+18039305304">+1 (803) 930-5304</a> | SC. | 2025-03-24 04:22 PM | Potential Spam | |
+| <a href="tel:+18039394516">+1 (803) 939-4516</a> | SC. Columbia | 2025-03-24 03:57 PM | Lexington Med Ctr (Fax Line) | |
+| <a href="tel:+18036313084">+1 (803) 631-3084</a> | SC. Fort Mill | 2025-03-24 03:16 PM | | |
+| <a href="tel:+18032201586">+1 (803) 220-1586</a> | SC. Aiken | 2025-03-24 02:44 PM | Potential Spam | |
+| <a href="tel:+18033021113">+1 (803) 302-1113</a> | SC North Augusta | 2025-03-24 01:28 PM | Potential Spam | |
+| <a href="tel:+18036583164">+1 (803) 658-3164</a> | SC. Hickory Grove | 2025-03-24 01:11 PM | | |
+| <a href="tel:+18039715809">+1 (803) 971-5809</a> | SC. Holly Hill | 2025-03-24 12:47 PM | | |
+| <a href="tel:+18032241339">+1 (803) 224-1339</a> | SC. | 2025-03-24 11:43 AM | | |
+| <a href="tel:+18034577744">+1 (803) 457-7744</a> | SC. Columbia | 2025-03-24 10:50 AM | | |
+| <a href="tel:+18035852857">+1 (803) 585-2857</a> | SC. Orangeburg | 2025-03-24 10:34 AM | | |
+| <a href="tel:+18037415457">+1 (803) 741-5457</a> | SC. Columbia | 2025-03-24 09:10 AM ¤¤ | | |
+| <a href="tel:+18037415457">+1 (803) 741-5457</a> | SC. Columbia | 2025-03-24 09:08 AM | | |
 | <a href="tel:+18034081686">+1 (803) 408-1686</a> | SC. Elgin | 2025-03-22 2:27 PM | - | |
 | <a href="tel:+18035250868">+1 (803) 525-0868</a> | SC. York | 2025-03-21 06:18 PM | - | |
 | <a href="tel:+18033395401">+1 (803) 339-5401</a> | SC. S Carolina | 2025-03-21 06:02 PM | - | |
