@@ -192,7 +192,7 @@ In March, the company applied to dump close to 150,000 gallons of wastewater int
     3. **[Federal Communications Commission (FCC)](https://www.fcc.gov/)**: Regulates communications and broadcasting⁴.
     4. **[Internal Revenue Service (IRS)](https;//www.irs.gov/)**: No person or company is exempt.
     5. **[Department of Labor (DOL)](https://www.dol.gov/)**: Regulates fiduciary responsibilities and retirement plans³.
-    6. **[Social Security Administration](https://www.ssa.gov/)**: Runs the Social Security retirement, survivors, and disability insurance programs.
+    6. **[Social
     7. **[Equal Employment Opportunity Commission](https://www.eeoc.gov/)**: The Equal Employment Opportunity Commission (EEOC) enforces laws that make discrimination illegal in the workplace. The commission oversees all types of work situations including hiring, firing, promotions, harassment, training, wages, and benefits.
 
 | Agency | Purpose | Reasons | Outcome |

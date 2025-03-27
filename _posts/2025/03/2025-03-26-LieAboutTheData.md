@@ -1,0 +1,111 @@
+---
+layout: post
+tags: []
+categories: []
+date: 2025-03-26 1:54 PM
+excerpt: ''
+#image: 'BASEURL/assets/blog/img/.png'
+#description:
+#permalink:
+title: 'title'
+---
+
+- [Census Bureau under Trump cuts loose expert advisers who work for free / AP News](https://apnews.com/article/census-bureau-commerce-department-howard-lutnick-3a56003b790aedce6e6c8ddd7c6b6943). By  MIKE SCHNEIDER. Updated 3:27 PM EDT, March 4, 2025
+
+## [How the Trump administration’s attack on census data and official statistics threatens democracy](https://www.msnbc.com/opinion/msnbc-opinion/trump-musk-census-gdp-social-security-lutnick-rcna197943)
+
+> *Targets include the census and gross domestic product.*
+
+March 25, 2025, 4:10 PM EDT
+By [Philip Rocco](https://www.marquette.edu/political-science/directory/philip-rocco.php), associate professor of political science at [Marquette University](https://www.marquette.edu/)
+
+It should come as no surprise that a [president](https://www.donaldjtrump.com/) whose [first term](https://trumpwhitehouse.archives.gov/) began with [a dispute over the size of the crowd at his inauguration](https://www.msnbc.com/rachel-maddow-show/maddowblog/lying-about-crowd-sizes-team-trump-ends-how-it-began-n1247874) would begin [his second term](https://www.whitehouse.gov/administration/) with a war over numbers. Yet, over the last few months, the [Trump administration](https://www.whitehouse.gov/administration/) has unleashed a wave of attacks on official statistics whose scope is far wider than those of his [first term](https://trumpwhitehouse.archives.gov/). Data can’t defend itself, but fights from [Trump’s first administration](https://trumpwhitehouse.archives.gov/) offer a road map for resistance.
+
+Since the day of [Donald Trump](https://www.donaldjtrump.com/)’s inauguration, his [administration](https://www.whitehouse.gov/administration/) has undertaken multiple actions [undermining the integrity](https://apnews.com/article/census-bureau-commerce-department-howard-lutnick-3a56003b790aedce6e6c8ddd7c6b6943) of [census figures](https://www.npr.org/2025/01/20/nx-s1-5268958/trump-order-census-citizenship-question-apportionment). First, the [president](https://www.whitehouse.gov/administration/donald-j-trump/) issued an [executive order revoking](https://www.whitehouse.gov/presidential-actions/2025/01/initial-rescissions-of-harmful-executive-orders-and-actions/) a [Biden-era](https://www.federalregister.gov/documents/2021/01/25/2021-01755/ensuring-a-lawful-and-accurate-enumeration-and-apportionment-pursuant-to-the-decennial-census) order affirming the long-standing precedent of counting noncitizens in the census. The [new administration](https://www.whitehouse.gov/administration/) began [taking down data from the bureau’s website](https://www.npr.org/2025/02/12/nx-s1-5289329/us-census-bureau-survey-data). Earlier this month, [Commerce Secretary](https://www.commerce.gov/) [Howard Lutnick](https://www.commerce.gov/about/leadership/howard-lutnick) [disbanded several outside advisory committees](https://apnews.com/article/census-bureau-commerce-department-howard-lutnick-3a56003b790aedce6e6c8ddd7c6b6943) that provide technical expertise to the [bureau](https://www.census.gov/). The [administration](https://www.whitehouse.gov/administration/) enacted hiring freezes that will [halt census operations.](https://www.opb.org/article/2025/03/13/federal-hiring-freeze-derailed-these-towns-special-census/).
+
+The [census](https://www.census.gov/) isn’t the only data in the administration’s sights. [Lutnick](https://www.linkedin.com/in/howardwlutnick/) also suggested that the [government](https://www.whitehouse.gov/administration/) may separate government spending from calculations of the [gross domestic product (GDP)](https://www.nytimes.com/2025/03/04/business/economy/gdp-data-lutnick-commerce-secretary.html)[^26]. That change, also supported by billionaire [Elon Musk](https://www.x.com/elonmusk/), [would conceal the negative economic effects](https://www.thenation.com/article/economy/trump-manipulate-economic-data-fesac/) of the [administration](https://www.whitehouse.gov/administration/)’s [gutting of federal agencies and programs](https://www.whitehouse.gov/fact-sheets/2025/02/fact-sheet-president-donald-j-trump-works-to-remake-americas-federal-workforce/).
+
+[^26]: [How Trump Plans to Manipulate US Economic Data to Gaslight the Public / The Nation](https://www.thenation.com/article/economy/trump-manipulate-economic-data-fesac/)
+
+> *Official statistics are the backbone of American democracy and a strong economy.*
+
+The [administration](https://www.whitehouse.gov/administration/)’s slash-and-burn approach is also [threatening data confidentiality protections.](https://www.nextgov.com/digital-government/2025/03/trump-pens-executive-order-pushing-agencies-share-data/403962/). Within the past week, [federal judges](https://www.uscourts.gov/) in two separate cases [have temporarily blocked](https://apnews.com/article/social-security-trump-administration-acfdd0d7a53b7e5a1b5105baa456c5d0) [Musk](https://x.com/elonmusk/)’s so-called [Department of Government Efficiency](https://www.doge.gov/) from [accessing people’s private data](https://apnews.com/article/doge-access-education-treasury-office-personnel-management-b925e2b6b6326dab1dffc49d6c6c2b58) at multiple government agencies, including the [Treasury Department](https://home.treasury.gov/) and the [Social Security Administration](https://www.ssa.gov/). Official statistics are the backbone of American [democracy](https://hdsr.mitpress.mit.edu/pub/1g1cbvkv/release/8) and a [strong economy](https://www.un-ilibrary.org/content/books/9789210451895s010-c002). [Census counts](https://www.census.gov/) affect not only how political representation is allocated in [Congress](https://www.congress.gov/), the [Electoral College](https://www.usa.gov/electoral-college) and state legislatures, but they also determine how trillions in federal aid flow to communities across the country. GDP calculations affect decisions made by investors, businesses, and policymakers.
+
+As for keeping the confidentiality of data, such protections are a bedrock commitment of both the [Social Security Administration](https://www.ssa.gov/) and the [Internal Revenue Service](https;//www.irs.gov/). In addition to protecting Americans’ sensitive data, confidentiality is also essential for maintaining the quality and integrity of federal data. [Research](https://www2.census.gov/programs-surveys/decennial/2020/program-management/pmr-materials/2019-02-01/5-cbams-survey-report-findings.pdf?) by the [Census Bureau](https://www.census.gov/) has found that confidentiality concerns — as well as low levels of trust in the [federal government](https://www.usa.gov/) more generally — remain a major barrier to participation in the [U.S. census](https://www.census.gov/), and thus to the accuracy of the data we use to allocate political representation and trillions in federal dollars.
+
+Manipulating federal statistics is more than an attack on democratic governance. It could have significant economic ramifications—including misallocations of capital, investment bubbles, or economic stagnation. Efforts to manipulate economic statistics could also have severe consequences for the U.S. credit rating, which affects the country’s borrowing costs, investor confidence, and global financial stability.This attempted conquest of data is not an inevitability, however. The [federal statistical system](www.bea.gov/) — while managed by executive branch agencies — belongs not to any single president or political party but to all of us. Stopping the assault on official statistics, as I document in my [forthcoming book on the 2020 census](https://kansaspress.ku.edu/9780700638765/), will require collective action beyond the Beltway.
+
+[Americans](https://www.usa.gov/) have a right — embedded in numerous sources of law and custom — to accurate official statistics free of manipulation. The Constitution charges [Congress](https://www.congress.gov/) with the responsibility of carrying out an “actual enumeration” of the entire U.S. population (not just citizens). And, over the last half-century, [Congress](https://www.congress.gov/) has passed laws that protect the confidentiality of responses to the census and other federal surveys.
+
+> *It took acts of resistance by civil servants to protect the 2020 census from political manipulation.*
+
+[Congress](https://www.congress.gov/) has also passed numerous pieces of legislation to insulate these decisions from political interference. The [Information Quality Act of 2000](https://www.cio.gov/handbook/it-laws/information-quality-act/), for example, not only requires [federal agencies](https://www.usa.gov/) to ensure and maximize the quality, objectivity, utility and integrity of statistical data, but also provides opportunities for public stakeholders to challenge flawed data. Lawmakers have given experts in the [executive branch](https://www.whitehouse.gov/administration/) discretion in determining methods for collecting official statistics, but these laws are complemented by internal policy directives that require agencies to follow professional standards — rather than political prerogatives — when analyzing and presenting official statistics. These protections are not self-executing, of course. As I document in the book, it took acts of resistance by civil servants to protect the [2020 census](https://www.census.gov/) from political manipulation, such as adding a citizenship question. Such manipulation would have reduced census participation in numerous states and cities. But, as [one Republican redistricting strategist put it](https://www.npr.org/2025/01/20/nx-s1-5268958/trump-order-census-citizenship-question-apportionment), the moves could engineer advantages in [Congress](https://www.congress.gov/) for “[Republicans](https://www.gop.com/) and non-Hispanic Whites.” Even simple acts from civil servants, such as keeping careful records and making clear arguments about the costs and consequences of adding a citizenship question to the questionnaire, had profound impacts on the [Trump administration](https://www.whitehouse.gov/administration/)’s ability to enact its agenda.
+
+At the same time, state and local governments and advocacy organizations also won important legal victories. These wins blocked the inclusion of a citizenship item on the [2020 questionnaire](https://www.census.gov/) and significantly slowed the [administration](https://www.whitehouse.gov/administration/)’s subsequent effort to remove undocumented people from [census counts](https://www.census.gov/) that determine the allocation of seats in [Congress](https://www.congress.gov/). Outside courtrooms, states, cities, and nonprofits ran ‘get out the count’ campaigns targeting undercounted communities. In a climate of disinformation and the chaos of the Covid pandemic, these networks of officials and community partners were vital to boosting census participation and safeguarding its integrity.
+
+Given the time-sensitive nature of [census operations](https://www.census.gov/), exposing fabricated administrative records to daylight and winding down the clock through these lawsuits proved to be just as important as actually prevailing in court. The legal battles over the [census](https://www.census.gov/) offer important lessons for investors and state and local governments who might be harmed by today’s efforts to manipulate GDP calculations.
+
+To be sure, merely repeating the same strategies that worked to defend the [2020 census](https://www.census.gov/) may not be enough this time. The current attack on official statistics arguably extends wider, goes deeper, and relies on a far more coherent plan in the form of the [voluminous Project 2025](https://www.project2025.org/). That playbook contemplates not merely restarting the assault on the [census](https://www.census.gov/) begun in the [2020 cycle](https://www.census.gov/), but also consolidating political control over the production of official statistics by merging all statistical agencies into a single bureau. Already, the [Trump team](https://www.whitehouse.gov/administration/) has shown far more resolve at hollowing out expertise at administrative agencies, clearing a path for statistical sabotage. The [administration](https://www.whitehouse.gov/administration/) can look to a [Supreme Court](https://www.supremecourt.gov/) which has shown an almost unparalleled deference to executive aggrandizement.
+
+Nevertheless, the battle over the [2020 census](https://www.census.gov/) offers several valuable lessons for the present moment. Most importantly, it suggests that official statistics — however vital they are to the American economy, democracy and the rule of law — will not save themselves. What counts, in the end, is our collective capacity to protect them. 
+
+Philip Rocco is an associate professor of political science at Marquette University and the author of Counting Like a State: How Intergovernmental Partnerships Shaped the 2020 US Census (University Press of Kansas, 2025).
+
+[2.9 Information Quality Act (2000) / CIO.GOV](https://www.cio.gov/handbook/it-laws/information-quality-act/):
+- 2.9 Information Quality Act (2000)<br />Section 515 of Public Law 106-554, known as the Information Quality Act, required the [OMB] to promulgate guidance to agencies ensuring the quality, objectivity, utility, and integrity of information (including statistical information) disseminated by Federal agencies. (OMB. Agency Information Quality Guidelines.) OMB's government-wide guidelines, published as interim final on September 28, 2001 (66 F.R. 49718) and finalized on February 22, 2002 (67 F.R. 8452) (Federal Register. Guidelines for Ensuring and Maximizing the Quality, Objectivity, Utility, and Integrity of Information Disseminated by Federal Agencies; Republication. 2/22/2002.), can be found on [Reginfo.gov]. Federal agencies were also required by Section 515 to publish their own agency specific guidelines no later than one year after OMB's guidelines.
+
+| Federal Agencies | Functions |
+|---|---|
+| [Bureau of Economic Analysis (BEA)](https://www.bea.gov/) | The [Bureau of Economic Analysis (BEA)](https://www.bea.gov/) produces economic accounts statistics that enable government and business decision makers, researchers, and the American public to follow and understand the performance of the Nation's economy. |
+| [Electoral College / USAGov](https://www.usa.gov/electoral-college) | The [Electoral College](https://www.usa.gov/electoral-college) decides who will be elected president and vice president of the U.S. Learn who is involved and how the process works. | |
+| [Census Bureau](https://www.census.gov/) |
+The U.S. Census Bureau provides data about the nation's people and economy. |
+| [U.S. Department of Commerce](https://www.commerce.gov/) | The Department of Commerce (DOC) works with businesses, universities, communities, and the Nation’s workers to promote job creation, economic growth, sustainable development, and improved standards of living for Americans. |
+| ~~[Federal Economic Statistics Advisory Committee (FESAC)](https://apps.bea.gov/)~~ | ~~The [Federal Economic Statistics Advisory Committee (FESAC)](https://apps.bea.gov/) advises the Directors of the [Department of Commerce's](https://www.commerce.gov/) statistical agencies, the [Bureau of Economic Analysis (BEA)](https://www.bea.gov/) and the [U.S. Census Bureau](https://www.census.gov/), and the Commissioner of the [Department of Labor's](https://www.dol.gov/) [Bureau of Labor Statistics (BLS)](https://www.bls.gov/), on statistical methodology and other technical matters related to the collection, tabulation, and analysis of federal economic statistics.~~ |
+| [Bureau of Labor Statistics (BLS)](https://stats.bls.gov/) | The [Bureau of Labor Statistics (BLS)](https://stats.bls.gov/) measures labor market activity, working conditions, and price changes in the economy. |
+| [Internal Revenue Service (IRS)](https://www.irs.gov/) | The [Internal Revenue Service (IRS)](https://www.irs.gov/) administers and enforces U.S. federal tax laws. |
+| [Federal Reserve System](https://www.federalreserve.gov/) | The [Federal Reserve](https://www.federalreserve.gov/) is the central bank of the United States. It formulates and administers credit and monetary policy. |
+| [Social Security Administration (SSA)](http://www.ssa.gov/) | The [Social Security Administration (SSA)](http://www.ssa.gov/) has two main functions. One is to assign Social Security numbers. The other is to run the Social Security retirement, survivors, and disability insurance programs. A third function is to run the Supplemental Security Income program, for people who are 65 or older, blind, or with a disability. |
+| [Supreme Court of the United States (SCOTUS)](http://www.supremecourtus.gov/) | The U.S. Supreme Court is the final appellate court of the U.S. judicial system. It has the power to review and overturn the decisions of lower courts. The Supreme Court also has original jurisdiction (being the first and final court to hear a case) in certain cases involving public officials, ambassadors, or disputes between states. |
+| [Department of the Treasury](https://home.treasury.gov/) | The Department of the Treasury manages federal finances by collecting taxes and paying bills and by managing currency, government accounts and public debt. The Department of the Treasury also enforces finance and tax laws. |
+| [RegInfo.gov](https://www.reginfo.gov/) | RegInfo.gov is a United States Government website produced by the Office of Management and Budget (OMB) and the General Services Administration (GSA). |
+
+- [Marquette University // Be The Difference](https://www.marquette.edu/)
+- [Political Science Major // Academics // Marquette University](https://www.marquette.edu/academics/majors/political-science.php)
+- [Philip Rocco // Political Science // Marquette University](https://www.marquette.edu/political-science/directory/philip-rocco.php)
+- [Howard W. Lutnick](https://www.linkedin.com/in/howardwlutnick/)
+- [Bureau of Economic Analysis (BEA)](https://www.bea.gov/)
+- [Electoral College](https://www.usa.gov/electoral-college)
+- [Census Bureau](https://www.census.gov/)
+- [Center for Economic Studies (CES)](https://www.census.gov/ces)
+- [U.S. Department of Commerce (DOC)](https://www.commerce.gov/)
+- ~~[Federal Economic Statistics Advisory Committee (FESAC)](https://apps.bea.gov/)~~
+- [Federal Reserve System](https://www.federalreserve.gov/)
+- [Bureau of Labor Statistics (BLS)](https://stats.bls.gov/)
+- [Internal Revenue Service (IRS)](https://www.irs.gov/)
+- [Social Security Administration (SSA)](http://www.ssa.gov/)
+- [Supreme Court of the United States (SCOTUS)](http://www.supremecourtus.gov/)
+- [Department of the Treasury](https://home.treasury.gov/)
+- [RegInfo.gov](https://www.reginfo.gov/)
+- [2.9 Information Quality Act (2000) / CIO.GOV](https://www.cio.gov/handbook/it-laws/information-quality-act/)
+- [U.S. Bureau of Labor Statistics – JOLTS](https://www.bls.gov/jlt/#)
+- [Department of Commerce](https://www.commerce.gov/)
+- [Howard Lutnick / U.S. Department of Commerce](https://www.commerce.gov/about/leadership/howard-lutnick)
+- [Supreme Court of the United States](https://www.supremecourt.gov/)
+- [US Courts](https://www.uscourts.gov/)
+- [Congress](https://www.congress.gov/)
+- [House](https://www.house.gov/)
+- [Senate](https://www.senate.gov/)
+- [President Donald Trump (45)](https://trumpwhitehouse.archives.gov/)
+- [President Joe Biden](https://bidenwhitehouse.archives.gov/)
+- [Federal Register :: Ensuring a Lawful and Accurate Enumeration and Apportionment Pursuant to the Decennial Census](https://www.federalregister.gov/documents/2021/01/25/2021-01755/ensuring-a-lawful-and-accurate-enumeration-and-apportionment-pursuant-to-the-decennial-census)
+- [President of the United States of America (POTUS)](https://www.whitehouse.gov/)
+- [President Administration](https://www.whitehouse.gov/administration/)
+- [President Donald Trump (47)](https://www.whitehouse.gov/administration/donald-j-trump/)
+-  [Implementing The President's "Department of Government Efficiency" Workforce Optimization Initiative – The White House](https://www.whitehouse.gov/presidential-actions/2025/02/implementing-the-presidents-department-of-government-efficiency-workforce-optimization-initiative/). February 11, 2025
+-  [Fact Sheet: President Donald J. Trump Works to Remake America’s Federal Workforce – The White House](https://www.whitehouse.gov/fact-sheets/2025/02/fact-sheet-president-donald-j-trump-works-to-remake-americas-federal-workforce/). February 11, 2025
+-  [Establishing And Implementing The President’s “Department Of Government Efficiency”](https://www.whitehouse.gov/presidential-actions/2025/01/establishing-and-implementing-the-presidents-department-of-government-efficiency/). January 20, 2025
+-  [Hiring Freeze – The White House](https://www.whitehouse.gov/presidential-actions/2025/01/hiring-freeze/). January 20, 2025
+-  [Reforming The Federal Hiring Process And Restoring Merit To Government Service – The White House](https://www.whitehouse.gov/presidential-actions/2025/01/reforming-the-federal-hiring-process-and-restoring-merit-to-government-service/). January 20, 2025
+- [Initial Rescissions Of Harmful Executive Orders And Actions – The White House](https://www.whitehouse.gov/presidential-actions/2025/01/initial-rescissions-of-harmful-executive-orders-and-actions/). January 20, 2025
+- politics

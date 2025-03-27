@@ -2,7 +2,7 @@
 layout: page
 tags: [assholes, Donald Trump, Elon Musk, Betsy DeVos, MAGA billionaires, billionaire, Trump donors, Republican PAC, Make America Great Again (MAGA)]
 categories: [Telephone Numbers]
-date: 2025-03-25 7:14 PM
+date: 2025-03-26 7:33 PM
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description: 
@@ -18,6 +18,18 @@ The telephone numbers below have called and there is an empty person on the othe
 
 | Telephone Number | Location | Date Time[^11] | Caller | Social Media |
 |---|---|---|---|---|
+| <a href="tel:+18035647008">+1 (803) 564-7008</a> | SC. | 2025-03-26 06:10 PM | Davis Justin & | |
+| <a href="tel:+18039054306">+1 (803) 905-4306</a> | SC. Sumter | 2025-03-26 04:25 PM | Terrance Jenkins | |
+| <a href="tel:+18036750614">+1 (803) 675-0614</a> | SC. | 2025-03-26 03:57 PM | | |
+| <a href="tel:+18039417492">+1 (803) 941-7492</a> | SC. | 2025-03-26 03:49 PM | Herbert Crooms | |
+| <a href="tel:+18039109536">+1 (803) 910-9536</a> | SC. | 2025-03-26 03:16 PM ¤¤ | | |
+| <a href="tel:+18039109536">+1 (803) 910-9536</a> | SC. | 2025-03-26 03:15 PM | | |
+| <a href="tel:+18038360858">+1 (803) 836-0858</a> | SC. | 2025-03-26 02:07 PM | | |
+| <a href="tel:+18033280757">+1 (803) 328-0757</a> | SC. Rock Hill | 2025-03-26 01:18 PM | | |
+| <a href="tel:+18039617960">+1 (803) 961-7960</a> | SC. | 2025-03-26 12:13 PM | | |
+| <a href="tel:+18036217123">+1 (803) 621-7123</a> | SC. Barnwell | 2025-03-26 12:03 PM | | |
+| <a href="tel:+18039666821">+1 (803) 966-6821</a> | SC. Columbia | 2025-03-26 11:34 AM | | |
+| <a href="tel:+18036153808">+1 (803) 615-3808</a> | SC. Edgefield | 2025-03-26 11:29 AM | | |
 | <a href="tel:+18038680586">+1 (803) 868-0586</a> | SC. | 2025-03-25 06:32 PM | - | |
 | <a href="tel:+18038475262">+1 (803) 847-5262</a> | SC. Columbia | 2025-03-25 06:26 PM | Cust Svc | |
 | <a href="tel:+18038517387">+1 (803) 851-7387</a> | SC. Columbia | 2025-03-25 05:30 PM | - | |
