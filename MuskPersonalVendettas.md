@@ -99,7 +99,7 @@ In March, the company applied to dump close to 150,000 gallons of wastewater int
 
 #### [Starlink](https://www.starlink.com/)
 
-##### [Federal Communications Commission (FCC)](www.fcc.gov/)
+##### [Federal Communications Commission (FCC)](https://www.fcc.gov/)
 
 ##### [Federal Emergency Management Agency (FEMA)](https://www.fema.gov/)
 
@@ -107,11 +107,11 @@ In March, the company applied to dump close to 150,000 gallons of wastewater int
 
 #### [Tesla](https://www.tesla.com/)
 
-##### [Consumer Financial Protection Bureau (CFPB)](https:www cfpb.gov/)
+##### [Consumer Financial Protection Bureau (CFPB)](https://www.cfpb.gov/)
 
 ##### [Equal Employment Opportunity Commission (EEOC)](https://www.eeoc.gov/)
 
-##### [National Highway Traffic Safety Administration (NHTSA)](https://www.nhtsa gov/)
+##### [National Highway Traffic Safety Administration (NHTSA)](https://www.nhtsa.gov/)
 
 ##### [National Labor Relations Board (NLRB)](https://www.nlrb.gov/)
 
