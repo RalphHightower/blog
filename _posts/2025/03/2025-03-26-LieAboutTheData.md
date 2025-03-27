@@ -1,13 +1,13 @@
 ---
 layout: post
-tags: []
-categories: []
-date: 2025-03-26 1:54 PM
+tags: [MSNBC Marquette University, Political Science, Philip Rocco, Howard W. Lutnick, Bureau of Economic Analysis (BEA), Electoral College, Census Bureau, Center for Economic Studies (CES), U.S. Department of Commerce (DOC), Federal Economic Statistics Advisory Committee (FESAC), Federal Reserve System, Bureau of Labor Statistics (BLS), Internal Revenue Service (IRS), Social Security Administration (SSA), Supreme Court of the United States (SCOTUS), Department of the Treasury, pRegInfo.gov, 2.9 Information Quality Act (2000) / CIO.GOV, U.S. Bureau of Labor Statistics – JOLTS, Department of Commerce, Howard Lutnick, Supreme Court of the United States, US Courts, Congress, House, Senate, President Donald Trump (45), President Joe Biden, Federal Register :: Ensuring a Lawful and Accurate Enumeration and Apportionment Pursuant to the Decennial Census, President of the United States of America (POTUS), President Administration, President Donald Trump (47), Implementing The President’s “Department of Government Efficiency” Workforce Optimization Initiative – The White House. February 11 2025, Fact Sheet: President Donald J. Trump Works to Remake America’s Federal Workforce – The White House. February 11 2025, Establishing And Implementing The President’s “Department Of Government Efficiency”. January 20 2025, Hiring Freeze – The White House. January 20 2025, Reforming The Federal Hiring Process And Restoring Merit To Government Service – The White House. January 20 2025, Initial Rescissions Of Harmful Executive Orders And Actions – The White House. January 20 2025, politics]
+categories: [Donald Trump]
+date: 2025-03-26 9:30 PM
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: 'title'
+title: "Trump: Make Me Look Great! Lie About the Data, Even If There’s a Trumpcession"
 ---
 
 - [Census Bureau under Trump cuts loose expert advisers who work for free / AP News](https://apnews.com/article/census-bureau-commerce-department-howard-lutnick-3a56003b790aedce6e6c8ddd7c6b6943). By  MIKE SCHNEIDER. Updated 3:27 PM EDT, March 4, 2025
@@ -57,18 +57,17 @@ Philip Rocco is an associate professor of political science at Marquette Univers
 | Federal Agencies | Functions |
 |---|---|
 | [Bureau of Economic Analysis (BEA)](https://www.bea.gov/) | The [Bureau of Economic Analysis (BEA)](https://www.bea.gov/) produces economic accounts statistics that enable government and business decision makers, researchers, and the American public to follow and understand the performance of the Nation's economy. |
-| [Electoral College / USAGov](https://www.usa.gov/electoral-college) | The [Electoral College](https://www.usa.gov/electoral-college) decides who will be elected president and vice president of the U.S. Learn who is involved and how the process works. | |
-| [Census Bureau](https://www.census.gov/) |
-The U.S. Census Bureau provides data about the nation's people and economy. |
-| [U.S. Department of Commerce](https://www.commerce.gov/) | The Department of Commerce (DOC) works with businesses, universities, communities, and the Nation’s workers to promote job creation, economic growth, sustainable development, and improved standards of living for Americans. |
+| [Electoral College / USAGov](https://www.usa.gov/electoral-college) | The [Electoral College](https://www.usa.gov/electoral-college) decides who will be elected president and vice president of the U.S. Learn who is involved and how the process works. |
+| [Census Bureau](https://www.census.gov/) | The [Census Bureau](https://www.census.gov/) provides data about the nation's people and economy. |
+| [U.S. Department of Commerce (DOC)](https://www.commerce.gov/) | The [U.S. Department of Commerce (DOC)](https://www.commerce.gov/) works with businesses, universities, communities, and the Nation’s workers to promote job creation, economic growth, sustainable development, and improved standards of living for Americans. |
 | ~~[Federal Economic Statistics Advisory Committee (FESAC)](https://apps.bea.gov/)~~ | ~~The [Federal Economic Statistics Advisory Committee (FESAC)](https://apps.bea.gov/) advises the Directors of the [Department of Commerce's](https://www.commerce.gov/) statistical agencies, the [Bureau of Economic Analysis (BEA)](https://www.bea.gov/) and the [U.S. Census Bureau](https://www.census.gov/), and the Commissioner of the [Department of Labor's](https://www.dol.gov/) [Bureau of Labor Statistics (BLS)](https://www.bls.gov/), on statistical methodology and other technical matters related to the collection, tabulation, and analysis of federal economic statistics.~~ |
 | [Bureau of Labor Statistics (BLS)](https://stats.bls.gov/) | The [Bureau of Labor Statistics (BLS)](https://stats.bls.gov/) measures labor market activity, working conditions, and price changes in the economy. |
 | [Internal Revenue Service (IRS)](https://www.irs.gov/) | The [Internal Revenue Service (IRS)](https://www.irs.gov/) administers and enforces U.S. federal tax laws. |
 | [Federal Reserve System](https://www.federalreserve.gov/) | The [Federal Reserve](https://www.federalreserve.gov/) is the central bank of the United States. It formulates and administers credit and monetary policy. |
 | [Social Security Administration (SSA)](http://www.ssa.gov/) | The [Social Security Administration (SSA)](http://www.ssa.gov/) has two main functions. One is to assign Social Security numbers. The other is to run the Social Security retirement, survivors, and disability insurance programs. A third function is to run the Supplemental Security Income program, for people who are 65 or older, blind, or with a disability. |
-| [Supreme Court of the United States (SCOTUS)](http://www.supremecourtus.gov/) | The U.S. Supreme Court is the final appellate court of the U.S. judicial system. It has the power to review and overturn the decisions of lower courts. The Supreme Court also has original jurisdiction (being the first and final court to hear a case) in certain cases involving public officials, ambassadors, or disputes between states. |
-| [Department of the Treasury](https://home.treasury.gov/) | The Department of the Treasury manages federal finances by collecting taxes and paying bills and by managing currency, government accounts and public debt. The Department of the Treasury also enforces finance and tax laws. |
-| [RegInfo.gov](https://www.reginfo.gov/) | RegInfo.gov is a United States Government website produced by the Office of Management and Budget (OMB) and the General Services Administration (GSA). |
+| [Supreme Court of the United States (SCOTUS)](http://www.supremecourtus.gov/) | The [Supreme Court of the United States (SCOTUS)](http://www.supremecourtus.gov/) is the final appellate court of the U.S. judicial system. It has the power to review and overturn the decisions of lower courts. The Supreme Court also has original jurisdiction (being the first and final court to hear a case) in certain cases involving public officials, ambassadors, or disputes between states. |
+| [Department of the Treasury](https://home.treasury.gov/) | The [Department of the Treasury](https://home.treasury.gov/) manages federal finances by collecting taxes and paying bills and by managing currency, government accounts and public debt. The Department of the Treasury also enforces finance and tax laws. |
+| [Department of the Treasury](https://home.treasury.gov/) | RegInfo.gov is a United States Government website produced by the Office of Management and Budget (OMB) and the General Services Administration (GSA). |
 
 - [Marquette University // Be The Difference](https://www.marquette.edu/)
 - [Political Science Major // Academics // Marquette University](https://www.marquette.edu/academics/majors/political-science.php)
