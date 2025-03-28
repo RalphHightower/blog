@@ -176,7 +176,7 @@ Paul Winfree
 - [Frontline Policy](https://frontlinepolicy.com/)
 - [Gun owners foundation](https://foundation.gunowners.org/)
 - [The Heartland Institute](https://heartland.org/)
-- [the heritage foundation](https://www.heritage.org/)
+- [The Heritage Foundation](https://www.heritage.org/)
 - [Herzog](https://herzogfoundation.com/?gad_source=1&)
 - [The macarthur soc of west point grads](https://macarthursociety.org/)
 - [High school republicans national federation](https://www.hsreps.org/)

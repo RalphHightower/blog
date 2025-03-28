@@ -31,6 +31,12 @@ title: "Musk’s Personnel Vendettas With Federal Agencies"
 
 ##### [Texas Commission on Environmental Quality](https://www.tceq.texas.gov/)
 
+[Texas Commission on Environmental Quality](https://www.tceq.texas.gov/) Report:
+
+- [TBC - The Boring Company](https://www.tceq.texas.gov/downloads/agency/decisions/agendas/backup/2023/2023-1489-wq-e.pdf)
+
+##### News
+
 ###### [The Boring Company fined by TCEQ for pollution violations](https://www.mysanantonio.com/business/article/boring-company-tceq-fine-19523328.php)
 
 *Residents have been calling out pollution concerns for years.*
@@ -81,10 +87,6 @@ April 2023:
 
 In March, the company applied to dump close to 150,000 gallons of wastewater into the Colorado River until a new wastewater treatment plant is built in 2025, to widespread outcry. Bastrop County has also issued the Boring Co. a violation for an unpermitted septic system. These repeat violations are "serious enough to warrant an enforcement action," according to the TCEQ's website, in which TCEQ can enforce correction of the violations and seek penalties, either through an order issued by TCEQ commissioners or by referring the case to the Office of the Attorney General for litigation. No enforcement action has been scheduled yet.
 
-[Texas Commission on Environmental Quality](https://www.tceq.texas.gov/) Report:
-
-- [TBC - The Boring Company](https://www.tceq.texas.gov/downloads/agency/decisions/agendas/backup/2023/2023-1489-wq-e.pdf)
-
 #### [Neuralink](https://neuralink.com/)
 
 ##### [Food and Drug Administration (FDA)](https://www.fda.gov/)
@@ -98,6 +100,20 @@ In March, the company applied to dump close to 150,000 gallons of wastewater int
 ##### [Environmental Protection Agency (EPA)](https://www.epa.gov/)
 
 ##### [Federal Aviation Administration (FAA)](https://www.faa.gov/)
+
+###### Consequences / Fallout
+
+[Federal Aviation Administration (FAA)](https://www.faa.gov/) had no leadership at the time of the midair collision of a passenger jet and [Army](https://www.army.mil/) helicopter because [Elon Musk](https://www.x.com/elonmusk/) demanded the resignation of [FAA](https://www.faa.com/) administrator after [SpaceX](https://www.spacex.com/) was fined and ordered immediate halt to further Starship test launches after a midair rapid disassembly (it exploded), raining debris over the Turks and Caicos. 
+
+[NTSB Investigation of Midair Collision of American Airlines Passenger Airplane and Army Helicopter – DCA25MA108](https://www.ntsb.gov/investigations/Pages/DCA25MA108.aspx)
+
+Midair Collision [PSA Airlines]() [Bombardier]() [CRJ700]() Airplane and [Sikorsky]() [UH-60]() Military Helicopter. January 29, 2025.
+
+2 pilots, 2 flight attendants, 60 passengers on [American Airlines](https://aaa.aa.com/) flight 5342 on approach to [Ronald Reagan Washington National Airport - DCA](https://www.flyreagan.com/), 3 Army crew on "Blackhawk" helicopter perished in the Potomac River. There were no survivors.
+
+- [Congress questions the FAA, US Army and NTSB over deadly midair collision in DC / AP News](https://apnews.com/article/dc-plane-crash-congress-ntsb-faa-helicopter-e6cabb82fd788039e16ab2af84220712). By  JOSH FUNK. Updated 11:47 AM EDT, March 27, 2025
+- [Immediate Assessment of Aviation Safety – The White House](https://www.whitehouse.gov/presidential-actions/2025/01/immediate-assessment-of-aviation-safety/). January 30, 2025
+- [Keeping Americans Safe in Aviation – The White House](https://www.whitehouse.gov/presidential-actions/2025/01/keeping-americans-safe-in-aviation/). January 21, 2025
 
 ##### [National Aeronautics and Space Administration (NASA)](https://www.nasa.gov/)
 
@@ -126,6 +142,15 @@ In March, the company applied to dump close to 150,000 gallons of wastewater int
 ##### [National Labor Relations Board (NLRB)](https://www.nlrb.gov/)
 
 ##### [Securities and Exchange Commission (SEC)](https://www.sec.gov/)
+
+##### [Wisconsin]()
+
+- [Tesla's Wisconsin lawsuit, Elon Musk and Brad Schimel, explained](https://www.jsonline.com/story/news/politics/elections/2025/03/25/teslas-wisconsin-lawsuit-elon-musk-and-brad-schimel-explained/82639129007/)<br /> *What to know about Tesla's Wisconsin lawsuit, Elon Musk and Brad Schimel* <br />Alison Dirr, Jeff Bollier<br />Milwaukee Journal Sentinel. March 25, 2025
+- [Tesla suing over Wisconsin dealerships a big deal in high court race](https://wisconsinwatch.org/2025/03/wisconsin-musk-tesla-supreme-court-dealerships-schimel-crawford/)<br />by Todd Richmond / Associated Press<br />March 26th, 2025
+- [As Musk pours millions into Wisconsin Supreme Court race, Tesla files case that could reach justices - WPR](https://www.wpr.org/news/elon-musk-pac-millions-wisconsin-supreme-court-race-tesla-lawsuit)<br /> *Tesla is suing Wisconsin over a state decision that blocked it from opening dealerships* <br />By Joe Schulz. March 3, 2025
+- [Tesla is suing to open dealerships in Wisconsin. It's become a big deal in the Supreme Court race / AP News](https://apnews.com/article/tesla-musk-wisconsin-supreme-court-dealerships-101d7608d69dda61aeaf6ebee7903d2b)<br />By  TODD RICHMOND<br />Updated 2:40 PM EDT, March 26, 2025
+
+##### Overseas  / Germany 
 
 - during the construction of his Tesla Gigafactory Berlin-Brandenburg in Germany[^501].
 
@@ -192,7 +217,7 @@ In March, the company applied to dump close to 150,000 gallons of wastewater int
     3. **[Federal Communications Commission (FCC)](https://www.fcc.gov/)**: Regulates communications and broadcasting⁴.
     4. **[Internal Revenue Service (IRS)](https;//www.irs.gov/)**: No person or company is exempt.
     5. **[Department of Labor (DOL)](https://www.dol.gov/)**: Regulates fiduciary responsibilities and retirement plans³.
-    6. **[Social
+    6. **[Social Security Administration](https://www.ssa.gov/)**: Runs the Social Security retirement, survivors, and disability insurance programs.
     7. **[Equal Employment Opportunity Commission](https://www.eeoc.gov/)**: The Equal Employment Opportunity Commission (EEOC) enforces laws that make discrimination illegal in the workplace. The commission oversees all types of work situations including hiring, firing, promotions, harassment, training, wages, and benefits.
 
 | Agency | Purpose | Reasons | Outcome |
