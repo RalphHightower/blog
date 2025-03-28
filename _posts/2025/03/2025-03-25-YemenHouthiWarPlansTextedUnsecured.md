@@ -27,7 +27,92 @@ title: "Shit You Can’t Make Up: Yemen Houthi Strike Planning Held On Unsecured
 15. Dan Katz – [Treasury Department](https://home.treasury.gov/) Liaison (Selected by [Treasury](https://home.treasury.gov/) [Secretary Scott Bessent](https://home.treasury.gov/about/general-information/officials/scott-bessent) to represent Treasury in the group.)
 16. Jeffrey Goldberg (accidental) – Editor in Chief, [The Atlantic](https://www.theatlantic.com/)
 
-# [The Atlantic's Jeffrey Goldberg exposed a new national security low for Trump](https://www.msnbc.com/opinion/msnbc-opinion/trump-war-plans-leak-atlantic-group-text-hegseth-rcna197831)
+Trace Gallagher: Republicans are concerned with NPR’s ‘liberal bias’01:32
+Trace Gallagher: Republicans are concerned with NPR’s ‘liberal bias’
+Jasmine Crockett conceals the meaning of 'hot wheels': Gutfeld
+07:15
+Jasmine Crockett conceals the meaning of 'hot wheels': Gutfeld
+Joe Concha labels NPR CEO a ‘human Chernobyl’ over testimony on Capitol Hill
+06:49
+Joe Concha labels NPR CEO a ‘human Chernobyl’ over testimony on Capitol Hill
+Gutfeld: The media ‘outraged’ over Signal ‘messaging mess’ are the same media that covered up Biden’s decline
+11:18
+Gutfeld: The media ‘outraged’ over Signal ‘messaging mess’ are the same media that covered up Biden’s decline
+Can Congress put an end to activist judges?
+04:26
+Can Congress put an end to activist judges?
+Alina Habba: This is a distraction
+04:11
+Alina Habba: This is a distraction
+Dems are in 'no position' to lecture about national security: Mark Meadows
+06:41
+Dems are in 'no position' to lecture about national security: Mark Meadows
+The hysteria on the Left over Trump team chat leak is 'phony outrage,' Hannity argues
+10:21
+The hysteria on the Left over Trump team chat leak is 'phony outrage,' Hannity argues
+Jasmine Crockett is ‘a mess,’ ‘trying to act tough,’ says Brett Cooper
+06:55
+Jasmine Crockett is ‘a mess,’ ‘trying to act tough,’ says Brett Cooper
+Fani Willis and 'loverboy' caught at airport: 'Relationships like this make a difference in court'
+05:23
+Fani Willis and 'loverboy' caught at airport: 'Relationships like this make a difference in court'
+Lawmakers try to find ‘Common Ground’ on unleashing E15 fuel
+07:17
+Lawmakers try to find ‘Common Ground’ on unleashing E15 fuel
+NPR and PBS chiefs are 'squealing' at threat of pulled government funding, Charlie Hurt says
+06:15
+NPR and PBS chiefs are 'squealing' at threat of pulled government funding, Charlie Hurt says
+Dems are trying to ‘overblow’ Signal leak ‘mistake’, creating a ‘faux controversy,’ says GOP senator
+05:27
+Dems are trying to ‘overblow’ Signal leak ‘mistake’, creating a ‘faux controversy,’ says GOP senator
+Seen and Unseen: If PBS focused on what brings America together, it could keep running
+04:55
+Seen and Unseen: If PBS focused on what brings America together, it could keep running
+‘Libs’ are 'fussing' over who was on a text chain, says Sen. Josh Hawley
+03:46
+‘Libs’ are 'fussing' over who was on a text chain, says Sen. Josh Hawley
+Is Trump going to let Elon Musk DOGE NPR?: Watters
+10:44
+Is Trump going to let Elon Musk DOGE NPR?: Watters
+Delicate deal: Skepticism grows over Russia and Ukraine's ceasefire deal after overnight strikes
+02:13
+Delicate deal: Skepticism grows over Russia and Ukraine's ceasefire deal after overnight strikes
+Laura: The Atlantic views MAGA and Trump as the real villains
+09:31
+Laura: The Atlantic views MAGA and Trump as the real villains
+DHS Secretary Noem warns illegal aliens to not come to US
+00:32
+DHS Secretary Noem warns illegal aliens to not come to US
+Media coverage of Signal chat leak is all a 'witch hunt,' Trump says
+04:10
+Media coverage of Signal chat leak is all a 'witch hunt,' Trump says
+
+
+Pentagon
+Atlantic reporter publishes more texts about attack on Houthi targets
+Vice President JD Vance says The Atlantic 'oversold' the messages they had
+Greg Norman By Greg Norman Fox News
+Published March 26, 2025 8:55am EDT | Updated March 26, 2025 9:50am EDT
+Facebook
+Twitter
+Flipboard
+Comments
+Print
+Email
+
+The Atlantic releases new Hegseth messages from leaked Signal chat
+Fox News' Peter Doocy reports the latest on Signal messages between Trump officials mistakenly sent to reporter Jeffrey Goldberg.
+
+The Atlantic published Wednesday what it described as the "attack plans" at the center of a Signal text chain leak involving senior officials in the Trump administration.
+
+
+Secretary of Defense Pete Hegseth and national security advisor Mike Waltz have faced calls to resign following revelations that the outlet's editor-in-chief Jeffrey Goldberg was inadvertently added to a private group chat earlier this month in which Hegseth, Waltz, Vice President JD Vance and other top administration officials reportedly discussed impending airstrikes on Yemen's Houthi rebels. Hegseth has said "nobody was texting war plans" and Director of National Intelligence Tulsi Gabbard vowed during a Senate Intelligence Committee hearing Tuesday that there was "no classified material" in the messages.
+
+"TEAM UPDATE: TIME NOW (1144et): Weather is FAVORABLE. Just CONFIRMED w/CENTCOM we are a GO for mission launch. 1215et: F-18s LAUNCH (1st strike package). 1345: ‘Trigger Based’ F-18 1st Strike Window Starts (Target Terrorist is @ his Known Location so SHOULD BE ON TIME – also, Strike Drones Launch (MQ-9s)," Hegseth apparently wrote in a screenshot of a text message released Wednesday by The Atlantic.
+
+"1410: More F-18s LAUNCH (2nd strike package). 1415: Strike Drones on Target (THIS IS WHEN THE FIRST BOMBS WILL DEFINITELY DROP, pending earlier ‘Trigger Based’ targets). 1536 F-18 2nd Strike Starts – also, first sea-based Tomahawks launched," Hegseth reportedly continued, before adding "we are currently clean on OPSEC [operational security]" and "Godspeed to our Warriors."
+
+## [The Atlantic's Jeffrey Goldberg exposed a new national security low for Trump](https://www.msnbc.com/opinion/msnbc-opinion/trump-war-plans-leak-atlantic-group-text-hegseth-rcna197831)
 
 *His first administration was sloppy with America's secrets. His second is even worse.*
 
