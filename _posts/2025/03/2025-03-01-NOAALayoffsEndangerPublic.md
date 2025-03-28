@@ -7,7 +7,7 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: "Trump’s Project 2025 Plan Endangers Public Safety With Layoffs in National Oceanic and Atmospheric Administration (NOAA) hurricane mm"
+title: "Trump’s Project 2025 Plan Endangers Public Safety With Layoffs in National Oceanic and Atmospheric Administration (NOAA)"
 ---
 
 
