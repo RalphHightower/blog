@@ -137,7 +137,7 @@ Midair Collision [PSA Airlines]() [Bombardier]() [CRJ700]() Airplane and [Sikors
 
 ##### [Equal Employment Opportunity Commission (EEOC)](https://www.eeoc.gov/)
 
-##### [National Highway Traffic Safety Administration (NHTSA)](https://www.nhtsa gov/)
+##### [National Highway Traffic Safety Administration (NHTSA)](https://www.nhtsa.gov/)
 
 ##### [National Labor Relations Board (NLRB)](https://www.nlrb.gov/)
 
