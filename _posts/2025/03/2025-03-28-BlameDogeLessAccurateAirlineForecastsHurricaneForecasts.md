@@ -1,19 +1,21 @@
 ---
 layout: post
-tags: []
-categories: []
-#date: 2019-06-25 13:14:15
-#excerpt: ''
+tags: [Project 2025, Heritage Foundation, JoAnn Becker – President / NWSEO, Susan Buchanan, Andrew Hazelton, Larry Hubble, Tom Di Liberto, Airline Dispatchers Federation - ADF, American Meteorological Society, National Weather Service Employees Organization, Elon Musk, The Boring Company, Neuralink, SpaceX, Starlink, Tesla, Twitter, X, xAI, Department of Government Efficiency (DOGE), National Oceanic Atmospheric Administration (NOAA), National Weather Service (NWS), President Donald Trump, Implementing the President’s “Department of Government Efficiency” Cost Efficiency Initiative. February 26 2025, Fact Sheet: President Donald J. Trump Reins in Government Waste. February 26 2025, President of the United States of America (POTUS), White House (WH), weather, politics]
+categories: [Donald Trump]
+date: 2025-03-28 10:09 PM
+excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: 'title'
+title: "Department of Government Efficiency (DOGE) Cuts Put Air Travel 🛬, Hurricane 🌀 Areas At Risk"
 ---
+
+[Project 2025](https://www.project2025.org/), created by the [Heritage Foundation](https://www.heritage.org/), is the document of mass destruction that details the splintering [National Oceanic and Atmospheric Administration (NOAA)](https://www.noaa.gov/) and the destruction of the[National Weather Service (NWS)](https://www.weather.gov/) and privatizing it.
 
 - [National Oceanic and Atmospheric Administration (NOAA) & Air Force Recommended Steps For Reconnaissance Missions as Hurricane Hunters – Government Accountability Office (GAO) Report]({% link _posts/2025/03/2025-03-14-GAOReportNOAAHurricaneHunters.md %}) 
 - [Trump’s Project 2025 Plan Endangers Public Safety With Layoffs in National Oceanic and Atmospheric Administration (NOAA)]({% link _posts/2025/03/2025-03-01-NOAALayoffsEndangerPublic.md %})
-- ['We Just Want to Get Back to Work': NOAA Hurricane Hunter Speaks Out After Trump's Layoffs](https://gizmodo.com/we-just-want-to-get-back-to-work-noaa-hurricane-hunter-speaks-out-after-trumps-layoffs-2000578176) <br /> *After mass layoffs at NOAA, meteorologist Andrew Hazelton finds himself in a bureaucratic no man’s land—fired, then reinstated, but still unable to work.* <br />By Isaac Schultz. Published March 22, 2025
-- [DOGE Cuts Deflate NOAA’s Balloon Network, Putting Accurate Weather Forecasts in Jeopardy](https://gizmodo.com/doge-cuts-deflate-noaas-balloon-network-putting-accurate-weather-forecasts-in-jeopardy-2000580887) <br /> *Weather balloon operations will stop or be reduced at 11 locations across the country due to staffing shortages caused by recent NOAA layoffs.* <br />By Isaac Schultz. Published March 26, 2025
+- ['We Just Want to Get Back to Work': NOAA Hurricane Hunter Speaks Out After Trump's Layoffs – Gizmodo](https://gizmodo.com/we-just-want-to-get-back-to-work-noaa-hurricane-hunter-speaks-out-after-trumps-layoffs-2000578176) <br /> *After mass layoffs at NOAA, meteorologist Andrew Hazelton finds himself in a bureaucratic no man’s land—fired, then reinstated, but still unable to work.* <br />By Isaac Schultz. Published March 22, 2025
+- [DOGE Cuts Deflate NOAA’s Balloon Network, Putting Accurate Weather Forecasts in Jeopardy – Gizmodo](https://gizmodo.com/doge-cuts-deflate-noaas-balloon-network-putting-accurate-weather-forecasts-in-jeopardy-2000580887) <br /> *Weather balloon operations will stop or be reduced at 11 locations across the country due to staffing shortages caused by recent NOAA layoffs.* <br />By Isaac Schultz. Published March 26, 2025
 
 
 ## [DOGE cuts have arrived at a federal weather agency. Air travel forecasts and hurricane alerts are at risk.](https://www.businessinsider.com/doge-noaa-cuts-air-travel-extreme-weather-hurricane-tornado-2025-3)
@@ -106,7 +108,8 @@ Additional reporting by Juliana Kaplan.
 - [JoAnn Becker – President / NWSEO](https://www.nwseo.org/president)
 - [Susan Buchanan](https://www.linkedin.com/in/susanbuchanan68/)
 - [Andrew Hazelton](https://www.linkedin.com/in/andrew-hazelton-10242629/)
-- [Larry Hubble](https://www.linkedin.com/in/larry-hubble-0a063568/)- [Tom Di Liberto](https://www.linkedin.com/in/thomasdiliberto)
+- [Larry Hubble](https://www.linkedin.com/in/larry-hubble-0a063568/)
+- [Tom Di Liberto](https://www.linkedin.com/in/thomasdiliberto)
 - [Airline Dispatchers Federation - ADF](https://www.dispatcher.org/)
 - [American Meteorological Society](https://www.ametsoc.org/AMS/)
 - [National Weather Service Employees Organization](https://www.nwseo.org/) - National Weather Service Employees Organization (NWSEO) is a union that represents the National Weather Service, as well as NOAA's Office of Satellite & Product Operations, Office of General Counsel, Aircraft Operations Center, and Atlantic Oceanographic & Meteorological Laboratory.
@@ -123,6 +126,8 @@ Additional reporting by Juliana Kaplan.
 - [National Oceanic Atmospheric Administration (NOAA)](https://www.noaa.gov/)
 - [National Weather Service (NWS)](https://www.weather.gov/)
 - [President Donald Trump](https://www.whitehouse.gov/administration/donald-j-trump/)
+- [Implementing the President’s “Department of Government Efficiency” Cost Efficiency Initiative](https://www.whitehouse.gov/presidential-actions/2025/02/implementing-the-presidents-department-of-government-efficiency-cost-efficiency-initiative/). February 26, 2025
+- [Fact Sheet: President Donald J. Trump Reins in Government Waste](https://www.whitehouse.gov/fact-sheets/2025/02/fact-sheet-president-donald-j-trump-reins-in-government-waste/). February 26, 2025
 - [President of the United States of America (POTUS)](https://www.whitehouse.gov/)
 - [White House (WH)](https://www.whitehouse.gov/)
 - weather 
