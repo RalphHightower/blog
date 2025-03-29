@@ -72,7 +72,7 @@ Mar 2, 2025  #donaldtrump #marytrump #currentevents
 - [National Institute on Deafness and Other Communication Disorders (NIDCD)](https://www.nidcd.nih.gov/)
 - [National Institutes of Health (NIH)](https://www.nih.gov/)
 - [National Oceanic and Atmospheric Administration (NOAA)](https://www.noaa.gov/)
-- [National Weather Service(NWS)](http://www.nws.noaa.gov/)
+- [National Weather Service(NWS)](https://www.weather.gov/)
 - [Occupational Safety and Health Administration(OHSA)](https://www.osha.gov/)
 - [Office of Government Ethics(OGE)](https://www.oge.gov/)
 - [Office of Management and Budget(OMB)](https://www.whitehouse.gov/omb/)
