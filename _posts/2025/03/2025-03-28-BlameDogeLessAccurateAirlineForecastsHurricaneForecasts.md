@@ -3,7 +3,7 @@ layout: post
 tags: [Project 2025, Heritage Foundation, JoAnn Becker – President / NWSEO, Susan Buchanan, Andrew Hazelton, Larry Hubble, Tom Di Liberto, Airline Dispatchers Federation - ADF, American Meteorological Society, National Weather Service Employees Organization, Elon Musk, The Boring Company, Neuralink, SpaceX, Starlink, Tesla, Twitter, X, xAI, Department of Government Efficiency (DOGE), National Oceanic Atmospheric Administration (NOAA), National Weather Service (NWS), President Donald Trump, Implementing the President’s “Department of Government Efficiency” Cost Efficiency Initiative. February 26 2025, Fact Sheet: President Donald J. Trump Reins in Government Waste. February 26 2025, President of the United States of America (POTUS), White House (WH), weather, politics]
 categories: [Donald Trump]
 date: 2025-03-28 10:09 PM
-excerpt: ''
+excerpt: "“We are catching a lot of balls, with very little people. Eventually one of them is probably going to fall.” - NOAA employee"
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
@@ -24,7 +24,8 @@ Story by atecotzky@businessinsider.com (Alice Tecotzky,Nicole Einbinder,Catherin
 
 - [NOAA](https://www.noaa.gov/), the agency that tracks extreme weather, has lost more than 1,000 employees since Donald Trump took office.
 - Current and former employees worried about less accurate forecasts and aviation issues.
-- [Agency](https://www.weather.gov/) changes, like stricter rules around travel, are making it harder for those left to do their jobs, some employees said.
+- [Agency](https://www.weather.gov/) changes, like stricter rules around travel, are making it harder for those left to do their jobs, some employees said. 
+
 As [California](https://www.ca.gov/) recovers from devastating wildfires and hurricane season fast approaches, President [Donald Trump](https://www.businessinsider.com/donald-trump) and the [White House](https://www.whitehouse.gov/) [DOGE](https://www.doge.gov/) team are slashing the workforce at the federal agency responsible for monitoring extreme weather.
 
 Business Insider spoke to more than a dozen current and former employees of the [National Oceanic and Atmospheric Administration](https://www.noaa.gov/) who said that staff and policy changes were making their day-to-day jobs more challenging. They worried about how the upheaval would affect Americans' safety — especially as hurricane and tornado seasons rapidly approach.
@@ -61,7 +62,7 @@ Though flying remains the [safest mode of transportation](https://www.businessin
 
 "If systems are degraded, a turbulence forecast may go down in quality, and uncertainty is increased," Colman said. "There's more exposure, more risk."
 
-A spokesperson for the Airline Dispatchers Federation told BI in an email that [NOAA](https://www.noaa.gov/) provides dispatchers with "essential tools," including turbulence, wind, and weather forecasts.
+A spokesperson for the [Airline Dispatchers Federation - ADF](https://www.dispatcher.org/) told BI in an email that [NOAA](https://www.noaa.gov/) provides dispatchers with "essential tools," including turbulence, wind, and weather forecasts.
 
 "Virtually all" of the weather data for domestic flights comes from [NOAA](https://www.noaa.gov/), and its data is "fundamental" to daily operations, the spokesperson said. The organization hasn't yet noticed operational impacts but warned that "even subtle degradations could affect our operations."
 
