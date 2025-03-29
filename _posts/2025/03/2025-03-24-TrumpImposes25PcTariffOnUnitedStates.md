@@ -58,6 +58,8 @@ The tariffs are intended to make it more difficult for [China](https://www.gov.c
 - [Roth Capital Partners, LLC](https://www.roth.com/)
 - [Leo Mariani, CFA :: Roth Capital Partners, LLC](https://www.roth.com/team/detail/12460/leo-mariani-cfa)
 - [Chevron Corporation - Human Energy — Chevron](https://www.chevron.com/)
+- [Mike Wirth, Chairman of the Board and CEO — Chevron](https://www.chevron.com/who-we-are/leadership/michael-wirth)
+- [Mike Wirth](https://www.linkedin.com/in/mike-wirth-chevron/)
 - [Kpler - One Platform for Global Trade Intelligence](https://www.kpler.com/)
 - [Wall Street Journal](https://www.wsj.com/)
 - [中国政府网_中央人民政府门户网站](https://www.gov.cn/)

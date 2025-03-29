@@ -162,6 +162,6 @@ Disclaimer: The U.S. [GAO](https://www.gao.gov/) does not promote or endorse any
 - Hurricane Hunters
 - [Government Accountability Office (GAO)](https://www.gao.gov/)
 - [National Oceanic and Atmospheric Administration (NOAA)](https://www.noaa.gov/)
-- [National Weather Service (NWS)](http://www.nws.noaa.gov/)
+- [National Weather Service (NWS)](https://www.weather.gov/)
 - [U.S. Air Force](https://www.af.mil/)
 - [U.S. Department of Commerce (DOC)](https://www.commerce.gov/)
