@@ -7,7 +7,7 @@ excerpt: "“At some point those offices will have to determine what are the mos
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: "Trump’s Project 2025 Plans For National Oceanic and Atmospheric Administration and National Weather Service Puts Public In Harm’s Way hurricane 🌀 🔥 🌪 "
+title: "Trump’s Project 2025 Plans For National Oceanic and Atmospheric Administration and National Weather Service Puts Public In Harm’s Way 🌀 🔥 🌪 "
 ---
 
 
