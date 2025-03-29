@@ -1,13 +1,13 @@
 ---
 layout: page
-tags: [Donald Trump, The Boring Company,  Neuralink, SpaceX, Starlink, Tesla, Twitter, X, Federal Government, Department of Government Efficiency (DOGE), vendettas, politics]
+tags: [Donald Trump, The Boring Company,  Neuralink, SpaceX, Starlink, Tesla, Twitter, X, state governments, Federal Government, Department of Government Efficiency (DOGE), vendettas, politics]
 categories: [Elon Musk]
 date: 2025-03-25 10:18 PM
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: "Musk’s Personnel Vendettas With Federal Agencies"
+title: "Musk’s Personnel Vendettas: Federal/States Gov’t"
 ---
 
 ## Department of Government Efficiency (DOGE) Is a Smoke Screen! 
@@ -35,7 +35,7 @@ title: "Musk’s Personnel Vendettas With Federal Agencies"
 
 - [TBC - The Boring Company](https://www.tceq.texas.gov/downloads/agency/decisions/agendas/backup/2023/2023-1489-wq-e.pdf)
 
-##### News
+##### [Texas](https://www.texas.gov/)
 
 ###### [The Boring Company fined by TCEQ for pollution violations](https://www.mysanantonio.com/business/article/boring-company-tceq-fine-19523328.php)
 
@@ -143,7 +143,7 @@ Midair Collision [PSA Airlines]() [Bombardier]() [CRJ700]() Airplane and [Sikors
 
 ##### [Securities and Exchange Commission (SEC)](https://www.sec.gov/)
 
-##### [Wisconsin]()
+##### [Wisconsin](https://www.wisconsin.gov/)
 
 - [Tesla's Wisconsin lawsuit, Elon Musk and Brad Schimel, explained](https://www.jsonline.com/story/news/politics/elections/2025/03/25/teslas-wisconsin-lawsuit-elon-musk-and-brad-schimel-explained/82639129007/)<br /> *What to know about Tesla's Wisconsin lawsuit, Elon Musk and Brad Schimel* <br />Alison Dirr, Jeff Bollier<br />Milwaukee Journal Sentinel. March 25, 2025
 - [Tesla suing over Wisconsin dealerships a big deal in high court race](https://wisconsinwatch.org/2025/03/wisconsin-musk-tesla-supreme-court-dealerships-schimel-crawford/)<br />by Todd Richmond / Associated Press<br />March 26th, 2025
@@ -235,3 +235,5 @@ Midair Collision [PSA Airlines]() [Bombardier]() [CRJ700]() Airplane and [Sikors
 | [Department of Justice (DOJ)](https://www.justice.gov/) | The [Department of Justice (DOJ)](https://www.justice.gov/) enforces federal laws, seeks just punishment for the guilty, and ensures the fair and impartial administration of justice. |
 | [National Aeronautics and Space Administration (NASA)](https://www.nasa.gov/) | The [National Aeronautics and Space Administration (NASA)](https://www.nasa.gov/) explores space, and researches Earth systems, the solar system, and the universe. |
 | [National Labor Relations Board (NLRB)](https://www.nlrb.gov/) | The [National Labor Relations Board (NLRB)](https://www.nlrb.gov/) enforces the National Labor Relations Act by investigating allegations of wrong-doing brought by workers, unions, or employers, conducting elections, and deciding and resolving cases. |
+
+- [SpaceX - Starship](https://www.spacex.com/vehicles/starship/)

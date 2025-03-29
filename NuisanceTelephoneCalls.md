@@ -2,7 +2,7 @@
 layout: page
 tags: [assholes, Donald Trump, Elon Musk, Betsy DeVos, MAGA billionaires, billionaire, Trump donors, Republican PAC, Make America Great Again (MAGA)]
 categories: [Telephone Numbers]
-date: 2025-03-26 7:33 PM
+date: 2025-03-28 9:10 PM
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description: 
@@ -18,6 +18,32 @@ The telephone numbers below have called and there is an empty person on the othe
 
 | Telephone Number | Location | Date Time[^11] | Caller | Social Media |
 |---|---|---|---|---|
+| <a href="tel:+18035817578">+1 (803) 581-7578</a> | SC. Chester | 2025-03-28 05:13 PM | Carter John | |
+| <a href="tel:+18037143457">+1 (803) 714-3457</a> | SC. Columbia | 2025-03-28 05:13 PM ¤¤ | Potential Spam | |
+| <a href="tel:+18037143457">+1 (803) 714-3457</a> | SC. Columbia | 2025-03-28 05:12 PM | Potential Spam | |
+| <a href="tel:+18034942037">+1 (803) 494-2037</a> | SC. | 2025-03-28 04:39 PM | Lisa M Staniec | |
+| <a href="tel:+18033294519">+1 (803) 329-4519</a> | SC. Rock Hill | 2025-03-28 03:47 PM ¤¤ | - | |
+| <a href="tel:+18033294519">+1 (803) 329-4519</a> | SC. Rock Hill | 2025-03-28 03:46 PM | - | |
+| <a href="tel:+18035759203">+1 (803) 575-9203</a> | SC. | 2025-03-28 03:26 PM ¤¤ | Potential Spam | |
+| <a href="tel:+18035759203">+1 (803) 575-9203</a> | SC. | 2025-03-28 03:25 PM | Potential Spam | |
+| <a href="tel:+18034954952">+1 (803) 495-4952</a> | SC. Sumter | 2025-03-28 03:08 PM | James Carrie L | |
+| <a href="tel:+18033350631">+1 (803) 335-0631</a> | SC. Aiken | 2025-03-28 03:04 PM | Potential Spam | |
+| <a href="tel:+18036992666">+1 (803) 699-2666</a> | SC. | 2025-03-28 03:02 PM | Omar Abushashem | |
+| <a href="tel:+18039699439">+1 (803) 969-9439</a> | SC. Columbia | 2025-03-28 01:59 PM ¤¤ | - | |
+| <a href="tel:+18039699439">+1 (803) 969-9439</a> | SC. Columbia | 2025-03-28 01:57 PM | - | |
+| <a href="tel:+18032517321">+1 (803) 251-7321</a> | SC. Columbia | 2025-03-28 01:24 PM | - | |
+| <a href="tel:+18032517321">+1 (803) 251-7321</a> | SC. Columbia | 2025-03-28 01:24 PM | - | |
+| <a href="tel:+18036269594">+1 (803) 626-9594</a> | SC. Columbia | 2025-03-28 01:17 PM | Potential Spam | |
+| <a href="tel:+18037694051">+1 (803) 769-4051</a> | SC. | 2025-03-28 01:08 PM | Potential Spam | |
+| <a href="tel:+18039575443">+1 (803) 957-5443</a> | SC. Lexington | 2025-03-28 12:57 PM | Cook M | |
+| <a href="tel:+18039238281">+1 (803) 923-8281</a> | SC. | 2025-03-28 12:40 PM | Palmetto Health | |
+| <a href="tel:+18039322965">+1 (803) 932-2965</a> | SC. Chapin | 2025-03-28 12:31 PM | - | |
+| <a href="tel:+18035900687">+1 (803) 590-0687</a> | SC. Little Mountain | 2025-03-28 11:59 AM ¤¤ | Potential Spam | |
+| <a href="tel:+18035900687">+1 (803) 590-0687</a> | SC. Little Mountain | 2025-03-28 11:58 AM | Potential Spam | |
+| <a href="tel:+18038283174">+1 (803) 828-3174</a> | SC. | 2025-03-28 11:51 AM | - | |
+| <a href="tel:+18037292586">+1 +1 (803) 729-2586</a> | SC. Camden | 2025-03-28 11:29 AM ¤¤ | - | |
+| <a href="tel:+18037292586">+1 +1 (803) 729-2586</a> | SC. Camden | 2025-03-28 11:28 AM | - | |
+| <a href="tel:+18034782130">+1 (803) 478-2130</a> | SC. Summerton | 2025-03-28 11:12 AM | Malanchuk D J J | |
 | <a href="tel:+18037968047">+1 (803) 796-8047</a> | SC. Columbia | 2025-03-27 06:23 PM | - | |
 | <a href="tel:+18034963129">+1 (803) 496-3129</a> | SC. Holly Hill | 2025-03-27 06:13 PM | Mike Gillard's | |
 | <a href="tel:+18038149306">+1 (803) 814-9306</a> | SC. Columbia | 2025-03-27 05:40 PM | - | |
