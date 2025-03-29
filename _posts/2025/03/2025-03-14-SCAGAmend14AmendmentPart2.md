@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [my dumb state, South Carolina, Attorney General, Republican Attorneys General Association, Steve Marshall, Alabama, Treg Taylor, Alaska, Tim Griffin, Arkansas, James Uthmeier, Florida, Christopher M. Carr, Georgia, Raúl Labrador, Idaho, Theodore E. Rokita, Indiana, Brenna Bird, Iowa, Kris Kobach, Kansas, Liz Murrill, Louisiana, Lynn Fitch, Mississippi, Andrew Bailey, Missouri, Austin Knudson, Montana, Michael T. Hilgers, Nebraska, Drew Wrigley, North Dakota, Dave Yost, Ohio, Gentner Drummond, Oklahoma, Alan Wilson, South Carolina, Marty Jackley, South Dakota, Ken Paxton, Texas, Derek E. Brown, Utah, John McCuskey, West Virginia, Bridget Hill, Wyoming, Constitution, Fourteenth Amendment, Supreme Court of the United States (SCOTUS), U.S. Courts of Appeals, Ninth Circuit Court of Appeals - San Francisco, CA, District of Columbia / United States District Court, President Biden, Protecting The Meaning And Value Of American Citizenship – The White House, President of the United States (POTUS), White House (WH), President Donald J Trump, politics]
+tags: [my dumb state, South Carolina, Attorney General, Trumpian Attorneys General Association, Steve Marshall, Alabama, Treg Taylor, Alaska, Tim Griffin, Arkansas, James Uthmeier, Florida, Christopher M. Carr, Georgia, Raúl Labrador, Idaho, Theodore E. Rokita, Indiana, Brenna Bird, Iowa, Kris Kobach, Kansas, Liz Murrill, Louisiana, Lynn Fitch, Mississippi, Andrew Bailey, Missouri, Austin Knudson, Montana, Michael T. Hilgers, Nebraska, Drew Wrigley, North Dakota, Dave Yost, Ohio, Gentner Drummond, Oklahoma, Alan Wilson, South Carolina, Marty Jackley, South Dakota, Ken Paxton, Texas, Derek E. Brown, Utah, John McCuskey, West Virginia, Bridget Hill, Wyoming, Constitution, Fourteenth Amendment, Supreme Court of the United States (SCOTUS), U.S. Courts of Appeals, Ninth Circuit Court of Appeals - San Francisco, CA, District of Columbia / United States District Court, President Biden, Protecting The Meaning And Value Of American Citizenship – The White House, President of the United States (POTUS), White House (WH), President Donald J Trump, politics]
 categories: [Donald Trump]
 date: 2025-03-14 4:44 PM
 excerpt: ''
@@ -22,7 +22,7 @@ MAR 14, 2025
 
 The brief affirms that [President Trump’s](https://www.whitehouse.gov/administration/donald-j-trump/) [Executive Order](https://www.whitehouse.gov/presidential-actions/2025/01/protecting-the-meaning-and-value-of-american-citizenship/), [Protecting the Meaning and Value of American Citizenship](https://www.whitehouse.gov/presidential-actions/2025/01/protecting-the-meaning-and-value-of-american-citizenship/), is constitutional and necessary to curb the incentives currently driving illegal immigration and birth tourism. It does that by mandating that a child born in the [United States](https://www.usa.gov/) can only be granted U.S. citizenship if at least one parent is a lawful permanent resident.
 
-The brief emphasizes that the [Constitution’s Citizenship Clause](https://constitution.congress.gov/constitution/amendment-14/) was never intended by the Founders to grant automatic citizenship to individuals born to non-citizen parents. One of the original purposes of the [Citizenship Clause](https://constitution.congress.gov/constitution/amendment-14/) was to prevent the children of foreign diplomats who were born in the United States from receiving American citizenship[^25]. That principle has been muddled in recent decades and now is the time to realign the [Fourteenth Amendment’s](https://constitution.congress.gov/constitution/amendment-14/) original meaning with the undeniable realities of illegal immigration facing the [United States](https://www.usa.gov/) today.
+The brief emphasizes that the [Constitution’s [Citizenship Clause](https://constitution.congress.gov/constitution/amendment-14/)](https://constitution.congress.gov/constitution/amendment-14/) was never intended by the Founders to grant automatic citizenship to individuals born to non-citizen parents. One of the original purposes of the [[Citizenship Clause](https://constitution.congress.gov/constitution/amendment-14/)](https://constitution.congress.gov/constitution/amendment-14/) was to prevent the children of foreign diplomats who were born in the United States from receiving American citizenship[^25]. That principle has been muddled in recent decades and now is the time to realign the [Fourteenth Amendment’s](https://constitution.congress.gov/constitution/amendment-14/) original meaning with the undeniable realities of illegal immigration facing the [United States](https://www.usa.gov/) today.
 
 [^25]: @RalphHightower: Huh? I thought that the 14<sup>th</sup> Amendment granted citizenship to newly freed slaves. 
 
@@ -32,7 +32,7 @@ The states joining [South Carolina](https://www.scag.gov/) in the brief are [Ala
 
 You can read the full brief [here](https://www.scag.gov/media/aj2nojfd/file-stamped-washington-v-trump.pdf).
 
-- [Republican Attorneys General Association](https://republicanags.com/)
+- [Trumpian Attorneys General Association](https://republicanags.com/)
 - [Steve Marshall](https://www.alabamaag.gov/about/), [Attorney General](https://www.alabamaag.gov/) of [Alabama](https://www.alabama.gov/)
 - Treg Taylor, [Attorney General](https://law.alaska.gov/department/about.html) of [Alaska](https://www.alaska.gov/)
 - [Tim Griffin](https://arkansasag.gov/meet-tim/), [Attorney General](https://arkansasag.gov/) of [Arkansas](https://www.az.gov/)
@@ -59,7 +59,7 @@ You can read the full brief [here](https://www.scag.gov/media/aj2nojfd/file-stam
 [Attorney General](https://ag.wyo.gov/) of [Wyoming](https://www.wyo.gov/)
 - [Constitution](https://constitution.congress.gov/)
 - [Fourteenth Amendment](https://constitution.congress.gov/constitution/amendment-14/)
-- [Supreme Court of the United States (SCOTUS)](https://www.supremecourt.giv/)
+- [Supreme Court of the United States (SCOTUS)](https://www.supremecourt.gov/)
 - [U.S. Courts of Appeals](https://www.uscourts.gov/about-federal-courts/court-role-and-structure/about-us-courts-appeals)
 - [Ninth Circuit Court of Appeals - San Francisco, CA](https://www.uscourts.gov/federal-court-finder/location/213)
 - [District of Columbia / United States District Court](https://www.dcd.uscourts.gov/)
@@ -69,18 +69,19 @@ You can read the full brief [here](https://www.scag.gov/media/aj2nojfd/file-stam
 - [White House (WH)](https://www.whitehouse.gov/)
 - [President Donald J Trump](https://www.whitehouse.gov/administration/donald-j-trump/)
 - politics
+- illegal aliens
 
 ----
 
 All persons born or naturalized in the United States, and **subject to the jurisdiction thereof**, are citizens of the United States and of the State wherein they reside. No State shall make or enforce any law which shall abridge the privileges or immunities of citizens of the United States; nor shall any State deprive any person of life, liberty, or property, without due process of law; nor deny to any person within its jurisdiction the equal protection of the laws.
 
-That's correct. The Fourteenth Amendment's Citizenship Clause grants citizenship to individuals born in the U.S., but with an important exception: it applies only to those "subject to the jurisdiction" of the United States. This phrase excludes children of foreign diplomats, as they are considered under the jurisdiction of their home countries, not the U.S.[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://www.uscis.gov/policy-manual/volume-7-part-o-chapter-3?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "1")[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://www.nslj.org/wp-content/uploads/3_NatlSecLJ_232-277_Pines.pdf?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "2").
+That's correct. The Fourteenth Amendment's [Citizenship Clause](https://constitution.congress.gov/constitution/amendment-14/) grants citizenship to individuals born in the U.S., but with an important exception: it applies only to those "subject to the jurisdiction" of the United States. This phrase excludes children of foreign diplomats, as they are considered under the jurisdiction of their home countries, not the U.S.[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://www.uscis.gov/policy-manual/volume-7-part-o-chapter-3?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "1")[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://www.nslj.org/wp-content/uploads/3_NatlSecLJ_232-277_Pines.pdf?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "2").
 
 _What was the purpose of the Fourteenth Amendment?_
 The Fourteenth Amendment, adopted in 1868, was a pivotal addition to the U.S. Constitution. Its primary purpose was to grant citizenship and equal civil and legal rights to all individuals born or naturalized in the United States, including formerly enslaved people[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://www.britannica.com/topic/Fourteenth-Amendment?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "1")[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://en.wikipedia.org/wiki/Fourteenth_Amendment_to_the_United_States_Constitution?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "2"). It was part of the Reconstruction Amendments, aimed at addressing the injustices faced by African Americans after the Civil War[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://www.history.com/topics/black-history/fourteenth-amendment?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "3").
 
 Key provisions include:
-- **Citizenship Clause**: Ensured that all persons born or naturalized in the U.S. are citizens.
+- **[Citizenship Clause](https://constitution.congress.gov/constitution/amendment-14/)**: Ensured that all persons born or naturalized in the U.S. are citizens.
 - **Equal Protection Clause**: Mandated that states provide equal protection under the law to all individuals.
 - **Due Process Clause**: Prohibited states from depriving any person of life, liberty, or property without due process of law[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://en.wikipedia.org/wiki/Fourteenth_Amendment_to_the_United_States_Constitution?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "2").
 
