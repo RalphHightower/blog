@@ -94,8 +94,8 @@ Little good that contacting Wilson will do. He's a political chameleon. First, h
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5N-BRrhxh0Y?si=28YVkGCc6bmrFwl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 | Office Locations |
-| **Washington, DC Office** |
 |---|
+| **Washington, DC Office** |
 | 1436 Longworth House Office Building <br /> 1 Independence Ave SE <br /> Washington, DC  20515 <br /> Phone: <a href="tel:+12022252452">(202) 225-2452</a> |
 | **The Midlands Office** |
 | 1700 Sunset Blvd (US 378), Suite 1 <br /> West Columbia, SC  29169 <br /> Phone: <a href="tel:+18039390041">(803) 939-0041</a> <br /> Fax: <a href="tel:+18039390078">(803) 939-0078</a> |
@@ -214,8 +214,9 @@ Class III.
 
 [Alan Wilson (T)](https://www.scag.gov/about-the-office/meet-the-attorney-general/) is the most nakedly partisan [Attorney General](https://www.scag.gov/) that [South Carolina](https://www.s.gov/) has ever had. Wilson is an election denier; he thinks that the [Democrats](https://www.democrats.org/) stole the 2020 election.
 
-| Mailing Address |
+| Locations |
 |---|
+| **Mailing Address** |
 | The Honorable Alan Wilson <br /> P.O. Box 11549 <br /> Columbia, S.C. 29211 |
 | **Office Location** |
 | Rembert Dennis Building <br /> 1000 Assembly Street, Room 519 <br /> Columbia, S.C. 29201 <br /> General Information: <a href="1-8037343970">1-803-734-3970</a> <br /> Constituent Services: <a href="1-8037373953">1-803-737-3953</a> |
