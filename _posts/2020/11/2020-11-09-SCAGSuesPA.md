@@ -7,7 +7,7 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: "My Dumb State: South Carolina Attorney General Alan Wilson & Trumpian Attorneys General Sues Pennsylvania For Election Fraud Over 2020 Presidential Election"
+title: "My Dumb State, South Carolina: Attorney General Alan Wilson Sues Pennsylvania For Election Fraud Over 2020 Presidential Election"
 ---
 
 
