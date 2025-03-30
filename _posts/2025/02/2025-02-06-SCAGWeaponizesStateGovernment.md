@@ -7,25 +7,29 @@ excerpt: "‘Prosecute’ vs. ‘Persecute’: “One you do in court, the other
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: "My Dumb State, South Carolina: South Carolina's Attorney General, Alan Wilson, Weaponizes State Government To Persecute Trump's Perceived Enemy, Dr. Anthony Fauci, For His COVID-19 Pandemic Response"
+title: "My Dumb State, South Carolina: Attorney General, Alan Wilson, Weaponizes State Government To Persecute Trump's Perceived Enemy, Dr. Anthony Fauci]"
 ---
 
-## [South Carolina's](https://www.sc.gov/) [Attorney General](https://.www.scag.gov) [Alan Wilson](https://www.scag.gov/about-the-office/meet-the-attorney-general/) Is The Most Hyper Partisan Attorney General
+## ['Prosecute' vs. 'Persecute' – Merriam-Webster](https://www.merriam-webster.com/grammar/prosecuted-vs-persecuted-usage)
+
+“One you do in court, the other you do if you're a jerk.”
+
+### [South Carolina's](https://www.sc.gov/) [Attorney General](https://.www.scag.gov) [Alan Wilson](https://www.scag.gov/about-the-office/meet-the-attorney-general/) Is The Most Hyper Partisan Attorney General
 
 [South Carolina's](https://www.sc.gov/) [Attorney General](https://.www.scag.gov) [Alan Wilson](https://www.scag.gov/about-the-office/meet-the-attorney-general/) is joining other [Trumpian states attorneys general](https://republicanags.com/) to persecute[^11] Dr. Anthony Fauci since [President Joe Biden](https://bidenwhitehouse.archives.gov) issued a pardon to Dr. Fauci for his leadership at the [National Institute of Allergy and Infectious Diseases (NIAID)](http://www.niaid.nih.gov/) during the COVID-19 pandemic which started with the [Trump #45 presidency](https://www.whitehouse.gov/). The [Trumpian attorneys general](https://republicanags.com/) have to carry on the persecution of a retired epidemiologist since Dr. Fauci is protected from [Trump #47](https://www whitehouse.gov/)
 
 [^11]: ['Prosecute' vs. 'Persecute' – Merriam-Webster](https://www.merriam-webster.com/grammar/prosecuted-vs-persecuted-usage) – “One you do in court, the other you do if you're a jerk.”
 
-### [Attorney General Alan Wilson leads coalition of AGs investigating Dr. Anthony Fauci’s COVID-19 response - South Carolina Attorney General](https://www.scag.gov/about-the-office/news/attorney-general-alan-wilson-leads-coalition-of-ags-investigating-dr-anthony-fauci-s-covid-19-response/)
+#### [Attorney General Alan Wilson leads coalition of AGs investigating Dr. Anthony Fauci’s COVID-19 response - South Carolina Attorney General](https://www.scag.gov/about-the-office/news/attorney-general-alan-wilson-leads-coalition-of-ags-investigating-dr-anthony-fauci-s-covid-19-response/)
 
 FEB 05, 2025
-(COLUMBIA, S.C.) – [South Carolina](https://www.sc.gov/) [Attorney General](https://www scag.gov) [Alan Wilson](https://www.scag.gov/about-the-office/meet-the-attorney-general/) is leading a coalition of [state attorneys general](https://republicanags.com/)  in an investigation into Dr. Anthony Fauci’s role in the COVID-19 pandemic response, demanding accountability for alleged mismanagement, misleading statements, and suppression of scientific debate. In a letter to Speaker of the House [Mike Johnson](https://mikejohnson.house.gov/) and Senate Majority Leader [John Thune](https://www.thune.senate.gov/), the [attorneys general](https://republicanags.com/) commend ongoing Congressional efforts to uncover misconduct and request state-level cooperation in pursuing any violations of state laws.
+(COLUMBIA, S.C.) – [South Carolina](https://www.sc.gov/) [Attorney General](https://www scag.gov) [Alan Wilson](https://www.scag.gov/about-the-office/meet-the-attorney-general/) is leading a coalition of [state attorneys general](https://republicanags.com/)  in an investigation into Dr. Anthony Fauci’s role in the COVID-19 pandemic response, demanding accountability for alleged mismanagement, misleading statements, and suppression of scientific debate. In a letter to Speaker of the House [Mike Johnson](https://mikejohnson.house.gov/) and [Senate](https://www.senate.gov/) Majority Leader [John Thune](https://www.thune.senate.gov/), the [attorneys general](https://republicanags.com/) commend ongoing [Congressional](https://www.congress.gov/) efforts to uncover misconduct and request state-level cooperation in pursuing any violations of state laws.
 
 “[President Biden's](bidenwhitehouse.archives.gov) blanket pardon of Dr. Fauci is a shameful attempt to prevent accountability,” said [Attorney General Wilson](https://www.scag.gov/about-the-office/meet-the-attorney-general/). “If any of these findings indicate violations of state laws, we are fully prepared to take appropriate action to ensure justice is served.”
 
-The letter follows the release of the House Select Subcommittee on the Coronavirus Pandemic’s final report, which details widespread failures and potential misconduct by high-ranking government officials, including Dr. Fauci. The report highlights misleading public statements regarding COVID-19’s origins, mismanagement of [National Institutes of Health (NIH)](https://www.nih.gov/) funding, and efforts to suppress scientific discussions about vaccine risks.
+The letter follows the release of the [House Select Subcommittee on the Coronavirus Pandemic]()’s final report, which details widespread failures and potential misconduct by high-ranking government officials, including Dr. Fauci. The report highlights misleading public statements regarding COVID-19’s origins, mismanagement of [National Institutes of Health (NIH)](https://www.nih.gov/) funding, and efforts to suppress scientific discussions about vaccine risks.
 
-Key Findings from the Congressional Report:
+Key Findings from the [Congressional](https://www.congress.gov/) Report:
 
 - Origins of COVID-19 – Evidence suggests Dr. Fauci worked to discredit the “lab leak” theory despite mounting evidence supporting it.
 - Misleading Congress on [NIH](https://www.nih.gov/) Funding – Dr. Fauci allegedly provided false testimony regarding [NIH](https://www.nih.gov/)-funded gain-of-function research at the Wuhan Institute of Virology.
@@ -152,9 +156,9 @@ John Guard
 Mike Hilgers
 [Attorney General](https://ago.nebraska.gov/) of [Nebraska](https://www.nebraska.gov/)
 
-**cc: Congressman [James Comer](https://comer.house.gov), Senator [Rand Paul](https://www.paul.senate.gov/), Senator [Bill Cassidy](https://www.cassidy.senate.gov/), and [Dr. Jay Bhattacharya](http://healthpolicy.fsi.stanford.edu/people/jay_bhattacharya)**
+**cc: [Congressman](https://www.congress.gov/) [James Comer](https://comer.house.gov), Senator [Rand Paul](https://www.paul.senate.gov/), Senator [Bill Cassidy](https://www.cassidy.senate.gov/), and [Dr. Jay Bhattacharya](http://healthpolicy.fsi.stanford.edu/people/jay_bhattacharya)**
 
-Congressman [James Comer](https://comer.house.gov)
+[Congressman](https://www.congress.gov/) [James Comer](https://comer.house.gov)
 2410 Rayburn House Office Building
 Washington, D.C. 20515
 

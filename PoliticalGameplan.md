@@ -222,23 +222,16 @@ Class III.
 
 ##### My Dumb State: South Carolina
 
-- [My Dumb State, South Carolina: South Carolina's Attorney General, Alan Wilson, Wants To Amend The Fourteenth Amendment – Part 3 (Supreme Court)]({% link _posts/2025/03/2025-03-29-SCAGAmend14thAmendmentPart3.md %}). 2025-03-29
-- [My Dumb State, South Carolina: South Carolina's Attorney General, Alan Wilson, Wants To Amend The Fourteenth Amendment – Part 2 (Ninth Appeals Court)]({% link _posts/2025/03/2025-03-14-SCAGAmend14AmendmentPart2.md %}). 2025-03-14
-- [My Dumb State, South Carolina: Supports Trump’s Illegal, Lawless Firings Of Government Watchdogs]({% link _posts/2025/02/2025-02-25-SCAG-TAGA-SupportTrumpIllegalFirings.md %}). 2025-02-25
-- [🚨 My Dumb State, South Carolina: Attorney General Alan Wilson Is Not Interested In Protecting South Carolinians' Personal Identifiable Information (PII) In the Biggest Data Breach of the US Treasury Central Payment System! 🚨]({% link _posts/2025/02/2025-02-21-SC-AG-SupportsDOGE-DataBreachOfPII.md %}). 2025-02-21
-- [My Dumb State, South Carolina: South Carolina's Attorney General, Alan Wilson, Wants To Amend The Fourteenth Amendment]({% link _posts/2025/02/2025-02-07-SCAGWants14thAmendmentAmended.md %}). 2025-02-07
-- [My Dumb State, South Carolina: South Carolina's Attorney General, Alan Wilson, Weaponizes State Government To Persecute Trump's Perceived Enemy, Dr. Anthony Fauci, For His COVID-19 Pandemic Response]({% link _posts/2025/02/2025-02-06-SCAGWeaponizesStateGovernment.md %}). 2025-02-06
-- [My Dumb State, South Carolina: South Carolina Attorney General Alan Wilson Sues Costco To Abandon DEI. What About BMW?]({% link _posts/2025/01/2025-01-28-SCAG-DEI.md %}). 2025-01-28
-- [My Dumb State, South Carolina: Attorney General Alan Wilson Thinks That Trying to Overthrow An Election and Incite An Insurrection Is Legal]({% link _posts/2024/11/2024-11-01-SCAG-StopJackSmith.md %}). 2024-11-01
-- [My Dumb State: South Carolina Attorney General Alan Wilson & Trumpian Attorneys General Whine About New York Fine of Trump Organization For Thirty-Four Felony Civil Indictments of Falsification of Business Records For Financial Fraud, Insurance Fraud, & Property Tax Fraud]({% link _posts/2024/07/2024-07-26-SCAG-NYCivilVerdictTrumpBusinessFraud.md %}). 2024-07-26
-- [My Dumb State: South Carolina Attorney General Alan Wilson & Trumpian Attorneys General Sues Pennsylvania For Election Fraud Over 2020 Presidential Election]({% link _posts/2019/08/2019-08-27-FEMAFundsDivertedToIllegalAliens.md %}). 2020-11-09
-
-- [My Dumb State, South Carolina: Supports Trump’s Illegal, Lawless Firings Of Government Watchdogs]({% link _posts/2025/02/2025-02-25-SCAG-TAGA-SupportTrumpIllegalFirings.md %})
-- [🚨 My Dumb State, South Carolina: Attorney General Alan Wilson Is Not Interested In Protecting South Carolinians' Personal Identifiable Information (PII)In the Biggest Data Breach of the US Treasury Central Payment System! 🚨]({% link _posts/2025/02/2025-02-21-SC-AG-SupportsDOGE-DataBreachOfPII.md %})
-- [My Dumb State, South Carolina: South Carolina's Attorney General, Alan Wilson, Weaponizes State Government To Persecute Trump's Perceived Enemy, Dr. Anthony Fauci, For His COVID-19 Pandemic Response]({% link _posts/2025/02/2025-02-06-SCAGWeaponizesStateGovernment.md %})
-- [My Dumb State, South Carolina: South Carolina's Attorney General, Alan Wilson, Wants To Amend The Fourteenth Amendment]({% link _posts/2025/02/2025-02-07-SCAGWants14thAmendmentAmended.md %})
-- [My Dumb State: South Carolina Attorney General Alan Wilson & Trumpian Attorneys General Whine About New York Fine of Trump Organization For Thirty-Four Felony Civil Indictments of Falsification of Business Records For Financial Fraud, Insurance Fraud, & Property Tax Fraud]({% link _posts/2024/07/2024-07-26-SCAG-NYCivilVerdictTrumpBusinessFraud.md %})
-- [My Dumb State: South Carolina Attorney General Alan Wilson & TAGA Sues Pennsylvania For Election Fraud Over 2020 Presidential Election]({% link _posts/2024/07/2024-07-26-SCAG-NYCivilVerdictTrumpBusinessFraud.md %})
+- [My Dumb State, South Carolina: Attorney General, Alan Wilson, Wants To Amend The Fourteenth Amendment – Part 3 (Supreme Court)]({% link _posts/2025/03/2025-03-29-SCAGAmend14thAmendmentPart3.md %}). @RalphHightower, 2025-03-29
+- [My Dumb State, South Carolina: Attorney General, Alan Wilson, Wants To Amend The Fourteenth Amendment – Part 2 (Ninth Appeals Court)]({% link _posts/2025/03/2025-03-14-SCAGAmend14AmendmentPart2.md %}). @RalphHightower, 2025-03-14
+- [My Dumb State, South Carolina: Attorney General Alan Wilson Supports Trump’s Illegal, Lawless Firings Of Government Watchdogs]({% link _posts/2025/02/2025-02-25-SCAG-TAGA-SupportTrumpIllegalFirings.md %}). @RalphHightower, 2025-02-25
+- [🚨 My Dumb State, South Carolina: Attorney General Alan Wilson Is Not Interested In Protecting South Carolinians' Personal Identifiable Information (PII) In the Biggest Data Breach of the US Treasury Central Payment System! 🚨]({% link _posts/2025/02/2025-02-21-SC-AG-SupportsDOGE-DataBreachOfPII.md %}). @RalphHightower, 2025-02-21
+- [My Dumb State, South Carolina: Attorney General, Alan Wilson, Wants To Amend The Fourteenth Amendment]({% link _posts/2025/02/2025-02-07-SCAGWants14thAmendmentAmended.md %}). @RalphHightower, 2025-02-07
+- [My Dumb State, South Carolina: Attorney General, Alan Wilson, Weaponizes State Government To Persecute Trump's Perceived Enemy, Dr. Anthony Fauci]({% link _posts/2025/02/2025-02-06-SCAGWeaponizesStateGovernment.md %}). @RalphHightower, 2025-02-06
+- [My Dumb State, South Carolina: Attorney General Alan Wilson Sues Costco To Abandon DEI. What About BMW?]({% link _posts/2025/01/2025-01-28-SCAG-DEI.md %}). @RalphHightower, 2025-01-28
+- [My Dumb State, South Carolina: Attorney General Alan Wilson Thinks That Trying to Overthrow An Election and Incite An Insurrection Is Legal]({% link _posts/2024/11/2024-11-01-SCAG-StopJackSmith.md %}). @RalphHightower, 2024-11-01
+- [My Dumb State, South Carolina: Attorney General Alan Wilson Whines About New York Fine of Trump Organization For 34 Felony Civil Guilty Verdicts of Business Records Falsification For Fraud (Financial, Insurance, Property Tax)]({% link _posts/2024/07/2024-07-26-SCAG-NYCivilVerdictTrumpBusinessFraud.md %}). @RalphHightower, 2024-07-26
+- [My Dumb State, South Carolina: Attorney General Alan Wilson Sues Pennsylvania For Election Fraud Over 2020 Presidential Election]({% link _posts/2019/08/2019-08-27-FEMAFundsDivertedToIllegalAliens.md %}). @RalphHightower, 2020-11-09
 
 #### Attorneys General
 
