@@ -7,7 +7,7 @@ excerpt: "‘Prosecute’ vs. ‘Persecute’: “One you do in court, the other
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: "My Dumb State, South Carolina: Attorney General, Alan Wilson, Weaponizes State Government To Persecute Trump's Perceived Enemy, Dr. Anthony Fauci]"
+title: "My Dumb State, South Carolina: Attorney General, Alan Wilson, Weaponizes State Government To Persecute Trump's Perceived Enemy, Dr. Anthony Fauci"
 ---
 
 ## ['Prosecute' vs. 'Persecute' – Merriam-Webster](https://www.merriam-webster.com/grammar/prosecuted-vs-persecuted-usage)
