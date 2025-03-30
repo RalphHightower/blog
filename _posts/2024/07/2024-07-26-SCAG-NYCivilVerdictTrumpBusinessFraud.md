@@ -7,7 +7,7 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: "My Dumb State: South Carolina Attorney General Alan Wilson & Trumpian Attorneys General Whine About New York Fine of Trump Organization For Thirty-Four Felony Civil Indictments of Falsification of Business Records For Financial Fraud, Insurance Fraud, & Property Tax Fraud"
+title: "My Dumb State, South Carolina: Attorney General Alan Wilson Whines About New York Fine of Trump Organization For 34 Felony Civil Guilty Verdicts of Business Records Falsification For Fraud (Financial, Insurance, Property Tax)"
 ---
 
 
