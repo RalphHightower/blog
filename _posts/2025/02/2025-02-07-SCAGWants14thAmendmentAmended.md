@@ -7,7 +7,7 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: "My Dumb State, South Carolina: South Carolina's Attorney General, Alan Wilson, Wants To Amend The Fourteenth Amendment"
+title: "My Dumb State, South Carolina: Attorney General, Alan Wilson, Wants To Amend The Fourteenth Amendment"
 ---
 
 
@@ -104,8 +104,7 @@ John Guard
 [Kris Kobach](https://www.ag.ks.gov/about-us/attorney-general-kris-w-kobach)
 [Attorney General](https://www.ag.ks.gov/) of [Kansas](https://www.kansas.gov/)
 
-Mike Hilgers
-[Attorney General](https://ago.nebraska.gov/) of [Nebraska](https://www.nebraska.gov/)
+Mike Hilgers [Attorney General](https://ago.nebraska.gov/) of [Nebraska](https://www.nebraska.gov/)
 
 ----
 

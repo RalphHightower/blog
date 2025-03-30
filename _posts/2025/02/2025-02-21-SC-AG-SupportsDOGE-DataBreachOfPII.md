@@ -7,7 +7,7 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: " 🚨 My Dumb State, South Carolina: Attorney General Alan Wilson Is Not Interested In Protecting South Carolinians' Personal Identifiable Information (PII) In the Biggest Data Breach of the US Treasury Central Payment System! 🚨"
+title: "🚨 My Dumb State, South Carolina: Attorney General Alan Wilson Is Not Interested In Protecting South Carolinians' Personal Identifiable Information (PII) In the Biggest Data Breach of the US Treasury Central Payment System! 🚨"
 ---
 
 

@@ -7,7 +7,7 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: "My Dumb State, South Carolina: Supports Trump’s Illegal, Lawless Firings Of Government Watchdogs"
+title: "My Dumb State, South Carolina: Attorney General Alan Wilson Supports Trump’s Illegal, Lawless Firings Of Government Watchdogs"
 ---
 
 
