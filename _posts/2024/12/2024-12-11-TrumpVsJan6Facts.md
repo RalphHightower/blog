@@ -7,7 +7,7 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: "January 6, 2021 Insurrection:Facts of Law Versus Trump's Alternative Reality"
+title: "January 6, 2021 Insurrection: Facts of Law Versus Trump's Alternative Reality"
 ---
 
 
