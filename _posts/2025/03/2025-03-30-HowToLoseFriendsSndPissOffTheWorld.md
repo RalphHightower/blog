@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [Canada, Justin Trudeau, Lyndon B Johnson, Ronald Reagan, Bill Clinton, Barack Obama, Donald Trump (45), Joe Biden,
+tags: [Washington Post, Fox News, Canada, Justin Trudeau, Lyndon B Johnson, Ronald Reagan, Bill Clinton, Barack Obama, Donald Trump (45), Joe Biden,
 Donald Trump (47), politics, allies, friends, neighbors]
 categories: [Donald Trump]
 date: 2025-03-30 8:18 PM
@@ -36,6 +36,8 @@ With [Trump](https://www.donaldjtrump.com/), there are no "win-win" negotiations
 
 [The Apprentice: White House – Wrecking Ball"](https://www.whitehouse.gov/administration/donald-j-trump/) has gotten so toxic that [Canada 🇨🇦](https://www.canada.ca/) is considering [canceling their F-35 from the US and buying from Europe 🇪🇺]({% link _posts/2025/03/2025-03-17-TrumpTradeWarWithWorldJustLostDefenseOrderCanada.md %}).
 
+- [Washington Post](https://www.washingtonpost.com/)
+- [Faux News](https://www.foxnews.com/)
 - [Canada](https://www.canada.ca/)
 - Justin Trudeau
 - [LBJ Presidential Library](https://www.lbjlibrary.org/)
