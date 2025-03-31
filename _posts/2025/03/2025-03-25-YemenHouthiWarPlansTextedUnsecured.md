@@ -10,6 +10,11 @@ excerpt: 'Every administration has its share of snafus, security failures and ov
 title: "Shit You Can’t Make Up: Yemen Houthi Strike Planning Held On Unsecured Phones In Group Chat"
 ---
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hLtI9mvgSro?si=Fd69d77pcG3whNtq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Mar 30, 2025  #MikeyMadison #MorganWallen #SNL50
+A group of teenagers (Mikey Madison, Sarah Sherman, Ego Nwodim) get added to a group chat with Secretary Pete Hegseth (Andrew Dismukes), Vice President JD Vance (Bowen Yang), Secretary Marco Rubio (Marcello Hernández) and Editor of the Atlantic Jeffrey Goldberg (Mikey Day).
+
 1. [Michael Waltz](https://www.linkedin.com/in/michael-waltz-0557964/) – [National Security Adviser](https://www.whitehouse.gov/nsc/)
 2. [Pete Hegseth](https://www.linkedin.com/in/petehegseth/) – [Secretary of Defense (DOD)](https://www.defense.gov/) (Operational lead. Shared target lists and strike details. Argued for immediate execution, citing strategic and political urgency.)
 3. [JD Vance](https://www.linkedin.com/in/jd-vance-770a9047/) – [Vice President](https://www.whitehouse.gov/administration=) (Voiced economic and messaging concerns but supported the operation. Closed his final message with a prayer for victory.)
@@ -27,90 +32,129 @@ title: "Shit You Can’t Make Up: Yemen Houthi Strike Planning Held On Unsecured
 15. Dan Katz – [Treasury Department](https://home.treasury.gov/) Liaison (Selected by [Treasury](https://home.treasury.gov/) [Secretary Scott Bessent](https://home.treasury.gov/about/general-information/officials/scott-bessent) to represent Treasury in the group.)
 16. Jeffrey Goldberg (accidental) – Editor in Chief, [The Atlantic](https://www.theatlantic.com/)
 
-Trace Gallagher: Republicans are concerned with NPR’s ‘liberal bias’01:32
-Trace Gallagher: Republicans are concerned with NPR’s ‘liberal bias’
-Jasmine Crockett conceals the meaning of 'hot wheels': Gutfeld
-07:15
-Jasmine Crockett conceals the meaning of 'hot wheels': Gutfeld
-Joe Concha labels NPR CEO a ‘human Chernobyl’ over testimony on Capitol Hill
-06:49
-Joe Concha labels NPR CEO a ‘human Chernobyl’ over testimony on Capitol Hill
-Gutfeld: The media ‘outraged’ over Signal ‘messaging mess’ are the same media that covered up Biden’s decline
-11:18
-Gutfeld: The media ‘outraged’ over Signal ‘messaging mess’ are the same media that covered up Biden’s decline
-Can Congress put an end to activist judges?
-04:26
-Can Congress put an end to activist judges?
-Alina Habba: This is a distraction
-04:11
-Alina Habba: This is a distraction
-Dems are in 'no position' to lecture about national security: Mark Meadows
-06:41
-Dems are in 'no position' to lecture about national security: Mark Meadows
-The hysteria on the Left over Trump team chat leak is 'phony outrage,' Hannity argues
-10:21
-The hysteria on the Left over Trump team chat leak is 'phony outrage,' Hannity argues
-Jasmine Crockett is ‘a mess,’ ‘trying to act tough,’ says Brett Cooper
-06:55
-Jasmine Crockett is ‘a mess,’ ‘trying to act tough,’ says Brett Cooper
-Fani Willis and 'loverboy' caught at airport: 'Relationships like this make a difference in court'
-05:23
-Fani Willis and 'loverboy' caught at airport: 'Relationships like this make a difference in court'
-Lawmakers try to find ‘Common Ground’ on unleashing E15 fuel
-07:17
-Lawmakers try to find ‘Common Ground’ on unleashing E15 fuel
-NPR and PBS chiefs are 'squealing' at threat of pulled government funding, Charlie Hurt says
-06:15
-NPR and PBS chiefs are 'squealing' at threat of pulled government funding, Charlie Hurt says
-Dems are trying to ‘overblow’ Signal leak ‘mistake’, creating a ‘faux controversy,’ says GOP senator
-05:27
-Dems are trying to ‘overblow’ Signal leak ‘mistake’, creating a ‘faux controversy,’ says GOP senator
-Seen and Unseen: If PBS focused on what brings America together, it could keep running
-04:55
-Seen and Unseen: If PBS focused on what brings America together, it could keep running
-‘Libs’ are 'fussing' over who was on a text chain, says Sen. Josh Hawley
-03:46
-‘Libs’ are 'fussing' over who was on a text chain, says Sen. Josh Hawley
-Is Trump going to let Elon Musk DOGE NPR?: Watters
-10:44
-Is Trump going to let Elon Musk DOGE NPR?: Watters
-Delicate deal: Skepticism grows over Russia and Ukraine's ceasefire deal after overnight strikes
-02:13
-Delicate deal: Skepticism grows over Russia and Ukraine's ceasefire deal after overnight strikes
-Laura: The Atlantic views MAGA and Trump as the real villains
-09:31
-Laura: The Atlantic views MAGA and Trump as the real villains
-DHS Secretary Noem warns illegal aliens to not come to US
-00:32
-DHS Secretary Noem warns illegal aliens to not come to US
-Media coverage of Signal chat leak is all a 'witch hunt,' Trump says
-04:10
-Media coverage of Signal chat leak is all a 'witch hunt,' Trump says
+## Thursday, March 13
 
+BrHow Pete Hegseth Signal group chat reacted to war plans leak
 
-Pentagon
-Atlantic reporter publishes more texts about attack on Houthi targets
-Vice President JD Vance says The Atlantic 'oversold' the messages they had
-Greg Norman By Greg Norman Fox News
-Published March 26, 2025 8:55am EDT | Updated March 26, 2025 9:50am EDT
-Facebook
-Twitter
-Flipboard
-Comments
-Print
-Email
+**White House National Security Advisor Michael Waltz**: "Team – establishing a principles group for coordination on Houthis, particularly for over the next 72 hours. My deputy Alex Wong is pulling together a tiger team at deputies/agency Chief of Staff level following up from the meeting in the Sit Room this morning for action items and will be sending that out later this evening.
 
-The Atlantic releases new Hegseth messages from leaked Signal chat
-Fox News' Peter Doocy reports the latest on Signal messages between Trump officials mistakenly sent to reporter Jeffrey Goldberg.
+"Pls provide the best staff POC [point of contact] from your team for us to coordinate with over the next couple days and over the weekend. Thx."
 
-The Atlantic published Wednesday what it described as the "attack plans" at the center of a Signal text chain leak involving senior officials in the Trump administration.
+**MAR [Marco Antonio Rubio]**: "Mike Needham for State."
 
+**JD Vance**: "Andy baker for VP [vice-president]."
 
-Secretary of Defense Pete Hegseth and national security advisor Mike Waltz have faced calls to resign following revelations that the outlet's editor-in-chief Jeffrey Goldberg was inadvertently added to a private group chat earlier this month in which Hegseth, Waltz, Vice President JD Vance and other top administration officials reportedly discussed impending airstrikes on Yemen's Houthi rebels. Hegseth has said "nobody was texting war plans" and Director of National Intelligence Tulsi Gabbard vowed during a Senate Intelligence Committee hearing Tuesday that there was "no classified material" in the messages.
+**TG [presumed to be Director of National Intelligence (DNI) Tulsi Gabbard]**: "Joe Kent for DNI."
 
-"TEAM UPDATE: TIME NOW (1144et): Weather is FAVORABLE. Just CONFIRMED w/CENTCOM we are a GO for mission launch. 1215et: F-18s LAUNCH (1st strike package). 1345: ‘Trigger Based’ F-18 1st Strike Window Starts (Target Terrorist is @ his Known Location so SHOULD BE ON TIME – also, Strike Drones Launch (MQ-9s)," Hegseth apparently wrote in a screenshot of a text message released Wednesday by The Atlantic.
+**Treasury Secretary Scott B [Bessent]**: "Dan Katz for Treasury."
 
-"1410: More F-18s LAUNCH (2nd strike package). 1415: Strike Drones on Target (THIS IS WHEN THE FIRST BOMBS WILL DEFINITELY DROP, pending earlier ‘Trigger Based’ targets). 1536 F-18 2nd Strike Starts – also, first sea-based Tomahawks launched," Hegseth reportedly continued, before adding "we are currently clean on OPSEC [operational security]" and "Godspeed to our Warriors."
+**Defense Secretary Pete Hegseth**: "Dan Caldwell for DoD [department of defense.]
+
+**Brian**: "Brian McCormack for NSC (national security council)."
+
+_Goldberg added that CIA Director John Ratcliffe replied "with the name of a CIA official" which he decided not to publish for security reasons._
+
+## Friday, March 14
+
+**Waltz**: "Team, you should have a statement of conclusions with taskings per the Presidents guidance this morning in your high side inboxes.
+
+"State and DOD, we developed suggested notification lists for regional Allies and partners. Joint Staff is sending this am a more specific sequence of events in the coming days and we will work w DOD to ensure COS [chief of staff], OVP [office of vice president] and POTUS [president of the United States] are briefed."
+
+**Vance**: "Team, I am out for the day doing an economic event in Michigan. But I think we are making a mistake.
+
+"3 percent of US trade runs through the suez [canal]. 40 percent of European trade does. There is a real risk that the public doesn't understand this or why it's necessary.
+
+"The strongest reason to do this is, as POTUS said, to send a message. But I am not sure the president is aware how inconsistent this is with his message on Europe right now. There's a further risk that we see a moderate to severe spike in oil prices.
+
+"I am willing to support the consensus of the team and keep these concerns to myself. But there is a strong argument for delaying this a month, doing the messaging work on why this matters, seeing where the economy is, etc."
+
+**Joe Kent**: "There is nothing time sensitive driving the time line. We'll have the exact same options in a month.
+
+"The Israelis will likely take strikes & therefore ask us for more support to replenish whatever they use against the Houthis. But that's a minor factor. I will send you the unclass data we pulled on BAM shipping."
+
+**Ratcliffe**: "From CIA perspective, we are mobilizing assets to support now but a delay would not negatively impact us and additional time would be used to identify better starting points for coverage on Houthi leadership."
+
+**Hegseth**: "VP: I understand your concerns – and fully support you raising w/ POTUS. Important considerations, most of which are tough to know how they play out (economy, Ukraine peace, Gaza, etc). I think messaging is going to be tough no matter what – nobody knows who the Houthis are – which is why we would need to stay focused on: 1) Biden failed & 2) Iran funded.
+
+"Waiting a few weeks or a month does not fundamentally change the calculus. 2 immediate risks on waiting: 1) this leaks, and we look indecisive; 2) Israel takes an action first – or Gaza cease fire falls apart – and we don't get to start this on our own terms. We can manage both. We are prepared to execute, and if I had final go or no go vote, I believe we should. This [is] not about the Houthis. I see it as two things: 1) Restoring Freedom of Navigation, a core national interest; and 2) Reestablish deterrence, which Biden cratered. But, we can easily pause. And if we do, I will do all we can to enforce 100% OPSEC [operations security]. I welcome other thoughts."
+
+**Waltz**: "The trade figures we have are 15% of global and 30% of container. It's difficult to break that down to US. Specific because much of the container either going through the red sea still or around the Cape of Good Hope our components going to Europe that turns into manufactured good for transatlantic trade to the United States.
+
+"Whether we pull the plug or not today European navies do not have the capability to defend against the types of sophisticated, antiship, cruise missiles, and drones the Houthis are now using.
+
+"So whether it's now or several weeks from now, it will have to be the United States that reopens these shipping lanes. Per the president's request we are working with DOD and State to determine how to compile the cost associated and levy them on the Europeans."
+
+**Waltz**: "As we stated in the first PC we have a fundamental decision of allowing the sea lanes to remain closed or to re-open them now or later, we are the only ones with the capability unfortunately. From a messaging standpoint we absolutely ad this to of horribles on why the Europeans must invest in their defense."
+
+**JD Vance**: "If you think we should do it let's go. I just hate bailing Europe out again.
+
+"Let's just make sure our messaging is tight here. And if there are things we can do upfront to minimize risk to Saudi oil facilities we should do it.
+
+**Hegseth**: "VP: I fully share your loathing of European free-loading. It's PATHETIC. But Mike is correct, we are the only ones on the planet (on our side of the ledger) who can do this. Nobody else even close. Question is timing. I feel like now is as good a time as any, given POTUS directive to reopen shipping lanes. I think we should go; but POTUS still retains 24 hours of decision space."
+
+**SM [Stephen Miller]**: "As I heard it, the president was clear: green light, but we soon make clear to Egypt and Europe what we expect in return. We also need to figure out how to enforce such a requirement. EG, if Europe doesn't remunerate, then what? If the US successfully restores freedom of navigation at great cost there needs to be some further economic gain extracted in return."
+
+**Hegseth**: "Agree."
+
+## Saturday, March 15
+
+**Hegseth**: "TEAM UPDATE:
+
+"TIME NOW (1144et): Weather is FAVORABLE. Just CONFIRMED W/ CENTCOM we are a GO for mission launch.
+
+"1215et: F-18s LAUNCH (1st strike package)
+
+"1345: 'Trigger Based' F-18 1st Strike Window Starts (Target Terrorist is @ his Known Location so SHOULD BE ON TIME) - also, Stike Drones Launch (MQ-9s)
+
+"1410: More F-18s LAUNCH (2nd strike package)
+
+1415: "Strike Drones on Target (THIS IS WHEN THE FIRST BOMBS WILL DEFINITELY DROP, pending earlier 'Trigger Based' targets)
+
+15:36: "F-18 2nd Strike Starts - also, first sea-based Tomahawks launched."
+
+"MORE TO FOLLOW per timeline. We are currently clean on OPSEC. Godspeed to our Warriors."
+
+**Vance**: "I will say a prayer for victory."
+
+**Waltz**: "VP. building collapsed. Had multiple positive ID. Pete, Kurilla, the IC, amazing job."
+
+**Vance**: "What?"
+
+**Waltz**: "Typing too fast. The first target - their top missile guy - we had positive ID of him walking into his girlfriend's building and it's now collapsed."
+
+**Vance**: "Excellent."
+
+**Waltz**: 👊🇺🇸🔥
+
+**MAR**: "Good Job Pete and your team!!"
+
+**Waltz**: "The team in MAL did a great job as well."
+
+**SM**: "Great work all. Powerful start."
+
+**Hegseth**: "CENTCOM was/is on point. Great job all. More strikes ongoing for hours tonight and will provide full initial report tomorrow. But on time, on target, and good readouts so far."
+
+**Susie Wiles**: "Kudos to all – most particularly those in theater and CENTCOM! Really great. God bless."
+
+**Steve Witkoff**: 🙏 💪 🇺🇸 🇺🇸 
+
+**TG**: "Great work and effects!"
+
+### What People Are Saying
+
+Defense Secretary Pete Hegseth to reporters: "You're talking about a deceitful and highly discredited so-called journalist who's made a profession of peddling hoaxes time and time again...This is a guy who peddles in garbage...Nobody was texting war plans and that's all I have to say."
+
+Jeffrey Goldberg, editor-in-chief of The Atlantic, on MSNBC: "The Secretary of Defense seems like a person who is unserious and is trying to deflect from the fact that he participated in a conversation on an unclassified messaging app that he probably shouldn't have participated in."
+
+Brian Hughes, a spokesperson for the NSC, confirmed the veracity of the group text to Goldberg: "This appears to be an authentic message chain, and we are reviewing how an inadvertent number was added to the chain. The thread is a demonstration of the deep and thoughtful policy coordination between senior officials. The ongoing success of the Houthi operation demonstrates that there were no threats to troops or national security."
+
+Former CIA Director Leon Panetta called it: "A very serious mistake" that "could violate the espionage laws, but more importantly, could undermine our national security."
+
+President Donald Trump claimed no knowledge of the incident: "I don't know anything about it. I'm not a big fan of The Atlantic. To me, it's a magazine that's going out of business. But I know nothing about it. You're saying that they had what?"
+
+### What Happens Next
+
+Goldberg said he left the Signals chat group, so he will be unable to report on any additional conversation. It is unclear whether there will be an investigation into what went wrong.
 
 ## [The Atlantic's Jeffrey Goldberg exposed a new national security low for Trump](https://www.msnbc.com/opinion/msnbc-opinion/trump-war-plans-leak-atlantic-group-text-hegseth-rcna197831)
 
@@ -165,7 +209,7 @@ March 24, 2025, 12:06 PM ET
 | [Federal Bureau of Investigation (FBI)](https://www.fbi.gov/) | The [Federal Bureau of Investigation (FBI)](https://www.fbi.gov/) enforces federal law, and investigates a variety of criminal activity including terrorism, cybercrime, white collar crimes, public corruption, civil rights violations, and other major crimes. In an emergency dial 911! |
 | [National Security Agency (NSA)](http://www.nsa.gov/)| The [National Security Agency (NSA)](http://www.nsa.gov/) provides the military forces needed to deter war, and to protect the security of the United States. |
 | [National Security Council(NSC)](https://www.whitehouse.gov/nsc/) | The [National Security Council(NSC)](https://www.whitehouse.gov/nsc/) advises the President on national security and foreign policy. |
-| [Department of the Treasury](https://home.treasury.gov/) | The Department of the Treasury manages federal finances by collecting taxes and paying bills and by managing currency, government accounts and public debt. The Department of the Treasury also enforces finance and tax laws. |
+| [Department of the Treasury](https://home.treasury.gov/) | The [Department of the Treasury](https://home.treasury.gov/) manages federal finances by collecting taxes and paying bills and by managing currency, government accounts and public debt. The Department of the Treasury also enforces finance and tax laws. |
 
 - [The Mar-a-Lago Club](https://www.maralagoclub.com/)
 - [Trump Tower / New York, NY](https://www.trump.com/residential-real-estate-portfolio/trump-tower-new-york)
