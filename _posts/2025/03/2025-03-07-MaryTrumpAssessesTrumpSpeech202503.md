@@ -17,7 +17,7 @@ title: "Donald Trump’s Endless Stream of Lies To Joint Session of Congress"
 
 Mar 5, 2025  #marytrump [#trumpcabinet](https://www.whitehouse.gov/) [#donaldtrump](https://www.whitehouse.gov/administration/donald-j-trump/)
 Subscribe here:    / @marytrumpmedia
-[Donald Trump’s](https://www.whitehouse.gov/administration/donald-j-trump/) latest address to [Congress](https://www.congress.gov/) was a disaster—full of hypocrisy, lies, and authoritarian threats. From gaslighting about “free speech” to defending [Elon Musk’s](https://x.com/elonmusk/) illegal power grab, this speech revealed it all. Even [Republicans](https://www.gop.com/) were caught off guard. Let’s break it down!
+[Donald Trump’s](https://www.whitehouse.gov/administration/donald-j-trump/) latest address to [Congress](https://www.congress.gov/) was a disaster—full of hypocrisy, lies, and authoritarian threats. From gaslighting about “free speech” to defending [Elon Musk’s](https://x.com/elonmusk/) illegal power grab, this speech revealed it all. Even [Trumpians](https://www.gop.com/) were caught off guard. Let’s break it down!
 
 - not a democracy any more
 - joint address: rule by unelected bureaucrats is over

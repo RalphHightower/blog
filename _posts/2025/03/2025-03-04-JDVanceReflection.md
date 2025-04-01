@@ -11,7 +11,7 @@ title: "JD “John Boy” Vance Speaks “The Truth” Of His Own Party"
 ---
 
 
-## [JD Vance Accidentally Spills The GOP’s Strategy In Stunning Self-Own](https://www.huffpost.com/entry/jd-vance-attack-on-democrats-backfire_n_67c6c04ee4b03c5688a77d6a)
+## [JD Vance Accidentally Spills The Trump Party’s Strategy In Stunning Self-Own](https://www.huffpost.com/entry/jd-vance-attack-on-democrats-backfire_n_67c6c04ee4b03c5688a77d6a)
 
 Story by Lee Moran. March 4, 2025
 
@@ -56,7 +56,7 @@ It’s always projection with these guys.
 I am rubber, you are glue…
 
 — JustKim and Xoe (@xoelive.bsky.social)2025-03-04T02:32:10.215Z
-Just delete words [Democratic Party](https://www.democrats.org/) & insert [Republicans](https://www.gop.com/) and ya got truth.
+Just delete words [Democratic Party](https://www.democrats.org/) & insert [Trumpians](https://www.gop.com/) and ya got truth.
 
 — (@talyce.bsky.social)2025-03-04T03:06:51.340Z
 

@@ -40,7 +40,7 @@ In summary, the [NOAA](https://www.noaa.gov/) layoffs pose significant threats t
 - [Project 2025](https://www.project2025.org/)
 - [Russ Vought / LinkedIn](https://www.linkedin.com/in/russ-vought-787396226/)[^1000]
 - [Elon Musk](https://x.com/elonmusk/)
-- [Boring](https://www.boringcompany.com/)
+- [The Boring Company](https://www.boringcompany.com/)
 - [Neuralink](https://neuralink.com/)
 - [SpaceX](https://www.spacex.com/)
 - [Starlink](https://www.starlink.com/)
