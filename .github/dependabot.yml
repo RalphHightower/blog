@@ -4,8 +4,15 @@
 version: 2
 updates:
 permissions:
-  contents: write
+  # contents: write
   # Enable version updates for npm
+  - package-ecosystem: github-actions
+    directory: /
+    schedule:
+      interval: daily
+    commit-message:
+      prefix: "[info](sec) gh-actions:"
+
   - package-ecosystem: "npm"
     # Look for `package.json` and `lock` files in the `root` directory
     directory: "/"
@@ -26,10 +33,3 @@ permissions:
       interval: "daily"
     commit-message:
       prefix: "[info](sec) bundler:"
-
-  - package-ecosystem: github-actions
-    directory: /
-    schedule:
-      interval: daily
-    commit-message:
-      prefix: "[info](sec) gh-actions:"
