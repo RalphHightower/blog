@@ -70,7 +70,7 @@ If [Trump](https://www.whitehouse.gov/administration/donald-j-trump/) can toss m
 
 Once the line is crossed, once we allow the executive branch to function as an unaccountable dictatorship, there is no going back.
 
-The [Republican Party](https://www..gop.com/), already complicit in countless abuses of power, must be forced to confront this atrocity. Every [Republican](https://www..gop.com/) in the [House](https://www.house.gov/) and [Senate](https://www.senate.gov/) who still believes in the [Constitution](https://constitution.congress.gov/)—if any remain—must rise up and act.
+The [Trumpian Party](https://www..gop.com/), already complicit in countless abuses of power, must be forced to confront this atrocity. Every [Trumpian](https://www..gop.com/) in the [House](https://www.house.gov/) and [Senate](https://www.senate.gov/) who still believes in the [Constitution](https://constitution.congress.gov/)—if any remain—must rise up and act.
 
 They must demand [Trump's](https://www.whitehouse.gov/administration/donald-j-trump/) impeachment for violating his oath of office, for disregarding judicial authority, and for trampling on the rights enshrined in our nation’s founding documents.
 
