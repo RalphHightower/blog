@@ -4,7 +4,6 @@
 version: 2
 updates:
 permissions:
-  # contents: write
   # Enable version updates for npm
   - package-ecosystem: github-actions
     directory: /
@@ -24,6 +23,7 @@ permissions:
 
   # Enable version updates for Ruby
   - package-ecosystem: "bundler"
+    contents: write
     # Look for `Ruby Gems` in the following directories 
     directories: 
       - "/"
