@@ -29,27 +29,7 @@ title: "Musk’s Personnel Vendettas: Federal/States Gov’t"
 
 #### [The Boring Company](https://www.boringcompany.com/)
 
-##### [Texas Commission on Environmental Quality](https://www.tceq.texas.gov/)
-
-[Texas Commission on Environmental Quality](https://www.tceq.texas.gov/) Report:
-
-- [TBC - The Boring Company](https://www.tceq.texas.gov/downloads/agency/decisions/agendas/backup/2023/2023-1489-wq-e.pdf)
-
-##### [Texas](https://www.texas.gov/)
-
-###### [The Boring Company fined by TCEQ for pollution violations](https://www.mysanantonio.com/business/article/boring-company-tceq-fine-19523328.php)
-
-*Residents have been calling out pollution concerns for years.*
-
-By Cristela Jones, June 20, 2024
-Austin Trending Reporter
-
-\$11,876 penalty for violations
-October 2023, The Boring Company faced four water quality-related violations
-
-- failed to implement effective erosion and sediment controls to minimize the discharge of pollutants
-- did not stabilize areas where construction has stopped.
-- failed to obtain a permit to prevent the dumping of concrete truck wash out and stormwater
+##### Nevada, Las Vegas 
 
 ###### [New Violations Unearthed in Elon Musk’s Vegas Loop Construction — Report](https://www.casino.org/news/new-violations-unearthed-in-elon-musks-vegas-loop-construction-report/)
 
@@ -63,7 +43,31 @@ Expertise: Commercial Gaming, Entertainment, Expert Insight, Las Vegas, Restaura
 - A 2023 finding by Clark County that Boring tunneled without permits to work on county property, after which the county allowed the company to file for the permits retroactively and pay a $900 fine for each one.
 - A 2024 violation resulting from an unsecured Boring truck that spilled hazardous material all over the I-15 — closing it down for four hours during rush hour — which resulted in a fine of only \$75 (that’s with no K) to the driver.
 
-###### [Elon Musk's Boring Co. Slapped With More Environmental Violations](https://www.austinchronicle.com/news/2023-10-13/elon-musks-boring-co-slapped-with-more-environmental-violations/)
+##### [Texas](https://www.texas.gov/)
+
+###### [Texas Commission on Environmental Quality](https://www.tceq.texas.gov/)
+
+[Texas Commission on Environmental Quality](https://www.tceq.texas.gov/) Report:
+
+- [TBC - The Boring Company](https://www.tceq.texas.gov/downloads/agency/decisions/agendas/backup/2023/2023-1489-wq-e.pdf)
+
+###### News
+
+[The Boring Company fined by TCEQ for pollution violations](https://www.mysanantonio.com/business/article/boring-company-tceq-fine-19523328.php)
+
+*Residents have been calling out pollution concerns for years.*
+
+By Cristela Jones, June 20, 2024
+Austin Trending Reporter
+
+\$11,876 penalty for violations
+October 2023, The Boring Company faced four water quality-related violations
+
+- failed to implement effective erosion and sediment controls to minimize the discharge of pollutants
+- did not stabilize areas where construction has stopped.
+- failed to obtain a permit to prevent the dumping of concrete truck wash out and stormwater
+
+[Elon Musk's Boring Co. Slapped With More Environmental Violations](https://www.austinchronicle.com/news/2023-10-13/elon-musks-boring-co-slapped-with-more-environmental-violations/)
 
 *We Musk ask you to follow the law. Elon Musk is upset he can't pollute more*
 By Lina Fisher, Fri., Oct. 13, 2023
@@ -167,36 +171,36 @@ Midair Collision [PSA Airlines]() [Bombardier]() [CRJ700]() Airplane and [Sikors
 1. **[Tesla](https://www.tesla.com/)**:
     1. **[National Highway Traffic Safety Administration (NHTSA)](https://www.nhtsa.gov/)**: Oversees vehicle safety standards and recalls.
     2. **[Environmental Protection Agency (EPA)](https://www.epa.gov/)**: Regulates emissions and environmental compliance.
-    3. **[National Labor Relations Board (NRLB)](https://www.nlrb.gov/)**: The National Labor Relations Board (NLRB) enforces the National Labor Relations Act by investigating allegations of wrong-doing brought by workers, unions, or employers, conducting elections, and deciding and resolving cases.
+    3. **[National Labor Relations Board (NRLB)](https://www.nlrb.gov/)**: [National Labor Relations Board (NRLB)](https://www.nlrb.gov/) enforces the National Labor Relations Act by investigating allegations of wrong-doing brought by workers, unions, or employers, conducting elections, and deciding and resolving cases.
     4. **[Securities and Exchange Commission (SEC)](https://www.sec.gov/)**: Monitors financial disclosures and securities regulations³.
     5. **[Internal Revenue Service (IRS)](https;//www.irs.gov/)**: No person or company is exempt.
     6. **[Department of Labor (DOL)](https://www.dol.gov/)**: Regulates fiduciary responsibilities and retirement plans³
     7. **[Social Security Administration](https://www.ssa.gov/)**: Runs the Social Security retirement, survivors, and disability insurance programs.
-    8. **[Equal Employment Opportunity Commission](https://www.eeoc.gov/)**: The Equal Employment Opportunity Commission (EEOC) enforces laws that make discrimination illegal in the workplace. The commission oversees all types of work situations including hiring, firing, promotions, harassment, training, wages, and benefits.
+    8. **[Equal Employment Opportunity Commission](https://www.eeoc.gov/)**: The [Equal Employment Opportunity Commission](https://www.eeoc.gov/) enforces laws that make discrimination illegal in the workplace. The commission oversees all types of work situations including hiring, firing, promotions, harassment, training, wages, and benefits.
 2. **[SpaceX](https://www.spacex.com/)**:
     1. **[Federal Aviation Administration (FAA)](https://www.fda.gov/)**: Regulates commercial space launches and reentries.
     2. **[National Aeronautics and Space Administration (NASA)](https://www.nasa.gov/)**: Collaborates on space missions and contracts.
     3. **[Department of Defense (DOD)](https://www.defense.gov/)**: Engages in defense contracts and satellite launches².
     4. **[Environmental Protection Agency (EPA)](https://www.epa.gov/)**: Regulates emissions and environmental compliance.
-    5. **[National Labor Relations Board (NRLB)](https://www.nlrb.gov/)**: The National Labor Relations Board (NLRB) enforces the National Labor Relations Act by investigating allegations of wrong-doing brought by workers, unions, or employers, conducting elections, and deciding and resolving cases.
+    5. **[National Labor Relations Board (NRLB)](https://www.nlrb.gov/)**: The [National Labor Relations Board (NRLB)](https://www.nlrb.gov/) enforces the National Labor Relations Act by investigating allegations of wrong-doing brought by workers, unions, or employers, conducting elections, and deciding and resolving cases.
     6. **[Internal Revenue Service (IRS)](https;//www.irs.gov/)**: No person or company is exempt.
     7. **[Department of Labor (DOL)](https://www.dol.gov/)**: Regulates fiduciary responsibilities and retirement plans³.
     8. **[Social Security Administration](https://www.ssa.gov/)**: Runs the Social Security retirement, survivors, and disability insurance programs.
-    9. **[Equal Employment Opportunity Commission](https://www.eeoc.gov/)**: The Equal Employment Opportunity Commission (EEOC) enforces laws that make discrimination illegal in the workplace. The commission oversees all types of work situations including hiring, firing, promotions, harassment, training, wages, and benefits.
+    9. **[Equal Employment Opportunity Commission (EEOC)](https://www.eeoc.gov/)**: The [Equal Employment Opportunity Commission (EEOC)](https://www.eeoc.gov/) enforces laws that make discrimination illegal in the workplace. The commission oversees all types of work situations including hiring, firing, promotions, harassment, training, wages, and benefits.
 3. **[X](https://x.com/) (formerly [Twitter](https://twitter.com/))**:
     1. **[Federal Trade Commission (FTC)](https://www.ftc.gov/)**: Ensures consumer protection and privacy standards
     2. **[Federal Communications Commission (FCC)](https://www.fcc.gov/)**: Regulates communications and broadcasting⁴.
     3. **[Internal Revenue Service (IRS)](https;//www.irs.gov/)**: No person or company is exempt.
     4. **[Department of Labor (DOL)](https://www.dol.gov/)**: Regulates fiduciary responsibilities and retirement plans³.
     5. **[Social Security Administration](https://www.ssa.gov/)**: Runs the Social Security retirement, survivors, and disability insurance programs.
-    6. **[Equal Employment Opportunity Commission](https://www.eeoc.gov/)**: The Equal Employment Opportunity Commission (EEOC) enforces laws that make discrimination illegal in the workplace. The commission oversees all types of work situations including hiring, firing, promotions, harassment, training, wages, and benefits.
+    6. **[Equal Employment Opportunity Commission (EEOC)](https://www.eeoc.gov/)**: The [Equal Employment Opportunity Commission (EEOC)](https://www.eeoc.gov/) enforces laws that make discrimination illegal in the workplace. The commission oversees all types of work situations including hiring, firing, promotions, harassment, training, wages, and benefits.
 4. **[The Boring Company](https://www.boringcompany.com/)**:
     1. **[Department of Transportation (DOT)](https://www.dot.gov/)**: Oversees transportation infrastructure projects.
     2. **[Environmental Protection Agency (EPA)](https://www.epa.gov/)**: Ensures environmental compliance for tunneling projects⁴.
     3. **[Internal Revenue Service (IRS)](https;//www.irs.gov/)**: No person or company is exempt.
     4. **[Department of Labor (DOL)](https://www.dol.gov/)**: Regulates fiduciary responsibilities and retirement plans³.
     5. **[Social Security Administration](https://www.ssa.gov/)**: Runs the Social Security retirement, survivors, and disability insurance programs.
-    6. **[Equal Employment Opportunity Commission](https://www.eeoc.gov/)**: The Equal Employment Opportunity Commission (EEOC) enforces laws that make discrimination illegal in the workplace. The commission oversees all types of work situations including hiring, firing, promotions, harassment, training, wages, and benefits.
+    6. **[Equal Employment Opportunity Commission (EEOC)](https://www.eeoc.gov/)**: The [Equal Employment Opportunity Commission (EEOC)](https://www.eeoc.gov/) enforces laws that make discrimination illegal in the workplace. The commission oversees all types of work situations including hiring, firing, promotions, harassment, training, wages, and benefits.
 5. **[Neuralink](https://neuralink.com/)**:
     1. **[Food and Drug Administration (FDA)](https://www.fda.gov/)**: Regulates medical devices and clinical trials.
     2. **[National Institutes of Health (NIH)](https://www.nih.gov/)**: Provides research funding and oversight⁴.
@@ -210,7 +214,7 @@ Midair Collision [PSA Airlines]() [Bombardier]() [CRJ700]() Airplane and [Sikors
     3. **[Internal Revenue Service (IRS)](https;//www.irs.gov/)**: No person or company is exempt.
     4. **[Department of Labor (DOL)](https://www.dol.gov/)**: Regulates fiduciary responsibilities and retirement plans³.
     5. **[Social Security Administration](https://www.ssa.gov/)**: Runs the Social Security retirement, survivors, and disability insurance programs.
-    6. **[Equal Employment Opportunity Commission](https://www.eeoc.gov/)**: The Equal Employment Opportunity Commission (EEOC) enforces laws that make discrimination illegal in the workplace. The commission oversees all types of work situations including hiring, firing, promotions, harassment, training, wages, and benefits.
+    6. **[Equal Employment Opportunity Commission (EEOC)](https://www.eeoc.gov/)**: The [Equal Employment Opportunity Commission (EEOC)](https://www.eeoc.gov/) enforces laws that make discrimination illegal in the workplace. The commission oversees all types of work situations including hiring, firing, promotions, harassment, training, wages, and benefits.
 7. **[Starlink](https://www.starlink.com/)**:
     1. **[Federal Aviation Administration (FAA)](https://www.fda.gov/)**: Regulates commercial space launches and reentries
     2. **[Federal Trade Commission (FTC)](https://www.ftc.gov/)**: Ensures consumer protection and privacy standards.
@@ -218,22 +222,23 @@ Midair Collision [PSA Airlines]() [Bombardier]() [CRJ700]() Airplane and [Sikors
     4. **[Internal Revenue Service (IRS)](https;//www.irs.gov/)**: No person or company is exempt.
     5. **[Department of Labor (DOL)](https://www.dol.gov/)**: Regulates fiduciary responsibilities and retirement plans³.
     6. **[Social Security Administration](https://www.ssa.gov/)**: Runs the Social Security retirement, survivors, and disability insurance programs.
-    7. **[Equal Employment Opportunity Commission](https://www.eeoc.gov/)**: The Equal Employment Opportunity Commission (EEOC) enforces laws that make discrimination illegal in the workplace. The commission oversees all types of work situations including hiring, firing, promotions, harassment, training, wages, and benefits.
+    7. **[Equal Employment Opportunity Commission (EEOC)](https://www.eeoc.gov/)**: The [Equal Employment Opportunity Commission (EEOC)](https://www.eeoc.gov/) enforces laws that make discrimination illegal in the workplace. The commission oversees all types of work situations including hiring, firing, promotions, harassment, training, wages, and benefits.
 
 | Agency | Purpose | Reasons | Outcome |
 |---|---|----|---|
-| [U.S. Agency for International Development (USAID)](http://www.usaid.gov/) | Th[U.S. Agency for International Development (USAID)](http://www.usaid.gov/) is the principal U.S. agency to extend assistance to countries recovering from disaster, trying to escape poverty, and engaging in democratic reforms. | Investigating Starlink contract with Ukraine | Agency closure attempted. Funding cuts. |
-| [U.S. Department of Agriculture (USDA)](https://www.usda.gov/) | The [U.S. Department of Agriculture (USDA)](https://www.usda.gov/) provides leadership on food, agriculture, natural resources, and related issues. | Investigating Neuralink excessive use of animals used for product testing. | Inspector General fired |
 | [Consumer Financial Protection Bureau (CFPB)](https://www.consumerfinance.gov/) | The [Consumer Financial Protection Bureau (CFPB)](https://www.consumerfinance.gov/) helps consumers by providing educational materials and accepting complaints. It supervises banks, lenders, and large non-bank entities, such as credit reporting agencies and debt collection companies. The Bureau also works to make credit card, mortgage, and other loan disclosures clearer, so consumers can understand their rights and responsibilities. | Investigating Tesla |  |
 | [Department of Justice (DOJ)](https://www.justice.gov/) | The [Department of Justice (DOJ)](https://www.justice.gov/) enforces federal laws, seeks just punishment for the guilty, and ensures the fair and impartial administration of justice. |
 | [Department of Labor (DOL)](https://www.dol.gov/) | The [Department of Labor (DOL)](https://www.dol.gov/) administers federal labor laws to guarantee workers' rights to fair, safe, and healthy working conditions, including minimum hourly wage and overtime pay, protection against employment discrimination, and unemployment insurance. |
 | [Environmental Protection Agency (EPA)](https://www.epa.gov/) | The [Environmental Protection Agency (EPA)](https://www.epa.gov/) protects people and the environment from significant health risks, sponsors and conducts research, and develops and enforces environmental regulations. |
-| [Federal Aviation Administration (FAA)](https://www.faa.gov/) | The Federal Aviation Administration (FAA) works to ensure that air travel is safe. |
+| [Federal Aviation Administration (FAA)](https://www.faa.gov/) | The [Federal Aviation Administration (FAA)](https://www.faa.gov/) works to ensure that air travel is safe. |
 | [Federal Emergency Management Agency (FEMA)](https://www.fema.gov/) | The [Federal Emergency Management Agency (FEMA)](https://www.fema.gov/) supports citizens and emergency personnel to build, sustain, and improve the nation's capability to prepare for, protect against, respond to, recover from, and mitigate all hazards. |
 | [Federal Communications Commission (FCC)](https://www.fcc.gov/) | The [Federal Communications Commission (FCC)](https://www.fcc.gov/) regulates interstate and international communications through cable, radio, television, satellite and wire. The goal of the Commission is to promote connectivity and ensure a robust and competitive market. |
 | [Federal Trade Commission (FTC)](https://www.ftc.gov/) | The [Federal Trade Commission (FTC)](https://www.ftc.gov/) works to prevent fraudulent, deceptive, and unfair business practices. They also provide information to help consumers spot, stop, and avoid scams and fraud. |
 | [Department of Justice (DOJ)](https://www.justice.gov/) | The [Department of Justice (DOJ)](https://www.justice.gov/) enforces federal laws, seeks just punishment for the guilty, and ensures the fair and impartial administration of justice. |
 | [National Aeronautics and Space Administration (NASA)](https://www.nasa.gov/) | The [National Aeronautics and Space Administration (NASA)](https://www.nasa.gov/) explores space, and researches Earth systems, the solar system, and the universe. |
 | [National Labor Relations Board (NLRB)](https://www.nlrb.gov/) | The [National Labor Relations Board (NLRB)](https://www.nlrb.gov/) enforces the National Labor Relations Act by investigating allegations of wrong-doing brought by workers, unions, or employers, conducting elections, and deciding and resolving cases. |
+| [Securities and Exchange Commission](https://www.sec.gov/) | The [Securities and Exchange Commission](https://www.sec.gov/) oversees securities exchanges, securities brokers and dealers, investment advisors, and mutual funds in an effort to promote fair dealing, the disclosure of important market information, and to prevent fraud. |
+| [U.S. Department of Agriculture (USDA)](https://www.usda.gov/) | The [U.S. Department of Agriculture (USDA)](https://www.usda.gov/) provides leadership on food, agriculture, natural resources, and related issues. | Investigating Neuralink excessive use of animals used for product testing. | Inspector General fired |
+| [U.S. Agency for International Development (USAID)](http://www.usaid.gov/) | The [U.S. Agency for International Development (USAID)](http://www.usaid.gov/) is the principal U.S. agency to extend assistance to countries recovering from disaster, trying to escape poverty, and engaging in democratic reforms. | Investigating Starlink contract with Ukraine | Agency closure attempted. Funding cuts. |
 
 - [SpaceX - Starship](https://www.spacex.com/vehicles/starship/)

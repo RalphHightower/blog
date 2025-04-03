@@ -58,7 +58,7 @@ _Our democracy is under threat. But we will not yield to fascism. We will stand 
 | Paul Winfree | 24 | [Federal Reserve](https://static.project2025.org/2025_MandateForLeadership_CHAPTER-24.pdf) |
 | [Karen Kerrigan](https://www.linkedin.com/in/karenkerrigan/) | 25 | [Small Business Administration](https://static.project2025.org/2025_MandateForLeadership_CHAPTER-25.pdf) |
 | | 26 | [Trade](https://static.project2025.org/2025_MandateForLeadership_CHAPTER-26.pdf) |
-| Peter Navarro | 26a | [The Case For Fair Trade](https://static.project2025.org/2025_MandateForLeadership_CHAPTER-26.pdf) |
+| [Peter Navarro](https://www.linkedin.com/in/peter-navarro-93167122/) | 26a | [The Case For Fair Trade](https://static.project2025.org/2025_MandateForLeadership_CHAPTER-26.pdf) |
 | [Kent Lassman](https://www.linkedin.com/in/kent-lassman-8521a77/) | 26b | [The Case For Free Trade](https://static.project2025.org/2025_MandateForLeadership_CHAPTER-26.pdf#page=32) |
 | | Section 5 | [Independent Regulatory Agencies](https://static.project2025.org/2025_MandateForLeadership_SECTION-05.pdf)
 | | 27 | [Financial Regulatory Resources](https://static.project2025.org/2025_MandateForLeadership_CHAPTER-27.pdf) |
@@ -77,7 +77,6 @@ Gene Hamilton
 Dennis Dean Kirk
 Christopher Miller
 Stephen Moore
-Peter Navarro
 Hans A. von Spakovsky
 William L. Walton
 Paul Winfree

@@ -18,6 +18,21 @@ The telephone numbers below have called and there is an empty person on the othe
 
 | Telephone Number | Location | Date Time[^11] | Caller | Social Media |
 |---|---|---|---|---|
+| <a href="tel:+18036673131">+1 (803) 667-3131</a> | SC. Columbia | 2025-04-02 06:14 PM ¤¤ | - | |
+| <a href="tel:+18036673131">+1 (803) 667-3131</a> | SC. Columbia | 2025-04-02 06:13 PM | - | |
+| <a href="tel:+18037080469">+1 (803) 708-0469</a> | SC. Columbia | 2025-04-02 04:56 PM | Linda Larkin | |
+| <a href="tel:+18037735451">+1 (803) 773-5451</a> | SC. Sumter | 2025-04-02 03:50 PM | Richard Newman | |
+| <a href="tel:+18035477048">+1 (803) 547-7048</a> | SC. Fort Mill | 2025-04-02 03:17 PM | B Hollandsworth | |
+| <a href="tel:+18032585532">+1 (803) 258-5532</a> | SC. | 2025-04-02 03:04 PM | Potential Spam | |
+| <a href="tel:+18033935737">+1 (803) 393-5737</a> | SC. Jackson | 2025-04-02 01:46 PM | Potential Spam | |
+| <a href="tel:+18033065824">+1 (803) 306-5824</a> | SC. | 2025-04-02 01:30 PM | Potential Spam | |
+| <a href="tel:+18036025616">+1 (803) 602-5616</a> | SC. | 2025-04-02 12:32 PM ¤¤ | Potential Spam | |
+| <a href="tel:+18036025616">+1 (803) 602-5616</a> | SC. | 2025-04-02 12:31 PM | Potential | |
+| <a href="tel:+18037646518">+1 (803) 764-6518</a> | SC. Columbia | 2025-04-02 12:15 PM | Rudelle R Eaddy | |
+| <a href="tel:+18035107902">+1 (803) 510-7902</a> | SC. North Augusta | 2025-04-02 11:49 AM | Potential Spam | |
+| <a href="tel:+18032651390">+1 (803) 265-1390</a> | SC. Beech Island | 2025-04-02 11:27 AM | Potential Spam | |
+| <a href="tel:+18037752266">+1 (803) 775-2266</a> | SC. | 2025-04-02 10:25 AM | Harvin M Land | |
+| <a href="tel:+18395293460">+1 (839) 529-3460</a> | SC. Bamberg | 2025-04-02 09:53 AM | - | |
 | <a href="tel:+18035817578">+1 (803) 581-7578</a> | SC. Chester | 2025-03-28 05:13 PM | Carter John | |
 | <a href="tel:+18037143457">+1 (803) 714-3457</a> | SC. Columbia | 2025-03-28 05:13 PM ¤¤ | Potential Spam | |
 | <a href="tel:+18037143457">+1 (803) 714-3457</a> | SC. Columbia | 2025-03-28 05:12 PM | Potential Spam | |
