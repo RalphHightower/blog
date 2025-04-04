@@ -28,7 +28,7 @@ Various news media has reported that today was the worst stock market drop since
 | Index | Closing Value | Gain/Loss | Percentage Change | 
 |---|---:|---:|---:| 
 | S&P 500 | 5,396.52 | -274.45 | :arrow_down: 4.84% |
-| Dow Jones Industrial Average | 40,545.93 | -1,679.39 | :arrow_down: 3.98% | |
+| Dow Jones Industrial Average | 40,545.93 | -1,679.39 | :arrow_down: 3.98% |
 | Nasdaq Composite | 16,550.61 | -1,050.44 | :arrow_down: 5.97% |
 | Russell 2000 Index | 1,910.55 | -134.82 | :arrow_down: 6.59% |
 | S&P/TSX Composite Index | 24,335.77 | -971.41 | :arrow_down: 3.84% |
@@ -37,7 +37,7 @@ Various news media has reported that today was the worst stock market drop since
 | Dow Jones Transportation Average | 13,621.34| -1,371.64 | :arrow_down: 9.15%
 | Dow Jones Utility Average | 1,026.49 | -3.75 | :arrow_down: 0.36% 
 | S&P Latin America 40 | 2,453.13 | +4.90 | :arrow_up: 0.20% 
-| VIX | 30.02 | +8.51 | :arrow_up: 39.56% 
+| VIX[^40] | 30.02 | +8.51 | :arrow_up: 39.56% 
 | Russell 1000 | 2,947.81 | -154.68 | :arrow_down: 4.99% 
 | Dow Jones U.S. Total Stock Market | 53,180.45 | -2,859.52 | :arrow_down: 5.10% 
 | Barron's 400 | 1,139.44 | -72.41 | :arrow_down: 5.97% 
@@ -124,6 +124,8 @@ Various news media has reported that today was the worst stock market drop since
 | S&P/ASX 300 | 7,794.00 | -74.20 | :arrow_down: 0.94%  |
 | S&P/NZX 20 Index | 7,209.21 | -89.98 | :arrow_down: 1.23%  |
 | S&P/NZX All Index | 1,760.46 | -21.73 | :arrow_down: 1.22% |
+
+[^40]: CBOE Volatility Index. See section below world markets 
 
 ### List of some of the major stock markets around the world and their locations:
 
