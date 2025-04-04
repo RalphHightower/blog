@@ -4,6 +4,7 @@ tags: [We Are the "Enemy Within", political strategy]
 categories: [Resistance Party]
 date: 2025-03-06 2:22 PM
 excerpt: "Trump did not win by a mandate. He did not cross over 50% in 2024 or 2016, although he got 9 more electoral votes the third time around. His margin of victory was less than 1.5%, 1.48% to be exact. I don’t give a shit about those election deniers; these are the undisputed numbers as recorded by the Federal Election Commission."
+toc: true
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
