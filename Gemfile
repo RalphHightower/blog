@@ -11,9 +11,7 @@ source 'https://rubygems.org'
 # Happy Jekylling!
 
 gem 'jekyll', '~> 4.4', '>= 4.4.1'
-# gem 'jekyll', '~> 4.3', '>= 4.3.4'
 gem 'kramdown', '~> 2.5', '>= 2.5.1'
-# gem 'sassc-embedded', '~> 1.80', '>= 1.80.1'
 gem 'jekyll-sass-converter', '~> 3.1'
 gem 'rake', '~> 13.2', '>= 13.2.1'
 gem 'minima', '~> 2.5', '>= 2.5.2'
@@ -37,9 +35,12 @@ gem 'jekyll-sitemap', '~> 1.4'
 # gem 'jekyll-tagging', github: 'RalphHightower/jekyll-tagging', branch: 'master'
 # gem 'jekyll-tagging', '~> 1.1'
 gem 'jekyll-titles-from-headings', '~> 0.5.3'
+gem 'jekyll-toc', '~> 0.19.0'
 
-# Nokogiri updates packaged libxslt to v1.1.43 to resolve multiple CVEs
-gem 'nokogiri', '~> 1.18', '>= 1.18.5'
+# Security updates
+# { 2025-03-03 
+gem 'uri', '~> 1.0', '>= 1.0.3'
+# } 2025-03-03
 
 # { 2025-01-11 @RalphHightower jekyll_ai_related_posts
 # gem 'activerecord', '~> 7.2', '>= 7.2.2.1'

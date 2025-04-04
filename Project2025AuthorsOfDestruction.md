@@ -11,11 +11,6 @@ title: "Authors of Mass Destruction: Project 2025"
 ---
 
 
-## [Indivisible](https://indivisible.org/)
-
-**We fight on, together**
-_Our democracy is under threat. But we will not yield to fascism. We will stand together and we'll fight back in defense of our rights, our communities, and our values. Join us._
-
 ### [Project 2025](https://www.project2025.org/) is the manual that [President](https://www.whitehouse.gov/administration/donald-j-trump/) [Trump](https://www.donaldjtrump.com/) is using to destroy [America](https://www.usa.gov/).
 
 #### Project 2025 – Their Playbook For the Destruction of the United States of America flashing ⚠️

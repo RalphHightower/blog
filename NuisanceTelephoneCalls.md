@@ -18,6 +18,28 @@ The telephone numbers below have called and there is an empty person on the othe
 
 | Telephone Number | Location | Date Time[^11] | Caller | Social Media |
 |---|---|---|---|---|
+| <a href="tel:+18038182134">+1 (803) 818-2134</a> | SC. | 2025-04-03 06:41 PM | - | |
+| <a href="tel:+18033507229">+1 (803) 350-7229</a> | SC. Eastover | 2025-04-03 06:19 PM | - | |
+| <a href="tel:+18038513284">+1 (803) 851-3284</a> | SC. Columbia | 2025-04-03 05:46 PM | - | |
+| <a href="tel:+18038834838">+1 (803) 883-4838</a> | SC. | 2025-04-03 05:42 PM | Evelyn Abrahan | |
+| <a href="tel:+18035736078">+1 (803) 573-6078</a> | SC. | 2025-04-03 05:38 PM | Potential Spam | |
+| <a href="tel:+18035736078">+1 (803) 573-6078</a> | SC. | 2025-04-03 05:38 PM ¤¤ | Potential Spam | |
+| <a href="tel:+18034261098">+1 (803) 426-1098</a> | SC. Beech Island | 2025-04-03 04:42 PM | Johnnie Rogers | |
+| <a href="tel:+18035592255">+1 (803) 559-2255</a> | SC. Wagener | 2025-04-03 04:25 PM | - | |
+| <a href="tel:+18039007264">+1 (803) 900-7264</a> | SC. Camden | 2025-04-03 03:49 PM | - | |
+| <a href="tel:+18032987035">+1 (803) 298-7035</a> | SC. Little Mountain | 2025-04-03 03:38 PM | Dominion Energy | |
+| <a href="tel:+18033844379">+1 (803) 384-4379</a> | SC. Edgefield | 2025-04-03 01:29 PM | - | |
+| <a href="tel:+18036964173">+1 (803) 696-4173</a> | SC. Manning | 2025-04-03 01:23 PM | - | |
+| <a href="tel:+18039372980">+1 (803) 937-2980</a> | SC. Orangeburg | 2025-04-03 01:13 PM ¤¤ | Potential Spam | |
+| <a href="tel:+18039372980">+1 (803) 937-2980</a> | SC. Orangeburg | 2025-04-03 01:11 PM | Potential Spam | |
+| <a href="tel:+18035477048">+1 (803) 547-7048</a> | SC. Fort Mill | 2025-04-03 12:58 PM | B. Hollandsworth | |
+| <a href="tel:+18036376808">+1 (803) 637-6808</a> | SC. Edgefield | 2025-04-03 12:52 PM | Ellen Murrell | |
+| <a href="tel:+18035476550">+1 (803) 547-6550</a> | SC. Fort Mill | 2025-04-03 12:46 PM | Lee D | |
+| <a href="tel:+18037283517">+1 (803) 728-3517</a> | SC. Columbia | 2025-04-03 12:45 PM | - | |
+| <a href="tel:+18039417338">+1 (803) 941-7338</a> | SC. Little Mountain | 2025-04-03 12:00 PM | Janice B Turner | |
+| <a href="tel:+18033771794">+1 (803) 377-1794</a> | SC. Chester | 2025-04-03 11:08 AM | Joseph Sabeds | |
+| <a href="tel:+18038753069">+1 (803) 875-3069</a> | SC. Eastover | 2025-04-03 10:11 AM | Potential Spam | |
+| <a href="tel:+18033720752">+1 (803) 372-0752</a> | SC. | 2025-04-03 09:31 AM | - | |
 | <a href="tel:+18036673131">+1 (803) 667-3131</a> | SC. Columbia | 2025-04-02 06:14 PM ¤¤ | - | |
 | <a href="tel:+18036673131">+1 (803) 667-3131</a> | SC. Columbia | 2025-04-02 06:13 PM | - | |
 | <a href="tel:+18037080469">+1 (803) 708-0469</a> | SC. Columbia | 2025-04-02 04:56 PM | Linda Larkin | |
