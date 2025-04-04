@@ -47,7 +47,6 @@ plugins:
   - jekyll-github-metadata
   - jekyll-mentions
   - jekyll-optional-front-matter
-  - jekyll-paginate-v2
   - jekyll-readme-index
   - jekyll-relative-links
   - jekyll-seo-tag
@@ -56,6 +55,7 @@ plugins:
   - jekyll-titles-from-headings
   - jekyll_ai_related_posts
   - jekyll-toc
+  - jekyll-paginate-v2
 
 # Theme-specific settings
 

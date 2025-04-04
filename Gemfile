@@ -27,7 +27,6 @@ gem 'jekyll-github-metadata', '~> 2.16', '>= 2.16.1'
 gem 'jekyll-last-modified-at', '~> 1.3', '>= 1.3.2'
 gem 'jekyll-mentions', '~> 1.6'
 gem 'jekyll-optional-front-matter', '~> 0.3.2'
-gem 'jekyll-paginate-v2', '~> 3.0'
 gem 'jekyll-readme-index', '~> 0.3.0'
 gem 'jekyll-relative-links', '~> 0.7.0'
 gem 'jekyll-seo-tag', '~> 2.8'
@@ -36,6 +35,7 @@ gem 'jekyll-sitemap', '~> 1.4'
 # gem 'jekyll-tagging', '~> 1.1'
 gem 'jekyll-titles-from-headings', '~> 0.5.3'
 gem 'jekyll-toc', '~> 0.19.0'
+gem 'jekyll-paginate-v2', '~> 3.0'
 
 # Security updates
 # { 2025-03-03 
