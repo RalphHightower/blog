@@ -14,12 +14,7 @@ author:
 # If you want to omit the line-break after the end of text, use `>-` instead.
 
 description: >
-  It’s going to be a long slog to survive “The Apprentice: White House – Wrecking Ball 2025”. 
-  Hold Trump’s feet to the fire on his campaign promises. He promised to lower grocery prices, 
-  gas prices, car/truck prices, inflation, and housing prices. Grade him on appliances prices, 
-  budget deficit, car and truck prices, consumer goods, economy, energy, groceries, 
-  housing prices, inflation, interest rate, stock market, trade deficit, and unemployment 
-  Join the Resistance! I am one of the “enemy within”.
+  It’s going to be a long slog to survive “The Apprentice: White House – Wrecking Ball 2025”. Hold Trump’s feet to the fire on his campaign promises. He promised to lower grocery prices, gas prices, car/truck prices, inflation, and housing prices. Grade him on appliances prices, budget deficit, car and truck prices, consumer goods, economy, energy, groceries, housing prices, inflation, interest rate, stock market, trade deficit, and unemployment Join the Resistance! I am the “enemy within”.
 
 # description: > # This means to ignore newlines until "show_excerpts:"
 #   “The Apprentice: White House” ended a tumultuous four year season
@@ -31,7 +26,7 @@ description: >
 
 repository: 'RalphHightower/blog'
 url: 'https://ralphhightower.github.io'
-baseurl: "blog/"
+baseurl: "/blog/"
 timezone: 'America/New_York'
 github_username: RalphHightower
 
@@ -60,6 +55,7 @@ plugins:
   # - jekyll-tagging
   - jekyll-titles-from-headings
   - jekyll_ai_related_posts
+  - jekyll-toc
 
 # Theme-specific settings
 
@@ -84,9 +80,8 @@ minima:
 # Minima date format.
 # The default value is "%b %d, %Y" (e.g. Nov 14, 2023)
 # Refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this.
-  date_format: "%b %e, %Y %I:%M %p %Z, %a"
 
-#  social_links:
+  date_format: "%b %e, %Y %I:%M %p %Z, %a"
 #    - title: Jekyll repository at GitHub
 #      icon: github
 #      url: "https://github.com/jekyll/jekyll"
