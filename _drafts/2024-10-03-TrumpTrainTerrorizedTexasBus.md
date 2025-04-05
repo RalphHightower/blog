@@ -1,13 +1,13 @@
 ---
 layout: post
-tags: []
-categories: []
+tags: [Texas, terrorist, criminal, Blockade]
+categories: [Donald Trump]
 date: 2024-09-12
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
-description: 'Texans in Their Trucks Flying Their Trump Flags Like ISIS Terrorize a Bus by a Blockad`
+#description: 'Texans in Their Trucks Flying Their Trump Flags Like ISIS Terrorize a Bus by a Blockade'
 #permalink:
-title: 'Surrounding a Bus and an SUV On All Sides To impede It Ain't An Expression of the First Amendment.'
+title: "Surrounding a Bus and an SUV On All Sides To impede It Ain't An Expression of the First Amendment."
 ---
 
 # ['Trump Train' trial: Defendant says convoy using 'first amendment right' during highway clash](https://www.foxnews.com/us/trump-train-trial-defendant-says-convoy-using-first-amendment-right-during-highway-clash)
