@@ -35,6 +35,7 @@ gem 'jekyll-sitemap', '~> 1.4'
 # gem 'jekyll-tagging', '~> 1.1'
 gem 'jekyll-titles-from-headings', '~> 0.5.3'
 gem 'jekyll-toc', '~> 0.19.0'
+gem 'jemoji', '~> 0.13.0'
 gem 'jekyll-paginate-v2', '~> 3.0'
 
 # Security updates
