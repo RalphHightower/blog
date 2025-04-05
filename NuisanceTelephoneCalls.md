@@ -18,6 +18,27 @@ The telephone numbers below have called and there is an empty person on the othe
 
 | Telephone Number | Location | Date Time[^11] | Caller | Social Media |
 |---|---|---|---|---|
+| <a href="tel:+18036617575">+1 (803) 661-7575</a> | SC. Columbia | 2025-04-04 06:27 PM | Living World Of Deliverance | |
+| <a href="tel:+18035470884">+1 (803) 547-0884</a> | SC. Fort Mill | 2025-04-04 05:40 PM | - | |
+| <a href="tel:+18034808793">+1 (803) 480-8793</a> | SC. Johnston | 2025-04-04 05:20 PM | - | |
+| <a href="tel:+18039385345">+1 (803) 938-5345</a> | SC. Sumter | 2025-04-04 05:19 PM | - | |
+| <a href="tel:+18039418287">+1 (803) 941-8287</a> | SC. Little Mountain | 2025-04-04 05:13 PM ¤¤ | - | |
+| <a href="tel:+18039418287">+1 (803) 941-8287</a> | SC. Little Mountain | 2025-04-04 05:12 PM | - | |
+| <a href="tel:+18036661323">+1 (803) 666-1323</a> | SC. Dalzell | 2025-04-04 05:10 PM | - | |
+| <a href="tel:+18033968184">+1 (803) 396-8184</a> | SC. Fort Mill | 2025-04-04 03:46 PM | Kaila Scott | |
+| <a href="tel:+18038814968">+1 (803) 881-4968</a> | SC. Columbia | 2025-04-04 03:37 PM | Potential Spam | |
+| <a href="tel:+18038834933">+1 (803) 883-4933</a> | SC. Sumter | 2025-04-04 03:32 PM | Potential Spam | |
+| <a href="tel:+18034962449">+1 (803) 496-2449</a> | SC. Holly Hill | 2025-04-04 01:51 PM | Annette Jenkins | |
+| <a href="tel:+18039815031">+1 (803) 981-5031</a> | SC. | 2025-04-04 01:43 PM | Linda Love | |
+| <a href="tel:+18037503023">+1 (803) 750-3023</a> | SC. Columbia | 2025-04-04 01:19 PM | Travis Braddy | |
+| <a href="tel:+18036618847">+1 (803) 661-8847</a> | SC. Columbia | 2025-04-04 01:06 PM | Potential Spam | |
+| <a href="tel:+18038140611">+1 (803) 814-0611</a> | SC. | 2025-04-04 01:04 PM | Audrey Gadson | |
+| <a href="tel:+18035141484">+1 (803) 514-1484</a> | SC. | 2025-04-04 12:58 PM | - | |
+| <a href="tel:+18038751017">+1 (803) 875-1017</a> | SC. Eastover | 2025-04-04 11:21 AM | - | |
+| <a href="tel:+18033050780">+1 (803) 305-0780</a> | SC. Sumter | 2025-04-04 11:19 AM | - | |
+| <a href="tel:+18033662737">+1 (803) 366-2737</a> | SC. Rock Hill | 2025-04-04 10:42 AM | Hayes Jones | |
+| <a href="tel:+18035915616">+1 (803) 591-5616</a> | SC. Barnwell | 2025-04-04 10:39 AM | - | |
+| <a href="tel:+18038304620">+1 (803) 830-4620</a> | SC. Columbia | 2025-04-04 10:02 AM | Potential Spam | |
 | <a href="tel:+18038182134">+1 (803) 818-2134</a> | SC. | 2025-04-03 06:41 PM | - | |
 | <a href="tel:+18033507229">+1 (803) 350-7229</a> | SC. Eastover | 2025-04-03 06:19 PM | - | |
 | <a href="tel:+18038513284">+1 (803) 851-3284</a> | SC. Columbia | 2025-04-03 05:46 PM | - | |
