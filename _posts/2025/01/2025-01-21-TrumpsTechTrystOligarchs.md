@@ -16,7 +16,7 @@ title: "Trump's Tech Trysts: Tech Oligarchs, Altman, Bezos, Brin, Cook, Musk, Pi
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tK6ck5P1bhg?si=3qSoMQAK88UPBsq2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Jan 21, 2025 #Trump #Politics [#WhiteHouse](https://www.whitehouse.gov/)
-President Trump signed a wave of executive orders yesterday on immigration, energy, diversity and more. [NBC News'](https://www.nbcnews.com/) Garrett Haake reports on the major takeaways. Former [RNC)(https:www.gop.cok/) chairman Michael Steele and [New York Times](https://www.nytimes.com/) national reporter Jeremy Peters join Chris Jansing to share their political analysis.
+President Trump signed a wave of executive orders yesterday on immigration, energy, diversity and more. [NBC News'](https://www.nbcnews.com/) Garrett Haake reports on the major takeaways. Former [RNC)(https://www.gop.com/) chairman Michael Steele and [New York Times](https://www.nytimes.com/) national reporter Jeremy Peters join Chris Jansing to share their political analysis.
 
 - [AH Capital Management, LLC](https://www.a16z.com/)
 - [Amazon](https://www.amazon.com/)
