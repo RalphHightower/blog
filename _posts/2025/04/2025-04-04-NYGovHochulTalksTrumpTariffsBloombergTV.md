@@ -7,7 +7,7 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: 
+title: "New York Governor Kathy Hochul Interviewed On Bloomberg TV On a Range of Trump Fuck Ups"
 ---
 
 
@@ -18,7 +18,7 @@ Albany, NY
 
 **[Governor](https://www.governor.ny.gov/) [Hochul](https://www.governor.ny.gov/about-governor-hochul)**: “This is nothing short of the largest tax increase in American history… It goes all the way from Wall Street to the farmers to the small towns, Main Street to Wall Street — there is a cataclysmic effect on this, and New Yorkers are reeling right now.”
 
-**[Hochul](https://www.governor.ny.gov/about-governor-hochul)**: “I have a budget I'm negotiating right now that puts $5,000 back in people's pockets: Child tax credits, a middle class tax cut, the largest in 70 years, the largest tax rate decrease in 70 years, and an inflation rebate for people who paid so much more in sales tax. So I have a path to put all this money back in their pockets. But you know what's really sad? That's going to be sucked right out with $6,000 that they're going to lose because of tariffs. So I'll keep fighting, I'll keep doing what I can do, but this is a real hit on New Yorkers.”
+**[Hochul](https://www.governor.ny.gov/about-governor-hochul)**: “I have a budget I'm negotiating right now that puts \$5,000 back in people's pockets: Child tax credits, a middle class tax cut, the largest in 70 years, the largest tax rate decrease in 70 years, and an inflation rebate for people who paid so much more in sales tax. So I have a path to put all this money back in their pockets. But you know what's really sad? That's going to be sucked right out with \$6,000 that they're going to lose because of tariffs. So I'll keep fighting, I'll keep doing what I can do, but this is a real hit on New Yorkers.”
 
 Earlier today, [Governor](https://www.governor.ny.gov/) [Kathy Hochul](https://www.governor.ny.gov/about-governor-hochul) was a guest on [Bloomberg TV](https://www.bloomberg.com/live/us/)’s “Balance of Power”.
 
@@ -30,11 +30,11 @@ A rush transcript of the [Governor](https://www.governor.ny.gov/)'s remarks is a
 
 [Governor](https://www.governor.ny.gov/), thank you for joining us here on [Bloomberg TV](https://www.bloomberg.com/live/us/) and radio. I'm curious what you're already hearing from businesses and companies in your state and whether they are already suggesting they are making changes on hiring practices on pricing, for example, or if they're playing, “wait and see” here to see whether or not this actually sticks.
 
-**[Governor](https://www.governor.ny.gov/) [Hochul](https://www.governor.ny.gov/about-governor-hochul)**: Thank you for having me. No, the impact is immediate. I mean, this is nothing short of the largest tax increase in American history. And the impact on New York — let me explain. This is the 10th largest economy in the world. We have Wall Street, we have farms, we have a border of 450 miles with [Canada](https://www.canada.ca/), so we have a trade relationship with [Canada](https://www.canada.ca/) of over $50 billion.
+**[Governor](https://www.governor.ny.gov/) [Hochul](https://www.governor.ny.gov/about-governor-hochul)**: Thank you for having me. No, the impact is immediate. I mean, this is nothing short of the largest tax increase in American history. And the impact on New York — let me explain. This is the 10th largest economy in the world. We have Wall Street, we have farms, we have a border of 450 miles with [Canada](https://www.canada.ca/), so we have a trade relationship with [Canada](https://www.canada.ca/) of over \$50 billion.
 
 So already, here's what we're seeing: Droppings in bookings from [Canadians](https://www.canada.ca/) coming to [New York State](https://www.ny.gov/). A huge source of tourism all the way to [New York City](https://www.nyc.gov/), but certainly my hometown in Buffalo, where [Canadians](https://www.canada.ca/) come over all the time and they go to our sport events. They shop at our stores.
 
-So here's number one: Sales tax revenues are dropping already. Now, speaking to a farmer in a very [Republican](https://www.gop.com/) part of our state — I'd call it Stefanik Country in the North Country — he told me that as a dairy farmer, he gets his shavings, he gets his fertilizer, he gets all these products from Canada and his costs are going up $10,000 a month. A dairy farmer. Not the total cost, but an increase of $10,000 a month.
+So here's number one: Sales tax revenues are dropping already. Now, speaking to a farmer in a very [Republican](https://www.gop.com/) part of our state — I'd call it Stefanik Country in the North Country — he told me that as a dairy farmer, he gets his shavings, he gets his fertilizer, he gets all these products from [Canada](https://www.canada.ca/) and his costs are going up \$10,000 a month. A dairy farmer. Not the total cost, but an increase of \$10,000 a month.
 
 So, there's such anxiety now. Not to mention the [Walmart](https://www.walmart.com/) mom who goes to [Walmart](https://www.walmart.com/) like I did when my kids were little — that giant grocery cart with the oversized diapers and lots of baby food and paper towels — that's going to have an impact on people shopping at [Walmart](https://www.walmart.com/) who come out of the trailer park like the one my parents grew up in.
 
@@ -44,7 +44,7 @@ So I have to say, it goes all the way from Wall Street to the farmers to the sma
 
 **[Governor](https://www.governor.ny.gov/) [Hochul](https://www.governor.ny.gov/about-governor-hochul)**: I hope so, but we already have advanced manufacturing coming to [New York](https://www.ny.gov/). I literally got off the phone with someone who's in a pharmaceutical business looking all over the world, and he is very likely with the deal I'm making, to come to [New York](https://www.ny.gov/).
 
-So we have advanced manufacturing, we have pharmaceuticals. In fact, I was able to lure [Micron](https://www.micron.com/) with a $100 billion investment, the largest in our nation's history, to build semiconductors in the [Syracuse](https://www.syr.gov/) area. So we are already reimagining our economy based on manufacturing. So that's important to me.
+So we have advanced manufacturing, we have pharmaceuticals. In fact, I was able to lure [Micron](https://www.micron.com/) with a \$100 billion investment, the largest in our nation's history, to build semiconductors in the [Syracuse](https://www.syr.gov/) area. So we are already reimagining our economy based on manufacturing. So that's important to me.
 
 I come from [Buffalo](https://www.buffalony.gov/). I mean, my dad worked at the steel plant. I know how hard it is when businesses leave, but we are backfilling in with businesses that we think will have a long-term future, and they'll be affected by this, the component parts to what they're building and the supply chain. They're going to see an increased cost, not just because they're in [New York](https://www.ny.gov/), but because they're in [America](https://www.usa.gov/).
 
@@ -58,9 +58,9 @@ But I'll tell you what's going to happen. Wall Street goes down, next January, w
 
 Now in the context of the Budget, I'm negotiating the revenues I count on, the revenues I'm going to lose, but also the impact on our businesses who may not be expanding now. So I have to find ways we can use state resources to say, “We'll help calm it down.” What can I do for a farmer in upstate [New York](https://www.ny.gov/)? That's a good question. I don't want them to suffer. Thirty two thousand farms in our state. People think of [New York](https://www.ny.gov/) as just [Manhattan](https://www.manhattanbp.nyc.gov/). I know they do. But it's so much more than that. An important part of our economy is our agricultural sector.
 
-So all of our sectors are going to be hurt. So I have to look at our Budget, what we can do to help other incentives for economic development. And as I'm doing, I'm trying to put money back in people's pockets. I mean, the average [New Yorker](https://www.ny.gov/) will have $6,000 less in their pockets because of these tariffs. And that's an opinion by a number of economists.
+So all of our sectors are going to be hurt. So I have to look at our Budget, what we can do to help other incentives for economic development. And as I'm doing, I'm trying to put money back in people's pockets. I mean, the average [New Yorker](https://www.ny.gov/) will have \$6,000 less in their pockets because of these tariffs. And that's an opinion by a number of economists.
 
-I have a budget I'm negotiating right now that puts $5,000 back in people's pockets: Child tax credits, a middle class tax cut, the largest in 70 years, the largest tax rate decrease in 70 years, and an inflation rebate for people who paid so much more in sales tax. So I have a path to put all this money back in their pockets. But you know what's really sad? That's going to be sucked right out with \$6,000 that they're going to lose because of tariffs. So I'll keep fighting, I'll keep doing what I can do, but this is a real hit on New Yorkers.
+I have a budget I'm negotiating right now that puts \$5,000 back in people's pockets: Child tax credits, a middle class tax cut, the largest in 70 years, the largest tax rate decrease in 70 years, and an inflation rebate for people who paid so much more in sales tax. So I have a path to put all this money back in their pockets. But you know what's really sad? That's going to be sucked right out with \$6,000 that they're going to lose because of tariffs. So I'll keep fighting, I'll keep doing what I can do, but this is a real hit on New Yorkers.
 
 **Joe Mathieu, [Bloomberg TV](https://www.bloomberg.com/live/us/)**: So it sounds like the potential for state tax cuts in the year ahead depend on tax receipts from Wall Street, [Governor](https://www.governor.ny.gov/). Is that right?
 
