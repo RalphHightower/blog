@@ -156,6 +156,17 @@ titles_from_headings:
   strip_title: true
   collections: true
 
+toc:
+  min_level: 1
+  max_level: 6
+  ordered_list: false
+  no_toc_section_class: no_toc_section
+  list_id: toc
+  list_class: section-nav
+  sublist_class: ''
+  item_class: toc-entry
+  item_prefix: toc-
+
 exclude:
   - .ai_related_posts_cache.sqlite3
   - .ai_related_posts_cache.sqlite3-journal
