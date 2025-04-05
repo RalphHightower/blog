@@ -11,8 +11,8 @@ excerpt: ''
 title: "Trump Never Let a Weekend of Golf ⛳️ Interfere With a Commander-In-Chief’s Solemn Duty to Receive Fallen Military 🪖 "
 ---
 
-- [Additional recovery assets arrive in support of recovery efforts in Lithuania / Article / The United States Army](https://www.army.mil/article/284222/additional_recovery_assets_arrive_in_support_of_recovery_efforts_in_lithuania)</>By 1st Armored Division Public Affairs. March 28, 2025
-- [As Stock Market Plunges Over Tariffs, Trump Takes In The Green At His Golf Course / HuffPost Latest News](https://www.huffpost.com/entry/trump-golfing-tariffs-stock-market-plummeting_n_67f0a7c4e4b0f761e074019b)</> *"THIS IS A GREAT TIME TO GET RICH," Trump wrote from Mar-a-Lago as Wall Street continues to panic over his tariffs.* </>Fatima Hussein, Chris Megerian and Stephen Groves. Apr 5, 2025, 12:04 AM EDT
+- [Additional recovery assets arrive in support of recovery efforts in Lithuania / Article / The United States Army](https://www.army.mil/article/284222/additional_recovery_assets_arrive_in_support_of_recovery_efforts_in_lithuania)<br />By 1st Armored Division Public Affairs. March 28, 2025
+- [As Stock Market Plunges Over Tariffs, Trump Takes In The Green At His Golf Course / HuffPost Latest News](https://www.huffpost.com/entry/trump-golfing-tariffs-stock-market-plummeting_n_67f0a7c4e4b0f761e074019b)<br /> *"THIS IS A GREAT TIME TO GET RICH," Trump wrote from Mar-a-Lago as Wall Street continues to panic over his tariffs.* <br />Fatima Hussein, Chris Megerian and Stephen Groves. Apr 5, 2025, 12:04 AM EDT
 - [WATCH: President Trump arrives via helicopter on golf course at Trump National Doral](https://www.palmbeachpost.com/story/news/trump/2025/04/03/liv-golf-miami-donald-trump-doral-golf-course/82788877007/). April 3, 2025
 - [Trump lands at Miami airport and heads to his resort in Doral](https://www.palmbeachpost.com/story/news/trump/2025/04/03/trump-lands-at-miami-airport-and-heads-to-his-resort-in-dor-but-presidential-chopper-has-wheel-issue/82789946007/). April 3, 2025
 
