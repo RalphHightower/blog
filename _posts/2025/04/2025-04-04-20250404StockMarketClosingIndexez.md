@@ -7,8 +7,13 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
+toc: true
 title: "How To Lose Friends And Piss Off The World 🌎: Trump’s Tariffs Continue Market Turmoil. Trumpcession On Target!"
 ---
+
+After tanking the markets, [Trump](https://www.donaldjtrump.com/) goes golfing ⛳️ again! First to his private [Florida](https://www.myflorida.com/) [Mar-a-Lago golf private club](https://www.maralagoclub.com/), then to his [Trump National Doral Golf Club](https://www.trumpgolfdoral.com/) for a [Liv Golf](https://www.livgolf.com/) [golf tournament](https://www.livgolf.com/schedule/miami-2025/course).
+
+Four military 
 
 - @RalphHightower 
     - ["How To Lose Friends and Piss Off The World 🌎: Trump Tariffs Unleash Bears In World’s China Shops"](%{ _link _posts/2025/04/2025-04-03-TrumpTariffsTankMarkets.md %}). April 3, 2025 
@@ -44,23 +49,21 @@ title: "How To Lose Friends And Piss Off The World 🌎: Trump’s Tariffs Conti
     - [To Trump, U.S. Economy Is a ‘Sick Patient,’ and Tariffs Are the Cure](https://www.nytimes.com/2025/04/04/us/politics/trump-tariffs-us-economy-prices.html)<br /> *As economists warn of higher inflation, President Trump’s aides insist the fallout will be short and the tariffs will ultimately result in a better economy.*
     - [Will Trump’s Tariffs Drive Europe Into China’s Arms, or Into a Fight?](https://www.nytimes.com/2025/04/04/world/europe/trump-tariffs-china.html)
 
-## Trump’s Tariffs “Liberates” $5,000,000,000,000 In Value From World’s Stock Markets
-
-After tanking the markets, [Trump](https://www.donaldjtrump.com/) goes golfing ⛳️ again!
+## Trump’s Tariffs “Liberates” \$6,000,000,000,000 In Value From World’s Stock Markets
 
 ### [Trump hits golf course as stock market plummets for second straight day over tariffs / AP News](https://apnews.com/article/donald-trump-tariffs-golf-813c7a300021445636f63fddbfd38c83)
 
 WEST PALM BEACH, Fla. (AP) — Two days after sending the economy reeling by announcing widespread tariffs, [President](https://www.whitehouse.gov/) [Donald Trump](https://www.donaldjtrump.com/) insisted his trade policies will never change as he remained ensconced in a bubble of wealth and power in Florida.
 
-He woke up on Friday morning at Mar-a-Lago, [his private club in Palm Beach](https://www.maralagoclub.com/), and headed to his nearby golf course a few miles away.
+He woke up on Friday morning at [Mar-a-Lago](https://www.maralagoclub.com/), [his private club in Palm Beach](https://www.maralagoclub.com/), and headed to his nearby golf course a few miles away.
 
-The [Trumpian](https://www.gop.com/) president was not expected to appear publicly, although he’s scheduled to attend a candlelit dinner for [MAGA Inc.](https://apnews.com/article/2022-midterm-elections-florida-donald-trump-campaigns-b3cca05169fa51ca5a996df61b3dfcbf), an allied political organization, on Friday evening. He spent Thursday in Miami at a different one of his golf courses, where he attended [a Saudi-funded tournament](https://apnews.com/article/trump-golf-liv-tour-pga-ab77d9aafb22c33e859fd6541b417836). He landed in Marine One and was picked up in a golf cart driven by his son Eric.
+The [Trumpian](https://www.gop.com/) president was not expected to appear publicly, although he’s scheduled to attend a candlelit dinner for [MAGA Inc.](https://apnews.com/article/2022-midterm-elections-florida-donald-trump-campaigns-b3cca05169fa51ca5a996df61b3dfcbf), an allied political organization, on Friday evening. He spent Thursday in Miami at a different one of his golf courses, where he attended [a Saudi-funded tournament](https://apnews.com/article/trump-golf-liv-tour-pga-ab77d9aafb22c33e859fd6541b417836). He landed in Marine One and was picked up in a golf cart driven by his [son Eric](https://www.linkedin.com/in/erictrump/).
 
-Trump has often proved impervious to the kind of scandals or gaffes that would damage another politician, but his decision to spend the weekend at his gilded properties could test Americans’ patience at a time when their retirement savings are evaporating [along with the stock market.](https://apnews.com/article/market-rates-trump-tariffs-d86db525c370e9da834e6dfb76e23b86). The tariffs are expected to increase prices by thousands of dollars per year and slow economic growth, and there are fears about [a potential recession](https://apnews.com/article/financial-markets-tariffs-trump-trade-cea98013c677e5b9bd6ce6166f4ce659).
+[Trump](https://www.donaldjtrump.com=) has often proved impervious to the kind of scandals or gaffes that would damage another politician, but his decision to spend the weekend at his gilded properties could test Americans’ patience at a time when their retirement savings are evaporating [along with the stock market.](https://apnews.com/article/market-rates-trump-tariffs-d86db525c370e9da834e6dfb76e23b86). The tariffs are expected to increase prices by thousands of dollars per year and slow economic growth, and there are fears about [a potential recession](https://apnews.com/article/financial-markets-tariffs-trump-trade-cea98013c677e5b9bd6ce6166f4ce659).
 
-“While the American people are trying to put food on the table, I see that Donald Trump’s out there playing golf,” said Sen. Ben Ray Luján, a Democrat from New Mexico. “The president should be listening to people across the country. Maybe he should go into a grocery store, do some walking, talking to folks.”
+“While the American people are trying to put food on the table, I see that [Donald Trump](https://www.donaldjtrump.com/)’s out there playing golf,” said [Sen.](https://www.senate.gov/) [Ben Ray Luján](https://www.booker.senate.gov/), a [Democrat](https://www.democrats.org/) from [New Mexico](https://www.newmexico.gov/). “The president should be listening to people across the country. Maybe he should go into a grocery store, do some walking, talking to folks.”
 
-Federal Reserve Chair Jerome Powell said Friday that the tariffs were “significantly larger than expected” and are [“highly likely”](https://apnews.com/article/tariffs-inflation-economy-trump-powell-490417656971634592bbeb3b2ade3593) to cause more inflation — at least in the short term but possibly in the long term as well.
+[Federal Reserve Chair](https://www.federalreserve.gov/newsevents.htm) [Jerome Powell](https://www.federalreserve.gov/aboutthefed/bios/board/powell.htm) said Friday that the tariffs were “significantly larger than expected” and are [“highly likely”](https://apnews.com/article/tariffs-inflation-economy-trump-powell-490417656971634592bbeb3b2ade3593) to cause more inflation — at least in the short term but possibly in the long term as well.
 
 ## World Stock Market Closing Indexes – 2025-04-04
 
@@ -205,20 +208,43 @@ Federal Reserve Chair Jerome Powell said Friday that the tariffs were “signifi
 | **Moscow Exchange (MOEX)** | Moscow, Russia |
 | **Brazil Stock Exchange (B3)** | São Paulo, Brazil |
 
-- [Donald J Trump](https://www.donaldjtrump.com/)
-- [Supreme Court of the United States (SCOTUS)](https://www.supremecourt.gov/)
-- [US Courts](https://www.uscourts.gov/)
-- [Senate](https://www.senate.gov/)
-- [House of Representatives](https://www.house.gov/)
-- [U.S. Department of the Treasury](https://home.treasury.gov/)
-- [Scott Bessentm](https://home.treasury.gov/about/general-information/officials/scott-bessent)
-- [Department of Commerce (DOC)](https://www.commerce.gov/)
-- [Howard Lutnick](https://www.commerce.gov/about/leadership/howard-lutnick)
-- [Howard W. Lutnick](https://www.linkedin.com/in/howardwlutnick/)
-- [President Donald Trump (45)](https://trumpwhitehouse.archives.gov/)
-- [President Donald Trump (47)](https://www.whitehouse.gov/)
-- [President of the United States (POTUS)](https://www.whitehouse.gov/)
-- [White House (WH)](https://www.whitehouse.gov/)
+| Locations |
+|---|
+| **[White House](https://www.whitehouse.gov)** |
+| 1600 Pennsylvania Ave., NW <br /> Washington, DC 20500 <br /> <a href="tel:+12024561111">+1 (202) 456-1111</a> (comments) <br /> <a href="tel:+12024561414">+1 (202) 456-1414</a> (switchboard) |
+| **[Mar-a-Lago](https://www.maralagoclub.com/)** |
+| [The Mar-a-Lago Club](https://www.maralagoclub.com/) <br /> 1100 South Ocean Boulevard, <br /> Palm Beach, Florida 33480 <br /> <a href="tel+15618322600">+1 (561) 832-2600</a> |
+| **Florida, West Palm Beach** |
+| **[Trump International Golf Club](https://www.trumpinternationalpalmbeaches.com/)** <br /> 3505 Summit Blvd <br /> West Palm Beach FL 33406 <br /> <a href="tel:+15616820700">+1 (561) 682-0700</a> |
+| **California, Los Angeles** |
+| **[Trump National Golf Club Los Angeles](https://www.trumpnationallosangeles.com/)** <br /> One Trump National Drive <br /> Rancho Palos Verdes, CA 90275 <br /> <a href="tel:+13102655000">+1 (310) 265-5000</a> |
+| **Florida, Miami** |
+| **[Trump National Doral Golf Club](https://www.trumpgolfdoral.com/)** <br /> 4400 N.W. 87th Ave <br /> Miami, FL 33178 <br /> <a href="tel:+13055922000">+1 (305) 592-2000</a> |
+| **Florida, Jupiter** |
+| **[Trump National Jupiter Golf Club](https://www.trumpnationaljupiter.com/about)** <br /> 115 Eagle Tree Terrace <br /> Jupiter FL 33477 <br /> <a href="tel:+15616918700">+1 (561) 691-8700</a> |
+| **New Jersey, Bedminster** |
+| **[Trump National Golf Club Bedminster](https://www.trumpnationalbedminster.com/)** <br /> 900 Lamington Road <br /> Bedminster, NJ 07921 <br /> <a href="tel:+1908.470.4400">+1 (908) 470-4400</a> |
+| **New Jersey, Colts Neck** |
+| **[Trump National Golf Club Colts Neck](https://www.trumpcoltsneck.com/)** <br /> One Trump National Blvd <br /> Colts Neck, NJ 07722 <br /> <a href="tel:+15619731550">+1 (561) 973-1550</a> |
+| **New Jersey, Pine Hill** |
+| **[Trump National Golf Club Philadelphia](https://www.trumpnationalphiladelphia.com/)** <br /> 500 West Branch Ave. <br /> Pine Hill, NJ 08021 <br /> <a href="tel:+18564353100">+1 (856) 435-3100</a> |
+| **New York, Hopewell Junction** |
+|  **[Trump National Golf Club Hudson Valley](https://www.trumpnationalhudsonvalley.com/)** <br /> 178 Stormville Rd <br /> Hopewell Junction, NY 12533 <br /> <a href="tel:+18452231600">+1 (845) 223-1600</a> |
+| **New York, Briarcliff Manor** |
+| **[Trump National Golf Club Westchester](https://www.trumpnationalwestchester.com/)** <br /> 100 Shadow Tree Lane <br /> Briarcliff Manor, NY 10510 <br /> <a href="tel:+19149440900">+1 (914) 944-0900</a> |
+| **North Carolina, Mooresville** |
+| **[Trump National Golf Club Charlotte](https://www.trumpnationalcharlotte.com/)** <br /> 120 Trump Square <br /> Mooresville, NC 28117 <br /> <a href="tel:+17047997300">+1 (704) 799-7300</a> |
+| **Virginia, Potomac Falls** |
+| **[Trump National Golf Club Washington, D.C.](https://www.trumpnationaldc.com/)** <br /> 20391 Lowes Island Blvd <br /> Potomac Falls, VA 20165 <br /> <a href="tel:+17034444801">+1 (703) 444-4801</a> |
+| **Dubai** |
+| **[Trump International Golf Club Dubai](https://www.trumpgolfdubai.com/)** <br /> DAMAC Hills <br /> Al Hebiah Third District Dubai <br /> <a href="tel:+971042453939">+971 (0) 4 245 3939</a> |
+| **Ireland, Clare** |
+| **[Trump International Golf Links & Hotel Ireland, Doonbeg](https://www.trumpgolfireland.com/)** <br />  DOONBEG CO. <br /> CLARE, IRELAND <br /> Phone: <a href="tel:+353659055600">+353 65 905 5600</a> |
+| **Scotland, Aberdeenshire** |
+| **[Trump MacLeod House & Lodge Scotland](https://www.trumphotels.com/macleod-house)** <br /> Menie Estate Balmedie <br /> Aberdeenshire, Scotland AB23 8YE <br /> PHONE: <a href="tel:+441358743300">+44 1358 743300</a> <br /> RESERVE: <a href="tel:+441358743300">+44 1358 743300</a> |
+| **Scotland, Ayrshire** |
+| **[Trump Turnberry](https://www.turnberry.co.uk/)** <br /> Maidens Road KA26 9LT Turnberry <br /> Ayrshire Scotland <br /> <a href="tel:+441655331000">+44.1655.331.000</a> <br /> <a href="tel:+4401655334115">+44 01655 334115</a> |
+
 - [Report to the President on the America First Trade Policy Executive Summary](https://www.whitehouse.gov/fact-sheets/2025/04/report-to-the-president-on-the-america-first-trade-policy-executive-summary/). Fact Sheets April 3, 2025
 - [Regulating Imports with a Reciprocal Tariff to Rectify Trade Practices that Contribute to Large and Persistent Annual United States Goods Trade Deficits](https://www.whitehouse.gov/presidential-actions/2025/04/regulating-imports-with-a-reciprocal-tariff-to-rectify-trade-practices-that-contribute-to-large-and-persistent-annual-united-states-goods-trade-deficits/). Presidential Actions, Executive Orders April 2, 2025
 - [Further Amendment to Duties Addressing the Synthetic Opioid Supply Chain in the People’s Republic of China as Applied to Low-Value Imports](https://www.whitehouse.gov/presidential-actions/2025/04/further-amendment-to-duties-addressing-the-synthetic-opioid-supply-chain-in-the-peoples-republic-of-china-as-applied-to-low-value-imports/). Presidential Actions, Executive Orders April 2, 2025
@@ -262,6 +288,24 @@ Federal Reserve Chair Jerome Powell said Friday that the tariffs were “signifi
 - [Fact Sheet: President Donald J. Trump Imposes Tariffs on Imports from Canada, Mexico and China](https://www.whitehouse.gov/fact-sheets/2025/02/fact-sheet-president-donald-j-trump-imposes-tariffs-on-imports-from-canada-mexico-and-china/). Fact Sheets February 1, 2025
 - [Imposing Duties to Address the Situation at Our Southern Border](https://www.whitehouse.gov/presidential-actions/2025/02/imposing-duties-to-address-the-situation-at-our-southern-border/). Presidential Actions February 1, 2025
 - [America First Trade Policy](https://www.whitehouse.gov/presidential-actions/2025/01/america-first-trade-policy/). Presidential Actions January 20, 2025
-- stupidity 
+- [Eric F. Trump](https://www.linkedin.com/in/erictrump/)
+- [Federal Reserve Board](https://www.federalreserve.gov/)
+- [Jerome H. Powell](https://www.federalreserve.gov/aboutthefed/bios/board/powell.htm)
+- [Senate](https://www.senate.gov/)
+- [Ben RayLuján (D-NM)](https://www.lujan.senate.gov/)
+- [Donald J Trump](https://www.donaldjtrump.com/)
+- [Supreme Court of the United States (SCOTUS)](https://www.supremecourt.gov/)
+- [US Courts](https://www.uscourts.gov/)
+- [House of Representatives](https://www.house.gov/)
+- [U.S. Department of the Treasury](https://home.treasury.gov/)
+- [Scott Bessent](https://home.treasury.gov/about/general-information/officials/scott-bessent)
+- [Department of Commerce (DOC)](https://www.commerce.gov/)
+- [Howard Lutnick](https://www.commerce.gov/about/leadership/howard-lutnick)
+- [Howard W. Lutnick](https://www.linkedin.com/in/howardwlutnick/)
+- [President Donald Trump (45)](https://trumpwhitehouse.archives.gov/)
+- [President Donald Trump (47)](https://www.whitehouse.gov/)
+- [President of the United States (POTUS)](https://www.whitehouse.gov/)
+- [White House (WH)](https://www.whitehouse.gov/)
 - tariffs
 - politics 
+- stupidity 
