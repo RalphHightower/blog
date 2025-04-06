@@ -10,7 +10,7 @@ excerpt: ''
 title: "Surrounding a Bus and an SUV On All Sides To impede It Ain't An Expression of the First Amendment."
 ---
 
-# ['Trump Train' trial: Defendant says convoy using 'first amendment right' during highway clash](https://www.foxnews.com/us/trump-train-trial-defendant-says-convoy-using-first-amendment-right-during-highway-clash)
+## ['Trump Train' trial: Defendant says convoy using 'first amendment right' during highway clash](https://www.foxnews.com/us/trump-train-trial-defendant-says-convoy-using-first-amendment-right-during-highway-clash)
 
 By Michael Dorgan. Faux News • September 18,  2024.
 
@@ -20,7 +20,7 @@ Randi Ceh and her husband, Steve Ceh, are among six people being sued for swarmi
 
 "We used our first amendment right to drive down the highway," Randi Ceh said Monday, per the San Antonio Express-News, as the second week of the trial got underway. "We did a 'Trump Train' and it was cool."
 
-## 'TRUMP TRAIN' TRIAL KICKS OFF WITH FORMER DEMOCRATIC LAWMAKER TESTIFYING SHE FELT LIKE A 'HOSTAGE'
+### 'TRUMP TRAIN' TRIAL KICKS OFF WITH FORMER DEMOCRATIC LAWMAKER TESTIFYING SHE FELT LIKE A 'HOSTAGE'
 
 She described the event as an "our team versus your team" political exercise and argued they were not trying to intimidate anyone.   
 
