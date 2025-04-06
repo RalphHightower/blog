@@ -7,7 +7,7 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: 
+title: "Trump’s War Time Powers On Immigrants Could Be Used To Target Americans"
 ---
 
 
