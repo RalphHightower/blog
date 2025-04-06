@@ -16,7 +16,15 @@ title: "Trump Never Let a Weekend of Golf ⛳️ Interfere With a Commander-In-C
 - [WATCH: President Trump arrives via helicopter on golf course at Trump National Doral](https://www.palmbeachpost.com/story/news/trump/2025/04/03/liv-golf-miami-donald-trump-doral-golf-course/82788877007/). April 3, 2025
 - [Trump lands at Miami airport and heads to his resort in Doral](https://www.palmbeachpost.com/story/news/trump/2025/04/03/trump-lands-at-miami-airport-and-heads-to-his-resort-in-dor-but-presidential-chopper-has-wheel-issue/82789946007/). April 3, 2025
 
+
 ## [Trump Skips Return Of Dead U.S. Soldiers To Play Golf And Boost His Business / HuffPost Latest News](https://www.huffpost.com/entry/trump-skips-dover-soldiers-golf_n_67effa46e4b0bb67eb7acc1a)
+
+### Donald Trump blows off dignified transfer of fallen U.S. soldiers for golf events
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BofHyJWGf-U?si=Ku5lMzvzf6AvD3gT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Apr 5, 2025  [#trump](https://www.donaldjtrump.com/) #rachelmaddow #politics
+Rachel Maddow reports on how the [people of Lithuania, including its president](https://lrv.lt/), honored fallen U.S. soldiers who died while on a training mission there. In contrast, [Donald Trump](https://www.donaldjtrump.com/) does not appear to have paid very close attention when the soldiers were initially missing, and is skipping the dignified transfer of the soldiers' bodies so he can attend golfing events in Florida instead.
 
 *The four [Army](https://www.army.mil/) soldiers died in a training exercise in Lithuania. [Trump](https://www.donaldjtrump.com/) chose to attend his personal business partners’ dinner Thursday and play golf Friday.*
 
@@ -137,7 +145,7 @@ That [Trump](https://www.donaldjtrump.com/) would put his personal finances and 
 - [Michigan (MI)](https://www.michigan.gov/)
 - [Battle Creek, MI / Official Website](https://battlecreekmi.gov/)
 - [Guam's Villages - MCOG /Mayors Council of Guam](https://www.mcog.guam.gov/villages-list)
-- [Government of the Republic of Lithuania](https://lrv.lt/en/)
+- [Government of the Republic of Lithuania](https://lrv.lt/)
 - [Miami International Airport - iflyMIA - Miami International Airport](https://miami-airport.com/)
 - [Emoluments Clause and Presidential Compensation / Constitution Annotated / Congress.gov / Library of Congress](https://constitution.congress.gov/browse/essay/artII-S1-C7-1/ALDE_00000233/)
 - [Trump National Doral Golf Club](https://www.trumpgolfdoral.com/)
