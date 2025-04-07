@@ -2,7 +2,7 @@
 layout: page
 tags: [assholes, Donald Trump, Elon Musk, Betsy DeVos, MAGA billionaires, billionaire, Trump donors, Republican PAC, Make America Great Again (MAGA)]
 categories: [Telephone Numbers]
-date: 2025-03-28 9:10 PM
+date: 2025-04-07 7:27 PM
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description: 
@@ -18,6 +18,25 @@ The telephone numbers below have called and there is an empty person on the othe
 
 | Telephone Number | Location | Date Time[^11] | Caller | Social Media |
 |---|---|---|---|---|
+| <a href="tel:+18035204796">+1 (803) 520-4796</a> | SC. Lexington | 2025-04-07 06:28 PM | Potential Spam | |
+| <a href="tel:+18035845229">+1 (803) 584-5229</a> | SC. Allendale | 2025-04-07 06:26 PM | - | |
+| <a href="tel:+18039458028">+1 (803) 945-8028</a> | SC. | 2025-04-07 05:27 PM | - | |
+| <a href="tel:+18039666908">+1 (803) 966-6908</a> | SC. | 2025-04-07 05:02 PM | - | |
+| <a href="tel:+18035817704">+1 (803) 581-7704</a> | SC. Chester | 2025-04-07 04:17 PM | Curtis C Clark | |
+| <a href="tel:+18035694940">+1 (803) 569-4940</a> | SC. Columbia | 2025-04-07 03:47 PM ¤¤ | Potential Spam | |
+| <a href="tel:+18033285654">+1 (803) 328-5654</a> | SC. Rock Hill | 2025-04-07 03:46 PM | - | |
+| <a href="tel:+18035694940">+1 (803) 569-4940</a> | SC. Columbia | 2025-04-07 03:46 PM | Potential Spam | |
+| <a href="tel:+18037696398">+1 (803) 769-6398</a> | SC. Rock Hill | 2025-04-07 03:45 PM | - | |
+| <a href="tel:+18037733041">+1 (803) 773-3041</a> | SC. | 2025-04-07 03:31 PM | Lewis Walker | |
+| <a href="tel:+18039576626">+1 (803) 957-6626</a> | SC. | 2025-04-07 01:57 PM | Russ Bill | |
+| <a href="tel:+18032239600">+1 (803) 223-9600</a> | SC. Columbia | 2025-04-07 01:54 PM | Potential Spam | |
+| <a href="tel:+13099174384">+1 (309) 917-4384</a> | IL. Peoria | 2025-04-07 01:52 PM | Potential Spam | |
+ricebraid.com</a> | |
+| <a href="tel:+18036618886">+1 (803) 661-8886</a> | SC. Columbia | 2025-04-07 12:41 PM | - | |
+| <a href="tel:+18039738394">+1 (803) 973-8394</a> | SC. Columbia | 2025-04-07 11:25 AM | - | |
+| <a href="tel:+18034388528">+1 (803) 438-8528</a> | SC. Elgin | 2025-04-07 10:38 AM | - | |
+| <a href="tel:+18033500340">+1 (803) 350-0340</a> | SC. Eastover | 2025-04-07 10:19 AM | - | |
+| <a href="tel:+18039866524">+1 (803) 986-6524</a> | SC. Little Mountain | 2025-04-07 09:46 AM | - | |
 | <a href="tel:+18036617575">+1 (803) 661-7575</a> | SC. Columbia | 2025-04-04 06:27 PM | Living World Of Deliverance | |
 | <a href="tel:+18035470884">+1 (803) 547-0884</a> | SC. Fort Mill | 2025-04-04 05:40 PM | - | |
 | <a href="tel:+18034808793">+1 (803) 480-8793</a> | SC. Johnston | 2025-04-04 05:20 PM | - | |
