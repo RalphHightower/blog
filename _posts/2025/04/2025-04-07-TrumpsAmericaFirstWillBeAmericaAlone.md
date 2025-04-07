@@ -16,6 +16,8 @@ title: "Trump’s America First Will Leave America ‘Alone’. Pissing Off Alli
 2. Texting war plans over unsecured, personal cellphones.
 3. Pivot to Russia. 
 4. Canada, Britain, Australia, New Zealand considering limiting intelligence sharing with the United States; not considered a reliable partner. 
+5. Trump’s idea of negotiation is “I win. You lose.”
+
 
 - [How To Lose Friends And Piss Off The World 🌎: Trump’s Tariffs Continue Market Turmoil. Trumpcession On Target!]({% link _posts/2025/04/2025-04-04-20250404StockMarketClosingIndexes.md %})<br />2025-04-04 @RalphHightower 
 - [How To Lose Friends and Piss Off The World 🌎: Trump Tariffs Unleash Bears In World’s China Shops]({% link _posts/2025/04/2025-04-03-TrumpTariffsTankMarkets.md %}).<br />2025-04-03. @RalphHightower 
