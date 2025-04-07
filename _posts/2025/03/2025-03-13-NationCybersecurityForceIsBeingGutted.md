@@ -13,7 +13,7 @@ title: "Trump’s Slash & Burn 🔥 of Cybersecurity and Infrastructure Security
 Further Reading 
 
 - [Under Trump, US Cyberdefense Loses Its Head / WIRED](https://www.wired.com/story/big-interview-jen-easterly-cisa-cybersecurity/). By Lily Hay Newman <br /> The Big Story <br /> Jan 23, 2025 6:00 AM
-- [Trump Is the Manchurian Candidate: Fucking Believable! Europe, NATO, and Our Former Allies No Longer Trust the US as Trump Shifts Allegiance With Russia! / @RalphHightower]({% link _posts/2025/03/2025-03-06-UnthinkableUSLosesIntelligenceWithFreeWorld.md %}). @RalphHightower <br /> March 6, 2025
+- [Trump Is the Manchurian Candidate: Fucking Believable! Europe, NATO, and Our Former Allies No Longer Trust the US as Trump Shifts Allegiance With Russia!]({% link _posts/2025/03/2025-03-06-UnthinkableUSLosesIntelligenceWithFreeWorld.md %}). @RalphHightower <br /> March 6, 2025
 - [The XZ Backdoor: Everything You Need to Know / WIRED](https://arstechnica.com/security/2024/04/what-we-know-about-the-xz-utils-backdoor-that-almost-infected-the-world/). Dan Goodin <br /> Ars Technica. Security <br /> Apr 2, 2024 4:00 AM
 - [CDK Global, Change Healthcare cyberattacks highlight risks of sector-specific tech vendors](https://www.axios.com/2024/06/21/cdk-cyberattack-supply-chain-hacks). Jun 21, 2024 - Sam Sabin <br /> *Technology <br /> *How one cyberattack causes relentless ripple effects*
 - [Cybersecurity agency's top recruits decimated by DOGE cuts - CBS News](https://www.cbsnews.com/news/cybersecurity-agencys-top-recruits-doge-cuts/). By Nicole Sganga. <br /> March 7, 2025 / 10:13 AM EST / CBS News
