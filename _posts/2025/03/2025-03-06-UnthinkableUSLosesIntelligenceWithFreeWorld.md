@@ -79,7 +79,7 @@ By Steve Benen
 
 As the [Trump](https://www.whitehouse.gov/administration/donald-j-trump/) [administration](https://www.whitehouse.gov/) adjusts its stance in the [Ukraine](https://www.gov.ua/) conflict, concerns about intelligence sharing among [NATO](https://www.nato.int/) allies have intensified. Several steps taken by [President Trump](https://www.whitehouse.gov/administration/donald-j-trump/) and his team have led to growing unease among long-standing [U.S.](https://www.whitehouse.gov/) allies.
 
-One significant move was the suspension of intelligence sharing with Ukraine, a decision confirmed by the administration. The New York Times reported that this could reshape the battlefield dynamics, potentially benefiting [Russia](http://government.ru/). [Senator Mark Warner](https://www.warner.senate.gov/) of [Virginia](https://www.virginia.gov/) warned that this decision could result in lost lives.
+One significant move was the suspension of intelligence sharing with [Ukraine](https://www.gov.ua/), a decision confirmed by the administration. The New York Times reported that this could reshape the battlefield dynamics, potentially benefiting [Russia](http://government.ru/). [Senator Mark Warner](https://www.warner.senate.gov/) of [Virginia](https://www.virginia.gov/) warned that this decision could result in lost lives.
 
 Beyond the intelligence flowing from the [White House](https://www.whitehouse.gov/), there are also worries about the information reaching it. According to [NBC News](https://www.nbcnews.com/), some [U.S.](https://www.whitehouse.gov/) allies are considering reducing the intelligence they share with [Washington](https://www.whitehouse.gov/). This reassessment is driven by fears that foreign assets' identities might be compromised, especially given the administration's warmer relations with [Russia](http://government.ru/).
 
@@ -92,6 +92,8 @@ The underlying issue is the trustworthiness of intelligence sharing under [Trump
 These developments have led to a growing apprehension among traditional [U.S.](https://www.whitehouse.gov/) allies. With [Trump](https://www.whitehouse.gov/administration/donald-j-trump/) aligning more closely with the Kremlin, the fear that sensitive information might inadvertently reach [Moscow](http://kremlin.ru/) has become more pronounced.
 
 In summary, the current administration's approach has created significant uncertainty about the future of intelligence sharing within [NATO](https://www.nato.int/). The potential risks and implications for global security are substantial, prompting allies to reconsider their strategies.
+
+@RalphHightower: Learned that the *"Five Eyes"* are the English speaking countries: United States, Canada, United Kingdom, Australia, New Zealand
 
 - [MSNBC](https://www.msnbc.com/)
 - Nicolle Wallace
@@ -118,4 +120,7 @@ In summary, the current administration's approach has created significant uncert
 - [White House (WH)](https://www.whitehouse.gov/)
 - [President Of The United States (POTUS)](https://www.whitehouse.gov/)
 - [President Donald J. Trump](https://www.whitehouse.gov/administration/donald-j-trump/)
+- military
+- allies
+- intelligence 
 - politics
