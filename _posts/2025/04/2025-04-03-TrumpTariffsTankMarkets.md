@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [Donald J Trump, Supreme Court of the United States (SCOTUS), US Courts, Senate, House of Representatives, U.S. Department of the Treasury, Scott Bessentm, Department of Commerce (DOC), Howard Lutnick, Howard W. Lutnick, President Donald Trump (45), President Donald Trump (47), President of the United States (POTUS), White House (WH), stupidity, tariffs, politics]
+tags: [New York Stock Exchange (NYSE)	New York City USA, Nasdaq Stock Market	New York City USA, Tokyo Stock Exchange (TSE)	Tokyo Japan, Shanghai Stock Exchange (SSE)	Shanghai China, Hong Kong Stock Exchange (HKEX)	Hong Kong China, London Stock Exchange (LSE)	London United Kingdom, Euronext Amsterdam Brussels Dublin Lisbon Milan Oslo Paris, Toronto Stock Exchange (TSX)	Toronto Canada, National Stock Exchange of India (NSE)	Mumbai India, Bombay Stock Exchange (BSE)	Mumbai India, Shenzhen Stock Exchange (SZSE)	Shenzhen China, Saudi Stock Exchange (Tadawul)	Riyadh Saudi Arabia, Australian Securities Exchange (ASX)	Sydney Australia, Deutsche Börse (Frankfurt Stock Exchange)	Frankfurt Germany, SIX Swiss Exchange	Zurich Switzerland, Korea Exchange (KRX)	Seoul South Korea, Taiwan Stock Exchange (TWSE)	Taipei Taiwan, Johannesburg Stock Exchange (JSE)	Johannesburg South Africa, Bursa Malaysia	Kuala Lumpur Malaysia, Stock Exchange of Thailand (SET)	Bangkok Thailand, Singapore Exchange (SGX)	Singapore, Mexican Stock Exchange (BMV)	Mexico City Mexico, Moscow Exchange (MOEX)	Moscow Russia, Brazil Stock Exchange (B3)	São Paulo Brazil, Donald J Trump, Supreme Court of the United States (SCOTUS), US Courts, Senate, House of Representatives, U.S. Department of the Treasury, Scott Bessentm, Department of Commerce (DOC), Howard Lutnick, Howard W. Lutnick, President Donald Trump (45), President Donald Trump (47), President of the United States (POTUS), White House (WH), stupidity, tariffs, politics]
 categories: [Donald Trump]
 date: 2025-04-03 6:56 PM
 excerpt: 'Yea, I know the idiom is a “Bull In A China Shop”, but a bear in a china shop would be just as destructive. In this particular use, I’m using stock market bulls and bears.'
@@ -131,30 +131,30 @@ Various news media has reported that today was the worst stock market drop since
 
 | Stock Exchange | Location |
 |---------------|----------|
-| **New York Stock Exchange (NYSE)** | New York City, USA |
-| **Nasdaq Stock Market** | New York City, USA |
-| **Tokyo Stock Exchange (TSE)** | Tokyo, Japan |
-| **Shanghai Stock Exchange (SSE)** | Shanghai, China |
-| **Hong Kong Stock Exchange (HKEX)** | Hong Kong, China |
-| **London Stock Exchange (LSE)** | London, United Kingdom |
-| **Euronext** | Amsterdam, Brussels, Dublin, Lisbon, Milan, Oslo, Paris |
-| **Toronto Stock Exchange (TSX)** | Toronto, Canada |
-| **National Stock Exchange of India (NSE)** | Mumbai, India |
-| **Bombay Stock Exchange (BSE)** | Mumbai, India |
-| **Shenzhen Stock Exchange (SZSE)** | Shenzhen, China |
-| **Saudi Stock Exchange (Tadawul)** | Riyadh, Saudi Arabia |
-| **Australian Securities Exchange (ASX)** | Sydney, Australia |
-| **Deutsche Börse (Frankfurt Stock Exchange)** | Frankfurt, Germany |
-| **SIX Swiss Exchange** | Zurich, Switzerland |
-| **Korea Exchange (KRX)** | Seoul, South Korea |
-| **Taiwan Stock Exchange (TWSE)** | Taipei, Taiwan |
-| **Johannesburg Stock Exchange (JSE)** | Johannesburg, South Africa |
-| **Bursa Malaysia** | Kuala Lumpur, Malaysia |
-| **Stock Exchange of Thailand (SET)** | Bangkok, Thailand |
-| **Singapore Exchange (SGX)** | Singapore |
-| **Mexican Stock Exchange (BMV)** | Mexico City, Mexico |
-| **Moscow Exchange (MOEX)** | Moscow, Russia |
-| **Brazil Stock Exchange (B3)** | São Paulo, Brazil |
+| **[New York Stock Exchange (NYSE)](https://www.nyse.com/index)** | New York City, USA |
+| **[Nasdaq Stock Market](https://www.nasdaq.com/)** | New York City, USA |
+| **[Tokyo Stock Exchange (TSE)](https://www.jpx.co.jp/)** | Tokyo, Japan |
+| **[Shanghai Stock Exchange (SSE)](https://sse.com.cn/)** | Shanghai, China |
+| **[Hong Kong Stock Exchange (HKEX)](https://www.hkex.com.hk/)** | Hong Kong, China |
+| **[London Stock Exchange (LSE)](https://www.londonstockexchange.com/)** | London, United Kingdom |
+| **[Euronext](https://www.euronext.com/)** | Amsterdam, Brussels, Dublin, Lisbon, Milan, Oslo, Paris |
+| **[Toronto Stock Exchange (TSX)](https://www.tmx.com/)** | Toronto, Canada |
+| **[National Stock Exchange of India (NSE)](https://www.nseindia.com/)** | Mumbai, India |
+| **[Bombay Stock Exchange (BSE)](https://www.bseindia.com/)** | Mumbai, India |
+| **[Shenzhen Stock Exchange (SZSE)](https://www.szse.cn/)** | Shenzhen, China |
+| **[Saudi Stock Exchange (Tadawul)](https://www.saudiexchange.sa/)** | Riyadh, Saudi Arabia |
+| **[Australian Securities Exchange (ASX)](https://www.asx.com.au/)** | Sydney, Australia |
+| **[Deutsche Börse (Frankfurt Stock Exchange)](https://www.deutsche-boerse.com/dbg-en)** | Frankfurt, Germany |
+| **[SIX Swiss Exchange](https://www.six-group.com/)** | Zurich, Switzerland |
+| **[Korea Exchange (KRX)](https://www.krx.co.kr/)** | Seoul, South Korea |
+| **[Taiwan Stock Exchange (TWSE)](https://www.twse.com.tw/)** | Taipei, Taiwan |
+| **[Johannesburg Stock Exchange (JSE)](https://www.jse.co.za/)** | Johannesburg, South Africa |
+| **[Bursa Malaysia](https://www.bursamalaysia.com/)** | Kuala Lumpur, Malaysia |
+| **[Stock Exchange of Thailand (SET)](https://www.set.or.th/)** | Bangkok, Thailand |
+| **[Singapore Exchange (SGX)](https://www.sgx.com/)** | Singapore |
+| **[Mexican Stock Exchange (BMV)](https://www.bmv.com.mx/)** | Mexico City, Mexico |
+| **[Moscow Exchange (MOEX)](https://www.moex.com/)** | Moscow, Russia |
+| **[Brazil Stock Exchange (B3)](https://www.b3.com.br/)** | São Paulo, Brazil |
 
 ## [Cboe Volatility Index (VIX): What it is and how it’s measured](https://www.bankrate.com/investing/vix-volatility-index/?mf_ct_campaign=msn-feed&)
 Story by Brian Baker, CFA. March 25, 2025
