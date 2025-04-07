@@ -16,12 +16,14 @@ title: "Trump’s America First Will Leave America ‘Alone’. Pissing Off Alli
 2. Texting war plans over unsecured, personal cellphones.
 3. Pivot to Russia. 
 4. Canada, Britain, Australia, New Zealand considering limiting intelligence sharing with the United States; not considered a reliable partner. 
+5. Trump’s idea of negotiation is “I win. You lose.”
+
 
 - [How To Lose Friends And Piss Off The World 🌎: Trump’s Tariffs Continue Market Turmoil. Trumpcession On Target!]({% link _posts/2025/04/2025-04-04-20250404StockMarketClosingIndexes.md %})<br />2025-04-04 @RalphHightower 
 - [How To Lose Friends and Piss Off The World 🌎: Trump Tariffs Unleash Bears In World’s China Shops]({% link _posts/2025/04/2025-04-03-TrumpTariffsTankMarkets.md %}).<br />2025-04-03. @RalphHightower 
 - [How To Lose Friends (Canada) And Piss Off The World 🌎 ]({% link _posts/2025/03/2025-03-30-HowToLoseFriendsSndPissOffTheWorld.md %}).<br />2025-03-30 @RalphHightower
 - [Shit You Can’t Make Up: Yemen Houthi Strike Planning Held On Unsecured Phones In Group Chat]({% link _posts/2025/03/2025-03-25-YemenHouthiWarPlansTextedUnsecured.md %}).<br />2025-03-25 @RalphHightower
-- [Canada Considers Buying Fighter Jets From Europe Instead Of US Due To Trump’s Instability and Unpredictable Continued Membership In NATO. Lockheed Martin Loses Contract Of F-35 Jets Worth $19 Billion"m]({% link _posts/2025/03/2025-03-17-TrumpTradeWarWithWorldJustLostDefenseOrderCanada.md %}).<br />2025-03-17. @RalphHightower
+- [Canada Considers Buying Fighter Jets From Europe Instead Of US Due To Trump’s Instability and Unpredictable Continued Membership In NATO. Lockheed Martin Loses Contract Of F-35 Jets Worth $19 Billion]({% link _posts/2025/03/2025-03-17-TrumpTradeWarWithWorldJustLostDefenseOrderCanada.md %}).<br />2025-03-17. @RalphHightower
 - [Stock Markets Tumbles. Trumpcession Looming. Government Shutdown Pending. Trump Golfs!]({% link _posts/2025/03/2025-03-14-NationalPiDayWeekendTrumpGolfs.md %}).<br />2025-03-14 @RalphHightower
 - [Trump Is the Manchurian Candidate: Fucking Believable! Europe, NATO, and Our Former Allies No Longer Trust the US as Trump Shifts Allegiance With Russia!]({% link _posts/2025/03/2025-03-06-UnthinkableUSLosesIntelligenceWithFreeWorld.md %}).<br />2025-03-06. @RalphHightower
 - [Canada Responds to Trump Tariffs: Prime Minister Justin Trudeau & Foreign Minister Mélanie Joly]({% link _posts/2025/03/2025-03-06-CanadaRespondsToTrumpTariffs.md %}).<br />2025-03-06 @RalphHightower

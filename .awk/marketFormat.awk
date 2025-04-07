@@ -1,15 +1,20 @@
-# Used to format Market Indexes from Google [Stock Market Indexes - Google Finance](https://www.google.com/finance/markets/indexes/)
+# Used to format Market Indexes from Google 
+# [Stock Market Indexes - Google Finance](https://www.google.com/finance/markets/indexes/)
 # edit file to add 》 at start of regional markets
 BEGIN {
   printf("| Index | Closing Value | Gain/Loss | Percentage Change |\n")
   printf("|---|---:|---:|---:|\n")
+  region = "|Americas|Europe, Middle East, and Africa|Asia Pacific|"
   }
 {
   #printf("DEBUG: line=%d\n", line)
+  regionHeading = index(region, $0)
+  if (regionHeading > 0)
+    line = -1
   if (substr($0, 1, 1) == "》") {
     line = -1
     }
-  else if (line == -1) {
+  else if ((line == -1) || (regionHeading > 0)) {
     if (substr($0, 1, 5) != "Index")
       printf("| **%s** | | | |\n", $0)
     }
