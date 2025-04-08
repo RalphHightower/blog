@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [MSNBC, Nicolle Wallace, Rachel Maddow, John Brennan, Politico, Australia Government, United Kingdom Government, New Zealand Government, Magyarország Kormánya - főoldal (Hungary), Domov / Úrad vlády Slovenskej republiky (Slovakia), Syrian Government, Kremlin, Russia, Vladimir Putin, Ukraine (UA), Volodymyr Zelenskyy, United Nations (UN), North Atlantic Treaty Organization (NATO), European Union (EU), United States of America (US), Central Intelligence Agency, Office of the Director of National Intelligence (ODNI), Tulsi Gabbard, North Atlantic, Treaty Organization (NATO), White House (WH), President Of The United States (POTUS), President Donald J. Trump, politics]
+1. tags: [Manchurian Candidate, MSNBC, Nicolle Wallace, Rachel Maddow, John Brennan, Politico, Australia Government, United Kingdom Government, New Zealand Government, Magyarország Kormánya - főoldal (Hungary), Domov / Úrad vlády Slovenskej republiky (Slovakia), Syrian Government, Kremlin, Russia, Vladimir Putin, Ukraine (UA), Volodymyr Zelenskyy, United Nations (UN), North Atlantic Treaty Organization (NATO), European Union (EU), United States of America (US), Central Intelligence Agency, Office of the Director of National Intelligence (ODNI), Tulsi Gabbard, North Atlantic, Treaty Organization (NATO), White House (WH), President Of The United States (POTUS), President Donald J. Trump, politics]
 categories: [Donald Trump]
 date: 2025-03-06 9:57 PM
 excerpt: ''
@@ -19,7 +19,7 @@ Mar 6, 2025  #trump #ukraine #worldleaders
 John Brennan, Former [CIA](https://www.cia.gov/) Director and Courtney Kube, [NBC News](https://www.nbcnews.com/) [Pentagon](https://www.whitehouse.gov/) Correspondent join Nicolle Wallace on Deadline [White House](https://www.whitehouse.gov/) with reaction to the shifting levels of trust in [America’s](https://www.usa.gov/) allies with the [Trump](https://www.whitehouse.gov/administration/donald-j-trump/) [Administration](https://www.whitehouse.gov/), with alliances that took decades to build now on a breaking point, with some of the “Five Eyes” having discussions about scaling back the information that they share with the [United States](https://www.usa.gov/).
 For more context and news coverage of the most important stories of our day click here: https://www.msnbc.com/
 
-- Manchuria Candidate
+- Manchurian Candidate
 - [MSNBC](https://www.msnbc.com)
 - [Politico](https://www.politico.eu/)
 - safeguarding critical assets
@@ -60,7 +60,7 @@ Recently, the Financial Times reported that Peter Navarro, a top [White House](h
 
 The situation following the meeting between [Ukrainian](https://www.gov.ua/) [President Volodymyr Zelenskyy](https://www.president.gov.ua/) and [Trump](https://www.whitehouse.gov/administration/donald-j-trump/) has only added to the uncertainty. While some [NATO](https://www.nato.int/) officials deny that the alliance's recent challenges have impacted intelligence sharing, others confirm that intelligence is now more often shared bilaterally rather than in full alliance meetings.
 
-Intelligence sharing among [NATO's](https://www.nato.int/) 32 members has never been as close as among the Five Eyes due to fears of leaks and suspicions of [Russian](( penetration of national intelligence agencies. Allies typically share intelligence selectively, especially when it involves sensitive information.
+Intelligence sharing among [NATO's](https://www.nato.int/) 32 members has never been as close as among the Five Eyes due to fears of leaks and suspicions of [Russian](http://government.ru/) penetration of national intelligence agencies. Allies typically share intelligence selectively, especially when it involves sensitive information.
 
 Despite these challenges, sharing intelligence has proven powerful, as demonstrated when the [Biden administration](https://www.whitehouse.gov/) alerted allies to [Russia's](http://government.ru/) preparations to attack [Ukraine](https://www.gov.ua/). However, with the political shift under [Trump](https://www.whitehouse.gov/administration/donald-j-trump/), the future role of [U.S.](https://www.whitehouse.gov/) intelligence in [NATO](https://www.nato.int/) remains uncertain.
 
@@ -79,22 +79,25 @@ By Steve Benen
 
 As the [Trump](https://www.whitehouse.gov/administration/donald-j-trump/) [administration](https://www.whitehouse.gov/) adjusts its stance in the [Ukraine](https://www.gov.ua/) conflict, concerns about intelligence sharing among [NATO](https://www.nato.int/) allies have intensified. Several steps taken by [President Trump](https://www.whitehouse.gov/administration/donald-j-trump/) and his team have led to growing unease among long-standing [U.S.](https://www.whitehouse.gov/) allies.
 
-One significant move was the suspension of intelligence sharing with [Ukraine](https://www.gov.ua/), a decision confirmed by the administration. The New York Times reported that this could reshape the battlefield dynamics, potentially benefiting [Russia](http://government.ru/). [Senator Mark Warner](https://www.warner.senate.gov/) of [Virginia](https://www.virginia.gov/) warned that this decision could result in lost lives.
+One significant move was the suspension of intelligence sharing with [Ukraine](https://www.gov.ua/), a decision confirmed by the [administration](https://www.whitehouse.gov/administration/). The [New York Times](https://www.nytimes.com/) reported that this could reshape the battlefield dynamics, potentially benefiting [Russia](http://government.ru/). [Senator Mark Warner](https://www.warner.senate.gov/) of [Virginia](https://www.virginia.gov/) warned that this decision could result in lost lives.
 
-Beyond the intelligence flowing from the [White House](https://www.whitehouse.gov/), there are also worries about the information reaching it. According to [NBC News](https://www.nbcnews.com/), some [U.S.](https://www.whitehouse.gov/) allies are considering reducing the intelligence they share with [Washington](https://www.whitehouse.gov/). This reassessment is driven by fears that foreign assets' identities might be compromised, especially given the administration's warmer relations with [Russia](http://government.ru/).
+Beyond the intelligence flowing from the [White House](https://www.whitehouse.gov/), there are also worries about the information reaching it. According to [NBC News](https://www.nbcnews.com/), some [U.S.](https://www.whitehouse.gov/) allies are considering reducing the intelligence they share with [Washington](https://www.whitehouse.gov/). This reassessment is driven by fears that foreign assets' identities might be compromised, especially given the [administration](https://www.whitehouse.gov/administration/)'s warmer relations with [Russia](http://government.ru/).
 
-Politico recently reported that [NATO's](https://www.nato.int/) intelligence-sharing protocols are at risk, as foreign officials question the safety of sharing sensitive information with the [U.S.](https://www.whitehouse.gov/) The situation has been exacerbated by [Trump's](https://www.whitehouse.gov/administration/donald-j-trump/) nomination of [Tulsi Gabbard](https://www.dni.gov/index.php/who-we-are/leadership/director-of-national-intelligence) as [director of national intelligence](https://www.dni.gov/), a choice that raised alarms due to her past comments mirroring Russian propaganda.
+[Politico](https://www.politico.com/) recently reported that [NATO's](https://www.nato.int/) intelligence-sharing protocols are at risk, as foreign officials question the safety of sharing sensitive information with the [U.S.](https://www.whitehouse.gov/) The situation has been exacerbated by [Trump's](https://www.whitehouse.gov/administration/donald-j-trump/) nomination of [Tulsi Gabbard](https://www.dni.gov/index.php/who-we-are/leadership/director-of-national-intelligence) as [director of national intelligence](https://www.dni.gov/), a choice that raised alarms due to her past comments mirroring [Russian propaganda](http://government.ru/).
 
-In January, Shane Harris highlighted in The Atlantic that some foreign intelligence officials have already begun limiting the sensitive information they share with the [Trump](https://www.whitehouse.gov/administration/donald-j-trump/) administration, fearing leaks or political misuse.
+In January, Shane Harris highlighted in [The Atlantic](https://www.theatlantic.com/) that some foreign intelligence officials have already begun limiting the sensitive information they share with the [Trump](https://www.whitehouse.gov/administration/donald-j-trump/) [administration](https://www.https://www.whitehouse.gov/administration/), fearing leaks or political misuse.
 
 The underlying issue is the trustworthiness of intelligence sharing under [Trump's](https://www.whitehouse.gov/administration/donald-j-trump/) leadership. This concern is not unfounded, given [Trump's](https://www.whitehouse.gov/administration/donald-j-trump/) history of mishandling classified information. For instance, in a meeting with [Russian](http://government.ru/) officials in the [Oval Office](https://www.whitehouse.gov/), [Trump](https://www.whitehouse.gov/administration/donald-j-trump/) reportedly disclosed highly classified information without a clear reason.
 
-These developments have led to a growing apprehension among traditional [U.S.](https://www.whitehouse.gov/) allies. With [Trump](https://www.whitehouse.gov/administration/donald-j-trump/) aligning more closely with the Kremlin, the fear that sensitive information might inadvertently reach [Moscow](http://kremlin.ru/) has become more pronounced.
+These developments have led to a growing apprehension among traditional [U.S.](https://www.whitehouse.gov/) allies. With [Trump](https://www.whitehouse.gov/administration/donald-j-trump/) aligning more closely with the [Kremlin](http://kremlin.ru/), the fear that sensitive information might inadvertently reach [Moscow](http://government.ru/) has become more pronounced.
 
-In summary, the current administration's approach has created significant uncertainty about the future of intelligence sharing within [NATO](https://www.nato.int/). The potential risks and implications for global security are substantial, prompting allies to reconsider their strategies.
+In summary, the [current administration](https://www.whitehouse.gov/administration/)'s approach has created significant uncertainty about the future of intelligence sharing within [NATO](https://www.nato.int/). The potential risks and implications for global security are substantial, prompting allies to reconsider their strategies.
 
-@RalphHightower: Learned that the *"Five Eyes"* are the English speaking countries: United States, Canada, United Kingdom, Australia, New Zealand
+@RalphHightower: Learned that the *"Five Eyes"* are the English speaking countries: [United States](https://www.whitehouse.gov//), [Canada](https://www.canada.ca/), [United Kingdom](https://www.gov.uk/), [Australia](https://www.pm.gov.au/), [New Zealand](https://www.govt.nz/)
 
+- Manchurian Candidate
+- [The Manchurian Candidate (1962)](https://www.imdb.com/title/tt0056218/?)
+- [The Manchurian Candidate (2004)](https://www.imdb.com/title/tt0368008/?)
 - [MSNBC](https://www.msnbc.com/)
 - Nicolle Wallace
 - Rachel Maddow
