@@ -10,11 +10,11 @@ excerpt: ''
 toc: true
 title: "How To Lose Friends And Piss Off The World 🌎: Trump’s Tariffs Continue Market Turmoil. Trumpcession On Target!"
 ---
-
+ 
 After tanking the markets, [Trump](https://www.donaldjtrump.com/) goes golfing ⛳️ again! First to his private [Florida](https://www.myflorida.com/) [Mar-a-Lago golf private club](https://www.maralagoclub.com/), then to his [Trump National Doral Golf Club](https://www.trumpgolfdoral.com/) for a [Liv Golf](https://www.livgolf.com/) [golf tournament](https://www.livgolf.com/schedule/miami-2025/course).
 
 - @RalphHightower 
-    - ["How To Lose Friends and Piss Off The World 🌎: Trump Tariffs Unleash Bears In World’s China Shops"](%{ _link _posts/2025/04/2025-04-03-TrumpTariffsTankMarkets.md %}). April 3, 2025 
+    - ["How To Lose Friends and Piss Off The World 🌎: Trump Tariffs Unleash Bears In World’s China Shops"]({% _link _posts/2025/04/2025-04-03-TrumpTariffsTankMarkets.md %}). April 3, 2025 
 - [AP News](https"//www.apnews.com/)
     - [Congress could halt Trump's tariffs, but Republicans aren't ready to act / AP News](https://apnews.com/article/trump-tariffs-republicans-senate-house-2409e9ff50290edac738ad6e4e8e78b9). By  STEPHEN GROVES. Updated 3:27 PM EDT, April 4, 2025
 - [Wall Street Journal](https://www.wsj.com)
