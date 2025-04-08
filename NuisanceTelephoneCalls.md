@@ -2,7 +2,7 @@
 layout: page
 tags: [assholes, Donald Trump, Elon Musk, Betsy DeVos, MAGA billionaires, billionaire, Trump donors, Republican PAC, Make America Great Again (MAGA)]
 categories: [Telephone Numbers]
-date: 2025-04-07 7:27 PM
+date: 2025-04-08 6:56 PM
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description: 
@@ -18,6 +18,34 @@ The telephone numbers below have called and there is an empty person on the othe
 
 | Telephone Number | Location | Date Time[^11] | Caller | Social Media |
 |---|---|---|---|---|
+| <a href="tel:+18032940681">+1 (803) 294-0681</a> | SC. | 2025-04-08 06:38 PM | Derrelle A Brown | |
+| <a href="tel:+18033249904">+1 (803) 324-9904</a> | SC. Rock Hill | 2025-04-08 06:37 PM | Fat Boys Barber | |
+| <a href="tel:+18036673895">+1 (803) 667-3895</a> | SC. Columbia | 2025-04-08 06:05 PM | - | |
+| <a href="tel:+18038020856">+1 (803) 802-0856</a> | SC. | 2025-04-08 05:47 PM | Laveglia Karen | |
+| <a href="tel:+18034901759">+1 (803) 490-1759</a> | SC. | 2025-04-08 05:12 PM | Potential Spam | |
+| <a href="tel:+18033279432">+1 (803) 327-9432</a> | SC. Rock Hill | 2025-04-08 04:56 PM | Vincent Frair | |
+| <a href="tel:+18033249912">+1 (803) 324-9912</a> | SC. | 2025-04-08 04:18 PM | Kip Myers | |
+| <a href="tel:+18038051204">+1 (803) 805-1204</a> | SC. | 2025-04-08 03:50 PM | - | |
+| <a href="tel:+18034026591">+1 (803) 402-6591</a> | SC. Winnsboro | 2025-04-08 03:42 PM | - | |
+| <a href="tel:+18034818985">+1 (803) 481-8985</a> | SC. Sumter | 2025-04-08 03:16 PM | Meadows Floyd M | |
+| <a href="tel:+18035482455">+1 (803) 548-2455</a> | SC. | 2025-04-08 02:43 PM | Derick Wilder | |
+| <a href="tel:+18036372182">+1 (803) 637-2182</a> | SC. Edgefield | 2025-04-08 02:13 PM | - | |
+| <a href="tel:+18034967574">+1 (803) 496-7574</a> | SC. | 2025-04-08 01:37 PM | Joyce Lematty | |
+| <a href="tel:+18034818850">+1 (803) 481-8850</a> | SC. Sumter | 2025-04-08 01:13 PM | Nolan Gibson | |
+| <a href="tel:+18035475926">+1 (803) 547-5926</a> | SC. | 2025-04-08 01:13 PM | Hales Sheri | |
+| <a href="tel:+18034953589">+1 (803) 495-3589</a> | SC. Sumter | 2025-04-08 01:00 PM | - | |
+| <a href="tel:+18038795156">+1 (803) 879-5156</a> | SC. Clover | 2025-04-08 12:46 PM | - | |
+| <a href="tel:+18033275487">+1 (803) 327-5487</a> | SC. Rock Hill | 2025-04-08 12:42 PM | - | |
+| <a href="tel:+18033281700">+1 (803) 328-1700</a> | SC. | 2025-04-08 12:13 PM | Jessie McMoore | |
+| <a href="tel:+18035120231">+1 (803) 512-0231</a> | SC. | 2025-04-08 11:52 AM | Potential Spam | |
+| <a href="tel:+18037098914">+1 (803) 709-8914</a> | SC. Barnwell | 2025-04-08 11:26 AM | - | |
+| <a href="tel:+18032763852">+1 (803) 276-3852</a> | SC. Newberry | 2025-04-08 10:59 AM | Mike Willingham | |
+| <a href="tel:+18038081759">+1 (803) 808-1759</a> | SC. Lexington | 2025-04-08 10:12 AM ¤¤ | Dennis Jones | |
+| <a href="tel:+18038081759">+1 (803) 808-1759</a> | SC. Lexington | 2025-04-08 10:11 AM | Dennis Jones | |
+| <a href="tel:+18038834943">+1 (803) 883-4943</a> | SC. | 2025-04-08 10:09 AM | - | |
+| <a href="tel:+18036044592">+1 (803) 604-4592</a> | SC. | 2025-04-08 10:01 AM | - | |
+| <a href="tel:+18032337712">+1 (803) 233-7712</a> | SC. | 2025-04-08 09:48 AM | Potential Spam | |
+| <a href="tel:+18036947980">+1 (803) 694-7980</a> | SC. Whitmire | 2025-04-08 09:31 AM | - | |
 | <a href="tel:+18035204796">+1 (803) 520-4796</a> | SC. Lexington | 2025-04-07 06:28 PM | Potential Spam | |
 | <a href="tel:+18035845229">+1 (803) 584-5229</a> | SC. Allendale | 2025-04-07 06:26 PM | - | |
 | <a href="tel:+18039458028">+1 (803) 945-8028</a> | SC. | 2025-04-07 05:27 PM | - | |
