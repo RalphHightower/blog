@@ -6,7 +6,7 @@ layout: base
   {%- if page.title -%}
     <h1 class="page-heading">{{ page.title }}</h1>
   {%- endif -%}
-  <span class="post-meta">{{ post.date | date: date_format }}</span>
+  <span class="post-meta">{{ page.date | date: date_format }}</span>
   {{ content }}
 
 <h2>Related Posts</h2>
