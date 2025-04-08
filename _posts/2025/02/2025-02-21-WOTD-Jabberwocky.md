@@ -1,7 +1,7 @@
 ---
 layout: post
-tags: [Merriam-Webster, Word of the Day (WOTD), White House (WH), President of the United States (POTUS), politics]
-categories: [Donald Trump]
+tags: [Word of the Day (WOTD), jabberwocky, Donald Trump, White House (WH), President of the United States (POTUS), politics]
+categories: [Merriam-Webster]
 date: 2025-02-21 4:03 PM
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
