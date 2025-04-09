@@ -1,55 +1,48 @@
 ---
 layout: post
-tags: [Word of the Day (WOTD), apparatchik, Trump Party, Republican Party, GOP, Donald Trump, White House (WH), President of the United States (POTUS), President Donald Trump (45), President Donald Trump (47), President Trump Administration, President Trump Cabinet, Environmental Protection Agency (EPA), Lee Zeldin, Small Business Administration (SBA), Kelly Loeffler, Department of Justice (DOJ), Attorney General, Pam Bondi, Central Intelligence Agency (CIA), John Ratcliffe, Office of the Director of National Intelligence (ODNI), Tulsi Gabbard, Office of Management and Budget (OMB), Russ Vought, U.S. Department of Agriculture (USDA), Brooke Rollins, Department of Defense (DOD), Pete Hegseth, Department of Education (ED), Linda McMahon, Department of Energy (DOE), Chris Wright, U.S. Department of Health and Human Services (HHS), Robert F Kennedy Jr., Department of Homeland Security (DHS), Kristi Noem, Department of Housing and Urban Development (HUD), Scott Turner, Department of the Interior (DOI), Doug Burgum, 
-Department of Labor (DOL), Lori Chavez-DeRemer, Department of State (DOS), Marco Rubio, Department of Veterans Affairs (VA), Doug Collins, Department of Transportation (DOT), Sean Duffy, Department of the Treasury, Scott Bessent, U.S. Trade Representative (USTR), Jamieson Greer, apparatchik, sycophants, politics]
-categories: [Merriam-Webster, Word of the Day (WOTD)]
-date: 2025-04-08 10:24 AM
-excerpt: ''
+tags: [NBC News, MSNBC, The Atlantic, New York Times, Media Matters for America, Ryan Zinke / LinkedIn, A-Z index of U.S. government departments and agencies / USAGov, Montana (MT), Donald J Trump, President Donald Trump (45), President Donald Trump (47), President of the United States (POTUS), President Trump Administration, President Trump Cabinet, Department of Commerce (DOC), Howard Lutnick / U.S. Department of Commerce, Environmental Protection Agency (EPA), Lee Zeldin, Small Business Administration (SBA), Kelly Loeffler, National Park Service (NPS), U.S. Park Police (U.S. National Park Service), Department of Justice (DOJ), Attorney General, Pam Bondi, Central Intelligence Agency (CIA), John Ratcliffe, Office of the Director of National Intelligence (ODNI), Tulsi Gabbard – LinkedIn, Office of Management and Budget (OMB), Russ Vought – LinkedIn, U.S. Department of Agriculture (USDA), Brooke Rollins, Department of Defense (DOD), Pete Hegseth, Department of Education (ED), Linda McMahon, Department of Energy (DOE), Chris Wright, U.S. Department of Health and Human Services (HHS), Robert F Kennedy Jr., Department of Homeland Security (DHS), Kristi Noem, Department of Housing and Urban Development (HUD), Scott Turner, Department of the Interior (DOI), Doug Burgum, JoDee Hanson / LinkedIn, Department of Labor (DOL), Lori Chavez-DeRemer, Department of State (DOS), Marco Rubio, Department of Veterans Affairs (VA), Doug Collins, Department of Transportation (DOT), Sean Duffy, Department of the Treasury, Scott Bessent, U.S. Trade Representative (USTR), Jamieson Greer, apparatchik, sycophants, politics]
+categories: [Donald Trump]
+date: 2025-04-08 11:24 PM
+excerpt: 'Interior Secretary Doug Burgum likes chocolate-chip cookies — preferably freshly baked and still warm.'
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: "Merriam-Webster’s WOTD (Word Of The Day): Apparatchik. Appropriate For the Trump Administration & Trump Party"
+title: "Trump #47’s Department of Interior (DOI), Doug Burgum’s Strange Office Fetish"
 ---
 
 
-Today's [Merriam-Webster](https://www.merriam-webster.com/)'s [Word of the Day (WOTD)](http://www.merriam-webster.com/word-of-the-day/2025/04/08/) is [apparatchik](http://www.merriam-webster.com/dictionary/apparatchik). The definition is appropriate for [Trump’s](https://www.donaldjtrump.com/), his [cabinet](https://www.whitehouse.gov/administration/the-cabinet/), and [administration](https://www.whitehouse.gov/administration/), so I created a blog post of the [Trumpers](https://www.gop.com/). Anyway, I got sucked into a rabbit hole and forgot why I went to [Merriam-Webster](https://www.merriam-webster.com/).
+## [One White House Cabinet secretary sets high standards (for his cookies)](https://www.msnbc.com/rachel-maddow-show/maddowblog/one-white-house-cabinet-secretary-sets-high-standards-cookies-rcna200253)
 
-I'll add the [Trumpians](https://www.gop.com/) in the [House of Representatives](https://www.house.gov/) and [Senate](https://www.senate.gov) once I create the list.
+*[Interior](https://www.doi.gov/) [Secretary](https://www.doi.gov/secretary-doug-burgum) [Doug Burgum](https://www.linkedin.com/in/doug-burgum-03019111/) is the latest addition to the list of [Trump](https://www.donaldjtrump.com/) Cabinet secretaries who face embarrassing allegations.*
 
-## [Merriam-Webster's Word of the Day for Apr 8 is "apparatchik":](http://www.merriam-webster.com/word-of-the-day/2025/04/08/)
+April 8, 2025, 1:23 PM EDT
+By Steve Benen
 
-What It Means
+Eleven weeks into [Donald Trump](https://www.donaldjtrump.com/)’s second term, much of the [president](https://www.whitehouse.gov/)’s [White House](https://www.whitehouse.gov/) [Cabinet](https://www.whitehouse.gov/administration/the-cabinet/) is off to a rough start. [Defense](https://www.defense.gov/) [Secretary](https://www.defense.gov/About/Biographies/Biography/Article/4040890/hon-pete-hegseth/) [Pete Hegseth](https://www.linkedin.com/in/petehegseth/), [Health and Human Services](https://www.hhs.gov/) [Secretary](https://www.hhs.gov/about/leadership/robert-kennedy.html) [Robert F. Kennedy Jr.](https://www.hhs.gov/about/leadership/robert-kennedy.html), [Attorney General](https://www.justice.gov/) [Pam Bondi](https://www.justice.gov/ag/staff-profile/meet-attorney-general) and [Commerce](https://www.commerce.gov/) [Secretary](https://www.commerce.gov/about/leadership/howard-lutnick) [Howard Lutnick](https://www.linkedin.com/in/howardwlutnick/), among others, quickly became mired in controversies soon after taking office.
 
-[Apparatchik](http://www.merriam-webster.com/dictionary/apparatchik) is used disapprovingly to refer to a blindly devoted official, follower, or member of an organization, such as a corporation or political party.
+But that list is still growing. [The Atlantic reported](https://www.theatlantic.com/politics/archive/2025/04/burgum-cookies/682319/) this week:
 
-// This generation of graduates wants more out of life than to become establishment [apparatchiks](http://www.merriam-webster.com/dictionary/apparatchik).
+> [Interior](https://www.doi.gov/) [Secretary](https://www.doi.gov/secretary-doug-burgum) [Doug Burgum](https://www.linkedin.com/in/doug-burgum-03019111/) likes chocolate-chip cookies — **preferably freshly baked** and **still warm**. This peculiar fact became the talk of the [Department of the Interior](https://www.doi.gov/) in recent weeks after his chief of staff, [JoDee Hanson](https://www.linkedin.com/in/jodee-hanson-a8054537/), made an unusual request of the political appointees in his office: Learn to regularly bake cookies for [Burgum](https://www.linkedin.com/in/doug-burgum-03019111/) and his guests, using the industrial ovens at the department headquarters.
 
-[See the entry >](http://www.merriam-webster.com/dictionary/apparatchik)
+[The Atlantic](https://www.theatlantic.com/)’s report, which has not been independently verified by [MSNBC](https://www.msnbc.com/) or [NBC News](https://www.nbcnews.com/), added that the Cabinet secretary and his team have also “repeatedly made unusual demands,” including instructing political appointees to act as servers for a multi-course meal, dispatching a [U.S. Park Police](https://www.nps.gov/places/u-s-park-police.htm) helicopter for his personal transportation and at one point even telling an appointee to remake cookies that failed to meet Burgum’s standards.
 
-"Played by What We Do in the Shadows' Matt Berry, Shazbor is a faithful party apparatchik and staunch defender of his country's traditions ..." — Damon Wise, Deadline, 25 Jan. 2025
+As is usually the case, the administration pushed back against the reporting, with an Interior spokesperson describing the claims as “pathetic smears” from “unnamed cowards.” Similarly, a White House spokesperson dismissed concerns and stood behind the secretary.
 
-Did you know?
+Time will tell if the allegations amount to anything, though it’s worth pausing to appreciate the familiarity of the circumstances.
 
-The apparat in [apparatchik](http://www.merriam-webster.com/dictionary/apparatchik) (a term English speakers borrowed from Russian) essentially means "party machine," with machine referring to a highly organized political group under the [leadership of a boss](https://www.whitehouse.gov/administration/donald-j-trump/) or small group of individuals: apparatchik originally referred to someone functioning as a cog in the system of the [Communist Party](https://www.gop.com/). The term is not a flattering one, and its negative connotations reflect the perception of some [Communists](https://www.gop.com/) as obedient drones in the [great Party machine](https://www.gop.com/). In current use, however, a person doesn't have to be a member of the [Communist Party](https://www.gop.com/) to be called an [apparatchik](http://www.merriam-webster.com/dictionary/apparatchik); they just have to be someone who mindlessly follows orders in an organization or bureaucracy.
+In [Trump](https://www.donaldjtrump.com/)’s first term, much of his [Cabinet](https://trumpwhitehouse.archives.gov/) ran into serious controversies, and in four instances, Cabinet members were even [referred to the Justice Department for possible criminal prosecution](https://www.msnbc.com/rachel-maddow-show/trump-s-justice-dept-failed-prosecute-cabinet-members-4-times-n1259656).
 
-### Definition 
+Arguably the most controversial member of them all was [Trump](https://www.donaldjtrump.com/)’s first interior secretary, [Ryan Zinke](https://www.linkedin.com/in/ryan-zinke-b3b34416/), whose tenure was almost cartoonishly provocative: The Montana Republican came under [at least 15 different investigations](https://www.rollcall.com/2021/04/29/ex-rep-ryan-zinke-eyes-new-house-seat-in-montana/) before resigning under a cloud of controversy. In December 2018, [The New York Times](https://www.nytimes.com/) published [a round-up](https://www.nytimes.com/2018/10/31/climate/ryan-zinke-investigations.html) of [Zinke](https://www.linkedin.com/in/ryan-zinke-b3b34416/)-related probes, and it was a strikingly long list. [Media Matters](https://www.mediamatters.org/) also put together [a timeline](https://www.mediamatters.org/blog/2018/05/07/A-timeline-of-scandals-and-ethical-shortfalls-at-Ryan-Zinkes-Interior-Department/220123) of the former interior secretary’s “questionable actions and controversies,” and that list was even longer.
 
-noun
-ap·​pa·​rat·​chik | \ ˌä-pə-ˈrä(t)-chik  \
-plural ap​pa​rat​chiks also ap​pa​rat​chi​ki \ ˌä-pə-ˈrä(t)-chi-kē  \
-Definition
-1: a member of a Communist apparat
-2: a blindly devoted official, follower, or member of an organization (such as a corporation or [political party](https://www.gop.com/))
-//a movie studio >apparatchik](http://www.merriam-webster.com/dictionary/apparatchik)
-First Known Use
-1941, in the meaning defined at sense 1
-History and Etymology
-[Russian](http://kremlin.ru), from apparat
+In one especially memorable story, [Zinke](https://www.linkedin.com/in/ryan-zinke-b3b34416/), before [Montana](https://www.mt.gov/) voters re-elected him to [Congress](https://www.congress.gov/), was even accused of misusing public resources on, of all things, [helicopter rides](https://www.politico.com/story/2017/12/07/ryan-zinke-helicopters-dc-212730).
+
+Eight years later, if [The Atlantic](https://www.theatlantic.com/)’s reporting is correct, another one of [Trump](https://www.donaldjtrump.com/)’s choices to lead the [Interior Department](https://www.doi.gov/) appears to be reading from a similar playbook.
 
 [#47’s Cabinet](https://www.whitehouse.gov/administration/the-cabinet/)
 
 | Federal Agency | Functions |
 |---|---|
+| [National Park Service (NPS)](https://www.nps.gov/index.htm) | The [National Park Service (NPS)](https://www.nps.gov/index.htm) cares for the more than 400 national parks in the United States. The National Park Service partners with local communities to assist in historic preservation and the creation and maintenance of recreational spaces. |
 | [U.S. Department of Commerce (DOC)](https://www.commerce.gov/) | The [Department of Commerce (DOC)](https://www.commerce.gov/) works with businesses, universities, communities, and the Nation’s workers to promote job creation, economic growth, sustainable development, and improved standards of living for Americans. |
 | [Small Business Administration (SBS)](http://www.sba.gov/) | The [Small Business Administration (SBS)](http://www.sba.gov/) helps Americans start, build and grow businesses. Through an extensive network of field offices and partnerships, the Small Business Administration assists and protects the interests of small business concerns. |
 | [Environmental Protection Agency (EPA)](https://www.epa.gov/) | The [Environmental Protection Agency (EPA)](https://www.epa.gov/) protects people and the environment from significant health risks, sponsors and conducts research, and develops and enforces environmental regulations. |
@@ -72,6 +65,14 @@ History and Etymology
 | [Department of the Treasury](https://home.treasury.gov/) | The [Department of the Treasury](https://home.treasury.gov/) manages federal finances by collecting taxes and paying bills and by managing currency, government accounts and public debt. The [Department of the Treasury](https://home.treasury.gov/) also enforces finance and tax laws. |
 | [U.S. Trade Representative (USTR)](http://www.ustr.gov/) | The [U.S. Trade Representative (USTR)](http://www.ustr.gov/) negotiates with foreign governments to craft trade agreements and resolve disputes. |
 
+- [NBC News](https://www.nbcnews.com/)
+- [MSNBC](https://www.msnbc.com/)
+- [The Atlantic](https://www.theatlantic.com/)
+- [New York Times](https://www.nytimes.com/)
+- [Media Matters for America](https://www.mediamatters.org/)
+- [Ryan Zinke / LinkedIn](https://www.linkedin.com/in/ryan-zinke-b3b34416/)
+- [A-Z index of U.S. government departments and agencies / USAGov](https://www.usa.gov/agency-index)
+- [Montana (MT)](https://www.mt.gov/)
 - [Donald J Trump](https://www.donaldjtrump.com/)
 - [President Donald Trump (45)](https://trumpwhitehouse.archives.gov/)
 - [President Donald Trump (47)](https://www.whitehouse.gov/administration/donald-j-trump/)
@@ -87,6 +88,8 @@ History and Etymology
 - [Small Business Administration (SBA)](http://www.sba.gov/)
 - [Kelly Loeffler](https://www.sba.gov/person/kelly-loeffler)
 - [Kelly Loeffler – LinkedIn](https://www.linkedin.com/in/kelly-loeffler-198341b7/)
+- [National Park Service (NPS)](https://www.nps.gov/)
+-  [U.S. Park Police (U.S. National Park Service)](https://www.nps.gov/places/u-s-park-police.htm)
 - [Department of Justice (DOJ)](https://www.justice.gov/)
 - [Attorney General](www.justice.gov/)
 - [Pam Bondi](https://www.justice.gov/ag/staff-profile/meet-attorney-general)
@@ -117,6 +120,7 @@ History and Etymology
 - [Department of the Interior (DOI)](https://www.doi.gov/)
 - [Doug Burgum](https://www.doi.gov/secretary-doug-burgum)
 - [Doug Burgum – LinkedIn](https://www.linkedin.com/in/doug-burgum-03019111/)
+- [JoDee Hanson / LinkedIn](https://www.linkedin.com/in/jodee-hanson-a8054537/)
 - [Department of Labor (DOL)](https://www.dol.gov/)
 - [Lori Chavez-DeRemer](https://www.dol.gov/agencies/osec)
 - [Lori Chavez-DeRemer – LinkedIn](https://www.linkedin.com/in/lori-chavez-deremer-52299674/)
