@@ -7,7 +7,7 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: "Trump’s America First Will Leave America ‘Alone’. Pissing Off Allies, Trading Partners"
+title: "Trump’s ‘America First’ Will Leave ‘America Alone’. Pissing Off Allies, Trading Partners"
 ---
 
 [Trump](https://www.whitehouse.gov/)’s "America First" Policy will leave the United States Alone.
