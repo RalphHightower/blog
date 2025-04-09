@@ -1,8 +1,7 @@
 ---
 layout: base
+show_excerpts: true
 page_excerpts: true
-minima:
-  show_excerpts: true
 ---
 <!-- Just some nice to have styles for the pager buttons -->
 <style>
@@ -22,6 +21,7 @@ minima:
         Here is the main paginator logic called.
         All calls to site.posts should be replaced by paginator.posts 
     -->
+    {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
     {% for post in paginator.posts %}
       <li>
         <span class="post-meta">{{ post.date | date: date_format }}</span>
@@ -44,7 +44,7 @@ minima:
   -->
   {% if paginator.total_pages > 1 %}
       <ul class="pagination">
-      {%- assign date_format = site.minima.date_format | default: "%B %e, %Y %I:%M %p %Z, %a" -%}  <ul class="pager">
+      {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}  <ul class="pager">
       {% if paginator.first_page %}
       <li class="previous-page">
           <a href="{{ paginator.first_page_path | prepend: site.baseurl | replace: '//', '/' }}">First</a>
