@@ -2,7 +2,7 @@
 layout: page
 tags: [assholes, Donald Trump, Elon Musk, Betsy DeVos, MAGA billionaires, billionaire, Trump donors, Republican PAC, Make America Great Again (MAGA)]
 categories: [Telephone Numbers]
-date: 2025-04-08 6:56 PM
+date: 2025-04-09 7:32 PM
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description: 
@@ -18,6 +18,20 @@ The telephone numbers below have called and there is an empty person on the othe
 
 | Telephone Number | Location | Date Time[^11] | Caller | Social Media |
 |---|---|---|---|---|
+| <a href="tel:+18032470149">+1 (803) 247-0149</a> | SC. North | 2025-04-09 06:40 PM ¤¤ | - | |
+| <a href="tel:+18032470149">+1 (803) 247-0149</a> | SC. North | 2025-04-09 06:39 PM | - | |
+| <a href="tel:+18036503295">+1 (803) 650-3295</a> | SC. Fort Mill | 2025-04-09 06:21 PM | Potential Spam | |
+| <a href="tel:+18037640923">+1 (803) 764-0923</a> | SC. | 2025-04-09 05:53 PM | - | |
+| <a href="tel:+18033985824">+1 (803) 398-5824</a> | SC. | 2025-04-09 05:02 PM | Potential Spam | |
+| <a href="tel:+18033245631">+1 (803) 324-5631</a> | SC. | 2025-04-09 04:29 PM | Glennie Smith | |
+| <a href="tel:+18033401339">+1 (803) 340-1339</a> | SC. | 2025-04-09 04:13 PM | Walter Carlisle | |
+| <a href="tel:+18037755528">+1 (803) 775-5528</a> | SC. | 2025-04-09 03:27 PM | Andrea Johnson | |
+| <a href="tel:+18033300035">+1 (803) 330-0035</a> | SC. | 2025-04-09 03:05 PM | Potential Spam | |
+| <a href="tel:+18034943538">+1 (803) 494-3538</a> | SC. | 2025-04-09 02:59 PM | Topp Wade Randa | |
+| <a href="tel:+18034698451">+1 (803) 469-8451</a> | SC. Sumter | 2025-04-09 12:45 PM | Frank H Wells | |
+| <a href="tel:+18039373272">+1 (803) 937-3272</a> | SC. Orangeburg | 2025-04-09 11:56 AM | - | |
+| <a href="tel:+18035758280">+1 (803) 575-8280</a> | SC. | 2025-04-09 10:55 AM | - | |
+| <a href="tel:+18038545295">+1 (803) 854-5295</a> | SC. Santee | 2025-04-09 10:01 AM | Wyndham Vacation | |
 | <a href="tel:+18032940681">+1 (803) 294-0681</a> | SC. | 2025-04-08 06:38 PM | Derrelle A Brown | |
 | <a href="tel:+18033249904">+1 (803) 324-9904</a> | SC. Rock Hill | 2025-04-08 06:37 PM | Fat Boys Barber | |
 | <a href="tel:+18036673895">+1 (803) 667-3895</a> | SC. Columbia | 2025-04-08 06:05 PM | - | |
@@ -59,7 +73,6 @@ The telephone numbers below have called and there is an empty person on the othe
 | <a href="tel:+18039576626">+1 (803) 957-6626</a> | SC. | 2025-04-07 01:57 PM | Russ Bill | |
 | <a href="tel:+18032239600">+1 (803) 223-9600</a> | SC. Columbia | 2025-04-07 01:54 PM | Potential Spam | |
 | <a href="tel:+13099174384">+1 (309) 917-4384</a> | IL. Peoria | 2025-04-07 01:52 PM | Potential Spam | |
-ricebraid.com</a> | |
 | <a href="tel:+18036618886">+1 (803) 661-8886</a> | SC. Columbia | 2025-04-07 12:41 PM | - | |
 | <a href="tel:+18039738394">+1 (803) 973-8394</a> | SC. Columbia | 2025-04-07 11:25 AM | - | |
 | <a href="tel:+18034388528">+1 (803) 438-8528</a> | SC. Elgin | 2025-04-07 10:38 AM | - | |
