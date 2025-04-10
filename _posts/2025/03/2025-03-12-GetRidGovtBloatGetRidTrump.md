@@ -42,7 +42,7 @@ Taxpayers have already paid [$18.2 million for him to hit the links](https://www
 | Locations |
 |---|
 | **[White House](https://www.whitehouse.gov)** |
-| 1600 Pennsylvania Ave., NW <br /> Washington, DC 20500 <br /> <a href="tel:+12024561111">1-202-456-1111</a> (comments) <br /> <a href="tel:+12024561414">1-202-456-1414</a> (switchboard) |
+| 1600 Pennsylvania Ave., NW <br /> Washington, DC 20500 <br /> <a href="tel:+12024561111">1-202-456-1111</a> (comments) <br /> <a href="tel:+12024561414">1 (202) 456-1414</a> (switchboard) |
 | **[Mar-a-Lago](https://www.maralagoclub.com/)** |
 | **[The Mar-a-Lago Club](https://www.maralagoclub.com/)** <br /> 1100 South Ocean Boulevard, <br /> Palm Beach, Florida 33480 <br /> <a href="tel+15618322600">+1 (561) 832-2600</a> |
 | **Florida, West Palm Beach** |
@@ -50,11 +50,11 @@ Taxpayers have already paid [$18.2 million for him to hit the links](https://www
 | **California, Los Angeles** |
  **[Trump National Golf Club Los Angeles](https://www.trumpnationallosangeles.com/)** <br /> One Trump National Drive <br /> Rancho Palos Verdes, CA 90275 <br /> <a href="tel:+13102655000">+1 (310) 265-5000</a> |
 | **Florida, Miami** |
-| **[Trump National Doral Golf Club](https://www.trumpgolfdoral.com/)** <br /> 4400 N.W. 87th Ave <br /> Miami, FL 33178 <br /> <a href="tel:+13055922000">+1305.592.2000</a> |
+| **[Trump National Doral Golf Club](https://www.trumpgolfdoral.com/)** <br /> 4400 N.W. 87th Ave <br /> Miami, FL 33178 <br /> <a href="tel:+13055922000">+1 (305) 592-2000</a> |
 | **Florida, Jupiter** |
 | **[Trump National Jupiter Golf Club](https://www.trumpnationaljupiter.com/about)** <br /> 115 Eagle Tree Terrace <br /> Jupiter FL 33477 <br /> <a href="tel:+15616918700">+1 (561) 691-8700</a> |
 | **New Jersey, Bedminster** |
-| **[Trump National Golf Club Bedminster](https://www.trumpnationalbedminster.com/)** <br /> 900 Lamington Road <br /> Bedminster, NJ 07921 <br /> <a href="tel:+1908.470.4400">+1 (908) 470-4400</a> |
+| **[Trump National Golf Club Bedminster](https://www.trumpnationalbedminster.com/)** <br /> 900 Lamington Road <br /> Bedminster, NJ 07921 <br /> <a href="tel:+19084704400">+1 (908) 470-4400</a> |
 | **New Jersey, Colts Neck** |
 | **[Trump National Golf Club Colts Neck](https://www.trumpcoltsneck.com/)** <br /> One Trump National Blvd <br /> Colts Neck, NJ 07722 <br /> <a href="tel:+15619731550">+1 (561) 973-1550</a> |
 | **New Jersey, Pine Hill** |
