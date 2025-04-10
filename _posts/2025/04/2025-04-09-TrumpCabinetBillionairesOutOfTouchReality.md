@@ -1,13 +1,13 @@
 ---
 layout: post
-Trump Party, Republican Party, GOP, Donald Trump, White House (WH), President of the United States (POTUS), President Donald Trump (45), President Donald Trump (47), President Trump Administration, President Trump Cabinet, Environmental Protection Agency (EPA), Lee Zeldin, Small Business Administration (SBA), Kelly Loeffler, Department of Justice (DOJ), Attorney General, Pam Bondi, Central Intelligence Agency (CIA), John Ratcliffe, Office of the Director of National Intelligence (ODNI), Tulsi Gabbard, Office of Management and Budget (OMB), Russ Vought, U.S. Department of Agriculture (USDA), Brooke Rollins, Department of Defense (DOD), Pete Hegseth, Department of Education (ED), Linda McMahon, Department of Energy (DOE), Chris Wright, U.S. Department of Health and Human Services (HHS), Robert F Kennedy Jr., Department of Homeland Security (DHS), Kristi Noem, Department of Housing and Urban Development (HUD), Scott Turner, Department of the Interior (DOI), Doug Burgum, Department of Labor (DOL), Lori Chavez-DeRemer, Department of State (DOS), Marco Rubio, Department of Veterans Affairs (VA), Doug Collins, Department of Transportation (DOT), Sean Duffy, Department of the Treasury, Scott Bessent, U.S. Trade Representative (USTR), Jamieson Greer, apparatchik, sycophants, politics]
+tags: [Donald J Trump, Trump Organization, President Donald Trump (45), President Donald Trump (47), President of the United States (POTUS), President Trump Administration, President Trump Cabinet, Department of Commerce (DOC), Howard Lutnick / U.S. Department of Commerce, Howard W. Lutnick, Environmental Protection Agency (EPA), Lee Zeldin, Small Business Administration (SBA), Kelly Loeffler, Department of Justice (DOJ), Attorney General, Pam Bondi, Central Intelligence Agency (CIA), John Ratcliffe, Office of the Director of National Intelligence (ODNI), Tulsi Gabbard, Office of Management and Budget (OMB), Russ Vought, U.S. Department of Agriculture (USDA), Brooke Rollins, Department of Defense (DOD), Pete Hegseth, Department of Education (ED), Linda McMahon, Department of Energy (DOE), Chris Wright, U.S. Department of Health and Human Services (HHS), Robert F Kennedy Jr., Department of Homeland Security (DHS), Kristi Noem, Department of Housing and Urban Development (HUD), Scott Turner, Department of the Interior (DOI), Doug Burgum, Department of Labor (DOL), Lori Chavez-DeRemer, Department of State (DOS), Marco Rubio, Department of Veterans Affairs (VA), Doug Collins, Department of Transportation (DOT), Sean Duffy, Department of the Treasury, Scott Bessent, South Carolina, Charleston, SC, U.S. Trade Representative (USTR), Jamieson Greer, apparatchik, sycophants, politics]
 categories: [Donald Trump]
 date: 2025-04-09 8:49 PM
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: "Trump’s Billionaire Cabinet Is Out of Touch With Reality:
+title: "Trump’s Billionaire Cabinet Is Out of Touch With Reality"
 ---
 
 
