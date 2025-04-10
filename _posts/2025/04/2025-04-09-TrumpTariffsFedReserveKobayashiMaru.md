@@ -1,8 +1,8 @@
 ---
 layout: post
-tags: []
-categories: []
-date: 2019-06-25 13:14:15
+tags: [Kobayashi Maru scenario / Memory Alpha / Fandom, WSJ, Imposing Duties to Address the Flow of Illicit Drugs Across Our Northern Border. Presidential Actions February 1 2025, Fact Sheet: President Donald J. Trump Imposes Tariffs on Imports from Canada, Mexico and China. Fact Sheets February 1 2025, Imposing Duties to Address the Situation at Our Southern Border. Presidential Actions February 1 2025, America First Trade Policy. Presidential Actions January 20 2025, Laurence H. Meyer / Federal Reserve History, Sterno Products - For the Food Service and Hospitality Professional, Primaloft, BNY Mellon Investment Management / BNY Investments, Federal Reserve Board, Jerome H. Powell, Senate, Donald J Trump, Supreme Court of the United States (SCOTUS), US Courts, House of Representatives, U.S. Department of the Treasury, Scott Bessent, Department of Commerce (DOC), Howard Lutnick, Howard W. Lutnick, President Donald Trump (45), President Donald Trump (47), President of the United States (POTUS), White House (WH), tariffs, politics, stupidity]
+categories: [Donald Trump]
+date: 2025-04-09 8:17 PM
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
@@ -108,14 +108,7 @@ The [Fed](https://www.federalreserve.gov/)’s stimulus operates through financi
 | [Federal Reserve Bank of Dallas - Dallasfed.org](https://www.dallasfed.org/) |
 | [Federal Reserve Bank of San Francisco](https://www.frbsf.org/) |
 
-- [Kobayashi Maru scenario / Memory Alpha / Fandom](https://memory-alpha.fandom.com/wiki/Kobayashi_Maru_scenario)
-- [Laurence H. Meyer / Federal Reserve History](https://www.federalreservehistory.org/people/laurence-h-meyer)
-- [Sterno Products - For the Food Service and Hospitality Professional](https://www.sterno.com/)
-- [Homepage - Primaloft](https://primaloft.com/)
-- [Welcome to BNY Mellon Investment Management / BNY Investments](https://www.bny.com/investments/us/en.html)
-- [Federal Reserve Board](https://www.federalreserve.gov/)
-- [Jerome H. Powell](https://www.federalreserve.gov/aboutthefed/bios/board/powell.htm)
-### List of some of the major stock markets around the world and their locations:
+## List of some of the major stock markets around the world and their locations:
 
 | Stock Exchange | Location |
 |---------------|----------|
@@ -233,6 +226,12 @@ The [Fed](https://www.federalreserve.gov/)’s stimulus operates through financi
 - [Fact Sheet: President Donald J. Trump Imposes Tariffs on Imports from Canada, Mexico and China](https://www.whitehouse.gov/fact-sheets/2025/02/fact-sheet-president-donald-j-trump-imposes-tariffs-on-imports-from-canada-mexico-and-china/). Fact Sheets February 1, 2025
 - [Imposing Duties to Address the Situation at Our Southern Border](https://www.whitehouse.gov/presidential-actions/2025/02/imposing-duties-to-address-the-situation-at-our-southern-border/). Presidential Actions February 1, 2025
 - [America First Trade Policy](https://www.whitehouse.gov/presidential-actions/2025/01/america-first-trade-policy/). Presidential Actions January 20, 2025
+- [Kobayashi Maru scenario / Memory Alpha / Fandom](https://memory-alpha.fandom.com/wiki/Kobayashi_Maru_scenario)
+- [Laurence H. Meyer / Federal Reserve History](https://www.federalreservehistory.org/people/laurence-h-meyer)
+- [Sterno Products - For the Food Service and Hospitality Professional](https://www.sterno.com/)
+- [Primaloft](https://primaloft.com/)
+- [Wall Street Journal](https://www.wsj.com/)
+- [Welcome to BNY Mellon Investment Management / BNY Investments](https://www.bny.com/investments/us/en.html)
 - [Federal Reserve Board](https://www.federalreserve.gov/)
 - [Jerome H. Powell](https://www.federalreserve.gov/aboutthefed/bios/board/powell.htm)
 - [Senate](https://www.senate.gov/)
@@ -252,5 +251,3 @@ The [Fed](https://www.federalreserve.gov/)’s stimulus operates through financi
 - tariffs
 - politics 
 - stupidity 
-
-
