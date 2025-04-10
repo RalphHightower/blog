@@ -1,182 +1,120 @@
 ---
 layout: post
-tags: [New York Stock Exchange (NYSE)	New York City USA, Nasdaq Stock Market	New York City USA, Tokyo Stock Exchange (TSE)	Tokyo Japan, Shanghai Stock Exchange (SSE)	Shanghai China, Hong Kong Stock Exchange (HKEX)	Hong Kong China, London Stock Exchange (LSE)	London United Kingdom, Euronext Amsterdam Brussels Dublin Lisbon Milan Oslo Paris, Toronto Stock Exchange (TSX)	Toronto Canada, National Stock Exchange of India (NSE)	Mumbai India, Bombay Stock Exchange (BSE)	Mumbai India, Shenzhen Stock Exchange (SZSE)	Shenzhen China, Saudi Stock Exchange (Tadawul)	Riyadh Saudi Arabia, Australian Securities Exchange (ASX)	Sydney Australia, Deutsche Börse (Frankfurt Stock Exchange)	Frankfurt Germany, SIX Swiss Exchange	Zurich Switzerland, Korea Exchange (KRX)	Seoul South Korea, Taiwan Stock Exchange (TWSE)	Taipei Taiwan, Johannesburg Stock Exchange (JSE)	Johannesburg South Africa, Bursa Malaysia	Kuala Lumpur Malaysia, Stock Exchange of Thailand (SET)	Bangkok Thailand, Singapore Exchange (SGX)	Singapore, Mexican Stock Exchange (BMV)	Mexico City Mexico, Moscow Exchange (MOEX)	Moscow Russia, Brazil Stock Exchange (B3)	São Paulo Brazil, Donald J Trump, Supreme Court of the United States (SCOTUS), US Courts, Senate, House of Representatives, U.S. Department of the Treasury, Scott Bessentm, Department of Commerce (DOC), Howard Lutnick, Howard W. Lutnick, President Donald Trump (45), President Donald Trump (47), President of the United States (POTUS), White House (WH), stupidity, tariffs, politics]
-categories: [world stock market indexes]
-date: 2025-04-04 8:03 PM
+tags: []
+categories: []
+date: 2019-06-25 13:14:15
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-toc: true
-title: "How To Lose Friends And Piss Off The World 🌎: Trump’s Tariffs Continue Market Turmoil. Trumpcession On Target!"
+title: "Trump’s Trade Tariffs Tiff Puts Federal Reserve Chair Jerome Powell In a Kobayashi Maru Situation. But This Is NOT Situation!"
 ---
 
-After tanking the markets, [Trump](https://www.donaldjtrump.com/) goes golfing ⛳️ again! First to his private [Florida](https://www.myflorida.com/) [Mar-a-Lago golf private club](https://www.maralagoclub.com/), then to his [Trump National Doral Golf Club](https://www.trumpgolfdoral.com/) for a [Liv Golf](https://www.livgolf.com/) [golf tournament](https://www.livgolf.com/schedule/miami-2025/course).
 
-- @RalphHightower 
-    - ["How To Lose Friends and Piss Off The World 🌎: Trump Tariffs Unleash Bears In World’s China Shops"]({% link _posts/2025/04/2025-04-03-TrumpTariffsTankMarkets.md %}). April 3, 2025 
-- [AP News](https"//www.apnews.com/)
-    - [Congress could halt Trump's tariffs, but Republicans aren't ready to act / AP News](https://apnews.com/article/trump-tariffs-republicans-senate-house-2409e9ff50290edac738ad6e4e8e78b9). By  STEPHEN GROVES. Updated 3:27 PM EDT, April 4, 2025
-- [Wall Street Journal](https://www.wsj.com)
-    - [Market Turmoil Deepens as China Sets 34% Tariffs on U.S.](https://www.wsj.com/livecoverage/stock-market-tariffs-trade-war-04-04-2025?mod=WSJ_home_supertoppertop_pos_1)
-    - [Markets Are Crashing but Will Recover From Tariffs Shock, Rubio Says](https://www.wsj.com/livecoverage/stock-market-tariffs-trade-war-04-04-2025/card/markets-will-recover-from-tariffs-shock-rubio-says-1m2rFBLDxdZNKUQCAoZa?mod=WSJ_home_supertoppermiddle_lctimeline)
-    - [How Are the Magnificent Seven Doing After the Tariff News?](https://www.wsj.com/livecoverage/stock-market-tariffs-trade-war-04-04-2025/card/how-are-the-magnificent-seven-doing-after-the-tariff-news--AZcLYTdUQOo6Krkcn9qC?mod=WSJ_home_supertoppermiddle_lctimeline)
-    - [Treasury Yields Drop Below 4%, Stocks Slide](https://www.wsj.com/livecoverage/stock-market-tariffs-trade-war-04-04-2025?mod=WSJ_home_supertoppermiddle_pos_3)
-    - [A Market-Rattling Attempt to Make the American Economy Trump Always Wanted](https://www.wsj.com/economy/trump-economic-vision-tariff-manufacturing-262180a4?mod=WSJ_home_supertoppermiddle_pos_4)
-    - [Trump Dives Into Political Unknown](https://www.wsj.com/politics/policy/trump-dives-into-political-unknown-with-tariff-plan-12ad2db7?mod=WSJ_home_supertopperbottom_pos_1)
-    - [Resistance Is Futile, Make a Deal: Trump’s Tariff Message to the World](https://www.wsj.com/politics/policy/trump-tariffs-world-retaliatory-measures-9094ce24)
-    - [Tariffs Will Hit All Imports. Price Hikes for These Items May Surprise You](https://www.wsj.com/economy/trade/tariffs-will-hit-all-u-s-imports-price-hikes-for-these-items-may-surprise-you-dcb92d42)
-    - [The Rest of the World Is Bracing for a Flood of Cheap Chinese Goods](https://www.wsj.com/economy/trade/china-trump-tariffs-global-trade-99f023d8)
-    - [Wall Street's 'Fear Gauge' Is Surging](https://www.wsj.com/livecoverage/stock-market-tariffs-trade-war-04-04-2025/card/wall-street-s-fear-gauge-is-surging-2y2lB4G7w3poEkanVWc2)
-    - [The White House Whirlwind That Led to Trump’s Strategy](https://www.wsj.com/politics/policy/trump-tariff-rollout-decisions-46dc0959?mod=WSJ_home_supertopperbottom_pos_3)
-    - [Americans Rush to Buy TVs, Soy Sauce, Workout Gear](https://www.wsj.com/economy/consumers/americans-rush-to-buy-tvs-soy-sauce-lululemon-workout-gear-fd6126ac?mod=WSJ_home_supertopperbottom_pos_4)
-    - [Trump and His ‘Little Disturbance’ From Tariffs](https://www.wsj.com/opinion/donald-trump-tariffs-disturbance-markets-trade-243b36ef?mod=hp_opin_pos_1)
-    - [Trump’s New Protectionist Age](https://www.wsj.com/opinion/donald-trump-liberation-day-tariffs-protectionism-82d0aa3a?mod=hp_opin_pos_2#cxrecs_s)
-    - [Canada, Our Friend, Deserves Better Than This](https://www.wsj.com/opinion/canada-our-friend-deserves-better-than-this-america-tariffs-protectionism-trade-policy-ac9d7d48?mod=hp_opin_pos_6#cxrecs_s)
-- [Washington Post](https://www.washingtonpost.com/)
-    - [China, retaliating against Trump’s tariffs, imposes 34 percent levy on U.S. goods](https://www.washingtonpost.com/world/2025/04/03/asian-markets-fall-trump-tariff/)
-    - [Trump vows to stay the course as stock markets fall](https://www.washingtonpost.com/politics/2025/04/04/trump-presidency-news-tariffs/)
-    - [The White House cited economists for its tariff formula. They pan it.](https://www.washingtonpost.com/politics/2025/04/04/tariffs-economists-trump-formula/)
-    - [Tariff shock pummeling your 401(k)? Here’s what to do.](https://www.washingtonpost.com/business/2025/04/03/stock-market-401k-funds/)
-    - [Price hikes from Trump's tariffs could start with clothing, cars and coffee - The Washington Post](https://www.washingtonpost.com/business/2025/04/03/trump-tariffs-price-hikes-clothing-cars-coffee/)
-- [New York Times](https://www.nytimes.com/)
-    - [Trump’s Trade War Escalates as China Retaliates](https://www.nytimes.com/2025/04/04/business/china-trump-tariffs-retaliation.html)
-    - [China Says It Will Match Trump Tariffs With 34% on U.S. Goods](https://www.nytimes.com/2025/04/04/business/china-trump-tariffs-retaliation.html)<br /> *Beijing signaled that it had no intention of backing down, and it barred some American companies from doing business in China.*
-    - [Stocks Drop Again as Trade War Intensifies](https://www.nytimes.com/2025/04/04/business/stocks-trump-tariffs.html)<br /> *Worries about the disruption of President Trump’s trade policies and retaliation by trading partners overshadowed a strong U.S. jobs report.*
-    - [Trump Blocked America’s Front Door to China. Now He’s Closing Back Doors.](https://www.nytimes.com/2025/04/04/business/trump-china-tariffs.html)
-    - [To Trump, U.S. Economy Is a ‘Sick Patient,’ and Tariffs Are the Cure](https://www.nytimes.com/2025/04/04/us/politics/trump-tariffs-us-economy-prices.html)<br /> *As economists warn of higher inflation, President Trump’s aides insist the fallout will be short and the tariffs will ultimately result in a better economy.*
-    - [Will Trump’s Tariffs Drive Europe Into China’s Arms, or Into a Fight?](https://www.nytimes.com/2025/04/04/world/europe/trump-tariffs-china.html)
+The article discusses the [Federal Reserve](https://www.federalreserve.gov/)'s difficult position amid [President](https://www.whitehouse.gov/) [Trump](https://www.donaldjtrump.com/)'s recent tariff increases. Here are the main points:
 
-## Trump’s Tariffs “Liberates” \$6,000,000,000,000 In Value From World’s Stock Markets
+- **Tariffs and Economic Uncertainty:** The sudden rollout of large tariff hikes is expected to weaken hiring and spending, increasing the risk of a recession.
+- **Inflation vs. Growth Dilemma:** The tariffs are likely to drive up prices for imported goods, putting pressure on inflation, while also slowing economic growth—forcing the [Fed](https://www.federalreserve.gov/) to balance these opposing forces.
+- **Interest Rate Uncertainty:** [Fed Chair Jerome Powell](https://www.federalreserve.gov/aboutthefed/bios/board/powell.htm) has indicated that the [central bank](https://www.federalreserve.gov/) is in no rush to cut interest rates despite market expectations.
+- **Political Pressure on the [Fed](https://www.federalreserve.gov/):** [Trump](https://www.donaldjtrump.com/) has publicly urged [Powell](https://www.federalreserve.gov/aboutthefed/bios/board/powell.htm) to cut rates, making it more challenging for the [Fed](https://www.federalreserve.gov/) to justify its approach.
+- **Corporate Response:** Businesses are preparing for weaker sales, freezing hiring, and reducing costs due to uncertainty caused by tariffs.
+- **Long-Term Trade Policy Questions:** It remains unclear whether the administration’s goal is to negotiate lower tariffs or maintain high tariffs to encourage domestic production, with potential long-term inflation implications.
 
-### [Trump hits golf course as stock market plummets for second straight day over tariffs / AP News](https://apnews.com/article/donald-trump-tariffs-golf-813c7a300021445636f63fddbfd38c83)
+Overall, the [Fed](https://www.federalreserve.gov/) finds itself in a "no-win situation," trying to navigate the conflicting effects of tariffs on inflation and growth. Let me know if you need a more detailed breakdown!
 
-WEST PALM BEACH, Fla. (AP) — Two days after sending the economy reeling by announcing widespread tariffs, [President](https://www.whitehouse.gov/) [Donald Trump](https://www.donaldjtrump.com/) insisted his trade policies will never change as he remained ensconced in a bubble of wealth and power in Florida.
+@RalphHightower: *Would you say that [Jerome Powell](https://www.federalreserve.gov/aboutthefed/bios/board/powell.htm) is in a [Kobayashi Maru](https://memory-alpha.fandom.com/wiki/Kobayashi_Maru_scenario) situation?*
 
-He woke up on Friday morning at [Mar-a-Lago](https://www.maralagoclub.com/), [his private club in Palm Beach](https://www.maralagoclub.com/), and headed to his nearby golf course a few miles away.
+Absolutely, Ralph. [Jerome Powell](https://www.federalreserve.gov/aboutthefed/bios/board/powell.htm)'s predicament with the tariffs and their conflicting effects on inflation and growth does resemble a [Kobayashi Maru](https://memory-alpha.fandom.com/wiki/Kobayashi_Maru_scenario) scenario—a no-win situation where every choice leads to challenges. Just like in the [Star Trek](https;//www.startrek.com/) test, [Powell](https://www.federalreserve.gov/aboutthefed/bios/board/powell.htm) has to navigate an impossible dilemma, balancing the [Fed](https://www.federalreserve.gov/)'s dual mandate of stable inflation and a healthy labor market while facing political pressure and economic uncertainty. It's a real-life test of leadership and strategy.
 
-The [Trumpian](https://www.gop.com/) president was not expected to appear publicly, although he’s scheduled to attend a candlelit dinner for [MAGA Inc.](https://apnews.com/article/2022-midterm-elections-florida-donald-trump-campaigns-b3cca05169fa51ca5a996df61b3dfcbf), an allied political organization, on Friday evening. He spent Thursday in Miami at a different one of his golf courses, where he attended [a Saudi-funded tournament](https://apnews.com/article/trump-golf-liv-tour-pga-ab77d9aafb22c33e859fd6541b417836). He landed in Marine One and was picked up in a golf cart driven by his [son Eric](https://www.linkedin.com/in/erictrump/).
+## [Jerome Powell and the Fed Are in a ‘No-Win Situation’ With Trump Tariffs, Recession Fears - WSJ](https://www.wsj.com/economy/central-banking/jerome-powell-fed-interest-rate-trump-tariffs-recession-67481e65)
 
-[Trump](https://www.donaldjtrump.com=) has often proved impervious to the kind of scandals or gaffes that would damage another politician, but his decision to spend the weekend at his gilded properties could test Americans’ patience at a time when their retirement savings are evaporating [along with the stock market.](https://apnews.com/article/market-rates-trump-tariffs-d86db525c370e9da834e6dfb76e23b86). The tariffs are expected to increase prices by thousands of dollars per year and slow economic growth, and there are fears about [a potential recession](https://apnews.com/article/financial-markets-tariffs-trump-trade-cea98013c677e5b9bd6ce6166f4ce659).
+*A trade war ties the [Fed](https://www.federalreserve.gov/)’s hands by pushing up inflation at the same time that uncertainty is sapping growth*
 
-“While the American people are trying to put food on the table, I see that [Donald Trump](https://www.donaldjtrump.com/)’s out there playing golf,” said [Sen.](https://www.senate.gov/) [Ben Ray Luján](https://www.booker.senate.gov/), a [Democrat](https://www.democrats.org/) from [New Mexico](https://www.newmexico.gov/). “The president should be listening to people across the country. Maybe he should go into a grocery store, do some walking, talking to folks.”
+By Nick Timiraos
 
-[Federal Reserve Chair](https://www.federalreserve.gov/newsevents.htm) [Jerome Powell](https://www.federalreserve.gov/aboutthefed/bios/board/powell.htm) said Friday that the tariffs were “significantly larger than expected” and are [“highly likely”](https://apnews.com/article/tariffs-inflation-economy-trump-powell-490417656971634592bbeb3b2ade3593) to cause more inflation — at least in the short term but possibly in the long term as well.
+April 8, 2025 8:00 pm ET
 
-## World Stock Market Closing Indexes – 2025-04-04
+[Federal Reserve](https://www.federalreserve.gov/) [Chair Jerome Powell](https://www.wsj.com/topics/person/jerome-powell) is facing an increasingly dreadful task.
 
-| Index | Closing Value | Gain/Loss | Percentage Change |
-|---|---:|---:|---:|
-| **Americas** | | | |
-| S&P 500 | 5,074.08 | -322.44 | :arrow_down: 5.97% |
-| Dow Jones Industrial Average | 38,314.86 | -2,231.07 | :arrow_down: 5.50% |
-| Nasdaq Composite | 15,587.79 | -962.82 | :arrow_down: 5.82% |
-| Russell 2000 Index | 1,827.03 | -83.51 | :arrow_down: 4.37% |
-| S&P/TSX Composite Index | 23,193.47 | -1,142.30 | :arrow_down: 4.69% |
-| IBOVESPA | 127,256.00 | -3,884.66 | :arrow_down: 2.96% |
-| NYSE Composite | 17,618.61 | -1,148.58 | :arrow_down: 6.12% |
-| Dow Jones Transportation Average | 13,160.27 | -461.07 | :arrow_down: 3.38% |
-| Dow Jones Utility Average | 974.93 | -51.56 | :arrow_down: 5.02% |
-| S&P Latin America 40 | 2,294.60 | -158.78 | :arrow_down: 6.47% |
-| VIX | 45.31 | +15.29 | :arrow_up: 50.93% |
-| Russell 1000 Index | 2,772.12 | -175.69 | :arrow_down: 5.96% |
-| Dow Jones U.S. Total Stock Market Index | 50,050.53 | -3,129.92 | :arrow_down: 5.89% |
-| Barron's 400 Index | 1,082.11 | -57.33 | :arrow_down: 5.03% |
-| NASDAQ Composite Total Return | 19,079.55 | -1,178.27 | :arrow_down: 5.82% |
-| Nasdaq-100 | 17,397.70 | -1,123.78 | :arrow_down: 6.07% |
-| NASDAQ-100 Total Return | 21,056.16 | -1,359.94 | :arrow_down: 6.07% |
-| NASDAQ Transportation Index | 5,510.15 | -184.41 | :arrow_down: 3.24% |
-| NASDAQ Biotechnology Index | 3,904.12 | -226.66 | :arrow_down: 5.49% |
-| Nasdaq Financial-100 | 5,619.94 | -377.30 | :arrow_down: 6.29% |
-| Nasdaq Bank | 3,642.50 | -139.78 | :arrow_down: 3.70% |
-| Nasdaq Insurance | 15,103.02 | -1,199.91 | :arrow_down: 7.36% |
-| Nasdaq Industrial | 9,888.95 | -600.33 | :arrow_down: 5.72% |
-| Nasdaq Computer | 13,755.49 | -868.27 | :arrow_down: 5.94% |
-| S&P 400 | 2,648.54 | -134.51 | :arrow_down: 4.83% |
-| S&P 600 | 1,155.99 | -50.85 | :arrow_down: 4.21% |
-| Russell 2500 Index | 796.59 | -41.26 | :arrow_down: 4.92% |
-| Russell 3000 Index | 2,882.48 | -180.42 | :arrow_down: 5.89% |
-| NYSE American Composite Index | 4,607.95 | -308.30 | :arrow_down: 6.27% |
-| NYSE Arca Biotechnology Index | 5,310.18 | -299.31 | :arrow_down: 5.34% |
-| NYSE Arca Pharmaceutical Index | 897.63 | -56.58 | :arrow_down: 5.93% |
-| KBW Nasdaq Bank Index | 104.27 | -7.36 | :arrow_down: 6.59% |
-| Philadelphia Gold and Silver Index | 157.76 | -17.10 | :arrow_down: 9.78% |
-| PHLX Oil Service Sector | 53.18 | -6.72 | :arrow_down: 11.21% |
-| PHLX Semiconductor Sector | 3,597.66 | -296.03 | :arrow_down: 7.60% |
-| **Europe, Middle East, and Africa** | | | |
-| DAX PERFORMANCE-INDEX | 20,641.72 | -1,075.67 | :arrow_down: 4.95% |
-| FTSE 100 Index | 8,054.98 | -419.76 | :arrow_down: 4.95% |
-| CAC 40 | 7,274.95 | -324.03 | :arrow_down: 4.26% |
-| IBEX 35 | 12,422.00 | -769.20 | :arrow_down: 5.83% |
-| EURO STOXX 50 | 4,878.31 | -234.97 | :arrow_down: 4.60% |
-| S&P EURO | 2,142.95 | -105.46 | :arrow_down: 4.69% |
-| Dow Jones Germany Titans 30 Index (EUR) | 621.76 | -32.23 | :arrow_down: 4.93% |
-| TA-125 Index | 2,481.33 | -21.35 | :arrow_down: 0.85% |
-| AEX index | 841.29 | -36.13 | :arrow_down: 4.12% |
-| PSI-20 | 6,635.79 | -331.24 | :arrow_down: 4.75% |
-| WIG | 89,040.00 | -5,442.05 | :arrow_down: 5.76% |
-| Tadawul All-Share Index | 11,882.65 | -142.40 | :arrow_down: 1.18% |
-| Swiss Market Index | 11,648.83 | -630.65 | :arrow_down: 5.14% |
-| S&P Europe 350 | 2,016.96 | -107.83 | :arrow_down: 5.07% |
-| STOXX Europe 600 | 496.33 | -26.79 | :arrow_down: 5.12% |
-| FTSE AIM All-Share Index | 640.54 | -27.13 | :arrow_down: 4.06% |
-| FTSE All-Share Index | 4,341.85 | -222.46 | :arrow_down: 4.87% |
-| OMX Copenhagen 20 | 1,613.52 | -99.71 | :arrow_down: 5.82% |
-| OMX Copenhagen 25 | 1,519.50 | -100.50 | :arrow_down: 6.20% |
-| WIG20 | 2,467.99 | -167.77 | :arrow_down: 6.37% |
-| WIG30 | 3,173.54 | -201.37 | :arrow_down: 5.97% |
-| SBF 120 | 5,503.73 | -250.67 | :arrow_down: 4.36% |
-| CAC LARGE 60 | 7,836.30 | -354.26 | :arrow_down: 4.33% |
-| BIST 100 | 9,379.83 | -104.43 | :arrow_down: 1.10% |
-| BIST 30 | 10,220.28 | -112.08 | :arrow_down: 1.08% |
-| HDAX PERFORMANCE-INDEX | 10,762.05 | -574.35 | :arrow_down: 5.07% |
-| OMX Helsinki 25 | 4,243.41 | -164.99 | :arrow_down: 3.74% |
-| SPI 20 PR | 11,386.01 | -616.41 | :arrow_down: 5.14% |
-| Swiss Performance Index | 15,547.81 | -814.43 | :arrow_down: 4.98% |
-| AMX index | 781.63 | -43.71 | :arrow_down: 5.30% |
-| BEL 20 | 4,093.59 | -201.14 | :arrow_down: 4.68% |
-| PSI ALL-SHARE GR | 4,123.70 | -206.09 | :arrow_down: 4.76% |
-| Austrian Traded Index | 3,762.81 | -238.19 | :arrow_down: 5.95% |
-| OMX Stockholm 30 | 2,287.24 | -97.92 | :arrow_down: 4.11% |
-| OMX Stockholm Benchmark_GI | 1,770.42 | -77.45 | :arrow_down: 4.19% |
-| OMX Iceland All-Share PI | 1,990.08 | -64.44 | :arrow_down: 3.14% |
-| OMX Riga_GI | 869.86 | -2.94 | :arrow_down: 0.34% |
-| OMX Tallinn | 1,939.87 | -19.33 | :arrow_down: 0.99% |
-| OMX Vilnius_GI | 1,150.62 | -10.83 | :arrow_down: 0.93% |
-| TA-35 Index | 2,448.47 | -15.22 | :arrow_down: 0.62% |
-| **Asia Pacific** | | | |
-| Nikkei 225 | 33,780.58 | -955.35 | :arrow_down: 2.75% |
-| SSE Composite Index | 3,342.01 | -8.12 | :arrow_down: 0.24% |
-| Hang Seng Index | 22,849.81 | -352.72 | :arrow_down: 1.52% |
-| BSE SENSEX | 75,364.69 | -930.67 | :arrow_down: 1.22% |
-| NIFTY 50 | 22,904.45 | -345.65 | :arrow_down: 1.49% |
-| S&P Asia 50 | 5,673.29 | -58.55 | :arrow_down: 1.02% |
-| TAIEX | 21,298.22 | +18.05 | :arrow_up: 0.085% |
-| KOSPI | 2,465.42 | -21.28 | :arrow_down: 0.86% |
-| S&P/ASX 200 | 7,667.80 | -191.90 | :arrow_down: 2.44% |
-| S&P/NZX 50 Index | 12,225.28 | -113.29 | :arrow_down: 0.92% |
-| S&P BSE - 100 | 23,947.78 | -405.88 | :arrow_down: 1.67% |
-| TOPIX | 2,482.06 | -86.55 | :arrow_down: 3.37% |
-| A-share Index | 3,502.38 | -8.50 | :arrow_down: 0.24% |
-| B-share Index | 267.48 | +0.19 | :arrow_up: 0.073% |
-| SZSE Component Index | 10,365.73 | -147.39 | :arrow_down: 1.40% |
-| SSE 180 Index | 8,490.25 | -21.58 | :arrow_down: 0.25% |
-| SSE 50 Index | 2,662.25 | +3.63 | :arrow_up: 0.14% |
-| ChiNext | 2,065.40 | -39.22 | :arrow_down: 1.86% |
-| CSI 300 Index | 3,861.50 | -22.88 | :arrow_down: 0.59% |
-| SZSE Composite Index | 1,992.39 | -22.20 | :arrow_down: 1.10% |
-| S&P/HKEX GEM Index | 16.89 | -0.070 | :arrow_down: 0.41% |
-| S&P/HKEX Large Cap Index | 34,570.34 | -594.07 | :arrow_down: 1.69% |
-| Hang Seng China Enterprises Index | 8,420.14 | -111.37 | :arrow_down: 1.31% |
-| S&P BSE - 500 | 32,739.88 | -680.98 | :arrow_down: 2.04% |
-| S&P BSE - 200 | 10,333.17 | -196.18 | :arrow_down: 1.86% |
-| LQ45 | 734.51 | +3.38 | :arrow_up: 0.46% |
-| IDX Composite | 6,510.62 | +38.26 | :arrow_up: 0.59% |
-| FTSE ASEAN All-Share Index | 797.84 | -14.42 | :arrow_down: 1.78% |
-| S&P/ASX 300 | 7,601.80 | -192.20 | :arrow_down: 2.47% |
-| S&P/NZX 20 Index | 7,251.76 | -47.43 | :arrow_down: 0.65% |
-| S&P/NZX All Index | 1,765.80 | -16.39 | :arrow_down: 0.92% |
+Economists, business owners and investors are betting that the uncertainty created by the sudden rollout of [President](https://www.whitehouse.gov/) [Trump](https://www.donaldjtrump.com/)’s [large tariff hikes](https://www.wsj.com/economy/trade/trump-tariffs-list-products-canada-mexico-china-b41351df?mod=article_inline), many of which are set to take effect Wednesday, will push the economy [closer to a recession](https://www.wsj.com/economy/in-matter-of-days-outlook-shifts-from-solid-growth-to-recession-risk-027eb2b4?mod=article_inline) by weakening hiring and spending. That would call for cutting rates to cushion any downturn.
 
+At the same time, the [the magnitude of tariff increases](https://www.wsj.com/economy/trade/trump-tariffs-us-global-manufacturing-294b0f55?mod=article_inline) is likely to lead prices to rise substantially for many imported goods, including materials used by domestic manufacturers. That could make central bankers nervous about inflation and argues for keeping rates where they are despite gathering risks to the economy and labor market.
+
+“They are in a no-win situation,” said [Laurence Meyer](https://www.federalreservehistory.org/people/laurence-h-meyer), a former [Fed](https://www.federalreserve.gov/) governor.
+
+[Congress](https://www.congress.gov/) has charged the [Fed](https://www.federalreserve.gov/) with keeping inflation low and stable while maintaining a healthy labor market. It has been [at least 40 years](https://www.wsj.com/economy/central-banking/a-brief-history-of-the-feds-uneasy-peace-with-the-white-house-608dee30?mod=article_inline) since a [president](https://www.whitehouse.gov/)’s policies thrust the [Fed](https://www.federalreserve.gov/)’s two mandates into such profound potential tension.
+
+“This [administration](https://www.whitehouse.gov/administration/) has generated the worst shock possible for the [Fed](https://www.federalreserve.gov/), and there’s nothing that they can do right now,” said [Riccardo Trezzi](https://www.linkedin.com/in/riccardo-trezzi-phd-780799a5), a former [Fed](https://www.federalreserve.gov/) economist who runs Geneva-based Underlying Inflation, a consulting firm.
+
+[Powell](https://www.federalreserve.gov/aboutthefed/bios/board/powell.htm) said last week that the [central bank](https://www.federalreserve.gov/) didn’t “need to be in a hurry” to cut rates, indicating a rate cut isn’t on the table at the [Fed](https://www.federalreserve.gov/)’s next policy meeting, which is May 6-7. “You’ll know more…as the months go by. It’s hard to say exactly when you’ll know, but clearly that learning process is ongoing,” he said.
+
+For now, investors are betting the [Fed](https://www.federalreserve.gov/) cuts interest rates later this year because the negative hit to growth will so badly weaken companies’ pricing power that inflation will slow after a big initial pop.
+
+But the [Fed](https://www.federalreserve.gov/) will be hard-pressed to cut rates to pre-empt that slowdown because if it succeeds in offsetting the weakness, the increase in inflation might last longer. [Fed](https://www.federalreserve.gov/) officials have suggested that they could be slower to cut rates than they have in previous episodes until they see the labor market weakening meaningfully. 
+
+“If you’re a trapeze artist, you don’t leave the platform until you’re sure your partner is leaving the platform,” said Vincent Reinhart, chief economist at [BNY Investments](https://www.bny.com/investments/us/en.html).
+
+Waiting to see the economy weaken and joblessness rise before cutting rates will be politically hard, particularly because Trump [has already called on Powell](https://www.wsj.com/economy/central-banking/powell-is-cautious-about-feds-ability-to-pre-empt-tariff-related-weakness-8f4ea3a3?mod=article_inline) to cut interest rates. “It’s very difficult for the [Fed](https://www.federalreserve.gov/) to explain to the public” why it has to wait, said Meyer.
+
+Officials pay particularly close attention to what consumers, investors and businesses expect to happen to inflation over the next several years because they believe those expectations can be self-fulfilling.
+
+In some ways, the [Fed](https://www.federalreserve.gov/)’s problem resembles that of a soccer goalie who must decide whether to dive to the left and focus on inflation or to the right and address weaker growth as an opponent takes a penalty kick.
+
+“Maybe they will get lucky, and they choose one of the two sides of the mandate, and ex post it will turn out they did the right thing,” said [Trezzi](https://www.linkedin.com/in/riccardo-trezzi-phd-780799a5).
+
+Elias Sabo, chief executive officer of [Compass Diversified Holdings](https://www.wsj.com/market-data/quotes/CODI), an owner of middle-market businesses, has been telling his portfolio companies to brace for a sharp reduction in sales from the [uncertainty caused by tariffs](https://www.wsj.com/livecoverage/stock-market-trump-tariffs-trade-war-04-08-25?mod=article_inline) and the price increases he expects to have to pass through to customers.
+
+“We’re instructing CEOs to reduce costs, freeze hiring—and that portends bad things for the economy regardless of the tariff impact,” said Sabo, whose brands include the food-heating-system maker [Sterno](https://www.sterno.com/), and [Primaloft](https://primaloft.com/), which makes performance synthetic insulation in consumer apparel.
+
+While spending by low-income consumers has been squeezed by inflation over the past several years, [high-income consumers](https://www.wsj.com/economy/consumers/us-economy-strength-rich-spending-2c34a571?mod=article_inline) have continued to spend generously owing in part to the wealth effects of lofty stock prices. A sustained downturn could lead them to sit tight.
+
+Adding to the concern is a sense of bewilderment over the [administration](https://www.whitehouse.gov/administration/)’s trade goals—whether the ultimate objective is to negotiate deals that end up removing or lowering tariffs, which could reduce the incentive to bring production back to the [U.S.](https://www.usa.gov/agency-index), or to keep higher tariffs in place to reshore domestic production.
+
+Meanwhile, if some of the tariffs stick and succeed in bringing production back to the [U.S.](https://www.usa.gov/agency-index), inflation could be more persistent. 
+
+The pandemic showed that even one-time increases in goods prices can last much longer than anticipated. One lesson: It can take longer for prices of services to adjust higher following a shock to goods prices, Reinhart said. A big run-up in car prices in 2021 and 2022, for example, helped lead to subsequent [increases in car-insurance prices](https://www.wsj.com/business/autos/car-insurance-rates-trump-tariffs-5c724f05?mod=article_inline).
+
+In addition, companies are likely to spread the cost of price increases for items subject to tariffs across the broader range of goods or services that they sell, further complicating Fed officials’ decisions. 
+
+“Of course they do see the recession risks, but inflation risk at this point is nonnegligible for them. It’s really, really big, honestly,” said [Trezzi](https://www.linkedin.com/in/riccardo-trezzi-phd-780799a5). 
+
+Central bankers face a final challenge: Rate cuts right now wouldn’t be able to address the main source of uncertainty buffeting businesses. By contrast, the [Fed](https://www.federalreserve.gov/) cut rates by 1 percentage point, or 100 basis points, between September and December last year to address concerns that overly restrictive monetary policy might weaken the labor market.
+
+“Getting 50 to 100 basis points of interest-rate relief right now against the background of this uncertainty, that’s not going to move the needle,” said Sabo.
+
+Monetary policy might also be impotent in addressing broader concerns surfaced by [Trump](https://www.donaldjtrump.com/)’s trade war, including that it could easily morph [into a capital war](https://www.wsj.com/finance/investing/us-currency-stock-market-investor-impact-0f27a6fe?mod=article_inline) and ultimately a loss of [American](https://www.usa.gov/agency-index) economic primacy.
+
+Yields on the [10-year Treasury note](https://www.wsj.com/finance/investing/the-stock-market-is-in-chaos-why-are-treasury-yields-above-4-a34228ab?mod=article_inline) were up nearly 0.27 percentage point this week, to 4.259% on Tuesday—a reversal of typical “flight to safety” dynamics that occur when risks of a global slowdown mount. Treasurys have long been seen as the ultimate haven asset.
+
+Analysts have cited a range of reasons for the [selloff in Treasurys](https://www.wsj.com/livecoverage/stock-market-trump-tariffs-trade-war-04-09-25/card/treasury-rout-is-scariest-spectacle-in-markets-75KBBXT68eFHYYxT7umQ?mod=article_inline), including fears of tariff-induced inflation that prevent the [Fed](https://www.federalreserve.gov/) from cutting aggressively and a global retreat from exposure to American assets. The selloff in longer-dated securities and equities is “deeply concerning,” said [Trezzi](https://www.linkedin.com/in/riccardo-trezzi-phd-780799a5).
+
+Rate cuts also tend to work by stimulating demand for rate-sensitive sectors of the economy, such as housing and cars. But those sectors are also two that could be heavily affected by tariffs, raising the risk that a few interest-rate cuts might do little to cushion the economy against a tariff-induced slowdown.
+
+The [Fed](https://www.federalreserve.gov/)’s stimulus operates through financial markets into interest-rate-sensitive sectors of the economy, “which is hard if those markets are disrupted,” said Reinhart, a former senior [Fed](https://www.federalreserve.gov/) economist. “It’s only helpful to the extent that you think you can turn expectations, and expectations really aren’t about a quarter-point here or a quarter-point there.”
+
+| [Home - Federal Reserve Bank of Boston](https://www.bostonfed.org/) |
+|---|
+| [Federal Reserve Board - About the Fed](https://www.federalreserve.gov/aboutthefed.htm) |
+| [Federal Reserve Bank of New York - Serving the Second District and the Nation](https://www.newyorkfed.org/) |
+| [Federal Reserve Bank of Philadelphia](https://www.federalreserve.gov/aboutthefed/federal-reserve-system-philadelphia.htm) |
+| [Federal Reserve Bank of Philadelphia](https://www.philadelphiafed.org/) |
+| [Federal Reserve Bank of Cleveland](https://www.clevelandfed.org/) |
+| [Federal Reserve Bank of Richmond](https://www.richmondfed.org/) |
+| [Home - Federal Reserve Bank of Atlanta](https://www.atlantafed.org/) |
+| [Federal Reserve Bank of Chicago](https://www.chicagofed.org/) |
+| [Federal Reserve Bank of St. Louis / Economic Resources & Data](https://www.stlouisfed.org/) |
+| [Federal Reserve Bank of Minneapolis](https://www.minneapolisfed.org/) |
+| [Federal Reserve Bank of Kansas City](https://www.kansascityfed.org/) |
+| [Federal Reserve Bank of Dallas - Dallasfed.org](https://www.dallasfed.org/) |
+| [Federal Reserve Bank of San Francisco](https://www.frbsf.org/) |
+
+- [Kobayashi Maru scenario / Memory Alpha / Fandom](https://memory-alpha.fandom.com/wiki/Kobayashi_Maru_scenario)
+- [Laurence H. Meyer / Federal Reserve History](https://www.federalreservehistory.org/people/laurence-h-meyer)
+- [Sterno Products - For the Food Service and Hospitality Professional](https://www.sterno.com/)
+- [Homepage - Primaloft](https://primaloft.com/)
+- [Welcome to BNY Mellon Investment Management / BNY Investments](https://www.bny.com/investments/us/en.html)
+- [Federal Reserve Board](https://www.federalreserve.gov/)
+- [Jerome H. Powell](https://www.federalreserve.gov/aboutthefed/bios/board/powell.htm)
 ### List of some of the major stock markets around the world and their locations:
 
 | Stock Exchange | Location |
@@ -206,10 +144,19 @@ The [Trumpian](https://www.gop.com/) president was not expected to appear public
 | **[Moscow Exchange (MOEX)](https://www.moex.com/)** | Moscow, Russia |
 | **[Brazil Stock Exchange (B3)](https://www.b3.com.br/)** | São Paulo, Brazil |
 
-| Trump Locations |
+### Where Can Trump Be Found?
+
+#### Where Trump Pretends To Work
+
+| Where Trump Pretends To Work |
 |---|
 | **[White House](https://www.whitehouse.gov)** |
 | 1600 Pennsylvania Ave., NW <br /> Washington, DC 20500 <br /> <a href="tel:+12024561111">+1 (202) 456-1111</a> (comments) <br /> <a href="tel:+12024561414">+1 (202) 456-1414</a> (switchboard) |
+
+#### If It’s The Weekend, Find Trump On One Of His Golf Courses
+
+| Where Trump Can Be Found On Weekends |
+|---|
 | **[Mar-a-Lago](https://www.maralagoclub.com/)** |
 | [The Mar-a-Lago Club](https://www.maralagoclub.com/) <br /> 1100 South Ocean Boulevard, <br /> Palm Beach, Florida 33480 <br /> <a href="tel+15618322600">+1 (561) 832-2600</a> |
 | **Florida, West Palm Beach** |
@@ -286,11 +233,9 @@ The [Trumpian](https://www.gop.com/) president was not expected to appear public
 - [Fact Sheet: President Donald J. Trump Imposes Tariffs on Imports from Canada, Mexico and China](https://www.whitehouse.gov/fact-sheets/2025/02/fact-sheet-president-donald-j-trump-imposes-tariffs-on-imports-from-canada-mexico-and-china/). Fact Sheets February 1, 2025
 - [Imposing Duties to Address the Situation at Our Southern Border](https://www.whitehouse.gov/presidential-actions/2025/02/imposing-duties-to-address-the-situation-at-our-southern-border/). Presidential Actions February 1, 2025
 - [America First Trade Policy](https://www.whitehouse.gov/presidential-actions/2025/01/america-first-trade-policy/). Presidential Actions January 20, 2025
-- [Eric F. Trump](https://www.linkedin.com/in/erictrump/)
 - [Federal Reserve Board](https://www.federalreserve.gov/)
 - [Jerome H. Powell](https://www.federalreserve.gov/aboutthefed/bios/board/powell.htm)
 - [Senate](https://www.senate.gov/)
-- [Ben RayLuján (D-NM)](https://www.lujan.senate.gov/)
 - [Donald J Trump](https://www.donaldjtrump.com/)
 - [Supreme Court of the United States (SCOTUS)](https://www.supremecourt.gov/)
 - [US Courts](https://www.uscourts.gov/)
@@ -307,3 +252,5 @@ The [Trumpian](https://www.gop.com/) president was not expected to appear public
 - tariffs
 - politics 
 - stupidity 
+
+
