@@ -42,7 +42,7 @@ In the [Republican](https://www.gop.com/)’s [second term](https://www.whitehou
 
 Let’s take these one at a time.
 
-[Trump](https://www.donaldjtrump.com/) fired [Krebs](https://www.linkedin.com/in/christopherckrebs/) — not because he’d done anything wrong but because the [president](https://www.whitehouse.gov/) wanted him to go along with his lies about the [election results](https://www.fec.gov/resources/cms-content/documents/federalelections2020.pdf).
+> [Trump](https://www.donaldjtrump.com/) fired [Krebs](https://www.linkedin.com/in/christopherckrebs/) — not because he’d done anything wrong but because the [president](https://www.whitehouse.gov/) wanted him to go along with his lies about the [election results](https://www.fec.gov/resources/cms-content/documents/federalelections2020.pdf).
 
 During [Trump](https://www.donaldjtrump.com/)’s [first term](https://trumpwhitehouse.archives.gov/), [Christopher Krebs](https://www.linkedin.com/in/christopherckrebs/) led the [Department of Homeland Security](https://www.dhs.gov/)’s [Cybersecurity and Infrastructure Security Agency (CISA)](https://www.cisa.gov/), which was responsible for combatting foreign interference in our elections and preventing attacks. [Krebs](https://www.linkedin.com/in/christopherckrebs/) earned bipartisan praise for his work, and after the [2020 election cycle](https://www.fec.gov/resources/cms-content/documents/federalelections2020.pdf), [The Washington Post](https://www.washingtonpost.com/)’s [David Ignatius](https://www.washingtonpost.com/people/david-ignatius/) [noted](https://www.washingtonpost.com/opinions/trump-and-his-supporters-are-discovering-how-hard-it-is-to-sabotage-election-results/2020/11/17/96d37bbe-290e-11eb-9b14-ad872157ebc9_story.html), “When the history books about this [election](https://www.fec.gov/resources/cms-content/documents/federalelections2020.pdf) are written, [Krebs](https://www.linkedin.com/in/christopherckrebs/) will be one of the heroes.”
 
@@ -52,7 +52,7 @@ Four and a half years later, [Trump](https://www.donaldjtrump.com/) issued an or
 
 [Miles Taylor](https://www.linkedin.com/in/miles-taylor-65707671/), meanwhile, was a former high-ranking official in [Trump](https://www.donaldjtrump.com/)’s [Department of Homeland Security](https://www.dhs.gov/) who [became a prominent Trump critic](https://www.msnbc.com/rachel-maddow-show/maddowblog/anonymous-white-house-author-comes-forward-n1245161), alerting the public to allegations that he personally witnessed the president’s corruption and ineptitude.
 
-This is simply not the sort of thing that’s supposed to happen in a stable and healthy democracy.
+> This is simply not the sort of thing that’s supposed to happen in a stable and healthy democracy.
 
 [Trump’s order](https://www.whitehouse.gov/presidential-actions/2025/04/addressing-risks-associated-with-an-egregious-leaker-and-disseminator-of-falsehoods/), which called on the [Department of Homeland Security](https://www.dhs.gov/) to investigate [Taylor](https://www.linkedin.com/in/miles-taylor-65707671/)’s activities, also said [Taylor](https://www.linkedin.com/in/miles-taylor-65707671/) “stoked dissension.” Just as notably, the [president](https://www.whitehouse.gov/), who has [repeatedly disclosed sensitive information](https://www.msnbc.com/rachel-maddow-show/maddowblog/problems-trumps-executive-order-disclosing-sensitive-information-rcna188592), suggested that his critic had “disclosed sensitive information,” adding, “[T]his conduct could properly be characterized as treasonous.”
 
