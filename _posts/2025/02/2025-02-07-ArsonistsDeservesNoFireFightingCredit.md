@@ -22,7 +22,7 @@ Catherine Rampell. February 7, 2025
 - The article criticizes former [President Donald Trump](https://www.whitehouse.gov/) for creating crises and then claiming victory when he addresses them.
 - It highlights his trade disputes with [Canada](https://www.canada.ca/) and [Mexico](https://www.gob.mx/), accusing him of using bogus numbers to inflate the trade deficit and making confusing allegations about fentanyl smuggling.
 - The piece argues that [Trump](https://www.whitehouse.gov/) lacks understanding of the facts and that the supposed concessions from [Mexico](https://www.gob.mx/) and [Canada](https://www.canada.ca/) were actions they were already taking.
-- It mentions a similar situation with Colombia, where a deportation flight was refused due to [Trump's](https://www.whitehouse.gov/) aggressive approach, leading to economic uncertainty.
+- It mentions a similar situation with [Colombia](https://www.gov.co/), where a deportation flight was refused due to [Trump's](https://www.whitehouse.gov/) aggressive approach, leading to economic uncertainty.
 - The article contends that [Trump's](https://www.whitehouse.gov/) actions have damaged trust with international allies and hurt U.S. businesses.
 - It also points out domestic issues, such as the false claim about [California's](https://www.ca.gov/) water supply and the negative impact of [Trump's](https://www.whitehouse.gov/) executive order on local farms.
 - The author criticizes [Trump's](https://www.whitehouse.gov/) administration for purging and defunding important programs, causing disruptions in federal aid and research funding.
