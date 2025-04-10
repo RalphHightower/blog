@@ -2,7 +2,7 @@
 layout: page
 tags: [assholes, Donald Trump, Elon Musk, Betsy DeVos, MAGA billionaires, billionaire, Trump donors, Republican PAC, Make America Great Again (MAGA)]
 categories: [Telephone Numbers]
-date: 2025-04-09 7:32 PM
+date: 2025-04-10 6:55 PM
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description: 
@@ -18,6 +18,25 @@ The telephone numbers below have called and there is an empty person on the othe
 
 | Telephone Number | Location | Date Time[^11] | Caller | Social Media |
 |---|---|---|---|---|
+| <a href="tel:+18038256534">+1 (803) 825-6534</a> | SC. Manning | 2025-04-10 06:37 PM ¤¤ | - | |
+| <a href="tel:+18038256534">+1 (803) 825-6534</a> | SC. Manning | 2025-04-10 06:36 PM | - | |
+| <a href="tel:+18037238373">+1 (803) 723-8373</a> | SC. | 2025-04-10 05:36 PM ¤¤ | Potential Spam | |
+| <a href="tel:+18037238373">+1 (803) 723-8373</a> | SC. | 2025-04-10 05:35 PM | Potential Spam | |
+| <a href="tel:+18039621468">+1 (803) 962-1468</a> | SC. | 2025-04-10 04:13 PM | Potential Spam | |
+| <a href="tel:+18034123538">+1 (803) 412-3538</a> | SC. Rock Hill | 2025-04-10 04:08 PM | Burkett CPA | |
+| <a href="tel:+18036044200">+1 (803) 604-4200</a> | SC. Batesburg | 2025-04-10 04:08 PM | - | |
+| <a href="tel:+18038694239">+1 (803) 869-4239</a> | SC. Sumter | 2025-04-10 04:01 PM | Potential Spam | |
+| <a href="tel:+18037640206">+1 (803) 764-0206</a> | SC. Columbia | 2025-04-10 03:31 PM | Naw Zaw | |
+| <a href="tel:+18035374201">+1 (803) 537-4201</a> | SC. Newberry | 2025-04-10 03:03 PM | Samsung | |
+| <a href="tel:+18034705712">+1 (803) 470-5712</a> | SC. | 2025-04-10 12:57 PM ¤¤ | Potential Spam | |
+| <a href="tel:+18034705712">+1 (803) 470-5712</a> | SC. | 2025-04-10 12:55 PM | Potential Spam | |
+| <a href="tel:+18035208177">+1 (803) 520-8177</a> | SC. Lexington | 2025-04-10 12:22 PM ¤¤ | Potential Spam | |
+| <a href="tel:+18035208177">+1 (803) 520-8177</a> | SC. Lexington | 2025-04-10 12:21 PM | Potential Spam | |
+| <a href="tel:+18037647207">+1 (803) 764-7207</a> | SC. | 2025-04-10 12:05 PM | Potential Spam | |
+| <a href="tel:+18037088186">+1 (803) 708-8186</a> | SC. Columbia | 2025-04-10 12:02 PM | Potential Spam | |
+| <a href="tel:+18037281392">+1 (803) 728-1392</a> | SC. Columbia | 2025-04-10 11:13 AM | Potential Spam | |
+| <a href="tel:+18032337335">+1 (803) 233-7335</a> | SC. Columbia | 2025-04-10 09:52 AM | - | |
+| <a href="tel:+18035680505">+1 (803) 568-0505</a> | SC. Swansea | 2025-04-10 09:39 AM | - | |
 | <a href="tel:+18032470149">+1 (803) 247-0149</a> | SC. North | 2025-04-09 06:40 PM ¤¤ | - | |
 | <a href="tel:+18032470149">+1 (803) 247-0149</a> | SC. North | 2025-04-09 06:39 PM | - | |
 | <a href="tel:+18036503295">+1 (803) 650-3295</a> | SC. Fort Mill | 2025-04-09 06:21 PM | Potential Spam | |
