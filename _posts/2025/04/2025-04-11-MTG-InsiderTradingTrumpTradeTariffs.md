@@ -1,5 +1,5 @@
----, 
-layout: post, 
+---
+layout: post
 tags: [The Independent, Associated Press, Dell Computer, Amazon, Lululemon, RH, Leadership :: RH (RH), Marjorie Taylor Greene (T-GA14), H.R.1908 - 119th Congress (2025-2026): End Congressional Stock Trading Act / Congress.gov / Library of Congress, H.R.345 - 118th Congress (2023-2024): TRUST in Congress Act / Congress.gov / Library of Congress, America First Trade Policy. Presidential Actions January 20 2025, Federal Reserve Board, Jerome H. Powell, Senate, Donald J Trump, Supreme Court of the United States (SCOTUS), US Courts, House of Representatives, U.S. Department of the Treasury, Scott Bessent, Department of Commerce (DOC), Howard Lutnick, Howard W. Lutnick, President Donald Trump (45), President Donald Trump (47), President of the United States (POTUS), White House (WH), tariffs, politics, stupidity]
 categories: [Marjorie Taylor Greene, insider trading]
 #date: 2019-06-25 13:14:15
