@@ -139,6 +139,7 @@ Skewed the bona fide debate about COVID-19 by attempting to discredit widely sha
 - [Christopher Murphy (D-CT)](https://www.murphy.senate.gov/)
 - [Cybersecurity and Infrastructure Security Agency (CISA)](https://www.cisa.gov/)
 - [Bridget Bean / CISA](https://www.cisa.gov/about/leadership/bridget-bean)
+- [Bridget Bean / LinkedIn](https://www.linkedin.com/in/bridget-bean/)
 - [Department of Homeland Security (DHS)](https://www.dhs.gov/)
 - [Kristi Noem / Homeland Security](https://www.dhs.gov/person/kristi-noem)
 - [Department of Justice (DOJ)](https://www.justice.gov/)
