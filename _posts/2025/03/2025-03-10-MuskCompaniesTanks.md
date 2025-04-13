@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [Mary Trump Media, Volodymyr Zelenskyy, Ukraine, #XDown, Elon Musk, Boring, Neuralink, SpaceX, Starlink, Tesla, Twitter, X, xAI, Department of Government Efficiency (DOGE), President Donald J. Trump, President Of The United States (POTUS), White House (WH), politics]
+tags: [Mary Trump Media, Volodymyr Zelenskyy, Ukraine, XDown, Elon Musk, Boring, Neuralink, SpaceX, Starlink, Tesla, Twitter, X, xAI, Department of Government Efficiency (DOGE), President Donald J. Trump, President Of The United States (POTUS), White House (WH), politics]
 categories: [Donald Trump]
 date: 2025-03-10 8:29 PM
 excerpt: ''
