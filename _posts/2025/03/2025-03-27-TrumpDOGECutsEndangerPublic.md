@@ -17,7 +17,7 @@ Mar 14, 2025 4:36 PM EDT
 
 NORMAN, Okla. — Meteorologists and climate scientists are raising alarms about major cuts to the [National Oceanic and Atmospheric Administration](https://www.noaa.gov/), saying they will harm the country’s ability to forecast and respond to major weather events and put lives at risk.
 
-Hundreds of employees, including some of the country’s top meteorologists and researchers, had their jobs terminated on Feb. 27, part of a broader elimination of probationary employees by billionaire [Elon Musk](https://x.com/elonmusk/) and his team at the [Department of Government Efficiency](https://www.doge.gov/).
+Hundreds of employees, including some of the country’s top meteorologists and researchers, had their jobs terminated on Feb. 27, part of a broader elimination of probationary employees by billionaire [Elon Musk](https://ir.tesla.com/corporate/elon-musk) and his team at the [Department of Government Efficiency](https://www.doge.gov/).
 
 [NOAA](https://www.noaa.gov/) is now tasked with cutting an estimated 10 percent of its workforce, or 1,029 jobs, current and former employees told [PBS News](https:www.pbs.org/). If plans for these latest cuts move forward, nearly 20 percent of [NOAA](https://www.noaa.gov/)’s 13,000-person workforce would be cut.
 

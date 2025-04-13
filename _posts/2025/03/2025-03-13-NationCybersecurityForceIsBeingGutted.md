@@ -95,7 +95,7 @@ The removal of Hale and his colleagues “was the start to a decline in morale�
 
 The layoffs, operational changes, and other disruptions at [CISA](https://www.cisa.gov/) have severely depleted morale and undermined the agency’s effectiveness. “Even simple tasks feel hard to accomplish because you don't know if your teammates won't be here tomorrow,” says the fourth employee.
 
-The biggest source of stress and frustration is acting [CISA](https://www.cisa.gov/) director Bridget Bean, a former [Trump](https://trumpwhitehouse.archives.gov/) appointee who, employees say, appears eager to please the president even if it means not defending her agency. Bean “just takes whatever comes down and implements [it] without thought of how it will affect [CISA's](https://www.cisa.gov/) mission,” the fifth employee says. Employees describe her as a poor leader and ineffective communicator who has zealously enacted [Trump’s](https://www.whitehouse.gov/administration/donald-j-trump/) agenda. In town-hall meetings with employees, Bean has said [CISA](https://www.cisa.gov/) must carefully review its its authorities and urged staffers to “assume noble intent” when dealing with [Trump](https://www.whitehouse.gov/administration/donald-j-trump/) officials. While discussing [Elon Musk’s](https://x.com/elonmusk/) mass-buyout program, she allegedly said, “I like to say ‘Fork in the Road’ because it's kind of fun,.” according to the fourth employee. She was so eager to comply with Musk’s “What did you do last week?” email that she instructed staffers to respond to it before [DHS](https://www.dhs.gov/) had finalized its department-wide approach. [DHS](https://www.dhs.gov/) later told staff not to respond, and Bean had to walk back her directive.
+The biggest source of stress and frustration is acting [CISA](https://www.cisa.gov/) director Bridget Bean, a former [Trump](https://trumpwhitehouse.archives.gov/) appointee who, employees say, appears eager to please the president even if it means not defending her agency. Bean “just takes whatever comes down and implements [it] without thought of how it will affect [CISA's](https://www.cisa.gov/) mission,” the fifth employee says. Employees describe her as a poor leader and ineffective communicator who has zealously enacted [Trump’s](https://www.whitehouse.gov/administration/donald-j-trump/) agenda. In town-hall meetings with employees, Bean has said [CISA](https://www.cisa.gov/) must carefully review its its authorities and urged staffers to “assume noble intent” when dealing with [Trump](https://www.whitehouse.gov/administration/donald-j-trump/) officials. While discussing [Elon Musk’s](https://ir.tesla.com/corporate/elon-musk) mass-buyout program, she allegedly said, “I like to say ‘Fork in the Road’ because it's kind of fun,.” according to the fourth employee. She was so eager to comply with Musk’s “What did you do last week?” email that she instructed staffers to respond to it before [DHS](https://www.dhs.gov/) had finalized its department-wide approach. [DHS](https://www.dhs.gov/) later told staff not to respond, and Bean had to walk back her directive.
 
 “Bean feels like she's against the workforce just to please the current administration,” the second employee says. The fourth employee describes her as “not authentic, tone-deaf, spineless, [and] devoid of leadership.”
 
@@ -103,7 +103,7 @@ McLaughlin, the [DHS](https://www.dhs.gov/) spokesperson, says [CISA](https://ww
 
 The return-to-office mandate has also caused problems. With all employees on-site, there isn’t enough room in [CISA's](https://www.cisa.gov/) offices for the contractors who support the agency’s staff. That has made it “very difficult” to collaborate on projects and hold technical discussions, according to the first employee. “There wasn’t much thought about [RTO’s] impact to operations,” says the fourth employee. According to a fifth employee, “executing some of our sensitive operations is now harder.” (“[CISA](https://www.cisa.gov/) has worked tirelessly to make the return to office as smooth as possible from space to technology,” McLaughlin says.)
 
-Employees are dealing with other stressors, too. They have no idea who’s reading their [Musk](https://x.com/elonmusk/)-mandated performance reports, how they’re being evaluated, or whether AI is analyzing them for future layoffs. And there’s a lot of new paperwork. “The amount of extra shit we have to do to comply with the ‘efficiency measures’ … [takes] a lot of time away from doing our job,” says the fifth employee.
+Employees are dealing with other stressors, too. They have no idea who’s reading their [Musk](https://ir.tesla.com/corporate/elon-musk)-mandated performance reports, how they’re being evaluated, or whether AI is analyzing them for future layoffs. And there’s a lot of new paperwork. “The amount of extra shit we have to do to comply with the ‘efficiency measures’ … [takes] a lot of time away from doing our job,” says the fifth employee.
 
 ### Bracing for More
 
@@ -133,8 +133,9 @@ If [Trump’s](https://www.whitehouse.gov/administration/donald-j-trump/) confro
 - [Ukraine (UA)](https://www.gov.ua/)
 - [United Nations](https://www.un.org/)
 - [United States of America (US)](https://www.usa.gov/)
+- [Elon Musk](https://ir.tesla.com/corporate/elon-musk)
 - [Elon Musk](https://x.com/elonmusk/)
-- [Boring](https://www.boringcompany.com/)
+- [The Boring Company](https://www.boringcompany.com/)
 - [Neuralink](https://neuralink.com/)
 - [SpaceX](https://www.spacex.com/)
 - [Starlink](https://www.starlink.com/)

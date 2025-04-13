@@ -56,7 +56,7 @@ Multiple layoffs hit the [NWS' Environmental Modeling Center](https://www.emc.nc
 - "This action is a direct hit to our economy, because [NOAA's](https://www.doge.gov/4) specialized workforce provides products and services that support more than a third of the nation's [GDP](https://www.bea.gov/data/gdp/gross-domestic-product)," she said in a statement.
 - [Cantwell](https://www.cantwell.senate.gov/) is ranking member of the [Senate Commerce Committee](http://commerce.senate.gov/public/) that oversees [NOAA](https://www.noaa.gov/).
 
-**Zoom out**: The layoffs of probationary employees that began Thursday hit soon after cuts at the behest of [Elon Musk's](https://x.com/elonmusk/) [Department of Government Efficiency](https;//www.doge.gov/) occurred at other climate and environment agencies.
+**Zoom out**: The layoffs of probationary employees that began Thursday hit soon after cuts at the behest of [Elon Musk's](https://ir.tesla.com/corporate/elon-musk) [Department of Government Efficiency](https;//www.doge.gov/) occurred at other climate and environment agencies.
 
 - The layoffs have mainly hit employees with less than two years of service.
 - Others who were promoted recently or transferred agencies can also be considered to be on probationary status.
@@ -71,8 +71,9 @@ Multiple layoffs hit the [NWS' Environmental Modeling Center](https://www.emc.nc
 - [Institute of the Environment and Sustainability at UCLA — Moving science to action](https://www.ioes.ucla.edu/)
 - [Daniel Swain — Institute of the Environment and Sustainability at UCLA](https://www.ioes.ucla.edu/person/daniel-swain/)
 - [Tom Di Liberto](https://www.linkedin.com/in/thomasdiliberto)
+- [Elon Musk](https://ir.tesla.com/corporate/elon-musk)
 - [Elon Musk](https://x.com/elonmusk/)
-- [Boring](https://www.boringcompany.com/)
+- [The Boring Company](https://www.boringcompany.com/)
 - [Neuralink](https://neuralink.com/)
 - [SpaceX](https://www.spacex.com/)
 - [Starlink](https://www.starlink.com/)

@@ -60,7 +60,7 @@ The fundamental problem facing [Trump](https://www.whitehouse.gov/administration
 
 As Chico Marx (not Groucho) famously said, “Who are you gonna believe, me or your own eyes?”
 
-[Donald Trump’s](https://www.whitehouse.gov/administration/donald-j-trump/) cruel and chaotic second term is just getting started. In his first month back in office, [Trump](https://www.whitehouse.gov/administration/donald-j-trump/) and his lackey [Elon Musk](https://x.com/elonmusk/) (or is it the other way around?) have proven that nothing is safe from sacrifice at the altar of unchecked power and riches.
+[Donald Trump’s](https://www.whitehouse.gov/administration/donald-j-trump/) cruel and chaotic second term is just getting started. In his first month back in office, [Trump](https://www.whitehouse.gov/administration/donald-j-trump/) and his lackey [Elon Musk](https://ir.tesla.com/corporate/elon-musk) (or is it the other way around?) have proven that nothing is safe from sacrifice at the altar of unchecked power and riches.
 
 ### [Federal Economic Statistics Advisory Committee](https://apps.bea.gov/)
 

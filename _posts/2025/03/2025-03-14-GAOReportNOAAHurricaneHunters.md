@@ -148,7 +148,7 @@ LinkedIn.com/company/us-government
 Facebook.com/usgao 
 Flickr.com/photos/usgao 
 
-General Information: The U.S. [Government Accountability Office (GAO)](https://www.gao.gov/) is an independent, nonpartisan agency that works for [Congress](https://www.congress.gov/). Often called the "congressional watchdog," [GAO](https://www.gao.gov/) investigates how the [federal government]() spends taxpayer dollars. 
+General Information: The U.S. [Government Accountability Office (GAO)](https://www.gao.gov/) is an independent, nonpartisan agency that works for [Congress](https://www.congress.gov/). Often called the "congressional watchdog," [GAO](https://www.gao.gov/) investigates how the [federal government](https://www.usa.gov/) spends taxpayer dollars. 
 
 Mission: Our Mission is to support the [Congress](https://www.congress.gov/) in meeting its constitutional responsibilities and to help improve the performance and ensure the accountability of the federal government for the benefit of the American people. We provide [Congress](https://www.congress.gov/) with timely information that is objective, fact-based, nonpartisan, non-ideological, fair, and balanced. 
 

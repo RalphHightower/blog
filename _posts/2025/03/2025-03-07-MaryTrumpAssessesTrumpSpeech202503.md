@@ -17,15 +17,15 @@ title: "Donald Trump’s Endless Stream of Lies To Joint Session of Congress"
 
 Mar 5, 2025  #marytrump [#trumpcabinet](https://www.whitehouse.gov/) [#donaldtrump](https://www.whitehouse.gov/administration/donald-j-trump/)
 Subscribe here:    / @marytrumpmedia
-[Donald Trump’s](https://www.whitehouse.gov/administration/donald-j-trump/) latest address to [Congress](https://www.congress.gov/) was a disaster—full of hypocrisy, lies, and authoritarian threats. From gaslighting about “free speech” to defending [Elon Musk’s](https://x.com/elonmusk/) illegal power grab, this speech revealed it all. Even [Trumpians](https://www.gop.com/) were caught off guard. Let’s break it down!
+[Donald Trump’s](https://www.whitehouse.gov/administration/donald-j-trump/) latest address to [Congress](https://www.congress.gov/) was a disaster—full of hypocrisy, lies, and authoritarian threats. From gaslighting about “free speech” to defending [Elon Musk’s](https://ir.tesla.com/corporate/elon-musk) illegal power grab, this speech revealed it all. Even [Trumpians](https://www.gop.com/) were caught off guard. Let’s break it down!
 
 - not a democracy any more
 - joint address: rule by unelected bureaucrats is over
-- [Elon Musk](https://x.com/elonmusk/) is an unelected bureaucrat
-- [Musk](https://x.com/elonmusk/) is head of [DOGE](https://www.doge.gov/) regardless because [Trump](https://www.whitehouse.gov/administration/donald-j-trump/) says he is
+- [Elon Musk](https://ir.tesla.com/corporate/elon-musk) is an unelected bureaucrat
+- [Musk](https://ir.tesla.com/corporate/elon-musk) is head of [DOGE](https://www.doge.gov/) regardless because [Trump](https://www.whitehouse.gov/administration/donald-j-trump/) says he is
 - tariffs are making America great again, protect us
 - conscious decline. Woke is bad. Woke is gone.
-- go off rails: end government censorship, free speech is back. [Musk](https://x.com/elonmusk/) trampled on free speech on [X](https://x.com/)/[Twitter](https://twitter.com/)
+- go off rails: end government censorship, free speech is back. [Musk](https://ir.tesla.com/corporate/elon-musk) trampled on free speech on [X](https://x.com/)/[Twitter](https://twitter.com/)
 - will not clap. Will not stand
 - cut $4B from [NIH](https://www.nih.gov/) to college grants for cancer research
 - [SSA](https://www.ssa.gov/) near collapse in 30 days.
@@ -47,6 +47,19 @@ Mar 5, 2025  #marytrump [#trumpcabinet](https://www.whitehouse.gov/) [#donaldtru
 - [Greenland](https://grl-rep.dk/en/rep/sek) wants independence from [Denmark](https://denmark.dk/)
 - [Trudeau](https://www.pm.gc.ca/) on [Trump’s tariffs](https://www.whitehouse.gov/administration/donald-j-trump/). Never be 51st state
 
+- [Elon Musk](https://ir.tesla.com/corporate/elon-musk)
+- [Elon Musk](https://x.com/elonmusk/)
+- [The Boring Company](https://www.boringcompany.com/)
+- [Neuralink](https://neuralink.com/)
+- [SpaceX](https://www.spacex.com/)
+- [Starlink](https://www.starlink.com/)
+- [Tesla](https://www.tesla.com/)
+- [Twitter](https://twitter.com/)
+- [ X ](https://x.com/)
+- [xAI](https://x.ai/)
+- [Mexico](https://www.gob.mx/)
+- [The State Council of the People's Republic of China](https://english.www.gov.cn/)
+- [中国政府网_中央人民政府门户网站](https://www.gov.cn/)
 - [Canada](https://www.canada.ca/)
 - [Justin Trudeau](https://www.pm.gc.ca/)
 - [Secretariat / Grønlands Repræsentation](https://grl-rep.dk/en/rep/sek)

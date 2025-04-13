@@ -39,6 +39,7 @@ But this is oligarchy in action: a rich man lording over the government that [ha
 
 - [Faux News](https://www.foxnews.com/)
 - [Bret Baier](https://www.foxnews.com/person/b/bret-baier)
+- [Elon Musk](https://ir.tesla.com/corporate/elon-musk)
 - [Elon Musk](https://x.com/elonmusk/)
 - [The Boring Company](https://www.boringcompany.com/)
 - [Neuralink](https://neuralink.com/)

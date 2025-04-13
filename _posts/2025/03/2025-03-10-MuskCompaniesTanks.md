@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [Mary Trump Media, Volodymyr Zelenskyy, Ukraine, XDown, Elon Musk, Boring, Neuralink, SpaceX, Starlink, Tesla, Twitter, X, xAI, Department of Government Efficiency (DOGE), President Donald J. Trump, President Of The United States (POTUS), White House (WH), politics]
+tags: [Mary Trump Media, Volodymyr Zelenskyy, Ukraine, #XDown, Elon Musk, Boring, Neuralink, SpaceX, Starlink, Tesla, Twitter, X, xAI, Department of Government Efficiency (DOGE), President Donald J. Trump, President Of The United States (POTUS), White House (WH), politics]
 categories: [Donald Trump]
 date: 2025-03-10 8:29 PM
 excerpt: ''
@@ -20,8 +20,9 @@ Mar 10, 2025  [#donaldtrump](https://www.whitehouse.gov/administration/donald-j-
 - #XDown
 - Musk shutdown Ukraine Starlink paid $50M for service
 
+- [Elon Musk](https://ir.tesla.com/corporate/elon-musk)
 - [Elon Musk](https://x.com/elonmusk/)
-- [Boring](https://www.boringcompany.com/)
+- [The Boring Company](https://www.boringcompany.com/)
 - [Neuralink](https://neuralink.com/)
 - [SpaceX](https://www.spacex.com/)
 - [Starlink](https://www.starlink.com/)
