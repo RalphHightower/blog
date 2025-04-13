@@ -2,7 +2,7 @@
 layout: post
 tags: []
 categories: [Donald Trump]
-date: 2025-01-22 11:51 PlAM
+date: 2025-01-22 11:51 AM
 #excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
