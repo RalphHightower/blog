@@ -2,8 +2,8 @@
 layout: post
 tags: []
 categories: []
-#date: 2019-06-25 13:14:15
-#excerpt: ''
+date: 2025-01-21 12:13 PM
+excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
@@ -11,19 +11,17 @@ title: "Trump Orders Chickens To Lower Egg Prices!"
 ---
 
 
-I
-
 ## [Delivering Emergency Price Relief for American Families and Defeating the Cost-of-Living Crisis – The White House](https://www.whitehouse.gov/presidential-actions/2025/01/delivering-emergency-price-relief-for-american-families-and-defeating-the-cost-of-living-crisis/)
 
 January 20, 2025
 
-Over the past 4 years, the [Biden Administration’s]() destructive policies inflicted an historic inflation crisis on the American people.  The [Biden Administration]() not only exploded Government spending, artificially and unsustainably stimulating demand, but it simultaneously made necessary goods and services scarce through a crushing regulatory burden and radical policies designed to weaken American production.  Hardworking families today are overwhelmed by the cost of fuel, food, housing, automobiles, medical care, utilities, and insurance.
+Over the past 4 years, the [Biden Administration’s](https://bidenwhitehouse.archives.gov/) destructive policies inflicted an historic inflation crisis on the American people.  The [Biden Administration](https://bidenwhitehouse.archives.gov/) not only exploded Government spending, artificially and unsustainably stimulating demand, but it simultaneously made necessary goods and services scarce through a crushing regulatory burden and radical policies designed to weaken American production.  Hardworking families today are overwhelmed by the cost of fuel, food, housing, automobiles, medical care, utilities, and insurance.
 
 In particular, the assault on plentiful and reliable American energy through unnecessary and illegal regulatory demands has driven up the cost of transportation and manufacturing.  In addition, the unlawful regulatory mandate on companies to effectively eliminate many or most gas-powered vehicles has resulted in artificial price increases on those popular vehicles to subsidize electric vehicles disfavored by consumers. 
 
 Moreover, many Americans are unable to purchase homes due to historically high prices, in part due to regulatory requirements that alone account for 25 percent of the cost of constructing a new home according to recent analysis.
 
-In sum, unprecedented regulatory oppression from the [Biden Administration]() is estimated to have imposed almost \$50,000 in costs on the average American household, whereas my first-term agenda reduced regulatory costs by almost \$11,000 per household.  It is critical to restore purchasing power to the American family and improve our quality of life.
+In sum, unprecedented regulatory oppression from the [Biden Administration](https://bidenwhitehouse.archives.gov/) is estimated to have imposed almost \$50,000 in costs on the average American household, whereas my first-term agenda reduced regulatory costs by almost \$11,000 per household.  It is critical to restore purchasing power to the American family and improve our quality of life.
 
 I hereby order the heads of all executive departments and agencies to deliver emergency price relief, consistent with applicable law, to the American people and increase the prosperity of the American worker.  This shall include pursuing appropriate actions to:  lower the cost of housing and expand housing supply; eliminate unnecessary administrative expenses and rent-seeking practices that increase healthcare costs; eliminate counterproductive requirements that raise the costs of home appliances; create employment opportunities for American workers, including drawing discouraged workers into the labor force; and eliminate harmful, coercive “climate” policies that increase the costs of food and fuel.  Within 30 days of the date of this memorandum, the Assistant to the President for Economic Policy shall report to me and every 30 days thereafter, on the status of the implementation of this memorandum. 
 

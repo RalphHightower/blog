@@ -25,3 +25,7 @@ He told express.co.uk: "It does cause a problem, and it is quite likely, as [Chi
 
 @RalphHightower: Trump has also vowed to pull out from the World Health Organization (WHO), which means that the United States won't receive notifications of disease outbreaks in other parts of the world. 
 
+- [Canada](https://www.canada.ca/)
+- [Mexico](https://www.gob.mx/)
+- [The State Council of the People's Republic of China](https://english.www.gov.cn/)
+- [中国政府网_中央人民政府门户网站](https://www.gov.cn/)

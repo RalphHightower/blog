@@ -190,3 +190,9 @@ God bless you all. And may God protect our troops. Thank you for this great hono
 The White House
 1600 Pennsylvania Ave NW
 Washington, DC 20500
+
+
+- [Canada](https://www.canada.ca/)
+- [Mexico](https://www.gob.mx/)
+- [The State Council of the People's Republic of China](https://english.www.gov.cn/)
+- [中国政府网_中央人民政府门户网站](https://www.gov.cn/)

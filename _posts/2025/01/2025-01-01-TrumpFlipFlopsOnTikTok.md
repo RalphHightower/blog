@@ -56,3 +56,6 @@ The brief continued to make the case for the former reality star and billionaire
 Earlier this month, [Trump](https://www.whitehouse.gov/) met with with [TikTok](https://www.tiktok.com/) CEO Shou Chew at his [Mar-a-Lago](https://www.maralagoclub.com/) estate, [CBS News](https://www.cbsnews.com/) reported. At the time, [Trump](https://www.whitehouse.gov/) voiced his change-of-heart toward the video app, which has been valued at $100 billion. “We’ll take a look at [TikTok](https://www.tiktok.com/). You know, I have a warm spot in my heart for [TikTok](https://www.tiktok.com/), because I won youth by 34 points,” [Trump](https://www.whitehouse.gov/) replied at a news conference when asked about the ban. “And there are those that say that [TikTok](https://www.tiktok.com/) has something to do with that.”
 
 When addressing [Trump](https://www.whitehouse.gov/)’s pivot on the matter, Former House Speaker [Nancy Pelosi (D-Calif.)](https://pelosi.house.gov/) told Politico, “When it comes to Donald [Trump](https://www.whitehouse.gov/), follow the money.”
+
+- [中国政府网_中央人民政府门户网站](https://www.gov.cn/)
+- [The State Council of the People's Republic of China](https://english.www.gov.cn/)

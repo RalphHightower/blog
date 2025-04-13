@@ -19,3 +19,9 @@ Jan 15, 2025  #donaldtrump #marytrump #currentevents
 In this episode, Mary discusses the Biden administration's new AI chip export restrictions aimed at curbing China's access to cutting-edge US technology, which could reshape global power dynamics. Despite pushback from the tech industry, these regulations are part of a broader strategy to keep AI development within trusted, secure environments, though challenges remain as China continues to make strides in AI innovation.
 
 @RalphHightower: This AI chip ban could affect Elon Musk’s Tesla manufacturing operations in China. 
+
+- [Canada](https://www.canada.ca/)
+- [Mexico](https://www.gob.mx/)
+- [The State Council of the People's Republic of China](https://english.www.gov.cn/)
+- [中国政府网_中央人民政府门户网站](https://www.gov.cn/)
+
