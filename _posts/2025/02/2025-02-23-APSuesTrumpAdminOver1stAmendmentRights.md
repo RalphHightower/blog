@@ -60,7 +60,7 @@ In a radio interview with [Fox News’](https://www.foxnews.com/) Brian Kilmeade
 
 He said “just about everybody” accepted the Gulf of America name change but “[AP](https://www.apnews.com/) wants to be cute.” There has been a mixed response from other news organizations: The [New York Times](https://www.nytimes.com/) and [Washington Post](https://www.washingtonpost.com/) are continuing to use Gulf of Mexico, while [Fox News](https://www.foxnews.com/) has switched to [Trump’s](https://www.whitehouse.gov/) choice. [Google Maps](https://www.google.com/maps) is using Gulf of America for users in the [United States](https://www.usa.gov/).
 
-### [Statement on White House Excluding AP from News Coverage / [White House  Correspondents' Association (WHCA)](https://whca.press/2025/02/11/statement-on-white-house-excluding-ap-from-news-coverage/)
+### [Statement on White House Excluding AP from News Coverage / White House  Correspondents' Association (WHCA)](https://whca.press/2025/02/11/statement-on-white-house-excluding-ap-from-news-coverage/)
 
 February 11, 2025
 
@@ -84,7 +84,7 @@ February 13, 2025
 
 “This is a textbook violation of not only the [First Amendment](https://constitution.congress.gov/constitution/amendment-1/), but the [president’s](https://www.whitehouse.gov/) own [executive order on freedom of speech and ending federal censorship](https://www.whitehouse.gov/presidential-actions/2025/01/restoring-freedom-of-speech-and-ending-federal-censorship/)[^89]. We again call on the [White House](https://www.whitehouse.gov/)  to immediately reverse course and restore access to [AP](https://www.apnews.com/) journalists.”
 
-[^89]: @RalphHightower: [Trump’s Executive Order: Restoring Freedom Of Speech And Ending Federal Censorshi](https://www.whitehouse.gov/presidential-actions/2025/01/restoring-freedom-of-speech-and-ending-federal-censorship/) really means [What Trump Really Means: Ending Freedom Of Speech And Starting Federal Censorship]({% post_url _posts/2025/01/2025-01-20-TrumpEndsFreedomOfSpeechPress.md %})
+[^89]: @RalphHightower: [Trump’s Executive Order: Restoring Freedom Of Speech And Ending Federal Censorshi](https://www.whitehouse.gov/presidential-actions/2025/01/restoring-freedom-of-speech-and-ending-federal-censorship/) really means [What Trump Really Means: Ending Freedom Of Speech And Starting Federal Censorship]({% link _posts/2025/01/2025-01-20-TrumpEndsFreedomOfSpeechPress.md %})
 
 -Eugene Daniels, [White House Correspondents’ Association](https://whca.press/) President
 
