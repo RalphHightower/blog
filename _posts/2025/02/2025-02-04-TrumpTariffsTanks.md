@@ -48,3 +48,7 @@ That's okay. You've been helpful. Thanks.
 You're welcome! If you have any more questions or need assistance with anything else, feel free to ask. I'm here to help. Have a great day! 😊
 
 
+- [Canada](https://www.canada.ca/)
+- [Mexico](https://www.gob.mx/)
+- [The State Council of the People's Republic of China](https://english.www.gov.cn/)
+- [中国政府网_中央人民政府门户网站](https://www.gov.cn/)

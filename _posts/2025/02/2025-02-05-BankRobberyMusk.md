@@ -16,7 +16,7 @@ title: "US Treasury Robbery: Inside Job"
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hlnuBfU4cxA?si=-BjuJNaJo-Jx6v5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Feb 3, 2025  #marytrump [#trumpcabinet](https://www.whitehouse.gov/) [#donaldtrump](https://www.whitehouse.gov/)
-[Elon Musk](https://x.com/elonmusk/) has not only broken into the [U.S. Treasury](https://www.tresuary.gov/) but vowed to end [USAID](https://www.usaid.gov/). Why? We have our thoughts. Tune in. 
+[Elon Musk](https://ir.tesla.com/corporate/elon-musk) has not only broken into the [U.S. Treasury](https://www.tresuary.gov/) but vowed to end [USAID](https://www.usaid.gov/). Why? We have our thoughts. Tune in. 
 
 - [Bureau of the Fiscal Service](http://www.fiscal.treasury.gov/)
 - [Treasury Department](https://www.tresuary.gov/)

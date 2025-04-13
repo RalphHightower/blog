@@ -51,7 +51,7 @@ By Colby Itkowitz, Yvonne Wingett Sanchez and Olivia George
 - Critics argue that these actions create a lawless environment and undermine existing mechanisms to root out government waste, fraud, and abuse.
 - Concerns are raised about the appointment of **Douglas A. Collins** to lead multiple agencies, questioning his ability to manage these roles effectively.
 - Legal challenges are being made against [Trump's](https://www.whitehouse.gov/) actions, with some officials suing for wrongful termination.
-- Critics liken the current situation to the [Nixon](https://en.wikipedia.org/wiki/Richard_Nixon) presidency, warning of the potential erosion of accountability and the establishment of an authoritarian regime.
+- Critics liken the current situation to the Nixon](https://en.wikipedia.org/wiki/Richard_Nixon) presidency, warning of the potential erosion of accountability and the establishment of an authoritarian regime.
 - Advocates for a stronger federal government express alarm over the implications of these firings for government oversight and the protection of federal employees.
 
 [Office of Government Ethics](https://www.oge.gov/):
@@ -65,7 +65,7 @@ By Colby Itkowitz, Yvonne Wingett Sanchez and Olivia George
 Inspector Generals[^81]:
 
 - serves as an independent auditor to the agency that they are assigned to and report on findings of waste, fraud, and abuse.
-[^81]: [Trump](https://www.whitehouse.gov/) [had fired 18 Inspector Generals earlier]({% link _posts/2025/01/2025-01-26-IGsFiredFridayNightMassacre.md %}).
+[^81]: [Trump](https://www.whitehouse.gov/) [had fired 18 Inspector Generals earlier]({% link _posts/2025/01/2025/01/2025-01-26-IGsFiredFridayNightMassacre.md %}).
 
 [Merit Systems Protection Board](https://www.mspb.gov/):
 
@@ -95,7 +95,7 @@ Walter M. Shaub Jr., a former director of the [Office of Government Ethics](http
 
 - Cathy Harris also sued, on Tuesday, after [Trump](https://www.whitehouse.gov/) fired her the previous day from her perch atop [Merit Systems Protection Board](https://www.mspb.gov/), which hears appeals to firings and other disciplinary actions against federal employees.
 
-- The [Office of Government Ethics](https://www.oge.gov/) announced Monday on its website that [Trump](https://www.whitehouse.gov/) had terminated its director, David Huitema. Like Dellinger, Huitema was confirmed by the [Senate](https://www.senate.gov/) last year to a five-year term. [Congressional](https;//www.congress.gov/) [Democrats](https://www.democrats.org/) had implored Huitema to open an investigation into possible conflicts of interest involving [Musk](https://x.com/elonmusk/) due to his billions of dollars in government contracts.
+- The [Office of Government Ethics](https://www.oge.gov/) announced Monday on its website that [Trump](https://www.whitehouse.gov/) had terminated its director, David Huitema. Like Dellinger, Huitema was confirmed by the [Senate](https://www.senate.gov/) last year to a five-year term. [Congressional](https;//www.congress.gov/) [Democrats](https://www.democrats.org/) had implored Huitema to open an investigation into possible conflicts of interest involving [Musk](https://ir.tesla.com/corporate/elon-musk) due to his billions of dollars in government contracts.
 
 - Susan Tsui Grundmann, chairwoman of the [Federal Labor Relations Authority](https//:www.flra.gov/), which protects federal employee unions from actions taken against them, also received her notice of termination earlier this week.
 
@@ -105,7 +105,7 @@ Some critics likened the current pace of firings to the atmosphere during the pr
 
 Don Fox, a former general counsel of the [Office of Government Ethics](https://www.oge.gov/) and a former acting director of the office who worked with both the [George W. Bush](https://georgewbush-whitehouse.archives.gov/president/) and [Obama](https://obamawhitehouse.archives.gov/) administrations, said the removals by [Trump](https://www.whitehouse.gov/) **“would take us back to the [Nixon](https://en.wikipedia.org/wiki/Richard_Nixon) days and an imperial presidency, and when the law and what it meant was whatever [Nixon](https://en.wikipedia.org/wiki/Richard_Nixon)’s White House said it was. There really were no checks and balances.”**
 
-Firing federal workers is a huge piece of [Trump's](https://www.whitehouse.gov/) agenda to shrink the federal government. On Tuesday, the [president](https://www.whitehouse.gov/) signed an executive order telling agencies to prepare for “large-scale reductions.” [Elon Musk](https://x.com/elonmusk/), the tech billionaire who is leading the [U.S. DOGE Service](https://doge.gov/), also known as the [Department of Government Efficiency](https://doge.gov/), was by his side.
+Firing federal workers is a huge piece of [Trump's](https://www.whitehouse.gov/) agenda to shrink the federal government. On Tuesday, the [president](https://www.whitehouse.gov/) signed an executive order telling agencies to prepare for “large-scale reductions.” [Elon Musk](https://ir.tesla.com/corporate/elon-musk), the tech billionaire who is leading the [U.S. DOGE Service](https://doge.gov/), also known as the [Department of Government Efficiency](https://doge.gov/), was by his side.
 
 The implication for firing these watchdogs is a “catastrophic end” of accountability inside the executive branch, Shaub:
 

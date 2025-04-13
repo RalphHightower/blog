@@ -15,15 +15,15 @@ title: "Smoke and Mirrors: Trump and House Trumpers Cut Social Security, Medicar
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oWGKOQA6h_A?si=4IA6ecYIt59zPGKH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Feb 26, 2025 #marytrump [#trumpcabinet]() [#donaldtrump](https://www.whitehouse.gov/administration/donald-j-trump/)
-[Donald Trump](https://www.whitehouse.gov/administration/donald-j-trump/) and [House](https://www.house.gov/) [Trumpians](https://www.gop.com/) just pushed through a multi-trillion-dollar budget that hands massive tax cuts to the ultra-wealthy while slashing [Medicaid](https://www.medicaid.gov/), [Social Security](https://www.ssa.gov/), and essential programs for millions of Americans. As [Trumpians](https://www.gop.com/) scramble to defend their reckless cuts, even their own voters are turning on them. Who gets hurt the most? And how does this all tie into [Trump’s](https://www.whitehouse.gov/administration/donald-j-trump/) latest scam? Mary Trump breaks it all down.
+Feb 26, 2025 #marytrump [#trumpcabinet](https://www.whitehouse.gov/administration/the-cabinet/) [#donaldtrump](https://www.whitehouse.gov/administration/donald-j-trump/)
+[Donald Trump](https://www.donaldjtrump.com/) and [House](https://www.house.gov/) [Trumpians](https://www.gop.com/) just pushed through a multi-trillion-dollar budget that hands massive tax cuts to the ultra-wealthy while slashing [Medicaid](https://www.medicaid.gov/), [Social Security](https://www.ssa.gov/), and essential programs for millions of Americans. As [Trumpians](https://www.gop.com/) scramble to defend their reckless cuts, even their own voters are turning on them. Who gets hurt the most? And how does this all tie into [Trump’s](https://www.whitehouse.gov/administration/donald-j-trump/) latest scam? Mary Trump breaks it all down.
 
 0:00- [Trump’s](https://www.whitehouse.gov/administration/donald-j-trump/) Budget Scam Exposed
 3:45- [Medicaid](https://www.medicaid.gov/) SLASHED for Billionaire Handouts 
-10:15- [GOP]() Caught Lying 
+10:15- [GOP](https://www.gop.com/) Caught Lying 
 17:30- The Real Cost: Who’s Going to Suffer? 
-- [Trump]() has no problems with debt
-- [Rand Paul](https://www.paul.senate.gov/) things are not as they seem 
+- [Trump](https://www.donaldjtrump.com/) has no problems with debt
+- [Rand Paul (T-KY)](https://www.paul.senate.gov/) things are not as they seem 
 - 4.5 trillion dollars tax cuts for wealthy 
 - adds to deficit 
 - [AOC](https://ocasio-cortez.house.gov/): no concrete number on waste.

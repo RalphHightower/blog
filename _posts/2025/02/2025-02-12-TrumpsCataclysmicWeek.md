@@ -21,7 +21,7 @@ These are the key points from the article on cybersecurity.
 
 2. **Cyber Safety Review Board**: The CSRB, established in 2022, investigated major cybersecurity events but was disbanded by [Trump](https://www.whitehouse.gov/). Key investigations affected included the Log4Shell crisis and Chinese state-sponsored hacking.
 
-3. **[CISA](https://www.cisa.gov/) Criticism**: [South Dakota](https://www dhs.gov/) Governor Kristi Noem, newly confirmed as [DHS]() director, criticized [CISA](https://www.cisa.gov/) for its focus on **misinformation[^31]**, suggesting a shift back to its core mission of hardening federal IT systems and addressing digital intrusions.
+3. **[CISA](https://www.cisa.gov/) Criticism**: [South Dakota](https://www dhs.gov/) Governor Kristi Noem, newly confirmed as [DHS](https://www.dhs.gov/) director, criticized [CISA](https://www.cisa.gov/) for its focus on **misinformation[^31]**, suggesting a shift back to its core mission of hardening federal IT systems and addressing digital intrusions.
 
 [^31]: @RalphHightower: Here we get to the crux of the matter. [Trump](https://www.whitehouse.gov/)](https://www.whitehouse.gov/) depends on misinformation. It is his very lifeblood. 
 
@@ -50,7 +50,9 @@ Kristi Noem during her confirmation testimony before the [Senate](https://www.se
 - “We also need to have [CISA](https://www.cisa.gov/) have interaction with the [FBI](https://www.fbi.gov/), [CIA](https://www.cia) to make sure they're working together to stop these types of threats and identify when they're growing among our citizens. We have to plan bigger and think faster and smarter. One of the things that disturbs me the most is that we don't necessarily even know how some of these espionage attacks that have infiltrated our systems have happened. We don't know how to stop them yet.”
 
 
-[Cybersecurity and Infrastructure Security Agency (CISA)](https://www.cisa.gov/)
-[Department of Homeland Security](https://www.dhs.gov/)
-[Transportation Security Administration (TSA)](https://www.tsa.gov/)
-[White House](https://www.whitehouse.gov/)
+- [Cybersecurity and Infrastructure Security Agency (CISA)](https://www.cisa.gov/)
+- [Department of Homeland Security](https://www.dhs.gov/)
+- [Transportation Security Administration (TSA)](https://www.tsa.gov/)
+- [White House](https://www.whitehouse.gov/)
+- [The State Council of the People's Republic of China](https://english.www.gov.cn/)
+- [中国政府网_中央人民政府门户网站](https://www.gov.cn/)

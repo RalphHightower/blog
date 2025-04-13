@@ -18,7 +18,7 @@ title: "Multiple Former Pentagon Chiefs Tell Congress: Don't Abdicate Your Respo
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TOxu-UcZwdI?si=df2G4XES2KMSjaWy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Feb 28, 2025
-Multiple [Pentagon chiefs]() just dropped a devastating bombshell on [Trump](https://www.whitehouse.gov/administration/donald-j-trump/) that [Congress](https://www.congress.gov/) can’t afford to ignore!
+Multiple [Pentagon chiefs](https://www.defense.gov/) just dropped a devastating bombshell on [Trump](https://www.whitehouse.gov/administration/donald-j-trump/) that [Congress](https://www.congress.gov/) can’t afford to ignore!
 
 - [Congress](https://www.congress.gov/) has abdicated their responsibility
 - [Congress](https://www.congress.gov/) has power of the purse

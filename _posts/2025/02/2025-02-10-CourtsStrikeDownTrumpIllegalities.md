@@ -18,11 +18,9 @@ Feb 10, 2025  #donaldtrump #marytrump #currentevents
 Trump’s latest overreach sparks legal battles—will he ignore the courts? Watch now!
 
 - [US Aid for International Development (USAID)](https://www.usaid.gov/)
-- [Starlink](https://www.starlink.com/)
 - [Ukraine](https://www.gov.ua/)
 - Inspector General (USAID)
 - strategic purge
-- [Tesla](https://www.tesla.com/)
 - [The State Council of the People's Republic of China](https://english.www.gov.cn/)
 - [中国政府网_中央人民政府门户网站](https://www.gov.cn/)
 - [Consumer Finance Protection Bureau (CFPB)](https://www.cfpb.gov/)
@@ -38,7 +36,9 @@ Trump’s latest overreach sparks legal battles—will he ignore the courts? Wat
 - lawsuits
 - [Department of Education (ED)](https://www.ed.gov/)
 - [Stanford University](https://www.stanford.edu/)
-- [California]() Attorney General
+- [California](https://www.ca.gov/) 
+- [California Attorney General](https://oag.ca.gov/)
+- [Attorney General Rob Bonta / State of California - Department of Justice - Office of the Attorney General](https://oag.ca.gov/about)
 - [White House](https://www.whitehouse.gov /)
 - [US Courts](https://www.uscourts.gov/)
 - defy court orders
@@ -46,4 +46,14 @@ Trump’s latest overreach sparks legal battles—will he ignore the courts? Wat
 - Vice President
 - sycophants
 - [Russia](http://government.ru/) war crimes
+- [Elon Musk](https://ir.tesla.com/corporate/elon-musk)
 - [Elon Musk](https://x.com/elonmusk/)
+- [The Boring Company](https://www.boringcompany.com/)
+- [Neuralink](https://neuralink.com/)
+- [SpaceX](https://www.spacex.com/)
+- [Starlink](https://www.starlink.com/)
+- [Tesla](https://www.tesla.com/)
+- [Twitter](https://twitter.com/)
+- [ X ](https://x.com/)
+- [xAI](https://x.ai/)
+

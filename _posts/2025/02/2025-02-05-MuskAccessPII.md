@@ -15,8 +15,8 @@ title: "All Your PII (Personal Identity Information) Are Belong to Us"
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BIOaxR_UHIQ?si=2cJiw6dmjW-SDPGU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Feb 3, 2025  [#ElonMusk](https://x.com/elonmusk/) [#Trump](https://www.whitehouse.gov/) [#Treasury](https://home.treasury.gov/)
-MSNBC’s Lawrence O’Donnell details the worst of [Donald Trump's](https://www.whitehouse.gov/)](https://www.whitehouse.gov/) illegal actions as president that prove “we are not a nation of laws,” including giving [Elon Musk](https://x.com/elonmusk/) the “domestic equivalent of the nuclear codes,” the keys to the [U.S. Treasury](https://home.treasury.gov/).
+Feb 3, 2025  [#ElonMusk](https://ir.tesla.com/corporate/elon-musk) [#Trump](https://www.whitehouse.gov/) [#Treasury](https://home.treasury.gov/)
+MSNBC’s Lawrence O’Donnell details the worst of [Donald Trump's](https://www.whitehouse.gov/)](https://www.whitehouse.gov/) illegal actions as president that prove “we are not a nation of laws,” including giving [Elon Musk](https://ir.tesla.com/corporate/elon-musk) the “domestic equivalent of the nuclear codes,” the keys to the [U.S. Treasury](https://home.treasury.gov/).
 
 All Your PII (Personal Identity Information) Are Belong to Us, is a paraphrase from an old internet meme, All Your Base Are Belong to Us, is an "Engrish" translation of a Japanese video game for a Sega game console: [All your base are belong to us - Wikipedia](https://en.wikipedia.org/wiki/All_your_base_are_belong_to_us)
 

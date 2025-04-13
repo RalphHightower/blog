@@ -30,9 +30,9 @@ That’s an old diktat, usually attributed to an old Latin American dictator. Bu
 
 In a recent development, [Trumpian lawmakers](https://www.gop.com/) have been appealing to [President Donald Trump](https://www.whitehouse.gov/administration/donald-j-trump/) to exempt them and their states from the severe budget cuts mandated by the [Department of Government Efficiency (DOGE)](https://www.doge.gov/). This scenario seems reminiscent of the old saying, *"For my friends, everything. For my enemies, the law."*
 
-The [Trump administration](https://www.whitehouse.gov/), with the assistance of [Elon Musk's](https://x.com/elonmusk/) [DOGE](https://www.doge.gov/), has been aggressively slashing funding for various critical government functions and services, including [flight safety programs](https://www.faa.gov/), [cancer research](https://www.nih.gov/), [bird-flu tracking](https://www.usda.gov/), [food assistance](https://www.fns.usda.gov/usda-food-and-nutrition-service), and [disaster aid](https://www.fema.gov/). However, instead of evaluating the broader implications of these cuts, some [Trumpians](https://www.gop.com/) are more concerned about their personal and regional impacts.
+The [Trump administration](https://www.whitehouse.gov/), with the assistance of [Elon Musk's](https://ir.tesla.com/corporate/elon-musk) [DOGE](https://www.doge.gov/), has been aggressively slashing funding for various critical government functions and services, including [flight safety programs](https://www.faa.gov/), [cancer research](https://www.nih.gov/), [bird-flu tracking](https://www.usda.gov/), [food assistance](https://www.fns.usda.gov/usda-food-and-nutrition-service), and [disaster aid](https://www.fema.gov/). However, instead of evaluating the broader implications of these cuts, some [Trumpians](https://www.gop.com/) are more concerned about their personal and regional impacts.
 
-For instance, [Faux News](https://www.foxnews.com/) anchor [Jesse Watters](https://www.foxnews.com/shows/jesse-watters-primetime) recently pleaded for a friend laid off by [DOGE](https://www.doge.gov/), considering him worthy of his [Pentagon position](https://www.defense.gov/), unlike other federal employees. Meanwhile, [GOP lawmakers](https://www.gop.com/), who have the authority to set [government spending](https://www.congress.gov/), seem hesitant to challenge [Trump](https://www.whitehouse.gov/administration/donald-j-trump/) and [Musk](https://x.com/elonmusk/) directly. Instead, they are seeking special exemptions for their constituencies.
+For instance, [Faux News](https://www.foxnews.com/) anchor [Jesse Watters](https://www.foxnews.com/shows/jesse-watters-primetime) recently pleaded for a friend laid off by [DOGE](https://www.doge.gov/), considering him worthy of his [Pentagon position](https://www.defense.gov/), unlike other federal employees. Meanwhile, [GOP lawmakers](https://www.gop.com/), who have the authority to set [government spending](https://www.congress.gov/), seem hesitant to challenge [Trump](https://www.whitehouse.gov/administration/donald-j-trump/) and [Musk](https://ir.tesla.com/corporate/elon-musk) directly. Instead, they are seeking special exemptions for their constituencies.
 
 [Senator Katie Boyd Britt (T-AL)](https://www.britt.senate.gov/) has publicly supported [Trump's](https://www.whitehouse.gov/administration/donald-j-trump/) [budget-cutting efforts](https://www.whitehouse.gov/presidential-actions/2025/02/implementing-the-presidents-department-of-government-efficiency-cost-efficiency-initiative/), stating that taxpayer money should be spent efficiently and accountably. However, she also lobbied [Health and Human Services](https://www.hhs.gov/) [Secretary Robert F. Kennedy Jr.](https://www.hhs.gov/about/leadership/robert-kennedy.html) for an exemption to protect funding for the [University of Alabama at Birmingham](https://www.uab.edu/home/) and other institutions in her [state](https://www.alabama.gov/).
 
@@ -49,8 +49,9 @@ In summary, while [Trumpians](https://www.gop.com/) generally support budget cut
 - [Washington Post](https://www.washingtonpost.com, /)
 - [Faux News](https://www.foxnews.com/)
 - [Jesse Watters](https://www.foxnews.com/shows/jesse-watters-primetime)
+- [Elon Musk](https://ir.tesla.com/corporate/elon-musk)
 - [Elon Musk](https://x.com/elonmusk/)
-- [Boring](https://www.boringcompany.com/)
+- [The Boring Company](https://www.boringcompany.com/)
 - [Neuralink](https://neuralink.com/)
 - [SpaceX](https://www.spacex.com/)
 - [Starlink](https://www.starlink.com/)

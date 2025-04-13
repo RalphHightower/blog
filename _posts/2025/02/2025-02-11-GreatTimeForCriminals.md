@@ -24,7 +24,7 @@ title: "It's a Great Time to be a Corporate Criminal. No FBI Agents for White Co
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/or84vPSj5xA?si=Ax-yuZqp9rB2yXMA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Feb 11, 2025  [#trump]() #pardons [#msnbc](https://www.msnbc.com/))
+Feb 11, 2025  [#trump](https://www.donaldjtrump.com/) #pardons [#msnbc](https://www.msnbc.com/)
 [President Trump](https://www.whitehouse.gov/) is pardoning officials charged with corruption and is halting a law banning bribery of foreign officials. [NBC News](https://www.nbcnews.com/) correspondent Ken Dilanian, [MSNBC](https://www.msnbc.com/) legal correspondent Lisa Rubin, The City reporter Katie Honan and former [FBI](https://www.fbi.gov/) general counsel Andrew Weissmann join Katy Tur to discuss.
 
 - Whistleblowers protection act gone 

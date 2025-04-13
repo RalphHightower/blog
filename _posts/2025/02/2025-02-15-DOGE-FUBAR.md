@@ -19,15 +19,15 @@ Feb 15, 2025  #MSNBC [#DOGE](https://doge.gov/) #ElonMusk
 Rachel Maddow looks at a series of unforced errors by Elon Musk and the [DOGE](https://doge.gov/) team that calls into question the accuracy of their "tech genius" image and whether they have the competence to tinker with the systems that run the federal government.
 
 - [MSNBC](https://www.msnbc.com/)
-- [Department of Government Efficiency (DOGE)](https://doge.gov/)
 - [Internal Revenue Service (IRS)](https://www.irs.gov/)
 - [National Nuclear Security Administration (NNAA)](https://www.energy.gov/nnsa/national-nuclear-security-administration)
 - [National Reconnaissance Office (NRO)](https://www.nro.gov/)
 - [Social Security Administration (SSA)](https://www.ssa.gov/)
 - [President Of The United States (POTUS)](https://www.whitehouse.gov/)
 - [White House (WH](https://www.whitehouse.gov/)
+- [Elon Musk](https://ir.tesla.com/corporate/elon-musk)
 - [Elon Musk](https://x.com/elonmusk/)
-- [Boring](https://www.boringcompany.com/)
+- [The Boring Company](https://www.boringcompany.com/)
 - [Neuralink](https://neuralink.com/)
 - [SpaceX](https://www.spacex.com/)
 - [Starlink](https://www.starlink.com/)

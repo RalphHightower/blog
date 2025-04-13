@@ -16,7 +16,7 @@ title: "Trump Loses Control of His Cult. DOGE (DOUCHE) Fails (ABEND). Trumpians 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/x4_aUpS7KaU?si=Qck4rh-s1PVpdoTI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Feb 26, 2025  #marytrump [#trumpcabinet](https://www.whitehouse.gov/) [#donaldtrump](https://www.whitehouse.gov/administration/donald-j-trump/)
-[Trump’s](https://www.whitehouse.gov/administration/donald-j-trump/) sham agency-[DOGE](https://www.doge.gov/), led by [Musk](https://x.com/elonmusk/), is spiraling into chaos. Mass firings, AI-driven layoffs, and fake savings claims are backfiring as furious [GOP](https://www.gop.com/) lawmakers scramble for answers. Public outrage is exploding, and [Republicans](https://www.gop.com/) are losing control. The MAGA power grab is crumbling—watch it all unfold!
+[Trump’s](https://www.whitehouse.gov/administration/donald-j-trump/) sham agency-[DOGE](https://www.doge.gov/), led by [Musk](https://ir.tesla.com/corporate/elon-musk), is spiraling into chaos. Mass firings, AI-driven layoffs, and fake savings claims are backfiring as furious [GOP](https://www.gop.com/) lawmakers scramble for answers. Public outrage is exploding, and [Republicans](https://www.gop.com/) are losing control. The MAGA power grab is crumbling—watch it all unfold!
 - [DOGE](https://www.doge.gov/) cutting waste with no evidence
 - wall of receipts accounting errors
 - contract cancellations yield no savings
@@ -33,8 +33,9 @@ Feb 26, 2025  #marytrump [#trumpcabinet](https://www.whitehouse.gov/) [#donaldtr
 - [House of Representatives](https://www.house.gov/)
 - Town halls
 - [Department of Government Efficiency (DOGE)](https://doge.gov/)
+- [Elon Musk](https://ir.tesla.com/corporate/elon-musk)
 - [Elon Musk](https://x.com/elonmusk/)
-- [Boring](https://www.boringcompany.com/)
+- [The Boring Company](https://www.boringcompany.com/)
 - [Neuralink](https://neuralink.com/)
 - [SpaceX](https://www.spacex.com/)
 - [Starlink](https://www.starlink.com/)

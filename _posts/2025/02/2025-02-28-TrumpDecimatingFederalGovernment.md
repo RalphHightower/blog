@@ -116,7 +116,7 @@ Employees who do not wish to undergo the restructuring process may elect to sepa
 
 ### OPTIONAL RETIREMENT
 
-Employees who have reached their full retirement age may apply for optional retirement at any time. Employees serving under the [Federal Employees Retirement System (FERS)]() should see the [OPM]() eligibility information for [FERS](), which is generally 30 years of service, plus reaching minimum retirement age. Employees serving under the [Civil Service Retirement System (CSRS)]() should refer to the [OPM]() eligibility information for [CSRS](), which is generally 30 years of service and age 55. Additional provisions and options are available for both [FERS]() and [CSRS]().
+Employees who have reached their full retirement age may apply for optional retirement at any time. Employees serving under the Federal Employees Retirement System (FERS) should see the [OPM](https://www.opm.gov/) eligibility information for FERS, which is generally 30 years of service, plus reaching minimum retirement age. Employees serving under the Civil Service Retirement System (CSRS) should refer to the [OPM](https://www.opm.gov/) eligibility information for CSRS, which is generally 30 years of service and age 55. Additional provisions and options are available for both FERS and CSRS.
 
 ### RESIGNATION
 
@@ -136,8 +136,9 @@ To get more [Social Security](https://www.ssa.gov/) news, follow the Press Offic
 - [President Of The United States (POTUS)](https://www.whitehouse.gov/)
 - [President Donald J. Trump](https://www.whitehouse.gov/administration/donald-j-trump/)
 - [Department of Government Efficiency (DOGE)](https://www.doge.gov/)
+- [Elon Musk](https://ir.tesla.com/corporate/elon-musk)
 - [Elon Musk](https://x.com/elonmusk/)
-- [Boring](https://www.boringcompany.com/)
+- [The Boring Company](https://www.boringcompany.com/)
 - [Neuralink](https://neuralink.com/)
 - [SpaceX](https://www.spacex.com/)
 - [Starlink](https://www.starlink.com/)
