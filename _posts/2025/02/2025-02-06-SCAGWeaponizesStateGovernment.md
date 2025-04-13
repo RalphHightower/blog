@@ -27,7 +27,7 @@ FEB 05, 2025
 
 “[President Biden's](bidenwhitehouse.archives.gov) blanket pardon of Dr. Fauci is a shameful attempt to prevent accountability,” said [Attorney General Wilson](https://www.scag.gov/about-the-office/meet-the-attorney-general/). “If any of these findings indicate violations of state laws, we are fully prepared to take appropriate action to ensure justice is served.”
 
-The letter follows the release of the [House Select Subcommittee on the Coronavirus Pandemic]()’s final report, which details widespread failures and potential misconduct by high-ranking government officials, including Dr. Fauci. The report highlights misleading public statements regarding COVID-19’s origins, mismanagement of [National Institutes of Health (NIH)](https://www.nih.gov/) funding, and efforts to suppress scientific discussions about vaccine risks.
+The letter follows the release of the [House Select Subcommittee on the Coronavirus Pandemic](https://oversight.house.gov/category/select-subcommittee-coronavirus-pandemic/)’s final report, which details widespread failures and potential misconduct by high-ranking government officials, including Dr. Fauci. The report highlights misleading public statements regarding COVID-19’s origins, mismanagement of [National Institutes of Health (NIH)](https://www.nih.gov/) funding, and efforts to suppress scientific discussions about vaccine risks.
 
 Key Findings from the [Congressional](https://www.congress.gov/) Report:
 
@@ -46,7 +46,7 @@ Signatories to the Letter Include:
 - John Guard, [Acting Attorney General](https://www.myfloridalegal.com/) of [Florida](https://www.myflorida.com/)
 - [Liz Murrill](https://ag.louisiana.gov/About), [Attorney General](https://ag.louisiana.gov/) of [Louisiana](https://www.louisiana.gov/)
 - [Ken Paxton](https://www.texasattorneygeneral.gov/about-office), [Attorney General](https://www.texasattorneygeneral.gov/) of [Texas](https://www.texas.gov/)
-- [Steve Marshall](https://www.alabamaag.gov/about/), [Attorney General]() of [Alabama](https://www.alabama.gov/)
+- [Steve Marshall](https://www.alabamaag.gov/about/), [Attorney General](https://www.alabamaag.gov/) of [Alabama](https://www.alabama.gov/)
 - [Raúl Labrador](https://www.ag.idaho.gov/about/), [Attorney General](https://www.ag.idaho.gov/) of [Idaho](https://www.idaho.gov/)
 - [Drew Wrigley](https://attorneygeneral.nd.gov/attorney-generals-office/), [Attorney General](https://attorneygeneral.nd.gov/) of [North Dakota](https://www.nd.gov/)
 - [Derek E. Brown](https://attorneygeneral.utah.gov/staff/derek-brown/), [Attorney General](https://attorneygeneral.utah.gov/) of [Utah](https://www.utah.gov/)

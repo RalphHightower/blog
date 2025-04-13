@@ -25,7 +25,7 @@ Story by Jason Ma. March 3, 2025
 
 - Former [Social Security](https://Www.ssa.gov/) Commissioner Martin O'Malley, who headed the agency during the [Biden administration](https://bidenwhitehouse.archives.gov), urged people to start saving money now because benefits could be interrupted in the next one to three months. He told [CNBC](https://www.cnbc.com/) that changes [DOGE](https://www.doge.gov/) is making to the agency have already caused IT system outages, which he predicted will become more frequent until there is a "system collapse."
 
-The [federal government](https://www.usa.gov/) has never failed to deliver Social Security payments on time, but a former commissioner warned that could happen soon as [Elon Musk's](https://x.com/elonmusk/) [Department of Government Efficiency](https://www.doge.gov/) makes changes and cuts staff.
+The [federal government](https://www.usa.gov/) has never failed to deliver Social Security payments on time, but a former commissioner warned that could happen soon as [Elon Musk's](https://ir.tesla.com/corporate/elon-musk) [Department of Government Efficiency](https://www.doge.gov/) makes changes and cuts staff.
 
 Martin O'Malley, who led the agency during the [Biden administration](https://bidenwhitehouse.archives.gov), [told CNBC](https://www.cnbc.com/2025/03/01/doge-actions-may-cause-social-security-benefit-interruption-ex-agency-head.html) on Saturday that cuts have already led to IT outages, which he predicted will become more frequent and last longer each time until there's a total failure.
 
@@ -57,7 +57,7 @@ That's because claims for [Social Security](https://Www.ssa.gov/) disability pay
 
 "It’s not obvious to me where the choke point will be," Blahous said in an email. "If the reduced staff err on the side of making sure all claims are processed, improper payments will likely rise. If instead the reduced staff prioritizes preventing improper payments, the risk of processing delays would increase."
 
-[Musk](https://x.com/elonmusk/) had previous sparked concern about his plans for the safety net after he said tens of millions of dead Americans are receiving [Social Security](https://Www.ssa.gov/) checks—a claim [the Associated Press debunked](https://apnews.com/article/social-security-payments-deceased-false-claims-doge-ed2885f5769f368853ac3615b4852cf7#).
+[Musk](https://ir.tesla.com/corporate/elon-musk) had previous sparked concern about his plans for the safety net after he said tens of millions of dead Americans are receiving [Social Security](https://Www.ssa.gov/) checks—a claim [the Associated Press debunked](https://apnews.com/article/social-security-payments-deceased-false-claims-doge-ed2885f5769f368853ac3615b4852cf7#).
 
 And on Friday, he added to fears when he called [Social Security](https://Www.ssa.gov/) a "Ponzi scheme" and described the federal government as "one big pyramid scheme."
 
@@ -72,8 +72,9 @@ It predicted that the [Social Security](https://Www.ssa.gov/) Board of Trustees 
 - [Mercatus Center](https://www.mercatus.org/home)
 - [Charles Blahous](https://www.mercatus.org/scholars/charles-blahous)
 - [Committee for a Responsible Federal Budget](https://www.crfb.org/)
+- [Elon Musk](https://ir.tesla.com/corporate/elon-musk)
 - [Elon Musk](https://x.com/elonmusk/)
-- [Boring](https://www.boringcompany.com/)
+- [The Boring Company](https://www.boringcompany.com/)
 - [Neuralink](https://neuralink.com/)
 - [SpaceX](https://www.spacex.com/)
 - [Starlink](https://www.starlink.com/)

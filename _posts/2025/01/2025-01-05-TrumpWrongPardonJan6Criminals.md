@@ -44,3 +44,6 @@ Donald Trump is guilty of inciting an insurrection to occur on January 6, 2921 w
 Dec 8, 2024 #trumpadministration #trump #politics
 President-elect Donald Trump sits down with Kristen Welker for an exclusive and wide-ranging interview on Meet the Press.
 
+- [Peter Navarro](https://www.linkedin.com/in/peter-navarro-93167122/)
+
+

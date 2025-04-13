@@ -16,7 +16,7 @@ title: "Trump’s Egg-Plosion 💣! & Musk’s Starship Kablooie!"
 
 Mar 8, 2025  [#donaldtrump](https://www.whitehouse.gov/administration/donald-j-trump/) #marytrump #currentevents
 Subscribe here:    / @marytrumpmedia
-[Musk’s](https://x.com/elonmusk/) rocket explodes while [Trump’s](https://www.whitehouse.gov/administration/donald-j-trump/) egg price “solution” is raising backyard chickens. Their incompetence is on full display—watch the humiliation unfold!
+[Musk’s](https://ir.tesla.com/corporate/elon-musk) rocket explodes while [Trump’s](https://www.whitehouse.gov/administration/donald-j-trump/) egg price “solution” is raising backyard chickens. Their incompetence is on full display—watch the humiliation unfold!
 - backyard chicken [usda](https://www.usda.gov/) [Brooke Rollins](https://www.usda.gov/our-agency/about-usda/our-secretary) suggestion
 - bird flu requires culling flocks
 - [Donald](https://www.whitehouse.gov/administration/donald-j-trump/) poultry expert: blame [Joe biden](https://bidenwhitehouse.archives.gov/)
@@ -24,15 +24,16 @@ Subscribe here:    / @marytrumpmedia
 - [Canadian](https://www.canada.ca/) stores removing US products
 - $8M Transgenic mice (modified to human disease) not transgender mice
 - [DOD](https://www.defense.gov/) erased Enola Gay
-- people telling [Musk](https://x.com/elonmusk/) to go back where he came from.
-- #47 said days of unelected bureaucrats is over. [Musk](https://x.com/elonmusk/) is an unelected bureaucrat.
-- [Raskin](): better to bring popsicle sticks and paper than steel pipes and Confederate flags
+- people telling [Musk](https://ir.tesla.com/corporate/elon-musk) to go back where he came from.
+- #47 said days of unelected bureaucrats is over. [Musk](https://ir.tesla.com/corporate/elon-musk) is an unelected bureaucrat.
+- [Raskin](https://raskin.house.gov/): better to bring popsicle sticks and paper than steel pipes and Confederate flags
 - Boeing Starliner. [Trump](https://www.whitehouse.gov/administration/donald-j-trump/): [Biden](https://bidenwhitehouse.archives.gov/) stranded astronauts in space
-- [Trump](https://www.whitehouse.gov/administration/donald-j-trump/) biggest fail of the week: [Elon Musk](https://x.com/elonmusk/) [rapid uncontrolled disassembly](https://www.spacex.com/). (Explosion)
+- [Trump](https://www.whitehouse.gov/administration/donald-j-trump/) biggest fail of the week: [Elon Musk](https://ir.tesla.com/corporate/elon-musk) [rapid uncontrolled disassembly](https://www.spacex.com/). (Explosion)
 - [FAA](https://www.faa.gov/) had to issue ground stop
 
+- [Elon Musk](https://ir.tesla.com/corporate/elon-musk)
 - [Elon Musk](https://x.com/elonmusk/)
-- [Boring](https://www.boringcompany.com/)
+- [The Boring Company](https://www.boringcompany.com/)
 - [Neuralink](https://neuralink.com/)
 - [SpaceX](https://www.spacex.com/)
 - [Starlink](https://www.starlink.com/)
@@ -41,7 +42,7 @@ Subscribe here:    / @marytrumpmedia
 - [ X ](https://x.com/)
 - [xAI](https://x.ai/)
 - [Federal Aviation Administration (FAA)](https://www.faa.gov/)
-- [US Department of Agriculture  (FAA)](https://www.usda.gov/)
+- [US Department of Agriculture  (USDA)](https://www.usda.gov/)
 - [Congress](https://www.congress.gov/)
 - [House of Representatives (House)](https://www.house.gov/)
 - [Jamie Raskin (D-MD8)](https://raskin.house.gov/)

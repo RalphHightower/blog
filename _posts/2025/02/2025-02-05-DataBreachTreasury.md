@@ -18,7 +18,7 @@ title: "Massive Data Breach In Treasury. Millions of Personal Identifiable Infor
 Opinion
 Natasha Sarin. February 5, 2025
 
-- The article criticizes [Elon Musk's](https://x.com/elonmusk/) access to the [Treasury’s](https://www.tresuary.gov/) payment system, arguing there's no legitimate reason for it.
+- The article criticizes [Elon Musk's](https://ir.tesla.com/corporate/elon-musk) access to the [Treasury’s](https://www.tresuary.gov/) payment system, arguing there's no legitimate reason for it.
 - David A. Lebryk, former acting Treasury Secretary, retired unexpectedly after a conflict with the [Department of Government Efficiency (DOGE)](https://doge.com/) team, which Musk leads.
 - The [Bureau of the Fiscal Service](http://www.fiscal.treasury.gov/), which manages federal payments, has access to sensitive information like [Social Security](https://www.ssa.gov/) numbers and bank account details.
 - The [DOGE](https://doge.com/) team was granted access to the payment system to identify fraudulent and wasteful spending, although they lack experience in handling such sensitive data.

@@ -32,8 +32,9 @@ Story by Naomi LaChance. February 20, 2025
 ----
 
 - [Department of Government Efficiency (DOGE)](https://www.doge.gov/)
+- [Elon Musk](https://ir.tesla.com/corporate/elon-musk)
 - [Elon Musk](https://x.com/elonmusk/)
-- [Boring](https://www.boringcompany.com/)
+- [The Boring Company](https://www.boringcompany.com/)
 - [Neuralink](https://neuralink.com/)
 - [SpaceX](https://www.spacex.com/)
 - [Starlink](https://www.starlink.com/)

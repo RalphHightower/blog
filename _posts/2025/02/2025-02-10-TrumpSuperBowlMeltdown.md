@@ -18,14 +18,19 @@ title: "Trump’s Super Bowl Meltdown"
 Feb 10, 2025  #donaldtrump #marytrump #currentevents
 Trump thought he could control the narrative, but his Super Bowl interviews were a disaster. Lies, panic, and total humiliation—watch it all unfold!
 
-- [Department of Government Efficiency (DOGE)](https://www.doge gov/)
 - [Treasury](https://home.treasury.gov/)
 - data breach
 - personal identifiable information (PII)
+- [Elon Musk](https://ir.tesla.com/corporate/elon-musk)
 - [Elon Musk](https://x.com/elonmusk/)
+- [The Boring Company](https://www.boringcompany.com/)
+- [Neuralink](https://neuralink.com/)
+- [SpaceX](https://www.spacex.com/)
 - [Starlink](https://www.starlink.com/)
-- [SpaceX](https://https;//www.spacex.com/)
 - [Tesla](https://www.tesla.com/)
+- [Twitter](https://twitter.com/)
+- [ X ](https://x.com/)
+- [xAI](https://x.ai/)
 - [Department of Education (ED)](https://www.ed.gov/)
 - [US Aid for International Development (USAID)](https://www.usaid.gov/)
 - [Department of Defense](https://www.defense.gov/)

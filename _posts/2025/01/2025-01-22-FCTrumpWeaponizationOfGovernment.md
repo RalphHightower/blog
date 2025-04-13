@@ -25,7 +25,7 @@ If Trump's second term choice for [Attorney General](https://www.justice.gov/), 
 
 [^31]: [jurisprudence • Merriam-Webster](http://www.merriam-webster.com/dictionary/jurisprudence)</br >Definition</br >1: the science or philosophy of law</br >2a: a system or body of law</br >2b: the course of court decisions as distinguished from legislation and doctrine</br >3: a department of law
 
-Trump has promised, leading up to his second presidency, that he would persecute[^41] Liz Cheney (R-WY) and other members of the January 6 committee. He even called American citizens, the *“enemy within”*.
+Trump has promised, leading up to his second presidency, that he would persecute[^41] [Liz Cheney (R-WY)](https://www.congress.gov/member/liz-cheney/C001109) and other members of the January 6 committee. He even called American citizens, the *“enemy within”*.
 
 [^41]: [Prosecuted vs. Persecuted: What's the Difference? / Merriam-Webster](https://www.merriam-webster.com/grammar/prosecuted-vs-persecuted-usage): **One you do in court, the other you do if you're a jerk.**
 
@@ -89,3 +89,5 @@ Sec. 4.  General Provisions.
 THE [WHITE HOUSE](https://www.whitehouse.gov/),
 
 January 20, 2025.
+
+- [Liz Cheney (R-WY)](https://www.congress.gov/member/liz-cheney/C001109)

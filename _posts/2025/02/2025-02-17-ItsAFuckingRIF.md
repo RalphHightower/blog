@@ -197,8 +197,9 @@ February 11, 2025.
 - [Department of Government Efficiency (DOGE)](https;//doge.gov/)
 - [President Of The United States (POTUS)](https://www.whitehouse.gov)
 - [White House (WH)](https://www.whitehouse.gov/)
+- [Elon Musk](https://ir.tesla.com/corporate/elon-musk)
 - [Elon Musk](https://x.com/elonmusk/)
-- [Boring](https://www.boringcompany.com/)
+- [The Boring Company](https://www.boringcompany.com/)
 - [Neuralink](https://neuralink.com/)
 - [SpaceX](https://www.spacex.com/)
 - [Starlink](https://www.starlink.com/)
@@ -206,3 +207,4 @@ February 11, 2025.
 - [Twitter](https://twitter.com/)
 - [ X ](https://x.com/)
 - [xAI](https://x.ai/)
+

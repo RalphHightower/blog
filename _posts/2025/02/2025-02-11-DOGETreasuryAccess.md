@@ -18,8 +18,16 @@ title: "Unvetted DOGE Employees Accessing Treasury Payment System Is a Serious S
 Feb 10, 2025
 [Elon Musk's](https://x.com///elonmusk/) access to the [Treasury's](https://home.treasury.gov/) [payment system](http://www.fiscal.treasury.gov/) is raising concerns about federal funding and personal data. Major Garrett speaks to a former Treasury employee about the role of the agency and the sensitive data it handles.
 
+- [Elon Musk](https://ir.tesla.com/corporate/elon-musk)
 - [Elon Musk](https://x.com/elonmusk/)
-- [Department of Government Efficiency (DOGE)](https://doge.gov/)
+- [The Boring Company](https://www.boringcompany.com/)
+- [Neuralink](https://neuralink.com/)
+- [SpaceX](https://www.spacex.com/)
+- [Starlink](https://www.starlink.com/)
+- [Tesla](https://www.tesla.com/)
+- [Twitter](https://twitter.com/)
+- [ X ](https://x.com/)
+- [xAI](https://x.ai/)
 - [Treasury](https://home.treasury.gov/)
 - [Bureau of the Fiscal Service (BFS)](http://www.fiscal.treasury.gov/)
 - [White House](https://www.whitehouse.gov/)

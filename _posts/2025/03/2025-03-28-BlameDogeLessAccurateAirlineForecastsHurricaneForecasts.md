@@ -76,7 +76,7 @@ Or as [Tom Di Liberto](https://www.linkedin.com/in/thomasdiliberto), a former pu
 
 Staffers affected by the terminations weren't just at [NOAA](https://www.noaa.gov/)'s headquarters in Maryland; they were stationed in regional offices across the country.
 
-One office in [Alaska](https://www.weather.gov/afc/) stopped launching daily weather balloons to collect data for forecasts, [Larry Hubble](https://www.linkedin.com/in/larry-hubble-0a063568/), an upper air program manager in the state, said. On March 20, the [National Weather Service](https://www.weather.gov/) temporarily suspended weather balloon launches at offices in [Nebraska]() and [South Dakota](), while seven other sites are scaling back to one launch a day instead of two because of staffing shortages.
+One office in [Alaska](https://www.weather.gov/afc/) stopped launching daily weather balloons to collect data for forecasts, [Larry Hubble](https://www.linkedin.com/in/larry-hubble-0a063568/), an upper air program manager in the state, said. On March 20, the [National Weather Service](https://www.weather.gov/) temporarily suspended weather balloon launches at offices in [Nebraska](https://www.nebraska.gov/) and [South Dakota](https://www.sd.gov/), while seven other sites are scaling back to one launch a day instead of two because of staffing shortages.
 
 Other instruments, like radars on commercial aircraft and satellites, also collect data. The [NWS](https://www.weather.gov/) employee of more than a decade said that balloons are one of the [most accurate methods](https://www.weather.gov/gjt/education_corner_balloon) of weather measurement, and if they're scaled back, "they're going to start seeing the degradation of the models and the forecast is going to lose its accuracy."
 
@@ -114,6 +114,7 @@ Additional reporting by Juliana Kaplan.
 - [Airline Dispatchers Federation - ADF](https://www.dispatcher.org/)
 - [American Meteorological Society](https://www.ametsoc.org/AMS/)
 - [National Weather Service Employees Organization](https://www.nwseo.org/) - National Weather Service Employees Organization (NWSEO) is a union that represents the National Weather Service, as well as NOAA's Office of Satellite & Product Operations, Office of General Counsel, Aircraft Operations Center, and Atlantic Oceanographic & Meteorological Laboratory.
+- [Elon Musk](https://ir.tesla.com/corporate/elon-musk)
 - [Elon Musk](https://x.com/elonmusk/)
 - [The Boring Company](https://www.boringcompany.com/)
 - [Neuralink](https://neuralink.com/)

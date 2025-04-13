@@ -17,7 +17,7 @@ Story by Tom Boggioni February 26, 2025
 
 The budget deal that was passed late Tuesday by the [Trumpian](https://www.gop.com/)-controlled [House](https://www.house.gov/) with the slimmest of margins could be the beginning of the end for the [Trumpian](https://www.gop.com/) party, an analyst told MSNBC Wednesday.
 
-Speaking with host Joe Scarborough, Puck's John Heilemann said the combination of budget cuts, in addition to [Elon Musk's](https://x.com/elonmusk/) [DOGE](https://doge.gov/) efforts to destroy government programs, will push voters — including [Trumpians](https://www.gop.com/) —[over the edge.](https://www.rawstory.com/republicans-disaster-in-the-making/?).
+Speaking with host Joe Scarborough, Puck's John Heilemann said the combination of budget cuts, in addition to [Elon Musk's](https://ir.tesla.com/corporate/elon-musk) [DOGE](https://doge.gov/) efforts to destroy government programs, will push voters — including [Trumpians](https://www.gop.com/) —[over the edge.](https://www.rawstory.com/republicans-disaster-in-the-making/?).
 
 "They're walking into a political buzzsaw here where if they think that the pushback they've seen so far [at these town halls](https://www.rawstory.com/mccormick-doge-georgia/) has been problematic, and it has been so bad that they're shutting them down, you can't imagine what they're about to hit," he told the "Morning Joe" host.
 
@@ -27,10 +27,10 @@ Speaking with host Joe Scarborough, Puck's John Heilemann said the combination o
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/URWRfcGBAE8?si=klzNDJ1pbesDJA7R" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Feb 21, 2025  [#elonmusk](https://x.com/elonmusk/) [#washingtonexaminer](https://www.washingtonexaminer.com/) [#doge](https://doge.gov/)
-[#washingtonexaminer](https://www.washingtonexaminer.com/) [#georgia](https://www.georgia.gov/) [#richmccormick](https://mccormick.house.gov/) #townhall [#mccormick](https://mccormick.house.gov/) [#doge](https://doge.gov/) [#elonmusk](https://x.com/elonmusk/) [#congress](https://www.congress.gov=)
+Feb 21, 2025  [#elonmusk](https://ir.tesla.com/corporate/elon-musk) [#washingtonexaminer](https://www.washingtonexaminer.com/) [#doge](https://doge.gov/)
+[#washingtonexaminer](https://www.washingtonexaminer.com/) [#georgia](https://www.georgia.gov/) [#richmccormick](https://mccormick.house.gov/) #townhall [#mccormick](https://mccormick.house.gov/) [#doge](https://doge.gov/) [#elonmusk](https://ir.tesla.com/corporate/elon-musk) [#congress](https://www.congress.gov=)
 
-A town hall full of [Georgia](https://www.georgia.gov/) residents expressed outrage against [Rep. Rich McCormick (T-GA7](https://mccormick.house.gov/) for supporting [President Donald Trump](https://www.whitehouse.gov/administration/donald-j-trump/) and [Elon Musk’s](https://x.com/elonmusk/) [Department of Government Efficiency](https://doge.gov/). 
+A town hall full of [Georgia](https://www.georgia.gov/) residents expressed outrage against [Rep. Rich McCormick (T-GA7](https://mccormick.house.gov/) for supporting [President Donald Trump](https://www.whitehouse.gov/administration/donald-j-trump/) and [Elon Musk’s](https://ir.tesla.com/corporate/elon-musk) [Department of Government Efficiency](https://doge.gov/). 
 
 [McCormick](https://mccormick.house.gov/), who represents [Georgia’s](https://www.georgia.gov/) 6th congressional District[^33], gathered with hundreds of constituents during a town hall meeting Thursday evening. 
 
@@ -75,6 +75,7 @@ In [Congress](https://www.congress.gov/), [Rich](https://mccormick.house.gov/) s
 - [President of the United States (POTUS)](https://www.whitehouse.gov/)
 - [White House (WH)](https://www.whitehouse.gov/)
 - [Department of Government Efficiency (DOGE)](https://doge.gov/)
+- [Elon Musk](https://ir.tesla.com/corporate/elon-musk)
 [Elon Musk](https://x.com/elonmusk/)
 - [Boring](https://www.boringcompany.com/)
 - [Neuralink](https://neuralink.com/)

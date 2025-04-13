@@ -53,7 +53,7 @@ Investigating and prosecuting current and former members of [Congress](https://w
 - Alvin Bragg
 - Andrew Weissmann
 - Hillary Clinton
-- Elizabeth Cheney
+- [Liz Cheney (R-WY)](https://www.congress.gov/member/liz-cheney/C001109)
 - Kamala Harris
 - Adam Kinzinger
 - Fiona Hill

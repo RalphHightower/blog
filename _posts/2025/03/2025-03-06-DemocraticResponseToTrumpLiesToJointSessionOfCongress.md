@@ -17,7 +17,7 @@ title: "Senator Elissa Slotkin (D-MI) Response to Long Winded Endless Stream of 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ls8GhqCRr5U?si=A01ApZ12apP9z7mj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Mar 4, 2025  #13 on Trending
-[Michigan](https://www.michigan.gov/) [Sen. Elissa Slotkin](https://www.slotkin.senate.gov/) delivers [Democratic]() response to [Trump's](https://www.whitehouse.gov/administration/donald-j-trump/) address to [Congress](https://www.congress.gov/)
+[Michigan](https://www.michigan.gov/) [Sen. Elissa Slotkin](https://www.slotkin.senate.gov/) delivers [Democratic](https://www.democrats.org/) response to [Trump's](https://www.whitehouse.gov/administration/donald-j-trump/) address to [Congress](https://www.congress.gov/)
 [#trump](https://www.whitehouse.gov/administration/donald-j-trump/) #politics #fyp #live #news 
 https://6abc.com/live-updates/trump
 

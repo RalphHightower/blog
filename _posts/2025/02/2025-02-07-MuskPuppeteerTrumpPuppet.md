@@ -16,7 +16,7 @@ title: "Puppeteer Elon Musk Is Pulling Donald Trump's Strings, Thereby Controlli
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LWk2sPyHorQ?si=KuTAAVuY6mll7Jpd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Feb 7, 2025  #marytrump [#trumpcabinet](https://www.whitehouse.gov/) [#donaldtrump](https://www.whitehouse.gov/)
-[Elon Musk](https://x.com/elonmusk/) is pulling the strings behind [Trump’s government](https://www.whitehouse.gov/), gaining access to U.S. agencies and the [Treasury](). His unelected tech bros now control federal policy, between their racist tweeting. 
+[Elon Musk](https://ir.tesla.com/corporate/elon-musk) is pulling the strings behind [Trump’s government](https://www.whitehouse.gov/), gaining access to U.S. agencies and the [Treasury](https://home.treasury.gov/). His unelected tech bros now control federal policy, between their racist tweeting. 
 
 - [Treasury](https://home.treasury.gov/)
 - [Bureau of the Fiscal Service (BFS)](http://www.fiscal.treasury.gov/)

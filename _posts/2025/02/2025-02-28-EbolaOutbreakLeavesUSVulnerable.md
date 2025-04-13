@@ -16,8 +16,8 @@ title: "Musk's Slash and Burn 🔥 of Federal Government Leaves US Exposed to Eb
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Mk9igZMaER4?si=lJ7VyC1L0nP2_K-z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Feb 27, 2025  [#USAID](https://www.usaid.gov/) [#ElonMusk](https://x.com/elonmusk/) #Ebola
-[Elon Musk](https://x.com/elonmusk/), [Donald Trump's](https://www.whitehouse.gov/administration/donald-j-trump/) top campaign contributor, made a lighthearted joke about his federal workforce cuts damaging the [U.S.](https://www.usa.gov/) ability to guard against an Ebola outbreak. Despite [Musk's](https://x.com/elonmusk/) assurances that any damage done was quickly remedied, experts insist the cuts continue to leave the [U.S.](https://www.usa.gov/) unprepared. Dr. Craig Spencer, an emergency room doctor and Ebola survivor, talks with Rachel Maddow about what [Musk's](https://x.com/elonmusk/) cut have really done.
+Feb 27, 2025  [#USAID](https://www.usaid.gov/) [#ElonMusk](https://ir.tesla.com/corporate/elon-musk) #Ebola
+[Elon Musk](https://ir.tesla.com/corporate/elon-musk), [Donald Trump's](https://www.whitehouse.gov/administration/donald-j-trump/) top campaign contributor, made a lighthearted joke about his federal workforce cuts damaging the [U.S.](https://www.usa.gov/) ability to guard against an Ebola outbreak. Despite [Musk's](https://ir.tesla.com/corporate/elon-musk) assurances that any damage done was quickly remedied, experts insist the cuts continue to leave the [U.S.](https://www.usa.gov/) unprepared. Dr. Craig Spencer, an emergency room doctor and Ebola survivor, talks with Rachel Maddow about what [Musk's](https://ir.tesla.com/corporate/elon-musk) cut have really done.
 - ebola prevention support hobbled 
 - no Ebola US team sent to Africa 
 - no comms with [WHO](https://www.who.int)
@@ -28,8 +28,9 @@ Feb 27, 2025  [#USAID](https://www.usaid.gov/) [#ElonMusk](https://x.com/elonmus
 - [Centers  for Disease Control (CDC)](https://cmwww.cdc.gov/)
 - [Withdrawing The United States From The World Health Organization](https://www.whitehouse.gov/presidential-actions/2025/01/withdrawing-the-united-states-from-the-worldhealth-organization/)
 - [World Health Organization (WHO)](https://www.who.int/)
+- [Elon Musk](https://ir.tesla.com/corporate/elon-musk)
 - [Elon Musk](https://x.com/elonmusk/)
-- [Boring](https://www.boringcompany.com/)
+- [The Boring Company](https://www.boringcompany.com/)
 - [Neuralink](https://neuralink.com/)
 - [SpaceX](https://www.spacex.com/)
 - [Starlink](https://www.starlink.com/)

@@ -18,7 +18,7 @@ Updated 10:11 PM EST, February 21, 2025
 
 The [Associated Press](https://www.apnews.com/) sued [three Trump administration officials](https://www.whitehouse.gov/) Friday over access to presidential events, citing freedom of speech in asking a federal judge to stop [the blocking of its journalists](https://apnews.com/article/trump-ap-journalism-first-amendment-8a83d8b506053249598e807f8e91e1ae). “We’ll see them in court,” the [White House](https://www.whitehouse.gov/) press secretary said in response.
 
-The lawsuit was filed Friday afternoon in [U.S. District Court](https://www.dcd.uscourts.gov/) in [Washington, D.C.](), 10 days after the [White House](https://www.whitehouse.gov/) began restricting access to the news agency. It was assigned to [U.S. District Judge Trevor McFadden](https://www.dcd.uscourts.gov/content/district-judge-trevor-n-mcfadden), a [Trump](https://www.whitehouse.gov/) nominee.
+The lawsuit was filed Friday afternoon in [U.S. District Court](https://www.dcd.uscourts.gov/) in [Washington, D.C.](https://dc.gov/), 10 days after the [White House](https://www.whitehouse.gov/) began restricting access to the news agency. It was assigned to [U.S. District Judge Trevor McFadden](https://www.dcd.uscourts.gov/content/district-judge-trevor-n-mcfadden), a [Trump](https://www.whitehouse.gov/) nominee.
 
 The [AP](https://www.apnews.com/) says its case is about an unconstitutional effort by the [White House](https://www.whitehouse.gov/)  to control speech — in this case [not changing its style](https://www.ap.org/the-definitive-source/announcements/ap-style-guidance-on-gulf-of-mexico-mount-mckinley/) from the Gulf of Mexico to the “Gulf of America,” as [President Donald Trump](https://www.whitehouse.gov/) did last month with an executive order.
 
@@ -84,7 +84,7 @@ February 13, 2025
 
 “This is a textbook violation of not only the [First Amendment](https://constitution.congress.gov/constitution/amendment-1/), but the [president’s](https://www.whitehouse.gov/) own [executive order on freedom of speech and ending federal censorship](https://www.whitehouse.gov/presidential-actions/2025/01/restoring-freedom-of-speech-and-ending-federal-censorship/)[^89]. We again call on the [White House](https://www.whitehouse.gov/)  to immediately reverse course and restore access to [AP](https://www.apnews.com/) journalists.”
 
-[^89]: @RalphHightower: [Trump’s Executive Order: Restoring Freedom Of Speech And Ending Federal Censorshi](https://www.whitehouse.gov/presidential-actions/2025/01/restoring-freedom-of-speech-and-ending-federal-censorship/) really means [What Trump Really Means: Ending Freedom Of Speech And Starting Federal Censorship]({% link _posts/2025/01/2025-01-20-TrumpEndsFreedomOfSpeechPress.md %})
+[^89]: @RalphHightower: [Trump’s Executive Order: Restoring Freedom Of Speech And Ending Federal Censorshi](https://www.whitehouse.gov/presidential-actions/2025/01/restoring-freedom-of-speech-and-ending-federal-censorship/) really means [What Trump Really Means: Ending Freedom Of Speech And Starting Federal Censorship]({% post_url _posts/2025/01/2025-01-20-TrumpEndsFreedomOfSpeechPress.md %})
 
 -Eugene Daniels, [White House Correspondents’ Association](https://whca.press/) President
 
@@ -346,7 +346,7 @@ Leavitt made her February 11, 2025 demand that, with respect to the Gulf, it mus
 only the Gulf of America name.
 37. Later on the afternoon of February 11, however, [White House](https://www.whitehouse.gov/)  staff barred the
 [AP’s](https://www.apnews.com/) text journalist from attending a presidential executive order signing and press conference
-with [Elon Musk](https://x.com/elonmusk/) in the [Oval Office](https://www.whitehouse.gov/), which was open to the press pool. The [AP’s](https://www.apnews.com/) photographer
+with [Elon Musk](https://ir.tesla.com/corporate/elon-musk) in the [Oval Office](https://www.whitehouse.gov/), which was open to the press pool. The [AP’s](https://www.apnews.com/) photographer
 was allowed to attend.
 38. [AP](https://www.apnews.com/) Executive Editor Julie Pace published a statement that same day objecting to
 the [White House’s](https://www.whitehouse.gov/) actions. Pace wrote that “[l]imiting our access to the [Oval Office](https://www.whitehouse.gov/) based on

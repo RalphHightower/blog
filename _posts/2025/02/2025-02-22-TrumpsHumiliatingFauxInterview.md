@@ -16,13 +16,13 @@ title: "Trump’s Cringe-Worthy Interview on Faux News"
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ju0Cx9u43ng?si=95SH-XApMUOp3dX-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Feb 19, 2025  #marytrump #trumpcabinet [#donaldtrump](https://www.whitehouse.gov/)
-[Donald](https://www.whitehouse.gov/) and [Elon Musk](https://x.com/elonmusk/) put on a bizarre, staged interview to convince America they're still best friends. From blatant lies to awkward groveling, the two desperately try to sell their fake unity—while ignoring America’s real crises. Their shameless power play is getting harder to hide.
+[Donald](https://www.whitehouse.gov/) and [Elon Musk](https://ir.tesla.com/corporate/elon-musk) put on a bizarre, staged interview to convince America they're still best friends. From blatant lies to awkward groveling, the two desperately try to sell their fake unity—while ignoring America’s real crises. Their shameless power play is getting harder to hide.
 
-- [Elon](https://x.com/elonmusk/) is not President, but acting like it
+- [Elon](https://ir.tesla.com/corporate/elon-musk) is not President, but acting like it
 - worst of the worst to Guantanamo Bay 
 - [Kristi Noem](https://www.dhs.gov/person/kristi-noe)
 - not satisfied with Holman that deportations numbers down 
-- [Elon](https://x.com/elonmusk/) conflict of interest: will recuse self on company
+- [Elon](https://ir.tesla.com/corporate/elon-musk) conflict of interest: will recuse self on company
 - [USAID](https://www.usaid.gov/)
 - mandate from American people give [Trump](https://www whitehouse.gov/) to slash burn. Unelected bureaucracy to roadblock [Trump](https://www whitehouse.gov/). 
 - Civil servants nonpartisan to help run government help people 
@@ -43,8 +43,9 @@ Feb 19, 2025  #marytrump #trumpcabinet [#donaldtrump](https://www.whitehouse.gov
 - [United Nations (UN)](https://www.un.org/)
 - [Kristi Noem](https://www.dhs.gov/person/kristi-noe)
 - [Department of Homeland Security (DHS)](https://www.dhs.gov/)
+- [Elon Musk](https://ir.tesla.com/corporate/elon-musk)
 - [Elon Musk](https://x.com/elonmusk/)
-- [Boring](https://www.boringcompany.com/)
+- [The Boring Company](https://www.boringcompany.com/)
 - [Neuralink](https://neuralink.com/)
 - [SpaceX](https://www.spacex.com/)
 - [Starlink](https://www.starlink.com/)

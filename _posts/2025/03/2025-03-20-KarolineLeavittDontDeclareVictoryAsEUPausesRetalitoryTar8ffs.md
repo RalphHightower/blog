@@ -206,7 +206,10 @@ I will stop there, and I look forward to our exchanges.
 - trade wars
 - politics
 - [Angola (AO)](http://governo.gov.ao/)
-- [China (CN)](https://www.gov.cn/)
+- [Canada](https://www.canada.ca/)
+- [Mexico](https://www.gob.mx/)
+- [The State Council of the People's Republic of China](https://english.www.gov.cn/)
+- [中国政府网_中央人民政府门户网站](https://www.gov.cn/)
 - [Gulf Cooperation Council (GCC)](https://gcc-sg.org/)
 - [India (IN)](https://www.india.gov.in/)
 - [Indonesia (ID)](https://indonesia.go.id/)

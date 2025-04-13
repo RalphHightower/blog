@@ -224,8 +224,9 @@ March 24, 2025, 12:06 PM ET
 - [Elon Musk’s Starlink Hacked With $25 Device / EVONA](https://www.evona.com/blog/elon-musks-starlink-hacked/)
 - [Starlink Ground Stations Successfully Hacked / Hackaday](https://hackaday.com/2022/08/14/starlink-ground-stations-successfully-hacked/). August 14, 2022
 - [The Hacking of Starlink Terminals Has Begun / WIRED](https://www.wired.com/story/starlink-internet-dish-hack/). Aug 10, 2022 10:00 AM
+- [Elon Musk](https://ir.tesla.com/corporate/elon-musk)
 - [Elon Musk](https://x.com/elonmusk/)
-- [Boring](https://www.boringcompany.com/)
+- [The Boring Company](https://www.boringcompany.com/)
 - [Neuralink](https://neuralink.com/)
 - [SpaceX](https://www.spacex.com/)
 - [Starlink](https://www.starlink.com/)
@@ -233,6 +234,7 @@ March 24, 2025, 12:06 PM ET
 - [Twitter](https://twitter.com/)
 - [ X ](https://x.com/)
 - [xAI](https://x.ai/)
+- 
 - [Tulsi Gabbard](https://www.linkedin.com/in/tulsigabbard/)
 - [Michael Waltz](https://www.linkedin.com/in/michael-waltz-0557964/)
 - [Pete Hegseth](https://www.linkedin.com/in/petehegseth/)

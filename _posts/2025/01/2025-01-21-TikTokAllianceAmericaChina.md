@@ -18,5 +18,7 @@ title: "Damnest, Dumbest Idea: Trump Wants 50/50 Ownership Of TikTok With Americ
 Jan 20, 2025  >#TikTok](https://www tiktok.com/) #Trump #billionaires
 Senator Chris Murphy reacts to the nation's richest tech billionaires having front-row seats at today's inauguration events, Trump's pardoning of 1,500 Jan. 6 defendants, and Trump's push for a 50% stake in TikTok.
 
-
-
+- [Canada](https://www.canada.ca/)
+- [Mexico](https://www.gob.mx/)
+- [The State Council of the People's Republic of China](https://english.www.gov.cn/)
+- [中国政府网_中央人民政府门户网站](https://www.gov.cn/)

@@ -15,7 +15,7 @@ title: "Pink Floyd Collaborates With 🇺🇦 Ukrainian Band Boombox 🇺🇦"
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/saEpkcVi1d4?si=RqKUok5mEQFwnb9e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Premiered Apr 7, 2022  [#PinkFloyd]() #Ukraine #HeyHeyRiseUp
+Premiered Apr 7, 2022  [#PinkFloyd](https://www.pinkfloyd.com/home) #Ukraine #HeyHeyRiseUp
 [Pink Floyd](https://www.pinkfloyd.com/) would like to thank everyone who has supported Hey, Hey, Rise Up. The single, recorded on 30th March with Andriy Khlyvnyuk of the Ukrainian band Boombox, has so far raised over £450,000 to help alleviate the suffering of the Ukrainian people.
 
 [Pink Floyd](https://www.pinkfloyd.com/)’s ‘Animals 2018 Remix – Dolby Atmos’ on Blu-ray out now: https://PinkFloyd.lnk.to/AnimalsBluRay
