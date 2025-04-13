@@ -350,7 +350,7 @@ Areas of concern:
 - Gas prices
 - Inflation
 - Unemployment
-- [Elon Musk](https://x.com/elonmusk/) has unfettered access to government computer systems that contain Personal Identifiable Information (PII) such as [Social Security](https://www.ssa.gov/) numbers, health information information protected by the [Health Insurance Portability and Accountability Act (HIPAA)](https://www.hhs.gov/hipaa/for-professionals/privacy/laws-regulations/index.html). He and his [Department of Government Efficiency (DOGE)](https://doge.gov/), a high school graduate, and college students bulldozed their way into government computer systems, including the federal government payment system.
+- [Elon](https://ir.tesla.com/corporate/3) [Musk](https://x.com/elonmusk/) has unfettered access to government computer systems that contain Personal Identifiable Information (PII) such as [Social Security](https://www.ssa.gov/) numbers, health information information protected by the [Health Insurance Portability and Accountability Act (HIPAA)](https://www.hhs.gov/hipaa/for-professionals/privacy/laws-regulations/index.html). He and his [Department of Government Efficiency (DOGE)](https://doge.gov/), a high school graduate, and college students bulldozed their way into government computer systems, including the federal government payment system.
 
 [^71]: @RalphHightower: Forget it. Despite all the commercials on [YouTube](https://www.youtube.com/), Trumpian legislators ain't gonna budge.
 
