@@ -1,158 +1,59 @@
 ---
 layout: post
-tags: [New York Stock Exchange (NYSE)	New York City USA, Nasdaq Stock Market	New York City USA, Tokyo Stock Exchange (TSE)	Tokyo Japan, Shanghai Stock Exchange (SSE)	Shanghai China, Hong Kong Stock Exchange (HKEX)	Hong Kong China, London Stock Exchange (LSE)	London United Kingdom, Euronext Amsterdam Brussels Dublin Lisbon Milan Oslo Paris, Toronto Stock Exchange (TSX)	Toronto Canada, National Stock Exchange of India (NSE)	Mumbai India, Bombay Stock Exchange (BSE)	Mumbai India, Shenzhen Stock Exchange (SZSE)	Shenzhen China, Saudi Stock Exchange (Tadawul)	Riyadh Saudi Arabia, Australian Securities Exchange (ASX)	Sydney Australia, Deutsche Börse (Frankfurt Stock Exchange)	Frankfurt Germany, SIX Swiss Exchange	Zurich Switzerland, Korea Exchange (KRX)	Seoul South Korea, Taiwan Stock Exchange (TWSE)	Taipei Taiwan, Johannesburg Stock Exchange (JSE)	Johannesburg South Africa, Bursa Malaysia	Kuala Lumpur Malaysia, Stock Exchange of Thailand (SET)	Bangkok Thailand, Singapore Exchange (SGX)	Singapore, Mexican Stock Exchange (BMV)	Mexico City Mexico, Moscow Exchange (MOEX)	Moscow Russia, Brazil Stock Exchange (B3)	São Paulo Brazil, Donald J Trump, Supreme Court of the United States (SCOTUS), US Courts, Senate, House of Representatives, U.S. Department of the Treasury, Scott Bessentm, Department of Commerce (DOC), Howard Lutnick, Howard W. Lutnick, President Donald Trump (45), President Donald Trump (47), President of the United States (POTUS), White House (WH), stupidity, tariffs, politics]
-categories: [world stock market indexes]
-date: 2025-04-11 5:40 PM
-#excerpt: ''
+tags: [MSNBC, The Daily Beast, Donald J Trump, Art of the Deal, S&P 500, Nasdaq Composite, Russell 2000, Liars Club, Trumpian Party, Canada, Mexico, Stephen Miller, The State Council of the People’s Republic of China, 中国政府网_中央人民政府门户网站, Federal Reserve Board, Jerome H. Powell, Senate, Supreme Court of the United States (SCOTUS), US Courts, House of Representatives, U.S. Department of the Treasury, Scott Bessent, Department of Commerce (DOC), Howard Lutnick, Regulating Imports with a Reciprocal Tariff to Rectify Trade Practices that Contribute to Large and Persistent Annual United States Goods Trade Deficits. Presidential Actions Executive Orders April 2 2025, Howard W. Lutnick, President Donald Trump (45), President Donald Trump (47), President of the United States (POTUS), America First Trade Policy. Presidential Actions January 20 2025, White House (WH), tariffs, politics, stupidity, Peter Navarro]
+categories: [Donald Trump]
+date: 2025-04-11 12:24 PM
+Mexcerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: "World Stock Market Closing Indexes: Americas (up).  Europe, Middle East, & Africa (mixed). Asia Pacific (2/3 up)."
+title: "Trump’s Trade Tariffs Tiff Torched Wall Street"
 ---
 
-| Index | Closing Value | Gain/Loss | Percentage Change |
-|---|---:|---:|---:|
-| **Americas** | | | |
-| S&P 500 | 5,363.36 | +95.31 | :arrow_up: 1.81% |
-| Dow Jones Industrial Average | 40,212.71 | +619.05 | :arrow_up: 1.56% |
-| Nasdaq Composite | 16,724.46 | +337.14 | :arrow_up: 2.06% |
-| Russell 2000 Index | 1,860.20 | +28.81 | :arrow_up: 1.57% |
-| S&P/TSX Composite Index | 23,587.80 | +572.93 | :arrow_up: 2.49% |
-| IBOVESPA | 127,682.40 | +1,327.65 | :arrow_up: 1.05% |
-| NYSE Composite | 18,219.65 | +329.08 | :arrow_up: 1.84% |
-| Dow Jones Transportation Average | 13,409.49 | +83.98 | :arrow_up: 0.63% |
-| Dow Jones Utility Average | 996.48 | +14.47 | :arrow_up: 1.47% |
-| S&P Latin America 40 | 2,298.75 | +43.11 | :arrow_up: 1.91% |
-| VIX | 37.56 | -3.16 | :arrow_down: 7.76% |
-| Russell 1000 Index | 2,926.05 | +50.98 | :arrow_up: 1.77% |
-| Dow Jones U.S. Total Stock Market Index | 52,763.58 | +918.53 | :arrow_up: 1.77% |
-| Barron's 400 Index | 1,121.67 | +15.45 | :arrow_up: 1.40% |
-| NASDAQ Composite Total Return | 20,471.99 | +412.74 | :arrow_up: 2.06% |
-| Nasdaq-100 | 18,690.06 | +346.48 | :arrow_up: 1.89% |
-| NASDAQ-100 Total Return | 22,620.84 | +419.43 | :arrow_up: 1.89% |
-| NASDAQ Transportation Index | 5,666.23 | +37.33 | :arrow_up: 0.66% |
-| NASDAQ Biotechnology Index | 3,909.95 | +134.96 | :arrow_up: 3.58% |
-| Nasdaq Financial-100 | 5,832.60 | +86.68 | :arrow_up: 1.51% |
-| Nasdaq Bank | 3,644.39 | +4.32 | :arrow_up: 0.12% |
-| Nasdaq Insurance | 15,591.57 | +177.92 | :arrow_up: 1.15% |
-| Nasdaq Industrial | 10,421.09 | +144.42 | :arrow_up: 1.41% |
-| Nasdaq Computer | 15,060.35 | +358.03 | :arrow_up: 2.44% |
-| S&P 400 | 2,722.55 | +38.12 | :arrow_up: 1.42% |
-| S&P 600 | 1,164.74 | +14.54 | :arrow_up: 1.26% |
-| Russell 2500 Index | 818.05 | +12.15 | :arrow_up: 1.51% |
-| Russell 3000 Index | 3,037.75 | +52.68 | :arrow_up: 1.76% |
-| NYSE American Composite Index | 4,584.34 | +133.13 | :arrow_up: 2.99% |
-| NYSE Arca Biotechnology Index | 5,272.72 | +169.37 | :arrow_up: 3.32% |
-| NYSE Arca Pharmaceutical Index | 879.81 | +18.93 | :arrow_up: 2.20% |
-| KBW Nasdaq Bank Index | 108.55 | +0.63 | :arrow_up: 0.59% |
-| Philadelphia Gold and Silver Index | 188.01 | +10.72 | :arrow_up: 6.05% |
-| PHLX Oil Service Sector | 54.59 | +2.43 | :arrow_up: 4.65% |
-| PHLX Semiconductor Sector | 3,990.90 | +97.61 | :arrow_up: 2.51% |
-| | gainers: 34 (97.14%) | losers: 1 (2.86%) | |
-| **Europe, Middle East, and Africa** | | | |
-| DAX PERFORMANCE-INDEX | 20,374.10 | -188.63 | :arrow_down: 0.92% |
-| FTSE 100 Index | 7,964.18 | +50.93 | :arrow_up: 0.64% |
-| CAC 40 | 7,104.80 | -21.22 | :arrow_down: 0.30% |
-| IBEX 35 | 12,286.00 | -21.60 | :arrow_down: 0.18% |
-| EURO STOXX 50 | 4,787.23 | -31.69 | :arrow_down: 0.66% |
-| S&P EURO | 2,110.10 | -6.72 | :arrow_down: 0.32% |
-| Dow Jones Germany Titans 30 Index (EUR) | 615.82 | -3.95 | :arrow_down: 0.64% |
-| TA-125 Index | 2,455.12 | +51.13 | :arrow_up: 2.13% |
-| AEX index | 819.56 | +0.32 | :arrow_up: 0.039% |
-| PSI-20 | 6,520.48 | +115.69 | :arrow_up: 1.81% |
-| WIG | 91,120.04 | -570.81 | :arrow_down: 0.62% |
-| Tadawul All-Share Index | 11,502.54 | +405.89 | :arrow_up: 3.66% |
-| Swiss Market Index | 11,239.83 | -4.76 | :arrow_down: 0.042% |
-| S&P Europe 350 | 1,977.85 | -0.87 | :arrow_down: 0.044% |
-| STOXX Europe 600 | 486.80 | -0.48 | :arrow_down: 0.099% |
-| FTSE AIM All-Share Index | 647.83 | +2.86 | :arrow_up: 0.44% |
-| FTSE All-Share Index | 4,303.84 | +23.95 | :arrow_up: 0.56% |
-| OMX Copenhagen 20 | 1,589.72 | +24.85 | :arrow_up: 1.59% |
-| OMX Copenhagen 25 | 1,514.97 | +11.27 | :arrow_up: 0.75% |
-| WIG20 | 2,529.25 | -24.32 | :arrow_down: 0.95% |
-| WIG30 | 3,250.62 | -23.95 | :arrow_down: 0.73% |
-| SBF 120 | 5,386.57 | -10.36 | :arrow_down: 0.19% |
-| CAC LARGE 60 | 7,663.08 | -16.99 | :arrow_down: 0.22% |
-| BIST 100 | 9,380.95 | +42.37 | :arrow_up: 0.45% |
-| BIST 30 | 10,214.77 | +52.58 | :arrow_up: 0.52% |
-| HDAX PERFORMANCE-INDEX | 10,656.08 | -79.41 | :arrow_down: 0.74% |
-| OMX Helsinki 25 | 4,151.35 | +26.98 | :arrow_up: 0.65% |
-| SPI 20 PR | 10,986.24 | -4.65 | :arrow_down: 0.042% |
-| Swiss Performance Index | 15,112.54 | +50.09 | :arrow_up: 0.33% |
-| AMX index | 774.36 | -1.46 | :arrow_down: 0.19% |
-| BEL 20 | 4,028.97 | +43.36 | :arrow_up: 1.09% |
-| PSI ALL-SHARE GR | 4,042.64 | +77.40 | :arrow_up: 1.95% |
-| Austrian Traded Index | 3,716.20 | +0.67 | :arrow_up: 0.018% |
-| OMX Stockholm 30 | 2,277.60 | -2.98 | :arrow_down: 0.13% |
-| OMX Stockholm Benchmark_GI | 1,752.96 | +1.37 | :arrow_up: 0.078% |
-| OMX Iceland All-Share PI | 1,971.53 | +12.51 | :arrow_up: 0.64% |
-| OMX Riga_GI | 855.15 | -6.76 | :arrow_down: 0.78% |
-| OMX Tallinn | 1,943.07 | -0.0016 | :arrow_down: 0.000082% |
-| OMX Vilnius_GI | 1,147.28 | -1.90 | :arrow_down: 0.17% |
-| TA-35 Index | 2,417.67 | +45.93 | :arrow_up: 1.94% |
-| | gainers: 19 (47.50%) | losers: 21 (52.50%) | |
-| **Asia Pacific** | | | |
-| Nikkei 225 | 33,585.58 | -1,023.42 | :arrow_down: 2.96% |
-| SSE Composite Index | 3,238.23 | +14.59 | :arrow_up: 0.45% |
-| Hang Seng Index | 20,914.69 | +232.91 | :arrow_up: 1.13% |
-| BSE SENSEX | 75,157.26 | +1,310.11 | :arrow_up: 1.77% |
-| NIFTY 50 | 22,828.55 | +429.40 | :arrow_up: 1.92% |
-| S&P Asia 50 | 5,236.29 | +326.70 | :arrow_up: 6.65% |
-| TAIEX | 19,528.77 | +528.74 | :arrow_up: 2.78% |
-| KOSPI | 2,432.72 | -12.34 | :arrow_down: 0.50% |
-| S&P/ASX 200 | 7,646.50 | -63.10 | :arrow_down: 0.82% |
-| S&P/NZX 50 Index | 12,019.13 | -182.30 | :arrow_down: 1.49% |
-| S&P BSE - 100 | 23,890.49 | +430.96 | :arrow_up: 1.84% |
-| TOPIX | 2,466.91 | -72.49 | :arrow_down: 2.85% |
-| A-share Index | 3,393.90 | +15.26 | :arrow_up: 0.45% |
-| B-share Index | 254.68 | +1.63 | :arrow_up: 0.65% |
-| SZSE Component Index | 9,834.44 | +79.80 | :arrow_up: 0.82% |
-| SSE 180 Index | 8,331.96 | +13.82 | :arrow_up: 0.17% |
-| SSE 50 Index | 2,619.58 | +6.96 | :arrow_up: 0.27% |
-| ChiNext | 1,926.37 | +25.84 | :arrow_up: 1.36% |
-| CSI 300 Index | 3,750.52 | +15.40 | :arrow_up: 0.41% |
-| SZSE Composite Index | 1,881.78 | +13.39 | :arrow_up: 0.72% |
-| S&P/HKEX GEM Index | 15.72 | -0.040 | :arrow_down: 0.25% |
-| S&P/HKEX Large Cap Index | 31,318.12 | +225.01 | :arrow_up: 0.72% |
-| Hang Seng China Enterprises Index | 7,801.51 | +133.13 | :arrow_up: 1.74% |
-| S&P BSE - 500 | 32,666.11 | +621.53 | :arrow_up: 1.94% |
-| S&P BSE - 200 | 10,303.75 | +184.73 | :arrow_up: 1.83% |
-| LQ45 | 706.70 | -0.42 | :arrow_down: 0.059% |
-| IDX Composite | 6,262.23 | +8.20 | :arrow_up: 0.13% |
-| FTSE ASEAN All-Share Index | 773.13 | +6.71 | :arrow_up: 0.88% |
-| S&P/ASX 300 | 7,583.50 | -61.10 | :arrow_down: 0.80% |
-| S&P/NZX 20 Index | 7,144.20 | -106.35 | :arrow_down: 1.47% |
-| S&P/NZX All Index | 1,736.27 | -25.71 | :arrow_down: 1.46% |
-| | gainers: 21 (67.74%) | losers: 10 (32.26%) | |
 
-### List of some of the major stock markets around the world and their locations:
+## [Trump burned the stock market with tariffs — then took credit for slowing the blaze](https://www.msnbc.com/opinion/msnbc-opinion/trump-tariffs-stock-market-surge-china-trade-war-rcna200533)
 
-| Stock Exchange | Location |
-|---------------|----------|
-| **[New York Stock Exchange (NYSE)](https://www.nyse.com/index)** | New York City, USA |
-| **[Nasdaq Stock Market](https://www.nasdaq.com/)** | New York City, USA |
-| **[Tokyo Stock Exchange (TSE)](https://www.jpx.co.jp/)** | Tokyo, Japan |
-| **[Shanghai Stock Exchange (SSE)](https://sse.com.cn/)** | Shanghai, China |
-| **[Hong Kong Stock Exchange (HKEX)](https://www.hkex.com.hk/)** | Hong Kong, China |
-| **[London Stock Exchange (LSE)](https://www.londonstockexchange.com/)** | London, United Kingdom |
-| **[Euronext](https://www.euronext.com/)** | Amsterdam, Brussels, Dublin, Lisbon, Milan, Oslo, Paris |
-| **[Toronto Stock Exchange (TSX)](https://www.tmx.com/)** | Toronto, Canada |
-| **[National Stock Exchange of India (NSE)](https://www.nseindia.com/)** | Mumbai, India |
-| **[Bombay Stock Exchange (BSE)](https://www.bseindia.com/)** | Mumbai, India |
-| **[Shenzhen Stock Exchange (SZSE)](https://www.szse.cn/)** | Shenzhen, China |
-| **[Saudi Stock Exchange (Tadawul)](https://www.saudiexchange.sa/)** | Riyadh, Saudi Arabia |
-| **[Australian Securities Exchange (ASX)](https://www.asx.com.au/)** | Sydney, Australia |
-| **[Deutsche Börse (Frankfurt Stock Exchange)](https://www.deutsche-boerse.com/dbg-en)** | Frankfurt, Germany |
-| **[SIX Swiss Exchange](https://www.six-group.com/)** | Zurich, Switzerland |
-| **[Korea Exchange (KRX)](https://www.krx.co.kr/)** | Seoul, South Korea |
-| **[Taiwan Stock Exchange (TWSE)](https://www.twse.com.tw/)** | Taipei, Taiwan |
-| **[Johannesburg Stock Exchange (JSE)](https://www.jse.co.za/)** | Johannesburg, South Africa |
-| **[Bursa Malaysia](https://www.bursamalaysia.com/)** | Kuala Lumpur, Malaysia |
-| **[Stock Exchange of Thailand (SET)](https://www.set.or.th/)** | Bangkok, Thailand |
-| **[Singapore Exchange (SGX)](https://www.sgx.com/)** | Singapore |
-| **[Mexican Stock Exchange (BMV)](https://www.bmv.com.mx/)** | Mexico City, Mexico |
-| **[Moscow Exchange (MOEX)](https://www.moex.com/)** | Moscow, Russia |
-| **[Brazil Stock Exchange (B3)](https://www.b3.com.br/)** | São Paulo, Brazil |
+*The [president](https://www.whitehouse.gov/) and his hard-core supporters are taking a victory lap for winning a global trade war in which no one backed down but Trump.*
+
+April 10, 2025, 6:00 AM EDT
+By Anthony L. Fisher, Senior Editor, MSNBC Daily
+[President](https://www.whitehouse.gov/) [Donald Trump’s](https://www.msnbc.com/morning-joe/watch/-i-know-what-the-hell-i-m-doing-trump-keeps-touting-tariffs-as-americans-lose-retirement-savings-236910661736)’s victory lap after the [stock market mostly rebounded](https://www.msnbc.com/rachel-maddow-show/maddowblog/trump-pauses-reciprocal-tariffs-90-days-raises-china-stocks-rcna200464) Wednesday shows he’s an economic arsonist who likes to cosplay as a firefighter. 
+
+After [Trump](https://www.donaldjtrump.com/) announced his so-called [Liberation Day](https://www.msnbc.com/opinion/msnbc-opinion/trump-tariffs-stock-market-republicans-congress-democrats-rcna199517) tariffs on scores of countries last week, [global markets tanked](https://www.msnbc.com/morning-joe/watch/stock-market-plummets-in-reaction-to-trump-s-tariffs-236702277680) to levels previously seen at the onset of major economic recessions. Americans (most of whom don’t have pensions) [saw their retirement accounts ravaged](https://www.msnbc.com/know-your-value/out-of-office/oped-trumps-tariff-policy-will-disproportionately-hurt-women-rcna200099). And companies laid off thousands of manufacturing workers. 
+
+But Wednesday — shortly after [posting to his social media site](https://www.nbcnews.com/business/markets/trump-tariff-pause-experts-question-timing-trump-social-media-posts-rcna200526) that “this is a great time to buy!” —  [Trump](https://www.donaldjtrump.com/) abruptly reversed course and announced that those tariffs would be paused for 90 days. 
+
+> By any metric, the stock market is still down big since [Trump](https://www.donaldjtrump.com/) took office.
+
+However, he raised tariffs on [China](https://www.gov.cn/) even further — to a whopping 125% — and left in place a universal 10% tariff on other countries, as well the [25% tariffs on Canada and Mexico](https://www.cnbc.com/2025/04/09/trump-tariffs-live-updates.html). Still, the announced “pause” was encouraging enough news that the stock market had a historic one-day surge. Even so, since [Trump](https://www.donaldjtrump.com/) launched his trade war of choice, the market is still down sharply. 
+
+Ignoring that context, [Trump](https://www.donaldjtrump.com/), [in the Oval Office on Wednesday](https://bsky.app/profile/atrupar.com/post/3lmfu7llbvs2c), bragged to the assembled press corps about “the biggest increase in the history of the stock market. That’s pretty good.” And yet, as [The New York Times reported](https://www.nytimes.com/2025/04/08/business/trump-tariffs-stock-markets.html):
+
+“Even after the S&P 500’s sharp rise on Wednesday, the index remains 11.2 percent below its most recent high, in February. The tech-heavy Nasdaq Composite index rose 12.2 percent but is still roughly 15 percent below its December high. The Russell 2000 index of smaller companies more exposed to the outlook of the economy is roughly 22 percent below its November high. It remains the S&P 500’s worst start to a presidential term since the dot-com bubble was bursting at the beginning of 2001.”
+
+So why was [Trump](https://www.donaldjtrump.com/) launching a global trade war — which, even if he’s just bluffing, essentially ends America’s role as the leader of the global free market system — in the first place? 
+
+Some of his most hard-core supporters offered contradictory reasons, all of them based on the premise that [Trump](https://www.donaldjtrump.com/) was standing up for America against a world order that had somehow bullied the world’s largest economy into economic calamity. 
+
+They argued [Trump](https://www.donaldjtrump.com/) was fulfilling his promise to make the U.S. a manufacturing hub again but also to make free trade fairer for the U.S. — which [Trump](https://www.donaldjtrump.com/) believes is getting ripped off by the rest of the world because of trade deficits. The latter argument ignores the fact that such deficits afford Americans far greater purchasing power than they’d have in a country walled off from trade with the rest of the world. And how did the president calculate those so-called reciprocal tariff rates, anyway? ([Rather unscientifically](https://www.msnbc.com/opinion/msnbc-opinion/trump-tariff-chart-taxes-rcna199524), it turns out.)
+
+[Trump](https://www.donaldjtrump.com/)’s commerce secretary, [Howard Lutnick, had said](https://www.axios.com/2025/04/09/trump-tariffs-negotiation-lutnick-bessent-navarro) last week, “I don’t think there’s any chance that [President](https://www.whitehouse.gov/) [Trump](https://www.donaldjtrump.com/)’s going to back off his tariffs,” and his trade adviser, Peter Navarro, insisted in an op-ed in The Financial Times, “[This is not a negotiation](https://www.wsj.com/livecoverage/stock-market-trump-tariffs-trade-war-04-07-25/card/trump-trade-adviser-peter-navarro-this-is-not-a-negotiation--BjrNtvkS7qllgse0F1vJ?mod=WSJ_home_supertoppermiddle_lctimeline).” At the same time, one of [Trump’s most passionate and wealthy supporters](https://www.msnbc.com/opinion/msnbc-opinion/tariffs-trump-china-republican-regret-ackman-rcna200205), Bill Ackman, warned that the president’s actions could create a “self-induced, economic nuclear winter” and seemed to put the blame for the ill-advised decision [on the president’s advisers](https://bsky.app/profile/bgrueskin.bsky.social/post/3lmabpvbf2s2u). 
+
+Ultimately, [Trump](https://www.donaldjtrump.com/)’s ‘Art of the Deal’ myth — created by a ghostwriter who lives every day of his life in regret — will endure for his most steadfast supporters.
+
+But once [Trump](https://www.donaldjtrump.com/) announced the 90-day pause Wednesday — voila! — [that same billionaire praised the president](https://bsky.app/profile/crampell.bsky.social/post/3lmfrr2j7pk2l) for a “brilliantly executed” move, adding it was “Textbook, Art of the Deal.” [Trump](https://www.donaldjtrump.com/)’s deputy chief of staff for policy, [Stephen Miller](https://x.com/StephenM/status/1910052531742421475), posted to X, “You have been watching the greatest economic master strategy from an American President in history.” Trump himself claimed on Truth Social that “[more than 75 countries](https://www.cnbc.com/2025/04/09/trump-tariffs-live-updates.html)” had reached out seeking to negotiate, though as of Wednesday night the White House [hadn’t responded to NBC News’ requests](https://bsky.app/profile/kylegriffin1.bsky.social/post/3lmftwnmih222) for a list of those countries.  
+
+Despite the flailing attempts to spin this entire episode in a positive light, there’s no escaping certain facts. 
+
+One, by any metric, the stock market is still down big since Trump took office. 
+
+Two, both U.S. and foreign companies still have no reason to feel confident the [Trump](https://www.donaldjtrump.com/) [administration](https://www.whitehouse.gov/) is a stable, good-faith actor. If anything, the bait-and-switch will make them less likely to invest in America. 
+
+And ultimately, [Trump](https://www.donaldjtrump.com/)’s “Art of the Deal” myth — [created by a ghostwriter who lives every day of his life in regret](https://www.newyorker.com/magazine/2016/07/25/donald-trumps-ghostwriter-tells-all) — will endure for his most steadfast supporters, who would believe him [if he told them he made it rain in the desert](https://daily.jstor.org/wanting-to-believe-in-rainmakers/). 
+
+
+Anthony L. Fisher
+Anthony L. Fisher is a senior editor and writer for MSNBC Daily. He was previously the senior opinion editor for The Daily Beast and a politics columnist for Business Insider.
 
 ### Where Can Trump Be Found?
 
@@ -200,7 +101,20 @@ title: "World Stock Market Closing Indexes: Americas (up).  Europe, Middle East,
 | **Scotland, Ayrshire** |
 | **[Trump Turnberry](https://www.turnberry.co.uk/)** <br /> Maidens Road KA26 9LT Turnberry <br /> Ayrshire Scotland <br /> <a href="tel:+441655331000">+44.1655.331.000</a> <br /> <a href="tel:+4401655334115">+44 01655 334115</a> |
 
+- [MSNBC](https://www.msnbc.com/)
+- [The Daily Beast](https://www.thedailybeast.com/)
+- [New York Times (NYT)](https://www.nytimes.com/)
 - [Donald J Trump](https://www.donaldjtrump.com/)
+- Art of the Deal 
+- S&P 500
+- Nasdaq Composite 
+- Russell 2000
+- [Liars Club](https://truthsocial.com/)
+- [Trumpian Party](https://www.gop.com/)
+- [Canada](https://www.canada.ca/)
+- [Mexico](https://www.gob.mx/)
+- [The State Council of the People's Republic of China](https://english.www.gov.cn/)
+- [中国政府网_中央人民政府门户网站](https://www.gov.cn/)
 - [Federal Reserve Board](https://www.federalreserve.gov/)
 - [Jerome H. Powell](https://www.federalreserve.gov/aboutthefed/bios/board/powell.htm)
 - [Senate](https://www.senate.gov/)
@@ -218,6 +132,8 @@ title: "World Stock Market Closing Indexes: Americas (up).  Europe, Middle East,
 - [President of the United States (POTUS)](https://www.whitehouse.gov/)
 - [America First Trade Policy](https://www223-1600.whitehouse.gov/presidential-actions/2025/01/america-first-trade-policy/). Presidential Actions January 20, 2025
 - [White House (WH)](https://www.whitehouse.gov/)
+- [Peter Navarro](https://www.linkedin.com/in/peter-navarro-93167122/)
+- Stephen Miller 
 - tariffs
 - politics 
 - stupidity 
