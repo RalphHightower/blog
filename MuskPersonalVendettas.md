@@ -12,7 +12,7 @@ title: "Musk’s Personnel Vendettas: Federal/States Gov’t"
 
 ## Department of Government Efficiency (DOGE) Is a Smoke Screen! 
 
-[Elon Musk](https://x.com/elonmusk/) has contracts worth billions of dollars with the federal government and as a fractional CEO of his myriad of companies at stake.
+[Elon](https://ir.tesla.com/corporate/elon-musk) [Musk](https://x.com/elonmusk/) has contracts worth billions of dollars with the federal government and as a fractional CEO of his myriad of companies at stake.
 
 | Federal Agency | Functions |
 |---|---|

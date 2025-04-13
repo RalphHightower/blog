@@ -1,111 +1,98 @@
 ---
 layout: post
-tags: [The Independent, Associated Press, Dell Computer, Amazon, Lululemon, RH, Leadership :: RH (RH), Marjorie Taylor Greene (T-GA14), H.R.1908 - 119th Congress (2025-2026): End Congressional Stock Trading Act / Congress.gov / Library of Congress, H.R.345 - 118th Congress (2023-2024): TRUST in Congress Act / Congress.gov / Library of Congress, America First Trade Policy. Presidential Actions January 20 2025, Federal Reserve Board, Jerome H. Powell, Senate, Donald J Trump, Supreme Court of the United States (SCOTUS), US Courts, House of Representatives, U.S. Department of the Treasury, Scott Bessent, Department of Commerce (DOC), Howard Lutnick, Howard W. Lutnick, President Donald Trump (45), President Donald Trump (47), President of the United States (POTUS), White House (WH), tariffs, politics, stupidity]
-categories: [Marjorie Taylor Greene, insider trading]
-date: 2025-04-12 12:39 AM
+tags: [Canada, Mexico, The State Council of the People’s Republic of China, 中国政府网_中央人民政府门户网站, Donald J Trump, Federal Reserve Board, Chairman Jerome Powell, Supreme Court of the United States (SCOTUS), US Courts, Senate, House of Representatives, President Joe Biden, President Donald Trump (45), President Donald J Trump (47), Council of Economic Advisers, President of the United States (POTUS), White House (WH), Donald J Trump, Federal Reserve Board, Jerome H. Powell, U.S. Department of the Treasury, Scott Bessent, Department of Commerce (DOC), Howard Lutnick, Regulating Imports with a Reciprocal Tariff to Rectify Trade Practices that Contribute to Large and Persistent Annual United States Goods Trade Deficits. Presidential Actions Executive Orders April 2 2025, President Donald Trump (47), President of the United States (POTUS), America First Trade Policy. Presidential Actions January 20 2025, White House (WH), tariffs, politics, stupidity]
+categories: [Donald Trump]
+date: 2025-04-07 12:19 PM
 #excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: "Insider Trading: Marjorie Taylor Greene (T-GA14) Buys Stock During Trump’s Tariffs Trade Tanking of Stock Market"
+title: "Treasury Secretary Scott Bessent Lives In A Financial Bubble. Or As Kellyanne Conway Would Say, An ‘Alternate Reality’"
 ---
 
+## [Treasury secretary interview offers timely reminder: There are no adults in the room](https://www.msnbc.com/rachel-maddow-show/maddowblog/treasury-secretary-interview-offers-timely-reminder-are-no-adults-room-rcna199959)
 
-### [MTG scooped up plummeting stocks during market chaos sparked by Trump tariffs](https://www.independent.co.uk/news/world/americas/us-politics/marjorie-taylor-greene-stocks-market-chaos-b2731742.html)
-Story by Mike Bedigan. April 11, 2025
-[Republican](https://www.gop.com/) firebrand and [Trump](https://www.donaldjtrump.com/) acolyte [Marjorie Taylor Greene (T-GA14)](https://greene.house.gov/) scooped up a number of plummeting [stocks](https://www.independent.co.uk/topic/stocks) following the [market chaos caused by the president’s global tariffs](https://www.independent.co.uk/news/world/americas/us-politics/trump-supreme-court-china-tariffs-live-updates-b2731496.html).
+*Many hoped [Treasury](https://home.treasury.gov/) [Secretary Scott Bessent](https://home.treasury.gov/about/general-information/officials/scott-bessent) would be a voice of reason on [Team Trump](https://www.donaldjtrump.com/). Amid the crisis caused by tariffs, those hopes have since evaporated.*
 
-The [The Georgia congresswoman](https://www.independent.co.uk/news/world/americas/us-politics/marjorie-taylor-greene-signal-leak-interview-b2722433.html), an avid supporter of the [Trump](https://www.donaldjtrump.com/) [administration](https://www.whitehouse.gov/administration/)'s trade policies, not only bought stocks last week, but also took on some of the biggest losers when markets tumbled over [President](https://www.whitehouse.gov/) [Trump](https://www.donaldjtrump.com/)’s tariff war.
+April 7, 2025, 8:52 AM EDT
+By Steve Benen
 
-On [Wednesday morning, the president posted](https://www.independent.co.uk/news/world/americas/us-politics/batya-ungar-sargon-obama-bush-b2731721.html) on his social media site truth Social: “NOW IS A GREAT TIME TO BUY!!”
+On Wednesday afternoon, shortly after stock market trading had wrapped up for the day, [Donald Trump](https://www.donaldjtrump.com/) kicked off a trade war with sweeping international trade tariffs. On Thursday, Wall Street followed international markets off a cliff.
 
-[Greene](https://greene.house.gov/), it appears, listened to the advice.
+It was at that point that [Treasury](https://home.treasury.gov/) [Secretary Scott Bessent](https://home.treasury.gov/about/general-information/officials/scott-bessent) said, in apparent seriousness, that the two developments might’ve been unrelated.
 
-The [congresswoman bought stock in big brands](https://www.independent.co.uk/topic/congresswoman) like [Lululemon](https://www.lululemon.com/), [Dell Computer](https://www.dell.com/ ), [Amazon](https://www.amazon.com/), and the parent of [Restoration Hardware](https://rh.com/) after they dropped by around 40 percent on average late last week.
+“For everyone who thinks these market declines are all based on the [president](https://www.whitehouse.gov/)’s economic policies, I can tell you that this market decline started with the [Chinese](https://www.gov.cn/) AI announcement of [DeepSeek](https://github.com/deepseek-ai),” [Bessent told](https://finance.yahoo.com/news/treasurys-bessent-market-drop-mag-185141328.html) far-right media personality [Tucker Carlson](https://tuckercarlson.com/), in an interview that was released on Friday.
 
-Data from a required three-page financial holdings document, seen by [The Associated Press](https://www.apnews.com/), doesn't disclose exactly how much she paid for the stocks, only ranges and dates. As of Wednesday’s market close, some of her investments were already beginning to pay off.
+Two days later, [as NBC News reported](https://www.nbcnews.com/politics/trump-administration/bessent-americans-retire-arent-worried-stock-market-recession-rcna199892), the [Cabinet secretary](https://home.treasury.gov/about/general-information/officials/scott-bessent) kept talking, though he hardly made matters any better.
 
-[RH](https://rh.com/), formerly called [Restoration Hardware](https://rh.com/), jumped more than a third since Friday's close when she bought it after a collapse in price that even shook the head of the furniture retailer, [CEO Gary Friedman](https://ir.rh.com/corporate-governance/leadership), who responded “oh shit” during a company call when the tariffs were announced.
+> In an interview with [NBC News](https://www.nbcnews.com/)’ “[Meet the Press](https://www.nbcnews.com/meet-the-press-full-episodes),” [Bessent](https://home.treasury.gov/about/general-information/officials/scott-bessent) called it a “false narrative” that people who are close to retiring may be reluctant after their retirement savings may have dropped last week because of the stock market downturn. “I think that’s a false narrative,” he told moderator Kristen Welker. “[Americans](https://www.usa.gov/) who want to retire right now, the [Americans](https://www.usa.gov/) who put away for years in their savings accounts, I think they don’t look at the day-to-day fluctuations.”
 
-[Dell](https://www.dell.com/) has jumped 9 percent since [Greene](https://greene.house.gov/) bought the stock last week after it had lost more than half its value.
+Perhaps [Bessent](https://home.treasury.gov/about/general-information/officials/scott-bessent) should have conversations with a wider range of people — because there were countless [Americans](https://www.usa.gov/) looking at the “day-to-day fluctuations” in their retirement accounts last week.
 
-Lawmakers from both major parties have previously proposed bills banning members from stock trading because of the apparent [conflict of interest](https://www.independent.co.uk/topic/conflict-of-interest) in owning shares of companies they can heavily influence with positions they can take in office.
+In the same interview, the [treasury secretary](https://home.treasury.gov/about/general-information/officials/scott-bessent) — ostensibly one of the most powerful and influential figures on the planet when it comes to the economy and financial markets — told host [mKristen Welker, “[W]hat I’ve been very impressed with is the market infrastructure, that we had record volume on Friday and everything is working very smoothly. So, the [American](https://www.usa.gov/) people, they can be very, take great comfort in that.”
 
-Asked whether she made the stock purchases herself and about possible conflicts of interest, [Greene](https://greene.house.gov/) said in a statement to [AP](https://www.apnews.com/): “I have signed a fiduciary agreement to allow my financial advisor to control my investments. All of my investments are reported with full transparency.”
+Why would [Americans](https://www.usa.gov/) take “great comfort” in the fact that trillions of dollars of wealth disappeared “very smoothly”? I’m not sure, though [Bessent](https://home.treasury.gov/about/general-information/officials/scott-bessent) delivered the line as if he believed it made sense. It did not.
 
-[Greene](https://greene.house.gov/) is one of the MAGA faithfuls that have been outspoken in her support of [Trump](https://www.donaldjtrump.com/)’s tariffs. “Tariffs are a powerful proven source of leverage to protect our national interests,” she posted on [X](https://x.com/) previously, adding, “We will win this trade war.”
+Stepping back, it’s worth emphasizing that [Bessent](https://home.treasury.gov/about/general-information/officials/scott-bessent) was hardly seen as a controversial [Cabinet](https://www.whitehouse.gov/administration/the-cabinet/) choice for [Trump](https://www.donaldjtrump.com/). On the contrary, he was seen as one of the president’s most mainstream personnel choices for his second term, and the [Treasury secretary](https://home.treasury.gov/about/general-information/officials/scott-bessent) was confirmed with [more Democratic votes](https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00019.htm) than most of his fellow secretaries.
 
-[Trump](https://www.donaldjtrump.com/)’s sudden and surprising pause to the tariff’s announced on Wednesday has led some [Democrats](https://www.democrats.org/) to question whether market manipulation or [insider trading](https://www.independent.co.uk/topic/insider-trading) has occurred.
+Upon his confirmation, many hoped that [Bessent](https://home.treasury.gov/about/general-information/officials/scott-bessent) would be a voice of reason in the [Trump](https://www.donaldjtrump.com/) [administration](https://www.whitehouse.gov/administration/). On a team filled with cranks and charlatans, [Bessent](https://home.treasury.gov/about/general-information/officials/scott-bessent) might be in a position to steer the [president](https://www.whitehouse.gov/) in responsible directions, serving as the proverbial “adult in the room.”
 
-The [Associated Press](https://www.apnews.com/) contributed to this report.
+But those hopes have been dashed. As [The Washington Post](https://www.washingtonpost.com/)’s [Catherine Rampell](https://www.washingtonpost.com/people/catherine-rampell/) recently summarized [in a column](https://www.washingtonpost.com/opinions/2025/02/04/rubio-bessent-trump-administration/) focused on the [treasury secretary](https://home.treasury.gov/about/general-information/officials/scott-bessent), “The ‘adults in the room’ sometimes failed in [Trump](https://www.donaldjtrump.com/)’s first term. Now, they’re not even pretending to try.”
 
-[The Independent](https://www.independent.co.uk) is the world’s most free-thinking news brand, providing global news, commentary and analysis for the independently-minded. We have grown a huge, global readership of independently minded individuals, who value our trusted voice and commitment to positive change. Our mission, making change happen, has never been as important as it is today.
+[MSNBC](https://www.msnbc.com/)’s [Stephanie Ruhle](https://www.msnbc.com/11th-hour) [told viewers](https://newrepublic.com/post/193634/donald-trump-treasury-scott-bessent-tariffs-quit), “My sources say that [Scott Bessent](https://home.treasury.gov/about/general-information/officials/scott-bessent) is kind of the odd man out here and, in the inner circle that [Trump](https://www.donaldjtrump.com/) has, he’s not even close to [Scott Bessent](https://home.treasury.gov/about/general-information/officials/scott-bessent) or listening to him. Some have said to me, he’s looking for an exit door to try to get himself to the [Fed](https://www.federalreserve.gov/), because in the last few days he’s really hurting his own credibility and history in the markets.”
 
-### [Rep. Marjorie Taylor Greene bought stocks hit hard by Trump tariffs during the market meltdown / AP News](https://apnews.com/article/greene-stocks-conflicts-interest-restoration-hardware-tariffs-trump-f9922a970c837cb76dd8ddc01f20f51d)
-By  BERNARD CONDON
-Updated 11:09 AM EDT, April 11, 2025
+Of course, if [Bessent](https://home.treasury.gov/about/general-information/officials/scott-bessent) is worried about salvaging his credibility, he might already be too late.
 
-NEW YORK (AP) — As stocks tanked on tariff fears, [Marjorie Taylor Greene (T-GA14)](https://greene.house.gov/) showed her faith in the [president](https://www.whitehouse.gov/) not just with words but dollar bills.
+@RalphHightower: [Bessent](https://home.treasury.gov/about/general-information/officials/scott-bessent) has already tarnished his reputation by signing on with [Trump](https://www.donaldjtrump.com/). [Trump](https://www.donaldjtrump.com/) is a resume killer
 
-The [Republican](https://www.gop.com/) [congresswoman](https://www.congress.gov/), an avid supporter of the [Trump](https://www.donaldjtrump.com/) [administration](https://www.whitehouse.gov/administration/)’s trade policies, not only bought stocks last week as others dumped them in a panic — she scooped up some of the biggest losers.
+| [Home - Federal Reserve Bank of Boston](https://www.bostonfed.org/) |
+|---|
+| [Federal Reserve Board - About the Fed](https://www.federalreserve.gov/aboutthefed.htm) |
+| [Federal Reserve Bank of New York - Serving the Second District and the Nation](https://www.newyorkfed.org/) |
+| [Federal Reserve Bank of Philadelphia](https://www.federalreserve.gov/aboutthefed/federal-reserve-system-philadelphia.htm) |
+| [Federal Reserve Bank of Philadelphia](https://www.philadelphiafed.org/) |
+| [Federal Reserve Bank of Cleveland](https://www.clevelandfed.org/) |
+| [Federal Reserve Bank of Richmond](https://www.richmondfed.org/) |
+| [Home - Federal Reserve Bank of Atlanta](https://www.atlantafed.org/) |
+| [Federal Reserve Bank of Chicago](https://www.chicagofed.org/) |
+| [Federal Reserve Bank of St. Louis / Economic Resources & Data](https://www.stlouisfed.org/) |
+| [Federal Reserve Bank of Minneapolis](https://www.minneapolisfed.org/) |
+| [Federal Reserve Bank of Kansas City](https://www.kansascityfed.org/) |
+| [Federal Reserve Bank of Dallas - Dallasfed.org](https://www.dallasfed.org/) |
+| [Federal Reserve Bank of San Francisco](https://www.frbsf.org/) |
 
-[Lululemon](https://www.lululemon.com/), [Dell Computer](https://www.dell.com/), [Amazon](https://www.amazon.com/), the parent of [Restoration Hardware](https://rh.com/) and a few others hit hard by [Trump](https://www.donaldjtrump.com/)’s tariff threats were down 40% on average late last week when she pounced.
-
-Data from a required three-page financial holdings document doesn’t disclose exactly how much she paid for the stocks, only ranges and dates.
-
-But however much she spent, some of her bets are working out so far, at least as of Wednesday’s close.
-
-[RH](https://rh.com/), formerly called [Restoration Hardware](https://rh.com/), is [Greene](https://greene.house.gov/)’s clear winner. It jumped more than a third since since Friday’s close when she bought it after a stunning collapse in price that shook even the head of the furniture retailer.
-
-“Oh, shit!,” said [RH](https://rh.com/) [CEO Gary Friedman](https://ir.rh.com/corporate-governance/leadership) in a conference call last week as the stock plunged.
-
-[Dell](https://www.dell.com/) has jumped 9% since [Greene](https://greene.house.gov/) bought the stock last week after it had lost more than half its value.
-
-Lawmakers from both major parties have proposed bills banning members from stock trading because of the apparent conflict of interest in owning shares of companies they can heavily influence with positions they can take in office.
-
-But none of the clunkily named bills -- The [Transparent Representation Upholding Service and Trust in Congress Act](https://www.congress.gov/bill/118th-congress/house-bill/345), for instance -- has been passed. A new bill, [The End Congressional Stock Trading Act](https://www.congress.gov/bill/119th-congress/house-bill/1908), was proposed last month.
-
-Asked whether she made the stock purchases herself and about possible conflicts of interest, [Greene](https://greene.house.gov/) said in a statement: “I have signed a fiduciary agreement to allow my financial advisor to control my investments. All of my investments are reported with full transparency.”
-
-[The MAGA supporter has been outspoken in her support of Trump](https://www.donaldjtrump.com/)’s tariffs.
-
-“Tariffs are a powerful proven source of leverage to protect our national interests,” she posted on [X](https://x.com/) earlier this year, adding “We will win this trade war.”
-
-Investors are not completely convinced.
-
-After surging on Wednesday when [Trump](https://www.donaldjtrump.com/) called a partial halt to the import taxes, stocks were heading down again Thursday.
-
-- [The Independent](https://www.independent.co.uk)
-- [Associated Press](https://www.apnews.com/)
-- [Dell Computer](https://www.dell.com/)
-- [Amazon](https://www.amazon.com/)
-- [Lululemon](https://www.lululemon.com/)
-- [RH](https://rh.com/us/en/sale)
-- [Leadership :: RH (RH)](https://ir.rh.com/corporate-governance/leadership)
-- [Greene, Marjorie](https://greene.house.gov/)
-- [H.R.1908 - 119th Congress (2025-2026): End Congressional Stock Trading Act / Congress.gov / Library of Congress](https://www.congress.gov/bill/119th-congress/house-bill/1908)
-- [H.R.345 - 118th Congress (2023-2024): TRUST in Congress Act / Congress.gov / Library of Congress](https://www.congress.gov/bill/118th-congress/house-bill/345)
-- [Federal Reserve Board](https://www.federalreserve.gov/)
-- [Jerome H. Powell](https://www.federalreserve.gov/aboutthefed/bios/board/powell.htm)
-- [Senate](https://www.senate.gov/)
+- [Canada](https://www.canada.ca/)
+- [Mexico](https://www.gob.mx/)
+- [The State Council of the People's Republic of China](https://english.www.gov.cn/)
+- [中国政府网_中央人民政府门户网站](https://www.gov.cn/)
 - [Donald J Trump](https://www.donaldjtrump.com/)
+- [Federal Reserve Board](https://www.federalreserve.gov/)
+- [Chairman Jerome Powell](https://www.federalreserve.gov/aboutthefed/bios/board/powell.htm)
 - [Supreme Court of the United States (SCOTUS)](https://www.supremecourt.gov/)
 - [US Courts](https://www.uscourts.gov/)
+- [Senate](https://www.senate.gov/)
 - [House of Representatives](https://www.house.gov/)
+- [President Joe Biden](https://bidenwhitehouse.archives.gov/)
+- [President Donald Trump (45)](https://trumpwhitehouse.archives.gov/)
+- [President Donald J Trump (47)](https://www.whitehouse.gov/administration/donald-j-trump=)
+- [Council of Economic Advisers](https://www.whitehouse.gov/cea)
+- [President of the United States (POTUS)](https://www.whitehouse.gov/)
+- [White House (WH)](https://www.whitehouse.gov/)
+- [Donald J Trump](https://www.donaldjtrump.com/)
+- [Federal Reserve Board](https://www.federalreserve.gov/)
+- [Jerome H. Powell](https://www.federalreserve.gov/aboutthefed/bios/board/powell.htm)
 - [U.S. Department of the Treasury](https://home.treasury.gov/)
 - [Scott Bessent](https://home.treasury.gov/about/general-information/officials/scott-bessent)
 - [Department of Commerce (DOC)](https://www.commerce.gov/)
 - [Howard Lutnick](https://www.commerce.gov/about/leadership/howard-lutnick)
-- [Howard W. Lutnick](https://www.linkedin.com/in/howardwlutnick/)
-- [President Donald Trump (45)](https://trumpwhitehouse.archives.gov/)
+- [Regulating Imports with a Reciprocal Tariff to Rectify Trade Practices that Contribute to Large and Persistent Annual United States Goods Trade Deficits](https://www.whitehouse.gov/presidential-actions/2025/04/regulating-imports-with-a-reciprocal-tariff-to-rectify-trade-practices-that-contribute-to-large-and-persistent-annual-united-states-goods-trade-deficits/). Presidential Actions, Executive Orders April 2, 2025
 - [President Donald Trump (47)](https://www.whitehouse.gov/)
 - [President of the United States (POTUS)](https://www.whitehouse.gov/)
+- [America First Trade Policy](https://www223-1600.whitehouse.gov/presidential-actions/2025/01/america-first-trade-policy/). Presidential Actions January 20, 2025
 - [White House (WH)](https://www.whitehouse.gov/)
 - tariffs
 - politics 
 - stupidity 
-- [Report to the President on the America First Trade Policy Executive Summary](https://www.whitehouse.gov/fact-sheets/2025/04/report-to-the-president-on-the-america-first-trade-policy-executive-summary/). Fact Sheets April 3, 2025
-- [Regulating Imports with a Reciprocal Tariff to Rectify Trade Practices that Contribute to Large and Persistent Annual United States Goods Trade Deficits](https://www.whitehouse.gov/presidential-actions/2025/04/regulating-imports-with-a-reciprocal-tariff-to-rectify-trade-practices-that-contribute-to-large-and-persistent-annual-united-states-goods-trade-deficits/). Presidential Actions, Executive Orders April 2, 2025
 - [Further Amendment to Duties Addressing the Synthetic Opioid Supply Chain in the People’s Republic of China as Applied to Low-Value Imports](https://www.whitehouse.gov/presidential-actions/2025/04/further-amendment-to-duties-addressing-the-synthetic-opioid-supply-chain-in-the-peoples-republic-of-china-as-applied-to-low-value-imports/). Presidential Actions, Executive Orders April 2, 2025
 - [Fact Sheet: President Donald J. Trump Declares National Emergency to Increase our Competitive Edge, Protect our Sovereignty, and Strengthen our National and Economic Security](https://www.whitehouse.gov/fact-sheets/2025/04/fact-sheet-president-donald-j-trump-declares-national-emergency-to-increase-our-competitive-edge-protect-our-sovereignty-and-strengthen-our-national-and-economic-security/). Fact Sheets April 2, 2025
 - [Regulating Imports with a Reciprocal Tariff to Rectify Trade Practices that Contribute to Large and Persistent Annual United States Goods Trade Deficits](https://www.whitehouse.gov/presidential-actions/2025/04/regulating-imports-with-a-reciprocal-tariff-to-rectify-trade-practices-that-contribute-to-large-and-persistent-annual-united-states-goods-trade-deficits/). Presidential Actions, Executive Orders April 2, 2025
@@ -146,4 +133,3 @@ After surging on Wednesday when [Trump](https://www.donaldjtrump.com/) called a 
 - [Imposing Duties to Address the Flow of Illicit Drugs Across Our Northern Border](https://www.whitehouse.gov/presidential-actions/2025/02/imposing-duties-to-address-the-flow-of-illicit-drugs-across-our-national-border/). Presidential Actions February 1, 2025
 - [Fact Sheet: President Donald J. Trump Imposes Tariffs on Imports from Canada, Mexico and China](https://www.whitehouse.gov/fact-sheets/2025/02/fact-sheet-president-donald-j-trump-imposes-tariffs-on-imports-from-canada-mexico-and-china/). Fact Sheets February 1, 2025
 - [Imposing Duties to Address the Situation at Our Southern Border](https://www.whitehouse.gov/presidential-actions/2025/02/imposing-duties-to-address-the-situation-at-our-southern-border/). Presidential Actions February 1, 2025
-- [America First Trade Policy](https://www.whitehouse.gov/presidential-actions/2025/01/america-first-trade-policy/). Presidential Actions January 20, 2025

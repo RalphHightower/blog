@@ -18,6 +18,8 @@ The telephone numbers below have called and there is an empty person on the othe
 
 | Telephone Number | Location | Date Time[^11] | Caller | Social Media |
 |---|---|---|---|---|
+| <a href="tel:+18038246349">+1 (803) 824-6349</a> | SC. | 2025-04-12 03:28 PM | — | |
+| <a href="tel:+18393569178">+1 (839) 356-9178</a> | SC. | 2025-04-12 10:44 AM | Potential Spam | |
 | <a href="tel:+18036964142">+1 (803) 696-4142</a> | SC. | 2025-04-11 03:13 PM | Sounds of Victory Outreach | |
 | <a href="tel:+18036616216">+1 (803) 661-6216</a> | SC. Columbia | 2025-04-11 01:18 PM | Jessica Pickett | |
 | <a href="tel:+18035784641">+1 (803) 578-4641</a> | SC. Fort Mill | 2025-04-11 11:11 AM | — | |

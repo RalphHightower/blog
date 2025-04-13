@@ -31,7 +31,7 @@ Tesla lobbied the White House this month warning that it was exposed to retaliat
 
 However, in two requests to the [US Trade Representative](https://www.ustr.gov/) last week, [SpaceX](https://www.spacex.com/) requested tariff exemptions on equipment used to print and solder circuit boards.
 
-One is an industrial soldering system made by [Illinois Tool Works (ITW)](https://www.itw.com/), an American company that manufactures in [China](https://www.gov.cn/). The other is a circuit board printing machine made in [China](https://www.gov.cn/) by the Japanese company [[Fuji](https://www.fiji.gov.fj/)]().
+One is an industrial soldering system made by [Illinois Tool Works (ITW)](https://www.itw.com/), an American company that manufactures in [China](https://www.gov.cn/). The other is a circuit board printing machine made in [China](https://www.gov.cn/) by the Japanese company [Fuji](https://www.fiji.gov.fj/).
 
 The equipment have [25pc import tariffs](https://www.telegraph.co.uk/business/0/impact-of-trump-trade-tariffs-on-uk-world/) under rules introduced during Trump’s first administration.
 
@@ -40,7 +40,7 @@ The equipment have [25pc import tariffs](https://www.telegraph.co.uk/business/0/
 
 “Once production is moved to the US, [SpaceX](https://www.spacex.com/) will procure domestically to support US production,” its application said.
 
-It said the [[Fuji](https://www.fiji.gov.fj/)]() system was available from alternative non-US sources but only at a higher cost.
+It said the [Fuji](https://www.fiji.gov.fj/) system was available from alternative non-US sources but only at a higher cost.
 
 [SpaceX](https://www.spacex.com/) said they are used to “support production of over 90,000 units a week”, indicating they are used to make terminals for [Musk](https://x.com/elonmusk/)’s satellite internet service, [Starlink](https://www.starlink.com/). The company said last year that its [Starlink](https://www.starlink.com/) factory in [Texas](https://www.texas.gov/) is capable of producing 90,000 broadband terminals a week.
 
@@ -74,8 +74,9 @@ The company’s [Starlink](https://www.starlink.com/) system, which is [widely u
 - [Ukraine](https://www.gov.ua/)
 - [Vladimir Putin](http://kremlin.ru/)
 - [Russia](http://government.ru/)
+- [Elon Musk](https://ir.tesla.com/corporate/elon-musk)
 - [Elon Musk](https://x.com/elonmusk/)
-- [Boring](https://www.boringcompany.com/)
+- [The Boring Company](https://www.boringcompany.com/)
 - [Neuralink](https://neuralink.com/)
 - [SpaceX](https://www.spacex.com/)
 - [Starlink](https://www.starlink.com/)
@@ -83,8 +84,8 @@ The company’s [Starlink](https://www.starlink.com/) system, which is [widely u
 - [Twitter](https://twitter.com/)
 - [ X ](https://x.com/)
 - [xAI](https://x.ai/)
-- [Department of Commerce (DOC)](https://www.commerce.gov/)
 - [Department or Government Efficiency (DOGE)](https://www.doge.gov/)
+- [Department of Commerce (DOC)](https://www.commerce.gov/)
 - [President Barack Obama](https://obamawhitehouse.archives.gov/)
 - [President Joe Biden](https://bidenwhitehouse.archives.gov/)
 - [President Donald Trump](https://www.whitehouse.gov/)

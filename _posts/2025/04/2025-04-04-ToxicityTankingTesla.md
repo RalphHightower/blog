@@ -24,10 +24,11 @@ The firm now expects Q1 EPS of $0.36 in comparison to its prior estimate of $0.4
 
 [Seeking Alpha analysts](https://seekingalpha.com/symbol/TSLA/analysis?feed_item_type=news&fr=1&) have turned more bearish on [Tesla](https://www.tesla.com/) [(TSLA)](https://seekingalpha.com/symbol/TSLA?feed_item_type=news&fr=1&), with 7 of the last 8 ratings published at either Sell or Strong Sell.
 
-Shares of [Tesla](https://www.tesla.com/) [(TSLA)](https://seekingalpha.com/symbol/TSLA?feed_item_type=news&fr=1&) were down 5.3% in premarket trading to $253.06 after shedding 5.5% on Thursday. In terms of market cap, [Tesla](https://www.tesla.com/) [(TSLA)](https://seekingalpha.com/symbol/TSLA?feed_item_type=news&fr=1&) is still valued by the market at more than [Toyota](https://www.toyota.com/) ([TM](https://seekingalpha.com/symbol/TM?feed_item_type=news&fr=1&)), [Ferrari](https://www.ferrari.com/) ([RACE](https://seekingalpha.com/symbol/RACE?feed_item_type=news&fr=1&)), [General Motors](https://www gm.com/) ([GM](https://seekingalpha.com/symbol/GM?feed_item_type=news&fr=1&)), [Honda](https://www.honda.com/) ([HMC](https://seekingalpha.com/symbol/HMC?feed_item_type=news&fr=1&)), [Stellantis]() ([STLA](https://seekingalpha.com/symbol/STLA?feed_item_type=news&fr=1&)), and [Ford Motor](https://www.ford.com/) ([F](https://seekingalpha.com/symbol/F?feed_item_type=news&fr=1&)) combined. 
+Shares of [Tesla](https://www.tesla.com/) [(TSLA)](https://seekingalpha.com/symbol/TSLA?feed_item_type=news&fr=1&) were down 5.3% in premarket trading to $253.06 after shedding 5.5% on Thursday. In terms of market cap, [Tesla](https://www.tesla.com/) [(TSLA)](https://seekingalpha.com/symbol/TSLA?feed_item_type=news&fr=1&) is still valued by the market at more than [Toyota](https://www.toyota.com/) ([TM](https://seekingalpha.com/symbol/TM?feed_item_type=news&fr=1&)), [Ferrari](https://www.ferrari.com/) ([RACE](https://seekingalpha.com/symbol/RACE?feed_item_type=news&fr=1&)), [General Motors](https://www gm.com/) ([GM](https://seekingalpha.com/symbol/GM?feed_item_type=news&fr=1&)), [Honda](https://www.honda.com/) ([HMC](https://seekingalpha.com/symbol/HMC?feed_item_type=news&fr=1&)), [Stellantis](https://www.stellantis.com/en) ([STLA](https://seekingalpha.com/symbol/STLA?feed_item_type=news&fr=1&)), and [Ford Motor](https://www.ford.com/) ([F](https://seekingalpha.com/symbol/F?feed_item_type=news&fr=1&)) combined. 
 
+- [Elon Musk](https://ir.tesla.com/corporate/elon-musk)
 - [Elon Musk](https://x.com/elonmusk/)
-- [Boring](https://www.boringcompany.com/)
+- [The Boring Company](https://www.boringcompany.com/)
 - [Neuralink](https://neuralink.com/)
 - [SpaceX](https://www.spacex.com/)
 - [Starlink](https://www.starlink.com/)

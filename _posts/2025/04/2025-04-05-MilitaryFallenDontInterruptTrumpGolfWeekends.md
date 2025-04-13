@@ -89,6 +89,49 @@ That [Trump](https://www.donaldjtrump.com/) would put his personal finances and 
 | **Scotland, Ayrshire** |
 | **[Trump Turnberry](https://www.turnberry.co.uk/)** <br /> Maidens Road KA26 9LT Turnberry <br /> Ayrshire Scotland <br /> <a href="tel:+441655331000">+44.1655.331.000</a> <br /> <a href="tel:+4401655334115">+44 01655 334115</a> |
 
+- [Canada](https://www.canada.ca/)
+- [Mexico](https://www.gob.mx/)
+- [The State Council of the People's Republic of China](https://english.www.gov.cn/)
+- [中国政府网_中央人民政府门户网站](https://www.gov.cn/)
+- [America First Trade Policy](https://www.whitehouse.gov/presidential-actions/2025/01/america-first-trade-policy/). Presidential Actions January 20, 2025
+- [Eric F. Trumpl](https://www.linkedin.com/in/erictrump/)
+- [PGATOUR.COM - Official Home of Golf and the FedExCup - PGA TOUR](https://www.pgatour.com/)
+- [LIV Golf](https://www.livgolf.com/)
+- [LIV Golf Miami 2025](https://www.livgolf.com/schedule/miami-2025/course)
+- [Dover AFB home](https://www.dover.af.mil/)
+- [3rd Infantry Division](https://home.army.mil/stewart/units/3ID)
+- [California (CA)](https://www.ca.gov/)
+- [City of Glendale, CA](https://www.glendaleca.gov/)
+- [Illinois (IL)](https://www.illinois.gov/)
+- [City of Joliet, IL](https://www.joliet.gov/)
+- [Michigan (MI)](https://www.michigan.gov/)
+- [Battle Creek, MI / Official Website](https://battlecreekmi.gov/)
+- [Guam's Villages - MCOG /Mayors Council of Guam](https://www.mcog.guam.gov/villages-list)
+- [Government of the Republic of Lithuania](https://lrv.lt/)
+- [Miami International Airport - iflyMIA - Miami International Airport](https://miami-airport.com/)
+- [Emoluments Clause and Presidential Compensation / Constitution Annotated / Congress.gov / Library of Congress](https://constitution.congress.gov/browse/essay/artII-S1-C7-1/ALDE_00000233/)
+- [Trump National Doral Golf Club](https://www.trumpgolfdoral.com/)
+- [The Mar-a-Lago Club](https://www.maralagoclub.com/)
+- [Trump International Golf Club – Palm Beach](https://www.trumpinternationalpalmbeaches.com/)
+- [Federal Reserve Board](https://www.federalreserve.gov/)
+- [Jerome H. Powell](https://www.federalreserve.gov/aboutthefed/bios/board/powell.htm)
+- [Donald J Trump](https://www.donaldjtrump.com/)
+- [Susie (Susan Summerall) Wiles](https://www.linkedin.com/in/susiewiles/)
+- [Supreme Court of the United States (SCOTUS)](https://www.supremecourt.gov/)
+- [US Courts](https://www.uscourts.gov/)
+- [Senate](https %//www.senate.gov/)
+- [House of Representatives](https://www.house.gov/)
+- [U.S. Department of the Treasury](https://home.treasury.gov/)
+- [Department of Commerce (DOC)](https://www.commerce.gov/)
+- [Howard Lutnick](https://www.commerce.gov/about/leadership/howard-lutnick)
+- [Howard W. Lutnick](https://www.linkedin.com/in/howardwlutnick/)
+- [President Donald Trump (45)](https://trumpwhitehouse.archives.gov/)
+- [President Donald Trump (47)](https://www.whitehouse.gov/)
+- [President of the United States (POTUS)](https://www.whitehouse.gov/)
+- [White House (WH)](https://www.whitehouse.gov/)
+- tariffs
+- politics 
+- stupidity 
 - [Report to the President on the America First Trade Policy Executive Summary](https://www.whitehouse.gov/fact-sheets/2025/04/report-to-the-president-on-the-america-first-trade-policy-executive-summary/). Fact Sheets April 3, 2025
 - [Regulating Imports with a Reciprocal Tariff to Rectify Trade Practices that Contribute to Large and Persistent Annual United States Goods Trade Deficits](https://www.whitehouse.gov/presidential-actions/2025/04/regulating-imports-with-a-reciprocal-tariff-to-rectify-trade-practices-that-contribute-to-large-and-persistent-annual-united-states-goods-trade-deficits/). Presidential Actions, Executive Orders April 2, 2025
 - [Further Amendment to Duties Addressing the Synthetic Opioid Supply Chain in the People’s Republic of China as Applied to Low-Value Imports](https://www.whitehouse.gov/presidential-actions/2025/04/further-amendment-to-duties-addressing-the-synthetic-opioid-supply-chain-in-the-peoples-republic-of-china-as-applied-to-low-value-imports/). Presidential Actions, Executive Orders April 2, 2025
@@ -131,42 +174,3 @@ That [Trump](https://www.donaldjtrump.com/) would put his personal finances and 
 - [Imposing Duties to Address the Flow of Illicit Drugs Across Our Northern Border](https://www.whitehouse.gov/presidential-actions/2025/02/imposing-duties-to-address-the-flow-of-illicit-drugs-across-our-national-border/). Presidential Actions February 1, 2025
 - [Fact Sheet: President Donald J. Trump Imposes Tariffs on Imports from Canada, Mexico and China](https://www.whitehouse.gov/fact-sheets/2025/02/fact-sheet-president-donald-j-trump-imposes-tariffs-on-imports-from-canada-mexico-and-china/). Fact Sheets February 1, 2025
 - [Imposing Duties to Address the Situation at Our Southern Border](https://www.whitehouse.gov/presidential-actions/2025/02/imposing-duties-to-address-the-situation-at-our-southern-border/). Presidential Actions February 1, 2025
-- [America First Trade Policy](https://www.whitehouse.gov/presidential-actions/2025/01/america-first-trade-policy/). Presidential Actions January 20, 2025
-- [Eric F. Trumpl](https://www.linkedin.com/in/erictrump/)
-- [PGATOUR.COM - Official Home of Golf and the FedExCup - PGA TOUR](https://www.pgatour.com/)
-- [LIV Golf](https://www.livgolf.com/)
-- [LIV Golf Miami 2025](https://www.livgolf.com/schedule/miami-2025/course)
-- [Dover AFB home](https://www.dover.af.mil/)
-- [3rd Infantry Division](https://home.army.mil/stewart/units/3ID)
-- [California (CA)](https://www.ca.gov/)
-- [City of Glendale, CA](https://www.glendaleca.gov/)
-- [Illinois (IL)](https://www.illinois.gov/)
-- [City of Joliet, IL](https://www.joliet.gov/)
-- [Michigan (MI)](https://www.michigan.gov/)
-- [Battle Creek, MI / Official Website](https://battlecreekmi.gov/)
-- [Guam's Villages - MCOG /Mayors Council of Guam](https://www.mcog.guam.gov/villages-list)
-- [Government of the Republic of Lithuania](https://lrv.lt/)
-- [Miami International Airport - iflyMIA - Miami International Airport](https://miami-airport.com/)
-- [Emoluments Clause and Presidential Compensation / Constitution Annotated / Congress.gov / Library of Congress](https://constitution.congress.gov/browse/essay/artII-S1-C7-1/ALDE_00000233/)
-- [Trump National Doral Golf Club](https://www.trumpgolfdoral.com/)
-- [The Mar-a-Lago Club](https://www.maralagoclub.com/)
-- [Trump International Golf Club – Palm Beach](https://www.trumpinternationalpalmbeaches.com/)
-- [Federal Reserve Board](https://www.federalreserve.gov/)
-- [Jerome H. Powell](https://www.federalreserve.gov/aboutthefed/bios/board/powell.htm)
-- [Donald J Trump](https://www.donaldjtrump.com/)
-- [Susie (Susan Summerall) Wiles](https://www.linkedin.com/in/susiewiles/)
-- [Supreme Court of the United States (SCOTUS)](https://www.supremecourt.gov/)
-- [US Courts](https://www.uscourts.gov/)
-- [Senate](https %//www.senate.gov/)
-- [House of Representatives](https://www.house.gov/)
-- [U.S. Department of the Treasury](https://home.treasury.gov/)
-- [Department of Commerce (DOC)](https://www.commerce.gov/)
-- [Howard Lutnick](https://www.commerce.gov/about/leadership/howard-lutnick)
-- [Howard W. Lutnick](https://www.linkedin.com/in/howardwlutnick/)
-- [President Donald Trump (45)](https://trumpwhitehouse.archives.gov/)
-- [President Donald Trump (47)](https://www.whitehouse.gov/)
-- [President of the United States (POTUS)](https://www.whitehouse.gov/)
-- [White House (WH)](https://www.whitehouse.gov/)
-- tariffs
-- politics 
-- stupidity 
