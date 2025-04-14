@@ -7,7 +7,7 @@ date: 2025-04-13 2:54 PM
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: "January 6, 2021 Insurrection Documents Links"
+title: "Federal: 2020 Election Interference, January 6 Insurrection"
 ---
 
 ## Select Committee to Investigate the January 6th Attack on the United States Capitol
