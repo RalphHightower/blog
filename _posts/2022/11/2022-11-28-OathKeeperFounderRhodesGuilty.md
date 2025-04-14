@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: []
+tags: [Christopher Wray, Sedition, Oath Keepers, Elmer Stewart Rhodes III, Kelly Meggs, Kenneth Harrelson, Jessica Watkins, Thomas Caldwell, Department of Justice (DOJ), Federal Bureau of Investigation (FBI), Christopher Wray, US Courts, Electoral College, January 6 2021 Insurrection, Capitol, Congress, Senate, House of Representatives, President Trump Trump (45), President Joe Biden, politics]
 categories: [Donald Trump]
 date: 2022-11-29 8:39 PM
 excerpt: ''
@@ -67,11 +67,12 @@ Updated November 30, 2022
 - [Federal Bureau of Investigation (FBI)](https://www.fbi.gov/)
 - Christopher Wray 
 - [US Courts](https://www.uscourts.gov/)
+- Electoral College
 - January 6, 2021 Insurrection
 - [Capitol](https://www.congress.gov/)
 - [Congress](https://www.congress.gov/)
 - [Senate](https://www.senate.gov/)
-- [House of Representatives](https://www.house.gov/(
+- [House of Representatives](https://www.house.gov/)
 - [President Trump Trump (45)](https://trumpwhitehouse.archives.gov/)
 - [President Joe Biden](https://bidenwhitehouse.archives.gov/)
-
+- politics 

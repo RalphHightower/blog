@@ -1,6 +1,8 @@
 ---
 layout: post
-tags: []
+tags: [President, Constitution, Social Security Medicare, 
+Veterans, Director of the Office of Personnel Management (OPM), Office of Management and Budget (OMB), Director of OPM, 
+Administrator of the United States DOGE Service (USDS), Internal Revenue Service (IRS), Secretary of the Treasury, Director of OMB, Administrator of USDS, section 3161 of title 5, United States Code, politics]
 categories: [Donald Trump]
 date: 2025-01-22 11:51 AM
 #excerpt: ''
@@ -28,3 +30,18 @@ In carrying out this memorandum, the heads of executive departments and agencies
 This memorandum does not limit the nomination and appointment of officials to positions requiring Presidential appointment or Senate confirmation, the appointment of officials to non-career positions in the Senior Executive Service or to Schedule A or C positions in the Excepted Service, the appointment of officials through temporary organization hiring authority pursuant to [section 3161 of title 5, United States Code](https://uscode.house.gov/view.xhtml?req=(title:5%20section:3161%20edition:prelim)), or the appointment of any other non-career employees or officials if approved by agency leadership appointed by the [President](https://www.whitehouse.gov/).  Moreover, it does not limit the hiring of personnel where such a limit would conflict with applicable law.
 
 This memorandum does not abrogate any collective bargaining agreement in effect on the date of this memorandum.
+
+- [President](https://www.whitehouse.gov/)
+- [Constitution](https://constitution.congress.gov/)
+- [Social Security](https://www.ssa.gov/) [Medicare](https://www.medicare.gov/)
+- [Veterans](https://www.va.gov/)
+- [Director of the Office of Personnel Management (OPM)](https://www.opm.gov/)
+- [Office of Management and Budget (OMB)](https://www.whitehouse.gov/omb/)
+- [Director of OPM](https://www.opm.gov/)
+- [Administrator of the United States DOGE Service (USDS)](https://www.usds.gov/)
+- [Internal Revenue Service (IRS)](https://www.irs.gov/)
+- [Secretary of the Treasury](https://home.treasury.gov/)
+- [Director of OMB](https://www.whitehouse.gov/omb/)
+- [Administrator of USDS](https://www.usds.gov/)
+- [section 3161 of title 5, United States Code](https://uscode.house.gov/view.xhtml?req=(title:5%20section:3161%20edition:prelim))
+- politics 
