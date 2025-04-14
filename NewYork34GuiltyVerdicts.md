@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 tags: [New York, Attorney General, Letitia James]
 categories: [Donald Trump, Stormy Daniels, Trump Organization]
 date: 2025-04-13 3:43 PM
