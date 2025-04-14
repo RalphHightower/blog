@@ -15,7 +15,7 @@ title: "All Your Personal Identifiable Information (PII) Are Belong To Us!"
 
 [^1]: [All your base are belong to us - Wikipedia](https://en.wikipedia.org/wiki/All_your_base_are_belong_to_us)
 
-- [Elon Musk’s Department of Government Efficiency (DOGE), aka DOUCE, Are Fucking Up Social Security Computer Systems. Expect Late Payments of 60 to 90 Days]({% link: _posts/2025/03/2025-03-03-MuskDOGETeamFuckingUpSSAComputerSystems.md %})
+- [Elon Musk’s Department of Government Efficiency (DOGE), aka DOUCE, Are Fucking Up Social Security Computer Systems. Expect Late Payments of 60 to 90 Days]({% link _posts/2025/03/2025-03-03-MuskDOGETeamFuckingUpSSAComputerSystems.md %})
 
 ## Martin O'Malley: Musk wants to break Social Security so he can loot it
 
