@@ -111,7 +111,7 @@ Both candidates were polarizing! Trump still is.
 No, I do not have TDS (Trump Derangement Syndrome)[^320]<sup>,</sup>[^325]. I certainly never was a member of the Cult of Trump. Trumpers are infected with RTD[^340]. My assessment of Trump hasn't wavered from when he first announced his candidacy in 2015. He's still a fucking idiot.
 
 [^320]: [Wikipedia — Trump derangement syndrome](https://en.wikipedia.org/wiki/Trump_derangement_syndrome?wprov=sfla1)
-[^325]: Trump's sycophants, acolytes, and cul members, are just as infantile as Trump with his name calling and labeling.
+[^325]: Trump's sycophants, acolytes, and cult members, are just as infantile as Trump with his name calling and labeling.
 [^340]: @RalphHightower: Since Trumpers have their TDS for us, I created the *"Rabid Trump Disease"* for them. Either that, or Trump Cultists.
 
 Trump's actions following the 2020 election should have disqualified him from ever serving again. However, the Trumpers[^330] in the House and Senate chose **"Party Over Country"**
@@ -253,7 +253,7 @@ I have more information on my website: [Ralph Hightower — Website](https://ral
 |---|---|
 | [RalphHightower](https://ralphhightower.github.io/RalphHightower/) GitHub Repositories | Primary Website |
 | [Azure-Resources](https://ralphhightower.github.io/Azure-Resources/ ) | Useful Documents for Azure |
-| [GM-Canada-OnStar-2G-Sunset](https://ralphhightower.github.io/GM-Canada-OnStar-2G-Sunset/ ) | Canada sunsetted cellular CDMA 2G technology in 2015. GM Canada figured out how to retain OnStar functionality in affected vehicles without using a dongle like GM USA. Documents from [(US)[^31] National Highway Transportation Safety Administration (NHTSA) nhtsa\.gov](https://www.nhtsa.gov). |
+| [GM-Canada-OnStar-2G-Sunset](https://ralphhightower.github.io/GM-Canada-OnStar-2G-Sunset/ ) | Canada sunsetted cellular CDMA 2G technology in 2015. GM Canada figured out how to retain OnStar functionality in affected vehicles without using a dongle like GM USA. Documents from (US)[^31] National Highway Transportation Safety Administration (NHTSA) nhtsa\.gov](https://www.nhtsa.gov). |
 | [Sushi](https://ralphhightower.github.io/Sushi/ ) | Right now, it's a place for checklists for checking off sushi menu items in the Columbia, South Carolina metro area (Richland and Lexington counties)[^33]. |
 | [SpaceShuttleMissionSchedule](https://ralphhightower.github.io/SpaceShuttleMissionSchedule/ )[^32] | NASA Space Shuttle Mission Schedule Transfer to Outlook Calendar|
 | [RalphHightower/minimaUSCGamecockSandstorm](https://ralphhightower.github.io/minimaUSCGamecockSandstorm/USCGamecocksSandstorm.html) | USC Gamecock Sandstorm theme derived from [jekyll](https://github.com/jekyll/jekyll ) / [minimaa](https://github.com/jekyll/minima), a one-size-fits-all Jekyll theme for USC Gamecock writers. **[Production Ready]** |
