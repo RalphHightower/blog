@@ -4,7 +4,7 @@ tags: [President, Constitution, Social Security Medicare,
 Veterans, Director of the Office of Personnel Management (OPM), Office of Management and Budget (OMB), Director of OPM, 
 Administrator of the United States DOGE Service (USDS), Internal Revenue Service (IRS), Secretary of the Treasury, Director of OMB, Administrator of USDS, section 3161 of title 5, United States Code, politics]
 categories: [Donald Trump]
-date: 2025-01-22 11:51 PlAM
+date: 2025-01-22 11:51 AM
 #excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
