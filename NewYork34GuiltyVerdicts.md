@@ -7,10 +7,12 @@ date: 2025-04-13 3:43 PM
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: "New York State Court Documents Links: 34 Guilty Verdicts of Business Records Falsification In Relation to Porn Star, Stormy Daniel's, National Enquirer ‘Catch and Kill’"
+title: "New York: 34 Guilty Verdicts. Porn Star Stormy Daniels"
 ---
 
-## New York State Attorney General Document Links
+## New York State Court: 34 Guilty Verdicts of Business Records Falsification In Relation to Porn Star, Stormy Daniel's, National Enquirer ‘Catch and Kill’
+
+### New York State Attorney General Document Links
 
 - [New York](https://www.ny.gov/)
 - [New York State Attorney General](https://ag.ny.gov/)
@@ -60,7 +62,7 @@ title: "New York State Court Documents Links: 34 Guilty Verdicts of Business Rec
 - [New York State Attorney General](https://ag.ny.gov/)
 - [Letitia James / New York State Attorney General](https://ag.ny.gov/about/meet-letitia-james)
 
-## Players 
+### Players 
 
 - [Donald J Trump](https://www.donaldjtrump.com/)
 - [Trump Organization](https://www.trump.com/)
