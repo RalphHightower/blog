@@ -29,7 +29,7 @@ At an Oct. 24, 1973, meeting in the Situation Room, Adm. Thomas Moorer, chairman
 
 Remembering how close Nixon brought us to nuclear war is why I say we cannot trust Donald Trump with the presidency. I don’t think he’d hesitate to use his position as commander in chief for his personal and political benefit. We know this because he has promoted policies that threaten our military, democracy and those who call the United States home.
 
-Multiple times in the past month alone, Trump has said he’d use the military against citizens opposed to his candidacy and he has reshared social media posts that suggest bringing his adversaries, including former President Barack Obama and former Republican Rep. Liz Cheney, before military tribunals. He has repeatedly declared that the country’s biggest threat is from his political opponents, whom he has labeled “the enemy from within.”
+Multiple times in the past month alone, Trump has said he’d use the military against citizens opposed to his candidacy and he has reshared social media posts that suggest bringing his adversaries, including former [President Barack Obama](https://obamawhitehouse.archives.gov/) and former [Republican](https://www.gop.com/) [Rep.](www.house.gov/) [Liz Cheney](https://www.congress.gov/member/liz-cheney/C001109), before military tribunals. He has repeatedly declared that the country’s biggest threat is from his political opponents, whom he has labeled “the enemy from within.”
 
 The thought of Trump exacting retribution by politicizing the American military should terrify us all. It is antithetical to the principles that underpin our democracy, and his plans to do just that should disqualify him from entering the White House again.
 
@@ -57,4 +57,12 @@ I fear that if we abandon this basic tenet of our democracy, my service and that
 
 Jeff McCausland
 
-Jeff McCausland, a retired Army colonel, is a visiting professor at Dickinson College. He commanded a battalion in combat, was a member of the National Security Council and was dean of the U.S. Army War College. He is the author of a new book, "Battle Tested! Gettysburg Leadership Lessons," available on Amazon.9:54 PM
+Jeff McCausland, a retired Army colonel, is a visiting professor at Dickinson College. He commanded a battalion in combat, was a member of the National Security Council and was dean of the U.S. Army War College. He is the author of a new book, "Battle Tested! Gettysburg Leadership Lessons," available on Amazon.
+
+- [Liz Cheney (R-WY)](https://www.congress.gov/member/liz-cheney/C001109)
+- [House of Representatives](https://www.house.gov/)
+- [President Barack Obama](https://obamawhitehouse.archives.gov/)
+- [President Donald J Trump (45)](https://trumpwhitehouse.archives.gov/)
+- [President Joe Biden](https://bidenwhitehouse.archives.gov/)
+- [President of the United States (POTUS)](https://www.whitehouse.gov/)
+- [White House (WH)](https://www.whitehouse.gov/)

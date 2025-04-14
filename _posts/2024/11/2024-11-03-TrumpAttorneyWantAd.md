@@ -26,7 +26,7 @@ Seeks retribution against his perceived political enemies. His list of targets i
 - President Joe Biden and his family; 
 - Manhattan District Attorney Alvin Bragg, who successfully prosecuted Trump in one of his other criminal cases; and 
 - Members of the House Jan. 6 select committee, just to name a few. He has threatened to prosecute a host of unnamed Democratic lawyers, political operatives, “illegal voters” and election officials, as well as judges and court officials. He has pledged not only to fire Smith but also to kick him out of the country.
-- Liz Cheney (R-WY)
+- [Liz Cheney (R-WY)](https://www.congress.gov/member/liz-cheney/C001109)
 - Dick Cheney (R), VP to George W Bush.
 - ? Jerushah Duford, Billy Graham 's granddaughter, Franklin Graham's niece. Oh, and a Trump critic,
 - @RalphHightower – I'll go ahead and put myself on Trump's *"Enemy List"* since I am one of *"The Enemy Within"* since my opinion of Trump is that he's a **ducking idiot**.

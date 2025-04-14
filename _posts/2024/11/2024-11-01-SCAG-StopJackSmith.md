@@ -55,7 +55,7 @@ To view a copy of the brief, click [here](https://www.scag.gov/media/hiijyucp/us
 - [Ken Paxton](https://www.texasattorneygeneral.gov/about-office), [Attorney General](https://www.texasattorneygeneral.gov/) of [Texas](https://www.texas.gov/)
 - [Derek E. Brown](https://attorneygeneral.utah.gov/staff/derek-brown/), [Attorney General](https://attorneygeneral.utah.gov/) of [Utah](https://www.utah.gov/)
 - [John B. McCuskey](https://ago.wv.gov/about/Pages/Meet-The-Attorney-General.aspx), [Attorney General](https://ago.wv.gov/Pages/default.aspx) of [West Virginia](https://www.wv.gov/)
-- - [Supreme Court of the United States (SCOTUS)](https://www.supremecourt.gov/)
+- [Supreme Court of the United States (SCOTUS)](https://www.supremecourt.gov/)
 - [U.S. Courts of Appeals](https://www.uscourts.gov/about-federal-courts/court-role-and-structure/about-us-courts-appeals)
 - [Eleventh Circuit Court of Appeals - Atlanta, GA](https://www.uscourts.gov/federal-court-finder/location/276)
 - [US Courts](https://www.uscourts.gov/)
@@ -71,17 +71,22 @@ To view a copy of the brief, click [here](https://www.scag.gov/media/hiijyucp/us
 - politics
 
 ## [Department of Justice / Special Counsel Jack Smith](https://www.justice.gov/archives/sco-smith)
-### About: [Office of the Attorney General / Attorney General: Merrick B. Garland / United States Department of Justice](https://www.justice.gov/ag/bio/attorney-general-merrick-b-garland)
+
+### About: [Office of the Attorney General / Attorney General: Merrick B. Garland / United States Department of Justice](https://www.justice.gov/ag/bio/attorney-general-merrick-b-garland).
 On November 18, 2022, Jack Smith was appointed by Attorney General Merrick B. Garland to serve as the Special Counsel by [Order No. 5559-2022](https://www.justice.gov/archives/opa/media/1260551/dl?inline)
 - [Statement of Expenditures, October 1, 2023 - March 31, 2024](https://www.justice.gov/sco-smith/media/1364941/dl)
 - [Statement of Expenditures, April 1, 2023 through September 30, 2023](https://www.justice.gov/d9/2024-01/SCO%20John%20L.%20Smith%20-%20SOE%20-%20Apr%201%202023%20to%20Sept%2030%202023_final%201.5.2024_0.pdf)
 - [Statement of Expenditures, November 18, 2022 – March 31, 2023](https://www.justice.gov/archives/media/1304386/dl?inline)
+
 ### News
+
 - [Statement of Special Counsel Jack Smith](https://www.justice.gov/opa/video/statement-special-counsel-jack-smith). June 9, 2023. Video
 - [Special Counsel Jack Smith Delivers Statement](https://www.justice.gov/archives/sco-smith/speech/special-counsel-jack-smith-delivers-statement). June 9, 2023
 - [Statement of Special Counsel Jack Smith](https://www.justice.gov/archives/sco-smith/pr/statement-special-counsel-jack-smith). November 18, 2022
 - [Appointment of a Special Counsel](https://www.justice.gov/opa/pr/appointment-special-counsel-0). November 18, 2022
+
 ### Documents 
+
 - [Letter from Attorney General Garland to the House and Senate Judiciary Committees](https://www.justice.gov/storage/GarlandLetter20250114.pdf). January 14, 2025
 - [Final Report on the Special Counsel’s Investigations and Prosecutions, Volume One: The Election Case](https://www.justice.gov/storage/Report-of-Special-Counsel-Smith-Volume-1-January-2025.pdf). January 2025
 - [Letter from Attorney General Garland to the House and Senate Judiciary Committees](https://www.justice.gov/media/1383641/dl). January 8, 2025
