@@ -30,8 +30,10 @@ Story by Stephen Sorace. October 27, 2024.
 
 [^31]: Numerous former Trump administration staff have provided similar comments. Bolton, one of his many press secretaries.
 
-In fact, former House Republican Conference Chair Liz Cheney has held some public events with Harris, including one in Wisconsin in which Charlie Sykes — an MSNBC Daily columnist and conservative media host who’s also broken with his party and backed Harris — reminded the former Wyoming congresswoman about [Lindsey Graham (T-SC)](https://www.lgraham.senate.gov/)’s on-air comments, and asked for her reaction.
+In fact, former House Republican Conference Chair [Liz Cheney](https://www.congress.gov/member/liz-cheney/C001109) has held some public events with Harris, including one in Wisconsin in which Charlie Sykes — an MSNBC Daily columnist and conservative media host who’s also broken with his party and backed Harris — reminded the former Wyoming congresswoman about [Lindsey Graham (T-SC)](https://www.lgraham.senate.gov/)’s on-air comments, and asked for her reaction.
 
-“Well, don’t listen to [Lindsey Graham (T-SC)](https://www.lgraham.senate.gov/),” Cheney responded. “It’s good life advice, actually.”
+“Well, don’t listen to [Lindsey Graham (T-SC)](https://www.lgraham.senate.gov/),” [Cheney](https://www.congress.gov/member/liz-cheney/C001109) responded. “It’s good life advice, actually.”
 
-It was a funny line, and it generated some applause from the audience, but that’s not all Cheney has had to say on the matter. In fact, at the same event, Cheney also said, “If you wouldn’t ... hire somebody to babysit your kids, you shouldn’t make that guy president of the United States. In this election, we need to elect the person who is the responsible adult.” – Liz Cheney (R-WY)
+It was a funny line, and it generated some applause from the audience, but that’s not all [Cheney](https://www.congress.gov/member/liz-cheney/C001109) has had to say on the matter. In fact, at the same event, [Cheney](https://www.congress.gov/member/liz-cheney/C001109) also said, “If you wouldn’t ... hire somebody to babysit your kids, you shouldn’t make that guy president of the United States. In this election, we need to elect the person who is the responsible adult.” – [Liz Cheney (R-WY)](https://www.congress.gov/member/liz-cheney/C001109)
+
+- [Liz Cheney (R-WY)](https://www.congress.gov/member/liz-cheney/C001109)

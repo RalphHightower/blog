@@ -37,4 +37,6 @@ The lawmakers also agreed to serve "as a voice for calm and reconciliation and s
 
 @RalphHightower: Lord, I hope there is a peaceful transfer of power. As John Micklethwait, Editor-in-chief of Bloomberg News told Trump at the Q&A session at the Economic Club of Chicago: "You had a peaceful transfer of power? Come on President Trump, you had had a peaceful transfer of power compared to Venezuela. But it was by far the most, the worst transfer of power for a long time."[^11]
 
- [^11]: [Law and Order – Part 1: Trump Has No Respect For the Rule of Law / Ralph Hightower/Blog](https://ralphhightower.github.io//blog/2024%20presidential%20election/2024/10/19/Law1NoRespectForRuleOfLaw.html)
+ [^11]: [Law and Order – Part 1: Trump Has No Respect For the Rule of Law]({% link _posts/2024/10/2024-10-19-Law1NoRespectForRuleOfLaw.md %})
+
+- [Liz Cheney (R-WY)](https://www.congress.gov/member/liz-cheney/C001109)

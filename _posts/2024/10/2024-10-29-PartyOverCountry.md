@@ -78,3 +78,4 @@ Seemingly, the only possible explanation for McConnell’s continued acquiescenc
 
 For years, there’s been a raging debate in political circles as to who or what is responsible for Trump’s political rise. But make no mistake: There is a singular explanation for Trump’s continued viability as a candidate — a party of craven and cynical politicians who would rather endorse a narcissistic, ill-tempered and despicable liar than do what they know to be right.
 
+- [Liz Cheney (R-WY)](https://www.congress.gov/member/liz-cheney/C001109)

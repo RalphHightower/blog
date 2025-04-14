@@ -111,5 +111,5 @@ But Chuktan wrote in her order a day later that the court would grant Smith's re
 
 "Allowing a brief from the Government is not 'contrary to law procedure, and custom,' as Defendant claims...it is simply how litigation works," Chutkan's order read in part.
 
-
+- [Liz Cheney (R-WY)](https://www.congress.gov/member/liz-cheney/C001109)
 
