@@ -1,7 +1,7 @@
 ---
 layout: post
-tags: []
-categories: []
+tags: [MSNBC, Department of Labor, Bureau of Labor Statistics, Federal Reserve System, U.S. Department of Agriculture, U.S. Department of Commerce, Department of Government Efficiency (DOGE), White House (WH), President Of The United States (POTUS), Elon Musk, The Boring Company, Neuralink, SpaceX, Starlink, Tesla, Twitter, X, xAI, President Donald J. Trump, politics]
+categories: [Donald Trump]
 date: 2025-02-28 2:24 PM
 #excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
@@ -27,6 +27,7 @@ Weekly jobless claims just hit their highest point in nearly a year - while coff
 - inherited good economy, inflation down
 - SSA staff cut 50% hurts service 
 - DOGE children 
+
 
 - [MSNBC](https://www.msnbc.com/)
 - [Department of Labor](https://www.dol.gov/)
