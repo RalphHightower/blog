@@ -13,13 +13,13 @@ title: "Trump/Musk Alliance Will Gut American Ingenuity, Innovation, and Leaders
 ---
 
 
-@RalphHightower: Before the article about [Trump](https://www.donaldjtrump.com/)’s and [Musk](https://x.com/elonmusk/)'s plan to turn [[NASA](https://www.nasa.gov/), watch [Neil deGrasse Tyson](https://neildegrassetyson.com/)'s video asking the question, "Has [SpaceX](https://www.spacex.com/) Done Anything [NASA](https://www.nasa.gov/) Hasn't?"
+@RalphHightower: Before the article about [Trump](https://www.donaldjtrump.com/)’s and [Musk](https://ir.tesla.com/corporate/elon-musk)'s plan to turn [[NASA](https://www.nasa.gov/), watch [Neil deGrasse Tyson](https://neildegrassetyson.com/)'s video asking the question, "Has [SpaceX](https://www.spacex.com/) Done Anything [NASA](https://www.nasa.gov/) Hasn't?"
 
 [SpaceX](https://www.spacex.com/) will only do things that make money. Yeah, he plans to launch people to [Mars](https://science.nasa.gov/mission/mars-2020-perseverance/). But how is he going to pay for it? The research? The development? The testing?
 
 Nobody thought about sending men to the moon until president [John F Kennedy](https://www.jfklibrary.org/learn/about-jfk/life-of-john-f-kennedy) gave his famous ["We will go to the moon speech"](https://www.jfklibrary.org/asset-viewer/archives/usg-15-29-2) at [Rice University](https://www.rice.edu/). At the time, but [Russia](http://government.ru/) had shocked America by launching Sputnik. We were behind. Both nations had nuclear missiles pointed at each other.
 
-Would [Musk](https://x.com/elonmusk/) develop the [James Webb Space Telescope](https://science.nasa.gov/mission/webb/)? No. There's no money in the venture.
+Would [Musk](https://ir.tesla.com/corporate/elon-musk) develop the [James Webb Space Telescope](https://science.nasa.gov/mission/webb/)? No. There's no money in the venture.
 
 [Voyager](https://science.nasa.gov/mission/voyager/)? Still exploring using 1969's technology. No.
 
@@ -41,19 +41,19 @@ November 19, 2024
 
 Here are the key points from the article:
 
-- **[NASA](https://www.nasa.gov/)'s Future**: President-elect [Donald Trump](https://www.donaldjtrump.com/) and Elon [Musk](https://x.com/elonmusk/)'s plans could turn [NASA](https://www.nasa.gov/) into a contracting agency, heavily reliant on [SpaceX](https://www.spacex.com/).
+- **[NASA](https://www.nasa.gov/)'s Future**: President-elect [Donald Trump](https://www.donaldjtrump.com/) and Elon [Musk](https://ir.tesla.com/corporate/elon-musk)'s plans could turn [NASA](https://www.nasa.gov/) into a contracting agency, heavily reliant on [SpaceX](https://www.spacex.com/).
 - **[Congress](https://www.congress.gov/) Action**: [Congressional](https://www.congress.gov/) can protect [NASA](https://www.nasa.gov/) by mandating dual-source contracting and safeguarding the Space Launch System ([SLS](https://www.nasa.gov/humans-in-space/space-launch-system/)).
 - **[SpaceX](https://www.spacex.com/) Concerns**: [SpaceX](https://www.spacex.com/) is behind schedule on key projects, raising doubts about its ability to handle more ambitious missions.
-- **Protecting [NASA](https://www.nasa.gov/)**: [Congress](https://www.congress.gov/) should ensure [NASA](https://www.nasa.gov/)'s independence and prevent [Musk](https://x.com/elonmusk/) from influencing its operations.
+- **Protecting [NASA](https://www.nasa.gov/)**: [Congress](https://www.congress.gov/) should ensure [NASA](https://www.nasa.gov/)'s independence and prevent [Musk](https://ir.tesla.com/corporate/elon-musk) from influencing its operations.
 
-If President-elect Donald [Trump](https://www.donaldjtrump.com/) and Elon [Musk](https://x.com/elonmusk/) get their way, [NASA](https://www.nasa.gov/) may become a glorified contracting agency.
-As [Musk](https://x.com/elonmusk/) promises the American public “temporary hardship” as he looks to cut some \$2 trillion from the federal budget — the equivalent of all spending outside Social Security, Medicare and interest on the national debt — [Trump](https://www.donaldjtrump.com/)’s top space advisers talk openly about funneling even more public money to [Musk](https://x.com/elonmusk/)’s [SpaceX](https://www.spacex.com/). If actually implemented, such proposals would give [Musk](https://x.com/elonmusk/) a de facto monopoly over America’s commercial space industry, stifle healthy competition that fuels technological innovation and demoralize an already overtaxed [NASA](https://www.nasa.gov/) workforce.
+If President-elect Donald [Trump](https://www.donaldjtrump.com/) and Elon [Musk](https://ir.tesla.com/corporate/elon-musk) get their way, [NASA](https://www.nasa.gov/) may become a glorified contracting agency.
+As [Musk](https://ir.tesla.com/corporate/elon-musk) promises the American public “temporary hardship” as he looks to cut some \$2 trillion from the federal budget — the equivalent of all spending outside Social Security, Medicare and interest on the national debt — [Trump](https://www.donaldjtrump.com/)’s top space advisers talk openly about funneling even more public money to [Musk](https://ir.tesla.com/corporate/elon-musk)’s [SpaceX](https://www.spacex.com/). If actually implemented, such proposals would give [Musk](https://ir.tesla.com/corporate/elon-musk) a de facto monopoly over America’s commercial space industry, stifle healthy competition that fuels technological innovation and demoralize an already overtaxed [NASA](https://www.nasa.gov/) workforce.
 
 Never mind that [SpaceX](https://www.spacex.com/) remains well behind schedule when it comes to delivering a lunar lander derived from its [Starship vehicle](https://www.spacex.com/vehicles/starship/), or that it’ll need an as-yet untried on-orbit refueling method to reach the moon.
 
 This reality makes it ludicrous to suggest, as [Trump](https://www.donaldjtrump.com/) space adviser [Greg Autry](https://www.linkedin.com/in/gregwautry/) has done, that [NASA](https://www.nasa.gov/) simply contract out a human Mars mission to [SpaceX](https://www.spacex.com/). To put it bluntly, the company has not demonstrated the technical competence required to execute even less demanding missions.
 
-[NASA](https://www.nasa.gov/) remains an irreplaceable and indispensable public agency. If [Trump](https://www.donaldjtrump.com/) and [Musk](https://x.com/elonmusk/) hollow it out, however, the [United States](https://www.usa.gov/) will quickly find itself without any viable space program.
+[NASA](https://www.nasa.gov/) remains an irreplaceable and indispensable public agency. If [Trump](https://www.donaldjtrump.com/) and [Musk](https://ir.tesla.com/corporate/elon-musk) hollow it out, however, the [United States](https://www.usa.gov/) will quickly find itself without any viable space program.
 
 Fortunately, [Congress](https://www.congress.gov/) can prevent the incoming administration from dismantling [NASA](https://www.nasa.gov/) and effectively turning its activities over to one private company. Indeed, [Congress](https://www.congress.gov/) has historically proven more than willing to exert its authority when it comes to America’s space exploration priorities — and it should do so once again to protect [NASA](https://www.nasa.gov/) and ensure robust competition in America’s commercial space industry.
 
@@ -61,13 +61,13 @@ First, [Congress](https://www.congress.gov/) can legally protect the [Space Laun
 
 For all the compromises involved in its creation and design, [SLS](https://www.nasa.gov/humans-in-space/space-launch-system/) remains a unique capability that no other nation or private company can match — and one that has already proven itself.
 
-Next, [Congress](https://www.congress.gov/) can require [NASA](https://www.nasa.gov/) to contract with more than one company when it procures commercial space services. Such a move would preserve competition in the commercial space industry and preempt any attempt by [Musk](https://x.com/elonmusk/) to entrench [SpaceX](https://www.spacex.com/) as a de facto monopoly for commercial space services. Without real competition, innovation and quality control — vital in an enterprise as inherently dangerous as human spaceflight — will inevitably suffer.
+Next, [Congress](https://www.congress.gov/) can require [NASA](https://www.nasa.gov/) to contract with more than one company when it procures commercial space services. Such a move would preserve competition in the commercial space industry and preempt any attempt by [Musk](https://ir.tesla.com/corporate/elon-musk) to entrench [SpaceX](https://www.spacex.com/) as a de facto monopoly for commercial space services. Without real competition, innovation and quality control — vital in an enterprise as inherently dangerous as human spaceflight — will inevitably suffer.
 
 Such dual-source contracting is already a best practice for [NASA](https://www.nasa.gov/). Contracts for commercial cargo and crew missions to the [International Space Station](https://www.nasa.gov/international-space-station/), for instance, have typically involved at least two companies. When funding concerns led the agency to award [SpaceX](https://www.spacex.com/) and [SpaceX](https://www.spacex.com/) alone a contract to build a lunar lander for [Artemis](https://www.nasa.gov/humans-in-space/artemis/), [Congress](https://www.congress.gov/) stepped in to require [NASA](https://www.nasa.gov/) to choose a second company to build a separate lunar lander. In May 2023, [Blue Origin](https://www.blueorigin.com/) was given a \$3.4 billion contract to build [Blue Moon](https://www.blueorigin.com/blue-moon).
 
 To prevent the [Trump](https://www.donaldjtrump.com/) administration from simply giving handouts to [SpaceX](https://www.spacex.com/), [Congress](https://www.congress.gov/) should write this dual-source commercial contracting policy into law. Details will remain up to lawmakers, of course, but [Congress](https://www.congress.gov/) should mandate that [NASA](https://www.nasa.gov/) award major commercial services contracts — cargo delivery to the [ISS](https://www.nasa.gov/international-space-station/) and its successors, commercial crew transportation to low-Earth orbit and human and robotic lunar landing services, to name a few — to at least two companies. That will require additional resources so [NASA](https://www.nasa.gov/) can fund two commercial services contracts at once.
 
-Finally, [Congress](https://www.congress.gov/) should do whatever it can to shield [NASA](https://www.nasa.gov/) and its workforce from the ministrations of the so-called “government efficiency” effort co-chaired by [Musk](https://x.com/elonmusk/). It could use annual agency authorization and appropriations laws to legally require [Musk](https://x.com/elonmusk/) to recuse himself from any role with any agency with which his companies have contracts or outstanding regulatory disputes. If [Musk](https://x.com/elonmusk/) plays hardball right out of the gate, [Congress](https://www.congress.gov/) could explicitly exempt [NASA](https://www.nasa.gov/) from the ambit of his committee’s work.
+Finally, [Congress](https://www.congress.gov/) should do whatever it can to shield [NASA](https://www.nasa.gov/) and its workforce from the ministrations of the so-called “government efficiency” effort co-chaired by [Musk](https://ir.tesla.com/corporate/elon-musk). It could use annual agency authorization and appropriations laws to legally require [Musk](https://ir.tesla.com/corporate/elon-musk) to recuse himself from any role with any agency with which his companies have contracts or outstanding regulatory disputes. If [Musk](https://ir.tesla.com/corporate/elon-musk) plays hardball right out of the gate, [Congress](https://www.congress.gov/) could explicitly exempt [NASA](https://www.nasa.gov/) from the ambit of his committee’s work.
 
 Likewise, [Congress](https://www.congress.gov/) could also refuse to confirm any nominee for [NASA](https://www.nasa.gov/) administrator unwilling to support the agency’s existing plans and programs, especially its human spaceflight endeavors.
 
@@ -86,8 +86,9 @@ There are likely other ways [Congress](https://www.congress.gov/) could protect 
 - [Donald Trump](https://www.donaldjtrump.com/)
 - [Russia](http://government.ru/)
 - [Sputnik 1 - Wikipedia](https://en.wikipedia.org/wiki/Sputnik_1)
+- [Elon Musk](https://ir.tesla.com/corporate/elon-musk)
 - [Elon Musk](https://x.com/elonmusk/)
-- [Boring](https://www.boringcompany.com/)
+- [The Boring Company](https://www.boringcompany.com/)
 - [Neuralink](https://neuralink.com/)
 - [SpaceX](https://www.spacex.com/)
 - [Starlink](https://www.starlink.com/)

@@ -18,3 +18,6 @@ title: 'Government Shutdown: Elon Musk Causes Chaos With Congress'
 Dec 19, 2024  #elonmusk #trump #donaldtrump
 Congress is scrambling to avert a government shutdown after Elon Musk helped sink a bipartisan deal. NBC New correspondents Julie Tsirkin and Garrett Haake, and 2004 Bush-Cheney campaign chief strategist Matthew Dowd join Chris Jansing to discuss the latest on what’s happening on Capitol Hill.
 
+- [Liz Cheney (R-WY)](https://www.congress.gov/member/liz-cheney/C001109)
+
+

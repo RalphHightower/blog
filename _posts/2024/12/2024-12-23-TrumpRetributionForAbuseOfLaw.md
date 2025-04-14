@@ -16,4 +16,6 @@ title: "There Could Be Civil Penalties For Unlawful Abuse of Law Regarding Trump
 <iframe width="932" height="524" src="https://www.youtube.com/embed/XsweD20w7zA" title="Tom Rogers: There can be retribution in response to retribution" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Dec 23, 2024  #KashPatel #Trump #Politics
-Kash Patel, Donald Trump's choice for FBI director has used claims of secret plots to fuel his rise. Now, he could lead investigations of Liz Cheney and scores of others. David Rohde and Tom Rogers discuss.
+Kash Patel, Donald Trump's choice for FBI director has used claims of secret plots to fuel his rise. Now, he could lead investigations of [Liz Cheney (R-WY)](https://www.congress.gov/member/liz-cheney/C001109) and scores of others. David Rohde and Tom Rogers discuss.
+
+- [Liz Cheney (R-WY)](https://www.congress.gov/member/liz-cheney/C001109)

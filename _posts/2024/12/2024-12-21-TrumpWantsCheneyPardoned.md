@@ -15,7 +15,10 @@ title: 'Liz Cheney: Trump Wants Luz Pardoned?'
 
 Story by Ross Rosenfeld. December 20, 2024.
 
-- **Trump's Strategy**: Donald Trump suggested that Liz Cheney could be prosecuted for her role in investigating the January 6 attack, but he might actually want her pardoned to avoid relitigating the insurrection.
-- **Political Implications**: Prosecuting Cheney could backfire on Trump, making her a hero and bringing renewed focus to his actions during the January 6 events.
+- **Trump's Strategy**: Donald Trump suggested that [Liz Cheney (R-WY)](https://www.congress.gov/member/liz-cheney/C001109) could be prosecuted for her role in investigating the January 6 attack, but he might actually want her pardoned to avoid relitigating the insurrection.
+- **Political Implications**: Prosecuting [Cheney (R-WY)](https://www.congress.gov/member/liz-cheney/C001109) could backfire on Trump, making her a hero and bringing renewed focus to his actions during the January 6 events.
 - **Legal Hurdles**: The Constitution's speech or debate clause provides members of Congress with immunity for acts performed on the floor, complicating any prosecution.
 - **Pardon Considerations**: President Joe Biden might consider offering preemptive pardons to those under threat from Trump's potential actions, though some may prefer to fight the accusations.
+
+- [Liz Cheney (R-WY)](https://www.congress.gov/member/liz-cheney/C001109)
+
