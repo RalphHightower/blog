@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: []
+tags: [Donald J Trump, New York (NY), Bloomberg TV, Penn Station, City of Syracuse, City of Rochester New York, Buffalo NY, Manhattan Borough, New York State Attorney General, Letitia James / New York State Attorney General, Department of Justice (DOJ), President Donald J. Trump, Governor New York, Kathy Hochul, State Inspector General, New York State Assembly, Speaker – New York Assembly, Senate, Majority Leader, New York City (NYC), Mayor Eric Adams, City Comptroller, Public Advocate, New York City Council, Immigration and Customs Enforcement (ICE), Department of Justice (DOJ), President Donald Trump, President of the United States (POTUS), White House (WH), politics]
 categories: [Donald Trump]
 date: 2025-04-04 3:42 PM
 excerpt: ''

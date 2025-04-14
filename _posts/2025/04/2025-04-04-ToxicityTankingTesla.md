@@ -1,7 +1,7 @@
 ---
 layout: post
-tags: []
-categories: []
+tags: [General Motors, Stellantis, Honda, Ferrari, Toyota, J.P. Morgan, Elon Musk, Elon Musk, The Boring Company, Neuralink, SpaceX, Starlink, Tesla, Twitter, X, xAI, House of Representatives, Senate, President Donald Trump, President of the United States (POTUS), White House (WH), electric vehicles (EV), internal combustion engine (ICE), politics]
+categories: [Elon Musk, Tesla]
 date: 2025-04-04 11:59 AM
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
@@ -26,6 +26,12 @@ The firm now expects Q1 EPS of $0.36 in comparison to its prior estimate of $0.4
 
 Shares of [Tesla](https://www.tesla.com/) [(TSLA)](https://seekingalpha.com/symbol/TSLA?feed_item_type=news&fr=1&) were down 5.3% in premarket trading to $253.06 after shedding 5.5% on Thursday. In terms of market cap, [Tesla](https://www.tesla.com/) [(TSLA)](https://seekingalpha.com/symbol/TSLA?feed_item_type=news&fr=1&) is still valued by the market at more than [Toyota](https://www.toyota.com/) ([TM](https://seekingalpha.com/symbol/TM?feed_item_type=news&fr=1&)), [Ferrari](https://www.ferrari.com/) ([RACE](https://seekingalpha.com/symbol/RACE?feed_item_type=news&fr=1&)), [General Motors](https://www gm.com/) ([GM](https://seekingalpha.com/symbol/GM?feed_item_type=news&fr=1&)), [Honda](https://www.honda.com/) ([HMC](https://seekingalpha.com/symbol/HMC?feed_item_type=news&fr=1&)), [Stellantis](https://www.stellantis.com/en) ([STLA](https://seekingalpha.com/symbol/STLA?feed_item_type=news&fr=1&)), and [Ford Motor](https://www.ford.com/) ([F](https://seekingalpha.com/symbol/F?feed_item_type=news&fr=1&)) combined. 
 
+- [General Motors](https://www gm.com/)
+- [Stellantis](https://www.stellantis.com/en)
+- [Honda](https://www.honda.com/)
+- [Ferrari](https://www.ferrari.com/)
+- [Toyota](https://www.toyota.com/)
+- [J.P. Morgan](https://www.jpmorgan.com/global)
 - [Elon Musk](https://ir.tesla.com/corporate/elon-musk)
 - [Elon Musk](https://x.com/elonmusk/)
 - [The Boring Company](https://www.boringcompany.com/)
@@ -41,5 +47,6 @@ Shares of [Tesla](https://www.tesla.com/) [(TSLA)](https://seekingalpha.com/symb
 - [President Donald Trump](https;//www.whitehouse.gov/)
 - [President of the United States (POTUS)](https://www.whitehouse.gov/)
 - [White House (WH)](https://www.whitehouse.gov/)
-- electric vehicles 
+- electric vehicles (EV)
+- internal combustion engine (ICE)
 - politics 
