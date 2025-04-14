@@ -16,4 +16,6 @@ title: "Liz Cheney: Trump Warns, More Like Threatens Cheney"
 <iframe width="932" height="524" src="https://www.youtube.com/embed/S3PoPUoBgXA" title="Trump warns on social media &#39;Liz Cheney could be in a lot of trouble&#39;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Dec 18, 2024  #LizCheney #Trump #Politics
-President-elect Trump early Wednesday morning on social media posted about former Rep. Liz Cheney, R-Wyo., saying she '...could be in a lot of trouble based on the evidence obtained by the subcommittee.' The Morning Joe panel discusses.
+President-elect Trump early Wednesday morning on social media posted about former Rep. [Liz Cheney (R-WY)](https://www.congress.gov/member/liz-cheney/C001109), saying she '...could be in a lot of trouble based on the evidence obtained by the subcommittee.' The Morning Joe panel discusses.
+
+- [Liz Cheney (R-WY)](https://www.congress.gov/member/liz-cheney/C001109)

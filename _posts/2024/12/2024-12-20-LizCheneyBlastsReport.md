@@ -17,3 +17,6 @@ title: "Liz Cheney: Blasts Partisan Report For Participating On January 6, 2021 
 
 Dec 18, 2024  #news #cnn
 After House Republicans released a report recommending that GOP former Rep. Liz Cheney should be prosecuted by the FBI for her role in probing the January 6 attack on the US Capitol, Cheney issued a statement in response. CNN’s Lauren Fox reports and a panel of experts discuss.
+
+- [Liz Cheney (R-WY)](https://www.congress.gov/member/liz-cheney/C001109)
+

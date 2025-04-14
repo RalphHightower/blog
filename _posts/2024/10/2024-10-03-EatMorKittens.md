@@ -12,7 +12,7 @@ title: "Eat Mor' Kittens"
 
 ## Eat Mor Kittens[^11]
 
-### Eat Mor Kittens – [JD "John Boy" Vance]() on Meet the Press 
+### Eat Mor Kittens – [JD "John Boy" Vance](https://www.linkedin.com/in/jd-vance-770a9047/) on Meet the Press 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/v0DEYf9DBOk?si=YAP4ND58FzoVybBP&amp;start=370" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -91,3 +91,4 @@ Mike Pence turned out to be too much of a "goody two-shoes" for Trump, not even 
 [^12]: [JD “John Boy” Vance (T-OH)](https://www.vance.senate.gov/) wrote a book called Hillbilly Eligy, so I'd give J.D. the nickname of "John Boy" from the TV series, The Waltons.
 [^13]: [Sen. Scott refuses to say he will accept 2024 election results, says Tru...](https://youtube.com/watch?v=DdeuagPSVQc&). Meet The Press. May 5, 2024
 
+- [JD Vancel](https://www.linkedin.com/in/jd-vance-770a9047/)

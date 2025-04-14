@@ -23,3 +23,6 @@ By Hannah Knowles and Colby Itkowitz
 - **Administration Picks**: Trump has chosen loyalists for key positions, including Kash Patel for FBI Director and Robert F. Kennedy Jr. for Health and Human Services.
 - **Political Climate**: Trump's actions and appointments suggest a focus on personal grievances and retribution, raising concerns about the use of presidential power.
 
+- [Liz Cheney (R-WY)](https://www.congress.gov/member/liz-cheney/C001109)
+
+

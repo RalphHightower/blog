@@ -159,3 +159,5 @@ But what really sealed the deal, according to Smith, is that as president, Trump
 One unidentified Trump campaign employee did push hard for litigation in Democrat-run Michigan: When a colleague “suggested that there was about to be unrest reminiscent of the ‘Brooks Brothers Riot,’ a violent effort to stop the vote count in Florida after the 2000 presidential election, P5 [the unnamed employee] responded, ‘Make them riot’ and ‘Do it!!!’”
 
 [^61]: There Trump goes again again. Trump is having another **Trumper Tantrum** with his use of **ALL CAPS.**
+
+- [Liz Cheney (R-WY)](https://www.congress.gov/member/liz-cheney/C001109)
