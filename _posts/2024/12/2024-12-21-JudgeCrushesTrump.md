@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: [presidential immunity denied, New York, business fraud, civil crime, guilty, politics, Mary Trump Media]
-categories: [Donald Trump](https://www.donaldjtrump.com/)]
+categories: [Donald Trump]
 date: 2024-12-21 5:49 PM
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
