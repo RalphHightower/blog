@@ -15,18 +15,18 @@ title: "All Your Personal Identifiable Information (PII) Are Belong To Us!"
 
 [^1]: [All your base are belong to us - Wikipedia](https://en.wikipedia.org/wiki/All_your_base_are_belong_to_us)
 
-- {% link: _posts/2025/03/2025-03-03-MuskDOGETeamFuckingUpSSAComputerSystems.md %}
+- [Elon Musk’s Department of Government Efficiency (DOGE), aka DOUCE, Are Fucking Up Social Security Computer Systems. Expect Late Payments of 60 to 90 Days]({% link: _posts/2025/03/2025-03-03-MuskDOGETeamFuckingUpSSAComputerSystems.md %})
 
 ## Martin O'Malley: Musk wants to break Social Security so he can loot it
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/L5EUeCn81Wg?si=QkJUNtEySdbCISif" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Mar 9, 2025  #socialsecurity #elonmusk #trump
-Former Social Security Administration Commissioner Martin O'Malley breaks down Elon Musk's efforts to dismantle Social Security and potentially go after the Social Security Trust. 
+Mar 9, 2025  [#socialsecurity](https://www.ssa.gov/) [#elonmusk](https://ir.tesla.com/corporate/elon-musk) [#trump](https://www.donaldjtrump.com/)
+Former [Social Security Administration](https://www.ssa.gov/) Commissioner Martin O'Malley breaks down Elon Musk's efforts to dismantle [Social Security](https://www.ssa.gov/) and potentially go after the [Social Security Trust](https://www.ssa.gov/). 
 
 - To [Faux News](https://www.foxnews.com/) Maria Bartiroma, "Won't you have to cut entitlements in order to balance the federal budget?", Trump responded, "We're going to have incredible growth like you've never seen."
 - Michael Steele said, "Stick a pin in that. The CBO says it won't happen."
-- Martin O'Malley: staffing was cut in SSA before DOGE Bros got their drivers license. 
+- Martin O'Malley: staffing was cut in [SSA](https://www.ssa.gov/) before [DOGE](https://www.doge.gov/) Bros got their drivers license. 
 - Old COBOL code has to be maintained 
 - going to realize that they fired people who know the code and architecture of the system. 
 - trying to break it so they can loot it, not privatize.
