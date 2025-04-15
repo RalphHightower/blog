@@ -18,7 +18,7 @@ In the latest twist of political theater, 'Forrest [Trump](https://www.donaldjtr
 
 In the movies Tom Hank's famous character was shown to have far more business acumen than the US leader. But [Donald Trump](https://www.donaldjtrump.com/) [has once again proven that his self-proclaimed genius is little more than a hollow myth](https://www.themirror.com/news/politics/breaking-dow-surges-massive-spike-1082524) built on bluster and bankruptcy.
 
-His reckless tariff crusade, which he insisted would “[Make America Great Again](),” | [has instead triggered chaos across global markets](https://www.themirror.com/news/us-news/desperate-trump-pleads-companies-move-1081764), wiping out trillions in value and shaking investor confidence. It comes as [Donald Trump](https://www.donaldjtrump.com/) is 'at risk of serious health condition' as photo shows stark change
+His reckless tariff crusade, which he insisted would “[Make America Great Again](https://www.whitehouse.gov/presidential-actions/2025/01/america-first-trade-policy/),” [has instead triggered chaos across global markets](https://www.themirror.com/news/us-news/desperate-trump-pleads-companies-move-1081764), wiping out trillions in value and shaking investor confidence. It comes as [Donald Trump](https://www.donaldjtrump.com/) is 'at risk of serious health condition' as photo shows stark change
 
 And now, in a humiliating climbdown, he has announced a 90-day pause on his disastrous trade war - a desperate face-saving exercise cloaked as strategy.
 
@@ -87,7 +87,8 @@ This isn’t leadership. It’s not strategy. It’s a farcical bluff that’s f
 - [Howard W. Lutnick](https://www.linkedin.com/in/howardwlutnick/)
 - [President Donald Trump (45)](https://trumpwhitehouse.archives.gov/)
 - [President Donald Trump (47)](https://www.whitehouse.gov/)
-- [America First Trade Policy](https://www223-1600.whitehouse.gov/presidential-actions/2025/01/america-first-trade-policy/). Presidential Actions January 20, 2025
+- [Putting America First In International Environmental Agreements](https://www.whitehouse.gov/presidential-actions/2025/01/putting-america-first-in-international-environmental-agreements/). Presidential Actions January 20, 2025
+- [America First Trade Policy](https://www.whitehouse.gov/presidential-actions/2025/01/america-first-trade-policy/). Presidential Actions January 20, 2025
 - [President of the United States (POTUS)](https://www.whitehouse.gov/)
 - [White House (WH)](https://www.whitehouse.gov/)
 - tariffs
@@ -133,4 +134,3 @@ This isn’t leadership. It’s not strategy. It’s a farcical bluff that’s f
 - [Imposing Duties to Address the Flow of Illicit Drugs Across Our Northern Border](https://www.whitehouse.gov/presidential-actions/2025/02/imposing-duties-to-address-the-flow-of-illicit-drugs-across-our-national-border/). Presidential Actions February 1, 2025
 - [Fact Sheet: President Donald J. Trump Imposes Tariffs on Imports from Canada, Mexico and China](https://www.whitehouse.gov/fact-sheets/2025/02/fact-sheet-president-donald-j-trump-imposes-tariffs-on-imports-from-canada-mexico-and-china/). Fact Sheets February 1, 2025
 - [Imposing Duties to Address the Situation at Our Southern Border](https://www.whitehouse.gov/presidential-actions/2025/02/imposing-duties-to-address-the-situation-at-our-southern-border/). Presidential Actions February 1, 2025
-- 
