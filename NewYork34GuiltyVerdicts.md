@@ -10,7 +10,7 @@ date: 2025-04-13 3:43 PM
 title: "New York: 34 Guilty Verdicts. Porn Star Stormy Daniels"
 ---
 
-## New York State Court: 34 Guilty Verdicts of Business Records Falsification In Relation to Porn Star, Stormy Daniel's, National Enquirer ‘Catch and Kill’
+## New York State Court: 34 Guilty Verdicts of Business Records Falsification In Relation to Porn Star, Stormy Daniels, National Enquirer ‘Catch and Kill’
 
 ### New York State Attorney General Document Links
 
