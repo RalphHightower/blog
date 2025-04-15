@@ -7,7 +7,7 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: "Trump Weaponizes Federal Government to Persecute Truth Told By Cybersecurity Ecpert Chris Krebs"
+title: "Trump Weaponizes Federal Government to Persecute Truth Told By Cybersecurity Expert Chris Krebs"
 ---
 
 ## ['Prosecute' vs. 'Persecute' – Merriam-Webster](https://www.merriam-webster.com/grammar/prosecuted-vs-persecuted-usage)
