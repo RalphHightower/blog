@@ -18,6 +18,17 @@ The telephone numbers below have called and there is an empty person on the othe
 
 | Telephone Number | Location | Date Time[^11] | Caller | Social Media |
 |---|---|---|---|---|
+| <a href="tel:+18037084261">+1 (803) 708-4261</a> | SC. Columbia | 2025-04-14 04:27 PM | — | |
+| <a href="tel:+18036044140">+1 (803) 604-4140</a> | SC. | 2025-04-14 03:59 PM | — | |
+| <a href="tel:+18034693161">+1 (803) 469-3161</a> | SC. Sumter | 2025-04-14 03:50 PM | Le Bai | |
+| <a href="tel:+18036373515">+1 (803) 637-3515</a> | SC. Edgefield | 2025-04-14 01:08 PM | — | |
+| <a href="tel:+18036278723">+1 (803) 627-8723</a> | SC. York | 2025-04-14 12:43 PM | — | |
+| <a href="tel:+18037082851">+1 (803) 708-2851</a> | SC. Columbia | 2025-04-14 12:05 PM | — | |
+| <a href="tel:+18036026374">+1 (803) 602-6374</a> | SC. | 2025-04-14 11:04 AM ¤¤ | — | |
+| <a href="tel:+18036026374">+1 (803) 602-6374</a> | SC. | 2025-04-14 11:02 AM | — | |
+| <a href="tel:+18034822519">+1 (803) 482-2519</a> | SC. Great Falls | 2025-04-14 10:41 AM | David Wright | |
+| <a href="tel:+18039785627">+1 (803) 978-5627</a> | SC. | 2025-04-14 10:24 AM | Residence Inn | |
+| <a href="tel:+18037808162">+1 (803) 780-8162</a> | SC. /Fb | 12:55 0PM 12:54 PM | — | |
 | <a href="tel:+18038246349">+1 (803) 824-6349</a> | SC. | 2025-04-12 03:28 PM | — | |
 | <a href="tel:+18393569178">+1 (839) 356-9178</a> | SC. | 2025-04-12 10:44 AM | Potential Spam | |
 | <a href="tel:+18036964142">+1 (803) 696-4142</a> | SC. | 2025-04-11 03:13 PM | Sounds of Victory Outreach | |
