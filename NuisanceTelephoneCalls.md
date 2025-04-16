@@ -2,7 +2,7 @@
 layout: page
 tags: [assholes, Donald Trump, Elon Musk, Betsy DeVos, MAGA billionaires, billionaire, Trump donors, Republican PAC, Make America Great Again (MAGA)]
 categories: [Telephone Numbers]
-date: 2025-04-11 7:34 PM
+date: 2025-04-15 11:21 PM
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description: 
@@ -18,6 +18,16 @@ The telephone numbers below have called and there is an empty person on the othe
 
 | Telephone Number | Location | Date Time[^11] | Caller | Social Media |
 |---|---|---|---|---|
+| <a href="tel:+18452868370">+1 (845) 286-8370</a> | SC. | 2025-04-15 10:03 AM | JJ Keller | |
+| <a href="tel:+18039161316">+1 (803) 916-1316</a> | SC. | 2025-04-15 10:12 AM | — | |
+| <a href="tel:+18039737496">+1 (803) 973-7496</a> | SC. Columbia | 2025-04-15 11:17 AM | Potential Spam | |
+| <a href="tel:+18039737496">+1 (803) 973-7496</a> | SC. Columbia | 2025-04-15 11:18 AM ¤¤ | Potential Spam | |
+| <a href="tel:+18034123217">+1 (803) 412-3217</a> | SC. Sumter | 2025-04-15 02:29 PM | Carolina Energy | |
+| <a href="tel:+18037571040">+1 (803) 757-1040</a> | SC. Sumter | 2025-04-15 02:30 PM | James & James LLC | |
+| <a href="tel:+18034926289">+1 (803) 492-6289</a> | SC. Eutawville | 2025-04-15 03:13 PM | — | |
+| <a href="tel:+18037081336">+1 (803) 708-1336</a> | SC. | 2025-04-15 04:06 PM | Potential Spam | |
+| <a href="tel:+18036375387">+1 (803) 637-5387</a> | SC. Edgefield | 2025-04-15 04:25 PM | — | |
+| <a href="tel:+18038142634">+1 (803) 814-2634</a> | SC. Columbia | 2025-04-15 04:53 PM | Laurel Givry | |
 | <a href="tel:+18037084261">+1 (803) 708-4261</a> | SC. Columbia | 2025-04-14 04:27 PM | — | |
 | <a href="tel:+18036044140">+1 (803) 604-4140</a> | SC. | 2025-04-14 03:59 PM | — | |
 | <a href="tel:+18034693161">+1 (803) 469-3161</a> | SC. Sumter | 2025-04-14 03:50 PM | Le Bai | |
