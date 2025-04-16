@@ -20,7 +20,7 @@ April 15, 2025, 2:10 PM EDT
 
 By Charlie Sykes, MSNBC columnist
 
-[Donald Trump](https://www.donaldjtrump.com/) just sent the [Supreme Court](https://www.supremecourt.gov/) an unambiguous message: You made your ruling. Now enforce it, because I’m not going to. That [constitutional](https://www.congress.gov/) crisis we’ve expected, yet feared? It’s here.
+[Donald Trump](https://www.donaldjtrump.com/) just sent the [Supreme Court](https://www.supremecourt.gov/) an unambiguous message: *You made your ruling. Now enforce it, because I’m not going to.* That [constitutional](https://www.congress.gov/) crisis we’ve expected, yet feared? It’s here.
 
 On Monday, both [Trump](https://www.donaldjtrump.com/) officials and the [president](https://www.presidencia.gob.sv/) of [El Salvador](https://www.gob.sv/) said they could not return Kilmar Abrego Garcia, a [Maryland](https://www.maryland.gov/) man who was wrongfully deported and sent to a notorious prison in [El Salvador](https://www.gob.sv/).
 
