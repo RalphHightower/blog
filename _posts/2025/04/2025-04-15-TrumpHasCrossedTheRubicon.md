@@ -22,7 +22,7 @@ On Monday, both [Trump](https://www.donaldjtrump.com/) officials and the [presid
 
 “Of course, I’m not going to do it,” [El Salvador](https://www.gob.sv/) [President Nayib Bukele](https://www.presidencia.gob.sv/) said when he was asked whether he would return Garcia. At his side, [Trump](https://www.donaldjtrump.com/) sat smirking. [Attorney General](https://www.justice.gov/) [Pam Bondi]() joined in the cruel pantomime: “That’s up for [El Salvador](https://www.gob.sv/) if they want to return him.”
 
-> *And just like that, the [White House](https://www.whitehouse.gov/) openly defied a unanimous ruling by the nation’s highest court.*
+And just like that, the [White House](https://www.whitehouse.gov/) openly defied a unanimous ruling by the nation’s highest court.
 
 Last week, by a vote of 9-0[^27], the [court](https://www.supremecourt.gov/) instructed the government to “facilitate” the return of Abrego Garcia. But the justices left [Trump](https://www.donaldjtrump.com/) just enough wiggle room to scoff at making effort at all, despite multiple rulings from [federal courts](https://www.uscourts.gov%), including a district court judge who [called Abrego Garcia’s arrest](https://www.nbcnews.com/news/us-news/trump-administration](https://www.whitehouse.gov/administration/)-asks-scotus-block-order-return-man-mistakenly-dep-rcna199979) “wholly lawless.”
 
@@ -30,7 +30,7 @@ Last week, by a vote of 9-0[^27], the [court](https://www.supremecourt.gov/) ins
 
 [U.S. District Judge Paula Xinis of Maryland wrote:](https://storage.courtlistener.com/recap/gov.uscourts.mdd.578815/gov.uscourts.mdd.578815.31.0.pdf):
 
-Defendants seized Abrego Garcia without any lawful authority; held him in three separate domestic detention centers without legal basis; failed to present him to any immigration judge or officer; and forcibly transported him to [El Salvador](https://www.gob.sv/) in direct contravention of the INA. Once there, U.S. officials secured his detention in a facility that, by design, deprives its detainees of adequate food, water, and shelter, fosters routine violence; and places him with his persecutors.
+> *Defendants seized Abrego Garcia without any lawful authority; held him in three separate domestic detention centers without legal basis; failed to present him to any immigration judge or officer; and forcibly transported him to [El Salvador](https://www.gob.sv/) in direct contravention of the INA. Once there, U.S. officials secured his detention in a facility that, by design, deprives its detainees of adequate food, water, and shelter, fosters routine violence; and places him with his persecutors.*
 
 On Sunday, the [Trump](https://www.donaldjtrump.com/) [administration](https://www.whitehouse.gov/administration/) claimed that the [federal courts]() lacked any jurisdiction in the case. The [White House](https://www.whitehouse.gov/) made this argument even though it was already rejected unanimously last week by a [federal appeals court](https://www.mdd.uscourts.gov/). “The [United States Government](https://www.whitehouse.gov/) has no legal authority to snatch a person who is lawfully present in the [United States Government](https://www.whitehouse.gov/) off the street and remove him from the country without due process,” the judges from the [4th Circuit](https://www.mdd.uscourts.gov/) wrote. “The [Government](https://www.whitehouse.gov/)’s contention otherwise, and its argument that the federal courts are powerless to intervene are unconscionable.”
 
