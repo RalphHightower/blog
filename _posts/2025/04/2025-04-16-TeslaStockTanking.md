@@ -90,7 +90,7 @@ As a result, while [Tesla](https://www.tesla.com/) remains the biggest EV compan
 - [Department of Government Efficiency (DOGE)](https://www.doge.gov/)
 - [President Donald J Trump Cabinet](https://www.whitehouse.gov/administration/the-cabinet/)
 - [President Donald J Trump Administration](https://www.whitehouse.gov/administration/)
-- [President of the United States (POTUS)](https://www whitehouse.gov/)
+- [President of the United States (POTUS)](https://www.whitehouse.gov/)
 - [White House (WH)](https://www.whitehouse.gov/)
 - electric vehicles (EV)
 - politics 
