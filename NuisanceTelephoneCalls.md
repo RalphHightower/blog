@@ -18,13 +18,19 @@ The telephone numbers below have called and there is an empty person on the othe
 
 | Telephone Number | Location | Date Time[^11] | Caller | Social Media |
 |---|---|---|---|---|
+| <a href="tel:+18035310033">+1 (803) 531-0033</a> | SC. Orangeburg | 2025-04-17 04:53 PM | — | |
+| <a href="tel:+18034714912">+1 (803) 471-4912</a> | SC. Jackson | 2025-04-17 01:48 PM | — | |
+| <a href="tel:+18038892754">+1 (803) 889-2754</a> | SC. | 2025-04-17 01:05 PM | — | |
+| <a href="tel:+18033400082">+1 (803) 340-0082</a> | SC. | 2025-04-17 12:52 PM | Potential Spam | |
+| <a href="tel:+18038798707">+1 (803) 879-8707</a> | SC. | 2025-04-17 12:28 PM | AAAS | |
+| <a href="tel:+18033869853">+1 (803) 386-9853</a> | SC. Columbia | 2025-04-17 11:15 AM | — | |
 | <a href="tel:+18038944672">+1 (803) 894-4672</a> | SC. Pelion | 2025-04-16 05:37 PM | Nunley Tim | |
 | <a href="tel:+18036515372">+1 (803) 651-5372</a> | SC. Sumter | 2025-04-16 02:43 PM | Potential Spam | |
 | <a href="tel:+18037617083">+1 (803) 761-7083</a> | SC. | 2025-04-16 02:30 PM | Craig Stanley | |
 | <a href="tel:+18038578325">+1 (803) 857-8325</a> | SC. Santee | 2025-04-16 01:21 PM | Tsmi Bruneau | |
 | <a href="tel:+18037644347">+1 (803) 764-4347</a> | SC. Columbia | 2025-04-16 11:47 AM | Rhonda G Wallace | |
-| <a href="tel:+15572262220">+1 (557) 226-2220</a> | MO. St. Louis | 2025-04-16 10:39 AM | | |
-| <a href="tel:+18395293201">+1 (839) 529-3201</a> | SC. Bamberg | 2025-04-16 09:24 AM | | |
+| <a href="tel:+15572262220">+1 (557) 226-2220</a> | MO. St. Louis | 2025-04-16 10:39 AM | — | |
+| <a href="tel:+18395293201">+1 (839) 529-3201</a> | SC. Bamberg | 2025-04-16 09:24 AM | — | |
 | <a href="tel:+18452868370">+1 (845) 286-8370</a> | SC. | 2025-04-15 10:03 AM | JJ Keller | |
 | <a href="tel:+18039161316">+1 (803) 916-1316</a> | SC. | 2025-04-15 10:12 AM | — | |
 | <a href="tel:+18039737496">+1 (803) 973-7496</a> | SC. Columbia | 2025-04-15 11:17 AM | Potential Spam | |
