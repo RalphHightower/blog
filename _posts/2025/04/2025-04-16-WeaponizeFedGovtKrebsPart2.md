@@ -7,12 +7,16 @@ categories: [Donald Trump]
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: 
+title: "Weaponizing Federal Government: Persecuting Chris Krebs, Former Head of Cybersecurity and Infrastructure Security Agency (CISA) That Spoke the Truth of 2020 Election"
 ---
+
+## ['Prosecute' vs. 'Persecute' – Merriam-Webster](https://www.merriam-webster.com/grammar/prosecuted-vs-persecuted-usage)
+
+“One you do in court, the other you do if you're a jerk.”
 
 - [Trump Weaponizes Federal Government to Persecute Truth Told By Cybersecurity Expert Chris Krebs]({% link _posts/2025/04/2025-04-10-WeaponingGovtAgainstChrisKrebs.md %})
 
-## [White House struggles to defend Trump’s orders targeting officials who defied him](https://www.msnbc.com/rachel-maddow-show/maddowblog/white-house-struggles-defend-trumps-orders-targeting-officials-defied-rcna201500)
+### [White House struggles to defend Trump’s orders targeting officials who defied him](https://www.msnbc.com/rachel-maddow-show/maddowblog/white-house-struggles-defend-trumps-orders-targeting-officials-defied-rcna201500)
 
 *The [White House](https://www.whitehouse.gov/) had a week to come up with a defense for [Trump](https://www.whitehouse.gov/)’s orders targeting [Christopher Krebs](https://www.linkedin.com/in/christopherckrebs/) and [Miles Taylor](https://www.linkedin.com/in/miles-taylor-65707671/). It apparently came up empty.*
 
