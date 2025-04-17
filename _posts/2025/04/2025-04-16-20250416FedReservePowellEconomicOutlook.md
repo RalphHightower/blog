@@ -12,7 +12,9 @@ title: "Federal Reserve Chair Jerome Powell: Outlook for the Economy and Monetar
 
 
 
-## *Economic Outlook*
+## [Speech by Chair Powell on the economic outlook - Federal Reserve Board](https://www.federalreserve.gov/newsevents/speech/powell20250416a.htm)
+
+### *Economic Outlook*
 
 April 16, 2025
 
@@ -22,9 +24,9 @@ At the Economic Club of Chicago, Chicago, Illinois
 
 Thank you for the introduction. I am looking forward to our conversation, Professor Rajan. First, I will briefly discuss the outlook for the economy and monetary policy.
 
-At the Fed, we are always focused on the dual-mandate goals given to us by [Congress](https://www.congress.gov/): maximum employment and stable prices. Despite heightened uncertainty and downside risks, the U.S. economy is still in a solid position. The labor market is at or near maximum employment. Inflation has come down a great deal but is running a bit above our 2 percent objective.
+At the [Fed](https://www.federalreserve.gov/), we are always focused on the dual-mandate goals given to us by [Congress](https://www.congress.gov/): maximum employment and stable prices. Despite heightened uncertainty and downside risks, the U.S. economy is still in a solid position. The labor market is at or near maximum employment. Inflation has come down a great deal but is running a bit above our 2 percent objective.
 
-### Recent Economic Data
+#### Recent Economic Data
 
 Turning to the incoming data, we will get the initial reading on first-quarter GDP in a couple of weeks. The data in hand so far suggest that growth has slowed in the first quarter from last year's solid pace. Despite strong motor vehicle sales, overall consumer spending appears to have grown modestly. In addition, strong imports during the first quarter, reflecting attempts by businesses to get ahead of potential tariffs, are expected to weigh on GDP growth.
 
@@ -36,13 +38,13 @@ As for our price-stability mandate, inflation has significantly eased from its p
 
 Looking forward, the new [Administration](https://www.whitehouse.gov/administration/) is in the process of implementing substantial policy changes in four distinct areas: trade, immigration, fiscal policy, and regulation. Those policies are still evolving, and their effects on the economy remain highly uncertain. As we learn more, we will continue to update our assessment. The level of the tariff increases announced so far is significantly larger than anticipated. The same is likely to be true of the economic effects, which will include higher inflation and slower growth. Both survey- and market-based measures of near-term inflation expectations have moved up significantly, with survey participants pointing to tariffs. Survey measures of longer-term inflation expectations, for the most part, appear to remain well anchored; market-based breakevens continue to run close to 2 percent.
 
-### Monetary Policy
+#### Monetary Policy
 
 As we gain a better understanding of the policy changes, we will have a better sense of the implications for the economy, and hence for monetary policy. Tariffs are highly likely to generate at least a temporary rise in inflation. The inflationary effects could also be more persistent. Avoiding that outcome will depend on the size of the effects, on how long it takes for them to pass through fully to prices, and, ultimately, on keeping longer-term inflation expectations well anchored.
 
 Our obligation is to keep longer-term inflation expectations well anchored and to make certain that a one-time increase in the price level does not become an ongoing inflation problem. As we act to meet that obligation, we will balance our maximum-‑employment and price-stability mandates, keeping in mind that, without price stability, we cannot achieve the long periods of strong labor market conditions that benefit all Americans. We may find ourselves in the challenging scenario in which our dual-mandate goals are in tension. If that were to occur, we would consider how far the economy is from each goal, and the potentially different time horizons over which those respective gaps would be anticipated to close.
 
-### Conclusion
+#### Conclusion
 
 As that great [Chicagoan](https://www.chicago.gov/city/en/chicagogovt.html) [Ferris Bueller](https://www.imdb.com/title/tt0091042/) once noted, "Life moves pretty fast." For the time being, we are well positioned to wait for greater clarity before considering any adjustments to our policy stance. We continue to analyze the incoming data, the evolving outlook, and the balance of risks. We understand that elevated levels of unemployment or inflation can be damaging and painful for communities, families, and businesses. We will continue to do everything we can to achieve our maximum-employment and price-stability goals.
 
