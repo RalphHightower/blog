@@ -27,13 +27,16 @@ In the weeks that followed, he kept going. On March 20, [Trump claimed](https://
 
 If the [president](https://www.whitehouse.gov/) was gambling that Americans would reward him for lowering the price of eggs, it was a very bad bet — because [as The New York Times reported](https://www.nytimes.com/2025/04/10/us/politics/egg-prices-march.html), egg prices have reached record highs.
 
-> *For weeks, [President](https://www.whitehouse.gov/) [Trump](https://www.donaldjtrump.com/) has repeatedly boasted that his [administration](https://www.whitehouse.gov/administration/) had managed to bring egg prices down. But new data on Thursday showed that egg prices at the grocery store continued to climb in March. Egg prices rose 5.9 percent over the month, according to data released by the [Bureau of Labor Statistics](https://www.bls.gov%). They climbed at a slower rate, though, after rising 10.4 percent in February and 15.2 percent in January. Compared with a year earlier, egg prices were up 60.4 percent.*
+> *For weeks, [President](https://www.whitehouse.gov/) [Trump](https://www.donaldjtrump.com/) has repeatedly boasted that his [administration](https://www.whitehouse.gov/administration/) had managed to bring egg prices down. But new data on Thursday showed that egg prices at the grocery store continued to climb in March. Egg prices rose 5.9 percent over the month, according to data released by the [Bureau of Labor Statistics](https://www.bls.gov/). They climbed at a slower rate, though, after rising 10.4 percent in February and 15.2 percent in January. Compared with a year earlier, egg prices were up 60.4 percent.*
 
 Wholesale egg prices have come down, but retail prices — what American consumers actually pay at grocery stores — have [climbed in recent months](https://fred.stlouisfed.org/series/APU0000708111).
 
 The [president](https://www.whitehouse.gov/), in other words, has not brought egg prices “WAY DOWN,” and if he thought picking this fight would work to his advantage, he apparently thought wrong.
 
 As for the larger context, I’m reminded of comments [Barack Obama](obamawhitehouse.archives.gov/) [made last week](https://barackobama.medium.com/conversation-at-hamilton-college-0c44228ac0bd) during an appearance at [Hamilton College](https://www.hamilton.edu/). The former [Democratic](https://www.democrats.org/) [president](https://www.whitehouse.gov/) said, “I think this is one of the challenges that we have — and I saw this even before the last election. I think people tend to think, ‘Oh, [democracy, rule of law, independent judiciary, freedom of the press](https://constitution.congress.gov/). That’s all abstract stuff because it’s not affecting the price of eggs.” Well, you know what? It’s about to affect the price of eggs.”
+
+| Federal Agency | Functions |
+|---|---|
 
 - [MSNBC](https://www.msnbc.com/)
 - [New York Times](https://www.nytimes.com/)
