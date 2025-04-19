@@ -18,6 +18,20 @@ The telephone numbers below have called and there is an empty person on the othe
 
 | Telephone Number | Location | Date Time[^11] | Caller | Social Media |
 |---|---|---|---|---|
+| <a href="tel:+18033283185">+1 (803) 328-3185</a> | SC. Rock Hill | 2025-04-18 06:05 PM | Jerry Chestnut | |
+| <a href="tel:+18036931749">+1 (803) 693-1749</a> | SC. York | 2025-04-18 05:25 PM | | |
+| <a href="tel:+18036674052">+1 (803) 667-4052</a> | SC. Columbia | 2025-04-18 04:28 PM | | |
+| <a href="tel:+19713627173">+1 (971) 362-7173</a> | OR. Portland | 2025-04-18 03:44 PM ¤¤ | Potential Spam | |
+| <a href="tel:+19713627173">+1 (971) 362-7173</a> | OR. Portland | 2025-04-18 03:43 PM | Potential Spam | |
+| <a href="tel:+18035258136">+1 (803) 525-8136</a> | SC. York | 2025-04-18 03:34 PM | Potential Spam | |
+| <a href="tel:+18034822171">+1 (803) 482-2171</a> | SC. Great Falls | 2025-04-18 03:21 PM | Shirley Rev Tra | |
+| <a href="tel:+18033860408">+1 (803) 386-0408</a> | SC. Columbia | 2025-04-18 03:14 PM | Potential Spam | |
+| <a href="tel:+18036721809">+1 (803) 672-1809</a> | SC. Denmark | 2025-04-18 02:30 PM | | |
+| <a href="tel:+18032636739">+1 (803) 263-6739</a> | SC. Norway | 2025-04-18 01:55 PM ¤¤ | Potential Spam | |
+| <a href="tel:+18032636739">+1 (803) 263-6739</a> | SC. Norway | 2025-04-18 01:54 PM | Potential Spam | |
+| <a href="tel:+18038064872">+1 (803) 806-4872</a> | SC. Columbia | 2025-04-18 01:18 PM | | |
+| <a href="tel:+18038145147">+1 (803) 814-5147</a> | SC. | 2025-04-18 11:21 AM | | |
+| <a href="tel:+18036147375">+1 (803) 614-7375</a> | SC. Orangeburg | 2025-04-18 10:59 AM | First Bank | |
 | <a href="tel:+18035310033">+1 (803) 531-0033</a> | SC. Orangeburg | 2025-04-17 04:53 PM | — | |
 | <a href="tel:+18034714912">+1 (803) 471-4912</a> | SC. Jackson | 2025-04-17 01:48 PM | — | |
 | <a href="tel:+18038892754">+1 (803) 889-2754</a> | SC. | 2025-04-17 01:05 PM | — | |
