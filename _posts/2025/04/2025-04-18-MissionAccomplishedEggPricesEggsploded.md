@@ -35,9 +35,6 @@ The [president](https://www.whitehouse.gov/), in other words, has not brought eg
 
 As for the larger context, I’m reminded of comments [Barack Obama](obamawhitehouse.archives.gov/) [made last week](https://barackobama.medium.com/conversation-at-hamilton-college-0c44228ac0bd) during an appearance at [Hamilton College](https://www.hamilton.edu/). The former [Democratic](https://www.democrats.org/) [president](https://www.whitehouse.gov/) said, “I think this is one of the challenges that we have — and I saw this even before the last election. I think people tend to think, ‘Oh, [democracy, rule of law, independent judiciary, freedom of the press](https://constitution.congress.gov/). That’s all abstract stuff because it’s not affecting the price of eggs.” Well, you know what? It’s about to affect the price of eggs.”
 
-| Federal Agency | Functions |
-|---|---|
-
 - [MSNBC](https://www.msnbc.com/)
 - [New York Times](https://www.nytimes.com/)
 - [Hamilton College](https://www.hamilton.edu/)
