@@ -45,7 +45,7 @@ Friends with our enemies
 |---|--:|---:|---:|
 | Biden (D) | 81,283,501 | 51.31% | 306 |
 | Trump (T) | 74,223,975 | 46.85% | 232 |
-| (Difference) | 7,059,526.00 | 4.46% | 74 |
+| (Difference) | 7,059,526 | 4.46% | 74 |
 
 *Maine appoints its electors proportionally. Biden-Harris won in the First Congressional District and took the state; Trump-Pence won the Second Congressional District. Maine's electoral votes were proportionally awarded accordingly: for President, Biden 3 and Trump 1; for Vice President, Harris 3 and Pence 1.
 **Nebraska appoints its electors proportionally. Trump-Pence won in the First and Third Congressional Districts and took the state; Biden-Harris won the Second Congressional District. Nebraska's electoral votes were proportionally awarded accordingly: for President, Trump 4 and Biden 1; for Vice President, Pence 4 and Harris 1.
