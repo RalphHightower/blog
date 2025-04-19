@@ -15,11 +15,11 @@ title: "Cheeky Boston: Projection On Old North Church, April 17, 2025"
 
 By adamg on Thu., 4/17/2025 - 11:31 pm
 
-![Let the Warning Ride Forth. Tyranny Is At Our Door](/assets/20250417-1.jpg)
+![Let the Warning Ride Forth. Tyranny Is At Our Door](../../../assets/20250417-1.jpg)
 <br />
-![One If By Land. Two If By D.C.](/assets/20250417-2.jpg)
+![One If By Land. Two If By D.C.](../../../assets/20250417-2.jpg)
 <br />
-![The Revolution Started HERE And It Never Left](/assets/20250417-3.jpg)
+![The Revolution Started HERE And It Never Left](../../../assets/20250417-3.jpg)
 <br />
 
 Adam Balsam captured the latest work tonight by Silence Dogood, a local artists' collective using one of Ben Franklin's pen names to spread the word against tyranny, in this case by updating Paul Revere's signal message on the side of Old North Church - the night before the 250th anniversary of the signal being put up in the spire for him.
