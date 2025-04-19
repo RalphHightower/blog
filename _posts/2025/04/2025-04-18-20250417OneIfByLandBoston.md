@@ -10,6 +10,7 @@ excerpt: ''
 title: "Cheeky Boston: Projection On Old North Church, April 17, 2025"
 ---
 
+- [250 Years Later, Is It Time For Another Revolution? NY Governor Kathy Hochul Compares Trump To a King]({% link _posts/2025/02/2025-02-22-RevoltAgainstKingTrump.md %})
 
 ## [Updating Old North Church's famous message / Universal Hub](https://images.universalhub.com/2025/updating-old-north-churchs-famous-message)
 
