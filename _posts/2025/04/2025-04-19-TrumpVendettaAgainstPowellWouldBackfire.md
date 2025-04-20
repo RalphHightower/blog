@@ -1,49 +1,48 @@
 ---
 layout: post
-tags: [Canada, Mexico, The State Council of the People’s Republic of China, 中国政府网_中央人民政府门户网站, Donald J Trump, Federal Reserve Board, Chairman Jerome Powell, Supreme Court of the United States (SCOTUS), US Courts, Senate, House of Representatives, President Joe Biden, President Donald Trump (45), President Donald J Trump (47), Council of Economic Advisers, President of the United States (POTUS), White House (WH), Donald J Trump, Federal Reserve Board, Jerome H. Powell, U.S. Department of the Treasury, Scott Bessent, Department of Commerce (DOC), Howard Lutnick, Regulating Imports with a Reciprocal Tariff to Rectify Trade Practices that Contribute to Large and Persistent Annual United States Goods Trade Deficits. Presidential Actions Executive Orders April 2 2025, President Donald Trump (47), President of the United States (POTUS), America First Trade Policy. Presidential Actions January 20 2025, White House (WH), tariffs, politics, stupidity]
+tags: [Donald J Trump, Federal Reserve Board, Chairman Jerome Powell, Supreme Court of the United States (SCOTUS), US Courts, Senate, House of Representatives, President Joe Biden, President Donald Trump (45), President Donald J Trump (47), Council of Economic Advisers, President of the United States (POTUS), White House (WH), Donald J Trump, Federal Reserve Board, Jerome H. Powell, U.S. Department of the Treasury, Scott Bessent, Department of Commerce (DOC), Howard Lutnick, Regulating Imports with a Reciprocal Tariff to Rectify Trade Practices that Contribute to Large and Persistent Annual United States Goods Trade Deficits. Presidential Actions Executive Orders April 2 2025, President Donald Trump (47), President of the United States (POTUS), America First Trade Policy. Presidential Actions January 20 2025, White House (WH), tariffs, politics, stupidity]
 categories: [Donald Trump]
-date: 2025-04-07 12:19 PM
-#excerpt: ''
+date: 2025-04-19 8:09 PM
+excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: "Treasury Secretary Scott Bessent Lives In A Financial Bubble. Or As Kellyanne Conway Would Say, An ‘Alternate Reality’"
+title: "Trump’s Vendetta With Federal Reserve Chair Jerome Powell Will Bankrupt America, Like His Businesses"
 ---
 
-## [Treasury secretary interview offers timely reminder: There are no adults in the room](https://www.msnbc.com/rachel-maddow-show/maddowblog/treasury-secretary-interview-offers-timely-reminder-are-no-adults-room-rcna199959)
 
-*Many hoped [Treasury](https://home.treasury.gov/) [Secretary Scott Bessent](https://home.treasury.gov/about/general-information/officials/scott-bessent) would be a voice of reason on [Team Trump](https://www.donaldjtrump.com/). Amid the crisis caused by tariffs, those hopes have since evaporated.*
+## [Why Trump’s offensive against the Federal Reserve and Jerome Powell matters](https://www.msnbc.com/rachel-maddow-show/maddowblog/trumps-federal-reserve-jerome-powell-independence-rcna201892)
 
-April 7, 2025, 8:52 AM EDT
+*The president's campaign against the Federal Reserve and Chairman Jerome Powell could have a direct impact on Americans' wallets.*
+
+April 18, 2025, 12:46 PM EDT
 By Steve Benen
 
-On Wednesday afternoon, shortly after stock market trading had wrapped up for the day, [Donald Trump](https://www.donaldjtrump.com/) kicked off a trade war with sweeping international trade tariffs. On Thursday, Wall Street followed international markets off a cliff.
+[Donald Trump](https://www.donaldjtrump.com/) has long struggled with the basics of economic policy, but there’s one detail the [president](https;//www.whitehouse.gov/) seems to understand fairly well: When the [Federal Reserve](https://www.federalreserve.gov/) lowers interest rates, it helps accelerate the economy, and when the Fed raises rates, it pumps the economic brakes.
 
-It was at that point that [Treasury](https://home.treasury.gov/) [Secretary Scott Bessent](https://home.treasury.gov/about/general-information/officials/scott-bessent) said, in apparent seriousness, that the two developments might’ve been unrelated.
+With this in mind, the Republican has spent the last decade [making knee-jerk pronouncements](https://www.msnbc.com/rachel-maddow-show/maddowblog/trump-going-handpicked-federal-reserve-chairman-rcna136992) about the [Fed](https://www.federalreserve.gov/) that have stuck to a predictable pattern: [Trump](https://www.donaldjtrump.com/) has publicly lobbied for higher interest rates when he thought it would benefit his political interest, just as he’s publicly lobbied for lower interest rates when he thought they would also advance his ambitions.
 
-“For everyone who thinks these market declines are all based on the [president](https://www.whitehouse.gov/)’s economic policies, I can tell you that this market decline started with the [Chinese](https://www.gov.cn/) AI announcement of [DeepSeek](https://github.com/deepseek-ai),” [Bessent told](https://finance.yahoo.com/news/treasurys-bessent-market-drop-mag-185141328.html) far-right media personality [Tucker Carlson](https://tuckercarlson.com/), in an interview that was released on Friday.
+It’s never been about what would help Americans; [Trump](https://www.donaldjtrump.com/)’s priority related to the [Fed](https://www.federalreserve.gov/) [has long been about helping](https://www.msnbc.com/rachel-maddow-show/maddowblog/trump-going-handpicked-federal-reserve-chairman-rcna136992).
 
-Two days later, [as NBC News reported](https://www.nbcnews.com/politics/trump-administration/bessent-americans-retire-arent-worried-stock-market-recession-rcna199892), the [Cabinet secretary](https://home.treasury.gov/about/general-information/officials/scott-bessent) kept talking, though he hardly made matters any better.
+With this in mind, since the [president](https://www.whitehouse.gov/)’s second term began, he’s repeatedly and publicly pressed [Federal Reserve](https://www.federalreserve.gov/) [Chairman Jerome Powell](https://www.federalreserve.gov/aboutthefed/bios/board/powell.htm) — a [Trump](https://www.donaldjtrump.com/) first-term nominee — to lower interest rates. [Powell](https://www.federalreserve.gov/aboutthefed/bios/board/powell.htm), mindful of stubborn inflation rates and the obvious fact that a rate cut would likely make inflation worse, has ignored the wildly inappropriate pressure campaign.
 
-> *In an interview with [NBC News](https://www.nbcnews.com/)’ “[Meet the Press](https://www.nbcnews.com/meet-the-press-full-episodes),” [Bessent](https://home.treasury.gov/about/general-information/officials/scott-bessent) called it a “false narrative” that people who are close to retiring may be reluctant after their retirement savings may have dropped last week because of the stock market downturn. “I think that’s a false narrative,” he told moderator Kristen Welker. “[Americans](https://www.usa.gov/) who want to retire right now, the [Americans](https://www.usa.gov/) who put away for years in their savings accounts, I think they don’t look at the day-to-day fluctuations.”*
+As [The New York Times reported](https://www.nytimes.com/2025/04/17/business/economy/trump-jerome-powell-fed.html), this has apparently inspired the president to kick things up a notch.
 
-Perhaps [Bessent](https://home.treasury.gov/about/general-information/officials/scott-bessent) should have conversations with a wider range of people — because there were countless [Americans](https://www.usa.gov/) looking at the “day-to-day fluctuaqtions” in their retirement accounts last week.
+> *President [Trump](https://www.donaldjtrump.com/) on Thursday escalated his long-running attack on the [Federal Reserve](https://www.federalreserve.gov/), by lashing out repeatedly at the head of the [nation’s central bank](https://www.federalreserve.gov/), [Jerome H. Powell](https://www.federalreserve.gov/aboutthefed/bios/board/powell.htm), for not doing enough to fortify the economy as the effects of tariffs take hold. ... In an early morning social media post that ricocheted around Washington, Wall Street and beyond, [Mr. Trump](https://www.donaldjtrump.com/) reprised those attacks, saying: ‘Powell’s termination cannot come fast enough!’*
 
-In the same interview, the [treasury secretary](https://home.treasury.gov/about/general-information/officials/scott-bessent) — ostensibly one of the most powerful and influential figures on the planet when it comes to the economy and financial markets — told host [mKristen Welker, “[W]hat I’ve been very impressed with is the market infrastructure, that we had record volume on Friday and everything is working very smoothly. So, the [American](https://www.usa.gov/) people, they can be very, take great comfort in that.”
+Hours after publishing that provocative missive, the [president](https://www.whitehouse.gov/) seemed to endorse a weird conspiracy theory about his own handpicked [Fed](https://www.federalreserve.gov/) chair — he suggested Powell was refusing to lower rates [for “political” reasons](https://x.com/Acyn/status/1912929943996248400), which didn’t make sense — before bragging about his power to fire the “[terrible](https://bsky.app/profile/atrupar.com/post/3lmzovt4iwv22)” chairman.
 
-Why would [Americans](https://www.usa.gov/) take “great comfort” in the fact that trillions of dollars of wealth disappeared “very smoothly”? I’m not sure, though [Bessent](https://home.treasury.gov/about/general-information/officials/scott-bessent) delivered the line as if he believed it made sense. It did not.
+“If I want him out, he’ll be out of there real fast, believe me,” [Trump](https://www.donaldjtrump.com/) told reporters.
 
-Stepping back, it’s worth emphasizing that [Bessent](https://home.treasury.gov/about/general-information/officials/scott-bessent) was hardly seen as a controversial [Cabinet](https://www.whitehouse.gov/administration/the-cabinet/) choice for [Trump](https://www.donaldjtrump.com/). On the contrary, he was seen as one of the president’s most mainstream personnel choices for his second term, and the [Treasury secretary](https://home.treasury.gov/about/general-information/officials/scott-bessent) was confirmed with [more Democratic votes](https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00019.htm) than most of his fellow secretaries.
+There’s no shortage of problems with this ridiculous campaign, starting with the fact that in modern American history, no other [president](https://www.whitehouse.gov/) has even come close to using [heavy-handed tactics](https://politicalwire.com/2025/03/19/trump-calls-on-fed-to-cut-rates/) like these against the [Federal Reserve](https://www.federalreserve.gov/). What’s more, that the [president](https://www.whitehouse.gov/) appears so desperate for a rate cut looks like an implicit admission that his tariffs agenda is failing to create the economic “boom” he was hoping for.
 
-Upon his confirmation, many hoped that [Bessent](https://home.treasury.gov/about/general-information/officials/scott-bessent) would be a voice of reason in the [Trump](https://www.donaldjtrump.com/) [administration](https://www.whitehouse.gov/administration/). On a team filled with cranks and charlatans, [Bessent](https://home.treasury.gov/about/general-information/officials/scott-bessent) might be in a position to steer the [president](https://www.whitehouse.gov/) in responsible directions, serving as the proverbial “adult in the room.”
+Just as importantly, if not more so, is the inconvenient fact that [Trump](https://www.donaldjtrump.com/) [can’t legally fire Powell without cause](https://www.axios.com/2025/04/17/trump-fire-jerome-powell-fed-humphreys-executor), even as the [president](https://www.whitehouse.gov/) suggests otherwise. If he were to try to take such a step, it would face immediate pushback in the [courts](https://www.uscourts.gov/), while simultaneously adding a fresh round of chaos and uncertainty to the markets.
 
-But those hopes have been dashed. As [The Washington Post](https://www.washingtonpost.com/)’s [Catherine Rampell](https://www.washingtonpost.com/people/catherine-rampell/) recently summarized [in a column](https://www.washingtonpost.com/opinions/2025/02/04/rubio-bessent-trump-administration/) focused on the [treasury secretary](https://home.treasury.gov/about/general-information/officials/scott-bessent), “The ‘adults in the room’ sometimes failed in [Trump](https://www.donaldjtrump.com/)’s first term. Now, they’re not even pretending to try.”
+But in case this weren’t quite enough, let’s also not lose sight of the fact that [Trump](https://www.donaldjtrump.com/) seems increasingly desperate to break down the wall dividing the [Oval Office](https://www.whitehouse.gov/) from [Powell](https://www.federalreserve.gov/aboutthefed/bios/board/powell.htm)’s office. The [Economic Security Project](https://economicsecurityproject.org/)’s [Chris Hughes](https://economicsecurityproject.org/meet-the-team/) wrote [an op-ed for The New York Times](https://www.nytimes.com/2025/04/18/opinion/federal-reserve-powell-trump.html) about the significance of the [Federal Reserve](https://www.federalreserve.gov/)’s independence.
 
-[MSNBC](https://www.msnbc.com/)’s [Stephanie Ruhle](https://www.msnbc.com/11th-hour) [told viewers](https://newrepublic.com/post/193634/donald-trump-treasury-scott-bessent-tariffs-quit), “My sources say that [Scott Bessent](https://home.treasury.gov/about/general-information/officials/scott-bessent) is kind of the odd man out here and, in the inner circle that [Trump](https://www.donaldjtrump.com/) has, he’s not even close to [Scott Bessent](https://home.treasury.gov/about/general-information/officials/scott-bessent) or listening to him. Some have said to me, he’s looking for an exit door to try to get himself to the [Fed](https://www.federalreserve.gov/), because in the last few days he’s really hurting his own credibility and history in the markets.”
+“If [Mr. Trump](https://www.donaldjtrump.com/) succeeds in subjugating the [Federal Reserve](https://www.federalreserve.gov/), the consequences would extend far beyond his term in office,” [Hughes](https://economicsecurityproject.org/meet-the-team/) wrote. “Interest rates would fluctuate with election cycles rather than economic conditions. Inflation expectations would become unanchored, creating the potential for prices to spiral out of control. The dollar’s status as the world’s reserve currency — which gives [America](https://www.usa.gov/) enormous economic advantages — would be jeopardized.
 
-Of course, if [Bessent](https://home.treasury.gov/about/general-information/officials/scott-bessent) is worried about salvaging his credibility, he might already be too late.
-
-@RalphHightower: [Bessent](https://home.treasury.gov/about/general-information/officials/scott-bessent) has already tarnished his reputation by signing on with [Trump](https://www.donaldjtrump.com/). [Trump](https://www.donaldjtrump.com/) is a resume killer
+“And beyond the [Fed](https://www.federalreserve.gov/), [Mr. Trump](https://www.donaldjtrump.com/)’s assault on institutional independence would threaten a tradition that has been essential to [America](https://www.usa.gov/)’s success. ... By undermining these principles, [Mr. Trump](https://www.donaldjtrump.com/) isn’t making [America](https://www.usa.gov/) great. He’s dismantling the institutional architecture that made [American](https://www.usa.gov/) prosperity possible in the first place.”
 
 | [Home - Federal Reserve Bank of Boston](https://www.bostonfed.org/) |
 |---|
@@ -61,10 +60,8 @@ Of course, if [Bessent](https://home.treasury.gov/about/general-information/offi
 | [Federal Reserve Bank of Dallas - Dallasfed.org](https://www.dallasfed.org/) |
 | [Federal Reserve Bank of San Francisco](https://www.frbsf.org/) |
 
-- [Canada](https://www.canada.ca/)
-- [Mexico](https://www.gob.mx/)
-- [The State Council of the People's Republic of China](https://english.www.gov.cn/)
-- [中国政府网_中央人民政府门户网站](https://www.gov.cn/)
+| [Economic Security Project](https://economicsecurityproject.org/)
+| [Economic Security Project – Meet the Team](https://economicsecurityproject.org/meet-the-team/)
 - [Donald J Trump](https://www.donaldjtrump.com/)
 - [Federal Reserve Board](https://www.federalreserve.gov/)
 - [Chairman Jerome Powell](https://www.federalreserve.gov/aboutthefed/bios/board/powell.htm)

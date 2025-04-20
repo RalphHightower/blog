@@ -18,6 +18,7 @@ The telephone numbers below have called and there is an empty person on the othe
 
 | Telephone Number | Location | Date Time[^11] | Caller | Social Media |
 |---|---|---|---|---|
+| <a href="tel:+18035000962">+1 (803) 500-0962</a> | SC. | 2025-04-19 06:16 PM | Potential Spam | |
 | <a href="tel:+18033283185">+1 (803) 328-3185</a> | SC. Rock Hill | 2025-04-18 06:05 PM | Jerry Chestnut | |
 | <a href="tel:+18036931749">+1 (803) 693-1749</a> | SC. York | 2025-04-18 05:25 PM | | |
 | <a href="tel:+18036674052">+1 (803) 667-4052</a> | SC. Columbia | 2025-04-18 04:28 PM | | |
