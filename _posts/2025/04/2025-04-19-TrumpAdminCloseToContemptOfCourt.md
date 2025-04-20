@@ -1,13 +1,13 @@
 ---
 layout: post
-tags: []
-categories: []
-date: 2019-06-25 13:14:15
+tags: [MSNBC, Venezuela, República de Honduras, El Salvador, Democratic Party, Trump Party, U.S. Constitution - Article III / Resources / Constitution Annotated / Congress.gov / Library of Congress, Alien and Sedition Acts (1798) / National Archives, Supreme Court of the United States (SCOTUS), US Courts, Washington DC District Court, Chief Judge James E. Boasberg /District of Columbia / United States District Court, President Donald Trump (47), President of the United States (POTUS), White House, politics]
+categories: [Donald Trump]
+date: 2025-04-19 7:50 PM
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: 
+title: "Who In Trump’s Justice Department Will Get Cited For Contempt of Court?"
 ---
 
 
@@ -46,6 +46,7 @@ The next step after that would be for the judge to request that the [government]
 
 While contesting that they violated the judge’s orders, [Trump](https://www.donaldjtrump.com/) [administration](https://www.whitehouse.gov/administration/) officials separately asked the [Supreme Court](https://www.supremecourt.gov/) to overturn the orders. The court did so in a [divided ruling](https://www.supremecourt.gov/opinions/24pdf/24a931_2c83.pdf) on April 7, after which [Trump](https://www.donaldjtrump.com/) officials [argued to Boasberg](https://storage.courtlistener.com/recap/gov.uscourts.dcd.278436/gov.uscourts.dcd.278436.78.0.pdf) that the ruling nullified any potential contempt proceedings before him. Rejecting that argument in his opinion Wednesday, [Boasberg](https://www.dcd.uscourts.gov/content/chief-judge-james-e-boasberg) wrote that “the fact that the [Supreme Court](https://www.supremecourt.gov/) determined that this [Court](https://www.dcd.uscourts.gov/)’s TROs suffered from a venue defect does not affect — let alone moot — the compliance inquiry presently teed up here.”
 
+- [MSNBC](https://www.msnbc.com/)
 - [Venezuela](https://gob.ve/)
 - [República de Honduras](https://www.gob.hn/)
 - [El Salvador](https://www.gob.sv/)
