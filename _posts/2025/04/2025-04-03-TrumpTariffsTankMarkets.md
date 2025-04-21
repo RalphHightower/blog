@@ -24,6 +24,8 @@ Various news media has reported that today was the worst stock market drop since
 
 ## Stock Market Closing Indexes After Trump’s Tariffs Tank World’s Stock Markets 
  
+### [Stock Market Indexes - Google Finance](https://www.google.com/finance/markets/indexes/)
+
 | **Americas** | 
 | Index | Closing Value | Gain/Loss | Percentage Change | 
 |---|---:|---:|---:| 

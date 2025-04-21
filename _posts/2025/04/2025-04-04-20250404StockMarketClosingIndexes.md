@@ -65,6 +65,8 @@ The [Trumpian](https://www.gop.com/) president was not expected to appear public
 
 ## World Stock Market Closing Indexes – 2025-04-04
 
+### [Stock Market Indexes - Google Finance](https://www.google.com/finance/markets/indexes/)
+
 | Index | Closing Value | Gain/Loss | Percentage Change |
 |---|---:|---:|---:|
 | **Americas** | | | |

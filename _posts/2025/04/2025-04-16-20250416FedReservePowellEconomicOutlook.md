@@ -18,7 +18,7 @@ title: "Federal Reserve Chair Jerome Powell: Outlook for the Economy and Monetar
 
 April 16, 2025
 
-Chair Jerome H. Powell
+Chair [Jerome H. Powell](https://www.federalreserve.gov/aboutthefed/bios/board/powell.htm)
 
 At the Economic Club of Chicago, Chicago, Illinois
 
