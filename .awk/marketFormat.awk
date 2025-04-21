@@ -1,14 +1,14 @@
-# Used to format Market Indexes from Google 
-# I haven't been able to pass date and time as parameters, but passing DATE. TIME as environment variables works 
+# Used to format Market Indexes from Google
+# I haven't been able to pass date and time as parameters, but passing DATE. TIME as environment variables works
 
 BEGIN {
-    
+
     cur_date = ""
     cur_time = ""
-    
+
     rgxDate = "[2-9][0-9][0-9)[0-9]-[01][0-9]-[0-3][0-9]"
     rgxTime = "([01][0-9]:[0-5][0-9] [A|P]M)|([012][0-9]:[0-5][0-9])"
-    
+
     for (ndx = 1; ndx < ARGC; ndx++) {
         if (match($ndx, rgxDate) > 0) {
             cur_date = ARGV[ndx]
@@ -20,46 +20,24 @@ BEGIN {
             }
         }
 
-    printf("---\n")
-    printf("layout: post\n")
-    printf("tags: [New York Stock Exchange (NYSE)	New York City USA, Nasdaq Stock Market	New York City USA, Tokyo Stock Exchange (TSE)	Tokyo Japan, Shanghai Stock Exchange (SSE)	Shanghai China, Hong Kong Stock Exchange (HKEX)	Hong Kong China, London Stock Exchange (LSE)	London United Kingdom, Euronext Amsterdam Brussels Dublin Lisbon Milan Oslo Paris, Toronto Stock Exchange (TSX)	Toronto Canada, National Stock Exchange of India (NSE)	Mumbai India, Bombay Stock Exchange (BSE)	Mumbai India, Shenzhen Stock Exchange (SZSE)	Shenzhen China, Saudi Stock Exchange (Tadawul)	Riyadh Saudi Arabia, Australian Securities Exchange (ASX)	Sydney Australia, Deutsche Börse (Frankfurt Stock Exchange)	Frankfurt Germany, SIX Swiss Exchange	Zurich Switzerland, Korea Exchange (KRX)	Seoul South Korea, Taiwan Stock Exchange (TWSE)	Taipei Taiwan, Johannesburg Stock Exchange (JSE)	Johannesburg South Africa, Bursa Malaysia	Kuala Lumpur Malaysia, Stock Exchange of Thailand (SET)	Bangkok Thailand, Singapore Exchange (SGX)	Singapore, Mexican Stock Exchange (BMV)	Mexico City Mexico, Moscow Exchange (MOEX)	Moscow Russia, Brazil Stock Exchange (B3)	São Paulo Brazil, Donald J Trump, Supreme Court of the United States (SCOTUS), US Courts, Senate, House of Representatives, U.S. Department of the Treasury, Scott Bessent, Department of Commerce (DOC), Howard Lutnick, Howard W. Lutnick, President Donald Trump (45), President Donald Trump (47), President of the United States (POTUS), White House (WH), stupidity, tariffs, politics]\n")
-    printf("categories: [world stock market indexes]\n")
-    
-    if (curDate == "")
-        curDate = ENVIRON["DATE"]
-    if (curTime == "")
-        curTime = ENVIRON["TIME"]
-
-    printf("date: %s\n", (length(curDate curTime) > 0 ? curDate " " curTime : ""))
-    printf("#excerpt: ''\n")
-    printf("#image: 'BASEURL/assets/blog/img/.png'\n")
-    printf("#description:\n")
-    printf("#permalink:\n")
-    printf("title: \"%s: World Stock Market Closing Indexes: Americas ().  Europe, Middle East, & Africa (). Asia Pacific ().\"\n", curDate)
-    printf("---\n")
-
-    printf("\n\n## [Stock Market Indexes - Google Finance](https://www.google.com/finance/markets/indexes/)\n\n")
-    printf("| Index | Closing Value | Gain/Loss | Percentage Change |\n")
-    printf("|---|---:|---:|---:|\n")
     region = "|Americas|Europe, Middle East, and Africa|Asia Pacific|"
-    gainers = 0.
-    losers = 0.
+    gainers = 0
+    losers = 0
     pctChange = 0.0
     line = -1
+    postHeader()
     }
 {
     regionHeading = index(region, $0)
+    #printf("#DEBUG: NR: %d, regionHeading, %s\n", NR, regionHeading, $0)
     if ((line == -1) || (regionHeading > 0)) {
+        #printf("#DEBUG: regionHeading: %d\n", regionHeading)
         if (substr($0, 1, 5) != "Index") {
-            total = gainers + loser
-            if (total > 0) {
-                strength = (gainers / total) * 100
-                printf("| Avg Pct Chg: %0.2f% | gainers: %d (%0.2f%) | losers: %d (%0.2f%) | **%s**|\n", pctChange / total, gainers, (gainers / total) * 100.0, losers, (losers / total) * 100.0, assessRegion(strength))
-                }
-            printf("| **%s** | | | |\n", $0)
+            tallySummary(gainers, losers, pctChange, 1)
             gainers = 0
             losers = 0
             pctChange = 0.0
+            line = -1
             }
         }
     if (substr($0, 1, 5) == "Index") {
@@ -90,52 +68,88 @@ BEGIN {
         }
     }
 END {
-    total = gainers + loser
-    if (total > 0) {
-        strength = (gainers / total) * 100
-        printf("| Avg Pct Chg: %0.2f% | gainers: %d (%0.2f%) | losers: %d (%0.2f%) | **%s**|\n", pctChange / total, gainers, (gainers / total) * 100.0, losers, (losers / total) * 100.0, assessRegion(strength))
-        }
+    tallySummary(gainers, losers, pctChange, 0)
     postTrailer()
     }
-    
+
+function tallySummary(gainers, losers, pct, newRegion) {
+    total = gainers + losers
+    #printf("\n\nDEBUG: tallySummary(newRegion: %d, pct: %0.2f, gainers: %d, losers: %d, total: %d)\n\n", newRegion, pct, gainers, losers, total)
+        if (total > 0) {
+            strength = (gainers / total) * 100
+            printf("| Avg Pct Chg: %0.2f% | gainers: %d (%0.2f%) | losers: %d (%0.2f%) | **%s** |\n", (pct / total), gainers, (gainers / total) * 100.0, losers, (losers / total) * 100.0, assessRegion(strength))
+            }
+        if (newRegion > 0)
+            printf("| **%s** | | | |\n", $0)
+    gainers = 0
+    losers = 0
+    pctChange = 0.0
+    }
+
 function assessRegion(percent) {
+    #printf("DEBUG: percent:%f \n", percent)
     strength = ""
-    # < 25% (1)
-    if (percent < 25)
+    # <= 25% (1)
+    if (percent <= 25)
         strength = "Strong Losses"
-    # < 29% (2)
-    else if (percent < 29)
+    # <= 29% (2)
+    else if (percent <= 29)
         strength = "Strong Losses"
-    # < 33% (3)
-    else if (percent < 33)
+    # <= 33% (3)
+    else if (percent <= 33)
         strength = "Moderate Losses"
-    # < 41.5% (4)
-    else if (percent < 41.5)
+    # <= 41.5% (4)
+    else if (percent <= 41.5)
         strength = "Moderate Losses"
-    # < 50% (5)
-    else if (percent < 50)
+    # <= 50% (5)
+    else if (percent <= 50)
         strength = "Mixed"
-    # < 58% (6)
-    else if (percent < 58)
+    # <= 58% (6)
+    else if (percent <= 58)
         strength = "Mixed"
-    # < 66% (7)
-    else if (percent < 66)
+    # <= 66% (7)
+    else if (percent <= 66)
         strength = "Moderate Gains"
-    # < 70.5% (8)
-    else if (percent < 70.5)
+    # <= 70.5% (8)
+    else if (percent <= 70.5)
         strength = "Moderate Gains"
-    # < 75% (9)
-    else if (percent < 75)
+    # <= 75% (9)
+    else if (percent <= 75)
         strength = "Strong Gains"
-    # < 87.5% (10)
-    else if (percent < 87.5)
+    # <= 87.5% (10)
+    else if (percent <= 87.5)
         strength = "Strong Gains"
-    # < 100% (11)
-    else if (percent < 100)
+    # <= 100% (11)
+    else if (percent <= 100)
         strength = "Strong Gains"
     else
         strength = "Strong Gains"
+    #printf("DEBUG: strength: %s\n", strength)
     return (strength)
+    }
+
+function postHeader() {
+    printf("---\n")
+    printf("layout: post\n")
+    printf("tags: [New York Stock Exchange (NYSE)	New York City USA, Nasdaq Stock Market	New York City USA, Tokyo Stock Exchange (TSE)	Tokyo Japan, Shanghai Stock Exchange (SSE)	Shanghai China, Hong Kong Stock Exchange (HKEX)	Hong Kong China, London Stock Exchange (LSE)	London United Kingdom, Euronext Amsterdam Brussels Dublin Lisbon Milan Oslo Paris, Toronto Stock Exchange (TSX)	Toronto Canada, National Stock Exchange of India (NSE)	Mumbai India, Bombay Stock Exchange (BSE)	Mumbai India, Shenzhen Stock Exchange (SZSE)	Shenzhen China, Saudi Stock Exchange (Tadawul)	Riyadh Saudi Arabia, Australian Securities Exchange (ASX)	Sydney Australia, Deutsche Börse (Frankfurt Stock Exchange)	Frankfurt Germany, SIX Swiss Exchange	Zurich Switzerland, Korea Exchange (KRX)	Seoul South Korea, Taiwan Stock Exchange (TWSE)	Taipei Taiwan, Johannesburg Stock Exchange (JSE)	Johannesburg South Africa, Bursa Malaysia	Kuala Lumpur Malaysia, Stock Exchange of Thailand (SET)	Bangkok Thailand, Singapore Exchange (SGX)	Singapore, Mexican Stock Exchange (BMV)	Mexico City Mexico, Moscow Exchange (MOEX)	Moscow Russia, Brazil Stock Exchange (B3)	São Paulo Brazil, Donald J Trump, Supreme Court of the United States (SCOTUS), US Courts, Senate, House of Representatives, U.S. Department of the Treasury, Scott Bessent, Department of Commerce (DOC), Howard Lutnick, Howard W. Lutnick, President Donald Trump (45), President Donald Trump (47), President of the United States (POTUS), White House (WH), stupidity, tariffs, politics]\n")
+    printf("categories: [world stock market indexes]\n")
+
+    if (curDate == "")
+        curDate = ENVIRON["DATE"]
+    if (curTime == "")
+        curTime = ENVIRON["TIME"]
+
+    printf("date: %s\n", (length(curDate curTime) > 0 ? curDate " " curTime : ""))
+    printf("#excerpt: ''\n")
+    printf("#image: 'BASEURL/assets/blog/img/.png'\n")
+    printf("#description:\n")
+    printf("#permalink:\n")
+    printf("title: \"%s: World Stock Market Closing Indexes: Americas ().  Europe, Middle East, & Africa (). Asia Pacific ().\"\n", curDate)
+    printf("---\n")
+
+    printf("\n\n## [Stock Market Indexes - Google Finance](https://www.google.com/finance/markets/indexes/)\n\n")
+    printf("| Index | Closing Value | Gain/Loss | Percentage Change |\n")
+    printf("|---|---:|---:|---:|\n")
     }
 
 function postTrailer() {
@@ -145,9 +159,9 @@ function postTrailer() {
     printf("|---------------|----------|\n")
     printf("| **[New York Stock Exchange (NYSE)](https://www.nyse.com/index)** | New York City, USA |\n")
     printf("| **[Nasdaq Stock Market](https://www.nasdaq.com/)** | New York City, USA |\n")
-    printf("| **[Tokyo Stock Exchange (TSE)](https://www.jpx.co.jp/)** | Tokyo, Japan |\n")
-    printf("| **[Shanghai Stock Exchange (SSE)](https://sse.com.cn/)** | Shanghai, China |\n")
-    printf("| **[Hong Kong Stock Exchange (HKEX)](https://www.hkex.com.hk/)** | Hong Kong, China |\n")
+    printf("| **[東京証券取引 (TSE)](https://www.jpx.co.jp/)** | Tokyo, Japan |\n")
+    printf("| **[上海证券交易所 (SSE)](https://sse.com.cn/)** | Shanghai, China |\n")
+    printf("| **[香港聯合交易所 (HKEX)](https://www.hkex.com.hk/)** | Hong Kong, China |\n")
     printf("| **[London Stock Exchange (LSE)](https://www.londonstockexchange.com/)** | London, United Kingdom |\n")
     printf("| **[Euronext](https://www.euronext.com/)** | Amsterdam, Brussels, Dublin, Lisbon, Milan, Oslo, Paris |\n")
     printf("| **[Toronto Stock Exchange (TSX)](https://www.tmx.com/)** | Toronto, Canada |\n")
