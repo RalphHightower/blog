@@ -1,13 +1,13 @@
 ---
 layout: post
-tags: [Newsweek, Newsmax, Donald J Trump, U.S. Courts, Department of Justice (DOJ), U.S. Capitol Police, Congress, House of Representatives, United States House Committee on Oversight and Accountability, Gerald Connolly (D-VA11), President Donald Trump (45), Department of Justice / Special Counsel Jack Smith, Superseding Indictment United States v. Donald J. Trump. August 27 2024, Official Committee reports printed hearing records and other publications of the Select Committee, NARA archive of the January 6th Select Committee website, NARA archive of the January 6th Select Committee Report, President Donald Trump (47), Granting Pardons And Commutation Of Sentences For Certain Offenses Relating To The Events At Or Near The United States Capitol On January 6 2021. Presidential Actions January 20 2025, Trump Administration, President of the United States (POTUS), White House, January 6th 2021 insurrection, politics]
+tags: [Newsweek, Newsmax, Donald J Trump, U.S. Courts, Department of Justice (DOJ), U.S. Capitol Police, Congress, House of Representatives, United States House Committee on Oversight and Accountability, Gerald Connolly (D-VA11), President Donald Trump (45), Department of Justice / Special Counsel Jack Smith, Superseding Indictment United States v. Donald J. Trump. August 27 2024, Official Committee reports printed hearing records and other publications of the Select Committee, NARA archive of the January 6th Select Committee website, NARA archive of the January 6th Select Committee Report, President Donald Trump (47), Granting Pardons And Commutation Of Sentences For Certain Offenses Relating To The Events At Or Near The United States Capitol On January 6 2021. Presidential Actions January 20 2025, reparations, Trump Administration, President of the United States (POTUS), White House, January 6th 2021 insurrection, politics]
 categories: [Donald Trump]
 date: 2025-04-20 7:40 PM
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: "Reparations For January 6 Criminals? Fuck No! GoFundMe or Force Trump or the Trump Party Can Give Them Money!"
+title: "Reparations For January 6 Criminals? Fuck No! GoFundMe or Force Trump or the Trump Party For Money!"
 ---
 
 
