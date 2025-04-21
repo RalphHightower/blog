@@ -13,7 +13,7 @@ title: "Reparations For January 6 Criminals? Fuck No! GoFundMe or Force Trump or
 
 ## [Trump’s Justice Department backs reimbursements for some Jan. 6 criminals](https://www.msnbc.com/rachel-maddow-show/maddowblog/trumps-justice-department-backs-reimbursements-jan-6-criminals-rcna200590)
 
-*Many [Jan. 6 criminals](https://www.govinfo.gov/committee/house-january6th?path=/browsecommittee/chamber/house/committee/january6th/collection/CRPT) paid restitution to help cover the costs of damages to the [Capitol](https://www.congress.gov%). The [DOJ](https://www.justice.gov/) thinks some of them should be reimbursed.*
+*Many [Jan. 6 criminals](https://www.govinfo.gov/committee/house-january6th?path=/browsecommittee/chamber/house/committee/january6th/collection/CRPT) paid restitution to help cover the costs of damages to the [Capitol](https://www.congress.gov/). The [DOJ](https://www.justice.gov/) thinks some of them should be reimbursed.*
 
 April 10, 2025, 9:47 AM EDT
 By Steve Benen
