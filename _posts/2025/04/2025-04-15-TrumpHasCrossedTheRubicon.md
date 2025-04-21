@@ -24,7 +24,7 @@ On Monday, both [Trump](https://www.donaldjtrump.com/) officials and the [presid
 
 And just like that, the [White House](https://www.whitehouse.gov/) openly defied a unanimous ruling by the nation’s highest court.
 
-Last week, by a vote of 9-0[^27], the [court](https://www.supremecourt.gov/) instructed the government to “facilitate” the return of Abrego Garcia. But the justices left [Trump](https://www.donaldjtrump.com/) just enough wiggle room to scoff at making effort at all, despite multiple rulings from [federal courts](https://www.uscourts.gov%), including a district court judge who [called Abrego Garcia’s arrest](https://www.nbcnews.com/news/us-news/trump-administration](https://www.whitehouse.gov/administration/)-asks-scotus-block-order-return-man-mistakenly-dep-rcna199979) “wholly lawless.”
+Last week, by a vote of 9-0[^27], the [court](https://www.supremecourt.gov/) instructed the government to “facilitate” the return of Abrego Garcia. But the justices left [Trump](https://www.donaldjtrump.com/) just enough wiggle room to scoff at making effort at all, despite multiple rulings from [federal courts](https://www.uscourts.gov/), including a district court judge who [called Abrego Garcia’s arrest](https://www.nbcnews.com/news/us-news/trump-administration](https://www.whitehouse.gov/administration/)-asks-scotus-block-order-return-man-mistakenly-dep-rcna199979) “wholly lawless.”
 
 [^27]: @RalphHightower: This is probably the first unanimous verdict in our nation’s history. 
 
