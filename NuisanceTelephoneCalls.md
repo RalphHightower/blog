@@ -18,6 +18,19 @@ The telephone numbers below have called and there is an empty person on the othe
 
 | Telephone Number | Location | Date Time[^11] | Caller | Social Media |
 |---|---|---|---|---|
+| <a href="tel:+18039104746">+1 (803) 910-4746</a> | SC. Bowman | 2025-04-21 05:25 PM ¤¤ | — | |
+| <a href="tel:+18039104746">+1 (803) 910-4746</a> | SC. Bowman | 2025-04-21 05:24 PM | — | |
+| <a href="tel:+18039104746">+1 (803) 910-4746</a> | SC. Bowman | 2025-04-21 05:24 PM | — | |
+| <a href="tel:+18033105751">+1 (803) 310-5751</a> | SC. Elgin | 2025-04-21 05:10 PM | Potential Spam | |
+| <a href="tel:+18033377401">+1 (803) 337-7401</a> | SC. Blythewood | 2025-04-21 04:33 PM | William L Stroup | |
+| <a href="tel:+18035757934">+1 (803) 575-7934</a> | SC. Little Mountain | 2025-04-21 03:54 PM | — | |
+| <a href="tel:+18035636145">+1 (803) 563-6145</a> | SC. Columbia | 2025-04-21 01:14 PM | — | |
+| <a href="tel:+18038798707">+1 (803) 879-8707</a> | SC. Clover | 2025-04-21 12:58 PM ¤¤ | Potential Spam | |
+| <a href="tel:+18038798707">+1 (803) 879-8707</a> | SC. Clover | 2025-04-21 12:57 PM | Potential Spam | |
+| <a href="tel:+18166432731">+1 (816) 643-2731</a> | MO. | 2025-04-21 12:05 PM | NSDD | |
+| <a href="tel:+18034026965">+1 (803) 402-6965</a> | SC. Winnsboro | 2025-04-21 11:59 AM ¤¤ | — | |
+| <a href="tel:+18034026965">+1 (803) 402-6965</a> | SC. Winnsboro | 2025-04-21 11:58 AM | — | |
+| <a href="tel:+18032484872">+1 (803) 248-4872</a> | SC. | 2025-04-21 11:25 AM | — | |
 | <a href="tel:+18035000962">+1 (803) 500-0962</a> | SC. | 2025-04-19 06:16 PM | Potential Spam | |
 | <a href="tel:+18033283185">+1 (803) 328-3185</a> | SC. Rock Hill | 2025-04-18 06:05 PM | Jerry Chestnut | |
 | <a href="tel:+18036931749">+1 (803) 693-1749</a> | SC. York | 2025-04-18 05:25 PM | | |
