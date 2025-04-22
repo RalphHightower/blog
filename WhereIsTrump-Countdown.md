@@ -20,9 +20,7 @@ title: "Where Is Trump? 🔥DC? FL⛳️?"
 {% assign days_since = difference_in_seconds | divided_by: 86400 %}
 Days since: {{ days_since }}
 
-### It Can't Come Soon Enough. 
-
-#### Computer, End Trump Presidency Simulation. 
+### Computer, End Trump Presidency Simulation. 
 
 {% assign future_date = '2029-01-20' | date: '%s' %}
 {% assign current_date = 'now' | date: '%s' %}
@@ -44,7 +42,7 @@ Days remaining: {{ days_remaining }}
 | **[Mar-a-Lago](https://www.maralagoclub.com/)** |
 | [The Mar-a-Lago Club](https://www.maralagoclub.com/) <br /> 1100 South Ocean Boulevard, <br /> Palm Beach, Florida 33480 <br /> <a href="tel+15618322600">+1 (561) 832-2600</a> |
     {% else %}
-### Trump Is Busy Burning DC to the Ground
+### Trump Is Busy Burning Federal Government to the Ground
 
 | Burning 🔥 Federal Government |
 |---|
@@ -62,3 +60,23 @@ Days remaining: {{ days_remaining }}
 
 - [Roll Call Factba.se - Donald J. Trump's Public Schedule](https://rollcall.com/factbase/trump/topic/calendar/)
 - [JSON : Roll Call Factba.se - Donald J. Trump's Public Schedule](https://media-cdn.factba.se/rss/json/trump/calendar-full.json)
+
+{% comment %}
+
+Floating:
+1. New Year's Day (January 1)
+2. Juneteenth National Independence Day (June 19)
+3. Independence Day (July 4)
+4. Veterans Day (November 11)
+5. Christmas Day (December 25)
+
+Fixed:
+1. Birthday of Martin Luther King, Jr. (Third Monday in January)
+2. Inauguration Day (January 20, every 4 years following a presidential election)
+3. Washington's Birthday (Also known as Presidents Day; third Monday in February)
+4. Memorial Day (Last Monday in May)
+5. Labor Day (First Monday in September)
+6. Columbus Day (Second Monday in October)
+7. Thanksgiving Day (Fourth Thursday in November)
+
+{% endcomment %}
