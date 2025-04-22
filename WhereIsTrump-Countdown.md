@@ -16,17 +16,17 @@ title: "Where Is Trump? DC🔥? FL⛳️?"
 {% assign current_date = 'now' | date: '%s' %}
 {% assign difference_in_seconds = current_date | minus: past_date %}
 {% assign days_since = difference_in_seconds | divided_by: 86400 %}
-Days since: {{ days_since }}
+Days since: {{ days_since | ab s}}
 
 {% assign past_date = '2029-01-20' | date: '%s' %}
 {% assign current_date = 'now' | date: '%s' %}
 {% assign difference_in_seconds = current_date | minus: past_date %}
 {% assign days_since = difference_in_seconds | divided_by: 86400 %}
-Days to go: {{ days_since }}
-
+Days remaining: {{ days_since }}
 
 {% assign today = 'now' %}
 {% assign day = | today | date: '%a' %}
+{{ Today: day }}
 {% case day %}
     {% when "Fri", "Sat", "Sun" %}
 | Golfing ⛳️ |
