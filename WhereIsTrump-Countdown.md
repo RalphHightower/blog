@@ -7,9 +7,10 @@ date: 2025-04-17 11:30 PM
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: "Where Is Trump? If It’s the Weekend, He’s Burning 🔥 Taxpayer Money 💰 Playing Golf 🏌️‍♂️ at His Mar-a-Lago Resort ⛳️"
+title: "Where Is Trump? DC🔥? FL⛳️?"
 ---
 
+##If It’s the Weekend, He’s Burning 🔥 Taxpayer Money 💰 Playing Golf 🏌️‍♂️ at His Mar-a-Lago Resort ⛳️
 
 {% assign past_date = '2025-01-20' | date: '%s' %}
 {% assign current_date = 'now' | date: '%s' %}
@@ -24,8 +25,20 @@ Days since: {{ days_since }}
 Days to go: {{ days_since }}
 
 
-{% assign some_date = '2025-04-13' %}
-{{ some_date | date: '%a' }}
+{% assign today = 'now' %}
+{% assign day = | today | date: '%a' %}
+{% case day %}
+    {% when "Fri", "Sat", "Sun" %}
+| Golfing ⛳️ |
+|---|
+| **[Mar-a-Lago](https://www.maralagoclub.com/)** |
+| [The Mar-a-Lago Club](https://www.maralagoclub.com/) <br /> 1100 South Ocean Boulevard, <br /> Palm Beach, Florida 33480 <br /> <a href="tel+15618322600">+1 (561) 832-2600</a> |
+    {% else %}
+| Burning 🔥 Federal Government |
+|---|
+| **[White House](https://www.whitehouse.gov)** |
+| 1600 Pennsylvania Ave., NW <br /> Washington, DC 20500 <br /> <a href="tel:+12024561111">+1 (202) 456-1111</a> (comments) <br /> <a href="tel:+12024561414">+1 (202) 456-1414</a> (switchboard) |
+{% endcase %}
 
 - [Federal Aviation Administration - Graphic TFRs](https://tfr.faa.gov/tfr3/?page=list)
 - [Federal Aviation Administration - Graphic TFRs](https://tfr.faa.gov/tfr3/export/json)
