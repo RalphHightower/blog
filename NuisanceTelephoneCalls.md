@@ -2,7 +2,7 @@
 layout: page
 tags: [assholes, Donald Trump, Elon Musk, Betsy DeVos, MAGA billionaires, billionaire, Trump donors, Republican PAC, Make America Great Again (MAGA)]
 categories: [Telephone Numbers]
-date: 2025-04-16 8:56 PM
+date: 2025-04-22 7:40 PM
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description: 
@@ -18,6 +18,16 @@ The telephone numbers below have called and there is an empty person on the othe
 
 | Telephone Number | Location | Date Time[^11] | Caller | Social Media |
 |---|---|---|---|---|
+| <a href="tel:+18039738321">+1 (803) 973-8321</a> | SC. Columbia | 2025-04-22 05:02 PM | Potential Spam | |
+| <a href="tel:+18039472745">+1 (803) 947-2745</a> | SC. | 2025-04-22 04:15 PM | — | |
+| <a href="tel:+18035910195">+1 (803) 591-0195</a> | SC. | 2025-04-22 03:04 PM | — | |
+| <a href="tel:+18036040418">+1 (803) 604-0418</a> | SC. | 2025-04-22 01:27 PM | — | |
+| <a href="tel:+18033849096">+1 (803) 384-9096</a> | SC. Edgefield | 2025-04-22 01:13 PM | Potential Spam | |
+| <a href="tel:+18033067606">+1 (803) 306-7606</a> | SC. Aiken | 2025-04-22 12:53 PM | — | |
+| <a href="tel:+18037647288">+1 (803) 764-7288</a> | SC. | 2025-04-22 11:29 AM | James Williams | |
+| <a href="tel:+18394444371">+1 (839) 444-4371</a> | SC. Ehrhardt | 2025-04-22 10:11 AM | Potential Spam | |
+| <a href="tel:+18033668082">+1 (803) 366-8082</a> | SC. Rock Hill | 2025-04-22 09:51 AM | Susan Sturgis | |
+| <a href="tel:+18034105454">+1 (803) 410-5454</a> | SC. Manning | 2025-04-22 09:50 AM | Movement | |
 | <a href="tel:+18039104746">+1 (803) 910-4746</a> | SC. Bowman | 2025-04-21 05:25 PM ¤¤ | — | |
 | <a href="tel:+18039104746">+1 (803) 910-4746</a> | SC. Bowman | 2025-04-21 05:24 PM | — | |
 | <a href="tel:+18039104746">+1 (803) 910-4746</a> | SC. Bowman | 2025-04-21 05:24 PM | — | |
