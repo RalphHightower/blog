@@ -14,17 +14,19 @@ title: "Where Is Trump? 🔥DC? FL⛳️?"
 
 ### Days of Hell
 
-{% assign past_date = '2025-01-20 12:00:00 PM' | date: '%s' %}
-{% assign current_date = 'now' | date: '%Y-%m-%d 12:00:00 PM' %}
-{% assign difference_in_seconds = current_date | minus: past_date %}
+{% assign past_date = '2025-01-20 12:00 PM' | date: '%s' %}
+{% assign current_date = 'now' | date: '%Y-%m-%d 12:00 PM'
+{% assign noon = current_date | date '%s' %}
+{% assign difference_in_seconds = noon | minus: past_date %}
 {% assign days_since = difference_in_seconds | divided_by: 86400 %}
 Days since: {{ days_since }}
 
 ### Computer, End Trump Presidency Simulation. 
 
-{% assign future_date = '2029-01-20 12:00:00 PM' | date: '%s' %}
-{% assign current_date = 'now' | date: '%Y-%m-%d 12:00:00 PM' %}
-{% assign difference_in_seconds = future_date | minus: current_date %}
+{% assign future_date = '2029-01-20 12:00 PM' | date: '%s' %}
+{% assign current_date = 'now' | date: '%Y-%m-%d 12:00 PM'
+{% assign noon = current_date | date '%s' %}
+{% assign difference_in_seconds = future_date | minus: noon %}
 {% assign days_remaining = difference_in_seconds | divided_by: 86400 %}
 Days remaining: {{ days_remaining }}
 
