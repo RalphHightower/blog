@@ -15,7 +15,7 @@ title: "Where Is Trump? 🔥DC? FL⛳️?"
 ### Days of Hell
 
 {% assign past_date = '2025-01-20 12:00 PM' | date: '%s' %}
-{% assign current_date = 'now' | date: '%Y-%m-%d 12:00 PM'
+{% assign current_date = 'now' | date: '%Y-%m-%d 12:00 PM' %}
 {% assign noon = current_date | date '%s' %}
 {% assign difference_in_seconds = noon | minus: past_date %}
 {% assign days_since = difference_in_seconds | divided_by: 86400 %}
@@ -24,7 +24,7 @@ Days since: {{ days_since }}
 ### Computer, End Trump Presidency Simulation. 
 
 {% assign future_date = '2029-01-20 12:00 PM' | date: '%s' %}
-{% assign current_date = 'now' | date: '%Y-%m-%d 12:00 PM'
+{% assign current_date = 'now' | date: '%Y-%m-%d 12:00 PM' %}
 {% assign noon = current_date | date '%s' %}
 {% assign difference_in_seconds = future_date | minus: noon %}
 {% assign days_remaining = difference_in_seconds | divided_by: 86400 %}
@@ -82,3 +82,9 @@ Fixed:
 7. Thanksgiving Day (Fourth Thursday in November)
 
 {% endcomment %}
+
+- [ ] Liquid Warning: Liquid syntax error (line 6): Unexpected character { in "{{'now' | date: '%Y-%m-%d 12:00 PM' {% assign noon = current_date | date '%s' }}" in WhereIsTrump-Countdown.md
+- [ ] Liquid Warning: Liquid syntax error (line 15): Unexpected character { in "{{'now' | date: '%Y-%m-%d 12:00 PM' {% assign noon = current_date | date '%s' }}" in WhereIsTrump-Countdown.md
+- [ ] Liquid Warning: Liquid syntax error (line 24): [:pipe, "|"] is not a valid expression in "{{| today | date: '%a' }}" in WhereIsTrump-Countdown.md
+- [ ] Liquid Warning: Liquid syntax error (line 25): Expected end_of_string but found colon in "{{ Today: day }}" in WhereIsTrump-Countdown.md
+- [ ] Liquid Exception: Liquid error (line 6): wrong number of arguments (given 1, expected 2) in WhereIsTrump-Countdown.md
