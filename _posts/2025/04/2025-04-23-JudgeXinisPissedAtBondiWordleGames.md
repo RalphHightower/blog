@@ -7,7 +7,7 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: 'title'
+title: "District Judge Paula Xinis Pissed Off at Trump’s Attorney General Pam Bondi After Ignoring Supreme Court 9-0 Decision"
 ---
 
 
