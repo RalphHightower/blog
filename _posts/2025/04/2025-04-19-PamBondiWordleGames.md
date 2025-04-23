@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [MSNBC, República de El Salvador, République d’Haïti – Bienvenue sur le site officiel de la Primature, President Nayib Bukele, Centro de Confinamiento del Terrorismo (CECOT), Constitution, Maryland, Supreme Court of the United States (SCOTUS), US Courts, U.S. Marshals Service (USMS), Fourth Circuit- Maryland District Court, Paula Xinis District Judge / District of Maryland / United States District Court, Department of Justice (DOJ), Attorney General, Pam Bondi, Donald J Trump, President Donald Trump (47), President Trump Administration, President Trump Cabinet, President of the United States (POTUS), White House, politics, lawlessness]
+tags: [MSNBC, Kilmar Abrego Garcia, Venezuela, República de El Salvador, République d’Haïti – Bienvenue sur le site officiel de la Primature, President Nayib Bukele, Centro de Confinamiento del Terrorismo (CECOT), Constitution, Maryland, Supreme Court of the United States (SCOTUS), US Courts, U.S. Marshals Service (USMS), Fourth Circuit- Maryland District Court, Paula Xinis District Judge / District of Maryland / United States District Court, Department of Justice (DOJ), Attorney General, Pam Bondi, Donald J Trump, President Donald Trump (47), President Trump Administration, President Trump Cabinet, President of the United States (POTUS), White House, politics, lawlessness]
 categories: [Donald Trump]
 date: 2025-04-19 7:36 PM
 #excerpt: ''
@@ -68,3 +68,5 @@ The [government](https://www.whitehouse.gov/) has [admitted](https://www.supreme
 - [White House](https://www.whitehouse.gov/)
 - politics 
 - lawlessness 
+- Kilmar Abrego Garcia
+
