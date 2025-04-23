@@ -32,7 +32,7 @@ Days remaining: {{ days_remaining }}
 
 {% assign today = 'now' %}
 {% assign day = 'now' | date: '%a' %}
-{{ Today: day }}
+{{ Today is day }}
 {% case day %}
     {% when "Fri", "Sat", "Sun" %}
 ### He’s Burning 🔥 Taxpayer Money 💰 Playing Golf 🏌️‍♂️ at His Mar-a-Lago Resort ⛳️
@@ -81,13 +81,3 @@ Fixed (fixed day of week):
 
 {% endcomment %}
 
-#### Errors 
-
-- [ ] Liquid Warning: Liquid syntax error (line 7): Expected end_of_string but found string in "{{current_date | date '%s' }}" in WhereIsTrump-Countdown.md
-- [ ] Liquid Warning: Liquid syntax error (line 16): Expected end_of_string but found string in "{{current_date | date '%s' }}" in WhereIsTrump-Countdown.md
-- [ ] Liquid Warning: Liquid syntax error (line 24): [:pipe, "|"] is not a valid expression in "{{| today | date: '%a' }}" in WhereIsTrump-Countdown.md
-- [ ] Liquid Warning: Liquid syntax error (line 25): Expected end_of_string but found colon in "{{ Today: day }}" in WhereIsTrump-Countdown.md
-- [ ] Liquid Warning: Liquid syntax error (line 74): Unexpected character { in "{{'now' | date: '%Y-%m-%d 12:00 PM' {% assign noon = current_date | date '%s' }}" in WhereIsTrump-Countdown.md
-- [ ] Liquid Warning: Liquid syntax error (line 75): Unexpected character { in "{{'now' | date: '%Y-%m-%d 12:00 PM' {% assign noon = current_date | date '%s' }}" in WhereIsTrump-Countdown.md
-- [ ] Liquid Warning: Liquid syntax error (line 76): [:pipe, "|"] is not a valid expression in "{{| today | date: '%a' }}" in WhereIsTrump-Countdown.md
-- [ ] Liquid Warning: Liquid syntax error (line 77): Expected end_of_string but found colon in "{{ Today: day }}" in WhereIsTrump-Countdown.md
