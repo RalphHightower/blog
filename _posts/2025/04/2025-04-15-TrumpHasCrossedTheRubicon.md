@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [MSNBC, República de El Salvador, President Nayib Bukele, Centro de Confinamiento del Terrorismo (CECOT), Constitution, Maryland, Supreme Court of the United States (SCOTUS), US Courts, Fourth Circuit Maryland District Court, Paula Xinis, District Judge / District of Maryland / United States District Court, Department of Justice (DOJ), Attorney General, Pam Bondi, Donald J Trump, President Donald Trump (47), President Trump Administration, President Trump Cabinet, President of the United States (POTUS), White House, politics, lawlessness]
+tags: [MSNBC, Kilmar Abrego Garcia, Venezuela, República de El Salvador, President Nayib Bukele, Centro de Confinamiento del Terrorismo (CECOT), Constitution, Maryland, Supreme Court of the United States (SCOTUS), US Courts, Fourth Circuit Maryland District Court, Paula Xinis, District Judge / District of Maryland / United States District Court, Department of Justice (DOJ), Attorney General, Pam Bondi, Donald J Trump, President Donald Trump (47), President Trump Administration, President Trump Cabinet, President of the United States (POTUS), White House, politics, lawlessness]
 categories: [Donald Trump]
 date: 2025-04-15 7:33 PM
 excerpt: ''
@@ -57,3 +57,4 @@ But the “unconscionable” position is now the official position of the [admin
 - [White House](https://www.whitehouse.gov/)
 - politics 
 - lawlessness 
+- Kilmar Abrego Garcia

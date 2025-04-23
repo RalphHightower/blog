@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [MSNBC, Venezuela, República de Honduras, El Salvador, Democratic Party, Trump Party, U.S. Constitution - Article III / Resources / Constitution Annotated / Congress.gov / Library of Congress, Alien and Sedition Acts (1798) / National Archives, Supreme Court of the United States (SCOTUS), US Courts, Washington DC District Court, Chief Judge James E. Boasberg /District of Columbia / United States District Court, President Donald Trump (47), President of the United States (POTUS), White House, politics]
+tags: [MSNBC, Kilmar Abrego Garcia, Venezuela, República de Honduras, El Salvador, Democratic Party, Trump Party, U.S. Constitution - Article III / Resources / Constitution Annotated / Congress.gov / Library of Congress, Alien and Sedition Acts (1798) / National Archives, Supreme Court of the United States (SCOTUS), US Courts, Washington DC District Court, Chief Judge James E. Boasberg /District of Columbia / United States District Court, President Donald Trump (47), President of the United States (POTUS), White House, politics]
 categories: [Donald Trump]
 date: 2025-04-19 7:50 PM
 excerpt: ''
@@ -62,4 +62,5 @@ While contesting that they violated the judge’s orders, [Trump](https://www.do
 - [President of the United States (POTUS)](https://www.whitehouse.gov/)
 - [White House](https://www.whitehouse.gov/)
 - politics 
+- Kilmar Abrego Garcia
 
