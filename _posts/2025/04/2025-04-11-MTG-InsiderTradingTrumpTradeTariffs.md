@@ -82,7 +82,7 @@ After surging on Wednesday when [Trump](https://www.donaldjtrump.com/) called a 
 - [Lululemon](https://www.lululemon.com/)
 - [RH](https://rh.com/us/en/sale)
 - [Leadership :: RH (RH)](https://ir.rh.com/corporate-governance/leadership)
-- [Greene, Marjorie](https://greene.house.gov/)
+- [Marjorie Taylor Greene (T-GA14)](https://greene.house.gov/)
 - [H.R.1908 - 119th Congress (2025-2026): End Congressional Stock Trading Act / Congress.gov / Library of Congress](https://www.congress.gov/bill/119th-congress/house-bill/1908)
 - [H.R.345 - 118th Congress (2023-2024): TRUST in Congress Act / Congress.gov / Library of Congress](https://www.congress.gov/bill/118th-congress/house-bill/345)
 - [Federal Reserve Board](https://www.federalreserve.gov/)
