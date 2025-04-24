@@ -18,6 +18,17 @@ The telephone numbers below have called and there is an empty person on the othe
 
 | Telephone Number | Location | Date Time[^11] | Caller | Social Media |
 |---|---|---|---|---|
+| <a href="tel:+18039320213">+1 (803) 932-0213</a> | SC. Chapin | 2025-04-23 06:14 PM | — | |
+| <a href="tel:+18038484149">+1 (803) 848-4149</a> | SC. | 2025-04-23 05:37 PM ¤¤ | — | |
+| <a href="tel:+18038484149">+1 (803) 848-4149</a> | SC. | 2025-04-23 05:36 PM | — | |
+| <a href="tel:+18036803758">+1 (803) 680-3758</a> | SC. Jackson | 2025-04-23 04:12 PM | Potential Spam | |
+| <a href="tel:+18038798707">+1 (803) 879-8707</a> | SC. Clover | 2025-04-23 02:28 PM | AAAS (blocked) | |
+| <a href="tel:+18032283493">+1 (803) 228-3493</a> | SC. Fort Mill | 2025-04-23 01:47 PM | Advanced Industrial Devices | |
+| <a href="tel:+18038455946">+1 (803) 845-5946</a> | SC. Aiken | 2025-04-23 01:17 PM | Potential Spam | |
+| <a href="tel:+18393569007">+1 (839) 356-9007</a> | SC. Orangeburg | 2025-04-23 12:33 PM | Potential Spam | |
+| <a href="tel:+18034282300">+1 (803) 428-2300</a> | SC. | 2025-04-23 11:49 AM | Charles P Cooper | |
+| <a href="tel:+18036593194">+1 (803) 659-3194</a> | SC. Rock Hill | 2025-04-23 10:08 AM | Allstate Ins Co | |
+| <a href="tel:+18039897932">+1 (803) 989-7932</a> | SC. Entral African Republic | 2025-04-23 09:52 AM | — | |
 | <a href="tel:+18039738321">+1 (803) 973-8321</a> | SC. Columbia | 2025-04-22 05:02 PM | Potential Spam | |
 | <a href="tel:+18039472745">+1 (803) 947-2745</a> | SC. | 2025-04-22 04:15 PM | — | |
 | <a href="tel:+18035910195">+1 (803) 591-0195</a> | SC. | 2025-04-22 03:04 PM | — | |
