@@ -83,10 +83,7 @@ Fixed (fixed day of week):
 6. Thanksgiving Day (Fourth Thursday in November)
 
 Static (remains fixed on date no matter what):
+Logic: date '%Y' - 1 | modulus 4
 1. Inauguration Day (January 20, every 4 years following a presidential election)
 
 {% endcomment %}
-
-#### Errors 
-
- - [ ] Liquid Warning: Liquid syntax error (line 23): Expected end_of_string but found id in "{{ Today is day }}" in WhereIsTrump-Countdown.md
