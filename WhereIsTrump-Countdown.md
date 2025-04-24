@@ -10,6 +10,8 @@ date: 2025-04-23 11:30 AM
 title: "Where Is Trump? 🔥DC? FL⛳️?"
 ---
 
+TZ: {% assign tz = 'now' | date "%Z" %}
+
 ## Days Count Up / Term Count Down 
 
 ### Days of Hell
