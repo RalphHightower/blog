@@ -92,20 +92,19 @@ Rate cuts also tend to work by stimulating demand for rate-sensitive sectors of 
 
 The [Fed](https://www.federalreserve.gov/)’s stimulus operates through financial markets into interest-rate-sensitive sectors of the economy, “which is hard if those markets are disrupted,” said Reinhart, a former senior [Fed](https://www.federalreserve.gov/) economist. “It’s only helpful to the extent that you think you can turn expectations, and expectations really aren’t about a quarter-point here or a quarter-point there.”
 
-| [Home - Federal Reserve Bank of Boston](https://www.bostonfed.org/) |
+| [Federal Reserve Board](https://www.federalreserve.gov/) |
 |---|
-| [Federal Reserve Board - About the Fed](https://www.federalreserve.gov/aboutthefed.htm) |
-| [Federal Reserve Bank of New York - Serving the Second District and the Nation](https://www.newyorkfed.org/) |
-| [Federal Reserve Bank of Philadelphia](https://www.federalreserve.gov/aboutthefed/federal-reserve-system-philadelphia.htm) |
-| [Federal Reserve Bank of Philadelphia](https://www.philadelphiafed.org/) |
-| [Federal Reserve Bank of Cleveland](https://www.clevelandfed.org/) |
-| [Federal Reserve Bank of Richmond](https://www.richmondfed.org/) |
 | [Home - Federal Reserve Bank of Atlanta](https://www.atlantafed.org/) |
+| [Home - Federal Reserve Bank of Boston](https://www.bostonfed.org/) |
 | [Federal Reserve Bank of Chicago](https://www.chicagofed.org/) |
-| [Federal Reserve Bank of St. Louis / Economic Resources & Data](https://www.stlouisfed.org/) |
-| [Federal Reserve Bank of Minneapolis](https://www.minneapolisfed.org/) |
-| [Federal Reserve Bank of Kansas City](https://www.kansascityfed.org/) |
+| [Federal Reserve Bank of Cleveland](https://www.clevelandfed.org/) |
 | [Federal Reserve Bank of Dallas - Dallasfed.org](https://www.dallasfed.org/) |
+| [Federal Reserve Bank of Kansas City](https://www.kansascityfed.org/) |
+| [Federal Reserve Bank of Minneapolis](https://www.minneapolisfed.org/) |
+| [Federal Reserve Bank of New York - Serving the Second District and the Nation](https://www.newyorkfed.org/) |
+| [Federal Reserve Bank of Philadelphia](https://www.philadelphiafed.org/) |
+| [Federal Reserve Bank of Richmond](https://www.richmondfed.org/) |
+| [Federal Reserve Bank of St. Louis / Economic Resources & Data](https://www.stlouisfed.org/) |
 | [Federal Reserve Bank of San Francisco](https://www.frbsf.org/) |
 
 ## List of some of the major stock markets around the world and their locations:
