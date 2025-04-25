@@ -2,7 +2,7 @@
 layout: page
 tags: [assholes, Donald Trump, Elon Musk, Betsy DeVos, MAGA billionaires, billionaire, Trump donors, Republican PAC, Make America Great Again (MAGA)]
 categories: [Telephone Numbers]
-date: 2025-04-22 7:40 PM
+date: 2025-04-24b8:32 PM
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description: 
@@ -18,6 +18,13 @@ The telephone numbers below have called and there is an empty person on the othe
 
 | Telephone Number | Location | Date Time[^11] | Caller | Social Media |
 |---|---|---|---|---|
+| <a href="tel:+18037214892">+1 (803) 721-4892</a> | SC. Batesburg | 2025-04-24 11:49 PM | — | |
+| <a href="tel:+18037145189">+1 (803) 714-5189</a> | SC. Columbia | 2025-04-24 06:12 PM | — | |
+| <a href="tel:+18037083620">+1 (803) 708-3620</a> | SC. Columbia | 2025-04-24 04:04 PM | Potential Spam | |
+| <a href="tel:+18032283455">+1 (803) 228-3455</a> | SC. Fort Mill | 2025-04-24 01:51 PM | — | |
+| <a href="tel:+18034038516">+1 (803) 403-8516</a> | SC. Columbia | 2025-04-24 01:15 PM | — | |
+| <a href="tel:+18399000482">+1 (839) 900-0482</a> | SC. Johnston | 2025-04-24 12:37 PM | — | |
+| <a href="tel:+18036041619">+1 (803) 604-1619</a> | SC. Batesburg | 2025-04-24 10:32 AM | Midlands Technical College | |
 | <a href="tel:+18039320213">+1 (803) 932-0213</a> | SC. Chapin | 2025-04-23 06:14 PM | — | |
 | <a href="tel:+18038484149">+1 (803) 848-4149</a> | SC. | 2025-04-23 05:37 PM ¤¤ | — | |
 | <a href="tel:+18038484149">+1 (803) 848-4149</a> | SC. | 2025-04-23 05:36 PM | — | |
