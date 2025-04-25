@@ -2,7 +2,7 @@
 layout: page
 tags: [assholes, Donald Trump, Elon Musk, Betsy DeVos, MAGA billionaires, billionaire, Trump donors, Republican PAC, Make America Great Again (MAGA)]
 categories: [Telephone Numbers]
-date: 2025-04-24b8:32 PM
+date: 2025-04-25 7:15 PM
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description: 
@@ -18,6 +18,16 @@ The telephone numbers below have called and there is an empty person on the othe
 
 | Telephone Number | Location | Date Time[^11] | Caller | Social Media |
 |---|---|---|---|---|
+| <a href="tel:+18037102193">+1 (803) 710-2193</a> | SC. Johnston | 2025-04-25 03:44 PM ¤¤ | Potential Spam | |
+| <a href="tel:+18037102193">+1 (803) 710-2193</a> | SC. Johnston | 2025-04-25 03:44 PM | Potential Spam | |
+| <a href="tel:+18037147067">+1 (803) 714-7067</a> | SC. Columbia | 2025-04-25 03:28 PM | — | |
+| <a href="tel:+18035156749">+1 (803) 515-6749</a> | SC. Orangeburg | 2025-04-25 03:15 PM | — | |
+| <a href="tel:+18033243056">+1 (803) 324-3056</a> | SC. Rock Hill | 2025-04-25 01:33 PM | Marion Timothy | |
+| <a href="tel:+18035689908">+1 (803) 568-9908</a> | SC. Swansea | 2025-04-25 12:35 PM | — | |
+| <a href="tel:+18036318753">+1 (803) 631-8753</a> | SC. Fort Mill | 2025-04-25 12:17 PM | Clover Schools District | |
+| <a href="tel:+18036318753">+1 (803) 631-8753</a> | SC. Fort Mill | 2025-04-25 12:17 PM | Clover Schools District | |
+| <a href="tel:+18038054354">+1 (803) 805-4354</a> | SC. Winnsboro | 2025-04-25 09:57 AM | — | |
+| <a href="tel:+18034553036">+1 (803) 455-3036</a> | SC. Jackson | 2025-04-25 09:45 AM | Potential Spam | |
 | <a href="tel:+18037214892">+1 (803) 721-4892</a> | SC. Batesburg | 2025-04-24 11:49 PM | — | |
 | <a href="tel:+18037145189">+1 (803) 714-5189</a> | SC. Columbia | 2025-04-24 06:12 PM | — | |
 | <a href="tel:+18037083620">+1 (803) 708-3620</a> | SC. Columbia | 2025-04-24 04:04 PM | Potential Spam | |
