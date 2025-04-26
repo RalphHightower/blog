@@ -609,7 +609,8 @@ Counsel for Plaintiff [The Associated Press](https://www.apnews.com/)
 - Freedom of Speech
 - Freedom of Press 
 - [Fifth Amendment](https://constitution.congress.gov/constitution/amendment-5/)
-- [Washington DC](https://dc.gov/)[Director of National Intelligence (DNI)](https://www.dni.gov)
+- [Washington DC](https://dc.gov/)
+- [Director of National Intelligence (DNI)](https://www.dni.gov)
 - [Tulsi Gabbard](https://www.dni.gov/index.php/who-we-are/leadership/director-of-national-intelligence)
 - [Department of the Interior (DOI)](https://www.doi.gov/)
 - [Secretary of the Interior (DOI)](https://www.doi.gov/)

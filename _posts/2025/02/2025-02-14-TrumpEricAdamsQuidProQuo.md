@@ -18,7 +18,7 @@ title: "Trump's Gaming the Justice System With Quid Pro Qou Deal With NYC Mayor 
 Feb 14, 2025  [#donaldtrump](https://https://www.whitehouse.gov) #marytrump #currentevents
 Trump’s DOJ drops charges against NYC Mayor Eric Adams. Corruption? Backroom deal? EXPOSED.
 
-- [Department of Justice (DOJ)](https://www.j/)
+- [Department of Justice (DOJ)](https://www.justice.gov/)
 - [White House (WH)](https://www.whitehouse.gov/)
 - [New York City, NY (NYC)](https://www.nyv.gov/)
 - [Eric Adams – Mayor | Overview | City of New York](https://www.nyc.gov/office-of-the-mayor/index.page)
