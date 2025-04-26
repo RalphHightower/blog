@@ -7,7 +7,7 @@ excerpt: "Turning to Patel. He is trumps pick to head the FBI. He was back on th
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: "MSNBC Morning Joe Panel Discusses Kash Patel as Trump's Pick for FBI Director "
+title: "MSNBC Morning Joe Panel Discusses Kash Patel as Trump's Pick for FBI Director"
 ---
 
 
