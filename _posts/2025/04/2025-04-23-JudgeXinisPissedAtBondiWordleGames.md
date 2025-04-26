@@ -11,6 +11,13 @@ title: "District Judge Paula Xinis Pissed Off at Trump’s Attorney General Pam 
 ---
 
 
+| Date | Article |
+|---|---|
+| 2025-04-15 7:33 PM | [🚨It’s Official. The Trump Apparatchik Has Crossed the Rubicon. Nixon Is a Saint Compared To Trump. He Obeyed the Law. 🚨]({% link _posts/2025/04/2025-04-15-TrumpHasCrossedTheRubicon.md %}) |
+| 2025-04-16 11:13 AM | [Lawless Trump Tells The Supreme Court: “Go Ahead. Make My Day”]({% link _posts/2025/04/2025-04-16-TrumpDefies90SCOTUSVerdict.md %}) |
+| 2025-04-19 7:36 PM | [Department of Justice Attorney General Pam Bondi’s ‘Wordle Games’]({% link _posts/2025/04/2025-04-19-PamBondiWordleGames.md %}) |
+| 2025-04-20 3:07 PM | [Are U.S. Citizens Next To Be Deported? Trumpian Legislators Are Incapable of Answering Simple Yes/No Questions]({% link _posts/2025/04/2025-04-20-AreUSCitizensNextToCECOT.md %}) |
+
 ## [Judge in Abrego Garcia case blasts ‘mischaracterization’ of Supreme Court order](https://www.msnbc.com/deadline-white-house/deadline-legal-blog/judge-abrego-garcia-discovery-doj-trump-rcna202351)
 
 *The government’s latest stubborn stance in the Kilmar Abrego Garcia litigation is (among other things) genuinely mystifying.*
