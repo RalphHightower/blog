@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [Manchurian Candidate, MSNBC, Nicolle Wallace, Rachel Maddow, John Brennan, Peter Navarro, Politico, Australia Government, United Kingdom Government, New Zealand Government, Magyarország Kormánya - főoldal (Hungary), Domov / Úrad vlády Slovenskej republiky (Slovakia), Syrian Government, Kremlin, Russia, Vladimir Putin, Ukraine (UA), Volodymyr Zelenskyy, United Nations (UN), North Atlantic Treaty Organization (NATO), European Union (EU), United States of America (US), Central Intelligence Agency, Office of the Director of National Intelligence (ODNI), Tulsi Gabbard, North Atlantic, Treaty Organization (NATO), White House (WH), President Of The United States (POTUS), President Donald J. Trump, politics]
+1. tags: [Manchurian Candidate, MSNBC, Nicolle Wallace, Rachel Maddow, John Brennan, Peter Navarro, Politico, Australia Government, United Kingdom Government, New Zealand Government, Magyarország Kormánya - főoldal (Hungary), Domov / Úrad vlády Slovenskej republiky (Slovakia), Syrian Government, Kremlin, Russia, Vladimir Putin, Ukraine (UA), Volodymyr Zelenskyy, United Nations (UN), North Atlantic Treaty Organization (NATO), European Union (EU), United States of America (US), Central Intelligence Agency, Office of the Director of National Intelligence (ODNI), Tulsi Gabbard, North Atlantic, Treaty Organization (NATO), White House (WH), President Of The United States (POTUS), President Donald J. Trump, politics]
 categories: [Donald Trump]
 date: 2025-03-06 9:57 PM
 excerpt: ''

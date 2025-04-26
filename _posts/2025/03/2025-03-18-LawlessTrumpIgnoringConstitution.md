@@ -1,19 +1,7 @@
 ---
 layout: post
-tags: [alrernet, North Korea, Kim Jong-un, Vladimir Putin
-Russia
-Alien and Sedition Acts (1798) / National Archives
-President Richard Nixon
-Supreme Court of the United States
-US Courts
-Congress
-House
-Senate
-President Donald J. Trump
-President Of The United States (POTUS)
-White House (WH)
-Donald J Trump
-politics]
+tags: [alternet, North Korea, Kim Jong-un, Vladimir Putin, Russia, 
+Alien and Sedition Acts (1798) / National Archives, President Richard Nixon, Supreme Court of the United States, US Courts, Congress, House, Senate, President Donald J. Trump, President Of The United States (POTUS), White House (WH), Donald J Trump, politics]
 categories: [Donald Trump]
 date: 2025-03-18 7:33 PM
 excerpt: ''
@@ -60,7 +48,7 @@ This is not hyperbole.
 
 [Trump](https://www.whitehouse.gov/administration/donald-j-trump/) has already signaled his admiration for despots around the world, from [Vladimir Putin](http://kremlin.ru/) to Kim Jong-un. He has openly fantasized about imprisoning his enemies, called for journalists to be punished, and incited violence against those who oppose him.
 
-Now, with this unprecedented abuse of the [Alien Enemies Act](), he is laying the groundwork for a nation where due process is erased, where the rule of law exists only at his whim, and where Americans must live in fear of his unchecked power.
+Now, with this unprecedented abuse of the [Alien Enemies Act](https://www.archives.gov/milestone-documents/alien-and-sedition-acts), he is laying the groundwork for a nation where due process is erased, where the rule of law exists only at his whim, and where Americans must live in fear of his unchecked power.
 
 And let’s be clear: this is not just about immigrants.
 
