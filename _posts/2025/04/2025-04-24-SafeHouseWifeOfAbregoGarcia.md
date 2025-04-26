@@ -10,7 +10,6 @@ excerpt: ''
 title: "Trump’s Department of Homeland Security (DHS) Doxxed Wife of Kilmar Abrego Garcia. She and Children Had to Move to a Safe House"
 ---
 
-Trump’s Department of Homeland Security (DHS) Doxxed Wife of Kilmar Abrego Garcia. She and Children Had to Move to a Safe House
 ## [Abrego Garcia’s wife said she moved to a safe house after DHS posted her address](https://www.msnbc.com/top-stories/latest/abrego-garcia-wife-safe-house-homeland-security-address-rcna202761)
 
 *On X, the agency posted a copy of a civil protective order granted to Jennifer Vasquez Sura in 2021 that included their Maryland address.*
