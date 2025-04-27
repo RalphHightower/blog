@@ -16,7 +16,7 @@ Normally, my series, My Dumb State, focuses on [South Carolina](https://www.sc.g
 
 It should be an entertaining primary campaign. I hope that mud wrestling will be a feature in their campaign. 
 
-- [Nancy Mace 'Goes Off' On Effeminate Constituent - FITSNews](https://www.fitsnews.com/2025/04/21/nancy-mace-goes-off-on-effeminate-constituent/) <br /> *Drama at the beauty salon…*</>by FITSNews April 21, 2025
+- [Nancy Mace 'Goes Off' On Effeminate Constituent - FITSNews](https://www.fitsnews.com/2025/04/21/nancy-mace-goes-off-on-effeminate-constituent/) <br /> *Drama at the beauty salon…* <br />by FITSNews April 21, 2025
 
 - [Rep.](https://www.house.gov/) [Nancy Mace (T-SC1)](https://mace.house.gov/)
     - “I have a message for the Left, all lunatics and the establishment machine: I didn’t ask for this battle, but God trusted me to fight it. Not just for myself, but for all those who don’t have a voice. Keep coming at me. I was built for the battle. Good morning to everyone except men who wear daisy dukes.” 
