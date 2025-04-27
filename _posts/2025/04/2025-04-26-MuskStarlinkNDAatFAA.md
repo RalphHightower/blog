@@ -1,13 +1,13 @@
 ---
 layout: post
-tags: [Rolling Stone, Washington Post, Reuters, GovExec, Verizon, Microsoft Copilot – Microsoft, Campaign Legal Center, Delaney Marsco, Elon Musk, Elon Musk, The Boring Company, Neuralink, SpaceX, Starlink, Tesla, Twitter, X, xAI, Department of Government Efficiency (DOGE), Constitution of the United States, Department of Transportation (DOT), Federal Aviation Administration (FAA), Supreme Court of the United States (SCOTUS), US Courts, Congress, Senate, House of Representatives, non-disclosure agreements (NDAs), Public Law 112 - 199 - Whistleblower Protection Enhancement Act of 2012, Air Traffic Control FAA Actions Urgently Needed to Modernize Systems. GAO-25-108162. Published Mar 4 2025 . Publicly Released Mar 4 2025, Air Traffic Control Urgent FAA Actions Are Needed to Modernize Aging Systems. GAO-25-107917. Published Dec 12 2024 . Publicly Released Dec 12 2024, Air Traffic Control FAA Actions Are Urgently Needed to Modernize Aging Systems. GAO-24-107001. Published Sep 23 2024 . Publicly Released Sep 23 2024, Commercial Space Transportation How FAA Considers Environmental and Airspace Effects. GAO-24-106193. Published Apr 24 2024 . Publicly Released May 28 2024, Donald J Trump, President Donald Trump (45), President Donald Trump (47), Trump Administration (47), President of the United States (POTUS), White House (WH), politics]
+tags: [Rolling Stone, Washington Post, Reuters, GovExec, Verizon, Microsoft Copilot – Microsoft, Campaign Legal Center, Delaney Marsco, Elon Musk, Elon Musk, The Boring Company, Neuralink, SpaceX, Starlink, Tesla, Twitter, X, xAI, Department of Government Efficiency (DOGE), Constitution of the United States, Department of Transportation (DOT), Federal Aviation Administration (FAA), Request For Proposal (RFP), Supreme Court of the United States (SCOTUS), US Courts, Congress, Senate, House of Representatives, non-disclosure agreements (NDAs), Public Law 112 - 199 - Whistleblower Protection Enhancement Act of 2012 - Content Details -, Air Traffic Control FAA Actions Urgently Needed to Modernize Systems. GAO-25-108162. Published Mar 4 2025 . Publicly Released Mar 4 2025, Air Traffic Control Urgent FAA Actions Are Needed to Modernize Aging Systems. GAO-25-107917. Published Dec 12 2024 . Publicly Released Dec 12 2024, Air Traffic Control FAA Actions Are Urgently Needed to Modernize Aging Systems. GAO-24-107001. Published Sep 23 2024 . Publicly Released Sep 23 2024, Commercial Space Transportation How FAA Considers Environmental and Airspace Effects. GAO-24-106193. Published Apr 24 2024 . Publicly Released May 28 2024, Donald J Trump, President Donald Trump (45), President Donald Trump (47), Trump Administration (47), President of the United States (POTUS), White House (WH), politics]
 categories: [Donald Trump]
 date: 2025-04-26 5:08 PM
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: 'title'
+title: "Open Government Does Not Need Non-Disclosure Agreements (NDA). Musk Requires NDAs to Install Starlink in the Federal Aviation Administration. Verizon Was Originally Rewarded the Contracts Requires For Proposal (RFP)"
 ---
 
 
@@ -112,6 +112,7 @@ Indeed, few senior administration officials and others close to [Trump](https://
 - [Constitution of the United States](https://constitution.congress.gov/)
 - [Department of Transportation (DOT)](https://www.transportation.gov/)
 - [Federal Aviation Administration (FAA)](https://www.faa.gov/)
+- Request For Proposal (RFP)
 - [Supreme Court of the United States (SCOTUS)](https://www.supremecourt.gov/)
 - [US Courts](https://www.uscourts.gov/)
 - [Congress](https;//www.congress.gov/)
