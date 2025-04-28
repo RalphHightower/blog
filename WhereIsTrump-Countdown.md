@@ -10,7 +10,7 @@ date: 2025-04-28 12:17 PM
 title: "Where Is Trump? 🔥DC? FL⛳️?"
 ---
 
-{% assign timestamp = 'now' | date "%F %r%z %Z" %}
+{% assign timestamp = 'now' | date: "%F %r%z %Z" %}
 Current Date/Time: {{ timestamp }}
 
 ## Days Count Up / Term Count Down 
