@@ -13,6 +13,8 @@ title: "Secretary of Defense, Peter Hegseth Is a Great Wingman For a Night 🌙 
 
 ## [Pete Hegseth’s Personal Signal Chat Phone Number Is All Over the Internet](https://www.thedailybeast.com/pete-hegseths-personal-signal-chat-phone-number-is-all-over-the-internet/)
 
+![Call Pete, 867-5309](/assets/8675309PeteHedsegth.avif)
+
 *The [Department of Defense](,https://www.defense.gov/) boss’ number is linked to [Airbnb](https://www.airbnb.com/), a fantasy sports site and a plumber review.*
 
 David Gardner
