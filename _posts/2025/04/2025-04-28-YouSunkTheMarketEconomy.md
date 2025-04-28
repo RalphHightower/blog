@@ -1,0 +1,165 @@
+---
+layout: post
+tags: [The Street, S&P 500 index, Fisher Investments, Ken Fisher, ISM, PMI, Federal Reserve Board, Federal Reserve Bank of Atlanta, GDPNow, Constitution of the United States, Supreme Court of the United States (SCOTUS), US Courts, Congress, Senate, House of Representatives, Donald J Trump, President Donald Trump (47), Clarification of Exceptions Under Executive Order 14257 of April 2 2025 as Amended – The White House. Presidential Actions Presidential Memoranda April 11 2025, Modifying Reciprocal Tariff Rates to Reflect Trading Partner Retaliation and Alignment. Presidential Actions Executive Orders April 9 2025, Amendment to Reciprocal Tariffs and Updated Duties as Applied to Low-Value Imports from the People’s Republic of China. Presidential Actions Executive Orders April 8 2025, Report to the President on the America First Trade Policy Executive Summary. Fact Sheets April 3 2025, Regulating Imports with a Reciprocal Tariff to Rectify Trade Practices that Contribute to Large and Persistent Annual United States Goods Trade Deficits. Presidential Actions Executive Orders April 2 2025, Further Amendment to Duties Addressing the Synthetic Opioid Supply Chain in the People’s Republic of China as Applied to Low-Value Imports. Presidential Actions Executive Orders April 2 2025, Fact Sheet President Donald J. Trump Declares National Emergency to Increase our Competitive Edge Protect our Sovereignty and Strengthen our National and Economic Security. Fact Sheets April 2 2025, Regulating Imports with a Reciprocal Tariff to Rectify Trade Practices that Contribute to Large and Persistent Annual United States Goods Trade Deficits. Presidential Actions Executive Orders April 2 2025, Fact Sheet President Donald J. Trump Closes De Minimis Exemptions to Combat China’s Role in America’s Synthetic Opioid Crisis. Fact Sheets April 2 2025, Further Amendment to Duties Addressing the Synthetic Opioid Supply Chain in the People’s Republic of China as Applied to Low-Value Imports. Presidential Actions Executive Orders April 2 2025, Fact Sheet President Donald J. Trump Adjusts Imports of Automobiles and Automobile Parts into the United States. Fact Sheets March 26 2025, The Staggering Cost of the Illicit Opioid Epidemic in the United States. Articles March 26 2025, Fact Sheet President Donald J. Trump Imposes Tariffs on Countries Importing Venezuelan Oil. Fact Sheets March 25 2025, Imposing Tariffs on Countries Importing Venezuelan Oil. Presidential Actions Executive Orders March 24 2025, More Investment More Jobs and More Money in Americans’ Pockets. Articles March 24 2025, President Trump Positions U.S. as Global Superpower in Manufacturing. Articles March 20 2025, President Trump is Remaking America into a Manufacturing Superpower. Articles March 12 2025, Amendment to Duties to Address the Flow of Illicit Drugs Across Our Southern Border. Presidential Actions March 6 2025, Amendment to Duties to Address the Flow of Illicit Drugs Across Our Northern Border. Presidential Actions March 6 2025, President Trump is Putting American Workers First — And Bringing Back American Manufacturing. Articles March 4 2025, President Trump is Securing Our Homeland. Articles March 4 2025, Fact Sheet President Donald J. Trump Proceeds with Tariffs on Imports from Canada and Mexico. Fact Sheets March 3 2025, Further Amendment to Duties Addressing the Synthetic Opioid Supply Chain in the People’s Republic of China. Presidential Actions March 3 2025, Amendment to Duties to Address the Situation at our Southern Border. Presidential Actions March 2 2025, Fact Sheet President Donald J. Trump Addresses the Threat to National Security from Imports of Timber Lumber and their Derivative Products. Fact Sheets March 1 2025, Addressing the Threat to National Security from Imports of Timber Lumber. Presidential Actions March 1 2025, Addressing the Threat to National Security from Imports of Copper. Presidential Actions February 25 2025, Fact Sheet President Donald J. Trump Addresses the Threat to National Security from Imports of Copper. Fact Sheets February 25 2025, Defending American Companies and Innovators From Overseas Extortion and Unfair Fines and Penalties.. Presidential Actions February 21 2025, Fact Sheet President Donald J. Trump Issues Directive to Prevent the Unfair Exploitation of American Innovation. Fact Sheets February 21 2025, Remarks by President Trump at Republican Governors Association Meeting. Remarks February 20 2025, President Trump Demands Fair Reciprocal Trade. Articles February 13 2025, Fact Sheet President Donald J. Trump Announces “Fair and Reciprocal Plan” on Trade. Fact Sheets February 13 2025, Reciprocal Trade and Tariffs. Articles February 13 2025, Fact Sheet President Donald J. Trump Restores Section 232 Tariffs. Fact Sheets February 11 2025, Adjusting Imports of Aluminum into The United States. Presidential Actions February 11 2025, Adjusting Imports of Steel into The United States. Presidential Actions February 10 2025, Fact Sheet President Donald J. Trump Restores American Competitiveness and Security in FCPA Enforcement. Fact Sheets February 10 2025, Amendment to Duties Addressing the Synthetic Opioid Supply Chain in the People’s Republic of China. Presidential Actions February 5 2025, Progress on the Situation at Our Northern Border. Presidential Actions February 3 2025, Progress on the Situation at Our Southern Border. Presidential Actions February 3 2025, Imposing Duties to Address the Synthetic Opioid Supply Chain in the People’s Republic of China. Presidential Actions February 1 2025, Imposing Duties to Address the Flow of Illicit Drugs Across Our Northern Border. Presidential Actions February 1 2025, Fact Sheet President Donald J. Trump Imposes Tariffs on Imports from Canada Mexico and China. Fact Sheets February 1 2025, Imposing Duties to Address the Situation at Our Southern Border. Presidential Actions February 1 2025, America First Trade Policy. Presidential Actions January 20 2025, President of the United States (POTUS), White House, tarrifs, stupidity]
+categories: [Donald Trump]
+date: 2025-04-28 5:24 PM
+excerpt: "“Sometimes, it becomes a distinction without a significance. There is not a marked difference between a market that’s down 19%, which would be categorized as a large correction, and a market that’s down 21%, that would be categorized as a small bear market… a 2% difference is something that wiggled in a day or two. Significant bear markets take more time, its a bigger magnitude drop, it’s scarier, it brings bigger fears, it usually but not always is associated with recession that lags the stock market. It’s a valid fear. I still think it’s a bull market year. I think we’ve been in a correction. I might be wrong. I’ve assessed everything the administration has done on tariffs as backwards, ignorant, not understanding how global trade works… all of this is stupid stuff. It’s wrong. If the administration keeps wiggling the way that we’ve been wiggling, and keeps doing stupid stuff in these regards, yeah, we probably get a bear market and recession” – Ken Fisher, CEO of Fisher Investments"
+#image: 'BASEURL/assets/blog/img/.png'
+#description:
+#permalink:
+title: "Wizard Fund Manager Has Sharp Word of Bear Market for Dunce-In-Chief Donald Trump"
+---
+
+
+## [Legendary fund manager sends curt message on bear market risk for S&P 500](https://www.thestreet.com/investing/stocks/legendary-fund-manager-sends-curt-message-on-bear-market-risk-for-s-p-500)
+
+Story by Todd Campbell • April 27, 2025
+
+It hasn't been easy being a stock market investor this year, and the pain is not only being felt by day traders.
+
+The [S&P 500 index](https://www.google.com/finance/quote/.INX:INDEXSP) is the most widely tracked stock market index, and its 6% year-to-date decline means that millions of Americans who own the benchmark via retirement accounts like 401ks are also suffering.
+
+Stocks were already struggling before April, but it's been a particularly tough month for investors following [President](https://www.whitehouse.gov/) [Trump](https://www.donaldjtrump.com/)'s [tariffs](https://www.whitehouse.gov/presidential-actions/2025/04/regulating-imports-with-a-reciprocal-tariff-to-rectify-trade-practices-that-contribute-to-large-and-persistent-annual-united-states-goods-trade-deficits/) announcement on April 2, so-called "[Liberation Day tariffs](https://www.whitehouse.gov/presidential-actions/2025/04/regulating-imports-with-a-reciprocal-tariff-to-rectify-trade-practices-that-contribute-to-large-and-persistent-annual-united-states-goods-trade-deficits/)."
+
+The [Liberation Day reciprocal tariffs](https://www.whitehouse.gov/presidential-actions/2025/04/regulating-imports-with-a-reciprocal-tariff-to-rectify-trade-practices-that-contribute-to-large-and-persistent-annual-united-states-goods-trade-deficits/) announced were far higher than most expected, forcing investors to adjust their recession and corporate profit outlooks. As a result, the [S&P 500](https://www.google.com/finance/quote/.INX:INDEXSP) lost 12% of its value after [Trump](https://www.donaldjtrump.com/)'s reveal, sparking widespread concern that a bear market is looming.
+
+The risk of [tariffs](https://www.whitehouse.gov/presidential-actions/2025/04/regulating-imports-with-a-reciprocal-tariff-to-rectify-trade-practices-that-contribute-to-large-and-persistent-annual-united-states-goods-trade-deficits/) to the economy isn't lost on veteran fund manager [Ken Fisher](https://www.fisherinvestments.com/en-us/about/leadership/ken-fisher). [Fisher](https://www.fisherinvestments.com/en-us/about/leadership/ken-fisher), the billionaire founder of [Fisher Investments](https://www.fisherinvestments.com/en-us), an asset manager with $295 billion under management, has been sounding alarm bells over [tariffs](https://www.whitehouse.gov/presidential-actions/2025/04/regulating-imports-with-a-reciprocal-tariff-to-rectify-trade-practices-that-contribute-to-large-and-persistent-annual-united-states-goods-trade-deficits/) for weeks. 
+
+This week, [Fisher](https://www.fisherinvestments.com/en-us/about/leadership/ken-fisher) weighed in on the bear market risk, and given his experience and insight into the markets, investors should pay attention.
+
+### U.S. economy is struggling, and that's before tariffs hit 
+
+Inflation isn't nearly as bad as in 2022, when the [Federal Reserve](https://www.federalreserve.gov%) was forced to about-face on its belief that post-COVID stimulus-driven inflation was transitory. 
+
+The [Fed](https://www.federalreserve.gov/)'s war on inflation, which included the most restrictive monetary policy since [Fed](https://www.federalreserve.gov/) Chair Paul Volcker fought inflation in the early 80s, has driven inflation down from its 8% peak, but the effects are still being felt, and rate hikes have taken a toll.
+
+[CPI inflation](https://www.bls.gov/news.release/cpi.htm) was 2.4% in March, above the [Fed](https://www.federalreserve.gov/)'s 2% target, and most believe [tariffs](https://www.whitehouse.gov/presidential-actions/2025/04/regulating-imports-with-a-reciprocal-tariff-to-rectify-trade-practices-that-contribute-to-large-and-persistent-annual-united-states-goods-trade-deficits/) will cause inflation to rise, further hamstringing consumers. Worse, the [Fed](https://www.federalreserve.gov/)'s rate hikes in 2022 and 2023 have pressured the jobs market, contributing to unemployment rising to 4.2% from a low of 3.4% in 2023.
+
+Consumers have already shifted spending away from discretionary items to essentials, so businesses will likely struggle to pass on all the higher costs associated with [tariffs](https://www.whitehouse.gov/presidential-actions/2025/04/regulating-imports-with-a-reciprocal-tariff-to-rectify-trade-practices-that-contribute-to-large-and-persistent-annual-united-states-goods-trade-deficits/). If so, profits will shrink, and companies will tap the brakes on spending too.
+
+As a result, austerity could deliver yet another blow to an economy already in retreat. 
+
+[ISM](https://www.ismworld.org/)'s manufacturing [PMI](https://www.ismworld.org/supply-management-news-and-reports/news-publications/inside-supply-management-magazine/blog/2020-04/rob-roundup-march-pmi/) was below 50 in March, showing the industry is contracting. Meanwhile, services activity, which powers two-thirds of our economy, also shows signs of wear. [ISM](https://www.ismworld.org/)'s services [PMI](https://www.ismworld.org/supply-management-news-and-reports/news-publications/inside-supply-management-magazine/blog/2020-04/rob-roundup-march-pmi/) fell to 50.8 in March from 53.5 in February, 
+
+"There has been a significant increase this month in the number of respondents reporting cost increases due to [tariffs](https://www.whitehouse.gov/presidential-actions/2025/04/regulating-imports-with-a-reciprocal-tariff-to-rectify-trade-practices-that-contribute-to-large-and-persistent-annual-united-states-goods-trade-deficits/) activity," wrote Steve Miller, Chair of the [ISM Services Business Survey Committee](https://www.ismworld.org/supply-management-news-and-reports/reports/ism-report-on-business/).
+
+### Perhaps, unsurprisingly, consumer confidence is tumbling. 
+
+The [University of Michigan](https://umich.edu/)'s [Consumer Sentiment Survey](https://data.sca.isr.umich.edu/) results collapsed 8% to 52.2 in April from March, the fourth-worst level in April since 1952. Americans now think inflation in the year ahead will reach 6.5%, up from estimates of 5% last month. That's the highest forecast since 1981. 
+
+The [Atlanta Fed](https://www.atlantafed.org/)'s [GDPNow](https://www.atlantafed.org/cqer/research/gdpnow?d=1&s=qp) forecasting tool expects the first-quarter GDP to be negative 0.4%, adjusted to account for gold imports and exports.
+
+[Fed](https://www.federalreserve.gov/) chairman has blunt 9-word response to recession talk
+Billionaire Ray Dalio's blunt message on economy turns heads
+But don't expect the [Fed](https://www.federalreserve.gov/) to come to the rescue with interest rate cuts absent a significant catalyst.
+
+The [Fed](https://www.federalreserve.gov/) cut rates three times last fall to shore up employment, but sticky inflation has forced it to the sidelines. With [tariffs](https://www.whitehouse.gov/presidential-actions/2025/04/regulating-imports-with-a-reciprocal-tariff-to-rectify-trade-practices-that-contribute-to-large-and-persistent-annual-united-states-goods-trade-deficits/) on the horizon, it's reticent to risk further fanning inflation with more cuts. That's very problematic, given that jobs could weaken if [tariffs](https://www.whitehouse.gov/presidential-actions/2025/04/regulating-imports-with-a-reciprocal-tariff-to-rectify-trade-practices-that-contribute-to-large-and-persistent-annual-united-states-goods-trade-deficits/) cause spending to halt.
+
+### Veteran fund manager [Ken Fisher](https://www.fisherinvestments.com/en-us/about/leadership/ken-fisher) sends blunt message on bear market risk
+
+The [S&P 500](https://www.google.com/finance/quote/.INX:INDEXSP)'s sell-off was sharp and fast, causing most sentiment and technical indicators to flash "oversold," prompting a snap-back rally over the last two weeks.
+
+The proof now will be in the proverbial pudding. Those indicators aren't as oversold anymore, and some short-term measures are approaching overbought. If stocks roll over again, expect bear market chatter to ramp up.
+
+We have already reached correction territory associated with a decline of at least 10%. A bear market would be an [S&P 500](https://www.google.com/finance/quote/.INX:INDEXSP) decline of 20% or more.
+
+"Sometimes, it becomes a distinction without a significance," said [Ken Fisher](https://www.fisherinvestments.com/en-us/about/leadership/ken-fisher) on [X](https://x.com/). "There is not a marked difference between a market that's down 19%, which would be categorized as a large correction, and a market that's down 21%, that would be categorized as a small bear market... a 2% difference is something that wiggled in a day or two."
+
+Regardless, investors view bear market drops differently than corrections, especially big ones, mainly because they can signal worse things coming for portfolio balances and the economy.
+
+"Significant bear markets take more time, its a bigger magnitude drop, it's scarier, it brings bigger fears, it usually but not always is associated with recession that lags the stock market," said [Fisher](https://www.fisherinvestments.com/en-us/about/leadership/ken-fisher) "It's a valid fear."
+
+That said, [Fisher](https://www.fisherinvestments.com/en-us/about/leadership/ken-fisher) isn't convinced that a bear market is inevitable. Although, he isn't ruling one out yet either.
+
+"I still think it's a bull market year. I think we've been in a correction," said [Fisher](https://www.fisherinvestments.com/en-us/about/leadership/ken-fisher). "I might be wrong."
+
+What could make [Fisher](https://www.fisherinvestments.com/en-us/about/leadership/ken-fisher) change his tune? If [President](https://www.whitehouse.gov/) [Trump](https://www.donaldjtrump.com/) insists on going forward with a trade war. 
+
+"I've assessed everything the administration has done on [tariffs](https://www.whitehouse.gov/presidential-actions/2025/04/regulating-imports-with-a-reciprocal-tariff-to-rectify-trade-practices-that-contribute-to-large-and-persistent-annual-united-states-goods-trade-deficits/) as backwards, ignorant, not understanding how global trade works... all of this is stupid stuff," said [Fisher](https://www.fisherinvestments.com/en-us/about/leadership/ken-fisher). "It's wrong."
+
+[Fisher](https://www.fisherinvestments.com/en-us/about/leadership/ken-fisher) maintains that history has repeatedly shown that [tariffs](https://www.whitehouse.gov/presidential-actions/2025/04/regulating-imports-with-a-reciprocal-tariff-to-rectify-trade-practices-that-contribute-to-large-and-persistent-annual-united-states-goods-trade-deficits/) are always worse for the country imposing them than for the countries they're imposed on. 
+
+"If the [administration](https://www.whitehouse.gov/administration/) keeps wiggling the way that we've been wiggling, and keeps doing stupid stuff in these regards, yeah, we probably get a bear market and recession," said [Fisher](https://www.fisherinvestments.com/en-us/about/leadership/ken-fisher). 
+
+| [Federal Reserve Board](https://www.federalreserve.gov/) |
+|---|
+| [Federal Reserve Bank of Atlanta](https://www.atlantafed.org/) |
+| [Federal Reserve Bank of Boston](https://www.bostonfed.org/) |
+| [Federal Reserve Bank of Chicago](https://www.chicagofed.org/) |
+| [Federal Reserve Bank of Cleveland](https://www.clevelandfed.org/) |
+| [Federal Reserve Bank of Dallas - Dallasfed.org](https://www.dallasfed.org/) |
+| [Federal Reserve Bank of Kansas City](https://www.kansascityfed.org/) |
+| [Federal Reserve Bank of Minneapolis](https://www.minneapolisfed.org/) |
+| [Federal Reserve Bank of New York - Serving the Second District and the Nation](https://www.newyorkfed.org/) |
+| [Federal Reserve Bank of Philadelphia](https://www.philadelphiafed.org/) |
+| [Federal Reserve Bank of Richmond](https://www.richmondfed.org/) |
+| [Federal Reserve Bank of St. Louis / Economic Resources & Data](https://www.stlouisfed.org/) |
+| [Federal Reserve Bank of San Francisco](https://www.frbsf.org/) |
+
+- [The Street](https://www.thestreet.com/)
+- [S&P 500 index](https://www.google.com/finance/quote/.INX:INDEXSP)
+- [Fisher Investments](https://www.fisherinvestments.com/en-us)
+- [Ken Fisher](https://www.fisherinvestments.com/en-us/about/leadership/ken-fisher)
+- [ISM](https://www.ismworld.org/)
+- [PMI](https://www.ismworld.org/supply-management-news-and-reports/news-publications/inside-supply-management-magazine/blog/2020-04/rob-roundup-march-pmi/)
+- [Federal Reserve Board](https://www.federalreserve.gov/)
+- [Federal Reserve Bank of Atlanta](https://www.atlantafed.org/)
+- [GDPNow](https://www.atlantafed.org/cqer/research/gdpnow?d=1&s=qp)
+- [Constitution of the United States](https://constitution.congress.gov/)
+- [Supreme Court of the United States (SCOTUS)](https://www.supremecourt.gov/)
+- [US Courts](https://www.uscourts.gov/)
+- [Congress](https://www.congress.gov/)
+- [Senate](https://www.senate.gov/)
+- [House of Representatives](https://www.house.gov/)
+- [Donald J Trump](https://www.donaldjtrump.com/)
+- [President Donald Trump (47)](https://www.whitehouse.gov/administration/donald-j-trump/)
+- [Clarification of Exceptions Under Executive Order 14257 of April 2, 2025, as Amended – The White House](https://www.whitehouse.gov/presidential-actions/2025/04/clarification-of-exceptions-under-executive-order-14257-of-april-2-2025-as-amended/). Presidential Actions, Presidential Memoranda April 11, 2025
+- [Modifying Reciprocal Tariff Rates to Reflect Trading Partner Retaliation and Alignment](https://www.whitehouse.gov/presidential-actions/2025/04/modifying-reciprocal-tariff-rates-to-reflect-trading-partner-retaliation-and-alignment/). Presidential Actions, Executive Orders April 9, 2025
+- [Amendment to Reciprocal Tariffs and Updated Duties as Applied to Low-Value Imports from the People’s Republic of China](https://www.whitehouse.gov/presidential-actions/2025/04/amendment-to-recipricol-tariffs-and-updated-duties-as-applied-to-low-value-imports-from-the-peoples-republic-of-china/). Presidential Actions, Executive Orders April 8, 2025
+- [Report to the President on the America First Trade Policy Executive Summary](https://www.whitehouse.gov/fact-sheets/2025/04/report-to-the-president-on-the-america-first-trade-policy-executive-summary/). Fact Sheets April 3, 2025
+- [Regulating Imports with a Reciprocal Tariff to Rectify Trade Practices that Contribute to Large and Persistent Annual United States Goods Trade Deficits](https://www.whitehouse.gov/presidential-actions/2025/04/regulating-imports-with-a-reciprocal-tariff-to-rectify-trade-practices-that-contribute-to-large-and-persistent-annual-united-states-goods-trade-deficits/). Presidential Actions, Executive Orders April 2, 2025
+- [Further Amendment to Duties Addressing the Synthetic Opioid Supply Chain in the People’s Republic of China as Applied to Low-Value Imports](https://www.whitehouse.gov/presidential-actions/2025/04/further-amendment-to-duties-addressing-the-synthetic-opioid-supply-chain-in-the-peoples-republic-of-china-as-applied-to-low-value-imports/). Presidential Actions, Executive Orders April 2, 2025
+- [Fact Sheet: President Donald J. Trump Declares National Emergency to Increase our Competitive Edge, Protect our Sovereignty, and Strengthen our National and Economic Security](https://www.whitehouse.gov/fact-sheets/2025/04/fact-sheet-president-donald-j-trump-declares-national-emergency-to-increase-our-competitive-edge-protect-our-sovereignty-and-strengthen-our-national-and-economic-security/). Fact Sheets April 2, 2025
+- [Regulating Imports with a Reciprocal Tariff to Rectify Trade Practices that Contribute to Large and Persistent Annual United States Goods Trade Deficits](https://www.whitehouse.gov/presidential-actions/2025/04/regulating-imports-with-a-reciprocal-tariff-to-rectify-trade-practices-that-contribute-to-large-and-persistent-annual-united-states-goods-trade-deficits/). Presidential Actions, Executive Orders April 2, 2025
+- [Fact Sheet: President Donald J. Trump Closes De Minimis Exemptions to Combat China’s Role in America’s Synthetic Opioid Crisis](https://www.whitehouse.gov/fact-sheets/2025/04/fact-sheet-president-donald-j-trump-closes-de-minimis-exemptions-to-combat-chinas-role-in-americas-synthetic-opioid-crisis/). Fact Sheets April 2, 2025
+- [Further Amendment to Duties Addressing the Synthetic Opioid Supply Chain in the People’s Republic of China as Applied to Low-Value Imports](https://www.whitehouse.gov/presidential-actions/2025/04/further-amendment-to-duties-addressing-the-synthetic-opioid-supply-chain-in-the-peoples-republic-of-china-as-applied-to-low-value-imports/). Presidential Actions, Executive Orders April 2, 2025
+- [Fact Sheet: President Donald J. Trump Adjusts Imports of Automobiles and Automobile Parts into the United States](https://www.whitehouse.gov/fact-sheets/2025/03/fact-sheet-president-donald-j-trump-adjusts-imports-of-automobiles-and-automobile-parts-into-the-united-states/). Fact Sheets March 26, 2025
+- [The Staggering Cost of the Illicit Opioid Epidemic in the United States](https://www.whitehouse.gov/articles/2025/03/the-staggering-cost-of-the-illicit-opioid-epidemic-in-the-united-states/). Articles March 26, 2025
+- [Fact Sheet: President Donald J. Trump Imposes Tariffs on Countries Importing Venezuelan Oil](https://www.whitehouse.gov/fact-sheets/2025/03/fact-sheet-president-donald-j-trump-imposes-tariffs-on-countries-importing-venezuelan-oil/). Fact Sheets March 25, 2025
+- [Imposing Tariffs on Countries Importing Venezuelan Oil](https://www.whitehouse.gov/presidential-actions/2025/03/imposing-tariffs-on-countries-importing-venezuelan-oil/). Presidential Actions, Executive Orders March 24, 2025
+- [More Investment, More Jobs, and More Money in Americans’ Pockets](https://www.whitehouse.gov/articles/2025/03/more-investment-more-jobs-and-more-money-in-americans-pockets/). Articles March 24, 2025
+- [President Trump Positions U.S. as Global Superpower in Manufacturing](https://www.whitehouse.gov/articles/2025/03/president-trump-positions-u-s-as-global-superpower-in-manufacturing/). Articles March 20, 2025
+- [President Trump is Remaking America into a Manufacturing Superpower](https://www.whitehouse.gov/articles/2025/03/president-trump-is-remaking-america-into-a-manufacturing-superpower/). Articles March 12, 2025
+- [Amendment to Duties to Address the Flow of Illicit Drugs Across Our Southern Border](https://www.whitehouse.gov/presidential-actions/2025/03/amendment-to-duties-to-address-the-flow-of-illicit-drugs-across-our-southern-border/). Presidential Actions March 6, 2025
+- [Amendment to Duties to Address the Flow of Illicit Drugs Across Our Northern Border](https://www.whitehouse.gov/presidential-actions/2025/03/amendment-to-duties-to-address-the-flow-of-illicit-drugs-across-our-northern-border-0c3c/). Presidential Actions March 6, 2025
+- [President Trump is Putting American Workers First — And Bringing Back American Manufacturing](https://www.whitehouse.gov/articles/2025/03/president-trump-is-putting-american-workers-first-and-bringing-back-american-manufacturing/). Articles March 4, 2025
+- [President Trump is Securing Our Homeland](https://www.whitehouse.gov/articles/2025/03/president-trump-is-securing-our-homeland/). Articles March 4, 2025
+- [Fact Sheet: President Donald J. Trump Proceeds with Tariffs on Imports from Canada and Mexico](https://www.whitehouse.gov/fact-sheets/2025/03/fact-sheet-president-donald-j-trump-proceeds-with-tariffs-on-imports-from-canada-and-mexico/). Fact Sheets March 3, 2025
+- [Further Amendment to Duties Addressing the Synthetic Opioid Supply Chain in the People’s Republic of China](https://www.whitehouse.gov/presidential-actions/2025/03/further-amendment-to-duties-addressing-the-synthetic-opioid-supply-chain-in-the-peoples-republic-of-china/). Presidential Actions March 3, 2025
+- [Amendment to Duties to Address the Situation at our Southern Border](https://www.whitehouse.gov/presidential-actions/2025/03/amendment-to-duties-to-address-the-situation-at-our-southern-border/). Presidential Actions March 2, 2025
+- [Fact Sheet: President Donald J. Trump Addresses the Threat to National Security from Imports of Timber, Lumber, and their Derivative Products](https://www.whitehouse.gov/fact-sheets/2025/03/fact-sheet-president-donald-j-trump-addresses-the-threat-to-national-security-from-imports-of-timber-lumber-and-their-derivative-products/). Fact Sheets March 1, 2025
+- [Addressing the Threat to National Security from Imports of Timber, Lumber](https://www.whitehouse.gov/presidential-actions/2025/03/addressing-the-threat-to-national-security-from-imports-of-timber-lumber/). Presidential Actions March 1, 2025
+- [Addressing the Threat to National Security from Imports of Copper](https://www.whitehouse.gov/presidential-actions/2025/02/addressing-the-threat-to-nationalsecurity-from-imports-of-copper/). Presidential Actions February 25, 2025
+- [Fact Sheet: President Donald J. Trump Addresses the Threat to National Security from Imports of Copper](https://www.whitehouse.gov/fact-sheets/2025/02/fact-sheet-president-donald-j-trump-addresses-the-threat-to-national-security-from-imports-of-copper/). Fact Sheets February 25, 2025
+- [Defending American Companies and Innovators From Overseas Extortion and Unfair Fines and Penalties](https://www.whitehouse.gov/presidential-actions/2025/02/defending-american-companies-and-innovators-from-overseas-extortion-and-unfair-fines-and-penalties/).. Presidential Actions February 21, 2025
+- [Fact Sheet: President Donald J. Trump Issues Directive to Prevent the Unfair Exploitation of American Innovation](https://www.whitehouse.gov/fact-sheets/2025/02/fact-sheet-president-donald-j-trump-issues-directive-to-prevent-the-unfair-exploitation-of-american-innovation/). Fact Sheets February 21, 2025
+- [Remarks by President Trump at Republican Governors Association Meeting](https://www.whitehouse.gov/remarks/2025/02/remarks-by-president-trump-at-republican-governors-association-meeting/). Remarks February 20, 2025
+- [President Trump Demands Fair, Reciprocal Trade](https://www.whitehouse.gov/articles/2025/02/president-trump-demands-fair-reciprocal-trade/). Articles February 13, 2025
+- [Fact Sheet: President Donald J. Trump Announces “Fair and Reciprocal Plan” on Trade](https://www.whitehouse.gov/fact-sheets/2025/02/fact-sheet-president-donald-j-trump-announces-fair-and-reciprocal-plan-on-trade/). Fact Sheets February 13, 2025
+- [Reciprocal Trade and Tariffs](https://www.whitehouse.gov/articles/2025/02/reciprocal-trade-and-tariffs/). Articles February 13, 2025
+- [Fact Sheet: President Donald J. Trump Restores Section 232 Tariffs](https://www.whitehouse.gov/fact-sheets/2025/02/fact-sheet-president-donald-j-trump-restores-section-232-tariffs/). Fact Sheets February 11, 2025
+- [Adjusting Imports of Aluminum into The United States](https://www.whitehouse.gov/presidential-actions/2025/02/adjusting-imports-of-aluminum-into-the-united-states/). Presidential Actions February 11, 2025
+- [Adjusting Imports of Steel into The United States](https://www.whitehouse.gov/presidential-actions/2025/02/adjusting-imports-of-steel-into-the-united-states/). Presidential Actions February 10, 2025
+- [Fact Sheet: President Donald J. Trump Restores American Competitiveness and Security in FCPA Enforcement](https://www.whitehouse.gov/fact-sheets/2025/02/fact-sheet-president-donald-j-trump-restores-american-competitiveness-and-security-in-fcpa-enforcement/). Fact Sheets February 10, 2025
+- [Amendment to Duties Addressing the Synthetic Opioid Supply Chain in the People’s Republic of China](https://www.whitehouse.gov/presidential-actions/2025/02/amendment-to-duties-addressing-the-synthetic-opioid-supply-chain-in-the-peoples-republic-of-china/). Presidential Actions February 5, 2025
+- [Progress on the Situation at Our Northern Border](https://www.whitehouse.gov/presidential-actions/2025/02/progress-on-the-situation-at-our-northern-border/). Presidential Actions February 3, 2025
+- [Progress on the Situation at Our Southern Border](https://www.whitehouse.gov/presidential-actions/2025/02/progress-on-the-situation-at-our-southern-border/). Presidential Actions February 3, 2025
+- [Imposing Duties to Address the Synthetic Opioid Supply Chain in the People’s Republic of China](https://www.whitehouse.gov/presidential-actions/2025/02/imposing-duties-to-address-the-synthetic-opioid-supply-chain-in-the-peoples-republic-of-china/). Presidential Actions February 1, 2025
+- [Imposing Duties to Address the Flow of Illicit Drugs Across Our Northern Border](https://www.whitehouse.gov/presidential-actions/2025/02/imposing-duties-to-address-the-flow-of-illicit-drugs-across-our-national-border/). Presidential Actions February 1, 2025
+- [Fact Sheet: President Donald J. Trump Imposes Tariffs on Imports from Canada, Mexico and China](https://www.whitehouse.gov/fact-sheets/2025/02/fact-sheet-president-donald-j-trump-imposes-tariffs-on-imports-from-canada-mexico-and-china/). Fact Sheets February 1, 2025
+- [Imposing Duties to Address the Situation at Our Southern Border](https://www.whitehouse.gov/presidential-actions/2025/02/imposing-duties-to-address-the-situation-at-our-southern-border/). Presidential Actions February 1, 2025
+- [America First Trade Policy](https://www.whitehouse.gov/presidential-actions/2025/01/america-first-trade-policy/). Presidential Actions January 20, 2025
+- [President of the United States (POTUS)](https://www.whitehouse.gov/)
+- [White House](https://www.whitehouse.gov/)
+- tarrifs 
+- stupidity 
