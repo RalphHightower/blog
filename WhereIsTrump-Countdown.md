@@ -2,7 +2,7 @@
 layout: page
 tags: [Location Predictor, Count Down, Count Up]
 categories: [Donald Trump]
-date: 2025-04-23 11:30 AM
+date: 2025-04-28 12:17 PM
 #excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
@@ -10,8 +10,8 @@ date: 2025-04-23 11:30 AM
 title: "Where Is Trump? 🔥DC? FL⛳️?"
 ---
 
-{% assign tz = 'now' | date: "%Z" %}
-Timezone: {{ tz }}
+{% assign timestamp = 'now' | date "%F %r%z %Z" %}
+Current Date/Time: {{ timestamp }}
 
 ## Days Count Up / Term Count Down 
 
