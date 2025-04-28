@@ -23,10 +23,10 @@ Current Date/Time: {{ timestamp }}
 
 {% assign seconds_since = today_noon | minus: inauguration2025  %}
 {% assign days_since = seconds_since | divided_by: 86400 %}
-{% assign percent_complete = today_noon | minus: inauguration2025 | divided_by: total_secs47 | times: 100 %}
+{% assign percent_complete = today_noon | minus: inauguration2025 | divided_by: total_secs47 | times: 100.0 %}
 
 {% assign days_remaining = inauguration2029 | minus: today_noon | divided_by: 86400 %}
-{% assign percent_remaining = inauguration2029 | minus: today_noon | divided_by: total_secs47 | times: 100 %}
+{% assign percent_remaining = inauguration2029 | minus: today_noon | divided_by: total_secs47 | times: 100.0 %}
 ### Days of Hell
 
 Days since: {{ days_since }} Percent completed {{ percent_complete }}
