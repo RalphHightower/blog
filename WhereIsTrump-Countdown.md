@@ -16,17 +16,25 @@ Current Date/Time: {{ timestamp }}
 ## Days Count Up / Term Count Down 
 
 
-{% assign today_noon = 'now' | date: '%Y-%m-%d 12:00 PM' | date: '%s'  %}
+{% assign today_noon = 'now' | date: '%Y-%m-%d 12:00 PM' | date: '%s' %}
 {% assign inauguration2025 = '2025-01-20 12:00 PM' | date: '%s' %}
 {% assign inauguration2029 = '2029-01-20 12:00 PM' | date: '%s' %}
 {% assign total_secs47 = inauguration2029 | minus: inauguration2025 %}
 
-{% assign seconds_since = today_noon | minus: inauguration2025  %}
+{% echo total_secs47 $}
+
+{% assign seconds_since = today_noon | minus: inauguration2025 %}
 {% assign days_since = seconds_since | divided_by: 86400 %}
 {% assign percent_complete = today_noon | minus: inauguration2025 | divided_by: total_secs47 | times: 100.0 %}
 
+{% echo seconds_since %}
+
+{% assign seconds_since = inauguration2029 | minus: today_noon %}
 {% assign days_remaining = inauguration2029 | minus: today_noon | divided_by: 86400 %}
 {% assign percent_remaining = inauguration2029 | minus: today_noon | divided_by: total_secs47 | times: 100.0 %}
+
+{% echo seconds_remaining %}
+
 ### Days of Hell
 
 Days since: {{ days_since }} Percent completed {{ percent_complete }}
@@ -45,14 +53,14 @@ Days remaining: {{ days_remaining }} Percent remaining:{{ percent_remaining}}
 {% assign day = 'now' | date: '%A' %}
 Today is {{ day }}.
 {% case day %}
-    {% when "Friday", "Saturday", "Sunday" %}
+  {% when "Friday", "Saturday", "Sunday" %}
 ### He’s Burning 🔥 Taxpayer Money 💰 Playing Golf 🏌️‍♂️ at His Mar-a-Lago Resort ⛳️
 
 | Golfing ⛳️ |
 |---|
 | **[Mar-a-Lago](https://www.maralagoclub.com/)** |
 | [The Mar-a-Lago Club](https://www.maralagoclub.com/) <br /> 1100 South Ocean Boulevard, <br /> Palm Beach, Florida 33480 <br /> <a href="tel+15618322600">+1 (561) 832-2600</a> |
-    {% else %}
+  {% else %}
 ### Trump Is Busy Burning Federal Government to the Ground
 
 | Burning 🔥 Federal Government |
