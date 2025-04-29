@@ -15,7 +15,6 @@ Current Date/Time: {{ timestamp }}
 
 ## Days Count Up / Term Count Down 
 
-
 {% assign today_noon = 'now' | date: '%Y-%m-%d 12:00 PM' | date: '%s' %}
 {% assign inauguration2025 = '2025-01-20 12:00 PM' | date: '%s' | plus: 86400 %}
 {% assign inauguration2029 = '2029-01-20 12:00 PM' | date: '%s' %}
