@@ -34,7 +34,7 @@ DEBUG: percent_complete {{ percent_complete }}
 {% assign seconds_remaining = inauguration2029 | minus: today_noon %}
 {% assign days_remaining = inauguration2029 | minus: today_noon | divided_by: 86400 %}
 
-|% assign real_remaining = seconds_remaining | times: 1.0 %}
+{% assign real_remaining = seconds_remaining | times: 1.0 %}
 {% assign percent_remaining = real_remaining | divided_by: total_secs47 | times: 100.0 %}
 
 DEBUG: real_remaining: {{ real_remaining }}
