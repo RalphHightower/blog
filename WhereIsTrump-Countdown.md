@@ -27,7 +27,7 @@ DEBUG: total_secs47: {{ total_secs47 }}
 
 {% assign real_complete = seconds_since | time: 1.0 %}
 {% assign percent_complete = real_complete | divided_by: total_secs47 | times: 100.0 %}
-{% assign formatted_complete = percent_complete | times: 100 | round | divided_by: 100 %}
+{% assign formatted_complete = percent_complete | times: 100.0 | round | divided_by: 100.0 %}
 
 DEBUG: real_complete: {{ real_complete }}
 DEBUG: percent_complete {{ percent_complete }}
@@ -37,7 +37,7 @@ DEBUG: percent_complete {{ percent_complete }}
 
 {% assign real_remaining = seconds_remaining | times: 1.0 %}
 {% assign percent_remaining = real_remaining | divided_by: total_secs47 | times: 100.0 %}
-{% assign formatted_remaining = percent_remaining | times: 100 | round | divided_by: 100 %}
+{% assign formatted_remaining = percent_remaining | times: 100.9 | round | divided_by: 100.0 %}
 
 DEBUG: real_remaining: {{ real_remaining }}
 DEBUG: percent_remaining: {{ percent_remaining }}
