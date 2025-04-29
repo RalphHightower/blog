@@ -18,23 +18,27 @@ Current Date/Time: {{ timestamp }}
 {% assign today_noon = 'now' | date: '%Y-%m-%d 12:00 PM' | date: '%s' %}
 {% assign inauguration2025 = '2025-01-20 12:00 PM' | date: '%s' | plus: 86400 %}
 {% assign inauguration2029 = '2029-01-20 12:00 PM' | date: '%s' %}
-{% assign total_secs47 = inauguration2029 | minus: inauguration2025 %}
+{% assign total_secs47 = inauguration2029 | minus: inauguration2025 | times: 1.0 %}
 
 DEBUG: total_secs47: {{ total_secs47 }}
 
 {% assign seconds_since = today_noon | minus: inauguration2025 %}
 {% assign days_since = seconds_since | divided_by: 86400 %}
-{% assign percent_complete = today_noon | minus: inauguration2025 | divided_by: total_secs47 | times: 100.0 %}
 
-DEBUG: seconds_since: {{ seconds_since }}
-DEBUG: percent_complete: {{ seconds_since | divided_by: total_secs47 | times: 100.0 }}
+{% assign real_complete = seconds_since | time: 1.0 %}
+{% assign percent_complete = real_complete | divided_by: total_secs47 | times: 100.0 %}
+
+DEBUG: real_complete: {{ real_complete }}
+DEBUG: percent_complete {{ percent_complete }}
 
 {% assign seconds_remaining = inauguration2029 | minus: today_noon %}
 {% assign days_remaining = inauguration2029 | minus: today_noon | divided_by: 86400 %}
-{% assign percent_remaining = inauguration2029 | minus: today_noon | divided_by: total_secs47 | times: 100.0 %}
 
-DEBUG: seconds_remaining: {{ seconds_remaining }}
-DEBUG: percent_remaining: {{ seconds_remaining | divided_by: total_secs47 | times: 100.0 }}
+|% assign real_remaining = seconds_remaining | times: 1.0 %}
+{% assign percent_remaining = real_remaining | divided_by: total_secs47 | times: 100.0 %}
+
+DEBUG: real_remaining: {{ real_remaining }}
+DEBUG: percent_remaining: {{ percent_remaining }}
 
 ### Days of Hell
 
