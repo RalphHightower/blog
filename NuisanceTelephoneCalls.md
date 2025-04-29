@@ -2,7 +2,7 @@
 layout: page
 tags: [assholes, Donald Trump, Elon Musk, Betsy DeVos, MAGA billionaires, billionaire, Trump donors, Republican PAC, Make America Great Again (MAGA)]
 categories: [Telephone Numbers]
-date: 2025-04-25 7:15 PM
+date: 2025-04-28 7:45 PM
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description: 
@@ -18,6 +18,9 @@ The telephone numbers below have called and there is an empty person on the othe
 
 | Telephone Number | Location | Date Time[^11] | Caller | Social Media |
 |---|---|---|---|---|
+| <a href="tel:+18034502546">+1 (803) 450-2546</a> | SC. Barnwell | 2025-04-28 02:34 PM | | |
+| <a href="tel:+18035142241">+1 (803) 514-2241</a> | SC. Aiken | 2025-04-28 01:49 PM | | |
+| <a href="tel:+18039928105">+1 (803) 992-8105</a> | SC. Rock Hill | 2025-04-28 12:47 PM | Novant Health | |
 | <a href="tel:+18037102193">+1 (803) 710-2193</a> | SC. Johnston | 2025-04-25 03:44 PM ¤¤ | Potential Spam | |
 | <a href="tel:+18037102193">+1 (803) 710-2193</a> | SC. Johnston | 2025-04-25 03:44 PM | Potential Spam | |
 | <a href="tel:+18037147067">+1 (803) 714-7067</a> | SC. Columbia | 2025-04-25 03:28 PM | — | |
