@@ -17,11 +17,11 @@ Current Date/Time: {{ timestamp }}
 
 
 {% assign today_noon = 'now' | date: '%Y-%m-%d 12:00 PM' | date: '%s' %}
-{% assign inauguration2025 = '2025-01-20 12:00 PM' | date: '%s' %}
-{% assign inauguration2029 = '2029-01-20 12:00 PM' | date: '%s' %}
+{% assign inauguration2025 = '2025-01-20 12:00 PM' | date: '%s' | plus: 86400 %}
+{% assign inauguration2029 = '2029-01-20 12:00 PM' | date: '%s' | minus: 86400 %}
 {% assign total_secs47 = inauguration2029 | minus: inauguration2025 %}
 
-DEBUG: total_secs47 {{ total_secs47 }}
+DEBUG: total_secs47: {{ total_secs47 }}
 
 {% assign seconds_since = today_noon | minus: inauguration2025 %}
 {% assign days_since = seconds_since | divided_by: 86400 %}
@@ -33,7 +33,7 @@ DEBUG: seconds_since: {{ seconds_since }}
 {% assign days_remaining = inauguration2029 | minus: today_noon | divided_by: 86400 %}
 {% assign percent_remaining = inauguration2029 | minus: today_noon | divided_by: total_secs47 | times: 100.0 %}
 
-DEBUG: seconds_remaining {{ seconds_remaining }}
+DEBUG: seconds_remaining: {{ seconds_remaining }}
 
 ### Days of Hell
 
