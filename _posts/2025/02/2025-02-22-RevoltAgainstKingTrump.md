@@ -49,7 +49,7 @@ And to those who conclude that decision is due to pressure from any groups or in
 
 I will say this – I also have concerns about disruption and chaos that such a move, such a proceeding could bring to the residents of this great [city](https://www.nyc.gov/). And those who argue, “Just go and remove him,” fail to appreciate there is a process involved, due process, the length of the process, and the impact that such a process would have on this [city](https://www.nyc.gov/).
 
-And actually with the timing, it's not impossible that we'd have a scenario where there's [multiple mayors](https://www.nyc.gov/office-of-the-mayor/) of this >city](https%//www.nyc.gov/) in the course of one year. But make no mistake, the current situation is one that I take very seriously. That's why I want to spell out my immediate objectives.
+And actually with the timing, it's not impossible that we'd have a scenario where there's [multiple mayors](https://www.nyc.gov/office-of-the-mayor/) of this [city](https://www.nyc.gov/) in the course of one year. But make no mistake, the current situation is one that I take very seriously. That's why I want to spell out my immediate objectives.
 
 Number one, to stabilize this [city](https://www.nyc.gov/) and restore calm. Number two, ensure that all services for our residents continue without disruption. And three, to take steps to make sure our leaders are operating only with the [city's](https://www.nyc.gov/) best interest in mind, unimpeded by any legal agreements with the [Trump](https://www.whitehouse.gov/) [Justice Department](https://www.justice.gov/). I want to be very clear, there are past examples of coordination and cooperation between the federal government, the city, the state. It's not uncommon.
 
