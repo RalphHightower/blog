@@ -27,6 +27,7 @@ DEBUG: total_secs47: {{ total_secs47 }}
 
 {% assign real_complete = seconds_since | time: 1.0 %}
 {% assign percent_complete = real_complete | divided_by: total_secs47 | times: 100.0 %}
+{% assign formatted_complete = percent_complete | times: 100 | round | divided_by: 100 %}
 
 DEBUG: real_complete: {{ real_complete }}
 DEBUG: percent_complete {{ percent_complete }}
@@ -36,13 +37,14 @@ DEBUG: percent_complete {{ percent_complete }}
 
 {% assign real_remaining = seconds_remaining | times: 1.0 %}
 {% assign percent_remaining = real_remaining | divided_by: total_secs47 | times: 100.0 %}
+{% assign formatted_remaining = percent_remaining | times: 100 | round | divided_by: 100 %}
 
 DEBUG: real_remaining: {{ real_remaining }}
 DEBUG: percent_remaining: {{ percent_remaining }}
 
 ### Days of Hell
 
-Days since: {{ days_since }} Percent completed {{ percent_complete }}
+Days since: {{ days_since }} Percent completed {{ formatted_complete }}
 
 ### Computer, End Trump Presidency Simulation.[^2025]
 
@@ -50,7 +52,7 @@ Days since: {{ days_since }} Percent completed {{ percent_complete }}
 
 [^2029]: [Begin Program: The Reality Of Building a Holodeck Today / Star Trek](https://www.startrek.com/news/begin-program-the-reality-of-building-a-holodeck-today)<br /> *How close is current technology to creating fully immersive photonic playgrounds?*<br />Star Trek: The Next Generation<br />Published May 18, 2021<br />By Becca Caddy
 
-Days remaining: {{ days_remaining }} Percent remaining:{{ percent_remaining}}
+Days remaining: {{ days_remaining }} Percent remaining:{{ formatted_remaining }}
 
 ## Where Is Trump?
 
