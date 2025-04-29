@@ -21,19 +21,19 @@ Current Date/Time: {{ timestamp }}
 {% assign inauguration2029 = '2029-01-20 12:00 PM' | date: '%s' %}
 {% assign total_secs47 = inauguration2029 | minus: inauguration2025 %}
 
-{% echo total_secs47 $}
+DEBUG: total_secs47 {{ total_secs47 }}
 
 {% assign seconds_since = today_noon | minus: inauguration2025 %}
 {% assign days_since = seconds_since | divided_by: 86400 %}
 {% assign percent_complete = today_noon | minus: inauguration2025 | divided_by: total_secs47 | times: 100.0 %}
 
-{% echo seconds_since %}
+DEBUG: {{ seconds_since }}
 
 {% assign seconds_since = inauguration2029 | minus: today_noon %}
 {% assign days_remaining = inauguration2029 | minus: today_noon | divided_by: 86400 %}
 {% assign percent_remaining = inauguration2029 | minus: today_noon | divided_by: total_secs47 | times: 100.0 %}
 
-{% echo seconds_remaining %}
+DEBUG: seconds_remaining {{ seconds_remaining }}
 
 ### Days of Hell
 
