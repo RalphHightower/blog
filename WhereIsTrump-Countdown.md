@@ -22,10 +22,12 @@ Current Date/Time: {{ timestamp }}
 {% if tz contains "DT" %}
     hr_forward = 3600
 {% endif %}
+
 tz {{ tz }}
 
 hr_forward {{ hr_forward }}
-{% assign today_noon = today_noon | plus: hr_forward %}
+{% assign hr_noon = today_noon | plus: hr_forward %}
+{% assign today_noon = hr_noon %}
 {% assign secs_inauguration2025 = '2025-01-19 12:00 PM' | date: '%s' %}
 {% assign secs_inauguration2029 = '2029-01-21 12:00 PM' | date: '%s' %}
 
