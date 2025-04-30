@@ -21,7 +21,7 @@ Current Date/Time: {{ timestamp }}
 
 {% assign secs_total47 = secs_inauguration2029 | minus: secs_inauguration2025 %}
 {% assign secs_since = today_noon | minus: secs_inauguration2025 %}
-{% assign secs_remaining = inauguration2029 | minus: today_noon %}
+{% assign secs_remaining = secs_inauguration2029 | minus: today_noon %}
 
 {% assign days_total47 = secs_total47 | divided_by: 86400 %}
 {% assign days_since = secs_since | divided_by: 86400 %}
