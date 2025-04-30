@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: []
+tags: [AP Stylebook / The Associated Press, Chris Krebs, Miles Taylor, European Union (EU), Der Bundesrat admin.ch - Startseite, Switzerland (CH) Government, Saab, Fighter Systems / Air / Saab, Royal Canadian Air Force - Canada.ca, National Defence - Canada.ca, Mark Carney - Prime Minister of Canada / Prime Minister of Canada, Portugal (PT) XXIV Governo Constitucional, Nuno Melo - Ministro da Defesa Nacional - Defesa Nacional - XXIV Governo Constitucional, 中国政府网_中央人民政府门户网站, The State Council of the People’s Republic of China, Constitution of the United States, First Amendment, U.S. Constitution - Fifth Amendment / Resources / Constitution Annotated / Congress.gov / Library of Congress, U.S. Constitution - Sixth Amendment / Resources / Constitution Annotated / Congress.gov / Library of Congress, Supreme Court of the United States, US Courts, Senate, Lindsey Graham (T-SC), Tim Scott (T-SC), House of Representatives, Joe Wilson (T-SC2), William Timmons (T-SC4), Russell Fry (T-SC7), Richard Nixon Museum and Library, Civil Rights Act (1964) / National Archives, Donald J Trump, President Donald Trump (47), Trump Administration (47), President of the United States (POTUS), White House (WH)]
 categories: [Joe Wilson, Lindsey Graham, Tim Scott]
 date: 2025-04-29 2:30 PM
 excerpt: 'Freedom from Consequences is not a protected Constitutional Right – Ralph Hightower'
@@ -45,7 +45,7 @@ Elections have consequences, and the choices we make today will shape the future
 
 [Trump](https://www.donaldjtrump.com/) has ir​rep​a​ra​bly damaged the United States reputation on the world's stage.
 
-As [[Trumpian legislators](https://www.gop.com/) are the majority in the red state of [South Carolina](https://www.sc.gov/), your elected seat is safe. However, there are other voters in the [United States](,https://www.usa.gov/) who can flip the majority in the [House](https://www.house.gov/) and [Senate](https://www.senate.gov/) to [Democrats](https://www.democrats.org/).
+As [Trumpian legislators](https://www.gop.com/) are the majority in the red state of [South Carolina](https://www.sc.gov/), your elected seat is safe. However, there are other voters in the [United States](,https://www.usa.gov/) who can flip the majority in the [House](https://www.house.gov/) and [Senate](https://www.senate.gov/) to [Democrats](https://www.democrats.org/).
 
 This oath is not just ceremonial; it is a solemn promise to uphold the principles that define our nation.
 
@@ -63,7 +63,7 @@ The other four major English speaking countries, [Canada](https://www.canada.ca/
 
 The following news occurred in the past two months:
 
-### **Ignoring the First Amendment Protecting Freedom of Speech and the Press**:
+### Ignoring the First Amendment Protecting Freedom of Speech and the Press:
 
 Banning the [Associated Press](https://www.apnews.com/) from White House press briefings and the press pool because the [AP](https://www.apnews.com/) won't recognize "The Gulf of America" is an attack on the [First Amendment]().
  
@@ -71,13 +71,13 @@ The [AP Stylebook](https://www.ap.org/solutions/platforms/ap-stylebook/) specifi
 
 However, since Mount Denali is within America's borders, it will now be recognized as Mount McKinley per [Trump](https://www.donaldjtrump.com/)'s Executive Orders and the chagrin of Alaskans.
 
-- **Banning Law Firms From Federal Buildings, Contracts, Revoking Security Clearances**:
+### Banning Law Firms From Federal Buildings, Contracts, Revoking Security Clearances:
 
 Imagine if a [Democratic](https://www.democrats.org/) president, [Obama](https://obamawhitehouse.archives.gov/), [Biden](https://bidenwhitehouse.archives.gov/), or a future president, banned your law practice from practicing in federal courts and banned the firm's employees from entering federal buildings.
 
 According to their respective [Wikipedia](https://en.wikipedia.org/) pages, [Wilson](https://joewilson.house.gov/), [Fry](https://fry.house.gov/), [Timmons](https://timmons.house.gov/), and [Graham](https://www.lgraham.senate.gov/) are lawyers representing [South Carolina](https://www.sc.gov/) in the [House](https://www.house.gov/) and [Senate](,https://www.senate.gov/). Imagine if a [Democratic](https://www.democrats.org/) president banned them and their firm from Federal buildings. They wouldn't be able to represent clients in [Federal Court](https://www.uscourts.gov/), or even enter a [Post Office](https://www.usps.com/). 
 
-- **Weaponizing Federal Government**:
+### Weaponizing Federal Government:
 
 [Trump](https://www.donaldjtrump.com/) is using the presidency to attack his perceived political enemies. 
 
@@ -89,13 +89,13 @@ My use of the word persecute is intentional.
 
 [Merriam-Webster](https://www.merriam-webster.com/) offers guidance on when to use prosecute instead of persecute: “One, you do in court; the other you do if you’re a jerk.”
 
-- **Ignoring Court Rulings**:
+### Ignoring Court Rulings:
 
 One court case received a unanimous 9-0 [Supreme Court](https://www.supremecourt.gov/) in favor of returning Abrego Garcia to the US. Another judge is considering holding the [Trump](https://www.donaldjtrump.com/) [administration](https://www.whitehouse.gov/) in Contempt of [Court](https://www.uscourts.gov/). This deportation of illegal aliens in the dead of night to El Salvador's gulag, CECOT prison, violates the [Fifth](https://constitution.congress.gov/constitution/amendment-5/) and [Sixth Amendments](https://constitution.congress.gov/constitution/amendment-6/). 
 
 Every person is due process of law. We are a nation of laws, not ruled by a king.
 
-- **[Trump](https://www.donaldjtrump.com/)’s Capricious Leadership & On Again, Off Again Tariffs** 
+### [Trump](https://www.donaldjtrump.com/)’s Capricious Leadership & On Again, Off Again Tariffs 
 
 Because of [Trump](https://www.donaldjtrump.com/)’s whipsaw actions, [Canada](https://www.canada.ca/) is considering canceling their 19 billion dollar order of [Lockheed Martin](https://www.lockheedmartin.com/) [F-35 fighter jets](https://www.lockheedmartin.com/) [F-35](https://www.lockheedmartin.com/en-us/products/f-35.html) and buying from [Europe](https://commission.europa.eu/). [Portugal](https://www.portugal.gov.pt/pt/gc24) is canceling their order.
 
@@ -107,17 +107,17 @@ I don't have a subscription to [MarketWatch](https://www.marketwatch.com/), but 
 
 [Trump](https://www.donaldjtrump.com/) is not the brilliant businessman that he claims that he is. He has lost two casinos, and an airline, besides bankrupting his family-owned business six times.
 
-- **Attacking Universities**:
+### Attacking Universities:
 
 The [Civil Rights Act of 1964](https://www.archives.gov/milestone-documents/civil-rights-act) was intended to prohibit the discrimination of blacks. [Trump](https://www.donaldjtrump.com/) cannot strike law or create law with the issuance of executive orders. 
 
-Only [Congress](https://www.congress.gov/) has the pwer to create legislation for the [president](https://www.whitehouse.gov/) to sign into law. 
+Only [Congress](https://www.congress.gov/) has the power to create legislation for the [president](https://www.whitehouse.gov/) to sign into law. 
 
 The courts have the power to strike laws or refine laws. 
 
 Threatening to have the [IRS](https://www.irs.gov/) revoke Harvard's tax exempt status is [Nixon-esque](https://www.nixonlibrary.gov/). Just because [Trump](https://www.donaldjtrump.com/) doesn't like it's policies or courses is outside of the powers of a [presidency](https://www.whitehouse.gov/).
 
-- **Signalgate**:
+### Signalgate:
 
 If the sharing of wars plans on their unsecured personal cellphones had happened with a Democratic president, Trumpian legislators, [Trumpers](https://www.gop.com/) would have been ap​o​plec​tic, demanding firings. With a journalist, no less, in the group chat. The reaction from [Trumpers](https://www.gop.com/) was, "Meh." This breach of protocol undermines the integrity of our military operations and puts American lives at risk.
 
@@ -140,9 +140,73 @@ Freedom from Consequences is not a protected [Constitutional](https://constituti
 s/
 Ralph  Hightower
 
-[Trump deepens NATO’s crisis of trust on sharing intel – POLITICO](https://www.politico.eu/article/nato-crisis-slovakia-donald-trump-hungary-slovakia-national-defense-academy/)
-[Maddow Blog / Why some U.S. allies are reassessing intelligence sharing with the Trump administration](https://www.msnbc.com/rachel-maddow-show/maddowblog/us-allies-are-reassessing-intelligence-sharing-trump-administration-rcna195086)
+----
+## Tim Scott's Reply
 
+I received a response from Tim Scott. 
+
+I did not mention transnational criminal organizations, MS-13, nor Tren de Aragua (TdA). Fentanyl was not mentioned. 
+
+- Ignoring the First Amendment Protecting Freedom of Speech and the Press
+- Banning Law Firms From Federal Buildings, Contracts, Revoking Security Clearances
+- Weaponizing Federal Government
+- Ignoring Court Rulings
+- Trump’s Capricious Leadership & On Again, Off Again Tariffs 
+- Attacking Universities
+- Signalgate
+
+As Homer Simpson would say, *"D'Oh!"*
+
+### Tim Scott's Email Response
+
+Dear Mr. Hightower,
+
+
+Thank you for contacting me to express your concerns regarding President Trump's ongoing efforts to secure our borders and enforce immigration laws. I am grateful to share some of my thoughts with you.
+
+As you know, the current state of illegal immigration presents significant challenges to our national security. President Biden's open-border policies led to rampant illegal immigration, with dangerous cartels trafficking humans, weapons, and harmful drugs like fentanyl. Transnational criminal organizations like MS-13 and Tren de Aragua (TdA) continue to terrorize American communities with their violent actions.
+
+On January 20th, 2025, President Trump took decisive steps to address these threats via executive order. Through the EO, Protecting the American People Against Invasion, President Trump empowered agencies to repel, repatriate, and remove illegal aliens using the Immigration and Nationality Act. Additionally, the President authorized the apprehension, restraint, securement, and deportation of any persons identified as members of TdA through the Alien Enemies Act.
+
+I fully support measures to deport dangerous and illegal migrants, which is necessary to ensure the safety and well-being of American citizens, and the protection of our homeland. At the same time, I remain deeply committed to upholding the Constitution, ensuring that we preserve the principles of checks and balances that are vital to the functioning of our democracy.
+
+Again, thank you for sharing your perspective with me; I hope that you will continue to do so in the future. If I can ever be of assistance, please do not hesitate to contact me or a member of my staff.
+
+For more information, please visit my website at www.scott.senate.gov and subscribe to my monthly e-newsletter. I also encourage you to follow me on Facebook: www.facebook.com/SenatorTimScott and Twitter: www.twitter.com/SenatorTimScott for daily updates.
+
+Sincerely,
+
+Tim Scott
+United States Senator
+
+This communication is being sent via e-mail in order to save taxpayer dollars. If you would like a written letter, please notify our office. The information contained herein is intended for the use of the individual or entity named above. Please do not tamper with or alter this communication in any way.
+
+----
+## Lindsey Graham's Response 
+
+I'm sure this is a canned response, measured. But it is not a canned response that was absolutely irrelevant to my email. 
+
+I look forward to read what he has to say. It wasn't some canned response irrelevant to my email. 
+
+### Lindsey Graham's Response
+
+Thank you for taking the time to contact me. I appreciate the opportunity to hear from you.
+
+In spite of the high volume of mail I receive daily, I look forward to reviewing your correspondence and providing a response as soon as possible.
+
+As we continue our work in the 119th Congress, I look forward to supporting our men and women in uniform, assisting our veterans, repairing our economy and creating jobs, lowering the tax burden on American families, and making the federal government more accountable and efficient.
+
+Please do not hesitate to contact me if I may be of further assistance to you or your family, and if you need immediate assistance, please call my office at 202-224-5972. If your correspondence pertains to a scheduling request, please fax your request to (202) 224-3808.
+
+Sincerely,
+
+Lindsey Graham
+
+----
+
+
+- [Trump deepens NATO’s crisis of trust on sharing intel – POLITICO](https://www.politico.eu/article/nato-crisis-slovakia-donald-trump-hungary-slovakia-national-defense-academy/)
+- [Maddow Blog / Why some U.S. allies are reassessing intelligence sharing with the Trump administration](https://www.msnbc.com/rachel-maddow-show/maddowblog/us-allies-are-reassessing-intelligence-sharing-trump-administration-rcna195086)
 - [AP Stylebook / The Associated Press](https://www.ap.org/solutions/platforms/ap-stylebook/)
 - [Chris Krebs](https://www.linkedin.com/in/christopherckrebs/)
 - [Miles Taylor](https://www.linkedin.com/in/miles-taylor-65707671/)
@@ -178,4 +242,4 @@ Ralph  Hightower
 - [Trump Administration (47)](https://www.whitehouse.gov/administration/)
 - [President of the United States (POTUS)](https://www.whitehouse.gov/)
 - [White House (WH)](https://www.whitehouse.gov/)
-- 
+
