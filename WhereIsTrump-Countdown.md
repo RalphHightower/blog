@@ -16,6 +16,7 @@ Current Date/Time: {{ timestamp }}
 ## Days Count Up / Term Count Down 
 
 {% assign today_noon = 'now' | date: '%Y-%m-%d 12:00 PM' | date: '%s' %}
+{% assign today_noon = 'now' | date: '2025-01-20 12:00 PM' | date: '%s' %}
 {% assign secs_inauguration2025 = '2025-01-19 12:00 PM' | date: '%s' %}
 {% assign secs_inauguration2029 = '2029-01-21 12:00 PM' | date: '%s' %}
 
@@ -49,7 +50,7 @@ Days since: {{ days_since }} Percent completed: {{ pctdays_since }}%
 
 [^2029]: [Begin Program: The Reality Of Building a Holodeck Today / Star Trek](https://www.startrek.com/news/begin-program-the-reality-of-building-a-holodeck-today)<br />Star Trek: The Next Generation<br />Published May 18, 2021<br />By Becca Caddy
 
-Days remaining: {{ days_remaining }} Percent remaining:{{ pctdays_remaining }}%
+Days remaining: {{ days_remaining }} Percent remaining: {{ pctdays_remaining }}%
 
 ## Where Is Trump?
 
@@ -107,10 +108,10 @@ Logic: date '%Y' - 1 | modulus 4
 
 {% endcomment %}
 | Variable | Value |
-|---|--- |
-| secs_inauguration2029 | {{ secs_inauguration2029 }} |
-| today_noon | {{ today_noon }} | 
+|---|---:|
 | secs_inauguration2025 | {{ secs_inauguration2025 }} |
+| today_noon | {{ today_noon }} | 
+| secs_inauguration2029 | {{ secs_inauguration2029 }} |
 | | | 
 | secs_total47 | {{ secs_total47 }} |
 | secs_since | {{ secs_since }} |
@@ -132,3 +133,4 @@ Logic: date '%Y' - 1 | modulus 4
 | pctsecs_remaining | {{ pctsecs_remaining }} |
 | pctdays_since | {{ pctdays_since }} |
 | pctdays_remaining | {{ pctdays_remaining }} |
+
