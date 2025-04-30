@@ -31,7 +31,7 @@ Current Date/Time: {{ timestamp }}
 {% assign realsecs_since = secs_since | times: 1.0 %}
 {% assign realsecs_remaining = secs_remaining | times: 1.0 %}
 
-{% assign pctsecs_since = realdays_since | divided_by: realsecs_total47 | times: 100.0 | round | divided_by: 100.0 %}
+{% assign pctsecs_since = realsecs_since | divided_by: realsecs_total47 | times: 100.0 | round | divided_by: 100.0 %}
 {% assign pctsecs_remaining = realsecs_remaining | divided_by: realsecs_total47 | times: 100.0 | round | divided_by: 100.0 %}
 
 DEBUG: pctsecs_since: {{ pctsecs_since }}
@@ -80,7 +80,7 @@ Days since: {{ days_since }} Percent completed: {{ pctdays_since }}
 
 [^2025]: @RalphHightower: I'm wishing that the time between January 20, 2025 and January 20, 2029 is a just a nightmare Holodeck[^2029] simulation. 
 
-[^2029]: [Begin Program: The Reality Of Building a Holodeck Today / Star Trek](https://www.startrek.com/news/begin-program-the-reality-of-building-a-holodeck-today)<br /> | times: How close is current technology to creating fully immersive photonic playgrounds?| times: <br />Star Trek: The Next Generation<br />Published May 18, 2021<br />By Becca Caddy
+[^2029]: [Begin Program: The Reality Of Building a Holodeck Today / Star Trek](https://www.startrek.com/news/begin-program-the-reality-of-building-a-holodeck-today)<br />Star Trek: The Next Generation<br />Published May 18, 2021<br />By Becca Caddy
 
 Days remaining: {{ days_remaining }} Percent remaining:{{ pctdays_remaining }}
 
