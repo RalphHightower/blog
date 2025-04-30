@@ -2,7 +2,7 @@
 layout: page
 tags: [assholes, Donald Trump, Elon Musk, Betsy DeVos, MAGA billionaires, billionaire, Trump donors, Republican PAC, Make America Great Again (MAGA)]
 categories: [Telephone Numbers]
-date: 2025-04-29 8:34 PM
+date: 2025-04-30 7:54 PM
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description: 
@@ -18,6 +18,16 @@ The telephone numbers below have called and there is an empty person on the othe
 
 | Telephone Number | Location | Date Time[^11] | Caller | Social Media |
 |---|---|---|---|---|
+| <a href="tel:+18034706514">+1 (803) 470-6514</a> | SC. Columbia | 2025-04-30 09:37 AM | Potential Spam | |
+| <a href="tel:+18034706514">+1 (803) 470-6514</a> | SC. Columbia | 2025-04-30 09:37 AM | Potential Spam | |
+| <a href="tel:+18038845037">+1 (803) 884-5037</a> | SC. Blackville | 2025-04-30 11:53 AM | Potential Spam | |
+| <a href="tel:+18032343802">+1 (803) 234-3802</a> | SC. Columbia | 2025-04-30 01:19 PM | Potential Spam | |
+| <a href="tel:+18033252072">+1 (803) 325-2072</a> | SC. Rock Hill | 2025-04-30 02:34 PM | Amanda Childers | |
+| <a href="tel:+18035120866">+1 (803) 512-0866</a> | SC. Dalzel | 2025-04-30 03:23 PM | Jasmin Thomas | |
+| <a href="tel:+18035745109">+1 (803) 574-5109</a> | SC. Summerton | 2025-04-30 03:53 PM | | |
+| <a href="tel:+18039666215">+1 (803) 966-6215</a> | SC. Columbia | 2025-04-30 03:59 PM | | |
+| <a href="tel:+18039666215">+1 (803) 966-6215</a> | SC. Columbia | 2025-04-30 04:00 PM ¤¤ | | |
+| <a href="tel:+18036303892">+1 (803) 630-3892</a> | SC. Clover | 2025-04-30 05:26 PM | | |
 | <a href="tel:+18035476812">+1 (803) 547-6812</a> | SC. Fort Mill | 2025-04-29 05:30 PM | Mae Evans | |
 | <a href="tel:+18037413593">+1 (803) 741-3593</a> | SC. Columbia | 2025-04-29 05:09 PM | | |
 | <a href="tel:+18035671734">+1 (803) 567-1734</a> | SC. Columbia | 2025-04-29 03:20 PM | Potential Spam | |
@@ -889,7 +899,9 @@ The telephone numbers below have called and there is an empty person on the othe
 | <a href="tel:+17372362530">+1 (737) 236-2530</a> | TX. Austin | 2024-12-10 11:28 AM | #TaxFraud ¤¤ | |
 | <a href="tel:+17372362530">+1 (737) 236-2530</a> | TX. Austin | 2024-12-10 11:26 AM | #TaxFraud | |
 | <a href="tel:+16452192052">+1 (645) 219-2052</a> | FL. | 2024-12-09 03:58 PM | Potential Spam | |
+| <a href="tel:+16452192052">+1 (645) 219-2052</a> | FL. | 2024-12-09 10:58 PM | Potential Spam | |
 | <a href="tel:+18287102053">+1 (828) 710-2053</a> | NC. Asheville | 2024-12-09 03:39 PM | #TaxFraud | |
+| <a href="tel:+18287102053">+1 (828) 710-2053</a> | NC. Asheville | 2024-12-09 10:39 PM | #TaxFraud | |
 | <a href="tel:+13082756291">+1 (308) 275-6291</a> | NE. Gering | 2024-12-07 12:02 PM | — | |
 | <a href="tel:+12053009065">+1 (205) 300-9065</a> | AL. Jasper | 2024-12-04 04:57 PM | Potential Spam | |
 | <a href="tel:+18547586056">+1 (854) 758-6056</a> | SC. Florence | 2024-12-03 07:51 PM | — | |
