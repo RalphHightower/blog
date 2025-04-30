@@ -2,7 +2,7 @@
 layout: page
 tags: [assholes, Donald Trump, Elon Musk, Betsy DeVos, MAGA billionaires, billionaire, Trump donors, Republican PAC, Make America Great Again (MAGA)]
 categories: [Telephone Numbers]
-date: 2025-04-28 7:45 PM
+date: 2025-04-29 8:34 PM
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description: 
@@ -18,6 +18,14 @@ The telephone numbers below have called and there is an empty person on the othe
 
 | Telephone Number | Location | Date Time[^11] | Caller | Social Media |
 |---|---|---|---|---|
+| <a href="tel:+18035476812">+1 (803) 547-6812</a> | SC. Fort Mill | 2025-04-29 05:30 PM | Mae Evans | |
+| <a href="tel:+18037413593">+1 (803) 741-3593</a> | SC. Columbia | 2025-04-29 05:09 PM | | |
+| <a href="tel:+18035671734">+1 (803) 567-1734</a> | SC. Columbia | 2025-04-29 03:20 PM | Potential Spam | |
+| <a href="tel:+18037647869">+1 (803) 764-7869</a> | SC. Columbia | 2025-04-29 02:43 PM | Cutter Tacie | |
+| <a href="tel:+18038518473">+1 (803) 851-8473</a> | SC. Columbia | 2025-04-29 02:39 PM | Potential Spam | |
+| <a href="tel:+18036763671">+1 (803) 676-3671</a> | SC. Bamberg | 2025-04-29 10:02 AM | Potential Spam | |
+| <a href="tel:+18039349663">+1 (803) 934-9663</a> | SC. Sumter | 2025-04-29 09:37 AM | Thomas White | |
+| <a href="tel:+18039666784">+1 (803) 966-6784</a> | SC. Columbia | 2025-04-29 09:36 AM | #MedicareScam | |
 | <a href="tel:+18034502546">+1 (803) 450-2546</a> | SC. Barnwell | 2025-04-28 02:34 PM | | |
 | <a href="tel:+18035142241">+1 (803) 514-2241</a> | SC. Aiken | 2025-04-28 01:49 PM | | |
 | <a href="tel:+18039928105">+1 (803) 992-8105</a> | SC. Rock Hill | 2025-04-28 12:47 PM | Novant Health | |
