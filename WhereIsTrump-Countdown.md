@@ -35,9 +35,9 @@ DEBUG: days_total47 {{ days_total47 }}
 DEBUG: days_since {{ days_since }}
 DEBUG: days_remaining {{ days_remaining }}
 
-{% assign realsecs_total47 = secs_total47 * 1.0 %}
-{% assign realsecs_since = secs_since * 1.0 %}
-{% assign realsecs_remaining = secs_remaining * 1.0 %}
+{% assign realsecs_total47 = secs_total47 | times: 1.0 %}
+{% assign realsecs_since = secs_since | times: 1.0 %}
+{% assign realsecs_remaining = secs_remaining | times: 1.0 %}
 
 DEBUG: realsecs_total47 {{ realsecs_total47 }}
 DEBUG: realsecs_since {{ realsecs_since }}
@@ -49,9 +49,9 @@ DEBUG: realsecs_remaining {{ realsecs_remaining }}
 DEBUG: pctsecs_since {{ pctsecs_since }}
 DEBUG: pctsecs_remaining {{ pctsecs_remaining }}
 
-{% assign realdays_total47 = days_total47 * 1.0 %}
-{% assign realdays_since = days_since * 1.0 %}
-{% assign realdays_remaining = days_remaining * 1.0 %}
+{% assign realdays_total47 = days_total47 | times: 1.0 %}
+{% assign realdays_since = days_since | times: 1.0 %}
+{% assign realdays_remaining = days_remaining | times: 1.0 %}
 
 DEBUG: realdays_total47: {{ realdays_total47 }}
 DEBUG: realdays_since {{ realdays_since }}
@@ -71,7 +71,7 @@ Days since: {{ days_since }} Percent completed {{ pctdays_since }}
 
 [^2025]: @RalphHightower: I'm wishing that the time between January 20, 2025 and January 20, 2029 is a just a nightmare Holodeck[^2029] simulation. 
 
-[^2029]: [Begin Program: The Reality Of Building a Holodeck Today / Star Trek](https://www.startrek.com/news/begin-program-the-reality-of-building-a-holodeck-today)<br /> *How close is current technology to creating fully immersive photonic playgrounds?*<br />Star Trek: The Next Generation<br />Published May 18, 2021<br />By Becca Caddy
+[^2029]: [Begin Program: The Reality Of Building a Holodeck Today / Star Trek](https://www.startrek.com/news/begin-program-the-reality-of-building-a-holodeck-today)<br /> | times: How close is current technology to creating fully immersive photonic playgrounds?| times: <br />Star Trek: The Next Generation<br />Published May 18, 2021<br />By Becca Caddy
 
 Days remaining: {{ days_remaining }} Percent remaining:{{ pctdays_remaining }}
 
@@ -81,19 +81,19 @@ Days remaining: {{ days_remaining }} Percent remaining:{{ pctdays_remaining }}
 {% assign day = 'now' | date: '%A' %}
 Today is {{ day }}.
 {% case day %}
-  {% when "Friday", "Saturday", "Sunday" %}
+ {% when "Friday", "Saturday", "Sunday" %}
 ### He’s Burning 🔥 Taxpayer Money 💰 Playing Golf 🏌️‍♂️ at His Mar-a-Lago Resort ⛳️
 
 | Golfing ⛳️ |
 |---|
-| **[Mar-a-Lago](https://www.maralagoclub.com/)** |
+| | times: | times: [Mar-a-Lago](https://www.maralagoclub.com/)| times: | times: |
 | [The Mar-a-Lago Club](https://www.maralagoclub.com/) <br /> 1100 South Ocean Boulevard, <br /> Palm Beach, Florida 33480 <br /> <a href="tel+15618322600">+1 (561) 832-2600</a> |
-  {% else %}
+ {% else %}
 ### Trump Is Busy Burning Federal Government to the Ground
 
 | Burning 🔥 Federal Government |
 |---|
-| **[White House](https://www.whitehouse.gov)** |
+| | times: | times: [White House](https://www.whitehouse.gov)| times: | times: |
 | 1600 Pennsylvania Ave., NW <br /> Washington, DC 20500 <br /> <a href="tel:+12024561111">+1 (202) 456-1111</a> (comments) <br /> <a href="tel:+12024561414">+1 (202) 456-1414</a> (switchboard) |
 {% endcase %}
 
