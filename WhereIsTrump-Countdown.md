@@ -17,7 +17,7 @@ Current Date/Time: {{ timestamp }}
 
 {% assign today_noon = 'now' | date: '%Y-%m-%d 12:00 PM' | date: '%s' %}
 {% assign secs_inauguration2025 = '2025-01-19 12:00 PM' | date: '%s' %}
-{% assign secs_inauguration2029 = '2029-01-20 12:00 PM' | date: '%s' %}
+{% assign secs_inauguration2029 = '2029-01-21 12:00 PM' | date: '%s' %}
 
 {% assign secs_total47 = secs_inauguration2029 | minus: secs_inauguration2025 %}
 {% assign secs_since = today_noon | minus: secs_inauguration2025 %}
@@ -44,33 +44,6 @@ DEBUG: pctsecs_remaining: {{ pctsecs_remaining }}
 
 {% assign pctdays_since = realdays_since | divided_by: realdays_total47 | times: 100.0 | round | divided_by: 100.0 %}
 {% assign pctdays_remaining = realdays_remaining | divided_by: realdays_total47 | times: 100.0 | round | divided_by: 100.0 %}
-
-| Variable | Value |
-|---|--- |
-| secs_inauguration2029 | {{ secs_inauguration2029 }} |
-| today_noon | {{ today_noon }} | 
-| secs_inauguration2025 | {{ secs_inauguration2025 }} |
-| | | 
-| secs_total47 | {{ secs_total47 }} |
-| secs_since | {{ secs_since }} |
-| secs_remaining | {{ secs_remaining }} |
-| | |
-| days_total47 | {{ days_total47 }} |
-| days_since | {{ days_since }} |
-| days_remaining | {{ days_remaining }} |
-| | |
-| realsecs_total47 | {{ realsecs_total47 }} |
-| realsecs_since | {{ realsecs_since }} |
-| realsecs_remaining | {{ realsecs_remaining }} |
-| | |
-| realdays_total47 | {{ realdays_total47 }} |
-| realdays_since | {{ realdays_since }} |
-| realdays_remaining | {{ realdays_remaining }} |
-| | |
-| pctsecs_since | {{ pctsecs_since }} |
-| pctsecs_remaining | {{ pctsecs_remaining }} |
-| pctdays_since | {{ pctdays_since }} |
-| pctdays_remaining | {{ pctdays_remaining }} |
 
 ### Days of Hell
 
