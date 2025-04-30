@@ -45,6 +45,33 @@ DEBUG: pctsecs_remaining: {{ pctsecs_remaining }}
 {% assign pctdays_since = realdays_since | divided_by: realdays_total47 | times: 100.0 | round | divided_by: 100.0 %}
 {% assign pctdays_remaining = realdays_remaining | divided_by: realdays_total47 | times: 100.0 | round | divided_by: 100.0 %}
 
+| Variable | Value |
+|---|--- |
+| secs_inauguration2029 | {{ secs_inauguration2029 }} |
+| today_noon | {{ today_noon }} | 
+| secs_inauguration2025 | {{ secs_inauguration2025 }} |
+| | | 
+| secs_total47 | {{ secs_total47 }} |
+| secs_since | {{ secs_since }} |
+| secs_remaining | {{ secs_remaining }} |
+| | |
+| days_total47 | {{ days_total47 }} |
+| days_since | {{ days_since }} |
+| days_remaining | {{ days_remaining }} |
+| | |
+| realsecs_total47 | {{ realsecs_total47 }} |
+| realsecs_since | {{ realsecs_since }} |
+| realsecs_remaining | {{ realsecs_remaining }} |
+| | |
+| realdays_total47 | {{ realdays_total47 }} |
+| realdays_since | {{ realdays_since }} |
+| realdays_remaining | {{ realdays_remaining }} |
+| | |
+| pctsecs_since | {{ pctsecs_since }} |
+| pctsecs_remaining | {{ pctsecs_remaining }} |
+| pctdays_since | {{ pctdays_since }} |
+| pctdays_remaining | {{ pctdays_remaining }} |
+
 ### Days of Hell
 
 Days since: {{ days_since }} Percent completed: {{ pctdays_since }}
@@ -112,3 +139,30 @@ Logic: date '%Y' - 1 | modulus 4
 1. Inauguration Day (January 20, every 4 years following a presidential election)
 
 {% endcomment %}
+| Variable | Value |
+|---|--- |
+| secs_inauguration2029 | {{ secs_inauguration2029 }} |
+| today_noon | {{ today_noon }} | 
+| secs_inauguration2025 | {{ secs_inauguration2025 }} |
+| | | 
+| secs_total47 | {{ secs_total47 }} |
+| secs_since | {{ secs_since }} |
+| secs_remaining | {{ secs_remaining }} |
+| | |
+| days_total47 | {{ days_total47 }} |
+| days_since | {{ days_since }} |
+| days_remaining | {{ days_remaining }} |
+| | |
+| realsecs_total47 | {{ realsecs_total47 }} |
+| realsecs_since | {{ realsecs_since }} |
+| realsecs_remaining | {{ realsecs_remaining }} |
+| | |
+| realdays_total47 | {{ realdays_total47 }} |
+| realdays_since | {{ realdays_since }} |
+| realdays_remaining | {{ realdays_remaining }} |
+| | |
+| pctsecs_since | {{ pctsecs_since }} |
+| pctsecs_remaining | {{ pctsecs_remaining }} |
+| pctdays_since | {{ pctdays_since }} |
+| pctdays_remaining | {{ pctdays_remaining }} |
+
