@@ -16,36 +16,56 @@ Current Date/Time: {{ timestamp }}
 ## Days Count Up / Term Count Down 
 
 {% assign today_noon = 'now' | date: '%Y-%m-%d 12:00 PM' | date: '%s' %}
-{% assign inauguration2025 = '2025-01-20 12:00 PM' | date: '%s' | plus: 86400 %}
-{% assign inauguration2029 = '2029-01-20 12:00 PM' | date: '%s' %}
-{% assign total_secs47 = inauguration2029 | minus: inauguration2025 | times: 1.0 %}
-{% assign total_days47 = total_secs47 | divided_by: 86400 %}
+{% assign secs_inauguration2025 = '2025-01-20 12:00 PM' | date: '%s' | plus: 86400 %}
+{% assign secs_inauguration2029 = '2029-01-20 12:00 PM' | date: '%s' %}
 
-DEBUG: total_secs47: {{ total_secs47 }}
+{% assign secs_total47 = secs_inauguration2029 | minus: secs_inauguration2025 %}
+{% assign secs_since = today_noon | minus: secs_inauguration2025 %}
+{% assign secs_remaining = inauguration2029 | minus: today_noon %}
 
-{% assign seconds_since = today_noon | minus: inauguration2025 %}
-{% assign days_since = seconds_since | divided_by: 86400 %}
+DEBUG: secs_total47 {{ secs_total47 }}
+DEBUG: secs_since {{ secs_since }}
+DEBUG: secs_remaining {{ secs_remaining }}
 
-{% assign real_complete = seconds_since | time: 1.0 %}
-{% assign percent_complete = real_complete | divided_by: total_secs47 | times: 100.0 %}
-{% assign formatted_complete = percent_complete | times: 100.0 | round | divided_by: 100.0 %}
+{% assign days_total47 = secs_total47 | divided_by: 86400 %}
+{% assign days_since = secs_since | divided_by: 86400 %}
+{% assign days_remaining = secs_remaining | divided_by: 86400 %}
 
-DEBUG: real_complete: {{ real_complete }}
-DEBUG: percent_complete {{ percent_complete }}
+DEBUG: days_total47 {{ days_total47 }}
+DEBUG: days_since {{ days_since }}
+DEBUG: days_remaining {{ days_remaining }}
 
-{% assign seconds_remaining = inauguration2029 | minus: today_noon %}
-{% assign days_remaining = inauguration2029 | minus: today_noon | divided_by: 86400 %}
+{% assign realsecs_total47 = secs_total47 * 1.0 %}
+{% assign realsecs_since = secs_since * 1.0 %}
+{% assign realsecs_remaining = secs_remaining * 1.0 %}
 
-{% assign real_remaining = seconds_remaining | times: 1.0 %}
-{% assign percent_remaining = real_remaining | divided_by: total_secs47 | times: 100.0 %}
-{% assign formatted_remaining = percent_remaining | times: 100.9 | round | divided_by: 100.0 %}
+DEBUG: realsecs_total47 {{ realsecs_total47 }}
+DEBUG: realsecs_since {{ realsecs_since }}
+DEBUG: realsecs_remaining {{ realsecs_remaining }}
 
-DEBUG: real_remaining: {{ real_remaining }}
-DEBUG: percent_remaining: {{ percent_remaining }}
+{% assign pctsecs_since = realdays_since | divided_by: realsecs_total47 | times: 100.0 | round | divided_by: 100.0 %}
+{% assign pctsecs_remaining = realsecs_remaining | divided_by: realsecs_total47 | times: 100.0 | round | divided_by: 100.0 %}
+
+DEBUG: pctsecs_since {{ pctsecs_since }}
+DEBUG: pctsecs_remaining {{ pctsecs_remaining }}
+
+{% assign realdays_total47 = days_total47 * 1.0 %}
+{% assign realdays_since = days_since * 1.0 %}
+{% assign realdays_remaining = days_remaining * 1.0 %}
+
+DEBUG: realdays_total47: {{ realdays_total47 }}
+DEBUG: realdays_since {{ realdays_since }}
+DEBUG: realdays_remaining {{ realdays_remaining }}
+
+{% assign pctdays_since = realdays_since | divided_by: realdays_total47 | times: 100.0 | round | divided_by: 100.0 %}
+{% assign pctdays_remaining = realdays_remaining | divided_by: realdays_total47 | times: 100.0 | round | divided_by: 100.0 %}
+
+DEBUG: pctdays_since {{ pctdays_since }}
+DEBUG: pctdays_remaining {{ pctdays_remaining }}
 
 ### Days of Hell
 
-Days since: {{ days_since }} Percent completed {{ formatted_complete }}
+Days since: {{ days_since }} Percent completed {{ pctdays_since }}
 
 ### Computer, End Trump Presidency Simulation.[^2025]
 
@@ -53,7 +73,7 @@ Days since: {{ days_since }} Percent completed {{ formatted_complete }}
 
 [^2029]: [Begin Program: The Reality Of Building a Holodeck Today / Star Trek](https://www.startrek.com/news/begin-program-the-reality-of-building-a-holodeck-today)<br /> *How close is current technology to creating fully immersive photonic playgrounds?*<br />Star Trek: The Next Generation<br />Published May 18, 2021<br />By Becca Caddy
 
-Days remaining: {{ days_remaining }} Percent remaining:{{ formatted_remaining }}
+Days remaining: {{ days_remaining }} Percent remaining:{{ pctdays_remaining }}
 
 ## Where Is Trump?
 
