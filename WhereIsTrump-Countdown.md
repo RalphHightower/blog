@@ -19,6 +19,10 @@ Current Date/Time: {{ timestamp }}
 {% assign secs_inauguration2025 = '2025-01-19 12:00 PM' | date: '%s' %}
 {% assign secs_inauguration2029 = '2029-01-20 12:00 PM' | date: '%s' %}
 
+DEBUG: today_noon: {{ today_noon }}
+DEBUG: secs_inauguration2025: {{ secs_inauguration2025 }}
+DEBUG: secs_inauguration2029: {{ secs_inauguration2029 }}
+
 {% assign secs_total47 = secs_inauguration2029 | minus: secs_inauguration2025 %}
 {% assign secs_since = today_noon | minus: secs_inauguration2025 %}
 {% assign secs_remaining = inauguration2029 | minus: today_noon %}
