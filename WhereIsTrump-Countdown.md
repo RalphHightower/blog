@@ -19,6 +19,7 @@ Current Date/Time: {{ timestamp }}
 {% assign inauguration2025 = '2025-01-20 12:00 PM' | date: '%s' | plus: 86400 %}
 {% assign inauguration2029 = '2029-01-20 12:00 PM' | date: '%s' %}
 {% assign total_secs47 = inauguration2029 | minus: inauguration2025 | times: 1.0 %}
+{% assign total_days47 = total_secs47 | divided_by: 86400 %}
 
 DEBUG: total_secs47: {{ total_secs47 }}
 
@@ -88,7 +89,7 @@ Today is {{ day }}.
 - [JSON : Roll Call Factba.se - Donald J. Trump's Public Schedule](https://media-cdn.factba.se/rss/json/trump/calendar-full.json)
 
 {% comment %}
-
+1461 days
 Floating holidays (shift to Friday or Monday if on weekend):
 1. New Year's Day (January 1)
 2. Juneteenth National Independence Day (June 19)
