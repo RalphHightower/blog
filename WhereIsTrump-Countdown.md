@@ -17,7 +17,7 @@ Current Date/Time: {{ timestamp }}
 
 {% assign today_noon = 'now' | date: '%Y-%m-%d 12:00 PM' | date: '%s' %}
 {% assign today_noon = date: '2025-04-30 12:00 PM' | date: '%s' %}
-{% assign tz = today_noon | date: "%z" %}
+{% assign tz = today_noon | date: "%Z" %}
 {% assign hr_forward = 0 %}
 {% if tz contains "DT" %}
     hr_forward = 3600
