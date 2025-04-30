@@ -10,9 +10,9 @@ excerpt: ''
 title: "Blamshifter-In-Chief Donald Trump Blames Biden. It’s Your Economy Stupid!"
 ---
 
-- [Trump’s Trade Tariffs Tiff Puts Federal Reserve Chair Jerome Powell In a Kobayashi Maru Situation. But This Is NOT Situation!]({% link _posts/2025/04/2025-04-09-TrumpTariffsFedReserveKobayashiMaru.md %}). 2025-04-09. @RalphHightower
-- [How To Lose Friends And Piss Off The World 🌎: Trump’s Tariffs Continue Market Turmoil. Trumpcession On Target!]({% link _posts/2025/04/2025-04-04-20250404StockMarketClosingIndexes.md %}). 2025-04-04. @RalphHightower
-- [How To Lose Friends and Piss Off The World 🌎: Trump Tariffs Unleash Bears In World’s China Shops]({% link _posts/2025/04/2025-04-03-TrumpTariffsTankMarkets.md %})
+- [Trump’s Trade Tariffs Tiff Puts Federal Reserve Chair Jerome Powell In a Kobayashi Maru Situation. But This Is NOT Situation!]({% link _posts/2025/04/2025-04-09-TrumpTariffsFedReserveKobayashiMaru.md %}). <br />2025-04-09. @RalphHightower
+- [How To Lose Friends And Piss Off The World 🌎: Trump’s Tariffs Continue Market Turmoil. Trumpcession On Target!]({% link _posts/2025/04/2025-04-04-20250404StockMarketClosingIndexes.md %}). <br />2025-04-04. @RalphHightower
+- [How To Lose Friends and Piss Off The World 🌎: Trump Tariffs Unleash Bears In World’s China Shops]({% link _posts/2025/04/2025-04-03-TrumpTariffsTankMarkets.md %}). <br />2025-04-03. @RalphHightower
 - [The Arsonist Deserves No Credit For Putting Out Fires That He Started]({% link _posts/2025/02/2025-02-07-ArsonistsDeservesNoFireFightingCredit.md %}). <br />2025-02-07. @RalphHightower
 
 [Trump](https://www.donaldjtrump.com/), the [Blamshifter-In-Chief](https://www.whitehouse.gov/administration/donald-j-trump), blames his predecessor, [Joe Biden](https://bidenwhitehouse.archives.gov/), for the results of his own actions. 
