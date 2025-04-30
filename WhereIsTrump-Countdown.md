@@ -2,7 +2,7 @@
 layout: page
 tags: [Location Predictor, Count Down, Count Up]
 categories: [Donald Trump]
-date: 2025-04-29 11:45 PM
+date: 2025-04-30 8:20 AM
 #excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
@@ -19,39 +19,17 @@ Current Date/Time: {{ timestamp }}
 {% assign secs_inauguration2025 = '2025-01-19 12:00 PM' | date: '%s' %}
 {% assign secs_inauguration2029 = '2029-01-20 12:00 PM' | date: '%s' %}
 
-DEBUG: today_noon: {{ today_noon }}
-DEBUG: secs_inauguration2025: {{ secs_inauguration2025 }}
-DEBUG: secs_inauguration2029: {{ secs_inauguration2029 }}
-
 {% assign secs_total47 = secs_inauguration2029 | minus: secs_inauguration2025 %}
 {% assign secs_since = today_noon | minus: secs_inauguration2025 %}
 {% assign secs_remaining = inauguration2029 | minus: today_noon %}
-
-DEBUG: secs_total47: {{ secs_total47 }}
-
-DEBUG: secs_since: {{ secs_since }}
-
-DEBUG: secs_remaining: {{ secs_remaining }}
 
 {% assign days_total47 = secs_total47 | divided_by: 86400 %}
 {% assign days_since = secs_since | divided_by: 86400 %}
 {% assign days_remaining = secs_remaining | divided_by: 86400 %}
 
-DEBUG: days_total47: {{ days_total47 }}
-
-DEBUG: days_since: {{ days_since }}
-
-DEBUG: days_remaining: {{ days_remaining }}
-
 {% assign realsecs_total47 = secs_total47 | times: 1.0 %}
 {% assign realsecs_since = secs_since | times: 1.0 %}
 {% assign realsecs_remaining = secs_remaining | times: 1.0 %}
-
-DEBUG: realsecs_total47: {{ realsecs_total47 }}
-
-DEBUG: realsecs_since: {{ realsecs_since }}
-
-DEBUG: realsecs_remaining: {{ realsecs_remaining }}
 
 {% assign pctsecs_since = realdays_since | divided_by: realsecs_total47 | times: 100.0 | round | divided_by: 100.0 %}
 {% assign pctsecs_remaining = realsecs_remaining | divided_by: realsecs_total47 | times: 100.0 | round | divided_by: 100.0 %}
@@ -64,18 +42,35 @@ DEBUG: pctsecs_remaining: {{ pctsecs_remaining }}
 {% assign realdays_since = days_since | times: 1.0 %}
 {% assign realdays_remaining = days_remaining | times: 1.0 %}
 
-DEBUG: realdays_total47: {{ realdays_total47 }}
-
-DEBUG: realdays_since: {{ realdays_since }}
-
-DEBUG: realdays_remaining: {{ realdays_remaining }}
-
 {% assign pctdays_since = realdays_since | divided_by: realdays_total47 | times: 100.0 | round | divided_by: 100.0 %}
 {% assign pctdays_remaining = realdays_remaining | divided_by: realdays_total47 | times: 100.0 | round | divided_by: 100.0 %}
 
-DEBUG: pctdays_since: {{ pctdays_since }}
-
-DEBUG: pctdays_remaining: {{ pctdays_remaining }}
+| Variable | Value |
+|---|--- |
+| secs_inauguration2029 | {{ secs_inauguration2029 }} |
+| today_noon | {{ today_noon }} | 
+| secs_inauguration2025 | {{ secs_inauguration2025 }} |
+| | | 
+| secs_total47 | {{ secs_total47 }} |
+| secs_since | {{ secs_since }} |
+| secs_remaining | {{ secs_remaining }} |
+| | |
+| days_total47 | {{ days_total47 }} |
+| days_since | {{ days_since }} |
+| days_remaining | {{ days_remaining }} |
+| | |
+| realsecs_total47 | {{ realsecs_total47 }} |
+| realsecs_since | {{ realsecs_since }} |
+| realsecs_remaining | {{ realsecs_remaining }} |
+| | |
+| realdays_total47 | {{ realdays_total47 }} |
+| realdays_since | {{ realdays_since }} |
+| realdays_remaining | {{ realdays_remaining }} |
+| | |
+| pctsecs_since | {{ pctsecs_since }} |
+| pctsecs_remaining | {{ pctsecs_remaining }} |
+| pctdays_since | {{ pctdays_since }} |
+| pctdays_remaining | {{ pctdays_remaining }} |
 
 ### Days of Hell
 
