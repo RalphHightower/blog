@@ -18,16 +18,6 @@ Current Date/Time: {{ timestamp }}
 {% assign today_noon = 'now' | date: '%Y-%m-%d 12:00 PM' | date: '%s' %}
 {% assign today_noon = date: '2025-03-31 12:00 PM' | date: '%s' %}
 
-{% assign tz = today_noon | date: "%Z" %}
-tz: {{ tz }}
-
-{% assign hr_forward = 0 %}
-{% if tz contains "DT" %}
-    hr_forward = 3600
-{% endif %}
-
-hr_forward {{ hr_forward }}
-
 {% assign secs_inauguration2025 = '2025-01-19 12:00 PM' | date: '%s' %}
 {% assign secs_inauguration2029 = '2029-01-21 12:00 PM' | date: '%s' %}
 
@@ -144,3 +134,13 @@ Logic: date '%Y' - 1 | modulus 4
 | pctsecs_remaining | {{ pctsecs_remaining }} |
 | pctdays_since | {{ pctdays_since }} |
 | pctdays_remaining | {{ pctdays_remaining }} |
+
+{% assign tz = today_noon | date: "%Z" %}
+tz: {{ tz }}
+
+{% assign hr_forward = 0 %}
+{% if tz contains "DT" %}
+    hr_forward = 3600
+{% endif %}
+
+hr_forward {{ hr_forward }}
