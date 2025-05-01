@@ -136,3 +136,10 @@ Logic: date '%Y' - 1 | modulus 4
 
 {% assign tz_noon = today_noon | date: "%Z" %}
 tz_noon: {{ tz_noon }}
+
+{% assign hr_forward = 0 %}
+{% if tz_noon contains "DT" %}
+    {% assign hr_forward = 3600 %}
+{% endif %}
+hr_forward: {{ hr_forward }}
+
