@@ -16,8 +16,7 @@ Current Date/Time: {{ timestamp }}
 ## Days Count Up / Term Count Down 
 
 {% assign today_noon = 'now' | date: '%Y-%m-%d 12:00 PM' | date: '%s' %}
-{% assign today_noon = date: '2025-03-31 12:00 PM' | date: '%s' %}
-
+{% assign today_noon = 'now' | date: '2025-03-31 12:00 PM' | date: '%s' %}
 {% assign secs_inauguration2025 = '2025-01-19 12:00 PM' | date: '%s' %}
 {% assign secs_inauguration2029 = '2029-01-21 12:00 PM' | date: '%s' %}
 
@@ -64,14 +63,14 @@ Today is: {{ day }}.
 
 | Golfing ⛳️ |
 |---|
-| [Mar-a-Lago](https://www.maralagoclub.com/) |
+| **[Mar-a-Lago](https://www.maralagoclub.com/)** |
 | [The Mar-a-Lago Club](https://www.maralagoclub.com/) <br /> 1100 South Ocean Boulevard, <br /> Palm Beach, Florida 33480 <br /> <a href="tel+15618322600">+1 (561) 832-2600</a> |
     {% else %}
 ### Trump Is Busy Burning Federal Government to the Ground
 
 | Burning 🔥 Federal Government |
 |---|
-| [White House](https://www.whitehouse.gov) |
+| **[White House](https://www.whitehouse.gov)** |
 | 1600 Pennsylvania Ave., NW <br /> Washington, DC 20500 <br /> <a href="tel:+12024561111">+1 (202) 456-1111</a> (comments) <br /> <a href="tel:+12024561414">+1 (202) 456-1414</a> (switchboard) |
 {% endcase %}
 
@@ -134,13 +133,3 @@ Logic: date '%Y' - 1 | modulus 4
 | pctsecs_remaining | {{ pctsecs_remaining }} |
 | pctdays_since | {{ pctdays_since }} |
 | pctdays_remaining | {{ pctdays_remaining }} |
-
-{% assign tz = today_noon | date: "%Z" %}
-tz: {{ tz }}
-
-{% assign hr_forward = 0 %}
-{% if tz contains "DT" %}
-    hr_forward = 3600
-{% endif %}
-
-hr_forward {{ hr_forward }}
