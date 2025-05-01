@@ -134,5 +134,5 @@ Logic: date '%Y' - 1 | modulus 4
 | pctdays_since | {{ pctdays_since }} |
 | pctdays_remaining | {{ pctdays_remaining }} |
 
-{% assign tz_noon = today_noon | date "%Z" %}
+{% assign tz_noon = today_noon | date: "%Z" %}
 tz_noon: {{ tz_noon }}
