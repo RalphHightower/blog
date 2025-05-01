@@ -16,15 +16,18 @@ Current Date/Time: {{ timestamp }}
 ## Days Count Up / Term Count Down 
 
 {% assign today_noon = 'now' | date: '%Y-%m-%d 12:00 PM' | date: '%s' %}
-{% assign today_noon = date: '2025-04-30 12:00 PM' | date: '%s' %}
+{% assign today_noon = date: '2025-03-31 12:00 PM' | date: '%s' %}
 
 {% assign tz = today_noon | date: "%Z" %}
 tz: {{ tz }}
+
 {% assign hr_forward = 0 %}
 {% if tz contains "DT" %}
     hr_forward = 3600
 {% endif %}
-hr_forward {{ hr_forward }}
+
+hr_forward: {{ hr_forward }}
+
 {% assign dst_noon = today_noon | plus: hr_forward %}
 dst_noon: {{ dst_noon }}
 
