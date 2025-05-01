@@ -63,14 +63,14 @@ Today is: {{ day }}.
 
 | Golfing ⛳️ |
 |---|
-| | times: | times: [Mar-a-Lago](https://www.maralagoclub.com/)| times: | times: |
+| **[Mar-a-Lago](https://www.maralagoclub.com/)** |
 | [The Mar-a-Lago Club](https://www.maralagoclub.com/) <br /> 1100 South Ocean Boulevard, <br /> Palm Beach, Florida 33480 <br /> <a href="tel+15618322600">+1 (561) 832-2600</a> |
     {% else %}
 ### Trump Is Busy Burning Federal Government to the Ground
 
 | Burning 🔥 Federal Government |
 |---|
-| | times: | times: [White House](https://www.whitehouse.gov)| times: | times: |
+| **[White House](https://www.whitehouse.gov)** |
 | 1600 Pennsylvania Ave., NW <br /> Washington, DC 20500 <br /> <a href="tel:+12024561111">+1 (202) 456-1111</a> (comments) <br /> <a href="tel:+12024561414">+1 (202) 456-1414</a> (switchboard) |
 {% endcase %}
 
