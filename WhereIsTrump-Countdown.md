@@ -17,20 +17,17 @@ Current Date/Time: {{ timestamp }}
 
 {% assign today_noon = 'now' | date: '%Y-%m-%d 12:00 PM' | date: '%s' %}
 {% assign today_noon = date: '2025-04-30 12:00 PM' | date: '%s' %}
+
 {% assign tz = today_noon | date: "%Z" %}
 tz: {{ tz }}
 {% assign hr_forward = 0 %}
 {% if tz contains "DT" %}
     hr_forward = 3600
 {% endif %}
-
 hr_forward {{ hr_forward }}
+{% assign dst_noon = today_noon | plus: hr_forward %}
+dst_noon: {{ dst_noon }}
 
-{% assign hr_noon = today_noon | plus: hr_forward %}
-
-hr_noon: {{ hr_noon }}
-
-{% assign today_noon = hr_noon %}
 {% assign secs_inauguration2025 = '2025-01-19 12:00 PM' | date: '%s' %}
 {% assign secs_inauguration2029 = '2029-01-21 12:00 PM' | date: '%s' %}
 
