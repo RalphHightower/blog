@@ -22,6 +22,8 @@ Various news media has reported that today was the worst stock market drop since
 
 - [Trump Tariffs Hit Antarctic Islands Inhabited by Zero Humans and Many Penguins / WIRED](https://www.wired.com/story/trump-tariffs-antarctic-islands-heard-mcdonald/)<br /><br />Caroline Haskins Leah Feiger<br />Business Apr 2, 2025 7:39 PM<br /><br /><br /> *The Heard and McDonald Islands are among the dozens of targets of President Donald Trump's latest round of tariffs. But they have no exports, because no one lives there.*
 
+- [2025-04-04: How To Lose Friends And Piss Off The World 🌎: Trump’s Tariffs Continue Market Turmoil. Trumpcession On Target!]({% link _posts/2025/04/2025-04-04-20250404StockMarketClosingIndexes.md %})
+
 ## Stock Market Closing Indexes After Trump’s Tariffs Tank World’s Stock Markets 
  
 ### [Stock Market Indexes - Google Finance](https://www.google.com/finance/markets/indexes/)
