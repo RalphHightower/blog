@@ -114,6 +114,7 @@ Fixed (fixed day of week):
 Static (remains fixed on date no matter what):
 Logic: date '%Y' - 1 | modulus 4
 1. Inauguration Day (January 20, every 4 years following a presidential election)
+{% endcomment %}
 
 tz_noon: {{ tz_noon }}
 hr_forward: {{ hr_forward }}
@@ -144,5 +145,3 @@ hr_forward: {{ hr_forward }}
 | pctsecs_remaining | {{ pctsecs_remaining }} |
 | pctdays_since | {{ pctdays_since }} |
 | pctdays_remaining | {{ pctdays_remaining }} |
-
-{% endcomment %}
