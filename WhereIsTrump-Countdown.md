@@ -16,11 +16,11 @@ Current Date/Time: {{ timestamp }}
 ## Days Count Up / Term Count Down 
 
 {% assign today_noon = 'now' | date: '%Y-%m-%d 12:00 PM' | date: '%s' %}
+{% assign today_noon = 'now' | date: '2025-03-31 12:00 PM' | date: '%s' %}
 {% assign secs_inauguration2025 = '2025-01-19 12:00 PM' | date: '%s' %}
 {% assign secs_inauguration2029 = '2029-01-21 12:00 PM' | date: '%s' %}
 
 {% assign tz_noon = today_noon | date: "%Z" %}
-tz_noon: {{ tz_noon }}
 
 {% assign hr_forward = 0 %}
 {% if tz_noon contains "DT" %}
@@ -28,7 +28,6 @@ tz_noon: {{ tz_noon }}
     {% assign secs_forward = today_noon | plus: hr_forward %}
     {% assign today_noon = secs_forward %}
 {% endif %}
-hr_forward: {{ hr_forward }}
 
 {% assign secs_total47 = secs_inauguration2029 | minus: secs_inauguration2025 %}
 {% assign secs_since = today_noon | minus: secs_inauguration2025 %}
@@ -116,7 +115,9 @@ Static (remains fixed on date no matter what):
 Logic: date '%Y' - 1 | modulus 4
 1. Inauguration Day (January 20, every 4 years following a presidential election)
 
-{% endcomment %}
+tz_noon: {{ tz_noon }}
+hr_forward: {{ hr_forward }}
+
 | Variable | Value |
 |---|---:|
 | secs_inauguration2025 | {{ secs_inauguration2025 }} |
@@ -144,3 +145,4 @@ Logic: date '%Y' - 1 | modulus 4
 | pctdays_since | {{ pctdays_since }} |
 | pctdays_remaining | {{ pctdays_remaining }} |
 
+{% endcomment %}
