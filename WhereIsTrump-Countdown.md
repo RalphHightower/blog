@@ -16,7 +16,6 @@ Current Date/Time: {{ timestamp }}
 ## Days Count Up / Term Count Down 
 
 {% assign today_noon = 'now' | date: '%Y-%m-%d 12:00 PM' | date: '%s' %}
-{% assign today_noon = 'now' | date: '2025-03-31 12:00 PM' | date: '%s' %}
 {% assign secs_inauguration2025 = '2025-01-19 12:00 PM' | date: '%s' %}
 {% assign secs_inauguration2029 = '2029-01-21 12:00 PM' | date: '%s' %}
 
@@ -116,8 +115,11 @@ Logic: date '%Y' - 1 | modulus 4
 1. Inauguration Day (January 20, every 4 years following a presidential election)
 {% endcomment %}
 
+{% assign fmt_noon = today_noon | date: "%F %r%z %Z" %}
+fmt_noon: {{ fmt_noon }}
 tz_noon: {{ tz_noon }}
 hr_forward: {{ hr_forward }}
+
 
 | Variable | Value |
 |---|---:|
