@@ -15,6 +15,8 @@ After tanking the markets, [Trump](https://www.donaldjtrump.com/) goes golfing �
 
 - @RalphHightower 
     - ["How To Lose Friends and Piss Off The World 🌎: Trump Tariffs Unleash Bears In World’s China Shops"]({% link _posts/2025/04/2025-04-03-TrumpTariffsTankMarkets.md %}). April 3, 2025 
+    - [2025-04-07: Trump’s Tariff Trade Tiff. Fucking Stupid Plunging 🌎 Into Chaos, Harming Americans, Businesses, & Allies]({% link _posts/2025/04/2025-04-07-20250407ClosingIndexes.md %})
+
 - [AP News](https"//www.apnews.com/)
     - [Congress could halt Trump's tariffs, but Republicans aren't ready to act / AP News](https://apnews.com/article/trump-tariffs-republicans-senate-house-2409e9ff50290edac738ad6e4e8e78b9). By  STEPHEN GROVES. Updated 3:27 PM EDT, April 4, 2025
 - [Wall Street Journal](https://www.wsj.com)
