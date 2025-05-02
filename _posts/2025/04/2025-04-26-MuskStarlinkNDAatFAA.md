@@ -130,4 +130,4 @@ Indeed, few senior administration officials and others close to [Trump](https://
 - [Trump Administration (47)](https://www.whitehouse.gov/administration/)
 - [President of the United States (POTUS)](https://www.whitehouse.gov/)
 - [White House (WH)](https://www.whitehouse.gov/)
-- politics
+- politics 

@@ -7,14 +7,14 @@ date: 2025-04-30 7:07 PM
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: 'Tesla’s GPS Is Broke And The Law Of Gravity Ain’t Helping It’s Downhill Financials"
+title: "Tesla’s GPS Is Broke And The Law Of Gravity Ain’t Helping It’s Downhill Financials"
 ---
 
 ## [Experts sound alarm on Elon Musk's misguided Tesla plan](https://www.thestreet.com/technology/experts-sound-alarm-on-elon-musks-misguided-tesla-plan-)
 
 Story by Samuel O'Brient • April 26, 2025
 
-[Tesla](https://www.tesla.com/) (TSLA)  has been facing an increasing number of challenges since 2025 began. Between the ongoing threat posed by the trade war and the anti-brand sentiment sparked by [Elon Musk](https://ir.tesla.com/corporate/elon-musk)’s political affiliations, it has proven increasingly difficult for TSLA stock to garner sustainable momentum.
+[Tesla](https://www.tesla.com/) (TSLA) has been facing an increasing number of challenges since 2025 began. Between the ongoing threat posed by the trade war and the anti-brand sentiment sparked by [Elon Musk](https://ir.tesla.com/corporate/elon-musk)’s political affiliations, it has proven increasingly difficult for TSLA stock to garner sustainable momentum.
 
 On April 22, [Tesla](https://www.tesla.com/) reported Q1 earnings as both investors and consumers tuned in early to learn about [Musk](https://ir.tesla.com/corporate/elon-musk)’s plans for the company’s future. The decision to focus on his Capitol Hill responsibilities rather than his companies has generated concern among even bullish analysts.
 
