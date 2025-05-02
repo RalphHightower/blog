@@ -145,7 +145,9 @@ Ralph  Hightower
 
 I received a response from Tim Scott. 
 
-I did not mention transnational criminal organizations, MS-13, nor Tren de Aragua (TdA). Fentanyl was not mentioned. 
+If your staffer had bothered to read my email, they would have noticed that I did not mention transnational criminal organizations, MS-13, nor Tren de Aragua (TdA). Fentanyl was not mentioned. The canned reply was irrelevant to any of my concerns. As Homer Simpson would say, *"D'Oh!"*
+
+My concern is the destruction of America by the lawless President Trump and the isolation of America on the world’s stage. I closed with an excerpt from Canada's new Prime Minister, Mark Carney, that Canada recognizes that America is no longer a friend and ally.
 
 - Ignoring the First Amendment Protecting Freedom of Speech and the Press
 - Banning Law Firms From Federal Buildings, Contracts, Revoking Security Clearances
@@ -155,7 +157,8 @@ I did not mention transnational criminal organizations, MS-13, nor Tren de Aragu
 - Attacking Universities
 - Signalgate
 
-As Homer Simpson would say, *"D'Oh!"*
+I don't know if you know of a Michael Steele, but he's a black guy who chaired the Republican National Party (as it was known then) from January 30, 2009 – January 14, 2011. He's now a host on MSNBC. He's still a Republican, although I consider the incarnation of that political defunct; it is now the Trump Party. He is also concerned about the lawlessness of Trump. 
+
 
 ### Tim Scott's Email Response
 
