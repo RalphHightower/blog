@@ -7,7 +7,7 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: "The ‘Big Law’ Firms That Bowed to Trump and Kissed 💋 His Ring 💍 Lost Clients"
+title: "The ‘Big Law’ Firms That Bowed to Trump and Kissed 💋 His Ring 💍 Lose Clients"
 ---
 
 ## [Microsoft drops a law firm that appeased Trump, hires firm that’s fighting Trump](https://www.msnbc.com/rachel-maddow-show/maddowblog/microsoft-drops-law-firm-appeased-trump-hires-firm-s-fighting-trump-rcna204152)
@@ -46,7 +46,7 @@ In case this isn’t obvious, the underlying point of these efforts isn’t to c
 - [MSNBC](https://www.msnbc.com/)
 - [NBC News](https://www.nbcnews.com/)
 - [New York Times (NYT)](https://www.nytimes.com/)
-- [Demand Justice](https://demandjustice.org/)
+- [Demand Justice - Our courts should serve everyone.](https://demandjustice.org/)
 - [A&O Shearman, global law firm](https://www.aoshearman.com/)
 - [Cadwalader, Wickersham & Taft LLP Putting more than 230 years of legal experience and innovation to work today.](https://www.cadwalader.com/)
 - [Cooley LLP](https://www.cooley.com/)
