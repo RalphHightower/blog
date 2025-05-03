@@ -2,7 +2,7 @@
 layout: page
 tags: [assholes, Donald Trump, Elon Musk, Betsy DeVos, MAGA billionaires, billionaire, Trump donors, Republican PAC, Make America Great Again (MAGA)]
 categories: [Telephone Numbers]
-date: 2025-05-01 7:55 PM
+date: 2025-05-02 9:30 PM
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description: 
@@ -18,6 +18,11 @@ The telephone numbers below have called and there is an empty person on the othe
 
 | Telephone Number | Location | Date Time[^11] | Caller | Social Media |
 |---|---|---|---|---|
+| <a href="tel:+18036617159">+1 (803) 661-7159</a> | SC. Columbia | 2025-05-02 06:18 PM | Potential Spam | |
+| <a href="tel:+18034900533">+1 (803) 490-0533</a> | SC. | 2025-05-02 05:31 PM | Dee Johnson | |
+| <a href="tel:+18035810587">+1 (803) 581-0587</a> | SC. Chester | 2025-05-02 04:22 PM | Cox Veterinary | |
+| <a href="tel:+18032838787">+1 (803) 283-8787</a> | SC. Lancaster | 2025-05-02 01:34 PM | Paul Hilton | |
+| <a href="tel:+18036261620">+1 (803) 626-1620</a> | SC. | 2025-05-02 01:10 PM | Potential Spam | |
 | <a href="tel:+18036278602">+1 (803) 627-8602</a> | SC. | 2025-05-01 06:06 PM | — | |
 | <a href="tel:+18036744684">+1 (803) 674-4684</a> | SC. Batesburg | 2025-05-01 05:57 PM | — | |
 | <a href="tel:+18034490077">+1 (803) 449-0077</a> | SC. Gilbert | 2025-05-01 05:54 PM | Stewart, Dinah | |
