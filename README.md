@@ -6,7 +6,7 @@ layout: base
 
 [^110]: I am one of the *“enemy within”*.
 
-## Briefly 
+## Briefly
 
 ### Synopsis
 
@@ -22,7 +22,7 @@ Surviving “The Apprentice: White House – Wrecking Ball”. Trump 2.0 is abou
 
 Hold Trump’s feet to the fire on his campaign promises. He promised to lower grocery prices, gas prices, car/truck prices, inflation, housing prices. Grade him on appliances prices, budget deficit, car and truck prices, consumer goods, economy, energy, groceries, housing prices, inflation, interest rate, stock market, trade deficit, unemployment.
 
-### Contributing 
+### Contributing
 
 This is my blog with an extremely anti-Trump bias. If you agree that Trump is going to destroy America and Democracy, I'll consider your contribution. I'll probably have to make administration changes to accept multiple authors.
 
@@ -49,9 +49,9 @@ This blog is built on [Jekyll](https://www.jekyllrb.com/); the source code is av
 
 Issues can be created at [Issues · RalphHightower/blog](https://github.com/RalphHightower/blog/issues).
 
-### License 
+### License
 
-### Security 
+### Security
 
 If a security issue is found, I can be notified by one of the following methods:
 
@@ -75,7 +75,7 @@ If a security issue is found, I can be notified by one of the following methods:
 |---|--:|---:|---:|
 | Biden (D) | 81,283,501 | 51.31% | 306 |
 | Trump (T) | 74,223,975 | 46.85% | 232 |
-| (Difference) | 7,059,526.00 | 4.46% | 74 |
+| (Difference) | 7,059,526 | 4.46% | 74 |
 
 *Maine appoints its electors proportionally. Biden-Harris won in the First Congressional District and took the state; Trump-Pence won the Second Congressional District. Maine's electoral votes were proportionally awarded accordingly: for President, Biden 3 and Trump 1; for Vice President, Harris 3 and Pence 1.
 **Nebraska appoints its electors proportionally. Trump-Pence won in the First and Third Congressional Districts and took the state; Biden-Harris won the Second Congressional District. Nebraska's electoral votes were proportionally awarded accordingly: for President, Trump 4 and Biden 1; for Vice President, Pence 4 and Harris 1.
@@ -120,14 +120,14 @@ Trump's actions following the 2020 election should have disqualified him from ev
 
 During Trump's presidential campaigns in 2015 (primary), 2016 campaign and his presidency from January 20, 2017 through January 6, 2020's provoked Insurrection, I assessed these critical character flaws of Donald Trump.
 
-1. Pathological lying
+1. Pathological lyin
 2. Demagog[^120]
 3. Hypocrisy[^130]
 4. Immaturity[^140]
 5. Temper[^150]
 6. Narcissism[^160]
 7. Pigheadedness[^170]
-8. Grifter
+8. Grifte
 9. Obsessive-Compulsive Personality[^190]
 10. Strong-Arm Dictator Wannabe[^1000]
 11. Cheat[^1100]
@@ -171,7 +171,7 @@ Apparently, stewing in his own venom and demons after losing the 2020 election h
 - Quit your whining, *"It's not fair"* Grow up and be an adult!
 - Accept the fact that the president lives under a **microscope.** You will be praised by some and condemned others for your actions or inactions.
 
-[^610]: [gaslighting – Merriam-Webster](http://www.merriam-webster.com/dictionary/gaslighting): noun<br /gas·​light·​ing \| \ gas-lī-tiŋ , -lī- \<br />Definition (Entry 1 of 2)<br />1: psychological manipulation of a person usually over an extended period of time that causes the victim to question the validity of their own thoughts, perception of reality, or memories and typically leads to confusion, loss of confidence and self-esteem, uncertainty of one's emotional or mental stability, and a dependency on the perpetrator<br />//Gaslighting can be a very effective tool for the abuser to control an individual. It's done slowly so the victim writes off the event as a one off or oddity and doesn't realize they are being controlled and manipulated.<br />— Melissa Spino<br />//Gaslighting can happen in any relationship circumstance, including between friends and family members—not just in couple relationships.<br />— Deena Bouknight<br />//This is a classic gaslighting technique—telling victims that others are crazy and lying, and that the gaslighter is the only source for "true" information. It makes victims question their reality …<br />— Stephanie Sarkis<br />2: the act or practice of grossly misleading someone especially for one's own advantage<br />//Election season can create emotions spanning from immense anxiety all the way to extreme apathy. The public arguing, divisiveness, and competition for votes, including political gaslighting, can be overwhelming and exhausting.<br />— Vernita Perkins and Leonard A. Jason<br />//As the midterm elections approach, Americans have gotten an earful both about crime itself and how the other side is distorting the news about it for political gain. “Cherry-picking!” “Fearmongering!” “Gaslighting!”<br />— Chris Herrmann and Fritz Umbach<br />//Intense gaslighting techniques are making it difficult for Montana's commoners to discern what's truth and what's propaganda.<br />— Steve Kelly<br />//This corporate gaslighting effectively blames children for being addicted to social media and conveniently ignores how companies have intentionally designed their products to have addictive features …<br />— Nancy Kim
+[^610]: [gaslighting – Merriam-Webster](http://www.merriam-webster.com/dictionary/gaslighting): noun<br /gas·​light·​ing \| \ gas-lī-tiŋ , -lī- \<br />Definition (Entry 1 of 2)<br />1: psychological manipulation of a person usually over an extended period of time that causes the victim to question the validity of their own thoughts, perception of reality, or memories and typically leads to confusion, loss of confidence and self-esteem, uncertainty of one's emotional or mental stability, and a dependency on the perpetrator<br />//Gaslighting can be a very effective tool for the abuser to control an individual. It's done slowly so the victim writes off the event as a one off or oddity and doesn't realize they are being controlled and manipulated.<br />— Melissa Spino<br />//Gaslighting can happen in any relationship circumstance, including between friends and family members—not just in couple relationships.<br />— Deena Bouknight<br />//This is a classic gaslighting technique—telling victims that others are crazy and lying, and that the gaslighter is the only source for "true" information. It makes victims question their reality …<br />— Stephanie Sarkis<br />2: the act or practice of grossly misleading someone especially for one's own advantage<br />//Election season can create emotions spanning from immense anxiety all the way to extreme apathy. The public arguing, divisiveness, and competition for votes, including political gaslighting, can be overwhelming and exhausting.<br />— Vernita Perkins and Leonard A. Jason<br />//As the midterm elections approach, Americans have gotten an earful both about crime itself and how the other side is distorting the news about it for political gain. “Cherry-picking!” “Fearmongering!” “Gaslighting!”<br />— Chris Herrmann and Fritz Umbach<br />//Intense gaslighting techniques are making it difficult for Montana's commoners to discern what's truth and what's propaganda.<br />— Steve Kelly<br />//This corporate gaslighting effectively blames children for being addicted to social media and conveniently ignores how companies have intentionally designed their products to have addictive features …<br />— Nancy Ki
 
 Trump keeps boasting that he is a highly intelligent person. As Brad Pitt said in the movie, Moneyball, "Show me the money!". In Trump’s case, I say **"Show me your Mensa test score!"**. If you're short on cash[^620], I'll even pay the $99 for you to [take the Mensa Admission Test](https://www.us.mensa.org/join/testing/).
 
@@ -190,7 +190,7 @@ There are two court cases that have not yet convened and must be decided because
 
 **Damn!** How the hell did Trump win?! Although the federal case will be winding down since the [DOJ](https://www.justice.gov/) has some regulation that sitting presidents cannot be tried.
 
-#### Donald Trump Is Guilty For Attempting To Overturn An Election And Instigating The January 6, 2021 Insurrection
+#### Donald Trump Is Guilty For Attempting To Overturn An Election And Instigating The January 6, 2021 Insurrection 
 
 ### Third Rate Game Show Host
 
@@ -198,7 +198,7 @@ I thought that it was a publicity when Trump announced that he was running for p
 
 "The Apprentice: White House" ended a tumultuous four year season ingloriously in January 2020, in an extraordinary low point in American history when thousands of far-right undesirables, Pride Boys, Zero Percenters and Oath Losers, lay siege on the US Capitol in a vain attempt of insurrection to overthrow a fair election.
 
-## Supreme Court Justice Clarence Thomas
+## Supreme Court Justice Clarence Thomas 
 
 I also think that [Supreme Court Justice Clarence Thomas should be impeached](https://ralphhightower.github.io/RalphHightower/Opinions/ImpeachSCOTUSJusticeClarenceThomas.html) because he is ethically financial challenged.
 
@@ -228,7 +228,7 @@ I have more information on my website: [Ralph Hightower — Website](https://ral
 
 ### Where I Can Be Found
 
-| Content | Website
+| Content | Websit
 |---------|---------|
 | CodeProject | [RalphHightower](https://www.codeproject.com/Members/RalphHightower) |
 | Facebook | [RalphHightower](https://www.facebook.com/ralph.hightower/) (I spend more time on LinkedIn than I do on Facebook.) |
@@ -253,7 +253,7 @@ I have more information on my website: [Ralph Hightower — Website](https://ral
 |---|---|
 | [RalphHightower](https://ralphhightower.github.io/RalphHightower/) GitHub Repositories | Primary Website |
 | [Azure-Resources](https://ralphhightower.github.io/Azure-Resources/ ) | Useful Documents for Azure |
-| [GM-Canada-OnStar-2G-Sunset](https://ralphhightower.github.io/GM-Canada-OnStar-2G-Sunset/ ) | Canada sunsetted cellular CDMA 2G technology in 2015. GM Canada figured out how to retain OnStar functionality in affected vehicles without using a dongle like GM USA. Documents from (US)[^31] National Highway Transportation Safety Administration (NHTSA) nhtsa\.gov](https://www.nhtsa.gov). |
+| [GM-Canada-OnStar-2G-Sunset](https://ralphhightower.github.io/GM-Canada-OnStar-2G-Sunset/ ) | Canada sunsetted cellular CDMA 2G technology in 2015. GM Canada figured out how to retain OnStar functionality in affected vehicles without using a dongle like GM USA. Documents from (US)[^31] [National Highway Transportation Safety Administration (NHTSA) nhtsa\.gov](https://www.nhtsa.gov). |
 | [Sushi](https://ralphhightower.github.io/Sushi/ ) | Right now, it's a place for checklists for checking off sushi menu items in the Columbia, South Carolina metro area (Richland and Lexington counties)[^33]. |
 | [SpaceShuttleMissionSchedule](https://ralphhightower.github.io/SpaceShuttleMissionSchedule/ )[^32] | NASA Space Shuttle Mission Schedule Transfer to Outlook Calendar|
 | [RalphHightower/minimaUSCGamecockSandstorm](https://ralphhightower.github.io/minimaUSCGamecockSandstorm/USCGamecocksSandstorm.html) | USC Gamecock Sandstorm theme derived from [jekyll](https://github.com/jekyll/jekyll ) / [minimaa](https://github.com/jekyll/minima), a one-size-fits-all Jekyll theme for USC Gamecock writers. **[Production Ready]** |
@@ -278,11 +278,9 @@ I have more information on my website: [Ralph Hightower — Website](https://ral
 
 [![OpenSSF Best Practices](https://www.bestpractices.dev/projects/9780/badge)](https://www.bestpractices.dev/projects/9780)
 
-
-
 | |
 |:---|
-| ![Ralph Hightower Repository’s Stats](https://github-readme-stats.vercel.app/api?username=RalphHightower&show_icons=true&title_color=73000a&text_color=73000a&border_color=73000a&icon_color=73000a&bg_color=ffffff&include_all_commits=false&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)|
+| ![Ralph Hightower Repository’s Stats](https://github-readme-stats.vercel.app/api?username=RalphHightower&show_icons=true&title_color=73000a&text_color=73000a&border_color=73000a&icon_color=73000a&bg_color=ffffff&include_all_commits=false&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage) |
 | ![GitHub Streak](https://streak-stats.vercel.app?user=RalphHightower&date_format=Y-m-d&border=73000a&stroke=73000a&ring=73000a&fire=73000a&currStreakNum=73000a&sideNums=73000a&currStreakLabel=73000a&sideLabels=73000a&dates=73000a) |
 | ![GitHub Summary Cards](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RalphHightower&theme=default) |
 | ![RalphHightower's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RalphHightower&theme=minimal&color=73000a&title_color=73000a&line=73000a&point=73000a) |
