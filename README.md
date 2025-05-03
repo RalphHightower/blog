@@ -228,7 +228,7 @@ I have more information on my website: [Ralph Hightower — Website](https://ral
 
 ### Where I Can Be Found
 
-| Content | Websit
+| Content | Website |
 |---------|---------|
 | CodeProject | [RalphHightower](https://www.codeproject.com/Members/RalphHightower) |
 | Facebook | [RalphHightower](https://www.facebook.com/ralph.hightower/) (I spend more time on LinkedIn than I do on Facebook.) |
