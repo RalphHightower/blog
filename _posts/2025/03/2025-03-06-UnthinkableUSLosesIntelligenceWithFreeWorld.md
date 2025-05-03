@@ -56,7 +56,7 @@ Julie Smith, the former U.S. ambassador to [NATO](https://www.nato.int/), highli
 
 [Trump's](https://www.whitehouse.gov/administration/donald-j-trump/) appointment of [Tulsi Gabbard](https://www.dni.gov/index.php/who-we-are/leadership/director-of-national-intelligence) as [director of national intelligence](https://www.dni.gov/) has also caused concerns. [Gabbard's](https://www.dni.gov/index.php/who-we-are/leadership/director-of-national-intelligence) past statements echoing [Russian](http://government.ru/) perspectives on [Ukraine](https://www.gov.ua/) and [Syria](https://egov.sy/), along with her meeting with former [Syrian](https://egov.sy/) President Bashar Assad, have raised red flags.
 
-Recently, the Financial Times reported that Peter Navarro, a top [White House](https://www.whitehouse.gov/) official, is advocating for [Canada](https://www.canada.ca/) to be cut from the Five Eyes intelligence-sharing network. This network, which includes the [United Kingdom](https://www.gov.uk/), [Australia](https://www.pm.gov.au/), and [New Zealand](https://www.govt.nz/), is considered the most intimate multinational intelligence-sharing group. Although this shift has not yet affected intelligence sharing, there are fears it could soon.
+Recently, the [Financial Times](https://www.ft.com/) reported that [Peter Navarro](https://www.linkedin.com/in/peter-navarro-93167122/), a top [White House](https://www.whitehouse.gov/) official, is advocating for [Canada](https://www.canada.ca/) to be cut from the Five Eyes intelligence-sharing network. This network, which includes the [United Kingdom](https://www.gov.uk/), [Australia](https://www.pm.gov.au/), and [New Zealand](https://www.govt.nz/), is considered the most intimate multinational intelligence-sharing group. Although this shift has not yet affected intelligence sharing, there are fears it could soon.
 
 The situation following the meeting between [Ukrainian](https://www.gov.ua/) [President Volodymyr Zelenskyy](https://www.president.gov.ua/) and [Trump](https://www.whitehouse.gov/administration/donald-j-trump/) has only added to the uncertainty. While some [NATO](https://www.nato.int/) officials deny that the alliance's recent challenges have impacted intelligence sharing, others confirm that intelligence is now more often shared bilaterally rather than in full alliance meetings.
 
@@ -113,7 +113,7 @@ In summary, the [current administration](https://www.whitehouse.gov/administrati
 - [Vladimir Putin](http://kremlin.ru/)
 - [Ukraine (UA)](https://www.gov.ua/)
 - [Volodymyr Zelenskyy](https://www.president.gov.ua/)
-- [United Nations](https://www.un.org/)
+- [United Nations (UN)](https://www.un.org/)
 - [North Atlantic Treaty Organization (NATO)](https://www.nato.int/)
 - [European Union (EU)](https://commission.europa.eu/)
 - [United States of America (US)](https://www.usa.gov/)
@@ -128,3 +128,4 @@ In summary, the [current administration](https://www.whitehouse.gov/administrati
 - allies
 - intelligence 
 - politics
+- [Peter Navarro](https://www.linkedin.com/in/peter-navarro-93167122/) 

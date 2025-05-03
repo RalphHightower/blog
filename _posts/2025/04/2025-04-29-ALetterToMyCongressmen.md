@@ -238,7 +238,7 @@ Lindsey Graham
 - [Joe Wilson (T-SC2)](https://joewilson.house.gov/)
 - [William Timmons (T-SC4)](https://timmons.house.gov/)
 - [Russell Fry (T-SC7)](https://fry.house.gov/)
-- [Richard Nixon Museum and Library](https://www.nixonlibrary.gov/visit/visit-museum)
+- [Richard Nixon Museum and Library](https://www.nixonlibrary.gov/)
 - [Civil Rights Act (1964) / National Archives](https://www.archives.gov/milestone-documents/civil-rights-act)
 - [Donald J Trump](https://www.donaldjtrump.com/)
 - [President Donald Trump (47)](https://www.whitehouse.gov/)

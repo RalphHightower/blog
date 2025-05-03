@@ -234,7 +234,6 @@ March 24, 2025, 12:06 PM ET
 - [Twitter](https://twitter.com/)
 - [ X ](https://x.com/)
 - [xAI](https://x.ai/)
-- 
 - [Tulsi Gabbard](https://www.linkedin.com/in/tulsigabbard/)
 - [Michael Waltz](https://www.linkedin.com/in/michael-waltz-0557964/)
 - [Pete Hegseth](https://www.linkedin.com/in/petehegseth/)
