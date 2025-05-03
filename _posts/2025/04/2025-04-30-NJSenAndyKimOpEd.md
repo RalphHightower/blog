@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [North Korea, United Nations (UN), Afghanistan (AF), The State Council of the People’s Republic of China, 中国政府网_中央人民政府门户网站, Government of Iran, Russia, Vladimir Putin, Volodymyr Zelenskyy, Ukraine, North Atlantic Treaty Organization (NATO), NATO - Topic Collective defence and Article 5, European Union, Marco Rubio, Constitution of the United States, Supreme Court of the United States (SCOTUS), US Courts, Congress, Senate, Andy Kim (D-NJ), House of Representatives, Woodrow Wilson / The White House, Donald J Trump, President Donald Trump (47), President of the United States (POTUS), White House (WH), Department of State (DOS), Department of Defense (DOD), Marco Rubio - United States Department of State, politics]
+tags: [http//airkoryo.com.kp Air Koryo. A flight ticket website., http//cooks.org.kp - Korean Dishes. Culinary website with recipes., http//friend.com.kp - Friend. Appears to be something similar to Yahoo and MSN., http//gnu.rep.kp - National Unity. A well-being group., http//kass.org.kp - Korean Association of Social Scientists. Not sure but I think it’s an education website for both school and adult education courses maybe., http//kcna.kp - Korean Central News Agency. Yet another news website., http//kiyctc.com.kp - Korean International Youth and Children’s Travel Company. I guess a travel company of both youth and children., http//knic.com.kp - Korean People Total Insurance Company. Insurance company., http//koredufund.org.kp - Korea Education Fund. Appears to be a charity to increase the quality of education., http//korelcfund.org.kp - Korea Elderly Care Fund. A charity for the elderly., http//korfilm.com.kp KorFilms - Pyongang International Film Festival. The film website., http//ma.gov.kp - Maritime Administration of Korea. Laws of the water can be found here., http//naenara.com.kp - Naenara. - This is actually the “official” government site in the sense of a description of the country. It has plenty of news articles but it contains a decent amount of (tourist oriented?) information about the country (thanks /u/tinoh124 for the correction)., http//nta.gov.kp - Korea Tourism. The Korean Tourism board looks like you can get tours from here., http//rodong.rep.kp - Rodong. Official news website. Click here to view the Rodong website in the user-friendly Western version thanks again to /u/tinoh124 for this., http//ryongnamsan.edu.kp - Kim Il Sung University. - The university’s website., http//sdprk.org.kp - Sports Chosun. - The sports website., http//vok.rep.kp - Voice Of Korea. A news website., http//portal.net.kp http//masikryong.com.kp http//rcc.net.kp http//rep.kp http//silibank.net.kp http//star-co.net.kp http//star-di.net.kp http//star.co.kp http//star.edu.kp http//star.net.kp. Not currently accessible., United Nations (UN), Afghanistan (AF), The State Council of the People’s Republic of China, 中国政府网_中央人民政府门户网站, Government of Iran, Russia, Vladimir Putin, Volodymyr Zelenskyy, Ukraine, North Atlantic Treaty Organization (NATO), NATO - Topic Collective defence and Article 5, European Union, Marco Rubio, Constitution of the United States, Supreme Court of the United States (SCOTUS), US Courts, Congress, Senate, Andy Kim (D-NJ), House of Representatives, Woodrow Wilson / The White House, Donald J Trump, President Donald Trump (47), President of the United States (POTUS), White House (WH), Department of State (DOS), Department of Defense (DOD), Marco Rubio - United States Department of State, politics]
 ategories: [Donald Trump]
 date: 2025-05-01 10:38 PM
 #excerpt: ''
@@ -10,6 +10,14 @@ date: 2025-05-01 10:38 PM
 title: "A Senator Also Recognizes That Trump’s ‘America First’ is becoming ‘America Alone’"
 ---
 
+Below is an op-ed by [Senator](https://www.senate.gov/) [Andy Kim (D-NJ)](https://www.kim.senate.gov/) that [Trump](https://www.donaldjtrump.com/) will leave America isolated. 
+
+I noticed that America's allies and trading partners were abandoning America after [Trump](https://www.donaldjtrump.com/) "Liberation Day" tanked the world’s stock markets and [Treasury bonds](https://home/treasury.gov/) were moving in the wrong direction. 
+
+- [2025-03-06: Trump Is the Manchurian Candidate: Fucking Believable! Europe, NATO, and Our Former Allies No Longer Trust the US as Trump Shifts Allegiance With Russia!]({% link  %})
+- [2025-03-17: Canada Considers Buying Fighter Jets From Europe Instead Of US Due To Trump’s Instability and Unpredictable Continued Membership In NATO. Lockheed Martin Loses Contract Of F-35 Jets Worth $19 Billion]({% link _posts/2025/03/2025-03-17-TrumpTradeWarWithWorldJustLostDefenseOrderCanada.md %})
+- [2025-04-07: Trump’s ‘America First’ Will Leave ‘America Alone’. Pissing Off Allies, Trading Partners]({% link _posts/2025/04/2025-04-07-TrumpsAmericaFirstWillBeAmericaAlone.md %})
+- [2025-04-29: Canadian Prime Minister Mark Carney Tells America That Trump Broke Their Friendship, Alliance, and Trading Partnership]({% link _posts/2025/04/2025-04-29-CanadianPremierMarkCarnyVictorySpeech.md %})
 
 ## [‘America First’ is becoming ‘America Alone’ — at the worst possible time](https://www.msnbc.com/opinion/msnbc-opinion/trump-foreign-policy-state-andy-kim-rcna202642)
 
@@ -45,6 +53,10 @@ Some of [Trump](https://www.donaldjtrump.com/)’s actions could be reversed in 
 
 Yet in this critical moment, we have gone from the indispensable nation to the unreliable nation. There is still time to course correct. I urge my [Republican](https://www.gop.com_) colleagues to reject gutting the [State Department](https://www.state.gov/) and the [Trump](https://www.donaldjtrump.com/) [White House](https://www.whitehouse.gov/)’s larger push toward isolationism. We should welcome sensible reforms for the [State Department](https://www.state.gov/) and U.S. foreign policy, but we should reject actions that will cede the ground to our adversaries and weaken our critical alliances. That will only mean leaving our kids and grandkids a world that is less secure, less prosperous, and less predictable.
 
+----
+[Sen.](https://www.senate.gov/) [Andy Kim](https://www.kim.senate.gov/)
+[Andy Kim](https://www.kim.senate.gov/) represents [New Jersey](https://www.nj.gov/) in the [U.S. Senate](https://www.senate.gov/).
+
 - http://airkoryo.com.kp Air Koryo. A flight ticket website.
 - http://cooks.org.kp - Korean Dishes. Culinary website with recipes.
 - http://friend.com.kp - Friend. Appears to be something similar to Yahoo and MSN.
@@ -76,7 +88,7 @@ Yet in this critical moment, we have gone from the indispensable nation to the u
 - [North Atlantic Treaty Organization (NATO)](https://www.nato.int/)
 - [NATO - Topic: Collective defence and Article 5](https://www.nato.int/cps/en/natohq/topics_110496.htm)
 - [European Union](https://commission.europa.eu/)
-- [Marco Rubio](https://www.linkedin.com/in/marcorubio16/)
+- [New Jersey](https://www.nj.gov/)
 - [Constitution of the United States](https://constitution.congress.gov/)
 - [Supreme Court of the United States (SCOTUS)](https://www.supremecourt.gov/)
 - [US Courts](https://www.uscourts.gov/)
@@ -90,7 +102,8 @@ Yet in this critical moment, we have gone from the indispensable nation to the u
 - [President of the United States (POTUS)](https://www.whitehouse.gov/)
 - [White House (WH)](https://www.whitehouse.gov/)
 - [Department of State (DOS)](https://www.state.gov/)
-- [Department of Defense (DOD,)](https://www.defense.gov/)
+- [Marco Rubio](https://www.linkedin.com/in/marcorubio16/)
 -  [Marco Rubio - United States Department of State](https://www.state.gov/biographies/marco-rubio/)
+- [Department of Defense (DOD,)](https://www.defense.gov/)
 - politics 
 
