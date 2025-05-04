@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: []
+tags: [Merriam-Webster, Merriam-Webster’s Word of the Day for May 4 is “risible” – , risible, Saturday Night Live - NBC.com, Constitution of the United States, Supreme Court of the United States (SCOTUS), US Courts, Congress, Senate, House of Representatives, Donald J Trump, President Donald Trump (47), President Trump Administration (47), President Trump Cabinet (47), President of the United States (POTUS), White House (WH), incompetence, apparatchik, sycophants, acolytes, politics]
 categories: [WOTD (Word of the Day)]
 date: 2025-05-04 9:49 AM
 excerpt: ''
@@ -34,6 +34,8 @@ Say “cheese”! Now say thank you to the risorius muscles near the corners of 
 
 - [Merriam-Webster](https://www.merriam-webster.com/)
 - [Merriam-Webster's Word of the Day for May 4 is "risible":](http://www.merriam-webster.com/word-of-the-day/2025/05/04/)
+- risible
+- [Saturday Night Live - NBC.com](https://www.nbc.com/saturday-night-live)
 - [Constitution of the United States](https://constitution.congress.gov/)
 - [Supreme Court of the United States (SCOTUS)](https://www.supremecourt.gov/)
 - [US Courts](https://www.uscourts.gov/)
@@ -47,6 +49,7 @@ Say “cheese”! Now say thank you to the risorius muscles near the corners of 
 - [President of the United States (POTUS)](https://www.whitehouse.gov/)
 - [White House (WH)](https://www.whitehouse.gov/)
 - incompetence 
+- apparatchik
 - sycophants 
 - acolytes 
 - politics 
