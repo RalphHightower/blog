@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [Krebs on Security, Kristi Noem, Cyber Safety Review Board (CSRB), Cybersecurity and Infrastructure Security Agency (CISA), Department of Homeland Security, Transportation Security Administration (TSA), White House (WH), president (POTUS), politics]
+tags: [Krebs on Security, Kristi Noem, Cyber Safety Review Board (CSRB), Federal Bureau of Investigation (FBI), 5-Central Intelligence Angency (CIA), Cybersecurity and Infrastructure Security Agency (CISA), Department of Homeland Security, Transportation Security Administration (TSA), White House (WH), president (POTUS), politics]
 categories: [Donald Trump]
 date: 2025-02-12 6:51 PM
 excerpt: ''
@@ -23,7 +23,7 @@ These are the key points from the article on cybersecurity.
 
 3. **[CISA](https://www.cisa.gov/) Criticism**: [South Dakota](https://www dhs.gov/) Governor Kristi Noem, newly confirmed as [DHS](https://www.dhs.gov/) director, criticized [CISA](https://www.cisa.gov/) for its focus on **misinformation[^31]**, suggesting a shift back to its core mission of hardening federal IT systems and addressing digital intrusions.
 
-[^31]: @RalphHightower: Here we get to the crux of the matter. [Trump](https://www.whitehouse.gov/)](https://www.whitehouse.gov/) depends on misinformation. It is his very lifeblood. 
+[^31]: @RalphHightower: Here we get to the crux of the matter. [Trump](https://www.whitehouse.gov/) depends on misinformation. It is his very lifeblood. 
 
 1. **[TSA](https://www.tsa.gov/) Chief Dismissal**: David Pekoske, the [TSA](https://www.tsa.gov/) chief responsible for critical cybersecurity improvements, was fired despite his contributions to pipeline, rail, and aviation sectors.
 
@@ -31,7 +31,7 @@ These are the key points from the article on cybersecurity.
 
 3. **Weaponization & Disinformation**: [Trump](https://www.whitehouse.gov/) issued orders to end alleged weaponization of federal agencies and to restore free speech, impacting security, privacy, and civil liberties. This included pardoning individuals involved in the January 6 Capitol riot and asserting free speech rights against federal censorship.
 
-4. **[CISA's](https://www.cisa.gov/) Mission Shift**: The [Cybersecurity and Infrastructure Security Agency (CISA)](https://www.cisa.gov/)) was established in 2018 to protect critical infrastructure from cyber threats. It has since taken on additional roles in combating misinformation and disinformation, which has been a point of controversy.
+4. **[CISA's](https://www.cisa.gov/) Mission Shift**: The [Cybersecurity and Infrastructure Security Agency (CISA)](https://www.cisa.gov/) was established in 2018 to protect critical infrastructure from cyber threats. It has since taken on additional roles in combating misinformation and disinformation, which has been a point of controversy.
 
 5. **AI Action Plan**: The [Trump](https://www.whitehouse.gov/) administration's executive order on AI calls for an AI Action Plan, aiming to position the U.S. as a leader in artificial intelligence. The plan includes eliminating barriers to AI development and ensuring AI systems are free from ideological bias.
 
@@ -47,12 +47,14 @@ Kristi Noem during her confirmation testimony before the [Senate](https://www.se
 
 - “[CISA](https://www.cisa.gov/) needs to be much more effective, smaller, more nimble, to really fulfill their mission. The mission of it is to hunt and harden. It's to find those bad actors and help work with local and state critical infrastructure entities so that they can help them be prepared for such cyberattacks.”
 - “The misinformation and disinformation that they have stuck their toe into and meddled with, should be refocused back onto what their job is.”
-- “We also need to have [CISA](https://www.cisa.gov/) have interaction with the [FBI](https://www.fbi.gov/), [CIA](https://www.cia) to make sure they're working together to stop these types of threats and identify when they're growing among our citizens. We have to plan bigger and think faster and smarter. One of the things that disturbs me the most is that we don't necessarily even know how some of these espionage attacks that have infiltrated our systems have happened. We don't know how to stop them yet.”
+- “We also need to have [CISA](https://www.cisa.gov/) have interaction with the [FBI](https://www.fbi.gov/), [CIA](https://www.cia.gov/) to make sure they're working together to stop these types of threats and identify when they're growing among our citizens. We have to plan bigger and think faster and smarter. One of the things that disturbs me the most is that we don't necessarily even know how some of these espionage attacks that have infiltrated our systems have happened. We don't know how to stop them yet.”
 
 
+- [The State Council of the People's Republic of China](https://english.www.gov.cn/)
+- [中国政府网_中央人民政府门户网站](https://www.gov.cn/)
 - [Cybersecurity and Infrastructure Security Agency (CISA)](https://www.cisa.gov/)
+- [Central Intelligence Angency (CIA)](https://www.cia.gov/)
+- [Federal Bureau of Investigation (FBI)](https://www.fbi.gov/)
 - [Department of Homeland Security](https://www.dhs.gov/)
 - [Transportation Security Administration (TSA)](https://www.tsa.gov/)
 - [White House](https://www.whitehouse.gov/)
-- [The State Council of the People's Republic of China](https://english.www.gov.cn/)
-- [中国政府网_中央人民政府门户网站](https://www.gov.cn/)
