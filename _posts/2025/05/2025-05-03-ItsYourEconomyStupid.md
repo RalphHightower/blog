@@ -10,6 +10,8 @@ excerpt: ''
 title: "It’s Your Economy, Stupid!"
 ---
 
+[Trump](https://www.donaldjtrump.com)  is a blameshifter and a glory hog.
+
 ## [Why Trump’s pitiful efforts to blame Biden for the poor economy won’t work](https://www.msnbc.com/rachel-maddow-show/maddowblog/trumps-pitiful-efforts-blame-biden-poor-economy-wont-work-rcna204033)
 
 *The problem isn't just that [Trump](https://www.donaldjtrump.com/) is wrong to blame [Biden](https://bidenwhitehouse.archives.gov/) for the weak economy. The problem is also the fact that the rhetoric is literally unbelievable.*
