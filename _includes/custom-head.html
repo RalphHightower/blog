@@ -7,7 +7,7 @@ Expires: Thu, 01 Dec 1994 16:00:00 GMT
 %a, %d %b %Y %T %Z
 {% endcomment %}
 
-{% expire = 'now' | date: '%s' | plus: 60 | date: '%a, %d %b %Y %T %Z' %}
+{% expires = 'now' | date: '%s' | plus: 60 | date: '%a, %d %b %Y %T %Z' %}
 
 {% if page.url contains "WhereIsTrump-Countdown" %}
 <meta http-equiv="Cache-Control" content="no-cache, no-store, max-age=1, must-revalidate">
