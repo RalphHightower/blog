@@ -7,9 +7,8 @@ Expires: Thu, 01 Dec 1994 16:00:00 GMT
 %a, %d %b %Y %T %Z
 {% endcomment %}
 
-{% expires = 'now' | date: '%s' | plus: 60 | date: '%a, %d %b %Y %T %Z' %}
-
 {% if page.url contains "WhereIsTrump-Countdown" %}
+{% expires = 'now' | date: '%s' | plus: 60 | date: '%a, %d %b %Y %T %Z' %}
 <meta http-equiv="Cache-Control" content="no-cache, no-store, max-age=1, must-revalidate">
 <meta http-equiv="Pragma" content="no-cache">
 <meta http-equiv="Expires" content="{{ expires }}">
