@@ -8,8 +8,10 @@ Expires: Thu, 01 Dec 1994 16:00:00 GMT
 {% endcomment %}
 
 {% if page.url contains "WhereIsTrump-Countdown" %}
-{% assign shortExpire = 'now' | date: '%s' | plus: 60 | date: '%a, %d %b %Y %T %Z' %}
-<meta http-equiv="Cache-Control" content="no-cache, no-store, max-age=1, must-revalidate">
+{% assign shortExpire = 'now' | date: '%s' | plus: 15 | date: '%a, %d %b %Y %T %Z' %}
+<meta http-equiv="Cross-Origin-Opener-Policy" content="same-origin">
+<meta http-equiv="Cross-Origin-Embedder-Policy" content="require-corp">
+<meta http-equiv="Cache-Control" content="no-cache, no-store, max-age=0, must-revalidate">
 <meta http-equiv="Pragma" content="no-cache">
 <meta http-equiv="Expires" content="{{ shortExpire }}">
 {% endif %}
