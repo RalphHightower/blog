@@ -11,9 +11,10 @@ Expires: Thu, 01 Dec 1994 16:00:00 GMT
 {% assign shortExpire = 'now' | date: '%s' | plus: 15 | date: '%a, %d %b %Y %T %Z' %}
 <meta http-equiv="Cross-Origin-Opener-Policy" content="same-origin">
 <meta http-equiv="Cross-Origin-Embedder-Policy" content="require-corp">
-<meta http-equiv="Cache-Control" content="no-cache, no-store, max-age=0, must-revalidate">
+<meta http-equiv="Cache-Control" content="no-cache, no-store, max-age=600, must-revalidate">
 <meta http-equiv="Pragma" content="no-cache">
 <meta http-equiv="Expires" content="{{ shortExpire }}">
+<meta http-equiv="CDN-Cache-Control" content="max-age=600">
 {% endif %}
 
 <link rel="preload" href="Mona-Sans.woff2" as="font" type="font/woff2" crossorigin>
