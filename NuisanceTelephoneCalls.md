@@ -2,7 +2,7 @@
 layout: page
 tags: [assholes, Donald Trump, Elon Musk, Betsy DeVos, MAGA billionaires, billionaire, Trump donors, Republican PAC, Make America Great Again (MAGA)]
 categories: [Telephone Numbers]
-date: 2025-05-02 9:30 PM
+date: 2025-05-06 10:39 PM
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description: 
@@ -17,39 +17,42 @@ The telephone numbers below have called and there is an empty person on the othe
 [^11]: RalphHightower: ¤¤ denotes voice mail left.
 
 | Telephone Number | Location | Date Time[^11] | Caller | Social Media |
-|---|---|---|---|---|
+|---|---|---|---|---|| <a href="tel:+18036159217">+1 (803) 615-9217</a> | SC. Edgefield | 2025-05-06 04:47 PM | — | |
+| <a href="tel:+18039980401">+1 (803) 998-0401</a> | SC. New Ellington | 2025-05-06 03:13 PM | Potential Spam | |
+| <a href="tel:+18039980401">+1 (803) 998-0401</a> | SC. New Ellington | 2025-05-06 03:13 PM | Potential Spam | |
+| <a href="tel:+18038011298">+1 (803) 801-1298</a> | SC. Winnsboro | 2025-05-06 02:41 PM | — | |
+| <a href="tel:+18037820293">+1 (803) 782-0293</a> | SC. Columbia | 2025-05-06 02:13 PM | — | |
+| <a href="tel:+18039373158">+1 (803) 937-3158</a> | SC. Orangeburg | 2025-05-06 01:49 PM | Betty Spires | |
+| <a href="tel:+18037029125">+1 (803) 702-9125</a> | SC. Allendale | 2025-05-06 12:55 PM | Bobby Mickel | |
+| <a href="tel:+18037105403">+1 (803) 710-5403</a> | SC. Johnston | 2025-05-06 12:19 PM | Potential Spam | |
+| <a href="tel:+18035157460">+1 (803) 515-7460</a> | SC. Orangeburg | 2025-05-06 11:44 AM | Potential Spam | |
+| <a href="tel:+18037843279">+1 (803) 784-3279</a> | SC. Camden | 2025-05-06 11:37 AM ¤¤ | Potential Spam | |
+| <a href="tel:+18037843279">+1 (803) 784-3279</a> | SC. Camden | 2025-05-06 11:35 AM | Potential Spam | |
+| <a href="tel:+18034323702">+1 (803) 432-3702</a> | SC. Camden | 2025-05-06 11:30 AM | Gary Smith | |
 | <a href="tel:+18038219007">+1 (803) 821-9007</a> | SC. | 2025-05-05 06:43 PM | So Fresh | |
-| <a href="tel:+18032167034">+1 (803) 216-7034</a> | SC. Columbia | 2025-05-05 06:22 PM | | |
-| <a href="tel:+18036838753">+1 (803) 683-8753</a> | SC. Columbia | 2025-05-05 06:21 PM | | |
-| <a href="tel:+18036049434">+1 (803) 604-9434</a> | SC. Batesburg | 2025-05-05 06:14 PM | | |
-| <a href="tel:+18038517276">+1 (803) 851-7276</a> | SC. | 2025-05-05 06:11 PM | | |
+| <a href="tel:+18032167034">+1 (803) 216-7034</a> | SC. Columbia | 2025-05-05 06:22 PM | — | |
+| <a href="tel:+18036838753">+1 (803) 683-8753</a> | SC. Columbia | 2025-05-05 06:21 PM | — | |
+| <a href="tel:+18036049434">+1 (803) 604-9434</a> | SC. Batesburg | 2025-05-05 06:14 PM | — | |
+| <a href="tel:+18038517276">+1 (803) 851-7276</a> | SC. | 2025-05-05 06:11 PM | — | |
 | <a href="tel:+18038140806">+1 (803) 814-0806</a> | SC. | 2025-05-05 05:30 PM | Potential Spam | |
-| <a href="tel:+18039946919">+1 (803) 994-6919</a> | SC. Whitmire | 2025-05-05 05:07 PM | | |
+| <a href="tel:+18039946919">+1 (803) 994-6919</a> | SC. Whitmire | 2025-05-05 05:07 PM | — | |
 | <a href="tel:+18038255077">+1 (803) 825-5077</a> | SC. Manning | 2025-05-05 04:03 PM | Potential Spam | |
 | <a href="tel:+18036724767">+1 (803) 672-4767</a> | SC. Denmark | 2025-05-05 03:13 PM | Potential Spam | |
-| <a href="tel:+18039048989">+1 (803) 904-8989</a> | SC. Columbia | 2025-05-05 03:13 PM | | |
+| <a href="tel:+18039048989">+1 (803) 904-8989</a> | SC. Columbia | 2025-05-05 03:13 PM | — | |
 | <a href="tel:+18038887379">+1 (803) 888-7379</a> | SC. | 2025-05-05 02:53 PM | Choyce Schwartz | |
 | <a href="tel:+18035480495">+1 (803) 548-0495</a> | SC. Fort Mill | 2025-05-05 02:42 PM | Kent Sam & Coll | |
-| <a href="tel:+18037097136">+1 (803) 709-7136</a> | SC. Columbia | 2025-05-05 01:48 PM | | |
+| <a href="tel:+18037097136">+1 (803) 709-7136</a> | SC. Columbia | 2025-05-05 01:48 PM | — | |
 | <a href="tel:+18039875195">+1 (803) 987-5195</a> | SC. Orangeburg | 2025-05-05 01:07 PM | Blocked Caller ID | |
 | <a href="tel:+18039875195">+1 (803) 987-5195</a> | SC. Orangeburg | 2025-05-05 01:07 PM | Blocked Caller ID | |
-| <a href="tel:+18032918346">+1 (803) 291-8346</a> | SC. Salley | 2025-05-05 12:53 PM | | |
-| <a href="tel:+18032918346">+1 (803) 291-8346</a> | SC. Salley | 2025-05-05 12:53 PM | | |
-| <a href="tel:+18039048526">+1 (803) 904-8526</a> | SC. Sumter | 2025-05-05 12:52 PM | | |
-| <a href="tel:+18036384734">+1 (803) 638-4734</a> | SC. Columbia | 2025-05-05 11:34 AM ¤¤ | | |
-| <a href="tel:+18036384734">+1 (803) 638-4734</a> | SC. Columbia | 2025-05-05 11:33 AM | | |
-| <a href="tel:+18036593678">+1 (803) 659-3678</a> | SC. Rock Hill | 2025-05-05 11:20 AM | [)Axtra3d, Inc](https://axtra3d.com/) | |
+| <a href="tel:+18032918346">+1 (803) 291-8346</a> | SC. Salley | 2025-05-05 12:53 PM | — | |
+| <a href="tel:+18032918346">+1 (803) 291-8346</a> | SC. Salley | 2025-05-05 12:53 PM | — | |
+| <a href="tel:+18039048526">+1 (803) 904-8526</a> | SC. Sumter | 2025-05-05 12:52 PM | — | |
+| <a href="tel:+18036384734">+1 (803) 638-4734</a> | SC. Columbia | 2025-05-05 11:34 AM ¤¤ | — | |
+| <a href="tel:+18036384734">+1 (803) 638-4734</a> | SC. Columbia | 2025-05-05 11:33 AM | — | |
+| <a href="tel:+18036593678">+1 (803) 659-3678</a> | SC. Rock Hill | 2025-05-05 11:20 AM | [Axtra3d, Inc](https://axtra3d.com/) | |
 | <a href="tel:+18039993463">+1 (803) 999-3463</a> | SC. Columbia | 2025-05-05 10:55 AM | Potential Spam | |
-| <a href="tel:+18034428264">+1 (803) 442-8264</a> | SC. North Augusta | 2025-05-05 09:42 AM | | |
+| <a href="tel:+18034428264">+1 (803) 442-8264</a> | SC. North Augusta | 2025-05-05 09:42 AM | — | |
 | <a href="tel:+12402666155">+1 (240) 266-6155</a> | NY. | 2025-05-05 08:25 AM | EZ Pass Scam | |
-| <a href="tel:+14697921367">+1 (469) 792-1367</a> | TX. | 2025-04-30 09:37 AM | | |
-| <a href="tel:+15074588633">+1 (507) 458-8633</a> | MN. | 2025-04-30 09:37 AM | | |
-| <a href="tel:+15867198569">+1 (586) 719-8569</a> | MI. | 2025-04-30 09:37 AM | | |
-| <a href="tel:+16083041439">+1 (608) 304-1439</a> | WI. | 2025-04-30 09:37 AM | | |
-| <a href="tel:+16088883041">+1 (608) 888-3041</a> | WI. | 2025-04-30 09:37 AM | | |
-| <a href="tel:+16513031975">+1 (651) 303-1975</a> | MN. | 2025-04-30 09:37 AM | | |
-| <a href="tel:+18032714386">+1 (803) 271-4386</a> | SC. | 2025-04-30 09:37 AM | | |
-| <a href="tel:+16479704460">+1 (647) 970-4460</a> | Canada. Toronto | 2025-04-30 0 | | |
 | <a href="tel:+18036617159">+1 (803) 661-7159</a> | SC. Columbia | 2025-05-02 06:18 PM | Potential Spam | |
 | <a href="tel:+18034900533">+1 (803) 490-0533</a> | SC. | 2025-05-02 05:31 PM | Dee Johnson | |
 | <a href="tel:+18035810587">+1 (803) 581-0587</a> | SC. Chester | 2025-05-02 04:22 PM | Cox Veterinary | |
@@ -75,6 +78,14 @@ The telephone numbers below have called and there is an empty person on the othe
 | <a href="tel:+18033252072">+1 (803) 325-2072</a> | SC. Rock Hill | 2025-04-30 02:34 PM | Amanda Childers | |
 | <a href="tel:+18032343802">+1 (803) 234-3802</a> | SC. Columbia | 2025-04-30 01:19 PM | Potential Spam | |
 | <a href="tel:+18038845037">+1 (803) 884-5037</a> | SC. Blackville | 2025-04-30 11:53 AM | Potential Spam | |
+| <a href="tel:+14697921367">+1 (469) 792-1367</a> | TX. | 2025-04-30 09:37 AM | EZ Pass Scam | |
+| <a href="tel:+15074588633">+1 (507) 458-8633</a> | MN. | 2025-04-30 09:37 AM | EZ Pass Scam | |
+| <a href="tel:+15867198569">+1 (586) 719-8569</a> | MI. | 2025-04-30 09:37 AM | EZ Pass Scam | |
+| <a href="tel:+16083041439">+1 (608) 304-1439</a> | WI. | 2025-04-30 09:37 AM | EZ Pass Scam | |
+| <a href="tel:+16088883041">+1 (608) 888-3041</a> | WI. | 2025-04-30 09:37 AM | EZ Pass Scam | |
+| <a href="tel:+16479704460">+1 (647) 970-4460</a> | Canada. Toronto | 2025-04-30 09:37 AM | EZ Pass Scam | |
+| <a href="tel:+16513031975">+1 (651) 303-1975</a> | MN. | 2025-04-30 09:37 AM | EZ Pass Scam | |
+| <a href="tel:+18032714386">+1 (803) 271-4386</a> | SC. | 2025-04-30 09:37 AM | EZ Pass Scam | |
 | <a href="tel:+18034706514">+1 (803) 470-6514</a> | SC. Columbia | 2025-04-30 09:37 AM | Potential Spam | |
 | <a href="tel:+18034706514">+1 (803) 470-6514</a> | SC. Columbia | 2025-04-30 09:37 AM | Potential Spam | |
 | <a href="tel:+18035476812">+1 (803) 547-6812</a> | SC. Fort Mill | 2025-04-29 05:30 PM | Mae Evans | |
