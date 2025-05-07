@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [MSNBC, NBC News, Bloomberg News, Atlanta News First, CBS News, Faux News, New York Times (NYT), , American Airlines - Airline tickets and low fares at aa.com, Delta Air Lines / Flights & Plane Tickets + Hotels & Cars, JAL｜国内線/国際線の航空券・飛行機チケット予約, United Airlines, State of Alaska, City of Scottsdale, Covington Georgia / Official Website, Michael Whitaker, Newark Airport (EWR), Key West International Airport / Home, Washington Dulles International Airport - IAD, Orlando International Airport (MCO), Ronald Reagan Washington National Airport - DCA- Hartsfield-Jackson Atlanta International Airport, Houston Airport - IAH Airport, Seattle-Tacoma International Airport / Port of Seattle, Airport - Town of Marana AZ, National Air Traffic Controllers Association, Department of Transportation, Federal Aviation Administration (FAA), Constitution of the United States, Supreme Court of the United States (SCOTUS), US Courts, Congress, Senate, House of Representatives, Donald J Trump, President Donald Trump (47), President Trump Cabinet (47), President Trump Administration (47), President of the United States (POTUS), White House (WH), air travel safety, transportation, politics]
+tags: [MSNBC, NBC News, Bloomberg News, Atlanta News First, CBS News, Faux News, New York Times (NYT), American Airlines - Airline tickets and low fares at aa.com, Delta Air Lines / Flights & Plane Tickets + Hotels & Cars, JAL– 国内線/国際線の航空券・飛行機チケット予約, United Airlines, State of Alaska, City of Scottsdale, Covington Georgia / Official Website, Michael Whitaker, Newark Airport (EWR), Key West International Airport / Home, Washington Dulles International Airport - IAD, Orlando International Airport (MCO), Ronald Reagan Washington National Airport - DCA- Hartsfield-Jackson Atlanta International Airport, Houston Airport - IAH Airport, Seattle-Tacoma International Airport / Port of Seattle, Airport - Town of Marana AZ, National Air Traffic Controllers Association, Department of Transportation, Federal Aviation Administration (FAA), Constitution of the United States, Supreme Court of the United States (SCOTUS), US Courts, Congress, Senate, House of Representatives, Donald J Trump, President Donald Trump (47), President Trump Cabinet (47), President Trump Administration (47), President of the United States (POTUS), White House (WH), air travel safety, transportation, politics]
 categories: [Donald Trump]
 date: 2025-05-06 7:48 PM
 excerpt: ''
@@ -76,14 +76,13 @@ Air traffic control in the U.S. is a government operation. We’re the greatest 
 *Rachel Maddow*
 *Rachel Maddow is host of the Emmy Award-winning “The Rachel Maddow Show” Mondays at 9 p.m. ET on MSNBC. “The Rachel Maddow Show” features Maddow’s take on the biggest stories of the day, political and otherwise, including in-depth analysis and stories no other shows in cable news will cover.*
 
-[MSNBC](https://www.msnbc.com/)
-[NBC News](https://www.nbcnews.com/)
-[Bloomberg News](https://www.bloomberg.com/)
-[Atlanta News First](https://www.atlantanewsfirst.com/)
-[CBS News](https://www.cbsnews.com/)
-[Faux News](https://www.foxnews.com/)
-[New York Times (NYT)](https://www.nytimes.com/)
-
+- [MSNBC](https://www.msnbc.com/)
+- [NBC News](https://www.nbcnews.com/)
+- [Bloomberg News](https://www.bloomberg.com/)
+- [Atlanta News First](https://www.atlantanewsfirst.com/)
+- [CBS News](https://www.cbsnews.com/)
+- [Faux News](https://www.foxnews.com/)
+- [New York Times (NYT)](https://www.nytimes.com/)
 - [American Airlines - Airline tickets and low fares at aa.com](https://www.aa.com/homePage.do)
 - [Delta Air Lines / Flights & Plane Tickets + Hotels & Cars](https://www.delta.com/)
 - [JAL｜国内線/国際線の航空券・飛行機チケット予約](https://www.jal.co.jp/jp/ja/)
@@ -118,4 +117,3 @@ Air traffic control in the U.S. is a government operation. We’re the greatest 
 - air travel safety 
 - transportation 
 - politics 
-
