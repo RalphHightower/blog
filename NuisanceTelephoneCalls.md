@@ -17,7 +17,8 @@ The telephone numbers below have called and there is an empty person on the othe
 [^11]: RalphHightower: ¤¤ denotes voice mail left.
 
 | Telephone Number | Location | Date Time[^11] | Caller | Social Media |
-|---|---|---|---|---|| <a href="tel:+18036159217">+1 (803) 615-9217</a> | SC. Edgefield | 2025-05-06 04:47 PM | — | |
+|---|---|---|---|---|
+| <a href="tel:+18036159217">+1 (803) 615-9217</a> | SC. Edgefield | 2025-05-06 04:47 PM | — | |
 | <a href="tel:+18039980401">+1 (803) 998-0401</a> | SC. New Ellington | 2025-05-06 03:13 PM | Potential Spam | |
 | <a href="tel:+18039980401">+1 (803) 998-0401</a> | SC. New Ellington | 2025-05-06 03:13 PM | Potential Spam | |
 | <a href="tel:+18038011298">+1 (803) 801-1298</a> | SC. Winnsboro | 2025-05-06 02:41 PM | — | |
