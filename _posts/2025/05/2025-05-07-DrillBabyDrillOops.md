@@ -14,29 +14,29 @@ I was checking the [FAA](https://www.faa.gov/) to see if [Trump](https://www.don
 
 - [Federal Aviation Administration - Graphic TFRs](https://tfr.faa.gov/tfr3/?page=detail_5_6469)
 
-NOTAM Number :	FDC 5/6469
-Issue Date :	May 06, 2025 at 1447 UTC
-Location :	GULF OF AMERICA, Texas
-Beginning Date and Time :	May 07, 2025 at 1501 UTC
-Ending Date and Time :	May 09, 2025 at 2300 UTC
-Reason for NOTAM :	Temporary flight restrictions
-Type :	Hazards
-Replaced NOTAM(s) :	N/A
-Affected Area(s)	
-Airspace Definition:
-Center:	NAVAID() (Latitude: 28º10'10"N, Longitude: 89º13'22"W)
-Radius:	1 nautical miles
-Altitude:	From the surface up to and including 2000 feet AGL
-Effective Date(s):
-From May 07, 2025 at 1501 UTC
-To May 09, 2025 at 2300 UTC
-Operating Restrictions and Requirements	
-No pilots may operate an aircraft in the areas covered by this NOTAM (except as described).
-
-Other Information:	
-ARTCC:	ZHU - Houston Center
-Point of Contact:	SHELL INCIDENT MANAGEMENT TEAM
-Telephone 504-901-3636
+NOTAM Number :	FDC 5/6469<br />
+Issue Date :	May 06, 2025 at 1447 UTC<br />
+Location :	GULF OF AMERICA, Texas<br />
+Beginning Date and Time :	May 07, 2025 at 1501 UTC<br />
+Ending Date and Time :	May 09, 2025 at 2300 UTC<br />
+Reason for NOTAM :	Temporary flight restrictions<br />
+Type :	Hazards<br />
+Replaced NOTAM(s) :	N/A<br />
+Affected Area(s)	<br />
+Airspace Definition:<br />
+Center:	NAVAID() (Latitude: 28º10'10"N, Longitude: 89º13'22"W)<br />
+Radius:	1 nautical miles<br />
+Altitude:	From the surface up to and including 2000 feet AGL<br />
+Effective Date(s):<br />
+From May 07, 2025 at 1501 UTC<br />
+To May 09, 2025 at 2300 UTC<br />
+Operating Restrictions and Requirements	<br />
+No pilots may operate an aircraft in the areas covered by this NOTAM (except as described).<br />
+<br />
+Other Information:	<br />
+ARTCC:	ZHU - Houston Center<br />
+Point of Contact:	SHELL INCIDENT MANAGEMENT TEAM<br />
+Telephone 504-901-3636<br />
 Authority:	Title 14 CFR section 91.137(a)(3)
 		
 - [Federal authorities are cleaning up an oil spill in southeast Louisiana / AP News](https://apnews.com/article/oil-spill-louisiana-plaquemines-parish-spectrum-7fdc4ce152bd18169e48f801ef98f72b)<br />By  JACK BROOK<br />Updated 5:50 PM EDT, May 5, 2025
