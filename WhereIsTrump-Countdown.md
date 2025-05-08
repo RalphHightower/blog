@@ -25,7 +25,7 @@ mn_offset: {{ mn_offset }}
 tz_offset: {{ tz_offset }}
 {% assign secs_gmt = secs_now | plus: tz_offset %}
 secs_gmt: {{ secs_gmt }}
-{% assign expire = gmt_now | date: "%a, %d %b %Y %H:%M:%S GMT" %}
+{% assign expire = secs_gmt | date: "%a, %d %b %Y %H:%M:%S GMT" %}
 
 expire: {{ expire }}
 
