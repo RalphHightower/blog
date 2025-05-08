@@ -12,6 +12,15 @@ title: "Where Is Trump? 🔥DC? FL⛳️?"
 
 If it's the weekend, America's Golfer-in-Chief, [Trump](https://www.donaldjtrump.com/) is busy grifting America, playing golf at his [Mar-a-Lago Golf Resort](https://www.maralagoclub.com/)
 
+{% assign secs_now = 'now' | date: "%s" $}
+{% assign tz_now = secs_now | date: "%:z" | split: ":" %}
+{% assign secs_gmt = tz_now[0] | times: 3600 | plus: tz_now[1] %}
+secs_gmt: {{ secs_gmt }}
+{% assign gmt_now = secs_now | plus: secs_gmt %}
+{% assign expire = gmt_now | date: "%a, %d %b %Y %H:%M:%S GMT" %}
+
+expire: {{ expire }}
+
 {% assign timestamp = 'now' | date: "%F %r%:z %Z" %}
 Current Date/Time: {{ timestamp }}
 
