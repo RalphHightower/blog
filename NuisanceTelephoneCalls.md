@@ -2,7 +2,7 @@
 layout: page
 tags: [assholes, Donald Trump, Elon Musk, Betsy DeVos, MAGA billionaires, billionaire, Trump donors, Republican PAC, Make America Great Again (MAGA)]
 categories: [Telephone Numbers]
-date: 2025-05-06 10:39 PM
+date: 2025-05-07 8:55 PM
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description: 
@@ -18,6 +18,24 @@ The telephone numbers below have called and there is an empty person on the othe
 
 | Telephone Number | Location | Date Time[^11] | Caller | Social Media |
 |---|---|---|---|---|
+| <a href="tel:+18037592678">+1 (803) 759-2678</a> | SC. Holly Hill | 2025-05-07 06:47 PM | — | |
+| <a href="tel:+18036569719">+1 (803) 656-9719</a> | SC. Clover | 2025-05-07 06:28 PM | — | |
+| <a href="tel:+18036260632">+1 (803) 626-0632</a> | SC. Columbia | 2025-05-07 06:26 PM | — | |
+| <a href="tel:+18035960742">+1 (803) 596-0742</a> | SC. Orangeburg | 2025-05-07 05:56 PM | — | |
+| <a href="tel:+18036521249">+1 (803) 652-1249</a> | SC. New Ellington | 2025-05-07 05:40 PM | — | |
+| <a href="tel:+18032444012">+1 (803) 244-4012</a> | DC. Bamberg | 2025-05-07 05:29 PM | — | |
+| <a href="tel:+18032121906">+1 (803) 212-1906</a> | SC. Columbia | 2025-05-07 03:56 PM ¤¤ | — | |
+| <a href="tel:+18032121906">+1 (803) 212-1906</a> | SC. Columbia | 2025-05-07 03:55 PM | — | |
+| <a href="tel:+18032121906">+1 (803) 212-1906</a> | SC. Columbia | 2025-05-07 03:55 PM | — | |
+| <a href="tel:+18034890628">+1 (803) 489-0628</a> | SC. Beech Island | 2025-05-07 02:21 PM | — | |
+| <a href="tel:+18033568460">+1 (803) 356-8460</a> | SC. Lexington | 2025-05-07 12:57 PM | — | |
+| <a href="tel:+18036393574">+1 (803) 639-3574</a> | SC. York | 2025-05-07 12:35 PM | — | |
+| <a href="tel:+18038237108">+1 (803) 823-7108</a> | SC. Cameron | 2025-05-07 12:25 PM | Potential Spam | |
+| <a href="tel:+18038237108">+1 (803) 823-7108</a> | SC. Cameron | 2025-05-07 12:24 PM | Potential Spam | |
+| <a href="tel:+18032232612">+1 (803) 223-2612</a> | SC. Columbia | 2025-05-07 12:13 PM | Columbia Intern | |
+| <a href="tel:+18035878653">+1 (803) 587-8653</a> | SC. Columbia | 2025-05-07 09:41 AM | SC Gov't | |
+| <a href="tel:+18035878653">+1 (803) 587-8653</a> | SC. Columbia | 2025-05-07 09:41 AM | SC Gov't | |
+| <a href="tel:+18036616852">+1 (803) 661-6852</a> | SC. | 2025-05-07 09:33 AM | Potential Spam | |
 | <a href="tel:+18036159217">+1 (803) 615-9217</a> | SC. Edgefield | 2025-05-06 04:47 PM | — | |
 | <a href="tel:+18039980401">+1 (803) 998-0401</a> | SC. New Ellington | 2025-05-06 03:13 PM | Potential Spam | |
 | <a href="tel:+18039980401">+1 (803) 998-0401</a> | SC. New Ellington | 2025-05-06 03:13 PM | Potential Spam | |
