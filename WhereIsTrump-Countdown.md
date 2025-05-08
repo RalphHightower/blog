@@ -12,10 +12,10 @@ title: "Where Is Trump? 🔥DC? FL⛳️?"
 
 If it's the weekend, America's Golfer-in-Chief, [Trump](https://www.donaldjtrump.com/) is busy grifting America, playing golf at his [Mar-a-Lago Golf Resort](https://www.maralagoclub.com/)
 
-{% assign secs_now = 'now' | date: "%s" $}
-{% assign tz_now = secs_now | date: "%:z" $}
+{% assign secs_now = 'now' | date: "%s" %}
+{% assign tz_now = secs_now | date: "%:z" %}
 tz_now: {{ tz_now }}
-{% tz_hhmm = tz_now | split: ":" %}
+{% assign tz_hhmm = tz_now | split: ":" %}
 {% assign hr_offset = tz_hhmm[0] | times: 3600 %}
 hr_offset: {{ hr_offset }}
 {% assign mn_offset = tz_hhmm[1] | times: 1 %}
