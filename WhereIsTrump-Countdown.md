@@ -14,7 +14,11 @@ If it's the weekend, America's Golfer-in-Chief, [Trump](https://www.donaldjtrump
 
 {% assign secs_now = 'now' | date: "%s" $}
 {% assign tz_now = secs_now | date: "%:z" | split: ":" %}
-{% assign secs_gmt = tz_now[0] | times: 3600 | plus: tz_now[1] %}
+tz_now: {{ tz_now }}
+{% assign hr_offset = tz_now[0] | times: 3600 %}
+{% assign mn_offset = tz_now[1] | times: 1 %}
+{% assign tz_offset = hr_offset | plus: mn_offset %}
+{% assign secs_gmt = secs_now | plus: tz_offset %}
 secs_gmt: {{ secs_gmt }}
 {% assign gmt_now = secs_now | plus: secs_gmt %}
 {% assign expire = gmt_now | date: "%a, %d %b %Y %H:%M:%S GMT" %}
