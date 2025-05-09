@@ -2,7 +2,7 @@
 layout: page
 tags: [assholes, Donald Trump, Elon Musk, Betsy DeVos, MAGA billionaires, billionaire, Trump donors, Republican PAC, Make America Great Again (MAGA)]
 categories: [Telephone Numbers]
-date: 2025-05-07 8:55 PM
+date: 2025-05-08 7:59 PM
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description: 
@@ -18,8 +18,32 @@ The telephone numbers below have called and there is an empty person on the othe
 
 | Telephone Number | Location | Date Time[^11] | Caller | Social Media |
 |---|---|---|---|---|
+| <a href="tel:+18039937519">+1 (803) 993-7519</a> | SC. Denmark | 2025-05-08 06:42 PM | — | |
+| <a href="tel:+18032210539">+1 (803) 221-0539</a> | SC. Beech Island | 2025-05-08 05:34 PM | Eric Perez | |
+| <a href="tel:+18035909627">+1 (803) 590-9627</a> | SC. Little Mountain | 2025-05-08 04:53 PM ¤¤ | — | |
+| <a href="tel:+18035909627">+1 (803) 590-9627</a> | SC. Little Mountain | 2025-05-08 04:52 PM | — | |
+| <a href="tel:+18037560523">+1 (803) 756-0523</a> | SC. Columbia | 2025-05-08 03:53 PM | Potential Spam | |
+| <a href="tel:+18033597828">+1 (803) 359-7828</a> | SC. | 2025-05-08 03:49 PM | John Floyd | |
+| <a href="tel:+18036183594">+1 (803) 618-3594</a> | SC. Johnston | 2025-05-08 03:06 PM | — | |
+| <a href="tel:+18038067574">+1 (803) 806-7574</a> | SC. | 2025-05-08 02:47 PM ¤¤ | Potential Spam | |
+| <a href="tel:+18038067574">+1 (803) 806-7574</a> | SC. | 2025-05-08 02:46 PM | Potential Spam | |
+| <a href="tel:+18036308772">+1 (803) 630-8772</a> | SC. Clover | 2025-05-08 02:36 PM | Potential Spam | |
+| <a href="tel:+18038638424">+1 (803) 863-8424</a> | SC. Columbia | 2025-05-08 01:48 PM | — | |
+| <a href="tel:+18036147521">+1 (803) 614-7521</a> | SC. | 2025-05-08 12:51 PM | — | |
+| <a href="tel:+18037646902">+1 (803) 764-6902</a> | SC. Columbia | 2025-05-08 12:35 PM | Potential Spam | |
+| <a href="tel:+18032915923">+1 (803) 291-5923</a> | SC. Salley | 2025-05-08 12:23 PM ¤¤ | Potential Spam | |
+| <a href="tel:+18032915923">+1 (803) 291-5923</a> | SC. Salley | 2025-05-08 12:22 PM | Potential Spam | |
+| <a href="tel:+18039630927">+1 (803) 963-0927</a> | SC. Barnwell | 2025-05-08 12:16 PM | — | |
+| <a href="tel:+18036639657">+1 (803) 663-9657</a> | SC. Graniteville | 2025-05-08 12:12 PM | — | |
+| <a href="tel:+18033400718">+1 (803) 340-0718</a> | SC. Sumter | 2025-05-08 11:26 AM | Jonathan Lee | |
+| <a href="tel:+18032191878">+1 (803) 219-1878</a> | SC. Blackville | 2025-05-08 11:23 AM | Potential Spam | |
+| <a href="tel:+18032191878">+1 (803) 219-1878</a> | SC. Blackville | 2025-05-08 11:23 AM ¤¤ | Potential Spam | |
+| <a href="tel:+18038939609">+1 (803) 893-9609</a> | SC. | 2025-05-08 10:55 AM | — | |
+| <a href="tel:+18033549324">+1 (803) 354-9324</a> | SC. Columbia | 2025-05-08 09:58 AM ¤¤ | — | |
+| <a href="tel:+18033549324">+1 (803) 354-9324</a> | SC. Columbia | 2025-05-08 09:57 AM | — | |
 | <a href="tel:+18037592678">+1 (803) 759-2678</a> | SC. Holly Hill | 2025-05-07 06:47 PM | — | |
 | <a href="tel:+18036569719">+1 (803) 656-9719</a> | SC. Clover | 2025-05-07 06:28 PM | — | |
+| <a href="tel:+18036260632">+1 (803) 626-0632</a> | SC. Columbia | 2025-05-07 06:27 PM ¤¤ | — | |
 | <a href="tel:+18036260632">+1 (803) 626-0632</a> | SC. Columbia | 2025-05-07 06:26 PM | — | |
 | <a href="tel:+18035960742">+1 (803) 596-0742</a> | SC. Orangeburg | 2025-05-07 05:56 PM | — | |
 | <a href="tel:+18036521249">+1 (803) 652-1249</a> | SC. New Ellington | 2025-05-07 05:40 PM | — | |
