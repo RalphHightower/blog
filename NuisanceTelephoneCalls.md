@@ -2,7 +2,7 @@
 layout: page
 tags: [assholes, Donald Trump, Elon Musk, Betsy DeVos, MAGA billionaires, billionaire, Trump donors, Republican PAC, Make America Great Again (MAGA)]
 categories: [Telephone Numbers]
-date: 2025-05-08 7:59 PM
+date: 2025-05-09 8:59 PM
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description: 
@@ -18,6 +18,18 @@ The telephone numbers below have called and there is an empty person on the othe
 
 | Telephone Number | Location | Date Time[^11] | Caller | Social Media |
 |---|---|---|---|---|
+| <a href="tel:+18032634013">+1 (803) 263-4013</a> | SC. Norway | 2025-05-09 05:21 PM | Hickson Cassandra | |
+| <a href="tel:+18037177481">+1 (803) 717-7481</a> | SC. Sumter | 2025-05-09 04:54 PM | [US AF Shaw AFB](https://www.shaw.af.mil/) | |
+| <a href="tel:+18037177481">+1 (803) 717-7481</a> | SC. Sumter | 2025-05-09 04:54 PM | [US AF Shaw AFB](https://www.shaw.af.mil/) | |
+| <a href="tel:+18038012403">+1 (803) 801-2403</a> | SC. Winnsboro | 2025-05-09 03:50 PM | — | |
+| <a href="tel:+18038108781">+1 (803) 810-8781</a> | SC. Clover | 2025-05-09 03:07 PM | — | |
+| <a href="tel:+18037607197">+1 (803) 760-7197</a> | SC. Columbia | 2025-05-09 01:41 PM | — | |
+| <a href="tel:+18038182715">+1 (803) 818-2715</a> | SC. York | 2025-05-09 01:14 PM | Potential Spam | |
+| <a href="tel:+18037419213">+1 (803) 741-9213</a> | SC. Columbia | 2025-05-09 12:43 PM | — | |
+| <a href="tel:+18038254010">+1 (803) 825-4010</a> | SC. Manning | 2025-05-09 12:10 PM | Potential Spam | |
+| <a href="tel:+18039376715">+1 (803) 937-6715</a> | SC. | 2025-05-09 11:57 AM | Timothy Newman | |
+| <a href="tel:+18032002065">+1 (803) 200-2065</a> | SC. Columbia | 2025-05-09 11:34 AM | — | |
+| <a href="tel:+18037926527">+1 (803) 792-6527</a> | SC. York | 2025-05-09 10:29 AM | — | |
 | <a href="tel:+18039937519">+1 (803) 993-7519</a> | SC. Denmark | 2025-05-08 06:42 PM | — | |
 | <a href="tel:+18032210539">+1 (803) 221-0539</a> | SC. Beech Island | 2025-05-08 05:34 PM | Eric Perez | |
 | <a href="tel:+18035909627">+1 (803) 590-9627</a> | SC. Little Mountain | 2025-05-08 04:53 PM ¤¤ | — | |
@@ -255,8 +267,32 @@ The telephone numbers below have called and there is an empty person on the othe
 | <a href="tel:+18036964142">+1 (803) 696-4142</a> | SC. | 2025-04-11 03:13 PM | Sounds of Victory Outreach | |
 | <a href="tel:+18036616216">+1 (803) 661-6216</a> | SC. Columbia | 2025-04-11 01:18 PM | Jessica Pickett | |
 | <a href="tel:+18035784641">+1 (803) 578-4641</a> | SC. Fort Mill | 2025-04-11 11:11 AM | — | |
-| <a href="tel:+18037175107">+1 (803) 717-5107</a> | SC. Sumter | 2025-04-11 10:27 AM ¤¤ | US AF Shaw AF Base | |
-| <a href="tel:+18037175107">+1 (803) 717-5107</a> | SC. Sumter | 2025-04-11 10:26 AM | US AF Shaw AF Base | |
+| <a href="tel:+18037175107">+1 (803) 717-5107</a> | SC. Sumter | 2025-04-11 10:27 AM ¤¤ | | <a href="tel:+18032634013">+1 (803) 263-4013</a> | SC. Norway | 2025-05-09 05:21 PM | Hickson Cassandra | |
+| <a href="tel:+18037177481">+1 (803) 717-7481</a> | SC. Sumter | 2025-05-09 04:54 PM | [US AF Shaw AFB](https://www.shaw.af.mil/) | |
+| <a href="tel:+18037177481">+1 (803) 717-7481</a> | SC. Sumter | 2025-05-09 04:54 PM | [US AF Shaw AFB](https://www.shaw.af.mil/) | |
+| <a href="tel:+18038012403">+1 (803) 801-2403</a> | SC. Winnsboro | 2025-05-09 03:50 PM | — | |
+| <a href="tel:+18038108781">+1 (803) 810-8781</a> | SC. Clover | 2025-05-09 03:07 PM | — | |
+| <a href="tel:+18037607197">+1 (803) 760-7197</a> | SC. Columbia | 2025-05-09 01:41 PM | — | |
+| <a href="tel:+18038182715">+1 (803) 818-2715</a> | SC. York | 2025-05-09 01:14 PM | Potential Spam | |
+| <a href="tel:+18037419213">+1 (803) 741-9213</a> | SC. Columbia | 2025-05-09 12:43 PM | — | |
+| <a href="tel:+18038254010">+1 (803) 825-4010</a> | SC. Manning | 2025-05-09 12:10 PM | Potential Spam | |
+| <a href="tel:+18039376715">+1 (803) 937-6715</a> | SC. | 2025-05-09 11:57 AM | Timothy Newman | |
+| <a href="tel:+18032002065">+1 (803) 200-2065</a> | SC. Columbia | 2025-05-09 11:34 AM | — | |
+| <a href="tel:+18037926527">+1 (803) 792-6527</a> | SC. York | 2025-05-09 10:29 AM | — | |
+ | |
+| <a href="tel:+18037175107">+1 (803) 717-5107</a> | SC. Sumter | 2025-04-11 10:26 AM | | <a href="tel:+18032634013">+1 (803) 263-4013</a> | SC. Norway | 2025-05-09 05:21 PM | Hickson Cassandra | |
+| <a href="tel:+18037177481">+1 (803) 717-7481</a> | SC. Sumter | 2025-05-09 04:54 PM | [US AF Shaw AFB](https://www.shaw.af.mil/) | |
+| <a href="tel:+18037177481">+1 (803) 717-7481</a> | SC. Sumter | 2025-05-09 04:54 PM | [US AF Shaw AFB](https://www.shaw.af.mil/) | |
+| <a href="tel:+18038012403">+1 (803) 801-2403</a> | SC. Winnsboro | 2025-05-09 03:50 PM | — | |
+| <a href="tel:+18038108781">+1 (803) 810-8781</a> | SC. Clover | 2025-05-09 03:07 PM | — | |
+| <a href="tel:+18037607197">+1 (803) 760-7197</a> | SC. Columbia | 2025-05-09 01:41 PM | — | |
+| <a href="tel:+18038182715">+1 (803) 818-2715</a> | SC. York | 2025-05-09 01:14 PM | Potential Spam | |
+| <a href="tel:+18037419213">+1 (803) 741-9213</a> | SC. Columbia | 2025-05-09 12:43 PM | — | |
+| <a href="tel:+18038254010">+1 (803) 825-4010</a> | SC. Manning | 2025-05-09 12:10 PM | Potential Spam | |
+| <a href="tel:+18039376715">+1 (803) 937-6715</a> | SC. | 2025-05-09 11:57 AM | Timothy Newman | |
+| <a href="tel:+18032002065">+1 (803) 200-2065</a> | SC. Columbia | 2025-05-09 11:34 AM | — | |
+| <a href="tel:+18037926527">+1 (803) 792-6527</a> | SC. York | 2025-05-09 10:29 AM | — | |
+ | |
 | <a href="tel:+18034621318">+1 (803) 462-1318</a> | SC. Columbia | 2025-04-11 10:23 AM | — | |
 | <a href="tel:+18033507846">+1 (803) 350-7846</a> | SC. Eastover | 2025-04-11 09:17 AM ¤¤ | — | |
 | <a href="tel:+18033507846">+1 (803) 350-7846</a> | SC. Eastover | 2025-04-11 09:16 AM | — | |
