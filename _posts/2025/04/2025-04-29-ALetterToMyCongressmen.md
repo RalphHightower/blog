@@ -10,36 +10,9 @@ excerpt: 'Freedom from Consequences is not a protected Constitutional Right – 
 title: "An Open Letter to My Trumpian Legislators From South Carolina"
 ---
 
-To Do:
-Links to Jerome Powell 
-Links to Kilmar Abrego Garcia 
-
-- [Trump’s ‘America First’ Will Leave ‘America Alone’. Pissing Off Allies, Trading Partners]({% link _posts/2025/04/2025-04-07-TrumpsAmericaFirstWillBeAmericaAlone.md %})
-- [How To Lose Friends And Piss Off The World 🌎: Trump’s Tariffs Continue Market Turmoil. Trumpcession On Target!]({% link _posts/2025/04/2025-04-04-20250404StockMarketClosingIndexes.md %})<br />2025-04-04 @RalphHightower 
-- [How To Lose Friends and Piss Off The World 🌎: Trump Tariffs Unleash Bears In World’s China Shops]({% link _posts/2025/04/2025-04-03-TrumpTariffsTankMarkets.md %}).<br />2025-04-03. @RalphHightower 
-- [How To Lose Friends (Canada) And Piss Off The World 🌎 ]({% link _posts/2025/03/2025-03-30-HowToLoseFriendsSndPissOffTheWorld.md %}).<br />2025-03-30 @RalphHightower
-- [Shit You Can’t Make Up: Yemen Houthi Strike Planning Held On Unsecured Phones In Group Chat]({% link _posts/2025/03/2025-03-25-YemenHouthiWarPlansTextedUnsecured.md %}).<br />2025-03-25 @RalphHightower
-- [Canada Considers Buying Fighter Jets From Europe Instead Of US Due To Trump’s Instability and Unpredictable Continued Membership In NATO. Lockheed Martin Loses Contract Of F-35 Jets Worth $19 Billion]({% link _posts/2025/03/2025-03-17-TrumpTradeWarWithWorldJustLostDefenseOrderCanada.md %}).<br />2025-03-17. @RalphHightower
-- [Stock Markets Tumbles. Trumpcession Looming. Government Shutdown Pending. Trump Golfs!]({% link _posts/2025/03/2025-03-14-NationalPiDayWeekendTrumpGolfs.md %}).<br />2025-03-14 @RalphHightower
-- [Trump Is the Manchurian Candidate: Fucking Believable! Europe, NATO, and Our Former Allies No Longer Trust the US as Trump Shifts Allegiance With Russia!]({% link _posts/2025/03/2025-03-06-UnthinkableUSLosesIntelligenceWithFreeWorld.md %}).<br />2025-03-06. @RalphHightower
-- [Canada Responds to Trump Tariffs: Prime Minister Justin Trudeau & Foreign Minister Mélanie Joly]({% link _posts/2025/03/2025-03-06-CanadaRespondsToTrumpTariffs.md %}).<br />2025-03-06 @RalphHightower
-- [Trump and Vance Unprecedented Blind Ambush on Ukraine President Volodymyr Zelenskyy Destroyed the US Reputation as a Bastion of Democracy and World Leadership]({% link _posts/2025/03/2025-03-01-ZelenskyyAmbush.md %}).<br />2025-03-01 @RalphHightower
-- [Fucking Idiots: Trump & Vance Shouting at Zelenskyy While He Tries To Educate Them About the Ukraine War History]({% link _posts/2025/02/2025-02-28-TrumpVanceFuckingIdiotsUkraine.md %}).<br />2025-02-28. @RalphHightower
-
 ## An Open Letter to My Trumpian Legislators 
 
-| [Congressmen](https://www.congress.gov/) |
-|---|
-| [House of Representatives](https://www.house.gov/) |
-| **[Joe Wilson, (T-SC2)](https://joewilson.house.gov/)** |
-| 1436 Longworth House Office Building <br /> 1 Independence Ave SE <br /> Washington, DC  20515 <br /> Phone: <a href="tel:+12022252452">(202) 225-2452</a> |
-| [Senate](https://www.senate.gov/) |
-| **[Lindsey Graham (T-SC)](https://www.lgraham.senate.gov/)** | 
-| 211 Russell Senate Office Building <br /> 2 Constitution Ave NE <br /> Washington, DC 20510 <br /> Office: <a href="tel:+12022245972">(202) 224-5972</a> <br /> Fax: <a href="tel:+12022243808">(202) 224-3808</a> |
-| **[Tim Scott (T-SC)](https://www.scott.senate.gov/)** |
-| 104 Hart Senate Office <br /> 120 Constitution Ave NE <br /> Washington, DC 20510 <br /> Phone: <a href="tel:+12022246121">(202) 224-6121</a> <br /> Fax: <a href="tel:+12022275143">(202) 228-5143</a> |
-
-[Congressman](https://www.congress.gov/) [Rep.](https://www.house.gov/) [Joe Wilson](https://joewilson.house.gov/) | [Sen.](https://www.senate.gov/) [Lindsey Graham](https://www.lgraham.senate.gov/) | [Sen.](https://www.senate.gov/) [Tim Scott](https://www.scott.senate.gov/):
+[Congressman](https://www.congress.gov/) [Rep.](https://www.house.gov/) [Joe Wilson (T-SC2)](https://joewilson.house.gov/) | [Sen.](https://www.senate.gov/) [Lindsey Graham (T-SC)](https://www.lgraham.senate.gov/) | [Sen.](https://www.senate.gov/) [Tim Scott (T-SC)](https://www.scott.senate.gov/):
 
 Elections have consequences, and the choices we make today will shape the future of our democracy.
 
@@ -69,7 +42,7 @@ Banning the [Associated Press](https://www.apnews.com/) from White House press b
  
 The [AP Stylebook](https://www.ap.org/solutions/platforms/ap-stylebook/) specifies using internationally recognized names, as such, the Gulf of Mexico will continue to be used.
 
-However, since Mount Denali is within America's borders, it will now be recognized as Mount McKinley per [Trump](https://www.donaldjtrump.com/)'s Executive Orders and the chagrin of Alaskans.
+However, since Mount Denali is within America's borders, it will now be recognized as Mount McKinley per [Trump](https://www.donaldjtrump.com/)'s [Executive Order](https://www.whitehouse.gov/presidential-actions/2025/01/restoring-names-that-honor-american-greatness/) and the chagrin of [Alaskans](https://www.alaska.gov/).
 
 ### Banning Law Firms From Federal Buildings, Contracts, Revoking Security Clearances:
 
@@ -91,13 +64,13 @@ My use of the word persecute is intentional.
 
 ### Ignoring Court Rulings:
 
-One court case received a unanimous 9-0 [Supreme Court](https://www.supremecourt.gov/) in favor of returning Abrego Garcia to the US. Another judge is considering holding the [Trump](https://www.donaldjtrump.com/) [administration](https://www.whitehouse.gov/) in Contempt of [Court](https://www.uscourts.gov/). This deportation of illegal aliens in the dead of night to El Salvador's gulag, CECOT prison, violates the [Fifth](https://constitution.congress.gov/constitution/amendment-5/) and [Sixth Amendments](https://constitution.congress.gov/constitution/amendment-6/). 
+One court case received a unanimous 9-0 [Supreme Court](https://www.supremecourt.gov/) in favor of returning Abrego Garcia to the US. Another judge is considering holding the [Trump](https://www.donaldjtrump.com/) [administration](https://www.whitehouse.gov/) in Contempt of [Court](https://www.uscourts.gov/). This deportation of illegal aliens in the dead of night to [El Salvador](https://www.gob.sv/)'s gulag, CECOT prison, violates the [Fifth](https://constitution.congress.gov/constitution/amendment-5/) and [Sixth Amendments](https://constitution.congress.gov/constitution/amendment-6/). 
 
 Every person is due process of law. We are a nation of laws, not ruled by a king.
 
 ### [Trump](https://www.donaldjtrump.com/)’s Capricious Leadership & On Again, Off Again Tariffs 
 
-Because of [Trump](https://www.donaldjtrump.com/)’s whipsaw actions, [Canada](https://www.canada.ca/) is considering canceling their 19 billion dollar order of [Lockheed Martin](https://www.lockheedmartin.com/) [F-35 fighter jets](https://www.lockheedmartin.com/) [F-35](https://www.lockheedmartin.com/en-us/products/f-35.html) and buying from [Europe](https://commission.europa.eu/). [Portugal](https://www.portugal.gov.pt/pt/gc24) is canceling their order.
+Because of [Trump](https://www.donaldjtrump.com/)’s whipsaw actions, [Canada](https://www.canada.ca/) is considering cancelling their 19 billion dollar order of [Lockheed Martin](https://www.lockheedmartin.com/) [F-35 fighter jets](https://www.lockheedmartin.com/) [F-35](https://www.lockheedmartin.com/en-us/products/f-35.html) and buying from [Europe](https://commission.europa.eu/). [Portugal](https://www.portugal.gov.pt/pt/gc24) is canceling their order.
 
 The [European Union](https://commission.europa.eu/) looks to strengthen trading partnerships with [China](https://www.gov.cn/) and reduce trade with the [United States](https://www.usa.gov/).
 
@@ -115,11 +88,11 @@ Only [Congress](https://www.congress.gov/) has the power to create legislation f
 
 The courts have the power to strike laws or refine laws. 
 
-Threatening to have the [IRS](https://www.irs.gov/) revoke Harvard's tax exempt status is [Nixon-esque](https://www.nixonlibrary.gov/). Just because [Trump](https://www.donaldjtrump.com/) doesn't like it's policies or courses is outside of the powers of a [presidency](https://www.whitehouse.gov/).
+Threatening to have the [IRS](https://www.irs.gov/) revoke [Harvard](https://www.harvard.edu/)'s tax exempt status is [Nixon-esque](https://www.nixonlibrary.gov/). Just because [Trump](https://www.donaldjtrump.com/) doesn't like it's policies or courses is outside of the powers of a [presidency](https://www.whitehouse.gov/).
 
 ### Signalgate:
 
-If the sharing of wars plans on their unsecured personal cellphones had happened with a Democratic president, Trumpian legislators, [Trumpers](https://www.gop.com/) would have been ap​o​plec​tic, demanding firings. With a journalist, no less, in the group chat. The reaction from [Trumpers](https://www.gop.com/) was, "Meh." This breach of protocol undermines the integrity of our military operations and puts American lives at risk.
+If the sharing of war plans on their unsecured personal cellphones had happened with a [Democratic](https://) president, [Trumpian legislators](https://www.gop.com/) would have been ap​o​plec​tic, demanding firings. With a journalist, no less, in the group chat. The reaction from [Trumpers](https://www.gop.com/) was, "Meh." This breach of protocol undermines the integrity of our military operations and puts American lives at risk.
 
 [Trump](https://www.donaldjtrump.com/)’s “America First” policy has left “America Alone” and isolated.
 
@@ -139,6 +112,17 @@ Freedom from Consequences is not a protected [Constitutional](https://constituti
 
 s/
 Ralph  Hightower
+
+| [Congressmen](https://www.congress.gov/) |
+|---|
+| [House of Representatives](https://www.house.gov/) |
+| **[Joe Wilson, (T-SC2)](https://joewilson.house.gov/)** |
+| 1436 Longworth House Office Building <br /> 1 Independence Ave SE <br /> Washington, DC  20515 <br /> Phone: <a href="tel:+12022252452">(202) 225-2452</a> |
+| [Senate](https://www.senate.gov/) |
+| **[Lindsey Graham (T-SC)](https://www.lgraham.senate.gov/)** | 
+| 211 Russell Senate Office Building <br /> 2 Constitution Ave NE <br /> Washington, DC 20510 <br /> Office: <a href="tel:+12022245972">(202) 224-5972</a> <br /> Fax: <a href="tel:+12022243808">(202) 224-3808</a> |
+| **[Tim Scott (T-SC)](https://www.scott.senate.gov/)** |
+| 104 Hart Senate Office <br /> 120 Constitution Ave NE <br /> Washington, DC 20510 <br /> Phone: <a href="tel:+12022246121">(202) 224-6121</a> <br /> Fax: <a href="tel:+12022275143">(202) 228-5143</a> |
 
 ----
 ## Tim Scott's Reply
@@ -207,6 +191,26 @@ Lindsey Graham
 
 ----
 
+
+## Reference Links
+
+To Do:
+Links to Jerome Powell 
+Links to Kilmar Abrego Garcia 
+
+### Blog Articles 
+
+- 2025-04-07: [Trump’s ‘America First’ Will Leave ‘America Alone’. Pissing Off Allies, Trading Partners]({% link _posts/2025/04/2025-04-07-TrumpsAmericaFirstWillBeAmericaAlone.md %}) 
+- 2025-04-04: [How To Lose Friends And Piss Off The World 🌎: Trump’s Tariffs Continue Market Turmoil. Trumpcession On Target!]({% link _posts/2025/04/2025-04-04-20250404StockMarketClosingIndexes.md %})
+- 2025-04-03: [How To Lose Friends and Piss Off The World 🌎: Trump Tariffs Unleash Bears In World’s China Shops]({% link _posts/2025/04/2025-04-03-TrumpTariffsTankMarkets.md %})
+- 2025-03-30: [How To Lose Friends (Canada) And Piss Off The World 🌎 ]({% link _posts/2025/03/2025-03-30-HowToLoseFriendsSndPissOffTheWorld.md %})
+- 2025-03-25: [Shit You Can’t Make Up: Yemen Houthi Strike Planning Held On Unsecured Phones In Group Chat]({% link _posts/2025/03/2025-03-25-YemenHouthiWarPlansTextedUnsecured.md %})
+- 2025-03-17: [Canada Considers Buying Fighter Jets From Europe Instead Of US Due To Trump’s Instability and Unpredictable Continued Membership In NATO. Lockheed Martin Loses Contract Of F-35 Jets Worth $19 Billion]({% link _posts/2025/03/2025-03-17-TrumpTradeWarWithWorldJustLostDefenseOrderCanada.md %})
+- 2025-03-14: [Stock Markets Tumbles. Trumpcession Looming. Government Shutdown Pending. Trump Golfs!]({% link _posts/2025/03/2025-03-14-NationalPiDayWeekendTrumpGolfs.md %})
+- 2025-03-06: [Trump Is the Manchurian Candidate: Fucking Believable! Europe, NATO, and Our Former Allies No Longer Trust the US as Trump Shifts Allegiance With Russia!]({% link _posts/2025/03/2025-03-06-UnthinkableUSLosesIntelligenceWithFreeWorld.md %})
+- 2025-03-06: [Canada Responds to Trump Tariffs: Prime Minister Justin Trudeau & Foreign Minister Mélanie Joly]({% link _posts/2025/03/2025-03-06-CanadaRespondsToTrumpTariffs.md %})
+- 2025-03-01: [Trump and Vance Unprecedented Blind Ambush on Ukraine President Volodymyr Zelenskyy Destroyed the US Reputation as a Bastion of Democracy and World Leadership]({% link _posts/2025/03/2025-03-01-ZelenskyyAmbush.md %})
+- 2025-02-28: [Fucking Idiots: Trump & Vance Shouting at Zelenskyy While He Tries To Educate Them About the Ukraine War History]({% link _posts/2025/02/2025-02-28-TrumpVanceFuckingIdiotsUkraine.md %})
 
 - [Trump deepens NATO’s crisis of trust on sharing intel – POLITICO](https://www.politico.eu/article/nato-crisis-slovakia-donald-trump-hungary-slovakia-national-defense-academy/)
 - [Maddow Blog / Why some U.S. allies are reassessing intelligence sharing with the Trump administration](https://www.msnbc.com/rachel-maddow-show/maddowblog/us-allies-are-reassessing-intelligence-sharing-trump-administration-rcna195086)
