@@ -1,7 +1,7 @@
 ---
 layout: post
-tags: []
-categories: []
+tags: [MSNBC, NBC News, New York Times (NYT), Stephen Colbert Interviews First Lady Melania Trump, Diet Coke - Flavors Nutrition Facts & Ingredients / Coca-Cola US, $TRUMP, $MELANIA, Women’s History Month / National Women’s History Museum, Constitution of the United States, Supreme Court of the United States (SCOTUS), US Courts, Secretary of State’s 2025 International Women of Courage Award Recipients Announced - United States Department of State, Securities and Exchange (SEC), Commodity Futures Trading Commission (CFTC), Department of Treasury (Treasury), U.S. Office of Government Ethics (OGE), National Register of Historic Places (U.S. National Park Service), Congress, Senate, House of Representatives, Donald J Trump, President Donald Trump (45), President Donald Trump (47), President of the United States (POTUS), White House (WH), Department of State (DOS), Marco Rubio, Marco Rubio - United States Department of State, Department of Defense (DOD), politics, grift, gold trinkets, trailer park trash]
+categories: [Donald Trump]
 date: 2025-05-09 10:42 AM
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
@@ -26,7 +26,7 @@ The [White House](https://www.whitehouse.gov/)’s makeover appears to be gettin
 
 In fact, according to [The New York Times’ recent reporting](https://www.nytimes.com/2025/05/07/us/politics/white-house-melania-absence.html) (which has not been verified by [MSNBC](https://www.msnbc.com/) or [NBC News](https://www.nbcnews.com/), [Melania Trump]({% link _posts/2025/03/2025-03-04-StevenColbertInterviewsMelania2.0.md %}) is so rarely at the [White House](https://www.whitehouse.gov/) that the [president](https://www.whitehouse.gov/administration/donald-j-trump/) himself has taken over some of the duties that typically fall to the first lady, including decor choices for the residence:
 
-At the [White House](https://www.whitehouse.gov/) this time around, [Mr. Trump](https://www.donaldjtrump.com/) has taken to performing some duties that typically would fall to a first lady. She’s not the one carefully selecting light fixtures for the [White House residence](https://www.whitehouse.gov/), redesigning the [Rose Garden](https://www.whitehouse.gov/), greeting tour groups in the [East Wing](https://www.whitehouse.gov/) or hosting receptions for [Women’s History Month](https://www.womenshistory.org/womens-history/womens-history-month). He is.
+> *At the [White House](https://www.whitehouse.gov/) this time around, [Mr. Trump](https://www.donaldjtrump.com/) has taken to performing some duties that typically would fall to a first lady. She’s not the one carefully selecting light fixtures for the [White House residence](https://www.whitehouse.gov/), redesigning the [Rose Garden](https://www.whitehouse.gov/), greeting tour groups in the [East Wing](https://www.whitehouse.gov/) or hosting receptions for [Women’s History Month](https://www.womenshistory.org/womens-history/womens-history-month). He is.*
 
 Beyond a handful of public appearances, the [first lady]({% link _posts/2025/03/2025-03-04-StevenColbertInterviewsMelania2.0.md %}) has hardly been spotted in [Washington, D.C.](https://dcgov/), in her [husband’s second term](https://www.whitehouse.gov/) so far. Last month, she participated in the [White House Easter Egg Roll](https://www.msnbc.com/top-stories/latest/trump-white-house-easter-egg-roll-meta-amazon-youtube-sponsors-rcna201987) and [spoke at](https://abcnews.go.com/Politics/melania-trump-honors-women-bring-progress-humanity/story?id=120378743) the [International Women of Courage Awards](https://www.state.gov/secretary-of-states-2025-international-women-of-courage-award-recipients-announced/) at the [State Department](https://www.state.gov/). But she has spent fewer than 14 days altogether at the [White House](https://www.whitehouse.gov/) since her husband’s inauguration, the [Times](https://www.nytimes.com/) reported, citing two people with knowledge of her schedule.
 
@@ -63,5 +63,6 @@ The prominence of the first lady role has nevertheless afforded her some promoti
 - [Department of Defense (DOD,)](https://www.defense.gov/)
 - politics 
 - grift
+- gold trinkets 
 - trailer park trash
-- 
+
