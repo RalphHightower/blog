@@ -18,15 +18,15 @@ Expires: Thu, 01 Dec 1994 16:00:00 GMT
     {% assign expire = secs_gmt | date: "%a, %d %b %Y %H:%M:%S GMT" %}
     
 <meta http-equiv="Expires" content="{{ expire }}" />
-<meta http-equiv="Surrogate-Control" content="no-store, no-store-remote, no-transform, proxy-revalidate, max-age=15"
+<meta http-equiv="Cache-Control" content="no-cache, no-store, max-age=60, must-revalidate" />
+<meta http-equiv="CDN-Cache-Control" content="max-age=60">
+<meta http-equiv="Cross-Origin-Embedder-Policy" content="require-corp" />
+<meta http-equiv="Cross-Origin-Opener-Policy" content="same-origin" />
+<meta http-equiv="Pragma" content="no-cache" />
+<meta http-equiv="Surrogate-Control" content="no-store, no-store-remote, no-transform, proxy-revalidate, max-age=60"
 {% endif %}
 
 {% comment %}
-<meta http-equiv="Cross-Origin-Opener-Policy" content="same-origin" />
-<meta http-equiv="Cross-Origin-Embedder-Policy" content="require-corp" />
-<meta http-equiv="Cache-Control" content="no-cache, no-store, max-age=0, must-revalidate" />
-<meta http-equiv="Pragma" content="no-cache" />
-<meta http-equiv="CDN-Cache-Control" content="max-age=0">
 {% endcomment %}
 
 <link rel="preload" href="Mona-Sans.woff2" as="font" type="font/woff2" crossorigin />
