@@ -267,7 +267,8 @@ The telephone numbers below have called and there is an empty person on the othe
 | <a href="tel:+18036964142">+1 (803) 696-4142</a> | SC. | 2025-04-11 03:13 PM | Sounds of Victory Outreach | |
 | <a href="tel:+18036616216">+1 (803) 661-6216</a> | SC. Columbia | 2025-04-11 01:18 PM | Jessica Pickett | |
 | <a href="tel:+18035784641">+1 (803) 578-4641</a> | SC. Fort Mill | 2025-04-11 11:11 AM | — | |
-| <a href="tel:+18037175107">+1 (803) 717-5107</a> | SC. Sumter | 2025-04-11 10:27 AM ¤¤ | | <a href="tel:+18032634013">+1 (803) 263-4013</a> | SC. Norway | 2025-05-09 05:21 PM | Hickson Cassandra | |
+| <a href="tel:+18037175107">+1 (803) 717-5107</a> | SC. Sumter | 2025-04-11 10:27 AM ¤¤ | 
+| <a href="tel:+18032634013">+1 (803) 263-4013</a> | SC. Norway | 2025-05-09 05:21 PM | Hickson Cassandra | |
 | <a href="tel:+18037177481">+1 (803) 717-7481</a> | SC. Sumter | 2025-05-09 04:54 PM | [US AF Shaw AFB](https://www.shaw.af.mil/) | |
 | <a href="tel:+18037177481">+1 (803) 717-7481</a> | SC. Sumter | 2025-05-09 04:54 PM | [US AF Shaw AFB](https://www.shaw.af.mil/) | |
 | <a href="tel:+18038012403">+1 (803) 801-2403</a> | SC. Winnsboro | 2025-05-09 03:50 PM | — | |
@@ -279,8 +280,8 @@ The telephone numbers below have called and there is an empty person on the othe
 | <a href="tel:+18039376715">+1 (803) 937-6715</a> | SC. | 2025-05-09 11:57 AM | Timothy Newman | |
 | <a href="tel:+18032002065">+1 (803) 200-2065</a> | SC. Columbia | 2025-05-09 11:34 AM | — | |
 | <a href="tel:+18037926527">+1 (803) 792-6527</a> | SC. York | 2025-05-09 10:29 AM | — | |
- | |
-| <a href="tel:+18037175107">+1 (803) 717-5107</a> | SC. Sumter | 2025-04-11 10:26 AM | | <a href="tel:+18032634013">+1 (803) 263-4013</a> | SC. Norway | 2025-05-09 05:21 PM | Hickson Cassandra | |
+| <a href="tel:+18037175107">+1 (803) 717-5107</a> | SC. Sumter | 2025-04-11 10:26 AM | 
+| <a href="tel:+18032634013">+1 (803) 263-4013</a> | SC. Norway | 2025-05-09 05:21 PM | Hickson Cassandra | |
 | <a href="tel:+18037177481">+1 (803) 717-7481</a> | SC. Sumter | 2025-05-09 04:54 PM | [US AF Shaw AFB](https://www.shaw.af.mil/) | |
 | <a href="tel:+18037177481">+1 (803) 717-7481</a> | SC. Sumter | 2025-05-09 04:54 PM | [US AF Shaw AFB](https://www.shaw.af.mil/) | |
 | <a href="tel:+18038012403">+1 (803) 801-2403</a> | SC. Winnsboro | 2025-05-09 03:50 PM | — | |
@@ -1191,4 +1192,3 @@ The telephone numbers below have called and there is an empty person on the othe
 | <a href="tel:+18038469930">+1 (803) 846-9930</a> | SC. Columbia | 2023-09-01 06:27 AM | Dash Eric #WrongNumber | |
 | <a href="tel:+18038469930">+1 (803) 846-9930</a> | SC. Columbia | 2023-09-01 06:11 AM | Dash Eric #WrongNumber | |
 | <a href="tel:+18038469930">+1 (803) 846-9930</a> | SC. Columbia | 2023-08-31 04:45 PM | Dash Eric #WrongNumber | |
-| <a href="tel:+18037808162">+1 (803) 780-8162</a> | SC. /Fb | 12:55 0PM 12:54 PM | — | |
