@@ -237,6 +237,7 @@ Class III.
 
 ##### My Dumb State: South Carolina
 
+- [My Dumb State: South Carolina Attorney General Alan Wilson Investigates ActBlue (Democrat Party) for ‘Smurfing’, But Not WinRed (Trump Party)]({% link _posts/2025/05/2025-05-01-SCAGTargetsActBlueButNotWinRedForSmurfing.md %}). @RalphHightower, 2025-05-01
 - [My Dumb State, South Carolina: Attorney General, Alan Wilson, Wants To Amend The Fourteenth Amendment – Part 3 (Supreme Court)]({% link _posts/2025/03/2025-03-29-SCAGAmend14thAmendmentPart3.md %}). @RalphHightower, 2025-03-29
 - [My Dumb State, South Carolina: Attorney General, Alan Wilson, Wants To Amend The Fourteenth Amendment – Part 2 (Ninth Appeals Court)]({% link _posts/2025/03/2025-03-14-SCAGAmend14AmendmentPart2.md %}). @RalphHightower, 2025-03-14
 - [My Dumb State, South Carolina: Attorney General Alan Wilson Supports Trump’s Illegal, Lawless Firings Of Government Watchdogs]({% link _posts/2025/02/2025-02-25-SCAG-TAGA-SupportTrumpIllegalFirings.md %}). @RalphHightower, 2025-02-25
