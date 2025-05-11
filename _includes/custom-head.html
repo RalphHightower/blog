@@ -16,14 +16,15 @@ Expires: Thu, 01 Dec 1994 16:00:00 GMT
     {% assign tz_offset = hr_offset | plus: mn_offset %}
     {% assign secs_gmt = secs_now | plus: tz_offset | plus: 60 %}
     {% assign expire = secs_gmt | date: "%a, %d %b %Y %H:%M:%S GMT" %}
-    
-<meta http-equiv="Surrogate-Control" content="no-store, no-store-remote, no-transform, proxy-revalidate, max-age=60, s-maxage=60"
-<meta http-equiv="Cache-Control" content="no-cache, no-store, max-age=60, must-revalidate, s-maxage=60" />
-<meta http-equiv="Expires" content="{{ expire }}" />
 
-{% comment %}
-<meta http-equiv="CDN-Cache-Control" content="max-age=60">
-{% endcomment %}
+    <meta http-equiv="Surrogate-Control" content="no-store, no-store-remote, no-transform, proxy-revalidate, max-age=60, s-maxage=60" />
+    <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate, no-transform, proxy-revalidate, max-age=60, s-maxage=60" />
+    <meta http-equiv="Expires" content="{{ expire }}" />
+
+    {% comment %}
+    <meta http-equiv="CDN-Cache-Control" content="max-age=60">
+    {% endcomment %}
+
 {% endif %}
 
 <link rel="preload" href="Mona-Sans.woff2" as="font" type="font/woff2" crossorigin />
