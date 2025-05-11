@@ -7,7 +7,7 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: "Trump’s Trade Tariffs Tiff Puts Federal Reserve Chair Jerome Powell In a Kobayashi Maru Situation. But This Is NOT Situation!"
+title: "Trump’s Trade Tariffs Tiff Puts Federal Reserve Chair Jerome Powell In a Kobayashi Maru Situation. But This Is NOT Simulation!"
 ---
 
 
