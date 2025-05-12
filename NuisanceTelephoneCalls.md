@@ -2,7 +2,7 @@
 layout: page
 tags: [assholes, Donald Trump, Elon Musk, Betsy DeVos, MAGA billionaires, billionaire, Trump donors, Republican PAC, Make America Great Again (MAGA)]
 categories: [Telephone Numbers]
-date: 2025-05-09 8:59 PM
+date: 2025-05-12 6:50 PM
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description: 
@@ -18,6 +18,23 @@ The telephone numbers below have called and there is an empty person on the othe
 
 | Telephone Number | Location | Date Time[^11] | Caller | Social Media |
 |---|---|---|---|---|
+| <a href="tel:+18039917037">+1 (803) 991-7037</a> | SC. | 2025-05-12 04:06 PM ¤¤ | — | |
+| <a href="tel:+18039917037">+1 (803) 991-7037</a> | SC. | 2025-05-12 04:05 PM | — | |
+| <a href="tel:+18033810481">+1 (803) 381-0481</a> | SC. Columbia | 2025-05-12 03:48 PM | — | |
+| <a href="tel:+18032284062">+1 (803) 228-4062</a> | SC. Fort Mill | 2025-05-12 03:35 PM | Potential Spam | |
+| <a href="tel:+18034160525">+1 (803) 416-0525</a> | SC. Lancaster | 2025-05-12 02:37 PM | — | |
+| <a href="tel:+18032624686">+1 (803) 262-4686</a> | SC. Aiken | 2025-05-12 01:23 PM | USARC | |
+| <a href="tel:+18038534817">+1 (803) 853-4817</a> | SC. | 2025-05-12 01:14 PM | Potential Spam | |
+| <a href="tel:+18038255656">+1 (803) 825-5656</a> | SC. Manning | 2025-05-12 12:38 PM | — | |
+| <a href="tel:+18035705791">+1 (803) 570-5791</a> | SC. | 2025-05-12 12:08 PM ¤¤ | — | |
+| <a href="tel:+18035705791">+1 (803) 570-5791</a> | SC. | 2025-05-12 12:06 PM | — | |
+| <a href="tel:+18036180854">+1 (803) 618-0854</a> | SC. Johnston | 2025-05-12 12:00 PM | — | |
+| <a href="tel:+18035917645">+1 (803) 591-7645</a> | SC. Barnwell | 2025-05-12 11:31 AM | — | |
+| <a href="tel:+18037410352">+1 (803) 741-0352</a> | SC. | 2025-05-12 11:00 AM ¤¤ | — | |
+| <a href="tel:+18037410352">+1 (803) 741-0352</a> | SC. | 2025-05-12 10:59 AM | — | |
+| <a href="tel:+18035157036">+1 (803) 515-7036</a> | SC. Orangeburg | 2025-05-12 10:29 AM ¤¤ | Potential Spam | |
+| <a href="tel:+18035157036">+1 (803) 515-7036</a> | SC. Orangeburg | 2025-05-12 10:28 AM | Potential Spam | |
+| <a href="tel:+18034198224">+1 (803) 419-8224</a> | SC. | 2025-05-12 09:54 AM | Mary Bacote | |
 | <a href="tel:+18032634013">+1 (803) 263-4013</a> | SC. Norway | 2025-05-09 05:21 PM | Hickson Cassandra | |
 | <a href="tel:+18037177481">+1 (803) 717-7481</a> | SC. Sumter | 2025-05-09 04:54 PM | [US AF Shaw AFB](https://www.shaw.af.mil/) | |
 | <a href="tel:+18037177481">+1 (803) 717-7481</a> | SC. Sumter | 2025-05-09 04:54 PM | [US AF Shaw AFB](https://www.shaw.af.mil/) | |
