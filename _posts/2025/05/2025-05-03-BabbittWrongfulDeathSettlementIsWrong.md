@@ -38,8 +38,8 @@ While the details of the settlement haven’t been disclosed, [U.S. District](ht
 | [U.S. Capitol Police](https://www.uscp.gov/) | [U.S. Capitol Police](https://www.uscp.gov/) Officers work to protect life and property, investigate criminal acts, and enforce traffic regulations on U.S. Capitol Grounds. Officers are also responsible for protecting members, officers of Congress, and their families. |
 
 - [MSNBC](https://www.msnbc.com/)
-- [Federal: 2020 Election Interference, January 6 Insurrection / Ralph Hightower/blog](https://ralphhightower.github.io/blog/January6DocumentDocumentLinks)
-- [New York: 34 Guilty Verdicts. Porn Star Stormy Daniels / Ralph Hightower/blog](https://ralphhightower.github.io/blog/NewYork34GuiltyVerdicts)
+- [Federal: 2020 Election Interference, January 6 Insurrection / Ralph Hightower/blog]({% link January6DocumentDocumentLinks.md %})
+- [New York: 34 Guilty Verdicts. Porn Star Stormy Daniels / Ralph Hightower/blog]({% link NewYork34GuiltyVerdicts.md $})
 - [Constitution of the United States](https://constitution.congress.gov/)
 - [US Courts](https;//www.uscourts.gov/)
 - [U.S. Capitol Police](https://www.uscp.gov/)
