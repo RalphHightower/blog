@@ -33,7 +33,7 @@ What's happened in NATO:
 
 - "In April, Germany arrested two German-Russian nationals on suspicion of plotting attacks on U.S. military installations and other targets on behalf of the GRU Intelligence Service in Moscow.
 - In the same month, Poland arrested a man who was preparing to pass information to the GRU about Rzeszow airport, a hub for weapons to Ukraine.
-- UK charged several men for an arson attack on a Ukrainian-owned logistics firm in London. Acest text a fost copiat de pe Ziare.com Putin's treacherous plot. Russia wants to throw Europe into chaos through a hidden plan https://ziare.com/razboi-ucraina/complot-perfid-putin-rusia-vrea-sa-arunce-haos-europa-plan-secret-amenintare-occident-1899959?utm_source=Ziare.com&utm_medium=copy-paste
+- UK charged several men for an arson attack on a Ukrainian-owned logistics firm in London. Russia wants to throw Europe into chaos through a hidden plan https://ziare.com/razboi-ucraina/complot-perfid-putin-rusia-vrea-sa-arunce-haos-europa-plan-secret-amenintare-occident-1899959?utm_source=Ziare.com&utm_medium=copy-paste
 - Russian-Ukrainian citizen, arrested by France, when he was injured after trying to make a bomb in his hotel room in Paris. June. 
 - Russia had plotted to kill Armin Papperger, the head of Rheinmetall, Germany's largest arms firm. July. 
 - Air traffic at Stockholm's Arlanda Airport was halted for more than two hours after drones were spotted over the runways. September 9.
@@ -42,7 +42,7 @@ What's happened in NATO:
 
 Journalist Bob Woodward, in his book "War" (release date: October 15, 2024), wrote that Donald Trump, as a private citizen, had at least seven telephone conversations with Vladimir Putin.
 
-1. [Vladimir Putin Part 3: Trump Pwned By Putin](https://ralphhightower.github.io/blog/2024%20presidential%20election/2024/10/12/Putin3TrumpPwnedByPutin.html)
-2. [Vladimir Putin Part 4: Add Another Federal Crime to Trump’s Legal Woes](https://ralphhightower.github.io/blog/2024%20presidential%20election/2024/10/13/Putin4TrumpLoganAct.html)
+1. [Vladimir Putin Part 3: Trump Pwned By Putin]({% link _posts/2024/10/2024-10-12-Putin3TrumpPwnedByPutin.md %})
+2. [Vladimir Putin Part 4: Add Another Federal Crime to Trump’s Legal Woes]({% link _posts/2024/10/2024-10-13-Putin4TrumpLoganAct.md %})
 
 That's not surprising since he was friendly with leaders of our enemies, Vladimir Putin of Russia, and Kim Jung Un or North Korea, and considered our allies in Europe, NATO, our enemies. 

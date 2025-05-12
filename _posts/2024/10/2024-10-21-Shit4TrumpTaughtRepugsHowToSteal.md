@@ -30,8 +30,7 @@ In Elon Musk’s first appearance with Trump on the campaign trail this month, t
 
 [^11]: @RalphHightower: There'll be dire consequences if Trump wins. He'll toss out the Constitution and install his sycophants in federal government.
 [^12]: @RalphHightower: X/Twitter has become a cesspool of bigotry, antisemitism, and hate speech. That's why companies have pulled their advertising from X/Twitter.
-[^13]: @RalphHightower: [Elon Musk – Part 2: Fuck Free Speech! Elon Musk Has Turned His X/Twitter Social Media Platform Into a Trump Propaganda Machine / Ralph Hightower/Blog](https://ralphhightower.github.io//blog/2024%20presidential%20election/2024/10/13/Musk2ElonMuskXTwitterHasBecomeTrumpPropagandaMachine.html)
-
+[^13]: @RalphHightower: [Elon Musk – Part 2: Fuck Free Speech! Elon Musk Has Turned His X/Twitter Social Media Platform Into a Trump Propaganda Machine / Ralph Hightower/Blog]({% link _posts/2024/10/2024-10-13-Musk2ElonMuskXTwitterHasBecomeTrumpPropagandaMachine.md %})
 
 The effects of that shift weren’t limited to Twitter itself, however. Musk has played an undeniable role in reducing the social and political costs of tech platforms walking back their earlier investments and commitments, said David Karpf,  an associate professor in the School of Media and Public Affairs at George Washington University.
 
