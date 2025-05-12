@@ -62,7 +62,7 @@ This agenda carried real-world consequences that they’re responsible for — a
 - [MSNBC](https://www.msnbc.com/)
 - [New York Times (NYT)](https://www.nytimes.com/)
 - [New York Magazine](https://nymag.com/)
-- [Blamshifter-In-Chief Donald Trump Blames Biden. It’s Your Economy Stupid!](https://ralphhightower.github.io/blog/2025/04/BlameshifterInChiefItsTrumpsEconomyStupid.html)
+- [Blameshifter-In-Chief Donald Trump Blames Biden. It’s Your Economy Stupid!]({% link _posts/2025/04/2025-04-30-BlameshifterInChiefItsTrumpsEconomyStupid.md %})
 - [Supreme Court of the United States (SCOTUS)](https://www.supremecourt.gov/)
 - [US Courts](https://www.uscourts.gov/)
 - [Federal Reserve Board](https://www.federalreserve.gov/)
