@@ -7,7 +7,7 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: "Blamshifter-In-Chief Donald Trump Blames Biden. It’s Your Economy Stupid!"
+title: "Blameshifter-In-Chief Donald Trump Blames Biden. It’s Your Economy Stupid!"
 ---
 
 - [Trump’s Trade Tariffs Tiff Puts Federal Reserve Chair Jerome Powell In a Kobayashi Maru Situation. But This Is NOT Situation!]({% link _posts/2025/04/2025-04-09-TrumpTariffsFedReserveKobayashiMaru.md %}). <br />2025-04-09. @RalphHightower

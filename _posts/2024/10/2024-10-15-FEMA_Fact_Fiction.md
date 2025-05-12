@@ -25,8 +25,7 @@ By Melissa Goldin
 
 **CLAIM:** The government used weather technology to create Hurricanes Helene and Milton, deliberately targeting Republican voters.[^11]
 
-[^11]: @RalphHightower: That false claim more than likely originated from U.S. Representative *Conspiracy Wacko*, Marjorie Taylor Greene (T-GA). <br />[Bless Her Heart – Part 1: Marjorie Taylor Greene Says "They" Can Control the Weather](https://ralphhightower.github.io/blog/marjorie%20taylor%20greene/2024/10/09/MTG1BlessHeartMarjorieTaylorGreeneHurricanes.html)
-
+[^11]: @RalphHightower: That false claim more than likely originated from U.S. Representative *Conspiracy Wacko*, Marjorie Taylor Greene (T-GA). <br />[Bless Her Heart – Part 1: Marjorie Taylor Greene Says "They" Can Control the Weather]({% link _posts/2024/10/2024-10-09-MTG1BlessHeartMarjorieTaylorGreeneHurricanes.md %}
 
 **THE FACTS:** Both hurricanes were natural phenomena. Humans do not have the technology to control such vast weather systems. Hurricanes are hitting many of the same areas they have for centuries.
 
