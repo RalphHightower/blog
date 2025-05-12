@@ -15,7 +15,7 @@ If it's the weekend, America's Golfer-in-Chief, [Trump](https://www.donaldjtrump
 {% assign timestamp = 'now' | date: "%F %r%:z %Z" %}
 Current Date/Time: {{ timestamp }}
 
-## Days Count Up / Term Count Down 
+## Days Into / Terminal Count Down 
 
 {% assign today_noon = 'now' | date: '%Y-%m-%d 12:00 PM' | date: '%s' %}
 {% assign secs_inauguration2025 = '2025-01-19 12:00 PM' | date: '%s' %}
@@ -51,6 +51,8 @@ Current Date/Time: {{ timestamp }}
 
 {% assign pctdays_since = realdays_since | divided_by: realdays_total47 | times: 10000.0 | round | divided_by: 100.0 %}
 {% assign pctdays_remaining = realdays_remaining | divided_by: realdays_total47 | times: 10000.0 | round | divided_by: 100.0 %}
+
+### Days of Hell
 
 Days since: {{ days_since }} Percent completed: {{ pctdays_since }}%
 
