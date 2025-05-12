@@ -36,3 +36,17 @@ By Arthur Delaney. Jan 9, 2025, 09:16 AM EST
 It’s hard to see how [Musk](https://ir.tesla.com/corporate/elon-musk)’s budget-slashing vision, which is supposed to close the gap between taxes and spending, will fit with [Trumper](https://www.gop.com/) plans to extend [Trump](https://www.donaldjtrump.com/)’s 2017 tax cuts, potentially at a cost of $5 trillion over a decade, with trillions more in additional tax cuts Trump promised on the campaign trail.
 
 Still, [Musk](https://ir.tesla.com/corporate/elon-musk) repeated part of his prior boast that cutting federal spending is actually very easy.
+
+- [Elon Musk](https://ir.tesla.com/corporate/elon-musk)
+- [Elon Musk](https://x.com/elonmusk/)
+- [The Boring Company](https://www.boringcompany.com/)
+- [Neuralink](https://neuralink.com/)
+- [SpaceX](https://www.spacex.com/)
+- [Starlink](https://www.starlink.com/)
+- [Tesla](https://www.tesla.com/)
+- [Twitter](https://twitter.com/)
+- [ X ](https://x.com/)
+- [xAI](https://x.ai/) 
+- [Department of Government Efficiency (DOGE)](https://www.doge.gov/)
+- [Corporate Governance / Tesla Investor Relations](https://ir.tesla.com/corporate)
+- [Robyn M.  Denholm](https://ir.tesla.com/corporate/robyn-m-denholm)
