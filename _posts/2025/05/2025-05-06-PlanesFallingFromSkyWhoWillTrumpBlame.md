@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [MSNBC, NBC News, Bloomberg News, Atlanta News First, CBS News, Faux News, New York Times (NYT), American Airlines - Airline tickets and low fares at aa.com, Delta Air Lines / Flights & Plane Tickets + Hotels & Cars, JAL– 国内線/国際線の航空券・飛行機チケット予約, United Airlines, State of Alaska, City of Scottsdale, Covington Georgia / Official Website, Michael Whitaker, Newark Airport (EWR), Key West International Airport / Home, Washington Dulles International Airport - IAD, Orlando International Airport (MCO), Ronald Reagan Washington National Airport - DCA- Hartsfield-Jackson Atlanta International Airport, Houston Airport - IAH Airport, Seattle-Tacoma International Airport / Port of Seattle, Airport - Town of Marana AZ, National Air Traffic Controllers Association, Department of Transportation, Federal Aviation Administration (FAA), Constitution of the United States, Supreme Court of the United States (SCOTUS), US Courts, Congress, Senate, House of Representatives, Donald J Trump, President Donald Trump (47), President Trump Cabinet (47), President Trump Administration (47), President of the United States (POTUS), White House (WH), air travel safety, transportation, politics]
+tags: [MSNBC, NBC News, Bloomberg News, Atlanta News First, CBS News, Faux News, New York Times (NYT), American Airlines - Airline tickets and low fares at aa.com, Delta Air Lines / Flights & Plane Tickets + Hotels & Cars, JAL｜国内線/国際線の航空券・飛行機チケット予約, United Airlines, State of Alaska, City of Scottsdale, Covington Georgia / Official Website, Michael Whitaker, Newark Airport (EWR), Key West International Airport / Home, Washington Dulles International Airport - IAD, Orlando International Airport (MCO), Ronald Reagan Washington National Airport - DCA- Hartsfield-Jackson Atlanta International Airport, Houston Airport - IAH Airport, Seattle-Tacoma International Airport / Port of Seattle, Airport - Town of Marana AZ, National Air Traffic Controllers Association, Department of Transportation, Federal Aviation Administration (FAA), Constitution of the United States, Supreme Court of the United States (SCOTUS), US Courts, Congress, Senate, House of Representatives, Donald J Trump, Elon Musk, Elon Musk, The Boring Company, Neuralink, SpaceX, Starlink, Tesla, Twitter, X, xAI, Department of Government Efficiency (DOGE), Corporate Governance / Tesla Investor Relations, Robyn M. Denholm, President Donald Trump (47), President Trump Cabinet (47), President Trump Administration (47), President of the United States (POTUS), White House (WH), air travel safety, transportation, politics]
 categories: [Donald Trump]
 date: 2025-05-06 7:48 PM
 excerpt: ''
@@ -109,6 +109,19 @@ Air traffic control in the U.S. is a government operation. We’re the greatest 
 - [Senate](https://www.senate.gov/)
 - [House of Representatives](https://www.house.gov/)
 - [Donald J Trump](https://www.donaldjtrump.com/)
+- [Elon Musk](https://ir.tesla.com/corporate/elon-musk)
+- [Elon Musk](https://x.com/elonmusk/)
+- [The Boring Company](https://www.boringcompany.com/)
+- [Neuralink](https://neuralink.com/)
+- [SpaceX](https://www.spacex.com/)
+- [Starlink](https://www.starlink.com/)
+- [Tesla](https://www.tesla.com/)
+- [Twitter](https://twitter.com/)
+- [ X ](https://x.com/)
+- [xAI](https://x.ai/) 
+- [Department of Government Efficiency (DOGE)](https://www.doge.gov/)
+- [Corporate Governance / Tesla Investor Relations](https://ir.tesla.com/corporate)
+- [Robyn M.  Denholm](https://ir.tesla.com/corporate/robyn-m-denholm)
 - [President Donald Trump (47)](https://www.whitehouse.gov/administration/donald-j-trump/)
 - [President Trump Cabinet (47)](https://www.whitehouse.gov/administration/the-cabinet)
 - [President Trump Administration (47)](https://www.whitehouse.gov/administration/)
@@ -117,3 +130,4 @@ Air traffic control in the U.S. is a government operation. We’re the greatest 
 - air travel safety 
 - transportation 
 - politics 
+
