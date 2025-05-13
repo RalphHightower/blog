@@ -11,7 +11,7 @@ excerpt: "“I have grave concerns about DHS’s proposed end-run around laws pa
 title: "Trumpian Claims that FEMA Money Was Diverted to Illegal Aliens 👽 Has a Ring 💍 of Truth. But It Wasn’t Obama or Biden"
 ---
 
-@RalphHightower: During the aftermath of Hurricane Helene, my wife was talking to her brother, and she mentioned that [Biden](https://bidenwhitehouse.archives.gov/) diverted [FEMA](https://www.fema.gov/) funds to illegal aliens. I will refute [Trump’s lies](https://www.donaldjtrump.com/). Since she was on the phone, I texted her, "[FEMA money](https://www.fema.gov/) is [FEMA money](https://www.fema.gov/)." There is a bit of truth that [FEMA](https://www.fema.gov/), but it didn't happen on [Obama](https://obamawhitehouse.archives.gov/)'s or [Biden)(https://bidenwhitehouse.archives.gov/)'s watch.
+@RalphHightower: During the aftermath of Hurricane Helene, my wife was talking to her brother, and she mentioned that [Biden](https://bidenwhitehouse.archives.gov/) diverted [FEMA](https://www.fema.gov/) funds to illegal aliens. I will refute [Trump’s lies](https://www.donaldjtrump.com/). Since she was on the phone, I texted her, "[FEMA money](https://www.fema.gov/) is [FEMA money](https://www.fema.gov/)." There is a bit of truth that [FEMA](https://www.fema.gov/), but it didn't happen on [Obama](https://obamawhitehouse.archives.gov/)'s or [Biden](https://bidenwhitehouse.archives.gov/)'s watch.
 
 ## [Trump admin pulling millions from FEMA disaster relief to send to southern border](https://www.nbcnews.com/politics/immigration/trump-admin-pulling-millions-fema-disaster-relief-send-southern-border-n1046691)
 
