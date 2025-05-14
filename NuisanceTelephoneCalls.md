@@ -2,7 +2,7 @@
 layout: page
 tags: [assholes, Donald Trump, Elon Musk, Betsy DeVos, MAGA billionaires, billionaire, Trump donors, Republican PAC, Make America Great Again (MAGA)]
 categories: [Telephone Numbers]
-date: 2025-05-12 6:50 PM
+date: 2025-05-13 9:36 PM
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description: 
@@ -18,6 +18,15 @@ The telephone numbers below have called and there is an empty person on the othe
 
 | Telephone Number | Location | Date Time[^11] | Caller | Social Media |
 |---|---|---|---|---|
+| <a href="tel:+18034018634">+1 (803) 401-8634</a> | SC. Columbia | 2025-05-13 05:43 PM | — | |
+| <a href="tel:+18039185086">+1 (803) 918-5086</a> | SC. Barnwell | 2025-05-13 04:21 PM | — | |
+| <a href="tel:+18035753500">+1 (803) 575-3500</a> | SC. Little Mountain | 2025-05-13 03:42 PM | Potential Spam | |
+| <a href="tel:+18035678204">+1 (803) 567-8204</a> | SC. Columbia | 2025-05-13 02:45 PM | — | |
+| <a href="tel:+18032620567">+1 (803) 262-0567</a> | SC. Aiken | 2025-05-13 12:12 PM | Potential Spam | |
+| <a href="tel:+18034967701">+1 (803) 496-7701</a> | SC. Holly Hill | 2025-05-13 10:15 AM | Infinger Bobby | |
+| <a href="tel:+18032838803">+1 (803) 283-8803</a> | SC. Lancaster | 2025-05-13 10:10 AM | W J Steele | |
+| <a href="tel:+18395005152">+1 (839) 500-5152</a> | SC. Rock Hill | 2025-05-13 10:04 AM | Potential Spam | |
+| <a href="tel:+18036743805">+1 (803) 674-3805</a> | SC. Batesburg | 2025-05-13 09:52 AM | Potential Spam | |
 | <a href="tel:+18039917037">+1 (803) 991-7037</a> | SC. | 2025-05-12 04:06 PM ¤¤ | — | |
 | <a href="tel:+18039917037">+1 (803) 991-7037</a> | SC. | 2025-05-12 04:05 PM | — | |
 | <a href="tel:+18033810481">+1 (803) 381-0481</a> | SC. Columbia | 2025-05-12 03:48 PM | — | |
