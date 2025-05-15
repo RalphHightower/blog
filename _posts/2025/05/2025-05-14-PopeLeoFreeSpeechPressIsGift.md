@@ -7,7 +7,7 @@ excerpt: 'Let me, therefore, reiterate today the Church’s solidarity with jour
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: "Pope Leo XIV Calls On US To Safeguard Free Speech and Free Press"
+title: "Pope Leo XIV Calls On Us To Safeguard Free Speech and Free Press"
 ---
 
 
