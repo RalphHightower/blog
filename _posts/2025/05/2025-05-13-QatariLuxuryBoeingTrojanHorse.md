@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [MSNBC, Rachel Maddow Show on MSNBC / Watch Rachel Maddow Live, Steve Benen, Ministry of Truth – HarperCollins, ABC News - Breaking News Latest News and Videos, Revolving Door Project / RDP scrutinizes executive branch appointees to ensure they use their office to serve the broad public interest., Jeff Hauser / Revolving Door Project, The Daily Wire, Ben Shapiro, The Daily Beast –  The Latest in Politics Media & Entertainment News, Vox, HuffPost, Politico, The New York Times, The Atlantic, The Nation, The Intercept, Faux News, Mark Levin, The Boeing Company Official Website, 747-8, Columbia University, Columbia University in the City of New York, Loyola University Chicago, School of Law / School of Law –  Loyola University Chicago, Jessica Levinson, Government of Israel, Government of Iran, Government of Qatar, Democrat Party, Trump Party, Constitution of the United States, Emoluments Clause and Presidential Compensation / Constitution Annotated / Congress.gov / Library of Congress, Air Force, VC-25 - Air Force One > Air Force > Fact Sheet Display, Supreme Court of the United States (SCOTUS), US Courts, Commodity Futures Trading Commission (CFTC), Department of Defense (DOD), U.S. Office of Government Ethics (OGE), Department of Justice (DOJ), Securities and Exchange (SEC), Department of Treasury (Treasury), Congress, Senate, Christopher Murphy (D-CT), Bernard Sanders (I-VT), House of Representatives, President of the United States (POTUS), President Barack Obama, President Joe Biden, White House (WH), Department of State (DOS), US Agency for International Development (USAID), Donald J Trump, $TRUMP, $MELANIA, President Donald Trump (45), President Donald Trump (47), President Trump Administration (47), Addressing Risks from Chris Krebs and Government Censorship – The White House. April 9 2025, Fact Sheet –  President Donald J. Trump Addresses Risks from Chris Krebs and Government Censorship – The White House. April 9 2025, Ending The Weaponization Of The Federal Government. Presidential Actions. January 20 2025, Restoring Freedom Of Speech And Ending Federal Censorship. Presidential Actions. January 20 2025, Additional Measures to Combat Anti-Semitism – The White House. January 29 2025, Fact Sheet –  President Donald J. Trump Takes Forceful and Unprecedented Steps to Combat Anti-Semitism – The White House. January 30 2025, Pam Bondi, Marco Rubio, Marco Rubio – LinkedIn, Donald J. Trump Presidential Library, grift, politics]
+tags: [media, MSNBC, Rachel Maddow Show on MSNBC / Watch Rachel Maddow Live, Rachel Maddow Blog / The Rachel Maddow Show - MSNBC, Steve Benen, “All In with Chris Hayes”, All In with Chris Hayes on MSNBC / The Chris Hayes Show, Chris Hayes, Ministry of Truth – HarperCollins, Penguin Press - Penguin Books, NBC News, ABC News - Breaking News Latest News and Videos, Axios, Revolving Door Project / RDP scrutinizes executive branch appointees to ensure they use their office to serve the broad public interest., Jeff Hauser / Revolving Door Project, The Daily Wire, Ben Shapiro, The Daily Beast –  The Latest in Politics Media & Entertainment News, Vox, HuffPost, Politico, The New York Times, The Atlantic, The Nation, The Intercept, Faux News, companies, Elon Musk, Elon Musk, The Boring Company, Neuralink, SpaceX, Starlink, Tesla, Twitter, X, xAI, Mark Levin, The Boeing Company Official Website, 747-8, Citi / Global Investment Bank and Financial Services, Investment Management & Financial Services / BlackRock, Palantir, Trump Organization, universities, Brookings - Quality. Independence. Impact., Norman Eisen / Brookings, Columbia University, Columbia University in the City of New York, Loyola University Chicago, School of Law / School of Law –  Loyola University Chicago, Jessica Levinson, foreign countries, Government of Canada, Government of Israel, Government of Iran, Government of Qatar, Ministry of Defense / GovernmentGovernment Offices / Doha / Doha Directory, Saudi Arabia’s National Portal for Government Services / GOV.SA, (Riyadh) alriyadh.gov.sa/en/Pages/HomeP.aspx, Syrian E-Government Portal, The Official Portal of the UAE Government, political parties, Democrat Party, Trump Party, States, CT.GOV-Connecticut’s Official State Website, Alabama.gov / The Official Website of the State of Alabama, Hawaii.gov / The Official Website of the Aloha State, New York State Government (NY), Federal Government, Constitution of the United States, Emoluments Clause and Presidential Compensation / Constitution Annotated / Congress.gov / Library of Congress, Air Force, VC-25 - Air Force One > Air Force > Fact Sheet Display, Supreme Court of the United States (SCOTUS), US Courts, Federal Election Commission, Defense Inspector General, Internal Revenue Service (IRS), Government Accountability Office (GAO), Commodity Futures Trading Commission (CFTC), Department of State (DOS), US Agency for International Development (USAID), Office of Government Ethics (OGE), Department of Justice (DOJ), Securities and Exchange (SEC), Department of Treasury (Treasury), Department of Defense (DOD), Air Force, 379th Air Expeditionary Wing, Congress, Senate, Tommy Tuberville (T-AL), Christopher Murphy (D-CT), Chuck Schumer (D-NY), Bernard Sanders (I-VT), Brian Schatz (D-HI), House of Representatives, Joe Courtney (D-CT2), Jamie Raskin (D-MD8), Ritchie Torres (D-NY15), House Armed Services Committee, House Judiciary Committee, Ronald Reagan Presidential Library & Museum / Ronald Reagan, President of the United States (POTUS), President Barack Obama, President Joe Biden, White House (WH), Trump Grift, Donald J Trump, Department of Government Efficiency (DOGE), The Mar-a-Lago Club, $TRUMP, $MELANIA, President Donald Trump (45), President Donald Trump (47), President Trump Administration (47), Addressing Risks from Chris Krebs and Government Censorship – The White House. April 9 2025, Fact Sheet –  President Donald J. Trump Addresses Risks from Chris Krebs and Government Censorship – The White House. April 9 2025, Ending The Weaponization Of The Federal Government. Presidential Actions. January 20 2025, Restoring Freedom Of Speech And Ending Federal Censorship. Presidential Actions. January 20 2025, Additional Measures to Combat Anti-Semitism – The White House. January 29 2025, Fact Sheet –  President Donald J. Trump Takes Forceful and Unprecedented Steps to Combat Anti-Semitism – The White House. January 30 2025, Pete Hegseth, Pete Hegseth – LinkedIn, Pam Bondi, Marco Rubio, Marco Rubio – LinkedIn, Donald J. Trump Presidential Library, Trump Library Foundation, grift, politics]
 categories: [Donald Trump]
 date: 2025-05-13 12:52 PM
 excerpt: ''
@@ -15,6 +15,168 @@ This [Qatari](https://hukoomi.gov.qa/) is a Trojan Horse. The [Boeing](https://w
 
 - How long would that take?
 - How much would it cost?
+
+## [Trump's jet from Qatar is worrisome. What he’s giving in return is troubling.](https://www.msnbc.com/top-stories/latest/trump-qatar-jet-corruption-concessions-rcna206761)
+
+*The only thing that unites the policies the president has announced on his Middle East tour so far is that they are exactly what the Gulf states wanted.*
+
+May 14, 2025, 2:36 PM EDT / Updated May 14, 2025, 3:16 PM EDT
+By Chris Hayes
+
+This is an adapted excerpt from the [May 13](https://www.msnbc.com/all) episode of “All In with Chris Hayes.”
+
+For decades, going back to [Ronald Reagan](https://www.reaganlibrary.gov/), when an [American president](https://www.whitehouse.gov/) makes their first visit to a foreign nation, they almost always go to [Canada](https://www.canada.ca/). It makes sense: They’re our top trading partner; we share a language and a very long border. But in 2017, [Donald Trump](https://www.msnbc.com/donald-trump) did not do that.
+
+Instead, [Trump](https://www.donaldjtrump.com/) went to the oil-rich kingdom of [Saudi Arabia](https://my.gov.sa/), where he joined in [laying hands on a glowing orb](https://www.nbcnews.com/video/watch-president-trump-touch-glowing-counterterrorism-orb-950400579770)
+ . During that trip, he also forged a close friendship with the nation’s crown prince, [Mohammed bin Salman](https://www.msnbc.com/rachel-maddow-show/maddowblog/trumps-recent-interactions-saudis-crown-prince-matter-rcna146395), who would later invest \$2 billion in a business owned by [Trump](https://www.donaldjtrump.com/)’s son-in-law, against [the advice of his own economic experts](https://www.nytimes.com/2022/04/10/us/jared-kushner-saudi-investment-fund.html).
+
+> *It’s worth noting that before that announcement, [Syria](https://egov.sy/)’s leader offered to build a [Trump](https://www.donaldjtrump.com/) [Tower](https://www.trump.com/) in Damascus.*
+
+Eight years later, [Trump](https://www.donaldjtrump.com/) is president again. This time around, [Trump](https://www.donaldjtrump.com/), once again, decided he wasn’t going to [Canada](https://www.canada.ca/), the country he [openly wants to annex](https://www.msnbc.com/opinion/msnbc-opinion/trump-canada-tariff-war-annex-trudeau-rcna195882). Instead, the [president](https://www.whitehouse.gov/) went back to the Middle East, landing in [Riyadh](https://www.alriyadh.gov.sa/), [Saudi Arabia](https://my.gov.sa/), on Tuesday, with plans to visit [Qatar](https://hukoomi.gov.qa/) and the [United Arab Emirates](https://u.ae/) next.
+
+The [Saudis](https://my.gov.sa/), the [Qataris](https://hukoomi.gov.qa/) and the [Emiratis](https://u.ae/) all clearly understood the assignment. Take the crown prince: He greeted [Trump](https://www.donaldjtrump.com/) on the tarmac and rolled out the [royal purple carpet](https://www.msnbc.com/deadline-white-house/watch/-unprecedented-spectacle-trump-given-royal-treatment-by-his-new-close-friends-in-saudi-arabia-239488581712).
+
+Not only did the [Saudis](https://my.gov.sa/) welcome Trump with open arms, but they also welcomed his co-president, [Elon Musk](https://www.nbcnews.com/video/elon-musk-meets-saudi-crown-prince-mohammed-bin-salman-239445573787). However, [Musk](https://ir.tesla.com/corporate/elon-musk) wasn’t the only billionaire on the trip. [Trump](https://www.donaldjtrump.com/) and the crown prince joined forces to open a [U.S.](https://www.usa.gov/)-[Saudi](https://my.gov.sa/) investment forum for [big-money players](https://www.msnbc.com/rachel-maddow-show/maddowblog/trumps-boasts-saudi-arabian-investments-are-hard-take-seriously-rcna206766?icid=latestpost_bot) from the two nations, with speakers from U.S. firms like [Citigroup](https://www.citigroup.com/global), [BlackRock](https://www.blackrock.com/us/individual) and [Palantir](https://www.palantir.com/).
+
+The [White House](https://www.whitehouse.gov/) claims [Trump](https://www.donaldjtrump.com/) “secured \$600 billion in deals with the [Saudi government and firms](https://my.gov.sa/).” But, [according to The New York Times](https://www.nytimes.com/2025/05/13/world/middleeast/trump-saudi-economic-forum.html), “the details the [White House](https://www.whitehouse.gov/) provided were vague and totaled less than half that number. And a closer look at the projects the administration provided shows several were already in the works before [Mr. Trump](https://www.donaldjtrump.com/) took office.” But [Trump](https://www.donaldjtrump.com/) claimed a big win, and so the [president] responsible for the [“Muslim ban”](https://www.msnbc.com/opinion/muslims-me-know-evil-power-trump-s-dead-muslim-ban-n1255017) posed onstage in front of a massive [Saudi flag](https://my.gov.sa/) and was applauded.
+
+[Trump](https://www.donaldjtrump.com/) had some other big gifts ready, too. The [president](https://www.whitehouse.gov/) announced a [\$142 billion arms agreement](https://www.reuters.com/world/us-saudi-arabia-have-discussed-riyadhs-potential-purchase-f-35-jets-2025-05-13/) to provide the [Saudis](https://my.gov.sa/) with [U.S. weapons and defense contractors](https://www.defense.gov/) to maintain them. He also announced that he plans to [lift sanctions on Syria](https://www.nbcnews.com/politics/donald-trump/trump-says-us-will-end-sanctions-syria-works-deepen-diplomatic-ties-sa-rcna206471), which [Trump](https://www.donaldjtrump.com/) said was at the behest of the [Saudis](https://my.gov.sa/). “Oh, what I do for the crown prince,” he said from the stage.
+
+While that announcement was a good one and those sanctions on [Syria](https://egov.sy/) should be dropped, we should not drop them as a favor to the [Saudi crown prince] who threw \$2 billion at your son-in-law.
+
+It’s also worth noting that before that announcement, [Syria](https://egov.sy/)’s leader offered to build a [Trump Tower](https://www.trump.com/) in Damascus] and said he would give the U.S. mineral rights contracts in his country, according to several sources familiar with the efforts who [spoke with Reuters](https://www.reuters.com/world/middle-east/trump-tower-damascus-syria-seeks-charm-us-president-sanctions-relief-2025-05-11/).
+
+Mideast diplomacy is one of the most complicated, fraught areas of American foreign policy, and out of the gate, [Trump](https://www.donaldjtrump.com/) is basically just going down a list of policies that the [Saudis](https://my.gov.sa/) and their allies wanted.
+
+Policywise, some of those concessions are better than others; corrupt processes can sometimes accidentally create a decent policy here and there. But they’re not policies so much as presents for his overseas buddies, and, in return, those buddies are giving him what he wants.
+
+Which brings us, of course, to [the Qatari jumbo jet](https://www.msnbc.com/rachel-maddow-show/maddowblog/problems-trumps-free-luxury-jet-qatar-s-not-actually-free-rcna206706). A special [Boeing](https://www.boeing.com/) [747-8](https://www.boeing.com/commercial/747-8) that has been called a “palace of the sky” and a “flying mansion.” A luxury item worth \$400 million and gifted to [Trump](https://www.donaldjtrump.com/) by the [Qatari royal family](https://hukoomi.gov.qa/) over the weekend.
+
+It is full of leather, gold and burl wood accents. It sports at least three lounges, two bedrooms, nine bathrooms, five galleys and a private office. [Trump](https://www.donaldjtrump.com/) is palpably stoked out of his shoes about this thing, like a very rich kid on Christmas morning getting the world’s most expensive toy.
+
+Accepting this jet would be the most shockingly corrupt act by a president in the history of the presidency. It violates not only the spirit of [the Constitution](https://www.npr.org/2025/05/12/nx-s1-5395696/qatar-trump-plane-gift-ethics), but literally the text. However, according to [Trump](https://www.donaldjtrump.com/), not taking it would be “stupid.”
+
+It seems the only thing that unites the policies [Trump](https://www.donaldjtrump.com/) has announced on his Middle East tour so far is that they are exactly what the Gulf states wanted.
+
+> *The Gulf states don’t have huge armies, but they have a lot of oil and a lot of money, and they use it to extend their geopolitical dominance.*
+
+It makes sense, this is the place [Trump](https://www.donaldjtrump.com/) feels most at home because these countries get [Trump](https://www.donaldjtrump.com/) in a way they never got any other [American president](https://www.whitehouse.gov/). That’s because this [American president](https://www.whitehouse.gov/) [openly admires despots](https://www.msnbc.com/rachel-maddow/watch/maddow-trump-admiration-for-dictators-reflects-shared-goal-of-power-control-218961477503) and envies what they have.
+
+The Gulf states that are hosting [Trump](https://www.donaldjtrump.com/) understand that. They recognize he is not there for 330 million Americans. He is there for himself, and they are there to indulge him. It’s not because [Trump](https://www.donaldjtrump.com/) is a unique force of nature. He is not special; he is just easy.
+
+He’s not even the first foreign leader to be gifted a [747-8](https://www.boeing.com/commercial/747-8) by the [Qataris](https://hukoomi.gov.qa/). [Turkey’s Recep Tayyip Erdoğan](https://www.bbc.com/news/world-middle-east-45550537) got a half-billion-dollar jumbo jet back in 2018.
+
+But this is the thing: The Gulf states have been doing this forever. They don’t have huge armies, but they have a lot of oil and a lot of money, and they use it to extend their geopolitical dominance. That only goes so far with a traditional, law-abiding [American](https://www.usa.gov/) [administration](https://www.whitehouse.gov/administration/). However, with [Trump](https://www.donaldjtrump.com/), a man not just willing but thirsty to trade on the trappings of the office that [American voters](www.fec.gov/) bestowed on him, the sky is the limit.
+
+Chris Hayes
+Chris Hayes hosts [“All In with Chris Hayes”](http://www.msnbc.com/all) at 8 p.m. ET Tuesday through Friday on [MSNBC](https://www.msnbc.com/). He is the editor-at-large at [The Nation](https://www.thenation.com/). A former fellow at [Harvard University](https://www.harvard.edu/)’s [Edmond J. Safra Foundation Center for Ethics](https://www.ethics.harvard.edu/home), Hayes was a [Bernard Schwartz Fellow](https://www.bernardlschwartz.com/us-economic-policy) at the [New America Foundation](http://newamerica.org/). His latest book is “[The Sirens’ Call: How Attention Became the World’s Most Endangered Resource](https://www.c-span.org/program/book-tv/the-sirens-call-how-attention-became-the-worlds-most-endangered-resource/655543)” ([Penguin Press](https://www.penguin.com/penguin-press-overview/)).
+Allison Detzel contributed.
+
+## [Among the problems with Trump’s ‘free’ luxury jet from Qatar: It’s not actually free](https://www.msnbc.com/rachel-maddow-show/maddowblog/problems-trumps-free-luxury-jet-qatar-s-not-actually-free-rcna206706)
+
+*Even if the jet from [Qatar](https://hukoomi.gov.qa/) were free, this arrangement would still be a legal and ethical mess. But the free plane also wouldn’t be free.*
+
+May 14, 2025, 8:50 AM EDT
+By Steve Benen
+
+On Sunday night, as the public first learned about [Donald Trump](https://www.donaldjtrump.com/)’s plan to [accept a superluxury Boeing 747-8 jumbo jet](https://www.msnbc.com/rachel-maddow-show/maddowblog/trump-scrambles-defend-luxury-jet-qatar-ll-use-air-force-one-rcna206207) from his friends in [Qatar to be used as Air Force One, the president was eager to defend the arrangement. The plane, [the Republican argued online](https://truthsocial.com/@realDonaldTrump/114492082555622686), would be “FREE OF CHARGE.”
+
+[Trump returned to the point a few days later, [asking why](https://truthsocial.com/@realDonaldTrump/114503203859060399) taxpayers should be “forced to pay hundreds of millions of Dollars” for a plane “when they can get it for FREE” from Qatar. He [added soon after](https://www.nytimes.com/2025/05/12/us/politics/trump-qatar-plane-jet.html) that only “a stupid person [would] say, ‘No, we don’t want a free, very expensive](airplane.’”)
+
+Even if the luxury jet were free, this arrangement would still be a legal, ethical and political mess. But there’s a related problem: The “free” plane wouldn’t be free. [NBC News reported](https://www.nbcnews.com/politics/national-security/turning-qatari-747-air-force-one-cost-1-billion-take-years-experts-say-rcna206582) reported:
+
+> *"Converting a [Qatari](https://hukoomi.gov.qa/)-owned [747 jet](https://www.boeing.com/commercial/747-8) into a new [Air Force One](https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104588/vc-25-air-force-one/) for [President](https://www.whitehouse.gov/) [Donald Trump](https://www.donaldjtrump.com/) would involve installing multiple top-secret systems, cost over \$1 billion and take years to complete, three aviation experts told [NBC News](https://www.nbcnews.com/). They said that accepting the 13-year-old jet would likely cost [U.S. taxpayers](https://www.irs.gov/) hundreds of millions of dollars over time, noting that refurbishing the commercial plane would exceed its current value of \$400 million."*
+
+[Politico](https://www.politico.com/) had [a related report](https://www.politico.com/news/2025/05/12/trump-qatar-air-force-one-taxpayer-costs-00342299) that noted it “could cost taxpayers hundreds of millions of dollars” to retrofit [Qatar](https://hukoomi.gov.qa/)’s “gift” into a makeshift [Air Force One](https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104588/vc-25-air-force-one/).
+
+“This isn’t really a gift,” said [Rep.](https://www.house.gov/) [Joe Courtney](https://courtney.house.gov/) told [Politico](https://www.politico.com/). The [Connecticut](https://portal.ct.gov/) [Democrat](https://www.democrats.org/), who serves on the [House Armed Services Committee](https://armedservices.house.gov/) and helps oversee its panel on executive airlift, added, “You’d basically have to tear the plane down to the studs and rebuild it to meet all the survivability, security and communications requirements of [Air Force One](https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104588/vc-25-air-force-one/). It’s a massive undertaking — and an unfunded one at that.”
+
+In other words, when [Trump](https://www.donaldjtrump.com/) says the jet from [Qatar](https://hukoomi.gov.qa/) would be “FREE OF CHARGE,” it’s true that it would be free for him — the [president](https://www.whitehouse.gov/) wouldn’t have to reach for his own wallet — but it wouldn’t be free to us, the [American taxpayers](https://www.irs.gov/).
+
+[Senate](https://www.senate.gov/) [Minority Leader](https://bioguide.congress.gov/search/bio/S000148) [Chuck Schumer](https://www.schumer.senate.gov/) did a nice job Tuesday asking some important questions that the [White House](https://www.whitehouse.gov/) hasn’t even tried to answer.
+
+“If the [American taxpayers](https://www.irs.gov/) are forced to pay for this temporary plane, does it mean that the U.S. government will cancel the contract for the future [Boeing](https://www.boeing.com/) plane? If so, how much will that cancellation cost?” the [New York](https://www.ny.gov/) [Democrat](https://www.democrats.org/) asked. “If not, why are [American taxpayers](https://www.irs.gov/) being asked to spend hundreds of millions of dollars or more on a plane that will only be used for a year or two?”
+
+Soon after [Schumer](https://www.schumer.senate.gov/)’s comments, [Senate](https:////www.senate.gov/) [Democrats](https://www.democrats.org) tried to advance a resolution that condemned “any acceptance of a [Presidential](https://www.whitehouse.gov/) aircraft, or any other substantial gift, from a foreign government as a grave national security threat to the [Office of the President](https://www.whitehouse.gov/)” and demanded that such a gift could only be accepted with the approval of [Congress](https://www.congress.gov/).
+
+[Republican](https://www.gop.com/) [Sen.](https://www.senate.gov/) [Tommy Tuberville](https://www.tuberville.senate.gov/) of [Alabama](https://www.alabama.gov/) [blocked the measure](https://www.nbcnews.com/politics/trump-administration/live-blog/trump-saudi-arabia-tariffs-live-update-rcna206060/rcrd79398?canonicalCard=true).
+
+[Democratic](https://www.democrats.org/) [Sen.](https://www.senate.gov/) [Brian Schatz](https://www.schatz.senate.gov/) of [Hawaii](https://portal.ehawaii.gov/), who introduced the resolution, said, “I remain flabbergasted that this thing is not going to pass. I remain completely aghast. This is the most blatant, obvious, ridiculous, gross corruption that I’ve ever seen in my entire life — by dollar amount, by symbolism, by violating [constitutional](https://constitution.congress.gov/) and statutory law.”
+
+
+Steve Benen
+Steve Benen is a producer for "[The Rachel Maddow Show](https://www.msnbc.com/rachel-maddow-show)," the editor of [MaddowBlog](https://www.msnbc.com/rachel-maddow-show) and an [MSNBC](https://www.msnbc.com/) political contributor. He's also the bestselling author of ["Ministry of Truth: Democracy, Reality, and the Republicans' War on the Recent Past."](https://www.harpercollins.com/products/ministry-of-truth-steve-benen)
+
+
+## [MAGA influencers criticize Trump’s \$400 million jet from Qatar](https://www.msnbc.com/top-stories/latest/trump-qatar-plane-maga-influencers-laura-loomer-ben-shapiro-rcna206467)
+
+*[Trump](https://www.donaldjtrump.com/)’s plan to accept a luxury jet as a gift from the [Qatari](https://hukoomi.gov.qa/) royal family has led to broad criticism — including from the MAGA faithful.*
+
+May 13, 2025, 11:39 AM EDT / Updated May 13, 2025, 1:18 PM EDT
+
+By [Clarissa-Jan Lim](https://www.msnbc.com/author/clarissa-jan-lim-ncpn1307846)
+
+[President](https://www.whitehouse.gov/) [Donald Trump](https://www.donaldjtrump.com/)’s plan to [accept a luxury jet from the Qatari royal family](https://www.msnbc.com/opinion/msnbc-opinion/qatar-trump-jet-gift-plane-corrupt-newsletter-rcna206330) has led to an uproar among ethics experts, [Democrats](https://www.democrats.org/) and [even some Republicans](https://www.msnbc.com/rachel-maddow-show/maddowblog/trump-struggles-defend-qatars-luxury-jet-gift-republicans-are-divided-rcna206447). But some of the loudest criticism has come from his most fervent MAGA supporters.
+
+On his podcast Monday, The Daily Wire co-founder Ben Shapiro [pointed to](https://www.youtube.com/watch?v=XYBuphYtp6I&t=1907s) [Qatar](https://hukoomi.gov.qa/)’s relationship with the [Muslim Brotherhood](https://www.ikhwanonline.com/article/) and [Hamas](https://hamasinfo.info/), saying that accepting a gift from the royal family is “not America First.”
+
+If you want [President](https://www.whitehouse.gov/) [Trump](https://www.donaldjtrump.com/) to succeed, this kind of skeezy stuff needs to stop.
+
+“Is this good for [President](https://www.whitehouse.gov/) [Trump](https://www.donaldjtrump.com/), is it good for his agenda? Is it good for draining the swamp and getting things done? The answer is no, it isn’t,” Shapiro said. “It isn’t. If you want [President](https://www.whitehouse.gov/) [Trump](https://www.donaldjtrump.com/) to succeed, this kind of skeezy stuff needs to stop.”
+
+He added: “I think if we switched the names to Hunter Biden and [Joe Biden](https://bidenwhitehouse.archives.gov/), we’d all be freaking out on the right.”
+
+Far-right influencer [Laura Loomer](https://www.loomered.com/), who has had [direct access to Trump](https://www.msnbc.com/way-too-early/watch/firing-of-nsa-chief-raises-concerns-about-laura-loomer-s-influence-236691013909), wrote a series of posts criticizing the gift.
+
+“I love [President](https://www.whitehouse.gov/) [Trump](https://www.donaldjtrump.com/). I would take a bullet for him,” she [wrote on X](https://x.com/LauraLoomer/status/1921615017138618439) on Sunday. “But, I have to call a spade a spade. We cannot accept a \$400 million ‘gift’ from jihadists in suits.”
+
+[Faux News](https://www.foxnews.com/) host [Mark Levin](https://www.foxnews.com/person/l/mark-levin) shared [Loomer](https://www.loomered.com/)’s post, [adding](https://x.com/marklevinshow/status/1921701015516057967): “Ditto.”
+
+[Loomer](https://www.loomered.com/), however, also tempered some of her criticism with effusive praise for the president. “It will be a stain, but he is still the best [President](https://www.whitehouse.gov/) of my lifetime,” she [wrote on X](https://x.com/LauraLoomer/status/1921987426131837358) on Monday.
+
+First [reported by ABC News](https://abcnews.go.com/Politics/trump-administration-poised-accept-palace-sky-gift-trump/story?id=121680511), the super luxury [Boeing](https://www.boeing.com/) [747-8 jumbo jet](https://www.boeing.com/commercial/747-8) — which is estimated to be valued at \$400 million — from Qatar is expected to be converted for use as Air Force One. The overhaul would take years and a potentially hefty price tag, along with a host of security concerns, according to aviation and intelligence experts who [spoke with NBC News](https://www.nbcnews.com/politics/donald-trump/america-first-trump-qatar-luxury-jet-air-force-one-rcna206254).
+
+Meanwhile, [Trump](https://www.donaldjtrump.com/) has defended his decision to accept the plane, calling it “a great gesture from [Qatar](https://hukoomi.gov.qa/)” and suggesting it was too good an offer to pass up on.
+
+[“I would never be one to turn down that kind of an offer,” he said Monday when pressed about the deal. “I mean, I could be a stupid person [and] say, ‘No, we don’t want a free, very expensive](airplane.’”)
+
+Clarissa-Jan Lim
+Clarissa-Jan Lim is a breaking/trending news blogger for [MSNBC Digital](https://www.msnbc.com/). She was previously a senior reporter and editor at BuzzFeed News.
+
+## [Qatar's jumbo jet gift is a deal for Trump, not the American people](https://www.msnbc.com/opinion/msnbc-opinion/qatar-trump-jet-gift-plane-corrupt-newsletter-rcna206330)
+
+*[Trump](https://www.donaldjtrump.com/) just put a "for sale" sign on U.S. foreign policy with [Qatar](https://hukoomi.gov.qa/)'s jet gift.*
+
+May 13, 2025, 6:00 AM EDT / Updated May 13, 2025, 8:59 AM EDT
+
+By Zeeshan Aleem, [MSNBC](https://www.msnbc.com/) Opinion Writer/Editor
+
+In defending the gift of a [super luxury jumbo jet he’s preparing to receive from the royal family of Qatar](https://www.msnbc.com/rachel-maddow-show/maddowblog/trump-scrambles-defend-luxury-jet-qatar-ll-use-air-force-one-rcna206207) to use as [Air Force One](https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104588/vc-25-air-force-one/), [President](https://www.whitehouse.gov/) [Donald Trump](https://www.donaldjtrump.com/) described it as a brilliant deal. Not for the American people, it isn’t.
+
+The [Boeing](https://www.boeing.com/) [747-8](https://www.boeing.com/commercial/747-8) jet is so lavish it is estimated [to be worth around \$400 million](https://abcnews.go.com/Politics/trump-administration-poised-accept-palace-sky-gift-trump/story?id=121680511), and Jessica Levinson, a law professor at [Loyola](https://www.luc.edu/) [Law School](https://www.luc.edu/law/) and an [MSNBC](https://www.msnbc.com/) columnist, [has said](https://www.businessinsider.com/trump-luxury-jet-gift-boeing-qatar-legal-concerns-explainer-2025-5) that “a gift of this size from a foreign government is unprecedented in our nation’s history.” Ali Al-Ansari, [Qatar](https://hukoomi.gov.qa/)’s media attaché to the U.S., [said in a statement that](https://www.nbcnews.com/politics/donald-trump/trump-administration-will-accept-luxury-jet-qatar-use-air-force-one-rcna206111) that the deal is not final, as “the matter remains under review by the respective legal departments” of the two countries’ defense departments.
+
+> *Contrary to [Trump](https://www.donaldjtrump.com/)'s insinuation that this is actually good for [Americans](https://www.usa.gov/), by accepting the luxe jet he’d be taking the [American public](https://www.usa.gov/) for a ride.*
+
+After [Democrats](https://www.democrats.org/) objected to the planned transfer of the “flying palace” as unconstitutional and corrupt, [Trump](https://www.donaldjtrump.com/) suggested [Democrats](https://www.democrats.org/) ought to be in awe of his deal-making abilities. The real offense, he said, would be paying for the plane. “So the fact that the [Defense Department](https://www.defense.gov/) is getting a GIFT, FREE OF CHARGE, of a 747 aircraft to replace the 40 year old [Air Force One](https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104588/vc-25-air-force-one/), temporarily, in a very public and transparent transaction, so bothers the Crooked Democrats that they insist we pay, TOP DOLLAR, for the plane,” [Trump](https://www.donaldjtrump.com/) [posted on Truth Social](https://truthsocial.com/@realDonaldTrump/posts/114492082555622686). “Anybody can do that! The Dems are World Class Losers!!! MAGA.”
+
+Contrary to [Trump](https://www.donaldjtrump.com/)’s insinuation that this is actually good for [Americans](https://www.usa.gov/), by accepting the luxe jet he’d be taking the [American public](https://www.usa.gov/) for a ride. The [Constitution](https://constitution.congress.gov/)’s [emoluments clause](https://constitution.congress.gov/browse/essay/artII-S1-C7-1/ALDE_00000233/) [prohibits public officeholders from receiving gifts from foreign states](https://constitutioncenter.org/the-constitution/articles/article-i/clauses/759) without consent from [Congress](https://www.congress.gov/). There’s a simple reason for that: Those countries have their own interests that are separate from, and often at odds with, the interests of the [American public](https://www.usa.gov/). By accepting the jet, [Trump](https://www.donaldjtrump.com/) would be accepting a favor that could raise the potential for a reciprocal act that serves the interests of [Qatar](https://hukoomi.gov.qa/) instead of the [U.S.](https://www.usa.gov/)
+
+“There is no question that any court that got to the merits would find a violation of the foreign emoluments clause,” [Jeff Hauser](https://therevolvingdoorproject.org/author/jeff-hauser/), executive director of the [Revolving Door Project](https://therevolvingdoorproject.org/ ), a public interest watchdog, told me.
+
+[ABC News](https://abcnews.go.com/), citing sources familiar with the plan, [reported](https://abcnews.go.com/Politics/trump-administration-poised-accept-palace-sky-gift-trump/story?id=121680511) that “[Attorney General](https://www.justice.gov/) [Pam Bondi](https://www.justice.gov/ag/staff-profile/meet-attorney-general) and [Trump](https://www.donaldjtrump.com/)’s top [White House](https://www.whitehouse.gov/) lawyer David Warrington concluded it would be ‘legally permissible’ for the donation of the aircraft to be conditioned on transferring its ownership to [Trump](https://www.donaldjtrump.com/)’s presidential library before the end of his term.” (It’s worth noting, as my colleague Steve Benen [pointed out](https://www.msnbc.com/rachel-maddow-show/maddowblog/trump-scrambles-defend-luxury-jet-qatar-ll-use-air-force-one-rcna206207), that [Bondi](https://www.justice.gov/ag/staff-profile/meet-attorney-general) “used to work as a registered lobbyist for foreign clients, [including the government of Qatar](https://www.msnbc.com/rachel-maddow-show/maddowblog/pam-bondi-tapped-trump-ag-still-haunted-controversies-rcna181609).”)
+
+But [Hauser](https://therevolvingdoorproject.org/author/jeff-hauser/) argued that its eventual donation to the library — where it appears plausible that [Trump](https://www.donaldjtrump.com/) and his family could continue to use the aircraft after his term ends — makes it no less of a violation of the [emoluments clause](https://constitution.congress.gov/browse/essay/artII-S1-C7-1/ALDE_00000233/). “You absolutely cannot use the existence of a nonprofit organization as a shield against political corruption,” [Hauser](https://therevolvingdoorproject.org/author/jeff-hauser/) said. “You can be corrupt on behalf of a charity.”
+
+Think about it this way: Even if you re-gift a gift, it doesn’t change the fact that you received a gift. That applies even if [Trump](https://www.donaldjtrump.com/) doesn’t use the jet after exiting the [White House](https://www.whitehouse.gov/). Of course the premise for this gift is to replace the aging aircraft in the [Air Force One](https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104588/vc-25-air-force-one/) fleet with an impressive new jet, as [Boeing’s contract to replace them has been delayed and plagued by cost issues](https://abcnews.go.com/Politics/trump-administration-poised-accept-palace-sky-gift-trump/story?id=121680511).
+
+Avoiding conflict of interest matters beyond the corrupt back-scratching scenarios that they can set in motion. They also help maintain citizen trust in the government. A [president](https://www.whitehouse.gov/) who can only think of human interactions — including governance — as a series of private zero-sum transactions may not care about, or even understand, that.
+
+It doesn’t matter whether [Trump](https://www.donaldjtrump.com/) agreed to a specific quid pro quo behind closed doors. A free jumbo jet for [Air Force One](https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104588/vc-25-air-force-one/) is a big favor — and a hugely tangible and personal one at that. There would be no way to extricate that from the rapport between the [White House](https://www.whitehouse.gov/) and [Qatar](https://hukoomi.gov.qa/) going forward — it would be baked in as part of the bartering capital [Qatar](https://hukoomi.gov.qa/) has with [Trump](https://www.donaldjtrump.com/) in future instances when discussing everything from policy on [Iran](https://irangov.ir/) to [Israel](https://www.gov.il/) to natural gas deals. Moreover, other countries around the world will observe this and surmise that U.S. policy may be sold to the highest bidder.
+
+Subscribe to the Project 47 newsletter to receive weekly updates on and expert insight into the key issues and figures defining Trump’s second term.
+
+Zeeshan Aleem
+Zeeshan Aleem is a writer and editor for [MSNBC Daily](https://www.msnbc.com/). Previously, he worked at [Vox](https://www.vox.com/), [HuffPost](https://www.huffpost.com/) and [Politico](https://www.politico.com/), and he has also been published in, among other places, [The New York Times](https://www.nytimes.com/), [The Atlantic](https://www.theatlantic.com/), [The Nation](https://www.thenation.com/), and [The Intercept](https://theintercept.com/).
 
 ## [Trump says he’ll accept a \$400m gift from Qatar — which funded Hamas](https://www.msnbc.com/opinion/msnbc-opinion/trump-qatar-hamas-antisemitism-boeing-jet-gift-rcna206386)
 
@@ -54,44 +216,6 @@ But in accepting a \$400 million personal gift from [Qatar](https://hukoomi.gov.
 Anthony L. Fisher
 Anthony L. Fisher is a senior editor and writer for [MSNBC Daily](https://www.msnbc.com/). He was previously the senior opinion editor for [The Daily Beast](https://www.thedailybeast.com/) and a politics columnist for [Business Insider](https://www.businessinsider.com/).
 
-## [Trump scrambles to defend luxury jet from Qatar he’ll use as Air Force One](https://www.msnbc.com/rachel-maddow-show/maddowblog/trump-scrambles-defend-luxury-jet-qatar-ll-use-air-force-one-rcna206207)
-
-*The [president](https://www.whitehouse.gov/) tried to defend an apparent plan in which he’d get to use a luxury jet from the government of [Qatar](https://hukoomi.gov.qa/). It didn’t go well.*
-
- May 12, 2025, 8:00 AM EDT
-
-By [Steve Benen](https://www.msnbc.com/author/steve-benen-ncpn433601)
-
-In [Donald Trump](https://www.donaldjtrump.com/)’s [first term](https://trumpwhitehouse.archives.gov/), the [president](https://www.whitehouse.gov/) cultivated an unexpectedly amusing list of incidents related to airplanes. I actually [maintained a list](https://www.msnbc.com/rachel-maddow-show/trump-takes-aim-the-complexity-modern-airplanes-msna1203801), documenting a curious array of stories in which the [Republican](https://www.gop.com/) [suggested that F-35s are literally invisible](https://www.msnbc.com/rachel-maddow-show/maddowblog/trump-genuinely-seems-believe-f-35s-are-literally-invisible-n1131361), whined about [the complexity of piloting](https://www.msnbc.com/rachel-maddow-show/trump-takes-aim-the-complexity-modern-airplanes-msna1203801), referenced F-52s [that didn’t exist](http://www.msnbc.com/rachel-maddow-show/trump-boasts-about-norway-buying-fighter-jets-dont-exist) outside of video games, [complained to members of Congress](http://www.msnbc.com/rachel-maddow-show/trumps-preoccupation-airplanes-seems-little-weird) that the [emir](https://www.da.gov.kw/) of [Kuwait](https://www.cmgs.gov.kw/)’s plane was bigger than his, and ([among other things](https://www.msnbc.com/rachel-maddow-show/trump-takes-aim-the-complexity-modern-airplanes-msna1203801)) got caught [lying about Japan](http://www.msnbc.com/rachel-maddow-show/trump-touts-another-airplane-deal-doesnt-exist) buying U.S. fighter jets and [lying about Finland](http://www.msnbc.com/rachel-maddow-show/trump-says-finland-buying-us-fighter-jets-finland-disagrees) doing the same thing.
-
-In his [second term](https://www.whitehouse.gov/), the news at the intersection of [Trump](https://www.donaldjtrump.com/) and planes is far less funny. [NBC News reported](https://www.nbcnews.com/politics/donald-trump/trump-administration-will-accept-luxury-jet-qatar-use-air-force-one-rcna206111):
-
-> *The [Trump](https://www.donaldjtrump.com/) [administration](https://www.whitehouse.gov/administration/) is preparing to accept a superluxury [Boeing](https://www.boeing.com/) [747-8](https://www.boeing.com/commercial/747-8) jumbo jet from the royal family of [Qatar](https://hukoomi.gov.qa/) as a gift to be used by [President](https://www.whitehouse.gov/) [Donald Trump](https://www.donaldjtrump.com/) as the new [Air Force One](https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104588/vc-25-air-force-one/) for presidential travel until shortly before [Trump](https://www.donaldjtrump.com/) leaves office, according to four sources familiar with the planning. Two of the sources also confirm that ownership of the plane will be transferred to the [Trump](https://www.donaldjtrump.com/) presidential library foundation once the president ends his second term.*
-
-According to [a report from ABC News](https://abcnews.go.com/Politics/trump-administration-poised-accept-palace-sky-gift-trump/story?id=121680511), which was the first to break this story, [Attorney General](www.justice.gov/) [Pam Bondi](https://www.justice.gov/ag/staff-profile/meet-attorney-general) and other [Justice Department](https://www.justice.gov/) lawyers determined that the acceptance of the plane was legally permissible if the [Qatari](https://hukoomi.gov.qa/) government gifts it to the [Defense Department](https://www.defense.gov) and it is later turned over to the [Trump Library Foundation](http://www.trumplibrary.gov/home).
-
-This is notable for a variety of reasons, not the least of which is the [attorney general](https://www.justice.gov/)’s recent professional background: [Bondi](https://www.justice.gov/ag/staff-profile/meet-attorney-general) used to work as a registered lobbyist for foreign clients, [including the government of Qatar](https://www.msnbc.com/rachel-maddow-show/maddowblog/pam-bondi-tapped-trump-ag-still-haunted-controversies-rcna181609) — the same government that’s apparently preparing to reward [Trump](https://www.donaldjtrump.com/) with a jet. (Soon after [Senate](https://www.senate.gov/) [Republicans](https://www.gop.com/) made her the nation’s chief law enforcement official, [Bondi](https://www.justice.gov/ag/staff-profile/meet-attorney-general) [also disbanded the FBI’s Foreign Influence Task Force](https://www.msnbc.com/rachel-maddow-show/maddowblog/ag-pam-bondi-shutters-fbis-foreign-influence-task-force-rcna191221).)
-
-It’s important to emphasize that the specific details of this arrangement are still coming into focus, and a spokesperson for [Qatar](https://hukoomi.gov.qa/)’s government said that plans are not yet final. “The possible transfer of an aircraft for temporary use as [Air Force One](https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104588/vc-25-air-force-one/) is currently under consideration between [Qatar](https://hukoomi.gov.qa/)’s Ministry of Defense and the [U.S. Department of Defense](https://www.defense.gov/), but the matter remains under review by the respective legal departments, and no decision has been made,” Ali Al-Ansari, [Qatar](https://hukoomi.gov.qa/)’s Media Attaché to the U.S., [told Politico](https://www.politico.com/news/2025/05/11/qatar-calls-jet-gift-trump-inaccurate-00341084).
-
-The intended beneficiary of [Qatar](https://hukoomi.gov.qa/)’s apparent generosity, however, characterized the developments as a “fact” in an overnight missive published to his social media platform.
-
-“So the fact that the [Defense Department](https://www.defense.gov/) is getting a GIFT, FREE OF CHARGE, of a 747 aircraft to replace the 40 year old [Air Force One](https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104588/vc-25-air-force-one/), temporarily, in a very public and transparent transaction, so bothers the Crooked Democrats that they insist we pay, TOP DOLLAR, for the plane,” [Trump wrote](https://truthsocial.com/@realDonaldTrump/114492082555622686). “Anybody can do that! The Dems are World Class Losers!!! MAGA”
-
-So let me see if I have this straight. The [sitting American president](https://www.whitehouse.gov/) is eager to accept the largest foreign gift in the history of the [United States](https://www.usa.gov/), which he intends to keep after he exits the [White House](https://www.whitehouse.gov/), in [defiance of the Emoluments Clause of the U.S. Constitution](https://www.msnbc.com/rachel-maddow-show/maddowblog/investigation-trump-businesses-received-millions-foreign-governments-rcna132278) — a black-letter legal provision that the [Republican](https://www.gop.com/) is on record dismissing as “[phony](https://www.usatoday.com/story/news/politics/2019/10/21/donald-trump-mocks-constitution-emoluments-clause-phony/4055162002/).” [Trump](https://www.donaldjtrump.com/) is prepared to welcome a foreign government’s largess, even as that same country [strikes private deals with the president’s family-run business](https://www.wsj.com/world/middle-east/trump-family-business-gulf-06792821?mod=hp_lead_pos1).
-
-This entire arrangement was approved by the [president](https://www.whitehouse.gov/)'s [attorney general](https://www.justice.gov/) — who worked as a well-paid lobbyist for that [same country](https://hukoomi.gov.qa/).
-
-It’s against this backdrop that [Trump](https://www.donaldjtrump.com/) wrote that his critics are “crooked.”
-
-[Sen.](https://www.senate.gov/) [Chris Murphy (D-CT)](https://www.murphy.senate.gov/), who’s spent months focusing on [White House](https://www.whitehouse.gov/) corruption, described these developments as “[wildly illegal](https://bsky.app/profile/chrismurphyct.bsky.social/post/3lovwaqial22e).” In theory, [congressional](https://www.congress.gov/) [Republicans](https://www.gop.com/) — many of whom [seemed quite concerned about Qatari gifts to American universities](https://www.ft.com/content/d0a16f75-8b05-4ff9-b5f1-d473d7f5a704) in the recent past — could easily come to the same conclusions.
-
-But it seems more likely that [GOP](https://www.gop.com/) [lawmakers](https://www.congress.gov/) will again shrug with indifference.
-
-Steve Benen
-Steve Benen is a producer for "[The Rachel Maddow Show](https://www.msnbc.com/rachel-maddow-show)," the editor of [MaddowBlog](https://www.msnbc.com/rachel-maddow-show) and an [MSNBC](https://www.msnbc.com/) political contributor. He's also the bestselling author of ["Ministry of Truth: Democracy, Reality, and the Republicans' War on the Recent Past."](https://www.harpercollins.com/products/ministry-of-truth-steve-benen)
-
-
 ## [Pressed on corruption allegations against Trump, Karoline Leavitt offers pitiful defense](https://www.msnbc.com/rachel-maddow-show/maddowblog/pressed-corruption-allegations-trump-karoline-leavitt-offers-pitiful-d-rcna206344)
 
 *[White House](https://www.whitehouse.gov/) press secretary Karoline Leavitt pushed back against questions about the [president](https://www.whitehouse.gov/)’s grifts. It was a predictable failure.*
@@ -130,82 +254,170 @@ But if Leavitt believes her talking points are going to end the corruption discu
 Steve Benen
 Steve Benen is a producer for "[The Rachel Maddow Show](https://www.msnbc.com/rachel-maddow-show)," the editor of [MaddowBlog](https://www.msnbc.com/rachel-maddow-show) and an [MSNBC](https://www.msnbc.com/) political contributor. He's also the bestselling author of ["Ministry of Truth: Democracy, Reality, and the Republicans' War on the Recent Past."](https://www.harpercollins.com/products/ministry-of-truth-steve-benen)
 
-## [Qatar's jumbo jet gift is a deal for Trump, not the American people](https://www.msnbc.com/opinion/msnbc-opinion/qatar-trump-jet-gift-plane-corrupt-newsletter-rcna206330)
+## [Trump scrambles to defend luxury jet from Qatar he’ll use as Air Force One](https://www.msnbc.com/rachel-maddow-show/maddowblog/trump-scrambles-defend-luxury-jet-qatar-ll-use-air-force-one-rcna206207)
 
-*[Trump](https://www.donaldjtrump.com/) just put a "for sale" sign on U.S. foreign policy with [Qatar](https://hukoomi.gov.qa/)'s jet gift.*
+*The [president](https://www.whitehouse.gov/) tried to defend an apparent plan in which he’d get to use a luxury jet from the government of [Qatar](https://hukoomi.gov.qa/). It didn’t go well.*
 
-May 13, 2025, 6:00 AM EDT / Updated May 13, 2025, 8:59 AM EDT
+ May 12, 2025, 8:00 AM EDT
 
-By Zeeshan Aleem, [MSNBC](https://www.msnbc.com/) Opinion Writer/Editor
+By [Steve Benen](https://www.msnbc.com/author/steve-benen-ncpn433601)
 
-In defending the gift of a [super luxury jumbo jet he’s preparing to receive from the royal family of Qatar](https://www.msnbc.com/rachel-maddow-show/maddowblog/trump-scrambles-defend-luxury-jet-qatar-ll-use-air-force-one-rcna206207) to use as [Air Force One](https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104588/vc-25-air-force-one/), [President](https://www.whitehouse.gov/) [Donald Trump](https://www.donaldjtrump.com/) described it as a brilliant deal. Not for the American people, it isn’t.
+In [Donald Trump](https://www.donaldjtrump.com/)’s [first term](https://trumpwhitehouse.archives.gov/), the [president](https://www.whitehouse.gov/) cultivated an unexpectedly amusing list of incidents related to airplanes. I actually [maintained a list](https://www.msnbc.com/rachel-maddow-show/trump-takes-aim-the-complexity-modern-airplanes-msna1203801), documenting a curious array of stories in which the [Republican](https://www.gop.com/) [suggested that F-35s are literally invisible](https://www.msnbc.com/rachel-maddow-show/maddowblog/trump-genuinely-seems-believe-f-35s-are-literally-invisible-n1131361), whined about [the complexity of piloting](https://www.msnbc.com/rachel-maddow-show/trump-takes-aim-the-complexity-modern-airplanes-msna1203801), referenced F-52s [that didn’t exist](http://www.msnbc.com/rachel-maddow-show/trump-boasts-about-norway-buying-fighter-jets-dont-exist) outside of video games, [complained to members of Congress](http://www.msnbc.com/rachel-maddow-show/trumps-preoccupation-airplanes-seems-little-weird) that the [emir](https://www.da.gov.kw/) of [Kuwait](https://www.cmgs.gov.kw/)’s plane was bigger than his, and ([among other things](https://www.msnbc.com/rachel-maddow-show/trump-takes-aim-the-complexity-modern-airplanes-msna1203801)) got caught [lying about Japan](http://www.msnbc.com/rachel-maddow-show/trump-touts-another-airplane-deal-doesnt-exist) buying U.S. fighter jets and [lying about Finland](http://www.msnbc.com/rachel-maddow-show/trump-says-finland-buying-us-fighter-jets-finland-disagrees) doing the same thing.
 
-The [Boeing](https://www.boeing.com/) [747-8](https://www.boeing.com/commercial/747-8) jet is so lavish it is estimated [to be worth around \$400 million](https://abcnews.go.com/Politics/trump-administration-poised-accept-palace-sky-gift-trump/story?id=121680511), and Jessica Levinson, a law professor at [Loyola](https://www.luc.edu/) [Law School](https://www.luc.edu/law/) and an [MSNBC](https://www.msnbc.com/) columnist, [has said](https://www.businessinsider.com/trump-luxury-jet-gift-boeing-qatar-legal-concerns-explainer-2025-5) that “a gift of this size from a foreign government is unprecedented in our nation’s history.” Ali Al-Ansari, [Qatar](https://hukoomi.gov.qa/)’s media attaché to the U.S., [said in a statement that](https://www.nbcnews.com/politics/donald-trump/trump-administration-will-accept-luxury-jet-qatar-use-air-force-one-rcna206111) that the deal is not final, as “the matter remains under review by the respective legal departments” of the two countries’ defense departments.
+In his [second term](https://www.whitehouse.gov/), the news at the intersection of [Trump](https://www.donaldjtrump.com/) and planes is far less funny. [NBC News reported](https://www.nbcnews.com/politics/donald-trump/trump-administration-will-accept-luxury-jet-qatar-use-air-force-one-rcna206111):
 
-> *Contrary to [Trump](https://www.donaldjtrump.com/)'s insinuation that this is actually good for [Americans](https://www.usa.gov/), by accepting the luxe jet he’d be taking the [American public](https://www.usa.gov/) for a ride.*
+> *The [Trump](https://www.donaldjtrump.com/) [administration](https://www.whitehouse.gov/administration/) is preparing to accept a superluxury [Boeing](https://www.boeing.com/) [747-8](https://www.boeing.com/commercial/747-8) jumbo jet from the royal family of [Qatar](https://hukoomi.gov.qa/) as a gift to be used by [President](https://www.whitehouse.gov/) [Donald Trump](https://www.donaldjtrump.com/) as the new [Air Force One](https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104588/vc-25-air-force-one/) for presidential travel until shortly before [Trump](https://www.donaldjtrump.com/) leaves office, according to four sources familiar with the planning. Two of the sources also confirm that ownership of the plane will be transferred to the [Trump](https://www.donaldjtrump.com/) presidential library foundation once the president ends his second term.*
 
-After [Democrats](https://www.democrats.org/) objected to the planned transfer of the “flying palace” as unconstitutional and corrupt, [Trump](https://www.donaldjtrump.com/) suggested [Democrats](https://www.democrats.org/) ought to be in awe of his deal-making abilities. The real offense, he said, would be paying for the plane. “So the fact that the [Defense Department](https://www.defense.gov/) is getting a GIFT, FREE OF CHARGE, of a 747 aircraft to replace the 40 year old [Air Force One](https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104588/vc-25-air-force-one/), temporarily, in a very public and transparent transaction, so bothers the Crooked Democrats that they insist we pay, TOP DOLLAR, for the plane,” [Trump](https://www.donaldjtrump.com/) [posted on Truth Social](https://truthsocial.com/@realDonaldTrump/posts/114492082555622686). “Anybody can do that! The Dems are World Class Losers!!! MAGA.”
+According to [a report from ABC News](https://abcnews.go.com/Politics/trump-administration-poised-accept-palace-sky-gift-trump/story?id=121680511), which was the first to break this story, [Attorney General](www.justice.gov/) [Pam Bondi](https://www.justice.gov/ag/staff-profile/meet-attorney-general) and other [Justice Department](https://www.justice.gov/) lawyers determined that the acceptance of the plane was legally permissible if the [Qatari](https://hukoomi.gov.qa/) government gifts it to the [Defense Department](https://www.defense.gov) and it is later turned over to the [Trump Library Foundation](http://www.trumplibrary.gov/).
 
-Contrary to [Trump](https://www.donaldjtrump.com/)’s insinuation that this is actually good for [Americans](https://www.usa.gov/), by accepting the luxe jet he’d be taking the [American public](https://www.usa.gov/) for a ride. The [Constitution](https://constitution.congress.gov/)’s [emoluments clause](https://constitution.congress.gov/browse/essay/artII-S1-C7-1/ALDE_00000233/) [prohibits public officeholders from receiving gifts from foreign states](https://constitutioncenter.org/the-constitution/articles/article-i/clauses/759) without consent from [Congress](https://www.congress.gov/). There’s a simple reason for that: Those countries have their own interests that are separate from, and often at odds with, the interests of the [American public](https://www.usa.gov/). By accepting the jet, [Trump](https://www.donaldjtrump.com/) would be accepting a favor that could raise the potential for a reciprocal act that serves the interests of [Qatar](https://hukoomi.gov.qa/) instead of the [U.S.](https://www.usa.gov/)
+This is notable for a variety of reasons, not the least of which is the [attorney general](https://www.justice.gov/)’s recent professional background: [Bondi](https://www.justice.gov/ag/staff-profile/meet-attorney-general) used to work as a registered lobbyist for foreign clients, [including the government of Qatar](https://www.msnbc.com/rachel-maddow-show/maddowblog/pam-bondi-tapped-trump-ag-still-haunted-controversies-rcna181609) — the same government that’s apparently preparing to reward [Trump](https://www.donaldjtrump.com/) with a jet. (Soon after [Senate](https://www.senate.gov/) [Republicans](https://www.gop.com/) made her the nation’s chief law enforcement official, [Bondi](https://www.justice.gov/ag/staff-profile/meet-attorney-general) [also disbanded the FBI’s Foreign Influence Task Force](https://www.msnbc.com/rachel-maddow-show/maddowblog/ag-pam-bondi-shutters-fbis-foreign-influence-task-force-rcna191221).)
 
-“There is no question that any court that got to the merits would find a violation of the foreign emoluments clause,” [Jeff Hauser](https://therevolvingdoorproject.org/author/jeff-hauser/), executive director of the [Revolving Door Project](https://therevolvingdoorproject.org/ ), a public interest watchdog, told me.
+It’s important to emphasize that the specific details of this arrangement are still coming into focus, and a spokesperson for [Qatar](https://hukoomi.gov.qa/)’s government said that plans are not yet final. “The possible transfer of an aircraft for temporary use as [Air Force One](https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104588/vc-25-air-force-one/) is currently under consideration between [Qatar](https://hukoomi.gov.qa/)’s Ministry of Defense and the [U.S. Department of Defense](https://www.defense.gov/), but the matter remains under review by the respective legal departments, and no decision has been made,” Ali Al-Ansari, [Qatar](https://hukoomi.gov.qa/)’s Media Attaché to the U.S., [told Politico](https://www.politico.com/news/2025/05/11/qatar-calls-jet-gift-trump-inaccurate-00341084).
 
-[ABC News](https://abcnews.go.com/), citing sources familiar with the plan, [reported](https://abcnews.go.com/Politics/trump-administration-poised-accept-palace-sky-gift-trump/story?id=121680511) that “[Attorney General](https://www.justice.gov/) [Pam Bondi](https://www.justice.gov/ag/staff-profile/meet-attorney-general) and [Trump](https://www.donaldjtrump.com/)’s top [White House](https://www.whitehouse.gov/) lawyer David Warrington concluded it would be ‘legally permissible’ for the donation of the aircraft to be conditioned on transferring its ownership to [Trump](https://www.donaldjtrump.com/)’s presidential library before the end of his term.” (It’s worth noting, as my colleague Steve Benen [pointed out](https://www.msnbc.com/rachel-maddow-show/maddowblog/trump-scrambles-defend-luxury-jet-qatar-ll-use-air-force-one-rcna206207), that [Bondi](https://www.justice.gov/ag/staff-profile/meet-attorney-general) “used to work as a registered lobbyist for foreign clients, [including the government of Qatar](https://www.msnbc.com/rachel-maddow-show/maddowblog/pam-bondi-tapped-trump-ag-still-haunted-controversies-rcna181609).”)
+The intended beneficiary of [Qatar](https://hukoomi.gov.qa/)’s apparent generosity, however, characterized the developments as a “fact” in an overnight missive published to his social media platform.
 
-But [Hauser](https://therevolvingdoorproject.org/author/jeff-hauser/) argued that its eventual donation to the library — where it appears plausible that [Trump](https://www.donaldjtrump.com/) and his family could continue to use the aircraft after his term ends — makes it no less of a violation of the [emoluments clause](https://constitution.congress.gov/browse/essay/artII-S1-C7-1/ALDE_00000233/). “You absolutely cannot use the existence of a nonprofit organization as a shield against political corruption,” [Hauser](https://therevolvingdoorproject.org/author/jeff-hauser/) said. “You can be corrupt on behalf of a charity.”
+“So the fact that the [Defense Department](https://www.defense.gov/) is getting a GIFT, FREE OF CHARGE, of a 747 aircraft to replace the 40 year old [Air Force One](https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104588/vc-25-air-force-one/), temporarily, in a very public and transparent transaction, so bothers the Crooked Democrats that they insist we pay, TOP DOLLAR, for the plane,” [Trump wrote](https://truthsocial.com/@realDonaldTrump/114492082555622686). “Anybody can do that! The Dems are World Class Losers!!! MAGA”
 
-Think about it this way: Even if you re-gift a gift, it doesn’t change the fact that you received a gift. That applies even if [Trump](https://www.donaldjtrump.com/) doesn’t use the jet after exiting the [White House](https://www.whitehouse.gov/). Of course the premise for this gift is to replace the aging aircraft in the [Air Force One](https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104588/vc-25-air-force-one/) fleet with an impressive new jet, as [Boeing’s contract to replace them has been delayed and plagued by cost issues](https://abcnews.go.com/Politics/trump-administration-poised-accept-palace-sky-gift-trump/story?id=121680511).
+So let me see if I have this straight. The [sitting American president](https://www.whitehouse.gov/) is eager to accept the largest foreign gift in the history of the [United States](https://www.usa.gov/), which he intends to keep after he exits the [White House](https://www.whitehouse.gov/), in [defiance of the Emoluments Clause of the U.S. Constitution](https://www.msnbc.com/rachel-maddow-show/maddowblog/investigation-trump-businesses-received-millions-foreign-governments-rcna132278) — a black-letter legal provision that the [Republican](https://www.gop.com/) is on record dismissing as “[phony](https://www.usatoday.com/story/news/politics/2019/10/21/donald-trump-mocks-constitution-emoluments-clause-phony/4055162002/).” [Trump](https://www.donaldjtrump.com/) is prepared to welcome a foreign government’s largess, even as that same country [strikes private deals with the president’s family-run business](https://www.wsj.com/world/middle-east/trump-family-business-gulf-06792821?mod=hp_lead_pos1).
 
-Avoiding conflict of interest matters beyond the corrupt back-scratching scenarios that they can set in motion. They also help maintain citizen trust in the government. A [president](https://www.whitehouse.gov/) who can only think of human interactions — including governance — as a series of private zero-sum transactions may not care about, or even understand, that.
+This entire arrangement was approved by the [president](https://www.whitehouse.gov/)'s [attorney general](https://www.justice.gov/) — who worked as a well-paid lobbyist for that [same country](https://hukoomi.gov.qa/).
 
-It doesn’t matter whether [Trump](https://www.donaldjtrump.com/) agreed to a specific quid pro quo behind closed doors. A free jumbo jet for [Air Force One](https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104588/vc-25-air-force-one/) is a big favor — and a hugely tangible and personal one at that. There would be no way to extricate that from the rapport between the [White House](https://www.whitehouse.gov/) and [Qatar](https://hukoomi.gov.qa/) going forward — it would be baked in as part of the bartering capital [Qatar](https://hukoomi.gov.qa/) has with [Trump](https://www.donaldjtrump.com/) in future instances when discussing everything from policy on [Iran](https://irangov.ir/) to [Israel](https://www.gov.il/) to natural gas deals. Moreover, other countries around the world will observe this and surmise that U.S. policy may be sold to the highest bidder.
+It’s against this backdrop that [Trump](https://www.donaldjtrump.com/) wrote that his critics are “crooked.”
 
-Subscribe to the Project 47 newsletter to receive weekly updates on and expert insight into the key issues and figures defining Trump’s second term.
+[Sen.](https://www.senate.gov/) [Chris Murphy (D-CT)](https://www.murphy.senate.gov/), who’s spent months focusing on [White House](https://www.whitehouse.gov/) corruption, described these developments as “[wildly illegal](https://bsky.app/profile/chrismurphyct.bsky.social/post/3lovwaqial22e).” In theory, [congressional](https://www.congress.gov/) [Republicans](https://www.gop.com/) — many of whom [seemed quite concerned about Qatari gifts to American universities](https://www.ft.com/content/d0a16f75-8b05-4ff9-b5f1-d473d7f5a704) in the recent past — could easily come to the same conclusions.
 
-Zeeshan Aleem
-Zeeshan Aleem is a writer and editor for [MSNBC Daily](https://www.msnbc.com/). Previously, he worked at [Vox](https://www.vox.com/), [HuffPost](https://www.huffpost.com/) and [Politico](https://www.politico.com/), and he has also been published in, among other places, [The New York Times](https://www.nytimes.com/), [The Atlantic](https://www.theatlantic.com/), [The Nation](https://www.thenation.com/), and [The Intercept](https://theintercept.com/).
+But it seems more likely that [GOP](https://www.gop.com/) [lawmakers](https://www.congress.gov/) will again shrug with indifference.
 
-## [MAGA influencers criticize Trump’s \$400 million jet from Qatar](https://www.msnbc.com/top-stories/latest/trump-qatar-plane-maga-influencers-laura-loomer-ben-shapiro-rcna206467)
+Steve Benen
+Steve Benen is a producer for "[The Rachel Maddow Show](https://www.msnbc.com/rachel-maddow-show)," the editor of [MaddowBlog](https://www.msnbc.com/rachel-maddow-show) and an [MSNBC](https://www.msnbc.com/) political contributor. He's also the bestselling author of ["Ministry of Truth: Democracy, Reality, and the Republicans' War on the Recent Past."](https://www.harpercollins.com/products/ministry-of-truth-steve-benen)
 
-*[Trump](https://www.donaldjtrump.com/)’s plan to accept a luxury jet as a gift from the [Qatari](https://hukoomi.gov.qa/) royal family has led to broad criticism — including from the MAGA faithful.*
+## [Trump administration will accept a luxury jet from Qatar to use as Air Force One](https://www.nbcnews.com/politics/donald-trump/trump-administration-will-accept-luxury-jet-qatar-use-air-force-one-rcna206111)
 
-May 13, 2025, 11:39 AM EDT / Updated May 13, 2025, 1:18 PM EDT
+*Trump is expected to discuss arrangements for the plane during his visit to Qatar this week, one source said.*
 
-By [Clarissa-Jan Lim](https://www.msnbc.com/author/clarissa-jan-lim-ncpn1307846)
+May 11, 2025, 12:59 PM EDT / Updated May 11, 2025, 6:16 PM EDT
 
-[President](https://www.whitehouse.gov/) [Donald Trump](https://www.donaldjtrump.com/)’s plan to [accept a luxury jet from the Qatari royal family](https://www.msnbc.com/opinion/msnbc-opinion/qatar-trump-jet-gift-plane-corrupt-newsletter-rcna206330) has led to an uproar among ethics experts, [Democrats](https://www.democrats.org/) and [even some Republicans](https://www.msnbc.com/rachel-maddow-show/maddowblog/trump-struggles-defend-qatars-luxury-jet-gift-republicans-are-divided-rcna206447). But some of the loudest criticism has come from his most fervent MAGA supporters.
+The Trump administration is preparing to accept a superluxury Boeing 747-8 jumbo jet from the royal family of Qatar as a gift to be used by President Donald Trump as the new Air Force One for presidential travel until shortly before Trump leaves office, according to four sources familiar with the planning.
 
-On his podcast Monday, The Daily Wire co-founder Ben Shapiro [pointed to](https://www.youtube.com/watch?v=XYBuphYtp6I&t=1907s) [Qatar](https://hukoomi.gov.qa/)’s relationship with the [Muslim Brotherhood](https://www.ikhwanonline.com/article/) and [Hamas](https://hamasinfo.info/), saying that accepting a gift from the royal family is “not America First.”
+Two of the sources also confirm that ownership of the plane will be transferred to the Trump presidential library foundation once the president ends his second term.
 
-If you want [President](https://www.whitehouse.gov/) [Trump](https://www.donaldjtrump.com/) to succeed, this kind of skeezy stuff needs to stop.
+According to one of the sources, the arrangement will be done according to U.S. and international laws, in observance of ethics rules. That official said it will take some time for the plane to be delivered but that the president will discuss the arrangement during his visit to Qatar this week.
 
-“Is this good for [President](https://www.whitehouse.gov/) [Trump](https://www.donaldjtrump.com/), is it good for his agenda? Is it good for draining the swamp and getting things done? The answer is no, it isn’t,” Shapiro said. “It isn’t. If you want [President](https://www.whitehouse.gov/) [Trump](https://www.donaldjtrump.com/) to succeed, this kind of skeezy stuff needs to stop.”
+Another one of the sources said the idea of gifting Trump this specific plane has been under discussion for “quite some time” and that when the formal offer was made more recently, the president “happily accepted.”
 
-He added: “I think if we switched the names to Hunter Biden and [Joe Biden](https://bidenwhitehouse.archives.gov/), we’d all be freaking out on the right.”
+ABC News [first reported](https://urldefense.com/v3/__https://abcnews.go.com/Politics/trump-administration-poised-accept-palace-sky-gift-trump/story?id=121680511__;!!PIZeeW5wscynRQ!reDY8glbGcK94QLfFM5eHCtiA0WWkEfU23uSU2-SxKcWLkaI7DBCr-e71bIIRxPXscdUYPyB7qfKAJ3NSIo6e4WHnmzWQOGlZDMEDfHGfMWZN4hMOfDhOZ2r$) the gift.
 
-Far-right influencer [Laura Loomer](https://www.loomered.com/), who has had [direct access to Trump](https://www.msnbc.com/way-too-early/watch/firing-of-nsa-chief-raises-concerns-about-laura-loomer-s-influence-236691013909), wrote a series of posts criticizing the gift.
+In response to questions about [Qatar](https://hukoomi.gov.qa/) giving the plane to [Trump](https://www.donaldjtrump.com/), [White House](https://www.whitehouse.gov/) press secretary Karoline Leavitt said gifts from foreign governments are accepted following the law.
 
-“I love [President](https://www.whitehouse.gov/) [Trump](https://www.donaldjtrump.com/). I would take a bullet for him,” she [wrote on X](https://x.com/LauraLoomer/status/1921615017138618439) on Sunday. “But, I have to call a spade a spade. We cannot accept a \$400 million ‘gift’ from jihadists in suits.”
+“Any gift given by a foreign government is always accepted in full compliance with all applicable laws,” Leavitt said. “[President](https://www.whitehouse.gov/) [Trump](https://www.donaldjtrump.com/)’s [Administration](https://www.whitehouse.gov/administration/) is committed to full transparency.”
 
-[Faux News](https://www.foxnews.com/) host [Mark Levin](https://www.foxnews.com/person/l/mark-levin) shared [Loomer](https://www.loomered.com/)’s post, [adding](https://x.com/marklevinshow/status/1921701015516057967): “Ditto.”
+A [White House](https://www.whitehouse.gov/) official tells [NBC News](https://www.nbcnews.com/) that it is true [Qatar](https://hukoomi.gov.qa/) has offered to donate a plane to the [Department of Defense](https://www.defense.gov/), but the gift will not be presented nor accepted this week while [Trump](https://www.donaldjtrump.com/) is in [Qatar](https://hukoomi.gov.qa/).
 
-[Loomer](https://www.loomered.com/), however, also tempered some of her criticism with effusive praise for the president. “It will be a stain, but he is still the best [President](https://www.whitehouse.gov/) of my lifetime,” she [wrote on X](https://x.com/LauraLoomer/status/1921987426131837358) on Monday.
+Ali Al-Ansari, [Qatar](https://hukoomi.gov.qa/)’s media attaché to the U.S., added in a statement, "The possible transfer of an aircraft for temporary use as [Air Force One](https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104588/vc-25-air-force-one/) is currently under consideration between [Qatar](https://hukoomi.gov.qa/)’s [Ministry of Defense](https://www.doha.directory/ministry-of-defense/i/694) and the [US Department of Defense](https://www.defense.gov/), but the matter remains under review by the respective legal departments, and no decision has been made."
 
-First [reported by ABC News](https://abcnews.go.com/Politics/trump-administration-poised-accept-palace-sky-gift-trump/story?id=121680511), the super luxury [Boeing](https://www.boeing.com/) [747-8 jumbo jet](https://www.boeing.com/commercial/747-8) — which is estimated to be valued at \$400 million — from Qatar is expected to be converted for use as Air Force One. The overhaul would take years and a potentially hefty price tag, along with a host of security concerns, according to aviation and intelligence experts who [spoke with NBC News](https://www.nbcnews.com/politics/donald-trump/america-first-trump-qatar-luxury-jet-air-force-one-rcna206254).
+[Democrats](https://www.democrats.org/) have criticized the [Trump](https://www.donaldjtrump.com/) [administration](https://www.whitehouse.gov/administration/) amid reports about their plans to accept a plane, saying that a gift of this magnitude would need congressional approval.
 
-Meanwhile, [Trump](https://www.donaldjtrump.com/) has defended his decision to accept the plane, calling it “a great gesture from [Qatar](https://hukoomi.gov.qa/)” and suggesting it was too good an offer to pass up on.
+"[Trump](https://www.donaldjtrump.com/) must seek [Congress](https://www.congress.gov/)’ consent to take this \$300 million gift from [Qatar](https://hukoomi.gov.qa/). The [Constitution](https://constitution.congress.gov/) is perfectly clear: no present “of any kind whatever” from a foreign state without [Congressional](https://www.congress.gov/) permission. A gift you use for four years and then deposit in your library is still a gift (and a grift)," [Rep.](https://www.house.gov/) [Jamie Raskin (D-MD)](https://raskin.house.gov/), the top [Democrat](https://www.democrats.org/) on the [House Judiciary Committee](http://judiciary.house.gov/), [wrote in a post](https://x.com/RepRaskin/status/1921553946574782586) on [X](https://x.com/).
 
-[“I would never be one to turn down that kind of an offer,” he said Monday when pressed about the deal. “I mean, I could be a stupid person [and] say, ‘No, we don’t want a free, very expensive](airplane.’”)
+[Rep.](https://www.house.gov/) [Ritchie Torres (D-NY)](https://ritchietorres.house.gov/), called for an investigation into the [administration](https://www.whitehouse.gov/administration/)'s plans to accept the plane, characterizing it as a "flying grift" that is "the most valuable gift ever conferred on a [President](https://www.whitehouse.gov/) by a foreign government."
 
-Clarissa-Jan Lim
-Clarissa-Jan Lim is a breaking/trending news blogger for [MSNBC Digital](https://www.msnbc.com/). She was previously a senior reporter and editor at BuzzFeed News.
+"Rather than enforcing ethics, the [Attorney General](https://www.justice.gov/) has affixed the [Department of Justice](https://www.justice.gov/)’s seal of approval to a transaction that flagrantly violates both the letter and the spirit of the [Constitution](https://constitution.congress.gov/)’s [Emoluments Clause](https://constitution.congress.gov/browse/essay/artII-S1-C7-1/ALDE_00000233/)," [Torres](https://ritchietorres.house.gov/) wrote in a letter to the head of the [Government Accountability Office](https://www.gao.gov/), the acting [Inspector General](https://www.dodig.mil/) of the [Defense Department](https://www.defense.gov/) and the acting director of the [Office of Government Ethics](https://www.oge.gov/).
+
+[Axios](https://www.axios.com/) was the [first to report on Torres' letter](https://www.axios.com/2025/05/11/trump-qatar-plane-democrat-torres-investigation).
+
+[Senate](https://www.senate.gov/) [Minority Leader](https://bioguide.congress.gov/search/bio/S000148) [Chuck Schumer](https://www.schumer.senate.gov/) similarly blasted [Trump](https://www.donaldjtrump.com/), calling the plane an example of "foreign influence."
+
+"Nothing says 'America First' like [Air Force One](https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104588/vc-25-air-force-one/), brought to you by [Qatar](https://hukoomi.gov.qa/). It’s not just bribery, it’s premium foreign influence with extra legroom," [Schumer (D-NY)](https://www.schumer.senate.gov/). wrote in a post on [X](https://x.com/).
+
+[Sen.](https://www.senate.gov/) [Bernie Sanders I-VT)](https://www.sanders.senate.gov/), went even further, calling the move "corrupt" and "unconstitutional."
+
+"I don’t know who needs to hear this, but NO, [Donald Trump](https://www.donaldjtrump.com/) cannot accept a \$400 million flying palace from the royal family of [Qatar](https://hukoomi.gov.qa/). Not only is this farcically corrupt, it is blatantly unconstitutional," [Sanders](https://www.sanders.senate.gov/) wrote.
+
+[Justice Department](https://www.justice.gov/) officials did not respond to a question from [NBC News](https://www.nbcnews.com/) whether [Trump](https://www.donaldjtrump.com/)’s acceptance of the plane could violate federal anti-bribery laws or the [Constitution](https://constitution.congress.gov/)’s [emoluments clause](https://constitution.congress.gov/browse/essay/artI-S9-C8-3/ALDE_00013206/) which bars the president and other federal officials from accepting gifts from foreign powers without the approval of [Congress](https://www.congress.gov/).
+
+[ABC News](abcnews.go.com/) reported that [Attorney General](https://www.justice.gov/) [Pam Bondi](https://www.justice.gov/ag/staff-profile/meet-attorney-general) and other [DOJ](https://www.justice.gov/) lawyers had determined that the acceptance of the plane was legally permissible if the [Qatari government](https://hukoomi.gov.qa/) gifts it to the [Defense Department](https://www.defense.gov/) and it is later turned over to the [Trump Library Foundation](http://www.trumplibrary.gov/).
+
+A former senior [DOJ](https://www.justice.gov/) official who spoke on condition of anonymity said that for the jet gift to violate federal laws barring the payment of bribes or gratuities to officials, the gift would have to be motivated by corrupt intent.
+
+“Bribery requires a corrupt intent to influence an official act, i.e., a quid pro quo,” said the former official.
+[Norm Eisen](https://www.brookings.edu/people/norman-eisen/), who served as special assistant to the president for ethics in the [Obama administration](https://www.whitehouse.gov/administration/), said that the gift violated the [emoluments clause](https://constitution.congress.gov/browse/essay/artI-S9-C8-3/ALDE_00013206/). [Eisen](https://www.brookings.edu/people/norman-eisen/), a longtime critic of [Trump](https://www.donaldjtrump.com/)’s ethics in office, and now a senior fellow at the [Brookings Institution](https://www.brookings.edu/), said that he is considering whether to challenge the transfer of the 747 in court.
 
 
+“Suffice it to say that I and many others are looking,” said [Eisen](https://www.brookings.edu/people/norman-eisen/), who referred to the plane as “emoluments force one.”
+
+[Eisen](https://www.brookings.edu/people/norman-eisen/) said that he believed the plane could not be accepted without the approval of [Congress](https://www.congress.gov/).
+
+“I do think there is a violation here. The problem is that you have what is functionally a direct gift to the [president](https://www.whitehouse.gov/),” [Eisen](https://www.brookings.edu/people/norman-eisen/) added.
+
+News of the plane comes ahead of the president’s [first foreign trip](https://www.nbcnews.com/politics/trump-administration/trump-snubs-traditional-allies-marks-gulf-power-first-foreign-trip-rcna204808) of his second term, in which he will travel to [Saudi Arabi this week and also make stops in the [United Arab Emirates](https://u.ae/) and [Qatar](https://hukoomi.gov.qa/).
+
+While in [Qatar](https://hukoomi.gov.qa/), [Trump](https://www.donaldjtrump.com/) is expected to deliver a speech and then talk with [American troops](https://www.defense.gov/) at the [Al Udeid Air Base](https://www.afcent.af.mil/Units/379th-Air-Expeditionary-Wing/), according to two U.S. officials.
+
+[Defense](https://www.defense.gov/) [Secretary Pete Hegseth](https://www.defense.gov/About/Biographies/Biography/Article/4040890/hon-pete-hegseth/) is expected to accompany Trump during his stop at the base.
+
+This is the second time [Trump](https://www.donaldjtrump.com/) has decided to visit [Saudi Arabia](https://my.gov.sa/) for his first foreign trip. He chose the same nation as his first stop in 2017, during his [first term](https://trumpwhitehouse.archives.gov/).
+
+[Yamiche Alcindor](https://www.nbcnews.com/author/yamiche-alcindor-ncpn1294685)
+Yamiche Alcindor is a White House correspondent for [NBC News](https://www.nbcnews.com/).
+
+[Gordon Lubold](https://www.nbcnews.com/author/gordon-lubold-ncpn1311680)
+Gordon Lubold is a national security reporter for [NBC News](https://www.nbcnews.com/).
+
+[Vaughn Hillyard](https://www.nbcnews.com/author/vaughn-hillyard-ncpn26561)
+Vaughn Hillyard is a correspondent for [NBC News](https://www.nbcnews.com/). 
+
+[Garrett Haake](https://www.nbcnews.com/author/garrett-haake-ncpn771006)
+Garrett Haake is [NBC News](https://www.nbcnews.com/)' senior [White House](https://www.whitehouse.gov/) correspondent.
+
+
+| Where Trump Can Be Found On Weekends |
+|---|
+| **[Mar-a-Lago](https://www.maralagoclub.com/)** |
+| [The Mar-a-Lago Club](https://www.maralagoclub.com/) <br /> 1100 South Ocean Boulevard, <br /> Palm Beach, Florida 33480 <br /> <a href="tel+15618322600">+1 (561) 832-2600</a> |
+| **Florida, West Palm Beach** |
+| **[Trump International Golf Club](https://www.trumpinternationalpalmbeaches.com/)** <br /> 3505 Summit Blvd <br /> West Palm Beach FL 33406 <br /> <a href="tel:+15616820700">+1 (561) 682-0700</a> |
+| **Florida, Miami** |
+| **[Trump National Doral Golf Club](https://www.trumpgolfdoral.com/)** <br /> 4400 N.W. 87th Ave <br /> Miami, FL 33178 <br /> <a href="tel:+13055922000">+1 (305) 592-2000</a> |
+| **Florida, Jupiter** |
+| **[Trump National Jupiter Golf Club](https://www.trumpnationaljupiter.com/about)** <br /> 115 Eagle Tree Terrace <br /> Jupiter FL 33477 <br /> <a href="tel:+15616918700">+1 (561) 691-8700</a> |
+| **Virginia, Potomac Falls** |
+| **[Trump National Golf Club Washington, D.C.](https://www.trumpnationaldc.com/)** <br /> 20391 Lowes Island Blvd <br /> Potomac Falls, VA 20165 <br /> <a href="tel:+17034444801">+1 (703) 444-4801</a> |
+| **New Jersey, Bedminster** |
+| **[Trump National Golf Club Bedminster](https://www.trumpnationalbedminster.com/)** <br /> 900 Lamington Road <br /> Bedminster, NJ 07921 <br /> <a href="tel:+19084704400">+1 (908) 470-4400</a> |
+| **New Jersey, Colts Neck** |
+| **[Trump National Golf Club Colts Neck](https://www.trumpcoltsneck.com/)** <br /> One Trump National Blvd <br /> Colts Neck, NJ 07722 <br /> <a href="tel:+15619731550">+1 (561) 973-1550</a> |
+| **New Jersey, Pine Hill** |
+| **[Trump National Golf Club Philadelphia](https://www.trumpnationalphiladelphia.com/)** <br /> 500 West Branch Ave. <br /> Pine Hill, NJ 08021 <br /> <a href="tel:+18564353100">+1 (856) 435-3100</a> |
+| **New York, Hopewell Junction** |
+| **[Trump National Golf Club Hudson Valley](https://www.trumpnationalhudsonvalley.com/)** <br /> 178 Stormville Rd <br /> Hopewell Junction, NY 12533 <br /> <a href="tel:+18452231600">+1 (845) 223-1600</a> |
+| **New York, Briarcliff Manor** |
+| **[Trump National Golf Club Westchester](https://www.trumpnationalwestchester.com/)** <br /> 100 Shadow Tree Lane <br /> Briarcliff Manor, NY 10510 <br /> <a href="tel:+19149440900">+1 (914) 944-0900</a> |
+| **California, Los Angeles** |
+| **[Trump National Golf Club Los Angeles](https://www.trumpnationallosangeles.com/)** <br /> One Trump National Drive <br /> Rancho Palos Verdes, CA 90275 <br /> <a href="tel:+13102655000">+1 (310) 265-5000</a> |
+| **North Carolina, Mooresville** |
+| **[Trump National Golf Club Charlotte](https://www.trumpnationalcharlotte.com/)** <br /> 120 Trump Square <br /> Mooresville, NC 28117 <br /> <a href="tel:+17047997300">+1 (704) 799-7300</a> |
+| **Dubai** |
+| **[Trump International Golf Club Dubai](https://www.trumpgolfdubai.com/)** <br /> DAMAC Hills <br /> Al Hebiah Third District Dubai <br /> <a href="tel:+971042453939">+971 (0) 4 245 3939</a> |
+| **Ireland, Clare** |
+| **[Trump International Golf Links & Hotel Ireland, Doonbeg](https://www.trumpgolfireland.com/)** <br /> DOONBEG CO. <br /> CLARE, IRELAND <br /> Phone: <a href="tel:+353659055600">+353 65 905 5600</a> |
+| **Scotland, Aberdeenshire** |
+| **[Trump MacLeod House & Lodge Scotland](https://www.trumphotels.com/macleod-house)** <br /> Menie Estate Balmedie <br /> Aberdeenshire, Scotland AB23 8YE <br /> PHONE: <a href="tel:+441358743300">+44 1358 743300</a> <br /> RESERVE: <a href="tel:+441358743300">+44 1358 743300</a> |
+| **Scotland, Ayrshire** |
+| **[Trump Turnberry](https://www.turnberry.co.uk/)** <br /> Maidens Road KA26 9LT Turnberry <br /> Ayrshire Scotland <br /> <a href="tel:+441655331000">+44.1655.331.000</a> <br /> <a href="tel:+4401655334115">+44 01655 334115</a> |
+
+- media
 - [MSNBC](https://www.msnbc.com/)
 - [Rachel Maddow Show on MSNBC / Watch Rachel Maddow Live](https://www.msnbc.com/rachel-maddow-show)
+- [Rachel Maddow Blog / The Rachel Maddow Show - MSNBC](https://www.msnbc.com/maddowblog)
 - Steve Benen
+- [“All In with Chris Hayes”](http://www.msnbc.com/all)
+- [All In with Chris Hayes on MSNBC / The Chris Hayes Show](https://www.msnbc.com/all)
+- Chris Hayes 
 - [Ministry of Truth – HarperCollins](https://www.harpercollins.com/products/ministry-of-truth-steve-benen)
+- [Penguin Press - Penguin Books](https://www.penguin.com/penguin-press-overview/)
+- [NBC News](https://www.nbcnews.com/)
 - [ABC News - Breaking News, Latest News and Videos](https://abcnews.go.com/)
+- [Axios](https://www.axios.com/)
 - [Revolving Door Project / RDP scrutinizes executive branch appointees to ensure they use their office to serve the broad public interest.](https://therevolvingdoorproject.org/)
 - [Jeff Hauser / Revolving Door Project](https://therevolvingdoorproject.org/author/jeff-hauser/)
 - The Daily Wire
@@ -219,43 +431,93 @@ Clarissa-Jan Lim is a breaking/trending news blogger for [MSNBC Digital](https:/
 - [The Nation](https://www.thenation.com/)
 - [The Intercept](https://theintercept.com/)
 - [Faux News](https://www.foxnews.com/)
+- companies
+- [Elon Musk](https://ir.tesla.com/corporate/elon-musk)
+- [Elon Musk](https://x.com/elonmusk/)
+- [The Boring Company](https://www.boringcompany.com/)
+- [Neuralink](https://neuralink.com/)
+- [SpaceX](https://www.spacex.com/)
+- [Starlink](https://www.starlink.com/)
+- [Tesla](https://www.tesla.com/)
+- [Twitter](https://twitter.com/)
+- [ X ](https://x.com/)
+- [xAI](https://x.ai/) 
 - [Mark Levin](https://www.foxnews.com/person/l/mark-levin)
 - [The Boeing Company Official Website](https://www.boeing.com/)
 - [747-8](https://www.boeing.com/commercial/747-8)
+- [Citi / Global Investment Bank and Financial Services](https://www.citigroup.com/global)
+- [Investment Management & Financial Services / BlackRock](https://www.blackrock.com/us/individual)
+- [Palantir](https://www.palantir.com/)
+- [Trump Organization](https://www.trump.com/)
+- universities 
+- [Brookings - Quality. Independence. Impact.](https://www.brookings.edu/)
+- [Norman Eisen / Brookings](https://www.brookings.edu/people/norman-eisen/)
 - [Columbia University](https://www.columbia.edu/)
 - [Columbia University in the City of New York](https://www.columbia.edu/content/)
 - [Loyola University Chicago](https://www.luc.edu/)
 - [School of Law / School of Law: Loyola University Chicago](https://www.luc.edu/law/)
 - Jessica Levinson
+- foreign countries 
+- [Government of Canada](https://www.canada.ca/)
 - [Government of Israel](https://www.gov.il/)
 - [Government of Iran](https://irangov.ir/)
 - [Government of Qatar](https://hukoomi.gov.qa/)
+- [Ministry of Defense / Government,Government Offices / Doha / Doha Directory](https://www.doha.directory/ministry-of-defense/i/694)
+- [Saudi Arabia’s National Portal for Government Services / GOV.SA](https://my.gov.sa/en)
+- [(Riyadh) alriyadh.gov.sa/en/Pages/HomeP.aspx](https://www.alriyadh.gov.sa/en/Pages/HomeP.aspx)
+- [Syrian E-Government Portal](https://egov.sy/page/en/132/0/HOME.html#&panel1-1)
+- [The Official Portal of the UAE Government](https://u.ae/en#/)
+- political parties
 - [Democrat Party](https://www.democrats.org/)
 - [Trump Party](https://www.gop.com/)
+- States 
+- [CT.GOV-Connecticut's Official State Website](https://portal.ct.gov/)
+- [Alabama.gov / The Official Website of the State of Alabama](https://www.alabama.gov/)
+- [Hawaii.gov / The Official Website of the Aloha State](https://portal.ehawaii.gov/)
+- [New York State Government (NY)](https://www.ny.gov/)
+- Federal Government 
 - [Constitution of the United States](https://constitution.congress.gov/)
 - [Emoluments Clause and Presidential Compensation / Constitution Annotated / Congress.gov / Library of Congress](https://constitution.congress.gov/browse/essay/artII-S1-C7-1/ALDE_00000233/)
 - [Air Force](https://www.af.mil/)
 - [VC-25 - Air Force One > Air Force > Fact Sheet Display](https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104588/vc-25-air-force-one/)
 - [Supreme Court of the United States (SCOTUS)](https://www.supremecourt.gov/)
 - [US Courts](https://www.uscourts.gov/)
+- [Federal Election Commission](https://www.fec.gov/)
+- [Defense Inspector General](https://www.dodig.mil/)
+- [Internal Revenue Service (IRS)](https://www.irs.gov/)
+- [Government Accountability Office (GAO)](https://www.gao.gov/)
 - [Commodity Futures Trading Commission (CFTC)](https://www.cftc.gov/)
-- [Department of Defense (DOD)](https://www.defense.gov/)
-- [U.S. Office of Government Ethics (OGE)](https://www.oge.gov/)
+- [Department of State (DOS)](https://www.state.gov/)
+- [US Agency for International Development (USAID)](https://www.usaid.gov/)
+- [Office of Government Ethics (OGE)](https://www.oge.gov/)
 - [Department of Justice (DOJ)](https://www.justice.gov/)
 - [Securities and Exchange (SEC)](https://www.sec.gov/)
 - [Department of Treasury (Treasury)](https://home.treasury.gov/)
+- [Department of Defense (DOD)](https://www.defense.gov/)
+- [Air Force](https://www.af.mil/)
+- [379th Air Expeditionary Wing](https://www.afcent.af.mil/Units/379th-Air-Expeditionary-Wing/)
 - [Congress](https;//www.congress.gov/)
 - [Senate](https://www.senate.gov/)
+- [Tommy Tuberville (T-AL)](https://www.tuberville.senate.gov/)
 - [Christopher Murphy (D-CT)](https://www.murphy.senate.gov/)
+- [Chuck Schumer (D-NY)](https://www.schumer.senate.gov/)
 - [Bernard Sanders (I-VT)](https://www.sanders.senate.gov/)
+- [Brian Schatz (D-HI)](https://www.schatz.senate.gov/)
 - [House of Representatives](https://www.house.gov/)
+- [Joe Courtney (D-CT2)](https://courtney.house.gov/)
+- [Jamie Raskin (D-MD8)](https://raskin.house.gov/)
+- [Ritchie Torres (D-NY15)](https://ritchietorres.house.gov/)
+- [House Armed Services Committee](https://armedservices.house.gov/)
+- [House Judiciary Committee](http://judiciary.house.gov/)
+- [Ronald Reagan Presidential Library & Museum / Ronald Reagan](https://www.reaganlibrary.gov/)
 - [President of the United States (POTUS)](https://www.whitehouse.gov/)
 - [President Barack Obama](https://obamawhitehouse.archives.gov/)
 - [President Joe Biden](https://bidenwhitehouse.archives.gov/)
 - [White House (WH)](https://www.whitehouse.gov/)
-- [Department of State (DOS)](https://www.state.gov/)
-- [US Agency for International Development (USAID)](https://www.usaid.gov/)
+- Trump Grift
 - [Donald J Trump](https://www.donaldjtrump.com/)
+- [Department of Government Efficiency (DOGE)](https://www.doge.gov/)
+- [The Mar-a-Lago Club](https://www.maralagoclub.com/)
 - [$TRUMP](https://gettrumpmemes.com/)
 - [$MELANIA](https://melaniameme.com/)
 - [President Donald Trump (45)](https://trumpwhitehouse.archives.gov/)
@@ -267,10 +529,13 @@ Clarissa-Jan Lim is a breaking/trending news blogger for [MSNBC Digital](https:/
 - [Restoring Freedom Of Speech And Ending Federal Censorship](https://www.whitehouse.gov/presidential-actions/2025/01/restoring-freedom-of-speech-and-ending-federal-censorship/). Presidential Actions. January 20, 2025
 - [Additional Measures to Combat Anti-Semitism – The White House](https://www.whitehouse.gov/presidential-actions/2025/01/additional-measures-to-combat-anti-semitism/). January 29, 2025
 - [Fact Sheet: President Donald J. Trump Takes Forceful and Unprecedented Steps to Combat Anti-Semitism – The White House](https://www.whitehouse.gov/fact-sheets/2025/01/fact-sheet-president-donald-j-trump-takes-forceful-and-unprecedented-steps-to-combat-anti-semitism/). January 30, 2025
+- [Pete Hegseth](https://www.defense.gov/About/Biographies/Biography/Article/4040890/hon-pete-hegseth/)
+- [Pete Hegseth – LinkedIn](https://www.linkedin.com/in/petehegseth/)
 - [Pam Bondi](https://www.justice.gov/ag/staff-profile/meet-attorney-general)
 - [Marco Rubio](https://www.state.gov/biographies/marco-rubio/)
 - [Marco Rubio – LinkedIn](https://www.linkedin.com/in/marcorubio16/)
 - [Donald J. Trump Presidential Library](http://www.trumplibrary.gov/home)
+- [Trump Library Foundation](http://www.trumplibrary.gov/)
 - grift
 - politics
 
