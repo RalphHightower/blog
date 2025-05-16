@@ -54,7 +54,7 @@ Pence has long said former [President Kennedy](https://www.jfklibrary.org/) was 
 - [Russia](http://government.ru/)
 - [Vladimir Putin](http://kremlin.ru/)
 - [Volodymyr Zelenskyy](https://www.president.gov.ua/)
-- [Ukraine](https://www.gov.ua/ )
+- [Ukraine](https://www.gov.ua/)
 - [January 6, 2021]({% link January6DocumentDocumentLinks.md %})
 - [JFK Library](https://www.jfklibrary.org/)
 - [The John F. Kennedy Profile in Courage Award® / JFK Library](https://www.jfklibrary.org/events-and-awards/profile-in-courage-award)
