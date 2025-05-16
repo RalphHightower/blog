@@ -18,6 +18,11 @@ The telephone numbers below have called and there is an empty person on the othe
 
 | Telephone Number | Location | Date Time[^11] | Caller | Social Media |
 |---|---|---|---|---|
+| <a href="tel:+18038127972">+1 (803) 812-7972</a> | SC. Allendale | 2025-05-16 03:08 PM | — | |
+| <a href="tel:+18622803737">+1 (862) 280-3737</a> | NJ. Newark | 2025-05-16 03:08 PM | — | |
+| <a href="tel:+18039282766">+1 (803) 928-2766</a> | SC. | 2025-05-16 02:06 PM | Jessica Kinsey | |
+| <a href="tel:+18034105192">+1 (803) 410-5192</a> | SC. Manning | 2025-05-16 01:11 PM | — | |
+| <a href="tel:+12138014036">+1 (213) 801-4036</a> | CA. Los Angeles | 2025-05-16 09:37 AM | Fake USPS Scam | |
 | <a href="tel:+18032910391">+1 (803) 291-0391</a> | SC. Salley | 2025-05-15 06:49 PM | Potential Spam | |
 | <a href="tel:+18037452419">+1 (803) 745-2419</a> | SC. Lancaster | 2025-05-15 05:55 PM | — | |
 | <a href="tel:+18037659656">+1 (803) 765-9656</a> | SC. Columbia | 2025-05-15 03:49 PM | — | |
