@@ -1,13 +1,13 @@
 ---
 layout: post
-tags: []
+tags: [media, Springsteen- companies, Elon Musk, Elon Musk, The Boring Company, Neuralink, SpaceX, Starlink, Tesla, Twitter, X, xAI, universities, foreign countries, political parties, Democrat Party, Trump Party, States, Federal Government, Constitution of the United States, Supreme Court of the United States (SCOTUS), US Courts, Federal Election Commission, Government Accountability Office (GAO), Department of State (DOS), US Agency for International Development (USAID), Office of Government Ethics (OGE), Department of Justice (DOJ), Securities and Exchange (SEC), Department of Treasury (Treasury), Department of Defense (DOD), Air Force, 379th Air Expeditionary Wing, Congress, Senate, House of Representatives, President of the United States (POTUS), President Barack Obama, President Joe Biden, White House (WH), Trump Grift, Donald J Trump, Department of Government Efficiency (DOGE), The Mar-a-Lago Club, $TRUMP, $MELANIA, President Donald Trump (45), President Donald Trump (47), President Trump Administration (47), Addressing Risks from Chris Krebs and Government Censorship – The White House. April 9 2025, Fact Sheet –  President Donald J. Trump Addresses Risks from Chris Krebs and Government Censorship – The White House. April 9 2025, Ending The Weaponization Of The Federal Government. Presidential Actions. January 20 2025, Restoring Freedom Of Speech And Ending Federal Censorship. Presidential Actions. January 20 2025, Additional Measures to Combat Anti-Semitism – The White House. January 29 2025, Fact Sheet –  President Donald J. Trump Takes Forceful and Unprecedented Steps to Combat Anti-Semitism – The White House. January 30 2025, Donald J. Trump Presidential Library, Trump Library Foundation, grift, politics, music]
 categories: [Bruce Springsteen]
 date: 2025-05-16 8:29 AM
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: 'Bruce Springsteen Prolog Before “Land of Hope and Dreams at UK Concert”"
+title: "Bruce Springsteen Prolog Before “Land of Hope and Dreams at UK Concert”"
 ---
 Bruce Springsteen Prolog Before "Land of Hope and Dreams at UK Concert"
 
@@ -67,7 +67,7 @@ The America l’ve sung to you about for 50 years is real and regardless of its 
 
 
 - media
-- companies
+- [Springsteen](https://brucespringsteen.net/)- companies
 - [Elon Musk](https://ir.tesla.com/corporate/elon-musk)
 - [Elon Musk](https://x.com/elonmusk/)
 - [The Boring Company](https://www.boringcompany.com/)
@@ -78,51 +78,18 @@ The America l’ve sung to you about for 50 years is real and regardless of its 
 - [Twitter](https://twitter.com/)
 - [ X ](https://x.com/)
 - [xAI](https://x.ai/) 
-- [Mark Levin](https://www.foxnews.com/person/l/mark-levin)
-- [The Boeing Company Official Website](https://www.boeing.com/)
-- [747-8](https://www.boeing.com/commercial/747-8)
-- [Citi / Global Investment Bank and Financial Services](https://www.citigroup.com/global)
-- [Investment Management & Financial Services / BlackRock](https://www.blackrock.com/us/individual)
-- [Palantir](https://www.palantir.com/)
-- [Trump Organization](https://www.trump.com/)
 - universities 
-- [Brookings - Quality. Independence. Impact.](https://www.brookings.edu/)
-- [Norman Eisen / Brookings](https://www.brookings.edu/people/norman-eisen/)
-- [Columbia University](https://www.columbia.edu/)
-- [Columbia University in the City of New York](https://www.columbia.edu/content/)
-- [Loyola University Chicago](https://www.luc.edu/)
-- [School of Law / School of Law: Loyola University Chicago](https://www.luc.edu/law/)
-- Jessica Levinson
 - foreign countries 
-- [Government of Canada](https://www.canada.ca/)
-- [Government of Israel](https://www.gov.il/)
-- [Government of Iran](https://irangov.ir/)
-- [Government of Qatar](https://hukoomi.gov.qa/)
-- [Ministry of Defense / Government,Government Offices / Doha / Doha Directory](https://www.doha.directory/ministry-of-defense/i/694)
-- [Saudi Arabia’s National Portal for Government Services / GOV.SA](https://my.gov.sa/en)
-- [(Riyadh) alriyadh.gov.sa/en/Pages/HomeP.aspx](https://www.alriyadh.gov.sa/en/Pages/HomeP.aspx)
-- [Syrian E-Government Portal](https://egov.sy/page/en/132/0/HOME.html#&panel1-1)
-- [The Official Portal of the UAE Government](https://u.ae/en#/)
 - political parties
 - [Democrat Party](https://www.democrats.org/)
 - [Trump Party](https://www.gop.com/)
 - States 
-- [CT.GOV-Connecticut's Official State Website](https://portal.ct.gov/)
-- [Alabama.gov / The Official Website of the State of Alabama](https://www.alabama.gov/)
-- [Hawaii.gov / The Official Website of the Aloha State](https://portal.ehawaii.gov/)
-- [New York State Government (NY)](https://www.ny.gov/)
 - Federal Government 
 - [Constitution of the United States](https://constitution.congress.gov/)
-- [Emoluments Clause and Presidential Compensation / Constitution Annotated / Congress.gov / Library of Congress](https://constitution.congress.gov/browse/essay/artII-S1-C7-1/ALDE_00000233/)
-- [Air Force](https://www.af.mil/)
-- [VC-25 - Air Force One > Air Force > Fact Sheet Display](https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104588/vc-25-air-force-one/)
 - [Supreme Court of the United States (SCOTUS)](https://www.supremecourt.gov/)
 - [US Courts](https://www.uscourts.gov/)
 - [Federal Election Commission](https://www.fec.gov/)
-- [Defense Inspector General](https://www.dodig.mil/)
-- [Internal Revenue Service (IRS)](https://www.irs.gov/)
 - [Government Accountability Office (GAO)](https://www.gao.gov/)
-- [Commodity Futures Trading Commission (CFTC)](https://www.cftc.gov/)
 - [Department of State (DOS)](https://www.state.gov/)
 - [US Agency for International Development (USAID)](https://www.usaid.gov/)
 - [Office of Government Ethics (OGE)](https://www.oge.gov/)
@@ -134,18 +101,7 @@ The America l’ve sung to you about for 50 years is real and regardless of its 
 - [379th Air Expeditionary Wing](https://www.afcent.af.mil/Units/379th-Air-Expeditionary-Wing/)
 - [Congress](https;//www.congress.gov/)
 - [Senate](https://www.senate.gov/)
-- [Tommy Tuberville (T-AL)](https://www.tuberville.senate.gov/)
-- [Christopher Murphy (D-CT)](https://www.murphy.senate.gov/)
-- [Chuck Schumer (D-NY)](https://www.schumer.senate.gov/)
-- [Bernard Sanders (I-VT)](https://www.sanders.senate.gov/)
-- [Brian Schatz (D-HI)](https://www.schatz.senate.gov/)
 - [House of Representatives](https://www.house.gov/)
-- [Joe Courtney (D-CT2)](https://courtney.house.gov/)
-- [Jamie Raskin (D-MD8)](https://raskin.house.gov/)
-- [Ritchie Torres (D-NY15)](https://ritchietorres.house.gov/)
-- [House Armed Services Committee](https://armedservices.house.gov/)
-- [House Judiciary Committee](http://judiciary.house.gov/)
-- [Ronald Reagan Presidential Library & Museum / Ronald Reagan](https://www.reaganlibrary.gov/)
 - [President of the United States (POTUS)](https://www.whitehouse.gov/)
 - [President Barack Obama](https://obamawhitehouse.archives.gov/)
 - [President Joe Biden](https://bidenwhitehouse.archives.gov/)
@@ -165,15 +121,8 @@ The America l’ve sung to you about for 50 years is real and regardless of its 
 - [Restoring Freedom Of Speech And Ending Federal Censorship](https://www.whitehouse.gov/presidential-actions/2025/01/restoring-freedom-of-speech-and-ending-federal-censorship/). Presidential Actions. January 20, 2025
 - [Additional Measures to Combat Anti-Semitism – The White House](https://www.whitehouse.gov/presidential-actions/2025/01/additional-measures-to-combat-anti-semitism/). January 29, 2025
 - [Fact Sheet: President Donald J. Trump Takes Forceful and Unprecedented Steps to Combat Anti-Semitism – The White House](https://www.whitehouse.gov/fact-sheets/2025/01/fact-sheet-president-donald-j-trump-takes-forceful-and-unprecedented-steps-to-combat-anti-semitism/). January 30, 2025
-- [Pete Hegseth](https://www.defense.gov/About/Biographies/Biography/Article/4040890/hon-pete-hegseth/)
-- [Pete Hegseth – LinkedIn](https://www.linkedin.com/in/petehegseth/)
-- [Pam Bondi](https://www.justice.gov/ag/staff-profile/meet-attorney-general)
-- [Marco Rubio](https://www.state.gov/biographies/marco-rubio/)
-- [Marco Rubio – LinkedIn](https://www.linkedin.com/in/marcorubio16/)
 - [Donald J. Trump Presidential Library](http://www.trumplibrary.gov/home)
 - [Trump Library Foundation](http://www.trumplibrary.gov/)
 - grift
 - politics
-
-
-
+- music 
