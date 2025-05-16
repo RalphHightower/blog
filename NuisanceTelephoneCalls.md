@@ -2,7 +2,7 @@
 layout: page
 tags: [assholes, Donald Trump, Elon Musk, Betsy DeVos, MAGA billionaires, billionaire, Trump donors, Republican PAC, Make America Great Again (MAGA)]
 categories: [Telephone Numbers]
-date: 2025-05-14 8:14 PM
+date: 2025-05-15 10:36 PM
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description: 
@@ -18,6 +18,12 @@ The telephone numbers below have called and there is an empty person on the othe
 
 | Telephone Number | Location | Date Time[^11] | Caller | Social Media |
 |---|---|---|---|---|
+| <a href="tel:+18032910391">+1 (803) 291-0391</a> | SC. Salley | 2025-05-15 06:49 PM | Potential Spam | |
+| <a href="tel:+18037452419">+1 (803) 745-2419</a> | SC. Lancaster | 2025-05-15 05:55 PM | — | |
+| <a href="tel:+18037659656">+1 (803) 765-9656</a> | SC. Columbia | 2025-05-15 03:49 PM | — | |
+| <a href="tel:+18035960683">+1 (803) 596-0683</a> | SC. Orangeburg | 2025-05-15 01:14 PM | Potential Spam | |
+| <a href="tel:+18036122529">+1 (803) 612-2529</a> | SC. Columbia | 2025-05-15 01:11 PM | — | |
+| <a href="tel:+18037565666">+1 (803) 756-5666</a> | SC. | 2025-05-15 12:24 PM | — | |
 | <a href="tel:+18033763408">+1 (803) 376-3408</a> | SC. Columbia | 2025-05-14 07:25 PM ¤¤ | PWC | |
 | <a href="tel:+18033763408">+1 (803) 376-3408</a> | SC. Columbia | 2025-05-14 07:24 PM | PWC | |
 | <a href="tel:+18037205154">+1 (803) 720-5154</a> | SC. Sumter | 2025-05-14 06:17 PM | Potential Spam | |
