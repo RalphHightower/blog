@@ -1,8 +1,8 @@
 ---
 layout: post
-tags: [media, MSNBC, Rachel Maddow Show on MSNBC / Watch Rachel Maddow Live, Rachel Maddow Blog / The Rachel Maddow Show - MSNBC, Steve Benen, “All In with Chris Hayes”, All In with Chris Hayes on MSNBC / The Chris Hayes Show, Chris Hayes, Ministry of Truth – HarperCollins, Penguin Press - Penguin Books, NBC News, ABC News - Breaking News Latest News and Videos, Axios, Revolving Door Project / RDP scrutinizes executive branch appointees to ensure they use their office to serve the broad public interest., Jeff Hauser / Revolving Door Project, The Daily Wire, Ben Shapiro, The Daily Beast –  The Latest in Politics Media & Entertainment News, Vox, HuffPost, Politico, The New York Times, The Atlantic, The Nation, The Intercept, Faux News, companies, Elon Musk, Elon Musk, The Boring Company, Neuralink, SpaceX, Starlink, Tesla, Twitter, X, xAI, Mark Levin, The Boeing Company Official Website, 747-8, Citi / Global Investment Bank and Financial Services, Investment Management & Financial Services / BlackRock, Palantir, Trump Organization, universities, Brookings - Quality. Independence. Impact., Norman Eisen / Brookings, Columbia University, Columbia University in the City of New York, Loyola University Chicago, School of Law / School of Law –  Loyola University Chicago, Jessica Levinson, foreign countries, Government of Canada, Government of Israel, Government of Iran, Government of Qatar, Ministry of Defense / GovernmentGovernment Offices / Doha / Doha Directory, Saudi Arabia’s National Portal for Government Services / GOV.SA, (Riyadh) alriyadh.gov.sa/en/Pages/HomeP.aspx, Syrian E-Government Portal, The Official Portal of the UAE Government, political parties, Democrat Party, Trump Party, States, CT.GOV-Connecticut’s Official State Website, Alabama.gov / The Official Website of the State of Alabama, Hawaii.gov / The Official Website of the Aloha State, New York State Government (NY), Federal Government, Constitution of the United States, Emoluments Clause and Presidential Compensation / Constitution Annotated / Congress.gov / Library of Congress, Air Force, VC-25 - Air Force One > Air Force > Fact Sheet Display, Supreme Court of the United States (SCOTUS), US Courts, Federal Election Commission, Defense Inspector General, Internal Revenue Service (IRS), Government Accountability Office (GAO), Commodity Futures Trading Commission (CFTC), Department of State (DOS), US Agency for International Development (USAID), Office of Government Ethics (OGE), Department of Justice (DOJ), Securities and Exchange (SEC), Department of Treasury (Treasury), Department of Defense (DOD), Air Force, 379th Air Expeditionary Wing, Congress, Senate, Tommy Tuberville (T-AL), Christopher Murphy (D-CT), Chuck Schumer (D-NY), Bernard Sanders (I-VT), Brian Schatz (D-HI), House of Representatives, Joe Courtney (D-CT2), Jamie Raskin (D-MD8), Ritchie Torres (D-NY15), House Armed Services Committee, House Judiciary Committee, Ronald Reagan Presidential Library & Museum / Ronald Reagan, President of the United States (POTUS), President Barack Obama, President Joe Biden, White House (WH), Trump Grift, Donald J Trump, Department of Government Efficiency (DOGE), The Mar-a-Lago Club, $TRUMP, $MELANIA, President Donald Trump (45), President Donald Trump (47), President Trump Administration (47), Addressing Risks from Chris Krebs and Government Censorship – The White House. April 9 2025, Fact Sheet –  President Donald J. Trump Addresses Risks from Chris Krebs and Government Censorship – The White House. April 9 2025, Ending The Weaponization Of The Federal Government. Presidential Actions. January 20 2025, Restoring Freedom Of Speech And Ending Federal Censorship. Presidential Actions. January 20 2025, Additional Measures to Combat Anti-Semitism – The White House. January 29 2025, Fact Sheet –  President Donald J. Trump Takes Forceful and Unprecedented Steps to Combat Anti-Semitism – The White House. January 30 2025, Pete Hegseth, Pete Hegseth – LinkedIn, Pam Bondi, Marco Rubio, Marco Rubio – LinkedIn, Donald J. Trump Presidential Library, Trump Library Foundation, grift, politics]
+tags: [media, MSNBC, Rachel Maddow Show on MSNBC / Watch Rachel Maddow Live, Rachel Maddow Blog / The Rachel Maddow Show - MSNBC, Steve Benen, “All In with Chris Hayes”, All In with Chris Hayes on MSNBC / The Chris Hayes Show, Chris Hayes, Ministry of Truth – HarperCollins, Penguin Press - Penguin Books, NBC News, NBC News Author Kristen Welker, ABC News - Breaking News Latest News and Videos, Axios, Revolving Door Project / RDP scrutinizes executive branch appointees to ensure they use their office to serve the broad public interest., Jeff Hauser / Revolving Door Project, The Daily Wire, Ben Shapiro, The Daily Beast –  The Latest in Politics Media & Entertainment News, Vox, HuffPost, Politico, The New York Times, The Atlantic, The Nation, The Intercept, Faux News, Al Jazeera – Breaking News World News and Video, companies, AeroDynamic Advisory, Richard Aboulafia / AeroDynamic Advisory, Elon Musk, Elon Musk, The Boring Company, Neuralink, SpaceX, Starlink, Tesla, Twitter, X, xAI, Mark Levin, The Boeing Company Official Website, 747-8, Citi / Global Investment Bank and Financial Services, Investment Management & Financial Services / BlackRock, Palantir, New America, Alexis Coe, AIMS – American Institute for Maghrib Studies, Oxford Research Encyclopedia of African History, Trump Organization, Qatar Airways, universities, Brookings - Quality. Independence. Impact., Columbia University, Georgia State University, Allen Fromherz - College of Arts & Sciences, Norman Eisen / Brookings, Georgetown University in Washington DC, Loyola University Chicago, School of Law / School of Law –  Loyola University Chicago, Jessica Levinson, Middle East Studies, Smithsonian Institution, Tulane University, Virginia Commonwealth University, Xavier University of Louisiana, Middle East Institute, foreign countries, Government of Canada, Government of Israel, Government of Iran, Oman Government, Government of Qatar, Ministry of Defense / GovernmentGovernment Offices / Doha / Doha Directory, Doha’s Education City, Saudi Arabia’s National Portal for Government Services / GOV.SA, (Riyadh) alriyadh.gov.sa/, Syrian E-Government Portal, The Official Portal of the UAE Government, Hamas, Muslim Brotherhood, Hezbollah, political parties, Democrat Party, Trump Party, States, Alabama.gov / The Official Website of the State of Alabama, CT.GOV-Connecticut’s Official State Website, Hawaii.gov / The Official Website of the Aloha State, Illinois, Kentucky, New York State Government (NY), City of Greenville TX, Federal Government, Constitution of the United States, Emoluments Clause and Presidential Compensation / Constitution Annotated / Congress.gov / Library of Congress, Air Force, VC-25 - Air Force One > Air Force > Fact Sheet Display, Supreme Court of the United States (SCOTUS), US Courts, Federal Election Commission, Defense Inspector General, Internal Revenue Service (IRS), Government Accountability Office (GAO), Commodity Futures Trading Commission (CFTC), Department of State (DOS), US Agency for International Development (USAID), Office of Government Ethics (OGE), Department of Justice (DOJ), Securities and Exchange (SEC), Department of Treasury (Treasury), Secret Service, Joint Chiefs of Staff, Department of Defense (DOD), Air Force, 379th Air Expeditionary Wing, Congress, Senate, United States Senate Committee on the Judiciary, Christopher Murphy (D-CT), Brian Schatz (D-HI), Richard J. Durbin (D-IL), Chuck Schumer (D-NY), Rand Paul (T-KY), Tommy Tuberville (T-AL), Bernard Sanders (I-VT), House of Representatives, Joe Courtney (D-CT2), Jamie Raskin (D-MD8), Ritchie Torres (D-NY15), House Armed Services Committee, House Judiciary Committee, Ronald Reagan Presidential Library & Museum / Ronald Reagan, President of the United States (POTUS), President Barack Obama, President Joe Biden, White House (WH), Trump Grift, Donald J Trump, Department of Government Efficiency (DOGE), The Mar-a-Lago Club, $TRUMP, $MELANIA, President Donald Trump (45), President Donald Trump (47), President Trump Administration (47), Addressing Risks from Chris Krebs and Government Censorship – The White House. April 9 2025, Fact Sheet –  President Donald J. Trump Addresses Risks from Chris Krebs and Government Censorship – The White House. April 9 2025, Ending The Weaponization Of The Federal Government. Presidential Actions. January 20 2025, Restoring Freedom Of Speech And Ending Federal Censorship. Presidential Actions. January 20 2025, Additional Measures to Combat Anti-Semitism – The White House. January 29 2025, Fact Sheet –  President Donald J. Trump Takes Forceful and Unprecedented Steps to Combat Anti-Semitism – The White House. January 30 2025, Pete Hegseth, Pete Hegseth – LinkedIn, Pam Bondi, Marco Rubio, Marco Rubio – LinkedIn, Donald J. Trump Presidential Library, Trump Library Foundation, grift, politics]
 categories: [Donald Trump]
-date: 2025-05-14 8:52 PM
+date: 2025-05-17 5:39 PM
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
@@ -15,6 +15,127 @@ This [Qatari](https://hukoomi.gov.qa/) is a Trojan Horse. The [Boeing](https://w
 
 - How long would that take?
 - How much would it cost?
+
+## [Why Qatar might come to regret offering a plane to Donald Trump](https://www.msnbc.com/opinion/msnbc-opinion/qatar-united-states-money-security-rcna207388)
+
+*The support of the United States is crucial to the strategic security of Qatar.*
+
+May 16, 2025, 7:31 PM EDT
+
+By [Allen Fromherz](https://cas.gsu.edu/profile/allen-fromherz/), author of ["Qatar: A Modern History"](https://press.georgetown.edu/Book/Qatar)
+
+Whether or not [President](https://www.whitehouse.gov/) [Donald Trump](https://www.donaldjtrump.com/) ultimately accepts [a \$400 million Boeing 747-8 from Qatar](https://www.msnbc.com/opinion/msnbc-opinion/trump-plane-qatar-gift-george-washington-warning-rcna206558), the reasons for the country’s offer are best appreciated from an airplane-level view. Descending into the small, but highly influential country reveals a great deal about why [Qatar](https://hukoomi.gov.qa/) is so interested in securing the support of the [United States](https://www.usa.gov/) — and why its survival as an independent state demands it.
+
+> *Qatar would be relatively powerless in the event of an invasion from its much larger neighbors.*
+
+Though it can sometimes feel like an island, [or](https://www.britannica.com/place/Al-Jazirah-region-Middle-East) [al-jazeera](https://www.britannica.com/place/Al-Jazirah-region-Middle-East) [in Arabic](https://www.britannica.com/place/Al-Jazirah-region-Middle-East), [Qatar](https://hukoomi.gov.qa/) is a peninsula of rolling sand dunes and salt fields, dotted by ports and major gas and oil industry along the shore.
+
+Look out of the window of the plane and you’ll see the turquoise waters of the Persian Gulf [over the North Field](https://www.nbcnews.com/business/energy/qatar-announces-its-pulling-out-opec-n942861), a massive source of natural gas that it shares with [Iran](https://irangov.ir/). Look out the other side and you’ll see a region of salt flats that corresponds with [Qatar](https://hukoomi.gov.qa/)’s border with [Saudi Arabia](https://my.gov.sa/), its only land border. This ground was perfect for [Al Udeid Air Base](https://www.msnbc.com/rachel-maddow-show/maddowblog/remarks-us-troops-trump-renews-talk-third-term-constitution-rcna207236), the largest American military base in the Middle East under [Central Command](https://www.centcom.mil/), especially after Al Qaeda and other terrorist groups threatened [U.S. troops](https://www.centcom.mil/) in [Saudi Arabia](https://my.gov.sa/).
+
+While [Qatar](https://hukoomi.gov.qa/) has a small military and has spent millions updating its food security systems and its defense, it would be relatively powerless in the event of an invasion from its much larger neighbors. The support of the [United States](https://www.usa.gov/), which has an interest in the security of its main air base, is crucial to the strategic security of Qatar and the free flow of commerce and oil through the Gulf.
+
+But that security was called into question shortly after a visit Trump made to the region during his first term, when [Saudi Arabia](https://my.gov.sa/), feeling confident it had secured the president's backing, [deemed Qatar’s financial support of](https://www.bbc.com/news/world-middle-east-40378221) the [Muslim Brotherhood](https://www.ikhwanonline.com/) to be support of extremism and [led a blockade of the country](https://www.nbcnews.com/news/world/egypt-saudi-arabia-among-gulf-states-cutting-ties-qatar-n768161).
+
+Food supplies were threatened. Families were split. Even [camel herds were caught](https://www.bbc.com/news/world-middle-east-40346329) between the newly closed border of [Saudi Arabia](https://my.gov.sa/) and [Qatar](https://hukoomi.gov.qa/). No longer able to fly over [Saudi Arabia](https://my.gov.sa/), [Qatar Airways](https://www.qatarairways.com/en-us/homepage.html) flights were diverted to [Iranian](6) airspace. [Iran](https://irangov.ir/) stepped in and sent planes and ships full of groceries. But far from causing [Qatar](https://hukoomi.gov.qa/) to back down, the blockade seemed to strengthen the country and [cement the links between Sheikh Tamim al Thani and Qatar’s residents](https://www.brookings.edu/articles/the-blockade-on-qatar-helped-strengthen-its-economy-paving-the-way-to-stronger-regional-integration/). Eventually, in 2021, as [President](https://www.whitehouse.gov/) [Trump](https://www.donaldjtrump.com/) was leaving office, the blockade was lifted, and Qatar’s ruler arrived in [Al-‘Ula](https://treaties.un.org/doc/Publication/UNTS/No%20Volume/56786/Part/I-56786-08000002805b2870.pdf), [Saudi Arabia](https://my.gov.sa/), and signed a joint statement to coordinate their national media, fight terrorism and “stand firm against any confrontation that would undermine national or regional security.”
+
+[Qatar](https://hukoomi.gov.qa/) was able to change its policies and affirm its ultimate alliances with the [U.S.](https://www.usa.gov/) and its Gulf neighbors, without appearing to fully back down. [Al-Jazeera](https://www.aljazeera.com/), the Doha-based network that the [Saudis](https://my.gov.sa/) had demanded be shuttered, remains the major Arabic news service for the region, and [Qatar](https://hukoomi.gov.qa/) did not sever its ties with groups such as the [Muslim Brotherhood](https://www.ikhwanonline.com/) [and Hamas](https://www.msnbc.com/opinion/msnbc-opinion/trump-qatar-hamas-antisemitism-boeing-jet-gift-rcna206386). The main lesson [Qatar](https://hukoomi.gov.qa/) learned was the importance of securing allies on both sides of the U.S. political divide.
+Long before [Trump](https://www.donaldjtrump.com/)’s election, [Qatar](https://hukoomi.gov.qa/) had coordinated a campaign to [build good will in the United States](https://www.nbcnews.com/id/wbna12598475), beginning with a major donation to [Hurricane Katrina recovery efforts](https://www.myneworleans.com/with-a-little-help-from-qatar/), earning the small country [a great deal gratitude in the deep-red state of Louisiana](https://www.nola.com/opinions/qatar-katrina-fund-is-a-tale-of-friendship-mohammed-jaham-al-kuwari/article_0ff3741a-1495-51aa-82a1-120888cb9c79.html). Some of that money went to [Xavier University of Louisiana](https://www.xula.edu/) [and to Tulane University](https://news.tulane.edu/news/students-healthcare-leaders-thank-amir-qatar), but [Qatar](https://hukoomi.gov.qa/) also supports other U.S. institutions of higher education; it has paid generous sums to [Georgetown](https://www.georgetown.edu/), [Virginia Commonwealth University](https://www.vcu.edu/) and others that set up campuses in [Doha’s Education City](https://www.qf.org.qa/education/education-city).
+
+
+Long before [Trump](https://www.donaldjtrump.com/)’s election, [Qatar](https://hukoomi.gov.qa/) had coordinated a campaign to build good will in the [United States](https://www.usa.gov/).
+
+Organizations such as [Brookings Doha Center](https://www.brookings.edu/centers/brookings-doha-center/) are funded as think tanks, communicating to the so-called Washington establishment. [Qatar](https://hukoomi.gov.qa/) may have assumed, like many observers, that Secretary of State Hillary Clinton would defeat Trump in 2016. Its courtship of the [Republican Party began shortly after the blockade started](https://www.middleeastmonitor.com/20210411-ten-years-of-lobbying-the-qatari-lobbys-operations-before-and-after-the-blockade/). That courtship continues to this day, as evidenced by the country’s offer of the plane to [President](https://www.whitehouse.gov/) [Trump](https://www.donaldjtrump.com/).
+
+But [Qatar](https://hukoomi.gov.qa/) has offered the [U.S.](https://www.usa.gov/) and its allies something even more valuable than money. Instead of breaking all ties with [Iran](https://irangov.ir/), [Hamas](https://hamasinfo.info/), [Hezbollah](https://www.moqawama.org.lb/) and other actors in the region, Qatar has stepped up very publicly as a mediator, communicating with those same groups and offering to try to pressure them financially into deals. Far from being a problem, [Qatar emerged as a major non-NATO ally](https://www.reuters.com/world/middle-east/biden-designates-qatar-major-non-nato-ally-us-2022-03-10/), as declared by former [President Joe Biden](https://bidenwhitehouse.archives.gov/), an ideal partner in peacemaking. [Qatar](https://hukoomi.gov.qa/) remains indispensable to [Trump](https://www.donaldjtrump.com/) and his [Israel](https://www.gov.il/)-[Hamas](https://hamasinfo.info/) ceasefire negotiator [Steve Witkoff](https://www.msnbc.com/rachel-maddow-show/maddowblog/meetings-putin-trumps-envoy-relied-kremlins-interpreter-rcna206284); and Qatar was crucial to the success of [some of the short-term deals](https://www.cnbc.com/2025/01/26/qatar-says-agreement-reached-to-release-israeli-hostage-allow-palestinians-to-return-to-north-gaza-.html) that led to the release of [Israeli](https://www.gov.il/) and [American](https://www.usa.gov/) hostages.
+
+[Qatar](https://hukoomi.gov.qa/) is now free to court high net worth individuals from around the world [and a secure Islamic banking infrastructure](https://investqatar.ft.com/article/qatars-new-value-proposition-a-wealth-of-opportunities). [Qatar](https://hukoomi.gov.qa/)’s Investment Authority, which invests more than half a trillion dollars in projects around the globe, continues to secure deals. Not wanting to be outdone by [Saudi Arabia](https://my.gov.sa/) or [UAE](https://u.ae/), which have also inked major economic deals with [Trump](https://www.donaldjtrump.com/), the [White House](https://www.whitehouse.gov/) announced more than \$200 billion of economic deals with [Qatar](https://hukoomi.gov.qa/), including the sale of 210 [Boeing](https://www.boeing.com/) aircraft.
+
+On April 30, 1840, the [Sultana](https://www.mei.edu/sites/default/files/mei_library/pdf/23681.pdf#:~:text=Similarly%2C%20April%2030%20of%20this%20year%20marks,and%20commercial%20mission%20to%20the%20United%20States.), a vessel sent by the sultan of [Oman](https://www.oman.om/), arrived in [New York](https://www.ny.gov/). It was laden with gifts meant for the personal use of President Martin Van Buren. There were two Arabian stud horses, gold mounted swords, Persian carpets and other luxury items. The ship’s arrival caused a political crisis for Van Buren who, in the middle of a re-election campaign, was caught between not wanting to offend the sultan and not wanting to take emoluments from a foreign power. [Congress](https://www.congress.gov/) eventually agreed to accept the gifts on behalf of the government of the United States. The horses were sold (including one to a former member of Andrew Jackson’s Cabinet) and other items became a part of the future collections of the [Smithsonian](https://www.si.edu/). To avoid a constitutional crisis, perhaps [Trump](https://www.donaldjtrump.com/) could cite the Van Buren precedent and offer to sell the plane and add the proceeds to the [U.S. Treasury](https://home.treasury.gov/).
+
+As for [Qatar](https://hukoomi.gov.qa/), offering [Trump](https://www.donaldjtrump.com/) a plane may not turn out to be as deft of an investment and [Qatar](https://hukoomi.gov.qa/)’s original intent could have been misunderstood. A few days after the story broke, the prime minister of [Qatar](https://hukoomi.gov.qa/) explained that the gift was actually meant to be a “[“government-to-government transaction.”](https://www.cnn.com/2025/05/14/politics/qatari-prime-minister-boeing-air-force-one-cnntv)” [Qatar](https://hukoomi.gov.qa/)’s government seems aware that too obvious of an attempt to influence [President](https://www.whitehouse.gov/) [Trump](https://www.donaldjtrump.com/) could open [Qatar](https://hukoomi.gov.qa/) up to the risk of again being out of favor when Republicans are no longer in control.
+
+Allen Fromherz
+Allen Fromherz is a professor of Middle East, Gulf and Mediterranean history at [Georgia State University](https://www.gsu.edu/). He directs the [Middle East Studies Center](https://middleeaststudies.gsu.edu/) at [GSU](https://www.gsu.edu/) and was President of the [American Institute for Maghreb Studies](https://aimsnorthafrica.org/) (2015-2021). He is founding series editor, with Matt Buehler, of [Edinburgh Studies on the Maghrib](https://edinburghuniversitypress.com/series-edinburgh-studies-on-the-maghreb/) and is North Africa senior editor for the [Oxford Research Encyclopedia Africa](https://oxfordre.com/africanhistory/africanhistory/oso/start). Since 2024, he is also Co-Chair of the [Monsoon Book Prizes](https://international.gsu.edu/initiatives/monsoon-book-prize/), which celebrate the archaeology, history and political economy of the Indian Ocean world.
+
+## [George Washington saw Trump's plane gift from Qatar coming 250 years ago](https://www.msnbc.com/opinion/msnbc-opinion/trump-plane-qatar-gift-george-washington-warning-rcna206558)
+
+*The Founders knew a throne when they saw one — and that's how they'd see [Qatar](https://hukoomi.gov.qa/)'s \$400 million "gift" to [President](https://www.whitehouse.gov/) [Trump](https://www.donaldjtrump.com/).*
+
+May 15, 2025, 1:56 PM EDT
+
+By Alexis Coe, Presidential historian
+
+The founders didn’t foresee flight — but they knew a throne when they saw one. And to this George Washington scholar, [Qatar’s \$400 million jet gift to President Donald Trump](https://www.msnbc.com/opinion/msnbc-opinion/trump-qatar-hamas-antisemitism-boeing-jet-gift-rcna206386) reads like a punchline 250 years in the making. 
+
+Patriots fought against unchecked power, foreign entanglements, self-dealing and a ruling class blind to suffering. King George III and Parliament enriched themselves while ordinary people struggled. Palaces, ceremonial coaches, gilded thrones — these weren’t luxuries colonists enjoyed. They were obstacles to the earliest articulation of [the American Dream](https://www.msnbc.com/weekends-with-alex-witt/watch/the-american-dream-is-getting-further-and-further-out-of-reach-for-our-students-rep-pettersen-235147845813).
+
+> *If a prince gives you a jet and you take it, you owe him — even if you pretend you don’t.*
+
+In 1787, [the Constitution’s](https://www.msnbc.com/opinion/msnbc-opinion/trump-constitution-dangerous-erosion-presidential-oath-rcna204883)’s framers gathered in a sweltering room in Philadelphia to design a government that wouldn’t collapse into monarchy or rot with foreign influence. They wrote the [emoluments clause — Article I, Section 9](https://constitution.congress.gov/browse/essay/artII-S1-C7-1/ALDE_00000233/) — which they saw as a firewall. It forbade federal officials from accepting gifts or titles from foreign states without congressional consent. 
+
+The logic was simple: no monarchies by stealth, no subtle realignments of loyalty. If a prince gives you a jet and you take it, you owe him — even if you pretend you don’t. In the founders’ eyes, it’s more than improper. It’s a betrayal. They didn’t fight a king just to watch a [president](https://www.whitehouse.gov/) accept a sky-high royal estate — or what [Donald Trump](https://www.donaldjtrump.com/) calls a write-off.
+
+The early republic was on high alert for anything that resembled aristocratic excess. 
+
+George Washington warned of “the insidious wiles of foreign influence,” calling it “one of the most baneful foes of republican government.” His successors remained hypersensitive: Thomas Jefferson returned a diamond-studded snuff box from the French ambassador on constitutional grounds and warned that the presidency could devolve into elective despotism. John Adams was publicly dragged for his taste in carriages, so his son, John Quincy Adams, surrendered horses and gilded gifts to the State Department rather than risk the appearance of impropriety.
+
+This [Congress](https://www.congress.gov/) — stacked with elected officials who swore to uphold the [Constitution](https://constitution.congress.gov/) — hasn’t cried out, but the first one would have. When John Adams suggested calling the president “His Majesty, His Highness, the President of the United States of America, and Protector of Their Liberties,” [Congress](https://www.congress.gov/) balked. Too monarchical. Too much. Too soon. They didn’t need to be reminded, as the [119th Congress](https://www.congress.gov/) so often does, that patriots waged a brutal eight-year war on domestic soil to get out from under a crown. 
+
+This week, [NBC News](https://www.nbcnews.com/)’ [Kristen Welker](https://www.nbcnews.com/author/kristen-welker-ncpn6396) asked [Trump](https://www.donaldjtrump.com/) whether, as president, he would uphold the [Constitution](https://constitution.congress.gov/). “I don’t know,” he replied. Fifty-three [Republican](https://www.gop.com/) [senators](https://www.senate.gov/) refused to comment. Only [Kentucky](https://kentucky.gov/) [Sen.](https://www.senate.gov/) [Rand Paul](https://www.paul.senate.gov/) spoke up — on social media, naturally — reminding us that “Following the [Constitution](https://constitution.congress.gov/) is not a suggestion.” 
+
+When referring to the document you swore to defend is treated as political bravery, we’re already in trouble. But doing nothing? That’s permission. This [Congress](https://www.congress.gov/) isn’t just tolerating the jet. It’s underwriting the decay that made it possible.
+
+What [Trump](https://www.donaldjtrump.com/) is doing is anti-constitutional — not “unconstitutional,” a term we apply to so many of his official acts, as if they exist in a gray area of vague corruption that might be defensible. In reality, it violates the independence that was supposed to anchor the presidency.
+
+Thomas Jefferson didn’t fear a tyrant who seized power. He feared one who bought it with borrowed luxury.
+
+> *What [Trump](https://www.donaldjtrump.com/) is doing is anti-constitutional — not ‘unconstitutional.’*
+
+And yet here we are. A \$400 million soaring throne room from an authoritarian monarchy to a man who treats the [Constitution](https://constitution.congress.gov/) like a nuisance. [Trump](https://www.donaldjtrump.com/)’s plane joins a long list of foreign giveaways he — or rather, his friends, family and [future presidential library](http://www.trumplibrary.gov/) — have accepted: [Saudi cash funneled through his hotel lobbies](https://www.washingtonpost.com/politics/saudi-funded-lobbyist-paid-for-500-rooms-at-trumps-hotel-after-2016-election/2018/12/05/29603a64-f417-11e8-bc79-68604ed88993_story.html), [Chinese patents fast-tracked for Ivanka](https://www.forbes.com/sites/tommybeer/2020/09/22/ivankas-trademark-requests-were-fast-tracked-in-china-after-trump-was-elected/), a \$2 billion investment [from the Saudi sovereign wealth fund to Jared Kushner’s firm](https://www.msnbc.com/rachel-maddow-show/maddowblog/jared-kushners-money-saudi-arabia-comes-sharper-focus-rcna70367) shortly after he left the [White House](https://www.whitehouse.gov/), and so many more. 
+
+It’s classical corruption: the decay of the body politic, the collapse of civic virtue, the slow confusion of public service with personal reward.
+
+The founders fought for more than a break from monarchy — 1776 was the beginning of the American Dream. Not golden thrones, but ordinary people having a chance to get ahead. Trump’s flying palace doesn’t just violate the [Constitution](https://constitution.congress.gov/). It mocks the idea entirely.
+
+[Alexis Coe](http://newamerica.org/our-people/alexis-coe/)
+[Alexis Coe](http://newamerica.org/our-people/alexis-coe/) is a presidential historian, senior fellow at [New America](http://newamerica.org/) and [New York Times](https;//www.nytimes.com/) bestselling author of "Young Jack: John F. Kennedy, 1917-1957" (2025), "You Never Forget Your First: A Biography of George Washington" (2020) and "Alice+Freda Forever: A Murder in Memphis" (2014).
+
+## [AG Pam Bondi faces an awkward question about her approval of the Qatari jet ‘gift’](https://www.msnbc.com/rachel-maddow-show/maddowblog/trump-qatar-jet-pam-bondi-conflict-rcna206997)
+
+*When it comes to the attorney general and the luxury jet from [Qatar](https://hukoomi.gov.qa/), [Democratic](https://www.democrats.org/) [Sen.](https://www.senate.gov/) [Dick Durbin](https://www.durbin.senate.gov/) is asking all the right questions.*
+
+May 15, 2025, 9:36 AM EDT
+By [Steve Benen](https://www.msnbc.com/author/steve-benen-ncpn433601)
+
+It was earlier this week when the public first learned about [Donald Trump](https://www.donaldjtrump.com/) ’s plan to [accept a superluxury Boeing 747-8 jumbo jet](https://www.msnbc.com/rachel-maddow-show/maddowblog/trump-scrambles-defend-luxury-jet-qatar-ll-use-air-force-one-rcna206207) from the royal family of [Qatar](https://hukoomi.gov.qa/) to be used as a temporary Air Force One. The [president](https://www.whitehouse.gov/) spent the days that followed trying to defend the outrageous arrangement, with limited effect.
+
+The result is a bizarre controversy that has divided [congressional Republicans](https://www.msnbc.com/rachel-maddow-show/maddowblog/trump-struggles-defend-qatars-luxury-jet-gift-republicans-are-divided-rcna206447) and [conservative leaders](https://www.msnbc.com/top-stories/latest/trump-qatar-plane-maga-influencers-laura-loomer-ben-shapiro-rcna206467), while raising a seemingly endless list of ethical and legal concerns.
+
+But while this burgeoning fiasco adds to the list of [Trump](https://www.donaldjtrump.com/) scandals, the president isn’t the only one facing difficult questions.
+
+According to [a report from ABC News](https://abcnews.go.com/Politics/trump-administration-poised-accept-palace-sky-gift-trump/story?id=121680511), which was the first to break this story, [Attorney General](https://www.justice.gov/) [Pam Bondi](https://www.justice.gov/ag/staff-profile/meet-attorney-general) and her [Justice Department](https://www.justice.gov/) team determined that accepting the plane would be legally permissible so long as the Qatari government gifts it to the [Defense Department](https://www.defense.gov/) and the jet is later turned over to the [Trump Library Foundation](http://www.trumplibrary.gov/).
+
+This was dubious guidance in its own right, but there was a related problem hanging overhead: [Bondi](https://www.justice.gov/ag/staff-profile/meet-attorney-general) used to work as a registered lobbyist for foreign clients, [including the government of Qatar](https://www.msnbc.com/rachel-maddow-show/maddowblog/pam-bondi-tapped-trump-ag-still-haunted-controversies-rcna181609) — the same government that’s apparently prepared to reward [Trump](https://www.donaldjtrump.com/) with a jet.
+
+Now, a key [Senate](https://www.senate.gov/) [Democratic](https://www.democrats.org/) leader is asking all the right questions. [NBC News reported](https://www.nbcnews.com/politics/trump-administration/live-blog/trump-saudi-arabia-qatar-tariffs-rfk-jr-testifies-live-updates-rcna206071/rcrd79438?canonicalCard=true):
+
+> *[Sen.](https://www.senate.gov/) [Dick Durbin, D-Ill.](https://www.durbin.senate.gov/), the top [Democrat](https://www.democrats.org/) on the [Judiciary Committee](https://www.judiciary.senate.gov/), sent a new letter to [Attorney General](https://www.justice.gov/) [Pam Bondi](https://www.justice.gov/ag/staff-profile/meet-attorney-general) asking how she came to a conclusion that the [Qatari](https://hukoomi.gov.qa/) gift of a \$400 million jet to [Trump](https://www.donaldjtrump.com/) would be ‘legally permissible’ and pressing her to provide the committee with information about whether the [Justice Department](https://www.justice.gov/) determined there were no potential conflicts of interest. In the letter, provided first to [NBC News](https://www.nbcnews.com/), [Durbin](https://www.durbin.senate.gov/) asks [Bondi](https://www.justice.gov/ag/staff-profile/meet-attorney-general) if she recused herself from decision-making related to the matter because [Bondi](https://www.justice.gov/ag/staff-profile/meet-attorney-general) previously worked as a lobbyist for [Qatar](https://hukoomi.gov.qa/).*
+
+“There are serious questions about whether you should have recused yourself from this matter,” , noting that [Bondi](https://www.justice.gov/ag/staff-profile/meet-attorney-general) “did not list the [State of Qatar](https://hukoomi.gov.qa/) as a conflict of interest on your Senate Judiciary Questionnaire, despite serving as a lobbyist for this foreign government prior to your confirmation as [Attorney General](https://www.justice.gov/).”
+
+The [Illinois](https://www.illinois.gov/) [Democrat](https://www.democrats.org/), who’s retiring next year, asked [Bondi](https://www.justice.gov/ag/staff-profile/meet-attorney-general) to provide the [Senate](https://www.senate.gov/) [Judiciary Committee](https://www.judiciary.senate.gov/) with:
+
+- the memo the [attorney general](https://www.justice.gov/) prepared that concluded that the acceptance of the [Qatari](https://hukoomi.gov.qa/) gift would be “legally permissible”;
+- and “the names and titles of the Department ethics officials with whom you consulted on your potential conflict of interest in this matter and any records or materials related to this consultation.”
+
+[Durbin](https://www.durbin.senate.gov/) asked that [Bondi](https://www.justice.gov/ag/staff-profile/meet-attorney-general) comply with his request by May 28.
+
+For those interested in accountability and legal ethics, the good news is that [Durbin](https://www.durbin.senate.gov/) is pressing the [attorney general](https://www.justice.gov/) on an important point, and the facts appear to be on the [senator](https://www.senate.gov/)’s side. The bad news is that [Durbin](https://www.durbin.senate.gov/)’s correspondence is a request, not a subpoena, and given that the [Illinois](https://www.illinois.gov/) [Democrat](https://www.democrats.org/) is in the minority, he has no way to compel Bondi to cooperate with this line of inquiry.
+
+Indeed, it’s likely that the [attorney general](https://www.justice.gov/) will ignore the [senator](https://www.senate.gov/)’s letter — and there won’t be a whole lot he can do about it without the support of his [Republican](https://www.gop.com/) colleagues, which will almost certainly never materialize.
+
+Steve Benen
+Steve Benen is a producer for "[The Rachel Maddow Show](https://www.msnbc.com/rachel-maddow-show)," the editor of [MaddowBlog](https://www.msnbc.com/rachel-maddow-show) and an [MSNBC](https://www.msnbc.com/) political contributor. He's also the bestselling author of ["Ministry of Truth: Democracy, Reality, and the Republicans' War on the Recent Past."](https://www.harpercollins.com/products/ministry-of-truth-steve-benen)
 
 ## [Trump's jet from Qatar is worrisome. What he’s giving in return is troubling.](https://www.msnbc.com/top-stories/latest/trump-qatar-jet-corruption-concessions-rcna206761)
 
@@ -107,6 +228,73 @@ Soon after [Schumer](https://www.schumer.senate.gov/)’s comments, [Senate](htt
 Steve Benen
 Steve Benen is a producer for "[The Rachel Maddow Show](https://www.msnbc.com/rachel-maddow-show)," the editor of [MaddowBlog](https://www.msnbc.com/rachel-maddow-show) and an [MSNBC](https://www.msnbc.com/) political contributor. He's also the bestselling author of ["Ministry of Truth: Democracy, Reality, and the Republicans' War on the Recent Past."](https://www.harpercollins.com/products/ministry-of-truth-steve-benen)
 
+
+## [Turning Qatari 747 into Air Force One could cost $1 billion and take years, experts say](https://www.nbcnews.com/politics/national-security/turning-qatari-747-air-force-one-cost-1-billion-take-years-experts-say-rcna206582)
+
+*Taxpayers would likely foot the bill to retrofit [President](https://www.whitehouse.gov/) [Trump](https://www.donaldjtrump.com/)'s new jet, which could be more than twice the plane's \$400 million value.*
+
+May 13, 2025, 6:16 PM EDT / Updated May 14, 2025, 3:52 AM EDT
+
+By Dan De Luce, Tom Winter, Laura Strickler, Courtney Kube and Gordon Lubold
+
+Converting a [Qatari](https://hukoomi.gov.qa/)-owned 747 jet into a new [Air Force One](https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104588/vc-25-air-force-one/) for [President](https://www.whitehouse.gov/) [Donald Trump](https://www.donaldjtrump.com/) would involve installing multiple top-secret systems, cost over \$1 billion and take years to complete, three aviation experts told [NBC News](https://www.nbcnews.com/). 
+
+They said that accepting the 13-year-old jet would likely cost U.S. taxpayers hundreds of millions of dollars over time, noting that refurbishing the commercial plane would exceed its current value of \$400 million. The project might also not be completed by the end of [Trump](https://www.donaldjtrump.com/)’s term in 2029, at which time the plane is expected to be handed over to [Trump](https://www.donaldjtrump.com/)’s [presidential library foundation](http://www.trumplibrary.gov/).
+
+[Richard Aboulafia](https://www.aerodynamicadvisory.com/team/richard-aboulafia), an analyst and consultant on commercial and military aviation, said he thought turning the [Qatari](https://hukoomi.gov.qa/) jetliner into [Air Force One](https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104588/vc-25-air-force-one/) would cost billions and take years. 
+
+“You’re taking a 747, disassembling it, reassembling it, and then jacking it up to a very high level,” said Aboulafia, a managing director at [AeroDynamic Advisory](https://www.aerodynamicadvisory.com/), a consulting firm.
+
+The [White House](https://www.whitehouse.gov/) did not immediately respond to a request for comment.
+
+Aviation experts refer to [Air Force One](https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104588/vc-25-air-force-one/) as the most complicated aircraft on the planet. The plane is meant to serve as a secure communication center in the sky — including command and control of nuclear weapons — and allow the president to issue orders to military and government agencies in the event of war or other emergency. 
+
+Experts said the idea made no financial or practical sense given that [Boeing](https://www.boeing.com/) is already deep into a multiyear effort to convert two 747s to replace current [Air Force One planes](https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104588/vc-25-air-force-one/). They said that the contract for refurbishing the [Qatari](https://hukoomi.gov.qa/) 747 would likely go to [Boeing](https://www.boeing.com/) as its original manufacturer.
+
+“Since you’re also disassembling and reassembling the jet for security reasons, you’re probably going to go with the people who know it better,” [Aboulafia](https://www.aerodynamicadvisory.com/team/richard-aboulafia) said. “If you have to rip the plane apart, that’s more of a [Boeing](https://www.boeing.com/) job.”
+
+Some of the work could be done by [L3 Harris](https://www.l3harris.com/), which specializes in this kind of work. The work would likely be done in [Greenville](https://www.ci.greenville.tx.us/), [Texas](https://www.texas.gov/). [Qatari](https://hukoomi.gov.qa/) officials have said that the possible transfer of an aircraft for use as a new [Air Force One](https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104588/vc-25-air-force-one/) plane is under consideration but no final decision has been made.
+
+### Dismantled, part by part 
+
+The [Qatari](https://hukoomi.gov.qa/) jumbo jet would have to be effectively dismantled, part by part, to ensure there were no listening devices, spyware or other security vulnerabilities that could allow foreign powers to eavesdrop on the president’s plane.
+
+It would then have to be fitted with costly, sophisticated systems for secure government communications, midair refueling, missile defense, countering electronic jamming and protecting against electro-magnetic pulse attack. There would likely need to be quarters added for White House medical staff and the [Secret Service](https://www.usa.gov/agency-index#S).
+
+Installing the new systems could push the project into the 2030s, according to [Aboulafia](https://www.aerodynamicadvisory.com/team/richard-aboulafia), who said that equipping the plane with midair refueling capability alone would be “enormously time-consuming.” 
+
+The [White House](https://www.whitehouse.gov/) has said the jet would be handed over to [Trump](https://www.donaldjtrump.com/)’s [presidential library foundation](http://www.trumplibrary.gov/) by the end of his term, in January 2029. That would presumably require the removal of all the sensitive government equipment installed on the aircraft.
+
+[Trump](https://www.donaldjtrump.com/) could override current [Air Force security rules](https://www.af.mil/) but usually employees working on presidential aircraft or similar sensitive projects need a high-level security clearance, known as a “Yankee White” clearance, according to an industry member who asked not to be named. In the past, [Boeing](https://www.boeing.com/) has struggled to find enough workers with the necessary security clearances to do the work.
+
+###  ‘A real relief for [Boeing](https://www.boeing.com/)’
+
+In 2018, the [Air Force](https://www.af.mil/) issued a contract to [Boeing](https://www.boeing.com/) to convert two 747s to eventually serve as new [Air Force One aircraft](https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104588/vc-25-air-force-one/), for \$3.9 billion. In 2019, the [Pentagon](https://www.jcs.mil/) estimated that the total estimated cost of building, equipping and testing the planes would be higher, at about \$5.3 billion. 
+
+The project has been plagued by delays and cost overruns. The jets were supposed to be ready by last year but may not be delivered until 2029. 
+
+At a congressional hearing on May 8, Darlene Costello, principal deputy assistant secretary of the [Air Force](https://www.af.mil/) for acquisition, technology and logistics, told lawmakers that the new planes could be ready by 2027 by reducing some of the requirements for the aircraft. 
+
+In 2022, [Boeing](https://www.boeing.com/)’s then-CEO, Dave Calhoun, suggested the firm should not have accepted the [Trump](https://www.donaldjtrump.com/) [administration](https://www.whitehouse.gov/administration/)’s terms in 2018 on the new [Air Force One](https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104588/vc-25-air-force-one/).
+
+For [Boeing](https://www.boeing.com/), converting the [Qatari](https://hukoomi.gov.qa/) jetliner under a new contract could be good news as it has lost money on the fixed-cost contract it agreed to during [Trump](https://www.donaldjtrump.com/)’s first term, as it has had to absorb major cost overruns, Aboulafia said.
+
+“This would be a real relief for [Boeing](https://www.boeing.com/),” he said.
+
+Dan De Luce
+Dan De Luce is a reporter for the [NBC News](https://www.nbcnews.com/) Investigative Unit. 
+
+Tom Winter
+Tom Winter is a New York-based correspondent covering crime, courts, terrorism and financial fraud on the East Coast for the [NBC News](https://www.nbcnews.com/) Investigative Unit.
+
+Laura Strickler
+Laura Strickler is a senior investigative producer and reporter for [NBC News](https://www.nbcnews.com/). She is based in Washington.
+
+Courtney Kube
+Courtney Kube is a correspondent covering national security and the military for the [NBC News](https://www.nbcnews.com/) Investigative Unit.
+
+Gordon Lubold
+Gordon Lubold is a national security reporter for [NBC News](https://www.nbcnews.com/).t
 
 ## [MAGA influencers criticize Trump’s \$400 million jet from Qatar](https://www.msnbc.com/top-stories/latest/trump-qatar-plane-maga-influencers-laura-loomer-ben-shapiro-rcna206467)
 
@@ -225,7 +413,7 @@ By Steve Benen
 
 Even before a foreign government eager to curry favor with the [White House](https://www.whitehouse.gov/) [offered Donald Trump a superluxury Boeing 747-8 jumbo jet](https://www.msnbc.com/rachel-maddow-show/maddowblog/trump-scrambles-defend-luxury-jet-qatar-ll-use-air-force-one-rcna206207) those concerned with the [president](https://www.whitehouse.gov/) and corruption allegations focused their attention on [his outlandish meme coin gambit](https://www.msnbc.com/rachel-maddow-show/maddowblog/trumps-controversial-meme-coin-contest-proves-predictably-profitable-p-rcna203293), which [has proved](https://apnews.com/article/trump-meme-coin-crypto-75063140a2223eb2698db7435dfaf5ac) to be quite lucrative, which appears to have created [influence opportunities](https://www.nytimes.com/2025/05/12/us/politics/auction-to-dine-with-trump-creates-foreign-influence-opportunity.html) that foreigners have reportedly [taken advantage of](https://www.bloomberg.com/graphics/2025-trump-memecoin-foreign-crypto-traders/?embedded-checkout=true), and which has been fairly described as “the most brazenly corrupt thing a president has ever done.”
 
-It’s against this backdrop that [Trump](https://www.donaldjtrump.com/) is preparing to leave for the Middle East — his first major foreign trip of his second term — and a reporter asked [White House](https://www.whitehouse.gov/) press secretary Karoline Leavitt whether the [president](https://www.whitehouse.gov/) intends to meet with the [Trump Organization](https://www.trump.com%)’s business partners in the region. She apparently didn’t care for the line of inquiry.
+It’s against this backdrop that [Trump](https://www.donaldjtrump.com/) is preparing to leave for the Middle East — his first major foreign trip of his second term — and a reporter asked [White House](https://www.whitehouse.gov/) press secretary Karoline Leavitt whether the [president](https://www.whitehouse.gov/) intends to meet with the [Trump Organization](https://www.trump.com/)’s business partners in the region. She apparently didn’t care for the line of inquiry.
 
 “I think it’s frankly ridiculous that anyone in this room would even suggest that [President](https://www.whitehouse.gov/) [Trump](https://www.donaldjtrump.com/) is doing anything for his own benefit,” Leavitt argued. “He left a life of luxury and a life of running a very successful real estate empire for public service, not just once but twice.”
 
@@ -349,7 +537,7 @@ A former senior [DOJ](https://www.justice.gov/) official who spoke on condition 
 
 “I do think there is a violation here. The problem is that you have what is functionally a direct gift to the [president](https://www.whitehouse.gov/),” [Eisen](https://www.brookings.edu/people/norman-eisen/) added.
 
-News of the plane comes ahead of the president’s [first foreign trip](https://www.nbcnews.com/politics/trump-administration/trump-snubs-traditional-allies-marks-gulf-power-first-foreign-trip-rcna204808) of his second term, in which he will travel to [Saudi Arabi this week and also make stops in the [United Arab Emirates](https://u.ae/) and [Qatar](https://hukoomi.gov.qa/).
+News of the plane comes ahead of the president’s [first foreign trip](https://www.nbcnews.com/politics/trump-administration/trump-snubs-traditional-allies-marks-gulf-power-first-foreign-trip-rcna204808) of his second term, in which he will travel to [Saudi Arabi](https://my.gov.sa/) this week and also make stops in the [United Arab Emirates](https://u.ae/) and [Qatar](https://hukoomi.gov.qa/).
 
 While in [Qatar](https://hukoomi.gov.qa/), [Trump](https://www.donaldjtrump.com/) is expected to deliver a speech and then talk with [American troops](https://www.defense.gov/) at the [Al Udeid Air Base](https://www.afcent.af.mil/Units/379th-Air-Expeditionary-Wing/), according to two U.S. officials.
 
@@ -416,6 +604,7 @@ Garrett Haake is [NBC News](https://www.nbcnews.com/)' senior [White House](http
 - [Ministry of Truth – HarperCollins](https://www.harpercollins.com/products/ministry-of-truth-steve-benen)
 - [Penguin Press - Penguin Books](https://www.penguin.com/penguin-press-overview/)
 - [NBC News](https://www.nbcnews.com/)
+- [NBC News Author Kristen Welker](https://www.nbcnews.com/author/kristen-welker-ncpn6396)
 - [ABC News - Breaking News, Latest News and Videos](https://abcnews.go.com/)
 - [Axios](https://www.axios.com/)
 - [Revolving Door Project / RDP scrutinizes executive branch appointees to ensure they use their office to serve the broad public interest.](https://therevolvingdoorproject.org/)
@@ -431,7 +620,10 @@ Garrett Haake is [NBC News](https://www.nbcnews.com/)' senior [White House](http
 - [The Nation](https://www.thenation.com/)
 - [The Intercept](https://theintercept.com/)
 - [Faux News](https://www.foxnews.com/)
+- [Al Jazeera – Breaking News, World News and Video](https://www.aljazeera.com/)
 - companies
+- [AeroDynamic Advisory](https://www.aerodynamicadvisory.com/)
+- [Richard Aboulafia / AeroDynamic Advisory](https://www.aerodynamicadvisory.com/team/richard-aboulafia)
 - [Elon Musk](https://ir.tesla.com/corporate/elon-musk)
 - [Elon Musk](https://x.com/elonmusk/)
 - [The Boring Company](https://www.boringcompany.com/)
@@ -448,33 +640,54 @@ Garrett Haake is [NBC News](https://www.nbcnews.com/)' senior [White House](http
 - [Citi / Global Investment Bank and Financial Services](https://www.citigroup.com/global)
 - [Investment Management & Financial Services / BlackRock](https://www.blackrock.com/us/individual)
 - [Palantir](https://www.palantir.com/)
+- [New America](http://newamerica.org/)
+- [Alexis Coe](http://newamerica.org/our-people/alexis-coe/)
+- [AIMS – American Institute for Maghrib Studies](https://aimsnorthafrica.org/)
+- [Oxford Research Encyclopedia of African History](https://oxfordre.com/africanhistory/africanhistory/oso/start)
 - [Trump Organization](https://www.trump.com/)
+- [Qatar Airways](https://www.qatarairways.com/en-us/homepage.html)
 - universities 
 - [Brookings - Quality. Independence. Impact.](https://www.brookings.edu/)
-- [Norman Eisen / Brookings](https://www.brookings.edu/people/norman-eisen/)
 - [Columbia University](https://www.columbia.edu/)
-- [Columbia University in the City of New York](https://www.columbia.edu/content/)
+- [Georgia State University](https://www.gsu.edu/)
+- [Allen Fromherz - College of Arts & Sciences](https://cas.gsu.edu/profile/allen-fromherz/)
+- [Norman Eisen / Brookings](https://www.brookings.edu/people/norman-eisen/)
+- [Georgetown University in Washington DC](https://www.georgetown.edu/)
 - [Loyola University Chicago](https://www.luc.edu/)
 - [School of Law / School of Law: Loyola University Chicago](https://www.luc.edu/law/)
 - Jessica Levinson
+- [Middle East Studies](https://middleeaststudies.gsu.edu/)
+- [Smithsonian Institution](https://www.si.edu/)
+- [Tulane University](https://tulane.edu/)
+- [Virginia Commonwealth University](https://www.vcu.edu/)
+- [Xavier University of Louisiana](https://www.xula.edu/)
+- [Middle East Institute](https://www.mei.edu/)
 - foreign countries 
 - [Government of Canada](https://www.canada.ca/)
 - [Government of Israel](https://www.gov.il/)
 - [Government of Iran](https://irangov.ir/)
+- [Oman Government](https://www.oman.om/)
 - [Government of Qatar](https://hukoomi.gov.qa/)
 - [Ministry of Defense / Government,Government Offices / Doha / Doha Directory](https://www.doha.directory/ministry-of-defense/i/694)
-- [Saudi Arabia’s National Portal for Government Services / GOV.SA](https://my.gov.sa/en)
-- [(Riyadh) alriyadh.gov.sa/en/Pages/HomeP.aspx](https://www.alriyadh.gov.sa/en/Pages/HomeP.aspx)
+- [Doha’s Education City](https://www.qf.org.qa/education/education-city)
+- [Saudi Arabia’s National Portal for Government Services / GOV.SA](https://my.gov.sa/)
+- [(Riyadh) alriyadh.gov.sa/](https://www.alriyadh.gov.sa/)
 - [Syrian E-Government Portal](https://egov.sy/page/en/132/0/HOME.html#&panel1-1)
-- [The Official Portal of the UAE Government](https://u.ae/en#/)
+- [The Official Portal of the UAE Government](https://u.ae/)
+- ~~[Hamas](https://hamasinfo.info/)~~
+- [Muslim Brotherhood](https://www.ikhwanonline.com/)
+- [Hezbollah](https://www.moqawama.org.lb/)
 - political parties
 - [Democrat Party](https://www.democrats.org/)
 - [Trump Party](https://www.gop.com/)
 - States 
-- [CT.GOV-Connecticut's Official State Website](https://portal.ct.gov/)
 - [Alabama.gov / The Official Website of the State of Alabama](https://www.alabama.gov/)
+- [CT.GOV-Connecticut's Official State Website](https://portal.ct.gov/)
 - [Hawaii.gov / The Official Website of the Aloha State](https://portal.ehawaii.gov/)
+- [Illinois](https://www.illinois.gov/)
+- [Kentucky](https://kentucky.gov/Pages/home.aspx)
 - [New York State Government (NY)](https://www.ny.gov/)
+- [City of Greenville, TX](https://www.ci.greenville.tx.us/)
 - Federal Government 
 - [Constitution of the United States](https://constitution.congress.gov/)
 - [Emoluments Clause and Presidential Compensation / Constitution Annotated / Congress.gov / Library of Congress](https://constitution.congress.gov/browse/essay/artII-S1-C7-1/ALDE_00000233/)
@@ -493,16 +706,21 @@ Garrett Haake is [NBC News](https://www.nbcnews.com/)' senior [White House](http
 - [Department of Justice (DOJ)](https://www.justice.gov/)
 - [Securities and Exchange (SEC)](https://www.sec.gov/)
 - [Department of Treasury (Treasury)](https://home.treasury.gov/)
+- [Secret Service](https://www.secretservice.gov/)
+[Joint Chiefs of Staff](https://www.jcs.mil)
 - [Department of Defense (DOD)](https://www.defense.gov/)
 - [Air Force](https://www.af.mil/)
 - [379th Air Expeditionary Wing](https://www.afcent.af.mil/Units/379th-Air-Expeditionary-Wing/)
 - [Congress](https;//www.congress.gov/)
 - [Senate](https://www.senate.gov/)
-- [Tommy Tuberville (T-AL)](https://www.tuberville.senate.gov/)
+- [United States Senate Committee on the Judiciary](https://www.judiciary.senate.gov/)
 - [Christopher Murphy (D-CT)](https://www.murphy.senate.gov/)
-- [Chuck Schumer (D-NY)](https://www.schumer.senate.gov/)
-- [Bernard Sanders (I-VT)](https://www.sanders.senate.gov/)
 - [Brian Schatz (D-HI)](https://www.schatz.senate.gov/)
+- [Richard J. Durbin (D-IL)](https://www.durbin.senate.gov/)
+- [Chuck Schumer (D-NY)](https://www.schumer.senate.gov/)
+- [Rand Paul (T-KY)](https://www.paul.senate.gov/)
+- [Tommy Tuberville (T-AL)](https://www.tuberville.senate.gov/)
+- [Bernard Sanders (I-VT)](https://www.sanders.senate.gov/)
 - [House of Representatives](https://www.house.gov/)
 - [Joe Courtney (D-CT2)](https://courtney.house.gov/)
 - [Jamie Raskin (D-MD8)](https://raskin.house.gov/)
