@@ -1,9 +1,9 @@
 ---
 layout: post
-tags: [media, Charles Dickens, A Tale of Two Cities by Charles Dickens, MSNBC, The Rachel Maddow Show, MaddowBlog, Steve Benen, NBC News, Associated Press (AP), Al Jazeera – Breaking News World News and Video, BBC Breaking News World News US News Sports Business Innovation Climate Culture Travel Video & Audio, CNN BBC, The New York Times (NYT), The Washington Post, NPR, Radio Free Europe/Radio Liberty (RFE/RL), Ihlas News Agency, HarperCollins, “Ministry of Truth –  Democracy Reality and the Republicans’ War on the Recent Past.”, Broadleaf Books, Just Faith –  Reclaiming Progressive Christianity / Broadleaf Books, companies, Washington Dulles International Airport (IAD), Elon Musk, Elon Musk, The Boring Company, Neuralink, SpaceX, Starlink, Tesla, Twitter, X, xAI, organizations, International Criminal Court, Guthrie Graves-Fitzsimmons, #AfghanEvac, Shawn VanDiver — #AfghanEvac, Executive Orders crisis — #AfghanEvac, Anglican Church of Southern Africa, The New Atlanticist, The Atlantic Council, New Atlanticist - Atlantic Council, Muhammad Tahir - Atlantic Council, Europe & Eurasia - Atlantic Council, Atlantic Council - Shaping the global future together, Eurasia Center, Corus International, Episcopal Church in the United States, All Saints’ Episcopal Church, Nontombi Naomi Tutu, Episcopal Migration Ministries / Making a Difference, Global Refuge, Krish O’Mara Vignarajah / Global Refuge, Interfaith Alliance / Join the pro-democracy faith movement, Desmond Tutu – Biographical - NobelPrize.org, Myanmar crisis –  Civilians killed in airstrikes as Rohingya risk dangerous journeys / UN News, U.N. Assistance Mission in Afghanistan (UNAMA), United States Conference of Catholic Bishops, Elon Musk – Wikipedia page, Afrikaners - Wikipedia, Catholic, universities, Berea College, foreign countries, European Union (EU) – Your gateway to the EU News Highlights, Afghanistan (AF), Kabul Afghanistan, Bagram Airfield, Accueil - Gouvernement (CG), Iraq, Government of Pakistan (PK), e-Devlet Kapısı Devletin Kısayolu / www.türkiye.gov.tr (TR), Turkey (TR), Taiwan.gov.tw - Government Portal of the Republic of China (Taiwan), Ukraine (UA), South African Government (ZA), Afrikaners (ZA), political parties, Democrat Party, Trumpian Party, States, Kentucky, Massachusetts Government, City of Cambridge Massachusetts, Federal Government, Washington D.C., Constitution of the United States, Supreme Court of the United States (SCOTUS), US Courts, Joint Chiefs of Staff (JCS), U.S. Central Command (CENTCOM), Air Force (AF), Navy, Marines, Space Command, US Coast Guard (USCG), Congress, H.R.4627 - 118th Congress (2023-2024) –  Afghan Adjustment Act / Congress.gov / Library of Congress, Senate, House of Representatives, James Clyburn (D-SC6), Democratic Faith Working Group (DFWG) - Congressman James E. Clyburn, President of the United States (POTUS), White House (WH), Department of State (DOS), President of the United States (POTUS), White House (WH), Pam Bondi, U.S. Deputy Secretary, Deputy Secretary of State - United States Department of State, Christopher Landau, Donald Trump, Donald J Trump, President Donald Trump (45), President Donald Trump (47), Troy Edgar / Homeland Security, Deputy Secretary, Vice President JD Vance, Reevaluating And Realigning United States Foreign Aid – The White House. January 20 2025, Realigning the United States Refugee Admissions Program – The White House. January 20 2025, Protecting The United States From Foreign Terrorists And Other National Security And Public Safety Threats – The White House. January 20 2025, refugees, politics ]
+tags: [Charles Dickens, A Tale of Two Cities, MSNBC, The Rachel Maddow Show, Steve Benen, NBC News, Washington Dulles International Airport (IAD), International Criminal Court, Guthrie Graves-Fitzsimmons, #AfghanEvac, Shawn VanDiver, Anglican Church of Southern Africa, Muhammad Tahir, Europe & Eurasia, Episcopal Church in the United States, All Saints’ Episcopal Church, Nontombi Naomi Tutu, Episcopal Migration Ministriesl, Global Refuge, Krish O’Mara Vignarajah, Interfaith Alliance, Desmond Tutu, U.N. Assistance Mission in Afghanistan (UNAMA), United States Conference of Catholic Bishops, European Union (EU), Afghanistan (AF), Bagram Airfield, Accueil - Gouvernement (CG), Iraq (IQ), Government of Pakistan (PK), e-Devlet Kapısı Devletin Kısayolu / www.türkiye.gov.tr (TR), Turkey (TR), LGovernment Portal of the Republic of China (TW), Ukraine (UA), South African Government (ZA), Afrikaners (ZA), City of Cambridge MA, Constitution of the United States, Department of State (DOS), Joint Chiefs of Staff (JCS), U.S. Central Command (CENTCOM), Congress, H.R.4627 - 118th Congress (2023-2024) –  Afghan Adjustment Act / Congress.gov / Library of Congress, Senate, House of Representatives, James Clyburn (D-SC6), President of the United States (POTUS), White House (WH), Donald J Trump, President Donald Trump (47), Vice President JD Vance, Pam Bondi, Christopher Landau, Troy Edgar, Reevaluating And Realigning United States Foreign Aid – The White House. January 20 2025, Realigning the United States Refugee Admissions Program – The White House. January 20 2025, Protecting The United States From Foreign Terrorists And Other National Security And Public Safety Threats – The White House. January 20 2025, refugees, politics]
 categories: [Donald Trump]
 date: 2025-05-17 4:19 PM
-excerpt: '“I commend the Episcopal Church for modeling integrity in the face of injustice after the Trump Admin favored white South Africans while suspending refugee resettlement for others.” 1 Corinthians 16:13: “Stand firm in the faith; be courageous; be strong.” It’s a memorable call on Christians to ground our obedience to Christ — and not to Trump. - Representative Jim Clyburn (D-SC6)'
+excerpt: "“I commend the Episcopal Church for modeling integrity in the face of injustice after the Trump Admin favored white South Africans while suspending refugee resettlement for others.” 1 Corinthians 16:13: “Stand firm in the faith; be courageous; be strong.” It’s a memorable call on Christians to ground our obedience to Christ — and not to Trump. - Representative Jim Clyburn (D-SC6)"
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
@@ -18,7 +18,7 @@ It was the year of Our Lord two thousand and twenty-five. Spiritual revelations 
 
 ## [Trump’s claim that Afrikaners are fleeing genocide in South Africa is an outrageous lie](https://www.msnbc.com/opinion/msnbc-opinion/trump-afrikaners-apartheid-refugees-genocide-rcna206660)
 
-*If the Episcopal Church had agreed to resettle South African Boers, then it would have elevated a lie that will affect refugee resettlement for years to come.*
+*If the [Episcopal Church](https://www.episcopalchurch.org/) had agreed to resettle [South African](https://www.gov.za/) Boers, then it would have elevated a lie that will affect refugee resettlement for years to come.*
 
 May 16, 2025, 9:15 PM EDT
 By The [Rev. Nontombi Naomi Tutu](https://www.naomitutu.com/), Priest Associate at [All Saints’ Church Atlanta](https://allsaintsatlanta.org/)
@@ -91,7 +91,7 @@ A policy favoring white [South Africans](https://www.gov.za/) over all other ref
 
 > *This isn’t the first time the [Trump](https://www.donaldjtrump.com/) White House has singled out a particular denomination for rebuke.*
 
-This isn’t the first time the [Trump](https://www.donaldjtrump.com/) [White House](https://www.whitehouse.gov/) has singled out a particular denomination for rebuke. Vance, who is [Catholic](https://www.vatican.va/), [questioned](https://urldefense.com/v3/__https:/0f3bd8fc.streaklinks.com/CbLlQKyDA6Wy1H559A-eWLs9/https*3A*2F*2Fwww.cbsnews.com*2Fnews*2Fjd-vance-transcript-face-the-nation-01-26-2025*2F__;JSUlJSUl!!PIZeeW5wscynRQ!p-v07Tj1HTDucTipia8vy6KykDu3CSiE4ct-qKVTs8TZ043AZikKTS3sDtKlXa57gLZ2-uua5nwbQhF0bKG8BQ$) the [U.S. Catholic Bishops](https://www.usccb.org/) commitment to aiding refugees and migrants by asking, “Are they actually worried about their bottom line?” [Trump](https://www.donaldjtrump.com/) [took aim at the Episcopal Church](https://urldefense.com/v3/__https:/0f3bd8fc.streaklinks.com/CbLlQK2AQMvgfblN0gZCcVnP/https*3A*2F*2Fwww.msnbc.com*2Fopinion*2Fmsnbc-opinion*2Ftrump-bishop-budde-sermon-truth-social-rcna188764__;JSUlJSUl!!PIZeeW5wscynRQ!p-v07Tj1HTDucTipia8vy6KykDu3CSiE4ct-qKVTs8TZ043AZikKTS3sDtKlXa57gLZ2-uua5nwbQhHgNxKPuA$) in January when [Bishop Mariann Budde]({% link _posts/2025/01/2025-01-23-J20BishopSpeaksTruthToPower.md %}) pleaded for mercy for immigrants and LGBTQ people at the inaugural prayer service. The consistent battles with non-MAGA Christians paints a disturbing portrait of [Trump](https://www.donaldjtrump.com/)’s approach to Christianity, which includes tapping [Attorney General](https://www.justice.gov/) [Pam Bondi](https://www.justice.gov/ag/staff-profile/meet-attorney-general) to lead a [task force on supposed “anti-Christian bias”](https://urldefense.com/v3/__https:/0f3bd8fc.streaklinks.com/CbLlQKywcONr-O6-tAUClJiM/https*3A*2F*2Fwww.msnbc.com*2Frachel-maddow-show*2Fmaddowblog*2Fbondi-launches-dubious-task-force-eradicate-anti-christian-bias-us-gov-rcna202663__;JSUlJSUl!!PIZeeW5wscynRQ!p-v07Tj1HTDucTipia8vy6KykDu3CSiE4ct-qKVTs8TZ043AZikKTS3sDtKlXa57gLZ2-uua5nwbQhHvUZCC6w$) in the United States.
+This isn’t the first time the [Trump](https://www.donaldjtrump.com/) [White House](https://www.whitehouse.gov/) has singled out a particular denomination for rebuke. Vance, who is [Catholic](https://www.vatican.va/), [questioned](https://urldefense.com/v3/__https:/0f3bd8fc.streaklinks.com/CbLlQKyDA6Wy1H559A-eWLs9/https*3A*2F*2Fwww.cbsnews.com*2Fnews*2Fjd-vance-transcript-face-the-nation-01-26-2025*2F__;JSUlJSUl!!PIZeeW5wscynRQ!p-v07Tj1HTDucTipia8vy6KykDu3CSiE4ct-qKVTs8TZ043AZikKTS3sDtKlXa57gLZ2-uua5nwbQhF0bKG8BQ$) the [U.S. Catholic Bishops](https://www.usccb.org/) commitment to aiding refugees and migrants by asking, “Are they actually worried about their bottom line?” [Trump](https://www.donaldjtrump.com/) [took aim at the Episcopal Church](https://urldefense.com/v3/__https:/0f3bd8fc.streaklinks.com/CbLlQK2AQMvgfblN0gZCcVnP/https*3A*2F*2Fwww.msnbc.com*2Fopinion*2Fmsnbc-opinion*2Ftrump-bishop-budde-sermon-truth-social-rcna188764__;JSUlJSUl!!PIZeeW5wscynRQ!p-v07Tj1HTDucTipia8vy6KykDu3CSiE4ct-qKVTs8TZ043AZikKTS3sDtKlXa57gLZ2-uua5nwbQhHgNxKPuA$) in January when [Bishop Mariann Budde]({% link _posts/2025/01/2025-01-23-J20BishopSpeaksTruthToPower.md}) pleaded for mercy for immigrants and LGBTQ people at the inaugural prayer service. The consistent battles with non-MAGA Christians paints a disturbing portrait of [Trump](https://www.donaldjtrump.com/)’s approach to Christianity, which includes tapping [Attorney General](https://www.justice.gov/) [Pam Bondi](https://www.justice.gov/ag/staff-profile/meet-attorney-general) to lead a [task force on supposed “anti-Christian bias”](https://urldefense.com/v3/__https:/0f3bd8fc.streaklinks.com/CbLlQKywcONr-O6-tAUClJiM/https*3A*2F*2Fwww.msnbc.com*2Frachel-maddow-show*2Fmaddowblog*2Fbondi-launches-dubious-task-force-eradicate-anti-christian-bias-us-gov-rcna202663__;JSUlJSUl!!PIZeeW5wscynRQ!p-v07Tj1HTDucTipia8vy6KykDu3CSiE4ct-qKVTs8TZ043AZikKTS3sDtKlXa57gLZ2-uua5nwbQhHvUZCC6w$) in the United States.
 
 “We are appalled by the hypocrisy of the [Trump](https://www.donaldjtrump.com/) [administration](https://www.whitehouse.gov/administration/) in shutting the door on our siblings in Christ who are attempting to flee real Christian persecution around the world, and call on the [administration](https://www.whitehouse.gov/administration/) to restart the U.S. refugee resettlement program,” a group of 26 Christian leaders [wrote in a statement denouncing the task force](https://urldefense.com/v3/__https:/0f3bd8fc.streaklinks.com/CbLlQK2Xl8K2a_KDMgotmQCQ/https*3A*2F*2Fwww.axios.com*2F2025*2F05*2F01*2Fchristian-leaders-denounce-white-house-task-force__;JSUlJSUlJQ!!PIZeeW5wscynRQ!p-v07Tj1HTDucTipia8vy6KykDu3CSiE4ct-qKVTs8TZ043AZikKTS3sDtKlXa57gLZ2-uua5nwbQhGevKZejQ$), organized by my place of work, [Interfaith Alliance](https://interfaithalliance.org/). “Far from [Trump](https://www.donaldjtrump.com/) as a protector of Christians, the major threats to Christians in the [United States](https://www.usa.gov/) are coming from [Trump](https://www.donaldjtrump.com/)’s own [administration](https://www.whitehouse.gov/administration/),” the statement reads.
 
@@ -199,7 +199,7 @@ This isn’t just about [Afghans](https://moi.gov.af/) — it’s about every pa
 
 This isn’t just about [Afghans](https://moi.gov.af/) — it’s about every partner we’ll need tomorrow. If we abandon them today, future allies in [Ukraine](https://www.gov.ua/), [Taiwan](https://www.taiwan.gov.tw/) or anywhere else in the world will think twice about cooperating with the U.S.
 
-“This is cruel and chaotic,” [Shawn VanDiver](https://afghanevac.org/bio-vandiver), president of [#AfghanEvac](https://afghanevac.org/), a nonprofit supporting the resettlement of [Afghan](https://moi.gov.af/) allies in the U.S., [told NPR](https://www.npr.org/2025/04/11/g-s1-59939/trump-afghanistan-tps-kristi-noem-dhs). VanDiver, a military veteran, said, “It shatters everything [America](https://www.usa.gov/) claimed to stand for when we promised not to abandon our allies.”
+“This is cruel and chaotic,” [Shawn VanDiver](https://afghanevac.org/bio-vandiver), president of [#AfghanEvac](https://afghanevac.org/), a nonprofit supporting the resettlement of [Afghan](https://moi.gov.af/) allies in the U.S., [told NPR](https://www.npr.org/2025/04/11/g-s1-59939/trump-afghanistan-tps-kristi-noem-dhs). [VanDiver](https://afghanevac.org/bio-vandiver), a military veteran, said, “It shatters everything [America](https://www.usa.gov/) claimed to stand for when we promised not to abandon our allies.”
 
 There’s still time to do the right thing.
 [Congress](https://www.congress.gov/) must reinstate [TPS](https://www.uscis.gov/humanitarian/temporary-protected-status), clear the [SIV](https://www.uscis.gov/working-in-the-united-states/special-immigrants) backlog and pass the [Afghan Adjustment Act](https://www.congress.gov/bill/118th-congress/house-bill/4627/text), which would give [Afghans](https://moi.gov.af/) who helped the U.S. in Afghanistan [a path to permanent, legal residency](https://refugees.org/re-introduction-of-afghan-adjustment-act-provides-chance-to-fulfill-promise-to-afghan-allies/). People like Ahmad and Murtaza didn’t just work for us; they fought for us, bled for us, believed in us.
@@ -216,20 +216,19 @@ Because if we fail them now, we’re not just abandoning Ahmad, Murtaza and thou
 - [A Tale of Two Cities, by Charles Dickens](https://www.gutenberg.org/files/98/old/2city12p.pdf)
 - [MSNBC](https://www.msnbc.com/)
 - [The Rachel Maddow Show](https://www.msnbc.com/rachel-maddow-show)
-- [MaddowBlog](https://www.msnbc.com/rachel-maddow-show)
 - Steve Benen
 - [NBC News](https://www.nbcnews.com/)
 - [Associated Press (AP)](https://www.apnews.com/)
 - [Al Jazeera – Breaking News, World News and Video](https://www.aljazeera.com/)
 - [BBC Breaking News, World News, US News, Sports, Business, Innovation, Climate, Culture, Travel, Video & Audio](https://www.bbc.com/)
-- [CNN](https://www.cnn.com/), [BBC](https://www.bbc.com/)
+- [CNN](https://www.cnn.com/)
 - [The New York Times (NYT)](https://www.nytimes.com/)
 - [The Washington Post](https://www.washingtonpost.com/)
 - [NPR](https://www.npr.org/)
 - [Radio Free Europe/Radio Liberty (RFE/RL)](https://www.rferl.org/)
 - [Ihlas News Agency](https://iha.news/)
 - [HarperCollins](https://www.harpercollins.com/)
-- ["Ministry of Truth: Democracy, Reality, and the Republicans' War on the Recent Past."](https://www.harpercollins.com/products/ministry-of-truth-steve-benen)
+- [“Ministry of Truth: Democracy, Reality, and the Republicans’ War on the Recent Past.”](https://www.harpercollins.com/products/ministry-of-truth-steve-benen)
 - [Broadleaf Books](https://www.broadleafbooks.com/)
 - [Just Faith: Reclaiming Progressive Christianity / Broadleaf Books](https://www.broadleafbooks.com/store/product/9781506462523/Just-Faith)
 - companies
@@ -257,10 +256,10 @@ Because if we fail them now, we’re not just abandoning Ahmad, Murtaza and thou
 - [Muhammad Tahir - Atlantic Council](https://www.atlanticcouncil.org/expert/muhammad-tahir/)
 - [Europe & Eurasia - Atlantic Council](https://www.atlanticcouncil.org/region/europe-eurasia/)
 - [Atlantic Council - Shaping the global future together](https://www.atlanticcouncil.org/)
--  [Eurasia Center](https://www.atlanticcouncil.org/region/europe-eurasia/)
+- [Eurasia Center](https://www.atlanticcouncil.org/region/europe-eurasia/)
 - [Corus International](https://corusinternational.org/)
 - [Episcopal Church in the United States](https://www.episcopalchurch.org/)
-- [All Saints' Episcopal Church](https://allsaintsatlanta.org/)
+- [All Saints’ Episcopal Church](https://allsaintsatlanta.org/)
 - [Nontombi Naomi Tutu](https://www.naomitutu.com/)
 - [Episcopal Migration Ministries / Making a Difference](https://episcopalmigrationministries.org/)
 - [Global Refuge](https://www.globalrefuge.org/act-now/?gad_source=1&gbraid=0AAAAADrWcLM_sIOwVbXmQ_LiYHUk062tl&)
@@ -301,13 +300,9 @@ Because if we fail them now, we’re not just abandoning Ahmad, Murtaza and thou
 - [Constitution of the United States](https://constitution.congress.gov/)
 - [Supreme Court of the United States (SCOTUS)](https://www.supremecourt.gov/)
 - [US Courts](https://www.uscourts.gov/)
+- [Department of State (DOS)](https://www.state.gov/)
 - [Joint Chiefs of Staff (JCS)](https://www.jcs.mil/)
 - [U.S. Central Command (CENTCOM)](https://www.centcom.mil/)
-- [Air Force (AF)](https://www.af.mil/)
-- [Navy](https://www.navy.mil/)
-- [Marines](https://www.marines.mil/)
-- [Space Command](https://www.spacecom.mil/)
-- [US Coast Guard (USCG)](https://www.uscg.mil/)
 - [Congress](https://www.congress.gov/)
 - [H.R.4627 - 118th Congress (2023-2024): Afghan Adjustment Act / Congress.gov / Library of Congress](https://www.congress.gov/bill/118th-congress/house-bill/4627/text)
 - [Senate](https://www.senate.gov/)
@@ -316,22 +311,16 @@ Because if we fail them now, we’re not just abandoning Ahmad, Murtaza and thou
 - [Democratic Faith Working Group (DFWG) - Congressman James E. Clyburn](https://clyburn.house.gov/democratic-faith-working-group-dfwg/)
 - [President of the United States (POTUS)](https://www.whitehouse.gov/)
 - [White House (WH)](https://www.whitehouse.gov/)
-- [Department of State (DOS)](https://www.state.gov/)
-- [President of the United States (POTUS)](https://www.whitehouse.gov/)
-- [White House (WH)](https://www.whitehouse.gov/)
-- [Pam Bondi](https://www.justice.gov/ag/staff-profile/meet-attorney-general)
-- [U.S. Deputy Secretary](https://www.state.gov/deputy-secretary-of-state/)
-- [Deputy Secretary of State - United States Department of State](https://www.state.gov/deputy-secretary-of-state/)
-- [Christopher Landau](https://www.state.gov/deputy-secretary-of-state/)
-- [Donald Trump](https://www.donaldjtrump.com/)
-- [Donald J Trump](https://www.whitehouse.gov/)
+- [Donald J Trump](https://www.donaldjtrump.com/)
 - [President Donald Trump (45)](https://trumpwhitehouse.archives.gov/)
 - [President Donald Trump (47)](https://www.whitehouse.gov/)
-- [Troy Edgar / Homeland Security](https://www.dhs.gov/person/troy-edgar)
-- [Deputy Secretary](https://www.dhs.gov/person/troy-edgar)
 - [Vice President JD Vance](https://www.whitehouse.gov/administration/jd-vance/)
+- [Pam Bondi](https://www.justice.gov/ag/staff-profile/meet-attorney-general)
+- [Christopher Landau – Deputy Secretary of State - United States Department of State](https://www.state.gov/deputy-secretary-of-state/)
+- [Troy Edgar / Homeland Security - Deputy Secretary](https://www.dhs.gov/person/troy-edgar)
 - [Reevaluating And Realigning United States Foreign Aid – The White House](https://www.whitehouse.gov/presidential-actions/2025/01/reevaluating-and-realigning-united-states-foreign-aid/). January 20, 2025
 - [Realigning the United States Refugee Admissions Program – The White House](https://www.whitehouse.gov/presidential-actions/2025/01/realigning-the-united-states-refugee-admissions-program/). January 20, 2025
 - [Protecting The United States From Foreign Terrorists And Other National Security And Public Safety Threats – The White House](https://www.whitehouse.gov/presidential-actions/2025/01/protecting-the-united-states-from-foreign-terrorists-and-othernational-security-and-public-safety-threats/). January 20, 2025
 - refugees
-- politics 
+- politics
+’
