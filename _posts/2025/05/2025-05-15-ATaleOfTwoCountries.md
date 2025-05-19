@@ -172,11 +172,10 @@ Apparently, the public is supposed to believe that it’s simply a coincidence t
 
 Making matters worse is the companion bookend: On the same day the [Trump](https://www.donaldjtrump.com/) [administration](https://www.whitehouse.gov/administration/) welcomed white [South Africans](https://www.gov.za/), it also announced that it’s [ending temporary protected status for Afghans](https://www.nbcnews.com/politics/trump-[administration](https://www.whitehouse.gov/administration/)/live-blog/trump-[administration](https://www.whitehouse.gov/administration/)-us-china-tariffs-drugs-saudi-arabia-live-updates-rcna206058/rcrd79215?canonicalCard=true) after determining that conditions in the Taliban-led country “no longer meet the statutory requirements” for the designation.
 
-If there’s a defense for the White House’s competing standards for those in need of rescue, I can’t think of it.
+If there’s a defense for the [White House](https://www.whitehouse.gov/)’s competing standards for those in need of rescue, I can’t think of it.
 
 Steve Benen
 Steve Benen is a producer for "[The Rachel Maddow Show](https://www.msnbc.com/rachel-maddow-show)," the editor of [MaddowBlog](https://www.msnbc.com/rachel-maddow-show) and an [MSNBC](https://www.msnbc.com/) political contributor. He's also the bestselling author of ["Ministry of Truth: Democracy, Reality, and the Republicans' War on the Recent Past."](https://www.harpercollins.com/products/ministry-of-truth-steve-benen)
-
 
 ## [These brave Afghans helped the U.S. after 9/11. Now the U.S. wants to deport them.](https://www.msnbc.com/opinion/msnbc-opinion/brave-afghans-911-trump-administration-deportation-rcna204229)
 
