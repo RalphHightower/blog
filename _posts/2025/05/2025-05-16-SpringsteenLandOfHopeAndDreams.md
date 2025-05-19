@@ -2,8 +2,8 @@
 layout: post
 tags: [media, Bruce Springsteen, Bruce Springsteen – YouTube channel, Land of Hope and Dreams / Bruce Springsteen, MSNBC, NBC News, HuffPost - Breaking News U.S. and World News / HuffPost, Rolling Stone, The Official Website of Taylor Swift, Eras Tour – Taylor Swift’s Self Titled Official Archive Site, The New Yorker, Esquire - Men’s Fashion Cocktails Politics Interviews and Women, Kid Rock, Ted Nugent, companies, American Federation of Musicians - Musicians standing together have the power. - Musicians standing together have the power., Elon Musk, Elon Musk, The Boring Company, Neuralink, SpaceX, Starlink, Tesla, Twitter, X, xAI, universities, foreign countries, United Kingdom Government, Manchester City Council Homepage, political parties, The Office of Kamala D. Harris, Democrat Party, Trump Party, States, The Official Web Site for The State of New Jersey, Federal Government, Constitution of the United States, Supreme Court of the United States (SCOTUS), US Courts, Federal Election Commission, Government Accountability Office (GAO), Department of State (DOS), US Agency for International Development (USAID), Office of Government Ethics (OGE), 2016 campaign, Department of Justice (DOJ), Securities and Exchange (SEC), Department of Treasury (Treasury), Joint Chiefs of Staff, Department of Defense (DOD), Air Force, 379th Air Expeditionary Wing, VC-25 - Air Force One > Air Force > Fact Sheet Display, Congress, Senate, House of Representatives, President of the United States (POTUS), Ronald Reagan Presidential Library & Museum / Ronald Reagan, President Barack Obama, President Joe Biden, White House (WH), Trump Grift, Donald J Trump, Department of Government Efficiency (DOGE), The Mar-a-Lago Club, $TRUMP, $MELANIA, President Donald Trump (45), President Donald Trump (47), President Trump Administration (47), Addressing Risks from Chris Krebs and Government Censorship – The White House. April 9 2025, Fact Sheet –  President Donald J. Trump Addresses Risks from Chris Krebs and Government Censorship – The White House. April 9 2025, Ending The Weaponization Of The Federal Government. Presidential Actions. January 20 2025, Restoring Freedom Of Speech And Ending Federal Censorship. Presidential Actions. January 20 2025, Additional Measures to Combat Anti-Semitism – The White House. January 29 2025, Fact Sheet –  President Donald J. Trump Takes Forceful and Unprecedented Steps to Combat Anti-Semitism – The White House. January 30 2025, Donald J. Trump Presidential Library, Trump Library Foundation, grift, politics, protest, music]
 categories: [Bruce Springsteen]
-date: 2025-05-18 9:57 AM
-excerpt: "There’s some very weird, strange and dangerous shit going on out there right now. In America, they are persecuting people for using their right to free speech and voicing their dissent. This is happening now. In America, the richest men are taking satisfaction in abandoning the world’s poorest children to sickness and death. This is happening now. In my country, they’re taking sadistic pleasure in the pain they inflict on loyal American workers. They’re rolling back historic civil rights legislation that has led to a more just and plural society. They are abandoning our great allies and siding with dictators against those struggling for their freedom. They are defunding American universities that won’t bow down to their ideological demands. They are removing residents off American streets and, without due process of law, are deporting them to foreign detention centers and prisons. This is all happening now. A majority of our elected representatives have failed to protect the American people from the abuses of an unfit president and a rogue government. They have no concern or idea for what it means to be deeply American. The America l’ve sung to you about for 50 years is real and regardless of its faults is a great country with a great people. So we’ll survive this moment. Now, I have hope, because I believe in the truth of what the great American writer James Baldwin said. He said, “In this world, there isn’t as much humanity as one would like, but there’s enough.” Let’s pray."
+date: 2025-05-19 5:54 PM
+excerpt: "There’s some very weird, strange and dangerous shit going on out there right now. In America, they are persecuting people for using their right to free speech and voicing their dissent. This is happening now. In America, the richest men are taking satisfaction in abandoning the world’s poorest children to sickness and death. This is happening now. In my country, they’re taking sadistic pleasure in the pain they inflict on loyal American workers. They’re rolling back historic civil rights legislation that has led to a more just and plural society. They are abandoning our great allies and siding with dictators against those struggling for their freedom. They are defunding American universities that won’t bow down to their ideological demands. They are removing residents off American streets and, without due process of law, are deporting them to foreign detention centers and prisons. This is all happening now. A majority of our elected representatives have failed to protect the American people from the abuses of an unfit president and a rogue government. They have no concern or idea for what it means to be deeply American. The America l’ve sung to you about for 50 years is real and regardless of its faults is a great country with a great people. So we’ll survive this moment. Now, I have hope, because I believe in the 07 of what the great American writer James Baldwin said. He said, “In this world, there isn’t as much humanity as one would like, but there’s enough.” Let’s pray."
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
@@ -11,6 +11,44 @@ title: "Bruce Springsteen: “Raise Your Voices Against Authoritarianism and Let
 ---
 
 [Trump](https://www.donaldjtrump.com/) still has washed-up [Kid Rock](http://kidrock.com/) and [Ted Nugent](https://www.tednugent.com/). 
+
+## [Trump wants investigations into Springsteen, Beyoncé, Oprah and Bono](https://www.msnbc.com/rachel-maddow-show/maddowblog/trump-wants-investigations-springsteen-beyonce-oprah-bono-rcna207723)
+
+*The [president](https://www.whitehouse.gov/)’s ire toward celebrity critics might seem trivial, but his willingness to use the power of the state to attack his critics matters.*
+
+May 19, 2025, 12:40 PM EDT / Updated May 19, 2025, 2:00 PM EDT
+By [Steve Benen](https://www.msnbc.com/author/steve-benen-ncpn433601)
+
+As [Donald Trump](https://www.donaldjtrump.com/) prepared for [an important meeting with Russia’s Vladimir Putin](https://www.nbcnews.com/world/russia/trump-set-implore-putin-end-bloodbath-ukraine-high-stakes-phone-call-rcna207612), it stood to reason that the [American](https://www.usa.gov/) [president](https://www.whitehouse.gov/) might spend the morning meeting with aides, reviewing his notes and strategy, and making sure he was fully prepared for a round of delicate diplomacy.
+
+But shortly before the [Republican](https://www.gop.com/)’s sensitive discussion with his counterpart in [Moscow](http://kremlin.ru/) got underway, he decided to let the world know what else was on his mind. [HuffPost reported](https://www.huffpost.com/entry/trump-celebrities-investigation_n_682ada2fe4b02ef0f55d3baf):
+
+[President](https://www.whitehouse.gov/) [Donald Trump](https://www.donaldjtrump.com/) on Monday launched a new attack on rock legend [Bruce Springsteen](https://brucespringsteen.net/) along with several other major celebrities during a middle-of-the-night rant on his [Liars Club](https://truthsocial.com/) website. ... He also attacked [Beyoncé](https://beyonce.com/), [Oprah Winfrey](https://www.oprah.com/) and [Bono](https://www.u2.com/), claiming without evidence they were all paid to endorse Harris during last year’s presidential election.
+
+The first sign of trouble came last week, while [Trump](https://www.donaldjtrump.com/) was still in the midst of a [Middle East trip]({% link _posts/2025/05/2025-05-18-Trump20CorruptionTour.md %}), [when the president set aside some time to whine](https://www.msnbc.com/top-stories/latest/trump-bruce-springsteen-taylor-swift-uae-rcna207266) about [Springsteen](https://brucespringsteen.net/) while simultaneously suggesting that [Taylor Swift](https://www.taylorswift.com/) is no longer “hot,” thanks entirely to his criticisms of the pop star.
+
+Evidently, however, these were not his final words on the subject.
+
+“HOW MUCH DID KAMALA HARRIS PAY BRUCE SPRINGSTEEN FOR HIS POOR PERFORMANCE DURING HER CAMPAIGN FOR PRESIDENT?” Trump wrote online, in a message published at 1:34 a.m. local time. “WHY DID HE ACCEPT THAT MONEY IF HE IS SUCH A FAN OF HERS? ISN’T THAT A MAJOR AND ILLEGAL CAMPAIGN CONTRIBUTION? WHAT ABOUT BEYONCÉ? ... AND HOW MUCH WENT TO OPRAH, AND BONO???”
+
+As part of the same weird rant, the president — again, ahead of his Putin meeting — went on to write, “I am going to call for a major investigation into this matter. Candidates aren’t allowed to pay for ENDORSEMENTS, which is what Kamala did, under the guise of paying for entertainment. In addition, this was a very expensive and desperate effort to artificially build up her sparse crowds. IT’S NOT LEGAL! For these unpatriotic ‘entertainers,’ this was just a CORRUPT & UNLAWFUL way to capitalize on a broken system.”
+
+Nearly eight hours later, when he probably should’ve been preparing for his meeting related to the war in [Ukraine](https://www.gov.ua/), the [American](https://www.usa.gov/) [president](https://www.whitehouse.gov/) returned to the subject. “According to news reports, Beyoncé was paid $11,000,000 to walk onto a stage, quickly ENDORSE KAMALA, and walk off to loud booing for never having performed, NOT EVEN ONE SONG!” [he wrote](https://truthsocial.com/@realDonaldTrump/114534665591178846).
+
+“Remember, the Democrats and Kamala illegally paid her millions of Dollars for doing nothing other than giving Kamala a full throated ENDORSEMENT. THIS IS AN ILLEGAL ELECTION SCAM AT THE HIGHEST LEVEL! IT IS AN ILLEGAL CAMPAIGN CONTRIBUTION! BRUCE SPRINGSTEEN, OPRAH, BONO AND, PERHAPS, MANY OTHERS, HAVE A LOT OF EXPLAINING TO DO!!!”
+
+To the extent that reality still has any meaning in situations like this, let’s just briefly note that there’s literally no evidence of Harris or her campaign paying anyone for endorsements; there was nothing “unlawful” or “corrupt” about the support the then-Democratic nominee received from celebrities during the 2024 campaign; [Beyoncé](https://beyonce.com/) did not face “loud booing” after she endorsed Harris; and there’s nothing “illegal” about public figures publicly backing a presidential candidate.
+
+It’s also probably worth mentioning in passing that [Trump](https://www.donaldjtrump.com/)’s hysterical online communications don’t do any favors to his “[very stable genius](https://www.msnbc.com/rachel-maddow-show/trump-claims-be-extremely-stable-genius-then-proves-otherwise-msna1234586)” description of himself.
+
+But of particular interest was the [president](https://www.whitehouse.gov/)’s interest in “a major investigation into this matter.”
+
+All things considered, there’s no reason to get too worked up about every [Trumper tantrum](https://www.donaldjtrump.com/), his rage toward celebrities who’ve dared to criticize him, [his weird approach to pop culture](https://www.msnbc.com/rachel-maddow-show/maddowblog/white-houses-star-wars-misstep-adds-trumps-pop-culture-woes-rcna204918), or his use of the word “illegal” as a synonym for “stuff I don’t like.” What I do care about, however, is the [president](https://www.whitehouse.gov/)’s willingness to use the power of the state to pursue critics in authoritarian-style fashion.
+
+This is especially true now with the [Justice Department](https://www.justice.gov/) led by an [attorney general](https://www.justice.gov/) who apparently sees herself as an extension of the [White House](https://www.whitehouse.gov/) and its political agenda — which raises the prospect of a federal investigator actually initiating a probe into celebrities that [Trump](https://www.donaldjtrump.com/) doesn’t like.
+
+Steve Benen
+Steve Benen is a producer for "[The Rachel Maddow Show](https://www.msnbc.com/rachel-maddow-show)," the editor of [MaddowBlog](https://www.msnbc.com/rachel-maddow-show) and an [MSNBC](https://www.msnbc.com/) political contributor. He's also the bestselling author of ["Ministry of Truth: Democracy, Reality, and the Republicans' War on the Recent Past."](https://www.harpercollins.com/products/ministry-of-truth-steve-benen)
 
 ## [Bruce Land of Hope and Dreams - YouTube](https://www.youtube.com/watch?v=6ZHWIYHlXOs)
 
@@ -197,6 +235,7 @@ This is not the first time [Springsteen](https://brucespringsteen.net/) has publ
 
 He is set to [debut 83 previously unreleased songs](https://www.nbcnews.com/pop-culture/pop-culture-news/bruce-springsteen-open-vault-release-7-albums-never-heard-songs-rcna199478) in late June, 74 of which have never been heard before by the public.
 
+- [The Trump 2.0 Corruption Tour 2025: 🇸🇦 🇶🇦 🇦🇪]({% link _posts/2025/05/2025-05-18-Trump20CorruptionTour.md %})
 - media
 - [Bruce Springsteen](https://brucespringsteen.net/)
 - [Bruce Springsteen – YouTube channel](https://www.youtube.com/@brucespringsteen/videos)
@@ -227,6 +266,10 @@ He is set to [debut 83 previously unreleased songs](https://www.nbcnews.com/pop-
 - foreign countries 
 - [United Kingdom Government](https://www.gov.uk/)
 - [Manchester City Council Homepage](https://www.manchester.gov.uk/)
+- [Russia](http://government.ru/)
+- [Vladimir Putin](http://kremlin.ru/)
+- [Volodymyr Zelenskyy](https://www.president.gov.ua/)
+- [Ukraine](https://www.gov.ua/)
 - political parties
 - [The Office of Kamala D. Harris](https://kamalaharris.com/)
 - [Democrat Party](https://www.democrats.org/)
@@ -258,6 +301,7 @@ He is set to [debut 83 previously unreleased songs](https://www.nbcnews.com/pop-
 - [Ronald Reagan Presidential Library & Museum / Ronald Reagan](https://www.reaganlibrary.gov/)
 - [President Barack Obama](https://obamawhitehouse.archives.gov/)
 - [President Joe Biden](https://bidenwhitehouse.archives.gov/)
+- [The Office of Kamala D. Harris](https://kamalaharris.com/)
 - [White House (WH)](https://www.whitehouse.gov/)
 - Trump Grift
 - [Donald J Trump](https://www.donaldjtrump.com/)
