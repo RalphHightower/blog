@@ -1,8 +1,8 @@
 ---
 layout: post
-tags: [media, Bruce Springsteen, Bruce Springsteen – YouTube channel, Land of Hope and Dreams / Bruce Springsteen, MSNBC, NBC News, HuffPost - Breaking News U.S. and World News / HuffPost, Rolling Stone, The Official Website of Taylor Swift, Eras Tour – Taylor Swift’s Self Titled Official Archive Site, companies, Elon Musk, Elon Musk, The Boring Company, Neuralink, SpaceX, Starlink, Tesla, Twitter, X, xAI, universities, foreign countries, United Kingdom Government, Manchester City Council Homepage, political parties, The Office of Kamala D. Harris, Democrat Party, Trump Party, States, The Official Web Site for The State of New Jersey, Federal Government, Constitution of the United States, Supreme Court of the United States (SCOTUS), US Courts, Federal Election Commission, Government Accountability Office (GAO), Department of State (DOS), US Agency for International Development (USAID), Office of Government Ethics (OGE), Department of Justice (DOJ), Securities and Exchange (SEC), Department of Treasury (Treasury), Department of Defense (DOD), Air Force, 379th Air Expeditionary Wing, Congress, Senate, House of Representatives, President of the United States (POTUS), President Barack Obama, President Joe Biden, White House (WH), Trump Grift, Donald J Trump, Department of Government Efficiency (DOGE), The Mar-a-Lago Club, $TRUMP, $MELANIA, President Donald Trump (45), President Donald Trump (47), President Trump Administration (47), Addressing Risks from Chris Krebs and Government Censorship – The White House. April 9 2025, Fact Sheet –  President Donald J. Trump Addresses Risks from Chris Krebs and Government Censorship – The White House. April 9 2025, Ending The Weaponization Of The Federal Government. Presidential Actions. January 20 2025, Restoring Freedom Of Speech And Ending Federal Censorship. Presidential Actions. January 20 2025, Additional Measures to Combat Anti-Semitism – The White House. January 29 2025, Fact Sheet –  President Donald J. Trump Takes Forceful and Unprecedented Steps to Combat Anti-Semitism – The White House. January 30 2025, Donald J. Trump Presidential Library, Trump Library Foundation, grift, politics, protest, music]
+tags: [media, Bruce Springsteen, Bruce Springsteen – YouTube channel, Land of Hope and Dreams / Bruce Springsteen, MSNBC, NBC News, HuffPost - Breaking News U.S. and World News / HuffPost, Rolling Stone, The Official Website of Taylor Swift, Eras Tour – Taylor Swift’s Self Titled Official Archive Site, The New Yorker, Esquire - Men’s Fashion Cocktails Politics Interviews and Women, Kid Rock, Ted Nugent, companies, American Federation of Musicians - Musicians standing together have the power. - Musicians standing together have the power., Elon Musk, Elon Musk, The Boring Company, Neuralink, SpaceX, Starlink, Tesla, Twitter, X, xAI, universities, foreign countries, United Kingdom Government, Manchester City Council Homepage, political parties, The Office of Kamala D. Harris, Democrat Party, Trump Party, States, The Official Web Site for The State of New Jersey, Federal Government, Constitution of the United States, Supreme Court of the United States (SCOTUS), US Courts, Federal Election Commission, Government Accountability Office (GAO), Department of State (DOS), US Agency for International Development (USAID), Office of Government Ethics (OGE), 2016 campaign, Department of Justice (DOJ), Securities and Exchange (SEC), Department of Treasury (Treasury), Joint Chiefs of Staff, Department of Defense (DOD), Air Force, 379th Air Expeditionary Wing, VC-25 - Air Force One > Air Force > Fact Sheet Display, Congress, Senate, House of Representatives, President of the United States (POTUS), Ronald Reagan Presidential Library & Museum / Ronald Reagan, President Barack Obama, President Joe Biden, White House (WH), Trump Grift, Donald J Trump, Department of Government Efficiency (DOGE), The Mar-a-Lago Club, $TRUMP, $MELANIA, President Donald Trump (45), President Donald Trump (47), President Trump Administration (47), Addressing Risks from Chris Krebs and Government Censorship – The White House. April 9 2025, Fact Sheet –  President Donald J. Trump Addresses Risks from Chris Krebs and Government Censorship – The White House. April 9 2025, Ending The Weaponization Of The Federal Government. Presidential Actions. January 20 2025, Restoring Freedom Of Speech And Ending Federal Censorship. Presidential Actions. January 20 2025, Additional Measures to Combat Anti-Semitism – The White House. January 29 2025, Fact Sheet –  President Donald J. Trump Takes Forceful and Unprecedented Steps to Combat Anti-Semitism – The White House. January 30 2025, Donald J. Trump Presidential Library, Trump Library Foundation, grift, politics, protest, music]
 categories: [Bruce Springsteen]
-date: 2025-05-16 5:07 PM
+date: 2025-05-18 9:57 AM
 excerpt: "There’s some very weird, strange and dangerous shit going on out there right now. In America, they are persecuting people for using their right to free speech and voicing their dissent. This is happening now. In America, the richest men are taking satisfaction in abandoning the world’s poorest children to sickness and death. This is happening now. In my country, they’re taking sadistic pleasure in the pain they inflict on loyal American workers. They’re rolling back historic civil rights legislation that has led to a more just and plural society. They are abandoning our great allies and siding with dictators against those struggling for their freedom. They are defunding American universities that won’t bow down to their ideological demands. They are removing residents off American streets and, without due process of law, are deporting them to foreign detention centers and prisons. This is all happening now. A majority of our elected representatives have failed to protect the American people from the abuses of an unfit president and a rogue government. They have no concern or idea for what it means to be deeply American. The America l’ve sung to you about for 50 years is real and regardless of its faults is a great country with a great people. So we’ll survive this moment. Now, I have hope, because I believe in the truth of what the great American writer James Baldwin said. He said, “In this world, there isn’t as much humanity as one would like, but there’s enough.” Let’s pray."
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
@@ -64,6 +64,63 @@ They are removing residents off American streets and, without due process of law
 A majority of our elected representatives have failed to protect the [American people](https://www.usa.gov/) from the abuses of an unfit president and a rogue government. They have no concern or idea for what it means to be [deeply American](https://www.usa.gov/).
 
 The [America](https://www.usa.gov/) l’ve sung to you about for 50 years is real and regardless of its faults is a great country with a great people. So we’ll survive this moment. Now, I have hope, because I believe in the truth of what the great American writer James Baldwin said. He said, “In this world, there isn’t as much humanity as one would like, but there’s enough.” Let’s pray.
+
+## [Trump post about Bruce Springsteen helps one person: The Boss](https://www.msnbc.com/opinion/msnbc-opinion/trump-post-bruce-springsteen-taylor-swift-gift-rcna207397)
+
+*This week's mini-feud pits two predictable septuagenarians against each other. And the result is a personal gift to the Boss.*
+
+May 17, 2025, 12:54 PM EDT / Updated May 17, 2025, 12:57 PM EDT
+By Jeff Slate
+[Bruce Springsteen](https://brucespringsteen.net/)’s European tour is scheduled to wrap in Milan the day before Independence Day. But the rock legend may not be feeling very welcome back home.
+
+[Springsteen has been sparring with President Donald Trump)(https://www.msnbc.com/top-stories/latest/trump-bruce-springsteen-taylor-swift-uae-rcna207266) over the past few days, with Trump](https://www.donaldjtrump.com/) escalating the war of words Friday morning. Sometimes entertaining and sometimes ominous, the mini-feud pits two septuagenarians against each other in the least surprising way possible. And while unlikely to move the needle in 2028, the fact that [Trump](https://www.donaldjtrump.com/) gave in to his boorish impulses is ultimately mostly just a personal gift to the Boss.
+
+It all started on Wednesday, during the first stop of [Springsteen](https://brucespringsteen.net/)’s “Land of Hope and Dreams” tour in Manchester, England. Fairly predictably, and with video and audio conveniently rolling, the Boss took aim at [Trump](https://www.donaldjtrump.com/) and his administration.
+
+“The [mighty E Street Band](https://brucespringsteen.net/) is here tonight to call upon the righteous power of art, of music, of rock ’n’ roll in dangerous times,” he said in the minute-long speech, to raucous cheers.
+
+“In my home, the [America](https://www.usa.gov/) I love, the [America](https://www.usa.gov/) I’ve written about, that has been a beacon of hope and liberty for 250 years, is currently in the hands of a corrupt, incompetent and treasonous administration,” he continued before asking fans to “raise your voices against authoritarianism and let freedom ring!”
+
+Later in the evening, [Springsteen](https://brucespringsteen.net/) offered a withering takedown of what he’s seen happening in the U.S. under [Trump](https://www.donaldjtrump.com/).
+
+“They are persecuting people for using their right to free speech and voicing their dissent,” [Springsteen](https://brucespringsteen.net/) began, in remarks that were later posted on his [website](https://brucespringsteen.net/news/2025/land-of-hope-and-dreams/) and [YouTube channel](https://www.youtube.com/@brucespringsteen/videos). He continued:
+
+> *"They’re rolling back historic Civil Rights legislation that led to a more just and plural society. They’re abandoning our great allies and siding with dictators against those struggling for their freedom. They’re defunding American universities that won’t bow down to their ideological demands. They’re removing residents off American streets and, without due process of law, are deporting them to foreign detention centers and prisons."*
+
+He also took aim at [Trump](https://www.donaldjtrump.com/)’s [fellow Republicans](https://www.gop.com%), as well as the [Democratic Party](https://www.democrats.org/), arguing that they had all failed to protect [Americans](https://www.usa.gov/) “from the abuses of an unfit president and a rogue government.”
+
+Still, he said, “The [America](https://www.usa.gov/) that I’ve sung to you about for 50 years is real, and regardless of its faults is a great country with a great people. So, we’ll survive this moment.”
+
+The [White House almost immediately responded](https://www.nbcnews.com/pop-culture/pop-culture-news/bruce-springsteen-opens-uk-tour-calling-trump-unfit-office-rcna207194), dismissing [Springsteen](https://brucespringsteen.net/) as “an elite and out-of-touch” celebrity: “Bruce is welcome to stay overseas while hardworking Americans enjoy a secure border and cooling inflation thanks to President [Trump](https://www.donaldjtrump.com/).”
+
+Then, Friday morning, apparently from [Air Force One](https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104588/vc-25-air-force-one/) on the way back from his Middle East trip, [Trump](https://www.donaldjtrump.com/) shot back via [social media](https://truthsocial.com/@realDonaldTrump](https://www.donaldjtrump.com/)/posts/114517896576879203).
+
+“I see that Highly Overrated Bruce [Springsteen](https://brucespringsteen.net/) goes to a Foreign Country to speak badly about the [President of the United States](https://www.whitehouse.gov/administration/donald-j-trump/),” [Trump](https://www.donaldjtrump.com/) wrote on [Liars Club](https://truthsocial.com/). “Never liked him, never liked his music, or his Radical Left Politics and, importantly, he’s not a talented guy — Just a pushy, obnoxious JERK, who fervently supported Crooked Joe Biden.”
+
+> *Calling [Springsteen](https://brucespringsteen.net/) dumb and perhaps visually impaired, [Trump](https://www.donaldjtrump.com/) ended on a personal note.*
+
+Calling [Springsteen](https://brucespringsteen.net/) dumb and perhaps visually impaired, [Trump](https://www.donaldjtrump.com/) ended on a personal note: “This dried out ‘prune’ of a rocker (his skin is all atrophied!) ought to KEEP HIS MOUTH SHUT until he gets back into the Country, that’s just ‘standard fare.’ Then we’ll all see how it goes for him!”
+
+Given the aggressive approach the [Trump](https://www.donaldjtrump.com/) [administration](https://www.whitehouse.gov/administration/) has taken over the past three months, the tone was a bit unsettling. Was it a direct warning or just an attempt to chill artistic speech more generally? Or both? ([The American Federation of Musicians of the United States and Canada](https://www.afm.org/) swiftly condemned [Trump](https://www.donaldjtrump.com/)’s remarks, noting, “Musicians have the right to freedom of expression.”)
+
+Of course, this is not the first time [Springsteen](https://brucespringsteen.net/) has publicly criticized [Trump](https://www.donaldjtrump.com/), [calling him](https://www.nbcnews.com/video/springsteen-on-trump-a-flagrant-toxic-narcissist-789170755918) “a flagrant toxic narcissist” during the [2016 campaign](https://www.fec.gov/resources/cms-content/documents/federalelections2020.pdf). And he regularly appears — especially during presidential campaigns — at major [Democratic Party](https://www.democrats.org/) events.
+
+The title track of [Springsteen](https://brucespringsteen.net/)’s 1984 album “Born in the U.S.A.,” which criticized the Vietnam War and the subsequent treatment of [American veterans](https://www.va.gov/), was embraced by [President](https://www.whitehouse.gov/) [Ronald Reagan](https://www.reaganlibrary.gov/) as a modern American anthem, even though its lyrics paint a far darker picture.
+
+[Springsteen](https://brucespringsteen.net/) is 75 now and not making new music of any real impact. His forthcoming release, “Tracks II: The Lost Albums,” the long-awaited follow-up to his “Tracks” box set of studio outtakes from 1998, includes seven unreleased albums, the bulk of which weren’t recorded in this century.
+
+Certainly he knew there was a good chance [Trump](https://www.donaldjtrump.com/) would react angrily. The pristine video posted to his website (and the transcript of his polemic) definitely telegraphed that. By taunting [Trump](https://www.donaldjtrump.com/) and getting him to punch down, [Springsteen](https://brucespringsteen.net/) gets to play the hero again to his legions of fans. It also gives him a jolt of cultural relevance — or at least a news cycle or two — at a good time.
+
+I want to believe that [Springsteen](https://brucespringsteen.net/)’s speech — which was cheered as a “must-watch” across my social media feed — was delivered for unselfish reasons. There’s certainly no doubt he meant every word of what he said. But that doesn’t mean it’s going to have much of a discernible impact.
+
+Within minutes of responding to [Springsteen](https://brucespringsteen.net/)’s comments, [Trump](https://www.donaldjtrump.com/) had weirdly, but perhaps not surprisingly, moved on to Taylor Swift.
+
+“Has anyone noticed that, since I said ‘I HATE TAYLOR SWIFT,’ she’s no longer ‘HOT?’” [Trump](https://www.donaldjtrump.com/) wrote, suggesting that his recent criticism of [Swift](https://www.taylorswift.com/) has made her less of a global phenom in recent months. Of course this is preposterous. [Swift](https://www.taylorswift.com/), [top-selling global artist of 2024](https://www.ifpi.org/taylor-swift-makes-music-history-as-ifpis-biggest-selling-global-recording-artist-of-the-year-for-the-fifth-time), isn’t performing much at the moment because she only just wrapped up her record-breaking “Eras Tour” in December.
+
+Could it be that [Trump](https://www.donaldjtrump.com/) was having second thoughts about taking [Springsteen](https://brucespringsteen.net/)’s bait? Maybe. But probably not.
+
+Jeff Slate
+Jeff Slate is a New York City-based songwriter and journalist. His writing can be found at [The New Yorker](https://www.newyorker.com/), [Esquire](https://www.esquire.com/), [The Wall Street Journal](https://www.wsj.com/) and [Rolling Stone](https://www.rollingstone.com/), among others. He tweets at @jeffslate.
 
 ### [Trump takes aim at Bruce Springsteen, Taylor Swift on Truth Social during UAE trip](https://www.msnbc.com/top-stories/latest/trump-bruce-springsteen-taylor-swift-uae-rcna207266)
 
@@ -150,7 +207,12 @@ He is set to [debut 83 previously unreleased songs](https://www.nbcnews.com/pop-
 - [Rolling Stone](https://www.rollingstone.com/)
 - [The Official Website of Taylor Swift](https://www.taylorswift.com/)
 - [Eras Tour – Taylor Swift’s Self Titled Official Archive Site](https://tserasarchive.taylorswift.com/selftitled)
+- [The New Yorker](https://www.newyorker.com/)
+- [Esquire - Men's Fashion, Cocktails, Politics, Interviews, and Women](https://www.esquire.com/)
+- [Kid Rock](http://kidrock.com/)
+- [Ted Nugent](https://www.tednugent.com/)
 - companies
+- [American Federation of Musicians - Musicians standing together have the power. - Musicians standing together have the power.](https://www.afm.org/)
 - [Elon Musk](https://ir.tesla.com/corporate/elon-musk)
 - [Elon Musk](https://x.com/elonmusk/)
 - [The Boring Company](https://www.boringcompany.com/)
@@ -180,16 +242,20 @@ He is set to [debut 83 previously unreleased songs](https://www.nbcnews.com/pop-
 - [Department of State (DOS)](https://www.state.gov/)
 - [US Agency for International Development (USAID)](https://www.usaid.gov/)
 - [Office of Government Ethics (OGE)](https://www.oge.gov/)
+- [2016 campaign](https://www.fec.gov/resources/cms-content/documents/federalelections2020.pdf)
 - [Department of Justice (DOJ)](https://www.justice.gov/)
 - [Securities and Exchange (SEC)](https://www.sec.gov/)
 - [Department of Treasury (Treasury)](https://home.treasury.gov/)
+- [Joint Chiefs of Staff](https://www.jcs.mil/)
 - [Department of Defense (DOD)](https://www.defense.gov/)
 - [Air Force](https://www.af.mil/)
 - [379th Air Expeditionary Wing](https://www.afcent.af.mil/Units/379th-Air-Expeditionary-Wing/)
+- [VC-25 - Air Force One > Air Force > Fact Sheet Display](https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104588/vc-25-air-force-one/)
 - [Congress](https;//www.congress.gov/)
 - [Senate](https://www.senate.gov/)
 - [House of Representatives](https://www.house.gov/)
 - [President of the United States (POTUS)](https://www.whitehouse.gov/)
+- [Ronald Reagan Presidential Library & Museum / Ronald Reagan](https://www.reaganlibrary.gov/)
 - [President Barack Obama](https://obamawhitehouse.archives.gov/)
 - [President Joe Biden](https://bidenwhitehouse.archives.gov/)
 - [White House (WH)](https://www.whitehouse.gov/)
