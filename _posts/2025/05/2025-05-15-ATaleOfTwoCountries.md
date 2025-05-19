@@ -2,7 +2,7 @@
 layout: post
 tags: [Charles Dickens, A Tale of Two Cities, MSNBC, The Rachel Maddow Show, Steve Benen, NBC News, Washington Dulles International Airport (IAD), International Criminal Court, Guthrie Graves-Fitzsimmons, AfghanEvac, Shawn VanDiver, Anglican Church of Southern Africa, Muhammad Tahir, Europe & Eurasia, Episcopal Church in the United States, All Saints’ Episcopal Church, Nontombi Naomi Tutu, Episcopal Migration Ministriesl, Global Refuge, Krish O’Mara Vignarajah, Interfaith Alliance, Desmond Tutu, U.N. Assistance Mission in Afghanistan (UNAMA), United States Conference of Catholic Bishops, European Union (EU), Afghanistan (AF), Bagram Airfield, Accueil - Gouvernement (CG), Iraq (IQ), Government of Pakistan (PK), e-Devlet Kapısı Devletin Kısayolu / www.türkiye.gov.tr (TR), Turkey (TR), LGovernment Portal of the Republic of China (TW), Ukraine (UA), South African Government (ZA), Afrikaners (ZA), City of Cambridge MA, Constitution of the United States, Department of State (DOS), Joint Chiefs of Staff (JCS), U.S. Central Command (CENTCOM), Congress, H.R.4627 - 118th Congress (2023-2024) –  Afghan Adjustment Act / Congress.gov / Library of Congress, Senate, House of Representatives, James Clyburn (D-SC6), President of the United States (POTUS), White House (WH), Donald J Trump, President Donald Trump (47), Vice President JD Vance, Pam Bondi, Christopher Landau, Troy Edgar, Reevaluating And Realigning United States Foreign Aid – The White House. January 20 2025, Realigning the United States Refugee Admissions Program – The White House. January 20 2025, Protecting The United States From Foreign Terrorists And Other National Security And Public Safety Threats – The White House. January 20 2025, refugees, politics]
 categories: [Donald Trump]
-date: 2025-05-17 4:19 PM
+date: 2025-05-18 8:38 PM
 excerpt: "“I commend the Episcopal Church for modeling integrity in the face of injustice after the Trump Admin favored white South Africans while suspending refugee resettlement for others.” 1 Corinthians 16:13: “Stand firm in the faith; be courageous; be strong.” It’s a memorable call on Christians to ground our obedience to Christ — and not to Trump. - Representative Jim Clyburn (D-SC6)"
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
@@ -15,6 +15,51 @@ title: "With Apologies To Charles Dickens: A Tale Of Two Countries"
 There were a king with a weak jaw, with orange hair, and a spray-on orange tan and a queen with a fair face with a vacant gaze with ice-cold blood, but surgically enhanced knockers, on the throne of the United States; There was a king with a large jaw and a queen with a fair face, on the throne of The Resistance; there was a king with a smirking mouth and a queen with a frozen gaze, presiding over the empire of exceptionalism. In both nations, the stewards of privilege and power—safeguarding their storerooms of favors and fortunes—declared, with unshaken certainty, that the hierarchy of human worth was inscribed for eternity..
 
 It was the year of Our Lord two thousand and twenty-five. Spiritual revelations were conceded to the wind, as were laws, at that dark period, as at this. Mrs. Southcott had recently attained her five-and-twentieth blessed birthday, of whom a prophetic private in the Life Guards had heralded the sublime appearance by announcing that arrangements were made for the swallowing up of Washington DC and California. Even the Cock-lane ghost had been laid only a round dozen of years, after rapping out its messages, as the spirits of this very year last past (supernaturally deficient in originality) rapped out theirs. Mere messages in the earthly order of events had lately come to the United States and The Resistance, from a congress of American subjects in America: which, strange to relate, have proved more important to the human race than any communications yet received through any of the chickens of the Cock-lane brood.
+
+## [Trump’s plan to deport Afghan refugees is a national disgrace](https://www.msnbc.com/opinion/msnbc-opinion/trump-ends-afghan-protections-afrikaners-rcna207127)
+
+*There’s no group more deserving of TPS than the Afghans who are now on the fast track to deportation.*
+
+May 16, 2025, 3:19 PM EDT
+By Matt Johnson, writer and journalist
+Earlier this month, the [United Nations](https://www.msnbc.com/opinion/msnbc-opinion/biden-afghanistan-withdrawal-trump-taliban-rcna187494) published its latest update on [human rights in Afghanistan](https://www.msnbc.com/opinion/msnbc-opinion/brave-afghans-911-trump-administration-deportation-rcna204229). Here are a [few of the findings](https://nebula.nbcnewstools.net/msnbc/content/edit/afghan-allies-deserve-better/207127): On Feb. 23, 18 people were flogged for “crimes” ranging from homosexuality to extramarital affairs. They then received sentences of between one and five years in prison. On March 3, “Propagation of Virtue and Prevention of Vice” agents made a surprise visit to a hospital and ordered staff not to attend women who weren’t accompanied by a male relative. Between Jan. 17 and Feb. 3, 50 men from the Ismaili community were abducted and interrogated on religious subjects. Those who refused to convert to Sunni Islam were beaten and threatened with death.
+
+This is [Afghanistan under Taliban rule](https://www.msnbc.com/ali-velshi/watch/under-taliban-rule-afghanistan-will-revert-back-to-the-4th-century-women-will-be-subhuman-118743109905) rule, and it is where the Trump administration plans to send [Afghans](https://moi.gov.af/) who are now living safely in the [United States](https://www.usa.gov/). 
+
+> *The order means that over 9,000 Afghans will be vulnerable to deportation.*
+
+The [Department of Homeland Security](https://www.dhs.gov/) recently published a news release stating that the [Temporary Protected Status (TPS)](https://www.uscis.gov/humanitarian/temporary-protected-status) for [Afghans](https://moi.gov.af/) in the [U.S.](https://www.usa.gov/) will expire on May 20 and be terminated on July 12. The order means that over 9,000 Afghans will be vulnerable to deportation. According to [DHS](https://www.dhs.gov/) [Secretary Kristi Noem](https://www.dhs.gov/person/kristi-noem): “[Afghanistan](https://moi.gov.af/) has had an improved security situation, and its stabilizing economy no longer prevent[s] them from returning to their home country.” 
+
+The per-capita gross domestic product in [Afghanistan](https://moi.gov.af/)’s “stabilizing” economy is [around \$415](https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=AF) — nearly 200 times lower than in the [United States](https://www.usa.gov/). 
+
+The [Afghan](https://moi.gov.af/) economy has only “stabilized” after a period of immense economic pain due to the suspension of foreign aid and sanctions on the financial sector following the Taliban's return to power. Billions of dollars in [Afghan](https://moi.gov.af/) central bank assets [remain frozen](https://www.voanews.com/a/taliban-decry-us-claims-about-frozen-afghan-assets/7959576.html), and the [United States](https://www.usa.gov/) doesn’t recognize the Taliban as the legitimate government. 
+
+“We’ve reviewed the conditions in [Afghanistan](https://moi.gov.af/) with our interagency partners,” [Noem](https://www.dhs.gov/person/kristi-noem) says, “and they do not meet the requirements for a [TPS](https://www.uscis.gov/humanitarian/temporary-protected-status) designation.” There’s no group more deserving of [TPS](https://www.uscis.gov/humanitarian/temporary-protected-status) than the [Afghans](https://moi.gov.af/) who are now on the fast track to deportation. The idea that “conditions in [Afghanistan](https://moi.gov.af/)” have improved so dramatically that the [United States](https://www.usa.gov/) has to send [Afghans](https://moi.gov.af/) back to one of the most impoverished and tyrannical countries on Earth — where they will instantly have targets on their backs for fleeing to [America](https://www.usa.gov/) — is worse than absurd. It will put thousands of people who sought refuge in the [United States](https://www.usa.gov/) in grave danger and condemn them to lives of fear and oppression. 
+
+Reprisal killings are a permanent feature of Taliban-controlled [Afghanistan](https://moi.gov.af/). Former Afghan National Security Forces (ANSF) and government officials were repeatedly targeted between Jan. 1 and March 31. The [United Nations Assistance Mission in Afghanistan](https://moi.gov.af/) documented 23 instances of arbitrary arrest and detention, as well as torture, abuse and killings of former ANSF members. The [CEO] of [AfghanEvac](https://afghanevac.org/) (which helps the U.S.’ [Afghan](https://moi.gov.af/) allies and other refugees relocate), Shawn VanDiver, [observes that the returning Afghans won’t be safe](https://www.militarytimes.com/news/your-military/2025/05/12/dhs-ends-deportation-protections-for-afghans/): “By nature of them having been in the [United States of America](https://www.usa.gov/) for the last three and a half years, they’re now in danger.”
+
+The entirety of the [Trump](https://www.whitehouse.gov/) [administration](https://www.whitehouse.gov/administration/)’s approach to [Afghan](https://moi.gov.af/) refugees has been a national disgrace.
+
+On the day [Trump](https://www.whitehouse.gov/) took office, he signed an [executive order](https://www.whitehouse.gov/presidential-actions/2025/01/realigning-the-united-states-refugee-admissions-program/) that suspended the [U.S. Refugee Admissions Program](https://www.uscis.gov/humanitarian/refugees-and-asylum/usrap), an order that prevented [Afghans](https://moi.gov.af/) from moving to [America](https://www.usa.gov/) — including those who were in the final stages of the arduous approval process. He [also rescinded funding](https://www.whitehouse.gov/presidential-actions/2025/01/reevaluating-and-realigning-united-states-foreign-aid/) for [Special Immigrant Visas](https://www.uscis.gov/working-in-the-united-states/special-immigrants), which [Afghan employees of the United States](https://www.usa.gov/) received. In February, [Military Times](https://www.militarytimes.com/) [reported on](https://www.militarytimes.com/news/your-military/2025/02/19/us-troops-afghan-allies-say-executive-orders-endanger-their-families/) “[U.S. service members](https://www.defense.gov/) whose families are stuck in [Afghanistan](https://moi.gov.af/),” and who have “shared stories of individuals being hunted — and in some cases murdered — prior to evacuating.”
+
+> *A former captain in the [Afghan](https://moi.gov.af/) National Army who worked with the [U.S. military](https://www.defense.gov/) says his mother, five brothers and three sisters all fear for their lives in [Afghanistan](https://moi.gov.af/). The Taliban shot his brother.*
+
+One of these soldiers, an [Afghan](https://moi.gov.af/) who immigrated to the U.S. and joined the [Army](https://www.army.gov/), said the [Trump](https://www.whitehouse.gov/) [administration](https://www.whitehouse.gov/administration/)’s order prevented his sister from escaping [Afghanistan](https://moi.gov.af/). Many of the soldier’s other family members have relocated to the [United States](https://www.usa.gov/), and two of his brothers also worked with the [U.S. military](https://www.defense.gov/) during the war — which puts his sister in even greater peril. 
+
+There are many similar stories — an [Afghan interpreter](https://moi.gov.af/) who worked with the [United States](https://www.usa.gov/) is concerned for his family’s safety. A former captain in the [Afghan](https://moi.gov.af/) National Army who worked with the [U.S. military](https://www.defense.gov/) says his mother, five brothers and three sisters all fear for their lives in [Afghanistan](https://moi.gov.af/). The Taliban shot his brother. 
+
+As the [Trump](https://www.whitehouse.gov/) [administration](https://www.whitehouse.gov/administration/) eliminates [TPS](https://www.uscis.gov/humanitarian/temporary-protected-status) for [Afghans](https://moi.gov.af/), it has enacted a policy to take in [white South Africans](https://www.gov.za/) who say they confront racial persecution. As [Afghans](https://moi.gov.af/) who face the possibility of torture and murder confront imminent deportation, [the images of refugees](https://www.politico.com/news/2025/05/12/trump-afrikaners-refugees-immigration-00342029) from [South Africa](https://www.gov.za/) arriving in the [United States](https://www.usa.gov/) make for a striking contrast. [Deputy Secretary of State](https://www.state.gov/) [Christopher Landau](https://www.state.gov/deputy-secretary-of-state/) went to [Dulles Airport](https://www.flydulles.com/) and [told the new arrivals](https://www.nbcwashington.com/news/local/white-south-africans-land-at-dulles-as-trump-proposes-refugee-status-for-group/3911988/): “I want you all to know that you are really welcome here.” They were flown in on a plane chartered by the [State Department](https://www.state.gov/). 
+
+This is the height of cynicism. It isn’t just the conspicuous exception for a group that happens to be white, and whose situation is an obsession of [Trump](https://www.whitehouse.gov/)’s biggest financial backer — [Elon Musk](https://ir.tesla.com/corporate/elon-musk), who is originally from [South Africa](https://www.gov.za/) and has claimed that a “genocide” is being perpetrated against [Afrikaners](https://www.gov.za/). It’s the vast discrepancy in how the [Afrikaners](https://www.gov.za/) have been treated compared to all other groups of immigrants — while the [Trump](https://www.whitehouse.gov/) [administration](https://www.whitehouse.gov/administration/) is sending [Afghans](https://moi.gov.af/) back to a country where they could be killed, the [administration](https://www.whitehouse.gov/administration/) doesn’t even ask its preferred immigrants to fly commercial. 
+
+The [administration](https://www.whitehouse.gov/administration/) is daring critics to attack the U.S. flag-waving [South African families](https://www.gov.za/) who by all indications came to [America](https://www.usa.gov/) for the same reason as so many others — to seek a better life. Those families should be embraced just like any other group of new [Americans](https://www.usa.gov/). But this doesn’t change the fact that the [Afrikaners](https://www.gov.za/) are being used as political props. [Sen.](https://www.senate.gov/) [Mike Lee (T-UT)](https://www.lee.senate.gov/), [posted a video of the new arrivals](https://x.com/BasedMikeLee/status/1922076519750365366) waving flags and said: “Take note: They’re flying *our* flag.” 
+
+What’s his point? Every [U.S. naturalization ceremony](https://www.uscis.gov/citizenship) — for new citizens from around the world — is a [sea of American flags](https://www.nps.gov/media/photo/gallery.htm?id=E479F7E6-8F7A-4CBB-BE0D-33D85FE83894). Meanwhile, [Afghans](https://moi.gov.af/) who served in or with the [U.S. military](https://www.defense.gov/) are desperately struggling to get their families to safety in the [United States](https://www.usa.gov/). 
+
+[Americans](https://www.usa.gov/) owe a special debt to our [Afghan partners](https://moi.gov.af/), who served honorably in and alongside our [armed forces](https://www.usa.gov/) and trusted the [United States](https://www.usa.gov/) to stand by them instead of abandoning their country to the Taliban. The [Trump](https://www.whitehouse.gov/) [administration](https://www.whitehouse.gov/administration/)’s decision to betray the [Afghans](https://moi.gov.af/) who thought they were safe on [American soil](https://www.usa.gov/) is an act of supreme cruelty and callousness. Our [Afghan friends](https://moi.gov.af/) don’t deserve a one-way ticket back to the theocracy they left behind — they deserve to be [Americans](https://www.usa.gov/).
+
+Matt Johnson
+Matt Johnson writes for [Haaretz](https://www.haaretz.com/), [The Bulwark](https://www.thebulwark.com/), [The Daily Beast](https://www.thedailybeast.com/) and many other outlets. He's the author of ["How Hitchens Can Save the Left: Rediscovering Fearless Liberalism in an Age of Counter-Enlightenment."](https://www.amazon.com/Hitchens-Save-Left-Rediscovering-Counter-Enlightenment/dp/1634312341)
 
 ## [Trump’s claim that Afrikaners are fleeing genocide in South Africa is an outrageous lie](https://www.msnbc.com/opinion/msnbc-opinion/trump-afrikaners-apartheid-refugees-genocide-rcna206660)
 
@@ -167,7 +212,7 @@ Murtaza and Ahmad survived countless attacks — but [more than 241,000 others d
 
 That loyalty was shattered on Aug. 15, 2021, when the Taliban seized Kabul and [U.S. forces withdrew in chaos](https://www.msnbc.com/opinion/biden-s-afghanistan-withdrawal-timeline-reveals-risky-obsession-deadlines-n1278057), leaving thousands of allies behind. Branded as traitors, many [Afghan](https://moi.gov.af/) partners went into hiding before eventually making it to third countries — holding on to the promise of U.S. resettlement.
 
-Murtaza, like thousands of others, has spent three and a half years stranded in a third country. His [special immigrant visa](https://www.nbcnews.com/news/world/small-fraction-america-s-afghan-allies-made-it-out-afghanistan-n1278141) (SIV) — once a lifeline to safety in the U.S. — remains stalled, and the [State Department’s recent decision](https://www.nbcnews.com/politics/immigration/trumps-suspension-refugee-program-puts-afghans-others-potential-danger-rcna188744) to suspend the refugee admissions program has indefinitely blocked his path.
+Murtaza, like thousands of others, has spent three and a half years stranded in a third country. His [special immigrant visa](https://www.nbcnews.com/news/world/small-fraction-america-s-afghan-allies-made-it-out-afghanistan-n1278141) [(SIV)]() — once a lifeline to safety in the U.S. — remains stalled, and the [State Department’s recent decision](https://www.nbcnews.com/politics/immigration/trumps-suspension-refugee-program-puts-afghans-others-potential-danger-rcna188744) to suspend the refugee admissions program has indefinitely blocked his path.
 
 That decision now leaves him — and thousands like him — facing imminent deportation, as their stay in their host countries was based on the promise that they’d eventually resettle in the U.S.
 
@@ -225,7 +270,11 @@ Because if we fail them now, we’re not just abandoning Ahmad, Murtaza and thou
 - [The New York Times (NYT)](https://www.nytimes.com/)
 - [The Washington Post](https://www.washingtonpost.com/)
 - [NPR](https://www.npr.org/)
-- [Radio Free Europe/Radio Liberty (RFE/RL)](https://www.rferl.org/)
+- [Military Times - Independent News About Your Military / Military Times](https://www.militarytimes.com/)
+- [Haaretz / Israel News, the Middle East and the Jewish World - Haaretz.com](https://www.haaretz.com/)
+- [The Bulwark / Substack](https://www.thebulwark.com/)
+- [The Daily Beast: The Latest in Politics, Media & Entertainment News](https://www.thedailybeast.com/)
+- [How Hitchens Can Save the Left: Rediscovering Fearless Liberalism in an Age of Counter-Enlightenment: Johnson, Matt: 9781634312349: Amazon.com: Books](https://www.amazon.com/Hitchens-Save-Left-Rediscovering-Counter-Enlightenment/dp/1634312341)
 - [Ihlas News Agency](https://iha.news/)
 - [HarperCollins](https://www.harpercollins.com/)
 - [“Ministry of Truth: Democracy, Reality, and the Republicans’ War on the Recent Past.”](https://www.harpercollins.com/products/ministry-of-truth-steve-benen)
@@ -303,12 +352,21 @@ Because if we fail them now, we’re not just abandoning Ahmad, Murtaza and thou
 - [Department of State (DOS)](https://www.state.gov/)
 - [Joint Chiefs of Staff (JCS)](https://www.jcs.mil/)
 - [U.S. Central Command (CENTCOM)](https://www.centcom.mil/)
+- [U.S. Citizenship and Immigration Services](http://www.uscis.gov/)
+- [Citizenship Resource Center / USCIS](https://www.uscis.gov/citizenship)
+- [Special Immigrants Visas (SIV) / USCIS](https://www.uscis.gov/working-in-the-united-states/special-immigrants)
+- [Temporary Protected Status / USCIS](https://www.uscis.gov/humanitarian/temporary-protected-status)
+- [DHS Terminating Temporary Protected Status for Afghanistan / USCIS](https://www.uscis.gov/newsroom/news-releases/dhs-terminating-temporary-protected-status-for-afghanistan)
+- [The United States Refugee Admissions Program (USRAP) Consultation and Worldwide Processing Priorities / USCIS](https://www.uscis.gov/humanitarian/refugees-and-asylum/usrap)
+- [Refugee Admissions - United States Department of State](https://2021-2025.state.gov/refugee-admissions/)
 - [Congress](https://www.congress.gov/)
 - [H.R.4627 - 118th Congress (2023-2024): Afghan Adjustment Act / Congress.gov / Library of Congress](https://www.congress.gov/bill/118th-congress/house-bill/4627/text)
 - [Senate](https://www.senate.gov/)
+- [Mike Lee (T-UT)](https://www.lee.senate.gov/)- [Radio Free Europe/Radio Liberty (RFE/RL)](https://www.rferl.org/)
 - [House of Representatives](https://www.house.gov/)
 - [James Clyburn (D-SC6)](https://clyburn.house.gov/)
 - [Democratic Faith Working Group (DFWG) - Congressman James E. Clyburn](https://clyburn.house.gov/democratic-faith-working-group-dfwg/)
+- [Department of Homeland Security (DHS)](https://www.dhs.gov/)
 - [President of the United States (POTUS)](https://www.whitehouse.gov/)
 - [White House (WH)](https://www.whitehouse.gov/)
 - [Donald J Trump](https://www.donaldjtrump.com/)
@@ -316,6 +374,7 @@ Because if we fail them now, we’re not just abandoning Ahmad, Murtaza and thou
 - [President Donald Trump (47)](https://www.whitehouse.gov/)
 - [Vice President JD Vance](https://www.whitehouse.gov/administration/jd-vance/)
 - [JD Vance](https://www.linkedin.com/in/jd-vance-770a9047/)
+- [Kristi Noem / Homeland Security](https://www.dhs.gov/person/kristi-noem)
 - [Pam Bondi](https://www.justice.gov/ag/staff-profile/meet-attorney-general)
 - [Christopher Landau – Deputy Secretary of State - United States Department of State](https://www.state.gov/deputy-secretary-of-state/)
 - [Troy Edgar / Homeland Security - Deputy Secretary](https://www.dhs.gov/person/troy-edgar)
@@ -324,4 +383,3 @@ Because if we fail them now, we’re not just abandoning Ahmad, Murtaza and thou
 - [Protecting The United States From Foreign Terrorists And Other National Security And Public Safety Threats – The White House](https://www.whitehouse.gov/presidential-actions/2025/01/protecting-the-united-states-from-foreign-terrorists-and-othernational-security-and-public-safety-threats/). January 20, 2025
 - refugees
 - politics
-’
