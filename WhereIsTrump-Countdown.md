@@ -15,10 +15,12 @@ If it's the weekend, America's Golfer-in-Chief, [Trump](https://www.donaldjtrump
 {% assign timestamp = 'now' | date: "%F %r%:z %Z" %}
 Current Date/Time: {{ timestamp }}
 
-[Refresh page]({% link WhereIsTrump-Countdown.md %})
-
 ## Days Into / Terminal Count Down 
 
+now: {{ 'now' }}
+
+today: {{ 'today' }}
+ 
 {% assign today_noon = 'now' | date: '%Y-%m-%d 12:00 PM' | date: '%s' %}
 {% assign secs_inauguration2025 = '2025-01-19 12:00 PM' | date: '%s' %}
 {% assign secs_inauguration2029 = '2029-01-21 12:00 PM' | date: '%s' %}
