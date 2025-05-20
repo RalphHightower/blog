@@ -12,15 +12,15 @@ title: "Where Is Trump? 🔥DC? FL⛳️?"
 
 If it's the weekend, America's Golfer-in-Chief, [Trump](https://www.donaldjtrump.com/) is busy grifting America, playing golf at his [Mar-a-Lago Golf Resort](https://www.maralagoclub.com/)
 
-{% assign dt_now = 'now' | date: "%F %r%:z %Z" %}
+{% assign dt_now = now | date: "%F %r%:z %Z" %}
 Current Date/Time: {{ dt_now }}
-{% assign dt_today = 'today' | date: "%F %r%:z %Z" %}
+{% assign dt_today = today | date: "%F %r%:z %Z" %}
 today: {{  dt_today }}
 
 ## Days Into / Terminal Count Down 
 
  
-{% assign today_noon = 'now' | date: '%Y-%m-%d 12:00 PM' | date: '%s' %}
+{% assign today_noon = now | date: '%Y-%m-%d 12:00 PM' | date: '%s' %}
 {% assign secs_inauguration2025 = '2025-01-19 12:00 PM' | date: '%s' %}
 {% assign secs_inauguration2029 = '2029-01-21 12:00 PM' | date: '%s' %}
 
@@ -69,8 +69,8 @@ Days remaining: {{ days_remaining }} Percent remaining: {{ pctdays_remaining }}%
 
 ## Where Is Trump?
 
-{% assign today = 'now' %}
-{% assign day = 'now' | date: '%A' %}
+{% assign today = now %}
+{% assign day = now | date: '%A' %}
 Today is: {{ day }}.
 {% case day %}
     {% when "Friday", "Saturday", "Sunday" %}
