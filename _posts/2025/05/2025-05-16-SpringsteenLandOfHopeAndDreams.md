@@ -12,44 +12,6 @@ title: "Bruce Springsteen: “Raise Your Voices Against Authoritarianism and Let
 
 [Trump](https://www.donaldjtrump.com/) still has washed-up [Kid Rock](http://kidrock.com/) and [Ted Nugent](https://www.tednugent.com/). 
 
-## [Trump wants investigations into Springsteen, Beyoncé, Oprah and Bono](https://www.msnbc.com/rachel-maddow-show/maddowblog/trump-wants-investigations-springsteen-beyonce-oprah-bono-rcna207723)
-
-*The [president](https://www.whitehouse.gov/)’s ire toward celebrity critics might seem trivial, but his willingness to use the power of the state to attack his critics matters.*
-
-May 19, 2025, 12:40 PM EDT / Updated May 19, 2025, 2:00 PM EDT
-By [Steve Benen](https://www.msnbc.com/author/steve-benen-ncpn433601)
-
-As [Donald Trump](https://www.donaldjtrump.com/) prepared for [an important meeting with Russia’s Vladimir Putin](https://www.nbcnews.com/world/russia/trump-set-implore-putin-end-bloodbath-ukraine-high-stakes-phone-call-rcna207612), it stood to reason that the [American](https://www.usa.gov/) [president](https://www.whitehouse.gov/) might spend the morning meeting with aides, reviewing his notes and strategy, and making sure he was fully prepared for a round of delicate diplomacy.
-
-But shortly before the [Republican](https://www.gop.com/)’s sensitive discussion with his counterpart in [Moscow](http://kremlin.ru/) got underway, he decided to let the world know what else was on his mind. [HuffPost reported](https://www.huffpost.com/entry/trump-celebrities-investigation_n_682ada2fe4b02ef0f55d3baf):
-
-[President](https://www.whitehouse.gov/) [Donald Trump](https://www.donaldjtrump.com/) on Monday launched a new attack on rock legend [Bruce Springsteen](https://brucespringsteen.net/) along with several other major celebrities during a middle-of-the-night rant on his [Liars Club](https://truthsocial.com/) website. ... He also attacked [Beyoncé](https://beyonce.com/), [Oprah Winfrey](https://www.oprah.com/) and [Bono](https://www.u2.com/), claiming without evidence they were all paid to endorse Harris during last year’s presidential election.
-
-The first sign of trouble came last week, while [Trump](https://www.donaldjtrump.com/) was still in the midst of a [Middle East trip]({% link _posts/2025/05/2025-05-18-Trump20CorruptionTour.md %}), [when the president set aside some time to whine](https://www.msnbc.com/top-stories/latest/trump-bruce-springsteen-taylor-swift-uae-rcna207266) about [Springsteen](https://brucespringsteen.net/) while simultaneously suggesting that [Taylor Swift](https://www.taylorswift.com/) is no longer “hot,” thanks entirely to his criticisms of the pop star.
-
-Evidently, however, these were not his final words on the subject.
-
-“HOW MUCH DID KAMALA HARRIS PAY BRUCE SPRINGSTEEN FOR HIS POOR PERFORMANCE DURING HER CAMPAIGN FOR PRESIDENT?” Trump wrote online, in a message published at 1:34 a.m. local time. “WHY DID HE ACCEPT THAT MONEY IF HE IS SUCH A FAN OF HERS? ISN’T THAT A MAJOR AND ILLEGAL CAMPAIGN CONTRIBUTION? WHAT ABOUT BEYONCÉ? ... AND HOW MUCH WENT TO OPRAH, AND BONO???”
-
-As part of the same weird rant, the president — again, ahead of his Putin meeting — went on to write, “I am going to call for a major investigation into this matter. Candidates aren’t allowed to pay for ENDORSEMENTS, which is what Kamala did, under the guise of paying for entertainment. In addition, this was a very expensive and desperate effort to artificially build up her sparse crowds. IT’S NOT LEGAL! For these unpatriotic ‘entertainers,’ this was just a CORRUPT & UNLAWFUL way to capitalize on a broken system.”
-
-Nearly eight hours later, when he probably should’ve been preparing for his meeting related to the war in [Ukraine](https://www.gov.ua/), the [American](https://www.usa.gov/) [president](https://www.whitehouse.gov/) returned to the subject. “According to news reports, Beyoncé was paid $11,000,000 to walk onto a stage, quickly ENDORSE KAMALA, and walk off to loud booing for never having performed, NOT EVEN ONE SONG!” [he wrote](https://truthsocial.com/@realDonaldTrump/114534665591178846).
-
-“Remember, the Democrats and Kamala illegally paid her millions of Dollars for doing nothing other than giving Kamala a full throated ENDORSEMENT. THIS IS AN ILLEGAL ELECTION SCAM AT THE HIGHEST LEVEL! IT IS AN ILLEGAL CAMPAIGN CONTRIBUTION! BRUCE SPRINGSTEEN, OPRAH, BONO AND, PERHAPS, MANY OTHERS, HAVE A LOT OF EXPLAINING TO DO!!!”
-
-To the extent that reality still has any meaning in situations like this, let’s just briefly note that there’s literally no evidence of Harris or her campaign paying anyone for endorsements; there was nothing “unlawful” or “corrupt” about the support the then-Democratic nominee received from celebrities during the 2024 campaign; [Beyoncé](https://beyonce.com/) did not face “loud booing” after she endorsed Harris; and there’s nothing “illegal” about public figures publicly backing a presidential candidate.
-
-It’s also probably worth mentioning in passing that [Trump](https://www.donaldjtrump.com/)’s hysterical online communications don’t do any favors to his “[very stable genius](https://www.msnbc.com/rachel-maddow-show/trump-claims-be-extremely-stable-genius-then-proves-otherwise-msna1234586)” description of himself.
-
-But of particular interest was the [president](https://www.whitehouse.gov/)’s interest in “a major investigation into this matter.”
-
-All things considered, there’s no reason to get too worked up about every [Trumper tantrum](https://www.donaldjtrump.com/), his rage toward celebrities who’ve dared to criticize him, [his weird approach to pop culture](https://www.msnbc.com/rachel-maddow-show/maddowblog/white-houses-star-wars-misstep-adds-trumps-pop-culture-woes-rcna204918), or his use of the word “illegal” as a synonym for “stuff I don’t like.” What I do care about, however, is the [president](https://www.whitehouse.gov/)’s willingness to use the power of the state to pursue critics in authoritarian-style fashion.
-
-This is especially true now with the [Justice Department](https://www.justice.gov/) led by an [attorney general](https://www.justice.gov/) who apparently sees herself as an extension of the [White House](https://www.whitehouse.gov/) and its political agenda — which raises the prospect of a federal investigator actually initiating a probe into celebrities that [Trump](https://www.donaldjtrump.com/) doesn’t like.
-
-Steve Benen
-Steve Benen is a producer for "[The Rachel Maddow Show](https://www.msnbc.com/rachel-maddow-show)," the editor of [MaddowBlog](https://www.msnbc.com/rachel-maddow-show) and an [MSNBC](https://www.msnbc.com/) political contributor. He's also the bestselling author of ["Ministry of Truth: Democracy, Reality, and the Republicans' War on the Recent Past."](https://www.harpercollins.com/products/ministry-of-truth-steve-benen)
-
 ## [Bruce Land of Hope and Dreams - YouTube](https://www.youtube.com/watch?v=6ZHWIYHlXOs)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6ZHWIYHlXOs?si=9PdGvsBOfxR0yZnj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -103,7 +65,47 @@ A majority of our elected representatives have failed to protect the [American p
 
 The [America](https://www.usa.gov/) l’ve sung to you about for 50 years is real and regardless of its faults is a great country with a great people. So we’ll survive this moment. Now, I have hope, because I believe in the truth of what the great American writer James Baldwin said. He said, “In this world, there isn’t as much humanity as one would like, but there’s enough.” Let’s pray.
 
-## [Trump post about Bruce Springsteen helps one person: The Boss](https://www.msnbc.com/opinion/msnbc-opinion/trump-post-bruce-springsteen-taylor-swift-gift-rcna207397)
+## [The Boss](https://brucespringsteen.net/) Versus [TACO – Trump Always Chickens Out](https://www.donaldjtrump.com/)
+
+### [Trump wants investigations into Springsteen, Beyoncé, Oprah and Bono](https://www.msnbc.com/rachel-maddow-show/maddowblog/trump-wants-investigations-springsteen-beyonce-oprah-bono-rcna207723)
+
+*The [president](https://www.whitehouse.gov/)’s ire toward celebrity critics might seem trivial, but his willingness to use the power of the state to attack his critics matters.*
+
+May 19, 2025, 12:40 PM EDT / Updated May 19, 2025, 2:00 PM EDT
+By [Steve Benen](https://www.msnbc.com/author/steve-benen-ncpn433601)
+
+As [Donald Trump](https://www.donaldjtrump.com/) prepared for [an important meeting with Russia’s Vladimir Putin](https://www.nbcnews.com/world/russia/trump-set-implore-putin-end-bloodbath-ukraine-high-stakes-phone-call-rcna207612), it stood to reason that the [American](https://www.usa.gov/) [president](https://www.whitehouse.gov/) might spend the morning meeting with aides, reviewing his notes and strategy, and making sure he was fully prepared for a round of delicate diplomacy.
+
+But shortly before the [Republican](https://www.gop.com/)’s sensitive discussion with his counterpart in [Moscow](http://kremlin.ru/) got underway, he decided to let the world know what else was on his mind. [HuffPost reported](https://www.huffpost.com/entry/trump-celebrities-investigation_n_682ada2fe4b02ef0f55d3baf):
+
+[President](https://www.whitehouse.gov/) [Donald Trump](https://www.donaldjtrump.com/) on Monday launched a new attack on rock legend [Bruce Springsteen](https://brucespringsteen.net/) along with several other major celebrities during a middle-of-the-night rant on his [Liars Club](https://truthsocial.com/) website. ... He also attacked [Beyoncé](https://beyonce.com/), [Oprah Winfrey](https://www.oprah.com/) and [Bono](https://www.u2.com/), claiming without evidence they were all paid to endorse Harris during last year’s presidential election.
+
+The first sign of trouble came last week, while [Trump](https://www.donaldjtrump.com/) was still in the midst of a [Middle East trip]({% link _posts/2025/05/2025-05-18-Trump20CorruptionTour.md %}), [when the president set aside some time to whine](https://www.msnbc.com/top-stories/latest/trump-bruce-springsteen-taylor-swift-uae-rcna207266) about [Springsteen](https://brucespringsteen.net/) while simultaneously suggesting that [Taylor Swift](https://www.taylorswift.com/) is no longer “hot,” thanks entirely to his criticisms of the pop star.
+
+Evidently, however, these were not his final words on the subject.
+
+“HOW MUCH DID KAMALA HARRIS PAY BRUCE SPRINGSTEEN FOR HIS POOR PERFORMANCE DURING HER CAMPAIGN FOR PRESIDENT?” Trump wrote online, in a message published at 1:34 a.m. local time. “WHY DID HE ACCEPT THAT MONEY IF HE IS SUCH A FAN OF HERS? ISN’T THAT A MAJOR AND ILLEGAL CAMPAIGN CONTRIBUTION? WHAT ABOUT BEYONCÉ? ... AND HOW MUCH WENT TO OPRAH, AND BONO???”
+
+As part of the same weird rant, the president — again, ahead of his Putin meeting — went on to write, “I am going to call for a major investigation into this matter. Candidates aren’t allowed to pay for ENDORSEMENTS, which is what Kamala did, under the guise of paying for entertainment. In addition, this was a very expensive and desperate effort to artificially build up her sparse crowds. IT’S NOT LEGAL! For these unpatriotic ‘entertainers,’ this was just a CORRUPT & UNLAWFUL way to capitalize on a broken system.”
+
+Nearly eight hours later, when he probably should’ve been preparing for his meeting related to the war in [Ukraine](https://www.gov.ua/), the [American](https://www.usa.gov/) [president](https://www.whitehouse.gov/) returned to the subject. “According to news reports, Beyoncé was paid $11,000,000 to walk onto a stage, quickly ENDORSE KAMALA, and walk off to loud booing for never having performed, NOT EVEN ONE SONG!” [he wrote](https://truthsocial.com/@realDonaldTrump/114534665591178846).
+
+“Remember, the Democrats and Kamala illegally paid her millions of Dollars for doing nothing other than giving Kamala a full throated ENDORSEMENT. THIS IS AN ILLEGAL ELECTION SCAM AT THE HIGHEST LEVEL! IT IS AN ILLEGAL CAMPAIGN CONTRIBUTION! BRUCE SPRINGSTEEN, OPRAH, BONO AND, PERHAPS, MANY OTHERS, HAVE A LOT OF EXPLAINING TO DO!!!”
+
+To the extent that reality still has any meaning in situations like this, let’s just briefly note that there’s literally no evidence of Harris or her campaign paying anyone for endorsements; there was nothing “unlawful” or “corrupt” about the support the then-Democratic nominee received from celebrities during the 2024 campaign; [Beyoncé](https://beyonce.com/) did not face “loud booing” after she endorsed Harris; and there’s nothing “illegal” about public figures publicly backing a presidential candidate.
+
+It’s also probably worth mentioning in passing that [Trump](https://www.donaldjtrump.com/)’s hysterical online communications don’t do any favors to his “[very stable genius](https://www.msnbc.com/rachel-maddow-show/trump-claims-be-extremely-stable-genius-then-proves-otherwise-msna1234586)” description of himself.
+
+But of particular interest was the [president](https://www.whitehouse.gov/)’s interest in “a major investigation into this matter.”
+
+All things considered, there’s no reason to get too worked up about every [Trumper tantrum](https://www.donaldjtrump.com/), his rage toward celebrities who’ve dared to criticize him, [his weird approach to pop culture](https://www.msnbc.com/rachel-maddow-show/maddowblog/white-houses-star-wars-misstep-adds-trumps-pop-culture-woes-rcna204918), or his use of the word “illegal” as a synonym for “stuff I don’t like.” What I do care about, however, is the [president](https://www.whitehouse.gov/)’s willingness to use the power of the state to pursue critics in authoritarian-style fashion.
+
+This is especially true now with the [Justice Department](https://www.justice.gov/) led by an [attorney general](https://www.justice.gov/) who apparently sees herself as an extension of the [White House](https://www.whitehouse.gov/) and its political agenda — which raises the prospect of a federal investigator actually initiating a probe into celebrities that [Trump](https://www.donaldjtrump.com/) doesn’t like.
+
+Steve Benen
+Steve Benen is a producer for "[The Rachel Maddow Show](https://www.msnbc.com/rachel-maddow-show)," the editor of [MaddowBlog](https://www.msnbc.com/rachel-maddow-show) and an [MSNBC](https://www.msnbc.com/) political contributor. He's also the bestselling author of ["Ministry of Truth: Democracy, Reality, and the Republicans' War on the Recent Past."](https://www.harpercollins.com/products/ministry-of-truth-steve-benen)
+
+### [Trump post about Bruce Springsteen helps one person: The Boss](https://www.msnbc.com/opinion/msnbc-opinion/trump-post-bruce-springsteen-taylor-swift-gift-rcna207397)
 
 *This week's mini-feud pits two predictable septuagenarians against each other. And the result is a personal gift to the Boss.*
 
@@ -111,7 +113,7 @@ May 17, 2025, 12:54 PM EDT / Updated May 17, 2025, 12:57 PM EDT
 By Jeff Slate
 [Bruce Springsteen](https://brucespringsteen.net/)’s European tour is scheduled to wrap in Milan the day before Independence Day. But the rock legend may not be feeling very welcome back home.
 
-[Springsteen has been sparring with President Donald Trump)(https://www.msnbc.com/top-stories/latest/trump-bruce-springsteen-taylor-swift-uae-rcna207266) over the past few days, with Trump](https://www.donaldjtrump.com/) escalating the war of words Friday morning. Sometimes entertaining and sometimes ominous, the mini-feud pits two septuagenarians against each other in the least surprising way possible. And while unlikely to move the needle in 2028, the fact that [Trump](https://www.donaldjtrump.com/) gave in to his boorish impulses is ultimately mostly just a personal gift to the Boss.
+[Springsteen has been sparring with President Donald Trump](https://www.msnbc.com/top-stories/latest/trump-bruce-springsteen-taylor-swift-uae-rcna207266) over the past few days, with [Trump](https://www.donaldjtrump.com/) escalating the war of words Friday morning. Sometimes entertaining and sometimes ominous, the mini-feud pits two septuagenarians against each other in the least surprising way possible. And while unlikely to move the needle in 2028, the fact that [Trump](https://www.donaldjtrump.com/) gave in to his boorish impulses is ultimately mostly just a personal gift to the Boss.
 
 It all started on Wednesday, during the first stop of [Springsteen](https://brucespringsteen.net/)’s “Land of Hope and Dreams” tour in Manchester, England. Fairly predictably, and with video and audio conveniently rolling, the Boss took aim at [Trump](https://www.donaldjtrump.com/) and his administration.
 
@@ -160,7 +162,7 @@ Could it be that [Trump](https://www.donaldjtrump.com/) was having second though
 Jeff Slate
 Jeff Slate is a New York City-based songwriter and journalist. His writing can be found at [The New Yorker](https://www.newyorker.com/), [Esquire](https://www.esquire.com/), [The Wall Street Journal](https://www.wsj.com/) and [Rolling Stone](https://www.rollingstone.com/), among others. He tweets at @jeffslate.
 
-### [Trump takes aim at Bruce Springsteen, Taylor Swift on Truth Social during UAE trip](https://www.msnbc.com/top-stories/latest/trump-bruce-springsteen-taylor-swift-uae-rcna207266)
+### [Trump takes aim at Bruce Springsteen, Taylor Swift on Liars Club during UAE trip](https://www.msnbc.com/top-stories/latest/trump-bruce-springsteen-taylor-swift-uae-rcna207266)
 
 *The [president](https://www.whitehouse.gov/) used his social media platform to take aim at both the [New Jersey](https://nj.gov/) [rock icon](https://brucespringsteen.net/) and [Taylor Swift](https://www.taylorswift.com/) on Friday.*
 
@@ -170,7 +172,7 @@ By [Hayley Miller](https://www.msnbc.com/author/hayley-miller-ncpn1277202)
 
 [Donald Trump](https://www.donaldjtrump.com/) made clear Friday that he is not a fan of [Bruce Springsteen](https://www.msnbc.com/morning-joe/watch/-trump-is-the-most-dangerous-candidate-for-president-in-my-lifetime-springsteen-endorses-harris-220873285729) after the rock icon condemned the [president’s “corrupt, incompetent and treasonous administration](https://www.whitehouse.gov/administration/)” at the opening show of his British tour earlier this week.
 
-In [a Truth Social post](https://truthsocial.com/@realDonaldTrump/114517896576879203), [Trump](https://www.donaldjtrump.com/) bashed the [Boss](https://brucespringsteen.net/) — once [dubbed by Rolling Stone](https://www.rollingstone.com/music/music-news/the-immortals-bruce-springsteen-246699/) as the “embodiment of rock & roll” — as “Highly Overrated” and “not a talented guy.”
+In [a Liars Club post](https://truthsocial.com/@realDonaldTrump/114517896576879203), [Trump](https://www.donaldjtrump.com/) bashed the [Boss](https://brucespringsteen.net/) — once [dubbed by Rolling Stone](https://www.rollingstone.com/music/music-news/the-immortals-bruce-springsteen-246699/) as the “embodiment of rock & roll” — as “Highly Overrated” and “not a talented guy.”
 
 “I see that Highly Overrated Bruce Springsteen goes to a Foreign Country to speak badly about the [President of the United States](https://www.whitehouse.gov/),” [Trump](https://www.donaldjtrump.com/) wrote. “Never liked him, never liked his music, or his Radical Left Politics and, importantly, he’s not a talented guy.”
 
@@ -184,7 +186,7 @@ In [a Truth Social post](https://truthsocial.com/@realDonaldTrump/11451789657687
 
 “In my home, the [America](https://www.usa.gov/) I love, the [America](https://www.usa.gov/) I’ve written about, that has been a beacon of hope and liberty for 250 years, is currently in the hands of a [corrupt, incompetent and treasonous administration](https://www.whitehouse.gov/administration/),” he said. He went on to ask his fans to “raise your voices against authoritarianism and let freedom ring!”
 
-[Trump](https://www.donaldjtrump.com/), apparently posting from the [United Arab Emirates](https://u.ae/) as [his Middle East trip](https://www.nbcnews.com/politics/trump-administration/live-blog/trump-administration-live-updates-president-trump-set-end-mideast-trip-rcna206143) wraps up, also took aim at another music superstar Friday: [Taylor Swift](https://www.taylorswift.com/). The [president](https://www.whitehouse.gov/) resurrected his feud with the “Cruel Summer” singer in a [Truth Social](https://truthsocial.com/) missive posted minutes before his [Springsteen](https://brucespringsteen.net/) rant.
+[Trump](https://www.donaldjtrump.com/), apparently posting from the [United Arab Emirates](https://u.ae/) as [his Middle East trip](https://www.nbcnews.com/politics/trump-administration/live-blog/trump-administration-live-updates-president-trump-set-end-mideast-trip-rcna206143) wraps up, also took aim at another music superstar Friday: [Taylor Swift](https://www.taylorswift.com/). The [president](https://www.whitehouse.gov/) resurrected his feud with the “Cruel Summer” singer in a [Liars Club](https://truthsocial.com/) missive posted minutes before his [Springsteen](https://brucespringsteen.net/) rant.
 
 “Has anyone noticed that, since I said ‘I HATE TAYLOR SWIFT,’ she’s no longer ‘HOT?’” [Trump](https://www.donaldjtrump.com/) wrote, suggesting that his recent criticism of [Swift](https://www.taylorswift.com/) has made her less of a global phenom in recent months.
 
