@@ -2,7 +2,7 @@
 layout: page
 tags: [assholes, Donald Trump, Elon Musk, Betsy DeVos, MAGA billionaires, billionaire, Trump donors, Republican PAC, Make America Great Again (MAGA)]
 categories: [Telephone Numbers]
-date: 2025-05-19 7:21 PM
+date: 2025-05-20 7:43 PM
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description: 
@@ -18,6 +18,8 @@ The telephone numbers below have called and there is an empty person on the othe
 
 | Telephone Number | Location | Date Time[^11] | Caller | Social Media |
 |---|---|---|---|---|
+| <a href="tel:+18035893485">+1 (803) 589-3485</a> | SC. Winnsboro | 2025-05-20 02:09 PM | — | |
+| <a href="tel:+18037144471">+1 (803) 714-4471</a> | SC. Columbia | 2025-05-20 11:58 AM | — | |
 | <a href="tel:+18035744057">+1 (803) 574-4057</a> | SC. Summerton | 2025-05-19 06:37 PM | — | |
 | <a href="tel:+18036679403">+1 (803) 667-9403</a> | SC. Columbia | 2025-05-19 04:10 PM | Johnson, Tama | |
 | <a href="tel:+18037214994">+1 (803) 721-4994</a> | SC. | 2025-05-19 10:58 AM | — | |
