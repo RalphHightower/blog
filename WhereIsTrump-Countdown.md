@@ -12,14 +12,13 @@ title: "Where Is Trump? 🔥DC? FL⛳️?"
 
 If it's the weekend, America's Golfer-in-Chief, [Trump](https://www.donaldjtrump.com/) is busy grifting America, playing golf at his [Mar-a-Lago Golf Resort](https://www.maralagoclub.com/)
 
-{% assign timestamp = 'now' | date: "%F %r%:z %Z" %}
-Current Date/Time: {{ timestamp }}
+{% assign dt_now = 'now' | date: "%F %r%:z %Z" %}
+Current Date/Time: {{ dt_now }}
+{% assign dt_today = 'today' | date: "%F %r%:z %Z" %}
+today: {{  dt_today }}
 
 ## Days Into / Terminal Count Down 
 
-now: {{ 'now' }}
-
-today: {{ 'today' }}
  
 {% assign today_noon = 'now' | date: '%Y-%m-%d 12:00 PM' | date: '%s' %}
 {% assign secs_inauguration2025 = '2025-01-19 12:00 PM' | date: '%s' %}
