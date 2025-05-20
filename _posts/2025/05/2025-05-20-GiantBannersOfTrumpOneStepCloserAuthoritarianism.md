@@ -7,7 +7,7 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: "Giant Banners of Trump Plastered Over Washington. One Step Closer to Authoritarianism:
+title: "Giant Banners of Trump Plastered Over Washington. One Step Closer to Authoritarianism"
 ---
 
 
