@@ -10,7 +10,7 @@ excerpt: ''
 title: "Hey Donnie! The Reason That Your Approval Ratings Are Tanking Is Because You’re A Fucking Lousy President"
 ---
 
-- [POTUS 45: Among Past Presidents, Trump Ranks Bottom of the Barrel]({% link _posts/2024/11/2024-11-05-POTUS45Ranking.md %})
+- [POTUS 45: Among Past Presidents, Trump Ranks Bottom of the Barrel]({% link _posts/2024/11/2024-11-05-POTUS45Ranking.md %})<br />2024-11-05. @RalphHightower
 
 ## [As his approval rating sinks, Trump wants investigations into pollsters](https://www.msnbc.com/rachel-maddow-show/maddowblog/approval-rating-sinks-trump-wants-investigations-pollsters-rcna203262)
 You're 
