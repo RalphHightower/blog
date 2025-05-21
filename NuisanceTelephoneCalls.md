@@ -2,7 +2,7 @@
 layout: page
 tags: [assholes, Donald Trump, Elon Musk, Betsy DeVos, MAGA billionaires, billionaire, Trump donors, Republican PAC, Make America Great Again (MAGA)]
 categories: [Telephone Numbers]
-date: 2025-05-20 7:43 PM
+date: 2025-05-21 7:13 PM
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description: 
@@ -18,6 +18,16 @@ The telephone numbers below have called and there is an empty person on the othe
 
 | Telephone Number | Location | Date Time[^11] | Caller | Social Media |
 |---|---|---|---|---|
+| <a href="tel:+16802141044">+1 (680) 214-1044</a> | NY. Syracuse | 2025-05-21 04:49 PM | #IRSFraud | |
+| <a href="tel:+16802141044">+1 (680) 214-1044</a> | NY. Syracuse | 2025-05-21 04:49 PM | #IRSFraud | |
+| <a href="tel:+18039452458">+1 (803) 945-2458</a> | SC. Little Mountain | 2025-05-21 03:57 PM | — | |
+| <a href="tel:+18035890814">+1 (803) 589-0814</a> | SC. Winnsboro | 2025-05-21 03:14 PM | — | |
+| <a href="tel:+18034595021">+1 (803) 459-5021</a> | SC. | 2025-05-21 02:32 PM | Mary Hicks | |
+| <a href="tel:+18033395846">+1 (803) 339-5846</a> | SC. York | 2025-05-21 01:33 PM | S Carolina | |
+| <a href="tel:+18033395846">+1 (803) 339-5846</a> | SC. York | 2025-05-21 01:32 PM | S Carolina | |
+| <a href="tel:+18037053883">+1 (803) 705-3883</a> | SC. Columbia | 2025-05-21 12:37 PM | — | |
+| <a href="tel:+18033127878">+1 (803) 312-7878</a> | SC. Columbia | 2025-05-21 11:46 AM | US Gov (Marketplace Insurance) | |
+| <a href="tel:+18033107726">+1 (803) 310-7726</a> | SC. Elgin | 2025-05-21 11:37 AM | Chronicle | |
 | <a href="tel:+18035893485">+1 (803) 589-3485</a> | SC. Winnsboro | 2025-05-20 02:09 PM | — | |
 | <a href="tel:+18037144471">+1 (803) 714-4471</a> | SC. Columbia | 2025-05-20 11:58 AM | — | |
 | <a href="tel:+18035744057">+1 (803) 574-4057</a> | SC. Summerton | 2025-05-19 06:37 PM | — | |
