@@ -67,11 +67,11 @@ The [America](https://www.usa.gov/) l’ve sung to you about for 50 years is rea
 
 ## [The Boss](https://brucespringsteen.net/) Versus [TACO – Trump Always Chickens Out](https://www.donaldjtrump.com/)
 
-### [Trump wants investigations into Springsteen, Beyoncé, Oprah and Bono](https://www.msnbc.com/rachel-maddow-show/maddowblog/trump-wants-investigations-springsteen-beyonce-oprah-bono-rcna207723)
 
 *The [president](https://www.whitehouse.gov/)’s ire toward celebrity critics might seem trivial, but his willingness to use the power of the state to attack his critics matters.*
 
 May 19, 2025, 12:40 PM EDT / Updated May 19, 2025, 2:00 PM EDT
+
 By [Steve Benen](https://www.msnbc.com/author/steve-benen-ncpn433601)
 
 As [Donald Trump](https://www.donaldjtrump.com/) prepared for [an important meeting with Russia’s Vladimir Putin](https://www.nbcnews.com/world/russia/trump-set-implore-putin-end-bloodbath-ukraine-high-stakes-phone-call-rcna207612), it stood to reason that the [American](https://www.usa.gov/) [president](https://www.whitehouse.gov/) might spend the morning meeting with aides, reviewing his notes and strategy, and making sure he was fully prepared for a round of delicate diplomacy.
@@ -110,7 +110,9 @@ Steve Benen is a producer for "[The Rachel Maddow Show](https://www.msnbc.com/ra
 *This week's mini-feud pits two predictable septuagenarians against each other. And the result is a personal gift to the Boss.*
 
 May 17, 2025, 12:54 PM EDT / Updated May 17, 2025, 12:57 PM EDT
+
 By Jeff Slate
+
 [Bruce Springsteen](https://brucespringsteen.net/)’s European tour is scheduled to wrap in Milan the day before Independence Day. But the rock legend may not be feeling very welcome back home.
 
 [Springsteen has been sparring with President Donald Trump](https://www.msnbc.com/top-stories/latest/trump-bruce-springsteen-taylor-swift-uae-rcna207266) over the past few days, with [Trump](https://www.donaldjtrump.com/) escalating the war of words Friday morning. Sometimes entertaining and sometimes ominous, the mini-feud pits two septuagenarians against each other in the least surprising way possible. And while unlikely to move the needle in 2028, the fact that [Trump](https://www.donaldjtrump.com/) gave in to his boorish impulses is ultimately mostly just a personal gift to the Boss.
