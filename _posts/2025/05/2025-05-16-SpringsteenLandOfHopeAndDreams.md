@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [media, Bruce Springsteen, Bruce Springsteen – YouTube channel, Land of Hope and Dreams / Bruce Springsteen, MSNBC, NBC News, HuffPost - Breaking News U.S. and World News / HuffPost, Rolling Stone, The Official Website of Taylor Swift, Eras Tour – Taylor Swift’s Self Titled Official Archive Site, The New Yorker, Esquire - Men’s Fashion Cocktails Politics Interviews and Women, Kid Rock, Ted Nugent, companies, American Federation of Musicians - Musicians standing together have the power. - Musicians standing together have the power., Elon Musk, Elon Musk, The Boring Company, Neuralink, SpaceX, Starlink, Tesla, Twitter, X, xAI, universities, foreign countries, United Kingdom Government, Manchester City Council Homepage, political parties, The Office of Kamala D. Harris, Democrat Party, Trump Party, States, The Official Web Site for The State of New Jersey, Federal Government, Constitution of the United States, Supreme Court of the United States (SCOTUS), US Courts, Federal Election Commission, Government Accountability Office (GAO), Department of State (DOS), US Agency for International Development (USAID), Office of Government Ethics (OGE), 2016 campaign, Department of Justice (DOJ), Securities and Exchange (SEC), Department of Treasury (Treasury), Joint Chiefs of Staff, Department of Defense (DOD), Air Force, 379th Air Expeditionary Wing, VC-25 - Air Force One > Air Force > Fact Sheet Display, Congress, Senate, House of Representatives, President of the United States (POTUS), Ronald Reagan Presidential Library & Museum / Ronald Reagan, President Barack Obama, President Joe Biden, White House (WH), Trump Grift, Donald J Trump, Department of Government Efficiency (DOGE), The Mar-a-Lago Club, $TRUMP, $MELANIA, President Donald Trump (45), President Donald Trump (47), President Trump Administration (47), Addressing Risks from Chris Krebs and Government Censorship – The White House. April 9 2025, Fact Sheet –  President Donald J. Trump Addresses Risks from Chris Krebs and Government Censorship – The White House. April 9 2025, Ending The Weaponization Of The Federal Government. Presidential Actions. January 20 2025, Restoring Freedom Of Speech And Ending Federal Censorship. Presidential Actions. January 20 2025, Additional Measures to Combat Anti-Semitism – The White House. January 29 2025, Fact Sheet –  President Donald J. Trump Takes Forceful and Unprecedented Steps to Combat Anti-Semitism – The White House. January 30 2025, Donald J. Trump Presidential Library, Trump Library Foundation, grift, politics, protest, music]
+tags: [The Trump 2.0 Corruption Tour 2025 –  🇸🇦 🇶🇦 🇦🇪, media, MSNBC, NBC News, HuffPost - Breaking News U.S. and World News / HuffPost, Rolling Stone, The New Yorker, Esquire - Men’s Fashion Cocktails Politics Interviews and Women, artists, Allman Brothers Band – Where Music Plus Friends Equals Family, Bruce Springsteen, Bruce Springsteen – YouTube channel, Land of Hope and Dreams / Bruce Springsteen, The Official Website of Taylor Swift, Eras Tour – Taylor Swift’s Self Titled Official Archive Site, Oprah Winfrey, Beyoncé, Warren Beatty, Shirley MacLaine, Peter Paul and Mary, Simon and Garfunkel, Alan Alda, Julie Christie, Dustin Hoffman, John Lennon, Rita Hayworth, Orson Welles, Judy Garland, Humphrey Bogart, James Cagney, Groucho Marx, Frank Sinatra., Janet Leigh, Tony Curtis, Sammy Davis Jr., Nat King Cole, Judy Garland, Sammy Davis Jr., Al Jolson, Kid Rock, Ted Nugent, companies, American Federation of Musicians - Musicians standing together have the power. - Musicians standing together have the power., Elon Musk, Elon Musk, The Boring Company, Neuralink, SpaceX, Starlink, Tesla, Twitter, X, xAI, universities, University of Saint Mary / University of Saint Mary, Mark Harvey / University of Saint Mary, Amazon.com –  Celebrity Influence –  Politics Persuasion and Issue-Based Advocacy –  9780700624980 –  Mark Harvey –  Books, foreign countries, United Kingdom Government, Manchester City Council Homepage, Russia, Vladimir Putin, Volodymyr Zelenskyy, Ukraine, political parties, Democrat Party, Trump Party, States, South Carolina, Governor of South Carolina, Governor’s Biography / S.C. Governor Henry McMaster, Texas Government, Welcome to the City of Houston eGovernment Center, The Official Web Site for The State of New Jersey, Federal Government, Constitution of the United States, Supreme Court of the United States (SCOTUS), US Courts, U.S. Constitution - Second Amendment / Resources / Constitution Annotated / Congress.gov / Library of Congress, Federal Election Commission, Government Accountability Office (GAO), Department of State (DOS), US Agency for International Development (USAID), Office of Government Ethics (OGE), 2016 campaign, Department of Justice (DOJ), Securities and Exchange (SEC), Department of Treasury (Treasury), Joint Chiefs of Staff, Department of Defense (DOD), Air Force, 379th Air Expeditionary Wing, VC-25 - Air Force One > Air Force > Fact Sheet Display, Congress, Senate, House of Representatives, President of the United States (POTUS), Warren Harding, Franklin Roosevelt, Richard Nixon Presidential Library and Museum / Richard Nixon Museum and Library, Jimmy Carter Presidential Library and Museum / Jimmy Carter Library, Ronald Reagan Presidential Library & Museum / Ronald Reagan, President Barack Obama, President Joe Biden, The Office of Kamala D. Harris, White House (WH), Trump Grift, Donald J Trump, Department of Government Efficiency (DOGE), The Mar-a-Lago Club, $TRUMP, $MELANIA, President Donald Trump (45), President Donald Trump (47), President Trump Administration (47), Addressing Risks from Chris Krebs and Government Censorship – The White House. April 9 2025, Fact Sheet –  President Donald J. Trump Addresses Risks from Chris Krebs and Government Censorship – The White House. April 9 2025, Ending The Weaponization Of The Federal Government. Presidential Actions. January 20 2025, Restoring Freedom Of Speech And Ending Federal Censorship. Presidential Actions. January 20 2025, Additional Measures to Combat Anti-Semitism – The White House. January 29 2025, Fact Sheet –  President Donald J. Trump Takes Forceful and Unprecedented Steps to Combat Anti-Semitism – The White House. January 30 2025, Donald J. Trump Presidential Library, Trump Library Foundation, grift, politics, protest, music]
 categories: [Bruce Springsteen]
 date: 2025-05-19 5:54 PM
 excerpt: "There’s some very weird, strange and dangerous shit going on out there right now. In America, they are persecuting people for using their right to free speech and voicing their dissent. This is happening now. In America, the richest men are taking satisfaction in abandoning the world’s poorest children to sickness and death. This is happening now. In my country, they’re taking sadistic pleasure in the pain they inflict on loyal American workers. They’re rolling back historic civil rights legislation that has led to a more just and plural society. They are abandoning our great allies and siding with dictators against those struggling for their freedom. They are defunding American universities that won’t bow down to their ideological demands. They are removing residents off American streets and, without due process of law, are deporting them to foreign detention centers and prisons. This is all happening now. A majority of our elected representatives have failed to protect the American people from the abuses of an unfit president and a rogue government. They have no concern or idea for what it means to be deeply American. The America l’ve sung to you about for 50 years is real and regardless of its faults is a great country with a great people. So we’ll survive this moment. Now, I have hope, because I believe in the 07 of what the great American writer James Baldwin said. He said, “In this world, there isn’t as much humanity as one would like, but there’s enough.” Let’s pray."
@@ -67,6 +67,62 @@ The [America](https://www.usa.gov/) l’ve sung to you about for 50 years is rea
 
 ## [The Boss](https://brucespringsteen.net/) Versus [TACO – Trump Always Chickens Out](https://www.donaldjtrump.com/)
 
+### [Trump’s Truth Social attacks on Springsteen, Oprah and Beyoncé aren't legally sound](https://www.msnbc.com/opinion/msnbc-opinion/trump-truth-social-springsteen-oprah-beyonce-campaign-fraud-rcna208260)
+
+*What history can tell us about celebrity campaign endorsements — and their impact.*
+
+May 21, 2025, 2:18 PM EDT / Updated May 21, 2025, 2:35 PM EDT
+
+By Mark Harvey, author of "Celebrity Influence: Politics, Persuasion, and Issue-based Advocacy"
+
+Nothing seems to incite angry social media posts from [President](https://www.whitehouse.gov/) [Trump](https://www.donaldjtrump.com/) quite like criticism from celebrities. And while celebrities in 2025 seem less [interested in feuding](https://www.newsweek.com/donald-trump-celebrity-feuds-list-1932471) with the volatile [president](https://www.whitehouse.gov/), [Bruce Springsteen did manage to poke the bear](https://www.msnbc.com/opinion/msnbc-opinion/trump-post-bruce-springsteen-taylor-swift-gift-rcna207397) with an unsparing speech delivered before a May 14 concert in Manchester.
+
+The [president](https://www.whitehouse.gov/) noticed. On [Truth Social, Trump called Springsteen](https://www.msnbc.com/top-stories/latest/trump-bruce-springsteen-taylor-swift-uae-rcna207266) [Springsteen](https://brucespringsteen.net/) “a pushy, obnoxious JERK” with “atrophied skin.” But the pettiness didn’t stop with dermatological insults. In the early hours of May 19, [Trump](https://www.donaldjtrump.com/) escalated even further, implying without evidence that [Kamala Harris’ presidential campaign paid Springsteen](https://www.msnbc.com/rachel-maddow-show/maddowblog/trump-wants-investigations-springsteen-beyonce-oprah-bono-rcna207723) and other stars, including [Oprah Winfrey](https://www.oprah.com/) and [Beyoncé](https://beyonce.com/), for their performances at campaign events, which was a “MAJOR AND ILLEGAL CAMPAIGN CONTRIBUTION.” He proclaimed his intention to “call for a major investigation into this matter.” 
+
+> *The doubling and tripling down is so far mostly symbolic. But could [Trump](https://www.donaldjtrump.com/) really investigate celebrity endorsements?*
+
+[Springsteen](https://brucespringsteen.net/) isn't backing down in the wake of [Trump](https://www.donaldjtrump.com/)'s stream of attacks, and musicians like [Neil Young and Eddie Vedder have since come to his defense](https://www.euronews.com/culture/2025/05/21/eddie-vedder-and-neil-young-speak-out-in-support-of-bruce-springsteen-amid-trump-attacks). The doubling and tripling down is so far mostly symbolic. But could [Trump](https://www.donaldjtrump.com/) really investigate celebrity endorsements?
+
+I don't this so. Celebrities typically do not get paid for making endorsements. According to the [Federal Election Commission](https://www.fec.gov/), [candidates can pay for endorsements](https://www.theguardian.com/us-news/2025/may/19/trump-beyonce-springsteen-endorsements-truth-social#:~:text=The%20Harris%20campaign%20told%20Deadline,appeared%20on%20the%20campaign%20trail.) as long as they are listed as a campaign expenditure. [The Harris campaign has denied paying celebrities](https://deadline.com/2024/11/oprah-winfrey-kamala-harris-endorsement-1236177219/) directly, claiming that any money sent to [Winfrey](https://www.oprah.com/) ([$1 million](https://variety.com/2024/tv/news/oprah-winfrey-kamala-harris-harpo-1-million-1236210258/)), Beyoncé ([$165,000](https://www.usatoday.com/story/entertainment/music/2025/05/19/beyonce-endorsement-kamala-harris-donald-trump/83726282007/)) and others are event production expenses paid out in accordance with federal election law.[^20250521]
+
+[^20250521]: @RalphHightower: It is my opinion that [Donald Trump](https://www.donaldjtrump.com/) bribed [South Carolina](https://www.sc.gov/) [Governor](https://governor.sc.gov/) [Henry McMaster](https://governor.sc.gov/governors-biography) for his enforcement. Back when [Trump](https://www.donaldjtrump.com/) entered the race, Nikki Haley was governor and [McMaster](https://governor.sc.gov/governors-biography) was Lt. Governor. I bet that [Trump](https://www.donaldjtrump.com/) said, "Endorse me for president and I'll make you governor by getting rid of Haley. I'll appoint her somewhere in my administration."
+
+“Usually I am reluctant to respond to rumors in general, but these days I realize that if you don’t stop a lie, it gets bigger. I was not paid a dime,” [Winfrey said in video response](https://deadline.com/2024/11/oprah-winfrey-kamala-harris-endorsement-1236177219/) to the [Trump](https://www.donaldjtrump.com/) post. “My time and energy was my way of supporting the campaign. For the livestreaming event in September, my production company Harpo was asked to bring in set design, lights, cameras, crew, producers and every other item necessary (including the benches and the chairs we sat on) to put on a live production. I did not take any personal fee. However, the people who worked on that production needed to be paid. And were. End of story.”
+
+Tina Knowles [issued a similar denial](http://usatoday.com/story/entertainment/music/2025/05/19/beyonce-endorsement-kamala-harris-donald-trump/83726282007/) last year when the same rumors circulated about her daughter: “The lie is that [Beyoncé](https://beyonce.com/) was paid 10 million dollars to speak at a rally in [Houston](https://www.houstontx.gov/) for [Vice President](https://www.whitehouse.gov/) [Kamala Harris](https://kamalaharris.com/). When In Fact: [Beyoncé](https://beyonce.com/) did not receive a penny for speaking at a [Presidential candidate](https://www.whitehouse.gov/) [Vice President](https://bidenwhitehouse.archives.gov/) [Kamala Harrris](https://kamalaharris.com/)’ Rally in [Houston](https://www.houstontx.gov/)."
+
+It all looks aboveboard and normal. Then there’s the obvious flaw in [Trump](https://www.donaldjtrump.com/)’s argument: Billionaire [Winfrey is so rich she flies in English Muffins from Napa.](https://www.businessinsider.com/oprah-biggest-luxury-is-english-muffins-from-napa-valley-2017-8). Why would she be persuaded to do anything for a paltry million dollars?
+
+In other words, a quick Google search suggests [Trump](https://www.donaldjtrump.com/) doesn’t have a legal leg to stand on here. But while these two cases appear to be documented and legitimate, [Trump](https://www.donaldjtrump.com/)’s intimidation can still have consequences. Digging into celebrity campaign endorsements could have a chilling effect — at least while [Trump](https://www.donaldjtrump.com/) is in office.
+
+Should celebrities be alarmed? Yes. And no. [Studies have demonstrated that](https://www.amazon.com/Celebrity-Influence-Politics-Persuasion-Issue-Based/dp/0700624988?asc_campaign=&asc_refurl=https%3A%2F%2Fwww.msnbc.com%2Fopinion%2Fmsnbc-opinion%2Ftrump-truth-social-springsteen-oprah-beyonce-campaign-fraud-rcna208260&asc_source=direct_desktop) celebrities are effective at issue-based advocacy. They are often better than politicians at raising the profile of an issue, are perceived as more credible than politicians on many issues and can be persuasive. But there are limits to this influence. Notably, celebrities are generally not persuasive on highly partisan issues. For example, [Bruce Springsteen](https://brucespringsteen.net/) is not going to convince [Americans](https://www.usa.gov/) who believe strongly in the [Second Amendment](https://constitution.congress.gov/constitution/amendment-2/) that they ought to support gun control.
+
+Last August, a month before [Taylor Swift](https://www.taylorswift.com/) endorsed [Kamala Harris](https://kamalaharris.com/), my colleagues and I [conducted a national survey of over 1,000 Americans](https://beyondprofit.weebly.com/research.html) to determine whether her endorsement would make a difference in the 2024 election. In this study, some respondents were shown a picture of [Swift](https://www.taylorswift.com/) encouraging voters to register, and some were shown a picture of her encouraging people to “vote for [Democrats](https://www.democrats.org/).” While [Swift](https://www.taylorswift.com/)ie super fans heeded her call to register to vote, [Swift](https://www.taylorswift.com/)ies who already had decided to support [Donald Trump](https://www.donaldjtrump.com/) were not convinced to change their vote. And undecided respondents were actually less likely to support a [Democrat](https://www.democrats.org/) after hearing [Swift](https://www.taylorswift.com/)’s endorsement.
+
+These findings are consistent with what we know about celebrity influence more broadly. [Harris](https://kamalaharris.com/)’ endorsers may have fired up the base, but not changed anyone’s minds, just as [Springsteen](https://brucespringsteen.net/)’s comments at his concert likely only appealed to those who already agreed with him.
+
+There is [one recent documented case](https://sites.stat.columbia.edu/gelman/stuff_for_blog/celebrityendorsements_garthwaitemoore.pdf) of a celebrity endorsement tipping the outcome of an election: [Winfrey](https://www.oprah.com/) endorsing [Barack Obama](obamawhitehouse.archives.gov)’s candidacy for the [Democratic](https://www.democrats.org/) nomination in 2008. And of course, many others have tried.
+
+In 1920, singer Al Jolson was probably the most famous entertainer in the U.S., and he endorsed [Republican](https://www.gop.com/) Warren Harding for president. Whether he really supported Harding is another matter. He was paid by an ad agency to sing “[Harding, You’re The Man for Us.”](https://www.youtube.com/watch?v=Br9lce1VRKk)” He was then hired to sing for Harding’s vice president, Calvin Coolidge, in the next election. 
+
+Franklin Roosevelt’s 1944 campaign [featured performers and endorsers](https://www.amazon.com/Celebrity-Politics-Mark-Wheeler/dp/0745652492?asc_campaign=&asc_refurl=https%3A%2F%2Fwww.msnbc.com%2Fopinion%2Fmsnbc-opinion%2Ftrump-truth-social-springsteen-oprah-beyonce-campaign-fraud-rcna208260&asc_source=direct_desktop) such as Rita Hayworth, Orson Welles, Judy Garland, Humphrey Bogart, James Cagney, Groucho Marx, as well as Frank Sinatra. [Sinatra and Garland were back at the 1960 DNC](https://www.history.com/articles/celebrities-presidential-elections-endorsements), along with their friends Janet Leigh, Tony Curtis, Sammy Davis Jr., Nat King Cole and Judy Garland. Sammy Davis Jr. would ultimately flip and [support Richard Nixon](https://www.thirteen.org/blog-post/sammy-davis-jr-most-famous-black-puerto-rican-jewish-star/) for president, and Sinatra would flip for [Ronald Reagan](https://www.reaganlibrary.gov/) in 1980. The [Allman Brothers](https://allmanbrothersband.com/) famously jammed for [Jimmy Carter](https://www.jimmycarterlibrary.gov/) in 1976.
+
+Not every presidential cycle is celebrity-laden as 1944 or 1960 — or 2024. And the [Harris](https://kamalaharris.com/) campaign was not the first to discover that support from the biggest stars on the planet does not guarantee a win. Warren Beatty, Shirley MacLaine, Peter Paul and Mary, Simon and Garfunkel, Alan Alda, Julie Christie, and Dustin Hoffman could not save George McGovern’s candidacy in 1972. John Lennon’s very vocal condemnation of [Richard Nixon](https://www.nixonlibrary.gov/) did not prevent the [Republican](https://www.gop.com/)'s re-election.
+
+> *The [Harris](https://kamalaharris.com/) campaign was not the first to discover that support from the biggest stars on the planet does not guarantee a win.*
+
+Moreover, there are many documented cases where celebrities [wade into politics and it backfires](https://carnegieendowment.org/europe/strategic-europe/2024/07/the-double-edged-sword-of-celebrity-activism?lang=en). [Congressional](https://www.congress.gov/) [Republicans](https://www.gop.com/) criticized FDR during World War II for consulting with Sinatra, a “mere crooner” who had been exempt from the draft. (Some celebrities also get criticism for inaction. [Swift](https://www.taylorswift.com/) [faced backlash](https://www.independent.co.uk/news/world/americas/taylor-swift-criticise-expressing-solidarity-womens-march-not-attending-antidonald-trump-protest-planned-parenthood-abortion-a7542246.html) for simply not showing up for the Women’s March in 2017). Other endorsements, such as Clint Eastwood’s awkward monologue supporting Mitt Romney at the 2012 RNC, do nothing to help the endorser or the endorsee.
+
+All of this is a sober reminder that voters are swayed more by economic variables and partisanship than they are by a sea of conflicting celebrity endorsements from opposing political parties. 
+
+If celebrities are ineffective at this kind of advocacy, why do they do it? Many of them are keenly aware that their fame gives them a bigger megaphone than the average citizen — for better and for worse.
+
+Time will tell just how invested [Trump](https://www.donaldjtrump.com/) is here. It doesn’t look like he has any actual evidence of wrongdoing. But again, that isn’t really the point. [Trump](https://www.donaldjtrump.com/) transforms criticism into fuel for the culture wars, reinforcing his core support and exploiting political divides to his own advantage. Celebrities shouldn’t be intimidated by his tactics — if anything, [Springsteen](https://brucespringsteen.net/) seems to be relishing this moment — but they should be ready for them.
+
+[Mark Harvey](https://stmary.edu/_faculty_import_11-5/mark_harvey.html)
+[Mark Harvey](https://stmary.edu/_faculty_import_11-5/mark_harvey.html) is a professor and director of graduate business programs at the [University of Saint Mary](https://stmary.edu/index.html). He is also the author of "[Celebrity Influence: Politics, Persuasion, and Issue-based Advocacy](https://www.amazon.com/Celebrity-Influence-Politics-Persuasion-Issue-Based/dp/0700624988/ref=sr_1_1?crid=3NQ8GPUBM0NTD&keywords=celebrity+influence&qid=1648227751&sprefix=celebrity+influence%2Caps%2C98&sr=8-1)."
+
+### [Trump wants investigations into Springsteen, Beyoncé, Oprah and Bono](https://www.msnbc.com/rachel-maddow-show/maddowblog/trump-wants-investigations-springsteen-beyonce-oprah-bono-rcna207723)
 
 *The [president](https://www.whitehouse.gov/)’s ire toward celebrity critics might seem trivial, but his willingness to use the power of the state to attack his critics matters.*
 
@@ -129,7 +185,7 @@ Later in the evening, [Springsteen](https://brucespringsteen.net/) offered a wit
 
 > *"They’re rolling back historic Civil Rights legislation that led to a more just and plural society. They’re abandoning our great allies and siding with dictators against those struggling for their freedom. They’re defunding American universities that won’t bow down to their ideological demands. They’re removing residents off American streets and, without due process of law, are deporting them to foreign detention centers and prisons."*
 
-He also took aim at [Trump](https://www.donaldjtrump.com/)’s [fellow Republicans](https://www.gop.com%), as well as the [Democratic Party](https://www.democrats.org/), arguing that they had all failed to protect [Americans](https://www.usa.gov/) “from the abuses of an unfit president and a rogue government.”
+He also took aim at [Trump](https://www.donaldjtrump.com/)’s [fellow Republicans](https://www.gop.com/), as well as the [Democratic Party](https://www.democrats.org/), arguing that they had all failed to protect [Americans](https://www.usa.gov/) “from the abuses of an unfit president and a rogue government.”
 
 Still, he said, “The [America](https://www.usa.gov/) that I’ve sung to you about for 50 years is real, and regardless of its faults is a great country with a great people. So, we’ll survive this moment.”
 
@@ -241,17 +297,43 @@ He is set to [debut 83 previously unreleased songs](https://www.nbcnews.com/pop-
 
 - [The Trump 2.0 Corruption Tour 2025: 🇸🇦 🇶🇦 🇦🇪]({% link _posts/2025/05/2025-05-18-Trump20CorruptionTour.md %})
 - media
-- [Bruce Springsteen](https://brucespringsteen.net/)
-- [Bruce Springsteen – YouTube channel](https://www.youtube.com/@brucespringsteen/videos)
-- [Land of Hope and Dreams / Bruce Springsteen](https://brucespringsteen.net/news/2025/land-of-hope-and-dreams/)
 - [MSNBC](https://www.msnbc.com=)
 - [NBC News](https://www.nbcnews.com/)
 - [HuffPost - Breaking News, U.S. and World News / HuffPost](https://www.huffpost.com/)
 - [Rolling Stone](https://www.rollingstone.com/)
-- [The Official Website of Taylor Swift](https://www.taylorswift.com/)
-- [Eras Tour – Taylor Swift’s Self Titled Official Archive Site](https://tserasarchive.taylorswift.com/selftitled)
 - [The New Yorker](https://www.newyorker.com/)
 - [Esquire - Men's Fashion, Cocktails, Politics, Interviews, and Women](https://www.esquire.com/)
+- artists
+- [Allman Brothers Band – Where Music Plus Friends Equals Family](https://allmanbrothersband.com/)
+- [Bruce Springsteen](https://brucespringsteen.net/)
+- [Bruce Springsteen – YouTube channel](https://www.youtube.com/@brucespringsteen/videos)
+- [Land of Hope and Dreams / Bruce Springsteen](https://brucespringsteen.net/news/2025/land-of-hope-and-dreams/)
+- [The Official Website of Taylor Swift](https://www.taylorswift.com/)
+- [Eras Tour – Taylor Swift’s Self Titled Official Archive Site](https://tserasarchive.taylorswift.com/selftitled)
+- [Oprah Winfrey](https://www.oprah.com/)
+- [Beyoncé](https://beyonce.com/)
+- Warren Beatty
+- Shirley MacLaine
+- Peter Paul and Mary
+- Simon and Garfunkel
+- Alan Alda
+- Julie Christie
+- Dustin Hoffman
+- John Lennon
+- Rita Hayworth
+- Orson Welles
+- Judy Garland
+- Humphrey Bogart
+- James Cagney
+- Groucho Marx
+- Frank Sinatra.
+- Janet Leigh
+- Tony Curtis
+- Sammy Davis Jr.
+- Nat King Cole
+- Judy Garland
+- Sammy Davis Jr.
+- Al Jolson
 - [Kid Rock](http://kidrock.com/)
 - [Ted Nugent](https://www.tednugent.com/)
 - companies
@@ -267,6 +349,9 @@ He is set to [debut 83 previously unreleased songs](https://www.nbcnews.com/pop-
 - [ X ](https://x.com/)
 - [xAI](https://x.ai/) 
 - universities 
+- [University of Saint Mary / University of Saint Mary](https://stmary.edu/index.html)
+- [Mark Harvey / University of Saint Mary](https://stmary.edu/_faculty_import_11-5/mark_harvey.html)
+- [Amazon.com: Celebrity Influence: Politics, Persuasion, and Issue-Based Advocacy: 9780700624980: Mark Harvey: Books](https://www.amazon.com/Celebrity-Influence-Politics-Persuasion-Issue-Based/dp/0700624988/ref=sr_1_1?keywords=celebrity+influence&qid=1648227751&sr=8-1)
 - foreign countries 
 - [United Kingdom Government](https://www.gov.uk/)
 - [Manchester City Council Homepage](https://www.manchester.gov.uk/)
@@ -275,15 +360,20 @@ He is set to [debut 83 previously unreleased songs](https://www.nbcnews.com/pop-
 - [Volodymyr Zelenskyy](https://www.president.gov.ua/)
 - [Ukraine](https://www.gov.ua/)
 - political parties
-- [The Office of Kamala D. Harris](https://kamalaharris.com/)
 - [Democrat Party](https://www.democrats.org/)
 - [Trump Party](https://www.gop.com/)
 - States 
+- [South Carolina](https://www.sc.gov/)
+- [Governor of South Carolina](https://governor.sc.gov /)
+- [Governor's Biography / S.C. Governor Henry McMaster](https://governor.sc.gov/governors-biography)
+- [Texas Government](https://www.texas.goc/)
+- [Welcome to the City of Houston eGovernment Center](https://www.houstontx.gov/)
 - [The Official Web Site for The State of New Jersey](https://nj.gov/)
 - Federal Government 
 - [Constitution of the United States](https://constitution.congress.gov/)
 - [Supreme Court of the United States (SCOTUS)](https://www.supremecourt.gov/)
 - [US Courts](https://www.uscourts.gov/)
+- [U.S. Constitution - Second Amendment / Resources / Constitution Annotated / Congress.gov / Library of Congress](https://constitution.congress.gov/constitution/amendment-2/)
 - [Federal Election Commission](https://www.fec.gov/)
 - [Government Accountability Office (GAO)](https://www.gao.gov/)
 - [Department of State (DOS)](https://www.state.gov/)
@@ -302,6 +392,10 @@ He is set to [debut 83 previously unreleased songs](https://www.nbcnews.com/pop-
 - [Senate](https://www.senate.gov/)
 - [House of Representatives](https://www.house.gov/)
 - [President of the United States (POTUS)](https://www.whitehouse.gov/)
+- Warren Harding 
+- Franklin Roosevelt
+- [Richard Nixon Presidential Library and Museum / Richard Nixon Museum and Library](https://www.nixonlibrary.gov/)
+- [Jimmy Carter Presidential Library and Museum / Jimmy Carter Library](https://www.jimmycarterlibrary.gov/jimmy-carter-presidential-library-and-museum)
 - [Ronald Reagan Presidential Library & Museum / Ronald Reagan](https://www.reaganlibrary.gov/)
 - [President Barack Obama](https://obamawhitehouse.archives.gov/)
 - [President Joe Biden](https://bidenwhitehouse.archives.gov/)
