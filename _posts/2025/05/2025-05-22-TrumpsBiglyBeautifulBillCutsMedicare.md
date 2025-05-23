@@ -7,7 +7,7 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: "Trump’s One Bigly Bill Will Cut $500 Billion In Medicare Even Though Trump Said “Don’t Fuck With Medicare”"
+title: "Trump’s One Bigly Beautiful Bill Will Cut $500 Billion In Medicare Even Though Trump Said “Don’t Fuck With Medicare”"
 ---
 
 
