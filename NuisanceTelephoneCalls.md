@@ -2,7 +2,7 @@
 layout: page
 tags: [assholes, Donald Trump, Elon Musk, Betsy DeVos, MAGA billionaires, billionaire, Trump donors, Republican PAC, Make America Great Again (MAGA)]
 categories: [Telephone Numbers]
-date: 2025-05-23
+date: 2025-05-24 7:09 PM
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description: 
@@ -18,6 +18,11 @@ The telephone numbers below have called and there is an empty person on the othe
 
 | Telephone Number | Location | Date Time[^11] | Caller | Social Media |
 |---|---|---|---|---|
+| <a href="tel:+18039788145">+1 (803) 978-8145</a> | SC. | 2025-05-24 01:57 PM | — | |
+| <a href="tel:+18039047852">+1 (803) 904-7852</a> | SC. Columbia | 2025-05-24 01:36 PM | — | |
+| <a href="tel:+18035429735">+1 (803) 542-9735</a> | SC. Columbia | 2025-05-24 01:11 PM ¤¤ | — | |
+| <a href="tel:+18035429735">+1 (803) 542-9735</a> | SC. Columbia | 2025-05-24 01:10 PM | — | |
+| <a href="tel:+18037103410">+1 (803) 710-3410</a> | SC. Johnston | 2025-05-24 10:02 AM ¤¤ | — | |
 | <a href="tel:+18037242311">+1 (803) 724-2311</a> | SC. Columbia | 2025-05-23 06:21 PM | — | |
 | <a href="tel:+18039457280">+1 (803) 945-7280</a> | SC. Little Mountain | 2025-05-23 06:13 PM ¤¤ | — | |
 | <a href="tel:+18039457280">+1 (803) 945-7280</a> | SC. Little Mountain | 2025-05-23 06:12 PM | — | |
@@ -321,7 +326,7 @@ The telephone numbers below have called and there is an empty person on the othe
 | <a href="tel:+18038944672">+1 (803) 894-4672</a> | SC. Pelion | 2025-04-16 05:37 PM | Nunley Tim | |
 | <a href="tel:+18036515372">+1 (803) 651-5372</a> | SC. Sumter | 2025-04-16 02:43 PM | Potential Spam | |
 | <a href="tel:+18037617083">+1 (803) 761-7083</a> | SC. | 2025-04-16 02:30 PM | Craig Stanley | |
-| <a href="tel:+18038578325">+1 (803) 857-8325</a> | SC. Santee | 2025-04-16 01:21 PM | Tsmi Bruneau | |
+| <a href="tel:+18038578325">+1 (803) 857-8325</a> | SC. Santee | 2025-04-16 01:21 PM | Tami Bruneau | |
 | <a href="tel:+18037644347">+1 (803) 764-4347</a> | SC. Columbia | 2025-04-16 11:47 AM | Rhonda G Wallace | |
 | <a href="tel:+15572262220">+1 (557) 226-2220</a> | MO. St. Louis | 2025-04-16 10:39 AM | — | |
 | <a href="tel:+18395293201">+1 (839) 529-3201</a> | SC. Bamberg | 2025-04-16 09:24 AM | — | |
@@ -343,6 +348,7 @@ The telephone numbers below have called and there is an empty person on the othe
 | <a href="tel:+18037082851">+1 (803) 708-2851</a> | SC. Columbia | 2025-04-14 12:05 PM | — | |
 | <a href="tel:+18036026374">+1 (803) 602-6374</a> | SC. | 2025-04-14 11:04 AM ¤¤ | — | |
 | <a href="tel:+18036026374">+1 (803) 602-6374</a> | SC. | 2025-04-14 11:02 AM | — | |
+| <a href="tel:+18034822519">+1 (803) 482-2519</a> | SC. Great Falls | 2025-04-14 10:41 AM | David Wright | |
 | <a href="tel:+18034822519">+1 (803) 482-2519</a> | SC. Great Falls | 2025-04-14 10:41 AM | David Wright | |
 | <a href="tel:+18039785627">+1 (803) 978-5627</a> | SC. | 2025-04-14 10:24 AM | Residence Inn | |
 | <a href="tel:+18038246349">+1 (803) 824-6349</a> | SC. | 2025-04-12 03:28 PM | — | |
