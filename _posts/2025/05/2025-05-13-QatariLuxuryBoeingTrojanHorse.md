@@ -166,7 +166,7 @@ For those interested in accountability and legal ethics, the good news is that [
 
 Indeed, it’s likely that the [attorney general](https://www.justice.gov/) will ignore the [senator](https://www.senate.gov/)’s letter — and there won’t be a whole lot he can do about it without the support of his [Republican](https://www.gop.com/) colleagues, which will almost certainly never materialize.
 
-Steve Benen
+Steve Benen<br />
 Steve Benen is a producer for "[The Rachel Maddow Show](https://www.msnbc.com/rachel-maddow-show)," the editor of [MaddowBlog](https://www.msnbc.com/rachel-maddow-show) and an [MSNBC](https://www.msnbc.com/) political contributor. He's also the bestselling author of ["Ministry of Truth: Democracy, Reality, and the Republicans' War on the Recent Past."](https://www.harpercollins.com/products/ministry-of-truth-steve-benen)
 
 ## [Trump's jet from Qatar is worrisome. What he’s giving in return is troubling.](https://www.msnbc.com/top-stories/latest/trump-qatar-jet-corruption-concessions-rcna206761)
