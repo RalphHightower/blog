@@ -2,7 +2,7 @@
 layout: page
 tags: [Location Predictor, Count Down, Count Up]
 categories: [Donald Trump]
-date: 2025-04-30 8:20 AM
+date: 2025-05-26 4:35 PM
 #excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
@@ -16,15 +16,50 @@ If it's the weekend, America's Golfer-in-Chief, [Trump](https://www.donaldjtrump
 
 ### Days of Hell
 
-  <div id="daysSince"></div>
+<div id="daysSince"></div>
 
 ### Computer, End Trump Presidency Simulation.[^2025]
 
-  <div id="daysRemaining"></div>
+<div id="daysRemaining"></div>
 
 [^2025]: @RalphHightower: I'm wishing that the time between January 20, 2025 and January 20, 2029 is a just a nightmare Holodeck[^2029] simulation. 
 
 [^2029]: [Begin Program: The Reality Of Building a Holodeck Today / Star Trek](https://www.startrek.com/news/begin-program-the-reality-of-building-a-holodeck-today)<br />Star Trek: The Next Generation<br />Published May 18, 2021<br />By Becca Caddy
+
+## Where Is Trump?
+
+<div class="post-content" id="golf">
+
+<h3> He’s Burning 🔥 Taxpayer Money 💰 Playing Golf 🏌️‍♂️ at His Mar-a-Lago Resort ⛳️</h3>
+
+| Golfing ⛳️ |
+|---|
+| **Florida, Palm Beach ([Mar-a-Lago](https://www.maralagoclub.com/))** |
+| [The Mar-a-Lago Club](https://www.maralagoclub.com/)</a><br /> 1100 South Ocean Boulevard, <br /> Palm Beach, Florida 33480 <br /> <a class="page-link" href="tel+15618322600">+1 (561) 832-2600</a> |
+
+</div>
+
+<div class="post-content" id="burn">
+
+<h3>Trump Is Busy Burning Federal Government to the Ground</h3>
+
+| Burning 🔥 Federal Government |
+|---|
+| **[White House](https://www.whitehouse.gov/)** |
+| 1600 Pennsylvania Ave., NW <br /> Washington, DC 20500 <br /> <a class="page-link" href="tel:+12024561111">+1 (202) 456-1111</a> (comments) <br /> <a class="page-link" href="tel:+12024561414">+1 (202) 456-1414</a> (switchboard) |
+
+</div>
+
+#### Check FAA NOTAM SECURITY/VIP
+
+- [Federal Aviation Administration - Graphic TFRs](https://tfr.faa.gov/tfr3/?page=list)
+- [JSON : Federal Aviation Administration - Graphic TFRs](https://tfr.faa.gov/tfr3/export/json)
+- [XML : Federal Aviation Administration - Graphic TFRs](https://tfr.faa.gov/tfr3/export/xml)
+
+#### Check His Public Schedule 
+
+- [Roll Call Factba.se - Donald J. Trump's Public Schedule](https://rollcall.com/factbase/trump/topic/calendar/)
+- [JSON : Roll Call Factba.se - Donald J. Trump's Public Schedule](https://media-cdn.factba.se/rss/json/trump/calendar-full.json)
 
 <script>
     // Set your dates here (year, month (0-based), day, hour, minute)
@@ -71,7 +106,7 @@ If it's the weekend, America's Golfer-in-Chief, [Trump](https://www.donaldjtrump
       const pctTermRemaing = daysRemaining / daysTotal;
   
       weekDay = now.getDay(); // Sunday = 0
-      //weekDay = 0;
+      weekDay = 0;
       month = now.getMonth(); // January = 0
       monthDay = now.getDate(); // 1-31
       var burn = document.getElementById('burn');
@@ -98,59 +133,9 @@ If it's the weekend, America's Golfer-in-Chief, [Trump](https://www.donaldjtrump
           break;
         }
 
-
       document.getElementById('daysSince').textContent = daysSince >= 0 ? daysSince + " days " + fmtPercent(pctTermCompleted) + "%" : "Event is in the future";
       document.getElementById('daysRemaining').textContent = daysRemaining >= 0 ? daysRemaining + " days " + fmtPercent(pctTermRemaing) + "%" : "Event has passed";
     }
 
     updateCounters();
   </script>
-
-## Where Is Trump?
-
-<div class="post-content" id="golf">
-
-<h3> He’s Burning 🔥 Taxpayer Money 💰 Playing Golf 🏌️‍♂️ at His Mar-a-Lago Resort ⛳️</h3>
-
-<table>
-  <tr>
-    <th>Golfing ⛳️</th>
-  </tr>
-  <tr>
-    <td><strong><a class="page-link" href="https://www.maralagoclub.com/">Mar-a-Lago</a></strong></td>
-  </tr>
-  <tr>
-    <td><a class="page-link" href="https://www.maralagoclub.com/">The Mar-a-Lago Club</a><br /> 1100 South Ocean Boulevard, <br /> Palm Beach, Florida 33480 <br /> <a class="page-link" href="tel+15618322600">+1 (561) 832-2600</a></td>
-  </tr>
-</table>
-
-</div>
-
-<div class="post-content" id="burn">
-
-<h3>Trump Is Busy Burning Federal Government to the Ground</h3>
-
-<table>
-  <tr>
-    <th>Burning 🔥 Federal Government</th>
-  </tr>
-  <tr>
-    <td><strong><a class="page-link" href="https://www.whitehouse.gov">White House</a></strong></td>
-  </tr>
-  <tr>
-    <td>1600 Pennsylvania Ave., NW <br /> Washington, DC 20500 <br /> <a class="page-link" href="tel:+12024561111">+1 (202) 456-1111</a> (comments) <br /> <a class="page-link" href="tel:+12024561414">+1 (202) 456-1414</a> (switchboard)</td>
-  </tr>
-</table>
-
-</div>
-
-#### Check FAA NOTAM SECURITY/VIP
-
-- [Federal Aviation Administration - Graphic TFRs](https://tfr.faa.gov/tfr3/?page=list)
-- [JSON : Federal Aviation Administration - Graphic TFRs](https://tfr.faa.gov/tfr3/export/json)
-- [XML : Federal Aviation Administration - Graphic TFRs](https://tfr.faa.gov/tfr3/export/xml)
-
-#### Check His Public Schedule 
-
-- [Roll Call Factba.se - Donald J. Trump's Public Schedule](https://rollcall.com/factbase/trump/topic/calendar/)
-- [JSON : Roll Call Factba.se - Donald J. Trump's Public Schedule](https://media-cdn.factba.se/rss/json/trump/calendar-full.json)
