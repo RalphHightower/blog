@@ -28,7 +28,7 @@ If it's the weekend, America's Golfer-in-Chief, [Trump](https://www.donaldjtrump
 
 <script>
     // Set your dates here (year, month (0-based), day, hour, minute)
-    const startDate = new Date(2025, 0, 1, 20, 0, 0);     // Jan 20, 2025 12:00 PM
+    const startDate = new Date(2025, 0, 19, 0, 0);     // Jan 20, 2025 12:00 PM
     const endDate = new Date(2029, 0, 20, 12, 0, 0);      // Jan 20, 2029, 12:00 PM
 
     function getDaysDiff(from, to) {
@@ -54,9 +54,34 @@ If it's the weekend, America's Golfer-in-Chief, [Trump](https://www.donaldjtrump
       const pctTermCompleted = daysSince / daysTotal;
       const pctTermRemaing = daysRemaining / daysTotal;
       
-      weekDay = now.getDay(); // Sunday = 0
+      const weekDay = now.getDay(); // Sunday = 0
+      alert(weekDay);
       month = now.getMonth(); // January = 0
       monthDay = now.getDate(); // 1-31
+      var burn = document.getElementById('burn');
+      var golf = document.getElementById('golf');
+      switch (weekDay) {
+        case 0:
+        case 6:
+        alert("weekend");
+          if (burn != null)
+          burn.style.visibility = 'hidden';
+          if (golf != null)
+          golf.style.visibility = 'visible';
+          //showElement('golf');
+          //hideElement('burn');
+          break;
+        case 1:
+        case 2:
+        case 3:
+        case 4:
+          //showElement('burn');
+          //hideElement('golf');
+          break;
+        case 5:
+          break;
+        }
+
       
       document.getElementById('daysSince').textContent = daysSince >= 0 ? daysSince + " days " + fmtPercent(pctTermCompleted) + "%" : "Event is in the future";
       document.getElementById('daysRemaining').textContent = daysRemaining >= 0 ? daysRemaining + " days " + fmtPercent(pctTermRemaing) + "%" : "Event has passed";
@@ -67,8 +92,7 @@ If it's the weekend, America's Golfer-in-Chief, [Trump](https://www.donaldjtrump
 
 ## Where Is Trump?
 
-
-<!-- div id="golf" -->
+<div id="golf">
 
 ### He’s Burning 🔥 Taxpayer Money 💰 Playing Golf 🏌️‍♂️ at His Mar-a-Lago Resort ⛳️
 
@@ -77,9 +101,9 @@ If it's the weekend, America's Golfer-in-Chief, [Trump](https://www.donaldjtrump
 | **[Mar-a-Lago](https://www.maralagoclub.com/)** |
 | [The Mar-a-Lago Club](https://www.maralagoclub.com/) <br /> 1100 South Ocean Boulevard, <br /> Palm Beach, Florida 33480 <br /> <a href="tel+15618322600">+1 (561) 832-2600</a> |
 
-<!-- /div -->
+</div>
 
-<!-- div id="burn" -->
+<div id="burn">
 
 ### Trump Is Busy Burning Federal Government to the Ground
 
@@ -88,7 +112,7 @@ If it's the weekend, America's Golfer-in-Chief, [Trump](https://www.donaldjtrump
 | **[White House](https://www.whitehouse.gov)** |
 | 1600 Pennsylvania Ave., NW <br /> Washington, DC 20500 <br /> <a href="tel:+12024561111">+1 (202) 456-1111</a> (comments) <br /> <a href="tel:+12024561414">+1 (202) 456-1414</a> (switchboard) |
 
-<!-- /div -->
+</div>
 
 #### Check FAA NOTAM SECURITY/VIP
 
