@@ -10,7 +10,7 @@ excerpt: ''
 title: "The Trump Crime Family: Make America Grift Again – Meme Coin Auction For Dinner"
 ---
 
-- 2025-05-04: [The Trump Crime Family: $TRUMP Meme Cryptocoin Dinner Is Another Grift]({% link _posts/2025/05/2025-05-04-TrumpGriftingMemeCoinDinner.md %})
+- 2025-05-04: [The Trump Crime Family: $TRUMP Meme Cryptocoin Dinner Is Another Grift]({% link _posts/2025/05/2025-05-06-TrumpGriftingMemeCoinDinner.md %})
 
 | **Virginia, Potomac Falls** |
 |---|
