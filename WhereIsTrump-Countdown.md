@@ -135,7 +135,7 @@ If it's the weekend, America's Golfer-in-Chief, [Trump](https://www.donaldjtrump
     <th>Burning 🔥 Federal Government</th>
   </tr>
   <tr>
-    <td><strong><a class="page-link" href="https://www.whitehouse.gov">White House</a><strong></td>
+    <td><strong><a class="page-link" href="https://www.whitehouse.gov">White House</a></strong></td>
   </tr>
   <tr>
     <td>1600 Pennsylvania Ave., NW <br /> Washington, DC 20500 <br /> <a class="page-link" href="tel:+12024561111">+1 (202) 456-1111</a> (comments) <br /> <a class="page-link" href="tel:+12024561414">+1 (202) 456-1414</a> (switchboard)</td>
