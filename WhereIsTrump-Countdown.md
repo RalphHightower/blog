@@ -36,14 +36,30 @@ If it's the weekend, America's Golfer-in-Chief, [Trump](https://www.donaldjtrump
       const msPerDay = 24 * 60 * 60 * 1000;
       return Math.floor((to - from) / msPerDay);
     }
-    
+
     function fmtPercent(real) {
       const pct = Math.round(real * 10000) / 100;
       percent = pct.toFixed(2);
       return percent;
     }
-    
+
+    function showElement(name) {
+      const element = document.getElementById(name);
+      if (element != null) {
+        document.getElementById(name).style.display = 'block';
+      }
+    }
+
+    function hideElement(name) {
+      var element = document.getElementById(name);
+      if (element != null) {
+        element.style.display = 'none';
+      }
+    }
+
     function updateCounters() {
+      showElement('burn');
+      showElement('golf');
       const now = new Date();
       // Set time to noon for today
       now.setHours(12, 0, 0, 0);
@@ -53,9 +69,9 @@ If it's the weekend, America's Golfer-in-Chief, [Trump](https://www.donaldjtrump
       const daysTotal = getDaysDiff(startDate, endDate);
       const pctTermCompleted = daysSince / daysTotal;
       const pctTermRemaing = daysRemaining / daysTotal;
-      
-      const weekDay = now.getDay(); // Sunday = 0
-      alert(weekDay);
+  
+      weekDay = now.getDay(); // Sunday = 0
+      //weekDay = 0;
       month = now.getMonth(); // January = 0
       monthDay = now.getDate(); // 1-31
       var burn = document.getElementById('burn');
@@ -63,26 +79,26 @@ If it's the weekend, America's Golfer-in-Chief, [Trump](https://www.donaldjtrump
       switch (weekDay) {
         case 0:
         case 6:
-        alert("weekend");
-          if (burn != null)
-          burn.style.visibility = 'hidden';
-          if (golf != null)
-          golf.style.visibility = 'visible';
-          //showElement('golf');
-          //hideElement('burn');
+        case 7: // out of bounds special: holiday
+          //document.getElementById('burn').style.display = 'none';
+          //document.getElementById('golf').style.display = 'block';
+          showElement('golf');
+          hideElement('burn');
           break;
         case 1:
         case 2:
         case 3:
         case 4:
-          //showElement('burn');
-          //hideElement('golf');
+          //document.getElementById('burn').style.display = 'block';
+          //document.getElementById('golf').style.display = 'none';
+          showElement('burn');
+          hideElement('golf');
           break;
-        case 5:
+        case 5: // special case: check time
           break;
         }
 
-      
+
       document.getElementById('daysSince').textContent = daysSince >= 0 ? daysSince + " days " + fmtPercent(pctTermCompleted) + "%" : "Event is in the future";
       document.getElementById('daysRemaining').textContent = daysRemaining >= 0 ? daysRemaining + " days " + fmtPercent(pctTermRemaing) + "%" : "Event has passed";
     }
@@ -96,10 +112,17 @@ If it's the weekend, America's Golfer-in-Chief, [Trump](https://www.donaldjtrump
 
 ### He’s Burning 🔥 Taxpayer Money 💰 Playing Golf 🏌️‍♂️ at His Mar-a-Lago Resort ⛳️
 
-| Golfing ⛳️ |
-|---|
-| **[Mar-a-Lago](https://www.maralagoclub.com/)** |
-| [The Mar-a-Lago Club](https://www.maralagoclub.com/) <br /> 1100 South Ocean Boulevard, <br /> Palm Beach, Florida 33480 <br /> <a href="tel+15618322600">+1 (561) 832-2600</a> |
+<table>
+  <tr>
+    <th>Golfing ⛳️</th>
+  </tr>
+  <tr>
+    <td><strong><a href="https://www.maralagoclub.com/">Mar-a-Lago</a></strong></td>
+  </tr>
+  <tr>
+    <td><a href="https://www.maralagoclub.com/">The Mar-a-Lago Club<br /> 1100 South Ocean Boulevard, <br /> Palm Beach, Florida 33480 <br /> <a href="tel+15618322600">+1 (561) 832-2600</a></a></td>
+  </tr>
+</table>
 
 </div>
 
@@ -107,10 +130,17 @@ If it's the weekend, America's Golfer-in-Chief, [Trump](https://www.donaldjtrump
 
 ### Trump Is Busy Burning Federal Government to the Ground
 
-| Burning 🔥 Federal Government |
-|---|
-| **[White House](https://www.whitehouse.gov)** |
-| 1600 Pennsylvania Ave., NW <br /> Washington, DC 20500 <br /> <a href="tel:+12024561111">+1 (202) 456-1111</a> (comments) <br /> <a href="tel:+12024561414">+1 (202) 456-1414</a> (switchboard) |
+<table>
+  <tr>
+    <th>Burning 🔥 Federal Government</th>
+  </tr>
+  <tr>
+    <td><strong><a href="https://www.whitehouse.gov">White House</a><strong></td>
+  </tr>
+  <tr>
+    <td>1600 Pennsylvania Ave., NW <br /> Washington, DC 20500 <br /> <a href="tel:+12024561111">+1 (202) 456-1111</a> (comments) <br /> <a href="tel:+12024561414">+1 (202) 456-1414</a> (switchboard)</td>
+  </tr>
+</table>
 
 </div>
 
