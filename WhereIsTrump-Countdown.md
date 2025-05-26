@@ -32,10 +32,23 @@ If it's the weekend, America's Golfer-in-Chief, [Trump](https://www.donaldjtrump
 
 <h3> He’s Burning 🔥 Taxpayer Money 💰 Playing Golf 🏌️‍♂️ at His Mar-a-Lago Resort ⛳️</h3>
 
+<div id="winter">
+
 | Golfing ⛳️ |
 |---|
 | **Florida, Palm Beach ([Mar-a-Lago](https://www.maralagoclub.com/))** |
 | [The Mar-a-Lago Club](https://www.maralagoclub.com/)</a><br /> 1100 South Ocean Boulevard, <br /> Palm Beach, Florida 33480 <br /> <a class="page-link" href="tel+15618322600">+1 (561) 832-2600</a> |
+
+</div>
+
+<div id="summer">
+
+| Golfing ⛳️ |
+|---|
+| **New Jersey, Bedminster** |
+| **[Trump National Golf Club Bedminster](https://www.trumpnationalbedminster.com/)** <br /> 900 Lamington Road <br /> Bedminster, NJ 07921 <br /> <a href="tel:+19084704400">+1 (908) 470-4400</a> |
+
+</div>
 
 </div>
 
@@ -106,7 +119,6 @@ If it's the weekend, America's Golfer-in-Chief, [Trump](https://www.donaldjtrump
       const pctTermRemaing = daysRemaining / daysTotal;
   
       weekDay = now.getDay(); // Sunday = 0
-      weekDay = 0;
       month = now.getMonth(); // January = 0
       monthDay = now.getDate(); // 1-31
       var burn = document.getElementById('burn');
@@ -115,8 +127,6 @@ If it's the weekend, America's Golfer-in-Chief, [Trump](https://www.donaldjtrump
         case 0:
         case 6:
         case 7: // out of bounds special: holiday
-          //document.getElementById('burn').style.display = 'none';
-          //document.getElementById('golf').style.display = 'block';
           showElement('golf');
           hideElement('burn');
           break;
@@ -124,8 +134,6 @@ If it's the weekend, America's Golfer-in-Chief, [Trump](https://www.donaldjtrump
         case 2:
         case 3:
         case 4:
-          //document.getElementById('burn').style.display = 'block';
-          //document.getElementById('golf').style.display = 'none';
           showElement('burn');
           hideElement('golf');
           break;
