@@ -108,37 +108,37 @@ If it's the weekend, America's Golfer-in-Chief, [Trump](https://www.donaldjtrump
 
 ## Where Is Trump?
 
-<div id="golf">
+<div class="post-content" id="golf">
 
-### He’s Burning 🔥 Taxpayer Money 💰 Playing Golf 🏌️‍♂️ at His Mar-a-Lago Resort ⛳️
+<h3> He’s Burning 🔥 Taxpayer Money 💰 Playing Golf 🏌️‍♂️ at His Mar-a-Lago Resort ⛳️</h3>
 
 <table>
   <tr>
     <th>Golfing ⛳️</th>
   </tr>
   <tr>
-    <td><strong><a href="https://www.maralagoclub.com/">Mar-a-Lago</a></strong></td>
+    <td><strong><a class="page-link" href="https://www.maralagoclub.com/">Mar-a-Lago</a></strong></td>
   </tr>
   <tr>
-    <td><a href="https://www.maralagoclub.com/">The Mar-a-Lago Club<br /> 1100 South Ocean Boulevard, <br /> Palm Beach, Florida 33480 <br /> <a href="tel+15618322600">+1 (561) 832-2600</a></a></td>
+    <td><a class="page-link" href="https://www.maralagoclub.com/">The Mar-a-Lago Club</a><br /> 1100 South Ocean Boulevard, <br /> Palm Beach, Florida 33480 <br /> <a class="page-link" href="tel+15618322600">+1 (561) 832-2600</a></td>
   </tr>
 </table>
 
 </div>
 
-<div id="burn">
+<div class="post-content" id="burn">
 
-### Trump Is Busy Burning Federal Government to the Ground
+<h3>Trump Is Busy Burning Federal Government to the Ground</h3>
 
 <table>
   <tr>
     <th>Burning 🔥 Federal Government</th>
   </tr>
   <tr>
-    <td><strong><a href="https://www.whitehouse.gov">White House</a><strong></td>
+    <td><strong><a class="page-link" href="https://www.whitehouse.gov">White House</a></strong></td>
   </tr>
   <tr>
-    <td>1600 Pennsylvania Ave., NW <br /> Washington, DC 20500 <br /> <a href="tel:+12024561111">+1 (202) 456-1111</a> (comments) <br /> <a href="tel:+12024561414">+1 (202) 456-1414</a> (switchboard)</td>
+    <td>1600 Pennsylvania Ave., NW <br /> Washington, DC 20500 <br /> <a class="page-link" href="tel:+12024561111">+1 (202) 456-1111</a> (comments) <br /> <a class="page-link" href="tel:+12024561414">+1 (202) 456-1414</a> (switchboard)</td>
   </tr>
 </table>
 
