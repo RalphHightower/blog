@@ -15,15 +15,15 @@ If it's the weekend, America's Golfer-in-Chief, [Trump](https://www.donaldjtrump
 
 ## Days Into / Terminal Count Down 
 
-<div class="page-content"><strong>Current time: </strong><div class="page-content" id="current-time"></div></div>
+<div class="page-content" id="current-time"></div>
 
 ### Days of Hell
 
-<div class="page-content"><strong >Days into term: </strong><div class="page-content" id="daysSince"></div></div>
+<div class="page-content" id="daysSince"></div>
 
 ### Computer, End Trump Presidency Simulation.[^2025]
 
-<div class="page-content"><strong >Days remaining in term: </strong><div class="page-content" id="daysRemaining"></div></div>
+<div class="page-content" id="daysRemaining"></div>
 
 [^2025]: @RalphHightower: I'm wishing that the time between January 20, 2025 and January 20, 2029 is a just a nightmare Holodeck[^2029] simulation. 
 
@@ -202,8 +202,8 @@ function updateCounters() {
             break;
         }
 
-    setElementText('daysSince', (daysSince >= 0 ? daysSince + " days " + fmtPercent(pctTermCompleted) + "%" : "Event is in the future"));
-    setElementText('daysRemaining', (daysRemaining >= 0 ? daysRemaining + " days " + fmtPercent(pctTermRemaing) + "%" : "Event has passed"));
+    setElementText('daysSince', "Days into term: " + (daysSince >= 0 ? daysSince + " days " + fmtPercent(pctTermCompleted) + "%" : "Event is in the future"));
+    setElementText('daysRemaining', "Days remaining in term: " + (daysRemaining >= 0 ? daysRemaining + " days " + fmtPercent(pctTermRemaing) + "%" : "Event has passed"));
     }
 
     updateCounters();
