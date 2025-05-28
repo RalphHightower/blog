@@ -10,17 +10,20 @@ date: 2025-05-27 9:36 PM
 title: "Where Is Trump? 🔥DC? FL⛳️?"
 ---
 
-If it's the weekend, America's Golfer-in-Chief, [Trump](https://www.donaldjtrump.com/) is busy grifting America, playing golf at his [Mar-a-Lago Golf Resort](https://www.maralagoclub.com/)
+
+If it's the weekend, America's Golfer-in-Chief, [Trump](https://www.donaldjtrump.com/) is busy grifting America, playing golf at one of his golf courses. 
 
 ## Days Into / Terminal Count Down 
 
+<div class="page-content"><strong>Current time: </strong><div class="page-content" id="current-time"></div></div>
+
 ### Days of Hell
 
-<div id="daysSince"></div>
+<div class="page-content"><strong >Days into term: </strong><div class="page-content" id="daysSince"></div></div>
 
 ### Computer, End Trump Presidency Simulation.[^2025]
 
-<div id="daysRemaining"></div>
+<div class="page-content"><strong >Days remaining in term: </strong><div class="page-content" id="daysRemaining"></div></div>
 
 [^2025]: @RalphHightower: I'm wishing that the time between January 20, 2025 and January 20, 2029 is a just a nightmare Holodeck[^2029] simulation. 
 
@@ -109,40 +112,45 @@ If it's the weekend, America's Golfer-in-Chief, [Trump](https://www.donaldjtrump
 - [JSON : Roll Call Factba.se - Donald J. Trump's Public Schedule](https://media-cdn.factba.se/rss/json/trump/calendar-full.json)
 
 <script>
-    // Set your dates here (year, month (0-based), day, hour, minute)
-    const startDate = new Date(2025, 0, 19, 0, 0);     // Jan 20, 2025 12:00 PM
-    const endDate = new Date(2029, 0, 20, 12, 0, 0);      // Jan 20, 2029, 12:00 PM
+// Set your dates here (year, month (0-based), day, hour, minute)
+const startDate = new Date(2025, 0, 19, 0, 0);     // Jan 20, 2025 12:00 PM
+const endDate = new Date(2029, 0, 20, 12, 0, 0);      // Jan 20, 2029, 12:00 PM
 
-    function getDaysDiff(from, to) {
-      // Calculate difference in milliseconds
-      const msPerDay = 24 * 60 * 60 * 1000;
-      return Math.floor((to - from) / msPerDay);
+function getDaysDiff(from, to) {
+    // Calculate difference in milliseconds
+    const msPerDay = 24 * 60 * 60 * 1000;
+    return Math.floor((to - from) / msPerDay);
     }
 
-    function fmtPercent(real) {
-      const pct = Math.round(real * 10000) / 100;
-      percent = pct.toFixed(2);
-      return percent;
+function fmtPercent(real) {
+    const pct = Math.round(real * 10000) / 100;
+    percent = pct.toFixed(2);
+    return percent;
     }
 
- function showElement(name) {
+function showElement(name) {
     const element = document.getElementById(name);
     if (element != null) {
         document.getElementById(name).style.display = 'block';
+        }
     }
-}
 
 function hideElement(name) {
     var element = document.getElementById(name);
-    if (element != null) {
+        if (element != null) {
         element.style.display = 'none';
+        }
     }
-}
+
+function setElementText(element, text) {
+    document.getElementById(element).textContent =  text;
+    }
 
 function updateCounters() {
     showElement('burn');
     showElement('golf');
     const now = new Date();
+    setElementText('current-time', now.toString());
     // Set time to noon for today
     now.setHours(12, 0, 0, 0);
     const daysSince = getDaysDiff(startDate, now);
@@ -169,11 +177,11 @@ function updateCounters() {
             if (isMarALagoOpen(date)) {
                 showElement('golf-winter');
                 hideElement('golf-summer');
-            }
+                }
             else {
                 showElement('golf-summer');
                 hideElement('golf-winter');
-            }
+                }
             break;
         case 1:
         case 2:
@@ -186,17 +194,17 @@ function updateCounters() {
             if (now.getHour() > 16) {
                 showElement('golf');
                 hideElement('burn');
-           }
+               }
             else {
                 showElement('burn');
                 hideElement('golf');
-            }
+                }
             break;
-    }
+        }
 
-    document.getElementById('daysSince').textContent = daysSince >= 0 ? daysSince + " days " + fmtPercent(pctTermCompleted) + "%" : "Event is in the future";
-    document.getElementById('daysRemaining').textContent = daysRemaining >= 0 ? daysRemaining + " days " + fmtPercent(pctTermRemaing) + "%" : "Event has passed";
-}
+    setElementText('daysSince', (daysSince >= 0 ? daysSince + " days " + fmtPercent(pctTermCompleted) + "%" : "Event is in the future"));
+    setElementText('daysRemaining', (daysRemaining >= 0 ? daysRemaining + " days " + fmtPercent(pctTermRemaing) + "%" : "Event has passed"));
+    }
 
     updateCounters();
     
@@ -205,7 +213,7 @@ function isHoliday(date) {
     if (! retVal)
         retVal = fixedHoliday(date);
     return (retVal);
-}
+    }
 
 //floating holidays (shift to Friday or Monday if on weekend)
 //1. New Year's Day (January 1)
@@ -227,7 +235,7 @@ function floatingHoliday(param) { // 1
         case 6: // Saturday
             shift = -1;
             break;
-    } //2
+        } //2
 
     var retVal = false;
 
@@ -259,9 +267,9 @@ function floatingHoliday(param) { // 1
                 || ((dateMonth == 31) && (shift == -1) ? true: false);
 //            retVal = (dateMonth == 25 ? true : (dateMonth - shift) = 25) ?  || (dateMonth == 31) && (shift == -1) ? true : false);
             break;
-    } //2
+        } //2
     return (retVal);
-} //1
+    } //1
 
 //Fixed (fixed day of week)
 //1. Birthday of Martin Luther King, Jr. (Third Monday in January) [15-21]
@@ -299,22 +307,22 @@ function fixedHoliday(param) { //1
                 case 10: // October (Second Monday in October) [08-14]
                     retVal = ((8 <= dateMonth) && (dateMonth <= 14));
                     break;
-                } // 4
-        } //3
-    } //2
+                    } // 4
+            } //3
+        } //2
     else if ((month == 11) && (weekDay == 4)) { //2
         // Thanksgiving (Fourth Thursday in November) [22-28]
         retVal = ((22 <= dateMonth) && (dateMonth <= 28));
-    } //2
+        } //2
     return (retVal);
-} //1
+    } //1
 
 function isMarALagoOpen(today) {
     dateToday = new Date(today);
     dateMothersDay = new Date(mothersDay(today));
     dateHalloween = new Date(dateToday.getFullYear(), 9, 31);
     return ((dateMothersDay <= dateToday) && (dateToday <= dateHalloween) ? false : true);
-}
+    }
 
 function mothersDay(param) {
     date = new Date(param);
@@ -332,7 +340,7 @@ function mothersDay(param) {
     secondSunday = (15 - (weekDay > 0 ? weekDay : 7));
     dateMotherDay = new Date(year, 4, secondSunday);
     return(dateMotherDay);
-}
+    }
 
 // <!--
 // 01  02  03  04  05  06  07

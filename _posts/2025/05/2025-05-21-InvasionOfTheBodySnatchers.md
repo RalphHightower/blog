@@ -12,7 +12,7 @@ title: "Marco? Polo? Where's Rubio? Invasion of the Body Snatchers"
 
 First [Elon Musk](https://ir.tesla.com/corporate/elon-musk) saw "dead people" in the [Social Security](https://www.ssa.gov/) database. 
 
-- [Here Comes the Zombie Apocalypse! Musk Says  “I See Dead People!”]({% link _posts/2025/02/2025-02-22-ZombieApocalypse.md %}2025-02-22)
+- 2025-02-22: [Here Comes the Zombie Apocalypse! Musk Says  “I See Dead People!”]({% link _posts/2025/02/2025-02-22-ZombieApocalypse.md %})
 
 [VIDEO: Senator Rosen Blasts Secretary Rubio for Complicity in Trump Administration’s Disastrous Foreign Policies - Jacky Rosen](https://www.rosen.senate.gov/2025/05/20/video-senator-rosen-blasts-secretary-rubio-for-complicity-in-trump-administrations-disastrous-foreign-policies/)
 
