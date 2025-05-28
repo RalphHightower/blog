@@ -2,7 +2,7 @@
 layout: page
 tags: [Location Predictor, Count Down, Count Up]
 categories: [Donald Trump]
-date: 2025-05-26 4:35 PM
+date: 2025-05-27 9:36 PM
 #excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
@@ -12,7 +12,7 @@ title: "Where Is Trump? 🔥DC? FL⛳️?"
 
 If it's the weekend, America's Golfer-in-Chief, [Trump](https://www.donaldjtrump.com/) is busy grifting America, playing golf at his [Mar-a-Lago Golf Resort](https://www.maralagoclub.com/)
 
-## Days Into / Terminal Count Down
+## Days Into / Terminal Count Down 
 
 ### Days of Hell
 
@@ -22,69 +22,45 @@ If it's the weekend, America's Golfer-in-Chief, [Trump](https://www.donaldjtrump
 
 <div id="daysRemaining"></div>
 
-[^2025]: @RalphHightower: I'm wishing that the time between January 20, 2025 and January 20, 2029 is a just a nightmare Holodeck[^2029] simulation.
+[^2025]: @RalphHightower: I'm wishing that the time between January 20, 2025 and January 20, 2029 is a just a nightmare Holodeck[^2029] simulation. 
 
 [^2029]: [Begin Program: The Reality Of Building a Holodeck Today / Star Trek](https://www.startrek.com/news/begin-program-the-reality-of-building-a-holodeck-today)<br />Star Trek: The Next Generation<br />Published May 18, 2021<br />By Becca Caddy
 
 ## Where Is Trump?
 
+<div class="post-content" id="golf">
+
+<div id="golf-winter">
+
+<h3> He’s Burning 🔥 Taxpayer Money 💰 Playing Golf 🏌️‍♂️ at His Winter Mar-a-Lago Resort ⛳️</h3>
+
+| Golfing ⛳️ |
+|---|
+| **Florida, Palm Beach ([Mar-a-Lago](https://www.maralagoclub.com/))** |
+| [The Mar-a-Lago Club](https://www.maralagoclub.com/)</a><br /> 1100 South Ocean Boulevard, <br /> Palm Beach, Florida 33480 <br /> <a class="page-link" href="tel+15618322600">+1 (561) 832-2600</a> |
+
+</div>
+
+<div id="golf-summer">
+
+<h3> He’s Burning 🔥 Taxpayer Money 💰 Playing Golf 🏌️‍♂️ at His Summer Golf Resort ⛳️ in Bedminster,  New Jersey</h3>
+
+| **New Jersey, Bedminster** |
+|---|
+| **[Trump National Golf Club Bedminster](https://www.trumpnationalbedminster.com/)** <br /> 900 Lamington Road <br /> Bedminster, NJ 07921 <br /> <a class="post-link" href="tel:+19084704400">+1 (908) 470-4400</a> |
+
+</div>
+
+</div>
+
 <div class="post-content" id="burn">
 
 <h3>Trump Is Busy Burning Federal Government to the Ground</h3>
 
-<table>
-    <tr>
-        <th>Burning 🔥  Federal Government 💣</th>
-    </tr>
-    <tr>
-        <td><strong><a class="page-link" href="https://www.whitehouse.gov/">White House</strong></a></td>
-    </tr>
-    <tr>
-        <td>1600 Pennsylvania Ave., NW <br /> Washington, DC 20500 <br /> <a class="page-link" href="tel:+12024561111">+1 (202) 456-1111</a> (comments) <br /> <a class="page-link" href="tel:+12024561414">+1 (202) 456-1414</a> (switchboard)</td>
-    </tr>
-</table>
-
-</div>
-
-<div class="post-content" id="golf">
-
-<div id="winter">
-
-<h3>He’s Burning 🔥 Taxpayer Money 💰 Playing Golf 🏌️‍♂️ at His Mar-a-Lago Resort (Winter Home) ⛳️</h3>
-
-<table>
-    <tr>
-        <th>Golfing ⛳️ </th>
-    </tr>
-    <tr>
-        <td><strong><a class="page-link" href="https://www.maralagoclub.com/">Florida, Palm Beach (Mar-a-Lago)</strong></a></td>
-    </tr>
-    <tr>
-        <td><strong><a class="page-link" href="https://www.maralagoclub.com/">The Mar-a-Lago Club</a></strong><br /> 1100 South Ocean Boulevard, <br /> Palm Beach, Florida 33480 <br /> <a class="page-link" href="tel+15618322600">+1 (561) 832-2600</a></td>
-    </tr>
-</table>
-
-[^666]: [Mar-a-Lago](https://www.maralagoclub.com/) closes after Mother's Day May second Sunday, opens Halloween [Trump's Florida home: What to know about the Mar-a-Lago club](https://www.palmbeachpost.com/story/news/2025/03/27/where-what-mar-a-lago-donald-trump-home-florida/82686108007/). March 27, 2025
-
-</div>
-
-<div id="summer">
-
-<h3>He’s Burning 🔥 Taxpayer Money 💰 Playing Golf 🏌️‍♂️ at His Bedminster New Jersey Golf Resort (Summer Home) ⛳️</h3>
-
-<table>
-    <tr>
-        <th>Golfing ⛳️</th>
-    </tr>
-    <tr>
-        <td><strong>New Jersey, Bedminster</strong></td>
-    </tr>
-    <tr>
-        <td><strong><a class="page-link" href="https://www.trumpnationalbedminster.com/">Trump National Golf Club Bedminster</a></strong><br /> 900 Lamington Road <br /> Bedminster, NJ 07921 <br /> <a class="page-link" href="tel:+19084704400">+1 (908) 470-4400</a></td>
-    </tr>
-</table>
-
-</div>
+| Burning 🔥 Federal Government |
+|---|
+| **[White House](https://www.whitehouse.gov/)** |
+| 1600 Pennsylvania Ave., NW <br /> Washington, DC 20500 <br /> <a class="page-link" href="tel:+12024561111">+1 (202) 456-1111</a> (comments) <br /> <a class="page-link" href="tel:+12024561414">+1 (202) 456-1414</a> (switchboard) |
 
 </div>
 
@@ -94,29 +70,29 @@ If it's the weekend, America's Golfer-in-Chief, [Trump](https://www.donaldjtrump
 - [JSON : Federal Aviation Administration - Graphic TFRs](https://tfr.faa.gov/tfr3/export/json)
 - [XML : Federal Aviation Administration - Graphic TFRs](https://tfr.faa.gov/tfr3/export/xml)
 
-#### Check His Public Schedule
+#### Check His Public Schedule 
 
 - [Roll Call Factba.se - Donald J. Trump's Public Schedule](https://rollcall.com/factbase/trump/topic/calendar/)
 - [JSON : Roll Call Factba.se - Donald J. Trump's Public Schedule](https://media-cdn.factba.se/rss/json/trump/calendar-full.json)
 
 <script>
-// Set your dates here (year, month (0-based), day, hour, minute)
-const startDate = new Date(2025, 0, 19, 0, 0, 0); // Jan 20, 2025 12:00 PM
-const endDate = new Date(2029, 0, 20, 12, 0, 0); // Jan 20, 2029, 12:00 PM
+    // Set your dates here (year, month (0-based), day, hour, minute)
+    const startDate = new Date(2025, 0, 19, 0, 0);     // Jan 20, 2025 12:00 PM
+    const endDate = new Date(2029, 0, 20, 12, 0, 0);      // Jan 20, 2029, 12:00 PM
 
-function getDaysDiff(from, to) {
-    // Calculate difference in milliseconds
-    const msPerDay = 24 * 60 * 60 * 1000;
-    return Math.floor((to - from) / msPerDay);
-}
+    function getDaysDiff(from, to) {
+      // Calculate difference in milliseconds
+      const msPerDay = 24 * 60 * 60 * 1000;
+      return Math.floor((to - from) / msPerDay);
+    }
 
-function fmtPercent(real) {
-    const pct = Math.round(real * 10000) / 100;
-    percent = pct.toFixed(2);
-    return percent;
-}
+    function fmtPercent(real) {
+      const pct = Math.round(real * 10000) / 100;
+      percent = pct.toFixed(2);
+      return percent;
+    }
 
-function showElement(name) {
+ function showElement(name) {
     const element = document.getElementById(name);
     if (element != null) {
         document.getElementById(name).style.display = 'block';
@@ -130,53 +106,73 @@ function hideElement(name) {
     }
 }
 
-function updateCounters() { // 1
+function updateCounters() {
     showElement('burn');
     showElement('golf');
-    const now = new Date("2025-07-04 00:00 EST");
+    const now = new Date();
     // Set time to noon for today
-    now.setHours(12, 0, 0);
-
+    now.setHours(12, 0, 0, 0);
     const daysSince = getDaysDiff(startDate, now);
     const daysRemaining = getDaysDiff(now, endDate);
     const daysTotal = getDaysDiff(startDate, endDate);
     const pctTermCompleted = daysSince / daysTotal;
     const pctTermRemaing = daysRemaining / daysTotal;
-
+    
     weekDay = now.getDay(); // Sunday = 0
     month = now.getMonth(); // January = 0
     monthDay = now.getDate(); // 1-31
     var burn = document.getElementById('burn');
     var golf = document.getElementById('golf');
-    if (isHoliday(now))
+    
+    const holiday = isHoliday(now);
+    if (holiday)
         weekDay = 7;
-    switch (weekDay) { // 2
+    switch (weekDay) {
         case 0:
         case 6:
         case 7: // out of bounds special: holiday
             showElement('golf');
             hideElement('burn');
-            if (isMarALagoOpen(now)) { // 3
-                showElement('winter');
-                hideElement('summer');
-            } // 3
-            else { // 3
-                hideElement('winter');
-                showElement('summer');
-            } // 3
+            if (isMarALagoOpen(date)) {
+                showElement('golf-winter');
+                hideElement('golf-summer');
+            }
+            else {
+                showElement('golf-summer');
+                hideElement('golf-winter');
+            }
             break;
         case 1:
         case 2:
         case 3:
         case 4:
-        case 5: // special case: check time
             showElement('burn');
             hideElement('golf');
             break;
-    } // 2
+        case 5: // special case: check time
+            if (now.getHour() > 16) {
+                showElement('golf');
+                hideElement('burn');
+           }
+            else {
+                showElement('burn');
+                hideElement('golf');
+            }
+            break;
+    }
+
     document.getElementById('daysSince').textContent = daysSince >= 0 ? daysSince + " days " + fmtPercent(pctTermCompleted) + "%" : "Event is in the future";
-      document.getElementById('daysRemaining').textContent = daysRemaining >= 0 ? daysRemaining + " days " + fmtPercent(pctTermRemaing) + "%" : "Event has passed";
-  } //1
+    document.getElementById('daysRemaining').textContent = daysRemaining >= 0 ? daysRemaining + " days " + fmtPercent(pctTermRemaing) + "%" : "Event has passed";
+}
+
+    updateCounters();
+    
+function isHoliday(date) {
+    retVal = floatingHoliday(date);
+    if (! retVal)
+        retVal = fixedHoliday(date);
+    return (retVal);
+}
 
 //floating holidays (shift to Friday or Monday if on weekend)
 //1. New Year's Day (January 1)
@@ -226,7 +222,9 @@ function floatingHoliday(param) { // 1
             break;
         // December 25 (12/24, 12/26, 12/31: NYD)
         case 12: // December
-            retVal = (dateMonth == 25 ? true : (dateMonth - shift) = 25) || (dateMonth == 31) && (shift == -1) ? true : false);
+            retVal = (dateMonth == 25 ? true : (dateMonth - shift) == 19 ? true : false)
+                || ((dateMonth == 31) && (shift == -1) ? true: false);
+//            retVal = (dateMonth == 25 ? true : (dateMonth - shift) = 25) ?  || (dateMonth == 31) && (shift == -1) ? true : false);
             break;
     } //2
     return (retVal);
@@ -239,9 +237,9 @@ function floatingHoliday(param) { // 1
 //4. Labor Day (First Monday in September) [01-07]
 //5. Columbus Day (Second Monday in October) [08-14]
 //6. Thanksgiving Day (Fourth Thursday in November) [22-28]
-function fixedHoliday(today) { //1
+function fixedHoliday(param) { //1
     retVal = false;
-    now = new Date(today);
+    now = new Date(param);
     const month = now.getMonth() + 1;
     const weekDay = now.getDay(); // Sunday = 0
     const dateMonth = now.getDate();
@@ -290,7 +288,7 @@ function mothersDay(param) {
     year = date.getFullYear();
     mayDay = new Date(year, 4, 1);
     weekDay = mayDay.getDay();
-//May begins : Second Sunday
+//May begins : Second Sunday 
 //1:14
 //2:13
 //3:12
@@ -302,6 +300,7 @@ function mothersDay(param) {
     dateMotherDay = new Date(year, 4, secondSunday);
     return(dateMotherDay);
 }
+
 // <!--
 // 01  02  03  04  05  06  07
 // 08  09  10  11  12  13  14
