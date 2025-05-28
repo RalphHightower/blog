@@ -97,37 +97,6 @@ If it's the weekend, America's Golfer-in-Chief, [Trump](https://www.donaldjtrump
 
 </div>
 
-<table>
-    <thead>
-        <tr>
-            <th>Golfing ⛳️</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td><strong>Florida, Palm Beach</strong></td>
-        </tr>
-        <tr>
-            <td><strong><a class="post-link" href="https://www.maralagoclub.com/">The Mar-a-Lago Club</a></strong><br /> 1100 South Ocean Boulevard, <br /> Palm Beach, Florida 33480 <br /> <a class="page-link" href="tel+15618322600">+1 (561) 832-2600</a></td>
-        </tr>
-    </tbody>
-</table>
-
-<table>
-    <thead>
-        <tr>
-            <th>Golfing ⛳️</th>
-        </tr>
-    </thead>
-   <tbody>
-        <tr>
-            <td><strong>New Jersey, Bedminster</strong></td>
-        </tr>
-            <td><strong><a class="post-link" href="https://www.trumpnationalbedminster.com/">Trump National Golf Club Bedminster</a></strong><br />900 Lamington Road <br /> Bedminster, NJ 07921 <br /> <a class="post-link" href="tel:+19084704400">+1 (908) 470-4400</a></td>
-        </tr>
-    </tbody>
-</table>
-
 #### Check FAA NOTAM SECURITY/VIP
 
 - [Federal Aviation Administration - Graphic TFRs](https://tfr.faa.gov/tfr3/?page=list)
