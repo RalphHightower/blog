@@ -2,7 +2,7 @@
 layout: page
 tags: [assholes, Donald Trump, Elon Musk, Betsy DeVos, MAGA billionaires, billionaire, Trump donors, Republican PAC, Make America Great Again (MAGA)]
 categories: [Telephone Numbers]
-date: 2025-05-24 7:09 PM
+date: 2025-05-27 7:46 PM
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description: 
@@ -18,6 +18,15 @@ The telephone numbers below have called and there is an empty person on the othe
 
 | Telephone Number | Location | Date Time[^11] | Caller | Social Media |
 |---|---|---|---|---|
+| <a href="tel:+18032684782">+1 (803) 268-4782</a> | SC. Orangeburg | 2025-05-27 06:18 PM | — | |
+| <a href="tel:+18036771282">+1 (803) 677-1282</a> | SC. Camden | 2025-05-27 05:29 PM | — | |
+| <a href="tel:+18037598080">+1 (803) 759-8080</a> | SC. | 2025-05-27 02:06 PM ¤¤ | — | |
+| <a href="tel:+18037598080">+1 (803) 759-8080</a> | SC. | 2025-05-27 02:05 PM | — | |
+| <a href="tel:+18034892508">+1 (803) 489-2508</a> | SC. Beech | 2025-05-27 11:54 AM | — | |
+| <a href="tel:+18036130041">+1 (803) 613-0041</a> | SC. North Augusta | 2025-05-27 11:12 AM ¤¤ | — | |
+| <a href="tel:+18036130041">+1 (803) 613-0041</a> | SC. North Augusta | 2025-05-27 11:11 AM | — | |
+| <a href="tel:+18032121372">+1 (803) 212-1372</a> | SC. Columbia | 2025-05-27 10:34 AM | — | |
+| <a href="tel:+18039323848">+1 (803) 932-3848</a> | SC. | 2025-05-27 10:26 AM | GIS Inc | |
 | <a href="tel:+18039788145">+1 (803) 978-8145</a> | SC. | 2025-05-24 01:57 PM | — | |
 | <a href="tel:+18039047852">+1 (803) 904-7852</a> | SC. Columbia | 2025-05-24 01:36 PM | — | |
 | <a href="tel:+18035429735">+1 (803) 542-9735</a> | SC. Columbia | 2025-05-24 01:11 PM ¤¤ | — | |
