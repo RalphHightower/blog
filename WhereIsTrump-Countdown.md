@@ -30,24 +30,46 @@ If it's the weekend, America's Golfer-in-Chief, [Trump](https://www.donaldjtrump
 
 <div class="post-content" id="golf">
 
-<div id="golf-winter">
+<div class="post-content" id="golf-winter">
 
 <h3> He’s Burning 🔥 Taxpayer Money 💰 Playing Golf 🏌️‍♂️ at His Winter Mar-a-Lago Resort ⛳️</h3>
 
-| Golfing ⛳️ |
-|---|
-| **Florida, Palm Beach ([Mar-a-Lago](https://www.maralagoclub.com/))** |
-| [The Mar-a-Lago Club](https://www.maralagoclub.com/)</a><br /> 1100 South Ocean Boulevard, <br /> Palm Beach, Florida 33480 <br /> <a class="page-link" href="tel+15618322600">+1 (561) 832-2600</a> |
+<table>
+    <thead>
+        <tr>
+            <th>Golfing ⛳️</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><strong>Florida, Palm Beach</strong></td>
+        </tr>
+        <tr>
+            <td><strong><a class="post-link href="https://www.maralagoclub.com/">The Mar-a-Lago Club</a></strong><br /> 1100 South Ocean Boulevard, <br /> Palm Beach, Florida 33480 <br /> <a class="page-link" href="tel+15618322600">+1 (561) 832-2600</a></td>
+        </tr>
+    </tbody>
+</table>
 
 </div>
 
-<div id="golf-summer">
+<div class="post-content" id="golf-summer">
 
 <h3> He’s Burning 🔥 Taxpayer Money 💰 Playing Golf 🏌️‍♂️ at His Summer Golf Resort ⛳️ in Bedminster,  New Jersey</h3>
 
-| **New Jersey, Bedminster** |
-|---|
-| **[Trump National Golf Club Bedminster](https://www.trumpnationalbedminster.com/)** <br /> 900 Lamington Road <br /> Bedminster, NJ 07921 <br /> <a class="post-link" href="tel:+19084704400">+1 (908) 470-4400</a> |
+<table>
+    <thead>
+        <tr>
+            <th>Golfing ⛳️</th>
+        </tr>
+    </thead>
+   <tbody>
+        <tr>
+            <td><strong>New Jersey, Bedminster</strong></td>
+        </tr>
+            <td><strong><a class="post-link href="https://www.trumpnationalbedminster.com/">Trump National Golf Club Bedminster</a></strong><br />900 Lamington Road <br /> Bedminster, NJ 07921 <br /> <a class="post-link" href="tel:+19084704400">+1 (908) 470-4400</a></td>
+        </tr>
+    </tbody>
+</table>
 
 </div>
 
@@ -57,10 +79,21 @@ If it's the weekend, America's Golfer-in-Chief, [Trump](https://www.donaldjtrump
 
 <h3>Trump Is Busy Burning Federal Government to the Ground</h3>
 
-| Burning 🔥 Federal Government |
-|---|
-| **[White House](https://www.whitehouse.gov/)** |
-| 1600 Pennsylvania Ave., NW <br /> Washington, DC 20500 <br /> <a class="page-link" href="tel:+12024561111">+1 (202) 456-1111</a> (comments) <br /> <a class="page-link" href="tel:+12024561414">+1 (202) 456-1414</a> (switchboard) |
+<table>
+    <thead>
+        <tr>
+            <th>Burning 🔥 Federal Government 💣</th>
+        </tr>
+    </thead>
+   <tbody>
+        <tr>
+            <td><strong><a class="post-link href="https://www.whitehouse.gov/">White House</a></strong></td>
+        </tr>
+        <tr>
+            <td>1600 Pennsylvania Ave., NW <br /> Washington, DC 20500 <br /> <a class="page-link" href="tel:+12024561111">+1 (202) 456-1111</a> (comments) <br /> <a class="page-link" href="tel:+12024561414">+1 (202) 456-1414</a> (switchboard)</td>
+        </tr>
+    </tbody>
+</table>
 
 </div>
 
