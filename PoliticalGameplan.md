@@ -76,15 +76,15 @@ Clyburn is not in my district, but as the sole Democrat in his gerrymandered Dis
 | Office Locations |
 |---|
 | **Washington, DC** |
-| 274 Cannon House Office Building <br /> 27 Independence Ave SE <br /> Washington, DC 20515 <br /> Phone: <a href="tel:+12022253315">(202) 225-3315</a> <br /> Fax: <a href="tel:+12022252313">(202) 225-2313</a> <br /> Hours: Monday-Friday 9:00AM-5:00PM |
+| 274 Cannon House Office Building <br /> 27 Independence Ave SE <br /> Washington, DC 20515 <br /> Phone: <a class="post-link" href="tel:+12022253315">(202) 225-3315</a> <br /> Fax: <a class="post-link" href="tel:+12022252313">(202) 225-2313</a> <br /> Hours: Monday-Friday 9:00AM-5:00PM |
 | **Columbia, SC** |
-| 1225 Lady Street, Suite 200 <br /> Columbia, SC 29201 <br /> Phone: <a href="tel:+18037991100">(803) 799-1100</a> <br /> Fax: <a href="tel:+18037999060">(803) 799-9060</a> <br /> Hours: Monday-Friday 9:00AM-5:00PM |
+| 1225 Lady Street, Suite 200 <br /> Columbia, SC 29201 <br /> Phone: <a class="post-link" href="tel:+18037991100">(803) 799-1100</a> <br /> Fax: <a class="post-link" href="tel:+18037999060">(803) 799-9060</a> <br /> Hours: Monday-Friday 9:00AM-5:00PM |
 | **Kingstree, SC** |
-| 130 W. Main Street <br /> Kingstree, SC 29556 <br /> Phone: <a href="tel:+18433551211">(843) 355-1211</a> <br /> Fax: <a href="tel:+18433551232">(843) 355-1232</a> <br /> Hours: Monday-Friday 9:00AM-5:00PM |
+| 130 W. Main Street <br /> Kingstree, SC 29556 <br /> Phone: <a class="post-link" href="tel:+18433551211">(843) 355-1211</a> <br /> Fax: <a class="post-link" href="tel:+18433551232">(843) 355-1232</a> <br /> Hours: Monday-Friday 9:00AM-5:00PM |
 | **Santee, SC** |
-| 176 Municipal Way <br /> Santee, SC 29142 <br /> Phone: <a href="tel:+18038544700">(803) 854-4700</a> <br /> Fax: <a href="tel:+18038544900">(803) 854-4900</a> <br /> Hours: Monday-Friday 9:00AM-5:00PM |
+| 176 Municipal Way <br /> Santee, SC 29142 <br /> Phone: <a class="post-link" href="tel:+18038544700">(803) 854-4700</a> <br /> Fax: <a class="post-link" href="tel:+18038544900">(803) 854-4900</a> <br /> Hours: Monday-Friday 9:00AM-5:00PM |
 | **Sumter, SC** |
-| 129 South Harvin Street <br /> Sumter, SC 29150 <br /> Phone: <a href="tel:+18038835020">(803) 883-5020</a> <br /> Hours: 2nd and 4th Mondays 10:00AM–4:00PM |
+| 129 South Harvin Street <br /> Sumter, SC 29150 <br /> Phone: <a class="post-link" href="tel:+18038835020">(803) 883-5020</a> <br /> Hours: 2nd and 4th Mondays 10:00AM–4:00PM |
 
 ##### [Trump Party](https://www.gop.com/)
 
@@ -97,11 +97,11 @@ Little good that contacting Wilson will do. He's a political chameleon. First, h
 | Office Locations |
 |---|
 | **Washington, DC Office** |
-| 1436 Longworth House Office Building <br /> 1 Independence Ave SE <br /> Washington, DC  20515 <br /> Phone: <a href="tel:+12022252452">(202) 225-2452</a> |
+| 1436 Longworth House Office Building <br /> 1 Independence Ave SE <br /> Washington, DC  20515 <br /> Phone: <a class="post-link" href="tel:+12022252452">(202) 225-2452</a> |
 | **The Midlands Office** |
-| 1700 Sunset Blvd (US 378), Suite 1 <br /> West Columbia, SC  29169 <br /> Phone: <a href="tel:+18039390041">(803) 939-0041</a> <br /> Fax: <a href="tel:+18039390078">(803) 939-0078</a> |
+| 1700 Sunset Blvd (US 378), Suite 1 <br /> West Columbia, SC  29169 <br /> Phone: <a class="post-link" href="tel:+18039390041">(803) 939-0041</a> <br /> Fax: <a class="post-link" href="tel:+18039390078">(803) 939-0078</a> |
 | **Aiken/Barnwell Office** |
-| 1930 University Parkway, Suite 1600 <br /> Aiken, SC  29801 <br /> Phone: <a href="tel:+18036426416">(803) 642-6416</a> <br /> Fax: <a href="tel:+18036426418">(803) 642-6418</a> |
+| 1930 University Parkway, Suite 1600 <br /> Aiken, SC  29801 <br /> Phone: <a class="post-link" href="tel:+18036426416">(803) 642-6416</a> <br /> Fax: <a class="post-link" href="tel:+18036426418">(803) 642-6418</a> |
 
 #### [US Senate](https://www.senate.gov/)
 
@@ -126,19 +126,19 @@ Class II.
 | Office Locations |
 |---|
 | **Washington D.C. Office** |
-| 211 Russell Senate Office Building <br /> 2 Constitution Ave NE <br /> Washington, DC 20510 <br /> Office: <a href="tel:+12022245972">(202) 224-5972</a> <br /> Fax: <a href="tel:+12022243808">(202) 224-3808</a> |
+| 211 Russell Senate Office Building <br /> 2 Constitution Ave NE <br /> Washington, DC 20510 <br /> Office: <a class="post-link" href="tel:+12022245972">(202) 224-5972</a> <br /> Fax: <a class="post-link" href="tel:+12022243808">(202) 224-3808</a> |
 | **Midlands Office** |
-| 2142 Boyce Street, Suite 404 <br /> Columbia, SC 29201 <br /> <a href="tel:+18039330112">(803) 933-0112</a> office <br /> <a href="tel:+18039330957">(803) 933-0957</a> fax |
+| 2142 Boyce Street, Suite 404 <br /> Columbia, SC 29201 <br /> <a class="post-link" href="tel:+18039330112">(803) 933-0112</a> office <br /> <a class="post-link" href="tel:+18039330957">(803) 933-0957</a> fax |
 | **Upstate Office** |
-| 2 West Washington Street, Suite 808 <br /> Greenville, SC 29601 <br /> Main: <a href="tel:+18642501417">(864) 250-1417</a> <br /> Fax: <a href="tel:+18642504322">(864) 250-4322</a> |
+| 2 West Washington Street, Suite 808 <br /> Greenville, SC 29601 <br /> Main: <a class="post-link" href="tel:+18642501417">(864) 250-1417</a> <br /> Fax: <a class="post-link" href="tel:+18642504322">(864) 250-4322</a> |
 | **Pee Dee Office** |
-| McMillan Federal Building <br /> 401 West Evans Street, Suite 111 <br /> Florence, SC 29501 <br /> Main: <a href="tel:+18436681505">(843) 669-1505_/a> <br /> Fax: <a href="tel:+18336699015">(843) 669-9015</a> |
+| McMillan Federal Building <br /> 401 West Evans Street, Suite 111 <br /> Florence, SC 29501 <br /> Main: <a class="post-link" href="tel:+18436681505">(843) 669-1505</a> <br /> Fax: <a class="post-link" href="tel:+18336699015">(843) 669-9015</a> |
 | **Lowcountry Office** |
-| 4 Carriage Lane, Suite 401 <br /> Charleston, SC 29407 <br /> Main: <a href="tel:+18438493887">(843) 849-3887</a> <br /> Fax: <a href="tel:+18439713669">(843) 971-3669</a> |
+| 4 Carriage Lane, Suite 401 <br /> Charleston, SC 29407 <br /> Main: <a class="post-link" href="tel:+18438493887">(843) 849-3887</a> <br /> Fax: <a class="post-link" href="tel:+18439713669">(843) 971-3669</a> |
 | **Piedmont Office** |
-| 235 East Main Street, Suite 100 <br /> Rock Hill, SC 29730 <br /> Main: <a href="tel:+18033662828">(803) 366-2828</a> <br /> Fax: <a href="tel:+18033665353">(803) 366-5353</a> |
+| 235 East Main Street, Suite 100 <br /> Rock Hill, SC 29730 <br /> Main: <a class="post-link" href="tel:+18033662828">(803) 366-2828</a> <br /> Fax: <a class="post-link" href="tel:+18033665353">(803) 366-5353</a> |
 | **Golden Corner Office** |
-| 124 Exchange Street, Suite A <br /> Pendleton, SC 29670 <br /> Main: <a href="tel:+18646464090">(864) 646-4090</a> <br /> Fax: <a href="tel:+18646468609">(864) 646-8609</a> |
+| 124 Exchange Street, Suite A <br /> Pendleton, SC 29670 <br /> Main: <a class="post-link" href="tel:+18646464090">(864) 646-4090</a> <br /> Fax: <a class="post-link" href="tel:+18646468609">(864) 646-8609</a> |
 
 - [Trump's Poodle, Senator Lindsey Graham (T-SC), On NBC Meet The Press]({% post_url /2025/01/2025-01-26-TrumpsPoodleOnMTP %})
 - [Sen. Lindsey Graham (T-SC) States That Trump Won't Prosecute Political Enemies. Yea, Right!]({% post_url /2024/12/2024-12-15-LindseyGraham20241215MTP %})
@@ -154,13 +154,13 @@ Class III.
 | Office Locations |
 |---|
 | **Washington D.C.** |
-| 104 Hart Senate Office <br /> 120 Constitution Ave NE <br /> Washington, DC 20510 <br /> Phone: <a href="tel:+12022246121">(202) 224-6121</a> <br /> Fax: <a href="tel:+12022275143">(202) 228-5143</a> |
+| 104 Hart Senate Office <br /> 120 Constitution Ave NE <br /> Washington, DC 20510 <br /> Phone: <a class="post-link" href="tel:+12022246121">(202) 224-6121</a> <br /> Fax: <a class="post-link" href="tel:+12022275143">(202) 228-5143</a> |
 | **Midlands** |
-| 1901 Main Street <br /> Suite 1425 <br /> Columbia, SC 29201 <br /> Phone: <a href="tel:+18037716112">(803) 771-6112</a> <br /> Fax: <a href="tel:+18558028355">(855) 802-9355</a> <br /> |
+| 1901 Main Street <br /> Suite 1425 <br /> Columbia, SC 29201 <br /> Phone: <a class="post-link" href="tel:+18037716112">(803) 771-6112</a> <br /> Fax: <a class="post-link" href="tel:+18558028355">(855) 802-9355</a> <br /> |
 | **Upstate** |
-| 301 N. Main Street <br /> Suite 1006 <br /> Greenville, SC 29601 <br /> Phone: <a href="tel:+18642235366">(864) 233-5366</a> <br /> Fax: <a href="tel:+18558929355">(855) 802-9355</a> |
+| 301 N. Main Street <br /> Suite 1006 <br /> Greenville, SC 29601 <br /> Phone: <a class="post-link" href="tel:+18642235366">(864) 233-5366</a> <br /> Fax: <a class="post-link" href="tel:+18558929355">(855) 802-9355</a> |
 | **Low Country** |
-| 2500 City Hall Lane <br /> 3rd Floor Suite <br /> North Charleston, SC 29406 <br /> Phone: <a href="tel:+18437274525">(843) 727-4525</a> <br /> Fax: <a href="tel:+18558029355">(855) 802-9355</a> |
+| 2500 City Hall Lane <br /> 3rd Floor Suite <br /> North Charleston, SC 29406 <br /> Phone: <a class="post-link" href="tel:+18437274525">(843) 727-4525</a> <br /> Fax: <a class="post-link" href="tel:+18558029355">(855) 802-9355</a> |
 
 - [Sen. Tim Scott (T-SC) Is Trump's Lawn Jockey]({% post_url /2024/11/2024-11-04-TimScottIsTrumpsLawnJockey %})
 
@@ -181,44 +181,44 @@ Class III.
 | Where Trump Pretends To Work |
 |---|
 | **[White House](https://www.whitehouse.gov)** |
-| 1600 Pennsylvania Ave., NW <br /> Washington, DC 20500 <br /> <a href="tel:+12024561111">+1 (202) 456-1111</a> (comments) <br /> <a href="tel:+12024561414">+1 (202) 456-1414</a> (switchboard) |
+| 1600 Pennsylvania Ave., NW <br /> Washington, DC 20500 <br /> <a class="post-link" href="tel:+12024561111">+1 (202) 456-1111</a> (comments) <br /> <a class="post-link" href="tel:+12024561414">+1 (202) 456-1414</a> (switchboard) |
 
 ###### If It’s The Weekend, Find Trump On One Of His Golf Courses
 
 | Where Trump Can Be Found On Weekends |
 |---|
 | **[Mar-a-Lago](https://www.maralagoclub.com/)** |
-| [The Mar-a-Lago Club](https://www.maralagoclub.com/) <br /> 1100 South Ocean Boulevard, <br /> Palm Beach, Florida 33480 <br /> <a href="tel+15618322600">+1 (561) 832-2600</a> |
+| [The Mar-a-Lago Club](https://www.maralagoclub.com/) <br /> 1100 South Ocean Boulevard, <br /> Palm Beach, Florida 33480 <br /> <a class="post-link" href="tel+15618322600">+1 (561) 832-2600</a> |
 | **Florida, West Palm Beach** |
-| **[Trump International Golf Club](https://www.trumpinternationalpalmbeaches.com/)** <br /> 3505 Summit Blvd <br /> West Palm Beach FL 33406 <br /> <a href="tel:+15616820700">+1 (561) 682-0700</a> |
+| **[Trump International Golf Club](https://www.trumpinternationalpalmbeaches.com/)** <br /> 3505 Summit Blvd <br /> West Palm Beach FL 33406 <br /> <a class="post-link" href="tel:+15616820700">+1 (561) 682-0700</a> |
 | **Florida, Miami** |
-| **[Trump National Doral Golf Club](https://www.trumpgolfdoral.com/)** <br /> 4400 N.W. 87th Ave <br /> Miami, FL 33178 <br /> <a href="tel:+13055922000">+1 (305) 592-2000</a> |
+| **[Trump National Doral Golf Club](https://www.trumpgolfdoral.com/)** <br /> 4400 N.W. 87th Ave <br /> Miami, FL 33178 <br /> <a class="post-link" href="tel:+13055922000">+1 (305) 592-2000</a> |
 | **Florida, Jupiter** |
-| **[Trump National Jupiter Golf Club](https://www.trumpnationaljupiter.com/about)** <br /> 115 Eagle Tree Terrace <br /> Jupiter FL 33477 <br /> <a href="tel:+15616918700">+1 (561) 691-8700</a> |
+| **[Trump National Jupiter Golf Club](https://www.trumpnationaljupiter.com/about)** <br /> 115 Eagle Tree Terrace <br /> Jupiter FL 33477 <br /> <a class="post-link" href="tel:+15616918700">+1 (561) 691-8700</a> |
 | **Virginia, Potomac Falls** |
-| **[Trump National Golf Club Washington, D.C.](https://www.trumpnationaldc.com/)** <br /> 20391 Lowes Island Blvd <br /> Potomac Falls, VA 20165 <br /> <a href="tel:+17034444801">+1 (703) 444-4801</a> |
+| **[Trump National Golf Club Washington, D.C.](https://www.trumpnationaldc.com/)** <br /> 20391 Lowes Island Blvd <br /> Potomac Falls, VA 20165 <br /> <a class="post-link" href="tel:+17034444801">+1 (703) 444-4801</a> |
 | **New Jersey, Bedminster** |
-| **[Trump National Golf Club Bedminster](https://www.trumpnationalbedminster.com/)** <br /> 900 Lamington Road <br /> Bedminster, NJ 07921 <br /> <a href="tel:+19084704400">+1 (908) 470-4400</a> |
+| **[Trump National Golf Club Bedminster](https://www.trumpnationalbedminster.com/)** <br /> 900 Lamington Road <br /> Bedminster, NJ 07921 <br /> <a class="post-link" href="tel:+19084704400">+1 (908) 470-4400</a> |
 | **New Jersey, Colts Neck** |
-| **[Trump National Golf Club Colts Neck](https://www.trumpcoltsneck.com/)** <br /> One Trump National Blvd <br /> Colts Neck, NJ 07722 <br /> <a href="tel:+15619731550">+1 (561) 973-1550</a> |
+| **[Trump National Golf Club Colts Neck](https://www.trumpcoltsneck.com/)** <br /> One Trump National Blvd <br /> Colts Neck, NJ 07722 <br /> <a class="post-link" href="tel:+15619731550">+1 (561) 973-1550</a> |
 | **New Jersey, Pine Hill** |
-| **[Trump National Golf Club Philadelphia](https://www.trumpnationalphiladelphia.com/)** <br /> 500 West Branch Ave. <br /> Pine Hill, NJ 08021 <br /> <a href="tel:+18564353100">+1 (856) 435-3100</a> |
+| **[Trump National Golf Club Philadelphia](https://www.trumpnationalphiladelphia.com/)** <br /> 500 West Branch Ave. <br /> Pine Hill, NJ 08021 <br /> <a class="post-link" href="tel:+18564353100">+1 (856) 435-3100</a> |
 | **New York, Hopewell Junction** |
-| **[Trump National Golf Club Hudson Valley](https://www.trumpnationalhudsonvalley.com/)** <br /> 178 Stormville Rd <br /> Hopewell Junction, NY 12533 <br /> <a href="tel:+18452231600">+1 (845) 223-1600</a> |
+| **[Trump National Golf Club Hudson Valley](https://www.trumpnationalhudsonvalley.com/)** <br /> 178 Stormville Rd <br /> Hopewell Junction, NY 12533 <br /> <a class="post-link" href="tel:+18452231600">+1 (845) 223-1600</a> |
 | **New York, Briarcliff Manor** |
-| **[Trump National Golf Club Westchester](https://www.trumpnationalwestchester.com/)** <br /> 100 Shadow Tree Lane <br /> Briarcliff Manor, NY 10510 <br /> <a href="tel:+19149440900">+1 (914) 944-0900</a> |
+| **[Trump National Golf Club Westchester](https://www.trumpnationalwestchester.com/)** <br /> 100 Shadow Tree Lane <br /> Briarcliff Manor, NY 10510 <br /> <a class="post-link" href="tel:+19149440900">+1 (914) 944-0900</a> |
 | **California, Los Angeles** |
-| **[Trump National Golf Club Los Angeles](https://www.trumpnationallosangeles.com/)** <br /> One Trump National Drive <br /> Rancho Palos Verdes, CA 90275 <br /> <a href="tel:+13102655000">+1 (310) 265-5000</a> |
+| **[Trump National Golf Club Los Angeles](https://www.trumpnationallosangeles.com/)** <br /> One Trump National Drive <br /> Rancho Palos Verdes, CA 90275 <br /> <a class="post-link" href="tel:+13102655000">+1 (310) 265-5000</a> |
 | **North Carolina, Mooresville** |
-| **[Trump National Golf Club Charlotte](https://www.trumpnationalcharlotte.com/)** <br /> 120 Trump Square <br /> Mooresville, NC 28117 <br /> <a href="tel:+17047997300">+1 (704) 799-7300</a> |
+| **[Trump National Golf Club Charlotte](https://www.trumpnationalcharlotte.com/)** <br /> 120 Trump Square <br /> Mooresville, NC 28117 <br /> <a class="post-link" href="tel:+17047997300">+1 (704) 799-7300</a> |
 | **Dubai** |
-| **[Trump International Golf Club Dubai](https://www.trumpgolfdubai.com/)** <br /> DAMAC Hills <br /> Al Hebiah Third District Dubai <br /> <a href="tel:+971042453939">+971 (0) 4 245 3939</a> |
+| **[Trump International Golf Club Dubai](https://www.trumpgolfdubai.com/)** <br /> DAMAC Hills <br /> Al Hebiah Third District Dubai <br /> <a class="post-link" href="tel:+971042453939">+971 (0) 4 245 3939</a> |
 | **Ireland, Clare** |
-| **[Trump International Golf Links & Hotel Ireland, Doonbeg](https://www.trumpgolfireland.com/)** <br /> DOONBEG CO. <br /> CLARE, IRELAND <br /> Phone: <a href="tel:+353659055600">+353 65 905 5600</a> |
+| **[Trump International Golf Links & Hotel Ireland, Doonbeg](https://www.trumpgolfireland.com/)** <br /> DOONBEG CO. <br /> CLARE, IRELAND <br /> Phone: <a class="post-link" href="tel:+353659055600">+353 65 905 5600</a> |
 | **Scotland, Aberdeenshire** |
-| **[Trump MacLeod House & Lodge Scotland](https://www.trumphotels.com/macleod-house)** <br /> Menie Estate Balmedie <br /> Aberdeenshire, Scotland AB23 8YE <br /> PHONE: <a href="tel:+441358743300">+44 1358 743300</a> <br /> RESERVE: <a href="tel:+441358743300">+44 1358 743300</a> |
+| **[Trump MacLeod House & Lodge Scotland](https://www.trumphotels.com/macleod-house)** <br /> Menie Estate Balmedie <br /> Aberdeenshire, Scotland AB23 8YE <br /> PHONE: <a class="post-link" href="tel:+441358743300">+44 1358 743300</a> <br /> RESERVE: <a class="post-link" href="tel:+441358743300">+44 1358 743300</a> |
 | **Scotland, Ayrshire** |
-| **[Trump Turnberry](https://www.turnberry.co.uk/)** <br /> Maidens Road KA26 9LT Turnberry <br /> Ayrshire Scotland <br /> <a href="tel:+441655331000">+44.1655.331.000</a> <br /> <a href="tel:+4401655334115">+44 01655 334115</a> |
+| **[Trump Turnberry](https://www.turnberry.co.uk/)** <br /> Maidens Road KA26 9LT Turnberry <br /> Ayrshire Scotland <br /> <a class="post-link" href="tel:+441655331000">+44.1655.331.000</a> <br /> <a class="post-link" href="tel:+4401655334115">+44 01655 334115</a> |
 
 #### [South Carolina](https://www.sc.gov/) [Attorney General](https://www.scag.gov/)
 
@@ -233,7 +233,7 @@ Class III.
 | **Mailing Address** |
 | The Honorable Alan Wilson <br /> P.O. Box 11549 <br /> Columbia, S.C. 29211 |
 | **Office Location** |
-| Rembert Dennis Building <br /> 1000 Assembly Street, Room 519 <br /> Columbia, S.C. 29201 <br /> General Information: <a href="1-8037343970">1-803-734-3970</a> <br /> Constituent Services: <a href="1-8037373953">1-803-737-3953</a> |
+| Rembert Dennis Building <br /> 1000 Assembly Street, Room 519 <br /> Columbia, S.C. 29201 <br /> General Information: <a class="post-link" href="1-8037343970">1-803-734-3970</a> <br /> Constituent Services: <a class="post-link" href="1-8037373953">1-803-737-3953</a> |
 
 ##### My Dumb State: South Carolina
 
