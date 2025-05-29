@@ -217,8 +217,7 @@ Class III.
 | **Scotland, Aberdeenshire** |
 | **[Trump MacLeod House & Lodge Scotland](https://www.trumphotels.com/macleod-house)** <br /> Menie Estate Balmedie <br /> Aberdeenshire, Scotland AB23 8YE <br /> PHONE: <a href="tel:+441358743300">+44 1358 743300</a> <br /> RESERVE: <a href="tel:+441358743300">+44 1358 743300</a> |
 | **Scotland, Ayrshire** |
-| **[Trump Turnberry](https://www.turnberry.co.uk/)**
-<br /> Maidens Road KA26 9LT Turnberry <br /> Ayrshire Scotland <br /> <a href="tel:+441655331000">+44.1655.331.000</a> <br /> <a href="tel:+4401655334115">+44 01655 334115</a> |
+| **[Trump Turnberry](https://www.turnberry.co.uk/)** <br /> Maidens Road KA26 9LT Turnberry <br /> Ayrshire Scotland <br /> <a href="tel:+441655331000">+44.1655.331.000</a> <br /> <a href="tel:+4401655334115">+44 01655 334115</a> |
 
 #### [South Carolina](https://www.sc.gov/) [Attorney General](https://www.scag.gov/)
 
@@ -248,8 +247,8 @@ Class III.
 - [My Dumb State, South Carolina: Attorney General Alan Wilson Thinks That Trying to Overthrow An Election and Incite An Insurrection Is Legal]({% link _posts/2024/11/2024-11-01-SCAG-StopJackSmith.md %}). @RalphHightower, 2024-11-01
 - [My Dumb State, South Carolina: Attorney General Alan Wilson Whines About New York Fine of Trump Organization For 34 Felony Civil Guilty Verdicts of Business Records Falsification For Fraud (Financial, Insurance, Property Tax)]({% link _posts/2024/07/2024-07-26-SCAG-NYCivilVerdictTrumpBusinessFraud.md %}). @RalphHightower, 2024-07-26
 - [My Dumb State, South Carolina: Attorney General Alan Wilson Sues Pennsylvania For Election Fraud Over 2020 Presidential Election]({% link _posts/2019/08/2019-08-27-FEMAFundsDivertedToIllegalAliens.md %}). @RalphHightower, 2020-11-09
-- 
-- #### Attorneys General
+
+#### Attorneys General
 
 ##### [Democratic Attorneys General Association](https://dems.ag/)
 
