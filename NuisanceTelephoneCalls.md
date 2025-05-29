@@ -18,6 +18,17 @@ The telephone numbers below have called and there is an empty person on the othe
 
 | Telephone Number | Location | Date Time[^11] | Caller | Social Media |
 |---|---|---|---|---|
+| <a href="tel:+18033810940">+1 (803) 381-0940</a> | SC. Columbia | 2025-05-28 07:10 PM | — | |
+| <a href="tel:+18039009823">+1 (803) 900-9823</a> | SC. Camden | 2025-05-28 05:58 PM | — | |
+| <a href="tel:+18036241200">+1 (803) 624-1200</a> | SC. Beech Island | 2025-05-28 05:48 PM | Aiken Opthalmo | |
+| <a href="tel:+18039047943">+1 (803) 904-7943</a> | SC. Columbia | 2025-05-28 03:45 PM | — | |
+| <a href="tel:+18039531510">+1 (803) 953-1510</a> | SC. | 2025-05-28 03:27 PM | — | |
+| <a href="tel:+18038578780">+1 (803) 857-8780</a> | SC. Santee | 2025-05-28 03:07 PM | — | |
+| <a href="tel:+18039238954">+1 (803) 923-8954</a> | SC. Columbia | 2025-05-28 12:44 PM | Palmetto Health | |
+| <a href="tel:+18032488309">+1 (803) 248-8309</a> | SC. | 2025-05-28 11:58 AM | — | |
+| <a href="tel:+18036079741">+1 (803) 607-9741</a> | SC. Sumter | 2025-05-28 10:54 AM | — | |
+| <a href="tel:+18039641508">+1 (803) 964-1508</a> | SC. Hampton | 2025-05-28 10:05 AM | — | |
+| <a href="tel:+18035427045">+1 (803) 542-7045</a> | SC. Columbia | 2025-05-28 09:40 AM | Owner Keyy Auto | |
 | <a href="tel:+18032684782">+1 (803) 268-4782</a> | SC. Orangeburg | 2025-05-27 06:18 PM | — | |
 | <a href="tel:+18036771282">+1 (803) 677-1282</a> | SC. Camden | 2025-05-27 05:29 PM | — | |
 | <a href="tel:+18037598080">+1 (803) 759-8080</a> | SC. | 2025-05-27 02:06 PM ¤¤ | — | |
