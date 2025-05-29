@@ -10,8 +10,6 @@ excerpt: ''
 title: "The Trump 2.0 Corruption Tour 2025: 🇸🇦 🇶🇦 🇦🇪"
 ---
 
-
- 
 [Trump 2.0](https://www.donaldjtrump.com/) goes on his 2025 Corruption Tour grifting the [United States](https://www.usa.gov/) minus [The Boss on his “Raise Your Voices Against Authoritarianism and Let Freedom Ring!”,Tour]({% link _posts/2025/05/2025-05-16-SpringsteenLandOfHopeAndDreams.md %}), of course.
 
 - [Trump's Middle East visit comes as his family business ties there grow / AP News](https://apnews.com/article/trump-business-interests-family-middle-east-cryptocurrency-cbb7d2354304ce0308800819944cf3f8)<br />By  WILL WEISSERT<br />Updated 9:35 AM EDT, May 14, 2025
@@ -124,7 +122,7 @@ title: "The Trump 2.0 Corruption Tour 2025: 🇸🇦 🇶🇦 🇦🇪"
 | 20391 Lowes Island Blvd <br /> Potomac Falls, VA 20165 <br /> <a href="tel:+17034444801">+1 (703) 444-4801</a> |
 
 
-### Future Middle East Trump Property Developments
+### Future Middle East/Asia Trump Property Developments
 
 | Country / Region | Location | Property |
 |---|---|---|
