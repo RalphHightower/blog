@@ -2,7 +2,7 @@
 layout: page
 tags: [assholes, Donald Trump, Elon Musk, Betsy DeVos, MAGA billionaires, billionaire, Trump donors, Republican PAC, Make America Great Again (MAGA)]
 categories: [Telephone Numbers]
-date: 2025-05-27 7:46 PM
+date: 2025-05-29 10:01 PM
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description: 
@@ -18,6 +18,10 @@ The telephone numbers below have called and there is an empty person on the othe
 
 | Telephone Number | Location | Date Time[^11] | Caller | Social Media |
 |---|---|---|---|---|
+| <a href="tel:+18039997284">+1 (803) 999-7284</a> | SC. Columbia | 2025-05-29 05:06 PM | — | |
+| <a href="tel:+18038184020">+1 (803) 818-4020</a> | SC. | 2025-05-29 03:35 PM | Sanchez, Jaun | |
+| <a href="tel:+18037715859">+1 (803) 771-5859</a> | SC. Columbia | 2025-05-29 12:03 PM 2:30 | Palmetto Health | |
+| <a href="tel:+18036515091">+1 (803) 651-5091</a> | SC. | 2025-05-29 11:12 AM | — | |
 | <a href="tel:+18033810940">+1 (803) 381-0940</a> | SC. Columbia | 2025-05-28 07:10 PM | — | |
 | <a href="tel:+18039009823">+1 (803) 900-9823</a> | SC. Camden | 2025-05-28 05:58 PM | — | |
 | <a href="tel:+18036241200">+1 (803) 624-1200</a> | SC. Beech Island | 2025-05-28 05:48 PM | Aiken Opthalmo | |
