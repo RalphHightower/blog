@@ -40,7 +40,7 @@ If it's the weekend, America's Golfer-in-Chief, [Trump](https://www.donaldjtrump
 <table>
     <thead>
         <tr>
-            <th>Golfing ⛳️</th>q9j I
+            <th>Golfing ⛳️</th>
         </tr>
     </thead>
     <tbody>
@@ -48,8 +48,7 @@ If it's the weekend, America's Golfer-in-Chief, [Trump](https://www.donaldjtrump
             <td><strong>Florida, Palm Beach</strong></td>
         </tr>
         <tr>
-            <td><strong><a href="https://www.maralagoclub.com/">The Mar-a-Lago Club</a></strong><br /> 1100 South Ocean Boulevard, <br /> Palm Beach, Florida 33480 <br /> <a href="tel+1 b 
-            B;;;;bbbbbbb;b;c 9 no5618322600">+1 (561) 832-2600</a></td>
+            <td><strong><a href="https://www.maralagoclub.com/">The Mar-a-Lago Club</a></strong><br /> 1100 South Ocean Boulevard, <br /> Palm Beach, Florida 33480 <br /> <a href="tel+15618322600">+1 (561) 832-2600</a></td>
         </tr>
     </tbody>
 </table>
@@ -70,6 +69,7 @@ If it's the weekend, America's Golfer-in-Chief, [Trump](https://www.donaldjtrump
         <tr>
             <td><strong>New Jersey, Bedminster</strong></td>
         </tr>
+        <tr>
             <td><strong><a href="https://www.trumpnationalbedminster.com/">Trump National Golf Club Bedminster</a></strong><br />900 Lamington Road <br /> Bedminster, NJ 07921 <br /> <a href="tel:+19084704400">+1 (908) 470-4400</a></td>
         </tr>
     </tbody>
@@ -295,20 +295,20 @@ function fixedHoliday(param) { //1
                         // Washington's Birthday (Also known as Presidents Day; third Monday in February) [15-21]
                     case 2: // February
                         retVal = ((15 <= dateMonth) && (dateMonth <= 21));
-                    break;
-                // Memorial Day (Last Monday in May) [25-31]
-                case 5: // May
-                    retVal = ((25 <= dateMonth) && (dateMonth <= 31));
-                    break;
-                // Labor Day (First Monday in September) [01-07]
-                case 9: // September
-                    retVal = ((1 <= dateMonth) && (dateMonth <= 7));
-                    break;
-                // Columbus Day
-                case 10: // October (Second Monday in October) [08-14]
-                    retVal = ((8 <= dateMonth) && (dateMonth <= 14));
-                    break;
-                    } // 4
+                        break;
+                    // Memorial Day (Last Monday in May) [25-31]
+                    case 5: // May
+                        retVal = ((25 <= dateMonth) && (dateMonth <= 31));
+                        break;
+                    // Labor Day (First Monday in September) [01-07]
+                    case 9: // September
+                        retVal = ((1 <= dateMonth) && (dateMonth <= 7));
+                        break;
+                    // Columbus Day
+                    case 10: // October (Second Monday in October) [08-14]
+                        retVal = ((8 <= dateMonth) && (dateMonth <= 14));
+                        break;
+                        } // 4
             } //3
         } //2
     else if ((month == 11) && (weekDay == 4)) { //2
