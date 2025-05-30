@@ -65,15 +65,15 @@ If it's the weekend, America's Golfer-in-Chief, [Trump](https://www.donaldjtrump
             <th>Golfing ⛳️</th>
         </tr>
     </thead>
-   <tbody>
-        <tr>
-            <td><strong>New Jersey, Bedminster</strong></td>
-        </tr>
-        <tr>
-            <td><strong><a href="https://www.trumpnationalbedminster.com/">Trump National Golf Club Bedminster</a></strong><br />900 Lamington Road <br /> Bedminster, NJ 07921 <br /> <a href="tel:+19084704400">+1 (908) 470-4400</a></td>
-        </tr>
+        <tbody>
+            <tr>
+                <td><strong>New Jersey, Bedminster</strong></td>
+            </tr>
+            <tr>
+                <td><strong><a href="https://www.trumpnationalbedminster.com/">Trump National Golf Club Bedminster</a></strong><br />900 Lamington Road <br /> Bedminster, NJ 07921 <br /> <a href="tel:+19084704400">+1 (908) 470-4400</a></td>
+            </tr>
     </tbody>
-</table>
+    </table>
 
 </div>
 
@@ -89,7 +89,7 @@ If it's the weekend, America's Golfer-in-Chief, [Trump](https://www.donaldjtrump
             <th>Burning 🔥 Federal Government 💣</th>
         </tr>
     </thead>
-   <tbody>
+    <tbody>
         <tr>
             <td><strong><a href="https://www.whitehouse.gov/">White House</a></strong></td>
         </tr>
@@ -159,13 +159,11 @@ function updateCounters() {
     const daysTotal = getDaysDiff(startDate, endDate);
     const pctTermCompleted = daysSince / daysTotal;
     const pctTermRemaing = daysRemaining / daysTotal;
-    
+
     weekDay = now.getDay(); // Sunday = 0
     month = now.getMonth(); // January = 0
     monthDay = now.getDate(); // 1-31
-    var burn = document.getElementById('burn');
-    var golf = document.getElementById('golf');
-    
+
     const holiday = isHoliday(now);
     if (holiday)
         weekDay = 7;
@@ -192,7 +190,7 @@ function updateCounters() {
             hideElement('golf');
             break;
         case 5: // special case: check time
-            if (now.getHour() > 16) {
+            if (now.getHours() > 16) {
                 showElement('golf');
                 hideElement('burn');
                }
@@ -208,7 +206,7 @@ function updateCounters() {
     }
 
     updateCounters();
-    
+
 function isHoliday(date) {
     retVal = floatingHoliday(date);
     if (! retVal)
@@ -266,7 +264,6 @@ function floatingHoliday(param) { // 1
         case 12: // December
             retVal = (dateMonth == 25 ? true : (dateMonth - shift) == 19 ? true : false)
                 || ((dateMonth == 31) && (shift == -1) ? true: false);
-//            retVal = (dateMonth == 25 ? true : (dateMonth - shift) = 25) ?  || (dateMonth == 31) && (shift == -1) ? true : false);
             break;
         } //2
     return (retVal);
@@ -295,20 +292,20 @@ function fixedHoliday(param) { //1
                         // Washington's Birthday (Also known as Presidents Day; third Monday in February) [15-21]
                     case 2: // February
                         retVal = ((15 <= dateMonth) && (dateMonth <= 21));
-                        break;
-                    // Memorial Day (Last Monday in May) [25-31]
-                    case 5: // May
-                        retVal = ((25 <= dateMonth) && (dateMonth <= 31));
-                        break;
-                    // Labor Day (First Monday in September) [01-07]
-                    case 9: // September
-                        retVal = ((1 <= dateMonth) && (dateMonth <= 7));
-                        break;
-                    // Columbus Day
-                    case 10: // October (Second Monday in October) [08-14]
-                        retVal = ((8 <= dateMonth) && (dateMonth <= 14));
-                        break;
-                        } // 4
+                    break;
+                // Memorial Day (Last Monday in May) [25-31]
+                case 5: // May
+                    retVal = ((25 <= dateMonth) && (dateMonth <= 31));
+                    break;
+                // Labor Day (First Monday in September) [01-07]
+                case 9: // September
+                    retVal = ((1 <= dateMonth) && (dateMonth <= 7));
+                    break;
+                // Columbus Day
+                case 10: // October (Second Monday in October) [08-14]
+                    retVal = ((8 <= dateMonth) && (dateMonth <= 14));
+                    break;
+                    } // 4
             } //3
         } //2
     else if ((month == 11) && (weekDay == 4)) { //2
@@ -350,38 +347,38 @@ function mothersDay(param) {
 // 22  23  24  25  26  27  28
 // 29  30  31
 
-//      01  02  03  04  05  06
+//     01  02  03  04  05  06
 // 07  08  09  10  11  12  13
 // 14  15  16  17  18  19  20
 // 21  22  23  24  25  26  27
 // 28  29  30  31
 
-//            01  02  03  04  05
+//         01  02  03  04  05
 // 06  07  08  09  10  11  12
 // 13  14  15  16  17  18  19
 // 20  21  22  23  24  25  26
 // 27  28  29  30  31
 
-//                 01  02  03  04
+//             01  02  03  04
 // 05  06  07  08  09  10  11
 // 12  13  14  15  16  17  18
 // 19  20  21  22  23  24  25
 // 26  27  28  29  30  31
 
-//                      01  02  03
+//                 01  02  03
 // 04  05  06  07  08  09  10
 // 11  12  13  14  15  16  17
 // 18  19  20  21  22  23  24
 // 25  26  27  28  29  30  31
 
-//                           01  02
+//                     01  02
 // 03  04  05  06  07  08  09
 // 10  11  12  13  14  15  16
 // 17  18  19  20  21  22  23
 // 24  25  26  27  28  29  30
 // 31
 
-//                                01
+//                         01
 // 02  03  04  05  06  07  08
 // 09  10  11  12  13  14  15
 // 16  17  18  19  20  21  22
