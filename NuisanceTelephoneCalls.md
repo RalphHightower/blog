@@ -18,6 +18,12 @@ The telephone numbers below have called and there is an empty person on the othe
 
 | Telephone Number | Location | Date Time[^11] | Caller | Social Media |
 |---|---|---|---|---|
+| <a href="tel:+18039484032">+1 (803) 948-4032</a> | SC | 2025-05-30 05:08 PM | — | |
+| <a href="tel:+18034430370">+1 (803) 443-0370</a> | SC. | 2025-05-30 04:53 PM | — | |
+| <a href="tel:+18038515152">+1 (803) 851-5152</a> | SC. Columbia | 2025-05-30 04:31 PM | — | |
+| <a href="tel:+18039569867">+1 (803) 956-9867</a> | SC. Bamberg | 2025-05-30 04:18 PM | — | |
+| <a href="tel:+18036368275">+1 (803) 636-8275</a> | SC. Columbia | 2025-05-30 03:59 PM | — | |
+| <a href="tel:+18032537811">+1 (803) 253-7811</a> | SC. Columbia | 2025-05-30 02:51 PM | TD Bank | |
 | <a href="tel:+18039997284">+1 (803) 999-7284</a> | SC. Columbia | 2025-05-29 05:06 PM | — | |
 | <a href="tel:+18038184020">+1 (803) 818-4020</a> | SC. | 2025-05-29 03:35 PM | Sanchez, Jaun | |
 | <a href="tel:+18037715859">+1 (803) 771-5859</a> | SC. Columbia | 2025-05-29 12:03 PM 2:30 | Palmetto Health | |

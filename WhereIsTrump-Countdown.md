@@ -129,12 +129,12 @@ function fmtPercent(real) {
     return percent;
     }
 
-function showElement(name) {
+function showElement(name) { // 1
     const element = document.getElementById(name);
-    if (element != null) {
+    if (element != null) { // 2
         document.getElementById(name).style.display = 'block';
-        }
-    }
+        } // 2
+    } // 1
 
 function hideElement(name) {
     var element = document.getElementById(name);
@@ -160,6 +160,12 @@ function updateCounters() {
     const pctTermCompleted = daysSince / daysTotal;
     const pctTermRemaing = daysRemaining / daysTotal;
 
+    setElementText('daysSince', "Days into term: " + (daysSince >= 0 ? daysSince + " days " + fmtPercent(pctTermCompleted) + "%" : "Event is in the future"));
+    setElementText('daysRemaining', "Days remaining in term: " + (daysRemaining >= 0 ? daysRemaining + " days " + fmtPercent(pctTermRemaing) + "%" : "Event has passed"));
+    }
+
+function trumpGPS(date) { // 1
+    now = new Date(date)
     weekDay = now.getDay(); // Sunday = 0
     month = now.getMonth(); // January = 0
     monthDay = now.getDate(); // 1-31
@@ -167,20 +173,13 @@ function updateCounters() {
     const holiday = isHoliday(now);
     if (holiday)
         weekDay = 7;
-    switch (weekDay) {
+    switch (weekDay) { // 2
         case 0:
         case 6:
         case 7: // out of bounds special: holiday
             showElement('golf');
             hideElement('burn');
-            if (isMarALagoOpen(date)) {
-                showElement('golf-winter');
-                hideElement('golf-summer');
-                }
-            else {
-                showElement('golf-summer');
-                hideElement('golf-winter');
-                }
+            whichGolfHome(date);
             break;
         case 1:
         case 2:
@@ -190,22 +189,34 @@ function updateCounters() {
             hideElement('golf');
             break;
         case 5: // special case: check time
-            if (now.getHours() > 16) {
+            if (now.getHours() > 16) { // 3
                 showElement('golf');
                 hideElement('burn');
-               }
-            else {
+                whichGolfHome(date);
+               } // 3
+            else { // 3
                 showElement('burn');
                 hideElement('golf');
-                }
+                } // 3
             break;
-        }
-
-    setElementText('daysSince', "Days into term: " + (daysSince >= 0 ? daysSince + " days " + fmtPercent(pctTermCompleted) + "%" : "Event is in the future"));
-    setElementText('daysRemaining', "Days remaining in term: " + (daysRemaining >= 0 ? daysRemaining + " days " + fmtPercent(pctTermRemaing) + "%" : "Event has passed"));
-    }
+        } // 2
+    } // 1
 
     updateCounters();
+    trumpGPS(new Date());
+
+function whichGolfHome(date) {
+    showElement("golf");
+    hideElement("burn");
+    if (isMarALagoOpen(date)) {
+        showElement('golf-winter');
+        hideElement('golf-summer');
+        }
+    else {
+        showElement('golf-summer');
+        hideElement('golf-winter');
+        }
+    }
 
 function isHoliday(date) {
     retVal = floatingHoliday(date);
@@ -221,7 +232,6 @@ function isHoliday(date) {
 //4. Veterans Day (November 11)
 //5. Christmas Day (December 25)
 function floatingHoliday(param) { // 1
-
     const today = new Date(param);
     const monthDay = today.getDate(); // 1-31
 
@@ -301,8 +311,8 @@ function fixedHoliday(param) { //1
                 case 9: // September
                     retVal = ((1 <= dateMonth) && (dateMonth <= 7));
                     break;
-                // Columbus Day
                 case 10: // October (Second Monday in October) [08-14]
+                // Columbus Day
                     retVal = ((8 <= dateMonth) && (dateMonth <= 14));
                     break;
                     } // 4
@@ -319,6 +329,7 @@ function isMarALagoOpen(today) {
     dateToday = new Date(today);
     dateMothersDay = new Date(mothersDay(today));
     dateHalloween = new Date(dateToday.getFullYear(), 9, 31);
+
     return ((dateMothersDay <= dateToday) && (dateToday <= dateHalloween) ? false : true);
     }
 
