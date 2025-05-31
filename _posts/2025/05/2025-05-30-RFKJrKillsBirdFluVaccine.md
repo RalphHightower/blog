@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: []
+tags: [MSNBC, NBC News, New York Times (NYT), Washington Post, New England Journal of Medicine (NEJM), The Lancet / The best science for better lives, STAT / Reporting from the frontiers of health and medicine, BuzzFeed News / Breaking News / Original Reporting / News Analysis, Michigan State University, Moderna – Pioneering mRNA technology, Federal Government, Constitution of the United States, Supreme Court of the United States (SCOTUS), US Courts, Centers for Disease Control and Prevention (CDC), Avian Influenza, Measles Mumps Rubella Varicella (MMRV) Vaccine Safety, COVID-19, Congress, Senate, House of Representatives, President of the United States (POTUS), White House (WH), Donald J Trump, President Donald Trump (47), President Trump Administration (47), Robert F Kennedy Jr, Martin Makary / FDA, Marty Makary M.D. M.P.H. / LinkedIn, politics, anti-vaxxer, medical quackery]
 categories: [Donald Trump]
 date: 2025-05-30 12:23 PM
 excerpt: ''
@@ -10,9 +10,9 @@ excerpt: ''
 title: "The Anti-Vaxxer Head of Health and Human Services Kills Vaccine Development for Bird Flu"
 ---
 
-2025-05-09: [Caution: The Surgeon General Could Be Hazardous To Your Health]({% link  %})
-2025-02-19: [Donald Trump Shoots Self In Foot. So What Else Is New? Oh, Trump Fucks Up a Chicken Pandemic Response: Avian (Bird), H5N1]({% link  %})
-2025-01-04: [Killing Our Kids Softly With His Song – Robert F Kennedy Jr (RFKJr)'s Newest Hit Single On The Top 40 MAGA Hits]({% link  %})
+2025-05-09: [Caution: The Surgeon General Could Be Hazardous To Your Health]({% link _posts/2025/05/2025-05-09-CautionSurgeonGeneralHazardousToHealth.md %})
+2025-02-19: [Donald Trump Shoots Self In Foot. So What Else Is New? Oh, Trump Fucks Up a Chicken Pandemic Response: Avian (Bird), H5N1]({% link _posts/2025/02/2025-02-19-TrumpShotsSelfInFootBirdFluFuckup.md %})
+2025-01-04: [Killing Our Kids Softly With His Song – Robert F Kennedy Jr (RFKJr)'s Newest Hit Single On The Top 40 MAGA Hits]({% link _posts/2025/01/2025-01-04-KillingOurKids.md %})
 
 ## [RFK Jr. has named himself the official arbiter of vaccine science](https://www.msnbc.com/opinion/msnbc-opinion/rfk-jr-hhs-vaccines-covid-bird-flu-moderna-rcna209745)
 
@@ -80,5 +80,6 @@ Hayes Brown is a writer and editor for [MSNBC Daily](https://www.msnbc.com/), wh
 - [Marty Makary M.D., M.P.H. / LinkedIn](https://www.linkedin.com/in/martymakary/)
 - politics
 - anti-vaxxer 
-- medical Quakers
+- medical quackery 
+
 
