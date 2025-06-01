@@ -7,7 +7,7 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: 'title'
+title: "Trump Attacks Harvard, Knowledge, Public Health, Free Speech"
 ---
 
 ## [Trump launches attack on knowledge, targets Harvard, public health data and media](https://www.msnbc.com/top-stories/latest/trump-attacks-knowledge-harvard-science-media-rcna209505)
