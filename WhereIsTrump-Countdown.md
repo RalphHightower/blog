@@ -2,7 +2,7 @@
 layout: page
 tags: [Location Predictor, Count Down, Count Up]
 categories: [Donald Trump]
-date: 2025-05-27 9:36 PM
+date: 2025-05-31 7:58 PM
 #excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
@@ -256,23 +256,23 @@ function floatingHoliday(param) { // 1
     switch (month) { //2
         // January 1 (12/31, 1/2)
         case 1: // January
-            retVal = (dateMonth == 1 ? true : (dateMonth - shift) == 1 ? true : false);
+            retVal = ((dateMonth - shift) == 1 ? true : false);
             break;
         // June 19 (6/18, 6/20)
         case 6: // June
-            retVal = (dateMonth == 19 ? true : (dateMonth - shift) == 19 ? true : false);
+            retVal = ((dateMonth - shift) == 19 ? true : false);
             break;
         // July 4 (7/3, 7/5)
         case 7: // July
-            retVal = (dateMonth == 4 ? true : (dateMonth - shift) == 19 ? true : false);
+            retVal = ((dateMonth - shift) == 4 ? true : false);
             break;
         // November 11 (11/10, 11/12)
         case 11: // November
-            retVal = (dateMonth == 11 ? true : (dateMonth - shift) == 19 ? true : false);
+            retVal = ((dateMonth - shift) == 11 ? true : false);
             break;
         // December 25 (12/24, 12/26, 12/31: NYD)
         case 12: // December
-            retVal = (dateMonth == 25 ? true : (dateMonth - shift) == 19 ? true : false)
+            retVal = ((dateMonth - shift) == 25 ? true : false)
                 || ((dateMonth == 31) && (shift == -1) ? true: false);
             break;
         } //2
