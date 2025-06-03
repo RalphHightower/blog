@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [MSNBC, Steve Benen, The Rachel Maddow Show, MaddowBlog, “Ministry of Truth –  Democracy Reality and the Republicans’ War on the Recent Past.”, NOTUS, New York Times (NYT), Federal Government, Constitution of the United States, Supreme Court of the United States (SCOTUS), US Courts, Department of Health and Human Services (HHS), Centers for Disease Control and Prevention (CDC), National Institutes of Health (NIH), Joint Chiefs of Staff (JCS), U.S. Military Academy West Point, U.S. Air Force, U.S. Army, U.S. Coast Guard (USCG), U.S. Marine Corps, U.S. Navy, National Guard, U.S. Space Command, U.S. Africa Command (AFRICOM), U.S. Central Command (CENTCOM), U.S. Northern Command (USNORTHCOM), Indo-Pacific Command (USINDOPACOM), U.S. Southern Command (SOUTHCOM), U.S. Special Operations Command (USSOCOM), Strategic Command (USSTRATCOM), U.S. European Command (USEUCOM), Congress, Senate, House of Representatives, President of the United States (POTUS), White House (WH), Donald J Trump, President of the United States (POTUS), White House (WH), President Donald Trump (47), President Trump Administration (47), Robert F Kennedy Jr, plagiarism, fake references, medical journals, artificial intelligence, politics]
+tags: [MSNBC, Steve Benen, The Rachel Maddow Show, MaddowBlog, “Ministry of Truth –  Democracy Reality and the Republicans’ War on the Recent Past.”, NOTUS, New York Times (NYT), Federal Government, Constitution of the United States, Supreme Court of the United States (SCOTUS), US Courts, Department of Health and Human Services (HHS), Centers for Disease Control and Prevention (CDC), National Institutes of Health (NIH), Joint Chiefs of Staff (JCS), U.S. Military Academy West Point, U.S. Air Force, U.S. Army, U.S. Coast Guard (USCG), U.S. Marine Corps, U.S. Navy, National Guard, U.S. Space Command, U.S. Africa Command (AFRICOM), U.S. Central Command (CENTCOM), U.S. Northern Command (USNORTHCOM), Indo-Pacific Command (USINDOPACOM), U.S. Southern Command (SOUTHCOM), U.S. Special Operations Command (USSOCOM), Strategic Command (USSTRATCOM), U.S. European Command (USEUCOM), Congress, Senate, House of Representatives, President of the United States (POTUS), White House (WH), President of the United States (POTUS), Donald J Trump, White House (WH), President Donald Trump (47), President Trump Administration (47), Establishing the President’s Make America Healthy Again Commission – The White House. February 13 2025, Robert F Kennedy Jr, plagiarism, fake references, medical journals, artificial intelligence, politics]
 categories: [Donald Trump]
 date: 2025-05-31 6:08 PM
 excerpt: ''
@@ -76,11 +76,12 @@ Steve Benen is a producer for "[The Rachel Maddow Show](https://www.msnbc.com/ra
 - [House of Representatives](https://www.house.gov/)
 - [President of the United States (POTUS)](https://www.whitehouse.gov/)
 - [White House (WH)](https://www.whitehouse.gov/)
-- [Donald J Trump](https://www.donaldjtrump.com/)
 - [President of the United States (POTUS)](https://www.whitehouse.gov/)
+- [Donald J Trump](https://www.donaldjtrump.com/)
 - [White House (WH)](https://www.whitehouse.gov/)
 - [President Donald Trump (47)](https://www.whitehouse.gov/administration/donald-j-trump/)
 - [President Trump Administration (47)](https://www.whitehouse.gov/administration/)
+- [Establishing the President's Make America Healthy Again Commission – The White House](https://www.whitehouse.gov/presidential-actions/2025/02/establishing-the-presidents-make-america-healthy-again-commission/). February 13, 2025-
 - [Robert F Kennedy Jr](https://www.hhs.gov/about/leadership/robert-kennedy.html)
 - plagiarism
 - fake references
