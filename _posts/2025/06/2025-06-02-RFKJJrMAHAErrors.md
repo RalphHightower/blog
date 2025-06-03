@@ -2,12 +2,12 @@
 layout: post
 tags: [MSNBC, NOTUS, Associated Press (AP), Washington Post, Federal Government, Constitution of the United States, Supreme Court of the United States (SCOTUS), US Courts, Central Intelligence Agency (CIA), Department of Defense (DOD), Joint Chiefs of Staff (JCS), U.S. Military Academy West Point, U.S. Air Force, U.S. Army, U.S. Coast Guard (USCG), U.S. Marine Corps, U.S. Navy, National Guard, U.S. Space Command, U.S. Africa Command (AFRICOM), U.S. Central Command (CENTCOM), U.S. Northern Command (USNORTHCOM), Indo-Pacific Command (USINDOPACOM), U.S. Southern Command (SOUTHCOM), U.S. Special Operations Command (USSOCOM), Strategic Command (USSTRATCOM), U.S. European Command (USEUCOM), Congress, Senate, House of Representatives, President of the United States (POTUS), White House (WH), Donald J Trump, President of the United States (POTUS), White House (WH), Donald J Trump, President Donald Trump (47), President Trump (47) Cabinet, President Trump Administration (47), Robert F Kennedy Jr, public health, politics]
 categories: [Donald Trump]
-date: 2025-06-02 8:10 PM
+date: 2025-06-02 8:36 PM
 #excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: 'title'
+title: "Robert F Kennedy Jr, Falsified References In MAHA (Make America Healthy Again) Report, Besides Citing Imaginary References"
 ---
 
 ## [RFK Jr’s team adds new errors to its ‘MAHA’ report, making the fiasco worse](https://www.msnbc.com/rachel-maddow-show/maddowblog/rfk-jrs-team-adds-new-errors-maha-report-making-fiasco-worse-rcna210319)
