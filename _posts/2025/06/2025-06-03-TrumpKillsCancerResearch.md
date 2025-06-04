@@ -2,7 +2,7 @@
 layout: post
 tags: [MSNBC, New York Times (NYT), Washington Post, American Cancer Society Cancer Action Network / Home, political parties, Democrat Party, Trump Party, Federal Government, Constitution of the United States, Supreme Court of the United States (SCOTUS), US Courts, National Cancer Institute (NCI), Department of Veterans Affairs (VA), Pittsburgh VA Medical Center-University Drive / VA Pittsburgh Health Care / Veterans Affairs, 2 USC Ch. 20A –  STATUTORY PAY-AS-YOU-GO, Congress, Congressional Budget Office (CBO), H.R.7130 - 93rd Congress (1973-1974) –  Congressional Budget and Impoundment Control Act of 1974 / Congress.gov / Library of Congress, Text - H.R.1 - 119th Congress (2025-2026) –  One Big Beautiful Bill Act / Congress.gov / Library of Congress, Senate, Patty Murray (D-WA), House of Representatives, House Budget Committee, President of the United States (POTUS), White House (WH), Donald J Trump, President Donald Trump (47), President Trump Administration (47), grift, politics]
 categories: [Donald Trump]
-date: 2019-06-25 13:14:15
+date: 2025-06-03 9:54 PM
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
