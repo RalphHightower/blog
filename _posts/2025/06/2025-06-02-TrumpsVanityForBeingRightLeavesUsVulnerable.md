@@ -1,8 +1,8 @@
 ---
 layout: post
-tags: []
-categories: []
-#date: 2019-06-25 13:14:15
+tags: [MSNBC, Steve Benen, The Rachel Maddow Show, MaddowBlog, “Ministry of Truth –  Democracy Reality and the Republicans’ War on the Recent Past.”, Washington Post, Freedom of the Press Foundation, Venezuelan, El Salvador, Web del M.P.P.D.P.S.G.G. (PRINCIPAL), Nicolás Maduro Moros, Constitution of the United States, Alien and Sedition Acts (1798) / National Archives, Supreme Court of the United States (SCOTUS), US Courts, Office of the Director of National Intelligence (ODNI), National Intelligence Council, National Security Agency (NSA), National Security Council (NSC), Central Intelligence Agency (CIA), Department of Defense (DOD), Joint Chiefs of Staff (JCS), U.S. Military Academy West Point, U.S. Air Force, U.S. Army, U.S. Coast Guard (USCG), U.S. Marine Corps, U.S. Navy, National Guard, U.S. Space Command, U.S. Africa Command (AFRICOM), U.S. Central Command (CENTCOM), U.S. Northern Command (USNORTHCOM), Indo-Pacific Command (USINDOPACOM), U.S. Southern Command (SOUTHCOM), U.S. Special Operations Command (USSOCOM), Strategic Command (USSTRATCOM), U.S. European Command (USEUCOM), Congress, Senate, House of Representatives, The Permanent Select Committee On Intelligence, Jim Himes (D-CT4), President of the United States (POTUS), White House (WH), Donald J Trump, President of the United States (POTUS), White House (WH), Donald J Trump, President Donald Trump (47), President Trump (47) Cabinet, President Trump Administration (47), Tulsi Gabbard – LinkedIn, Michael Collins, Maria Langan-Riekhof, Federal Government, terrorists, intelligence, politic]
+categories: [Donald Trump]
+date: 2025-06-02 5:26 PM
 #excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
@@ -41,9 +41,14 @@ The developments come against a backdrop of [Trump](https://www.donaldjtrump.com
 In [Trump](https://trumpwhitehouse.archives.gov/)’s first term, he and his team [were merely hostile](https://www.msnbc.com/rachel-maddow-show/maddowblog/trump-reportedly-shrugs-intelligence-briefings-needs-doesnt-want-rcna206248) toward the U.S. intelligence community. In his second term, the broader offensive against the U.S. intelligence community is far more aggressive and damaging.
 
 Steve Benen
-Steve Benen is a producer for "The Rachel Maddow Show," the editor of MaddowBlog and an MSNBC political contributor. He's also
+Steve Benen is a producer for "[The Rachel Maddow Show](https://www.msnbc.com/rachel-maddow-show)," the editor of [MaddowBlog](https://www.msnbc.com/rachel-maddow-show) and an [MSNBC](https://www.msnbc.com/) political contributor. He's also the bestselling author of ["Ministry of Truth: Democracy, Reality, and the Republicans' War on the Recent Past."](https://www.harpercollins.com/products/ministry-of-truth-steve-benen)
 
-
+- [MSNBC](https://www.msnbc.com/)
+- Steve Benen
+- [The Rachel Maddow Show](https://www.msnbc.com/rachel-maddow-show)
+- [MaddowBlog](https://www.msnbc.com/rachel-maddow-show) 
+- ["Ministry of Truth: Democracy, Reality, and the Republicans' War on the Recent Past."](https://www.harpercollins.com/products/ministry-of-truth-steve-benen)
+- [Washington Post](https://www.washingtonpost.com/)
 - [Freedom of the Press Foundation](https://freedom.press/)
 - [Venezuelan](https://gob.ve/)
 - [El Salvador](https://www.gob.sv/)

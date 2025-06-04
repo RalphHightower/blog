@@ -53,9 +53,13 @@ I suspect that if the [Democrat](https://www.democrats.org/) were to do this, th
 For those concerned about elderly presidents and their cognitive abilities, there’s one key truth that shouldn’t get lost in the shuffle: [Biden](https://bidenwhitehouse.archives.gov/) isn’t the one amplifying a message about his [former rival](https://www.donaldjtrump.com/) secretly being a dead robot.
 
 Steve Benen
-Steve Benen is a producer for "The Rachel Maddow Show," the editor of MaddowBlog and an MSNBC political contributor. He's also the bestselling author of "Ministry of Truth: Democracy, Reality, and the Republicans' War on the Recent Past."
+Steve Benen is a producer for "[The Rachel Maddow Show](https://www.msnbc.com/rachel-maddow-show)," the editor of [MaddowBlog](https://www.msnbc.com/rachel-maddow-show) and an [MSNBC](https://www.msnbc.com/) political contributor. He's also the bestselling author of ["Ministry of Truth: Democracy, Reality, and the Republicans' War on the Recent Past."](https://www.harpercollins.com/products/ministry-of-truth-steve-benen)
 
 - [MSNBC](https://www.msnbc.com/)
+- Steve Benen
+- [The Rachel Maddow Show](https://www.msnbc.com/rachel-maddow-show)
+- [MaddowBlog](https://www.msnbc.com/rachel-maddow-show) 
+- ["Ministry of Truth: Democracy, Reality, and the Republicans' War on the Recent Past."](https://www.harpercollins.com/products/ministry-of-truth-steve-benen)
 - [NBC News](https://www.nbcnews.com/)
 - [New York Times (NYT)](https://www.nytimes.com/)
 - [CNN](https://www.cnn.com/)
