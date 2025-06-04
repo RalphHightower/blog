@@ -2,7 +2,7 @@
 layout: page
 tags: [assholes, Donald Trump, Elon Musk, Betsy DeVos, MAGA billionaires, billionaire, Trump donors, Republican PAC, Make America Great Again (MAGA)]
 categories: [Telephone Numbers]
-date: 2025-06-03 9:18 PM
+date: 2025-06-04 7:40 PM
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description: 
@@ -18,6 +18,10 @@ The telephone numbers below have called and there is an empty person on the othe
 
 | Telephone Number | Location | Date Time[^11] | Caller | Social Media |
 |---|---|---|---|---|
+| <a href="tel:+12164287524">+1 (216) 428-7524</a> | OH. Cleveland | 2025-06-04 04:33 PM | Comcast/Infinity | |
+| <a href="tel:+18034902180">+1 (803) 490-2180</a> | SC. Lexington | 2025-06-04 01:38 PM | Jason Harvey | |
+| <a href="tel:+18038635019">+1 (803) 863-5019</a> | SC. Columbia | 2025-06-04 11:29 AM | — | |
+| <a href="tel:+18039800111">+1 (803) 980-0111</a> | SC. Rock Hill | 2025-06-04 11:03 AM | Robert Bickford | |
 | <a href="tel:+18036812920">+1 (803) 681-2920</a> | SC. | 2025-06-03 04:45 PM | — | |
 | <a href="tel:+18033668682">+1 (803) 366-8682</a> | SC. Rock Hill | 2025-06-03 10:36 AM | William Moffat | |
 | <a href="tel:+18037640389">+1 (803) 764-0389</a> | SC. Columbia | 2025-06-03 10:04 AM | Tamarind Clubhouse | |
