@@ -10,6 +10,7 @@ date: 2025-05-25 11:49 AM
 title: "“Swamp Wisdom vs. Swamp Politics: A Commencement Clash”" 
 ---
 
+- [Maryland Today / Kermit the Frog Challenges Graduates to ‘Write Your…](https://today.umd.edu/kermit-the-frog-challenges-graduates-to-write-your-own-ending)
 - [Drag shows, 'trophy wives,' and Al Capone: Trump's rambling West Point commencement left many confused](https://www.msnbc.com/the-weekend-primetime/watch/drag-shows-trophy-wives-and-al-capone-trump-s-rambling-west-point-commencement-left-many-confused-240272965553)
 - [Kermit the Frog commencement speech to Maryland students encourages 'big leaps'](https://www.msnbc.com/top-stories/latest/kermit-frog-commencement-speech-maryland-rcna208799)
 - [Trump must remember who his West Point commencement speech is really for](https://www.msnbc.com/opinion/msnbc-opinion/trump-west-point-2025-commencement-address-rcna208607)<br /> *Military academy graduations are unique in that every graduate knows what their first job is going to be and where.* <br />May 24, 2025, 6:00 AM EDT / Updated May 24, 2025, 11:37 AM EDT<br />By Jeff McCausland, retired Army colonel and former member of the National Security Council
