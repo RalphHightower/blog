@@ -193,7 +193,7 @@ Class III.
 | **Florida, Miami** |
 | **[Trump National Doral Golf Club](https://www.trumpgolfdoral.com/)** <br /> 4400 N.W. 87th Ave <br /> Miami, FL 33178 <br /> <a href="tel:+13055922000">+1 (305) 592-2000</a> |
 | **Florida, Jupiter** |
-| **[Trump National Jupiter Golf Club](https://www.trumpnationaljupiter.com/about)** <br /> 115 Eagle Tree Terrace <br /> Jupiter FL 33477 <br /> <a href="tel:+15616918700">+1 (561) 691-8700</a> |
+| **[Trump National Jupiter Golf Club](https://www.trumpnationaljupiter.com/)** <br /> 115 Eagle Tree Terrace <br /> Jupiter FL 33477 <br /> <a href="tel:+15616918700">+1 (561) 691-8700</a> |
 | **Virginia, Potomac Falls** |
 | **[Trump National Golf Club Washington, D.C.](https://www.trumpnationaldc.com/)** <br /> 20391 Lowes Island Blvd <br /> Potomac Falls, VA 20165 <br /> <a href="tel:+17034444801">+1 (703) 444-4801</a> |
 | **New Jersey, Bedminster** |
