@@ -78,7 +78,7 @@ title: "Trump: Air Force One Frequent Flyer Miles"
 |  | **Friday, May 23 2025** |
 | 9:00 AM | In-Town Pool Call Time<br />[The White House](https://www.whitehouse.gov/) In-Town Pool |
 | 11:31 AM | [White House](https://www.whitehouse.gov/) Press Office: Lunch lid until 12:30 PM<br />[The White House](https://www.whitehouse.gov/) |
-| 1:00 PM | [The President](https://www.donaldjtrump.com/) signs Executive Orders<br />Office](https://www.whitehouse.gov/) Closed Press |
+| 1:00 PM | [The President](https://www.donaldjtrump.com/) signs Executive Orders<br />[Oval Office](https://www.whitehouse.gov/) Closed Press |
 | 1:20 PM | Out-of-Town Pool Call Time<br />[Joint Base Andrews](https://www.jba.af.mil/) Out-of-Town Pool |
 | 3:00 PM | [The President](https://www.donaldjtrump.com/) departs [The White House](https://www.whitehouse.gov/) en route [Joint Base Andrews](https://www.jba.af.mil/)<br />[South Lawn](https://www.whitehouse.gov/) Open Press |
 | 3:10 PM | [The President](https://www.donaldjtrump.com/) arrives [Joint Base Andrews](https://www.jba.af.mil/)<br />[Joint Base Andrews](https://www.jba.af.mil/) Out-of-Town Travel Pool |
@@ -102,13 +102,13 @@ title: "Trump: Air Force One Frequent Flyer Miles"
 | 9:38 AM | [The President](https://www.donaldjtrump.com/) arrives at [Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/)<br />[Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/) |
 | 3:20 PM | [The President](https://www.donaldjtrump.com/) departs [Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/)<br />[Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/) |
 | 3:55 PM | [The President](https://www.donaldjtrump.com/) arrives at the [White House](https://www.whitehouse.gov/)<br />[The White House](https://www.whitehouse.gov/) |
-| 4:02 PM | [White House](https://www.whitehouse.gov/) Press Office: Full lid called<br />Office](https://www.whitehouse.gov/) Closed Press |
+| 4:02 PM | [White House](https://www.whitehouse.gov/) Press Office: Full lid called<br />[Oval Office](https://www.whitehouse.gov/) Closed Press |
 |  | **Monday, May 5 2025** |
 | 9:00 AM | In-Town Pool Call Time<br />[The White House](https://www.whitehouse.gov/) In-Town Pool |
-| 1:00 PM | [The President](https://www.donaldjtrump.com/) delivers a Sports Announcement<br />Office](https://www.whitehouse.gov/) [White House](https://www.whitehouse.gov/) Press Pool |
+| 1:00 PM | [The President](https://www.donaldjtrump.com/) delivers a Sports Announcement<br />[Oval Office](https://www.whitehouse.gov/) [White House](https://www.whitehouse.gov/) Press Pool |
 | 2:20 PM | [White House](https://www.whitehouse.gov/) Press Office: Lunch lid until 3:00 PM<br />[The White House](https://www.whitehouse.gov/) |
-| 3:00 PM | [The President](https://www.donaldjtrump.com/) signs Executive Orders<br />Office](https://www.whitehouse.gov/) Closed Press |
-| 3:30 PM | [The President](https://www.donaldjtrump.com/) welcomes home a returned Citizen<br />Office](https://www.whitehouse.gov/) Closed Press |
+| 3:00 PM | [The President](https://www.donaldjtrump.com/) signs Executive Orders<br />[Oval Office](https://www.whitehouse.gov/) Closed Press |
+| 3:30 PM | [The President](https://www.donaldjtrump.com/) welcomes home a returned Citizen<br />[Oval Office](https://www.whitehouse.gov/) Closed Press |
 | 6:55 PM | [The President](https://www.donaldjtrump.com/) departs [The White House](https://www.whitehouse.gov/) en route [Trump National Golf Club Washington, D.C.](https://www.trumpnationaldc.com/)<br /[South Lawn](https://www.whitehouse.gov/) Open Press |
 | 7:10 PM | [The President](https://www.donaldjtrump.com/) arrives [Trump National Golf Club Washington, D.C.](https://www.trumpnationaldc.com/)<br />[Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/) Closed Press |
 | 7:30 PM | [The President](https://www.donaldjtrump.com/) attends the MAGA Inc. Dinner<br />[Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/) Closed Press |
@@ -149,8 +149,8 @@ title: "Trump: Air Force One Frequent Flyer Miles"
 | 8:00 AM | In-Town Pool Call Time<br />[The White House](https://www.whitehouse.gov/) In-Town Pool |
 | 8:30 AM | Press Briefing by the [White House](https://www.whitehouse.gov/) Press Secretary Karoline Leavitt and Deputy Chief of Staff Stephen Miller on Restoring Common Sense<br />[James S. Brady Press Briefing Room](https://www.whitehouse.gov/) On Camera |
 | 11:00 AM | [The President](https://www.donaldjtrump.com/) participates in a National Day of Prayer Event<br />Rose Garden Pre-Credentialed Media |
-| 12:00 PM | [The President](https://www.donaldjtrump.com/) receives his Intelligence Briefing<br />Office](https://www.whitehouse.gov/) Closed Press |
-| 2:00 PM | [The President](https://www.donaldjtrump.com/) participates in a Swearing-In Ceremony for the Ambassador to the Italian Republic<br />Office](https://www.whitehouse.gov/) Closed Press |
+| 12:00 PM | [The President](https://www.donaldjtrump.com/) receives his Intelligence Briefing<br />[Oval Office](https://www.whitehouse.gov/) Closed Press |
+| 2:00 PM | [The President](https://www.donaldjtrump.com/) participates in a Swearing-In Ceremony for the Ambassador to the Italian Republic<br />[Oval Office](https://www.whitehouse.gov/) Closed Press |
 | 3:55 PM | Out-of-Town Pool Call Time<br />[Joint Base Andrews](https://www.jba.af.mil/) Out-of-Town Pool |
 | 5:00 PM | [The President](https://www.donaldjtrump.com/) departs [The White House](https://www.whitehouse.gov/) en route [Joint Base Andrews](https://www.jba.af.mil/)<br />[South Lawn](https://www.whitehouse.gov/) Open Press |
 | 5:10 PM | [The President](https://www.donaldjtrump.com/) arrives [Joint Base Andrews](https://www.jba.af.mil/)<br />[Joint Base Andrews](https://www.jba.af.mil/) Out-of-Town Travel Pool |
@@ -222,8 +222,8 @@ title: "Trump: Air Force One Frequent Flyer Miles"
 | 9:00 AM | In-Town Pool Call Time<br />[The White House](https://www.whitehouse.gov/) In-Town Pool |
 | 12:00 PM | [The President](https://www.donaldjtrump.com/) greets the [Prime Minister of the Kingdom of Norway](https://www.regjeringen.no/no/dep/smk/id875/)<br />Stakeout Location Open Press |
 | 12:05 PM | [The President](https://www.donaldjtrump.com/) participates in a Bilateral Lunch with the [Prime Minister of the Kingdom of Norway](https://www.regjeringen.no/no/dep/smk/id875/)<br />Cabinet Room Closed Press |
-| 1:05 PM | [The President](https://www.donaldjtrump.com/) participates in a Bilateral Meeting with the [Prime Minister of the Kingdom of Norway](https://www.regjeringen.no/no/dep/smk/id875/)<br />Office](https://www.whitehouse.gov/) [White House](https://www.whitehouse.gov/) Press Pool |
-| 4:30 PM | [The President](https://www.donaldjtrump.com/) signs Executive Orders<br />Office](https://www.whitehouse.gov/) Closed Press |
+| 1:05 PM | [The President](https://www.donaldjtrump.com/) participates in a Bilateral Meeting with the [Prime Minister of the Kingdom of Norway](https://www.regjeringen.no/no/dep/smk/id875/)<br />[Oval Office](https://www.whitehouse.gov/) [White House](https://www.whitehouse.gov/) Press Pool |
+| 4:30 PM | [The President](https://www.donaldjtrump.com/) signs Executive Orders<br />[Oval Office](https://www.whitehouse.gov/) Closed Press |
 | 6:35 PM | [The President](https://www.donaldjtrump.com/) departs [The White House](https://www.whitehouse.gov/) en route [Leesburg Executive Airport](https://www.leesburgva.gov/departments/airport/about-leesburg-executive-airport) Landing Zone<br />[South Lawn](https://www.whitehouse.gov/) Open Press |
 | 7:00 PM | [The President](https://www.donaldjtrump.com/) arrives [Leesburg Executive Airport](https://www.leesburgva.gov/departments/airport/about-leesburg-executive-airport) Landing Zone<br />[Leesburg Executive Airport](https://www.leesburgva.gov/departments/airport/about-leesburg-executive-airport), Leesburg, VA In-Town Travel Pool |
 | 7:10 PM | [The President](https://www.donaldjtrump.com/) departs [Leesburg Executive Airport](https://www.leesburgva.gov/departments/airport/about-leesburg-executive-airport) Landing Zone en route [Trump National Golf Club Washington, D.C.](https://www.trumpnationaldc.com/)<br />[Leesburg Executive Airport](https://www.leesburgva.gov/departments/airport/about-leesburg-executive-airport), Leesburg, VA In-Town Travel Pool |
@@ -369,7 +369,7 @@ title: "Trump: Air Force One Frequent Flyer Miles"
 |  | **Friday, March 28 2025** |
 | 9:00 AM | In-Town Pool Call Time<br />[The White House](https://www.whitehouse.gov/) In-Town Pool |
 | 12:45 PM | Out-of-Town Pool Call Time<br />[Joint Base Andrews](https://www.jba.af.mil/) Out-of-Town Pool |
-| 1:00 PM | [The President](https://www.donaldjtrump.com/) participates in the Swearing-In Ceremony for the U.S. Attorney for New Jersey<br />Office](https://www.whitehouse.gov/) [White House](https://www.whitehouse.gov/) Press Pool |
+| 1:00 PM | [The President](https://www.donaldjtrump.com/) participates in the Swearing-In Ceremony for the U.S. Attorney for New Jersey<br />[Oval Office](https://www.whitehouse.gov/) [White House](https://www.whitehouse.gov/) Press Pool |
 | 2:00 PM | [The President](https://www.donaldjtrump.com/) departs [The White House](https://www.whitehouse.gov/) en route [Joint Base Andrews](https://www.jba.af.mil/)<br />[South Lawn](https://www.whitehouse.gov/) Open Press |
 | 2:10 PM | [The President](https://www.donaldjtrump.com/) arrives [Joint Base Andrews](https://www.jba.af.mil/)<br />[Joint Base Andrews](https://www.jba.af.mil/) Out-of-Town Travel Pool |
 | 2:20 PM | [The President](https://www.donaldjtrump.com/) departs [Joint Base Andrews](https://www.jba.af.mil/) en route [Palm Beach International Airport](https://www.pbia.org/)<br />[Joint Base Andrews](https://www.jba.af.mil/) Out-of-Town Travel Pool |
@@ -394,7 +394,7 @@ title: "Trump: Air Force One Frequent Flyer Miles"
 | 10:35 PM | [The President](https://www.donaldjtrump.com/) arrives [The White House](https://www.whitehouse.gov/)<br />[South Lawn](https://www.whitehouse.gov/) Open Press |
 |  | **Friday, March 21 2025** |
 | 9:00 AM | In-Town Pool Call Time<br />[The White House](https://www.whitehouse.gov/) In-Town Pool |
-| 11:00 AM | [The President](https://www.donaldjtrump.com/) and the Secretary of Defense Pete Hegseth deliver remarks<br />Office](https://www.whitehouse.gov/) [White House](https://www.whitehouse.gov/) Press Pool |
+| 11:00 AM | [The President](https://www.donaldjtrump.com/) and the Secretary of Defense Pete Hegseth deliver remarks<br />[Oval Office](https://www.whitehouse.gov/) [White House](https://www.whitehouse.gov/) Press Pool |
 | 12:43 PM | [White House](https://www.whitehouse.gov/) Press Office: Lunch lid until 1:30 PM<br />[The White House](https://www.whitehouse.gov/) |
 | 3:40 PM | Out-of-Town Travel Pool Call Time<br />[Joint Base Andrews](https://www.jba.af.mil/) Out-of-Town Travel Pool |
 | 5:00 PM | [The President](https://www.donaldjtrump.com/) departs [The White House](https://www.whitehouse.gov/) en route [Joint Base Andrews](https://www.jba.af.mil/)<br />[South Lawn](https://www.whitehouse.gov/) Open Press |
@@ -431,7 +431,7 @@ title: "Trump: Air Force One Frequent Flyer Miles"
 | 7:00 PM | [The President](https://www.donaldjtrump.com/) hosts a candlelight fundraising dinner at [Mar-a-Lago](https://www.maralagoclub.com/) [Note: Time is estimated]<br />[Mar-a-Lago](https://www.maralagoclub.com/) |
 | | **Friday, March 14 2025** |
 | 9:00 AM | In-Town Pool Call Time<br />[The White House](https://www.whitehouse.gov/) In-Town Pool |
-| 12:00 PM | [The President](https://www.donaldjtrump.com/) signs Executive Orders<br />Office](https://www.whitehouse.gov/) Closed Press |
+| 12:00 PM | [The President](https://www.donaldjtrump.com/) signs Executive Orders<br />[Oval Office](https://www.whitehouse.gov/) Closed Press |
 | 2:50 PM | [The President](https://www.donaldjtrump.com/) departs [The White House](https://www.whitehouse.gov/) en route the Department of Justice<br />[South Portico](https://www.whitehouse.gov/) In-Town Travel Pool |
 | 2:55 PM | [The President](https://www.donaldjtrump.com/) arrives the Department of Justice<br />Department of Justice In-Town Travel Pool |
 | 3:00 PM | [The President](https://www.donaldjtrump.com/) delivers remarks at the Department of Justice<br />Department of Justice In-Town Travel Pool |
@@ -469,8 +469,8 @@ title: "Trump: Air Force One Frequent Flyer Miles"
 | 2:02 PM | [White House](https://www.whitehouse.gov/) Press Office: Full lid called<br />[Mar-a-Lago](https://www.maralagoclub.com/) |
 |  | **Friday, March 7 2025** |
 | 9:00 AM | In-Town Pool Call Time<br />[The White House](https://www.whitehouse.gov/) In-Town Pool |
-| 11:00 AM | [The President](https://www.donaldjtrump.com/) delivers remarks<br />Office](https://www.whitehouse.gov/) [White House](https://www.whitehouse.gov/) Press Pool |
-| 2:30 PM | [The President](https://www.donaldjtrump.com/) signs Executive Orders<br />Office](https://www.whitehouse.gov/) Closed Press |
+| 11:00 AM | [The President](https://www.donaldjtrump.com/) delivers remarks<br />[Oval Office](https://www.whitehouse.gov/) [White House](https://www.whitehouse.gov/) Press Pool |
+| 2:30 PM | [The President](https://www.donaldjtrump.com/) signs Executive Orders<br />[Oval Office](https://www.whitehouse.gov/) Closed Press |
 | 3:00 PM | [The President](https://www.donaldjtrump.com/) delivers remarks at [The White House](https://www.whitehouse.gov/) Digital Assets Summit<br />State Dining Room [White House](https://www.whitehouse.gov/) Press Pool |
 | 3:50 PM | Out-of-Town Pool Call Time<br />[Joint Base Andrews](https://www.jba.af.mil/) Out-of-Town Pool |
 | 5:00 PM | [The President](https://www.donaldjtrump.com/) departs [The White House](https://www.whitehouse.gov/) en route [Joint Base Andrews](https://www.jba.af.mil/)<br />[South Lawn](https://www.whitehouse.gov/) Open Press |
@@ -582,7 +582,7 @@ title: "Trump: Air Force One Frequent Flyer Miles"
 | 9:00 AM | In-Town Pool Call Time<br />[The White House](https://www.whitehouse.gov/) In-Town Pool |
 | 11:48 AM | [The President](https://www.donaldjtrump.com/) and Elon Musk sit for a 73-minute interview with Sean Hannity of Fox News<br />Roosevelt Room Closed Press |
 | 12:00 PM | Out-of-Town Pool Call Time<br />[Joint Base Andrews](https://www.jba.af.mil/) Out-of-Town Pool |
-| 1:00 PM | [The President](https://www.donaldjtrump.com/) signs Executive Orders<br />Office](https://www.whitehouse.gov/) Closed Press |
+| 1:00 PM | [The President](https://www.donaldjtrump.com/) signs Executive Orders<br />[Oval Office](https://www.whitehouse.gov/) Closed Press |
 | 2:00 PM | [The President](https://www.donaldjtrump.com/) departs [The White House](https://www.whitehouse.gov/) en route [Joint Base Andrews](https://www.jba.af.mil/)<br />[South Lawn](https://www.whitehouse.gov/) Open Press |
 | 2:10 PM | [The President](https://www.donaldjtrump.com/) arrives at [Joint Base Andrews](https://www.jba.af.mil/)<br />[Joint Base Andrews](https://www.jba.af.mil/) Out-of-Town Travel Pool |
 | 2:20 PM | [The President](https://www.donaldjtrump.com/) departs [Joint Base Andrews](https://www.jba.af.mil/) en route [Palm Beach International Airport](https://www.pbia.org/)<br />[Joint Base Andrews](https://www.jba.af.mil/) Out-of-Town Travel Pool |
@@ -617,7 +617,7 @@ title: "Trump: Air Force One Frequent Flyer Miles"
 |  | **Friday, February 7 2025** |
 | 9:00 AM | In-Town Pool Call Time<br />[The White House](https://www.whitehouse.gov/) In-Town Pool |
 | 11:30 AM | [The President](https://www.donaldjtrump.com/) greets the [Prime Minister of Japan](https://japan.kantei.go.jp/)<br />[The White House](https://www.whitehouse.gov/) Open Press |
-| 11:35 AM | [The President](https://www.donaldjtrump.com/) hosts a bilateral meeting with the [Prime Minister of Japan](https://japan.kantei.go.jp/)<br />Office](https://www.whitehouse.gov/) In-House Pool |
+| 11:35 AM | [The President](https://www.donaldjtrump.com/) hosts a bilateral meeting with the [Prime Minister of Japan](https://japan.kantei.go.jp/)<br />[Oval Office](https://www.whitehouse.gov/) In-House Pool |
 | 11:50 AM | [The President](https://www.donaldjtrump.com/) participates in a bilateral meeting and lunch with the [Prime Minister of Japan](https://japan.kantei.go.jp/)<br />Cabinet Room Closed Press |
 | 1:10 PM | [The President](https://www.donaldjtrump.com/) holds a press conference with the [Prime Minister of Japan](https://japan.kantei.go.jp/)<br />East Room Pre-Credentialed Media |
 | 1:40 PM | Out-of-Town Pool Call Time<br />[Joint Base Andrews](https://www.jba.af.mil/) Out-of-Town Pool |
