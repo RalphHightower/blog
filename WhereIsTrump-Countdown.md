@@ -167,8 +167,6 @@ function updateCounters() {
 function trumpGPS(date) { // 1
     now = new Date(date)
     weekDay = now.getDay(); // Sunday = 0
-    month = now.getMonth(); // January = 0
-    monthDay = now.getDate(); // 1-31
 
     const holiday = isHoliday(now);
     if (holiday)
@@ -189,7 +187,7 @@ function trumpGPS(date) { // 1
             hideElement('golf');
             break;
         case 5: // special case: check time
-            if (now.getHours() > 16) { // 3
+            if (now.getHours() > 15) { // 3
                 showElement('golf');
                 hideElement('burn');
                 whichGolfHome(date);
@@ -233,7 +231,6 @@ function isHoliday(date) {
 //5. Christmas Day (December 25)
 function floatingHoliday(param) { // 1
     const today = new Date(param);
-    const monthDay = today.getDate(); // 1-31
 
     shift = 0;
     day = today.getDay();
