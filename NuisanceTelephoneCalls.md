@@ -2,7 +2,7 @@
 layout: page
 tags: [assholes, Donald Trump, Elon Musk, Betsy DeVos, MAGA billionaires, billionaire, Trump donors, Republican PAC, Make America Great Again (MAGA)]
 categories: [Telephone Numbers]
-date: 2025-06-04 7:40 PM
+date: 2025-06-05 11:15 PM
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description: 
@@ -18,6 +18,9 @@ The telephone numbers below have called and there is an empty person on the othe
 
 | Telephone Number | Location | Date Time[^11] | Caller | Social Media |
 |---|---|---|---|---|
+| <a href="tel:+18038061772">+1 (803) 806-1772</a> | SC. | 2025-06-05 03:27 PM | — | |
+| <a href="tel:+18038125889">+1 (803) 812-5889</a> | SC. Allendale | 2025-06-05 12:53 PM | — | |
+| <a href="tel:+18037616918">+1 (803) 761-6918</a> | SC. Aiken | 2025-06-05 09:40 AM | — | |
 | <a href="tel:+12164287524">+1 (216) 428-7524</a> | OH. Cleveland | 2025-06-04 04:33 PM | Comcast/Infinity | |
 | <a href="tel:+18034902180">+1 (803) 490-2180</a> | SC. Lexington | 2025-06-04 01:38 PM | Jason Harvey | |
 | <a href="tel:+18038635019">+1 (803) 863-5019</a> | SC. Columbia | 2025-06-04 11:29 AM | — | |
