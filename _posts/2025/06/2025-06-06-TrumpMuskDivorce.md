@@ -7,7 +7,7 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: "Donald Trump and Elon Musk Bromance Had a ‘Rapid Unscheduled Disassembly’ (A Messy Divorce Explosion 💣 )
+title: "Donald Trump and Elon Musk Bromance Had a ‘Rapid Unscheduled Disassembly’ (A Messy Divorce Explosion 💣 )"
 ---
 
 ## Rep. Stansbury: [Elon](https://ir.tesla.com/corporate/) and [Trump](https://www.donaldjtrump.com/)'s breakup is messy – Housewives of 1600 Pennsylvania Ave
