@@ -37,7 +37,7 @@ title: "Trump: Air Force One Frequent Flyer Miles"
 | 5:44 PM | [The President](https://www.donaldjtrump.com/) arrives [Morristown Municipal Airport](https://www.mmuair.com/)<br />[Morristown Municipal Airport](https://www.mmuair.com/) Out-of-Town Travel Pool<br />
 | 5:53 PM ⛳️| [The President](https://www.donaldjtrump.com/) departs [Morristown Municipal Airport](https://www.mmuair.com/) en route [Trump National Golf Club Bedminster](https://www.trumpnationalbedminster.com/)<br />[Morristown Municipal Airport](https://www.mmuair.com/) Out-of-Town Travel Pool |
 | 6:10 PM ⛳️| [The President](https://www.donaldjtrump.com/) arrives [Bedminster, New Jersey](https://www.trumpnationalbedminster.com/) [6:26 PM Actual]<br />[Trump National Golf Club Bedminster](https://www.trumpnationalbedminster.com/) Out-of-Town Travel Pool |
-| 6:26 PM ⛳️| [White House](https://www.whitehouse.gov/) Press Office: Full lid called</>[Trump National Golf Club Bedminster](https://www.trumpnationalbedminster.com/) |
+| 6:26 PM ⛳️| [White House](https://www.whitehouse.gov/) Press Office: Full lid called<br />[Trump National Golf Club Bedminster](https://www.trumpnationalbedminster.com/) |
 | |🔥 [White House](https://www.whitehouse.gov/) 💣|
 |  | **Sunday, June 1 2025** |
 |  | [The President](https://www.donaldjtrump.com/) has no public events scheduled<br />[The White House](https://www.whitehouse.gov/) |
