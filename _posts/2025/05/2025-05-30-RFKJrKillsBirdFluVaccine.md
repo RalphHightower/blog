@@ -10,9 +10,9 @@ excerpt: ''
 title: "The Anti-Vaxxer Head of Health and Human Services Kills Vaccine Development for Bird Flu"
 ---
 
-2025-05-09: [Caution: The Surgeon General Could Be Hazardous To Your Health]({% link _posts/2025/05/2025-05-09-CautionSurgeonGeneralHazardousToHealth.md %})
-2025-02-19: [Donald Trump Shoots Self In Foot. So What Else Is New? Oh, Trump Fucks Up a Chicken Pandemic Response: Avian (Bird), H5N1]({% link _posts/2025/02/2025-02-19-TrumpShotsSelfInFootBirdFluFuckup.md %})
-2025-01-04: [Killing Our Kids Softly With His Song – Robert F Kennedy Jr (RFKJr)'s Newest Hit Single On The Top 40 MAGA Hits]({% link _posts/2025/01/2025-01-04-KillingOurKids.md %})
+- 2025-05-09: [Caution: The Surgeon General Could Be Hazardous To Your Health]({% link _posts/2025/05/2025-05-09-CautionSurgeonGeneralHazardousToHealth.md %})
+- 2025-02-19: [Donald Trump Shoots Self In Foot. So What Else Is New? Oh, Trump Fucks Up a Chicken Pandemic Response: Avian (Bird), H5N1]({% link _posts/2025/02/2025-02-19-TrumpShotsSelfInFootBirdFluFuckup.md %})
+- 2025-01-04: [Killing Our Kids Softly With His Song – Robert F Kennedy Jr (RFKJr)'s Newest Hit Single On The Top 40 MAGA Hits]({% link _posts/2025/01/2025-01-04-KillingOurKids.md %})
 
 ## [RFK Jr. has named himself the official arbiter of vaccine science](https://www.msnbc.com/opinion/msnbc-opinion/rfk-jr-hhs-vaccines-covid-bird-flu-moderna-rcna209745)
 
