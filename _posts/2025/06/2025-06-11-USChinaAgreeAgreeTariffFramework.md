@@ -15,8 +15,8 @@ title: "United States and China Agree to an Agreement on a Framework Agreement t
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lqbMleHgIKo?si=mjZfqsTiY4iOvdqF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Jun 11, 2025  [#[China](https://www.gov.cn/)](https://www.gov.cn/) #trade #tradewar
-The [U.S.](https://www.usa.gov/) and [China](https://www.gov.cn/) have agreed to a framework that negotiators say will de-escalate trade tensions between our two nations. [Justin Wolfers](https://lsa.umich.edu/econ/people/faculty/jwolfers.html) and Bill Cohan join The 11th Hour to discuss.
+Jun 11, 2025  [#China](https://www.gov.cn/) #trade #tradewar
+The [U.S.](https://www.usa.gov/) and [China](https://www.gov.cn/) have agreed to a framework that negotiators say will de-escalate trade tensions between our two nations. [Justin Wolfers](https://lsa.umich.edu/econ/people/faculty/jwolfers.html) and Bill Cohan join [The 11th Hour](https://www.msnbc.com/11th-hour) to discuss.
 
 For more context and news coverage of the most important stories of our day click here: https://www.msnbc.com/
 
