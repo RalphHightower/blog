@@ -7,7 +7,7 @@ excerpt: '“We may be flying blind, and we may not exactly know how strong a hu
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: "Trump/Musk Decimation of NOAA/NWS Damages Accuracy/Strength of Hurricanes 🌀"
+title: "Trump/Musk Decimation of NOAA/NWS Damages Accuracy/Strength Assessment of Hurricanes 🌀"
 ---
 
 - 2024-10-10: [Hurricane – Part 1: #SharpiePresident Trump Shows a Cone of Uncertainty of Hurricane Dorian (2019) That He Altered to Include Alabama]({% link _posts/2024/10/2024-10-10-Hurricane1SharpiePresidentDorianConeOfUncertainty.md %}). @RalphHightower
