@@ -2,7 +2,7 @@
 layout: page
 tags: [assholes, Donald Trump, Elon Musk, Betsy DeVos, MAGA billionaires, billionaire, Trump donors, Republican PAC, Make America Great Again (MAGA)]
 categories: [Telephone Numbers]
-date: 2025-06-09 8:17 PM
+date: 2025-06-10 8:40 PM
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description: 
@@ -18,6 +18,7 @@ The telephone numbers below have called and there is an empty person on the othe
 
 | Telephone Number | Location | Date Time[^11] | Caller | Social Media |
 |---|---|---|---|---|
+| <a href="tel:+18034577293">+1 (803) 457-7293</a> | SC. Columbia | 2025-06-10 03:55 PM | — | |
 | <a href="tel:+18034960022">+1 (803) 496-0022</a> | SC. Holly Hill | 2025-06-09 10:56 AM | Pool Works LLC | |
 | <a href="tel:+18035881766">+1 (803) 588-1766</a> | SC. Bishopville | 2025-06-09 09:53 AM | — | |
 | <a href="tel:+18037744012">+1 (803) 774-4012</a> | SC. Sumter | 2025-06-06 01:32 PM | — | |
