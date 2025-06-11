@@ -74,5 +74,3 @@ Eugene Daniels is an MSNBC senior Washington correspondent and co-host of "The W
 - [Mark T. Esper, Ph.D. / LinkedIn](https://www.linkedin.com/in/mark-t-esper-ph-d-11b4671/)
 - [Stephen Miller](https://x.com/StephenM/)
 - politics 
-
-

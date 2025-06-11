@@ -10,6 +10,20 @@ excerpt: ''
 title: "The Trump/Musk Bromance Breakup Broke Brokeback Mountain"
 ---
 
+## Rep. Stansbury: [Elon](https://ir.tesla.com/corporate/) and [Trump](https://www.donaldjtrump.com/)'s breakup is messy – Housewives of 1600 Pennsylvania Ave
+
+- [Melanie Stansbury (D-NM1)](https://stansbury.house.gov/)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/A5vDyel3kUA?si=IYzaAnwk0U-JoH3-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Jun 5, 2025
+Breakups are hard, especially when they play out in the public sphere. Here’s the tea on what’s happening between [Trump](https://www.donaldjtrump.com/) and [Elon](https://ir.tesla.com/corporate/elon-musk) in their messy spat. 
+
+But in all seriousness, we need to kill the bill.
+
+### Karoline Leavitt “Boys Will Be Boys”
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hYJXhnvcXM8?si=ciSIbk7FnkhEt17C&amp;start=23" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## [Trump and Musk’s followers will have to choose sides after their ugly breakup](https://www.msnbc.com/opinion/msnbc-opinion/trump-elon-musk-breakup-doge-jeffrey-epstein-files-followers-rcna211333)
 
