@@ -72,7 +72,7 @@ Anthony L. Fisher is a senior editor and writer for [MSNBC Daily](https://www.ms
 - Federal Government 
 - [Constitution of the United States](https://constitution.congress.gov/)
 - [First Amendment](https://constitution.congress.gov/constitution/amendment-1/)
-[Civil Rights Act of 1964](https://www.archives.gov/milestone-documents/civil-rights-act)
+- [Civil Rights Act of 1964](https://www.archives.gov/milestone-documents/civil-rights-act)
 - [Supreme Court of the United States (SCOTUS)](https://www.supremecourt.gov/)
 - [US Courts](https://www.uscourts.gov/)
 - [Office of Personnel Management (OPM)](https://www.opm.gov/)

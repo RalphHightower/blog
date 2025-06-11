@@ -81,5 +81,3 @@ Hayes Brown is a writer and editor for [MSNBC Daily](https://www.msnbc.com/), wh
 - politics
 - anti-vaxxer 
 - medical quackery 
-
-
