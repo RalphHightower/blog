@@ -6,8 +6,6 @@ layout: base
 
 [^110]: I am one of the *“enemy within”*.
 
-- [Tracking Taxpayer Spending at Trump Properties - American Oversight](https://americanoversight.org/tracking-taxpayer-spending-at-trump-properties/)
-
 ## Briefly
 
 ### Synopsis
