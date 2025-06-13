@@ -24,6 +24,8 @@ Surviving “The Apprentice: White House – Wrecking Ball”. [Trump](https://w
 
 <h4><a href="https://www.thestate.com/news/state/south-carolina/article308317355.html">‘No Kings’ anti-Trump protests coming to South Carolina soon / The State</a></h4>
 
+<h5>Saturday, June 14, 2025</h5>
+
 <ol>
 
 <li>No Kings Day At The Dome (Columbia): 1100 Gervais St. from 12:30 - 4 p.m. </li>
@@ -43,7 +45,7 @@ Surviving “The Apprentice: White House – Wrecking Ball”. [Trump](https://w
 
 </ol>
 
-@RalphHightower: The [NAACP](https://naacp.org/) has "King Day At the Dome" at the State Capitol on Martin Luther King's Day. The rally this Saturday is "[No King Day](https://www.nokings.org/)".
+@RalphHightower: The <a href="https://naacp.org/">NAACP</a> has "King Day At the Dome" at the State Capitol on Martin Luther King's Day. The rally this Saturday is "<a href="https://www.nokings.org/">No Kings Day</a>".
 
 </div>
 
