@@ -14,9 +14,9 @@ In 2015, I assessed [Trump](https://www.donaldjtrump.com/) as unqualified, and u
 
 There is no university postgraduate, graduate, or undergraduate degree program that offers a degree qualifying one with the skills to be president.
 
-Prior to that long shot of [Trump](https://www.donaldjtrump.com/) 1.0 winning the election, past presidents have been governors of states, or legislators at the national or state level. Even Vice presidents have had some experience with government. [Trump](https://www.donaldjtrump.com/) is the head of a family-owned business. He has never been CEO of a publicly traded large corporation with a board of directors. 
+Prior to that long shot of [Trump](https://www.donaldjtrump.com/) 1.0 winning the election, past presidents have been governors of states, or legislators at the national or state level. Even Vice presidents have had some experience with government. [Trump](https://www.donaldjtrump.com/) is the head of a family-owned business. He has never been CEO of a publicly traded large corporation with a board of directors.
 
-Surviving “The Apprentice: White House – Wrecking Ball”. [Trump](https://www.donaldjtrump.com/) 2.0 is about [Trump](https://www.donaldjtrump.com/)’s destruction of America and her democracy. Putting it in his words, “You got to fight for your country, or you won’t have a country.” 
+Surviving “The Apprentice: White House – Wrecking Ball”. [Trump](https://www.donaldjtrump.com/) 2.0 is about [Trump](https://www.donaldjtrump.com/)’s destruction of America and her democracy. Putting it in his words, “You got to fight for your country, or you won’t have a country.”
 
 ### Call to Action
 
@@ -26,7 +26,7 @@ Surviving “The Apprentice: White House – Wrecking Ball”. [Trump](https://w
 
 <ol>
 
-<li>No Kingz Day At The Dome[^20250614] (Columbia): 1100 Gervais St. from 12:30 - 4 p.m. </li>
+<li>No Kings Day At The Dome (Columbia): 1100 Gervais St. from 12:30 - 4 p.m. </li>
 <li>Rock Hill: 111 E. White St. from 2 - 4 p.m. </li>
 <li>Spartanburg: 105 N Church St. from 4 - 6 p.m. </li>
 <li>Greenville: 355 S. Hudson St. from 10 - 11:30 a.m. </li>
@@ -43,7 +43,7 @@ Surviving “The Apprentice: White House – Wrecking Ball”. [Trump](https://w
 
 </ol>
 
-[^20250614]: @RalphHightower: The [NAACP](https://naacp.org/) has "King Day At the Dome" at the State Capitol on Martin Luther King's Day. The rally this Saturday is "[No King Day](https://www.nokings.org/)".
+@RalphHightower: The [NAACP](https://naacp.org/) has "King Day At the Dome" at the State Capitol on Martin Luther King's Day. The rally this Saturday is "[No King Day](https://www.nokings.org/)".
 
 </div>
 
@@ -176,7 +176,7 @@ During [Trump](https://www.donaldjtrump.com/)'s presidential campaigns in 2015 (
 
 ## Donald Trump – The Reasons Against Him
 
-### New York Civil Court Guilty Verdicts 
+### New York Civil Court Guilty Verdicts
 
 [Trump](https://www.donaldjtrump.com/) was convicted of 34 counts of business falsification for hush money to keep [Stormy Daniels](https://stormydaniels.com/) extramarital affair private. [Trump](https://www.donaldjtrump.com/)’s ‘Fix-It’ lawyer, Michael Cohen served time in prison as the go-between between [Daniels](https://stormydaniels.com/) and the National Enquirer.
 
@@ -228,7 +228,7 @@ There are two court cases that have not yet convened and must be decided because
 
 **Damn!** How the hell did [Trump](https://www.donaldjtrump.com/) win?! Although the federal case will be winding down since the [DOJ](https://www.justice.gov/) has some regulation that sitting presidents cannot be tried.
 
-#### [Donald Trump](https://www.donaldjtrump.com/) Is Guilty For Attempting To Overturn An Election And Instigating The January 6, 2021 Insurrection 
+#### [Donald Trump](https://www.donaldjtrump.com/) Is Guilty For Attempting To Overturn An Election And Instigating The January 6, 2021 Insurrection
 
 [Federal: 2020 Election Interference, January 6 Insurrection]({% link January6DocumentDocumentLinks.md %})
 
@@ -238,7 +238,7 @@ I thought that it was a publicity when [Trump](https://www.donaldjtrump.com/) an
 
 "[The Apprentice: White House](https://www.whitehouse.gov/)" ended a tumultuous four year season ingloriously in January 2020, in an extraordinary low point in American history when thousands of far-right undesirables, Pride Boys, Zero Percenters and Oath Losers, lay siege on the US Capitol in a vain attempt of insurrection to overthrow a fair election.
 
-## Supreme Court Justice Clarence Thomas 
+## Supreme Court Justice Clarence Thomas
 
 I also think that [Supreme Court Justice Clarence Thomas should be impeached](https://ralphhightower.github.io/RalphHightower/Opinions/ImpeachSCOTUSJusticeClarenceThomas.html) because he is ethically financial challenged.
 
