@@ -20,6 +20,29 @@ Surviving “The Apprentice: White House – Wrecking Ball”. [Trump](https://w
 
 ### Call to Action
 
+<div id="2025-06-14T23:59:59">
+
+#### [‘No Kings’ anti-Trump protests coming to South Carolina soon / The State](https://www.thestate.com/news/state/south-carolina/article308317355.html)
+
+1. No King Day At The Dome[^20250614] (Columbia): 1100 Gervais St. from 12:30 - 4 p.m. 
+2. Rock Hill: 111 E. White St. from 2 - 4 p.m. 
+3. Spartanburg: 105 N Church St. from 4 - 6 p.m. 
+4. Greenville: 355 S. Hudson St. from 10 - 11:30 a.m. 
+5. Pendleton: 124 Exchange St. from 3 - 5 p.m. 
+6. Seneca: 221 E. North 1st St. from 11:30 a.m. - 1:30 p.m. 
+7. Aiken: 1700 Whiskey Rd. From 12 - 2 p.m. 
+8. Beaufort: 1911 Boundary St. from 12 - 1 p.m. 
+9. Hilton Head: 430 William Hilton Pkwy from 12 - 2 p.m. 
+10. Bluffton: 4819 Bluffton from 4 - 6 p.m. 
+11. Summerville: 500 N. Main St. from 9:30 - 11:30 a.m. 
+12. Charleston: 30 Mary Murray Dr. from 9 - 11 a.m. 
+13. Myrtle Beach: 937 Broadway St. from 2 - 3 p.m. 
+14. Florence: 2099 W Evans St. from 11 a.m. - 1 p.m.
+
+[^20250614]: @RalphHightower: The [NAACP](https://naacp.org/) has "King Day At the Dome" at the State Capitol on Martin Luther King's Day. The rally this Saturday is "[No King Day](https://www.nokings.org/)".
+
+</div>
+
 Hold [Trump](https://www.donaldjtrump.com/)’s feet to the fire on his campaign promises. He promised to lower grocery prices, gas prices, car/truck prices, inflation, housing prices. Grade him on appliances prices, budget deficit, car and truck prices, consumer goods, economy, energy, groceries, housing prices, inflation, interest rate, stock market, trade deficit, unemployment.
 
 ### Contributing
@@ -275,6 +298,46 @@ I have more information on my website: [Ralph Hightower — Website](https://ral
 [^32]: Support ended with wheelstop of Space Shuttle Atlantis on July 21, 2011 with the end of the Space Shuttle fleet.
 [^31]: @RalphHightower: The Columbia metro area probably encompasses a larger area than those two counties, but Lexington and Richland are as far as we are willing to drive. Plus, crossing the Broad River to the Northeast area of Columbia is a farther distance. I've included Sandhills Shopping Center since we would eat there after meeting with our financial advisor when he was located out that way.
 
+<script>
+
+displayUntil("2025-06-14T23:59:59");
+
+function displayUntil(dateUntil) {
+    const now = new Date();
+    const until = new Date(dateUntil);
+    span = timeSpan(now, until);
+    if (span > 0)
+        showElement(dateUntil);
+    else
+        hideElement(dateUntil);
+    }
+
+function timeSpan(from, to) {
+    // Calculate difference in milliseconds
+    timeSpan = to - from;
+    return Math.floor(to - from);
+    }
+
+function showElement(name) { // 1
+    const element = document.getElementById(name);
+    if (element != null) { // 2
+        document.getElementById(name).style.display = 'block';
+        } // 2
+    } // 1
+
+function hideElement(name) {
+    var element = document.getElementById(name);
+        if (element != null) {
+        element.style.display = 'none';
+        }
+    }
+
+function setElementText(element, text) {
+    document.getElementById(element).textContent =  text;
+    }
+
+</script>
+
 ### [USC Gamecocks](https://www.sc.edu/)
 
 | [USC — University of South Carolina](https://www.sc.edu) |
@@ -301,5 +364,5 @@ I have more information on my website: [Ralph Hightower — Website](https://ral
 |  |  |
 |---|---|
 | ![GitHub Repositories By Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RalphHightower&theme=default) | ![GitHub Most Committed By Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RalphHightower&theme=default) |
-
 | ![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RalphHightower&theme=default) | ![GitHub Commits By Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RalphHightower&theme=default&utcOffset=-5) |
+
