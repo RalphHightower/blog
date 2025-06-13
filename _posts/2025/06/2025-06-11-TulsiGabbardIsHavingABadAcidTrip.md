@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [Lysergic acid diethylamide (LSD), Federal Government, Constitution of the United States, First Amendment, Supreme Court of the United States (SCOTUS), US Courts, Central Intelligence Agency (CIA), Department of Defense (DOD), Joint Chiefs of Staff (JCS), U.S. Military Academy West Point, U.S. Air Force, U.S. Army, U.S. Army’s 250th Birthday Celebration, U.S. Coast Guard (USCG), U.S. Marine Corps, National Guard, U.S. Navy, National Guard, U.S. Space Command, U.S. Africa Command (AFRICOM), U.S. Central Command (CENTCOM), U.S. Northern Command (USNORTHCOM), Indo-Pacific Command (USINDOPACOM), U.S. Southern Command (SOUTHCOM), U.S. Special Operations Command (USSOCOM), Strategic Command (USSTRATCOM), U.S. European Command (USEUCOM), Office of the Director of National Intelligence (ODNI), Department of Homeland Security (DHS), Congress, Congressional Budget Office (CBO), Senate, House of Representatives, House Budget Committee, President of the United States (POTUS), White House (WH), Donald J Trump, Mar-a-Lago, President Donald Trump (45), President Donald Trump (47), President Trump Administration (47), Tulsi Gabbard – Director of National Intelligence (ODNI), politics]
+tags: [World War II - Wikipedia, Cold War - Wikipedia, The Government of Japan - JapanGov, What to Do and See In and Around Hiroshima –  Our Complete Guide / Blog / Travel Japan (Japan National Tourism Organization), Hawaii.gov / The Official Website of the Aloha State, Federal Government, Constitution of the United States, First Amendment, Supreme Court of the United States (SCOTUS), US Courts, Central Intelligence Agency (CIA), Department of Defense (DOD), Joint Chiefs of Staff (JCS), U.S. Military Academy West Point, U.S. Air Force, U.S. Army, U.S. Army’s 250th Birthday Celebration, U.S. Coast Guard (USCG), U.S. Marine Corps, National Guard, U.S. Navy, National Guard, U.S. Space Command, U.S. Africa Command (AFRICOM), U.S. Central Command (CENTCOM), U.S. Northern Command (USNORTHCOM), Indo-Pacific Command (USINDOPACOM), U.S. Southern Command (SOUTHCOM), U.S. Special Operations Command (USSOCOM), Strategic Command (USSTRATCOM), U.S. European Command (USEUCOM), Office of the Director of National Intelligence (ODNI), Department of Homeland Security (DHS), Congress, Congressional Budget Office (CBO), Senate, Susan M. Collins (T-ME), John Kennedy (T-LA), House of Representatives, House Budget Committee, President of the United States (POTUS), White House (WH), Donald J Trump, Mar-a-Lago, President Donald Trump (45), President Donald Trump (47), President Trump Administration (47), Tulsi Gabbard – Director of National Intelligence (ODNI), Tulsi Gabbard / LinkedIn, politics]
 categories: [Tulsi Gabbard]
 date: 2025-06-11 3:44 PM
 #excerpt: ''
@@ -17,6 +17,43 @@ title: "Tulsi Gabbard’s Bad Acid (LSD) Trip – Director of National Intellige
 
 I recently visited Hiroshima, and stood at the epicenter of a city scarred by the unimaginable horror caused by a single nuclear bomb dropped in 1945. What I saw, the  stories I heard, and the haunting sadness that remains, will stay with me forever.
 
+## [Even Republicans aren’t sure what to make of Tulsi Gabbard’s weird new video](https://www.msnbc.com/rachel-maddow-show/maddowblog/tulsi-gabbard-video-nuclear-war-bomb-shelters-rcna212317)
+
+*The [DNI](https://www.odni.gov/)’s video about nuclear threats was so odd that one [GOP](https://www.gop.com/) [senator](https://www.senate.gov/) suggested that “she obviously needs to change her meds.”*
+
+June 11, 2025, 10:59 AM EDT
+By [Steve Benen](https://www.msnbc.com/author/steve-benen-ncpn433601)
+
+Four months into her tenure as the [director of national intelligence](https://www.odni.gov/), [Tulsi Gabbard](https://www.odni.gov/index.php/who-we-are/leadership/director-of-national-intelligence) has proven her many critics right with one misjudgment after another. The [DNI](https://www.odni.gov/), for example, [fired the National Intelligence Council’s leadership](https://www.msnbc.com/rachel-maddow-show/maddowblog/gabbard-fires-wrong-intelligence-officials-wrong-time-wrong-reason-rcna206867) for presenting facts that the [White House](https://www.whitehouse.gov/) didn’t like. When pressed on the Signal chat scandal, she testified under oath about details [that appeared to contradict reality](https://www.msnbc.com/rachel-maddow-show/maddowblog/atlantic-posts-full-signal-chat-intensifying-white-house-scandal-rcna198175).
+
+In recent days, [Gabbard](https://www.odni.gov/index.php/who-we-are/leadership/director-of-national-intelligence) has reportedly taken steps to politicize her agency’s inspector general’s office, while exploring ways to turn the [president](https://www.whitehouse.gov/)’s daily briefing into [Faux News](https://www.foxnews.com/)-style segments.
+
+But her latest move is arguably the strangest. [Politico reported](https://www.politico.com/news/2025/06/10/tulsi-gabbard-nuclear-weapons-00396586):
+
+> *[Director of National Intelligence](https://www.odni.gov/) [Tulsi Gabbard](https://www.odni.gov/index.php/who-we-are/leadership/director-of-national-intelligence) warned of a ‘nuclear holocaust’ and chastised ‘warmongers’ for bringing the world ‘closer to the brink of nuclear annihilation than ever before’ in a foreboding video posted to social media on Tuesday. In the three-minute video, [Gabbard](https://www.odni.gov/index.php/who-we-are/leadership/director-of-national-intelligence) details a recent visit to [Hiroshima](https://www.japan.travel/en/uk/inspiration/hiroshima-complete-guide/), [Japan](https://www.japan.go.jp/) to learn more about the aftermath of the U.S. nuclear attack on the city in 1945 during [World War II](https://en.wikipedia.org/wiki/World_War_II). The video features footage of [Gabbard](https://www.odni.gov/index.php/who-we-are/leadership/director-of-national-intelligence)’s trip and archival footage showing victims, interspersed with [Gabbard](https://www.odni.gov/index.php/who-we-are/leadership/director-of-national-intelligence) speaking directly to camera about the consequences of a nuclear attack.*
+
+Much of the [the three-minute video](https://x.com/TulsiGabbard/status/1932368919039459348) is unremarkable. [Gabbard](https://www.odni.gov/index.php/who-we-are/leadership/director-of-national-intelligence) reflected on a recent visit to [Hiroshima](https://www.japan.travel/en/uk/inspiration/hiroshima-complete-guide/) and talked about the significance of a nuclear threat in ways that are largely uncontroversial.
+
+But one part of [Gabbard](https://www.odni.gov/index.php/who-we-are/leadership/director-of-national-intelligence)’s message stood out as ... odd.
+
+“As we stand here, closer to the brink of nuclear annihilation than ever before, political elite and warmongers are carelessly fomenting fear and tensions between nuclear powers,” she said toward the end of the video. “And perhaps it’s because they are confident that they will have access to nuclear shelters for themselves and for their families that regular people won’t have access to.”
+
+So, a few things.
+
+First, the suggestion that we’re currently “closer to the brink of nuclear annihilation than ever before” is difficult to take seriously. I’d encourage [Gabbard](https://www.odni.gov/index.php/who-we-are/leadership/director-of-national-intelligence) to read, for example, any good book about the [Cold War](https://en.wikipedia.org/wiki/Cold_War).
+
+Second, I noticed the DNI didn’t name which “warmongers” are trying to “foment” tensions between nuclear powers — the specifics matter. Who are these nefarious figures allegedly putting the world at great risk?
+
+Third, the idea that the unnamed elite “warmongers” have secret nuclear bunkers seems quite bizarre, even by [Gabbard](https://www.odni.gov/index.php/who-we-are/leadership/director-of-national-intelligence) standards.
+
+In fact, the message was so strange that some of the [Republican](https://www.gop.com/) [senators](https://www.senate.gov/) who voted to confirm her to her current position — despite her [lack of qualifications](https://www.msnbc.com/rachel-maddow-show/maddowblog/consequences-tulsi-gabbards-confirmation-come-focus-rcna192099) and habit of [echoing Russian propaganda —](https://www.nbcnews.com/politics/national-security/democrats-republicans-congress-worried-gabbard-might-leak-information-rcna181316) made no effort to defend her.
+
+[Sen.](https://www.senate.gov/) [John Kennedy (T-LA)](https://www.kennedy.senate.gov/), for example, [told Jewish Insider that](https://jewishinsider.com/2025/06/dni-chief-tulsi-gabbard-friendly-fire-republicans-hiroshima-video-john-kennedy/) “she obviously needs to change her meds.” [Sen.](https://www.senate.gov/) [Susan Collins (T-ME)](https://www.collins.senate.gov/), who has a flair for classic understatements, added that Gabbard’s message was “very strange.”
+
+Before the [Senate](https://www.senate.gov/) confirmation vote on the former [Hawaii](https://portal.ehawaii.gov/) [congresswoman](https://www.house.gov/), a variety of former national security officials [urged](https://www.nbcnews.com/politics/white-house/nearly-100-former-national-security-officials-alarmed-gabbard-rcna183121) senators [not to vote for her](https://www.politico.com/live-updates/2024/12/26/congress/tulsi-gabbard-kash-patel-fbi-cia-trump-00196055). In hindsight, perhaps the chamber’s [GOP](https://www.gop.com/) members should’ve heeded their warning.
+
+Steve Benen
+Steve Benen is a producer for "The Rachel Maddow Show," the editor of MaddowBlog and an MSNBC political contributor. He's also the bestselling author of "Ministry of Truth: Democracy, Reality, and the Republicans' War on the Recent Past."
 
 ## WTF Was That? Tulsi’s Bizarre and Creepy Nuclear War PSA
 
@@ -62,6 +99,12 @@ liquid on sugar cubes
 pure liquid form (may be extremely potent)
 Some people may inhale LSD through the nose (snort) or inject it into a vein (shoot it up). There is no way to predict the amount of LSD that is contained in any form consumed.
 
+- [MSNBC](https://www.nbcnews.com/)
+- [World War II - Wikipedia](https://en.wikipedia.org/wiki/World_War_II)
+- [Cold War - Wikipedia](https://en.wikipedia.org/wiki/Cold_War)
+- [The Government of Japan - JapanGov](https://www.japan.go.jp/)
+- [What to Do and See In and Around Hiroshima: Our Complete Guide / Blog / Travel Japan (Japan National Tourism Organization)](https://www.japan.travel/en/uk/inspiration/hiroshima-complete-guide/)
+- [Hawaii.gov / The Official Website of the Aloha State](https://portal.ehawaii.gov/)
 - Federal Government 
 - [Constitution of the United States](https://constitution.congress.gov/)
 - [First Amendment](https://constitution.congress.gov/constitution/amendment-1/)
@@ -93,6 +136,8 @@ Some people may inhale LSD through the nose (snort) or inject it into a vein (sh
 - [Congress](https;//www.congress.gov/)
 - [Congressional Budget Office (CBO)](https://www.cbo.gov/)
 - [Senate](https://www.senate.gov/)
+- [Susan M. Collins (T-ME)](https://www.collins.senate.gov/)
+- [John Kennedy (T-LA)](https://www.kennedy.senate.gov/)
 - [House of Representatives](https://www.house.gov/)
 - [House Budget Committee ](https://budget.house.gov/)
 - [President of the United States (POTUS)](https://www.whitehouse.gov/)
@@ -103,4 +148,5 @@ Some people may inhale LSD through the nose (snort) or inject it into a vein (sh
 - [President Donald Trump (47)](https://www.whitehouse.gov/administration/donald-j-trump/)
 - [President Trump Administration (47)](https://www.whitehouse.gov/administration/)
 - [Tulsi Gabbard – Director of National Intelligence (ODNI)](https://www.odni.gov/index.php/who-we-are/leadership/director-of-national-intelligence)
+- [Tulsi Gabbard / LinkedIn](https://www.linkedin.com/in/tulsigabbard/)
 - politics 
