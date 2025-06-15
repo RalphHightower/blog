@@ -50,7 +50,7 @@ Someone convinced [Trump](ht://www.donaldjtrump.com/) that attacking immigrants 
 
 Remember, in [Trump](ht://www.donaldjtrump.com/)’s first term, when he [reportedly suggested nuking hurricanes](https://www.axios.com/2019/08/25/trump-nuclear-bombs-hurricanes) to stop them from hitting the U.S.? Now in his second term, he’s trying the equivalent: [Trump](ht://www.donaldjtrump.com/) has no idea what to do with the sustained, growing, intractable and indomitable protest and opposition of the American people against him, so he's decided to try to stop it by using the Army.
 
-What we’re learning, now more than ever, is that the movement against [Trump](ht://www.donaldjtrump.com/) is unstoppable.
+What we’re learning, now more than ever, is that the movement against [Trump](https://www.donaldjtrump.com/) is unstoppable.
 
 Rachel Maddow is host of the Emmy Award-winning “[The Rachel Maddow Show](https://www.msnbc.com/rachel-maddow-show)” Mondays at 9 p.m. ET on [MSNBC](https://www.msnbc.com/). “[The Rachel Maddow Show](https://www.msnbc.com/rachel-maddow-show)” features Maddow’s take on the biggest stories of the day, political and otherwise, including in-depth analysis and stories no other shows in cable news will cover.
 
@@ -58,6 +58,8 @@ Rachel Maddow is host of the Emmy Award-winning “[The Rachel Maddow Show](http
 - Rachel Maddow 
 - [The Rachel Maddow Show](https://www.msnbc.com/rachel-maddow-show)
 - [MaddowBlog](https://www.msnbc.com/rachel-maddow-show) 
+- organizations
+- [“No Kings Day of Defiance.”](https://www.nokings.org/)
 - state, local governments
 - [Atlanta](https://www.atlantaga.gov/), [Georgia (GA)](https://georgia.gov/)
 - [Baltimore](https://www.baltimorecity.gov/), [Maryland (MD)](https://moss-maryland-cdn.nicusa-gl.com/Pages/default.aspx)
