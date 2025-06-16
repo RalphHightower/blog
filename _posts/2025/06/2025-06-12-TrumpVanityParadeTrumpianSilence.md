@@ -45,7 +45,6 @@ As for [Louisiana](https://www.louisiana.gov/)’s [Kennedy](https://www.kennedy
 
 It’s a point [Trump](https://www.donaldjtrump.com/) will probably never fully understand.
 
-Steve Benen<br />
 Steve Benen is a producer for "[The Rachel Maddow Show](https://www.msnbc.com/rachel-maddow-show)," the editor of [MaddowBlog](https://www.msnbc.com/rachel-maddow-show) and an [MSNBC](https://www.msnbc.com/) political contributor. He's also the bestselling author of ["Ministry of Truth: Democracy, Reality, and the Republicans' War on the Recent Past."](https://www.harpercollins.com/products/ministry-of-truth-steve-benen)
 
 - media
