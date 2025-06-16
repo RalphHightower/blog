@@ -3,11 +3,11 @@ layout: post
 tags: [MSNBC, Steve Benen, Rachel Maddow, The Rachel Maddow Show, MaddowBlog, New York Times (NYT), foreign countries, Site officiel du Gouvernement / info.gouv.fr, Emmanuel Macron / Élysée, Bienvenue sur le site de l’Élysée, 中国政府网_中央人民政府门户网站, China, Tiananmen Square, state local governments, Atlanta Georgia (GA), Baltimore Maryland (MD), Boston Massachusetts (MA), Chicago Illinois (IL), Tampa Florida (FL), Raleigh North Carolina (NC), Washington (DC), Gavin Newsom / Governor of California, City of Los Angeles, mayor.lacity.gov, Mayor Karen Bass / Mayor Karen Bass, Office of the Chief of Police - LAPD Online, COUNTY OF LOS ANGELES, Federal Government, Election Day 2024, Constitution of the United States, First Amendment, Supreme Court of the United States (SCOTUS), US Courts, Central Intelligence Agency (CIA), Department of Defense (DOD), Joint Chiefs of Staff (JCS), GENERAL PAUL J. SELVA > Air Force > Biography Display, U.S. Army’s 250th Birthday Celebration, U.S. Military Academy West Point, U.S. Air Force, U.S. Army, U.S. Army’s 250th Birthday Celebration, U.S. Coast Guard (USCG), U.S. Marine Corps, National Guard, U.S. Navy, National Guard, U.S. Space Command, U.S. Africa Command (AFRICOM), U.S. Central Command (CENTCOM), U.S. Northern Command (USNORTHCOM), Indo-Pacific Command (USINDOPACOM), U.S. Southern Command (SOUTHCOM), U.S. Special Operations Command (USSOCOM), Strategic Command (USSTRATCOM), U.S. European Command (USEUCOM), Office of the Director of National Intelligence (ODNI), Department of Homeland Security (DHS), Congress, Congressional Budget Office (CBO), Senate, House of Representatives, House Budget Committee, President of the United States (POTUS), White House (WH), Mark Esper, Donald J Trump, Mar-a-Lago, President Donald Trump (45), President Donald Trump (47), President Trump Administration (47), politics, vanity parade]
 categories: [Donald Trump]
 date: 2025-06-12 5:55 PM
-excerpt: ''
+excerpt: '“For those people that want to protest, they’re going to be met with very big force. And I haven’t even heard about a protest, but you know, this is people that hate our country, but they will be met with very heavy force.” – President Donnie Trump'
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: 'title'
+title: "Trump Warns “Anybody That Protests At My Parade Will Be Met With A Very Heavy Farce”"
 ---
 
 
