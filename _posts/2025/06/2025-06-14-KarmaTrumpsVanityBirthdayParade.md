@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [Mary Trump Media, Federal Government, Constitution of the United States, First Amendment, Supreme Court of the United States (SCOTUS), US Courts, National Oceanic and Atmospheric Administration (NOAA), National Weather Service (NWS), WFO Sterling VA Weather Story, Department of Defense (DOD), Joint Chiefs of Staff (JCS), U.S. Army’s 250th Birthday Celebration, U.S. Military Academy West Point, U.S. Air Force, U.S. Army, U.S. Army’s 250th Birthday Celebration, U.S. Coast Guard (USCG), U.S. Marine Corps, National Guard, U.S. Navy, National Guard, U.S. Space Command, U.S. Africa Command (AFRICOM), U.S. Central Command (CENTCOM), U.S. Northern Command (USNORTHCOM), Indo-Pacific Command (USINDOPACOM), U.S. Southern Command (SOUTHCOM), U.S. Special Operations Command (USSOCOM), Strategic Command (USSTRATCOM), U.S. European Command (USEUCOM), Office of the Director of National Intelligence (ODNI), Department of Homeland Security (DHS), Congress, Senate, House of Representatives, House Budget Committee, President of the United States (POTUS), White House (WH), Donald J Trump, Mar-a-Lago, President Donald Trump (45), President Donald Trump (47), President Trump Administration (47), politics, vanity, no kings rally, June 14 2025]
+tags: [Mary Trump Media, Federal Government, Constitution of the United States, First Amendment, Supreme Court of the United States (SCOTUS), US Courts, National Oceanic and Atmospheric Administration (NOAA), National Weather Service (NWS), WFO Sterling VA Weather Story, Department of Defense (DOD), Joint Chiefs of Staff (JCS), U.S. Army’s 250th Birthday Celebration, U.S. Military Academy West Point, U.S. Air Force, U.S. Army, U.S. Army’s 250th Birthday Celebration, U.S. Coast Guard (USCG), U.S. Marine Corps, National Guard, U.S. Navy, National Guard, U.S. Space Command, U.S. Africa Command (AFRICOM), U.S. Central Command (CENTCOM), U.S. Northern Command (USNORTHCOM), Indo-Pacific Command (USINDOPACOM), U.S. Southern Command (SOUTHCOM), U.S. Special Operations Command (USSOCOM), Strategic Command (USSTRATCOM), U.S. European Command (USEUCOM), Office of the Director of National Intelligence (ODNI), Department of Homeland Security (DHS), Congress, Senate, House of Representatives, House Budget Committee, President of the United States (POTUS), White House (WH), Trump crime businesses, Trump Organization, The Mar-a-Lago Club, Trump International Golf Club, Trump National Doral Golf Club, Trump National Jupiter Golf Club, Trump National Golf Club Washington D.C., Trump National Golf Club Bedminster, Trump National Golf Club Colts Neck, Trump National Golf Club Philadelphia, Trump National Golf Club Hudson Valley, Trump National Golf Club Westchester, Trump National Golf Club Los Angeles, Trump International Golf Club Dubai, Trump International Golf Links & Hotel Ireland Doonbeg, Trump MacLeod House & Lodge Scotland, Trump Turnberry, Trump crime family, Donald J Trump, Eric F. Trump / LinkedIn, Donald Trump Jr. / LinkedIn, Ivanka Trump, Jared Kushner, President Donald Trump (45), President Donald Trump (47), President Trump (47) Administration, President Trump (47) Cabinet, President Donald Trump (47), President Trump Administration (47), politics, vanity, no kings rally, June 14 2025]
 categories: [Donald Trump]
 date: 2025-06-14 6:09 PM
 excerpt: ''
@@ -16,7 +16,7 @@ title: "Karma For Trump’s Vanity Birthday Parade! It's Gonna Rain On Trump’s
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vAYi1pFOIec?si=zIawEiqYrSQrEj9n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Jun 13, 2025  Mary Trump Daily
-BREAKING #NEWS: Resistance is mounting against [Donald Trump]()’s \$45 million military parade. [No Kings]() rallies will take place during the event, and everyone from an unlikely billionaire, to the [Pope](), to his own allies are turning against him.
+BREAKING #NEWS: Resistance is mounting against [Donald Trump](https://www.donaldjtrump.com/)’s \$45 million military parade. [No Kings](https://www.nokings.org/) rallies will take place during the event, and everyone from an unlikely billionaire, to the [Pope](), to his own allies are turning against him.
 
 ### [WFO Sterling, VA Weather Story](https://www.weather.gov/lwx/weatherstory)
 
@@ -62,9 +62,33 @@ SATURDAY, JUNE 14, 2025- A stalled frontal boundary will continue to oscillate o
 - [House Budget Committee ](https://budget.house.gov/)
 - [President of the United States (POTUS)](https://www.whitehouse.gov/)
 - [White House (WH)](https://www.whitehouse.gov/)
+- Trump crime businesses 
+- [Trump Organization](https://www.trump.com/)
+- [The Mar-a-Lago Club](https://www.maralagoclub.com/) 
+- [Trump International Golf Club](https://www.trumpinternationalpalmbeaches.com/) 
+- [Trump National Doral Golf Club](https://www.trumpgolfdoral.com/) 
+- [Trump National Jupiter Golf Club](https://www.trumpnationaljupiter.com/) 
+- [Trump National Golf Club Washington, D.C.](https://www.trumpnationaldc.com/)
+- [Trump National Golf Club Bedminster](https://www.trumpnationalbedminster.com/) 
+- [Trump National Golf Club Colts Neck](https://www.trumpcoltsneck.com/) 
+- [Trump National Golf Club Philadelphia](https://www.trumpnationalphiladelphia.com/) 
+- [Trump National Golf Club Hudson Valley](https://www.trumpnationalhudsonvalley.com/) 
+- [Trump National Golf Club Westchester](https://www.trumpnationalwestchester.com/) 
+- [Trump National Golf Club Los Angeles](https://www.trumpnationallosangeles.com/) 
+- [Trump International Golf Club Dubai](https://www.trumpgolfdubai.com/) 
+- [Trump International Golf Links & Hotel Ireland, Doonbeg](https://www.trumpgolfireland.com/) 
+- [Trump MacLeod House & Lodge Scotland](https://www.trumphotels.com/macleod-house)
+- [Trump Turnberry](https://www.turnberry.co.uk/)
+- Trump crime family
 - [Donald J Trump](https://www.donaldjtrump.com/)
-- [Mar-a-Lago](https://www.maralagoclub.com/)
+- [Eric F. Trump / LinkedIn](https://www.linkedin.com/in/erictrump/)
+- [Donald Trump Jr. / LinkedIn](https://www.linkedin.com/in/donald-trump-jr-4454b862/)
+- Ivanka Trump
+- Jared Kushner
 - [President Donald Trump (45)](https://trumpwhitehouse.archives.gov/)
+- [President Donald Trump (47)](https://www.whitehouse.gov/administration/donald-j-trump/)
+- [President Trump (47) Administration](https://www.whitehouse.gov/administration/)
+- [President Trump (47) Cabinet](https://www.whitehouse.gov/administration/the-cabinet/)
 - [President Donald Trump (47)](https://www.whitehouse.gov/administration/donald-j-trump/)
 - [President Trump Administration (47)](https://www.whitehouse.gov/administration/)
 - politics 

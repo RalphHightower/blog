@@ -12,7 +12,7 @@ title: "Trumpian Legislators Off 'No Comment' On Trump’s Vanity Birthday Parad
 
 ## [Republicans struggle to defend Trump’s military parade as tanks prepare to roll in D.C.](https://www.msnbc.com/rachel-maddow-show/maddowblog/republicans-struggle-defend-trumps-military-parade-tanks-prepare-roll-rcna212563)
 
-*Many GOP officials appear to have no idea what to say about the president's military parade — and some don't want to attend the festivities, either.*
+*Many [GOP]() officials appear to have no idea what to say about the president's military parade — and some don't want to attend the festivities, either.*
 
 June 12, 2025, 8:59 AM EDT
 By [Steve Benen](https://www.msnbc.com/author/steve-benen-ncpn433601)
@@ -21,7 +21,7 @@ Around this time eight years ago, [Donald Trump](https://www.donaldjtrump.com/) 
 
 Soon after, [Trump](https://www.donaldjtrump.com/) began pushing for a related display in [Washington, D.C.](https://dc.gov/), which was not an especially popular idea, even among many of his allies. According to multiple reports, [Gen. Paul J. Selva](https://www.af.mil/About-Us/Biographies/Display/Article/105043/general-paul-j-selva/), the then-vice chairman of the [Joint Chiefs of Staff](https://www.jcs.mil/), told the [president](https://www.whitehouse.gov/) during a [Pentagon](https://www.defense.gov/) meeting that military parades were “[what dictators do](https://www.nytimes.com/2025/05/27/us/politics/military-parade-trump.html).”
 
-There were similar reactions on [Capitol Hill](https://www.congress.gov/), including among [Sen.](https://www.senate.gov/) [Lindsey Graham (T-SC)](https://www.lgraham.senate.gov/) [said](https://x.com/mkraju/status/961295569955295239) ostentatious American military parades would likely be “a sign of weakness,” adding that he wasn’t interested in a “Russian-style hardware display.”
+There were similar reactions on [Capitol Hill](https://www.congress.gov/), including among [Sen.](https://www.senate.gov/) [Lindsey Graham (T-SC)](https://www.lgraham.senate.gov/) [said](https://x.com/mkraju/status/961295569955295239) ostentatious American military parades would likely be “a sign of weakness,” adding that he wasn’t interested in a “[Russian](http://kremlin.ru/)-style hardware display.”
 
 Around the same time, [Sen.](https://www.senate.gov/) [John Kennedy (T-LA)](https://www.kennedy.senate.gov/) [explained](https://talkingpointsmemo.com/livewire/john-kennedy-military-parade-not-good-idea), “Confidence is silent. Insecurities are loud. When you’re the most powerful nation in all of human history, you don’t have to show it off, like [Russia](http://kremlin.ru/) does, and [North Korea](http://mfa.gov.kp/), and [China](https://www.gov.cn/). And we are the most powerful nation in all of human history. Everyone knows that, and there’s no need to broadcast it. I think we would show our confidence by remaining silent, and not doing something like that.”
 
@@ -31,7 +31,7 @@ On Saturday, June 14, the [president](https://www.whitehouse.gov/) will finally 
 
 Seven years after [Graham](https://www.lgraham.senate.gov/) said such displays would likely be “a sign of weakness,” the [South Carolinian](https://www.sc.gov/) told [NBC News](https://www.nbcnews.com/) this week that he’s now “okay” with the parade. And while that trajectory was probably predictable given [Graham](https://www.lgraham.senate.gov/)’s broader political evolution, as [HuffPost](https://www.huffpost.com/) noted, many of his colleagues were more reluctant to talk about the event.
 
-They snapped. They stared off into space. They zipped into Senate elevators and smiled as the doors closed with them safely inside. This is how nearly a dozen [Senate](https://www.senate.gov/) [Republicans](https://www.gop.com/) reacted Wednesday when asked the simplest question: Do you plan to attend [President](https://www.whitehouse.gov/) [Donald Trump](https://www.donaldjtrump.com/)’s military parade in [D.C.](https://dc.gov/) on Saturday, and are you comfortable with its estimated $45 million price tag?
+They snapped. They stared off into space. They zipped into [Senate](https://www.senate.gov/) elevators and smiled as the doors closed with them safely inside. This is how nearly a dozen [Senate](https://www.senate.gov/) [Republicans](https://www.gop.com/) reacted Wednesday when asked the simplest question: Do you plan to attend [President](https://www.whitehouse.gov/) [Donald Trump](https://www.donaldjtrump.com/)’s military parade in [D.C.](https://dc.gov/) on Saturday, and are you comfortable with its estimated \$45 million price tag?
 
 What’s more, [GOP](https://www.gop.com/) [senators](https://www.senate.gov/) aren’t just loath to answer questions about the military parade, they’re also disinclined to show up for the festivities: [Politico reported](https://www.politico.com/news/2025/06/10/trump-parade-congress-republicans-00398774) that most [congressional](https://www.congress.gov/) [Republicans](https://www.gop.com/) won’t be in attendance when tanks start rolling down Constitution Avenue, and “those begging off include members of the [Republican](https://www.gop.com/) leadership in [both chambers](https://www.congress.gov/).”
 

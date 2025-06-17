@@ -18,7 +18,7 @@ Past presidents have sought to heal America after tragedy.
 - [Ronald Reagan](https://www.reaganlibrary.gov/) after the [Space Shuttle Challenger](https://www.nasa.gov/mission/sts-51l/) explosion.
 - [Bill Clinton](https://www.clintonlibrary.gov/) after the bombing of the [FBI Office – Oklahoma City](https://www.fbi.gov/contact-us/field-offices/oklahomacity).
 - [George W. Bush](https://www.georgewbushlibrary.gov/) after the loss of [Space Shuttle Columbia](https://www.nasa.gov/mission/sts-107/) on reentry, and the al-Qaeda bombing of the twin [World Trade Centers](https://web.archive.org/web/20010413023920/http://www.panynj.gov/wtc/wtcfram.HTM), the [Pentagon](https://www.defense.gov/), and an unknown target that the passengers brought down before their target.
-- [Barack Obama](https://obamawhitehouse.archives.gov/) after Dylan Roof tried to start a race war murdering nine parishioners in a mass shooting at the [Emanuel African Methodist Episcopal Church](https://motheremanuel.com/) in Charleston, South Carolina.
+- [Barack Obama](https://obamawhitehouse.archives.gov/) after Dylan Roof tried to start a race war murdering nine parishioners in a mass shooting at the [Emanuel African Methodist Episcopal Church](https://motheremanuel.com/) in [Charleston](https://charleston-sc.gov/), [South Carolina (SC)](https://www.sc.gov).
 
 However, [Donald Trump](https://www.donaldjtrump.com/) is not a uniter. His political survival depends upon division.
 
