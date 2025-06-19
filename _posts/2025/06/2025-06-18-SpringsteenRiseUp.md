@@ -1,7 +1,7 @@
 ---
 layout: post
-tags: [Land of Hope and Dreams]
-categories: [Bruce Springsteen,  E Street Band]
+tags: [Land of Hope and Dreams, music videos]
+categories: [Bruce Springsteen, E Street Band]
 date: 2025-06-18 7:40 PM
 #excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
@@ -15,7 +15,7 @@ title: "Bruce Springsteen & the E Street Band. Land of Hope and Dreams. Live @ M
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/M2-y-3a9RPg?si=E8_muh_6jnMItQjz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-May 28, 2025  #BruceSpringsteenOfficialAudio
+May 28, 2025 #BruceSpringsteenOfficialAudio
 Official Live Video for "Land of Hope and Dreams - Manchester May 14, 2025" by Bruce Springsteen
 
 Listen to Bruce Springsteen: https://BruceSpringsteen.lnk.to/listenYD 
@@ -33,66 +33,66 @@ YouTube: https://BruceSpringsteen.lnk.to/subsc...
 #LandofHopeandDreamsManchesterMay142025 #LandofHopeandDreamsManchesterMay142025OfficialAudio #LandofHopeandDreamsManchesterMay142025OfficialVideo #LandofHopeandDreamsManchesterMay142025OfficialLyricVideo #BruceSpringsteenOfficialAudio #BruceSpringsteenOfficialVideo
 
 Lyrics:
-Grab your ticket and your suitcase
-Thunder's rolling down the tracks
-You don't know where you're goin'
-But you know you won't be back
-Darlin' if you're weary
-Lay your head upon my chest
-We'll take what we can carry
-And we'll leave the rest
-Big Wheels rolling through fields
-Where sunlight streams
-Meet me in a land of hope and dreams
-I will provide for you
-And I'll stand by your side
-You'll need a good companion for
-This part of the ride
-Leave behind your sorrows
-Let this day be the last
-Tomorrow there'll be sunshine
-And all this darkness past
-Big wheels roll through fields
-Where sunlight streams
-Meet me in a land of hope and dreams
-This train
-Carries saints and sinners
-This train
-Carries losers and winners
-This Train
-Carries whores and gamblers
-This Train
-Carries lost souls
-This Train
-Dreams will not be thwarted
-This Train
-Faith will be rewarded
-This Train
-Hear the steel wheels singin'
-This Train
-Bells of freedom ringin'
-This Train
-Carries broken-hearted
-This Train
-Thieves and sweet souls departed
-This Train
-Carries fools and kings
-This Train
-All aboard
-This Train
-Dreams will not be thwarted
-This Train
-Faith will be rewarded
-This Train
-Hear the steel wheels singin'
-This Train
+Grab your ticket and your suitcase<br />
+Thunder's rolling down the tracks<br />
+You don't know where you're goin'<br />
+But you know you won't be back<br />
+Darlin' if you're weary<br />
+Lay your head upon my chest<br />
+We'll take what we can carry<br />
+And we'll leave the rest<br />
+Big Wheels rolling through fields<br />
+Where sunlight streams<br />
+Meet me in a land of hope and dreams<br />
+I will provide for you<br />
+And I'll stand by your side<br />
+You'll need a good companion for<br />
+This part of the ride<br />
+Leave behind your sorrows<br />
+Let this day be the last<br />
+Tomorrow there'll be sunshine<br />
+And all this darkness past<br />
+Big wheels roll through fields<br />
+Where sunlight streams<br />
+Meet me in a land of hope and dreams<br />
+This train<br />
+Carries saints and sinners<br />
+This train<br />
+Carries losers and winners<br />
+This Train<br />
+Carries whores and gamblers<br />
+This Train<br />
+Carries lost souls<br />
+This Train<br />
+Dreams will not be thwarted<br />
+This Train<br />
+Faith will be rewarded<br />
+This Train<br />
+Hear the steel wheels singin'<br />
+This Train<br />
+Bells of freedom ringin'<br />
+This Train<br />
+Carries broken-hearted<br />
+This Train<br />
+Thieves and sweet souls departed<br />
+This Train<br />
+Carries fools and kings<br />
+This Train<br />
+All aboard<br />
+This Train<br />
+Dreams will not be thwarted<br />
+This Train<br />
+Faith will be rewarded<br />
+This Train<br />
+Hear the steel wheels singin'<br />
+This Train<br />
 Bells of freedom ringin'
 
 ## Bruce Springsteen - Long Walk Home (Manchester May 14, 2025 [Official Live Video])
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jimwFjOVq-M?si=C0LgEml44fAx7l5L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-May 28, 2025  #BruceSpringsteenOfficialAudio
+May 28, 2025 #BruceSpringsteenOfficialAudio
 Official Live Video for "Long Walk Home - Manchester May 14, 2025" by Bruce Springsteen
 
 Listen to Bruce Springsteen: https://BruceSpringsteen.lnk.to/listenYD 
@@ -110,59 +110,59 @@ YouTube: https://BruceSpringsteen.lnk.to/subsc...
 #LongWalkHomeManchesterMay142025 #LongWalkHomeManchesterMay142025OfficialAudio #LongWalkHomeManchesterMay142025OfficialVideo #LongWalkHomeManchesterMay142025OfficialLyricVideo #BruceSpringsteenOfficialAudio #BruceSpringsteenOfficialVideo
 
 Lyrics:
-Last night I stood at your doorstep
-Trying to figure out what went wrong
-You just slipped something into my palm and you were gone
-I could smell the same deep green of summer
-'Bove me the same night sky was glowin'
-In the distance I could see the town where I was born
-It's gonna be a long walk home
-Hey pretty darling, don't wait up for me
-Gonna be a long walk home
-A long walk home
-In town I pass Sal's grocery
-Barber shop on South Street
-I looked in their faces*
-They're all rank strangers to me*
-Well Veteran's Hall high upon the hill
-Stood silent and alone
-The diner was shuttered and boarded
-With a sign that just said "gone"
-It's gonna be a long walk home
-Hey pretty darling, don't wait up for me
-Gonna be a long walk home
-Hey pretty darling, don't wait up for me
-Gonna be a long walk home
-It's gonna be a long walk home
-Here everybody has a neighbor
-Everybody has a friend
-Everybody has a reason to begin again
-My father said "Son, we're lucky in this town,
-It's a beautiful place to be born.
-It just wraps its arms around you,
-Nobody crowds you and nobody goes it alone"
-"Your flag flyin' over the courthouse
-Means certain things are set in stone.
-Who we are, what we'll do and what we won't"
-It's gonna be a long walk home
-Hey pretty darling, don't wait up for me
-Gonna be a long walk home
-Hey pretty darling, don't wait up for me
-Gonna be a long walk home
-It's gonna be a long walk home
-It's gonna be a long walk home
-Hey pretty darling, don't wait up for me
-Gonna be a long walk home
-Hey pretty darling, don't wait up for me
-Gonna be a long walk home
-It's gonna be a long walk home
+Last night I stood at your doorstep<br />
+Trying to figure out what went wrong<br />
+You just slipped something into my palm and you were gone<br />
+I could smell the same deep green of summer<br />
+'Bove me the same night sky was glowin'<br />
+In the distance I could see the town where I was born<br />
+It's gonna be a long walk home<br />
+Hey pretty darling, don't wait up for me<br />
+Gonna be a long walk home<br />
+A long walk home<br />
+In town I pass Sal's grocery<br />
+Barber shop on South Street<br />
+I looked in their faces*<br />
+They're all rank strangers to me*<br />
+Well Veteran's Hall high upon the hill<br />
+Stood silent and alone<br />
+The diner was shuttered and boarded<br />
+With a sign that just said "gone"<br />
+It's gonna be a long walk home<br />
+Hey pretty darling, don't wait up for me<br />
+Gonna be a long walk home<br />
+Hey pretty darling, don't wait up for me<br />
+Gonna be a long walk home<br />
+It's gonna be a long walk home<br />
+Here everybody has a neighbor<br />
+Everybody has a friend<br />
+Everybody has a reason to begin again<br />
+My father said "Son, we're lucky in this town,<br />
+It's a beautiful place to be born.<br />
+It just wraps its arms around you,<br />
+Nobody crowds you and nobody goes it alone"<br />
+"Your flag flyin' over the courthouse<br />
+Means certain things are set in stone.<br />
+Who we are, what we'll do and what we won't"<br />
+It's gonna be a long walk home<br />
+Hey pretty darling, don't wait up for me<br />
+Gonna be a long walk home<br />
+Hey pretty darling, don't wait up for me<br />
+Gonna be a long walk home<br />
+It's gonna be a long walk home<br />
+It's gonna be a long walk home<br />
+Hey pretty darling, don't wait up for me<br />
+Gonna be a long walk home<br />
+Hey pretty darling, don't wait up for me<br />
+Gonna be a long walk home<br />
+It's gonna be a long walk home<br />
 It's gonna be a long walk home
 
 ## Bruce Springsteen - My City of Ruins (Manchester May 14, 2025 [Official Live Video])
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gO3r2T7D9Lw?si=NADxIuBJqtbxjena" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-May 28, 2025  #BruceSpringsteen #MyCityofRuins #BruceSpringsteenLive
+May 28, 2025 #BruceSpringsteen #MyCityofRuins #BruceSpringsteenLive
 Official Video for "My City of Ruins" performed live by Bruce Springsteen, Manchester May 14, 2025
 
 Listen to Bruce Springsteen: https://BruceSpringsteen.lnk.to/listenYD 
@@ -177,40 +177,40 @@ Website: https://BruceSpringsteen.lnk.to/followWI
 Spotify: https://BruceSpringsteen.lnk.to/followSI
 YouTube: https://BruceSpringsteen.lnk.to/subsc...
 
-#MyCityofRuins #MyCityofRuinsLive #MyCityofRuinsOfficialVideo #BruceSpringsteen  #BruceSpringsteenLive
+#MyCityofRuins #MyCityofRuinsLive #MyCityofRuinsOfficialVideo #BruceSpringsteen #BruceSpringsteenLive
 
 Lyrics:
-There's a blood red circle on the cold dark ground
-And the rain is falling down
-The church door's thrown open, I can hear the organ's song
-But the congregation's gone
-My city of ruins
-My city of ruins
-Now the sweet bells of mercy drift through the evening trees
-Young men on the corner, like scattered leaves
-The boarded up windows, the empty streets
-While my brother's down on his knees
-My city of ruins
-My city of ruins
-Come on, rise up
-Come on, rise up
-Come on, rise up
-Come on, rise up
-Come on rise up
-Come on, rise up
-Come on, rise up
-Now there's tears on the pillow, darlin', where we slept
-And you took my heart when you left
-Without your sweet kiss my soul is lost, my friend
-Tell me, how do I begin again?
-My city's in ruins
+There's a blood red circle on the cold dark ground<br />
+And the rain is falling down<br />
+The church door's thrown open, I can hear the organ's song<br />
+But the congregation's gone<br />
+My city of ruins<br />
+My city of ruins<br />
+Now the sweet bells of mercy drift through the evening trees<br />
+Young men on the corner, like scattered leaves<br />
+The boarded up windows, the empty streets<br />
+While my brother's down on his knees<br />
+My city of ruins<br />
+My city of ruins<br />
+Come on, rise up<br />
+Come on, rise up<br />
+Come on, rise up<br />
+Come on, rise up<br />
+Come on rise up<br />
+Come on, rise up<br />
+Come on, rise up<br />
+Now there's tears on the pillow, darlin', where we slept<br />
+And you took my heart when you left<br />
+Without your sweet kiss my soul is lost, my friend<br />
+Tell me, how do I begin again?<br />
+My city's in ruins<br />
 My city's in ruins
 
 ## Bruce Springsteen - Chimes of Freedom (Manchester May 14, 2025 [Official Live Video])
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HK1WMIHRsQM?si=8GzHBzExZ-br4CVB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-May 28, 2025  #BruceSpringsteenOfficialAudio
+May 28, 2025 #BruceSpringsteenOfficialAudio
 Official Live Video for "Chimes of Freedom - Manchester May 14, 2025" by Bruce Springsteen
 
 Listen to Bruce Springsteen: https://BruceSpringsteen.lnk.to/listenYD 
@@ -228,58 +228,58 @@ YouTube: https://BruceSpringsteen.lnk.to/subsc...
 #ChimesofFreedomManchesterMay142025 #ChimesofFreedomManchesterMay142025OfficialAudio #ChimesofFreedomManchesterMay142025OfficialVideo #ChimesofFreedomManchesterMay142025OfficialLyricVideo #BruceSpringsteenOfficialAudio #BruceSpringsteenOfficialVideo
 
 Lyrics:
-Far between sundown’s finish an’ midnight’s broken toll
-We ducked inside the doorway as thunder went crashing
-As majestic bells of bolts struck shadows in the sounds
-Seeming to be the chimes of freedom flashing
-Flashing for the warriors whose strength is not to fight
-Flashing for the refugees on the unarmed road of flight
-An’ for each an’ ev’ry underdog soldier in the night
-An’ we gazed upon the chimes of freedom flashing.
-
-In the city’s melted furnace, unexpectedly we watched
-With faces hidden as the walls were tightening
-As the echo of the wedding bells before the blowin’ rain
-Dissolved into the bells of the lightning
-Tolling for the rebel, tolling for the rake
-Tolling for the luckless, the abandoned an’ forsaked
-Tolling for the outcast, burnin’ constantly at stake
-An’ we gazed upon the chimes of freedom flashing.
-
-Through the mad mystic hammering of the wild ripping hail
-The sky cracked its poems in naked wonder
-That the clinging of the church bells blew far into the breeze
-Leaving only bells of lightning and its thunder
-Striking for the gentle, striking for the kind
-Striking for the guardians and protectors of the mind
-An’ the poet an’ the painter far behind his rightful time
-An’ we gazed upon the chimes of freedom flashing.
-
-In the wild cathedral evening the rain unraveled tales
-For the disrobed faceless forms of no position
-Tolling for the tongues with no place to bring their thoughts
-All down in taken-for granted situations
-Tolling for the deaf an’ blind, tolling for the mute
-For the mistreated, mateless mother, the mistitled prostitute
-For the misdemeanor outlaw, chased an’ cheated by pursuit
-An’ we gazed upon the chimes of freedom flashing.
-
-Even though a cloud’s white curtain in a far-off corner flared
-An’ the hypnotic splattered mist was slowly lifting
-Electric light still struck like arrows, fired but for the ones
-Condemned to drift or else be kept from drifting
-Tolling for the searching ones on their speechless, seeking trail
-For the lonesome-hearted lovers with too personal a tale
-An’ for each unharmful, gentle soul misplaced inside a jail
-An’ we gazed upon the chimes of freedom flashing.
-
-Starry-eyed an’ laughing as I recall when we were caught
-Trapped by no track of hours for they hang suspended
-As we listened one last time an’ we watched with one last look
-Spellbound an’ swallowed ’til the tolling ended
-Tolling for the aching whose wounds cannot be nursed
-For the countless confused, accused, misused, strung-out ones an’ worse
-An’ for every hung-up person in the whole wide universe
+Far between sundown’s finish an’ midnight’s broken toll<br />
+We ducked inside the doorway as thunder went crashing<br />
+As majestic bells of bolts struck shadows in the sounds<br />
+Seeming to be the chimes of freedom flashing<br />
+Flashing for the warriors whose strength is not to fight<br />
+Flashing for the refugees on the unarmed road of flight<br />
+An’ for each an’ ev’ry underdog soldier in the night<br />
+An’ we gazed upon the chimes of freedom flashing.<br />
+<br />
+In the city’s melted furnace, unexpectedly we watched<br />
+With faces hidden as the walls were tightening<br />
+As the echo of the wedding bells before the blowin’ rain<br />
+Dissolved into the bells of the lightning<br />
+Tolling for the rebel, tolling for the rake<br />
+Tolling for the luckless, the abandoned an’ forsaked<br />
+Tolling for the outcast, burnin’ constantly at stake<br />
+An’ we gazed upon the chimes of freedom flashing.<br />
+<br />
+Through the mad mystic hammering of the wild ripping hail<br />
+The sky cracked its poems in naked wonder<br />
+That the clinging of the church bells blew far into the breeze<br />
+Leaving only bells of lightning and its thunder<br />
+Striking for the gentle, striking for the kind<br />
+Striking for the guardians and protectors of the mind<br />
+An’ the poet an’ the painter far behind his rightful time<br />
+An’ we gazed upon the chimes of freedom flashing.<br />
+<br />
+In the wild cathedral evening the rain unraveled tales<br />
+For the disrobed faceless forms of no position<br />
+Tolling for the tongues with no place to bring their thoughts<br />
+All down in taken-for granted situations<br />
+Tolling for the deaf an’ blind, tolling for the mute<br />
+For the mistreated, mateless mother, the mistitled prostitute<br />
+For the misdemeanor outlaw, chased an’ cheated by pursuit<br />
+An’ we gazed upon the chimes of freedom flashing.<br />
+<br />
+Even though a cloud’s white curtain in a far-off corner flared<br />
+An’ the hypnotic splattered mist was slowly lifting<br />
+Electric light still struck like arrows, fired but for the ones<br />
+Condemned to drift or else be kept from drifting<br />
+Tolling for the searching ones on their speechless, seeking trail<br />
+For the lonesome-hearted lovers with too personal a tale<br />
+An’ for each unharmful, gentle soul misplaced inside a jail<br />
+An’ we gazed upon the chimes of freedom flashing.<br />
+<br />
+Starry-eyed an’ laughing as I recall when we were caught<br />
+Trapped by no track of hours for they hang suspended<br />
+As we listened one last time an’ we watched with one last look<br />
+Spellbound an’ swallowed ’til the tolling ended<br />
+Tolling for the aching whose wounds cannot be nursed<br />
+For the countless confused, accused, misused, strung-out ones an’ worse<br />
+An’ for every hung-up person in the whole wide universe<br />
 An’ we gazed upon the chimes of freedom flashing.
 
 - media
@@ -329,7 +329,7 @@ An’ we gazed upon the chimes of freedom flashing.
 - Chamath Palihapitiya
 - Jeff Miller
 - Donald Trump Jr.
-- Zach  Witkoff
+- Zach Witkoff
 - Alex Witkoff
 - Steve Witkoff
 - Omeed Malik
