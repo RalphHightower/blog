@@ -1,10 +1,12 @@
 - name: Home
   link: /
-- name: Blog Posts
-  link: /blogpager.html
 - name: Documentation/CHANGELOG.md
-  link: /docs/CHANGELOG.html
+  link: /docs/CHANGELOG.mtml
 - name: Documentation / Creating / Maintenance
   link: /docs/BuildCreateEditMaintenance.html
 - name: Documentation / Brief Purpose For Blogging
   link: /docs/PURPOSE.html
+# - name: Blog Posts
+#   link: /blog.html
+- name: Blog Posts
+  link: /blogpager.html
