@@ -1,7 +1,7 @@
 ---
 layout: post
-tags: []
-categories: []
+tags: [America, environment]
+categories: [This Land Is Your Land]
 date: 2025-06-18 4:09 PM
 #excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
