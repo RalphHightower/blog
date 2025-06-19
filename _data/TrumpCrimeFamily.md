@@ -10,7 +10,7 @@ date: 2025-06-18 7:16 PM
 title: "Trump Crime Family, Businesses, & Associates"
 ---
 
-- Trump crime businesses 
+- Trump crime businesses
 - [The Executive Branch Club](https://www.theexecutivebranchclub.com/)
 - David Sacks
 - Winklevoss twins
@@ -27,19 +27,19 @@ title: "Trump Crime Family, Businesses, & Associates"
 - [$TRUMP](https://gettrumpmemes.com/)
 - [$MELANIA](https://melaniameme.com/)
 - [Trump Media and Technology Group](https://tmtgcorp.com/)
-- [The Mar-a-Lago Club](https://www.maralagoclub.com/) 
-- [Trump International Golf Club](https://www.trumpinternationalpalmbeaches.com/) 
-- [Trump National Doral Golf Club](https://www.trumpgolfdoral.com/) 
-- [Trump National Jupiter Golf Club](https://www.trumpnationaljupiter.com/) 
+- [The Mar-a-Lago Club](https://www.maralagoclub.com/)
+- [Trump International Golf Club](https://www.trumpinternationalpalmbeaches.com/)
+- [Trump National Doral Golf Club](https://www.trumpgolfdoral.com/)
+- [Trump National Jupiter Golf Club](https://www.trumpnationaljupiter.com/)
 - [Trump National Golf Club Washington, D.C.](https://www.trumpnationaldc.com/)
-- [Trump National Golf Club Bedminster](https://www.trumpnationalbedminster.com/) 
-- [Trump National Golf Club Colts Neck](https://www.trumpcoltsneck.com/) 
-- [Trump National Golf Club Philadelphia](https://www.trumpnationalphiladelphia.com/) 
-- [Trump National Golf Club Hudson Valley](https://www.trumpnationalhudsonvalley.com/) 
-- [Trump National Golf Club Westchester](https://www.trumpnationalwestchester.com/) 
-- [Trump National Golf Club Los Angeles](https://www.trumpnationallosangeles.com/) 
-- [Trump International Golf Club Dubai](https://www.trumpgolfdubai.com/) 
-- [Trump International Golf Links & Hotel Ireland, Doonbeg](https://www.trumpgolfireland.com/) 
+- [Trump National Golf Club Bedminster](https://www.trumpnationalbedminster.com/)
+- [Trump National Golf Club Colts Neck](https://www.trumpcoltsneck.com/)
+- [Trump National Golf Club Philadelphia](https://www.trumpnationalphiladelphia.com/)
+- [Trump National Golf Club Hudson Valley](https://www.trumpnationalhudsonvalley.com/)
+- [Trump National Golf Club Westchester](https://www.trumpnationalwestchester.com/)
+- [Trump National Golf Club Los Angeles](https://www.trumpnationallosangeles.com/)
+- [Trump International Golf Club Dubai](https://www.trumpgolfdubai.com/)
+- [Trump International Golf Links & Hotel Ireland, Doonbeg](https://www.trumpgolfireland.com/)
 - [Trump MacLeod House & Lodge Scotland](https://www.trumphotels.com/macleod-house)
 - [Trump Turnberry](https://www.turnberry.co.uk/)
 - Trump crime family
@@ -62,9 +62,9 @@ title: "Trump Crime Family, Businesses, & Associates"
 - [President Trump Administration (47)](https://www.whitehouse.gov/administration/)
 - grift
 - self-dealing
-- corruption 
+- corruption
 - con
 - crime
-- businesses 
-- associates 
-- partners 
+- businesses
+- associates
+- partners
