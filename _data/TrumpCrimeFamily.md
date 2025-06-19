@@ -7,7 +7,7 @@ date: 2025-06-18 7:16 PM
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: 'Trump Crime Family, Businesses, & Associates"
+title: "Trump Crime Family, Businesses, & Associates"
 ---
 
 - Trump crime businesses 
