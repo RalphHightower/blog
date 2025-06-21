@@ -2,7 +2,7 @@
 layout: page
 tags: [The Mar-a-Lago Club, Palm Beach Florida 33480, Trump International Golf Club, West Palm Beach FL 33406, Trump National Doral Golf Club, Miami FL 33178, Trump National Jupiter Golf Club, Jupiter FL 33477, Trump National Golf Club Washington D.C., Potomac Falls VA 20165, Trump National Golf Club Bedminster, Bedminster NJ 07921, Trump National Golf Club Colts Neck, Colts Neck NJ 07722, Trump National Golf Club Philadelphia, Pine Hill NJ 08021, Trump National Golf Club Hudson Valley, Hopewell Junction NY 12533, Trump National Golf Club Los Angeles, Rancho Palos Verdes CA 90275, Trump National Golf Club Charlotte, Mooresville NC 28117, Trump International Golf Club Dubai, Al Hebiah Third District Dubai, Trump International Golf Links & Hotel Ireland Doonbeg, CLARE IRELAND, Trump MacLeod House & Lodge Scotland, Aberdeenshire Scotland AB23 8YE, Trump MacLeod House & Lodge Scotland, Aberdeenshire Scotland AB23 8YE, Trump Turnberry, Ayrshire Scotland]
 categories: [Donald Trump]
-date: 2025-06-20 12:43 PM
+date: 2025-06-20 8:38 PM
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
@@ -15,11 +15,17 @@ title: "Trump: Air Force One Frequent Flyer Miles"
 | Time | Location |
 |---|---|
 | | **Friday, June 20 2025** |
-| 9:00 AM | In-Town Pool Call Time<br />In-Town Pool |
-| 2:00 PM | [The President](https://www.donaldjtrump.com/) departs The [White House](https://www.whitehouse.gov/) en route [Bedminster, New Jersey](https://www.trumpnationalbedminster.com/)<br />[South Lawn](https://www.whitehouse.gov/) Open Press |
+| 9:00 AM | In-Town Pool Call Time<br />The [White House](https://www.whitehouse.gov/) In-Town Pool |
 | 11:00 AM | [The President](https://www.donaldjtrump.com/) attends a National Security Meeting<br />[Oval Office](https://www.whitehouse.gov/) Closed Press |
-| 3:10 PM | [The President](https://www.donaldjtrump.com/) arrives [Bedminster, New Jersey](https://www.trumpnationalbedminster.com/)<br />Closed Press |
-| 7:30 PM | [The President](https://www.donaldjtrump.com/) attends a [MAGA Inc.](https://www.magapac.com/) Dinner<br />[Trump National Golf Club Bedminster](https://www.trumpnationalbedminster.com/) Closed Press |
+| 12:04 PM | [White House](https://www.whitehouse.gov/) Press Office: Lunch lid until 1:00 PM<br />The [White House](https://www.whitehouse.gov/) Open Press |
+| 2:00 PM | [The President](https://www.donaldjtrump.com/) departs The [White House](https://www.whitehouse.gov/) en route [Bedminster, New Jersey](https://www.trumpnationalbedminster.com/) [Departed 2:21 PM Actual for [Joint Base Andrews](https://www.jba.af.mil/)]<br />[South Lawn](https://www.whitehouse.gov/) Open Press |
+| 2:30 PM | [The President](https://www.donaldjtrump.com/) arrives at [Joint Base Andrews](https://www.jba.af.mil/)<br />[Joint Base Andrews](https://www.jba.af.mil/) Open Press |
+| 2:44 PM | [The President](https://www.donaldjtrump.com/) departs [Joint Base Andrews](https://www.jba.af.mil/) for [Morristown Municipal Airport](https://www.mmuair.com/)<br />[Joint Base Andrews](https://www.jba.af.mil/) Open Press |
+| 3:10 PM | [The President](https://www.donaldjtrump.com/) arrives [Bedminster, New Jersey](https://www.trumpnationalbedminster.com/) [Actual: Sometime after 3:51 PM. No pool arrival time]<br />[Trump National Golf Club Bedminster](https://www.trumpnationalbedminster.com/) Closed Press |
+| 3:22 PM | [The President](https://www.donaldjtrump.com/) departs arrives at [Morristown Municipal Airport](https://www.mmuair.com/)<br />[Morristown Municipal Airport](https://www.mmuair.com/) Open Press |
+| 3:51 PM | [The President](https://www.donaldjtrump.com/) departs [Morristown Municipal Airport](https://www.mmuair.com/) for [Bedminster, New Jersey](https://www.trumpnationalbedminster.com/)<br />[Morristown Municipal Airport](https://www.mmuair.com/) Open Press |
+| 4:02 PM | [White House](https://www.whitehouse.gov/) Press Office: Full lid called<br />[Trump National Golf Club Bedminster](https://www.trumpnationalbedminster.com/) Open Press |
+| 7:30 PM 💰| [The President](https://www.donaldjtrump.com/) attends a [MAGA Inc.](https://www.magapac.com/) Dinner<br />[Trump National Golf Club Bedminster](https://www.trumpnationalbedminster.com/) Closed Press |
 | | **Tuesday, June 17 2025** |
 | | [Note: No official [White House](https://www.whitehouse.gov/) schedule as of 4:15 PM ET June 17, 2025]<br />The [White House](https://www.whitehouse.gov/) Open Press |
 | 1:01 AM | [The President](https://www.donaldjtrump.com/) arrives at [Calgary International Airport](https://www.yyc.com/) [11:01 PM Local 6/16]<br />[Calgary International Airport](https://www.yyc.com/), Alberta, Canada Out-of-Town Travel Pool |
