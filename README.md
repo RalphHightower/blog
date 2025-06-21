@@ -18,7 +18,42 @@ Prior to that long shot of [Trump](https://www.donaldjtrump.com/) 1.0 winning th
 
 Surviving “The Apprentice: White House – Wrecking Ball”. [Trump](https://www.donaldjtrump.com/) 2.0 is about [Trump](https://www.donaldjtrump.com/)’s destruction of America and her democracy. Putting it in his words, “You got to fight for your country, or you won’t have a country.”
 
+### Resources 
+
+Find out who politicians owe their soul to:
+
+- [OpenSecrets](https://www.opensecrets.org/)
+
+- [50501 — 50 protests, 50 states, 1 movement](https://www.fiftyfifty.one/)
+- [Activist Handbook / Campaigning guides for activists ✊](https://activisthandbook.org/)
+- [American Civil Liberties Union / The ACLU dares to create a more perfect union — beyond one person, party, or side. Our mission is to realize this promise of the United States Constitution for all and expand the reach of its guarantees.](https://www.aclu.org/)
+- [Indivisible](https://indivisible.org/)
+- [League of Conservation Voters](https://www.lcv.org/)
+- [No Kings](https://www.nokings.org/)
+- [People's Promise](https://peoplespromise.us/)
+- [Stand Up America - Demanding the Democracy We Deserve](https://standupamerica.com/)
+- [Volunteer Opportunities, Events, and Petitions Near Me · Not Above the Law on Mobilize](https://www.mobilize.us/notabovethelaw/)
+
 ### Call to Action
+
+<div id="2025-07-19T23:59:59">
+
+<h4><a href="https://www.whitehouse.gov/presidential-actions/2025/01/declaring-a-national-emergency-at-the-southern-border-of-the-united-states/">Declaring A National Emergency At The Southern Border Of The United States – The White House</a>. Presidential Actions. January 20, 2025</h4>
+
+<h5>July 19, 2025 – Day of Reckoning</h5>
+
+<a href="https://www.donaldjtrump.com/">Trump</a> is considering invoking the Insurrection Act of 1807 to extend his time as king. But the projected status of America will not warrant invoking the act.
+
+Besides, he pardoned all those insurrectionists from January 6, 2021 that stormed the Capitol to halt the certification of the <a href="https://www.fec.gov/resources/cms-content/documents/federalelections2020.pdf">2020 Presidential Election Results – Federal Election Commission (FEC)</a>.
+
+<a href="https://wagingnonviolence.org/2025/04/what-to-do-if-the-insurrection-act-is-invoked/">
+What to do if the Insurrection Act is invoked / Waging Nonviolence</a>
+
+- [Could Trump Invoke the Insurrection Act? What to Know—and How to Prepare / Indivisible](https://indivisible.org/resource/could-trump-invoke-insurrection-act-what-know-and-how-prepare)
+- [American Spring? How nonviolent protest in the US is accelerating / Waging Nonviolence](https://wagingnonviolence.org/2025/06/american-spring-nonviolent-protest-accelerating/)<br />Contrary to conventional wisdom, the size and scale of anti-Trump protests this year have dwarfed those in 2017, and they have been extraordinarily peaceful.
+Erica Chenoweth, Soha Hammam, Jeremy Pressman, and Christopher Wiley Shay June 12, 2025
+
+</div>
 
 <div id="2025-06-14T23:59:59">
 
@@ -320,7 +355,6 @@ function displayUntil(dateUntil) {
 
 function timeSpan(from, to) {
     // Calculate difference in milliseconds
-    timeSpan = to - from;
     return Math.floor(to - from);
     }
 
@@ -333,13 +367,16 @@ function showElement(name) { // 1
 
 function hideElement(name) {
     var element = document.getElementById(name);
-        if (element != null) {
+    if (element != null) {
         element.style.display = 'none';
         }
     }
 
 function setElementText(element, text) {
-    document.getElementById(element).textContent =  text;
+    var element = document.getElementById(name);
+    if (element != null) {
+        document.getElementById(element).textContent =  text;
+        }
     }
 
 </script>

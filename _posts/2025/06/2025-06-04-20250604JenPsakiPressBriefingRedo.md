@@ -24,10 +24,10 @@ For more context and news coverage of the most important stories of our day clic
 » Subscribe to MSNBC on Instagram   / msnbc   
 Download our new MSNBC app for the latest breaking news and daily headlines at a glance: https://www.msnbc.com/information/dow...
 
-Follow [MSNBC]() Show Blogs 
+Follow [MSNBC](https://www.msnbc.com/) Show Blogs 
 [MaddowBlog](https://www.msnbc.com/maddowblog)
 
-[MSNBC]() delivers breaking news, in-depth analysis of political headlines, commentary and informed perspectives. Find video clips and segments from The Rachel Maddow Show, The Briefing with Jen Psaki, Morning Joe, The Beat, Deadline: White House, The Weeknight, All In, The Last Word, The 11th Hour, and more.
+[MSNBC](https://www.msnbc.com/) delivers breaking news, in-depth analysis of political headlines, commentary and informed perspectives. Find video clips and segments from The Rachel Maddow Show, The Briefing with Jen Psaki, Morning Joe, The Beat, Deadline: White House, The Weeknight, All In, The Last Word, The 11th Hour, and more.
 
 Connect with MSNBC Online 
 Visit msnbc.com: https://www.msnbc.com/ 
