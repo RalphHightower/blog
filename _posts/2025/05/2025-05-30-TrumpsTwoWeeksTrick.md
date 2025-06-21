@@ -7,7 +7,7 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: "Trump Gives His Standard Time Frame, Two Weeks, 
+title: "Trump Gives His Standard Time Frame, Two Weeks, For Russian War Against Ukraine"
 ---
 
 
