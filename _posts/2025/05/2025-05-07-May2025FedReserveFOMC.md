@@ -39,25 +39,16 @@ Decisions Regarding Monetary Policy Implementation
 
 The [Federal Reserve](https://www.federalreserve.gov/) has made the following decisions to implement the monetary policy stance announced by the [Federal Open Market Committee](https://www.federalreserve.gov/monetarypolicy/fomc.htm) in its statement on May 7, 2025:
 
-The [Board of Governors](https://www.federalreserve.gov/aboutthefed/bios/board/default.htm) of the [Federal Reserve System](https://www.federalreserve.gov/) voted unanimously to maintain the interest rate paid on reserve balances at 4.4 percent, effective May 8, 2025.
-
-As part of its policy decision, the [Federal Open Market Committee](https://www.federalreserve.gov/monetarypolicy/fomc.htm) voted to direct the Open Market Desk at the [Federal Reserve Bank of New York](https://www.newyorkfed.org/), until instructed otherwise, to execute transactions in the System Open Market Account in accordance with the following domestic policy directive:
-
-"Effective May 8, 2025, the [Federal Open Market Committee](https://www.federalreserve.gov/monetarypolicy/fomc.htm) directs the Desk to:
-
-Undertake open market operations as necessary to maintain the federal funds rate in a target range of 4-1/4 to 4‑1/2 percent.
-
-Conduct standing overnight repurchase agreement operations with a minimum bid rate of 4.5 percent and with an aggregate operation limit of $500 billion.
-
-Conduct standing overnight reverse repurchase agreement operations at an offering rate of 4.25 percent and with a per‑counterparty limit of $160 billion per day.
-
-Roll over at auction the amount of principal payments from the [Federal Reserve](https://www.federalreserve.gov/)'s holdings of [Treasury securities](https://home.treasury.gov/services/bonds-and-securities) maturing in each calendar month that exceeds a cap of $5 billion per month. Redeem [Treasury coupon securities](https://home.treasury.gov/services/bonds-and-securities) up to this monthly cap and Treasury bills to the extent that coupon principal payments are less than the monthly cap.
-
-Reinvest the amount of principal payments from the [Federal Reserve](https://www.federalreserve.gov/)'s holdings of agency debt and agency mortgage‑backed securities (MBS) received in each calendar month that exceeds a cap of $35 billion per month into [Treasury securities](https://home.treasury.gov/services/bonds-and-securities) to roughly match the maturity composition of [Treasury securities](https://home.treasury.gov/services/bonds-and-securities) outstanding.
-
-Allow modest deviations from stated amounts for reinvestments, if needed for operational reasons."
-
-In a related action, the [Board of Governors](https://www.federalreserve.gov/aboutthefed/bios/board/default.htm) of the [Federal Reserve System](https://www.federalreserve.gov/) voted unanimously to approve the establishment of the primary credit rate at the existing level of 4.5 percent.
+- The [Board of Governors](https://www.federalreserve.gov/aboutthefed/bios/board/default.htm) of the [Federal Reserve System](https://www.federalreserve.gov/) voted unanimously to maintain the interest rate paid on reserve balances at 4.4 percent, effective May 8, 2025.
+- As part of its policy decision, the [Federal Open Market Committee](https://www.federalreserve.gov/monetarypolicy/fomc.htm) voted to direct the Open Market Desk at the [Federal Reserve Bank of New York](https://www.newyorkfed.org/), until instructed otherwise, to execute transactions in the System Open Market Account in accordance with the following domestic policy directive:
+    - "Effective May 8, 2025, the [Federal Open Market Committee](https://www.federalreserve.gov/monetarypolicy/fomc.htm) directs the Desk to:
+        - Undertake open market operations as necessary to maintain the federal funds rate in a target range of 4-1/4 to 4‑1/2 percent.
+        - Conduct standing overnight repurchase agreement operations with a minimum bid rate of 4.5 percent and with an aggregate operation limit of $500 billion.
+        - Conduct standing overnight reverse repurchase agreement operations at an offering rate of 4.25 percent and with a per‑counterparty limit of $160 billion per day.
+        - Roll over at auction the amount of principal payments from the [Federal Reserve](https://www.federalreserve.gov/)'s holdings of [Treasury securities](https://home.treasury.gov/services/bonds-and-securities) maturing in each calendar month that exceeds a cap of $5 billion per month. Redeem [Treasury coupon securities](https://home.treasury.gov/services/bonds-and-securities) up to this monthly cap and Treasury bills to the extent that coupon principal payments are less than the monthly cap.
+        - Reinvest the amount of principal payments from the [Federal Reserve](https://www.federalreserve.gov/)'s holdings of agency debt and agency mortgage‑backed securities (MBS) received in each calendar month that exceeds a cap of $35 billion per month into [Treasury securities](https://home.treasury.gov/services/bonds-and-securities) to roughly match the maturity composition of [Treasury securities](https://home.treasury.gov/services/bonds-and-securities) outstanding.
+        - Allow modest deviations from stated amounts for reinvestments, if needed for operational reasons."
+    - In a related action, the [Board of Governors](https://www.federalreserve.gov/aboutthefed/bios/board/default.htm) of the [Federal Reserve System](https://www.federalreserve.gov/) voted unanimously to approve the establishment of the primary credit rate at the existing level of 4.5 percent.
 
 This information will be updated as appropriate to reflect decisions of the [Federal Open Market Committee](https://www.federalreserve.gov/monetarypolicy/fomc.htm) or the [Board of Governors](https://www.federalreserve.gov/aboutthefed/bios/board/default.htm) regarding details of the [Federal Reserve](https://www.federalreserve.gov/)'s operational tools and approach used to implement monetary policy.
 
@@ -96,9 +87,7 @@ More information regarding open market operations and reinvestments may be found
 - [Alberto G. Musalem](https://www.federalreserve.gov/aboutthefed/federal-reserve-system-st-louis.htm)
 - [Christopher J. Waller](https://www.federalreserve.gov/aboutthefed/bios/board/waller.htm)
 - [Neel Kashkari](https://www.federalreserve.gov/aboutthefed/federal-reserve-system-minneapolis.htm)
-- [The Fed - Federal Open Market Committee](https://www.federalreserve.gov/monetarypolicy/fomc.htm)
 - [Bonds and Securities / U.S. Department of the Treasury](https://home.treasury.gov/services/bonds-and-securities)
-- [Federal Open Market Committee](https://www.federalreserve.gov/monetarypolicy/fomc.htm) 
 - [Congress](https://www.congress.gov/)
 - [Senate](https://www.senate.gov/)
 - [House of Representatives](https://www.house.gov/)
