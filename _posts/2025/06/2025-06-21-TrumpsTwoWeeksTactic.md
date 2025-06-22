@@ -7,13 +7,13 @@ date: 2025-06-21 1:43 PM
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: "
+title: "Don't Fall For Trump’s “Two Weeks” Decision Delay. He Doesn’t Know"
 ---
 
 
 ## [‘Maddening’: Jen Psaki calls out the media over falling for Trump’s ‘two week’ trick on Iran](https://www.msnbc.com/top-stories/latest/trump-iran-promise-two-week-trick-media-rcna214112)
 
-*“Maybe it’s a tic,” Psaki said on Thursday’s show. “But the point is it’s a tactic that [Trump](https://www.donaldjtrump.com/) has used on almost every issue.”*
+*Maybe it’s a tic,” Psaki said on Thursday’s show. “But the point is it’s a tactic that [Trump](https://www.donaldjtrump.com/) has used on almost every issue.”*
 
 June 20, 2025, 1:34 PM EDT
 By Allison Detzel
@@ -168,4 +168,3 @@ Allison Detzel is an editor/producer for MSNBC Digital.
 - businesses
 - associates
 - partners
-
