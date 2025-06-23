@@ -2,7 +2,7 @@
 layout: page
 tags: [Mike Pence, Rex Tillerson (2017–2018) Mike Pompeo (2018–2021), Steven Mnuchin (2017–2021), Jim Mattis (2017–2019) Mark Esper (2019–2020) Christopher C. Miller (acting 2020–2021), Jeff Sessions (2017–2018) William Barr (2019–2020) Jeffrey A. Rosen (acting 2020–2021), Ryan Zinke (2017–2019) David Bernhardt (2019–2021), Sonny Perdue (2017–2021), Wilbur Ross (2017–2021), Alexander Acosta (2017–2019) Eugene Scalia (2019–2021), Tom Price (2017) Alex Azar (2018–2021), Ben Carson (2017–2021), Elaine Chao (2017–2021), Rick Perry (2017–2019) Dan Brouillette (2019–2021), Betsy DeVos (2017–2021), David Shulkin (2017–2018) Robert Wilkie (2018–2021), John F. Kelly (2017) Kirstjen Nielsen (2017–2019) Kevin McAleenan (acting 2019) Chad Wolf (acting 2019–2021), Sean Spicer (2017), Sarah Huckabee Sanders (2017–2019), Stephanie Grisham (2019–2020), Kayleigh McEnany (2020–2021), Steven Mnuchin (2017–2021), Lee Zeldin (2025-), Kelly Loeffler (2025-), Pam Bondi (2025-), John Ratcliffe (2025-), Tulsi Gabbard (2025-), Russ Vought (2025-), Brooke Rollins (2025-), Howard Lutnick (2025-), Pete Hegseth (2025-), Linda McMahon (2025-), Chris Wright (2025-), Robert F Kennedy Jr. (2025-), Kristi Noem (2025-), Scott Turner (2025-), Doug Burgum (2025-), Lori Chavez-DeRemer (2025-), Marco Rubio (2025-), Doug Collins (2025-), Sean Duffy (2025-), Scott Bessent (2025-), Jamieson Greer (2025-)]
 categories: [Telephone Numbers]
-date: 2025-06-20 8:41 PM
+date: 2025-06-23 7:07 PM
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description: 
@@ -18,6 +18,13 @@ The telephone numbers below have called and there is an empty person on the othe
 
 | Telephone Number | Location | Date Time[^11] | Caller | Social Media |
 |---|---|---|---|---|
+| <a href="tel:+18039777189">+1 (803) 977-7189</a> | SC. Columbia | 2025-06-23 05:54 PM | — | |
+| <a href="tel:+18037684753">+1 (803) 768-4753</a> | SC. Newberry | 2025-06-23 05:51 PM | — | |
+| <a href="tel:+18032345124">+1 (803) 234-5124</a> | SC. Columbia | 2025-06-23 04:05 PM | Signet | |
+| <a href="tel:+18032160890">+1 (803) 216-0890</a> | SC. Columbia | 2025-06-23 02:53 PM | — | |
+| <a href="tel:+18033943716">+1 (803) 394-3716</a> | SC. | 2025-06-23 12:55 PM ¤¤ | Laura Jones | |
+| <a href="tel:+18033943716">+1 (803) 394-3716</a> | SC. | 2025-06-23 12:54 PM | Laura Jones | |
+| <a href="tel:+18036948524">+1 (803) 694-8524</a> | SC. Whitmire | 2025-06-23 09:59 AM | — | |
 | <a href="tel:+18037381506">+1 (803) 738-1506</a> | SC. Columbia | 2025-06-20 03:27 PM | — | |
 | <a href="tel:+18034004681">+1 (803) 400-4681</a> | SC. Columbia | 2025-06-20 02:15 PM | — | |
 | <a href="tel:+18039483731">+1 (803) 948-3731</a> | SC. Little Mountain | 2025-06-20 11:59 AM | — | |
