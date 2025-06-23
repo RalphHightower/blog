@@ -77,8 +77,124 @@ Steve Benen is a producer for "The Rachel Maddow Show," the editor of MaddowBlog
 - [House Budget Committee ](https://budget.house.gov/)
 - [President of the United States (POTUS)](https://www.whitehouse.gov/)
 - [White House (WH)](https://www.whitehouse.gov/)
+- Federal Government 
+- [Constitution of the United States](https://constitution.congress.gov/)
+- [First Amendment](https://constitution.congress.gov/constitution/amendment-1/)
+- [Supreme Court of the United States (SCOTUS)](https://www.supremecourt.gov/)
+- [US Courts](https://www.uscourts.gov/)
+- [2024 Presidential Election Results – Federal Election Commission (FEC)](https://www.fec.gov/resources/cms-content/documents/2024presgeresults.pdf)
+- [2020 Presidential Election Results – Federal Election Commission (FEC)](https://www.fec.gov/resources/cms-content/documents/federalelections2020.pdf)
+- [Department of Defense (DOD)](https://www.defense.gov/)
+- [Department of Justice (DOJ)](https://www.justice.gov/)
+- [Joint Chiefs of Staff (JCS)](https://www.jcs.mil/)
+- [U.S. Air Force](https://www.af.mil/)
+- [U.S. Army](https://www.army.mil/)
+- [U.S. Army's 250th Birthday Celebration](https://www.army.mil/1775/)
+- [U.S. Coast Guard (USCG)](https://www.uscg.mil/)
+- [U.S. Marine Corps](https://www.marines.mil/)
+- [National Guard](https://www.nationalguard.mil/)
+- [U.S. Navy](https://www.navy.mil/)
+- [National Guard](https://www.nationalguard.mil/)
+- [U.S. Space Command](https://www.spacecom.mil/)
+- [U.S. Africa Command (AFRICOM)](https://www.africom.mil/)
+- [U.S. Central Command (CENTCOM)](https://www.centcom.mil/)
+- [U.S. Northern Command (USNORTHCOM)](https://www.northcom.mil/)
+- [Indo-Pacific Command (USINDOPACOM)](https://www.pacom.mil/)
+- [U.S. Southern Command (SOUTHCOM)](http://www.southcom.mil/)
+- [U.S. Special Operations Command (USSOCOM)](https://www.socom.mil/)
+- [Strategic Command (USSTRATCOM)](http://www.stratcom.mil/)
+- [U.S. European Command (USEUCOM)](https://www.eucom.mil/)
+- [Office of the Director of National Intelligence (ODNI)](https://www.odni.gov/)
+- [Department of Homeland Security (DHS)](https://www.dhs.gov/)
+- [Congress](https;//www.congress.gov/)
+- [Senate](https://www.senate.gov/)
+- [J.D. "John Boy" Vance (T-OH)](https://bioguide.congress.gov/search/bio/V000137)
+- [House of Representatives](https://www.house.gov/)
+- [Tom Emmer (T-MN6)](https://emmer.house.gov/)
+- [House Majority Whip Tom Emmer (T-MN6)](https://www.majoritywhip.gov/)
+- [House Budget Committee ](https://budget.house.gov/)
+- [President of the United States (POTUS)](https://www.whitehouse.gov/)
+- [White House (WH)](https://www.whitehouse.gov/)
+- Trump presidential crime associates 
 - [Donald J Trump](https://www.donaldjtrump.com/)
+- [President Donald Trump (45)](https://trumpwhitehouse.archives.gov/)
 - [President Donald Trump (47)](https://www.whitehouse.gov/administration/donald-j-trump/)
+- [President Trump (47) Administration](https://www.whitehouse.gov/administration/)
+- [President Trump (47) Cabinet](https://www.whitehouse.gov/administration/the-cabinet/)
 - [President Trump Administration (47)](https://www.whitehouse.gov/administration/)
+- [Kash Patel](https://www.fbi.gov/about/leadership-and-structure/director-patel)
+- [Pam Bondi](https://www.justice.gov/ag/staff-profile/meet-attorney-general)
+- Trump crime family
+- [Eric F. Trump / LinkedIn](https://www.linkedin.com/in/erictrump/)
+- [Donald Trump Jr. / LinkedIn](https://www.linkedin.com/in/donald-trump-jr-4454b862/)
+- Ivanka Trump
+- Melania Trump
+- Barron Trump
+- Jared Kushner
+- Trump crime associates
+- Chris Buskirk
+- [Adam Foroughi / LinkedIn](https://www.linkedin.com/in/adamforoughi/)
+- [Omeed Malik / LinkedIn](https://www.linkedin.com/in/omeed-malik-b483b1186/)
+- Jeff Miller
+- [Chamath Palihapitiya / LinkedIn](https://www.linkedin.com/in/chamath/)
+- David Sacks
+- [Cameron Winklevoss / LinkedIn](https://www.linkedin.com/in/winklevoss/)
+- [Tyler Winklevoss / LinkedIn](https://www.linkedin.com/in/tylerwinklevoss/)
+- Alex Witkoff
+- Steve Witkoff
+- [Zachary Witkoff / LinkedIn](https://www.linkedin.com/in/zachary-witkoff-038a4143/)
+- [Chamath Palihapitiya / LinkedIn](https://www.linkedin.com/in/chamath/)
+- [Omeed Malik / LinkedIn](https://www.linkedin.com/in/omeed-malik-b483b1186/)
+- [Zachary Witkoff / LinkedIn](https://www.linkedin.com/in/zachary-witkoff-038a4143/)
+- [Cameron Winklevoss / LinkedIn](https://www.linkedin.com/in/winklevoss/)
+- [Tyler Winklevoss / LinkedIn](https://www.linkedin.com/in/tylerwinklevoss/)
+- [Adam Foroughi / LinkedIn](https://www.linkedin.com/in/adamforoughi/)
+- [Corey Kaplan / LinkedIn](https://www.linkedin.com/in/coreykaplan/)
+- Corey Caplan
+- [Thomas DiFiore, FRM·CAIA / LinkedIn](https://www.linkedin.com/in/thomasdifiore42/)
+- [Alex Dulub / LinkedIn](https://www.linkedin.com/in/alexei-dulub/)
+- [Ryan Fang / LinkedIn](https://www.linkedin.com/in/ryan-fang-245011a2/)
+- [Zak Folkman / LinkedIn](https://www.linkedin.com/in/zak-folkman-0300669a/)
+- [Alex Golubitsky / LinkedIn](https://www.linkedin.com/in/alexgolubitsky/)
+- Chase Herro
+- [Octavian Lojnita / LinkedIn](https://www.linkedin.com/in/octavian-lojnita/)
+- Matt Morgan
+- Sandy Peng
+- Luke Pearson
+- [Bogdan Purnavel / LinkedIn](https://www.linkedin.com/in/bogdan-purnavel-73b05a14b/)
+- [Brandi Reynolds, CAMS-Audit, CCAS / LinkedIn](https://www.linkedin.com/in/brandi-reynolds-cams-audit-ccas-64b8aa53/)
+- [Rich Teo / LinkedIn](https://www.linkedin.com/in/richteo/)
+- [Rafael Yakobi / LinkedIn](https://www.linkedin.com/in/rafaelyakobi/)
+- Trump crime businesses
+- DT Marks DEFI LLC
+- [The Executive Branch Club](https://www.theexecutivebranchclub.com/)
+- [Trump Organization](https://www.trump.com/)
+- [World Liberty Financial](https://worldlibertyfinancial.com/)
+- [$TRUMP](https://gettrumpmemes.com/)
+- [$MELANIA](https://melaniameme.com/)
+- [Trump Media and Technology Group](https://tmtgcorp.com/)
+- [The Mar-a-Lago Club](https://www.maralagoclub.com/)
+- [Trump International Golf Club](https://www.trumpinternationalpalmbeaches.com/)
+- [Trump National Doral Golf Club](https://www.trumpgolfdoral.com/)
+- [Trump National Jupiter Golf Club](https://www.trumpnationaljupiter.com/)
+- [Trump National Golf Club Washington, D.C.](https://www.trumpnationaldc.com/)
+- [Trump National Golf Club Bedminster](https://www.trumpnationalbedminster.com/)
+- [Trump National Golf Club Colts Neck](https://www.trumpcoltsneck.com/)
+- [Trump National Golf Club Philadelphia](https://www.trumpnationalphiladelphia.com/)
+- [Trump National Golf Club Hudson Valley](https://www.trumpnationalhudsonvalley.com/)
+- [Trump National Golf Club Westchester](https://www.trumpnationalwestchester.com/)
+- [Trump National Golf Club Los Angeles](https://www.trumpnationallosangeles.com/)
+- [Trump International Golf Club Dubai](https://www.trumpgolfdubai.com/)
+- [Trump International Golf Links & Hotel Ireland, Doonbeg](https://www.trumpgolfireland.com/)
+- [Trump MacLeod House & Lodge Scotland](https://www.trumphotels.com/macleod-house)
+- [Trump Turnberry](https://www.turnberry.co.uk/)
 - grift
-- politics
+- self-dealing
+- corruption
+- con
+- crime
+- cryptocurrency 
+- businesses
+- associates
+- partners
+- 
