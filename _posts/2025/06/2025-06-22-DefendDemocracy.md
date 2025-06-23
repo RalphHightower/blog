@@ -7,7 +7,7 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: "Defend Democracy!:
+title: "Defend Democracy!"
 ---
 
 
