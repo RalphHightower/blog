@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [MSNBC, Public Broadcast System, Time, Wall Street Journal (WSJ), New York Times (NYT), Washington Post, Cato Institute / Individual Liberty Free Markets and Peace, Center on Budget and Policy Priorities, Tax Policy Center, Georgetown University in Washington DC, School of Continuing Studies, Ryan Teague Beckwith, political parties, Democrat Party, Trump Party, Federal Government, Constitution of the United States, Supreme Court of the United States (SCOTUS), US Courts, 2 USC Ch. 20A – STATUTORY PAY-AS-YOU-GO, Department of Health and Human Services (HHS), About the ACA / HHS.gov, Immigration and Customs Enforcement (ICE), Federal Bureau of Investigation (FBI), Secret Service, Drug Enforcement Administration (DEA), Bureau of Alcohol Tobacco Firearms and Explosives (ATF), Congress, Congressional Budget Office (CBO), H.R.7130 - 93rd Congress (1973-1974) – Congressional Budget and Impoundment Control Act of 1974 / Congress.gov / Library of Congress, Text - H.R.1 - 119th Congress (2025-2026) – One Big Beautiful Bill Act / Congress.gov / Library of Congress, Senate, House of Representatives, House Budget Committee, President of the United States (POTUS), White House (WH), Donald J Trump, President Donald Trump (47), President Trump Administration (47), grift, politics]
+tags: [MSNBC, Public Broadcast System, Time, Wall Street Journal (WSJ), New York Times (NYT), Washington Post, Pew Research Center / Numbers Facts and Trends Shaping Your World, Cato Institute / Individual Liberty Free Markets and Peace, Center on Budget and Policy Priorities, Tax Policy Center, Georgetown University in Washington DC, School of Continuing Studies, Ryan Teague Beckwith, political parties, Democrat Party, Trump Party, Federal Government, Constitution of the United States, 2020 Presidential Election Results – Federal Election Commission (FEC), Supreme Court of the United States (SCOTUS), US Courts, 2 USC Ch. 20A –  STATUTORY PAY-AS-YOU-GO, Department of Health and Human Services (HHS), About the ACA / HHS.gov, Immigration and Customs Enforcement (ICE), Federal Bureau of Investigation (FBI), Secret Service, Drug Enforcement Administration (DEA), Bureau of Alcohol Tobacco Firearms and Explosives (ATF), Congress, Congressional Budget Office (CBO), H.R.7130 - 93rd Congress (1973-1974) –  Congressional Budget and Impoundment Control Act of 1974 / Congress.gov / Library of Congress, Text - H.R.1 - 119th Congress (2025-2026) –  One Big Beautiful Bill Act / Congress.gov / Library of Congress, Senate, House of Representatives, House Budget Committee, President of the United States (POTUS), White House (WH), Donald J Trump, President Donald Trump (47), President Trump Administration (47), grift, politics]
 categories: [Donald Trump]
 date: 2025-06-22 5:34 PM
 excerpt: ''
@@ -64,6 +64,7 @@ Ryan Teague Beckwith is a newsletter editor for [MSNBC](https://www.msnbc.com/).
 - [Wall Street Journal (WSJ)](https://www.wsj.com/)
 - [New York Times (NYT)](https://www.nytimes.com/)
 - [Washington Post](https://www.washingtonpost.com/)
+- [Pew Research Center / Numbers, Facts and Trends Shaping Your World](https://www.pewresearch.org/)
 - [Cato Institute / Individual Liberty, Free Markets, and Peace](https://www.cato.org/)
 - [Center on Budget and Policy Priorities](https://www.cbpp.org/)
 - [Tax Policy Center](https://taxpolicycenter.org/)
@@ -75,6 +76,7 @@ Ryan Teague Beckwith is a newsletter editor for [MSNBC](https://www.msnbc.com/).
 - [Trump Party](https://www.gop.com/)
 - Federal Government 
 - [Constitution of the United States](https://constitution.congress.gov/)
+- [2020 Presidential Election Results – Federal Election Commission (FEC)](https://www.fec.gov/resources/cms-content/documents/federalelections2020.pdf)
 - [Supreme Court of the United States (SCOTUS)](https://www.supremecourt.gov/)
 - [US Courts](https://www.uscourts.gov/)
 - [2 USC Ch. 20A: STATUTORY PAY-AS-YOU-GO](https://uscode.house.gov/view.xhtml?path=/prelim@title2/chapter20A&edition=prelim)
