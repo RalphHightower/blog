@@ -14,6 +14,33 @@ title: "Trump: Air Force One Frequent Flyer Miles"
 
 | Time | Location |
 |---|---|
+| | **Wednesday, June 25 2025** |
+| 2:15 AM | The [President](https://www.donaldjtrump.com/) participates in a Photo Opportunity with the [King](https://www.royal-house.nl/members-royal-house/king-willem-alexander) and [Queen](https://www.royal-house.nl/members-royal-house/queen-maxima) of the [Kingdom of The [Netherlands](https://www.royal-house.nl/) [8:15 AM Local]<br />[World Forum](https://worldforum.nl/), [The Hague](https://www.denhaag.nl/nl/), [Netherlands](https://www.government.nl/) Closed Press |
+| 2:25 AM | The [President](https://www.donaldjtrump.com/) participates in a Breakfast with the [King](https://www.royal-house.nl/members-royal-house/king-willem-alexander) and [Queen](https://www.royal-house.nl/members-royal-house/queen-maxima) of the [Kingdom of The [Netherlands](https://www.royal-house.nl/) [8:25 AM Local]<br />[World Forum](https://worldforum.nl/), [The Hague](https://www.denhaag.nl/nl/), [Netherlands](https://www.government.nl/) Closed Press |
+| 3:55 AM | The [President](https://www.donaldjtrump.com/) participates in an Official Greeting and Pull-Aside with the [NATO](https://www.nato.int/) [Secretary General](https://www.nato.int/cps/en/natohq/who_is_who_229125.htm) [9:55 AM Local]<br />[World Forum](https://worldforum.nl/), [The Hague](https://www.denhaag.nl/nl/), [Netherlands](https://www.government.nl/) Out-of-Town Travel Pool |
+| 4:20 AM | The [President](https://www.donaldjtrump.com/) participates in a [NATO](https://www.nato.int/) Family Photo [10:20 AM Local]<br />[World Forum](https://worldforum.nl/), [The Hague](https://www.denhaag.nl/nl/), [Netherlands](https://www.government.nl/) |
+| 4:35 AM | The [President](https://www.donaldjtrump.com/) participates in a [North Atlantic Council Plenary Session](https://www.nato.int/cps/en/natohq/235800.htm) [10:35 AM Local]<br />[World Forum](https://worldforum.nl/), [The Hague](https://www.denhaag.nl/nl/), [Netherlands](https://www.government.nl/) Restricted Out-of-Town Travel Pool |
+| 7:15 AM | The [President](https://www.donaldjtrump.com/) participates in [Bilateral Meetings](https://www.nato.int/cps/en/natohq/235800.htm) [1:15 PM Local]<br />[World Forum](https://worldforum.nl/), [The Hague](https://www.denhaag.nl/nl/), [Netherlands](https://www.government.nl/) Out-of-Town Travel Pool |
+| 9:00 AM | The [President](https://www.donaldjtrump.com/) participates in a Press Conference [3:00 PM Local]<br />[World Forum](https://worldforum.nl/), [The Hague](https://www.denhaag.nl/nl/), [Netherlands](https://www.government.nl/) Pre-Credentialed Media |
+| 10:40 AM | The [President](https://www.donaldjtrump.com/) departs [The Hague](https://www.denhaag.nl/nl/), [Netherlands](https://www.government.nl/) en route The [White House](https://www.whitehouse.gov/) [4:40 PM Local]<br />[World Forum](https://worldforum.nl/), [The Hague](https://www.denhaag.nl/nl/), [Netherlands](https://www.government.nl/) Out-of-Town Travel Pool |
+| 6:00 PM | In-Town Pool Call Time<br />The [White House](https://www.whitehouse.gov/) In-Town Pool |
+| 6:50 PM | The [President](https://www.donaldjtrump.com/) arrives The [White House](https://www.whitehouse.gov/)<br />The [White House](https://www.whitehouse.gov/) Open Press |
+| | **Tuesday, June 24 2025** |
+| 4:55 AM | Out-of-Town Pool Call Time<br />[Joint Base Andrews](https://www.jba.af.mil/) Out-of-Town Pool |
+| 5:15 AM | In-Town Pool Call Time<br />The [White House](https://www.whitehouse.gov/) In-Town Pool |
+| 6:00 AM | The [President](https://www.donaldjtrump.com/) departs The [White House](https://www.whitehouse.gov/) en route [The Hague](https://www.denhaag.nl/nl/), [Netherlands](https://www.government.nl/) [6:48 AM Actual to JBA]<br />[South Lawn](https://www.whitehouse.gov/) Open Press |
+| 6:59 AM | The [President](https://www.donaldjtrump.com/) arrives at [Joint Base Andrews](https://www.jba.af.mil/)<br />[Joint Base Andrews](https://www.jba.af.mil/) Open Press |
+| 7:17 AM | The [President](https://www.donaldjtrump.com/) departs [Joint Base Andrews](https://www.jba.af.mil/) for the [Netherlands](https://www.government.nl/)<br />[Joint Base Andrews](https://www.jba.af.mil/) Open Press |
+| 1:00 PM | The [President](https://www.donaldjtrump.com/) arrives [Amsterdam](https://www.amsterdam.nl/), [Netherlands](https://www.government.nl/) [7:00 PM Local]<br />[Amsterdam Airport Schiphol](https://www.schiphol.nl/nl/) Pre-Credentialed Media |
+| 1:45 PM | The [President](https://www.donaldjtrump.com/) greets the [King](https://www.royal-house.nl/members-royal-house/king-willem-alexander) and [Queen](https://www.royal-house.nl/members-royal-house/queen-maxima) [7:45 PM Local]<br />[World Forum](https://worldforum.nl/), [The Hague](https://www.denhaag.nl/nl/), [Netherlands](https://www.government.nl/) Out-of-Town Travel Pool |
+| 2:20 PM | The [President](https://www.donaldjtrump.com/) participates in a Family Photo [8:20 PM Local]<br />[World Forum](https://worldforum.nl/), [The Hague](https://www.denhaag.nl/nl/), [Netherlands](https://www.government.nl/) Out-of-Town Travel Pool |
+| 2:30 PM | The [President](https://www.donaldjtrump.com/) attends a Social Dinner [8:30 PM Local]<br />[World Forum](https://worldforum.nl/), [The Hague](https://www.denhaag.nl/nl/), [Netherlands](https://www.government.nl/) Out-of-Town Travel Pool |
+| 11:30 PM | Out-of-Town Pool Call Time [5:30 AM Local 6/25]<br />[Royal Palace Huis ten Bosch](https://www.royal-house.nl/), [The Hague](https://www.denhaag.nl/nl/), [Netherlands](https://www.government.nl/) Closed Press |
+| |🔥 [White House](https://www.whitehouse.gov/) 💣|
+| | **Sunday, June 22 2025** |
+| | The [President](https://www.donaldjtrump.com/) has no public events scheduled<br />The [White House](https://www.whitehouse.gov/) In-Town Pool |
+| 9:26 AM | [White House](https://www.whitehouse.gov/) Press Office: Full lid called<br />The [White House](https://www.whitehouse.gov/) In-Town Pool |
+| 10:00 AM | In-Town Pool Call Time<br />The [White House](https://www.whitehouse.gov/) In-Town Pool |
 | | **Saturday, June 21 2025**
 | 1:20 PM ⛳️| Out-of-Town Travel Pool Call Time<br />[Trump National Golf Club Bedminster](https://www.trumpnationalbedminster.com/) Out-of-Town Travel Pool |
 | 4:20 PM | [The President](https://www.donaldjtrump.com/) departs [Bedminster, New Jersey](https://www.trumpnationalbedminster.com/) en route The [White House](https://www.whitehouse.gov/)<br />[Trump National Golf Club Bedminster](https://www.trumpnationalbedminster.com/) Closed Press |
