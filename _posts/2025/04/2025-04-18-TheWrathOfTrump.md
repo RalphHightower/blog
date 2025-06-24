@@ -50,7 +50,7 @@ It’s genuinely awful that she’s afraid and feeling “very anxious,” and I
 - [Donald J Trump](https://www.donaldjtrump.com/)
 - [Congress](https://www.congress.gov/)
 - [Senate](https://www.senate.gov/)
-- [Lisa Murkowski (T-AK)](https://www.murkowski.senate.gov/)
+- [Lisa Murkowski (R-AK)](https://www.murkowski.senate.gov/)
 - [President Donald Trump (45)](https://trumpwhitehouse.archives.gov/)
 - [President Donald Trump (47)](https://www.whitehouse.gov/administration/donald-j-trump/)
 - [Granting Pardons And Commutation Of Sentences For Certain Offenses Relating To The Events At Or Near The United States Capitol On January 6, 2021](https://www.whitehouse.gov/presidential-actions/2025/01/granting-pardons-and-commutation-of-sentences-for-certain-offenses-relating-to-the-events-at-or-near-the-united-states-capitol-on-january-6-2021/). Presidential Actions. January 20, 2025
