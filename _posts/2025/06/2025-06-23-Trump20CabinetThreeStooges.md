@@ -159,7 +159,10 @@ Anthony L. Fisher is a senior editor and writer for MSNBC Daily. He was previous
     - [President Trump (47) Cabinet](https://www.whitehouse.gov/administration/the-cabinet/)
     - [President Donald Trump (47)](https://www.whitehouse.gov/administration/donald-j-trump/)
     - [President Trump Administration (47)](https://www.whitehouse.gov/administration/)
-    - [Pete Hegseth](https://www.defense.gov/About/Biographies/Biography/Article/4040890/hon-pete-hegseth/)
+        - [Report to the President on the America First Trade Policy Executive Summary](https://www.whitehouse.gov/fact-sheets/2025/04/report-to-the-president-on-the-america-first-trade-policy-executive-summary/). Fact Sheets April 3, 2025
+        - [President Trump is Putting American Workers First — And Bringing Back American Manufacturing](https://www.whitehouse.gov/articles/2025/03/president-trump-is-putting-american-workers-first-and-bringing-back-american-manufacturing/). Articles March 4, 2025
+        - [America First Trade Policy](https://www.whitehouse.gov/presidential-actions/2025/01/america-first-trade-policy/). Presidential Actions 
+        - [Pete Hegseth](https://www.defense.gov/About/Biographies/Biography/Article/4040890/hon-pete-hegseth/)
     - [Pete Hegseth – LinkedIn](https://www.linkedin.com/in/petehegseth/)
     - [Tulsi Gabbard – Director of National Intelligence (ODNI)](https://www.odni.gov/index.php/who-we-are/leadership/director-of-national-intelligence)
     - [Tulsi Gabbard / LinkedIn](https://www.linkedin.com/in/tulsigabbard/)
@@ -173,6 +176,3 @@ Anthony L. Fisher is a senior editor and writer for MSNBC Daily. He was previous
 - businesses
 - associates
 - partners
-- [Report to the President on the America First Trade Policy Executive Summary](https://www.whitehouse.gov/fact-sheets/2025/04/report-to-the-president-on-the-america-first-trade-policy-executive-summary/). Fact Sheets April 3, 2025
-- [President Trump is Putting American Workers First — And Bringing Back American Manufacturing](https://www.whitehouse.gov/articles/2025/03/president-trump-is-putting-american-workers-first-and-bringing-back-american-manufacturing/). Articles March 4, 2025
-- [America First Trade Policy](https://www.whitehouse.gov/presidential-actions/2025/01/america-first-trade-policy/). Presidential Actions 
