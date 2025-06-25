@@ -169,12 +169,13 @@ Steve Benen is a producer for "[The Rachel Maddow Show](https://www.msnbc.com/ra
         - [Pam Bondi](https://www.justice.gov/ag/staff-profile/meet-attorney-general)
         - [Kash Patel](https://www.fbi.gov/about/leadership-and-structure/director-patel)
         - [Deputy Director Dan Bongino — FBI](https://www.fbi.gov/about/leadership-and-structure/deputy-director-dan-bongino)
-- grift
+- grifter
 - self-dealing
 - corruption
-- con
+- con man
 - crime
 - cryptocurrency 
 - businesses
 - associates
 - partners
+
