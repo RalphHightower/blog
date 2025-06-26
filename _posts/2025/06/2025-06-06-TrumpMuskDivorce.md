@@ -258,7 +258,7 @@ The comments — and the [flurry](https://x.com/elonmusk/status/1930660788739698
 
 The nonpartisan [Congressional Budget Office](https://www.cbo.gov/) [predicted in an estimate](https://www.nbcnews.com/politics/congress/gop-bill-trumps-agenda-add-24-trillion-debt-budget-office-says-rcna210749) released Wednesday that the [House](https://www.house.gov/)-passed legislation would add \$2.4 trillion to the national debt over the next decade.
 
-Reacting to [Trump](https://www.donaldjtrump.com/)’s comments on [X](https://x.com%), [Musk](https://ir.tesla.com/corporate/elon-musk) first brushed them off as “whatever,” before firing off dozens of posts blasting the [GOP](https://www.gop.com/) bill and the [president](https://www.whitehouse.gov/) himself.
+Reacting to [Trump](https://www.donaldjtrump.com/)’s comments on [X](https://x.com/), [Musk](https://ir.tesla.com/corporate/elon-musk) first brushed them off as “whatever,” before firing off dozens of posts blasting the [GOP](https://www.gop.com/) bill and the [president](https://www.whitehouse.gov/) himself.
 
 “Without me, [Trump](https://www.donaldjtrump.com/) would have lost the election, Dems would control the [House](https://www.house.gov/) and the [Republicans](https://www.gop.com/) would be 51-49 in the [Senate](https://www.senate.gov/),” he said. “Such ingratitude,” he added.
 
@@ -332,7 +332,7 @@ Mike Calia, Tom Winter, Sarah Fitzpatrick, Alexandra Marquez, Nnamdi Egwuonwu, B
 - [H.R.7130 - 93rd Congress (1973-1974): Congressional Budget and Impoundment Control Act of 1974 / Congress.gov / Library of Congress](https://www.congress.gov/bill/93rd-congress/house-bill/7130)
 - [Text - H.R.1 - 119th Congress (2025-2026): One Big Beautiful Bill Act / Congress.gov / Library of Congress](https://www.congress.gov/bill/119th-congress/house-bill/1/text)
 - [Senate](https://www.senate.gov/)
-- [Senate](https://www.senate.gov%)
+- [Senate](https://www.senate.gov/)
 - [Tommy Tuberville (T-AL)](https://www.tuberville.senate.gov/)
 - [Ron Johnson (T-WI)](https://www.ronjohnson.senate.gov/)
 - [Rand Paul (T-KY)](https://www.paul.senate.gov/)

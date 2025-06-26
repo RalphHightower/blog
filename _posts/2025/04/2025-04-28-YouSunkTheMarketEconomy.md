@@ -29,7 +29,7 @@ This week, [Fisher](https://www.fisherinvestments.com/en-us/about/leadership/ken
 
 ### U.S. economy is struggling, and that's before tariffs hit 
 
-Inflation isn't nearly as bad as in 2022, when the [Federal Reserve](https://www.federalreserve.gov%) was forced to about-face on its belief that post-COVID stimulus-driven inflation was transitory. 
+Inflation isn't nearly as bad as in 2022, when the [Federal Reserve](https://www.federalreserve.gov/) was forced to about-face on its belief that post-COVID stimulus-driven inflation was transitory. 
 
 The [Fed](https://www.federalreserve.gov/)'s war on inflation, which included the most restrictive monetary policy since [Fed](https://www.federalreserve.gov/) Chair Paul Volcker fought inflation in the early 80s, has driven inflation down from its 8% peak, but the effects are still being felt, and rate hikes have taken a toll.
 

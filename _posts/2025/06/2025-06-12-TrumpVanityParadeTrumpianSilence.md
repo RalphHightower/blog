@@ -41,7 +41,7 @@ As for intraparty criticism, [Graham](https://www.lgraham.senate.gov/) has appar
 
 As for [Louisiana](https://www.louisiana.gov/)’s [Kennedy](https://www.kennedy.senate.gov/), the senator echoed the point he raised during the [president’s first term](https://trumpwhitehouse.archives.gov/).
 
-“The [United States of America](https://www.usa.gov%) is the most powerful country in all of human history. We’re a lion, and a lion doesn’t have to tell you it’s a lion. Everybody else in the jungle knows and we’re a lion,” the senator said.
+“The [United States of America](https://www.usa.gov/) is the most powerful country in all of human history. We’re a lion, and a lion doesn’t have to tell you it’s a lion. Everybody else in the jungle knows and we’re a lion,” the senator said.
 
 It’s a point [Trump](https://www.donaldjtrump.com/) will probably never fully understand.
 
