@@ -3,7 +3,7 @@ layout: post
 tags: [Raw Story, Joyce Vance / Substack, Constitution of the United States, Election Assistance Commission (EAC), Supreme Court of the United States (SCOTUS), US Courts, District of Columbia / United States District Court, Senior Judge Colleen Kollar-Kotelly / District of Columbia / United States District Court, Congress, Senate, House of Representatives, Donald J Trump, President Donald Trump (47), Fact Sheet: President Donald J. Trump Protects the Integrity of American Elections. Fact Sheets March 25 2025., Preserving and Protecting the Integrity of American Elections. Presidential Actions Executive Orders March 25 2025, President of the United States (POTUS), White House (WH), lawlessness, politics, separate but equal branches]
 categories: [Donald Trump]
 date: 2025-04-25 4:20 PM
-excerpt: "“District judges frequently write detailed opinions like this one when they want to make sure there is a solid basis for the courts of appeals to affirm their decisions and as little room as possible for them to reverse. This is a detailed, well justified explanation that will not be easy for an appellate court to dismiss, and it’s not one-sided; it denies some of the relief the plaintiffs requested on technical legal grounds.” – Joyce Vance, Law Prof, MSNBC/NBC Legal Analyst" 
+excerpt: '“District judges frequently write detailed opinions like this one when they want to make sure there is a solid basis for the courts of appeals to affirm their decisions and as little room as possible for them to reverse. This is a detailed, well justified explanation that will not be easy for an appellate court to dismiss, and it’s not one-sided; it denies some of the relief the plaintiffs requested on technical legal grounds.” – Joyce Vance, Law Prof, MSNBC/NBC Legal Analyst" 
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
@@ -33,7 +33,7 @@ The [order](https://www.whitehouse.gov/presidential-actions/2025/03/preserving-a
 
 The judge pointed out that the [Constitution](https://constitution.congress.gov/) authorizes [Congress](https://www.congress.gov/) and the states, and not the president, to regulate federal elections, and [Vance](https://substack.com/@joycevance) said her ruling was a substantial bulwark against [Trump](https://www.donaldjtrump.com/)'s attempts to consolidate power.
 
-"A decision like this should be a foregone conclusion at the end of this case," [Vance](https://substack.com/@joycevance) wrote. "No [president](https://www.whitehouse.gov/) should try to usurp the power to control elections, let alone be able to do so. The [executive order](https://www.whitehouse.gov/presidential-actions/2025/03/preserving-and-protecting-the-integrity-of-american-elections/) and the lawsuits challenging it underscore just how off the rails [Trump](https://www.donaldjtrump.com/) is. Every day, part of the spectacle of [Trump](https://www.donaldjtrump.com/) is his assumption of the role of an [autocrat](https://www.donaldjtrump.com/) at the expense of the American [presidency](https://www.whitehouse.gov%). And the risk is that it all becomes somehow normalized."
+"A decision like this should be a foregone conclusion at the end of this case," [Vance](https://substack.com/@joycevance) wrote. "No [president](https://www.whitehouse.gov/) should try to usurp the power to control elections, let alone be able to do so. The [executive order](https://www.whitehouse.gov/presidential-actions/2025/03/preserving-and-protecting-the-integrity-of-american-elections/) and the lawsuits challenging it underscore just how off the rails [Trump](https://www.donaldjtrump.com/) is. Every day, part of the spectacle of [Trump](https://www.donaldjtrump.com/) is his assumption of the role of an [autocrat](https://www.donaldjtrump.com/) at the expense of the American [presidency](https://www.whitehouse.gov/). And the risk is that it all becomes somehow normalized."
 
 | Federal Agency | Functions |
 |---|---|
@@ -41,7 +41,7 @@ The judge pointed out that the [Constitution](https://constitution.congress.gov/
 
 - [Raw Story](https://www.rawstory.com/)
 - [Joyce Vance / Substack](https://substack.com/@joycevance)
-- [Constitution of the United States](https://constitution.congress.gov%)
+- [Constitution of the United States](https://constitution.congress.gov/)
 - [Election Assistance Commission (EAC)](http://www.eac.gov/)
 - [Supreme Court of the United States (SCOTUS)](https://www.supremecourt.gov/)
 - [US Courts](https://www.uscourts.gov/)
