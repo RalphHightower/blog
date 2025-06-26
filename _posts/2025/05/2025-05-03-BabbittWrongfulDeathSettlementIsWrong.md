@@ -12,7 +12,7 @@ title: "Absolutely, Totally, Fucking Wrong! Ashli Babbitt Is a Criminal, Not a M
 
 ## [Trump’s DOJ agrees to settlement with family of Ashli Babbitt, rioter killed on Jan. 6](https://www.msnbc.com/top-stories/latest/ashli-babbitt-settlement-jan-6-trump-doj-rcna204525)
 
-*Following her death, the [Air Force](https://www.af.mil%) veteran and QAnon supporter became a martyr of the MAGA movement.*
+*Following her death, the [Air Force](https://www.af.mil/) veteran and QAnon supporter became a martyr of the MAGA movement.*
 
 May 2, 2025, 5:46 PM EDT
 By Allison Detzel
@@ -43,7 +43,7 @@ While the details of the settlement haven’t been disclosed, [U.S. District](ht
 - [Constitution of the United States](https://constitution.congress.gov/)
 - [US Courts](https;//www.uscourts.gov/)
 - [U.S. Capitol Police](https://www.uscp.gov/)
-- [Congress](https://www.congress.gov%)
+- [Congress](https://www.congress.gov/)
 - [Senate](https://www.senate.gov/)
 - [House of Representatives](https://www.house.gov/)
 - [Marjorie Taylor Greene (T-GA14)](https://greene.house.gov/)
