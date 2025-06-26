@@ -215,9 +215,26 @@ Class III.
 | **Ireland, Clare** |
 | **[Trump International Golf Links & Hotel Ireland, Doonbeg](https://www.trumpgolfireland.com/)** <br /> DOONBEG CO. <br /> CLARE, IRELAND <br /> Phone: <a href="tel:+353659055600">+353 65 905 5600</a> |
 | **Scotland, Aberdeenshire** |
-| **[Trump MacLeod House & Lodge Scotland](https://www.trumphotels.com/macleod-house)** <br /> Menie Estate Balmedie <br /> Aberdeenshire, Scotland AB23 8YE <br /> PHONE: <a href="tel:+441358743300">+44 1358 743300</a> <br /> RESERVE: <a href="tel:+441358743300">+44 1358 743300</a> |
+| **[Trump MacLeod House & Lodge Scotland](https://www.trumphotels.com/macleod-house)** <br /> Menie Estate Balmedie <br /> Aberdeenshire, Scotland AB23 8YE <br /> Phone: <a href="tel:+441358743300">+44 1358 743300</a> <br /> Reserve: <a href="tel:+441358743300">+44 1358 743300</a> |
 | **Scotland, Ayrshire** |
 | **[Trump Turnberry](https://www.turnberry.co.uk/)** <br /> Maidens Road KA26 9LT Turnberry <br /> Ayrshire Scotland <br /> <a href="tel:+441655331000">+44.1655.331.000</a> <br /> <a href="tel:+4401655334115">+44 01655 334115</a> |
+
+| Lodging  |
+|---|
+| **Florida, Miami** |
+| **[Trump® National Doral Miami](https://www.trumphotels.com/miami)** <br />4400 N.W. 87th Avenue<br />Miami, Florida 33178<br />Phone: <a href="+13055922000">+1 305 592 2000</a><br />Reserve: <a href="+18007136725">+1 800 713 6725</a><br /><a href="mailto:doral.reservations@trumphotels.com">doral.reservations@trumphotels.com</a> |
+| **Illinois, Chicago** |
+| **[Trump International Hotel & Tower® Chicago](https://www.trumphotels.com/chicago)** <br />401 N. Wabash Avenue<br />Chicago, Illinois 60611<br />Phone: <a href="+13125888000">+1 312 588 8000</a><br />Reserve: <a href="+18558786700">+1 855 878 6700</a><br /><a href="mailto:tch_inquiries@trumphotels.com">tch_inquiries@trumphotels.com</a> |
+| **Nevada, Los Vegas** |
+| **[Trump® International Hotel Las Vegas](https://www.trumphotels.com/properties/las-vegas)** <br />2000 Fashion Show Drive<br />Las Vegas, Nevada 89109<br />Phone: <a href="+17029820000">+1 702 982 0000</a><br />Reserve: <a href="+18669398786">+1 866 939 8786</a><br /><a href="mailto:lasvegas.info@trumphotels.com">lasvegas.info@trumphotels.com</a> |
+| **New York, New York** |
+| **[Trump International Hotel & Tower® New York](https://www.trumphotels.com/central-park)** <br />1 Central Park West<br />New York, New York 10023<br />Phone: <a href="+12122991000">+1 212 299 1000</a><br />Reserve: <a href="+18884487867">+1 888 448 7867</a><br /><a href="mailto:newyork.info@trumphotels.com">newyork.info@trumphotels.com</a> |
+| **Virginia, Charlottesville** |
+| **[Albemarle Estate at Trump Winery](https://www.trumphotels.com/albemarle-estate)** <br />355 Albemarle House Drive<br />Charlottesville, Virginia 22902<br />Phone: <a href="+14349774001">+1 434 977 4001</a><br />Reserve: <a href="+18558786700">+1 855 878 6700</a><br /><a href="mailto:reservations@trumpwinery.com">reservations@trumpwinery.com</a> |
+| **Ireland, Doonbeg** |
+| **[Trump International Golf Links and Hotel® Ireland, Doonbeg](https://www.trumphotels.com/properties/ireland)** <br />Co. Clare, Ireland<br />Phone: <a href="+353659055600">+353 65 905 5600</a><br />Reserve: <a href="+18443666234">+1 844 366 6234</a><br /><a href="mailto:doonbeg.reservations@trumphotels.com">doonbeg.reservations@trumphotels.com</a> |
+| **Scotland, Aberdeenshire** |
+| **[Trump MacLeod House & Lodge, Scotland](https://www.trumphotels.com/macleod-house)** <br />Balmedie<br />Aberdeenshire, Scotland AB23 8YE<br />Phone: <a href="+441358743300">+44 1358 743300</a><br />Reserve: <a href="+44 1358 743300">+44 1358 743300</a><br /><a href="bookings@trumpgolfscotland.com">bookings@trumpgolfscotland.com</a> |
 
 #### [South Carolina](https://www.sc.gov/) [Attorney General](https://www.scag.gov/)
 
