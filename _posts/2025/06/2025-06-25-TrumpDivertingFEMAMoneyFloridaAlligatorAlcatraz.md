@@ -63,7 +63,7 @@ Ja’han Jones is an [MSNBC](https://www.msnbc.com/) opinion blogger. He previou
     - [Supreme Court of the United States (SCOTUS)](https://www.supremecourt.gov/)
     - [US Courts](https://www.uscourts.gov/)
     - [Department of Justice (DOJ)](https://www.justice.gov/)
-    - [Department of Homeland Security (DHS)](https://www.dhs.gov%)
+    - [Department of Homeland Security (DHS)](https://www.dhs.gov/)
     - [Federal Emergency Management Agency (FEMA)](https://www.fema.gov/)
     - [Federal Bureau of Investigation (FBI)](https://www.fbi.gov/)
     - [Immigration and Customs Enforcement (ICE)](https://www.ice.gov/)
@@ -181,4 +181,3 @@ Ja’han Jones is an [MSNBC](https://www.msnbc.com/) opinion blogger. He previou
 - businesses
 - associates
 - partners
-
