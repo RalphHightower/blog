@@ -7,7 +7,7 @@ date: 2025-06-25 6:30 PM
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: "Trump Trusting His Gut Instead of Puts Americans at Risks From Terrorists Attacks"
+title: "Trump Trusting His Gut Instead of National Intelligence Professionals Puts Americans at Risks From Terrorists Attacks"
 ---
 
 [Trump](https://www.donaldjtrump.com/)'s insistence of "I'm right and you're wrong" will blind him to warnings and dangers from the intelligence community. 
