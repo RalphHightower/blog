@@ -7,7 +7,7 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: "Once Again, Trump Is Diverting Federal Emergency Management Agency (FEMA) Allocated Money For Illegal Migrants Housing 
+title: "Once Again, Trump Is Diverting Federal Emergency Management Agency (FEMA) Allocated Money For Illegal Migrants Housing"
 ---
 
 
