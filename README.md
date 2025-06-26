@@ -23,6 +23,7 @@ Surviving “The Apprentice: White House – Wrecking Ball”. [Trump](https://w
 Find out who politicians owe their soul to:
 
 - [OpenSecrets](https://www.opensecrets.org/)
+- [Trump Golf Track](https://trumpgolftrack.com/)
 
 - [50501 — 50 protests, 50 states, 1 movement](https://www.fiftyfifty.one/)
 - [Activist Handbook / Campaigning guides for activists ✊](https://activisthandbook.org/)
@@ -49,9 +50,11 @@ Besides, he pardoned all those insurrectionists from January 6, 2021 that storme
 <a href="https://wagingnonviolence.org/2025/04/what-to-do-if-the-insurrection-act-is-invoked/">
 What to do if the Insurrection Act is invoked / Waging Nonviolence</a>
 
-- [Could Trump Invoke the Insurrection Act? What to Know—and How to Prepare / Indivisible](https://indivisible.org/resource/could-trump-invoke-insurrection-act-what-know-and-how-prepare)
-- [American Spring? How nonviolent protest in the US is accelerating / Waging Nonviolence](https://wagingnonviolence.org/2025/06/american-spring-nonviolent-protest-accelerating/)<br />Contrary to conventional wisdom, the size and scale of anti-Trump protests this year have dwarfed those in 2017, and they have been extraordinarily peaceful.
-Erica Chenoweth, Soha Hammam, Jeremy Pressman, and Christopher Wiley Shay June 12, 2025
+<ul>
+<li><a href="https://indivisible.org/resource/could-trump-invoke-insurrection-act-what-know-and-how-prepare">Could Trump Invoke the Insurrection Act? What to Know—and How to Prepare / Indivisible</a></li>
+<li><a href="https://wagingnonviolence.org/2025/06/american-spring-nonviolent-protest-accelerating/">American Spring? How nonviolent protest in the US is accelerating / Waging Nonviolence</a><br />Contrary to conventional wisdom, the size and scale of anti-Trump protests this year have dwarfed those in 2017, and they have been extraordinarily peaceful.<br />Erica Chenoweth, Soha Hammam, Jeremy Pressman, and Christopher Wiley Shay June 12, 2025</li>
+</ul>
+
 
 </div>
 
