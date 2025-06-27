@@ -41,7 +41,6 @@ Whatever the circuit panel decides on removal, it could be a while before the [S
 
 Subscribe to the [Deadline: Legal Newsletter](https://link.msnbc.com/join/5ck/msnbc-deadlinelegal-signup-inline) for expert analysis on the top legal stories of the week, including updates from  the [Supreme Court](https://www.supremecourt.gov/) and developments in the [Trump](https://www.donaldjtrump.com/) [administration](https://www.whitehouse.gov/administration/)’s legal cases.
 
-Jordan Rubin
 Jordan Rubin is the [Deadline: Legal Blog](https://www.msnbc.com/deadline-white-house) writer. He was a prosecutor for the [New York County District Attorney’s Office](https://manhattanda.org/) in [Manhattan](https://manhattanda.org/) and is the author of “Bizarro," a book about the secret war on synthetic drugs. Before he joined [MSNBC](https://www.msnbc.com/), he was a legal reporter for [Bloomberg Law](https://pro.bloomberglaw.com/).
 
 - [MSNBC](https://www.msnbc.com/)
@@ -58,6 +57,8 @@ Jordan Rubin is the [Deadline: Legal Blog](https://www.msnbc.com/deadline-white-
 - [Supreme Court of the United States (SCOTUS)](https://www.supremecourt.gov/)
 - [US Courts](https://www.uscourts.gov/)
 - [Department of Justice (DOJ)](https://www.justice.gov/)
+- [Todd Blanche](https://www.linkedin.com/in/toddblanche/)
+- [Emil Bove](https://www.linkedin.com/in/emil-bove-0113347/)
 - [Office of the Solicitor General / Office of the Solicitor General](https://www.justice.gov/osg)
 - [Central Intelligence Agency (CIA)](https://www.cia.gov/)
 - [Department of Defense (DOD)](https://www.defense.gov/)
