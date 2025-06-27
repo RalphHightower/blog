@@ -2,7 +2,7 @@
 layout: page
 tags: [Mike Pence, Rex Tillerson (2017–2018) Mike Pompeo (2018–2021), Steven Mnuchin (2017–2021), Jim Mattis (2017–2019) Mark Esper (2019–2020) Christopher C. Miller (acting 2020–2021), Jeff Sessions (2017–2018) William Barr (2019–2020) Jeffrey A. Rosen (acting 2020–2021), Ryan Zinke (2017–2019) David Bernhardt (2019–2021), Sonny Perdue (2017–2021), Wilbur Ross (2017–2021), Alexander Acosta (2017–2019) Eugene Scalia (2019–2021), Tom Price (2017) Alex Azar (2018–2021), Ben Carson (2017–2021), Elaine Chao (2017–2021), Rick Perry (2017–2019) Dan Brouillette (2019–2021), Betsy DeVos (2017–2021), David Shulkin (2017–2018) Robert Wilkie (2018–2021), John F. Kelly (2017) Kirstjen Nielsen (2017–2019) Kevin McAleenan (acting 2019) Chad Wolf (acting 2019–2021), Sean Spicer (2017), Sarah Huckabee Sanders (2017–2019), Stephanie Grisham (2019–2020), Kayleigh McEnany (2020–2021), Steven Mnuchin (2017–2021), Lee Zeldin (2025-), Kelly Loeffler (2025-), Pam Bondi (2025-), John Ratcliffe (2025-), Tulsi Gabbard (2025-), Russ Vought (2025-), Brooke Rollins (2025-), Howard Lutnick (2025-), Pete Hegseth (2025-), Linda McMahon (2025-), Chris Wright (2025-), Robert F Kennedy Jr. (2025-), Kristi Noem (2025-), Scott Turner (2025-), Doug Burgum (2025-), Lori Chavez-DeRemer (2025-), Marco Rubio (2025-), Doug Collins (2025-), Sean Duffy (2025-), Scott Bessent (2025-), Jamieson Greer (2025-)]
 categories: [Telephone Numbers]
-date: 2025-06-25 7:17 PM
+date: 2025-06-26 8:41 PM
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description: 
@@ -18,6 +18,11 @@ The telephone numbers below have called and there is an empty person on the othe
 
 | Telephone Number | Location | Date Time[^11] | Caller | Social Media |
 |---|---|---|---|---|
+| <a href="tel:+18702182297">+1 (870) 218-2297</a> | AR. Pine Bluff | 2025-06-26 07:17 PM | — | |
+| <a href="tel:+18036173163">+1 (803) 617-3163</a> | SC. Aiken | 2025-06-26 03:13 PM | Public Service | |
+| <a href="tel:+18036158186">+1 (803) 615-8186</a> | SC. Edgefield | 2025-06-26 02:58 PM | — | |
+| <a href="tel:+18032447051">+1 (803) 244-7051</a> | SC. Bamberg | 2025-06-26 01:40 PM | — | |
+| <a href="tel:+18039940497">+1 (803) 994-0497</a> | SC. Whitmire | 2025-06-26 09:47 AM | — | |
 | <a href="tel:+18036217108">+1 (803) 621-7108</a> | SC. Barnwell | 2025-06-25 12:37 PM | — | |
 | <a href="tel:+18039690784">+1 (803) 969-0784</a> | SC. | 2025-06-25 11:32 AM | — | |
 | <a href="tel:+18033990174">+1 (803) 399-0174</a> | SC. | 2025-06-25 09:13 AM | Edward Jones | |
