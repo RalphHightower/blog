@@ -29,6 +29,7 @@ url: 'https://ralphhightower.github.io'
 baseurl: "/blog/"
 timezone: 'America/New_York'
 github_username: RalphHightower
+google_analytics: G-TS8J63Y6Q9
 
 page_excerpts: true
 
