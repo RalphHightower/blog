@@ -14,8 +14,19 @@ title: "Trump: Air Force One Frequent Flyer Miles"
 - 2025-05-18: [The Trump 2.0 Corruption Tour 2025: 🇸🇦 🇶🇦 🇦🇪]({% link _posts/2025/05/2025-05-18-Trump20CorruptionTour.md %})
 - 2025-04-05: [Trump Never Let a Weekend of Golf ⛳️ Interfere With a Commander-In-Chief’s Solemn Duty to Receive Fallen Military 🪖]({% link _posts/2025/04/2025-04-05-MilitaryFallenDontInterruptTrumpGolfWeekends.md %})
 
+[^666]: @RalphHightower – [Federal Aviation Administration - Graphic TFRs](https://tfr.faa.gov/tfr3/?page=list)
+
 | Time | Location |
 |---|---|
+| | **Sunday, June 29 2025** |
+| 08:00 AM[^666] ⛳️| [Trump](https://www.donaldjtrump.com/) plays golf at his [Trump National Golf Club Washington, D.C.](https://www.trumpnationaldc.com/)<br />[Trump National Golf Club Washington, D.C.](https://www.trumpnationaldc.com/) |
+| 10:00 AM | The [President](https://www.donaldjtrump.com/) is interviewed by [Maria Bartiromo](https://www.foxnews.com/person/b/maria-bartiromo) on [Faux News](https://www.foxnews.com/)' [Sunday Morning Futures](https://www.foxnews.com/shows/sunday-morning-futures)<br />The [White House](https://www.whitehouse.gov/)<br />[White House](https://www.whitehouse.gov/) Press Pool |
+| 6:00 PM [^666] | [Trump](https://www.donaldjtrump.com/) leaves his [Trump National Golf Club Washington, D.C.](https://www.trumpnationaldc.com/) for the [White House](https://www.whitehouse.gov/) |
+| | **Saturday, June 28 2025** |
+| 8:30 AM[^666] ⛳️| [Trump](https://www.donaldjtrump.com/) plays golf at his [Trump National Golf Club Washington, D.C.](https://www.trumpnationaldc.com/) with [senators](https://www.senate.gov/) [Eric Schmitt (T-MO)](https://www.schmitt.senate.gov/), [Rand Paul (T-KY)](https://www.paul.senate.gov/), [Lindsey Graham (T-SC)](https://www.lgraham.senate.gov/) |
+| 6:00 PM [^666] | [Trump](https://www.donaldjtrump.com/) leaves his [Trump National Golf Club Washington, D.C.](https://www.trumpnationaldc.com/) for the [White House](https://www.whitehouse.gov/) |
+| 7:45 AM | In-Town Pool Call Time<br />In-Town Pool |
+| |🔥 [White House](https://www.whitehouse.gov/) 💣|
 | | **Wednesday, June 25 2025** |
 | 2:15 AM | The [President](https://www.donaldjtrump.com/) participates in a Photo Opportunity with the [King](https://www.royal-house.nl/members-royal-house/king-willem-alexander) and [Queen](https://www.royal-house.nl/members-royal-house/queen-maxima) of the [Kingdom of The Netherlands](https://www.royal-house.nl/) [8:15 AM Local]<br />[World Forum](https://worldforum.nl/), [The Hague](https://www.denhaag.nl/nl/), [Netherlands](https://www.government.nl/) Closed Press |
 | 2:25 AM | The [President](https://www.donaldjtrump.com/) participates in a Breakfast with the [King](https://www.royal-house.nl/members-royal-house/king-willem-alexander) and [Queen](https://www.royal-house.nl/members-royal-house/queen-maxima) of the [Kingdom of The Netherlands](https://www.royal-house.nl/) [8:25 AM Local]<br />[World Forum](https://worldforum.nl/), [The Hague](https://www.denhaag.nl/nl/), [Netherlands](https://www.government.nl/) Closed Press |
@@ -121,7 +132,7 @@ title: "Trump: Air Force One Frequent Flyer Miles"
 | 2:00 PM | [The President](https://www.donaldjtrump.com/) participates in a Swearing-In Ceremony for the Secretary of the [Navy](https://www.navy.mil/)<br />[Oval Office](https://www.whitehouse.gov) Closed Press |
 | 3:00 PM ⛳️| [The President](https://www.donaldjtrump.com/) departs the [White House](https://www.whitehouse.gov/) en route [Bedminster, New Jersey](https://www.trumpnationalbedminster.com/) via [Joint Base Andrews](https://www.jba.af.mil/)<br />[South Lawn](https://www.whitehouse.gov/) Open Press |
 | 3:53 PM ⛳️| [The President](https://www.donaldjtrump.com/) tours the golf facilities at [Joint Base Andrews](https://www.jba.af.mil/)<br />[The Courses at Andrews](https://andrewsfss.com/the-courses-at-andrews/), [Joint Base Andrews](https://www.jba.af.mil/), MD Open Press |
-| 4:40 PM | [The President](https://www.donaldjtrump.com/) departs the golf facilities at [Joint Base Andrews](https://www.jba.af.mil/) for departure<br /[THE COURSES AT ANDREWS / JB Andrews](https://andrewsfss.com/the-courses-at-andrews/), [Joint Base Andrews](https://www.jba.af.mil/), MD Open Press |
+| 4:40 PM | [The President](https://www.donaldjtrump.com/) departs the golf facilities at [Joint Base Andrews](https://www.jba.af.mil/) for departure<br />[THE COURSES AT ANDREWS / JB Andrews](https://andrewsfss.com/the-courses-at-andrews/), [Joint Base Andrews](https://www.jba.af.mil/), MD Open Press |
 | 4:46 PM | [The President](https://www.donaldjtrump.com/) departs [Joint Base Andrews](https://www.jba.af.mil/) en route [Morristown Municipal Airport](https://www.mmuair.com/)<br />[Joint Base Andrews](https://www.jba.af.mil/) Out-of-Town Travel Pool |
 | 5:44 PM | [The President](https://www.donaldjtrump.com/) arrives [Morristown Municipal Airport](https://www.mmuair.com/)<br />[Morristown Municipal Airport](https://www.mmuair.com/) Out-of-Town Travel Pool |
 | 5:53 PM ⛳️| [The President](https://www.donaldjtrump.com/) departs [Morristown Municipal Airport](https://www.mmuair.com/) en route [Trump National Golf Club Bedminster](https://www.trumpnationalbedminster.com/)<br />[Morristown Municipal Airport](https://www.mmuair.com/) Out-of-Town Travel Pool |
@@ -206,7 +217,7 @@ title: "Trump: Air Force One Frequent Flyer Miles"
 | | **Tuesday, May 13 2025** |
 | 2:45 AM | The [President](https://www.whitehouse.gov/) arrives [King Khalid International Airport](https://www.kkia.sa/en)<br />[9:45 AM Local]<br />[King Khalid International Airport](https://www.kkia.sa/en)<br /> Pre-Credentialed Media |
 | 3:10 AM | The [President](https://www.whitehouse.gov/) departs [King Khalid International Airport](https://www.kkia.sa/en) en route [The Ritz-Carlton Riyadh](https://www.ritzcarlton.com/en/hotels/ruhrz-the-ritz-carlton-riyadh/)<br />[10:10 AM Local]<br />[King Khalid International Airport](https://www.kkia.sa/en)<br /> Out-of-Town Travel Pool |
-| 3:40 AM | The [President](https://www.whitehouse.gov/) arrives [The Ritz-Carlton Riyadh](https://www.ritzcarlton.com/en/hotels/ruhrz-the-ritz-carlton-riyadh/)<br />[10:40 AM Local]<br /[The Ritz-Carlton Riyadh](https://www.ritzcarlton.com/en/hotels/ruhrz-the-ritz-carlton-riyadh/)<br />Riyadh, [Saudi Arabia](https://my.gov.sa/)<br /> Out-of-Town Travel Pool |
+| 3:40 AM | The [President](https://www.whitehouse.gov/) arrives [The Ritz-Carlton Riyadh](https://www.ritzcarlton.com/en/hotels/ruhrz-the-ritz-carlton-riyadh/)<br />[10:40 AM Local]<br />[The Ritz-Carlton Riyadh](https://www.ritzcarlton.com/en/hotels/ruhrz-the-ritz-carlton-riyadh/)<br />Riyadh, [Saudi Arabia](https://my.gov.sa/)<br /> Out-of-Town Travel Pool |
 | 4:50 AM | The [President](https://www.whitehouse.gov/) departs [The Ritz-Carlton Riyadh](https://www.ritzcarlton.com/en/hotels/ruhrz-the-ritz-carlton-riyadh/) en route The Royal Court<br />[11:50 AM Local]<br />[The Ritz-Carlton](https://www.ritzcarlton.com/en/hotels/ruhrz-the-ritz-carlton-riyadh/)<br /> Riyadh, [Saudi Arabia](https://my.gov.sa/)<br /> Out-of-Town Travel Pool |
 | 4:55 AM | The [President](https://www.whitehouse.gov/) arrives The Royal Court<br />[11:55 AM Local]<br />The Royal Court Palace<br />Riyadh, [Saudi Arabia](https://my.gov.sa/)<br /> Out-of-Town Travel Pool |
 | 5:00 AM | The [President](https://www.whitehouse.gov/) participates in a Saudi State Visit<br />[12:00 PM Local]<br />The Royal Court Palace<br />Riyadh, [Saudi Arabia](https://my.gov.sa/)<br /> Out-of-Town Travel Pool |
@@ -290,7 +301,7 @@ title: "Trump: Air Force One Frequent Flyer Miles"
 | | The [President](https://www.whitehouse.gov/) has no public events scheduled.<br />The [White House](https://www.whitehouse.gov/) |
 | 8:00 AM | In-Town Pool Call Time<br />The [White House](https://www.whitehouse.gov/)<br /> In-Town Pool |
 | 9:32 AM | The [President](https://www.whitehouse.gov/) departs the [White House](https://www.whitehouse.gov/) for his golf club<br />The [White House](https://www.whitehouse.gov/)
-| 10:07 AM | The [President](https://www.whitehouse.gov/) arrives at [Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/)<br /[Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/) |
+| 10:07 AM | The [President](https://www.whitehouse.gov/) arrives at [Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/)<br />[Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/) |
 | 3:32 PM | The [President](https://www.whitehouse.gov/) departs [Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/)<br />[Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/) |
 | 4:06 PM | The [President](https://www.whitehouse.gov/) arrives at the [White House](https://www.whitehouse.gov/)<br />The [White House](https://www.whitehouse.gov/) |
 | 4:11 PM | [White House](https://www.whitehouse.gov/) Press Office: Full lid called<br />The [White House](https://www.whitehouse.gov/) |
