@@ -7,7 +7,7 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: 'Supreme Court Rules Against Lower Courts Issuing Nationwide Injunctions Halting Illegal Presidential Executive Orders"
+title: "Supreme Court Rules Against Lower Courts Issuing Nationwide Injunctions Halting Illegal Presidential Executive Orders"
 ---
 
 
