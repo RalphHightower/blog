@@ -23,9 +23,13 @@ title: "Trump: Air Force One Frequent Flyer Miles"
 | 10:00 AM | The [President](https://www.donaldjtrump.com/) is interviewed by [Maria Bartiromo](https://www.foxnews.com/person/b/maria-bartiromo) on [Faux News](https://www.foxnews.com/)' [Sunday Morning Futures](https://www.foxnews.com/shows/sunday-morning-futures)<br />The [White House](https://www.whitehouse.gov/)<br />[White House](https://www.whitehouse.gov/) Press Pool |
 | 6:00 PM [^666] | [Trump](https://www.donaldjtrump.com/) leaves his [Trump National Golf Club Washington, D.C.](https://www.trumpnationaldc.com/) for the [White House](https://www.whitehouse.gov/) |
 | | **Saturday, June 28 2025** |
-| 7:45 AM | In-Town Pool Call Time<br />In-Town Pool |
-| 8:30 AM[^666] ⛳️| [Trump](https://www.donaldjtrump.com/) plays golf at his [Trump National Golf Club Washington, D.C.](https://www.trumpnationaldc.com/) with [senators](https://www.senate.gov/) [Eric Schmitt (T-MO)](https://www.schmitt.senate.gov/), [Rand Paul (T-KY)](https://www.paul.senate.gov/), [Lindsey Graham (T-SC)](https://www.lgraham.senate.gov/) |
-| 6:00 PM [^666] | [Trump](https://www.donaldjtrump.com/) leaves his [Trump National Golf Club Washington, D.C.](https://www.trumpnationaldc.com/) for the [White House](https://www.whitehouse.gov/) |
+| | The [President](https://www.whitehouse.gov/) has no public events scheduled<br />The [White House](https://www.whitehouse.gov/) |
+| 7:45 AM | In-Town Pool Call Time<br />The [White House](https://www.whitehouse.gov/) In-Town Pool |
+| 8:24 AM | The [President](https://www.whitehouse.gov/) departs the [White House](https://www.whitehouse.gov/) for his golf club<br />The [White House](https://www.whitehouse.gov/) |
+| 9:37 AM ⛳️| The [President](https://www.whitehouse.gov/) arrives at [Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/) for golf with [Senators](https://www.senate.gov/) [Eric Schmitt (T-MO)](https://www.schmitt.senate.gov/), [Rand Paul (T-KY)](https://www.paul.senate.gov/), [Lindsey Graham (T-SC)](https://www.lgraham.senate.gov/) and [CIA](https://www.cia.gov/)[Director John Ratcliff](https://www.cia.gov/about/director-of-cia/)<br />[Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/) |
+| 3:05 PM | The [President](https://www.whitehouse.gov/) departs [Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/)<br />[Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/) |
+| 3:45 PM | The [President](https://www.whitehouse.gov/) arrives at the [White House](https://www.whitehouse.gov/)<br />The [White House](https://www.whitehouse.gov/) |
+| 3:45 PM | [White House](https://www.whitehouse.gov/) Press Office: Full lid called<br />The [White House](https://www.whitehouse.gov/) In-Town Pool |
 | |🔥 [White House](https://www.whitehouse.gov/) 💣|
 | | **Wednesday, June 25 2025** |
 | 2:15 AM | The [President](https://www.donaldjtrump.com/) participates in a Photo Opportunity with the [King](https://www.royal-house.nl/members-royal-house/king-willem-alexander) and [Queen](https://www.royal-house.nl/members-royal-house/queen-maxima) of the [Kingdom of The Netherlands](https://www.royal-house.nl/) [8:15 AM Local]<br />[World Forum](https://worldforum.nl/), [The Hague](https://www.denhaag.nl/nl/), [Netherlands](https://www.government.nl/) Closed Press |
