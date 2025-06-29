@@ -19,13 +19,13 @@ June 27, 2025, 3:25 PM EDT
 
 By [Muhammad Tahir](https://www.atlanticcouncil.org/expert/muhammad-tahir/), nonresident senior fellow at [The Atlantic Council](https://www.atlanticcouncil.org/)'s [Eurasia Center](https://www.atlanticcouncil.org/region/europe-eurasia/)
 
-Two weeks ago, [as Israeli warplanes pounded targets in Tehran](https://www.msnbc.com/all-in/watch/israel-conducts-preemptive-strike-against-iran-241494085924) and [Iranian missiles]() screamed back in retaliation, [Washington]() scrambled to revive a tool [President Donald Trump had recklessly destroyed via executive order](https://www.msnbc.com/opinion/msnbc-opinion/trump-voice-of-america-radio-free-europe-rcna197367) three months earlier: [Voice of America](https://www.usa.gov/)’s Persian Service.
+Two weeks ago, [as Israeli warplanes pounded targets in Tehran](https://www.msnbc.com/all-in/watch/israel-conducts-preemptive-strike-against-iran-241494085924) and [Iranian missiles](https://irangov.ir/) screamed back in retaliation, [Washington](https://dc.gov/) scrambled to revive a tool [President Donald Trump had recklessly destroyed via executive order](https://www.msnbc.com/opinion/msnbc-opinion/trump-voice-of-america-radio-free-europe-rcna197367) three months earlier: [Voice of America](https://www.usa.gov/)’s Persian Service.
 
 On March 15, [Trump](https://www.donaldjtrump.com/) had ordered the [the United States Agency for Global Media](https://www.msnbc.com/opinion/msnbc-opinion/trump-voice-of-america-radio-free-europe-rcna197367), which oversees [Voice of America](https://www.insidevoa.com/) and was established to push back against censorship and disinformation worldwide, to shut down [VOA](https://www.insidevoa.com/)’s programming in all 49 of its broadcast languages, including Persian. Thus, [Trump](https://www.donaldjtrump.com/) crippled a key pillar of U.S. soft power.
 
-> *As soon as the missiles began flying and [Washington]() realized it had no way to reach the Iranian public, it made a cynical about-face.*
+> *As soon as the missiles began flying and [Washington](https://dc.gov/) realized it had no way to reach the Iranian public, it made a cynical about-face.*
 
-But as soon as the missiles began flying and [Washington]() realized it had no way to reach the [Iranian public](), it made a cynical about-face. On June 13, the day [Israel](https://www.gov.il/) launched its attack on [Iran](https://irangov.ir/), [VOA](https://www.insidevoa.com/) Persian journalists — who'd been left on administrative leave for months with no clarity about their future — were abruptly called back. One journalist told me they were lured back with vague suggestions that cooperating might look favorable during an upcoming restructuring.
+But as soon as the missiles began flying and [Washington](https://dc.gov%) realized it had no way to reach the [Iranian public](https://irangov.ir/), it made a cynical about-face. On June 13, the day [Israel](https://www.gov.il/) launched its attack on [Iran](https://irangov.ir/), [VOA](https://www.insidevoa.com/) Persian journalists — who'd been left on administrative leave for months with no clarity about their future — were abruptly called back. One journalist told me they were lured back with vague suggestions that cooperating might look favorable during an upcoming restructuring.
 
 On June 20, Kari Lake, [Trump](https://www.donaldjtrump.com/)’s [USAGM](https://www.usagm.gov/) adviser, [laid off most of the Persian journalists anyway, including my source,](https://apnews.com/article/voice-of-america-layoffs-trump-global-media-7a862bdc530dd3d48657c00d2df54539) and 639 others across [VOA](https://www.insidevoa.com/). This wasn’t mismanagement; it was sabotage — of staff morale, institutional integrity and [America](https://www.usa.gov/)’s global credibility.
 
@@ -217,6 +217,6 @@ Lake’s plans reveal her dangerous ignorance (or disregard) of history. [VOA](h
 - con
 - crime
 - cryptocurrency 
-- businesses
-- associates
-- partners
+- criminal businesses
+- criminal associates
+- criminal partners
