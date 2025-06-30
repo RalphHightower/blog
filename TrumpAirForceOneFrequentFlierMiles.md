@@ -2,7 +2,7 @@
 layout: page
 tags: [The Mar-a-Lago Club, Palm Beach Florida 33480, Trump International Golf Club, West Palm Beach FL 33406, Trump National Doral Golf Club, Miami FL 33178, Trump National Jupiter Golf Club, Jupiter FL 33477, Trump National Golf Club Washington D.C., Potomac Falls VA 20165, Trump National Golf Club Bedminster, Bedminster NJ 07921, Trump National Golf Club Colts Neck, Colts Neck NJ 07722, Trump National Golf Club Philadelphia, Pine Hill NJ 08021, Trump National Golf Club Hudson Valley, Hopewell Junction NY 12533, Trump National Golf Club Los Angeles, Rancho Palos Verdes CA 90275, Trump National Golf Club Charlotte, Mooresville NC 28117, Trump International Golf Club Dubai, Al Hebiah Third District Dubai, Trump International Golf Links & Hotel Ireland Doonbeg, CLARE IRELAND, Trump MacLeod House & Lodge Scotland, Aberdeenshire Scotland AB23 8YE, Trump MacLeod House & Lodge Scotland, Aberdeenshire Scotland AB23 8YE, Trump Turnberry, Ayrshire Scotland]
 categories: [Donald Trump]
-date: 2025-06-28 7:42 PM
+date: 2025-06-29 11:16 PM
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
@@ -19,8 +19,11 @@ title: "Trump: Air Force One Frequent Flyer Miles"
 | Time | Location |
 |---|---|
 | | **Sunday, June 29 2025** |
-| 08:00 AM[^666] ⛳️| [Trump](https://www.donaldjtrump.com/) plays golf at his [Trump National Golf Club Washington, D.C.](https://www.trumpnationaldc.com/)<br />[Trump National Golf Club Washington, D.C.](https://www.trumpnationaldc.com/) |
+| | The President has no public events scheduled<br />The White House |
+| 7:45 AM | In-Town Pool Call Time<br />The White House In-Town Pool |
+| 9:28 AM | The President departs the White House for his golf club<br />The White House |
 | 10:00 AM | The [President](https://www.donaldjtrump.com/) is interviewed by [Maria Bartiromo](https://www.foxnews.com/person/b/maria-bartiromo) on [Faux News](https://www.foxnews.com/)' [Sunday Morning Futures](https://www.foxnews.com/shows/sunday-morning-futures)<br />The [White House](https://www.whitehouse.gov/)<br />[White House](https://www.whitehouse.gov/) Press Pool |
+| 10:02 AM ⛳️| The President arrives at [Trump National Golf Club Washington, D.C.](https://www.trumpnationaldc.com/)<br />The White House |
 | 6:00 PM [^666] | [Trump](https://www.donaldjtrump.com/) leaves his [Trump National Golf Club Washington, D.C.](https://www.trumpnationaldc.com/) for the [White House](https://www.whitehouse.gov/) |
 | | **Saturday, June 28 2025** |
 | | The [President](https://www.whitehouse.gov/) has no public events scheduled<br />The [White House](https://www.whitehouse.gov/) |
