@@ -67,7 +67,9 @@ Subscribe to the [MSNBC](https://www.msnbc.com/) Daily Newsletter: https://link.
 - media
     - [MSNBC](https://www.msnbc.com/)
         - The Briefing with Jen Psaki 
-            - Jen Psaki 
+            - Jen Psaki
+- companies 
+    - [Sharpie: Permanent Markers, Highlighters, Pens, & More](https://www.sharpie.com/)
 - Federal Government 
     - [Constitution of the United States](https://constitution.congress.gov/)
         - [U.S. Constitution - Article II / Resources / Constitution Annotated / Congress.gov / Library of Congress](https://constitution.congress.gov/constitution/article-2/)
