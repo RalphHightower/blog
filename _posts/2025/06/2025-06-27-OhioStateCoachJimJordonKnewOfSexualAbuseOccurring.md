@@ -7,7 +7,7 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: "HBO Documentary “Surviving Ohio State” Has Representatives Jim Jordan (T-OH4) Denying Knowledge of the Sex Abuse by Wrestling Team Doctor, Despite, …"
+title: "HBO Documentary “Surviving Ohio State” Has Representative Jim Jordan (T-OH4) Denying Knowledge of the Sex Abuse by Wrestling Team Doctor, Despite, …"
 ---
 
 
