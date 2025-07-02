@@ -18,6 +18,15 @@ title: "Trump: Air Force One Frequent Flyer Miles"
 
 | Time | Location |
 |---|---|
+| | **Tuesday, July 1 2025** |
+| 6:20 AM | Out-of-Town Travel Pool Call Time<br />[Joint Base Andrews](https://www.jba.af.mil/) Out-of-Town Travel Pool |
+| 6:30 AM | In-Town Pool Call Time<br />The [White House](https://www.whitehouse.gov/) In-Town Pool |
+| 7:15 AM | The [President](https://www.donaldjtrump.com/) departs The [White House](https://www.whitehouse.gov/) en route Alligator Alcatraz<br />[South Lawn](https://www.whitehouse.gov/) Open Press
+| 10:00 AM | The [President](https://www.donaldjtrump.com/) participates in a Guided Walking Tour of Alligator Alcatraz<br />Dade-Collier Training and Transition Airport - Former, Ochopee, FL Out-of-Town Travel Pool |
+| 11:05 AM | The [President](https://www.donaldjtrump.com/) participates in Roundtable Discussion<br />Dade-Collier Training and Transition Airport - Former, Ochopee, FL Pre-Credentialed Media |
+| 12:10 PM | The [President](https://www.donaldjtrump.com/) departs Alligator Alcatraz en route The [White House](https://www.whitehouse.gov/)<br />Dade-Collier Training and Transition Airport - Former, Ochopee, FL Out-of-Town Travel Pool |
+| 2:45 PM | The [President](https://www.donaldjtrump.com/) arrives The [White House](https://www.whitehouse.gov/)<br />[South Lawn](https://www.whitehouse.gov/) Open Press |
+| |🔥 [White House](https://www.whitehouse.gov/) 💣|
 | | **Sunday, June 29 2025** |
 | | The [President](https://www.donaldjtrump.com/) has no public events scheduled<br />The [White House](https://www.whitehouse.gov/) |
 | 7:45 AM | In-Town Pool Call Time<br />[White House](https://www.whitehouse.gov/) In-Town Pool |
