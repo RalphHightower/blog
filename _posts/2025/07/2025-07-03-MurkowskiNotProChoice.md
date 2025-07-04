@@ -7,7 +7,7 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: "Senator Lisa Murkowski (T-AK) Is Not Who She Says Dhe Is"
+title: "Senator Lisa Murkowski (T-AK) Is Not Who She Says She Is"
 ---
 
 
