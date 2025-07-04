@@ -2,7 +2,7 @@
 layout: page
 tags: [The Mar-a-Lago Club, Palm Beach Florida 33480, Trump International Golf Club, West Palm Beach FL 33406, Trump National Doral Golf Club, Miami FL 33178, Trump National Jupiter Golf Club, Jupiter FL 33477, Trump National Golf Club Washington D.C., Potomac Falls VA 20165, Trump National Golf Club Bedminster, Bedminster NJ 07921, Trump National Golf Club Colts Neck, Colts Neck NJ 07722, Trump National Golf Club Philadelphia, Pine Hill NJ 08021, Trump National Golf Club Hudson Valley, Hopewell Junction NY 12533, Trump National Golf Club Los Angeles, Rancho Palos Verdes CA 90275, Trump National Golf Club Charlotte, Mooresville NC 28117, Trump International Golf Club Dubai, Al Hebiah Third District Dubai, Trump International Golf Links & Hotel Ireland Doonbeg, CLARE IRELAND, Trump MacLeod House & Lodge Scotland, Aberdeenshire Scotland AB23 8YE, Trump MacLeod House & Lodge Scotland, Aberdeenshire Scotland AB23 8YE, Trump Turnberry, Ayrshire Scotland]
 categories: [Donald Trump]
-date: 2025-06-29 11:16 PM
+date: 2025-07-03 12:37 AM
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
@@ -18,17 +18,35 @@ title: "Trump: Air Force One Frequent Flyer Miles"
 
 | Time | Location |
 |---|---|
+| | **Friday, July 4 2025** |
+| 12:50 AM | The [President](https://www.donaldjtrump.com/) arrives the [White House](https://www.whitehouse.gov/)<br />The [White House](https://www.whitehouse.gov/) Out-of-Town Travel Pool |
+| 7:30 AM | In-Town Pool Call Time<br />The [White House](https://www.whitehouse.gov/) In-Town Pool |
+| 5:00 PM | The [President](https://www.donaldjtrump.com/) and First Lady participate in the Military Family Picnic<br />[South Lawn](https://www.whitehouse.gov/) Pre-Credentialed Media |
+| 8:30 PM | Out-of-Town Travel Pool Call Time<br />[Joint Base Andrews](https://www.jba.af.mil/) Out-of-Town Travel Pool |
+| 9:00 PM | The [President](https://www.donaldjtrump.com/) and First Lady attend the Fourth of July Celebration<br />[South Lawn](https://www.whitehouse.gov/) [White House](https://www.whitehouse.gov/) Press Pool |
+| 9:45 PM | The [President](https://www.donaldjtrump.com/) and First Lady depart the [White House](https://www.whitehouse.gov/) en route [Bedminster, New Jersey](https://www.trumpnationalbedminster.com/)<br />The [White House](https://www.whitehouse.gov/) Out-of-Town Travel Pool |
+| 11:30 PM ⛳️| The [President](https://www.donaldjtrump.com/) and First Lady arrive [Bedminster, New Jersey](https://www.trumpnationalbedminster.com/)<br />[Trump National Golf Club Bedminster](https://www.trumpnationalbedminster.com/) Out-of-Town Travel Pool |
+| | **Thursday, July 3 2025** |
+| 9:00 AM | In-Town Pool Call Time<br />The [White House](https://www.whitehouse.gov/) In-Town Pool |
+| 11:30 AM | The [President](https://www.donaldjtrump.com/) receives his Intelligence Briefing<br />Oval Office Closed Press |
+| 11:45 AM | [White House](https://www.whitehouse.gov/) Press Office: Lunch lid until 12:30 PM<br />The [White House](https://www.whitehouse.gov/) In-Town Pool |
+| 12:45 PM | The [President](https://www.donaldjtrump.com/) and First Lady meet with Edan Alexander<br />Oval Office Closed Press |
+| 3:30 PM | Out-of-Town Travel Pool Call Time<br />[Joint Base Andrews](https://www.jba.af.mil/) Out-of-Town Travel Pool |
+| 4:35 PM | The [President](https://www.donaldjtrump.com/) departs the [White House](https://www.whitehouse.gov/) en route [Des Moines](https://www.dsm.city/), [Iowa](https://www.iowa.gov/)<br />The [White House](https://www.whitehouse.gov/) Out-of-Town Travel Pool |
+| 8:00 PM 💰| The [President](https://www.donaldjtrump.com/) participates in the Salute to America Celebration [7:00 PM Local]<br />[Iowa State Fairgrounds](https://www.iowastatefairgrounds.org/), [Des Moines](https://www.dsm.city/), [Iowa](https://www.iowa.gov/) Pre-Credentialed Media |
+| 10:15 PM | The [President](https://www.donaldjtrump.com/) departs [Des Moines](https://www.dsm.city/), [Iowa](https://www.iowa.gov/), en route The [White House](https://www.whitehouse.gov/) [9:15 PM Local]<br />[Des Moines International Airport](https://www.flydsm.com/) Out-of-Town Travel Pool |
+| |🔥 [White House](https://www.whitehouse.gov/) 💣|
 | | **Tuesday, July 1 2025** |
-| 6:20 AM | Out-of-Town Travel Pool Call Time</>[Joint Base Andrews](https://www.jba.af.mil/) Out-of-Town Travel Pool |
-| 6:30 AM | In-Town Pool Call Time</>The [White House](https://www.whitehouse.gov/) In-Town Pool |
-| 7:15 AM | The [President](https://www.donaldjtrump.com/) departs The [White House](https://www.whitehouse.gov/) en route Alligator Alcatraz [8:03 AM Actual]</>South Lawn Open Press |
-| 8:11 AM | The [President](https://www.donaldjtrump.com/) arrives at [Joint Base Andrews](https://www.jba.af.mil/)</>[Joint Base Andrews](https://www.jba.af.mil/) Open Press |
-| 8:37 AM | The [President](https://www.donaldjtrump.com/) departs [Joint Base Andrews](https://www.jba.af.mil/) for Florida</>[Joint Base Andrews](https://www.jba.af.mil/) Open Press |
-| 10:00 AM | The [President](https://www.donaldjtrump.com/) participates in a Guided Walking Tour of Alligator Alcatraz</>[Dade-Collier Training and Transition Airport](https://www.miami-airport.com/dade_collier.asp) - Former, Ochopee, FL Out-of-Town Travel Pool |
-| 10:30 AM | The [President](https://www.donaldjtrump.com/) arrives at [Dade-Collier Airport](https://www.miami-airport.com/dade_collier.asp) in Ochopee, Florida</>[Joint Base Andrews](https://www.jba.af.mil/) Open Press |
-| 11:05 AM | The [President](https://www.donaldjtrump.com/) participates in Roundtable Discussion</>[Dade-Collier Training and Transition Airport](https://www.miami-airport.com/dade_collier.asp) - Former, Ochopee, FL Pre-Credentialed Media |
-| 12:10 PM | The [President](https://www.donaldjtrump.com/) departs Alligator Alcatraz en route The [White House](https://www.whitehouse.gov/)</>Dade-Collier Training and Transition Airport - Former, Ochopee, FL Out-of-Town Travel Pool |
-| 2:45 PM | The [President](https://www.donaldjtrump.com/) arrives The [White House](https://www.whitehouse.gov/)</>South Lawn Open Press |
+| 6:20 AM | Out-of-Town Travel Pool Call Time<br />[Joint Base Andrews](https://www.jba.af.mil/) Out-of-Town Travel Pool |
+| 6:30 AM | In-Town Pool Call Time<br />The [White House](https://www.whitehouse.gov/) In-Town Pool |
+| 7:15 AM | The [President](https://www.donaldjtrump.com/) departs The [White House](https://www.whitehouse.gov/) en route Alligator Alcatraz [8:03 AM Actual]<br />South Lawn Open Press |
+| 8:11 AM | The [President](https://www.donaldjtrump.com/) arrives at [Joint Base Andrews](https://www.jba.af.mil/)<br />[Joint Base Andrews](https://www.jba.af.mil/) Open Press |
+| 8:37 AM | The [President](https://www.donaldjtrump.com/) departs [Joint Base Andrews](https://www.jba.af.mil/) for Florida<br />[Joint Base Andrews](https://www.jba.af.mil/) Open Press |
+| 10:00 AM | The [President](https://www.donaldjtrump.com/) participates in a Guided Walking Tour of Alligator Alcatraz<br />[Dade-Collier Training and Transition Airport](https://www.miami-airport.com/dade_collier.asp) - Former, Ochopee, FL Out-of-Town Travel Pool |
+| 10:30 AM | The [President](https://www.donaldjtrump.com/) arrives at [Dade-Collier Airport](https://www.miami-airport.com/dade_collier.asp) in Ochopee, Florida<br />[Joint Base Andrews](https://www.jba.af.mil/) Open Press |
+| 11:05 AM | The [President](https://www.donaldjtrump.com/) participates in Roundtable Discussion<br />[Dade-Collier Training and Transition Airport](https://www.miami-airport.com/dade_collier.asp) - Former, Ochopee, FL Pre-Credentialed Media |
+| 12:10 PM | The [President](https://www.donaldjtrump.com/) departs Alligator Alcatraz en route The [White House](https://www.whitehouse.gov/)<br />Dade-Collier Training and Transition Airport - Former, Ochopee, FL Out-of-Town Travel Pool |
+| 2:45 PM | The [President](https://www.donaldjtrump.com/) arrives The [White House](https://www.whitehouse.gov/)<br />South Lawn Open Press |
 | |🔥 [White House](https://www.whitehouse.gov/) 💣|
 | | **Sunday, June 29 2025** |
 | | The [President](https://www.donaldjtrump.com/) has no public events scheduled<br />The [White House](https://www.whitehouse.gov/) |
