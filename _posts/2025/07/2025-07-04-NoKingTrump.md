@@ -11,7 +11,7 @@ title: "It’s Time For Another Revolution. Time Is Now To Overthrow King Trump"
 ---
 
 
-- 2025-02-22: [250 Years Later, Is It Time For Another Revolution? NY Governor Kathy Hochul Compares Trump To a King]({% link _posts/2025/02/2025-02-22-RevoltAgainstKingTrump.md $})
+- 2025-02-22: [250 Years Later, Is It Time For Another Revolution? NY Governor Kathy Hochul Compares Trump To a King]({% link _posts/2025/02/2025-02-22-RevoltAgainstKingTrump.md %})
  
 ## [The GOP’s unabashed commitment to Trump’s agenda is shameful and un-American](https://www.msnbc.com/opinion/msnbc-opinion/trump-independence-day-king-megabill-ice-detention-rcna216333)
 
@@ -177,7 +177,7 @@ Two hundred forty-nine years into the American experiment, we face a crisis of o
         - [Donald Trump Jr. / LinkedIn](https://www.linkedin.com/in/donald-trump-jr-4454b862/)
         - Ivanka Trump
         - Jared Kushner
-     - [President Donald Trump (45)](https://trumpwhitehouse.archives.gov/)
+    - [President Donald Trump (45)](https://trumpwhitehouse.archives.gov/)
     - [President Donald Trump (47)](https://www.whitehouse.gov/administration/donald-j-trump/)
     - [President Trump (47) Administration](https://www.whitehouse.gov/administration/)
     - [President Trump (47) Cabinet](https://www.whitehouse.gov/administration/the-cabinet/)
