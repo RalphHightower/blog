@@ -13,6 +13,22 @@ title: "Political Gameplan / Strategy"
 
 ## Resistance Is Not Futile!
 
+- [Why We Made a Guide to Winning a Fight / WIRED](https://www.wired.com/story/editor-letter-guide-to-winning-a-fight/)
+- [How to Win a Fight / WIRED](https://www.wired.com/how-to-win-a-fight/)
+- [The Definitive Story of Tesla Takedown / WIRED](https://www.wired.com/story/tesla-takedown-definitive-story/)
+- [The Online Tools That Fueled ‘No Kings’ and the Trump Resistance / WIRED](https://www.wired.com/story/technology-tools-donald-trump-resistance/)
+- [How to Out-Troll the Trolls, as Told by the Internet’s Foremost Posters / WIRED](https://www.wired.com/story/how-to-win-fight-online/)
+- [The WIRED Guide to Protecting Yourself From Government Surveillance / WIRED](https://www.wired.com/story/the-wired-guide-to-protecting-yourself-from-government-surveillance/)
+- [How to Protect Yourself From Phone Searches at the US Border / WIRED](https://www.wired.com/story/how-to-protect-yourself-from-phone-searches-at-the-us-border/)
+- [Protesting Tips: What to Bring, How to Act, How to Stay Safe / WIRED](https://www.wired.com/story/how-to-protest-safely-gear-tips/)
+- [Watch How Governments Spy On Protesters—And How To Avoid It / Incognito Mode / WIRED](https://www.wired.com/video/watch/incognito-mode-protestors-/)
+- [Watch How Smart Devices Spy On Your Home—And How To Avoid It / Incognito Mode / WIRED](https://www.wired.com/video/watch/incognito-mode-protestors-/)
+- [The Impact Map - The Impact Project](https://theimpactproject.org/the-impact-map/)
+- [Protesting Tips: What to Bring, How to Act, How to Stay Safe / WIRED](https://www.wired.com/story/how-to-protest-safely-gear-tips/#intcid=_wired-article-bottom-recirc-bkt-a_32e02728-b9ff-409c-baf4-9fc00d0d8985_closr)
+- [How to Protect Yourself From Phone Searches at the US Border / WIRED](https://www.wired.com/story/how-to-protect-yourself-from-phone-searches-at-the-us-border/#intcid=_wired-article-bottom-recirc-bkt-a_32e02728-b9ff-409c-baf4-9fc00d0d8985_closr)
+- [How to Protest Safely in the Age of Surveillance / WIRED](https://www.wired.com/story/how-to-protest-safely-surveillance-digital-privacy/#intcid=_wired-article-bottom-recirc-bkt-a_32e02728-b9ff-409c-baf4-9fc00d0d8985_closr)
+- ['No Kings’ Protests, Citizen-Run ICE Trackers Trigger Intelligence Warnings / WIRED](https://www.wired.com/story/no-kings-protests-citizen-run-ice-trackers-trigger-intelligence-warnings/#intcid=_wired-article-bottom-recirc-bkt-a_32e02728-b9ff-409c-baf4-9fc00d0d8985_closr)
+
 ### We Are The *"Enemy Within"*
 
 #### Pain Point Issues
