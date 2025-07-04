@@ -7,7 +7,7 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: "Congress Needs To Fix Courts To Halt Unconstitutional Acions Of a King"
+title: "Congress Needs To Fix Courts To Halt Unconstitutional Actions Of a King"
 ---
 
 
