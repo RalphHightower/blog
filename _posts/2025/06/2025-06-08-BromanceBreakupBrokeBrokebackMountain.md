@@ -70,7 +70,6 @@ Their followers will, by definition, follow their leads on whether this was just
 
 What happens now will likely alter the trajectory of [Trump](https://www.donaldjtrump.com/)’s second term and the culture of the larger MAGA movement. This breakup is going to be incredibly ugly and dumb — even if it was tremendously entertaining on its first day.
 
-Anthony L. Fisher
 Anthony L. Fisher is a senior editor and writer for [MSNBC Daily](https://www.msnbc.com/). He was previously the senior opinion editor for [The Daily Beast](https://www.thedailybeast.com/) and a politics columnist for [Business Insider](https://www.businessinsider.com/).
 
 - [MSNBC](https://www.msnbc.com/)
