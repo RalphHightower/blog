@@ -113,6 +113,7 @@ If it's the weekend, America's Golfer-in-Chief, [Trump](https://www.donaldjtrump
 - [JSON : Roll Call Factba.se - Donald J. Trump's Public Schedule](https://media-cdn.factba.se/rss/json/trump/calendar-full.json)
 
 <script>
+
 // Set your dates here (year, month (0-based), day, hour, minute)
 const startDate = new Date(2025, 0, 19, 0, 0);     // Jan 20, 2025 12:00 PM
 const endDate = new Date(2029, 0, 20, 12, 0, 0);      // Jan 20, 2029, 12:00 PM
@@ -298,38 +299,42 @@ function fixedHoliday(param) { //1
                     case 1: // January
                         // Washington's Birthday (Also known as Presidents Day; third Monday in February) [15-21]
                     case 2: // February
-                        retVal = ((15 <= dateMonth) && (dateMonth <= 21));
+                        retVal = (isBetween(dateMonth, 15, 21));
                     break;
                 // Memorial Day (Last Monday in May) [25-31]
                 case 5: // May
-                    retVal = ((25 <= dateMonth) && (dateMonth <= 31));
+                    retVal = (isBetween(dateMonth, 25, 31));
                     break;
                 // Labor Day (First Monday in September) [01-07]
                 case 9: // September
-                    retVal = ((1 <= dateMonth) && (dateMonth <= 7));
+                    retVal = (isBetween(dateMonth, 1, 7));
                     break;
                 case 10: // October (Second Monday in October) [08-14]
                 // Columbus Day
-                    retVal = ((8 <= dateMonth) && (dateMonth <= 14));
+                    retVal = (isBetween(dateMonth, 8, 14));
                     break;
                     } // 4
             } //3
         } //2
     else if ((month == 11) && (weekDay == 4)) { //2
         // Thanksgiving (Fourth Thursday in November) [22-28]
-        retVal = ((22 <= dateMonth) && (dateMonth <= 28));
+        retVal = (isBetween(dateMonth, 22, 28));
         } //2
     return (retVal);
     } //1
+
+function isBetween(val, from, to) {
+    return ((from <= val) && (val <= to) ? true : false);
+    }
 
 function isMarALagoOpen(today) {
     dateToday = new Date(today);
     dateMothersDay = new Date(mothersDay(today));
     dateHalloween = new Date(dateToday.getFullYear(), 9, 31);
 
-    return ((dateMothersDay <= dateToday) && (dateToday <= dateHalloween) ? false : true);
+    return (isBetween(dateToday, dateMothersDay, dateHalloween) ? false : true);
     }
-
+    
 function mothersDay(param) {
     date = new Date(param);
     year = date.getFullYear();
