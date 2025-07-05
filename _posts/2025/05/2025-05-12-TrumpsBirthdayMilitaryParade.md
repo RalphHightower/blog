@@ -79,7 +79,6 @@ Zeeshan Aleem is a writer and editor for [MSNBC Daily](https://www.msnbc.com/). 
 - [White House (WH)](https://www.whitehouse.gov/)
 - [Donald J Trump](https://www.whitehouse.gov/)
 - [President Donald Trump (45)](https://trumpwhitehouse.archives.gov/)
-- [President Donald Trump (45)](https://trumpwhitehouse.archives.gov/)
 - [President Donald Trump (47)](https://www.whitehouse.gov/)
 - vanity 
 - politics 

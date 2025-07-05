@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: [MSNBC, NBC News, New York Times (NYT), CREW / Citizens for Responsibility and Ethics in Washington, Noah Bookbinder, The Trump Organization / Luxury Real Estate Portfolio, $TRUMP, Truth Social, State of Wyoming, Constitution of the United States, Emoluments Clause and Presidential Compensation / Constitution Annotated / Congress.gov / Library of Congress, Supreme Court of the United States (SCOTUS), US Courts, Senate, Cynthia M. Lummis (T-WY), House of Representatives, Donald J Trump, President Donald Trump (47), President Trump Administration (47), President of the United States (POTUS), White House (WH), cryptocurrency, grift, politics]
-categories: [Donald Trump]
+categories: [Trump Crime Family]
 date: 2025-05-04 5:18 PM
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
