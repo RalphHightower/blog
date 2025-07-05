@@ -7,7 +7,7 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: "Trump Doesn't Xare About Tulsi Gabbard's Assessment of Iran"
+title: "Trump Doesn't Care About Tulsi Gabbard's Assessment of Iran"
 ---
 
 2025-06-11: [Tulsi Gabbard’s Bad Acid (LSD) Trip – Director of National Intelligence)]({% link _posts/2025/06/2025-06-11-TulsiGabbardIsHavingABadAcidTrip.md %})
