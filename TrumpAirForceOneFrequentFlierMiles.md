@@ -20,8 +20,14 @@ title: "Trump: Air Force One Frequent Flyer Miles"
 |---|---|
 | | **Sunday, July 6 2025** |
 | ⛳️| [Trump](https://www.donaldjtrump.com/) is playing golf at [Trump National Golf Club Bedminster](https://www.trumpnationalbedminster.com/)<br />[Trump National Golf Club Bedminster](https://www.trumpnationalbedminster.com/) |
+| 3:00 PM | Out-of-Town Travel Pool Call Time<br />Out-of-Town Travel Pool<br />[Trump National Golf Club Bedminster](https://www.trumpnationalbedminster.com/) |
+| 5:00 PM | The [President](https://www.donaldjtrump.com/) departs [Bedminster, New Jersey](https://www.trumpnationalbedminster.com/) en route Washington, D.C.<br />Out-of-Town Travel Pool |
+| 5:30 PM | In-Town Pool Call Time<br />In-Town Pool |
+| 6:10 PM | The [President](https://www.donaldjtrump.com/) arrives Washington, D.C.<br />Out-of-Town Travel Pool |
+| 6:30 PM | The [President](https://www.donaldjtrump.com/) arrives the [White House](https://www.whitehouse.gov/)<br />The [White House](https://www.whitehouse.gov/) Open Press
 | | **Saturday, July 5 2025** |
-| ⛳️| [Trump](https://www.donaldjtrump.com/) is playing golf at [Trump National Golf Club Bedminster](https://www.trumpnationalbedminster.com/)<br />[Trump National Golf Club Bedminster](https://www.trumpnationalbedminster.com/) |
+| ⛳️| The [President](https://www.donaldjtrump.com/) has no public events scheduled (other than golf)<br />[Trump National Golf Club Bedminster](https://www.trumpnationalbedminster.com/) |
+| 12:00 PM ⛳️| Out-of-Town Travel Pool Call Time<br />Out-of-Town Travel Pool<br />[Trump National Golf Club Bedminster](https://www.trumpnationalbedminster.com/) |
 | | **Friday, July 4 2025** |
 | 12:23 AM | The [President](https://www.donaldjtrump.com/) departs [Joint Base Andrews](https://www.jba.af.mil/) for the [White House](https://www.whitehouse.gov/)<br />[Joint Base Andrews](https://www.jba.af.mil/) Out-of-Town Travel Pool |
 | 12:50 AM | The [President](https://www.donaldjtrump.com/) arrives at the [White House](https://www.whitehouse.gov/) [12:45 AM Actual]<br />The [White House](https://www.whitehouse.gov/) Out-of-Town Travel Pool |
