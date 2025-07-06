@@ -6,7 +6,7 @@ date: 2025-05-14 12:50 PM
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
-title: "Converting Trump’s “Free”Jumbo Jet Bribe From Qatar Will Be Expensive, Take Years to Make It As Secure As Air Force One"
+title: "Trump Crime Family: Converting Trump’s “Free”Jumbo Jet Bribe From Qatar Will Be Expensive, Take Years to Make It As Secure As Air Force One"
 ---
 
 
