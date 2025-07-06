@@ -66,7 +66,7 @@ In case this isn’t obvious, the underlying point of these efforts isn’t to c
 - [Whistler Partners](https://www.whistlerpartners.com/)
 - [Sean Burke – Whistler Partners](https://www.whistlerpartners.com/team/sean-burke)
 - [Delaware](https://www.de.gov/)
- [Constitution of the United States](https://constitution.congress.gov/)
+- [Constitution of the United States](https://constitution.congress.gov/)
 - judicial
 - [Supreme Court of the United States (SCOTUS)](https://www.supremecourt.gov/)
 - [US Courts](https://www.uscourts.gov/)
