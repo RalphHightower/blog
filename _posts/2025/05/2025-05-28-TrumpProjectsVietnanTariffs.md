@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: [MSNBC, NBC News, Wall Street Journal (WSJ), New York Times (NYT), Washington Post, Dana Milbank - The Washington Post, Trump Organization, World Liberty Financial, $TRUMP, $MELANIA, cryposcam, Eric F. Trump / LinkedIn, Donald Trump Jr. / LinkedIn, LIV Golf, Vietnam, HO CHI MINH CITY - Official information channel of the Government of Viet Nam, Constitution of the United States, Supreme Court of the United States (SCOTUS), US Courts, Congress, Senate, House of Representatives, President of the United States (POTUS), White House (WH), Donald J Trump, self dealing, grift, corruption, politics]
-categories: [Donald Trump]
+categories: [Trump Crime Family]
 date: 2025-05-28 6:21 PM
 #excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
