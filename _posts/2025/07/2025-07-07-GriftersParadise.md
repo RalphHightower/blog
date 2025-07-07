@@ -11,21 +11,21 @@ title: "Grifters Paradise"
 ---
 
 
-🎶 As I stroll through the shadow of my [Mar-a-Lago](https://www.maralagoclub.com/) land,
-I take a look at my deals and my [meme coin](https://gettrumpmemes.com/)’s got no demand.
-Been spending most my life living in a Grifter’s Paradise—
-Tariffs on my nachos, while I dodge the legal device. 🎶
-
-🎶 Got a TACO plan, you know it's wild and spicy,
-[Trump](https://www.donaldjtrump.com/) Always Chickens Out—yeah, not exactly dicey.
-From steaks to university, casinos that went bust,
-My ventures sparkle briefly... 'til they crumble into dust. 🎶
-
-🎶 Power moves and mugshot memes,
-[$TRUMP coin](https://gettrumpmemes.com/) climbing high on libertarian dreams.
-Wall Street’s trembling, but I’m just tweeting fast,
-Bankruptcy’s a badge now—call it presidential class. 🎶
-
+🎶 As I stroll through the shadow of my [Mar-a-Lago](https://www.maralagoclub.com/) land,<br />
+I take a look at my deals and my [meme coin](https://gettrumpmemes.com/)’s got no demand.<br />
+Been spending most my life living in a Grifter’s Paradise—<br />
+Tariffs on my nachos, while I dodge the legal device. 🎶<br />
+<br />
+🎶 Got a TACO plan, you know it's wild and spicy,<br />
+[Trump](https://www.donaldjtrump.com/) Always Chickens Out—yeah, not exactly dicey.<br />
+From steaks to university, casinos that went bust,<br />
+My ventures sparkle briefly... 'til they crumble into dust. 🎶<br />
+<br />
+🎶 Power moves and mugshot memes,<br />
+[$TRUMP coin](https://gettrumpmemes.com/) climbing high on libertarian dreams.<br />
+Wall Street’s trembling, but I’m just tweeting fast,<br />
+Bankruptcy’s a badge now—call it presidential class. 🎶<br />
+<br />
 
 - media
 - companies
