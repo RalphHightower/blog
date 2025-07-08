@@ -185,6 +185,6 @@ The [president](https://www.whitehouse.gov/) has been outspoken about his goal o
 - con
 - crime
 - cryptocurrency 
-- businesses
-- associates
-- partners
+- criminal businesses
+- criminal associates
+- criminal partners
