@@ -1,13 +1,13 @@
 ---
 layout: post
-tags: []
-categories: []
-#date: 2019-06-25 13:14:15
+tags: [media, MSNBC, New York Times (NYT), Home • NC Newsline, organizations, American Immigration Council, state local governments, California State Government, Gavin Newsom / Governor of California, Cal Guard / Cal Guard, City of Los Angeles, mayor.lacity.gov, Mayor Karen Bass / Mayor Karen Bass, Office of the Chief of Police - LAPD Online, COUNTY OF LOS ANGELES, Washington / WA.gov, Home / Governor Bob Ferguson, About Governor Ferguson / Governor Bob Ferguson, North Carolina / nc.gov, foreign governments, political parties, Democrat Party, Trumpian Party, Federal Government, Constitution of the United States, First Amendment, Supreme Court of the United States (SCOTUS), US Courts, Department of Justice (DOJ), Department of Homeland Security (DHS), Federal Emergency Management Agency (FEMA), Federal Bureau of Investigation (FBI), Ric Grenell, Immigration and Customs Enforcement (ICE), National Oceanic and Atmospheric Administration (NOAA), National Weather Service (NWS), Department of Defense (DOD), Joint Chiefs of Staff (JCS), Defense Intelligence Agency (DIA), U.S. Military Academy West Point, U.S. Air Force, Joint Base Andrews, U.S. Army, U.S. Coast Guard (USCG), U.S. Marine Corps, National Guard, U.S. Navy, National Guard, U.S. Space Command, U.S. Africa Command (AFRICOM), U.S. Central Command (CENTCOM), U.S. Northern Command (USNORTHCOM), Indo-Pacific Command (USINDOPACOM), U.S. Southern Command (SOUTHCOM), U.S. Special Operations Command (USSOCOM), Strategic Command (USSTRATCOM), U.S. European Command (USEUCOM), Office of the Director of National Intelligence (ODNI), Department of Homeland Security (DHS), Congress, Stafford Act, U.S. Capitol Police, Senate, House of Representatives, Chip Roy (T-TX21), House Budget Committee, President of the United States (POTUS), White House (WH), Dwight D. Eisenhower / The White House, President Barack Obama, President Joe Biden, Trump crime businesses, DT Marks DEFI LLC, The Executive Branch Club, Chris Buskirk, Adam Foroughi / LinkedIn, Omeed Malik / LinkedIn, Jeff Miller, Chamath Palihapitiya / LinkedIn, David Sacks, Donald Trump Jr., Cameron Winklevoss / LinkedIn, Tyler Winklevoss / LinkedIn, Alex Witkoff, Steve Witkoff, Zachary Witkoff / LinkedIn, World Liberty Financial, Corey Kaplan / LinkedIn, Corey Caplan, Thomas DiFiore FRM·CAIA / LinkedIn, Alex Dulub / LinkedIn, Ryan Fang / LinkedIn, Zak Folkman / LinkedIn, Alex Golubitsky / LinkedIn, Chase Herro, Octavian Lojnita / LinkedIn, Matt Morgan, Sandy Peng, Luke Pearson, Bogdan Purnavel / LinkedIn, Brandi Reynolds CAMS-Audit CCAS / LinkedIn, Rich Teo / LinkedIn, Barron Trump, Rafael Yakobi / LinkedIn, $TRUMP, $MELANIA, Trump Media and Technology Group, Trump Organization, The Mar-a-Lago Club, Trump International Golf Club, Trump National Doral Golf Club, Trump National Jupiter Golf Club, Trump National Golf Club Washington D.C., Trump National Golf Club Bedminster, Trump National Golf Club Colts Neck, Trump National Golf Club Philadelphia, Trump National Golf Club Hudson Valley, Trump National Golf Club Westchester, Trump National Golf Club Los Angeles, Trump International Golf Club Dubai, Trump International Golf Links & Hotel Ireland Doonbeg, Trump MacLeod House & Lodge Scotland, Trump Turnberry, Trump crime family, Donald J Trump, Eric F. Trump / LinkedIn, Donald Trump Jr. / LinkedIn, Ivanka Trump, Jared Kushner, President Donald Trump (45), President Donald Trump (47), President Trump (47) Administration, President Trump (47) Cabinet, Marco Rubio, Marco Rubio – LinkedIn, Pete Hegseth, Pete Hegseth – LinkedIn, Tulsi Gabbard – Director of National Intelligence, Tulsi Gabbard – LinkedIn, Kristi Noem, Pam Bondi, Kash Patel, Deputy Director Dan Bongino — FBI, grift, self-dealing, corruption, con, crime, cryptocurrency, criminal businesses, criminal associates, criminal partners]
+categories: [Donald Trump]
+date: 2025-04-15 9:43 PM
 #excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: 'title'
+title: "Trump Denies Disaster Aid to Blue States"
 ---
 
 
@@ -45,6 +45,7 @@ Ja’han Jones is an MSNBC opinion blogger. He previously wrote The ReidOut Blog
 - media
     - [MSNBC](https://www.msnbc.com/)
     - [New York Times (NYT)](https://www.nytimes.com/)
+    - [Home • NC Newsline](https://ncnewsline.com/) 
 - organizations 
     - [American Immigration Council](https://www.americanimmigrationcouncil.org/)
 - state, local governments
@@ -56,6 +57,10 @@ Ja’han Jones is an MSNBC opinion blogger. He previously wrote The ReidOut Blog
         - [Mayor Karen Bass / Mayor Karen Bass](https://mayor.lacity.gov/about-mayor-karen-bass)
         - [Office of the Chief of Police - LAPD Online](https://www.lapdonline.org/office-of-the-chief-of-police/)
     - [COUNTY OF LOS ANGELES](https://lacounty.gov/)
+    - [Washington / WA.gov](https://wa.gov/)
+        - [Home / Governor Bob Ferguson](https://governor.wa.gov/)
+        - [About Governor Ferguson / Governor Bob Ferguson](https://governor.wa.gov/about/office-governor/about-governor-ferguson)
+    - [North Carolina / nc.gov](https://www.nc.gov/)
 - foreign governments 
 - political parties
     - [Democrat Party](https://www.democrats.org/)
@@ -97,6 +102,7 @@ Ja’han Jones is an MSNBC opinion blogger. He previously wrote The ReidOut Blog
         - [Office of the Director of National Intelligence (ODNI)](https://www.odni.gov/)
         - [Department of Homeland Security (DHS)](https://www.dhs.gov/)
     - [Congress](https;//www.congress.gov/)
+        - [Stafford Act](https://www.govinfo.gov/content/pkg/COMPS-2977/pdf/COMPS-2977.pdf)
         - [U.S. Capitol Police](https://www.uscp.gov/)
         - [Senate](https://www.senate.gov/)
         - [House of Representatives](https://www.house.gov/)
