@@ -2,7 +2,7 @@
 layout: page
 tags: [Karoline, Leavitt, Mike Pence, Rex Tillerson (2017–2018) Mike Pompeo (2018–2021), Steven Mnuchin (2017–2021), Jim Mattis (2017–2019) Mark Esper (2019–2020) Christopher C. Miller (acting 2020–2021), Jeff Sessions (2017–2018) William Barr (2019–2020) Jeffrey A. Rosen (acting 2020–2021), Ryan Zinke (2017–2019) David Bernhardt (2019–2021), Sonny Perdue (2017–2021), Wilbur Ross (2017–2021), Alexander Acosta (2017–2019) Eugene Scalia (2019–2021), Tom Price (2017) Alex Azar (2018–2021), Ben Carson (2017–2021), Elaine Chao (2017–2021), Rick Perry (2017–2019) Dan Brouillette (2019–2021), Betsy DeVos (2017–2021), David Shulkin (2017–2018) Robert Wilkie (2018–2021), John F. Kelly (2017) Kirstjen Nielsen (2017–2019) Kevin McAleenan (acting 2019) Chad Wolf (acting 2019–2021), Sean Spicer (2017), Sarah Huckabee Sanders (2017–2019), Stephanie Grisham (2019–2020), Kayleigh McEnany (2020–2021), Steven Mnuchin (2017–2021), Lee Zeldin (2025-), Kelly Loeffler (2025-), Pam Bondi (2025-), John Ratcliffe (2025-), Tulsi Gabbard (2025-), Russ Vought (2025-), Brooke Rollins (2025-), Howard Lutnick (2025-), Pete Hegseth (2025-), Linda McMahon (2025-), Chris Wright (2025-), Robert F Kennedy Jr. (2025-), Kristi Noem (2025-), Scott Turner (2025-), Doug Burgum (2025-), Lori Chavez-DeRemer (2025-), Marco Rubio (2025-), Doug Collins (2025-), Sean Duffy (2025-), Scott Bessent (2025-), Jamieson Greer (2025-)]
 categories: [Telephone Numbers]
-date: 2025-07-03 7:07 PM
+date: 2025-07-07 8:09 PM
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description: 
@@ -18,6 +18,11 @@ The telephone numbers below have called and there is an empty person on the othe
 
 | Telephone Number | Location | Date Time[^11] | Caller | Social Media |
 |---|---|---|---|---|
+| <a href="tel:+18035402708">+1 (803) 540-2708</a> | SC. Thvexecxyperu | 2025-07-07 07:16 PM | [TD Bank](https://www.tdbank.com/) | |
+| <a href="tel:+18032785942">+1 (803) 278-5942</a> | SC. | 2025-07-07 01:52 PM | Phillips Pipeline | |
+| <a href="tel:+18037966639">+1 (803) 796-6639</a> | SC. Columbia | 2025-07-07 12:49 PM | Mary Terry | |
+| <a href="tel:+18038455239">+1 (803) 845-5239</a> | SC. | 2025-07-07 12:18 PM | — | |
+| <a href="tel:+18034009232">+1 (803) 400-9232</a> | SC. C6 | 2025-07-07 11:35 AM | — | |
 | <a href="tel:+18035973908">+1 (803) 597-3908</a> | SC. Newberry | 2025-07-03 06:03 PM | — | |
 | <a href="tel:+18039956483">+1 (803) 995-6483</a> | SC. | 2025-07-03 02:24 PM | — | |
 | <a href="tel:+18038670646">+1 (803) 867-0646</a> | SC. North Augusta | 2025-07-03 02:08 PM | — | |

@@ -19,42 +19,55 @@ title: "Trump: Air Force One Frequent Flyer Miles"
 | Time | Location |
 |---|---|
 | | **Sunday, July 6 2025** |
-| ⛳️| [Trump](https://www.donaldjtrump.com/) is playing golf at [Trump National Golf Club Bedminster](https://www.trumpnationalbedminster.com/)<br />[Trump National Golf Club Bedminster](https://www.trumpnationalbedminster.com/) |
-| 3:00 PM | Out-of-Town Travel Pool Call Time<br />Out-of-Town Travel Pool<br />[Trump National Golf Club Bedminster](https://www.trumpnationalbedminster.com/) |
-| 5:00 PM | The [President](https://www.donaldjtrump.com/) departs [Bedminster, New Jersey](https://www.trumpnationalbedminster.com/) en route Washington, D.C.<br />Out-of-Town Travel Pool |
-| 5:30 PM | In-Town Pool Call Time<br />In-Town Pool |
-| 6:10 PM | The [President](https://www.donaldjtrump.com/) arrives Washington, D.C.<br />Out-of-Town Travel Pool |
-| 6:30 PM | The [President](https://www.donaldjtrump.com/) arrives the [White House](https://www.whitehouse.gov/)<br />The [White House](https://www.whitehouse.gov/) Open Press
+| 3:00 PM ⛳️| Out-of-Town Travel Pool Call Time<br />[Trump National Golf Club Bedminster](https://www.trumpnationalbedminster.com/) Out-of-Town Travel Pool |
+| 5:00 PM | The [President](https;//www.donaldjtrump.com/) departs [Bedminster, New Jersey](https://www.trumpnationalbedminster.com/) en route Washington, D.C. \[5:11 PM Actual to [Morristown Municipal Airport](https://www.mmuair.com/)\]<br />[Trump National Golf Club Bedminster](https://www.trumpnationalbedminster.com/) Out-of-Town Travel Pool |
+| 5:20 PM | The [President](https;//www.donaldjtrump.com/) arrives at [Morristown Municipal Airport](https://www.mmuair.com/)<br />[Morristown Municipal Airport](https://www.mmuair.com/) |
+| 5:30 PM | In-Town Pool Call Time<br />The [White House](https://www.whitehouse.gov/) In-Town Pool |
+| 5:43 PM | The [President](https;//www.donaldjtrump.com/) departs [Morristown Municipal Airport](https://www.mmuair.com/) for [Joint Base Andrews](https://www.jba.af.mil/)<br />[Morristown Municipal Airport](https://www.mmuair.com/) |
+| 6:10 PM | The [President](https;//www.donaldjtrump.com/) arrives Washington, D.C. [6:21 PM Actual at [Joint Base Andrews](https://www.jba.af.mil/)]<br />[Joint Base Andrews](https://www.jba.af.mil/) Out-of-Town Travel Pool |
+| 6:30 PM | The [President](https;//www.donaldjtrump.com/) arrives the [White House](https://www.whitehouse.gov/) [6:46 PM Actual]<br />The [White House](https://www.whitehouse.gov/) Open Press |
+| 6:37 PM | The [President](https;//www.donaldjtrump.com/) departs [Joint Base Andrews](https://www.jba.af.mil/) for the [White House](https://www.whitehouse.gov/)<br />[Joint Base Andrews](https://www.jba.af.mil/) |
+| 6:57 PM | [White House](https://www.whitehouse.gov/) Press Office: Full lid called<br />The [White House](https://www.whitehouse.gov/) |
 | | **Saturday, July 5 2025** |
-| ⛳️| The [President](https://www.donaldjtrump.com/) has no public events scheduled (other than golf)<br />[Trump National Golf Club Bedminster](https://www.trumpnationalbedminster.com/) |
-| 12:00 PM ⛳️| Out-of-Town Travel Pool Call Time<br />Out-of-Town Travel Pool<br />[Trump National Golf Club Bedminster](https://www.trumpnationalbedminster.com/) |
+| ⛳️| The [President](https;//www.donaldjtrump.com/) has no public events scheduled (other than playing golf ⛳️🏌<br />[Trump National Golf Club Bedminster](https://www.trumpnationalbedminster.com/) |
+| 10:47 AM ⛳️| [White House](https://www.whitehouse.gov/) Press Office: Full lid called<br />[Trump National Golf Club Bedminster](https://www.trumpnationalbedminster.com/) |
+| 12:00 PM | Out-of-Town Travel Pool Call Time<br />[Trump National Golf Club Bedminster](https://www.trumpnationalbedminster.com/) Out-of-Town Travel Pool |
 | | **Friday, July 4 2025** |
-| 12:23 AM | The [President](https://www.donaldjtrump.com/) departs [Joint Base Andrews](https://www.jba.af.mil/) for the [White House](https://www.whitehouse.gov/)<br />[Joint Base Andrews](https://www.jba.af.mil/) Out-of-Town Travel Pool |
-| 12:50 AM | The [President](https://www.donaldjtrump.com/) arrives at the [White House](https://www.whitehouse.gov/) [12:45 AM Actual]<br />The [White House](https://www.whitehouse.gov/) Out-of-Town Travel Pool |
+| 12:23 AM | The [President](https;//www.donaldjtrump.com/) departs [Joint Base Andrews](https://www.jba.af.mil/) for the [White House](https://www.whitehouse.gov/)<br />[Joint Base Andrews](https://www.jba.af.mil/) Out-of-Town Travel Pool |
+| 12:50 AM | The [President](https;//www.donaldjtrump.com/) arrives at the [White House](https://www.whitehouse.gov/) [12:45 AM Actual]<br />The [White House](https://www.whitehouse.gov/) Out-of-Town Travel Pool |
 | 12:56 AM | [White House](https://www.whitehouse.gov/) Press Office: Full lid called for July 3, 2025<br />The [White House](https://www.whitehouse.gov/) In-Town Pool |
 | 7:30 AM | In-Town Pool Call Time<br />The [White House](https://www.whitehouse.gov/) In-Town Pool |
-| 5:00 PM | The [President](https://www.donaldjtrump.com/) and First Lady participate in the Military Family Picnic<br />[South Lawn](https://www.whitehouse.gov/) Pre-Credentialed Media |
+| 10:11 AM | The [President](https;//www.donaldjtrump.com/) departs the [White House](https://www.whitehouse.gov/) for [Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/)<br />The [White House](https://www.whitehouse.gov/) |
+| 10:45 AM ⛳️| The [President](https;//www.donaldjtrump.com/) arrives at [Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/)<br />[Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/) |
+| 2:54 PM | The [President](https;//www.donaldjtrump.com/) departs [Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/)<br />[Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/) |
+| 3:29 PM | The [President](https;//www.donaldjtrump.com/) arrives at the [White House](https://www.whitehouse.gov/)<br />The [White House](https://www.whitehouse.gov/) |
+| 5:00 PM | The [President](https;//www.donaldjtrump.com/) and First Lady participate in the Military Family Picnic<br />[South Lawn](https://www.whitehouse.gov/) Pre-Credentialed Media |
 | 8:30 PM | Out-of-Town Travel Pool Call Time<br />[Joint Base Andrews](https://www.jba.af.mil/) Out-of-Town Travel Pool |
-| 9:00 PM | The [President](https://www.donaldjtrump.com/) and First Lady attend the Fourth of July Celebration<br />[South Lawn](https://www.whitehouse.gov/) [White House](https://www.whitehouse.gov/) Press Pool |
-| 9:45 PM | The [President](https://www.donaldjtrump.com/) and First Lady depart the [White House](https://www.whitehouse.gov/) en route [Bedminster, New Jersey](https://www.trumpnationalbedminster.com/)<br />The [White House](https://www.whitehouse.gov/) Out-of-Town Travel Pool |
-| 11:30 PM ⛳️| The [President](https://www.donaldjtrump.com/) and First Lady arrive [Bedminster, New Jersey](https://www.trumpnationalbedminster.com/)<br />[Trump National Golf Club Bedminster](https://www.trumpnationalbedminster.com/) Out-of-Town Travel Pool |
+| 9:00 PM | The [President](https;//www.donaldjtrump.com/) and First Lady attend the Fourth of July Celebration<br />[South Lawn](https://www.whitehouse.gov/) [White House](https://www.whitehouse.gov/) Press Pool |
+| 9:45 PM | The [President](https;//www.donaldjtrump.com/) and First Lady depart the [White House](https://www.whitehouse.gov/) en route [Bedminster, New Jersey](https://www.trumpnationalbedminster.com/) [9:37 PM Actual to [Joint Base Andrews](https://www.jba.af.mil/)]<br />The [White House](https://www.whitehouse.gov/) Out-of-Town Travel Pool |
+| 9:50 PM | The [President](https;//www.donaldjtrump.com/) arrives at [Joint Base Andrews](https://www.jba.af.mil/)<br />[Joint Base Andrews](https://www.jba.af.mil/) |
+| 10:15 PM | The [President](https;//www.donaldjtrump.com/) departs [Joint Base Andrews](https://www.jba.af.mil/) for [Morristown Municipal Airport](https://www.mmuair.com/)<br />[Joint Base Andrews](https://www.jba.af.mil/) |
+| 10:53 PM | The [President](https;//www.donaldjtrump.com/) arrives at [Morristown Municipal Airport](https://www.mmuair.com/)<br />[Morristown Municipal Airport](https://www.mmuair.com/) |
+| 11:02 PM | The [President](https;//www.donaldjtrump.com/) departs [Morristown Municipal Airport](https://www.mmuair.com/) for [Bedminster, New Jersey](https://www.trumpnationalbedminster.com/)<br />[Morristown Municipal Airport](https://www.mmuair.com/) |
+| 11:30 PM | The [President](https;//www.donaldjtrump.com/) and First Lady arrive [Bedminster, New Jersey](https://www.trumpnationalbedminster.com/) [11:17 PM Actual]<br />[Trump National Golf Club Bedminster](https://www.trumpnationalbedminster.com/) Out-of-Town Travel Pool |
+| 11:34 PM | [White House](https://www.whitehouse.gov/) Press Office: Full lid called<br />[Trump National Golf Club Bedminster](https://www.trumpnationalbedminster.com/) |
 | | **Thursday, July 3 2025** |
 | 9:00 AM | In-Town Pool Call Time<br />The [White House](https://www.whitehouse.gov/) In-Town Pool |
-| 11:30 AM | The [President](https://www.donaldjtrump.com/) receives his Intelligence Briefing<br />[Oval Office](https://www.whitehouse.gov/) Closed Press |
+| 11:30 AM | The [President](https;//www.donaldjtrump.com/) receives his Intelligence Briefing<br />[Oval Office](https://www.whitehouse.gov/) Closed Press |
 | 11:45 AM | [White House](https://www.whitehouse.gov/) Press Office: Lunch lid until 12:30 PM<br />The [White House](https://www.whitehouse.gov/) In-Town Pool |
-| 12:45 PM | The [President](https://www.donaldjtrump.com/) and First Lady meet with Edan Alexander<br />[Oval Office](https://www.whitehouse.gov/) Closed Press |
+| 12:45 PM | The [President](https;//www.donaldjtrump.com/) and First Lady meet with Edan Alexander<br />[Oval Office](https://www.whitehouse.gov/) Closed Press |
 | 3:30 PM | Out-of-Town Travel Pool Call Time<br />[Joint Base Andrews](https://www.jba.af.mil/) Out-of-Town Travel Pool |
-| 4:35 PM | The [President](https://www.donaldjtrump.com/) departs the [White House](https://www.whitehouse.gov/) en route [Des Moines](https://www.dsm.city/), [Iowa](https://www.iowa.gov/) [Actual 4:48 PM]<br />The [White House](https://www.whitehouse.gov/) Out-of-Town Travel Pool |
-| 5:06 PM | The [President](https://www.donaldjtrump.com/) arrives at [Joint Base Andrews](https://www.jba.af.mil/)<br />[Joint Base Andrews](https://www.jba.af.mil/) Out-of-Town Travel Pool |
-| 5:27 PM | The [President](https://www.donaldjtrump.com/) departs [Joint Base Andrews](https://www.jba.af.mil/) for [Des Moines](https://www.dsm.city/), [Iowa](https://www.iowa.gov/)<br />[Joint Base Andrews](https://www.jba.af.mil/) Out-of-Town Travel Pool |
-| 7:20 PM | The [President](https://www.donaldjtrump.com/) arrives at [Des Moines International Airport](https://www.flydsm.com/) [6:20 PM Local]<br />[Des Moines International Airport](https://www.flydsm.com/) Out-of-Town Travel Pool |
-| 7:38 PM | The [President](https://www.donaldjtrump.com/) departs [Des Moines International Airport](https://www.flydsm.com/) for the [Iowa State Fairgrounds](https://www.iowastatefairgrounds.org/) [6:38 PM Local]<br />[Des Moines International Airport](https://www.flydsm.com/) Out-of-Town Travel Pool |
-| 8:00 PM 💰| The [President](https://www.donaldjtrump.com/) participates in the Salute to America Celebration [7:00 PM Local; Actual Start: 7:19 PM Local]<br />[Iowa State Fairgrounds](https://www.iowastatefairgrounds.org/), [Des Moines](https://www.dsm.city/), [Iowa](https://www.iowa.gov/) Pre-Credentialed Media |
-| 8:02 PM | The [President](https://www.donaldjtrump.com/) arrives at the [Iowa State Fairgrounds](https://www.iowastatefairgrounds.org/) [7:02 PM Local]<br />[Iowa State Fairgrounds](https://www.iowastatefairgrounds.org/), [Des Moines](https://www.dsm.city/), [Iowa](https://www.iowa.gov/) Out-of-Town Travel Pool |
-| 9:35 PM | The [President](https://www.donaldjtrump.com/) departs the [Iowa State Fairgrounds](https://www.iowastatefairgrounds.org/) for [Des Moines International Airport](https://www.flydsm.com/) [9:35 PM Local]<br />[Iowa State Fairgrounds](https://www.iowastatefairgrounds.org/), [Des Moines](https://www.dsm.city/), [Iowa](https://www.iowa.gov/) Out-of-Town Travel Pool |
-| 10:01 PM | The [President](https://www.donaldjtrump.com/) arrives at [Des Moines International Airport](https://www.flydsm.com/) [9:01 PM Local]<br />[Des Moines International Airport](https://www.flydsm.com/) Out-of-Town Travel Pool |
-| 10:15 PM | The [President](https://www.donaldjtrump.com/) departs [Des Moines](https://www.dsm.city/), [Iowa](https://www.iowa.gov/), en route The [White House](https://www.whitehouse.gov/) [9:15 PM Local; 9:11 PM Actual]<br />[Des Moines International Airport](https://www.flydsm.com/) Out-of-Town Travel Pool |
-| 11:59 PM | The [President](https://www.donaldjtrump.com/) arrives at [Joint Base Andrews](https://www.jba.af.mil/)<br />[Joint Base Andrews](https://www.jba.af.mil/) Out-of-Town Travel Pool |
+| 4:35 PM | The [President](https;//www.donaldjtrump.com/) departs the [White House](https://www.whitehouse.gov/) en route [Des Moines](https://www.dsm.city/), [Iowa](https://www.iowa.gov/) [Actual 4:48 PM]<br />The [White House](https://www.whitehouse.gov/) Out-of-Town Travel Pool |
+| 5:06 PM | The [President](https;//www.donaldjtrump.com/) arrives at [Joint Base Andrews](https://www.jba.af.mil/)<br />[Joint Base Andrews](https://www.jba.af.mil/) Out-of-Town Travel Pool |
+| 5:27 PM | The [President](https;//www.donaldjtrump.com/) departs [Joint Base Andrews](https://www.jba.af.mil/) for [Des Moines](https://www.dsm.city/), [Iowa](https://www.iowa.gov/)<br />[Joint Base Andrews](https://www.jba.af.mil/) Out-of-Town Travel Pool |
+| 7:20 PM | The [President](https;//www.donaldjtrump.com/) arrives at [Des Moines International Airport](https://www.flydsm.com/) [6:20 PM Local]<br />[Des Moines International Airport](https://www.flydsm.com/) Out-of-Town Travel Pool |
+| 7:38 PM | The [President](https;//www.donaldjtrump.com/) departs [Des Moines International Airport](https://www.flydsm.com/) for the [Iowa State Fairgrounds](https://www.iowastatefairgrounds.org/) [6:38 PM Local]<br />[Des Moines International Airport](https://www.flydsm.com/) Out-of-Town Travel Pool |
+| 8:00 PM | The [President](https;//www.donaldjtrump.com/) participates in the Salute to America Celebration [7:00 PM Local; Actual Start: 7:19 PM Local]<br />[Iowa State Fairgrounds](https://www.iowastatefairgrounds.org/), [Des Moines](https://www.dsm.city/) Pre-Credentialed Media |
+| 8:02 PM | The [President](https;//www.donaldjtrump.com/) arrives at the [Iowa State Fairgrounds](https://www.iowastatefairgrounds.org/) [7:02 PM Local]<br />[Iowa State Fairgrounds](https://www.iowastatefairgrounds.org/), [Des Moines](https://www.dsm.city/) Out-of-Town Travel Pool |
+| 9:35 PM | The [President](https;//www.donaldjtrump.com/) departs the [Iowa State Fairgrounds](https://www.iowastatefairgrounds.org/) for [Des Moines International Airport](https://www.flydsm.com/) [9:35 PM Local]<br />[Iowa State Fairgrounds](https://www.iowastatefairgrounds.org/), [Des Moines](https://www.dsm.city/) Out-of-Town Travel Pool |
+| 10:01 PM | The [President](https;//www.donaldjtrump.com/) arrives at [Des Moines International Airport](https://www.flydsm.com/) [9:01 PM Local]<br />[Des Moines International Airport](https://www.flydsm.com/) Out-of-Town Travel Pool |
+| 10:15 PM | The [President](https;//www.donaldjtrump.com/) departs [Des Moines](https://www.dsm.city/), [Iowa](https://www.iowa.gov/), en route The [White House](https://www.whitehouse.gov/) [9:15 PM Local; 9:11 PM Actual]<br />[Des Moines International Airport](https://www.flydsm.com/) Out-of-Town Travel Pool |
+| 11:59 PM | The [President](https;//www.donaldjtrump.com/) arrives at [Joint Base Andrews](https://www.jba.af.mil/)<br />[Joint Base Andrews](https://www.jba.af.mil/) Out-of-Town Travel Pool |
 | |🔥 [White House](https://www.whitehouse.gov/) 💣|
 | | **Sunday, June 29 2025** |
 | | The [President](https://www.donaldjtrump.com/) has no public events scheduled<br />The [White House](https://www.whitehouse.gov/) |
