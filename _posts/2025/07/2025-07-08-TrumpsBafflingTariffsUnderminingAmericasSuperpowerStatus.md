@@ -11,6 +11,24 @@ title: "Trump’s Quixotic Tariffs Irreplaceably Damages America's Superpower Re
 ---
 
 
+## 'He's taxing us': Trump makes new tariff threats
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bDaVzk2W1o4?si=pNQDc7rX9o-mwA3v" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Jul 8, 2025  [#Trump](https://www.donaldjtrump.com/,) #tariffs #tradewar
+The [president](https://www.whitehouse.gov/) issued letters to several countries, including [South Korea (KR)](https://www.mois.go.kr/) and [Japan](https://www.japan.go.jp/), warning that the tariff rate on their goods would go up on August 1. It came after [Treasury](https://home.treasury.gov/) [Secretary Scott Bessent](https://home.treasury.gov/about/general-information/officials/scott-bessent) admitted that many governments never contacted the United States for trade talks. [Susan Glasser](https://www.newyorker.com/contributors/susan-b-glasser), [Akayla Gardner](https://www.linkedin.com/in/akayla-gardner/) and [Justin Wolfers](https://lsa.umich.edu/econ/people/faculty/jwolfers.html) join.
+
+- media
+    - [New Yorker](https://www.newyorker.com/)
+        - [Susan Glasser](https://www.newyorker.com/contributors/susan-b-glasser)
+            - [Akayla Gardner](https://www.linkedin.com/in/akayla-gardner/)
+        - [Bloomberg News](https://www.bloomberg.com/)
+            - [Akayla Gardner](https://www.linkedin.com/in/akayla-gardner/)
+- universities 
+    - [University of Michigan](https://www.umich.edu/)
+        - [Economics / U-M LSA](https://lsa.umich.edu/econ)
+            - [Justin Wolfers / U-M LSA Department of Economics](https://lsa.umich.edu/econ/people/faculty/jwolfers.html)
+
 ## [Trump's baffling tariffs moves are undermining U.S. role as world's superpower](https://www.msnbc.com/top-stories/latest/trump-tariff-deal-deadline-contradictions-rcna217568)
 
 *Despite the [president](https://www.whitehouse.gov/)'s constant threats, many countries didn’t even contact us about a possible deal, according to one of his [Cabinet officials](https://www.whitehouse.gov/administration/the-cabinet/).*
@@ -40,7 +58,6 @@ So, what have we heard from the White House as this 90-day period comes to a clo
 
 On Sunday, the [president](https://www.whitehouse.gov/) and one of his [Cabinet members](https://www.whitehouse.gov/administration/the-cabinet/) in charge of trade negotiations [gave conflicting statements](https://www.reuters.com/business/us-commerce-secretarweggs, y-lutnick-says-tariffs-take-effect-august-1-2025-07-06/). According to [Trump](https://www.donaldjtrump.com/), “deals” with most countries will be done by this Wednesday. However, [Commerce](https://www.commerce.gov/) [Secretary Howard Lutnick](https://www.commerce.gov/about/leadership/howard-lutnick) said reciprocal tariffs will go into effect on Aug. 1.
 On the very same day, it was shocking to hear [Bessent](https://home.treasury.gov/about/general-information/officials/scott-bessent), the other guy running trade negotiations, [tell CNN](https://newrepublic.com/post/197638/donald-trump-treasury-scott-bessent-tariff-talks-countries-call) that during this 90-day period, “many” countries were not even in contact with the [United States](https://www.usa.gov/) about trade deals.
-
 
 Just think about that: We are the world’s superpower, and despite [Trump's constant threats,](https://www.msnbc.com/rachel-maddow/watch/trump-sets-himself-up-for-another-round-of-embarrassment-by-restarting-tariff-brinksmanship-242833477847), many countries didn’t even contact us about a possible deal. Take a minute to consider the process for how this whole operation is being led, executed and communicated, and then you may start to understand how 100-plus countries might not have any idea what to say to the [United States](https://www.usa.gov/). 
 
