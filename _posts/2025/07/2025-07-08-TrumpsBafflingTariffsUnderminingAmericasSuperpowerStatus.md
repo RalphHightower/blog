@@ -7,7 +7,7 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: "Trump’s Quixotic Tariffs Irreplaceably Damages America's Superpower Reputation"
+title: "Trump’s Quixotic Tariffs Ir​rep​a​ra​bly Damages America's Superpower Reputation"
 ---
 
 
