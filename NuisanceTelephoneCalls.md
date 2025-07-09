@@ -18,7 +18,7 @@ The telephone numbers below have called and there is an empty person on the othe
 
 | Telephone Number | Location | Date Time[^11] | Caller | Social Media |
 |---|---|---|---|---|
-| <a href="tel:+18032447568">+1 (803) 244-7568</a> | SC. Bamberg | 2025-07-08 05:47l6 PM | — | |
+| <a href="tel:+18032447568">+1 (803) 244-7568</a> | SC. Bamberg | 2025-07-08 05:46 PM | — | |
 | <a href="tel:+18036635493">+1 (803) 663-5493</a> | SC. Graniteville | 2025-07-08 12:06 PM | — | |
 | <a href="tel:+12029708103">+1 (202) 970-8103</a> | DC. Washington | 2025-07-08 10:45 AM ¤¤ | #TaxFraud | |
 | <a href="tel:+16822441901">+1 (682) 244-1901</a> | TX. Cleburne | 2025-07-08 10:45 AM ¤¤ | #TaxFraud | |
