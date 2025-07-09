@@ -2,7 +2,7 @@
 layout: page
 tags: [Karoline, Leavitt, Mike Pence, Rex Tillerson (2017–2018) Mike Pompeo (2018–2021), Steven Mnuchin (2017–2021), Jim Mattis (2017–2019) Mark Esper (2019–2020) Christopher C. Miller (acting 2020–2021), Jeff Sessions (2017–2018) William Barr (2019–2020) Jeffrey A. Rosen (acting 2020–2021), Ryan Zinke (2017–2019) David Bernhardt (2019–2021), Sonny Perdue (2017–2021), Wilbur Ross (2017–2021), Alexander Acosta (2017–2019) Eugene Scalia (2019–2021), Tom Price (2017) Alex Azar (2018–2021), Ben Carson (2017–2021), Elaine Chao (2017–2021), Rick Perry (2017–2019) Dan Brouillette (2019–2021), Betsy DeVos (2017–2021), David Shulkin (2017–2018) Robert Wilkie (2018–2021), John F. Kelly (2017) Kirstjen Nielsen (2017–2019) Kevin McAleenan (acting 2019) Chad Wolf (acting 2019–2021), Sean Spicer (2017), Sarah Huckabee Sanders (2017–2019), Stephanie Grisham (2019–2020), Kayleigh McEnany (2020–2021), Steven Mnuchin (2017–2021), Lee Zeldin (2025-), Kelly Loeffler (2025-), Pam Bondi (2025-), John Ratcliffe (2025-), Tulsi Gabbard (2025-), Russ Vought (2025-), Brooke Rollins (2025-), Howard Lutnick (2025-), Pete Hegseth (2025-), Linda McMahon (2025-), Chris Wright (2025-), Robert F Kennedy Jr. (2025-), Kristi Noem (2025-), Scott Turner (2025-), Doug Burgum (2025-), Lori Chavez-DeRemer (2025-), Marco Rubio (2025-), Doug Collins (2025-), Sean Duffy (2025-), Scott Bessent (2025-), Jamieson Greer (2025-)]
 categories: [Telephone Numbers]
-date: 2025-07-07 8:09 PM
+date: 2025-07-08 8:08 PM
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description: 
@@ -18,6 +18,10 @@ The telephone numbers below have called and there is an empty person on the othe
 
 | Telephone Number | Location | Date Time[^11] | Caller | Social Media |
 |---|---|---|---|---|
+| <a href="tel:+18032447568">+1 (803) 244-7568</a> | SC. Bamberg | 2025-07-08 05:47l6 PM | — | |
+| <a href="tel:+18036635493">+1 (803) 663-5493</a> | SC. Graniteville | 2025-07-08 12:06 PM | — | |
+| <a href="tel:+12029708103">+1 (202) 970-8103</a> | DC. Washington | 2025-07-08 10:45 AM ¤¤ | #TaxFraud | |
+| <a href="tel:+16822441901">+1 (682) 244-1901</a> | TX. Cleburne | 2025-07-08 10:45 AM ¤¤ | #TaxFraud | |
 | <a href="tel:+18035402708">+1 (803) 540-2708</a> | SC. Thvexecxyperu | 2025-07-07 07:16 PM | [TD Bank](https://www.tdbank.com/) | |
 | <a href="tel:+18032785942">+1 (803) 278-5942</a> | SC. | 2025-07-07 01:52 PM | Phillips Pipeline | |
 | <a href="tel:+18037966639">+1 (803) 796-6639</a> | SC. Columbia | 2025-07-07 12:49 PM | Mary Terry | |
