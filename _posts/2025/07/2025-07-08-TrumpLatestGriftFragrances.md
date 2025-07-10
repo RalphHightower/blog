@@ -61,7 +61,7 @@ Hannah Holland is a producer for MSNBC's "Velshi" and editor for the "Velshi Ban
         - [First Amendment](https://constitution.congress.gov/constitution/amendment-1/)
         - [U.S. Constitution - Fourteenth Amendment / Resources / Constitution Annotated / Congress.gov / Library of Congress](https://constitution.congress.gov/constitution/amendment-14/)
         - [Federal Judiciary Act (1789) / National Archives](https://www.archives.gov/milestone-documents/federal-judiciary-act)
-    - [2024 President](https://www.whitehouse.gov/)ial Election Results – Federal Election Commission (FEC)](https://www.fec.gov/resources/cms-content/documents/2024presgeresults.pdf)
+    - [2024 Presidential Election Results – Federal Election Commission (FEC)](https://www.fec.gov/resources/cms-content/documents/2024presgeresults.pdf)
     - [Supreme Court of the United States (SCOTUS)](https://www.supremecourt.gov/)
     - [US Courts](https://www.uscourts.gov/)
     - [Department of Justice (DOJ)](https://www.justice.gov/)
