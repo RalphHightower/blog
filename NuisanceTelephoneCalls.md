@@ -18,6 +18,9 @@ The telephone numbers below have called and there is an empty person on the othe
 
 | Telephone Number | Location | Date Time[^11] | Caller | Social Media |
 |---|---|---|---|---|
+| <a href="tel:+13462239940">+1 (346) 223-9940</a> | TX. Houston | 2025-07-09 05:20 PM ¤¤ | Comcast/Xfinity | |
+| <a href="tel:+18036629814">+1 (803) 662-9814</a> | SC. | 2025-07-09 02:45 PM | Bonnie Jackson | |
+| <a href="tel:+18039375751">+1 (803) 937-5751</a> | SC. Orangeburg | 2025-07-09 10:44 AM | Matthew Seaton | |
 | <a href="tel:+18032447568">+1 (803) 244-7568</a> | SC. Bamberg | 2025-07-08 05:46 PM | — | |
 | <a href="tel:+18036635493">+1 (803) 663-5493</a> | SC. Graniteville | 2025-07-08 12:06 PM | — | |
 | <a href="tel:+12029708103">+1 (202) 970-8103</a> | DC. Washington | 2025-07-08 10:45 AM ¤¤ | #TaxFraud | |
