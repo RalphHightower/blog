@@ -101,6 +101,7 @@ Steven Monacelli is a columnist for [The Barbed Wire](https://thebarbedwire.com/
                 - [Official Home Page of the Texas House of Representatives Website for Rep. Virdell, Wes.](https://house.texas.gov/members/4775)
         - [Welcome to Kerr County Texas / Kerr County / Kerrville, TX](https://kerrcountytx.gov/#gsc.tab=0)
             - [Kerr County Commissioners' Court / Welcome to Kerr County / Kerrville, TX](https://kerrcountytx.gov/kerr-county-all-departments/kerr-county-commissioners-court#gsc.tab=0)
+            - [Kerrville TX - Official Website / Official Website](https://www.kerrvilletx.gov/)
             - [Welcome to UGRA / Upper Guadalupe River Authority / Kerrville, TX](https://ugra.org/)
         - [Official Website - Hunt County](https://www.huntcounty.net/)
         - [Home - City of San Antonio](https://www.sa.gov/Home)
