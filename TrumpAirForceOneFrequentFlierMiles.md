@@ -25,7 +25,7 @@ title: "Trump: Air Force One Frequent Flyer Miles"
 | 7:25 PM | The [President](https://www.donaldjtrump.com/) departs [East Rutherford, New Jersey](https://www.eastrutherfordnj.net/), en route The [White House](https://www.whitehouse.gov/)<br />[MetLife Stadium](https://www.metlifestadium.com/), [East Rutherford, New Jersey](https://www.eastrutherfordnj.net/) Out-of-Town Travel Pool |
 | 7:30 PM | In-Town Pool Call Time<br />The [White House](https://www.whitehouse.gov/) In-Town Pool |
 | 8:30 PM | The [President](https://www.donaldjtrump.com/) arrives The [White House](https://www.whitehouse.gov/)<br />The [White House](https://www.whitehouse.gov/) Open Press |
-| | **Saturday, July 12 2025 |
+| | **Saturday, July 12 2025** |
 | ⛳️| The [President](https://www.donaldjtrump.com/) ~~has no public events scheduled~~plays golf🏌‍♂️<br />[Trump National Golf Club Bedminster](https://www.trumpnationalbedminster.com/) Out-of-Town Travel Pool |
 | 11:00 AM ⛳️| Out-of-Town Travel Pool Call Time<br />[Trump National Golf Club Bedminster](https://www.trumpnationalbedminster.com/) Out-of-Town Travel Pool |
 | | **Friday, July 11 2025** |
