@@ -13,7 +13,7 @@ title: "Put an Amber Alert Notice Out for FEMA Acting Director Dan Richardson. H
 
 Put a photo of Dan Richardson on milk cartons. He's missing in action at [FEMA](https://www.fema.gov/).
 
-![Photo of Acting FEMA Director Dan Richardson](/assetss/DanRichardsonFEMA.jpg)
+![Photo of Acting FEMA Director Dan Richardson](DanRichardsonFEMA.jpg)
 
 ## [After deadly Texas floods, where is FEMA?](https://www.msnbc.com/opinion/msnbc-opinion/texas-floods-fema-kristi-noem-rcna217763)
 
@@ -235,6 +235,3 @@ Jarvis DeBerry is an opinion editor for [MSNBC Daily](https://www.msnbc.com/). H
 - cryptocurrency 
 - criminal businesses
 - criminal associates
-- crime partners
-
-
