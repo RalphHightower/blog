@@ -2,7 +2,7 @@
 layout: page
 tags: [The Mar-a-Lago Club, Palm Beach Florida 33480, Trump International Golf Club, West Palm Beach FL 33406, Trump National Doral Golf Club, Miami FL 33178, Trump National Jupiter Golf Club, Jupiter FL 33477, Trump National Golf Club Washington D.C., Potomac Falls VA 20165, Trump National Golf Club Bedminster, Bedminster NJ 07921, Trump National Golf Club Colts Neck, Colts Neck NJ 07722, Trump National Golf Club Philadelphia, Pine Hill NJ 08021, Trump National Golf Club Hudson Valley, Hopewell Junction NY 12533, Trump National Golf Club Los Angeles, Rancho Palos Verdes CA 90275, Trump National Golf Club Charlotte, Mooresville NC 28117, Trump International Golf Club Dubai, Al Hebiah Third District Dubai, Trump International Golf Links & Hotel Ireland Doonbeg, CLARE IRELAND, Trump MacLeod House & Lodge Scotland, Aberdeenshire Scotland AB23 8YE, Trump MacLeod House & Lodge Scotland, Aberdeenshire Scotland AB23 8YE, Trump Turnberry, Ayrshire Scotland]
 categories: [Donald Trump]
-date: 2025-07-11 5:23 PM
+date: 2025-07-13 9:19 PM
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
@@ -20,7 +20,9 @@ title: "Trump: Air Force One Frequent Flyer Miles"
 |---|---|
 | | **Sunday, July 13 2025** |
 | 11:30 AM ⛳️| Out-of-Town Travel Pool Call Time<br />[Trump National Golf Club Bedminster](https://www.trumpnationalbedminster.com/) Out-of-Town Travel Pool |
-| 1:40 PM ⛳️| The [President](https://www.donaldjtrump.com/) and The First Lady depart [Bedminster, New Jersey](https://www.trumpnationalbedminster.com/), en route [East Rutherford](https://www.eastrutherfordnj.net/), New Jersey<br />[Trump National Golf Club Bedminster](https://www.trumpnationalbedminster.com/) Closed Press |
+| 1:40 PM | The [President](https://www.donaldjtrump.com/) and The First Lady depart [Trump National Golf Club Bedminster](https://www.trumpnationalbedminster.com/), en route [East Rutherford, New Jersey](https://www.eastrutherfordnj.net/) \[Actual to [Teterboro Airport](https://www.panynj.gov/airports/en/teterboro.html)\]<br />[Trump National Golf Club Bedminster](https://www.trumpnationalbedminster.com/) Closed Press |
+| 2:16 PM | The [President](https://www.donaldjtrump.com/) and the First Lady arrive at [Teterboro Airport](https://www.panynj.gov/airports/en/teterboro.html)<br />[Teterboro Airport](https://www.panynj.gov/airports/en/teterboro.html), [Teterboro, New Jersey](https://www.teterboronj.org/) |
+| 2:21 PM | The [President](https://www.donaldjtrump.com/) and the First Lady depart [Teterboro Airport](https://www.panynj.gov/airports/en/teterboro.html) for [MetLife Stadium](https://www.metlifestadium.com/)<br />[Teterboro Airport](https://www.panynj.gov/airports/en/teterboro.html), [Teterboro, New Jersey](https://www.teterboronj.org/) |
 | 2:30 PM ⚽️| The [President](https://www.donaldjtrump.com/) and The First Lady observe the [FIFA World Club World Cup Final Match](https://www.fifa.com/en/tournaments/mens/club-world-cup/usa-2025/articles/final-date-venue-tickets-kick-off)<br />[MetLife Stadium](https://www.metlifestadium.com/), [East Rutherford, New Jersey](https://www.eastrutherfordnj.net/) Out-of-Town Travel Pool |
 | 7:25 PM | The [President](https://www.donaldjtrump.com/) departs [East Rutherford, New Jersey](https://www.eastrutherfordnj.net/), en route The [White House](https://www.whitehouse.gov/)<br />[MetLife Stadium](https://www.metlifestadium.com/), [East Rutherford, New Jersey](https://www.eastrutherfordnj.net/) Out-of-Town Travel Pool |
 | 7:30 PM | In-Town Pool Call Time<br />The [White House](https://www.whitehouse.gov/) In-Town Pool |
@@ -31,7 +33,7 @@ title: "Trump: Air Force One Frequent Flyer Miles"
 | | **Friday, July 11 2025** |
 | 8:00 AM | In-Town Pool Call Time<br />The [White House](https://www.whitehouse.gov/) In-Town Pool |
 | 8:25 AM | Out-of-Town Travel Pool Call Time<br />[Joint Base Andrews](https://www.jba.af.mil/) Out-of-Town Travel Pool |
-| 8:48 AM | Russell Vought briefs reporters at The Sticks<br />The Sticks - The White House |
+| 8:48 AM | Russell Vought briefs reporters at The Sticks<br />The Sticks - The [White House](https://www.whitehouse.gov/) |
 | 9:30 AM | The [President](https://www.donaldjtrump.com/) and The First Lady depart The [White House](https://www.whitehouse.gov/) en route [Kerrville](https://www.kerrvilletx.gov/), [Texas](https://www.texas.gov/) \[10:00 AM Actual to [Joint Base Andrews](https://www.jba.af.mil/)]<br />The [White House](https://www.whitehouse.gov/) Open Press |
 | 10:07 AM | The [President](https://www.donaldjtrump.com/) and The First Lady arrive at [Joint Base Andrews](https://www.jba.af.mil/)<br />[Joint Base Andrews](https://www.jba.af.mil/) Open Press |
 | 10:23 AM | The [President](https://www.donaldjtrump.com/) and The First Lady depart [Joint Base Andrews](https://www.jba.af.mil/) for Texas<br />[Joint Base Andrews](https://www.jba.af.mil/) Open Press |
