@@ -55,6 +55,7 @@ Richardson, on the other hand, is invisible. We should take his absence as a mes
 
 Jarvis DeBerry is an opinion editor for [MSNBC Daily](https://www.msnbc.com/). He was previously editor-in-chief at the [Louisiana Illuminator](https://lailluminator.com/) and a columnist and deputy opinion editor at [The Times-Picayune](https://www.nola.com/).
 
+----
 - media 
     - [MSNBC](https://www.msnbc.com/)
     - [Louisiana Illuminator](https://lailluminator.com/)
@@ -235,3 +236,6 @@ Jarvis DeBerry is an opinion editor for [MSNBC Daily](https://www.msnbc.com/). H
 - cryptocurrency 
 - criminal businesses
 - criminal associates
+- crime partners
+
+
