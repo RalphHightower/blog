@@ -28,3 +28,62 @@ title: "The Boston Tea Party 🍵 Was a Seminal Event in the American Revolution
 - Will do.
     - Sounds great, Ralph. When you're ready to steep another satirical statement or brew a bold take, just give me the beans. Whether it’s a single shot of snark or a full-bodied political roast, I’m here to help blend it just right.
     - Until then, may your ideas percolate perfectly. ☕💡
+
+## [Trump hits Brazil with 50% tariff, in part due to trial of ally Jair Bolsonaro](https://www.nbcnews.com/business/economy/trump-hits-brazil-50-percent-tariff-citing-ex-president-jair-bolsonaro-rcna217859)
+
+*"The way Brazil has treated former President Bolsonaro ... is an international disgrace," Trump wrote.*
+
+July 9, 2025, 4:45 PM EDT / Updated July 9, 2025, 9:34 PM EDT
+By Steve Kopack and Alana Satlin
+
+President Donald Trump announced Wednesday he planned to hit Brazil with a 50% tariff, in part because of the treatment of its former president Jair Bolsonaro, his political ally.
+
+In a [letter on his Truth Social](https://truthsocial.com/@realDonaldTrump/posts/114825119138468153) social media network, Trump told current President Luiz Inácio Lula da Silva — known as Lula — that "the way Brazil has treated former President Bolsonaro ... is an international disgrace."
+
+Trump has fiercely defended Bolsonaro, who is sometimes referred to as the [“Trump of the tropics,”](https://www.nbcnews.com/news/latino/trump-praises-brazil-s-far-right-president-white-house-n985116) as [Bolsonaro faces charges](https://www.nbcnews.com/news/world/brazil-bolsonaro-charged-alleged-coup-plan-poison-lula-rcna192749) that he plotted to overturn his 2022 election loss.
+
+"This trial should not be taking place," Trump added.
+
+Trump accused the Brazilian government of "insidious attacks on Free Elections, and the fundamental Free Speech Rights of Americans" including censorship of "U.S. Social Media platforms."
+
+[Brazil's Supreme Court](https://www.reuters.com/world/americas/brazils-top-court-forms-majority-hold-social-media-platforms-accountable-users-2025-06-11/) ruled last month that social media companies can be held accountable for the content posted on their platforms. Elon Musk's social media site, X, was also [briefly banned](https://www.nbcnews.com/tech/social-media/musk-uses-x-push-story-platforms-suspension-brazil-rcna169380) last year in Brazil after Musk refused to comply with [a court request](https://www.cnbc.com/2024/10/08/elon-musks-x-back-online-in-brazil-after-receiving-court-clearance.html) to ban some accounts.
+
+"In addition, we have had years to discuss our Trading Relationship with Brazil, and have concluded that we must move away from the longstanding, and very unfair trade relationship engendered by Brazil's Tariff, and Non-Tariff, Policies and Trade Barriers. Our relationship has been, unfortunately, far from Reciprocal," Trump said.
+
+In his letter, Trump said “unsustainable Trade Deficits against the United States” also contributed to his consideration of the high tariff rate. However, the United States has a good trade surplus with Brazil — [more than \$7 billion](https://ustr.gov/countries-regions/americas/brazil).
+
+"Please understand that the 50% number is far less than what is needed to have the Level Playing Field we must have with your Country," Trump concluded.
+
+Lula responded in a [post on X](https://x.com/LulaOficial/status/1943094466903957505) Wednesday, calling Trump's claim about a trade deficit "inaccurate," and saying that any increased tariffs "will be addressed in accordance with Brazil’s Economic Reciprocity Law."
+
+Lula also opposed the United States' meddling in the proceedings against Bolsonaro.
+
+"Brazil is a sovereign nation with independent institutions and will not accept any form of tutelage," Lula wrote.
+
+"The judicial proceedings against those responsible for planning the coup d’état fall exclusively under the jurisdiction of Brazil's Judicial Branch and, as such, are not subject to any interference or threats that could compromise the independence of national institutions," he added.
+
+As with other countries that have received letters from the White House, Trump threatened even higher tariffs against Brazil if it chooses to retaliate.
+
+Brazil was the 18th-largest source of U.S. goods imports last year, with more than $42 billion worth of imports entering the country, according to U.S. International Trade Commission data.
+
+The 50% rate is by far the highest tariff Trump has slapped on any nation so far this week as he rolls out dozens of letters on his social media platforms.
+
+On April 2, which Trump termed "Liberation Day," he said he planned to put only a 10% tariff on Brazil.
+
+Prosecutors in Brazil have alleged that Bolsonaro was part of a scheme that included [a plan to assassinate](https://www.nbcnews.com/news/world/former-brazilian-president-jair-bolsonaro-accused-attempted-coup-2022-rcna181241), who defeated him in the last election, and Supreme Federal Court Justice Alexandre de Moraes. Bolsonaro has denied all wrongdoing.
+
+[Trump's media company sued](https://storage.courtlistener.com/recap/gov.uscourts.flmd.438114/gov.uscourts.flmd.438114.1.0.pdf) Moraes this year after he moved to ban the social media accounts of a pro-Bolsonaro commentator.
+
+"Brazil is doing a terrible thing on their treatment of former President Jair Bolsonaro,” Trump said Monday on Truth Social. “I have watched, as has the World, as they have done nothing but come after him, day after day, night after night, month after month, year after year! He is not guilty of anything, except having fought for THE PEOPLE.”
+
+In a reference to his own criminal charges, Trump added:“This is nothing more, or less, than an attack on a Political Opponent — Something I know much about! It happened to me, times 10.”
+
+Steve Kopack is a senior reporter at NBC News covering business and the economy.
+
+Alana Satlin
+Alana is the deputy politics editor for breaking news on the digital team at NBC News.
+
+Insiya Gandhi and Zoë Richards contributed.
+
+
+
