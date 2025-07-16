@@ -104,7 +104,7 @@ But I won’t. I’ll say I told you so. And then I’ll get to work on cleaning
         - [Federal Reserve Bank of New York - Serving the Second District and the Nation](https://www.newyorkfed.org/)
         - [Federal Reserve Bank of Philadelphia](https://www.philadelphiafed.org/)
         - [Federal Reserve Bank of Richmond](https://www.richmondfed.org/)
-        - [Federal Reserve Bank of St. Louis / Economic Resources & Data](https://www.stlouisfed.org/)
+        - [Federal Reqserve Bank of St. Louis / Economic Resources & Data](https://www.stlouisfed.org/)
         - [Federal Reserve Bank of San Francisco](https://www.frbsf.org/)
         - [The Fed - Federal Open Market Committee](https://www.federalreserve.gov/monetarypolicy/fomc.htm)
         - [Federal Reserve Board - Board Members](https://www.federalreserve.gov/aboutthefed/bios/board/default.htm)
@@ -144,24 +144,24 @@ But I won’t. I’ll say I told you so. And then I’ll get to work on cleaning
         - [Joint Chiefs of Staff (JCS)](https://www.jcs.mil/)
         - [Defense Intelligence Agency (DIA)](https://www.dia.mil/)
             - [General Dan Caine > U.S. Department of Defense > Biography](https://www.defense.gov/About/Biographies/Biography/Article/4154293/general-dan-caine/)
-        - [U.S. Military Academy, West Point](https://www.westpoint.edu/)
-        - [U.S. Air Force](https://www.af.mil/)
-        - [Joint Base Andrews](https://www.jba.af.mil/)
-        - [U.S. Army](https://www.army.mil/)
-        - [U.S. Coast Guard (USCG)](https://www.uscg.mil/)
-        - [U.S. Marine Corps](https://www.marines.mil/)
-        - [National Guard](https://www.nationalguard.mil/)
-        - [U.S. Navy](https://www.navy.mil/)
-        - [National Guard](https://www.nationalguard.mil/)
-        - [U.S. Space Command](https://www.spacecom.mil/)
-        - [U.S. Africa Command (AFRICOM)](https://www.africom.mil/)
-        - [U.S. Central Command (CENTCOM)](https://www.centcom.mil/)
-        - [U.S. Northern Command (USNORTHCOM)](https://www.northcom.mil/)
-        - [Indo-Pacific Command (USINDOPACOM)](https://www.pacom.mil/)
-        - [U.S. Southern Command (SOUTHCOM)](http://www.southcom.mil/)
-        - [U.S. Special Operations Command (USSOCOM)](https://www.socom.mil/)
-        - [Strategic Command (USSTRATCOM)](http://www.stratcom.mil/)
-        - [U.S. European Command (USEUCOM)](https://www.eucom.mil/)
+            - [U.S. Africa Command (AFRICOM)](https://www.africom.mil/)
+            - [U.S. Central Command (CENTCOM)](https://www.centcom.mil/)
+            - [U.S. Northern Command (USNORTHCOM)](https://www.northcom.mil/)
+            - [Indo-Pacific Command (USINDOPACOM)](https://www.pacom.mil/)
+            - [U.S. Southern Command (SOUTHCOM)](http://www.southcom.mil/)
+            - [U.S. Special Operations Command (USSOCOM)](https://www.socom.mil/)
+            - [Strategic Command (USSTRATCOM)](http://www.stratcom.mil/)
+            - [U.S. European Command (USEUCOM)](https://www.eucom.mil/)
+            - [U.S. Military Academy, West Point](https://www.westpoint.edu/)
+            - [U.S. Air Force](https://www.af.mil/)
+            - [Joint Base Andrews](https://www.jba.af.mil/)
+            - [U.S. Army](https://www.army.mil/)
+            - [U.S. Coast Guard (USCG)](https://www.uscg.mil/)
+            - [U.S. Marine Corps](https://www.marines.mil/)
+            - [National Guard](https://www.nationalguard.mil/)
+            - [U.S. Navy](https://www.navy.mil/)
+            - [National Guard](https://www.nationalguard.mil/)
+            - [U.S. Space Command](https://www.spacecom.mil/)
         - [Department of Housing and Urban Development (HUD)](https://www.hud.gov/)
             - [HUD's Secretary / HUD.gov / U.S. Department of Housing and Urban Development (HUD)](http://www.hud.gov/aboutus/secretary)
         - [National Science Foundation (NSF)](http://www.nsf.gov/)
@@ -192,9 +192,7 @@ But I won’t. I’ll say I told you so. And then I’ll get to work on cleaning
             - [Madeleine Dean (D-PA4)](https://dean.house.gov/)
     - [President of the United States (POTUS)](https://www.whitehouse.gov/)
     - [White House (WH)](https://www.whitehouse.gov/)
-    - [President Barack Obama](https://obamawhitehouse.archives.gov/)
-    - [President Joe Biden](https://bidenwhitehouse.archives.gov/)
-- Trump crime businesses
+.- Trump crime businesses
     - DT Marks DEFI LLC
     - [The Executive Branch Club](https://www.theexecutivebranchclub.com/)
         - Chris Buskirk
@@ -303,16 +301,10 @@ But I won’t. I’ll say I told you so. And then I’ll get to work on cleaning
     - [Fact Sheet: President Donald J. Trump Closes De Minimis Exemptions to Combat China’s Role in America’s Synthetic Opioid Crisis](https://www.whitehouse.gov/fact-sheets/2025/04/fact-sheet-president-donald-j-trump-closes-de-minimis-exemptions-to-combat-chinas-role-in-americas-synthetic-opioid-crisis/). Fact Sheets April 2, 2025
     - [Further Amendment to Duties Addressing the Synthetic Opioid Supply Chain in the People’s Republic of China as Applied to Low-Value Imports](https://www.whitehouse.gov/presidential-actions/2025/04/further-amendment-to-duties-addressing-the-synthetic-opioid-supply-chain-in-the-peoples-republic-of-china-as-applied-to-low-value-imports/). Presidential Actions, Executive Orders April 2, 2025
     - [Fact Sheet: President Donald J. Trump Adjusts Imports of Automobiles and Automobile Parts into the United States](https://www.whitehouse.gov/fact-sheets/2025/03/fact-sheet-president-donald-j-trump-adjusts-imports-of-automobiles-and-automobile-parts-into-the-united-states/). Fact Sheets March 26, 2025
-    - [The Staggering Cost of the Illicit Opioid Epidemic in the United States](https://www.whitehouse.gov/articles/2025/03/the-staggering-cost-of-the-illicit-opioid-epidemic-in-the-united-states/). Articles March 26, 2025
     - [Fact Sheet: President Donald J. Trump Imposes Tariffs on Countries Importing Venezuelan Oil](https://www.whitehouse.gov/fact-sheets/2025/03/fact-sheet-president-donald-j-trump-imposes-tariffs-on-countries-importing-venezuelan-oil/). Fact Sheets March 25, 2025
     - [Imposing Tariffs on Countries Importing Venezuelan Oil](https://www.whitehouse.gov/presidential-actions/2025/03/imposing-tariffs-on-countries-importing-venezuelan-oil/). Presidential Actions, Executive Orders March 24, 2025
-    - [More Investment, More Jobs, and More Money in Americans’ Pockets](https://www.whitehouse.gov/articles/2025/03/more-investment-more-jobs-and-more-money-in-americans-pockets/). Articles March 24, 2025
-    - [President Trump Positions U.S. as Global Superpower in Manufacturing](https://www.whitehouse.gov/articles/2025/03/president-trump-positions-u-s-as-global-superpower-in-manufacturing/). Articles March 20, 2025
-    - [President Trump is Remaking America into a Manufacturing Superpower](https://www.whitehouse.gov/articles/2025/03/president-trump-is-remaking-america-into-a-manufacturing-superpower/). Articles March 12, 2025
     - [Amendment to Duties to Address the Flow of Illicit Drugs Across Our Southern Border](https://www.whitehouse.gov/presidential-actions/2025/03/amendment-to-duties-to-address-the-flow-of-illicit-drugs-across-our-southern-border/). Presidential Actions March 6, 2025
     - [Amendment to Duties to Address the Flow of Illicit Drugs Across Our Northern Border](https://www.whitehouse.gov/presidential-actions/2025/03/amendment-to-duties-to-address-the-flow-of-illicit-drugs-across-our-northern-border-0c3c/). Presidential Actions March 6, 2025
-    - [President Trump is Putting American Workers First — And Bringing Back American Manufacturing](https://www.whitehouse.gov/articles/2025/03/president-trump-is-putting-american-workers-first-and-bringing-back-american-manufacturing/). Articles March 4, 2025
-    - [President Trump is Securing Our Homeland](https://www.whitehouse.gov/articles/2025/03/president-trump-is-securing-our-homeland/). Articles March 4, 2025
     - [Fact Sheet: President Donald J. Trump Proceeds with Tariffs on Imports from Canada and Mexico](https://www.whitehouse.gov/fact-sheets/2025/03/fact-sheet-president-donald-j-trump-proceeds-with-tariffs-on-imports-from-canada-and-mexico/). Fact Sheets March 3, 2025
     - [Further Amendment to Duties Addressing the Synthetic Opioid Supply Chain in the People’s Republic of China](https://www.whitehouse.gov/presidential-actions/2025/03/further-amendment-to-duties-addressing-the-synthetic-opioid-supply-chain-in-the-peoples-republic-of-china/). Presidential Actions March 3, 2025
     - [Amendment to Duties to Address the Situation at our Southern Border](https://www.whitehouse.gov/presidential-actions/2025/03/amendment-to-duties-to-address-the-situation-at-our-southern-border/). Presidential Actions March 2, 2025
@@ -323,9 +315,7 @@ But I won’t. I’ll say I told you so. And then I’ll get to work on cleaning
     - [Defending American Companies and Innovators From Overseas Extortion and Unfair Fines and Penalties](https://www.whitehouse.gov/presidential-actions/2025/02/defending-american-companies-and-innovators-from-overseas-extortion-and-unfair-fines-and-penalties/).. Presidential Actions February 21, 2025
     - [Fact Sheet: President Donald J. Trump Issues Directive to Prevent the Unfair Exploitation of American Innovation](https://www.whitehouse.gov/fact-sheets/2025/02/fact-sheet-president-donald-j-trump-issues-directive-to-prevent-the-unfair-exploitation-of-american-innovation/). Fact Sheets February 21, 2025
     - [Remarks by President Trump at Republican Governors Association Meeting](https://www.whitehouse.gov/remarks/2025/02/remarks-by-president-trump-at-republican-governors-association-meeting/). Remarks February 20, 2025
-    - [President Trump Demands Fair, Reciprocal Trade](https://www.whitehouse.gov/articles/2025/02/president-trump-demands-fair-reciprocal-trade/). Articles February 13, 2025
     - [Fact Sheet: President Donald J. Trump Announces “Fair and Reciprocal Plan” on Trade](https://www.whitehouse.gov/fact-sheets/2025/02/fact-sheet-president-donald-j-trump-announces-fair-and-reciprocal-plan-on-trade/). Fact Sheets February 13, 2025
-    - [Reciprocal Trade and Tariffs](https://www.whitehouse.gov/articles/2025/02/reciprocal-trade-and-tariffs/). Articles February 13, 2025
     - [Fact Sheet: President Donald J. Trump Restores Section 232 Tariffs](https://www.whitehouse.gov/fact-sheets/2025/02/fact-sheet-president-donald-j-trump-restores-section-232-tariffs/). Fact Sheets February 11, 2025
     - [Adjusting Imports of Aluminum into The United States](https://www.whitehouse.gov/presidential-actions/2025/02/adjusting-imports-of-aluminum-into-the-united-states/). Presidential Actions February 11, 2025
     - [Adjusting Imports of Steel into The United States](https://www.whitehouse.gov/presidential-actions/2025/02/adjusting-imports-of-steel-into-the-united-states/). Presidential Actions February 10, 2025
