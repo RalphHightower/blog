@@ -16,7 +16,7 @@ title: "The Anti-Vaxxer Head of Health and Human Services Kills Vaccine Developm
 
 ## [RFK Jr. has named himself the official arbiter of vaccine science](https://www.msnbc.com/opinion/msnbc-opinion/rfk-jr-hhs-vaccines-covid-bird-flu-moderna-rcna209745)
 
-*[HHS](https://www.hhs.gov/) has been following [Kennedy](https://www.hhs.gov/about/leadership/robert-kennedy.html)'s lead on vaccines, from limiting who can get [Covid boosters]() to withdrawing funding for a potential [H5N1 bird flu](https://www.cdc.gov/bird-flu/) vaccine.*
+*[HHS](https://www.hhs.gov/) has been following [Kennedy](https://www.hhs.gov/about/leadership/robert-kennedy.html)'s lead on vaccines, from limiting who can get [Covid boosters](https://www.cdc.gov/covid/index.html) to withdrawing funding for a potential [H5N1 bird flu](https://www.cdc.gov/bird-flu/) vaccine.*
 
 May 30, 2025, 6:00 AM EDT
 
