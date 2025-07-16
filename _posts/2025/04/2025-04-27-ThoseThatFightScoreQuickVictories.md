@@ -112,6 +112,7 @@ Katherine Tangalakis-Lippert and Brent Griffiths contributed reporting.
 - [The American Lawyer / Trusted Business of Law News Coverage](https://www.law.com/americanlawyer/)
 - organizations
 - [Heritage Foundation](https://www.heritage.org/)
+- [Project 2025](https://www.project2025.org/)
 - [The Oversight Project / The Heritage Foundation](https://www.heritage.org/oversight)
 - [Mike Howell – Oversight Project](https://www.heritage.org/staff/mike-howell)
 - companies, firms

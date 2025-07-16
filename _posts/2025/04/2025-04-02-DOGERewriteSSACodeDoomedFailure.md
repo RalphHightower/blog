@@ -21,7 +21,7 @@ By Waldo Jaquith, former government technologist
 
 [Elon Musk](https://x.com/elonmusk/) has turned his attention to the [Social Security Administration](https://www.ssa.gov/), the latest agency that his team of novice programmers has invaded for the apparent purpose of hobbling it. [Wired magazine reported last week](https://www.wired.com/story/doge-rebuild-social-security-administration-cobol-benefits/) that the [Department of Government Efficiency](https://www.doge.gov/) plans to replace the [mainframes](https://www.youtube.com/embed/ouAG4vXFORc?si=Jv0LsfZzeFZzmnTi) that power the agency’s mission and rebuild their functionality on new servers in a new programming language — with just a few months’ work.
 
-> Critics complain that the COBOL programming language, widely in use in the [SSA](https://www.ssa.gov/), is old and outdated. This is wrong.
+> *Critics complain that the COBOL programming language, widely in use in the [SSA](https://www.ssa.gov/), is old and outdated. This is wrong.*
 
 Assuming [Wired](https://www.wired.com/story/doge-rebuild-social-security-administration-cobol-benefits/)’s reporting is accurate, we know that such an effort will surely fail. The track record of decades of modernizations of thousands of software systems, in both the private and public sectors, makes that clear. This isn’t even an interesting-yet-flawed idea. It’s a hackneyed, clichéd bad idea that could only sound compelling to novice software developers. It’s like cooking a Thanksgiving turkey in 20 minutes by putting it in a blast furnace, or choosing to get measles instead of getting vaccinated against it: it sounds most convincing to the layperson who asks the fewest questions.
 
@@ -35,7 +35,7 @@ Modernizing the [SSA](https://www.ssa.gov/)’s technical infrastructure is not 
 
 The important thing about the existing [SSA](https://www.ssa.gov/) technical infrastructure is that it works! Those 70 million people get their $1.3 trillion in monthly payments, which allow them to pay their rent, buy food, afford medications and give birthday presents to their grandkids. [Commerce Secretary](https://www.commerce.gov/) [Howard Lutnick’s mother may not worry about getting her check](https://www.msnbc.com/rachel-maddow-show/maddowblog/social-security-trump-cabinet-secretary-inadvertently-gives-away-game-rcna197743) — likely because her son is a billionaire — but to many of those 70 million people, their monthly check is all that’s keeping them housed, clothed and fed.
 
-> What could be the legitimate purpose of this incredibly dangerous operation?
+> *What could be the legitimate purpose of this incredibly dangerous operation?*
 
 If [Twitter](https:x.com/) accidentally goes down for a few hours, nothing terrible happens. But if just one person misses a [Social Security](https;//www.ssa.gov/) payment, that could drop the person off a financial cliff. Replacing the [SSA](https://www.ssa.gov/)’s core infrastructure with an entirely new system all at once is performing a high-wire act without a net, only it’s not [DOGE](https://www.doge.gov/) staffers who risk falling — it’s the [Social Security](https;//www.ssa.gov/) beneficiaries who depend on that social safety net.
 

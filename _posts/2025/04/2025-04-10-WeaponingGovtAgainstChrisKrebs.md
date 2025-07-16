@@ -42,7 +42,7 @@ In the [Republican](https://www.gop.com/)’s [second term](https://www.whitehou
 
 Let’s take these one at a time.
 
-> [Trump](https://www.donaldjtrump.com/) fired [Krebs](https://www.linkedin.com/in/christopherckrebs/) — not because he’d done anything wrong but because the [president](https://www.whitehouse.gov/) wanted him to go along with his lies about the [election results](https://www.fec.gov/resources/cms-content/documents/federalelections2020.pdf).
+> *[Trump](https://www.donaldjtrump.com/) fired [Krebs](https://www.linkedin.com/in/christopherckrebs/) — not because he’d done anything wrong but because the [president](https://www.whitehouse.gov/) wanted him to go along with his lies about the [election results](https://www.fec.gov/resources/cms-content/documents/federalelections2020.pdf).*
 
 During [Trump](https://www.donaldjtrump.com/)’s [first term](https://trumpwhitehouse.archives.gov/), [Christopher Krebs](https://www.linkedin.com/in/christopherckrebs/) led the [Department of Homeland Security](https://www.dhs.gov/)’s [Cybersecurity and Infrastructure Security Agency (CISA)](https://www.cisa.gov/), which was responsible for combatting foreign interference in our elections and preventing attacks. [Krebs](https://www.linkedin.com/in/christopherckrebs/) earned bipartisan praise for his work, and after the [2020 election cycle](https://www.fec.gov/resources/cms-content/documents/federalelections2020.pdf), [The Washington Post](https://www.washingtonpost.com/)’s [David Ignatius](https://www.washingtonpost.com/people/david-ignatius/) [noted](https://www.washingtonpost.com/opinions/trump-and-his-supporters-are-discovering-how-hard-it-is-to-sabotage-election-results/2020/11/17/96d37bbe-290e-11eb-9b14-ad872157ebc9_story.html), “When the history books about this [election](https://www.fec.gov/resources/cms-content/documents/federalelections2020.pdf) are written, [Krebs](https://www.linkedin.com/in/christopherckrebs/) will be one of the heroes.”
 
@@ -52,7 +52,7 @@ Four and a half years later, [Trump](https://www.donaldjtrump.com/) issued an or
 
 [Miles Taylor](https://www.linkedin.com/in/miles-taylor-65707671/), meanwhile, was a former high-ranking official in [Trump](https://www.donaldjtrump.com/)’s [Department of Homeland Security](https://www.dhs.gov/) who [became a prominent Trump critic](https://www.msnbc.com/rachel-maddow-show/maddowblog/anonymous-white-house-author-comes-forward-n1245161), alerting the public to allegations that he personally witnessed the president’s corruption and ineptitude.
 
-> This is simply not the sort of thing that’s supposed to happen in a stable and healthy democracy.
+> *This is simply not the sort of thing that’s supposed to happen in a stable and healthy democracy.*
 
 [Trump’s order](https://www.whitehouse.gov/presidential-actions/2025/04/addressing-risks-associated-with-an-egregious-leaker-and-disseminator-of-falsehoods/), which called on the [Department of Homeland Security](https://www.dhs.gov/) to investigate [Taylor](https://www.linkedin.com/in/miles-taylor-65707671/)’s activities, also said [Taylor](https://www.linkedin.com/in/miles-taylor-65707671/) “stoked dissension.” Just as notably, the [president](https://www.whitehouse.gov/), who has [repeatedly disclosed sensitive information](https://www.msnbc.com/rachel-maddow-show/maddowblog/problems-trumps-executive-order-disclosing-sensitive-information-rcna188592), suggested that his critic had “disclosed sensitive information,” adding, “[T]his conduct could properly be characterized as treasonous.”
 
@@ -65,8 +65,7 @@ Indeed, if an investigative reporter had uncovered evidence that [Trump](https:/
 But as [Democratic](https://www.democrats.org/) [Sen.](https://www.senate.gov/) [Chris Murphy](https://www.murphy.senate.gov/) of [Connecticut](https://www.ct.gov/) [recently noted](https://www.msnbc.com/rachel-maddow-show/maddowblog/trump-turns-white-house-lawn-car-lot-megadonor-musk-rcna196000) in an unrelated matter, “Just because the corruption plays out in public doesn’t mean it’s not corruption.”
 
 
-Steve Benen
-*Steve Benen is a producer for "[The Rachel Maddow Show](https://www.msnbc.com/rachel-maddow-show)," the editor of [MaddowBlog](https://www.msnbc.com/maddowblog) and an [MSNBC](https://www.msnbc.com/) political contributor. He's also the bestselling author of "[Ministry of Truth: Democracy, Reality, and the Republicans' War on the Recent Past.](https://www.amazon.com/Ministry-Truth-Democracy-Reality-Republicans/dp/0063393670)"*
+Steve Benen is a producer for "[The Rachel Maddow Show](https://www.msnbc.com/rachel-maddow-show)," the editor of [MaddowBlog](https://www.msnbc.com/maddowblog) and an [MSNBC](https://www.msnbc.com/) political contributor. He's also the bestselling author of "[Ministry of Truth: Democracy, Reality, and the Republicans' War on the Recent Past.](https://www.amazon.com/Ministry-Truth-Democracy-Reality-Republicans/dp/0063393670)"
 
 ### [Addressing Risks from Chris Krebs and Government Censorship – The White House](https://www.whitehouse.gov/presidential-actions/2025/04/addressing-risks-from-chris-krebs-and-government-censorship/)
 
@@ -132,7 +131,6 @@ Skewed the bona fide debate about COVID-19 by attempting to discredit widely sha
 - [Ministry of Truth: Democracy, Reality, and the Republicans' War on the Recent Past―A Timely Investigation of Republican Historical Revisionism That ... Consequences of Rewriting Recent History: Benen, Steve: 9780063393677: Amazon.com: Books](https://www.amazon.com/Ministry-Truth-Democracy-Reality-Republicans/dp/0063393670)
 - [Russia](http://government.ru/)
 - [Vladimir Putin](http://kremlin.ru/)
-- [Donald J Trump](https://www.donaldjtrump.com/)
 - [U.S. Constitution](https://constitution.congress.gov/)
 - [First Amendment](https://constitution.congress.gov/constitution/amendment-1/)
 - [A-Z index of U.S. government departments and agencies / USAGov](https://www.usa.gov/agency-index)
@@ -141,15 +139,16 @@ Skewed the bona fide debate about COVID-19 by attempting to discredit widely sha
 - [Bridget Bean / CISA](https://www.cisa.gov/about/leadership/bridget-bean)
 - [Bridget Bean / LinkedIn](https://www.linkedin.com/in/bridget-bean/)
 - [Department of Homeland Security (DHS)](https://www.dhs.gov/)
-- [Kristi Noem / Homeland Security](https://www.dhs.gov/person/kristi-noem)
 - [Department of Justice (DOJ)](https://www.justice.gov/)
-- [Pam Bondi](https://www.justice.gov/ag/staff-profile/meet-attorney-general)
 - [President Barack Obama](https://obamawhitehouse.archives.gov/)
 - [President Donald J Trump (45)](https://trumpwhitehouse.archives.gov/)
 - [President Joe Biden](https://bidenwhitehouse.archives.gov/)
+- [Donald J Trump](https://www.donaldjtrump.com/)
 - [President Donald J Trump (47)](https://www.whitehouse.gov/administration/donald-j-trump/)
 - [President Donald J Trump Cabinet](https://www.whitehouse.gov/administration/the-cabinet/)
 - [President Donald J Trump Administration](https://www.whitehouse.gov/administration/)
+- [Pam Bondi](https://www.justice.gov/ag/staff-profile/meet-attorney-general)
+- [Kristi Noem / Homeland Security](https://www.dhs.gov/person/kristi-noem)
 - [Addressing Risks from Chris Krebs and Government Censorship – The White House](https://www.whitehouse.gov/presidential-actions/2025/04/addressing-risks-from-chris-krebs-and-government-censorship/). April 9, 2025
 - [Fact Sheet: President Donald J. Trump Addresses Risks from Chris Krebs and Government Censorship – The White House](https://www.whitehouse.gov/fact-sheets/2025/04/fact-sheet-president-donald-j-trump-addresses-risks-from-chris-krebs-and-government-censorship/). April 9, 2025
 - [Ending The Weaponization Of The Federal Government](https://www.whitehouse.gov/presidential-actions/2025/01/ending-the-weaponization-of-the-federal-government/). Presidential Actions. January 20, 2025

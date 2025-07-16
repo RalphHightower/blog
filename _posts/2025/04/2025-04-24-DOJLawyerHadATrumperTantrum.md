@@ -49,7 +49,6 @@ Of course, that’s not what any lawyer want to hear about a client. But beyond 
 - [Addressing Risks from Paul Weiss](https://www.whitehouse.gov/presidential-actions/2025/03/addressing-risks-from-paul-weiss/). Presidential Actions March 14, 2025
 - [Fact Sheet: President Donald J. Trump Addresses Risks from Paul Weiss](https://www.whitehouse.gov/fact-sheets/2025/03/fact-sheet-president-donald-j-trump-addresses-risks-from-paul-weiss/). Fact Sheets March 14, 2025
 - [Addressing Risks from Perkins Coie LLP](https://www.whitehouse.gov/presidential-actions/2025/03/addressing-risks-from-perkins-coie-llp/). Presidential Actions March 6, 2025
-- [President Trump is Restoring Common Sense to Government](https://www.whitehouse.gov/articles/2025/03/president-trump-is-restoring-common-sense-to-government/). Articles March 4, 2025
 - [Fact Sheet: President Donald J. Trump Adresses Risks from Perkins Coie LLP](https://www.whitehouse.gov/fact-sheets/2025/03/fact-sheet-president-donald-j-trump-adresses-risks-from-perkins-coie-llp/). Fact Sheets March 6, 2025
 - [Suspension of Security Clearances and Evaluation of Government Contracts](https://www.whitehouse.gov/presidential-actions/2025/02/suspension-of-security-clearances-and-evaluation-of-government-contracts/). Presidential Actions February 25, 2025
 - [Ending The Weaponization Of The Federal Government](https://www.whitehouse.gov/presidential-actions/2025/01/ending-the-weaponization-of-the-federal-government/). Presidential Actions January 20, 2025

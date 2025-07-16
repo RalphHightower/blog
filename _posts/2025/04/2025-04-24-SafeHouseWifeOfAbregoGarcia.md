@@ -17,11 +17,11 @@ title: "Trump’s Department of Homeland Security (DHS) Doxxed Wife of Kilmar Ab
 April 24, 2025, 1:20 PM EDT
 By Clarissa-Jan Lim
 
-Jennifer Vasquez Sura, the wife of Kilmar Abrego Garcia, said she and her children have been moved to a safe house after the ,[Department of Homeland Security](https://www.dhs.gov/) posted a court document on social media that included their home address.
+Jennifer Vasquez Sura, the wife of Kilmar Abrego Garcia, said she and her children have been moved to a safe house after the [Department of Homeland Security](https://www.dhs.gov/) posted a court document on social media that included their home address.
 
 “I don’t feel safe when the government posts my address, the house where my family lives, for everyone to see, especially when this case has gone viral and people have all sorts of opinions,” Vasquez Sura [told The Washington Post](https://www.washingtonpost.com/immigration/2025/04/21/jennifer-vasquez-sura-kilmar-abregro-garcia-wife/) in an interview published Tuesday.
 
-As the [Trump](https://www.donaldjtrump.com/) administration [released documents detailing its case](https://www.nbcnews.com/news/us-news/new-documents-government-case-mistakenly-deported-abrego-garcia-gang-rcna201665) against Abrego Garcia, a [Maryland]() father with protected status who officials admitted was mistakenly deported to [El Salvador](), [DHS](https://www.dhs.gov/) last week posted a copy of a civil protective order granted to his wife in 2021.
+As the [Trump](https://www.donaldjtrump.com/) administration [released documents detailing its case](https://www.nbcnews.com/news/us-news/new-documents-government-case-mistakenly-deported-abrego-garcia-gang-rcna201665) against Abrego Garcia, a [Maryland](https://www.maryland.gov/) father with protected status who officials admitted was mistakenly deported to [El Salvador](https://www.gob.sv/), [DHS](https://www.dhs.gov/) last week posted a copy of a civil protective order granted to his wife in 2021.
 
 “Kilmar Abrego Garcia had a history of violence and was not the upstanding ‘Maryland Man’ the media has portrayed him as,” the [agency](ttps://www.dhs.gov/) wrote in a post on [X](https://www.x.com/).
 
@@ -39,7 +39,7 @@ According to the [Post](https://www.washingtonpost.com/), Abrego Garcia had stru
 
 Abrego Garcia’s case is arguably the most high-profile one among the [Trump](https://www.donaldjtrump.com/) [administration](https://www.whitehouse.gov/administration/)’s sweeping deportation efforts. The government has repeatedly accused him of being a member of the MS-13 gang, allegations that his lawyer and Vasquez Sura have vehemently denied.
 
-As the legal battle over his removal [and court-ordered return](https://www.msnbc.com/deadline-white-house/deadline-legal-blog/judge-abrego-garcia-discovery-doj-trump-rcna202351) to the U.S. plays out, [Trump](https://www.donaldjtrump.com/) officials — and even [Salvadoran](https://www.gob.sv/) [President Nayib Bukele]() — have portrayed Abrego Garcia as a violent [gang member](https://www.cbsnews.com/news/trump-claim-kilmar-abrego-garcias-finger-tattoos-ms-13/), [a terrorist](https://www.npr.org/2025/04/14/nx-s1-5364502/trump-bukele-el-salvador-deportation) and a [less-than-stellar husband and father](https://www.msnbc.com/top-stories/latest/kilmar-abrego-garcia-father-husband-trump-character-rcna201709).
+As the legal battle over his removal [and court-ordered return](https://www.msnbc.com/deadline-white-house/deadline-legal-blog/judge-abrego-garcia-discovery-doj-trump-rcna202351) to the U.S. plays out, [Trump](https://www.donaldjtrump.com/) officials — and even [Salvadoran](https://www.gob.sv/) [President Nayib Bukele](https://www.presidencia.gob.sv/) — have portrayed Abrego Garcia as a violent [gang member](https://www.cbsnews.com/news/trump-claim-kilmar-abrego-garcias-finger-tattoos-ms-13/), [a terrorist](https://www.npr.org/2025/04/14/nx-s1-5364502/trump-bukele-el-salvador-deportation) and a [less-than-stellar husband and father](https://www.msnbc.com/top-stories/latest/kilmar-abrego-garcia-father-husband-trump-character-rcna201709).
 
 Meanwhile, Vasquez Sura has continued to advocate for his return. “Enough is enough,” she [told reporters](https://www.instagram.com/p/DIeyUXhyCT6/?hl=en) last week. “My family can’t be robbed from another day without seeing Kilmar. This [administration](https://www.whitehouse.gov/administration/) has already taken so much from my children, from Kilmar’s mother, brother, sisters and me.”
 
@@ -51,6 +51,7 @@ Meanwhile, Vasquez Sura has continued to advocate for his return. “Enough is e
 
 - [MSNBC](https://www.msnbc.com/)
 - [Washington Post](https://www.washingtonpost.com/)
+- [Maryland.gov - Official Website of the State of Maryland](https://www.maryland.gov/)
 - [República de El Salvador](https://www.gob.sv/)
 - [President Nayib Bukele](https://www.presidencia.gob.sv/)
 - Centro de Confinamiento del Terrorismo (CECOT)

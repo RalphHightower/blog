@@ -7,7 +7,7 @@ excerpt: "“You’re a disgrace to this state. That’s what you are. You’re 
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: "My Dumb State: Bless Her Heart – South Carolina Nancy Mace (T-SC1) Has a Hissy Fit With a Constituent In Public"
+title: "My Dumb State: Bless Her Heart – South Carolina Nancy Mace Has a Hissy Fit With a Constituent In Public"
 ---
 
 Normally, my series, My Dumb State, focuses on [South Carolina](https://www.sc.gov/) hyper-partisan [Attorney General](https://www.scag.gov/) [Alan Wilson](https://www.scag.gov/about-the-office/meet-the-attorney-general/). However, [Nancy Mace](https://mace.house.gov/)'s hissy fit with a constituent in an [Ulta](https://www.ulta.com/) beauty store warrants addition.
