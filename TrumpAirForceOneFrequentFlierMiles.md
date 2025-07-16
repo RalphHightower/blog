@@ -2,7 +2,8 @@
 layout: page
 tags: [The Mar-a-Lago Club, Palm Beach Florida 33480, Trump International Golf Club, West Palm Beach FL 33406, Trump National Doral Golf Club, Miami FL 33178, Trump National Jupiter Golf Club, Jupiter FL 33477, Trump National Golf Club Washington D.C., Potomac Falls VA 20165, Trump National Golf Club Bedminster, Bedminster NJ 07921, Trump National Golf Club Colts Neck, Colts Neck NJ 07722, Trump National Golf Club Philadelphia, Pine Hill NJ 08021, Trump National Golf Club Hudson Valley, Hopewell Junction NY 12533, Trump National Golf Club Los Angeles, Rancho Palos Verdes CA 90275, Trump National Golf Club Charlotte, Mooresville NC 28117, Trump International Golf Club Dubai, Al Hebiah Third District Dubai, Trump International Golf Links & Hotel Ireland Doonbeg, CLARE IRELAND, Trump MacLeod House & Lodge Scotland, Aberdeenshire Scotland AB23 8YE, Trump MacLeod House & Lodge Scotland, Aberdeenshire Scotland AB23 8YE, Trump Turnberry, Ayrshire Scotland]
 categories: [Donald Trump]
-date: 2025-07-13 9:19 PM
+date: 2025-07-15 10:28 PM
+
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
@@ -18,6 +19,26 @@ title: "Trump: Air Force One Frequent Flyer Miles"
 
 | Time | Location |
 |---|---|
+| |🔥 [White House](https://www.whitehouse.gov/) 💣|
+|💰 speech was more a campaign speech | **Tuesday, July 15 2025** |
+| 9:00 AM | In-Town Pool Call Time<br />The [White House](https://www.whitehouse.gov/) In-Town Pool |
+| 11:15 AM | Out-of-Town Travel Pool Call Time<br />/[Joint Base Andrews](https://www.jba.af.mil/) Out-of-Town Travel Pool |
+| 11:30 AM | The [Secret Service](https://www.secretservice.gov/) orders a lockdown of the [White House](https://www.whitehouse.gov/) campus<br />The [White House](https://www.whitehouse.gov/) Open Press |
+| 11:56 AM | The [Secret Service](https://www.secretservice.gov/) lifts the lockdown of the [White House](https://www.whitehouse.gov/) campus [Note: per [Secret Service](https://www.secretservice.gov/) statement at ~5:00 p.m., an object was thrown over the gate on the [North Grounds](https://www.whitehouse.gov/). Object was cleared by explosive ordinance disposal team, person transported for mental health evaluation.]<br />The [White House](https://www.whitehouse.gov/) Open Press |
+| 12:30 PM | The [President](https://www.donaldjtrump.com/) departs the [White House](https://www.whitehouse.gov/) en route [Pittsburgh](https://www.pittsburghpa.gov/), [Pennsylvania](https://www.pa.gov/) [1:14 PM Actual to [Joint Base Andrews](https://www.jba.af.mil/)]<br />The [White House](https://www.whitehouse.gov/) Open Press |
+| 1:20 PM | The [President](https://www.donaldjtrump.com/) arrives at [Joint Base Andrews](https://www.jba.af.mil/)<br />[Joint Base Andrews](https://www.jba.af.mil/) |
+| 2:12 PM | The [President](https://www.donaldjtrump.com/) arrives at [Pittsburgh International Airport](https://flypittsburgh.com/)<br />[Pittsburgh International Airport](https://flypittsburgh.com/) |
+| 2:24 PM | The [President](https://www.donaldjtrump.com/) departs [Pittsburgh International Airport](https://flypittsburgh.com/) for [Carnegie Mellon University](https://www.cmu.edu/)<br />[Pittsburgh International Airport](https://flypittsburgh.com/) |
+| 2:30 PM | The [President](https://www.donaldjtrump.com/) participates in the [Inaugural Pennsylvania Energy and Innovation Event](https://www.cmu.edu/news/stories/archives/2025/july/energy-and-innovation-summit-brings-government-and-industry-leadership-to-cmu) [3:33 PM Actual]<br />[Carnegie Mellon University](https://www.cmu.edu/), [Pittsburgh](https://www.pittsburghpa.gov/) Pre-Credentialed Media |
+| 2:50 PM | The [President](https://www.donaldjtrump.com/) arrives at [Carnegie Mellon University](https://www.cmu.edu/)<br />[Carnegie Mellon University](https://www.cmu.edu/), [Pittsburgh](https://www.pittsburghpa.gov/) |
+| 5:02 PM | The [President](https://www.donaldjtrump.com/) departs [Carnegie Mellon University](https://www.cmu.edu/) for [Pittsburgh International Airport](https://flypittsburgh.com/)<br /[Carnegie Mellon University](https://www.cmu.edu/), [Pittsburgh](https://www.pittsburghpa.gov/) |
+| 5:30 PM | The [President](https://www.donaldjtrump.com/) arrives at [Pittsburgh International Airport](https://flypittsburgh.com/)<br />[Pittsburgh International Airport](https://flypittsburgh.com/) Out-of-Town Travel Pool |
+| 5:40 PM | The [President](https://www.donaldjtrump.com/) departs [Pittsburgh](https://www.pittsburghpa.gov/), [Pennsylvania](https://www.pa.gov/), en route<br />The [White House](https://www.whitehouse.gov/) [5:43 PM Actual to [Joint Base Andrews](https://www.jba.af.mil/)]<br />[Pittsburgh International Airport](https://flypittsburgh.com/) Out-of-Town Travel Pool |
+| 6:21 PM | The [President](https://www.donaldjtrump.com/) arrives at [Joint Base Andrews](https://www.jba.af.mil/)<br />[Joint Base Andrews](https://www.jba.af.mil/) |
+| 6:50 PM | The [President](https://www.donaldjtrump.com/) arrives The [White House](https://www.whitehouse.gov/) [7:09 PM Actual]<br />The [White House](https://www.whitehouse.gov/) Open Press |
+| 7:00 PM | The [President](https://www.donaldjtrump.com/) departs [Joint Base Andrews](https://www.jba.af.mil/) for the [White House](https://www.whitehouse.gov/)<br />[Joint Base Andrews](https://www.jba.af.mil/) |
+| 7:22 PM | [White House](https://www.whitehouse.gov/) Press Office: Full lid called<br />The [White House](https://www.whitehouse.gov/) |
+| |🔥 [White House](https://www.whitehouse.gov/) 💣|
 | | **Sunday, July 13 2025** |
 | 11:30 AM ⛳️| Out-of-Town Travel Pool Call Time<br />[Trump National Golf Club Bedminster](https://www.trumpnationalbedminster.com/) Out-of-Town Travel Pool |
 | 1:40 PM | The [President](https://www.donaldjtrump.com/) and The First Lady depart [Trump National Golf Club Bedminster](https://www.trumpnationalbedminster.com/), en route [East Rutherford, New Jersey](https://www.eastrutherfordnj.net/) \[Actual to [Teterboro Airport](https://www.panynj.gov/airports/en/teterboro.html)\]<br />[Trump National Golf Club Bedminster](https://www.trumpnationalbedminster.com/) Closed Press |
