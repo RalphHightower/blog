@@ -14,7 +14,7 @@ Below is an op-ed by [Senator](https://www.senate.gov/) [Andy Kim (D-NJ)](https:
 
 I noticed that America's allies and trading partners were abandoning America after [Trump](https://www.donaldjtrump.com/) "Liberation Day" tanked the world’s stock markets and [Treasury bonds](https://home/treasury.gov/) were moving in the wrong direction. 
 
-- [2025-03-06: Trump Is the Manchurian Candidate: Fucking Believable! Europe, NATO, and Our Former Allies No Longer Trust the US as Trump Shifts Allegiance With Russia!]({% link _posts/2025/03/2025-03-06-UnthinkableUSLosesIntelligenceWithFreeWorld.md %})
+- [2025-03-06: Trump Is the Manchurian Candidate: Fucking Believable! Europe, NATO, and Our Former Allies No Longer Trust the US as Trump Shifts Allegiance With Russia!]({% link  %})
 - [2025-03-17: Canada Considers Buying Fighter Jets From Europe Instead Of US Due To Trump’s Instability and Unpredictable Continued Membership In NATO. Lockheed Martin Loses Contract Of F-35 Jets Worth $19 Billion]({% link _posts/2025/03/2025-03-17-TrumpTradeWarWithWorldJustLostDefenseOrderCanada.md %})
 - [2025-04-07: Trump’s ‘America First’ Will Leave ‘America Alone’. Pissing Off Allies, Trading Partners]({% link _posts/2025/04/2025-04-07-TrumpsAmericaFirstWillBeAmericaAlone.md %})
 - [2025-04-29: Canadian Prime Minister Mark Carney Tells America That Trump Broke Their Friendship, Alliance, and Trading Partnership]({% link _posts/2025/04/2025-04-29-CanadianPremierMarkCarnyVictorySpeech.md %})

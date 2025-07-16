@@ -38,7 +38,7 @@ The following news occurred in the past two months:
 
 ### Ignoring the First Amendment Protecting Freedom of Speech and the Press:
 
-Banning the [Associated Press](https://www.apnews.com/) from White House press briefings and the press pool because the [AP](https://www.apnews.com/) won't recognize "The Gulf of America" is an attack on the [First Amendment]().
+Banning the [Associated Press](https://www.apnews.com/) from White House press briefings and the press pool because the [AP](https://www.apnews.com/) won't recognize "The Gulf of America" is an attack on the [First Amendment](https://constitution.congress.gov/constitution/amendment-1/).
  
 The [AP Stylebook](https://www.ap.org/solutions/platforms/ap-stylebook/) specifies using internationally recognized names, as such, the Gulf of Mexico will continue to be used.
 
@@ -70,7 +70,7 @@ Every person is due process of law. We are a nation of laws, not ruled by a king
 
 ### [Trump](https://www.donaldjtrump.com/)’s Capricious Leadership & On Again, Off Again Tariffs 
 
-Because of [Trump](https://www.donaldjtrump.com/)’s whipsaw actions, [Canada](https://www.canada.ca/) is considering cancelling their 19 billion dollar order of [Lockheed Martin](https://www.lockheedmartin.com/) [F-35 fighter jets](https://www.lockheedmartin.com/) [F-35](https://www.lockheedmartin.com/en-us/products/f-35.html) and buying from [Europe](https://commission.europa.eu/). [Portugal](https://www.portugal.gov.pt/pt/gc24) is canceling their order.
+Because of [Trump](https://www.donaldjtrump.com/)’s whiplash actions, [Canada](https://www.canada.ca/) is considering cancelling their 19 billion dollar order of [Lockheed Martin](https://www.lockheedmartin.com/) [F-35 fighter jets](https://www.lockheedmartin.com/) [F-35](https://www.lockheedmartin.com/en-us/products/f-35.html) and buying from [Europe](https://commission.europa.eu/). [Portugal](https://www.portugal.gov.pt/pt/gc24) is canceling their order.
 
 The [European Union](https://commission.europa.eu/) looks to strengthen trading partnerships with [China](https://www.gov.cn/) and reduce trade with the [United States](https://www.usa.gov/).
 

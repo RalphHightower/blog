@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: [MSNBC, Democrat Party, Trump Party, Donald J Trump, Congress, Senate, Lisa Murkowski (T-AK), President Donald Trump (45), President Donald Trump (47), Granting Pardons And Commutation Of Sentences For Certain Offenses Relating To The Events At Or Near The United States Capitol On January 6 2021. Presidential Actions. January 20, 2025, President of the United States (POTUS), White House (WH), January 6 2021 insurrection, politics]
-categories: [Donald Trump]
+categories: [Lisa Murkowski (T-AK)]
 date: 2025-04-18 8:46 PM
 excerpt: '“We are all afraid. It’s quite a statement. But we are in a time and a place where I certainly have not been here before. And I’ll tell ya, I’m oftentimes very anxious myself about using my voice, because retaliation is real. And that’s not right.” – Senator Lisa Murkowski (T-AK)'
 #image: 'BASEURL/assets/blog/img/.png'
