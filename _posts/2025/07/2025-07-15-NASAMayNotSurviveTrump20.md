@@ -1,13 +1,13 @@
 ---
 layout: post
-tags: []
-categories: []
-#date: 2019-06-25 13:14:15
-#excerpt: ''
+tags: [media, MSNBC, Rachel Maddow Show on MSNBC / Watch Rachel Maddow Live, Rachel Maddow Blog / The Rachel Maddow Show - MSNBC, Steve Benen, Ministry of Truth – HarperCollins, organizations, The Planetary Society, Casey Dreier / The Planetary Society, Casey Dreier / LinkedIn, companies, foreign countries, state local governments, political parties, Trumpian Party, Democrat Party, ActBlue, Federal Government, Constitution of the United States, U.S. Constitution - Article II / Resources / Constitution Annotated / Congress.gov / Library of Congress, U.S. Constitution - Article III / Resources / Constitution Annotated / Congress.gov / Library of Congress, First Amendment, U.S. Constitution - Fourteenth Amendment / Resources / Constitution Annotated / Congress.gov / Library of Congress, 2020 Presidential Election Results – Federal Election Commission (FEC), Supreme Court of the United States (SCOTUS), Justices, US Courts, United States Court of Appeals for the Fourth Circuit, District of Maryland / United States District Court, George L. Russell III Chief District Judge / District of Maryland / United States District Court, Federal Reserve Board, Home - Federal Reserve Bank of Atlanta, Home - Federal Reserve Bank of Boston, Federal Reserve Bank of Chicago, Federal Reserve Bank of Cleveland, Federal Reserve Bank of Dallas - Dallasfed.org, Federal Reserve Bank of Kansas City, Federal Reserve Bank of Minneapolis, Federal Reserve Bank of New York - Serving the Second District and the Nation, Federal Reserve Bank of Philadelphia, Federal Reserve Bank of Richmond, Federal Reqserve Bank of St. Louis / Economic Resources & Data, Federal Reserve Bank of San Francisco, The Fed - Federal Open Market Committee, Federal Reserve Board - Board Members, Jerome H. Powell, Michael S. Barr, Michelle W. Bowman, Susan M. Collins, Lisa D. Cook, Austan D. Goolsbee, Philip N. Jefferson, Neel Kashkari, Adriana D. Kugler, Alberto G. Musalem, Christopher J. Waller, Neel Kashkari, John C. Williams, Department of Justice (DOJ), Todd Blanche, Emil Bove, Office of the Solicitor General / Office of the Solicitor General, Office of the Solicitor General / Solicitor General D. John Sauer / United States Department of Justice, National Aeronautics and Space Administration (NASA), Department of State (DOS), Department of Transportation (DOT), Department of Homeland Security (DHS), Customs and Border Protection (CBP), Drug Enforcement Agency (DEA), Federal Emergency Management Agency (FEMA), Federal Bureau of Investigation (FBI), Immigration and Customs Enforcement (ICE), Department of the Interior (DOI), Office of Personnel Management (OPM), National Oceanic and Atmospheric Administration (NOAA), National Weather Service (NWS), U.S. Agency for Global Media (USAGM), Voice of America (VOA), Radio Free Europe/Radio Liberty (RFE/RL), VOA - Voice of America English News, Department of Defense (DOD), Joint Chiefs of Staff (JCS), Defense Intelligence Agency (DIA), General Dan Caine > U.S. Department of Defense > Biography, U.S. Africa Command (AFRICOM), U.S. Central Command (CENTCOM), U.S. Northern Command (USNORTHCOM), Indo-Pacific Command (USINDOPACOM), U.S. Southern Command (SOUTHCOM), U.S. Special Operations Command (USSOCOM), Strategic Command (USSTRATCOM), U.S. European Command (USEUCOM), U.S. Military Academy West Point, U.S. Air Force, Joint Base Andrews, U.S. Army, U.S. Coast Guard (USCG), U.S. Marine Corps, National Guard, U.S. Navy, National Guard, U.S. Space Command, Department of Housing and Urban Development (HUD), HUD’s Secretary / HUD.gov / U.S. Department of Housing and Urban Development (HUD), National Science Foundation (NSF), Office of the Director of National Intelligence (ODNI), Department of Homeland Security (DHS), General Services Administration (GSA), Federal Bureau of Investigation (FBI), Central Intelligence Agency (CIA), Congress, U.S. Capitol Police, Senate, Judiciary Committee, House of Representatives, House Budget Committee, U.S. House Committee on Financial Services, Maxine Waters (D-CA43), Madeleine Dean (D-PA4), President of the United States (POTUS), White House (WH), .- Trump crime businesses, DT Marks DEFI LLC, The Executive Branch Club, Chris Buskirk, Adam Foroughi / LinkedIn, Omeed Malik / LinkedIn, Jeff Miller, Chamath Palihapitiya / LinkedIn, David Sacks, Donald Trump Jr., Cameron Winklevoss / LinkedIn, Tyler Winklevoss / LinkedIn, Alex Witkoff, Steve Witkoff, Zachary Witkoff / LinkedIn, World Liberty Financial, Corey Kaplan / LinkedIn, Corey Caplan, Thomas DiFiore FRM·CAIA / LinkedIn, Alex Dulub / LinkedIn, Ryan Fang / LinkedIn, Zak Folkman / LinkedIn, Alex Golubitsky / LinkedIn, Chase Herro, Octavian Lojnita / LinkedIn, Matt Morgan, Sandy Peng, Luke Pearson, Bogdan Purnavel / LinkedIn, Brandi Reynolds CAMS-Audit CCAS / LinkedIn, Rich Teo / LinkedIn, Barron Trump, Rafael Yakobi / LinkedIn, $TRUMP, $MELANIA, Trump Media and Technology Group, Trump Organization, The Mar-a-Lago Club, Trump International Golf Club, Trump National Doral Golf Club, Trump National Jupiter Golf Club, Trump National Golf Club Washington D.C., Trump National Golf Club Bedminster, Trump National Golf Club Colts Neck, Trump National Golf Club Philadelphia, Trump National Golf Club Hudson Valley, Trump National Golf Club Westchester, Trump National Golf Club Los Angeles, Trump International Golf Club Dubai, Trump International Golf Links & Hotel Ireland Doonbeg, Trump MacLeod House & Lodge Scotland, Trump Turnberry, Trump crime family, Donald J Trump, Eric F. Trump / LinkedIn, Donald Trump Jr. / LinkedIn, Ivanka Trump, Jared Kushner, President Donald Trump (45), President Donald Trump (47), President Trump (47) Administration, President Trump (47) Cabinet, press secretary, Karoline Leavitt, Scott Turner / LinkedIn, Doug Burgum, Doug Burgum – LinkedIn, Marco Rubio, Marco Rubio – LinkedIn, Pete Hegseth, Pete Hegseth – LinkedIn, Tulsi Gabbard – Director of National Intelligence, Tulsi Gabbard – LinkedIn, Pam Bondi, Kash Patel, Deputy Director Dan Bongino — FBI, Kari Lake, U.S. Transportation Secretary Sean Duffy / US Department of Transportation, Sean Duffy / LinkedIn, tariffs, politics, stupidity,  grift, self-dealing, corruption, con, crime, cryptocurrency, criminal businesses, criminal associates, criminal partners]
+categories: [Donald Trump]
+date: 2025-07-15 9:03 PM
+excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: 'title'
+title: "NASA May Not Survive Trump 2.0"
 ---
 
 
@@ -50,19 +50,11 @@ Maybe [Trump](https://www.donaldjtrump.com/) changed his mind about his space am
             - [Rachel Maddow Blog / The Rachel Maddow Show - MSNBC](https://www.msnbc.com/maddowblog)
         - [Steve Benen](https://www.msnbc.com/author/steve-benen-ncpn433601)
             - [Ministry of Truth – HarperCollins](https://www.harpercollins.com/products/ministry-of-truth-steve-benen)
-        - [U.S. Transportation Secretary Sean Duffy / US Department of Transportation](https://www.transportation.gov/meet-secretary/us-transportation-secretary-sean-duffy)
-        - [Sean Duffy / LinkedIn](https://www.linkedin.com/in/seanduffywi/)
-        - [Marco Rubio](https://www.state.gov/biographies/marco-rubio/)
-        - [Marco Rubio – LinkedIn](https://www.linkedin.com/in/marcorubio16/)
-[The Planetary Society](https://www.planetary.org/)
-[Casey Dreier / The Planetary Society](https://www.planetary.org/profiles/casey-dreier)
-[Casey Dreier / LinkedIn](https://www.linkedin.com/in/casey-dreier-7371a054/)
-[National Aeronautics and Space Administration (NASA)](https://www.nasa.gov/)
-[Department of State (DOS)](https://www.state.gov/)
-[Department of Transportation (DOT)](https://www.transportation.gov/)
 - organizations 
+- [The Planetary Society](https://www.planetary.org/)
+    - [Casey Dreier / The Planetary Society](https://www.planetary.org/profiles/casey-dreier)
+    - [Casey Dreier / LinkedIn](https://www.linkedin.com/in/casey-dreier-7371a054/)
 - companies
-    - [AIG Insurance Home / AIG US](https://www.aig.com/home)
 - foreign countries 
 - state, local governments
 - political parties 
@@ -115,6 +107,9 @@ Maybe [Trump](https://www.donaldjtrump.com/) changed his mind about his space am
             - [Emil Bove](https://www.linkedin.com/in/emil-bove-0113347/)
             - [Office of the Solicitor General / Office of the Solicitor General](https://www.justice.gov/osg)
                 - [Office of the Solicitor General / Solicitor General D. John Sauer / United States Department of Justice](https://www.justice.gov/osg/staff-profile/solicitor-general-john-sauer)
+    - [National Aeronautics and Space Administration (NASA)](https://www.nasa.gov/)
+    - [Department of State (DOS)](https://www.state.gov/)
+    - [Department of Transportation (DOT)](https://www.transportation.gov/)
     - [Department of Homeland Security (DHS)](https://www.dhs.gov/)
     - [Customs and Border Protection (CBP)](https://www.cbp.gov/)
     - [Drug Enforcement Agency (DEA)](https://www.dea.gov/)
@@ -158,19 +153,8 @@ Maybe [Trump](https://www.donaldjtrump.com/) changed his mind about his space am
     - [Department of Homeland Security (DHS)](https://www.dhs.gov/)
     - [General Services Administration (GSA)](https://www.gsa.gov/)
     - [Federal Bureau of Investigation (FBI)](https://www.fbi.gov/)
-        - James Comey
     - [Central Intelligence Agency (CIA)](https://www.cia.gov/)
-        - John Brennan
     - [Congress](https;//www.congress.gov/)
-        - [GRAMM-LEACH-BLILEY ACT](https://www.govinfo.gov/content/pkg/PLAW-106publ102/html/PLAW-106publ102.htm)
-        - [ECONOMIC GROWTH, REGULATORY RELIEF, AND CONSUMER PROTECTION ACT](https://www.govinfo.gov/content/pkg/PLAW-115publ174/html/PLAW-115publ174.htm)
-        - [The Bank Secrecy Act / FinCEN.gov](https://www.fincen.gov/resources/statutes-and-regulations/bank-secrecy-act)
-        - [Text - H.R.4173 - 111th Congress (2009-2010): Dodd-Frank Wall Street Reform and Consumer Protection Act / Congress.gov / Library of Congress](https://www.congress.gov/bill/111th-congress/house-bill/4173/text)
-        - [Text - H.R.2392 - 119th Congress (2025-2026): STABLE Act of 2025 / Congress.gov / Library of Congress](https://www.congress.gov/bill/119th-congress/house-bill/2392/text)
-        - [Text - H.R.3633 - 119th Congress (2025-2026): Digital Asset Market Clarity Act of 2025 / Congress.gov / Library of Congress](https://www.congress.gov/bill/119th-congress/house-bill/3633/text)
-        - [Stablecoin Legislation: An Overview of S. 919, GENIUS Act of 2025 / Congress.gov / Library of Congress](https://www.congress.gov/crs-product/IN12522)
-        - [Text - S.919 - 119th Congress (2025-2026): GENIUS Act of 2025 / Congress.gov / Library of Congress](https://www.congress.gov/bill/119th-congress/senate-bill/919/text)
-        - [S.1582 - 119th Congress (2025-2026): GENIUS Act / Congress.gov / Library of Congress](https://www.congress.gov/bill/119th-congress/senate-bill/1582)
         - [U.S. Capitol Police](https://www.uscp.gov/)
         - [Senate](https://www.senate.gov/)
             - [Judiciary Committee](http://www.judiciary.senate.gov/)
@@ -258,31 +242,8 @@ Maybe [Trump](https://www.donaldjtrump.com/) changed his mind about his space am
         - [Kash Patel](https://www.fbi.gov/about/leadership-and-structure/director-patel)
         - [Deputy Director Dan Bongino — FBI](https://www.fbi.gov/about/leadership-and-structure/deputy-director-dan-bongino)
         - Kari Lake 
-    - [Amendment to Duties to Address the Flow of Illicit Drugs Across Our Southern Border](https://www.whitehouse.gov/presidential-actions/2025/03/amendment-to-duties-to-address-the-flow-of-illicit-drugs-across-our-southern-border/). Presidential Actions March 6, 2025
-    - [Amendment to Duties to Address the Flow of Illicit Drugs Across Our Northern Border](https://www.whitehouse.gov/presidential-actions/2025/03/amendment-to-duties-to-address-the-flow-of-illicit-drugs-across-our-northern-border-0c3c/). Presidential Actions March 6, 2025
-    - [Fact Sheet: President Donald J. Trump Proceeds with Tariffs on Imports from Canada and Mexico](https://www.whitehouse.gov/fact-sheets/2025/03/fact-sheet-president-donald-j-trump-proceeds-with-tariffs-on-imports-from-canada-and-mexico/). Fact Sheets March 3, 2025
-    - [Further Amendment to Duties Addressing the Synthetic Opioid Supply Chain in the People’s Republic of China](https://www.whitehouse.gov/presidential-actions/2025/03/further-amendment-to-duties-addressing-the-synthetic-opioid-supply-chain-in-the-peoples-republic-of-china/). Presidential Actions March 3, 2025
-    - [Amendment to Duties to Address the Situation at our Southern Border](https://www.whitehouse.gov/presidential-actions/2025/03/amendment-to-duties-to-address-the-situation-at-our-southern-border/). Presidential Actions March 2, 2025
-    - [Fact Sheet: President Donald J. Trump Addresses the Threat to National Security from Imports of Timber, Lumber, and their Derivative Products](https://www.whitehouse.gov/fact-sheets/2025/03/fact-sheet-president-donald-j-trump-addresses-the-threat-to-national-security-from-imports-of-timber-lumber-and-their-derivative-products/). Fact Sheets March 1, 2025
-    - [Addressing the Threat to National Security from Imports of Timber, Lumber](https://www.whitehouse.gov/presidential-actions/2025/03/addressing-the-threat-to-national-security-from-imports-of-timber-lumber/). Presidential Actions March 1, 2025
-    - [Addressing the Threat to National Security from Imports of Copper](https://www.whitehouse.gov/presidential-actions/2025/02/addressing-the-threat-to-nationalsecurity-from-imports-of-copper/). Presidential Actions February 25, 2025
-    - [Fact Sheet: President Donald J. Trump Addresses the Threat to National Security from Imports of Copper](https://www.whitehouse.gov/fact-sheets/2025/02/fact-sheet-president-donald-j-trump-addresses-the-threat-to-national-security-from-imports-of-copper/). Fact Sheets February 25, 2025
-    - [Defending American Companies and Innovators From Overseas Extortion and Unfair Fines and Penalties](https://www.whitehouse.gov/presidential-actions/2025/02/defending-american-companies-and-innovators-from-overseas-extortion-and-unfair-fines-and-penalties/).. Presidential Actions February 21, 2025
-    - [Fact Sheet: President Donald J. Trump Issues Directive to Prevent the Unfair Exploitation of American Innovation](https://www.whitehouse.gov/fact-sheets/2025/02/fact-sheet-president-donald-j-trump-issues-directive-to-prevent-the-unfair-exploitation-of-american-innovation/). Fact Sheets February 21, 2025
-    - [Remarks by President Trump at Republican Governors Association Meeting](https://www.whitehouse.gov/remarks/2025/02/remarks-by-president-trump-at-republican-governors-association-meeting/). Remarks February 20, 2025
-    - [Fact Sheet: President Donald J. Trump Announces “Fair and Reciprocal Plan” on Trade](https://www.whitehouse.gov/fact-sheets/2025/02/fact-sheet-president-donald-j-trump-announces-fair-and-reciprocal-plan-on-trade/). Fact Sheets February 13, 2025
-    - [Fact Sheet: President Donald J. Trump Restores Section 232 Tariffs](https://www.whitehouse.gov/fact-sheets/2025/02/fact-sheet-president-donald-j-trump-restores-section-232-tariffs/). Fact Sheets February 11, 2025
-    - [Adjusting Imports of Aluminum into The United States](https://www.whitehouse.gov/presidential-actions/2025/02/adjusting-imports-of-aluminum-into-the-united-states/). Presidential Actions February 11, 2025
-    - [Adjusting Imports of Steel into The United States](https://www.whitehouse.gov/presidential-actions/2025/02/adjusting-imports-of-steel-into-the-united-states/). Presidential Actions February 10, 2025
-    - [Fact Sheet: President Donald J. Trump Restores American Competitiveness and Security in FCPA Enforcement](https://www.whitehouse.gov/fact-sheets/2025/02/fact-sheet-president-donald-j-trump-restores-american-competitiveness-and-security-in-fcpa-enforcement/). Fact Sheets February 10, 2025
-    - [Amendment to Duties Addressing the Synthetic Opioid Supply Chain in the People’s Republic of China](https://www.whitehouse.gov/presidential-actions/2025/02/amendment-to-duties-addressing-the-synthetic-opioid-supply-chain-in-the-peoples-republic-of-china/). Presidential Actions February 5, 2025
-    - [Progress on the Situation at Our Northern Border](https://www.whitehouse.gov/presidential-actions/2025/02/progress-on-the-situation-at-our-northern-border/). Presidential Actions February 3, 2025
-    - [Progress on the Situation at Our Southern Border](https://www.whitehouse.gov/presidential-actions/2025/02/progress-on-the-situation-at-our-southern-border/). Presidential Actions February 3, 2025
-    - [Imposing Duties to Address the Synthetic Opioid Supply Chain in the People’s Republic of China](https://www.whitehouse.gov/presidential-actions/2025/02/imposing-duties-to-address-the-synthetic-opioid-supply-chain-in-the-peoples-republic-of-china/). Presidential Actions February 1, 2025
-    - [Imposing Duties to Address the Flow of Illicit Drugs Across Our Northern Border](https://www.whitehouse.gov/presidential-actions/2025/02/imposing-duties-to-address-the-flow-of-illicit-drugs-across-our-national-border/). Presidential Actions February 1, 2025
-    - [Fact Sheet: President Donald J. Trump Imposes Tariffs on Imports from Canada, Mexico and China](https://www.whitehouse.gov/fact-sheets/2025/02/fact-sheet-president-donald-j-trump-imposes-tariffs-on-imports-from-canada-mexico-and-china/). Fact Sheets February 1, 2025
-    - [Imposing Duties to Address the Situation at Our Southern Border](https://www.whitehouse.gov/presidential-actions/2025/02/imposing-duties-to-address-the-situation-at-our-southern-border/). Presidential Actions February 1, 2025
-    - [America First Trade Policy](https://www.whitehouse.gov/presidential-actions/2025/01/america-first-trade-policy/). Presidential Actions January 20, 2025
+        - [U.S. Transportation Secretary Sean Duffy / US Department of Transportation](https://www.transportation.gov/meet-secretary/us-transportation-secretary-sean-duffy)
+        - [Sean Duffy / LinkedIn](https://www.linkedin.com/in/seanduffywi/)
 - tariffs
 - politics
 - stupidity
@@ -295,4 +256,3 @@ Maybe [Trump](https://www.donaldjtrump.com/) changed his mind about his space am
 - criminal businesses
 - criminal associates
 - criminal partners
-
