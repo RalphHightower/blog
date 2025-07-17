@@ -7,7 +7,7 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: "Trump’s Tariffs Have Made Landfall. Inflation Is Up:
+title: "Trump’s Tariffs Have Made Landfall. Inflation Is Up"
 ---
 
 
