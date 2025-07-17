@@ -247,7 +247,7 @@ Maybe [Trump](https://www.donaldjtrump.com/) changed his mind about his space am
 - tariffs
 - politics
 - stupidity
-        - grift
+- grift
 - self-dealing
 - corruption
 - con
