@@ -2,7 +2,7 @@
 layout: post
 tags: [media, MSNBC, Miriam E. Rocah, Federal: 2020 Election Interference, January 6 Insurrection / Ralph Hightower/blog, people, Erez Reuveni / LinkedIn, foreign governments, El Salvador, Venezuelan, Web del M.P.P.D.P.S.G.G. (PRINCIPAL), Nicolás Maduro Moros, state local governments, New York City (NYC) New York, Eric Adams – Mayor | Overview | City of New York, federal government, Constitution of the United States, Article I – Legislative Branch, Article II – Executive Branch, Article III – Judicial Branch, Article IV – Relationships Between the States, Article V – Amending the Constitution, Article VI – Prior Debts National Supremacy Clause and Oaths of Office, Article VII – Ratification, Alien Enemies Act, US Courts, District of Columbia / United States District Court, Chief Judge James E. Boasberg / District of Columbia / United States District Court, New York Southern District, Third Circuit / United States Court of Appeals, Criminal Division / Public Integrity Section (PIN) / United States Department of Justice, Homepage / U.S District Court, Hon. Dale E. Ho / U.S District Court, Department of Justice, Congress, Senate, Judiciary Committee, House of Representatives, President of the United States (POTUS), White House (WH), Trump crime family, Donald J Trump, President Donald Trump (45), President Donald Trump (47), President Donald Trump (47) Administration, President Donald Trump (47) Cabinet, Pam Bondi, Emil Bove]
 categories: [Donald Trump]
-date: 
+date: 2025-07-17 8:14 PM
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
