@@ -73,7 +73,6 @@ But I won’t. I’ll say I told you so. And then I’ll get to work on cleaning
             - [Jen Psaki](https://www.msnbc.com/jen-psaki)
 - organizations 
 - companies
-    - [AIG Insurance Home / AIG US](https://www.aig.com/home)
 - foreign countries 
 - state, local governments
 - political parties 
@@ -81,12 +80,14 @@ But I won’t. I’ll say I told you so. And then I’ll get to work on cleaning
     - [Democrat Party](https://www.democrats.org/)
         - [ActBlue](https://secure.actblue.com/)
 - Federal Government 
-    - [Constitution of the United States](https://constitution.congress.gov/)
-        - [U.S. Constitution - Article II / Resources / Constitution Annotated / Congress.gov / Library of Congress](https://constitution.congress.gov/constitution/article-2/)
-        - [U.S. Constitution - Article III / Resources / Constitution Annotated / Congress.gov / Library of Congress](https://constitution.congress.gov/constitution/article-3/)
-        - [First Amendment](https://constitution.congress.gov/constitution/amendment-1/)
-        - [U.S. Constitution - Fourteenth Amendment / Resources / Constitution Annotated / Congress.gov / Library of Congress](https://constitution.congress.gov/constitution/amendment-14/)
-    - [2020 Presidential Election Results – Federal Election Commission (FEC)](https://www.fec.gov/resources/cms-content/documents/federalelections2020.pdf)
+        - [Constitution of the United States](https://constitution.congress.gov/)
+        - [Article I – Legislative Branch](https://constitution.congress.gov/constitution/article-1/)
+        - [Article II – Executive Branch](https://constitution.congress.gov/constitution/article-2/)
+        - [Article III – Judicial Branch](https://constitution.congress.gov/constitution/article-3/)
+        - [Article IV – Relationships Between the States](https://constitution.congress.gov/constitution/article-4/)
+        - [Article V – Amending the Constitution](https://constitution.congress.gov/constitution/article-5/)
+        - [Article VI – Prior Debts, National Supremacy Clause, and Oaths of Office](https://constitution.congress.gov/constitution/article-6/)
+        - [Article VII – Ratification](https://constitution.congress.gov/constitution/article-7/)
     - [Supreme Court of the United States (SCOTUS)](https://www.supremecourt.gov/)
         - [Justices](https://www.supremecourt.gov/about/justices.aspx)
     - [US Courts](https://www.uscourts.gov/)
