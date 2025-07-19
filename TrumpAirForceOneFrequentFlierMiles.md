@@ -19,10 +19,15 @@ title: "Trump: Air Force One Frequent Flyer Miles"
 
 | Time | Location |
 |---|---|
-| | **Sunday, July 19 2025** |
-| ⛳️| The [President](https://www.donaldjtrump.com/) ~~has no public events scheduled~~plays golf🏌‍♂️<br />[Trump National Golf Club Bedminster](https://www.trumpnationalbedminster.com/) Out-of-Town Travel Pool |
-| | **Saturday, July 20 2025** |
-| ⛳️| The [President](https://www.donaldjtrump.com/) ~~has no public events scheduled~~plays golf🏌‍♂️<br />[Trump National Golf Club Bedminster](https://www.trumpnationalbedminster.com/) Out-of-Town Travel Pool |
+| | **Sunday, July 20 2025** |
+| ⛳️| The [President](https://www.donaldjtrump.com/) ~~has no public events scheduled~~plays golf🏌‍♂️<br />[Camp David](https://ndw.cnic.navy.mil/Installations/NSF-Thurmont/) Out-of-Town Travel Pool |
+| 1:00 PM | The [President](https://www.donaldjtrump.com/) departs [Camp David](https://ndw.cnic.navy.mil/Installations/NSF-Thurmont/) en route to The [White House](https://www.whitehouse.gov/) Open Press |
+| | **Saturday, July 19 2025** |
+| 8:30 AM | Arrives [Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/) |
+| ⛳️| The [President](https://www.donaldjtrump.com/) ~~has no public events scheduled~~plays golf🏌‍♂️<br />[Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/) Out-of-Town Travel Pool |
+| 6:00 PM | Departs [Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/) |
+| | **Friday, July 18, 2025** |
+| 8:00 PM | [The President](https://www.donaldjtrump.com/) arrives [Camp David](https://ndw.cnic.navy.mil/Installations/NSF-Thurmont/)<br />[Camp David](https://ndw.cnic.navy.mil/Installations/NSF-Thurmont/) Closed Press |
 | 🔥 [White House](https://www.whitehouse.gov/) 💣| |
 |💰 speech was more a campaign speech | **Tuesday, July 15 2025** |
 | 9:00 AM | In-Town Pool Call Time<br />The [White House](https://www.whitehouse.gov/) In-Town Pool |
