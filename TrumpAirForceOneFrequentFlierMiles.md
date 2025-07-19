@@ -2,8 +2,7 @@
 layout: page
 tags: [The Mar-a-Lago Club, Palm Beach Florida 33480, Trump International Golf Club, West Palm Beach FL 33406, Trump National Doral Golf Club, Miami FL 33178, Trump National Jupiter Golf Club, Jupiter FL 33477, Trump National Golf Club Washington D.C., Potomac Falls VA 20165, Trump National Golf Club Bedminster, Bedminster NJ 07921, Trump National Golf Club Colts Neck, Colts Neck NJ 07722, Trump National Golf Club Philadelphia, Pine Hill NJ 08021, Trump National Golf Club Hudson Valley, Hopewell Junction NY 12533, Trump National Golf Club Los Angeles, Rancho Palos Verdes CA 90275, Trump National Golf Club Charlotte, Mooresville NC 28117, Trump International Golf Club Dubai, Al Hebiah Third District Dubai, Trump International Golf Links & Hotel Ireland Doonbeg, CLARE IRELAND, Trump MacLeod House & Lodge Scotland, Aberdeenshire Scotland AB23 8YE, Trump MacLeod House & Lodge Scotland, Aberdeenshire Scotland AB23 8YE, Trump Turnberry, Ayrshire Scotland]
 categories: [Donald Trump]
-date: 2025-07-15 10:28 PM
-
+date: 2025-07-19 1:14 AM
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
@@ -19,15 +18,19 @@ title: "Trump: Air Force One Frequent Flyer Miles"
 
 | Time | Location |
 |---|---|
-| | **Sunday, July 20 2025** |
-| ⛳️| The [President](https://www.donaldjtrump.com/) ~~has no public events scheduled~~plays golf🏌‍♂️<br />[Camp David](https://ndw.cnic.navy.mil/Installations/NSF-Thurmont/) Out-of-Town Travel Pool |
-| 1:00 PM | The [President](https://www.donaldjtrump.com/) departs [Camp David](https://ndw.cnic.navy.mil/Installations/NSF-Thurmont/) en route to The [White House](https://www.whitehouse.gov/) Open Press |
-| | **Saturday, July 19 2025** |
-| 8:30 AM | Arrives [Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/) |
-| ⛳️| The [President](https://www.donaldjtrump.com/) ~~has no public events scheduled~~plays golf🏌‍♂️<br />[Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/) Out-of-Town Travel Pool |
-| 6:00 PM | Departs [Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/) |
+| | **Sunday, July 20, 2025** |
+| 01:00 PM EDT | [Donnie](https://www.donaldjtrump.com/) leaves [Camp David](https://ndw.cnic.navy.mil/Installations/NSF-Thurmont/) |
+| | **Saturday, July 19, 2025** |
+| 08:00 AM EDT ⛳️| [Donnie](https://www.donaldjtrump.com/) arrives at [Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/) |
+| 06:00 PM EDT ⛳️| [Donnie](https://www.donaldjtrump.com/) leaves [Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/) |
 | | **Friday, July 18, 2025** |
-| 8:00 PM | [The President](https://www.donaldjtrump.com/) arrives [Camp David](https://ndw.cnic.navy.mil/Installations/NSF-Thurmont/)<br />[Camp David](https://ndw.cnic.navy.mil/Installations/NSF-Thurmont/) Closed Press |
+9:00 AM | In-Town Pool Call Time<br />The [White House](https://www.whitehouse.gov/) In-Town Pool |
+11:34 AM | [White House](https://www.whitehouse.gov/) Press Office: Lunch lid until 12:30 PM<br />The [White House](https://www.whitehouse.gov/) |
+11:56 AM | Tom Homan briefs reporters at The Sticks<br />The Sticks - The [White House](https://www.whitehouse.gov/)
+1:30 PM | The [President](https://www.donaldjtrump.com/) participates in a Swearing-In Ceremony for the Commissioner of the [Internal Revenue Service](https://www.irs.gov/)<br />[Oval Office](https://www.whitehouse.gov/) Closed Press |
+2:30 PM | The [President](https://www.donaldjtrump.com/) participates in a Signing Ceremony for [S.1582 GENIUS Act](https://www.congress.gov/bill/119th-congress/senate-bill/1582)<br />East Room Pre-Credentialed Media |
+7:00 PM | The [President](https://www.donaldjtrump.com/) participates in a Dinner with [Trumpian](https://www.gop.com/) [Senators](https://www.whitehouse.gov/)<br />[State Dining Room](https://www.whitehouse.gov/) Closed Press |
+| 08:30 PM EDT | [Donnie](https://www.donaldjtrump.com/) arrives at [Camp David](https://ndw.cnic.navy.mil/Installations/NSF-Thurmont/) |
 | 🔥 [White House](https://www.whitehouse.gov/) 💣| |
 |💰 speech was more a campaign speech | **Tuesday, July 15 2025** |
 | 9:00 AM | In-Town Pool Call Time<br />The [White House](https://www.whitehouse.gov/) In-Town Pool |
