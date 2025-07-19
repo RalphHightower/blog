@@ -1,19 +1,20 @@
 ---
 layout: post
-tags: []
-categories: []
-#date: 2019-06-25 13:14:15
-#excerpt: ''
+tags: [media, MSNBC, Hayley Miller, federal government, Constitution of the United States, Supreme Court of the United States (SCOTUS), US Courts, Department of Justice, New York Southern District, Maurene Comey, Federal Reserve Board, Federal Bureau of Investigation (FBI), James Comey, Congress, Senate, House of Representatives, President of the United States (POTUS), White House (WH), President Joe Biden, President Donald Trump (45), President Donald Trump (47), President Trump (47) Administration, President Trump Administration (47), politics, Jeffrey Epstein, SeanP Diddy]
+categories: [Donald Trump]
+date: 2025-07-18 8:58 PM
+excerpt: 'Fear is the tool of a tyrant. Maurene Comey, former SDNY prosecutor'
+show_excerpt: true
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: 'title'
+title: "Maurene Comey, Former DOJ Prosecutor 'Bye-Bye' Email to Colleagues"
 ---
 
 
 ## [Read Epstein prosecutor Maurene Comey’s letter to colleagues after DOJ firing](https://www.msnbc.com/top-stories/latest/maurene-comey-firing-letter-colleagues-doj-epstein-diddy-prosecutor-rcna219383)
 
-*“Fear is the tool of a tyrant,” wrote the daughter of former [FBI](https://www.fbi.gov/) Director James Comey, a frequent target of President](https://www.whitehouse.gov/) [Donald Trump](https://www.donaldjtrump.com/).*
+*“Fear is the tool of a tyrant,” wrote the daughter of former [FBI](https://www.fbi.gov/) Director James Comey, a frequent target of [President](https://www.whitehouse.gov/) [Donald Trump](https://www.donaldjtrump.com/).*
 
 July 17, 2025, 12:45 PM EDT
 By [Hayley Miller](https://www.msnbc.com/author/hayley-miller-ncpn1277202)
@@ -42,4 +43,28 @@ Maurene
 
 [Hayley Miller](https://www.msnbc.com/author/hayley-miller-ncpn1277202) is the senior blog editor for [MSNBC](https://www.msnbc.com/). Previously, she was a senior reporter on [HuffPost](https://www.huffpost.com/)'s breaking news team. Before she was a reporter, she was a senior editor on [HuffPost](https://www.huffpost.com/)'s blog team.
 
+- media
+- [MSNBC](https://www.msnbc.com)
+    - [Hayley Miller](https://www.msnbc.com/author/hayley-miller-ncpn1277202)
+- federal government
+- [Constitution of the United States](https://constitution.congress.gov/)
+    - [Supreme Court of the United States (SCOTUS)](https://www.supremecourt.gov/)
+    - [US Courts](https://www.uscourts.gov/)
+    - [Department of Justice](https://www.justice.gov/)
+        - [New York, Southern District](https://www.justice.gov/usao-sdny)
+            - Maurene Comey
+    - [Federal Reserve Board](https://www.federalreserve.gov/)
+    - [Federal Bureau of Investigation (FBI)](https://www.fbi.gov/)
+        - James Comey
+    - [Congress](https;//www.congress.gov/)
+    - [Senate](https://www.senate.gov/)
+    - [House of Representatives](https://www.house.gov/)
+    - [President of the United States (POTUS)](https://www.whitehouse.gov/)
+    - [White House (WH)](https://www.whitehouse.gov/)
+    - [President Joe Biden](https://bidenwhitehouse.archives.gov/)
+    - [President Donald Trump (45)](https://trumpwhitehouse.archives.gov/)
+    - [President Donald Trump (47)](https://www.whitehouse.gov/administration/donald-j-trump/)
+        - [President Trump (47) Administration](https://www.whitehouse.gov/administration/)
+        - [President Trump Administration (47)](https://www.whitehouse.gov/administration/)
+- politics
 
