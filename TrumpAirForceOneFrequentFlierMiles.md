@@ -19,10 +19,18 @@ title: "Trump: Air Force One Frequent Flyer Miles"
 | Time | Location |
 |---|---|
 | | **Sunday, July 20, 2025** |
+| 08:15 AM EDT | [Donnie](https://www.donaldjtrump.com) arrives [Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/) to play golf |
+| 06:00 PM EDT | [Donnie](https://www.donaldjtrump.com) leaves [Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/) to burn 🔥 federal government |
+| | **Saturday, July 19 2025** |
+| ⛳️🏌‍♂️The [President](https://www.donaldjtrump.com/) has no public events scheduled<br />The [White House](https://www.whitehouse.gov/) |
+| 7:30 AM | In-Town Pool Call Time<br />The [White House](https://www.whitehouse.gov/) In-Town Pool |
+| 7:45 AM | In-Town Pool Call Time<br />In-Town Pool |
+| 8:35 AM | The [President](https://www.donaldjtrump.com/) departs the [White House](https://www.whitehouse.gov/) for [Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/)<br />The [White House](https://www.whitehouse.gov/) |
+| 9:11 AM | The [President](https://www.donaldjtrump.com/) arrives at [Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/)<br />[Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/) |
+| 3:43 PM | The [President](https://www.donaldjtrump.com/) departs [Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/)<br /[Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/) |
+| 4:18 PM | The [President](https://www.donaldjtrump.com/) arrives at the [White House](https://www.whitehouse.gov/)<br />The [White House](https://www.whitehouse.gov/) |
+| 4:42 PM | [White House](https://www.whitehouse.gov/) Press Office: Full lid called<br />The [White House](https://www.whitehouse.gov/) |
 | 01:00 PM EDT | [Donnie](https://www.donaldjtrump.com/) leaves [Camp David](https://ndw.cnic.navy.mil/Installations/NSF-Thurmont/) |
-| | **Saturday, July 19, 2025** |
-| 08:00 AM EDT ⛳️| [Donnie](https://www.donaldjtrump.com/) arrives at [Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/) |
-| 06:00 PM EDT ⛳️| [Donnie](https://www.donaldjtrump.com/) leaves [Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/) |
 | | **Friday, July 18, 2025** |
 9:00 AM | In-Town Pool Call Time<br />The [White House](https://www.whitehouse.gov/) In-Town Pool |
 11:34 AM | [White House](https://www.whitehouse.gov/) Press Office: Lunch lid until 12:30 PM<br />The [White House](https://www.whitehouse.gov/) |
