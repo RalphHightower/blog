@@ -1,7 +1,7 @@
 ---
 layout: post
-tags: [media, MSNBC, Hayley Miller, federal government, Constitution of the United States, Supreme Court of the United States (SCOTUS), US Courts, Department of Justice, New York Southern District, Maurene Comey, Federal Reserve Board, Federal Bureau of Investigation (FBI), James Comey, Congress, Senate, House of Representatives, President of the United States (POTUS), White House (WH), President Joe Biden, President Donald Trump (45), President Donald Trump (47), President Trump (47) Administration, President Trump Administration (47), politics, Jeffrey Epstein, SeanP Diddy]
-categories: [Donald Trump]
+tags: [media, MSNBC, Hayley Miller, federal government, Constitution of the United States, Supreme Court of the United States (SCOTUS), US Courts, Department of Justice, New York Southern District, Maurene Comey, Federal Reserve Board, Federal Bureau of Investigation (FBI), James Comey, Congress, Senate, House of Representatives, President of the United States (POTUS), White House (WH), President Joe Biden, President Donald Trump (45), President Donald Trump (47), President Trump (47) Administration, President Trump Administration (47), politics, prosecuted, Jeffrey Epstein, Ghislaine Maxwell, Sean “Diddy” Combs]
+categories: [Maurene Comey]
 date: 2025-07-18 8:58 PM
 excerpt: 'Fear is the tool of a tyrant. Maurene Comey, former SDNY prosecutor'
 show_excerpt: true
@@ -55,7 +55,7 @@ Maurene
             - Maurene Comey
     - [Federal Reserve Board](https://www.federalreserve.gov/)
     - [Federal Bureau of Investigation (FBI)](https://www.fbi.gov/)
-        - James Comey
+        - [James Comey](https://www.fbi.gov/history/directors/james-b-comey)
     - [Congress](https;//www.congress.gov/)
     - [Senate](https://www.senate.gov/)
     - [House of Representatives](https://www.house.gov/)
@@ -67,4 +67,7 @@ Maurene
         - [President Trump (47) Administration](https://www.whitehouse.gov/administration/)
         - [President Trump Administration (47)](https://www.whitehouse.gov/administration/)
 - politics
-
+- prosecuted
+    - Jeffrey Epstein
+    - Ghislaine Maxwell
+    - Sean “Diddy” Combs

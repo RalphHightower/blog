@@ -152,7 +152,7 @@ This post updates our [related earlier coverage](https://www.msnbc.com/rachel-ma
     - [Department of Homeland Security (DHS)](https://www.dhs.gov/)
     - [General Services Administration (GSA)](https://www.gsa.gov/)
     - [Federal Bureau of Investigation (FBI)](https://www.fbi.gov/)
-        - James Comey
+        - [James Comey](https://www.fbi.gov/history/directors/james-b-comey)
     - [Central Intelligence Agency (CIA)](https://www.cia.gov/)
         - John Brennan
     - [Congress](https;//www.congress.gov/)

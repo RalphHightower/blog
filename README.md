@@ -25,6 +25,10 @@ Find out who politicians owe their soul to:
 - [OpenSecrets](https://www.opensecrets.org/)
 - [Trump Golf Track](https://trumpgolftrack.com/)
 
+Get access to your federal data:
+
+- [Privacy Act](https://www.npr.org/2025/03/13/1238261955/over-a-dozen-lawsuits-to-stop-doge-data-access-are-betting-on-a-1974-law)
+
 - [50501 — 50 protests, 50 states, 1 movement](https://www.fiftyfifty.one/)
 - [Activist Handbook / Campaigning guides for activists ✊](https://activisthandbook.org/)
 - [American Civil Liberties Union / The ACLU dares to create a more perfect union — beyond one person, party, or side. Our mission is to realize this promise of the United States Constitution for all and expand the reach of its guarantees.](https://www.aclu.org/)
