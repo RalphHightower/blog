@@ -20,6 +20,10 @@ title: "Trump: Air Force One Frequent Flyer Miles"
 |---|---|
 | | **Sunday, July 20, 2025** |
 | 08:15 AM EDT | [Donnie](https://www.donaldjtrump.com) arrives [Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/) to play golf |
+| | [No official White House calendar released as of 11:55 am. Per pool report, travel to [Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/) is the only planned event.]</>The [White House](https://www.whitehouse.gov/) |
+8:54 AM | The [President](https://www.donaldjtrump.com/) departs the [White House](https://www.whitehouse.gov/) for [Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/) | [White House](https://www.whitehouse.gov/) |
+| 9:30 AM | The [President](https://www.donaldjtrump.com/) arrives at [Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/)
+[Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/) |
 | 06:00 PM EDT | [Donnie](https://www.donaldjtrump.com) leaves [Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/) to burn 🔥 federal government |
 | | **Saturday, July 19 2025** |
 | | ⛳️🏌‍♂️[Donnie](https://www.donaldjtrump.com/) ~~has no public events scheduled~~plays golf🏌‍♂️<br />The [White House](https://www.whitehouse.gov/) |
