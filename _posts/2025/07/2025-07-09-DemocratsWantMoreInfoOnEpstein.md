@@ -48,6 +48,7 @@ All of which suggests [Trump](https://www.donaldjtrump.com/)’s efforts to end 
 
 [Steve Benen](https://www.msnbc.com/author/steve-benen-ncpn433601) is a producer for "[The Rachel Maddow Show](https://www.msnbc.com/rachel-maddow-show)," the editor of [MaddowBlog](https://www.msnbc.com/maddowblog) and an [MSNBC](https://www.msnbc.com/) political contributor. He's also the bestselling author of "[Ministry of Truth: Democracy, Reality, and the Republicans' War on the Recent Past](https://www.harpercollins.com/products/ministry-of-truth-steve-benen)."
 
+----
 - media
     - [MSNBC](https://www.msnbc.com/)
         - [Rachel Maddow Show on MSNBC / Watch Rachel Maddow Live](https://www.msnbc.com/rachel-maddow-show)
