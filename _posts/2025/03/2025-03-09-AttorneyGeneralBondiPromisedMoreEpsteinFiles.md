@@ -7,7 +7,7 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: "Trump’s Personal Lawyer, Pam Bondi, Tries Again With 
+title: "Trump’s Personal Lawyer, Pam Bondi, Tries Again With Epstein Files After First Release Revealed Nothing New"
 ---
 
 
