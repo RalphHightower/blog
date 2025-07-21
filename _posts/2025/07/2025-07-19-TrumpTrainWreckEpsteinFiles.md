@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [media, MSNBC, The Briefing With Jen Psaki, Jen Psaki, organizations, companies, foreign countries, state local governments, political parties, Trumpian Party, Democrat Party, Federal Government, Constitution of the United States, Supreme Court of the United States (SCOTUS), US Courts, Department ofJustice (DOJ), Federal Bureau of Investigation (FBI), Congress, U.S. Capitol Police, Senate, House of Representatives, President of the United States (POTUS), White House (WH), President Donald Trump (45), President Donald Trump (47), Donald J Trump, President Trump (47) Administration, President Trump (47) Cabinet, JD Vance, Vice President JD Vance, Pam Bondi, Kash Patel, Deputy Director Dan Bongino — FBI, tariffs, politics, stupidity, grift, self-dealing, corruption, con, crime, cryptocurrency, criminal businesses, criminal associates, criminal partners, criminal businesses, criminal associates, crime partners]
+tags: [media, MSNBC, The Briefing With Jen Psaki, Jen Psaki, organizations, companies, foreign countries, state local governments, political parties, Trumpian Party, Democrat Party, Federal Government, Constitution of the United States, Supreme Court of the United States (SCOTUS), US Courts, Department of Justice (DOJ), Federal Bureau of Investigation (FBI), Congress, U.S. Capitol Police, Senate, House of Representatives, President of the United States (POTUS), White House (WH), President Donald Trump (45), President Donald Trump (47), Donald J Trump, President Trump (47) Administration, President Trump (47) Cabinet, JD Vance, Vice President JD Vance, Pam Bondi, Kash Patel, Deputy Director Dan Bongino — FBI, tariffs, politics, stupidity, grift, self-dealing, corruption, con, crime, cryptocurrency, criminal businesses, criminal associates, criminal partners, criminal businesses, criminal associates, crime partners]
 categories: [Trump Crime Family, Jeffrey Epstein, Donald Trump]
 date: 2025-07-19 5:15 PM
 excerpt: ''
@@ -51,7 +51,7 @@ Subscribe to the MSNBC Daily Newsletter: https://link.msnbc.com/join/5ck/msnbc..
     - [Constitution of the United States](https://constitution.congress.gov/)
     - [Supreme Court of the United States (SCOTUS)](https://www.supremecourt.gov/)
     - [US Courts](https://www.uscourts.gov/)
-    - [Department ofJustice (DOJ)](https://www.justice.gov/)
+    - [Department of Justice (DOJ)](https://www.justice.gov/)
     - [Federal Bureau of Investigation (FBI)](https://www.fbi.gov/)
     - [Congress](https;//www.congress.gov/)
         - [U.S. Capitol Police](https://www.uscp.gov/)

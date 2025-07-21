@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [media, MSNBC, Homepage / Media Matters for America, Matt Gertz / Media Matters for America, organizations, companies, foreign countries, state local governments, political parties, Trumpian Party, Democrat Party, Federal Government, Constitution of the United States, Supreme Court of the United States (SCOTUS), US Courts, Department ofJustice (DOJ), Department of State (DOS), Federal Bureau of Investigation (FBI), Congress, U.S. Capitol Police, Senate, House of Representatives, President of the United States (POTUS), White House (WH), President Donald Trump (45), President Donald Trump (47), Donald J Trump, President Trump (47) Administration, President Trump (47) Cabinet, Pam Bondi, Kash Patel, Deputy Director Dan Bongino — FBI, tariffs, politics, stupidity, grift, self-dealing, corruption, con, crime, cryptocurrency, criminal businesses, criminal associates, criminal partners, criminal businesses, Faux News, Mark Levin, Jesse Watters, Sean Hannity, Greg Gutfeld, Laura Ingraham, criminal associates, Bill O’Reilly / No Spin News, Turning Point USA, The Charlie Kirk Show - Charlie Kirk, Charlie Kirk / LinkedIn, Newsmax, Tucker Carlson, Megyn Kelly, Benny Johnson, crime partners]
+tags: [media, MSNBC, Homepage / Media Matters for America, Matt Gertz / Media Matters for America, organizations, companies, foreign countries, state local governments, political parties, Trumpian Party, Democrat Party, Federal Government, Constitution of the United States, Supreme Court of the United States (SCOTUS), US Courts, Department of Justice (DOJ), Department of State (DOS), Federal Bureau of Investigation (FBI), Congress, U.S. Capitol Police, Senate, House of Representatives, President of the United States (POTUS), White House (WH), President Donald Trump (45), President Donald Trump (47), Donald J Trump, President Trump (47) Administration, President Trump (47) Cabinet, Pam Bondi, Kash Patel, Deputy Director Dan Bongino — FBI, tariffs, politics, stupidity, grift, self-dealing, corruption, con, crime, cryptocurrency, criminal businesses, criminal associates, criminal partners, criminal businesses, Faux News, Mark Levin, Jesse Watters, Sean Hannity, Greg Gutfeld, Laura Ingraham, criminal associates, Bill O’Reilly / No Spin News, Turning Point USA, The Charlie Kirk Show - Charlie Kirk, Charlie Kirk / LinkedIn, Newsmax, Tucker Carlson, Megyn Kelly, Benny Johnson, crime partners]
 categories: [Jeffrey Epstein]
 date: 2025-07-16 2:48 PM
 excerpt: ''
@@ -72,7 +72,7 @@ Cracks [keep forming](https://www.wired.com/story/jeffrey-epstein-list-maga-angr
     - [Constitution of the United States](https://constitution.congress.gov/)
     - [Supreme Court of the United States (SCOTUS)](https://www.supremecourt.gov/)
     - [US Courts](https://www.uscourts.gov/)
-    - [Department ofJustice (DOJ)](https://www.justice.gov/)
+    - [Department of Justice (DOJ)](https://www.justice.gov/)
    - [Department of State (DOS)](https://www.state.gov/)
     - [Federal Bureau of Investigation (FBI)](https://www.fbi.gov/)
     - [Congress](https;//www.congress.gov/)

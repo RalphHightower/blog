@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [media, MSNBC, The Rachel Maddow Show, MaddowBlog, Steve Benen, “Ministry of Truth –  Democracy Reality and the Republicans’ War on the Recent Past.”, Wall Street Journal, organizations, universities, political parties, Democrat Party, Trumpian Party, foreign countries, federal government, Constitution of the United States, Supreme Court of the United States (SCOTUS), Federal Bureau of Investigation (FBI), Department of State (DOS), Office to Monitor and Combat Trafficking in Persons - United States Department of State, Congress, Senate, House of Representatives, President of the United States (POTUS), President Richard Nixon, White House (WH), Donald J Trump, President Donald Trump (45), President Donald Trump (47), President Trump (47) Administration, President Trump (47) Cabinet, Marco Rubio – LinkedIn, Marco Rubio, Michael J. Rigas - United States Department of State, Pam Bondi, Kash Patel, Deputy Director Dan Bongino — FBI, grift, self-dealing, corruption, con, crime, cryptocurrency, criminal businesses, Liars Club, criminal associates, crime partners, human trafficking, sex trafficking]
+tags: [media, MSNBC, The Rachel Maddow Show, MaddowBlog, Steve Benen, “Ministry of Truth –  Democracy Reality and the Republicans’ War on the Recent Past.”, Wall Street Journal, organizations, universities, political parties, Democrat Party, Trumpian Party, foreign countries, federal government, Constitution of the United States, Supreme Court of the United States (SCOTUS), Federal Bureau of Investigation (FBI), Department of State (DOS), Office to Monitor and Combat Trafficking in Persons - United States Department of State, Congress, Senate, House of Representatives, President of the United States (POTUS), White House (WH), Donald J Trump, President Donald Trump (45), President Donald Trump (47), President Trump (47) Administration, President Trump (47) Cabinet, Marco Rubio – LinkedIn, Marco Rubio, Michael J. Rigas - United States Department of State, Pam Bondi, Kash Patel, Deputy Director Dan Bongino — FBI, grift, self-dealing, corruption, con, crime, cryptocurrency, criminal businesses, Liars Club, criminal associates, crime partners, human trafficking, sex trafficking]
 categories: [Jeffrey Epstein, Trump Crime Family, Donald Trump]
 date: 2025-07-18 2:21 PM
 #excerpt: '“I never wrote a picture in my life.” – Donald Trump'
@@ -66,7 +66,6 @@ All of which suggests the first draft of the [president](https://www.donaldjtrum
         - [Senate](https://www.senate.gov/)
         - [House of Representatives](https://www.house.gov/)
     - [President of the United States (POTUS)](https://www.whitehouse.gov/)
-    - [President Richard Nixon](https://www.nixonlibrary.gov/)
     - [White House (WH)](https://www.whitehouse.gov/)
     - [Donald J Trump](https://www.donaldjtrump.com/)
     - [President Donald Trump (45)](https://trumpwhitehouse.archives.gov/)
