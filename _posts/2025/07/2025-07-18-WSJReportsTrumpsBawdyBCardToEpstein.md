@@ -7,7 +7,7 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: "Wall Street Journal Reports of Trump’s Bawdy Birthday Card to Pedophile Jeffrey Epstein:
+title: "Wall Street Journal Reports of Trump’s Bawdy Birthday Card to Pedophile Jeffrey Epstein"
 ---
 
 
