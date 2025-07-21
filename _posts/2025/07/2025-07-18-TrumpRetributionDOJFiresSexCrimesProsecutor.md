@@ -89,3 +89,5 @@ Lisa Rubin is an [MSNBC](https://www.msnbc.com/) legal correspondent and a forme
     - Jeffrey Epstein
     - Ghislaine Maxwell
     - Sean “Diddy” Combs
+- human trafficking 
+- sex trafficking 

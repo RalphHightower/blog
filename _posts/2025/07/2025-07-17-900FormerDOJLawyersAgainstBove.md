@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: [media, MSNBC, Miriam E. Rocah, Federal: 2020 Election Interference, January 6 Insurrection / Ralph Hightower/blog, people, Erez Reuveni / LinkedIn, foreign governments, El Salvador, Venezuelan, Web del M.P.P.D.P.S.G.G. (PRINCIPAL), Nicolás Maduro Moros, state local governments, New York City (NYC) New York, Eric Adams – Mayor | Overview | City of New York, federal government, Constitution of the United States, Article I – Legislative Branch, Article II – Executive Branch, Article III – Judicial Branch, Article IV – Relationships Between the States, Article V – Amending the Constitution, Article VI – Prior Debts National Supremacy Clause and Oaths of Office, Article VII – Ratification, Alien Enemies Act, US Courts, District of Columbia / United States District Court, Chief Judge James E. Boasberg / District of Columbia / United States District Court, New York Southern District, Third Circuit / United States Court of Appeals, Criminal Division / Public Integrity Section (PIN) / United States Department of Justice, Homepage / U.S District Court, Hon. Dale E. Ho / U.S District Court, Department of Justice, Congress, Senate, Judiciary Committee, House of Representatives, President of the United States (POTUS), White House (WH), Trump crime family, Donald J Trump, President Donald Trump (45), President Donald Trump (47), President Donald Trump (47) Administration, President Donald Trump (47) Cabinet, Pam Bondi, Emil Bove]
-categories: [Donald Trump]
+categories: [Emil Bove]
 date: 2025-07-17 8:14 PM
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
@@ -29,8 +29,8 @@ Since his nomination, former federal prosecutors and judges have been ringing al
 
 First, there was [Bove](https://www.linkedin.com/in/emil-bove-0113347/)’s conduct undoing the prosecutions of [Jan. 6 Capitol rioters]({% link January6DocumentDocumentLinks.md %}) and punishing those public servants who had been part of the prosecutions. [Trump](https://www.donaldjtrump.com/)’s pardon dismissals — which [Bove](https://www.linkedin.com/in/emil-bove-0113347/) helped make happen — of thousands of prosecutions by a prior [administration](https://www.whitehouse.gov/administration/) that included trial verdicts, guilty pleas, lengthy sentencing proceedings by judges, months of hard work and sweat by prosecutors and federal agents, is not just bad practice by the [Justice Department](https://www.justice.gov/); it’s a slap in the face to those public servants who worked on these cases and the law enforcement officers injured and traumatized by the events of that day.
 
-Even more shocking, [Bove](https://www.linkedin.com/in/emil-bove-0113347/) led a politically motivated purge of law enforcement professionals who worked on the cases. [He was instrumental](https://www.sidebarsblog.com/p/the-bove-nomination) in the firing of prosecutors who worked on cases because of the claim that they could not be trusted to carry out “[President](https://www.whitehouse.gov/) [Trump](https://www.donaldjtrump.com/)’s agenda” — something that should have no place in employment decisions of federal prosecutors — and he was behind the firing [of FBI agents](https://www.npr.org/2025/02/05/g-s1-46641/fbi-january-6-fired-justice) who had done nothing more than work on cases to which they were assigned. [He claimed](https://apnews.com/article/emil-bove-trump-fbi-enforcer-firings-3f85887e92154b14f7e04cfc521a0399) that these public servants participated “in what the president appropriately described as a ‘grave national injustice’ that has been perpetrated upon the American people.” And [Bove](https://www.linkedin.com/in/emil-bove-0113347/) did all of this despite the fact that as a national security prosecutor in the [Southern District of New York](https://www.justice.gov/usao-sdny), he had [worked on](https://www.nbcnews.com/politics/justice-department/trumps-feared-doj-enforcer-secret-investigated-jan-6-rcna191796) these very same cases.
 
+Even more shocking, [Bove](https://www.linkedin.com/in/emil-bove-0113347/) led a politically motivated purge of law enforcement professionals who worked on the cases. [He was instrumental](https://www.sidebarsblog.com/p/the-bove-nomination) in the firing of prosecutors who worked on cases because of the claim that they could not be trusted to carry out “[President](https://www.whitehouse.gov/) [Trump](https://www.donaldjtrump.com/)’s agenda” — something that should have no place in employment decisions of federal prosecutors — and he was behind the firing [of FBI agents](https://www.npr.org/2025/02/05/g-s1-46641/fbi-january-6-fired-justice) who had done nothing more than work on cases to which they were assigned. [He claimed](https://apnews.com/article/emil-bove-trump-fbi-enforcer-firings-3f85887e92154b14f7e04cfc521a0399) that these public servants participated “in what the president appropriately described as a ‘grave national injustice’ that has been perpetrated upon the American people.” And [Bove](https://www.linkedin.com/in/emil-bove-0113347/) did all of this despite the fact that as a national security prosecutor in the [Southern District of New York](https://www.justice.gov/usao-sdny), he had [worked on](https://www.nbcnews.com/politics/justice-department/trumps-feared-doj-enforcer-secret-investigated-jan-6-rcna191796) these very same cases.
 In his role as acting deputy attorney general, [Bove](https://www.linkedin.com/in/emil-bove-0113347/) orchestrated a brazen dismissal of criminal charges against [New York Mayor Eric Adams](https://www.nytimes.com/2025/02/13/nyregion/danielle-sassoon-quit-eric-adams.html), in what appeared to be a quid pro quo, in exchange for his cooperation with the [Trump](https://www.donaldjtrump.com/) [administration](https://www.whitehouse.gov/administration/) in immigration enforcement efforts. As if that were not bad enough, he tried to force other prosecutors into compliance.
 
 [Trump](https://www.donaldjtrump.com/)’s interim U.S. attorney in [SDNY](https://www.justice.gov/usao-sdny), as well as several other prosecutors in [New York](https://www.ny.gov/), resigned over the episode, stating that it would violate [their ethical](https://www.msnbc.com/opinion/msnbc-opinion/trump-doj-danielle-sassoon-sdny-eric-adams-rcna192273) and [legal obligations](https://www.nytimes.com/interactive/2025/04/22/nyregion/prosecutor-letter.html) to be part of this dismissal. [Bove](https://www.linkedin.com/in/emil-bove-0113347/) [then reportedly assembled](https://www.nbcnews.com/politics/justice-department/justice-department-office-prosecutes-public-corruption-slashed-size-so-rcna195928) members of the [Public Integrity Section](https://www.justice.gov/criminal/criminal-pin) at the [Justice Department](https://www.justice.gov/) and threatened disciplinary action, including possible firing, if one of them did not sign the motion to dismiss — something I have never heard of happening under any [Justice Department](https://www.justice.gov/) leader prior to this. One career attorney who was near retirement ultimately agreed to sign the motion in order to save his colleagues.
@@ -56,12 +56,11 @@ Miriam E. Rocah is the former Westchester County (N.Y.) District Attorney, and f
 - media
 - [MSNBC](https://www.msnbc.com/)
     - Miriam E. Rocah
-- [Federal: 2020 Election Interference, January 6 Insurrection / Ralph Hightower/blog](https://ralphhightower.github.io/blog/January6DocumentDocumentLinks)
 - people 
 - [Erez Reuveni / LinkedIn](https://www.linkedin.com/in/erez-reuveni-5b796b18/)
 foreign governments 
-- [El Salvador](https://www.gob.sv/)
-- [Venezuelan](https://gob.ve/)
+- [El Salvador (SV)](https://www.gob.sv/)
+- [Venezuelan (VE)](https://gob.ve/)
     - [Web del M.P.P.D.P.S.G.G. (PRINCIPAL)](https://presidencia.gob.ve/Site/Web/Principal/paginas/classIndex.php)
     - [Nicolás Maduro Moros](https://presidencia.gob.ve/Site/Web/Principal/paginas/classPresidente.php)
 - state, local governments 
@@ -79,13 +78,13 @@ foreign governments
 - [Alien Enemies Act](https://www.archives.gov/milestone-documents/alien-and-sedition-acts)
 - [US Courts](https://www.uscourts.gov/)
 - [District of Columbia / United States District Court](https://www.dcd.uscourts.gov/)
-- [Chief Judge James E. Boasberg / District of Columbia / United States District Court](https://www.dcd.uscourts.gov/content/chief-judge-james-e-boasberg)
-[New York, Southern District](https://www.justice.gov/usao-sdny)
-[Third Circuit / United States Court of Appeals](https://www.ca3.uscourts.gov/)
-[Criminal Division / Public Integrity Section (PIN) / United States Department of Justice](https://www.justice.gov/criminal/criminal-pin)
-[Homepage / U.S District Court](https://www.nysd.uscourts.gov/)
-[Hon. Dale E. Ho / U.S District Court](https://www.nysd.uscourts.gov/hon-dale-e-ho)
+    - [Chief Judge James E. Boasberg / District of Columbia / United States District Court](https://www.dcd.uscourts.gov/content/chief-judge-james-e-boasberg)
+    - [Third Circuit / United States Court of Appeals](https://www.ca3.uscourts.gov/)
+    - [Homepage / U.S District Court](https://www.nysd.uscourts.gov/)
+        - [Hon. Dale E. Ho / U.S District Court](https://www.nysd.uscourts.gov/hon-dale-e-ho)
 - [Department of Justice](https://www.justice.gov/)
+    - [New York, Southern District](https://www.justice.gov/usao-sdny)
+    - [Criminal Division / Public Integrity Section (PIN) / United States Department of Justice](https://www.justice.gov/criminal/criminal-pin)
 - [Congress](https://www.congress.gov/)
 - [Senate](https://www.senate.gov/)
     - [Judiciary Committee](http://www.judiciary.senate.gov/)
