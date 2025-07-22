@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [media, MSNBC, Zeeshan Aleem, organizations, companies, foreign countries, state local governments, political parties, Trumpian Party, Democrat Party, Federal Government, Constitution of the United States, Supreme Court of the United States (SCOTUS), US Courts, Department ofJustice (DOJ), Department of State (DOS), Federal Bureau of Investigation (FBI), Congress, U.S. Capitol Police, Senate, House of Representatives, Jamie Raskin (D-MD8), Minority Leader, Ro Khanna (D-CA17), President of the United States (POTUS), White House (WH), President Donald Trump (45), President Donald Trump (47), Donald J Trump, President Trump (47) Administration, President Trump (47) Cabinet, JD Vance, Vice President JD Vance, Pam Bondi, Kash Patel, Deputy Director Dan Bongino — FBI, tariffs, politics, stupidity, grift, self-dealing, corruption, con artist, crime, cryptocurrency, criminal businesses, criminal associates, criminal partners, criminal businesses, Faux News, Mark Levin, Jesse Watters, Sean Hannity, Greg Gutfeld, Laura Ingraham, criminal associates, Turning Point USA, Student Action Summit, The Charlie Kirk Show - Charlie Kirk, Charlie Kirk / LinkedIn, Tucker Carlson, Megyn Kelly, Benny Johnson, Alex Jones, Laura Loomer, crime partners, human trafficking, sex trafficking, pedophile]
+tags: [media, MSNBC, Zeeshan Aleem, organizations, companies, foreign countries, state local governments, political parties, Trumpian Party, Democrat Party, Federal Government, Constitution of the United States, Supreme Court of the United States (SCOTUS), US Courts, Department of Justice (DOJ), Department of State (DOS), Federal Bureau of Investigation (FBI), Congress, U.S. Capitol Police, Senate, House of Representatives, Jamie Raskin (D-MD8), Minority Leader, Ro Khanna (D-CA17), President of the United States (POTUS), White House (WH), President Donald Trump (45), President Donald Trump (47), Donald J Trump, President Trump (47) Administration, President Trump (47) Cabinet, JD Vance, Vice President JD Vance, Pam Bondi, Kash Patel, Deputy Director Dan Bongino — FBI, tariffs, politics, stupidity, grift, self-dealing, corruption, con artist, crime, cryptocurrency, criminal businesses, criminal associates, criminal partners, criminal businesses, Faux News, Mark Levin, Jesse Watters, Sean Hannity, Greg Gutfeld, Laura Ingraham, criminal associates, Turning Point USA, Student Action Summit, The Charlie Kirk Show - Charlie Kirk, Charlie Kirk / LinkedIn, Tucker Carlson, Megyn Kelly, Benny Johnson, Alex Jones, Laura Loomer, crime partners, human trafficking, sex trafficking, pedophile]
 categories: [Jeffrey Epstein, Trump Crime Family, Donald Trump]
 date: 2025-07-15 9:26 AM
 excerpt: ''
@@ -11,7 +11,7 @@ title: "Democrats Sieze Opportunity On Trump’s Flip-Flops Over Epstein Files"
 ---
 
 
-## [Trump’s Esptein files flip-flop is giving Democrats a rare opportunity](https://www.msnbc.com/opinion/msnbc-opinion/trump-epstein-files-democrats-response-rcna218675)
+## [Trump’s Epstein files flip-flop is giving Democrats a rare opportunity](https://www.msnbc.com/opinion/msnbc-opinion/trump-epstein-files-democrats-response-rcna218675)
 
 *[Trump](https://www.donaldjtrump.com/) has denied his base a long-promised grand reveal. [Democrats](https://www.democrats.org/) are right to ask why.*
 
@@ -61,23 +61,25 @@ As my colleague Hayes Brown [points out](https://www.msnbc.com/opinion/msnbc-opi
 - [Constitution of the United States](https://constitution.congress.gov/)
     - [Supreme Court of the United States (SCOTUS)](https://www.supremecourt.gov/)
     - [US Courts](https://www.uscourts.gov/)
-    - [Department ofJustice (DOJ)](https://www.justice.gov/)
+    - [Department of Justice (DOJ)](https://www.justice.gov/)
    - [Department of State (DOS)](https://www.state.gov/)
     - [Federal Bureau of Investigation (FBI)](https://www.fbi.gov/)
     - [Congress](https;//www.congress.gov/)
         - [U.S. Capitol Police](https://www.uscp.gov/)
         - [Senate](https://www.senate.gov/)
+            - [J.D. Vance (T-OH)](https://bioguide.congress.gov/search/bio/V000137)
         - [House of Representatives](https://www.house.gov/)
             - [Jamie Raskin (D-MD8)](https://raskin.house.gov/)
-                - [Minority Leader](http://democraticleader.house.gov/)
+                - [Democratic Leader Hakeem Jeffries / Office of the Democratic Leader](http://democraticleader.house.gov/)
             - [Ro Khanna (D-CA17)](https://khanna.house.gov/)
+            - [Marc Veasey (D-TX33)](https://veasey.house.gov/)
             - 
     - [President of the United States (POTUS)](https://www.whitehouse.gov/)
     - [White House (WH)](https://www.whitehouse.gov/)
-     - [President Donald Trump (45)](https://trumpwhitehouse.archives.gov/)
+    - [President Donald Trump (45)](https://trumpwhitehouse.archives.gov/)
     - [President Donald Trump (47)](https://www.whitehouse.gov/administration/donald-j-trump/)
-        - [Donald J Trump](https://www.donaldjtrump.com/)
     - [President Trump (47) Administration](https://www.whitehouse.gov/administration/)
+        - [Donald J Trump](https://www.donaldjtrump.com/)
     - [President Trump (47) Cabinet](https://www.whitehouse.gov/administration/the-cabinet/)
         - [JD Vance](https://www.linkedin.com/in/jd-vance-770a9047/)
         - [Vice President JD Vance](https://www.whitehouse.gov/administration/jd-vance/)

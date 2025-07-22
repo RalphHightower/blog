@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [media, MSNBC, Rachel Maddow Show on MSNBC / Watch Rachel Maddow Live, Rachel Maddow Blog / The Rachel Maddow Show - MSNBC, Steve Benen, Ministry of Truth – HarperCollins, organizations, companies, foreign countries, state local governments, political parties, Trumpian Party, Democrat Party, Federal Government, Constitution of the United States, Supreme Court of the United States (SCOTUS), US Courts, Department ofJustice (DOJ), Department of State (DOS), Federal Bureau of Investigation (FBI), James Comey, Congress, President of the United States (POTUS), Senate, House of Representatives, White House (WH), President Donald Trump (45), President Donald Trump (47), Donald J Trump, President Trump (47) Administration, President Trump (47) Cabinet, JD Vance, Vice President JD Vance, Pam Bondi, Kash Patel, Deputy Director Dan Bongino — FBI, tariffs, politics, stupidity, grift, self-dealing, corruption, con, crime, cryptocurrency, criminal businesses, criminal associates, criminal partners, criminal businesses, Faux News, Mark Levin, Jesse Watters, Sean Hannity, Greg Gutfeld, Laura Ingraham, criminal associates, Bill O’Reilly / No Spin News, Turning Point USA, The Charlie Kirk Show - Charlie Kirk, Charlie Kirk / LinkedIn, Newsmax, Tucker Carlson, Megyn Kelly, Benny Johnson, crime partners]
+tags: [media, MSNBC, Rachel Maddow Show on MSNBC / Watch Rachel Maddow Live, Rachel Maddow Blog / The Rachel Maddow Show - MSNBC, Steve Benen, Ministry of Truth – HarperCollins, organizations, companies, foreign countries, state local governments, political parties, Trumpian Party, Democrat Party, Federal Government, Constitution of the United States, Supreme Court of the United States (SCOTUS), US Courts, Department of Justice (DOJ), Department of State (DOS), Federal Bureau of Investigation (FBI), James Comey, Congress, President of the United States (POTUS), Senate, House of Representatives, White House (WH), President Donald Trump (45), President Donald Trump (47), Donald J Trump, President Trump (47) Administration, President Trump (47) Cabinet, JD Vance, Vice President JD Vance, Pam Bondi, Kash Patel, Deputy Director Dan Bongino — FBI, tariffs, politics, stupidity, grift, self-dealing, corruption, con, crime, cryptocurrency, criminal businesses, criminal associates, criminal partners, criminal businesses, Faux News, Mark Levin, Jesse Watters, Sean Hannity, Greg Gutfeld, Laura Ingraham, criminal associates, Bill O’Reilly / No Spin News, Turning Point USA, The Charlie Kirk Show - Charlie Kirk, Charlie Kirk / LinkedIn, Newsmax, Tucker Carlson, Megyn Kelly, Benny Johnson, crime partners]
 categories: [Jeffrey Epstein, Trump Crime Family, Donald Trump]
 date: 2025-07-17 9:20 AM
 excerpt: ''
@@ -65,7 +65,7 @@ For her part, [Bondi](https://www.justice.gov/ag/staff-profile/meet-attorney-gen
     - [Constitution of the United States](https://constitution.congress.gov/)
     - [Supreme Court of the United States (SCOTUS)](https://www.supremecourt.gov/)
     - [US Courts](https://www.uscourts.gov/)
-    - [Department ofJustice (DOJ)](https://www.justice.gov/)
+    - [Department of Justice (DOJ)](https://www.justice.gov/)
    - [Department of State (DOS)](https://www.state.gov/)
     - [Federal Bureau of Investigation (FBI)](https://www.fbi.gov/)
         - [James Comey](https://www.fbi.gov/history/directors/james-b-comey)
