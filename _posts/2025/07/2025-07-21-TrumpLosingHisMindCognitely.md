@@ -7,7 +7,7 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: "Trump Is Losing His Mind. Not Figuratively, But Cognitively
+title: "Trump Is Losing His Mind. Not Figuratively, But Cognitively"
 ---
 
 
