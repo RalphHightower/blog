@@ -104,7 +104,8 @@ Jordan Rubin is the [Deadline: Legal Blog](https://www.msnbc.com/deadline-white-
 - criminal businesses
 - criminal associates
 - crime partners
-- Jeffrey Epstein 
     - human trafficking 
     - sex trafficking 
     - pedophile 
+        - Jeffrey Epstein 
+        - Ghislaine Maxwell
