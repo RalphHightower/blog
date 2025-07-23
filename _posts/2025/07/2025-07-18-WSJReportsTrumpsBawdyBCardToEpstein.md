@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: [media, MSNBC, James Downie, Wall Street Journal, organizations, universities, political parties, Democrat Party, Trumpian Party, foreign countries, federal government, Constitution of the United States, Supreme Court of the United States (SCOTUS), Federal Bureau of Investigation (FBI), James Comey, Congress, Senate, House of Representatives, House Judiciary Committee Republicans /, Jamie Raskin (D-MD8), President of the United States (POTUS), White House (WH), Donald J Trump, President Donald Trump (45), President Donald Trump (47), President Trump (47) Administration, President Trump (47) Cabinet, Pam Bondi, Kash Patel, Deputy Director Dan Bongino — FBI, grift, self-dealing, corruption, con, crime, cryptocurrency, criminal businesses, Liars Club, criminal associates, crime partners, human trafficking, sex trafficking]
-categories: [Jeffrey Epstein, Trump Crime Family, Donald Trump]
+categories: [Jeffrey Epstein, Ghislaine Maxwell, Trump Crime Family, Donald Trump]
 date: 2025-07-18 10:35 AM
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
@@ -85,6 +85,8 @@ James Downie is a writer and editor for [MSNBC](https://www.msnbc.com/) Daily. H
     - [Liars Club](https://truthsocial.com/)
 - criminal associates
 - crime partners
-- human trafficking 
-- sex trafficking 
-
+    - human trafficking 
+    - sex trafficking 
+    - pedophile 
+        - Jeffrey Epstein 
+        - Ghislaine Maxwell

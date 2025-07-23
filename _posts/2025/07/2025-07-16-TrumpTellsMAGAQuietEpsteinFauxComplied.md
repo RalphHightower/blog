@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: [media, MSNBC, Homepage / Media Matters for America, Matt Gertz / Media Matters for America, organizations, companies, foreign countries, state local governments, political parties, Trumpian Party, Democrat Party, Federal Government, Constitution of the United States, Supreme Court of the United States (SCOTUS), US Courts, Department of Justice (DOJ), Department of State (DOS), Federal Bureau of Investigation (FBI), Congress, U.S. Capitol Police, Senate, House of Representatives, President of the United States (POTUS), White House (WH), President Donald Trump (45), President Donald Trump (47), Donald J Trump, President Trump (47) Administration, President Trump (47) Cabinet, Pam Bondi, Kash Patel, Deputy Director Dan Bongino — FBI, tariffs, politics, stupidity, grift, self-dealing, corruption, con, crime, cryptocurrency, criminal businesses, criminal associates, criminal partners, criminal businesses, Faux News, Mark Levin, Jesse Watters, Sean Hannity, Greg Gutfeld, Laura Ingraham, criminal associates, Bill O’Reilly / No Spin News, Turning Point USA, The Charlie Kirk Show - Charlie Kirk, Charlie Kirk / LinkedIn, Newsmax, Tucker Carlson, Megyn Kelly, Benny Johnson, crime partners]
-categories: [Jeffrey Epstein]
+categories: [Jeffrey Epstein, Ghislaine Maxwell, Trump Crime Family, Donald Trump]
 date: 2025-07-16 2:48 PM
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
@@ -57,6 +57,7 @@ Cracks [keep forming](https://www.wired.com/story/jeffrey-epstein-list-maga-angr
 [Matt Gertz](https://www.mediamatters.org/author/matt-gertz) is a senior fellow at [Media Matters for America](https://www.mediamatters.org/), a progressive research center that monitors the U.S. media. His work focuses on the relationship between [Faux News](https://www.foxnews.com/) and the [Republican Party](https://www.gop.com/), media ethics and news coverage of politics and elections.
 
 
+----
 - media
 - [MSNBC](https://www.msnbc.com/)
 - [Homepage / Media Matters for America](https://www.mediamatters.org/)
@@ -118,3 +119,9 @@ Cracks [keep forming](https://www.wired.com/story/jeffrey-epstein-list-maga-angr
     - [Megyn Kelly](https://www.megynkelly.com/)
     - Benny Johnson 
 - crime partners
+    - human trafficking 
+    - sex trafficking 
+    - pedophile 
+        - Jeffrey Epstein 
+        - Ghislaine Maxwell
+

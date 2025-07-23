@@ -64,6 +64,7 @@ Speaking in Kyiv on Wednesday, [Zelenskyy](https://www.president.gov.ua/) said t
 [Zelenskyy](https://www.president.gov.ua/) said he will ask pollsters in the coming weeks to conduct surveys on the public’s trust in him and share the results with the [Trump a dministration](https://www.whitehouse.gov/) .
 
 ### Millions of deaths
+
 **WHAT [TRUMP](https://www.whitehouse.gov/) SAID**: “When you see what’s taken place in [Ukraine](https://www.gov.ua/) with millions of people killed, including the soldiers, millions of people killed, a big percentage of their cities knocked down to the ground, I don’t know how anybody even lives there.”
 
 

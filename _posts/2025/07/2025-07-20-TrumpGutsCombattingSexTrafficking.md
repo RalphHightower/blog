@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: [media, MSNBC, Ja’han Jones, Mother Jones – Smart fearless journalism, Pema Levy – Mother Jones, NBC News, Politico, Washington / WA.gov, Federal Government, Constitution of the United States, Supreme Court of the United States (SCOTUS), Federal Bureau of Investigation (FBI), Department of State (DOS), Office to Monitor and Combat Trafficking in Persons - United States Department of State, Congress, Senate, House of Representatives, Sarah McBride (D-DE0), President of the United States (POTUS), White House (WH), Donald J Trump, President Donald Trump (45), President Donald Trump (47), President Trump (47) Administration, President Trump (47) Cabinet, Marco Rubio – LinkedIn, Marco Rubio, Michael J. Rigas - United States Department of State, Pam Bondi, Kash Patel, Deputy Director Dan Bongino — FBI, grift, self-dealing, corruption, con, crime, cryptocurrency, criminal businesses, criminal associates, crime partners, human trafficking, sex trafficking]
-categories: [Jeffrey Epstein, Trump Crime Family, Donald Trump]
+categories: [Jeffrey Epstein, Ghislaine Maxwell, Trump Crime Family, Donald Trump]
 date: 2025-07-19 12:19 PM
 #excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
@@ -94,5 +94,8 @@ Ja’han Jones is an [MSNBC](https://www.msnbc.com/) opinion blogger. He previou
 - criminal businesses
 - criminal associates
 - crime partners
-- human trafficking 
-- sex trafficking 
+    - human trafficking 
+    - sex trafficking 
+    - pedophile 
+        - Jeffrey Epstein 
+        - Ghislaine Maxwell

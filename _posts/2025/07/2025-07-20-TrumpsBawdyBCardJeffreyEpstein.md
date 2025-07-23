@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: [media, MSNBC, The Rachel Maddow Show, MaddowBlog, Steve Benen, “Ministry of Truth –  Democracy Reality and the Republicans’ War on the Recent Past.”, Wall Street Journal, organizations, universities, political parties, Democrat Party, Trumpian Party, foreign countries, federal government, Constitution of the United States, Supreme Court of the United States (SCOTUS), Federal Bureau of Investigation (FBI), Department of State (DOS), Office to Monitor and Combat Trafficking in Persons - United States Department of State, Congress, Senate, House of Representatives, President of the United States (POTUS), White House (WH), Donald J Trump, President Donald Trump (45), President Donald Trump (47), President Trump (47) Administration, President Trump (47) Cabinet, Marco Rubio – LinkedIn, Marco Rubio, Michael J. Rigas - United States Department of State, Pam Bondi, Kash Patel, Deputy Director Dan Bongino — FBI, grift, self-dealing, corruption, con, crime, cryptocurrency, criminal businesses, Liars Club, criminal associates, crime partners, human trafficking, sex trafficking]
-categories: [Jeffrey Epstein, Trump Crime Family, Donald Trump]
+categories: [Jeffrey Epstein, Ghislaine Maxwell, Trump Crime Family, Donald Trump]
 date: 2025-07-18 2:21 PM
 #excerpt: '“I never wrote a picture in my life.” – Donald Trump'
 #image: 'BASEURL/assets/blog/img/.png'
@@ -88,6 +88,8 @@ All of which suggests the first draft of the [president](https://www.donaldjtrum
     - [Liars Club](https://truthsocial.com/)
 - criminal associates
 - crime partners
-- human trafficking 
-- sex trafficking 
-
+    - human trafficking 
+    - sex trafficking 
+    - pedophile 
+        - Jeffrey Epstein 
+        - Ghislaine Maxwell

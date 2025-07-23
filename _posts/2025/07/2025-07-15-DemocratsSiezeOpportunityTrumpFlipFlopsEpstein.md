@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: [media, MSNBC, Zeeshan Aleem, organizations, companies, foreign countries, state local governments, political parties, Trumpian Party, Democrat Party, Federal Government, Constitution of the United States, Supreme Court of the United States (SCOTUS), US Courts, Department of Justice (DOJ), Department of State (DOS), Federal Bureau of Investigation (FBI), Congress, U.S. Capitol Police, Senate, House of Representatives, Jamie Raskin (D-MD8), Minority Leader, Ro Khanna (D-CA17), President of the United States (POTUS), White House (WH), President Donald Trump (45), President Donald Trump (47), Donald J Trump, President Trump (47) Administration, President Trump (47) Cabinet, JD Vance, Vice President JD Vance, Pam Bondi, Kash Patel, Deputy Director Dan Bongino — FBI, tariffs, politics, stupidity, grift, self-dealing, corruption, con artist, crime, cryptocurrency, criminal businesses, criminal associates, criminal partners, criminal businesses, Faux News, Mark Levin, Jesse Watters, Sean Hannity, Greg Gutfeld, Laura Ingraham, criminal associates, Turning Point USA, Student Action Summit, The Charlie Kirk Show - Charlie Kirk, Charlie Kirk / LinkedIn, Tucker Carlson, Megyn Kelly, Benny Johnson, Alex Jones, Laura Loomer, crime partners, human trafficking, sex trafficking, pedophile]
-categories: [Jeffrey Epstein, Trump Crime Family, Donald Trump]
+categories: [Jeffrey Epstein, Ghislaine Maxwell, Trump Crime Family, Donald Trump]
 date: 2025-07-15 9:26 AM
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
@@ -116,7 +116,10 @@ As my colleague Hayes Brown [points out](https://www.msnbc.com/opinion/msnbc-opi
     - Alex Jones 
     - [Laura Loomer](https://www.loomered.com/)
 - crime partners
-- human trafficking 
-- sex trafficking 
-- pedophile 
+    - human trafficking 
+    - sex trafficking 
+    - pedophile 
+        - Jeffrey Epstein 
+        - Ghislaine Maxwell
+
 
