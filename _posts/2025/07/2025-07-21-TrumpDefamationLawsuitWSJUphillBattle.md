@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: [media, MSNBC, Deadline –  Legal Blog, Jordan Rubin, Wall Street Journal (WSJ), organizations, companies, Dow Jones – Trusted News & Data, News Corp, foreign countries, state local governments, political parties, Trumpian Party, Democrat Party, Federal Government, Constitution of the United States, Supreme Court of the United States (SCOTUS), US Courts, Department of Justice (DOJ), Department of State (DOS), Federal Bureau of Investigation (FBI), James Comey, Congress, President of the United States (POTUS), Senate, House of Representatives, White House (WH), President Donald Trump (45), President Donald Trump (47), Donald J Trump, President Trump (47) Administration, President Trump (47) Cabinet, JD Vance, Vice President JD Vance, Pam Bondi, Kash Patel, Deputy Director Dan Bongino — FBI, tariffs, politics, stupidity, grift, self-dealing, corruption, con, crime, cryptocurrency, criminal businesses, criminal associates, criminal partners, criminal businesses, criminal associates, crime partners, Jeffrey Epstein, human trafficking, sex trafficking, pedophile]
-categories: [Jeffrey Epstein, Trump Crime Family, Donald Trump]
+categories: [Jeffrey Epstein, Ghislaine Maxwell, Trump Crime Family, Donald Trump]
 date: 2025-07-21 3:28 PM
 #excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
@@ -52,6 +52,7 @@ Subscribe to the [Deadline: Legal Newsletter](https://link.msnbc.com/join/5ck/ms
 
 Jordan Rubin is the [Deadline: Legal Blog](https://www.msnbc.com/deadline-white-house) writer. He was a prosecutor for the [New York County District Attorney’s Office](https://manhattanda.org/) in [Manhattan](https://manhattanda.org/) and is the author of “Bizarro," a book about the secret war on synthetic drugs. Before he joined [MSNBC](https://www.msnbc.com/), he was a legal reporter for [Bloomberg Law](https://pro.bloomberglaw.com/).
 
+----
 - media
 - [MSNBC](https://www.msnbc.com/)
     - [Deadline: Legal Blog](https://www.msnbc.com/deadline-white-house)
@@ -104,7 +105,8 @@ Jordan Rubin is the [Deadline: Legal Blog](https://www.msnbc.com/deadline-white-
 - criminal businesses
 - criminal associates
 - crime partners
-- Jeffrey Epstein 
     - human trafficking 
     - sex trafficking 
     - pedophile 
+        - Jeffrey Epstein 
+        - Ghislaine Maxwell

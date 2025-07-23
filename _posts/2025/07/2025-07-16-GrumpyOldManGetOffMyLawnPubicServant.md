@@ -11,7 +11,7 @@ title: "Grumpy Old Man, Trump, Yells to Public Servant, Jerome Powell: Hey! Get 
 ---
 
 
-## ‘Old man’s grudge against a public servant’: Economist slams Trump](https://www.donaldjtrump.com/)
+## ‘Old man’s grudge against a public servant’: Economist slams [Trump](https://www.donaldjtrump.com/)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VeqTv249q-c?si=cN-AebmuXmWu5Eeb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

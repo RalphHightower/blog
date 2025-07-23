@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: [media, MSNBC, ABC News, CBS News, NBC News, Associated Press (AP), The Independent / Latest news and features from US UK and worldwide, Politics Policy Political News - POLITICO, organizations, Southern Poverty Law Center / Apathy Is Not An Option, federal government, Department of Justice (DOJ), Federal Bureau of Investigation (FBI), Federal Bureau of Prisons (FBOP), Trump crime businesses, Donald J Trump, DT Marks DEFI LLC, World Liberty Financial, Donald Trump Jr. / LinkedIn, Eric F. Trump / LinkedIn, Barron Trump, Zak Folkman / LinkedIn, Steven Witkoff, Alex Witkoff, Corey Caplan, Corey Kaplan / LinkedIn, Ryan Fang / LinkedIn, Brandi Reynolds CAMS-Audit CCAS / LinkedIn, The Executive Branch Club, Donald Trump Jr. / LinkedIn, Eric F. Trump / LinkedIn, Omeed Malik / LinkedIn, Chris Buskirk, Zachary Witkoff / LinkedIn, Alex Witkoff, Steve Witkoff, David Sacks, Chamath Palihapitiya / LinkedIn, Cameron Winklevoss / LinkedIn, Tyler Winklevoss / LinkedIn, Adam Foroughi / LinkedIn, Jeff Miller, Trump Organization, Thomas DiFiore FRM·CAIA / LinkedIn, Alex Dulub / LinkedIn, Alex Golubitsky / LinkedIn, Chase Herro, Octavian Lojnita / LinkedIn, Matt Morgan, Sandy Peng, Luke Pearson, Bogdan Purnavel / LinkedIn, Rich Teo / LinkedIn, Barron Trump, Rafael Yakobi / LinkedIn, $TRUMP, $MELANIA, Trump Media and Technology Group, The Mar-a-Lago Club, Trump International Golf Club, Trump National Doral Golf Club, Trump National Jupiter Golf Club, Trump National Golf Club Washington D.C., Trump National Golf Club Bedminster, Trump National Golf Club Colts Neck, Trump National Golf Club Philadelphia, Trump National Golf Club Hudson Valley, Trump National Golf Club Westchester, Trump National Golf Club Los Angeles, Trump International Golf Club Dubai, Trump International Golf Links & Hotel Ireland Doonbeg, Trump MacLeod House & Lodge Scotland, Trump Turnberry, Trump crime family, Ivanka Trump, Jared Kushner, Adam Foroughi / LinkedIn, President Donald Trump (45), President Donald Trump (47), President Trump (47) Administration, President Trump (47) Cabinet, President Donald Trump (47), President Trump Administration (47), Vice President JD Vance, JD Vance / LinkedIn, Pam Bondi, Kash Patel, Deputy Director Dan Bongino — FBI, grift, self-dealing, cryptocurrency, corruption, con man, crime, businesses, Faux News, Infowars, Alex Jones, BlazeTV, Liz Wheeler, associates, Mike Cernovich, Jack Posobiec, Rogan O’Handley, Chaya Raichik, Laura Loomer, Rogan O’Handley / LinkedIn, Chaya Raichik / LinkedIn, Collin Rugg / LinkedIn, partners]
-categories: [Jeffrey Epstein, Trump Crime Family, Donald Trump]
+categories: [Jeffrey Epstein, Ghislaine Maxwell, Trump Crime Family, Donald Trump]
 date: 2025-06-09 9:46 AM
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
@@ -158,4 +158,10 @@ Jared Holt is a reporter and researcher who studies hate and extremist movements
 - [Rogan O'Handley / LinkedIn](https://www.linkedin.com/in/rogan-o-handley-93850623/)
 - [Chaya Raichik / LinkedIn](https://www.linkedin.com/in/chaya-raichik-97482b55/)
 - [Collin Rugg / LinkedIn](https://www.linkedin.com/in/collin-rugg-1a68a9184/)
-- partners
+- crime partners
+    - human trafficking 
+    - sex trafficking 
+    - pedophile 
+        - Jeffrey Epstein 
+        - Ghislaine Maxwell
+

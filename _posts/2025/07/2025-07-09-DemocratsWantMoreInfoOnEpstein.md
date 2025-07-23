@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: [media, MSNBC, Rachel Maddow Show on MSNBC / Watch Rachel Maddow Live, Rachel Maddow Blog / The Rachel Maddow Show - MSNBC, Steve Benen, Ministry of Truth – HarperCollins, organizations, companies, foreign countries, Afghanistan (AF), state local governments, political parties, Trumpian Party, Democrat Party, Federal Government, Constitution of the United States, Supreme Court of the United States (SCOTUS), US Courts, Department of Justice (DOJ), Department of State (DOS), Federal Bureau of Investigation (FBI), Congress, U.S. Capitol Police, Senate, House of Representatives, Jamie Raskin (D-MD8), President of the United States (POTUS), White House (WH), President Donald Trump (45), President Donald Trump (47), Donald J Trump, President Trump (47) Administration, President Trump (47) Cabinet, JD Vance, Vice President JD Vance, Pam Bondi, Kash Patel, Deputy Director Dan Bongino — FBI, tariffs, politics, stupidity, grift, self-dealing, corruption, con, crime, cryptocurrency, criminal businesses, criminal associates, criminal partners, criminal businesses, Faux News, Mark Levin, Jesse Watters, Sean Hannity, Greg Gutfeld, Laura Ingraham, criminal associates, Bill O’Reilly / No Spin News, Turning Point USA, The Charlie Kirk Show - Charlie Kirk, Charlie Kirk / LinkedIn, Newsmax, Tucker Carlson, Megyn Kelly, Benny Johnson, crime partners]
-categories: [Jeffrey Epstein, Trump Crime Family, Donald Trump]
+categories: [Jeffrey Epstein, Ghislaine Maxwell, Trump Crime Family, Donald Trump]
 date: 2025-07-09 5:14 PM
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
@@ -116,3 +116,9 @@ All of which suggests [Trump](https://www.donaldjtrump.com/)’s efforts to end 
     - [Megyn Kelly](https://www.megynkelly.com/)
     - Benny Johnson 
 - crime partners
+    - human trafficking 
+    - sex trafficking 
+    - pedophile 
+        - Jeffrey Epstein 
+        - Ghislaine Maxwell
+
