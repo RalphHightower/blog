@@ -19,15 +19,20 @@ title: "Trump: Air Force One Frequent Flyer Miles"
 | Time | Location |
 |---|---|
 | | **Tuesday, July 29, 2025** |
-| | **[Trump Turnberry](https://www.turnberry.co.uk/)** <br /> Maidens Road KA26 9LT Turnberry <br /> Ayrshire Scotland <br /> <a href="tel:+441655331000">+44.1655.331.000</a> <br /> <a href="tel:+4401655334115">+44 01655 334115</a> |
+| ⛳️| **[Trump Turnberry](https://www.turnberry.co.uk/)** <br /> Maidens Road KA26 9LT Turnberry <br /> Ayrshire Scotland <br /> <a href="tel:+441655331000">+44.1655.331.000</a> <br /> <a href="tel:+4401655334115">+44 01655 334115</a> |
 | | **Monday, July 28, 2025** |
-| | **[Trump Turnberry](https://www.turnberry.co.uk/)** <br /> Maidens Road KA26 9LT Turnberry <br /> Ayrshire Scotland <br /> <a href="tel:+441655331000">+44.1655.331.000</a> <br /> <a href="tel:+4401655334115">+44 01655 334115</a> |
-| | **Sunday, July 27, 2025** |
-| | **[Trump Turnberry](https://www.turnberry.co.uk/)** <br /> Maidens Road KA26 9LT Turnberry <br /> Ayrshire Scotland <br /> <a href="tel:+441655331000">+44.1655.331.000</a> <br /> <a href="tel:+4401655334115">+44 01655 334115</a> |
-| | **Saturday, July 26, 2025** |
-| | **[Trump Turnberry](https://www.turnberry.co.uk/)** <br /> Maidens Road KA26 9LT Turnberry <br /> Ayrshire Scotland <br /> <a href="tel:+441655331000">+44.1655.331.000</a> <br /> <a href="tel:+4401655334115">+44 01655 334115</a> |
-| | **Friday, July 25, 2025** |
-| | **[Trump Turnberry](https://www.turnberry.co.uk/)** <br /> Maidens Road KA26 9LT Turnberry <br /> Ayrshire Scotland <br /> <a href="tel:+441655331000">+44.1655.331.000</a> <br /> <a href="tel:+4401655334115">+44 01655 334115</a> |
+| ⛳️| **[Trump Turnberry](https://www.turnberry.co.uk/)** <br /> Maidens Road KA26 9LT Turnberry <br /> Ayrshire Scotland <br /> <a href="tel:+441655331000">+44.1655.331.000</a> <br /> <a href="tel:+4401655334115">+44 01655 334115</a> |
+| | **Sunday, July 27 2025** |
+| 🍵| The [President](https://www.donaldjtrump.com/) ~~has no public events scheduled~~plays golf🏌‍♂️<br />[Trump Turnberry](https://www.turnberry.co.uk/), Girvan, Scotland Out-of-Town Travel Pool |
+| 5:00 AM | Out-of-Town Travel Pool Call Time [10:00 AM Local]<br />[Trump Turnberry](https://www.turnberry.co.uk/), Girvan, Scotland Out-of-Town Travel Pool |
+| ⛳️| **Saturday, July 26 2025** |
+| | The [President](https://www.donaldjtrump.com/) ~~has no public events scheduled~~plays golf🏌‍♂️<br />[Trump Turnberry](https://www.turnberry.co.uk/), Girvan, Scotland Out-of-Town Travel Pool |
+| 5:00 AM | Out-of-Town Travel Pool Call Time [10:00 AM Local]<br />[Trump Turnberry](https://www.turnberry.co.uk/), Girvan, Scotland Out-of-Town Travel Pool |
+| | **Friday, July 25 2025** |
+| 7:00 AM | Out-of-Town Travel Pool Call Time<br />[Joint Base Andrews](https://www.jba.af.mil/) Out-of-Town Travel Pool |
+| 7:30 AM | In-Town Pool Call Time<br />The [White House](https://www.whitehouse.gov/) In-Town Pool |
+| 8:00 AM | The [President](https://www.donaldjtrump.com/) departs the [White House](https://www.whitehouse.gov/) en route [Trump Turnberry, Scotland](https://www.turnberry.co.uk/)<br />The [White House](https://www.whitehouse.gov/) Open Press |
+| 3:20 PM | The [President](https://www.donaldjtrump.com/) arrives Turnberry, Scotland [8:20 PM Local]<br />[Trump Turnberry](https://www.turnberry.co.uk/), Girvan, Scotland Out-of-Town Travel Pool |
 | | 🔥 [White House](https://www.whitehouse.gov/) 💣| 
 | | **Sunday, July 20, 2025** |
 | 🏌‍♂️⛳️| No official [White House](https://www.whitehouse.gov/) calendar released as of 11:55 am. Per pool report, travel to [Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/) is the only planned event.]<br />The [White House](https://www.whitehouse.gov/) |
