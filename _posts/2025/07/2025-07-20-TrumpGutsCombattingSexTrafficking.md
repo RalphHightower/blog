@@ -68,7 +68,7 @@ Ja’han Jones is an [MSNBC](https://www.msnbc.com/) opinion blogger. He previou
     - [Federal Bureau of Investigation (FBI)](https://www.fbi.gov/)
     - [Department of State (DOS)](https://www.state.gov/)
         - [Office to Monitor and Combat Trafficking in Persons - United States Department of State](https://www.state.gov/bureaus-offices/under-secretary-for-foreign-assistance-humanitarian-affairs-and-religious-freedom/office-to-monitor-and-combat-trafficking-in-persons)
-        - [Congress](https;//www.congress.gov/)
+        - [Congress](https://www.congress.gov/)
         - [Senate](https://www.senate.gov/)
         - [House of Representatives](https://www.house.gov/)
             - [Sarah McBride (D-DE0)](https://mcbride.house.gov/)[^10]

@@ -34,7 +34,7 @@ In fact, just hours before [Trump](https://www.donaldjtrump.com/)’s [Texas](ht
 
 [Trump](https://www.donaldjtrump.com/) himself has said that [California](https://www.ca.gov/) instituting a restrictive voter identification law is a [“condition” for him to administer more money](https://www.msnbc.com/the-reidout/reidout-blog/trump-wants-california-institute-restrictive-voter-id-law-receiving-wi-rcna189458), so he clearly doesn’t think politicization of disaster aid is a problem — despite his [lie-filled allegations about President Joe Biden’s administration after Hurricane Helene last fall](https://www.vox.com/politics/376982/trump-hurricane-helene-fema-lies-debunked).
 
-[Trump](https://www.donaldjtrump.com/)’s [administration](https://www.whitehouse.gov/administration/) also has [denied a request from another Democrat](https://washingtonstatestandard.com/briefs/for-a-second-time-fema-rejects-wa-request-for-bomb-cyclone-disaster-aid/), [Washington]() state [Gov.]() [Bob Ferguson](), to issue a major disaster declaration that would unlock funds to help his state recover from a bomb cyclone in November. The [Federal Emergency Management Agency](https://www.ca.gov/) concluded that such a declaration is [“not warranted.”](https://www.murray.senate.gov/wp-content/uploads/2025/06/WA-ATD-Letter.pdf)
+[Trump](https://www.donaldjtrump.com/)’s [administration](https://www.whitehouse.gov/administration/) also has [denied a request from another Democrat](https://washingtonstatestandard.com/briefs/for-a-second-time-fema-rejects-wa-request-for-bomb-cyclone-disaster-aid/), [Washington](https://wa.gov/your-government) state [Gov.](https://governor.wa.gov/) [Bob Ferguson](https://governor.wa.gov/about/office-governor/about-governor-ferguson), to issue a major disaster declaration that would unlock funds to help his state recover from a bomb cyclone in November. The [Federal Emergency Management Agency](https://www.ca.gov/) concluded that such a declaration is [“not warranted.”](https://www.murray.senate.gov/wp-content/uploads/2025/06/WA-ATD-Letter.pdf)
 
 And the administration has [denied North Carolina Democratic Gov. Josh Stein’s request](https://governor.nc.gov/news/press-releases/2025/05/23/statement-governor-josh-stein-femas-denial-north-carolinas-reimbursement-request) to get fully reimbursed for Helene cleanup, a move that could severely undermine the state’s years-long recovery efforts. [FEMA](https://www.fema.gov/) similarly determined that the request is “not warranted.”
 
@@ -51,15 +51,18 @@ The [president](https://www.whitehouse.gov/) has been outspoken about his goal o
     - [California State Government](://www.ca.gov/)
         - [Gavin Newsom / Governor of California](https://www.gov.ca.gov/about/)
             - [Cal Guard / Cal Guard](https://calguard.ca.gov/)
-    - [City of Los Angeles](https://lacity.gov/)
-        - [mayor.lacity.gov](https://mayor.lacity.gov/)
-        - [Mayor Karen Bass / Mayor Karen Bass](https://mayor.lacity.gov/about-mayor-karen-bass)
-        - [Office of the Chief of Police - LAPD Online](https://www.lapdonline.org/office-of-the-chief-of-police/)
-    - [COUNTY OF LOS ANGELES](https://lacounty.gov/)
+        - [COUNTY OF LOS ANGELES](https://lacounty.gov/)
+            - [City of Los Angeles](https://lacity.gov/)
+                - [mayor.lacity.gov](https://mayor.lacity.gov/)
+                - [Mayor Karen Bass / Mayor Karen Bass](https://mayor.lacity.gov/about-mayor-karen-bass)
+                - [Office of the Chief of Police - LAPD Online](https://www.lapdonline.org/office-of-the-chief-of-police/)
+    - [Washington Government / WA.gov](https://wa.gov/your-government)
+        - [Home / Governor Bob Ferguson](https://governor.wa.gov/)
+        - [About Governor Ferguson / Governor Bob Ferguson](https://governor.wa.gov/about/office-governor/about-governor-ferguson)
 - foreign governments 
 - political parties
     - [Democrat Party](https://www.democrats.org/)
-    - [Trumpian Party](https;//www.gop.com/)
+    - [Trumpian Party](https://www.gop.com/)
 - Federal Government 
     - [Constitution of the United States](https://constitution.congress.gov/)
     - [First Amendment](https://constitution.congress.gov/constitution/amendment-1/)
@@ -96,7 +99,7 @@ The [president](https://www.whitehouse.gov/) has been outspoken about his goal o
             - [U.S. European Command (USEUCOM)](https://www.eucom.mil/)
         - [Office of the Director of National Intelligence (ODNI)](https://www.odni.gov/)
         - [Department of Homeland Security (DHS)](https://www.dhs.gov/)
-    - [Congress](https;//www.congress.gov/)
+    - [Congress](https://www.congress.gov/)
         - [U.S. Capitol Police](https://www.uscp.gov/)
         - [Senate](https://www.senate.gov/)
         - [House of Representatives](https://www.house.gov/)

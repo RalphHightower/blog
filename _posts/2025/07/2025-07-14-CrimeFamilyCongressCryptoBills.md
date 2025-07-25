@@ -89,7 +89,7 @@ But I won’t. I’ll say I told you so. And then I’ll get to work on cleaning
         - [Article VI – Prior Debts, National Supremacy Clause, and Oaths of Office](https://constitution.congress.gov/constitution/article-6/)
         - [Article VII – Ratification](https://constitution.congress.gov/constitution/article-7/)
     - [Supreme Court of the United States (SCOTUS)](https://www.supremecourt.gov/)
-    - [Congress](https;//www.congress.gov/)
+    - [Congress](https://www.congress.gov/)
         - [GRAMM-LEACH-BLILEY ACT](https://www.govinfo.gov/content/pkg/PLAW-106publ102/html/PLAW-106publ102.htm)
         - [ECONOMIC GROWTH, REGULATORY RELIEF, AND CONSUMER PROTECTION ACT](https://www.govinfo.gov/content/pkg/PLAW-115publ174/html/PLAW-115publ174.htm)
         - [The Bank Secrecy Act / FinCEN.gov](https://www.fincen.gov/resources/statutes-and-regulations/bank-secrecy-act)

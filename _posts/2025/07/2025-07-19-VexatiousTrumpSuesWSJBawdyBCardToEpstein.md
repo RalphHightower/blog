@@ -73,7 +73,7 @@ This is a developing story. Check back for updates.
    - [Department of State (DOS)](https://www.state.gov/)
     - [Federal Bureau of Investigation (FBI)](https://www.fbi.gov/)
         - [James Comey](https://www.fbi.gov/history/directors/james-b-comey)
-    - [Congress](https;//www.congress.gov/)
+    - [Congress](https://www.congress.gov/)
     - [President of the United States (POTUS)](https://www.whitehouse.gov/)
         - [Senate](https://www.senate.gov/)
         - [House of Representatives](https://www.house.gov/)

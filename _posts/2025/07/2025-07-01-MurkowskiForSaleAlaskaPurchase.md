@@ -60,7 +60,7 @@ If, [as expected](https://www.msnbc.com/rachel-maddow-show/maddowblog/senate-rep
     - [New York Times (NYT)](https://www.nytimes.com/)
 - political parties
     - [Democrat Party](https://www.democrats.org/)
-    - [Trumpian Party](https;//www.gop.com/)
+    - [Trumpian Party](https://www.gop.com/)
 - state, local governments
     - [State of Alaska](https://www.alaska.gov/)
 - Federal Government 
@@ -104,7 +104,7 @@ If, [as expected](https://www.msnbc.com/rachel-maddow-show/maddowblog/senate-rep
         - [U.S. European Command (USEUCOM)](https://www.eucom.mil/)
         - [Office of the Director of National Intelligence (ODNI)](https://www.odni.gov/)
         - [Department of Homeland Security (DHS)](https://www.dhs.gov/)
-    - [Congress](https;//www.congress.gov/)
+    - [Congress](https://www.congress.gov/)
         - [Text - H.R.1 - 119th Congress (2025-2026): One Big Beautiful Bill Act / Congress.gov / Library of Congress](https://www.congress.gov/bill/119th-congress/house-bill/1/text)
         - [U.S. Capitol Police](https://www.uscp.gov/)
         - [Senate](https://www.senate.gov/)

@@ -53,7 +53,7 @@ Subscribe to the MSNBC Daily Newsletter: https://link.msnbc.com/join/5ck/msnbc..
     - [US Courts](https://www.uscourts.gov/)
     - [Department of Justice (DOJ)](https://www.justice.gov/)
     - [Federal Bureau of Investigation (FBI)](https://www.fbi.gov/)
-    - [Congress](https;//www.congress.gov/)
+    - [Congress](https://www.congress.gov/)
         - [U.S. Capitol Police](https://www.uscp.gov/)
         - [Senate](https://www.senate.gov/)
         - [House of Representatives](https://www.house.gov/)

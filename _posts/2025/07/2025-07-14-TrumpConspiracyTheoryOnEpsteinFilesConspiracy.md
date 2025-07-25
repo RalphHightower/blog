@@ -30,7 +30,7 @@ In [a statement](https://truthsocial.com/@realDonaldTrump](https://www.donaldjtr
 
 But that’s not all he said. From the same online missive:
 
-> *Why are we giving publicity to Files written by [Obama](https://obamawhitehouse.archives.gov/), Crooked Hillary, [Comey](https://www.fbi.gov/history/directors/james-b-comey/), Brennan, and the Losers and Criminals of the [Biden Administration](https;//bidenwhitehouse.archives.gov/). ... They created the Epstein Files, just like they created the FAKE Hillary Clinton/Christopher Steele Dossier that they used on me, and now my so-called ‘friends’ are playing right into their hands.*
+> *Why are we giving publicity to Files written by [Obama](https://obamawhitehouse.archives.gov/), Crooked Hillary, [Comey](https://www.fbi.gov/history/directors/james-b-comey/), Brennan, and the Losers and Criminals of the [Biden Administration](https://bidenwhitehouse.archives.gov/). ... They created the Epstein Files, just like they created the FAKE Hillary Clinton/Christopher Steele Dossier that they used on me, and now my so-called ‘friends’ are playing right into their hands.*
 
 While referencing a variety of other conspiracy theories, the [president](https://www.whitehouse.gov/) went on to complain about “the same old, Radical Left inspired Documents on Jeffrey Epstein.”
 
@@ -68,7 +68,7 @@ If the White House was counting on this new line shutting down the chatter and s
     - [Department of State (DOS)](https://www.state.gov/)
     - [Federal Bureau of Investigation (FBI)](https://www.fbi.gov/)
         - [James Comey](https://www.fbi.gov/history/directors/james-b-comey)
-    - [Congress](https;//www.congress.gov/)
+    - [Congress](https://www.congress.gov/)
     - [President of the United States (POTUS)](https://www.whitehouse.gov/)
         - [Senate](https://www.senate.gov/)
         - [House of Representatives](https://www.house.gov/)

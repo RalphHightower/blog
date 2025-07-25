@@ -89,7 +89,7 @@ Jared Bernstein was chair of [President Joe Biden](https://bid/)'s [Council of E
         - [Consumer Price Index Summary - 2025 M06 Results](https://www.bls.gov/news.release/cpi.nr0.htm)
     - [U.S. Bureau of Economic Analysis (BEA)](https://www.bea.gov/)
         - [Data Tools / U.S. Bureau of Economic Analysis (BEA)](https://www.bea.gov/tools)
-    - [Congress](https;//www.congress.gov/)
+    - [Congress](https://www.congress.gov/)
     - [Senate](https://www.senate.gov/)
     - [House of Representatives](https://www.house.gov/)
     - [President of the United States (POTUS)](https://www.whitehouse.gov/)

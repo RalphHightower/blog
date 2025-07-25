@@ -43,7 +43,7 @@ Subscribe to the MSNBC Daily Newsletter: https://link.msnbc.com/join/5ck/msnbc..
             - Jen Psaki
 - political parties
     - [Democrat Party](https://www.democrats.org/)
-    - [Trumpian Party](https;//www.gop.com/)
+    - [Trumpian Party](https://www.gop.com/)
 - Federal Government 
     - [Constitution of the United States](https://constitution.congress.gov/)
     - [Office of the Director of National Intelligence (ODNI)](https://www.dni.gov/)

@@ -62,7 +62,7 @@ All of which suggests the first draft of the [president](https://www.donaldjtrum
     - [Federal Bureau of Investigation (FBI)](https://www.fbi.gov/)
     - [Department of State (DOS)](https://www.state.gov/)
         - [Office to Monitor and Combat Trafficking in Persons - United States Department of State](https://www.state.gov/bureaus-offices/under-secretary-for-foreign-assistance-humanitarian-affairs-and-religious-freedom/office-to-monitor-and-combat-trafficking-in-persons)
-        - [Congress](https;//www.congress.gov/)
+        - [Congress](https://www.congress.gov/)
         - [Senate](https://www.senate.gov/)
         - [House of Representatives](https://www.house.gov/)
     - [President of the United States (POTUS)](https://www.whitehouse.gov/)

@@ -24,7 +24,7 @@ But putting aside that he [filed a lawsuit](https://www.msnbc.com/deadline-white
 
 Even if the [justices](https://www.supremecourt.gov/) agree to take [Maxwell’s case](https://www.msnbc.com/deadline-white-house/deadline-legal-blog/jeffrey-epstein-ghislaine-maxwells-sex-crime-convictions-rcna171618), however, that wouldn’t necessarily mean they’re interested in the validity of the underlying charges against her, which involve conspiring with Epstein to traffic minors. Rather, as savvy lawyers do when petitioning the high court, her counsel [presents the issue](https://www.supremecourt.gov/DocketPDF/24/24-1073/355252/20250424150144637_24-__PetitionForWritOfCertiorari.pdf) as a general legal matter that needs a nationwide resolution, something the justices are in the business of providing.
 
-In Maxwell’s case, that issue is whether a promise on behalf of the “[United States](https://www.usa.gov/)” or the “[Government](https;//www.usa.gov/)” that’s made by a U.S. attorney in one district binds federal prosecutors in other districts.
+In Maxwell’s case, that issue is whether a promise on behalf of the “[United States](https://www.usa.gov/)” or the “[Government](https://www.usa.gov/)” that’s made by a U.S. attorney in one district binds federal prosecutors in other districts.
 
 That’s important to Maxwell’s case because, she argues, a nonprosecution agreement secured by Epstein in [Florida](https://www.myflorida.com/,) should’ve barred her from being charged in [New York](https://www.ny.gov/) because the agreement said, in part, that “the [United States](https://www.usa.gov/) also agrees that it will not institute any criminal charges against any potential co-conspirators of Epstein.”
 
@@ -69,7 +69,7 @@ Jordan Rubin is the [Deadline: Legal Blog](https://www.msnbc.com/deadline-white-
    - [Department of State (DOS)](https://www.state.gov/)
     - [Federal Bureau of Investigation (FBI)](https://www.fbi.gov/)
         - [James Comey](https://www.fbi.gov/history/directors/james-b-comey)
-    - [Congress](https;//www.congress.gov/)
+    - [Congress](https://www.congress.gov/)
     - [President of the United States (POTUS)](https://www.whitehouse.gov/)
         - [Senate](https://www.senate.gov/)
         - [House of Representatives](https://www.house.gov/)
