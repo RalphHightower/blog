@@ -48,7 +48,7 @@ But apparently he doesn’t want to.
 
 The [New York Times](https://www.house.gov/)’ [David French noted](https://www.nytimes.com/2025/01/08/opinion/donald-trump-second-term-israel-ukraine.html) earlier this year that [Trump](https://www.donaldjtrump.com/) “is at his absolute worst in a crisis.” The columnist, whose observation was unrelated to deadly gun violence, added in reference to the [president](https://www.whitehouse.gov/), “He is not a man who is ready to meet important and dangerous moments.”
 
-The [Republican](https://www.gop.com/) [keeps proving the point](https://www.msnbc.com/rachel-maddow-show/maddowblog/wildfires-crisis-continues-trump-targets-californias-governor-rcna186884). When there was a deadly hurricane in [North Carolina](https://www.nc.gov/), [he flunked a leadership test](https://www.msnbc.com/rachel-maddow-show/maddowblog/nc-trump-takes-chance-pretending-fema-lies-are-true-rcna176544). When there was a deadly attack in [New Orleans](https://nola.gov//), [he flunked again](https://www.msnbc.com/rachel-maddow-show/maddowblog/trumps-reaction-new-orleans-attack-went-bad-worse-rcna186109). When responding to deadly fires in [California](https://www.ca.gov/), [he flunked again](https://www.msnbc.com/rachel-maddow-show/maddowblog/wildfires-crisis-continues-trump-targets-californias-governor-rcna186884). In the wake of the [Flight 5342](https://www.ntsb.gov/investigations/Pages/DCA25MA108.aspx) crash, [he flunked again](https://www.msnbc.com/rachel-maddow-show/maddowblog/trump-rails-dei-response-deadly-american-airlines-army-helicopter-cras-rcna190024). And in the wake of Saturday’s killings in [Minnesota](https://mn.gov/), he’s flunked again.
+The [Republican](https://www.gop.com/) [keeps proving the point](https://www.msnbc.com/rachel-maddow-show/maddowblog/wildfires-crisis-continues-trump-targets-californias-governor-rcna186884). When there was a deadly hurricane in [North Carolina](https://www.nc.gov/), [he flunked a leadership test](https://www.msnbc.com/rachel-maddow-show/maddowblog/nc-trump-takes-chance-pretending-fema-lies-are-true-rcna176544). When there was a deadly attack in [New Orleans](https://nola.gov/), [he flunked again](https://www.msnbc.com/rachel-maddow-show/maddowblog/trumps-reaction-new-orleans-attack-went-bad-worse-rcna186109). When responding to deadly fires in [California](https://www.ca.gov/), [he flunked again](https://www.msnbc.com/rachel-maddow-show/maddowblog/wildfires-crisis-continues-trump-targets-californias-governor-rcna186884). In the wake of the [Flight 5342](https://www.ntsb.gov/investigations/Pages/DCA25MA108.aspx) crash, [he flunked again](https://www.msnbc.com/rachel-maddow-show/maddowblog/trump-rails-dei-response-deadly-american-airlines-army-helicopter-cras-rcna190024). And in the wake of Saturday’s killings in [Minnesota](https://mn.gov/), he’s flunked again.
 
 Over the weekend, the [Democratic](https://www.democrats.org/) [governor](https://mn.gov/governor/) called for “leading with grace and compassion and vision and compromise and decency.” That proved too difficult for [Trump](https://www.donaldjtrump.com/).
 
@@ -61,7 +61,7 @@ Steve Benen is a producer for "[The Rachel Maddow Show](https://www.msnbc.com/ra
 - [MaddowBlog](https://www.msnbc.com/rachel-maddow-show) 
 - [NBC New](https://www.nbcnews.com/,)
 - [New York Times (NYT)](https://www.nytimes.com/)
-- [Axios](https;//www.axios.com/)
+- [Axios](https://www.axios.com/)
 - [Government of Ontario / ontario.ca](http://www.ontario.ca/page/government-ontario)
 - [Doug Ford, Premier of Ontario / ontario.ca](http://www.ontario.ca/page/premier)
 - state, local governments
@@ -102,7 +102,7 @@ Steve Benen is a producer for "[The Rachel Maddow Show](https://www.msnbc.com/ra
 - [U.S. European Command (USEUCOM)](https://www.eucom.mil/)
 - [Office of the Director of National Intelligence (ODNI)](https://www.odni.gov/)
 - [Department of Homeland Security (DHS)](https://www.dhs.gov/)
-- [Congress](https;//www.congress.gov/)
+- [Congress](https://www.congress.gov/)
 - [Congressional Budget Office (CBO)](https://www.cbo.gov/)
 - [Senate](https://www.senate.gov/)
 - [House of Representatives](https://www.house.gov/)

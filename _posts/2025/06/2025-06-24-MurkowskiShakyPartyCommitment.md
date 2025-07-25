@@ -1,13 +1,13 @@
 ---
 layout: post
 tags: [media, MSNBC, Steve Benen, “Ministry of Truth –  Democracy Reality and the Republicans’ War on the Recent Past.”, Rachel Maddow, The Rachel Maddow Show, MaddowBlog, NBC News, Semafor - An intelligent transparent global news platform for breaking stories analysis and video, Politics Policy Political News - POLITICO, Anchorage Daily News –  Alaska News Politics Outdoors Science and Events - Anchorage Daily News, foreign governments, Ukraine, Volodymyr Zelenskyy, state local goverments, State of Alaska, Federal Government, Constitution of the United States, First Amendment, Supreme Court of the United States (SCOTUS), US Courts, January 6 2021 Insurrection, Federal –  2020 Election Interference January 6 Insurrection, National Oceanic and Atmospheric Administration (NOAA), National Weather Service (NWS), Department of Defense (DOD), Joint Chiefs of Staff (JCS), U.S. Military Academy West Point, U.S. Air Force, U.S. Army, U.S. Army’s 250th Birthday Celebration, U.S. Coast Guard (USCG), U.S. Marine Corps, National Guard, U.S. Navy, National Guard, U.S. Space Command, U.S. Africa Command (AFRICOM), U.S. Central Command (CENTCOM), U.S. Northern Command (USNORTHCOM), Indo-Pacific Command (USINDOPACOM), U.S. Southern Command (SOUTHCOM), U.S. Special Operations Command (USSOCOM), Strategic Command (USSTRATCOM), U.S. European Command (USEUCOM), Office of the Director of National Intelligence (ODNI), Department of Homeland Security (DHS), Congress, Senate, Lisa Murkowski (T-AK), Far from Home by Lisa Murkowski –  9780593728666 / PenguinRandomHouse.com –  Books, House of Representatives, House Budget Committee, President of the United States (POTUS), White House (WH), Trump crime businesses, DT Marks DEFI LLC, The Executive Branch Club, Chris Buskirk, Adam Foroughi / LinkedIn, Omeed Malik / LinkedIn, Jeff Miller, Chamath Palihapitiya / LinkedIn, David Sacks, Donald Trump Jr., Cameron Winklevoss / LinkedIn, Tyler Winklevoss / LinkedIn, Alex Witkoff, Steve Witkoff, Zachary Witkoff / LinkedIn, World Liberty Financial, Corey Kaplan / LinkedIn, Corey Caplan, Thomas DiFiore FRM·CAIA / LinkedIn, Alex Dulub / LinkedIn, Ryan Fang / LinkedIn, Zak Folkman / LinkedIn, Alex Golubitsky / LinkedIn, Chase Herro, Octavian Lojnita / LinkedIn, Matt Morgan, Sandy Peng, Luke Pearson, Bogdan Purnavel / LinkedIn, Brandi Reynolds CAMS-Audit CCAS / LinkedIn, Rich Teo / LinkedIn, Barron Trump, Rafael Yakobi / LinkedIn, $TRUMP, $MELANIA, Trump Media and Technology Group, Trump Organization, The Mar-a-Lago Club, Trump International Golf Club, Trump National Doral Golf Club, Trump National Jupiter Golf Club, Trump National Golf Club Washington D.C., Trump National Golf Club Bedminster, Trump National Golf Club Colts Neck, Trump National Golf Club Philadelphia, Trump National Golf Club Hudson Valley, Trump National Golf Club Westchester, Trump National Golf Club Los Angeles, Trump International Golf Club Dubai, Trump International Golf Links & Hotel Ireland Doonbeg, Trump MacLeod House & Lodge Scotland, Trump Turnberry, Trump crime family, Donald J Trump, Eric F. Trump / LinkedIn, Donald Trump Jr. / LinkedIn, Ivanka Trump, Jared Kushner, President Donald Trump (45), President Donald Trump (47), President Trump (47) Administration, President Trump (47) Cabinet, President Donald Trump (47), President Trump Administration (47), Pete Hegseth, Pete Hegseth – LinkedIn, grift, self-dealing, corruption, con, crime, cryptocurrency, businesses, associates, partners]
-categories: [Donald Trump]
+categories: [Lisa Murkowski (T-AK)]
 date: 2025-06-24 6:29 PM
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: "A Republican’s Shaky High-Wire Commitment In the Trumpian Era"
+title: "A Republican’s Shaky High-Wire Commitment In the Trumpian Autocracy"
 ---
 
 
@@ -95,7 +95,7 @@ Steve Benen is a producer for "[The Rachel Maddow Show](https://www.msnbc.com/ra
         - [U.S. European Command (USEUCOM)](https://www.eucom.mil/)
         - [Office of the Director of National Intelligence (ODNI)](https://www.odni.gov/)
         - [Department of Homeland Security (DHS)](https://www.dhs.gov/)
-    - [Congress](https;//www.congress.gov/)
+    - [Congress](https://www.congress.gov/)
         - [Senate](https://www.senate.gov/)
             - [Lisa Murkowski (T-AK)](https://www.murkowski.senate.gov/)
             - [Far from Home by Lisa Murkowski: 9780593728666 / PenguinRandomHouse.com: Books](https://www.penguinrandomhouse.com/books/743990/far-from-home-by-lisa-murkowski-with-charles-wohlforth/)

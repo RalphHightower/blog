@@ -12,12 +12,12 @@ title: "Bless His Heart: South Carolina Trumpian Senator, Tim Scott, Is Fucking 
 
 ## [GOP’s Tim Scott takes aim at the CBO but makes himself look bad accidentally](https://www.msnbc.com/rachel-maddow-show/maddowblog/tim-scott-video-congressional-budget-office-mistakes-rcna212937)
 
-*It’s a problem that the senator accused the [budget office](https;//www.cbo.gov/) of being wrong about things that happened before its existence, but that’s not all.*
+*It’s a problem that the senator accused the [budget office](https://www.cbo.gov/) of being wrong about things that happened before its existence, but that’s not all.*
 
 June 13, 2025, 2:59 PM EDT
 By [Steve Benen](https://www.msnbc.com/author/steve-benen-ncpn433601)
 
-In recent weeks, [congressional](https;//www.congress.gov/) [Republicans](https://www.gop.com/) and the [White House](https://www.whitehouse.gov/) have [repeatedly gone after](https://www.msnbc.com/rachel-maddow-show/maddowblog/republicans-target-cbo-congressional-budget-office-rcna210938) the [Congressional Budget Office](https://www.cbo.gov/), not because the nonpartisan analysts did something wrong, but because the [CBO](https://www.cbo.gov/) has provided the public with facts that [Donald Trump](https://www.donaldjtrump.com/) and his allies don’t like.
+In recent weeks, [congressional](https://www.congress.gov/) [Republicans](https://www.gop.com/) and the [White House](https://www.whitehouse.gov/) have [repeatedly gone after](https://www.msnbc.com/rachel-maddow-show/maddowblog/republicans-target-cbo-congressional-budget-office-rcna210938) the [Congressional Budget Office](https://www.cbo.gov/), not because the nonpartisan analysts did something wrong, but because the [CBO](https://www.cbo.gov/) has provided the public with facts that [Donald Trump](https://www.donaldjtrump.com/) and his allies don’t like.
 
 Indeed, the offensive couldn’t be any more straightforward: The budget office produced objective data that makes the [Republican Party](https://www.gop.com/)’s domestic policy megabill — the inaptly named [“One Big Beautiful Bill Act”](https://www.congress.gov/bill/119th-congress/house-bill/1/text) — [look like a far-right disaster](https://www.msnbc.com/rachel-maddow-show/maddowblog/republican-megabill-make-rich-richer-poor-poorer-cbo-concludes-rcna212647), so the [president](https://www.whitehouse.gov/) and [GOP](https://www.gop.com/) officials have scrambled [to discredit](https://www.msnbc.com/rachel-maddow-show/maddowblog/republicans-target-cbo-congressional-budget-office-rcna210938) the source of independent information.
 
@@ -27,7 +27,7 @@ Some of these efforts have been more embarrassing than others. [The Washington P
 
 There was, however, a rather glaring problem with the [senator](https://www.scott.senate.gov/)’s pitch: The [Congressional Budget Office](https://www.cbo.gov/) wasn’t created until 1974. [When Scott said](https://x.com/SenatorTimScott/status/1933147366493753769) said, “Wrong then. Wrong Now,” he was, unfortunately, wrong.
 
-And it’d be an unfortunate example of a [senator](https://www.senate.gov/) taking aim at the [budget office](https;//www.cbo.gov/), but stumbling over inconvenient facts, if we were to stop there. But as it turns out, that wasn’t the only problem with his pitch.
+And it’d be an unfortunate example of a [senator](https://www.senate.gov/) taking aim at the [budget office](https://www.cbo.gov/), but stumbling over inconvenient facts, if we were to stop there. But as it turns out, that wasn’t the only problem with his pitch.
 
 [Scott](https://www.scott.senate.gov/) claimed, for example, “In 2017, the [CBO](https://www.cbo.gov/) said the Tax Cuts and Jobs Act would increase the deficit and the debt by trillions of dollars. What happened? They were wrong.” Actually, no, the [CBO](https://www.cbo.gov/) was right: The [Republicans](https://www.gop.com=)’ 2017 package of tax breaks for the wealthy and big corporations [really did increase the deficit and the debt by trillions of dollars](https://www.propublica.org/article/national-debt-trump) and the debt by trillions of dollars. That’s not a matter of opinion; it’s simply what happened.
 

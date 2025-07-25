@@ -1,43 +1,39 @@
 ---
 layout: post
-tags: [Government of Iran, Federal Government, Constitution of the United States, First Amendment, Supreme Court of the United States (SCOTUS), US Courts, National Oceanic and Atmospheric Administration (NOAA), National Weather Service (NWS), WFO Sterling VA Weather Story, Department of Defense (DOD), Joint Chiefs of Staff (JCS), U.S. Army’s 250th Birthday Celebration, U.S. Military Academy West Point, U.S. Air Force, U.S. Army, U.S. Army’s 250th Birthday Celebration, U.S. Coast Guard (USCG), U.S. Marine Corps, National Guard, U.S. Navy, National Guard, U.S. Space Command, U.S. Africa Command (AFRICOM), U.S. Central Command (CENTCOM), U.S. Northern Command (USNORTHCOM), Indo-Pacific Command (USINDOPACOM), U.S. Southern Command (SOUTHCOM), U.S. Special Operations Command (USSOCOM), Strategic Command (USSTRATCOM), U.S. European Command (USEUCOM), Office of the Director of National Intelligence (ODNI), Department of Homeland Security (DHS), Congress, Senate, House of Representatives, House Budget Committee, President of the United States (POTUS), White House (WH), Trump crime businesses, DT Marks DEFI LLC, The Executive Branch Club, Chris Buskirk, Adam Foroughi / LinkedIn, Omeed Malik / LinkedIn, Jeff Miller, Chamath Palihapitiya / LinkedIn, David Sacks, Donald Trump Jr., Cameron Winklevoss / LinkedIn, Tyler Winklevoss / LinkedIn, Alex Witkoff, Steve Witkoff, Zachary Witkoff / LinkedIn, Trump Organization, World Liberty Financial, Corey Kaplan / LinkedIn, Corey Caplan, Thomas DiFiore FRM·CAIA / LinkedIn, Alex Dulub / LinkedIn, Ryan Fang / LinkedIn, Zak Folkman / LinkedIn, Alex Golubitsky / LinkedIn, Chase Herro, Octavian Lojnita / LinkedIn, Matt Morgan, Sandy Peng, Luke Pearson, Bogdan Purnavel / LinkedIn, Brandi Reynolds CAMS-Audit CCAS / LinkedIn, Rich Teo / LinkedIn, Barron Trump, Rafael Yakobi / LinkedIn, $TRUMP, $MELANIA, Trump Media and Technology Group, The Mar-a-Lago Club, Trump International Golf Club, Trump National Doral Golf Club, Trump National Jupiter Golf Club, Trump National Golf Club Washington D.C., Trump National Golf Club Bedminster, Trump National Golf Club Colts Neck, Trump National Golf Club Philadelphia, Trump National Golf Club Hudson Valley, Trump National Golf Club Westchester, Trump National Golf Club Los Angeles, Trump International Golf Club Dubai, Trump International Golf Links & Hotel Ireland Doonbeg, Trump MacLeod House & Lodge Scotland, Trump Turnberry, Trump crime family, Donald J Trump, Eric F. Trump / LinkedIn, Donald Trump Jr. / LinkedIn, Ivanka Trump, Jared Kushner, Chamath Palihapitiya / LinkedIn, Omeed Malik / LinkedIn, Zachary Witkoff / LinkedIn, Cameron Winklevoss / LinkedIn, Tyler Winklevoss / LinkedIn, Adam Foroughi / LinkedIn, President Donald Trump (45), President Donald Trump (47), President Trump (47) Administration, President Trump (47) Cabinet, President Donald Trump (47), President Trump Administration (47), grift, self-dealing, corruption, con, crime, cryptocurrency, businesses, associates, partners]
-categories: [Jen Psaki]
-date: 2025-06-20 1:19 AM
+tags: [MSNBC, No Kings, Indivisible, Federal Government, Constitution of the United States, First Amendment, Supreme Court of the United States (SCOTUS), US Courts, National Oceanic and Atmospheric Administration (NOAA), National Weather Service (NWS), WFO Sterling VA Weather Story, Department of Defense (DOD), Joint Chiefs of Staff (JCS), U.S. Army’s 250th Birthday Celebration, U.S. Military Academy West Point, U.S. Air Force, U.S. Army, U.S. Army’s 250th Birthday Celebration, U.S. Coast Guard (USCG), U.S. Marine Corps, National Guard, U.S. Navy, National Guard, U.S. Space Command, U.S. Africa Command (AFRICOM), U.S. Central Command (CENTCOM), U.S. Northern Command (USNORTHCOM), Indo-Pacific Command (USINDOPACOM), U.S. Southern Command (SOUTHCOM), U.S. Special Operations Command (USSOCOM), Strategic Command (USSTRATCOM), U.S. European Command (USEUCOM), Office of the Director of National Intelligence (ODNI), Department of Homeland Security (DHS), Congress, Senate, House of Representatives, House Budget Committee, President of the United States (POTUS), White House (WH), Trump crime businesses, DT Marks DEFI LLC, The Executive Branch Club, Chris Buskirk, Adam Foroughi / LinkedIn, Omeed Malik / LinkedIn, Jeff Miller, Chamath Palihapitiya / LinkedIn, David Sacks, Donald Trump Jr., Cameron Winklevoss / LinkedIn, Tyler Winklevoss / LinkedIn, Alex Witkoff, Steve Witkoff, Zachary Witkoff / LinkedIn, Trump Organization, World Liberty Financial, Corey Kaplan / LinkedIn, Corey Caplan, Thomas DiFiore FRM·CAIA / LinkedIn, Alex Dulub / LinkedIn, Ryan Fang / LinkedIn, Zak Folkman / LinkedIn, Alex Golubitsky / LinkedIn, Chase Herro, Octavian Lojnita / LinkedIn, Matt Morgan, Sandy Peng, Luke Pearson, Bogdan Purnavel / LinkedIn, Brandi Reynolds CAMS-Audit CCAS / LinkedIn, Rich Teo / LinkedIn, Barron Trump, Rafael Yakobi / LinkedIn, $TRUMP, $MELANIA, Trump Media and Technology Group, The Mar-a-Lago Club, Trump International Golf Club, Trump National Doral Golf Club, Trump National Jupiter Golf Club, Trump National Golf Club Washington D.C., Trump National Golf Club Bedminster, Trump National Golf Club Colts Neck, Trump National Golf Club Philadelphia, Trump National Golf Club Hudson Valley, Trump National Golf Club Westchester, Trump National Golf Club Los Angeles, Trump International Golf Club Dubai, Trump International Golf Links & Hotel Ireland Doonbeg, Trump MacLeod House & Lodge Scotland, Trump Turnberry, Trump crime family, Donald J Trump, Eric F. Trump / LinkedIn, Donald Trump Jr. / LinkedIn, Ivanka Trump, Jared Kushner, Chamath Palihapitiya / LinkedIn, Omeed Malik / LinkedIn, Zachary Witkoff / LinkedIn, Cameron Winklevoss / LinkedIn, Tyler Winklevoss / LinkedIn, Adam Foroughi / LinkedIn, President Donald Trump (45), President Donald Trump (47), President Trump (47) Administration, President Trump (47) Cabinet, President Donald Trump (47), President Trump Administration (47), grift, self-dealing, corruption, con, crime, cryptocurrency, businesses, associates, partners]
+categories: [Donald Trump]
+date: 2025-06-20 10:13 PM
 #excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: "Jen Psaki: 2025-06-19. Jen Answers: What Does Trump’s “Two Weeks” Mean?"
+title: "Nationwide No Kings Rallies Attendance Eclipses Trump’s Birthday Parade"
 ---
 
 
-## Jen's version: What [Trump](https://www.donaldjtrump.com/) really means by "'two weeks'"; Plus, what is the ['Trump doctrine'](https://www.donaldjtrump.com/)?
+## Wow: Trump rocked as protests dwarf ‘Tea Party’ by 20 times
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9nCZ7jjtmKE?si=-W7qoag4vbMxrokT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RqrXEo7Ld58?si=NcF8z9FqtbNLzRFC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Jun 20, 2025  [#trump](https://www.donaldjtrump.com/) [#israel [#iran](https://irangov.ir/)
-Jen Psaki offers her own, more honest answers to questions asked in today's [White House](https://www.whitehouse.gov/) press briefing, touching on subjects like [Donald Trump](https://www.donaldjtrump.com/)'s habitual use of "two weeks" as a way of pushing off decisions, and what really defines the ["Trump doctrine."](https://www.donaldjtrump.com/) 
+Jun 19, 2025  [#trump](https://www.donaldjtrump.com/) [#nokings](https://www.nokings.org/) #protests
+
+[MSNBC](https://www.msnbc.com/)’s Ari Melber reports on the surging resistance to [Donald Trump](https://www.donaldjtrump.com/), highlighting the sweeping [“No Kings Protest,”](https://www.nokings.org/) which drew over five million demonstrators across more than 2,100 cities. Political strategist Chai Komanduri joins Melber to break down the movement’s political impact. (Subscribe to Ari’s YouTube now:    / arimelber  )
 For more context and news coverage of the most important stories of our day click here: https://www.msnbc.com/
 
-For more context and news coverage of the most important stories of our day click here: https://www.msnbc.com/
+» Subscribe to [MSNBC](https://www.msnbc.com/):    / msnbc  
+» Subscribe to [MSNBC](https://www.msnbc.com/) on TikTok   / msnbc   
+» Subscribe to [MSNBC](https://www.msnbc.com/) on Instagram   / msnbc   
+Download our new [MSNBC](https://www.msnbc.com/) app for the latest breaking news and daily headlines at a glance: https://www.msnbc.com/information/dow...
 
-» Subscribe to MSNBC:    / msnbc  
-» Subscribe to MSNBC on TikTok   / msnbc   
-» Subscribe to MSNBC on Instagram   / msnbc   
-Download our new MSNBC app for the latest breaking news and daily headlines at a glance: https://www.msnbc.com/information/dow...
-
-Follow MSNBC Show Blogs 
+Follow [MSNBC](https://www.msnbc.com/) Show Blogs 
 MaddowBlog: https://www.msnbc.com/maddowblog
 ReidOut Blog: https://www.msnbc.com/reidoutblog
 
-MSNBC delivers breaking news, in-depth analysis of politics headlines, as well as commentary and informed perspectives. Find video clips and segments from The Rachel Maddow Show, Morning Joe, The Beat with Ari Melber, Deadline: White House, The ReidOut, All In, Last Word, 11th Hour, and Alex Wagner who brings her breadth of reporting experience to MSNBC primetime. 
+[MSNBC](https://www.msnbc.com/) delivers breaking news, in-depth analysis of politics headlines, as well as commentary and informed perspectives. Find video clips and segments from The Rachel Maddow Show, Morning Joe, The Beat with Ari Melber, Deadline: White House, The ReidOut, All In, Last Word, 11th Hour, and Alex Wagner who brings her breadth of reporting experience to [MSNBC](https://www.msnbc.com/) primetime. 
  
-Connect with MSNBC Online 
-Visit msnbc.com: https://www.msnbc.com/ 
-Subscribe to the MSNBC Daily Newsletter: https://link.msnbc.com/join/5ck/msnbc...
-
-- [Government of Israel](https://www.gov.il/)
-- [Government of Iran](https://irangov.ir/)
+- [MSNBC](https://www.msnbc.com/)
+- [No Kings](https://www.nokings.org)
+- [Indivisible](https://indivisible.org/)
 - Federal Government 
 - [Constitution of the United States](https://constitution.congress.gov/)
 - [First Amendment](https://constitution.congress.gov/constitution/amendment-1/)

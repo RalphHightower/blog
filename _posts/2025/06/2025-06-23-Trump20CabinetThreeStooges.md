@@ -89,7 +89,7 @@ Anthony L. Fisher is a senior editor and writer for MSNBC Daily. He was previous
         - [U.S. European Command (USEUCOM)](https://www.eucom.mil/)
         - [Office of the Director of National Intelligence (ODNI)](https://www.odni.gov/)
         - [Department of Homeland Security (DHS)](https://www.dhs.gov/)
-    - [Congress](https;//www.congress.gov/)
+    - [Congress](https://www.congress.gov/)
         - [Senate](https://www.senate.gov/)
         - [House of Representatives](https://www.house.gov/)
         - [House Budget Committee ](https://budget.house.gov/)
@@ -160,7 +160,6 @@ Anthony L. Fisher is a senior editor and writer for MSNBC Daily. He was previous
     - [President Donald Trump (47)](https://www.whitehouse.gov/administration/donald-j-trump/)
     - [President Trump Administration (47)](https://www.whitehouse.gov/administration/)
         - [Report to the President on the America First Trade Policy Executive Summary](https://www.whitehouse.gov/fact-sheets/2025/04/report-to-the-president-on-the-america-first-trade-policy-executive-summary/). Fact Sheets April 3, 2025
-        - [President Trump is Putting American Workers First — And Bringing Back American Manufacturing](https://www.whitehouse.gov/articles/2025/03/president-trump-is-putting-american-workers-first-and-bringing-back-american-manufacturing/). Articles March 4, 2025
         - [America First Trade Policy](https://www.whitehouse.gov/presidential-actions/2025/01/america-first-trade-policy/). Presidential Actions 
         - [Pete Hegseth](https://www.defense.gov/About/Biographies/Biography/Article/4040890/hon-pete-hegseth/)
     - [Pete Hegseth – LinkedIn](https://www.linkedin.com/in/petehegseth/)

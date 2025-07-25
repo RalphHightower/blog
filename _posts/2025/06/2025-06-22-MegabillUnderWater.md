@@ -87,7 +87,7 @@ Ryan Teague Beckwith is a newsletter editor for [MSNBC](https://www.msnbc.com/).
 - [Secret Service](https://www.secretservice.gov/)
 - [Drug Enforcement Administration (DEA)](https://www.dea.gov/)
 - [Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF)](https://www.atf.gov/)
-- [Congress](https;//www.congress.gov/)
+- [Congress](https://www.congress.gov/)
 - [Congressional Budget Office (CBO)](https://www.cbo.gov/)
 - [H.R.7130 - 93rd Congress (1973-1974): Congressional Budget and Impoundment Control Act of 1974 / Congress.gov / Library of Congress](https://www.congress.gov/bill/93rd-congress/house-bill/7130)
 - [Text - H.R.1 - 119th Congress (2025-2026): One Big Beautiful Bill Act / Congress.gov / Library of Congress](https://www.congress.gov/bill/119th-congress/house-bill/1/text)

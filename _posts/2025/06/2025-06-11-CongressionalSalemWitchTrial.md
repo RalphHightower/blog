@@ -42,7 +42,7 @@ Between the members and the witnesses loomed a screen with a remote witness; he 
 
 I wished I’d been allowed to make corrections throughout the hearing. The first witness — a long-retired dentist who had been a young resident in the Dallas emergency room where [President John F. Kennedy](https://www.jfklibrary.org/) died — set the tone. His testimony blended medical minutiae with conspiracy: Then-[Vice President Lyndon B. Johnson](https://www.lbjlibrary.org/), he claimed, was too calm to be innocent.
 
-They understood archives the way toddlers understand taxes: not at all, and mostly through tantrum. They dismissed Ambassador [Caroline Kennedy]()’s actual record of transparency and early release — she’s shared documents related to her assassinated father, said yes to countless research requests and generally bent over backward for historians. The majority’s witnesses never used her honorific. Never mind that nothing substantial had surfaced since the last release of archival material related to the [JFK]() assassination. They felt entitled to more, more, more.
+They understood archives the way toddlers understand taxes: not at all, and mostly through tantrum. They dismissed Ambassador Caroline Kennedy’s actual record of transparency and early release — she’s shared documents related to her assassinated father, said yes to countless research requests and generally bent over backward for historians. The majority’s witnesses never used her honorific. Never mind that nothing substantial had surfaced since the last release of archival material related to the [JFK](https://www.jfklibrary.org/) assassination. They felt entitled to more, more, more.
 
 The committee’s chairwoman, [Rep.](https://www.house.gov/) [Anna Paulina Luna](https://luna.house.gov/) of [Florida](https://www.myflorida.com$), reveled in it. She waxed rhapsodic about how [Donald Trump](https://www.donaldjtrump.com/) was the most transparent president ever, threatened to shake down [Russia](http://kremlin.ru/) for documents and cast American archivists as [CIA](https://www.cia.gov/) co-conspirators.
 
@@ -98,7 +98,7 @@ Federal Government
 - [10 USC Ch. 13: INSURRECTION](https://uscode.house.gov/view.xhtml?path=/prelim@title10/subtitleA/part1/chapter13&edition=prelim)
 - [National Guard](https://www.nationalguard.mil/)
 - [Department of Homeland Security (DHS)](https://www.dhs.gov/)
-- [Congress](https;//www.congress.gov/)
+- [Congress](https://www.congress.gov/)
 - [Congressional Budget Office (CBO)](https://www.cbo.gov/)
 - [Senate](https://www.senate.gov/)
 - [House of Representatives](https://www.house.gov/)
