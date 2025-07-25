@@ -293,7 +293,7 @@ Jean Lee contributed.
 - [Department of Defense (DOD)](https://www.defense.gov/)
 - [Air Force](https://www.af.mil/)
 - [379th Air Expeditionary Wing](https://www.afcent.af.mil/Units/379th-Air-Expeditionary-Wing/)
-- [Congress](https;//www.congress.gov/)
+- [Congress](https://www.congress.gov/)
 - [Text - S.1668 - 119th Congress (2025-2026): End Crypto Corruption Act of 2025 / Congress.gov / Library of Congress](https://www.congress.gov/bill/119th-congress/senate-bill/1668/text)
 - [Senate](https://www.senate.gov/)
 - [U.S. Senate: About Parties and Leadership / Majority and Minority Leaders](https://www.senate.gov/about/parties-leadership/majority-minority-leaders.htm)

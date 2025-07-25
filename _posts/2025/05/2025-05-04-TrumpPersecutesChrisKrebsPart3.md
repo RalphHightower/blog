@@ -49,7 +49,7 @@ As for [Krebs](https://www.linkedin.com/in/christopherckrebs/) himself, the form
 
 As [NBC News reported](https://www.nbcnews.com/politics/national-security/chris-krebs-speaks-cuts-trump-cuts-digital-defense-rcna203427), [Krebs](https://www.linkedin.com/in/christopherckrebs/) received a warm welcome from industry professionals at the [RSA Conference](https://www.rsaconference.com/usa) in [San Francisco](https://www.sf.gov/), a cybersecurity conference, where he criticized the [second Trump](https://www.donaldjtrump.com/) [administration](https://www.whitehouse.gov/administration/) for its repeated cuts to cybersecurity employees, contractors and programs.
 
-“Cybersecurity is national security. We all know that, right? That’s why we’re here. That’s why we get up every morning and do our jobs. We are protecting everyone out there. And right now, to see what’s happening to the cybersecurity community inside the [federal government](https;//www.usa.gov/), we should be outraged. Absolutely outraged.”
+“Cybersecurity is national security. We all know that, right? That’s why we’re here. That’s why we get up every morning and do our jobs. We are protecting everyone out there. And right now, to see what’s happening to the cybersecurity community inside the [federal government](https://www.usa.gov/), we should be outraged. Absolutely outraged.”
 
 - [MSNBC](https://www.msnbc.com/)
 - [Washington Post](https://www.washingtonpost.com/)

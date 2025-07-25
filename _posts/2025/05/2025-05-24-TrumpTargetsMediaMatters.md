@@ -101,7 +101,7 @@ Steve Benen is a producer for "[The Rachel Maddow Show](https://www.msnbc.com/ra
 - [Department of State (DOS)](https://www.state.gov/)
 - [Department of Justice (DOJ)](https://www.justice.gov/)
 - [Criminal Division / Foreign Corrupt Practices Act Unit](https://www.justice.gov/criminal/criminal-fraud/foreign-corrupt-practices-act)
-- [Congress](https;//www.congress.gov/)
+- [Congress](https://www.congress.gov/)
 - [Senate](https://www.senate.gov/)
 - [House of Representatives](https://www.house.gov/)
 - [LaMonica McIver (D-NJ10)](https://mciver.house.gov/)

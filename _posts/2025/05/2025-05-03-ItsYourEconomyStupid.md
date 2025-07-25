@@ -47,7 +47,7 @@ In the ensuing hours, [Trump](https://www.donaldjtrump.com/) continued to insist
 
 Remember [when Trump told voters last summer](https://apnews.com/article/trumps-comments-about-stock-market-dba336a82ffaf000b80e7218d749995a), “When I win the election, we will immediately begin a brand new [Trump](https://www.donaldjtrump.com/) economic boom. It’ll be a boom. We’re going to turn this country around so fast”? Evidently, he’s forgotten all about it.
 
-As a political matter, the broader question is whether these tactics will work or not. If the [president](https;//www.whitehouse.gov/) and his allies are expecting his pitch to work, they should probably lower their expectations. There are a few elements to this that are worth keeping in mind.
+As a political matter, the broader question is whether these tactics will work or not. If the [president](https://www.whitehouse.gov/) and his allies are expecting his pitch to work, they should probably lower their expectations. There are a few elements to this that are worth keeping in mind.
 
 First, [Trump](https://www.donaldjtrump.com/)’s efforts to shift blame are likely to fail because they’re rooted in obvious nonsense. As a factual matter, the economy is struggling as a direct result of [Trump](https://www.donaldjtrump.com/)’s policies. To the extent that reality affects public attitudes, the president’s arguments will fall short because they’re wrong.
 

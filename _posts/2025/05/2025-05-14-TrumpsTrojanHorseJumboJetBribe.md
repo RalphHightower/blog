@@ -192,7 +192,7 @@ Gordon Lubold is a national security reporter for [NBC News](https://www.nbcnews
 - [Department of Defense (DOD)](https://www.defense.gov/)
 - [Air Force](https://www.af.mil/)
 - [379th Air Expeditionary Wing](https://www.afcent.af.mil/Units/379th-Air-Expeditionary-Wing/)
-- [Congress](https;//www.congress.gov/)
+- [Congress](https://www.congress.gov/)
 - [Senate](https://www.senate.gov/)
 - [United States Senate Committee on the Judiciary](https://www.judiciary.senate.gov/)
 - [Christopher Murphy (D-CT)](https://www.murphy.senate.gov/)

@@ -55,7 +55,7 @@ Ja’han Jones is an [MSNBC](https://www.msnbc.com/) opinion blogger. He previou
 - [MSNBC](https://www.msnbc.com/)
 - [Rachel Maddow](https://www.msnbc.com/rachel-maddow-show/rachel-maddow-biography-n1157621)
 - [New York Times (NYT)](https://www.nytimes.com/)
-- [Mother Jones](https;//www.motherjones.com/)
+- [Mother Jones](https://www.motherjones.com/)
 - [Palantir](https://www.palantir.com/)
 - Alex Korp
 - [Palantir Foundry](https://www.palantir.com/platforms/foundry/)

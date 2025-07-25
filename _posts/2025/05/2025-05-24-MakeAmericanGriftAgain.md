@@ -84,7 +84,7 @@ Steve Benen is a producer for "[The Rachel Maddow Show](https://www.msnbc.com/ra
 - [Securities and Exchange (SEC)](https://www.sec.gov/)
 - [Department of Treasury (Treasury)](https://home.treasury.gov/)
 - [Secret Service](https://www.secretservice.gov/)
-- [Congress](https;//www.congress.gov/)
+- [Congress](https://www.congress.gov/)
 - [Senate](https://www.senate.gov/)
 - [United States Senate Committee on the Judiciary](https://www.judiciary.senate.gov/)
 - [Christopher Murphy (D-CT)](https://www.murphy.senate.gov/)

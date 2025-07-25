@@ -25,7 +25,7 @@ Investors appear to be getting a little impatient for some good news on [Donald 
 
 But this news also serves as a reminder to make sure we look at not just what this administration says, but how it operates.
 
-Those losses could be linked to [Trump](https://www.donaldjtrump.com/) opening a new front in his trade war. Seemingly out of nowhere, on Sunday [Trump](https://www.donaldjtrump.com/) announced on social media that he wants to put tariffs on movies not made in the [United States](https;//www.usa.gov/).
+Those losses could be linked to [Trump](https://www.donaldjtrump.com/) opening a new front in his trade war. Seemingly out of nowhere, on Sunday [Trump](https://www.donaldjtrump.com/) announced on social media that he wants to put tariffs on movies not made in the [United States](https://www.usa.gov/).
 
 “The Movie Industry in America is DYING a very fast death,” [Trump wrote on Truth Social.](https://truthsocial.com/@realDonaldTrump/posts/114452117143235155). “Other Countries are offering all sorts of incentives to draw our filmmakers and studios away from the United States. Hollywood, and many other areas within the [U.S.A.](https://www.usa.gov/), are being devastated. … Therefore, I am authorizing the [Department of Commerce](https://www.commerce.gov/), and the [United States Trade Representative](http://www.ustr.gov/), to immediately begin the process of instituting a 100% Tariff on any and all Movies coming into our Country that are produced in Foreign Lands. WE WANT MOVIES MADE IN AMERICA, AGAIN!”
 
@@ -87,7 +87,7 @@ Allison Detzel contributed.
 - [Joint Chiefs of Staff](https://www.jcs.mil)
 - [Joint Chiefs of Staff – Joint Staff Inspector General](https://www.jcs.mil/About/Joint-Staff-Inspector-General/)
 - [Department of Defense (DOD)](https://www.defense.gov/)
-- [Congress](https;//www.congress.gov/)
+- [Congress](https://www.congress.gov/)
 - [Senate](https://www.senate.gov/)
 - [House of Representatives](https://www.house.gov/)
 - [U.S. Trade Representative](http://www.ustr.gov/)
