@@ -18,7 +18,7 @@ title: "Trump’s Vendetta With Federal Reserve Chair Jerome Powell Will Bankrup
 April 18, 2025, 12:46 PM EDT
 By Steve Benen
 
-[Donald Trump](https://www.donaldjtrump.com/) has long struggled with the basics of economic policy, but there’s one detail the [president](https;//www.whitehouse.gov/) seems to understand fairly well: When the [Federal Reserve](https://www.federalreserve.gov/) lowers interest rates, it helps accelerate the economy, and when the Fed raises rates, it pumps the economic brakes.
+[Donald Trump](https://www.donaldjtrump.com/) has long struggled with the basics of economic policy, but there’s one detail the [president](https://www.whitehouse.gov/) seems to understand fairly well: When the [Federal Reserve](https://www.federalreserve.gov/) lowers interest rates, it helps accelerate the economy, and when the Fed raises rates, it pumps the economic brakes.
 
 With this in mind, the Republican has spent the last decade [making knee-jerk pronouncements](https://www.msnbc.com/rachel-maddow-show/maddowblog/trump-going-handpicked-federal-reserve-chairman-rcna136992) about the [Fed](https://www.federalreserve.gov/) that have stuck to a predictable pattern: [Trump](https://www.donaldjtrump.com/) has publicly lobbied for higher interest rates when he thought it would benefit his political interest, just as he’s publicly lobbied for lower interest rates when he thought they would also advance his ambitions.
 

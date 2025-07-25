@@ -55,7 +55,7 @@ Clarissa-Jan Lim is a breaking/trending news blogger for MSNBC Digital. She was 
     - [US Courts](https://www.uscourts.gov/)
     - [Department of Justice (DOJ)](https://www.justice.gov/)
     - [Federal Bureau of Investigation (FBI)](https://www.fbi.gov/)
-    - [Congress](https;//www.congress.gov/)
+    - [Congress](https://www.congress.gov/)
         - [Senate](https://www.senate.gov/)
         - [House of Representatives](https://www.house.gov/)
     - [President of the United States (POTUS)](https://www.whitehouse.gov/)

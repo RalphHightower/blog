@@ -65,7 +65,7 @@ Ja’han Jones is an MSNBC opinion blogger. He previously wrote The ReidOut Blog
 - foreign governments 
 - political parties
     - [Democrat Party](https://www.democrats.org/)
-    - [Trumpian Party](https;//www.gop.com/)
+    - [Trumpian Party](https://www.gop.com/)
 - Federal Government 
     - [Constitution of the United States](https://constitution.congress.gov/)
     - [First Amendment](https://constitution.congress.gov/constitution/amendment-1/)
@@ -102,7 +102,7 @@ Ja’han Jones is an MSNBC opinion blogger. He previously wrote The ReidOut Blog
             - [U.S. European Command (USEUCOM)](https://www.eucom.mil/)
         - [Office of the Director of National Intelligence (ODNI)](https://www.odni.gov/)
         - [Department of Homeland Security (DHS)](https://www.dhs.gov/)
-    - [Congress](https;//www.congress.gov/)
+    - [Congress](https://www.congress.gov/)
         - [Stafford Act](https://www.govinfo.gov/content/pkg/COMPS-2977/pdf/COMPS-2977.pdf)
         - [U.S. Capitol Police](https://www.uscp.gov/)
         - [Senate](https://www.senate.gov/)
