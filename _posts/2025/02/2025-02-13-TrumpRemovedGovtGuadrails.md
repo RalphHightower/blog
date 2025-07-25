@@ -95,7 +95,7 @@ Walter M. Shaub Jr., a former director of the [Office of Government Ethics](http
 
 - Cathy Harris also sued, on Tuesday, after [Trump](https://www.whitehouse.gov/) fired her the previous day from her perch atop [Merit Systems Protection Board](https://www.mspb.gov/), which hears appeals to firings and other disciplinary actions against federal employees.
 
-- The [Office of Government Ethics](https://www.oge.gov/) announced Monday on its website that [Trump](https://www.whitehouse.gov/) had terminated its director, David Huitema. Like Dellinger, Huitema was confirmed by the [Senate](https://www.senate.gov/) last year to a five-year term. [Congressional](https;//www.congress.gov/) [Democrats](https://www.democrats.org/) had implored Huitema to open an investigation into possible conflicts of interest involving [Musk](https://ir.tesla.com/corporate/elon-musk) due to his billions of dollars in government contracts.
+- The [Office of Government Ethics](https://www.oge.gov/) announced Monday on its website that [Trump](https://www.whitehouse.gov/) had terminated its director, David Huitema. Like Dellinger, Huitema was confirmed by the [Senate](https://www.senate.gov/) last year to a five-year term. [Congressional](https://www.congress.gov/) [Democrats](https://www.democrats.org/) had implored Huitema to open an investigation into possible conflicts of interest involving [Musk](https://ir.tesla.com/corporate/elon-musk) due to his billions of dollars in government contracts.
 
 - Susan Tsui Grundmann, chairwoman of the [Federal Labor Relations Authority](https//:www.flra.gov/), which protects federal employee unions from actions taken against them, also received her notice of termination earlier this week.
 
@@ -123,8 +123,8 @@ Shaub said his worries extend beyond what [Trump](https://www.whitehouse.gov/) i
 - [Office of Special Counsel (OSC)](https://osc.gov/)
 - [President of the United States (POTUS)](https://www.whitehouse.gov/)
 - [White House (WH)](https://www.whitehouse.gov/)
-- [George W. Bush](https://georgewbush-whitehouse.archives.gov/president/)
-- [Barack Obama](https://obamawhitehouse.archives.gov/)
+- [President George W. Bush](https://georgewbush-whitehouse.archives.gov/president/)
+- [President Barack Obama](https://obamawhitehouse.archives.gov/)
 - [Watergate](https://www.archives.gov/research/investigations/watergate)
 - [Partnership for Public Service](https://ourpublicservice.org/)
 - Hampton Dellinger

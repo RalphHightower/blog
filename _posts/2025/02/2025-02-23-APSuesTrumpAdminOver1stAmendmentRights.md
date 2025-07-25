@@ -444,7 +444,7 @@ evening and follow up with her, but to date, the [AP](https://www.apnews.com/) h
 from accessing a Black History Month reception held in the [East Room](https://www.whitehouse.gov/)—a large event that was
 open to the press pool and other credentialed members of the [White House](https://www.whitehouse.gov/)  press corps. That
 evening, an [AP](https://www.apnews.com/) reporter and photographer were barred from joining the remainder of the press
-pool in the [President’s](https;//www.whitehouse.gov/) motorcade to cover his attendance at a dinner hosted by the [Republican
+pool in the [President’s](https://www.whitehouse.gov/) motorcade to cover his attendance at a dinner hosted by the [Republican
 Governors Association](https://whca.press/). An [AP Radio](https://www.apnews.com/)  reporter, selected by his colleagues as the designated
 pooler for that format in the pool for events that day, was also barred from providing coverage of
 the day’s events.

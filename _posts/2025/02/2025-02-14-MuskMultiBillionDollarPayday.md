@@ -26,7 +26,7 @@ Elon Musk isn’t a rogue genius—he’s cashing in on Trump’s presidency. Wi
 - [Federal  Aviation Administration (FAA)](https://www.faa.gov/)
 - [Consumer Finance Protection Bureau (CFPB)](https://www.cfpb.gov/)
 - [Federal Communications (FCC)](https://www.fcc.gov/)
-- [Department of Defense (DOD)](https;//www.dod.gob/)
+- [Department of Defense (DOD)](https://www.dod.gob/)
 - [Equal Employment Opportunity Commission (EEOC)](https://www.eeoc.gov/)
 - [US Courts (USCOURTS)](https://www.uscourts.gov/)
 - [White House (WH)](https://www.whitehouse.gov/)

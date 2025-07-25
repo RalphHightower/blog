@@ -47,4 +47,4 @@ However, the [Bureau of the Fiscal Service](http://www.fiscal.treasury.gov/) **c
 - [Social Security Administration (SSA)](https://www.ssa.gov/)
 - [Internal Revenue Service (IRS)](https://www.irs.gov/)
 - [White House (WH)](https://www.washingtonpost.com)
-- [President Of The United States (POTUS)](https;//whitehouse.gov/)
+- [President Of The United States (POTUS)](https://whitehouse.gov/)

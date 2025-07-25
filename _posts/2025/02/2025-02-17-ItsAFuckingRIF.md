@@ -194,7 +194,7 @@ February 11, 2025.
 - [U.S. Fish and Wildlife Service (FWS)](https://www.fws.gov/)
 - [Land Management and Reclamation](https://www.blm.gov/programs/energy-and-minerals/oil-and-gas/reclamation)
 - [Bureau of Land Management (BLM)](https://www.blm.gov/programs/energy-and-minerals/oil-and-gas/reclamation)
-- [Department of Government Efficiency (DOGE)](https;//doge.gov/)
+- [Department of Government Efficiency (DOGE)](https://doge.gov/)
 - [President Of The United States (POTUS)](https://www.whitehouse.gov)
 - [White House (WH)](https://www.whitehouse.gov/)
 - [Elon Musk](https://ir.tesla.com/corporate/elon-musk)
