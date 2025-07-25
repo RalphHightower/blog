@@ -66,7 +66,7 @@ Several federal government agencies have oversight over the companies owned or l
    - **[National Highway Traffic Safety Administration (NHTSA)](https://www.nhtsa.gov/)**: Oversees vehicle safety standards and recalls.
    - **[Environmental Protection Agency (EPA)](https://www.epa.gov/)**: Regulates emissions and environmental compliance.
    - **[Securities and Exchange Commission (SEC)](https://www.sec.gov/)**: Monitors financial disclosures and securities regulations³.
-   - **[Internal Revenue Service (IRS)](https;//www.irs.gov/)**: No person or company is exempt.
+   - **[Internal Revenue Service (IRS)](https://www.irs.gov/)**: No person or company is exempt.
    - **[Department of Labor (DOL)](https://www.dol.gov/)**: Regulates fiduciary responsibilities and retirement plans³.
    - **[Social Security Administration](https://www.ssa.gov/)**: Runs the Social Security retirement, survivors, and disability insurance programs.
    - **[Equal Employment Opportunity Commission](https://www.eeoc.gov/)**: The Equal Employment Opportunity Commission (EEOC) enforces laws that make discrimination illegal in the workplace. The commission oversees all types of work situations including hiring, firing, promotions, harassment, training, wages, and benefits.
@@ -76,7 +76,7 @@ Several federal government agencies have oversight over the companies owned or l
    - **[National Aeronautics and Space Administration (NASA)](https://www.nasa.gov/)**: Collaborates on space missions and contracts.
    - **[Department of Defense (DOD)](https://www.defense.gov/)**: Engages in defense contracts and satellite launches².
    - **[Environmental Protection Agency (EPA)](https://www.epa.gov/)**: Regulates emissions and environmental compliance.
-   - **[Internal Revenue Service (IRS)](https;//www.irs.gov/)**: No person or company is exempt.
+   - **[Internal Revenue Service (IRS)](https://www.irs.gov/)**: No person or company is exempt.
    - **[Department of Labor (DOL)](https://www.dol.gov/)**: Regulates fiduciary responsibilities and retirement plans³.
    - **[Social Security Administration](https://www.ssa.gov/)**: Runs the Social Security retirement, survivors, and disability insurance programs.
    - **[Equal Employment Opportunity Commission](https://www.eeoc.gov/)**: The Equal Employment Opportunity Commission (EEOC) enforces laws that make discrimination illegal in the workplace. The commission oversees all types of work situations including hiring, firing, promotions, harassment, training, wages, and benefits.
@@ -84,7 +84,7 @@ Several federal government agencies have oversight over the companies owned or l
 3. **[X](https://x.com/) (formerly [Twitter](https://twitter.com/))**:
    - **[Federal Trade Commission (FTC)](https://www.ftc.gov/)**: Ensures consumer protection and privacy standards.
    - **[Federal Communications Commission (FCC)](https://www.fcc.gov/)**: Regulates communications and broadcasting⁴.
-   - **[Internal Revenue Service (IRS)](https;//www.irs.gov/)**: No person or company is exempt.
+   - **[Internal Revenue Service (IRS)](https://www.irs.gov/)**: No person or company is exempt.
    - **[Department of Labor (DOL)](https://www.dol.gov/)**: Regulates fiduciary responsibilities and retirement plans³.
    - **[Social Security Administration](https://www.ssa.gov/)**: Runs the Social Security retirement, survivors, and disability insurance programs.
    - **[Equal Employment Opportunity Commission](https://www.eeoc.gov/)**: The Equal Employment Opportunity Commission (EEOC) enforces laws that make discrimination illegal in the workplace. The commission oversees all types of work situations including hiring, firing, promotions, harassment, training, wages, and benefits.
@@ -92,7 +92,7 @@ Several federal government agencies have oversight over the companies owned or l
 4. **[The Boring Company](https://www.boringcompany.com/)**:
    - **[Department of Transportation (DOT)](https://www.dot.gov/)**: Oversees transportation infrastructure projects.
    - **[Environmental Protection Agency (EPA)](https://www.epa.gov/)**: Ensures environmental compliance for tunneling projects⁴.
-   - **[Internal Revenue Service (IRS)](https;//www.irs.gov/)**: No person or company is exempt.
+   - **[Internal Revenue Service (IRS)](https://www.irs.gov/)**: No person or company is exempt.
    - **[Department of Labor (DOL)](https://www.dol.gov/)**: Regulates fiduciary responsibilities and retirement plans³.
    - **[Social Security Administration](https://www.ssa.gov/)**: Runs the Social Security retirement, survivors, and disability insurance programs.
    - **[Equal Employment Opportunity Commission](https://www.eeoc.gov/)**: The Equal Employment Opportunity Commission (EEOC) enforces laws that make discrimination illegal in the workplace. The commission oversees all types of work situations including hiring, firing, promotions, harassment, training, wages, and benefits.
@@ -100,14 +100,14 @@ Several federal government agencies have oversight over the companies owned or l
 5. **[Neuralink](https://neuralink.com/)**:
    - **[Food and Drug Administration (FDA)](https://www.fda.gov/)**: Regulates medical devices and clinical trials.
    - **[National Institutes of Health (NIH)](https://www.nih.gov/)**: Provides research funding and oversight⁴.
-   - **[Internal Revenue Service (IRS)](https;//www.irs.gov/)**: No person or company is exempt.
+   - **[Internal Revenue Service (IRS)](https://www.irs.gov/)**: No person or company is exempt.
    - **[Department of Labor (DOL)](https://www.dol.gov/)**: Regulates fiduciary responsibilities and retirement plans³.
     - **[Social Security Administration](https://www.ssa.gov/)**: Runs the Social Security retirement, survivors, and disability insurance programs.
 
 6. **[xAI](https://x.ai/)**:
    - **[Federal Trade Commission (FTC)](https://www.ftc.gov/)**: Monitors AI ethics and consumer protection.
    - **[Department of Commerce (DOC)](https://www.commerce.gov/)**: Oversees technology and innovation policies⁴.
-   - **[Internal Revenue Service (IRS)](https;//www.irs.gov/)**: No person or company is exempt.
+   - **[Internal Revenue Service (IRS)](https://www.irs.gov/)**: No person or company is exempt.
    - **[Department of Labor (DOL)](https://www.dol.gov/)**: Regulates fiduciary responsibilities and retirement plans³.
    - **[Social Security Administration](https://www.ssa.gov/)**: Runs the Social Security retirement, survivors, and disability insurance programs.
    - **[Equal Employment Opportunity Commission](https://www.eeoc.gov/)**: The Equal Employment Opportunity Commission (EEOC) enforces laws that make discrimination illegal in the workplace. The commission oversees all types of work situations including hiring, firing, promotions, harassment, training, wages, and benefits.
@@ -116,7 +116,7 @@ Several federal government agencies have oversight over the companies owned or l
    - **[Federal Aviation Administration (FAA)](https://www.fda.gov/)**: Regulates commercial space launches and reentries
    - **[Federal Trade Commission (FTC)](https://www.ftc.gov/)**: Ensures consumer protection and privacy standards.
    - **[Federal Communications Commission (FCC)](https://www.fcc.gov/)**: Regulates communications and broadcasting⁴.
-   - **[Internal Revenue Service (IRS)](https;//www.irs.gov/)**: No person or company is exempt.
+   - **[Internal Revenue Service (IRS)](https://www.irs.gov/)**: No person or company is exempt.
    - **[Department of Labor (DOL)](https://www.dol.gov/)**: Regulates fiduciary responsibilities and retirement plans³.
    - **[Social Security Administration](https://www.ssa.gov/)**: Runs the Social Security retirement, survivors, and disability insurance programs.
    - **[Equal Employment Opportunity Commission](https://www.eeoc.gov/)**: The Equal Employment Opportunity Commission (EEOC) enforces laws that make discrimination illegal in the workplace. The commission oversees all types of work situations including hiring, firing, promotions, harassment, training, wages, and benefits.
@@ -126,7 +126,7 @@ Several federal government agencies have oversight over the companies owned or l
 1. **[Roivant Sciences](https://www.radiant.com/)**:
    - **[Food and Drug Administration (FDA)](https://www.fda.gov/)**: Regulates drug development and approval.
    - **[Securities and Exchange Commission (SEC)](https://www.sec.gov/)**: Monitors financial disclosures and securities regulations¹.
-   - **[Internal Revenue Service (IRS)](https;//www.irs.gov/)**: No person or company is exempt.
+   - **[Internal Revenue Service (IRS)](https://www.irs.gov/)**: No person or company is exempt.
    - **[Department of Labor (DOL)](https://www.dol.gov/)**: Regulates fiduciary responsibilities and retirement plans³.
    - **[Social Security Administration](https://www.ssa.gov/)**: Runs the Social Security retirement, survivors, and disability insurance programs.
    - **[Equal Employment Opportunity Commission](https://www.eeoc.gov/)**: The Equal Employment Opportunity Commission (EEOC) enforces laws that make discrimination illegal in the workplace. The commission oversees all types of work situations including hiring, firing, promotions, harassment, training, wages, and benefits.
@@ -134,7 +134,7 @@ Several federal government agencies have oversight over the companies owned or l
 2. **[Strive Asset Management](https://strivefinds.com/)**:
    - **[Securities and Exchange Commission (SEC)](https://www.sec.gov/)**: Oversees investment management and compliance.
    - **[Department of Labor (DOL)](https://www.dol.gov/)**: Regulates fiduciary responsibilities and retirement plans³.
-   - **[Internal Revenue Service (IRS)](https;//www.irs.gov/)**: No person or company is exempt.
+   - **[Internal Revenue Service (IRS)](https://www.irs.gov/)**: No person or company is exempt.
    - **[Social Security Administration](https://www.ssa.gov/)**: Runs the Social Security retirement, survivors, and disability insurance programs.
    - **[Equal Employment Opportunity Commission](https://www.eeoc.gov/)**: The Equal Employment Opportunity Commission (EEOC) enforces laws that make discrimination illegal in the workplace. The commission oversees all types of work situations including hiring, firing, promotions, harassment, training, wages, and benefits.
 
@@ -150,22 +150,22 @@ Source: Conversation with Copilot, 11/28/2024
 
 Story by Tami Luhby, CNN. November 28, 2024.
 
-- **[Supreme Court](https://www.scotus.gov/) Rulings**: Elon Musk and Vivek Ramaswamy plan to use recent [Supreme Court](https://www.scotus.gov/) decisions to reduce federal regulations, but experts argue these rulings might actually complicate their efforts.
+- **[Supreme Court](http://www.supremecourtus.gov/) Rulings**: Elon Musk and Vivek Ramaswamy plan to use recent [Supreme Court](http://www.supremecourtus.gov/) decisions to reduce federal regulations, but experts argue these rulings might actually complicate their efforts.
 - **Regulatory Challenges**: Overturning existing regulations requires a lengthy administrative process, including public comments and justifications, which could take years and face legal challenges.
 - **Staff Reductions**: Musk and Ramaswamy's proposal to cut federal workers could backfire, as these staffers are essential for reviewing and changing regulations.
 - **Conflicts of Interest**: Both Musk and Ramaswamy have business interests that would benefit from fewer regulations, raising concerns about potential conflicts of interest.
 
-Elon Musk and Vivek Ramaswamy intend to lean on two recent [Supreme Court](https://www.scotus.gov/) rulings that they argue will make it easier to tear up a multitude of federal regulations.
+Elon Musk and Vivek Ramaswamy intend to lean on two recent [Supreme Court](http://www.supremecourtus.gov/) rulings that they argue will make it easier to tear up a multitude of federal regulations.
 
 The duo, who [President-elect Donald Trump](https://www.donaldjtrump.com/) named to lead the newly formed Department of Government Efficiency, known as DOGE, point to the decisions in West Virginia v. Environmental Protection Agency in 2022 and in Loper Bright Enterprises v. Raimondo earlier this year, both of which limited federal agencies’ regulatory authority.
 
 However, multiple legal and regulatory experts told CNN that Musk and Ramaswamy are misinterpreting the decisions, which could actually make it harder to overturn existing rules.
 
-“These recent [Supreme Court](https://www.scotus.gov/) rulings won’t make their life easier in reducing the stock of existing regulations,” said James Broughel, senior fellow at the [Competitive Enterprise Institute](https://cei.com/), a free-market think tank that aims to reduce regulations. Decisions “like Loper Bright work against them,” he said.
+“These recent [Supreme Court](http://www.supremecourtus.gov/) rulings won’t make their life easier in reducing the stock of existing regulations,” said James Broughel, senior fellow at the [Competitive Enterprise Institute](https://cei.com/), a free-market think tank that aims to reduce regulations. Decisions “like Loper Bright work against them,” he said.
 
 #### Major rulings
 
-In the Loper Bright ruling, the justices overturned long-standing judicial precedent that required courts to give deference to federal agencies’ rulemaking when a law is ambiguous, with the new decision meaning that courts will give more scrutiny to the regulatory moves the executive branch is making. In the [West Virginia](https://wv.gov/) case, the [Supreme Court](https://www.scotus.gov/) cut back agencies’ power to address issues of major economic and political significance when [Congress](https://www.congress.gov/) hasn’t explicitly given the agencies those authorities.
+In the Loper Bright ruling, the justices overturned long-standing judicial precedent that required courts to give deference to federal agencies’ rulemaking when a law is ambiguous, with the new decision meaning that courts will give more scrutiny to the regulatory moves the executive branch is making. In the [West Virginia](https://wv.gov/) case, the [Supreme Court](http://www.supremecourtus.gov/) cut back agencies’ power to address issues of major economic and political significance when [Congress](https://www.congress.gov/) hasn’t explicitly given the agencies those authorities.
 
 “Together, these cases suggest that a plethora of current federal regulations exceed the authority [Congress](https://www.congress.gov/) has granted under the law,” Musk and Ramaswamy, who have many business ventures that would benefit from fewer regulations, wrote in a recent op-ed in [The Wall Street Journal](https://www.wsj.com/). “DOGE will present this list of regulations to [President Trump](https://www.donaldjtrump.com/), who can, by executive action, immediately pause the enforcement of those regulations and initiate the process for review and rescission. This would liberate individuals and businesses from illicit regulations never passed by Congress and stimulate the U.S. economy.”
 
