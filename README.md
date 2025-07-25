@@ -20,14 +20,16 @@ Surviving “The Apprentice: White House – Wrecking Ball”. [Trump](https://w
 
 ### Resources 
 
-Find out who politicians owe their soul to:
+#### Find out who politicians owe their soul to:
 
 - [OpenSecrets](https://www.opensecrets.org/)
-- [Trump Golf Track](https://trumpgolftrack.com/)
 
-Get access to your federal data:
+#### Get access to your federal data:
 
-- [Privacy Act](https://www.npr.org/2025/03/13/1238261955/over-a-dozen-lawsuits-to-stop-doge-data-access-are-betting-on-a-1974-law)
+- [Office of Privacy and Civil Liberties / Overview of The Privacy Act of 1974 (2020 Edition)](https://www.justice.gov/opcl/overview-privacy-act-1974-2020-edition)
+- [The Privacy Act of 1974](https://osc.gov/Pages/Privacy-Act.aspx)
+
+#### Make Your Voice Heard
 
 - [50501 — 50 protests, 50 states, 1 movement](https://www.fiftyfifty.one/)
 - [Activist Handbook / Campaigning guides for activists ✊](https://activisthandbook.org/)
@@ -39,7 +41,7 @@ Get access to your federal data:
 - [Stand Up America - Demanding the Democracy We Deserve](https://standupamerica.com/)
 - [Volunteer Opportunities, Events, and Petitions Near Me · Not Above the Law on Mobilize](https://www.mobilize.us/notabovethelaw/)
 
-### Call to Action
+#### Call to Action
 
 <div id="2025-07-19T23:59:59">
 
@@ -281,6 +283,10 @@ There are two court cases that have not yet convened and must be decided because
 I thought that it was a publicity when [Trump](https://www.donaldjtrump.com/) announced that he was running for [president](https://www.whitehouse.gov/). [Trump](https://www.donaldjtrump.com/) has neither the qualifications nor the temperament to be [president](https://www.whitehouse.gov/). My assessment has not wavered from 2016. America must not renew "[The Apprentice: White House](https://trumpwhitehouse.archives.gov/)" for a second season.
 
 "[The Apprentice: White House](https://www.whitehouse.gov/)" ended a tumultuous four year season ingloriously in January 2020, in an extraordinary low point in American history when thousands of far-right undesirables, Pride Boys, Zero Percenters and Oath Losers, lay siege on the US Capitol in a vain attempt of insurrection to overthrow a fair election.
+
+### Third Rate Golfer
+
+- [Trump Golf Track](https://trumpgolftrack.com/)
 
 ## Supreme Court Justice Clarence Thomas
 

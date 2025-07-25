@@ -12,7 +12,7 @@ title: "Musk’s Personnel Vendettas: Federal/States Gov’t"
 
 ## Department of Government Efficiency (DOGE) Is a Smoke Screen! 
 
-[Elon](https://ir.tesla.com/corporate/elon-musk) [Musk](https://x.com/elonmusk/) has contracts worth billions of dollars with the federal government and as a fractional CEO of his myriad of companies at stake.
+[Elon]() [Musk](https://x.com/elonmusk/) has contracts worth billions of dollars with the federal government and as a fractional CEO of his myriad of companies at stake.
 
 | Federal Agency | Functions |
 |---|---|
@@ -173,7 +173,7 @@ Midair Collision [PSA Airlines]() [Bombardier]() [CRJ700]() Airplane and [Sikors
     2. **[Environmental Protection Agency (EPA)](https://www.epa.gov/)**: Regulates emissions and environmental compliance.
     3. **[National Labor Relations Board (NRLB)](https://www.nlrb.gov/)**: [National Labor Relations Board (NRLB)](https://www.nlrb.gov/) enforces the National Labor Relations Act by investigating allegations of wrong-doing brought by workers, unions, or employers, conducting elections, and deciding and resolving cases.
     4. **[Securities and Exchange Commission (SEC)](https://www.sec.gov/)**: Monitors financial disclosures and securities regulations³.
-    5. **[Internal Revenue Service (IRS)](https;//www.irs.gov/)**: No person or company is exempt.
+    5. **[Internal Revenue Service (IRS)](https://www.irs.gov/)**: No person or company is exempt.
     6. **[Department of Labor (DOL)](https://www.dol.gov/)**: Regulates fiduciary responsibilities and retirement plans³
     7. **[Social Security Administration](https://www.ssa.gov/)**: Runs the Social Security retirement, survivors, and disability insurance programs.
     8. **[Equal Employment Opportunity Commission](https://www.eeoc.gov/)**: The [Equal Employment Opportunity Commission](https://www.eeoc.gov/) enforces laws that make discrimination illegal in the workplace. The commission oversees all types of work situations including hiring, firing, promotions, harassment, training, wages, and benefits.
@@ -183,35 +183,35 @@ Midair Collision [PSA Airlines]() [Bombardier]() [CRJ700]() Airplane and [Sikors
     3. **[Department of Defense (DOD)](https://www.defense.gov/)**: Engages in defense contracts and satellite launches².
     4. **[Environmental Protection Agency (EPA)](https://www.epa.gov/)**: Regulates emissions and environmental compliance.
     5. **[National Labor Relations Board (NRLB)](https://www.nlrb.gov/)**: The [National Labor Relations Board (NRLB)](https://www.nlrb.gov/) enforces the National Labor Relations Act by investigating allegations of wrong-doing brought by workers, unions, or employers, conducting elections, and deciding and resolving cases.
-    6. **[Internal Revenue Service (IRS)](https;//www.irs.gov/)**: No person or company is exempt.
+    6. **[Internal Revenue Service (IRS)](https://www.irs.gov/)**: No person or company is exempt.
     7. **[Department of Labor (DOL)](https://www.dol.gov/)**: Regulates fiduciary responsibilities and retirement plans³.
     8. **[Social Security Administration](https://www.ssa.gov/)**: Runs the Social Security retirement, survivors, and disability insurance programs.
     9. **[Equal Employment Opportunity Commission (EEOC)](https://www.eeoc.gov/)**: The [Equal Employment Opportunity Commission (EEOC)](https://www.eeoc.gov/) enforces laws that make discrimination illegal in the workplace. The commission oversees all types of work situations including hiring, firing, promotions, harassment, training, wages, and benefits.
 3. **[X](https://x.com/) (formerly [Twitter](https://twitter.com/))**:
     1. **[Federal Trade Commission (FTC)](https://www.ftc.gov/)**: Ensures consumer protection and privacy standards
     2. **[Federal Communications Commission (FCC)](https://www.fcc.gov/)**: Regulates communications and broadcasting⁴.
-    3. **[Internal Revenue Service (IRS)](https;//www.irs.gov/)**: No person or company is exempt.
+    3. **[Internal Revenue Service (IRS)](https://www.irs.gov/)**: No person or company is exempt.
     4. **[Department of Labor (DOL)](https://www.dol.gov/)**: Regulates fiduciary responsibilities and retirement plans³.
     5. **[Social Security Administration](https://www.ssa.gov/)**: Runs the Social Security retirement, survivors, and disability insurance programs.
     6. **[Equal Employment Opportunity Commission (EEOC)](https://www.eeoc.gov/)**: The [Equal Employment Opportunity Commission (EEOC)](https://www.eeoc.gov/) enforces laws that make discrimination illegal in the workplace. The commission oversees all types of work situations including hiring, firing, promotions, harassment, training, wages, and benefits.
 4. **[The Boring Company](https://www.boringcompany.com/)**:
     1. **[Department of Transportation (DOT)](https://www.dot.gov/)**: Oversees transportation infrastructure projects.
     2. **[Environmental Protection Agency (EPA)](https://www.epa.gov/)**: Ensures environmental compliance for tunneling projects⁴.
-    3. **[Internal Revenue Service (IRS)](https;//www.irs.gov/)**: No person or company is exempt.
+    3. **[Internal Revenue Service (IRS)](https://www.irs.gov/)**: No person or company is exempt.
     4. **[Department of Labor (DOL)](https://www.dol.gov/)**: Regulates fiduciary responsibilities and retirement plans³.
     5. **[Social Security Administration](https://www.ssa.gov/)**: Runs the Social Security retirement, survivors, and disability insurance programs.
     6. **[Equal Employment Opportunity Commission (EEOC)](https://www.eeoc.gov/)**: The [Equal Employment Opportunity Commission (EEOC)](https://www.eeoc.gov/) enforces laws that make discrimination illegal in the workplace. The commission oversees all types of work situations including hiring, firing, promotions, harassment, training, wages, and benefits.
 5. **[Neuralink](https://neuralink.com/)**:
     1. **[Food and Drug Administration (FDA)](https://www.fda.gov/)**: Regulates medical devices and clinical trials.
     2. **[National Institutes of Health (NIH)](https://www.nih.gov/)**: Provides research funding and oversight⁴.
-    3. **[Internal Revenue Service (IRS)](https;//www.irs.gov/)**: No person or company is exempt.
+    3. **[Internal Revenue Service (IRS)](https://www.irs.gov/)**: No person or company is exempt.
     4. **[Department of Labor (DOL)](https://www.dol.gov/)**: Regulates fiduciary responsibilities and retirement plans³.
     5. **[Social Security Administration](https://www.ssa.gov/)**: Runs the Social Security retirement, survivors, and disability insurance programs
     6. **[US Department of Agriculture (USDA)](https://www.usda.gov/)**:
 6. **[xAI](https://x.ai/)**:
     1. **[Federal Trade Commission (FTC)](https://www.ftc.gov/)**: Monitors AI ethics and consumer protection.
     2. **[Department of Commerce (DOC)](https://www.commerce.gov/)**: Oversees technology and innovation policies⁴.
-    3. **[Internal Revenue Service (IRS)](https;//www.irs.gov/)**: No person or company is exempt.
+    3. **[Internal Revenue Service (IRS)](https://www.irs.gov/)**: No person or company is exempt.
     4. **[Department of Labor (DOL)](https://www.dol.gov/)**: Regulates fiduciary responsibilities and retirement plans³.
     5. **[Social Security Administration](https://www.ssa.gov/)**: Runs the Social Security retirement, survivors, and disability insurance programs.
     6. **[Equal Employment Opportunity Commission (EEOC)](https://www.eeoc.gov/)**: The [Equal Employment Opportunity Commission (EEOC)](https://www.eeoc.gov/) enforces laws that make discrimination illegal in the workplace. The commission oversees all types of work situations including hiring, firing, promotions, harassment, training, wages, and benefits.
@@ -219,7 +219,7 @@ Midair Collision [PSA Airlines]() [Bombardier]() [CRJ700]() Airplane and [Sikors
     1. **[Federal Aviation Administration (FAA)](https://www.fda.gov/)**: Regulates commercial space launches and reentries
     2. **[Federal Trade Commission (FTC)](https://www.ftc.gov/)**: Ensures consumer protection and privacy standards.
     3. **[Federal Communications Commission (FCC)](https://www.fcc.gov/)**: Regulates communications and broadcasting⁴.
-    4. **[Internal Revenue Service (IRS)](https;//www.irs.gov/)**: No person or company is exempt.
+    4. **[Internal Revenue Service (IRS)](https://www.irs.gov/)**: No person or company is exempt.
     5. **[Department of Labor (DOL)](https://www.dol.gov/)**: Regulates fiduciary responsibilities and retirement plans³.
     6. **[Social Security Administration](https://www.ssa.gov/)**: Runs the Social Security retirement, survivors, and disability insurance programs.
     7. **[Equal Employment Opportunity Commission (EEOC)](https://www.eeoc.gov/)**: The [Equal Employment Opportunity Commission (EEOC)](https://www.eeoc.gov/) enforces laws that make discrimination illegal in the workplace. The commission oversees all types of work situations including hiring, firing, promotions, harassment, training, wages, and benefits.
