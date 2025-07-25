@@ -7,7 +7,7 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: "Senate Democrats Push Trump’s Personal Lawyer, Pam Bondi, Over Her Bungled Epstein Files Release:
+title: "Senate Democrats Push Trump’s Personal Lawyer, Pam Bondi, Over Her Bungled Epstein Files Release"
 ---
 
 
