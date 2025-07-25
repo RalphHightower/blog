@@ -7,11 +7,11 @@ date: 2025-06-20 1:19 AM
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: "Jen Psaki: 2025-06-19 Press Briefing Redo – No Lies. Just Facts"
+title: "Jen Psaki: 2025-06-19. Jen Answers: What Does Trump’s “Two Weeks” Mean?"
 ---
 
 
-## Jen's version: What [Trump](https://www.donaldjtrump.com/) really means by 'two weeks'; Plus, what is the ['Trump doctrine'](https://www.donaldjtrump.com/)?
+## Jen's version: What [Trump](https://www.donaldjtrump.com/) really means by "'two weeks'"; Plus, what is the ['Trump doctrine'](https://www.donaldjtrump.com/)?
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9nCZ7jjtmKE?si=-W7qoag4vbMxrokT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

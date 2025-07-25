@@ -7,7 +7,7 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: "Jen Psaki: 2025-06-04 Press Briefing Redo – No Lies. Just Facts"
+title: "Jen Psaki: 2025-06-04 Press Briefing: Jen Answers Questions About Trump’s Bromance With Elon Musk"
 ---
 
 Jen Psaki was the press secretary for [President Barak Obama](https://obamawhitehouse.archives.gov/) and [President Joe Biden](https://bidenwhitehouse.archives.gov/). I hope this redo becomes a regular feature on [MSNBC](https://www.msnbc.com/).
@@ -15,7 +15,7 @@ Jen Psaki was the press secretary for [President Barak Obama](https://obamawhite
 <iframe width="560" height="315" src="https://www.youtube.com/embed/n5hRKhVCKQY?si=yhUk1jt0XgYPlkXs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Jun 4, 2025  [#WhiteHouse](https://www.whitehouse.gov/) [#DonaldTrump](https://www.donaldjtrump.com/) [#ElonMusk](https://ir.tesla.com/corporate/elon-musk)
-Jan Psaki takes a turn answers questions posed in today's White House briefing, including how [Donald Trump](https://www.donaldjtrump.com/) feels about [Elon Musk](https://ir.tesla.com/corporate/) calling the Republican budget bill a "disgusting abomination." 
+Jan Psaki takes a turn answers questions posed in today's White House briefing, including how [Donald Trump](https://www.donaldjtrump.com/) feels about [Elon Musk](https://ir.tesla.com/corporate/) calling the [Republican](https://www.gop.com/) budget bill a "disgusting abomination." 
 
 For more context and news coverage of the most important stories of our day click here: https://www.msnbc.com/
 
