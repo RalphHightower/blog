@@ -25,7 +25,7 @@ In the email, Comey — daughter of [former FBI Director James Comey](https://ww
 
 “If a career prosecutor can be fired without reason, fear may seep into the decisions of those who remain,” she wrote. “Do not let that happen. Fear is the tool of a tyrant, wielded to suppress independent thought.
 
-The email was first reported by [Politico](https;//www.politico.com/). [MSNBC](https://www.msnbc.com/) legal correspondent Lisa Rubin obtained the email from a source who received it directly from Comey.
+The email was first reported by [Politico](https://www.politico.com/). [MSNBC](https://www.msnbc.com/) legal correspondent Lisa Rubin obtained the email from a source who received it directly from Comey.
 
 Read Comey’s full email below:
 
@@ -56,7 +56,7 @@ Maurene
     - [Federal Reserve Board](https://www.federalreserve.gov/)
     - [Federal Bureau of Investigation (FBI)](https://www.fbi.gov/)
         - [James Comey](https://www.fbi.gov/history/directors/james-b-comey)
-    - [Congress](https;//www.congress.gov/)
+    - [Congress](https://www.congress.gov/)
     - [Senate](https://www.senate.gov/)
     - [House of Representatives](https://www.house.gov/)
     - [President of the United States (POTUS)](https://www.whitehouse.gov/)

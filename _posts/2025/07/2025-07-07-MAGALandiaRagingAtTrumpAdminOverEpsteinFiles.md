@@ -54,7 +54,7 @@ Jared Holt is a reporter and researcher who studies hate and extremist movements
 - [ABC News](https://abcnews.go.com/)
 - [CBS News](https://www.cbsnews.com/)
 - [NBC News](https://www.nbcnews.com/)
-- [Associated Press (AP)](https;//www.apnews.com/)
+- [Associated Press (AP)](https://www.apnews.com/)
 - [The Independent / Latest news and features from US, UK and worldwide](https://www.independent.co.uk/us)
 - [Politics, Policy, Political News - POLITICO](https://www.politico.com/)
 - organizations 

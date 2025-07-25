@@ -99,7 +99,7 @@ This post updates our [related earlier coverage](https://www.msnbc.com/rachel-ma
         - Robert Mueller
     - [Central Intelligence Agency (CIA)](https://www.cia.gov/)
     - [Federal Bureau of Investigation (FBI)](https://www.fbi.gov/)
-    - [Congress](https;//www.congress.gov/)
+    - [Congress](https://www.congress.gov/)
         - [Senate](https://www.senate.gov/)
             - [Select Committee on Intelligence](http://www.intelligence.senate.gov/)
         - [House of Representatives](https://www.house.gov/)

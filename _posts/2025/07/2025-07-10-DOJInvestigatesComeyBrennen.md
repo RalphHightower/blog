@@ -66,7 +66,6 @@ That was four months ago. The problem is vastly worse now, and there’s no reas
         - [New York Times (NYT)](https://www.nytimes.com/)
         - [Washington Post](https://www.washingtonpost.com/)
         - [Faux News](https://www.foxnews.com/)
-        - []()
 - companies 
 - foreign countries 
 - state, local governments
@@ -100,7 +99,7 @@ That was four months ago. The problem is vastly worse now, and there’s no reas
         - [James Comey](https://www.fbi.gov/history/directors/james-b-comey)
     - [Central Intelligence Agency (CIA)](https://www.cia.gov/)
         - John Brennan
-    - [Congress](https;//www.congress.gov/)
+    - [Congress](https://www.congress.gov/)
         - [Senate](https://www.senate.gov/)
             - [Judiciary Committee](http://www.judiciary.senate.gov/)
         - [House of Representatives](https://www.house.gov/)

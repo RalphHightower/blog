@@ -138,7 +138,7 @@ Steven Monacelli is a columnist for [The Barbed Wire](https://thebarbedwire.com/
             - [U.S. European Command (USEUCOM)](https://www.eucom.mil/)
         - [Office of the Director of National Intelligence (ODNI)](https://www.odni.gov/)
         - [Department of Homeland Security (DHS)](https://www.dhs.gov/)
-    - [Congress](https;//www.congress.gov/)
+    - [Congress](https://www.congress.gov/)
         - [Senate](https://www.senate.gov/)
             - [John Cornyn (T-TX)](https://www.cornyn.senate.gov/)
         - [House of Representatives](https://www.house.gov/)

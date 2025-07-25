@@ -75,7 +75,7 @@ If members of [Team Trump](https://www.donaldjtrump.com/) want to know who to bl
     - [Department of Justice (DOJ)](https://www.justice.gov/)
    - [Department of State (DOS)](https://www.state.gov/)
     - [Federal Bureau of Investigation (FBI)](https://www.fbi.gov/)
-    - [Congress](https;//www.congress.gov/)
+    - [Congress](https://www.congress.gov/)
         - [U.S. Capitol Police](https://www.uscp.gov/)
         - [Senate](https://www.senate.gov/)
             - [Ron Wyden (D-OR)](https://www.wyden.senate.gov/)

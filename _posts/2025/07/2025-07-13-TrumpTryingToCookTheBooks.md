@@ -72,7 +72,7 @@ This is likely to get worse before it gets better. Watch this space.
         - [The Fed - Federal Open Market Committee](https://www.federalreserve.gov/monetarypolicy/fomc.htm)
         - [Federal Reserve Board - Board Members](https://www.federalreserve.gov/aboutthefed/bios/board/default.htm)
             - [Jerome H. Powell](https://www.federalreserve.gov/aboutthefed/bios/board/powell.htm)
-    - [Congress](https;//www.congress.gov/)
+    - [Congress](https://www.congress.gov/)
         - [U.S. Capitol Police](https://www.uscp.gov/)
         - [Senate](https://www.senate.gov/)
         - [House of Representatives](https://www.house.gov/)

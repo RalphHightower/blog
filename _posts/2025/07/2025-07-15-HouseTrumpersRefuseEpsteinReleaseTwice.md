@@ -73,7 +73,7 @@ Or put another way, as many congressional [Republicans](https://www.gop.com/) [s
    - [Department of State (DOS)](https://www.state.gov/)
     - [Federal Bureau of Investigation (FBI)](https://www.fbi.gov/)
         - [James Comey](https://www.fbi.gov/history/directors/james-b-comey)
-    - [Congress](https;//www.congress.gov/)
+    - [Congress](https://www.congress.gov/)
         - [Senate](https://www.senate.gov/)
             - [Ron Johnson (T-WI)](https://www.ronjohnson.senate.gov/)
         - [House of Representatives](https://www.house.gov/)

@@ -16,7 +16,7 @@ title: "Trump Is Losing His Mind. Not Figuratively, But Cognitively"
 *The [president](https://www.whitehouse.gov/)’s story made no sense — and he also doesn't always appear to know what his own administration is doing.*
 
 July 19, 2025, 6:00 AM EDT
-By Michael A. Cohen, [MSNBC](https;//www.msnbc.com/) Columnist
+By Michael A. Cohen, [MSNBC](https://www.msnbc.com/) Columnist
 
 Earlier this week, [President](https://www.whitehouse.gov/) [Donald Trump](https://www.donaldjtrump.com/) told a story that, even for the [least honest president in American history](https://www.washingtonpost.com/politics/2021/01/24/trumps-false-or-misleading-claims-total-30573-over-four-years/), was notable.
 
@@ -74,7 +74,7 @@ One can certainly debate the extent to which [Biden](https://bidenwhitehouse.arc
 
 To quote [Thompson](https://www.axios.com/authors/athompson), where are the truth-tellers about the current occupant of the [White House](https://www.whitehouse.gov/)?
 
-Michael A. Cohen is a columnist for [MSNBC](https;//www.msnbc.com/) and a senior fellow and co-director of the [Afghanistan Assumptions Project](https://sites.tufts.edu/css/?page_id=1510) at the [Center for Strategic Studies](https://sites.tufts.edu/css/) at the [Fletcher School](https://fletcher.tufts.edu/), [Tufts University](,https://www.tufts.edu/). He writes the political newsletter [Truth and Consequences](https://urldefense.com/v3/__https://truthandcons.substack.com/__;!!PIZeeW5wscynRQ!u_XKZjv-lWH23z1mnHythaCOP6PFQIIYCwx9LK8Bsf1E8Fq24bv3BUSOnMKMGac4phxnOcJrub5z8w_Bku4b2cg$). He has been a columnist at [The Boston Globe](https://www.bostonglobe.com/), [The Guardian](https://www.theguardian.com/) and [Foreign Policy](https://foreignpolicy.com/), and he is the author of three books, the [most recent being](https://urldefense.com/v3/__https://www.amazon.com/dp/B07P77NDT6/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1__;!!PIZeeW5wscynRQ!u_XKZjv-lWH23z1mnHythaCOP6PFQIIYCwx9LK8Bsf1E8Fq24bv3BUSOnMKMGac4phxnOcJrub5z8w_BrJq41KY$) “Clear and Present Safety: The World Has Never Been Better and Why That Matters to Americans.”
+Michael A. Cohen is a columnist for [MSNBC](https://www.msnbc.com/) and a senior fellow and co-director of the [Afghanistan Assumptions Project](https://sites.tufts.edu/css/?page_id=1510) at the [Center for Strategic Studies](https://sites.tufts.edu/css/) at the [Fletcher School](https://fletcher.tufts.edu/), [Tufts University](,https://www.tufts.edu/). He writes the political newsletter [Truth and Consequences](https://urldefense.com/v3/__https://truthandcons.substack.com/__;!!PIZeeW5wscynRQ!u_XKZjv-lWH23z1mnHythaCOP6PFQIIYCwx9LK8Bsf1E8Fq24bv3BUSOnMKMGac4phxnOcJrub5z8w_Bku4b2cg$). He has been a columnist at [The Boston Globe](https://www.bostonglobe.com/), [The Guardian](https://www.theguardian.com/) and [Foreign Policy](https://foreignpolicy.com/), and he is the author of three books, the [most recent being](https://urldefense.com/v3/__https://www.amazon.com/dp/B07P77NDT6/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1__;!!PIZeeW5wscynRQ!u_XKZjv-lWH23z1mnHythaCOP6PFQIIYCwx9LK8Bsf1E8Fq24bv3BUSOnMKMGac4phxnOcJrub5z8w_BrJq41KY$) “Clear and Present Safety: The World Has Never Been Better and Why That Matters to Americans.”
 
 ----
 - media

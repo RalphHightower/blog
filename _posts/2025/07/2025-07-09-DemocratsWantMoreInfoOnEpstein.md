@@ -71,7 +71,7 @@ All of which suggests [Trump](https://www.donaldjtrump.com/)’s efforts to end 
     - [Department of Justice (DOJ)](https://www.justice.gov/)
    - [Department of State (DOS)](https://www.state.gov/)
     - [Federal Bureau of Investigation (FBI)](https://www.fbi.gov/)
-    - [Congress](https;//www.congress.gov/)
+    - [Congress](https://www.congress.gov/)
         - [U.S. Capitol Police](https://www.uscp.gov/)
         - [Senate](https://www.senate.gov/)
             - [Ron Wyden (D-OR)](https://www.wyden.senate.gov/)
