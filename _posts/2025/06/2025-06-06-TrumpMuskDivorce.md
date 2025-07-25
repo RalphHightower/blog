@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: [MSNBC, NBC News, NBC News Author Kristen Welker, New York Times (NYT), Washington Post, companies, Elon Musk, Elon Musk, The Boring Company, Neuralink, SpaceX, Starlink, Tesla, Twitter, X, xAI, universities, political parties, Democrat Party, Trump Party, Trumpian National Committee / RNC, foreign governments, Website of the Federal Government / Bundesregierung, The Federal Chancellor of the Federal Republic of Germany / Home page, Frederich Merz – Federal Chancellor, state governments, Alabama.gov / The Official Website of the State of Alabama, Kentucky.gov, Wisconsin.Gov, Federal Government, Constitution of the United States, 2024 Presidential Election Results – Federal Election Commission (FEC), Supreme Court of the United States (SCOTUS), US Courts, National Aeronautics and Space Administration (NASA), Congress, Congressional Budget Office (CBO), H.R.7130 - 93rd Congress (1973-1974) –  Congressional Budget and Impoundment Control Act of 1974 / Congress.gov / Library of Congress, Text - H.R.1 - 119th Congress (2025-2026) –  One Big Beautiful Bill Act / Congress.gov / Library of Congress, Senate, Senate, Tommy Tuberville (T-AL), Ron Johnson (T-WI), Rand Paul (T-KY), House of Representatives, Speaker of the House Mike Johnson, Don Bacon (T-NE2), Melanie Stansbury (D-NM1), Richard Hudson (T-NC9), Marjorie Taylor Greene (T-GA14), Mike Johnson (T-LA4), House Budget Committee, President of the United States (POTUS), White House (WH), Donald J Trump, President Donald Trump (47), President Trump Administration (47), Vice President JD Vance, JD Vance, Jared Isaacman, grift, politics]
-categories: [Donald Trump]
+categories: [Jeffrey Epstein, Ghislaine Maxwell, Trump Crime Family, Donald Trump]
 date: 2025-06-06 10:37 PM
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
@@ -10,7 +10,7 @@ excerpt: ''
 title: "Donald Trump and Elon Musk Bromance Had a ‘Rapid Unscheduled Disassembly’ (A Messy Divorce Explosion 💣 )"
 ---
 
-## Rep. Stansbury: [Elon](https://ir.tesla.com/corporate/) and [Trump](https://www.donaldjtrump.com/)'s breakup is messy – Housewives of 1600 Pennsylvania Ave
+## Rep. Stansbury: [Elon](https://ir.tesla.com/corporate/) and [Trump](https://www.donaldjtrump.com/)'s breakup is messy – Housewives of [1600 Pennsylvania Ave](https://www.whitehouse.gov/)
 
 - [Melanie Stansbury (D-NM1)](https://stansbury.house.gov/)
 
