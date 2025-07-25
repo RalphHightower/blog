@@ -78,7 +78,7 @@ Will such reports sink his nomination? Unfortunately, given [Trump](https://www.
     - [Maryland.gov - Official Website of the State of Maryland](https://moss-maryland-cdn.nicusa-gl.com/Pages/default.aspx)
 - political parties
     - [Democrat Party](https://www.democrats.org/)
-    - [Trumpian Party](https;//www.gop.com/)
+    - [Trumpian Party](https://www.gop.com/)
 - Federal Government 
     - [Constitution of the United States](https://constitution.congress.gov/)
     - [First Amendment](https://constitution.congress.gov/constitution/amendment-1/)
@@ -115,7 +115,7 @@ Will such reports sink his nomination? Unfortunately, given [Trump](https://www.
         - [U.S. European Command (USEUCOM)](https://www.eucom.mil/)
         - [Office of the Director of National Intelligence (ODNI)](https://www.odni.gov/)
         - [Department of Homeland Security (DHS)](https://www.dhs.gov/)
-    - [Congress](https;//www.congress.gov/)
+    - [Congress](https://www.congress.gov/)
         - [U.S. Capitol Police](https://www.uscp.gov/)
         - [Senate](https://www.senate.gov/)
             - [Judiciary Committee](http://www.judiciary.senate.gov/)

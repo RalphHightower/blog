@@ -57,7 +57,7 @@ Hayes Brown is a writer and editor for [MSNBC Daily](https://www.msnbc.com/), wh
 - [Vivek Murthy](https://www.linkedin.com/in/drvivekmurthy/)
 - [Constitution of the United States](https://constitution.congress.gov/)
 - [Supreme Court of the United States (SCOTUS)](https://www.supremecourt.gov/)
-- [US Courts](https;//www.uscourts.gov/)
+- [US Courts](https://www.uscourts.gov/)
 - [Congress](https://www.congress.gov/)
 - [Senate](https://www.senate.gov/)
 - [House of Representatives](https://www.house.gov/)

@@ -115,7 +115,7 @@ Indeed, few senior administration officials and others close to [Trump](https://
 - Request For Proposal (RFP)
 - [Supreme Court of the United States (SCOTUS)](https://www.supremecourt.gov/)
 - [US Courts](https://www.uscourts.gov/)
-- [Congress](https;//www.congress.gov/)
+- [Congress](https://www.congress.gov/)
 - [Senate](https://www.senate.gov/)
 - [House of Representatives](https://www.house.gov/)
 - non-disclosure agreements (NDAs)

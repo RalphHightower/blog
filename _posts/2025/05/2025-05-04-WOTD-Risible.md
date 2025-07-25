@@ -10,7 +10,7 @@ excerpt: ''
 title: "Merriam-Webster's WOTD (Word of the Day) Is Risible"
 ---
 
-[Trump](https://www.donaldjtrump.com/) and [his cabinet](https://www.whitehouse.gov/administration/the-cabinet/) and [administration](https;//www.whitehouse.gov/administration/) are the largest grouping of incompetence. 
+[Trump](https://www.donaldjtrump.com/) and [his cabinet](https://www.whitehouse.gov/administration/the-cabinet/) and [administration](https://www.whitehouse.gov/administration/) are the largest grouping of incompetence. 
 
 Every day, hour, minute, second, [Trump](https://www.whitehouse.gov/administration/donald-j-trump) provides fodder for [Saturday Night Live - NBC.com](https://www.nbc.com/saturday-night-live).
 

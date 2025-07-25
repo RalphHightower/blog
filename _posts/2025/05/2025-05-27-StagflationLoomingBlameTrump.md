@@ -26,7 +26,7 @@ Starting at the beginning: As we all know, the [U.S. government](https://www.usa
 
 > *Global investors in [U.S. debt](https://home.treasury.gov/) are learning how many trillions the [GOP](https://www.gop.com/)’s bill is likely to pile onto the already swollen deficit.*
 
-Where does the [Treasury](https://home.treasury.gov/) get this money? It borrows it in the bond market, meaning it sells IOUs to creditors who lend money to [U.S. government](https://www.usa.gov/). They don’t do this because they’re patriots who want to make sure the government can meet its obligations. They do it for a) the yield on the loan, i.e., the interest rate that the bond pays out, and b) the safety of investing in [U.S. Treasurys](https://home.treasury.gov/). Such investments have historically been the least risky investments you could make. The [U.S. government](https;//www.usa.gov/) has always been safely counted on to pay its debts. Default risk has been zero.
+Where does the [Treasury](https://home.treasury.gov/) get this money? It borrows it in the bond market, meaning it sells IOUs to creditors who lend money to [U.S. government](https://www.usa.gov/). They don’t do this because they’re patriots who want to make sure the government can meet its obligations. They do it for a) the yield on the loan, i.e., the interest rate that the bond pays out, and b) the safety of investing in [U.S. Treasurys](https://home.treasury.gov/). Such investments have historically been the least risky investments you could make. The [U.S. government](https://www.usa.gov/) has always been safely counted on to pay its debts. Default risk has been zero.
 
 OK, so why the anxious headlines, like “[The Bond Market Is Waking Up to the Fiscal Mess in Washington”](https://www.wsj.com/finance/investing/the-bond-market-is-waking-up-to-the-fiscal-mess-in-washington-fcebd153?gaa_at=eafs&gaa_n=ASWzDAiKOCG-E9ymXbYcEU7MazTwhLNkUIFO0KsD5KvO-QuqCB9ueCl-lZcdVnDk8ck%3D&gaa_ts=6831c946&gaa_sig=4RfSeE9tiM4ppwVBBCRaijUUX5okPp4ZL236ya5Ld441NOOMo-4oIWbIOsZem-WO_l9g8B3mszudcflUisjmSQ%3D%3D)” in The [Wall Street Journal](https://www.wsj.com/) and “[“Bond Market Shudders as Tax Bill Deepens Deficit Worries”](https://www.nytimes.com/2025/05/22/us/politics/bond-market-debt-deficit.html)” in [The New York Times](https://www.nytimes.com/)? Why are economists, myself included, who formerly told debt scolds to stop obsessing over the debt now urging the opposite?
 
@@ -67,7 +67,7 @@ Jared Bernstein was chair of [President Joe Biden](https://bidenwhitehouse.archi
 - [Supreme Court of the United States (SCOTUS)](https://www.supremecourt.gov/)
 - [US Courts](https://www.uscourts.gov/)
 - [Department of Treasury (Treasury)](https://home.treasury.gov/)
-- [Congress](https;//www.congress.gov/)
+- [Congress](https://www.congress.gov/)
 - [Senate](https://www.senate.gov/)
 - [House of Representatives](https://www.house.gov/)
 - [President Barack Obama](https://obamawhitehouse.archives.gov/)

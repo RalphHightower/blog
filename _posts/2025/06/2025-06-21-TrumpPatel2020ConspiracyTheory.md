@@ -86,7 +86,7 @@ Steve Benen is a producer for "[The Rachel Maddow Show](https://www.msnbc.com/ra
 - [U.S. European Command (USEUCOM)](https://www.eucom.mil/)
 - [Office of the Director of National Intelligence (ODNI)](https://www.odni.gov/)
 - [Department of Homeland Security (DHS)](https://www.dhs.gov/)
-- [Congress](https;//www.congress.gov/)
+- [Congress](https://www.congress.gov/)
 - [Senate](https://www.senate.gov/)
 - [Home / United States Senate Committee on the Judiciary](https://www.judiciary.senate.gov/)
 - [Chuck Grassley (T-IA)](https://www.grassley.senate.gov/)

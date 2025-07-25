@@ -218,7 +218,7 @@ Those expecting the [president](https://www.whitehouse.gov/) to return rhetorica
 
 [Trump](https://www.donaldjtrump.com/) went on to suggest that [Trump](https://www.donaldjtrump.com/) lobbied for Jared Isaacman, the former [NASA](https://www.nasa.gov/) administrator nominee, adding, “I didn’t think it was appropriate.” Of course, that raises the related question of why the [president](https://www.whitehouse.gov/) [nominated him in the first place](https://www.msnbc.com/rachel-maddow-show/maddowblog/demise-trumps-nasa-pick-different-personnel-failures-rcna210461) if this was inappropriate.
 
-That paved the way for the pièce de résistance: the [president](https://www.whitehouse.gov/) suggesting that his former [DOGE](https://doge.gov/) chief is suffering from “[Trump](https;//www.donaldjtrump.com/) derangement syndrome.”
+That paved the way for the pièce de résistance: the [president](https://www.whitehouse.gov/) suggesting that his former [DOGE](https://doge.gov/) chief is suffering from “[Trump](https://www.donaldjtrump.com/) derangement syndrome.”
 
 “[Elon](https://ir.tesla.com/corporate/elon-musk) and I had a great relationship,” [the Republican concluded](https://bsky.app/profile/factpostnews.bsky.social/post/3lqur7svjlk2b). “I don’t know if we will anymore.”
 
@@ -270,7 +270,7 @@ Though [Trump and Epstein knew each other](https://www.nbcnews.com/politics/dona
 
 Flight logs released in 2021 as part of Epstein associate Ghislane Maxwell’s trial, however, indicated [Trump](https://www.donaldjtrump.com/) flew on the plane seven times. The logs don’t include the ages of the passengers.
 
-The [White House](https://www.whitehouse.gov/) responded to [Musk](https://ir.tesla.com/corporate/elon-musk)'s claim Thursday night with press secretary Karoline Leavitt calling it "an unfortunate episode from [Elon](https;//ir.tesla.com/corporate/elon-musk), who is unhappy with the [One Big Beautiful Bill](https://www.congress.gov/bill/119th-congress/house-bill/1/text) because it does not include the policies he wanted."
+The [White House](https://www.whitehouse.gov/) responded to [Musk](https://ir.tesla.com/corporate/elon-musk)'s claim Thursday night with press secretary Karoline Leavitt calling it "an unfortunate episode from [Elon](https://ir.tesla.com/corporate/elon-musk), who is unhappy with the [One Big Beautiful Bill](https://www.congress.gov/bill/119th-congress/house-bill/1/text) because it does not include the policies he wanted."
 
 She added that [Trump](https://www.donaldjtrump.com/) "is focused on passing this historic piece of legislation."
 
@@ -327,7 +327,7 @@ Mike Calia, Tom Winter, Sarah Fitzpatrick, Alexandra Marquez, Nnamdi Egwuonwu, B
 - [Supreme Court of the United States (SCOTUS)](https://www.supremecourt.gov/)
 - [US Courts](https://www.uscourts.gov/)
 - [National Aeronautics and Space Administration (NASA)](https://www.nasa.gov/)
-- [Congress](https;//www.congress.gov/)
+- [Congress](https://www.congress.gov/)
 - [Congressional Budget Office (CBO)](https://www.cbo.gov/)
 - [H.R.7130 - 93rd Congress (1973-1974): Congressional Budget and Impoundment Control Act of 1974 / Congress.gov / Library of Congress](https://www.congress.gov/bill/93rd-congress/house-bill/7130)
 - [Text - H.R.1 - 119th Congress (2025-2026): One Big Beautiful Bill Act / Congress.gov / Library of Congress](https://www.congress.gov/bill/119th-congress/house-bill/1/text)

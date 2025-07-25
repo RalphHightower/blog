@@ -101,7 +101,7 @@ Zeeshan Aleem is a writer and editor for [MSNBC Daily](https://www.msnbc.com/). 
 - [Strategic Command (USSTRATCOM)](http://www.stratcom.mil/)
 - [U.S. European Command (USEUCOM)](https://www.eucom.mil/)
 - [Department of Homeland Security (DHS)](https://www.dhs.gov/)
-- [Congress](https;//www.congress.gov/)
+- [Congress](https://www.congress.gov/)
 - [Congressional Budget Office (CBO)](https://www.cbo.gov/)
 - [Senate](https://www.senate.gov/)
 - [House of Representatives](https://www.house.gov/)

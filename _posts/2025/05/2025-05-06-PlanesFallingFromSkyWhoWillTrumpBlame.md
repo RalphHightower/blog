@@ -61,7 +61,7 @@ Over the last few days, you may have seen some headlines about things being real
 
 We may now have our answer. On Monday, [The New York Times reported](https://www.nytimes.com/2025/05/05/nyregion/newark-airport-delays-disruptions-issues.html) that two days before last week’s [Cabinet meeting](https://www.whitehouse.gov/administration/the-cabinet/), “air traffic controllers temporarily lost communication with planes at [Newark Liberty International Airport](https://www.airport-ewr.com/newark).”
 
-The [Times](https;//www.nytimes.com/) reported: 
+The [Times](https://www.nytimes.com/) reported: 
 
 > *[A] spokesman for the union, the [National Air Traffic Controllers Association](https://www.natca.org/), said that on April 28, controllers in a [Philadelphia air traffic control center](https://www.faa.gov/about/office_org/headquarters_offices/ato/service_units/air_traffic_services/tracon) who are responsible for separating and sequencing aircraft in and out of [Newark Airport](https://www.airport-ewr.com/newark) ‘temporarily lost radar and communications with the aircraft under their control,’ and were ‘unable to see, hear, or talk to them.’*
 

@@ -37,7 +37,7 @@ The important thing about the existing [SSA](https://www.ssa.gov/) technical inf
 
 > *What could be the legitimate purpose of this incredibly dangerous operation?*
 
-If [Twitter](https:x.com/) accidentally goes down for a few hours, nothing terrible happens. But if just one person misses a [Social Security](https;//www.ssa.gov/) payment, that could drop the person off a financial cliff. Replacing the [SSA](https://www.ssa.gov/)’s core infrastructure with an entirely new system all at once is performing a high-wire act without a net, only it’s not [DOGE](https://www.doge.gov/) staffers who risk falling — it’s the [Social Security](https;//www.ssa.gov/) beneficiaries who depend on that social safety net.
+If [Twitter](https:x.com/) accidentally goes down for a few hours, nothing terrible happens. But if just one person misses a [Social Security](https://www.ssa.gov/) payment, that could drop the person off a financial cliff. Replacing the [SSA](https://www.ssa.gov/)’s core infrastructure with an entirely new system all at once is performing a high-wire act without a net, only it’s not [DOGE](https://www.doge.gov/) staffers who risk falling — it’s the [Social Security](https://www.ssa.gov/) beneficiaries who depend on that social safety net.
 
 Complex systems theoretically reflect a complex set of documented rules — in this case, laws, regulations and policies — but, in practice, there are additional rules that are encoded only in the software, documented nowhere else. To the inexperienced software developer, it can seem self-evident that you can replace an old system with a new one by using the documented, but the experienced software developer knows that’s a trap.
 
@@ -45,7 +45,7 @@ Replacing COBOL is a special challenge, for a reason generally known only to exp
 
 Even if we imagine that there was a complete, successful replacement of the COBOL [mainframes](https://www.youtube.com/embed/ouAG4vXFORc?si=Jv0LsfZzeFZzmnTi) with a different programming language and different servers, it’s not at all clear that anybody would benefit. The existing systems get the job done. And the [mainframes](https://www.youtube.com/embed/ouAG4vXFORc?si=Jv0LsfZzeFZzmnTi) are just for the backend of the system that handles data storage, tracking and accounting. The front end — the parts of the system that the public sees — would be left untouched by such a modernization. If the existing backend functions fine, and the front end doesn’t require modernization, what could be the legitimate purpose of this incredibly dangerous operation?
 
-There are two possible explanations: either the [DOGE](https://www.doge.gov/) programmers are so inexperienced and cocksure that they think this can actually work, or this is a cover for doing serious damage to the [Social Security](https;//www.ssa.gov/) system. As a nation, we cannot afford the risk that either of these explanations are right, or the even greater and more likely risk: that both explanations are right.
+There are two possible explanations: either the [DOGE](https://www.doge.gov/) programmers are so inexperienced and cocksure that they think this can actually work, or this is a cover for doing serious damage to the [Social Security](https://www.ssa.gov/) system. As a nation, we cannot afford the risk that either of these explanations are right, or the even greater and more likely risk: that both explanations are right.
 
 That the [SSA](https://www.ssa.gov/)’s systems are old is not evidence of them being problematic — on the contrary, it is evidence of their reliability and sustainability. There is no “one neat trick” that will make a complete overhaul possible in the span of a few months. Hard things are hard. [DOGE](https://www.doge.gov/)’s effort is likely to fail and threatens to bring down [Social Security](https://www.ssa.gov/) along with it.
 
@@ -71,15 +71,15 @@ Many Americans across the country are sharing their worries about the [Trump](ht
 
 Makena Kelly. Politics Mar 28, 2025 10:07 AM
 
-*[Social Security](https;//www.ssa.gov/) systems contain tens of millions of lines of code written in COBOL, an archaic programming language. Safely rewriting that code would take years—[DOGE](https://www.doge.gov/) wants it done in months.*
+*[Social Security](https://www.ssa.gov/) systems contain tens of millions of lines of code written in COBOL, an archaic programming language. Safely rewriting that code would take years—[DOGE](https://www.doge.gov/) wants it done in months.*
 
 [DOGE](https://www.doge.gov/)'s Ambitious Plan aims to migrate the [Social Security Administration (SSA)](https://www.ssa.gov/)'s systems off COBOL to a modern language like Java within a few months, risking significant disruptions.
 
 🚨 System Integrity: The migration involves tens of millions of lines of COBOL code, crucial for managing payments to over 65 million beneficiaries. Experts warn that expedited timelines may lead to errors and omissions in payments.
 
-🛠️ Historical Context: [SSA](https;//www.ssa.gov/)'s systems have not seen substantial updates since the 1980s, with COBOL being widely adopted since the 1950s. Previous modernization efforts have faced delays, particularly during the pandemic.
+🛠️ Historical Context: [SSA](https://www.ssa.gov/)'s systems have not seen substantial updates since the 1980s, with COBOL being widely adopted since the 1950s. Previous modernization efforts have faced delays, particularly during the pandemic.
 
-⚖️ Current Challenges: Following cuts and scrutiny from the Trump administration, [SSA](https;//www.ssa.gov/) has experienced frequent website crashes and long wait times, raising concerns about the feasibility of this rapid migration.
+⚖️ Current Challenges: Following cuts and scrutiny from the Trump administration, [SSA](https://www.ssa.gov/) has experienced frequent website crashes and long wait times, raising concerns about the feasibility of this rapid migration.
 
 ### Why Do Mainframes Still Exist? What's Inside One? 40TB, 200+ Cores, AI, and more!
 
@@ -141,7 +141,7 @@ At 20:03, they now achieve eight nines of reliability for both z16 and its Linux
 - [Tina Smith (D-MN)](https://www.smith.senate.gov/) 
 - [President Barack Obama](https://obamawhitehouse.archives.gov/)
 - [President Joe Biden](https://bidenwhitehouse.archives.gov/)
-- [President Donald Trump](https;//www.whitehouse.gov/)
+- [President Donald Trump](https://www.whitehouse.gov/)
 - [President of the United States (POTUS)](https://www.whitehouse.gov/)
 - [White House (WH)](https://www.whitehouse.gov/)
 - politics 

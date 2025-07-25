@@ -64,7 +64,7 @@ You can watch [Morales](https://www.nbcmiami.com/author/john-morales/)' full rep
 - [US Courts](https://www.uscourts.gov/)
 - [National Oceanic and Atmospheric Administration](https://www.noaa.gov/)
 - [National Weather Service](https://www.weather.gov/)
-- [Congress](https;//www.congress.gov/)
+- [Congress](https://www.congress.gov/)
 - [Congressional Budget Office (CBO)](https://www.cbo.gov/)
 - [Senate](https://www.senate.gov/)
 - [House of Representatives](https://www.house.gov/)

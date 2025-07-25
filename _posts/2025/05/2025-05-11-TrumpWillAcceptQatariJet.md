@@ -246,7 +246,7 @@ Garrett Haake is [NBC News](https://www.nbcnews.com/)' senior [White House](http
 - [Air Force](https://www.af.mil/)
 - [379th Air Expeditionary Wing](https://www.afcent.af.mil/Units/379th-Air-Expeditionary-Wing/)
 - [Air Force One](https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104588/vc-25-air-force-one/)
-- [Congress](https;//www.congress.gov/)
+- [Congress](https://www.congress.gov/)
 - [Senate](https://www.senate.gov/)
 - [United States Senate Committee on the Judiciary](https://www.judiciary.senate.gov/)
 - [Christopher Murphy (D-CT)](https://www.murphy.senate.gov/)

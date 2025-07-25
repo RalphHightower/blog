@@ -1,13 +1,13 @@
 ---
 layout: post
 tags: [MSNBC, NBC News, CBS News, ABC News, Politico, The Daily Beast, Business Insider, NBC News Author Kristen Welker, New York Times (NYT), Washington Post, people, Laura Loomer, Kanye West, Nick Fuentes, Dinesh D’Souza, companies, Elon Musk, Elon Musk, The Boring Company, Neuralink, SpaceX, Starlink, Tesla, Twitter, X, xAI, universities, political parties, Democrat Party, Trump Party, foreign governments, state governments, Wisconsin.Gov, Federal Government, Constitution of the United States, 2024 Presidential Election Results – Federal Election Commission (FEC), 2020 election, Supreme Court of the United States (SCOTUS), US Courts, Congress, Congressional Budget Office (CBO), H.R.7130 - 93rd Congress (1973-1974) –  Congressional Budget and Impoundment Control Act of 1974 / Congress.gov / Library of Congress, Text - H.R.1 - 119th Congress (2025-2026) –  One Big Beautiful Bill Act / Congress.gov / Library of Congress, Senate, House of Representatives, House Budget Committee, President of the United States (POTUS), White House (WH), Donald J Trump, Mar-a-Lago, President Donald Trump (45), President Donald Trump (47), President Trump Administration (47), JD Vance, Vice President JD Vance, politics]
-categories: [Donald Trump]
+categories: [Trump Crime Family]
 date: 2025-06-08 10:15 PM
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: "The Trump/Musk Bromance Breakup Broke Brokeback Mountain"
+title: "Trump Crime Family: The Trump/Musk Bromance Breakup Broke Brokeback Mountain"
 ---
 
 ## Rep. Stansbury: [Elon](https://ir.tesla.com/corporate/) and [Trump](https://www.donaldjtrump.com/)'s breakup is messy – Housewives of 1600 Pennsylvania Ave
@@ -40,7 +40,7 @@ The toxic bromance of [President](https://www.whitehouse.gov/) [Donald Trump](ht
 
 [Musk](https://ir.tesla.com/corporate/elon-musk) was the [president](https://www.whitehouse.gov/)’s top 2024 election donor — and he also spent prodigiously on other [Republicans](https://www.gop.com/)’ campaigns. [Musk](https://ir.tesla.com/corporate/elon-musk)’s cash bought him his own fake agency, the [Department of Government Efficiency](https://doge.gov/). His largesse also helped give [Trump](https://www.donaldjtrump.com/) small, beautiful majorities in both houses of [Congress](https://www.congress.gov/), thus preventing any investigations into his [administration](https://www.whitehouse.gov/administration/)’s rampant lawbreaking, including [DOGE](https://doge.gov/)’s rampage of arbitrary firings and fund-slashing through nearly every government agency.
 
-But the richest man in the world broke with the most powerful man in the world over the massive spending increases in the latter’s “big, beautiful bill.” And in just a few easy steps, [Musk](https://ir.tesla.com/corporate/elon-musk) went from politely leaving the [White House](https;//www.whitehouse.gov/) to giving [self-pitying interviews](https://www.cbsnews.com/news/elon-musk-on-doge-trump-administration-and-responsibility-for-cuts/) about how hard he tried to save [America](https://www.usa.gov/) to publicly blasting the bill to declaring [Trump](https://www.donaldjtrump.com/) “is in the [Jeffrey] Epstein files. That is why they have not been made public,” and calling for his impeachment.
+But the richest man in the world broke with the most powerful man in the world over the massive spending increases in the latter’s “big, beautiful bill.” And in just a few easy steps, [Musk](https://ir.tesla.com/corporate/elon-musk) went from politely leaving the [White House](https://www.whitehouse.gov/) to giving [self-pitying interviews](https://www.cbsnews.com/news/elon-musk-on-doge-trump-administration-and-responsibility-for-cuts/) about how hard he tried to save [America](https://www.usa.gov/) to publicly blasting the bill to declaring [Trump](https://www.donaldjtrump.com/) “is in the [Jeffrey] Epstein files. That is why they have not been made public,” and calling for his impeachment.
 
 [Musk](https://ir.tesla.com/corporate/elon-musk), who just a few months ago wielded his bags of cash in a failed attempt to get a [GOP](https://www.gop.com/) candidate elected in [Wisconsin](https://www.wisconsin.gov/), even mused about [forming a new political party](https://x.com/elonmusk/status/1930685402631053403).
 
@@ -70,7 +70,6 @@ Their followers will, by definition, follow their leads on whether this was just
 
 What happens now will likely alter the trajectory of [Trump](https://www.donaldjtrump.com/)’s second term and the culture of the larger MAGA movement. This breakup is going to be incredibly ugly and dumb — even if it was tremendously entertaining on its first day.
 
-Anthony L. Fisher
 Anthony L. Fisher is a senior editor and writer for [MSNBC Daily](https://www.msnbc.com/). He was previously the senior opinion editor for [The Daily Beast](https://www.thedailybeast.com/) and a politics columnist for [Business Insider](https://www.businessinsider.com/).
 
 - [MSNBC](https://www.msnbc.com/)
@@ -112,7 +111,7 @@ Anthony L. Fisher is a senior editor and writer for [MSNBC Daily](https://www.ms
 - [2020 election](https://www.fec.gov/resources/cms-content/documents/federalelections2020.pdf)
 - [Supreme Court of the United States (SCOTUS)](https://www.supremecourt.gov/)
 - [US Courts](https://www.uscourts.gov/)
-- [Congress](https;//www.congress.gov/)
+- [Congress](https://www.congress.gov/)
 - [Congressional Budget Office (CBO)](https://www.cbo.gov/)
 - [H.R.7130 - 93rd Congress (1973-1974): Congressional Budget and Impoundment Control Act of 1974 / Congress.gov / Library of Congress](https://www.congress.gov/bill/93rd-congress/house-bill/7130)
 - [Text - H.R.1 - 119th Congress (2025-2026): One Big Beautiful Bill Act / Congress.gov / Library of Congress](https://www.congress.gov/bill/119th-congress/house-bill/1/text)

@@ -84,7 +84,7 @@ Steve Benen is a producer for "[The Rachel Maddow Show](https://www.msnbc.com/ra
 - [Department of State (DOS)](https://www.state.gov/)
 - [Department of Homeland Security (DHS)](https://www.dhs.gov/)
 - [Federal Emergency Management Agency (FEMA)](https://www.fema.gov/)
-- [Congress](https;//www.congress.gov/)
+- [Congress](https://www.congress.gov/)
 - [Senate](https://www.senate.gov/)
 - [House of Representatives](https://www.house.gov/)
 - [President of the United States (POTUS)](https://www.whitehouse.gov/)

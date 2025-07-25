@@ -134,7 +134,7 @@ It is still unclear if the [January 6 rioters](https://oig.justice.gov/reports/r
 - [U.S. Courts](h://www.uscourts.gov/)
 - [U.S District Court – Washington DC](https://www.dcd.uscourts.gov)
 - [Judge Tanya Chutkan](https://www.dcd.uscourts.gov/content/district-judge-tanya-s-chutkan)
-- [Department of Justice (DOJ)](https;//www.justice.gov/)
+- [Department of Justice (DOJ)](https://www.justice.gov/)
 - [U.S. Capitol Police](https://www.uscp.gov/)
 - [Congress](https://www.congress.gov/)
 - [House of Representatives](https://www.house.gov/)

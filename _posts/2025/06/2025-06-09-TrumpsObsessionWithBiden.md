@@ -157,7 +157,7 @@ Will any of this work? What will the courts say? Will there be a public backlash
         - [James Comey](https://www.fbi.gov/history/directors/james-b-comey)
     - [Central Intelligence Agency (CIA)](https://www.cia.gov/)
         - John Brennan
-    - [Congress](https;//www.congress.gov/)
+    - [Congress](https://www.congress.gov/)
         - [U.S. Capitol Police](https://www.uscp.gov/)
         - [Senate](https://www.senate.gov/)
             - [Judiciary Committee](http://www.judiciary.senate.gov/)

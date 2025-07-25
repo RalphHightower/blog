@@ -43,7 +43,7 @@ He is said to have used the name “[PeteHegseth](https://www.linkedin.com/in/pe
 
 He has a [Facebook](https://www.facebook.com/) page, a [WhatsApp](https://www.whatsapp.com/) profile and also allegedly used the same phone to register for [Microsoft](https://www.microsoft.com/) [Teams](https://www.microsoft.com/teams/) and [Airbnb](https://www.airbnb.com/).
 
-His number is also said to be linked to an email address connected to a [Google](https;//www.google.com/) [Maps](https://www.google.com/maps) account that includes a number of reviews for local services.
+His number is also said to be linked to an email address connected to a [Google](https://www.google.com/) [Maps](https://www.google.com/maps) account that includes a number of reviews for local services.
 
 He wrote of a dentist clinic, “The staff is amazing”, and praised a plumber for their, “fast, honest and quality work.”
 

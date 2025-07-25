@@ -41,7 +41,7 @@ While the details of the settlement haven’t been disclosed, [U.S. District](ht
 - [Federal: 2020 Election Interference, January 6 Insurrection / Ralph Hightower/blog]({% link January6DocumentDocumentLinks.md %})
 - [New York: 34 Guilty Verdicts. Porn Star Stormy Daniels / Ralph Hightower/blog]({% link NewYork34GuiltyVerdicts.md %})
 - [Constitution of the United States](https://constitution.congress.gov/)
-- [US Courts](https;//www.uscourts.gov/)
+- [US Courts](https://www.uscourts.gov/)
 - [U.S. Capitol Police](https://www.uscp.gov/)
 - [Congress](https://www.congress.gov/)
 - [Senate](https://www.senate.gov/)

@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: [media, MSNBC, Steve Benen, The Rachel Maddow Show, MaddowBlog, “Ministry of Truth – Democracy Reality and the Republicans’ War on the Recent Past.”, NBC News, Washington Post, Media Matters for America, companies, American Communications Network (ACN), foreign governments, state local governments, federal government, Constitution of the United States, 2024 Presidential Election Results – Federal Election Commission (FEC), First Amendment, Supreme Court of the United States (SCOTUS), US Courts, Central Intelligence Agency (CIA), Department of Defense (DOD), Joint Chiefs of Staff (JCS), U.S. Military Academy West Point, U.S. Air Force, U.S. Army, U.S. Army’s 250th Birthday Celebration, U.S. Coast Guard (USCG), U.S. Marine Corps, National Guard, U.S. Navy, National Guard, U.S. Space Command, U.S. Africa Command (AFRICOM), U.S. Central Command (CENTCOM), U.S. Northern Command (USNORTHCOM), Indo-Pacific Command (USINDOPACOM), U.S. Southern Command (SOUTHCOM), U.S. Special Operations Command (USSOCOM), Strategic Command (USSTRATCOM), U.S. European Command (USEUCOM), Office of the Director of National Intelligence (ODNI), Department of Homeland Security (DHS), Congress, Congressional Budget Office (CBO), Senate, House of Representatives, House Budget Committee, President of the United States (POTUS), White House (WH), President Barack Obama, President Joe Biden, President of the United States (POTUS), White House (WH), Trump crime businesses, Trump Organization, The Mar-a-Lago Club, Trump International Golf Club, Trump National Doral Golf Club, Trump National Jupiter Golf Club, Trump National Golf Club Washington D.C., Trump National Golf Club Bedminster, Trump National Golf Club Colts Neck, Trump National Golf Club Philadelphia, Trump National Golf Club Hudson Valley, Trump National Golf Club Westchester, Trump National Golf Club Los Angeles, Trump International Golf Club Dubai, Trump International Golf Links & Hotel Ireland Doonbeg, Trump MacLeod House & Lodge Scotland, Trump Turnberry, Trump crime family, Donald J Trump, Eric F. Trump / LinkedIn, Donald Trump Jr. / LinkedIn, Ivanka Trump, Jared Kushner, President Donald Trump (45), President Donald Trump (47), President Trump (47) Administration, President Trump (47) Cabinet, President Donald Trump (47), President Trump Administration (47), politics]
-categories: [Donald Trump]
+categories: [Trump Crime Family]
 date: 2025-06-16 2:25 PM
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
@@ -92,7 +92,7 @@ Now, evidently, the [Trump Organization](https://www.trump.com/) has decided to 
 - [U.S. European Command (USEUCOM)](https://www.eucom.mil/)
 - [Office of the Director of National Intelligence (ODNI)](https://www.odni.gov/)
 - [Department of Homeland Security (DHS)](https://www.dhs.gov/)
-- [Congress](https;//www.congress.gov/)
+- [Congress](https://www.congress.gov/)
 - [Congressional Budget Office (CBO)](https://www.cbo.gov/)
 - [Senate](https://www.senate.gov/)
 - [House of Representatives](https://www.house.gov/)

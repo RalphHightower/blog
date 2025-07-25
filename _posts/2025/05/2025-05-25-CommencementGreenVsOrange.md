@@ -25,7 +25,7 @@ title: "“Swamp Wisdom vs. Swamp Politics: A Commencement Clash”"
 - Kermit the Frog
 - [Maryland State Government](https://www.maryland.com/)
 - [Constitution of the United States](https://constitution.congress.gov/)
-- [Supreme Court of the United States (SCOTUS)](https;//www.supremecourt.gov/)
+- [Supreme Court of the United States (SCOTUS)](https://www.supremecourt.gov/)
 - [US Courts](https://www.supremecourt.gov/)
 - [Department of Defense (DOD)](https://www.defense.gov/)
 - [Joint Chiefs of Staff (JCS)](https://www.jcs.mil/)

@@ -50,7 +50,7 @@ It’s classical corruption: the decay of the body politic, the collapse of civi
 
 The founders fought for more than a break from monarchy — 1776 was the beginning of the American Dream. Not golden thrones, but ordinary people having a chance to get ahead. [Trump](https://www.donaldjtrump.com/)’s flying palace doesn’t just violate the [Constitution](https://constitution.congress.gov/). It mocks the idea entirely.
 
-[Alexis Coe](http://newamerica.org/our-people/alexis-coe/) is a presidential historian, senior fellow at [New America](http://newamerica.org/) and [New York Times](https;//www.nytimes.com/) bestselling author of "Young Jack: John F. Kennedy, 1917-1957" (2025), "You Never Forget Your First: A Biography of George Washington" (2020) and "Alice+Freda Forever: A Murder in Memphis" (2014).
+[Alexis Coe](http://newamerica.org/our-people/alexis-coe/) is a presidential historian, senior fellow at [New America](http://newamerica.org/) and [New York Times](https://www.nytimes.com/) bestselling author of "Young Jack: John F. Kennedy, 1917-1957" (2025), "You Never Forget Your First: A Biography of George Washington" (2020) and "Alice+Freda Forever: A Murder in Memphis" (2014).
 
 - media
 - [MSNBC](https://www.msnbc.com/)
@@ -172,7 +172,7 @@ The founders fought for more than a break from monarchy — 1776 was the beginni
 - [Department of Defense (DOD)](https://www.defense.gov/)
 - [Air Force](https://www.af.mil/)
 - [379th Air Expeditionary Wing](https://www.afcent.af.mil/Units/379th-Air-Expeditionary-Wing/)
-- [Congress](https;//www.congress.gov/)
+- [Congress](https://www.congress.gov/)
 - [Senate](https://www.senate.gov/)
 - [United States Senate Committee on the Judiciary](https://www.judiciary.senate.gov/)
 - [Christopher Murphy (D-CT)](https://www.murphy.senate.gov/)

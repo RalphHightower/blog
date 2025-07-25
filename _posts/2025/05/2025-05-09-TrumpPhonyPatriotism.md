@@ -116,7 +116,7 @@ Jen Psaki is the host of "The Briefing with Jen Psaki" airing Tuesdays through F
         - [Department of Veterans Affairs – Office of Inspector General (VAOIG)](https://www.vaoig.gov/)
     - [Office of the Director of National Intelligence (ODNI)](https://www.odni.gov/)
     - [Department of Homeland Security (DHS)](https://www.dhs.gov/)
-    - [Congress](https;//www.congress.gov/)
+    - [Congress](https://www.congress.gov/)
         - [Text - H.R.1 - 119th Congress (2025-2026): One Big Beautiful Bill Act / Congress.gov / Library of Congress](https://www.congress.gov/bill/119th-congress/house-bill/1/text)
         - [U.S. Capitol Police](https://www.uscp.gov/)
         - [Senate](https://www.senate.gov/)

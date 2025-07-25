@@ -76,7 +76,7 @@ This is the final, and perhaps my favorite, form of disruption. Civil rights act
 
 Groups like the [Church of the Flying Spaghetti Monster](https://www.theguardian.com/world/2019/may/18/pasta-strainers-and-pirates-how-the-church-of-the-flying-spaghetti-monster-was-born) and [The Satanic Temple](https://thesatanictemple.com/) have used satire to expose religious favoritism in public institutions. [The Church of the Flying Spaghetti](https://www.spaghettimonster.org/) Monster, whose adherents refer to themselves as “Pastafarians,” mocked efforts to teach intelligent design in public schools by proposing a noodle-based deity, highlighting the dangers of blurring church and state.
 
-[The Satanic Temple](https://www.theguardian.com/commentisfree/2024/oct/19/satanic-temple-fight-against-religious-right), which is not to be confused with the [Church of Satan]() and does not promote devil worship, took similar action, [demanding equal representation](https://www.nbcnews.com/news/us-news/satanic-temple-christian-nationalism-school-chaplains-rcna151276) when governments promoted religious symbols like Ten Commandments monuments or sanctioned prayer in public schools. Their logic forced officials to either accommodate all religions or retract their policies altogether.
+[The Satanic Temple](https://www.theguardian.com/commentisfree/2024/oct/19/satanic-temple-fight-against-religious-right), which is not to be confused with the [Church of Satan](https://churchofsatan.com/) and does not promote devil worship, took similar action, [demanding equal representation](https://www.nbcnews.com/news/us-news/satanic-temple-christian-nationalism-school-chaplains-rcna151276) when governments promoted religious symbols like Ten Commandments monuments or sanctioned prayer in public schools. Their logic forced officials to either accommodate all religions or retract their policies altogether.
 
 So if you’re asking yourself what one person can do, these are ideas to hopefully get you thinking. And remember this final piece of advice from [Snyder](https://history.yale.edu/people/timothy-snyder): “Be as courageous as you can. If none of us is prepared to die for freedom, then all of us will die under tyranny.”
 
@@ -94,6 +94,7 @@ Amel Ahmed and Allison Detzel contributed.
 - organizations
     - [The Satanic Temple - Official Website](https://thesatanictemple.com/)
     - [Home - Church of the Flying Spaghetti Monster](https://www.spaghettimonster.org/)
+    - [Official Church of Satan Website - churchofsatan.com](https://churchofsatan.com/)
 - state, local governments 
     - [Massachusetts.gov](https://www.mass.gov/)
         - [Home / City of Worcester](https://www.worcesterma.gov/home)
@@ -127,7 +128,7 @@ Amel Ahmed and Allison Detzel contributed.
 - [Secret Service](https://www.secretservice.gov/)
 - [Drug Enforcement Administration (DEA)](https://www.dea.gov/)
 - [Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF)](https://www.atf.gov/)
-- [Congress](https;//www.congress.gov/)
+- [Congress](https://www.congress.gov/)
 - [Congressional Budget Office (CBO)](https://www.cbo.gov/)
 - [H.R.7130 - 93rd Congress (1973-1974): Congressional Budget and Impoundment Control Act of 1974 / Congress.gov / Library of Congress](https://www.congress.gov/bill/93rd-congress/house-bill/7130)
 - [Text - H.R.1 - 119th Congress (2025-2026): One Big Beautiful Bill Act / Congress.gov / Library of Congress](https://www.congress.gov/bill/119th-congress/house-bill/1/text)

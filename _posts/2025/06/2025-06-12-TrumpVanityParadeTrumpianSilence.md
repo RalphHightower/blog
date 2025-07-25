@@ -12,7 +12,8 @@ title: "Trumpian Legislators Off 'No Comment' On Trump’s Vanity Birthday Parad
 
 ## [Republicans struggle to defend Trump’s military parade as tanks prepare to roll in D.C.](https://www.msnbc.com/rachel-maddow-show/maddowblog/republicans-struggle-defend-trumps-military-parade-tanks-prepare-roll-rcna212563)
 
-*Many [GOP]() officials appear to have no idea what to say about the president's military parade — and some don't want to attend the festivities, either.*
+*Many [GOP](https://www.go
+p.com/) officials appear to have no idea what to say about the president's military parade — and some don't want to attend the festivities, either.*
 
 June 12, 2025, 8:59 AM EDT
 By [Steve Benen](https://www.msnbc.com/author/steve-benen-ncpn433601)
@@ -101,7 +102,7 @@ Steve Benen is a producer for "[The Rachel Maddow Show](https://www.msnbc.com/ra
 - [U.S. European Command (USEUCOM)](https://www.eucom.mil/)
 - [Office of the Director of National Intelligence (ODNI)](https://www.odni.gov/)
 - [Department of Homeland Security (DHS)](https://www.dhs.gov/)
-- [Congress](https;//www.congress.gov/)
+- [Congress](https://www.congress.gov/)
 - [Congressional Budget Office (CBO)](https://www.cbo.gov/)
 - [Senate](https://www.senate.gov/)
 - [Lindsey Graham (T-SC)](https://www.lgraham.senate.gov/)

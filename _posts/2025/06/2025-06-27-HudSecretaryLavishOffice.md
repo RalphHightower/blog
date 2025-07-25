@@ -1,13 +1,13 @@
 ---
 layout: post
 tags: [media, MSNBC, organizations, American Federation of Government Employees, state local governments, Home / Virginia.gov, State Government / Virginia.gov, Governor of Virginia / Governor.Virginia.gov, About the Governor / Governor.Virginia.gov, Federal Government, Constitution of the United States, First Amendment, 2020 Presidential Election Results – Federal Election Commission (FEC) - Supreme Court of the United States (SCOTUS), US Courts, Department of Justice (DOJ), Todd Blanche, Emil Bove, Department of Homeland Security (DHS), Federal Emergency Management Agency (FEMA), Federal Bureau of Investigation (FBI), Immigration and Customs Enforcement (ICE), Department of the Interior (DOI), Office of Personnel Management (OPM), National Oceanic and Atmospheric Administration (NOAA), National Weather Service (NWS), Department of Defense (DOD), Joint Chiefs of Staff (JCS), Defense Intelligence Agency (DIA), U.S. Military Academy West Point, U.S. Air Force, Joint Base Andrews, U.S. Army, U.S. Coast Guard (USCG), U.S. Marine Corps, National Guard, U.S. Navy, National Guard, U.S. Space Command, U.S. Africa Command (AFRICOM), U.S. Central Command (CENTCOM), U.S. Northern Command (USNORTHCOM), Indo-Pacific Command (USINDOPACOM), U.S. Southern Command (SOUTHCOM), U.S. Special Operations Command (USSOCOM), Strategic Command (USSTRATCOM), U.S. European Command (USEUCOM), Department of Housing and Urban Development (HUD), HUD’s Secretary / HUD.gov / U.S. Department of Housing and Urban Development (HUD), Scott Turner / LinkedIn, National Science Foundation (NSF), Office of the Director of National Intelligence (ODNI), Department of Homeland Security (DHS), General Services Administration (GSA), Congress, U.S. Capitol Police, Senate, Judiciary Committee, House of Representatives, House Budget Committee, President of the United States (POTUS), White House (WH), President Barack Obama, President Joe Biden, Trump crime businesses, DT Marks DEFI LLC, The Executive Branch Club, Chris Buskirk, Adam Foroughi / LinkedIn, Omeed Malik / LinkedIn, Jeff Miller, Chamath Palihapitiya / LinkedIn, David Sacks, Donald Trump Jr., Cameron Winklevoss / LinkedIn, Tyler Winklevoss / LinkedIn, Alex Witkoff, Steve Witkoff, Zachary Witkoff / LinkedIn, World Liberty Financial, Corey Kaplan / LinkedIn, Corey Caplan, Thomas DiFiore FRM·CAIA / LinkedIn, Alex Dulub / LinkedIn, Ryan Fang / LinkedIn, Zak Folkman / LinkedIn, Alex Golubitsky / LinkedIn, Chase Herro, Octavian Lojnita / LinkedIn, Matt Morgan, Sandy Peng, Luke Pearson, Bogdan Purnavel / LinkedIn, Brandi Reynolds CAMS-Audit CCAS / LinkedIn, Rich Teo / LinkedIn, Barron Trump, Rafael Yakobi / LinkedIn, $TRUMP, $MELANIA, Trump Media and Technology Group, Trump Organization, The Mar-a-Lago Club, Trump International Golf Club, Trump National Doral Golf Club, Trump National Jupiter Golf Club, Trump National Golf Club Washington D.C., Trump National Golf Club Bedminster, Trump National Golf Club Colts Neck, Trump National Golf Club Philadelphia, Trump National Golf Club Hudson Valley, Trump National Golf Club Westchester, Trump National Golf Club Los Angeles, Trump International Golf Club Dubai, Trump International Golf Links & Hotel Ireland Doonbeg, Trump MacLeod House & Lodge Scotland, Trump Turnberry, Trump crime family, Donald J Trump, Eric F. Trump / LinkedIn, Donald Trump Jr. / LinkedIn, Ivanka Trump, Jared Kushner, President Donald Trump (45), President Donald Trump (47), President Trump (47) Administration, President Trump (47) Cabinet, Doug Burgum, Doug Burgum – LinkedIn, Marco Rubio, Marco Rubio – LinkedIn, Pete Hegseth, Pete Hegseth – LinkedIn, Tulsi Gabbard – Director of National Intelligence, Tulsi Gabbard – LinkedIn, Pam Bondi, Kash Patel, Deputy Director Dan Bongino — FBI, grift, self-dealing, corruption, con, crime, cryptocurrency, businesses, associates, partners]
-categories: [Donald Trump]
-#date: 2019-06-25 13:14:15
+categories: [Trump Crime Family]
+date: 2025-06-27 9:12 AM
 #excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: "Another Housing and Urban Development (HUD) Plans Lavish Renovations For His Executive Suite"
+title: "Trump Crime Family: Another Housing and Urban Development (HUD) Plans Lavish Renovations For His Executive Suite"
 ---
 
 2025-04-08: [Trump #47’s Department of Interior (DOI), Doug Burgum’s Strange Office Fetish]({% link _posts/2025/04/2025-04-08-DOISecBurgumLikeWarmChocolateChipCookies.md %})
@@ -67,8 +67,6 @@ Ja’han Jones is an  opinion blogger. He previously wrote The ReidOut Blog. He 
     - [Supreme Court of the United States (SCOTUS)](https://www.supremecourt.gov/)
     - [US Courts](https://www.uscourts.gov/)
     - [Department of Justice (DOJ)](https://www.justice.gov/)
-        - [Todd Blanche](https://www.linkedin.com/in/toddblanche/)
-        - [Emil Bove](https://www.linkedin.com/in/emil-bove-0113347/)
     - [Department of Homeland Security (DHS)](https://www.dhs.gov/)
     - [Federal Emergency Management Agency (FEMA)](https://www.fema.gov/)
     - [Federal Bureau of Investigation (FBI)](https://www.fbi.gov/)
@@ -105,7 +103,7 @@ Ja’han Jones is an  opinion blogger. He previously wrote The ReidOut Blog. He 
         - [Office of the Director of National Intelligence (ODNI)](https://www.odni.gov/)
     - [Department of Homeland Security (DHS)](https://www.dhs.gov/)
     - [General Services Administration (GSA)](https://www.gsa.gov/)
-    - [Congress](https;//www.congress.gov/)
+    - [Congress](https://www.congress.gov/)
         - [U.S. Capitol Police](https://www.uscp.gov/)
         - [Senate](https://www.senate.gov/)
             - [Judiciary Committee](http://www.judiciary.senate.gov/)
@@ -177,6 +175,8 @@ Ja’han Jones is an  opinion blogger. He previously wrote The ReidOut Blog. He 
     - [President Donald Trump (47)](https://www.whitehouse.gov/administration/donald-j-trump/)
     - [President Trump (47) Administration](https://www.whitehouse.gov/administration/)
     - [President Trump (47) Cabinet](https://www.whitehouse.gov/administration/the-cabinet/)
+        - [Todd Blanche](https://www.linkedin.com/in/toddblanche/)
+        - [Emil Bove](https://www.linkedin.com/in/emil-bove-0113347/)
         - [Doug Burgum](https://www.doi.gov/secretary-doug-burgum)
         - [Doug Burgum – LinkedIn](https://www.linkedin.com/in/doug-burgum-03019111/)
         - [Marco Rubio](https://www.state.gov/biographies/marco-rubio/)

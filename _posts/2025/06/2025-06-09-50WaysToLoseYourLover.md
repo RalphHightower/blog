@@ -48,7 +48,7 @@ It stands to reason that the party would welcome similar investments in the 2026
 
 This led to a related social media item in which [Musk added](https://time.com/7291937/elon-musk-new-political-party-the-america-party-idea/), “A new political party is needed in [America](https://www.usa.gov/) to represent the 80% in the middle! ... This is Fate.”
 
-While there’s obviously all kinds of time between now and Election Day 2026, this did not sound like a billionaire ready to write generous checks to his erstwhile [Trumpian allies](https;//www.gop.com/).
+While there’s obviously all kinds of time between now and Election Day 2026, this did not sound like a billionaire ready to write generous checks to his erstwhile [Trumpian allies](https://www.gop.com/).
 
 But there’s a more important dimension to all of this: Politicians, at least in this in country, do not generally warn private citizens — out loud, in public, on the record — that they’ll be punished for contributing to a different party.
 
@@ -56,8 +56,7 @@ In fact, I honestly can’t think of a comparable example to this. [Trump](https
 
 Under normal circumstances, and in a healthy political environment, a threat like this one would itself constitute a significant political controversy.
 
-Steve Benen
-Steve Benen is a producer for "[The Rachel Maddow Show](https://www.msnbc.com/rachel-maddow-show)," the editor of [MaddowBlog](https://www.msnbc.com/rachel-maddow-show) and an [MSNBC](https://www.msnbc.com/) political contributor. He's also the bestselling author of ["Ministry of Truth: Democracy, Reality, and the Republicans' War on the Recent Past."](https://www.harpercollins.com/products/ministry-of-truth-steve-benen)
+[Steve Benen](https://www.msnbc.com/author/steve-benen-ncpn433601) is a producer for "[The Rachel Maddow Show](https://www.msnbc.com/rachel-maddow-show)," the editor of [MaddowBlog](https://www.msnbc.com/rachel-maddow-show) and an [MSNBC](https://www.msnbc.com/) political contributor. He's also the bestselling author of ["Ministry of Truth: Democracy, Reality, and the Republicans' War on the Recent Past."](https://www.harpercollins.com/products/ministry-of-truth-steve-benen)
 
 - [MSNBC](https://www.msnbc.com/)
 - Steve Benen
@@ -99,7 +98,7 @@ Steve Benen is a producer for "[The Rachel Maddow Show](https://www.msnbc.com/ra
 - [2020 election](https://www.fec.gov/resources/cms-content/documents/federalelections2020.pdf)
 - [Supreme Court of the United States (SCOTUS)](https://www.supremecourt.gov/)
 - [US Courts](https://www.uscourts.gov/)
-- [Congress](https;//www.congress.gov/)
+- [Congress](https://www.congress.gov/)
 - [Congressional Budget Office (CBO)](https://www.cbo.gov/)
 - [H.R.7130 - 93rd Congress (1973-1974): Congressional Budget and Impoundment Control Act of 1974 / Congress.gov / Library of Congress](https://www.congress.gov/bill/93rd-congress/house-bill/7130)
 - [Text - H.R.1 - 119th Congress (2025-2026): One Big Beautiful Bill Act / Congress.gov / Library of Congress](https://www.congress.gov/bill/119th-congress/house-bill/1/text)

@@ -56,7 +56,7 @@ Steve Benen is a producer for "[The Rachel Maddow Show](https://www.msnbc.com/ra
         - [G7 Summit](https://g7.canada.ca/)
 - political parties
     - [Democrat Party](https://www.democrats.org/)
-    - [Trumpian Party](https;//www.gop.com/)
+    - [Trumpian Party](https://www.gop.com/)
 - Federal Government 
     - [Constitution of the United States](https://constitution.congress.gov/)
     - [First Amendment](https://constitution.congress.gov/constitution/amendment-1/)
@@ -97,7 +97,7 @@ Steve Benen is a producer for "[The Rachel Maddow Show](https://www.msnbc.com/ra
         - [U.S. European Command (USEUCOM)](https://www.eucom.mil/)
         - [Office of the Director of National Intelligence (ODNI)](https://www.odni.gov/)
         - [Department of Homeland Security (DHS)](https://www.dhs.gov/)
-    - [Congress](https;//www.congress.gov/)
+    - [Congress](https://www.congress.gov/)
         - [U.S. Capitol Police](https://www.uscp.gov/)
         - [Senate](https://www.senate.gov/)
             - [House of Representatives](https://www.house.gov/)

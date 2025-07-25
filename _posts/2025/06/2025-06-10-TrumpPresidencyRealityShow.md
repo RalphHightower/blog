@@ -59,7 +59,7 @@ Eugene Daniels is an MSNBC senior Washington correspondent and co-host of "The W
 - [10 USC Ch. 13: INSURRECTION](https://uscode.house.gov/view.xhtml?path=/prelim@title10/subtitleA/part1/chapter13&edition=prelim)
 - [National Guard](https://www.nationalguard.mil/)
 - [Department of Homeland Security (DHS)](https://www.dhs.gov/)
-- [Congress](https;//www.congress.gov/)
+- [Congress](https://www.congress.gov/)
 - [Congressional Budget Office (CBO)](https://www.cbo.gov/)
 - [Senate](https://www.senate.gov/)
 - [House of Representatives](https://www.house.gov/)

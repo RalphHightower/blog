@@ -67,7 +67,7 @@ Hayes Brown is a writer and editor for [MSNBC Daily](https://www.msnbc.com/), wh
 - [Avian Influenza](https://www.cdc.gov/bird-flu/)
 - [Measles, Mumps, Rubella, Varicella (MMRV) Vaccine Safety](https://www.cdc.gov/vaccine-safety/vaccines/mmr.html)
 - [COVID-19](https://www.cdc.gov/covid/index.html)
-- [Congress](https;//www.congress.gov/)
+- [Congress](https://www.congress.gov/)
 - [Senate](https://www.senate.gov/)
 - [House of Representatives](https://www.house.gov/)
 - [President of the United States (POTUS)](https://www.whitehouse.gov/)

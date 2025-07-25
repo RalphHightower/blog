@@ -126,7 +126,7 @@ Why should he? To this point, there haven’t been any.
         - [Office of the Director of National Intelligence (ODNI)](https://www.odni.gov/)
     - [Department of Homeland Security (DHS)](https://www.dhs.gov/)
     - [General Services Administration (GSA)](https://www.gsa.gov/)
-    - [Congress](https;//www.congress.gov/)
+    - [Congress](https://www.congress.gov/)
         - [U.S. Capitol Police](https://www.uscp.gov/)
         - [Senate](https://www.senate.gov/)
             - [Judiciary Committee](http://www.judiciary.senate.gov/)

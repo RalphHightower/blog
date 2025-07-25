@@ -88,7 +88,7 @@ Authoritarian moments can feel permanent. But they never are. They crack when pe
 - [U.S. European Command (USEUCOM)](https://www.eucom.mil/)
 - [Office of the Director of National Intelligence (ODNI)](https://www.odni.gov/)
 - [Department of Homeland Security (DHS)](https://www.dhs.gov/)
-- [Congress](https;//www.congress.gov/)
+- [Congress](https://www.congress.gov/)
 - [Senate](https://www.senate.gov/)
 - [House of Representatives](https://www.house.gov/)
 - [Lloyd Doggett (D-TX37)](https://doggett.house.gov/)

@@ -1,13 +1,13 @@
 ---
 layout: post
 tags: [MSNBC, Deadline –  Legal Blog, New York –  34 Guilty Verdicts. Porn Star Stormy Daniels, Michael Cohen / LinkedIn, United States Court of Appeals 2nd Circuit, NYCOURTS.GOV - New York State Unified Court System, Manhattan District Attorney’s Office – One Standard of Justice for All, Alvin Bragg –  A lifetime of hard work courage and demanding justice. – Manhattan District Attorney’s Office, Federal Government, Constitution of the United States, First Amendment, Supreme Court of the United States (SCOTUS), US Courts, Department of Justice (DOJ), Office of the Solicitor General / Office of the Solicitor General, Central Intelligence Agency (CIA), Department of Defense (DOD), Joint Chiefs of Staff (JCS), U.S. Military Academy West Point, U.S. Air Force, U.S. Army, U.S. Army’s 250th Birthday Celebration, U.S. Coast Guard (USCG), U.S. Marine Corps, National Guard, U.S. Navy, National Guard, U.S. Space Command, U.S. Africa Command (AFRICOM), U.S. Central Command (CENTCOM), U.S. Northern Command (USNORTHCOM), Indo-Pacific Command (USINDOPACOM), U.S. Southern Command (SOUTHCOM), U.S. Special Operations Command (USSOCOM), Strategic Command (USSTRATCOM), U.S. European Command (USEUCOM), Office of the Director of National Intelligence (ODNI), Department of Homeland Security (DHS), Congress, Congressional Budget Office (CBO), Senate, John Kennedy (T-LA), House of Representatives, House Budget Committee, President of the United States (POTUS), White House (WH), Donald J Trump, President Donald Trump (45), President Donald Trump (47), President Trump Administration (47), Todd Blanche / LinkedIn, Emil Bove / LinkedIn, Pam Bondi, Jeff Wall / LinkedIn, Justices, politics]
-categories: [Donald Trump]
+categories: [Trump Crime Family]
 date: 2025-06-13 12:52 PM
 #excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: "Trump Wants His New York Business Fraud 34 Guilty Verdicts Transferred to Federal So He Can Pardon Himself"
+title: "Trump Crime Family: Trump Wants His New York Business Fraud 34 Guilty Verdicts Transferred to Federal So He Can Pardon Himself"
 ---
 
 - [New York: 34 Guilty Verdicts. Porn Star Stormy Daniels]({% link NewYork34GuiltyVerdicts.md %})
@@ -57,8 +57,6 @@ Jordan Rubin is the [Deadline: Legal Blog](https://www.msnbc.com/deadline-white-
 - [Supreme Court of the United States (SCOTUS)](https://www.supremecourt.gov/)
 - [US Courts](https://www.uscourts.gov/)
 - [Department of Justice (DOJ)](https://www.justice.gov/)
-- [Todd Blanche](https://www.linkedin.com/in/toddblanche/)
-- [Emil Bove](https://www.linkedin.com/in/emil-bove-0113347/)
 - [Office of the Solicitor General / Office of the Solicitor General](https://www.justice.gov/osg)
 - [Central Intelligence Agency (CIA)](https://www.cia.gov/)
 - [Department of Defense (DOD)](https://www.defense.gov/)
@@ -83,7 +81,7 @@ Jordan Rubin is the [Deadline: Legal Blog](https://www.msnbc.com/deadline-white-
 - [U.S. European Command (USEUCOM)](https://www.eucom.mil/)
 - [Office of the Director of National Intelligence (ODNI)](https://www.odni.gov/)
 - [Department of Homeland Security (DHS)](https://www.dhs.gov/)
-- [Congress](https;//www.congress.gov/)
+- [Congress](https://www.congress.gov/)
 - [Congressional Budget Office (CBO)](https://www.cbo.gov/)
 - [Senate](https://www.senate.gov/)
 - [John Kennedy (T-LA)](https://www.kennedy.senate.gov/)
@@ -95,6 +93,7 @@ Jordan Rubin is the [Deadline: Legal Blog](https://www.msnbc.com/deadline-white-
 - [President Donald Trump (45)](https://trumpwhitehouse.archives.gov/)
 - [President Donald Trump (47)](https://www.whitehouse.gov/administration/donald-j-trump/)
 - [President Trump Administration (47)](https://www.whitehouse.gov/administration/)
+- [Emil Bove](https://www.linkedin.com/in/emil-bove-0113347/)
 - [Todd Blanche / LinkedIn](https://www.linkedin.com/in/toddblanche/)
 - [Emil Bove / LinkedIn](https://www.linkedin.com/in/emil-bove-0113347/)
 - [Pam Bondi](https://www.justice.gov/ag/staff-profile/meet-attorney-general)

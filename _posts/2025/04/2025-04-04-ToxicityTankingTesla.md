@@ -44,7 +44,7 @@ Shares of [Tesla](https://www.tesla.com/) [(TSLA)](https://seekingalpha.com/symb
 - [xAI](https://x.ai/)
 - [House of Representatives](https://www.house.gov/)
 - [Senate](https://www.senate.gov/)
-- [President Donald Trump](https;//www.whitehouse.gov/)
+- [President Donald Trump](https://www.whitehouse.gov/)
 - [President of the United States (POTUS)](https://www.whitehouse.gov/)
 - [White House (WH)](https://www.whitehouse.gov/)
 - electric vehicles (EV)
