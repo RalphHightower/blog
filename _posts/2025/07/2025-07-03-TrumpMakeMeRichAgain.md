@@ -33,6 +33,8 @@ To be clear, [Trump](https://www.donaldjtrump.com/) wasn't on the brink of becom
 
 [Zeeshan Aleem](https://www.msnbc.com/author/zeeshan-aleem-ncpn1235332) is a writer and editor for [MSNBC Daily](https://www.msnbc.com/). Previously, he worked at [Vox](https://www.vox.com/), [HuffPost](https://www.huffpost.com/) and [Politico](https://www.politico.com/), and he has also been published in, among other places, [The New York Times](https://www.nytimes.com/), [The Atlantic](https://www.theatlantic.com/), [The Nation](https://www.thenation.com/), and [The Intercept](https://theintercept.com/).
 
+### ['Carnival of corruption': Report shows Trump milks presidency for badly needed bailout](https://www.msnbc.com/the-briefing-with-jen-psaki/watch/-carnival-of-corruption-report-shows-trump-milks-presidency-for-badly-needed-bailout-242697797928)
+
 - media
     - [MSNBC](https://www.msnbc.com/)
         - [Zeeshan Aleem](https://www.msnbc.com/author/zeeshan-aleem-ncpn1235332)
@@ -88,7 +90,7 @@ To be clear, [Trump](https://www.donaldjtrump.com/) wasn't on the brink of becom
         - [U.S. European Command (USEUCOM)](https://www.eucom.mil/)
         - [Office of the Director of National Intelligence (ODNI)](https://www.odni.gov/)
         - [Department of Homeland Security (DHS)](https://www.dhs.gov/)
-    - [Congress](https;//www.congress.gov/)
+    - [Congress](https://www.congress.gov/)
         - [Text - H.R.1 - 119th Congress (2025-2026): One Big Beautiful Bill Act / Congress.gov / Library of Congress](https://www.congress.gov/bill/119th-congress/house-bill/1/text)
         - [U.S. Capitol Police](https://www.uscp.gov/)
         - [Senate](https://www.senate.gov/)

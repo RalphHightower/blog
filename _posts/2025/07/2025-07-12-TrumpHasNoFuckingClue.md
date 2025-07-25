@@ -32,7 +32,7 @@ Other moves on Psaki’s list included [Trump](https://www.donaldjtrump.com/)’
 
 Even on the issues that [Trump](https://www.donaldjtrump.com/) claims as “signature” policies, like immigration, Psaki said the [president](https://www.whitehouse.gov/) has repeatedly shown the American people “he is completely in the dark.”
 
-Case in point: the mixed messages from the [White House](https://www.whitehouse.gov/) in recent days concerning the deportation of farmworkers. Last week, during an appearance in [Iowa](https;://www.iowa.gov/), [Trump](https://www.donaldjtrump.com/) said he would be [willing to let migrant farm laborers stay in the United States](https://www.reuters.com/world/us/trump-says-he-is-willing-let-migrant-laborers-stay-us-farms-2025-07-04/) on the condition that their employers vouch for them. But on Tuesday, [Trump](https://www.donaldjtrump.com/)’s own agriculture secretary, Brooke Rollins, said there would be [“no amnesty”](https://www.reuters.com/legal/government/us-farm-secretary-says-no-amnesty-farmworkers-deportation-2025-07-08/) for agricultural workers.
+Case in point: the mixed messages from the [White House](https://www.whitehouse.gov/) in recent days concerning the deportation of farmworkers. Last week, during an appearance in [Iowa](https:://www.iowa.gov/), [Trump](https://www.donaldjtrump.com/) said he would be [willing to let migrant farm laborers stay in the United States](https://www.reuters.com/world/us/trump-says-he-is-willing-let-migrant-laborers-stay-us-farms-2025-07-04/) on the condition that their employers vouch for them. But on Tuesday, [Trump](https://www.donaldjtrump.com/)’s own agriculture secretary, Brooke Rollins, said there would be [“no amnesty”](https://www.reuters.com/legal/government/us-farm-secretary-says-no-amnesty-farmworkers-deportation-2025-07-08/) for agricultural workers.
 
 “U.S. immigration and labor policy just whipsawed back and forth over the course of just a few days,” Psaki said.
 
@@ -57,7 +57,7 @@ Allison Detzel is an editor/producer for MSNBC Digital.
 - Federal Government 
     - [Constitution of the United States](https://constitution.congress.gov/)
     - [Supreme Court of the United States (SCOTUS)](https://www.supremecourt.gov/)
-    - [Congress](https;//www.congress.gov/)
+    - [Congress](https://www.congress.gov/)
         - [U.S. Capitol Police](https://www.uscp.gov/)
         - [Senate](https://www.senate.gov/)
         - [House of Representatives](https://www.house.gov/)

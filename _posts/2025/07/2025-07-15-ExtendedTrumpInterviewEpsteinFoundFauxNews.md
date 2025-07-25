@@ -75,7 +75,7 @@ Whether the [president](https://www.whitehouse.gov/) would expect [Faux News](ht
    - [Department of State (DOS)](https://www.state.gov/)
     - [Federal Bureau of Investigation (FBI)](https://www.fbi.gov/)
     - [Department of Transportation (DOT)](https://www.transportation.gov/)
-    - [Congress](https;//www.congress.gov/)
+    - [Congress](https://www.congress.gov/)
         - [U.S. Capitol Police](https://www.uscp.gov/)
         - [Senate](https://www.senate.gov/)
             - [Ron Wyden (D-OR)](https://www.wyden.senate.gov/)

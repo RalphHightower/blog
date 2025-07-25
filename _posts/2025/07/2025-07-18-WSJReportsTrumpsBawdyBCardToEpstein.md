@@ -60,7 +60,7 @@ James Downie is a writer and editor for [MSNBC](https://www.msnbc.com/) Daily. H
     - [Supreme Court of the United States (SCOTUS)](https://www.supremecourt.gov/)
     - [Federal Bureau of Investigation (FBI)](https://www.fbi.gov/)
         - [James Comey](https://www.fbi.gov/history/directors/james-b-comey)
-    - [Congress](https;//www.congress.gov/)
+    - [Congress](https://www.congress.gov/)
     - [Senate](https://www.senate.gov/)
     - [House of Representatives](https://www.house.gov/)
         - [House Judiciary Committee Republicans /](http://judiciary.house.gov/)

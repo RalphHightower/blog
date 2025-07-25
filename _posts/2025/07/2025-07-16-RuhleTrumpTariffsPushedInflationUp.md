@@ -50,7 +50,7 @@ Subscribe to the MSNBC Daily Newsletter: https://link.msnbc.com/join/5ck/msnbc..
         - [Jerome H. Powell](https://www.federalreserve.gov/aboutthefed/bios/board/powell.htm)
     - [Bureau of Labor Statistics (BLS)](https://www.bls.gov/)
         - [Consumer Price Index Summary - 2025 M06 Results](https://www.bls.gov/news.release/cpi.nr0.htm)
-    - [Congress](https;//www.congress.gov/)
+    - [Congress](https://www.congress.gov/)
     - [Senate](https://www.senate.gov/)
         - [Minority Leader](https://bioguide.congress.gov/search/bio/S000148)
         - [Charles E. Schumer (D-NY)](https://www.schumer.senate.gov/)

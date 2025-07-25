@@ -105,7 +105,7 @@ Prochaska, from the University of Washington, put it this way:
     - [Department of Justice (DOJ)](https://www.justice.gov/)
    - [Department of State (DOS)](https://www.state.gov/)
     - [Federal Bureau of Investigation (FBI)](https://www.fbi.gov/)
-    - [Congress](https;//www.congress.gov/)
+    - [Congress](https://www.congress.gov/)
         - [Senate](https://www.senate.gov/)
             - [Bernie Sanders (I-VT)](https://www.sanders.senate.gov/)
             - [Ron Wyden D-OR)](https://www.wyden.senate.gov/)

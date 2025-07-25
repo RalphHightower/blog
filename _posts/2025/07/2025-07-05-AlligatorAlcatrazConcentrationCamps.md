@@ -88,7 +88,7 @@ The history of this kind of detention underlines that it would be a mistake to t
     - [La Moncloa. Home](https://www.lamoncloa.gob.es/)
 - political parties
     - [Democrat Party](https://www.democrats.org/)
-    - [Trumpian Party](https;//www.gop.com/)
+    - [Trumpian Party](https://www.gop.com/)
     - [Home - Florida Trump Party](https://florida.gop/)
 - Federal Government 
     - [Constitution of the United States](https://constitution.congress.gov/)
@@ -125,7 +125,7 @@ The history of this kind of detention underlines that it would be a mistake to t
             - [U.S. European Command (USEUCOM)](https://www.eucom.mil/)
         - [Office of the Director of National Intelligence (ODNI)](https://www.odni.gov/)
         - [Department of Homeland Security (DHS)](https://www.dhs.gov/)
-    - [Congress](https;//www.congress.gov/)
+    - [Congress](https://www.congress.gov/)
         - [U.S. Capitol Police](https://www.uscp.gov/)
         - [Senate](https://www.senate.gov/)
         - [House of Representatives](https://www.house.gov/)

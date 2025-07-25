@@ -85,7 +85,7 @@ Subscribe to the [MSNBC](https://www.msnbc.com/) Daily Newsletter: https://link.
         - [Federal Reserve Board - Board Members](https://www.federalreserve.gov/aboutthefed/bios/board/default.htm)
             - [Jerome H. Powell](https://www.federalreserve.gov/aboutthefed/bios/board/powell.htm)
         - [Department of Justice (DOJ)](https://www.justice.gov/)
-    - [Congress](https;//www.congress.gov/)
+    - [Congress](https://www.congress.gov/)
         - [U.S. Capitol Police](https://www.uscp.gov/)
         - [Senate](https://www.senate.gov/)
         - [House of Representatives](https://www.house.gov/)

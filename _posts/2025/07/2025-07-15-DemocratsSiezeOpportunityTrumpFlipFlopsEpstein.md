@@ -64,7 +64,7 @@ As my colleague Hayes Brown [points out](https://www.msnbc.com/opinion/msnbc-opi
     - [Department of Justice (DOJ)](https://www.justice.gov/)
    - [Department of State (DOS)](https://www.state.gov/)
     - [Federal Bureau of Investigation (FBI)](https://www.fbi.gov/)
-    - [Congress](https;//www.congress.gov/)
+    - [Congress](https://www.congress.gov/)
         - [U.S. Capitol Police](https://www.uscp.gov/)
         - [Senate](https://www.senate.gov/)
             - [J.D. Vance (T-OH)](https://bioguide.congress.gov/search/bio/V000137)
