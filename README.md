@@ -38,6 +38,7 @@ Surviving “The Apprentice: White House – Wrecking Ball”. [Trump](https://w
 - [League of Conservation Voters](https://www.lcv.org/)
 - [No Kings](https://www.nokings.org/)
 - [People's Promise](https://peoplespromise.us/)
+- [SoSha (Social Share) – We’ve put together a social toolkit that tracks Trump's most unpopular policies and biggest failures. Share these posts with your networks and customize your messages so they break through the social media algorithms.](https://app.sosha.ai/toolkit/trump-news-headlines-media-9938)
 - [Stand Up America - Demanding the Democracy We Deserve](https://standupamerica.com/)
 - [Volunteer Opportunities, Events, and Petitions Near Me · Not Above the Law on Mobilize](https://www.mobilize.us/notabovethelaw/)
 

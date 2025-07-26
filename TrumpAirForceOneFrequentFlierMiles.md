@@ -2,7 +2,7 @@
 layout: page
 tags: [The Mar-a-Lago Club, Palm Beach Florida 33480, Trump International Golf Club, West Palm Beach FL 33406, Trump National Doral Golf Club, Miami FL 33178, Trump National Jupiter Golf Club, Jupiter FL 33477, Trump National Golf Club Washington D.C., Potomac Falls VA 20165, Trump National Golf Club Bedminster, Bedminster NJ 07921, Trump National Golf Club Colts Neck, Colts Neck NJ 07722, Trump National Golf Club Philadelphia, Pine Hill NJ 08021, Trump National Golf Club Hudson Valley, Hopewell Junction NY 12533, Trump National Golf Club Los Angeles, Rancho Palos Verdes CA 90275, Trump National Golf Club Charlotte, Mooresville NC 28117, Trump International Golf Club Dubai, Al Hebiah Third District Dubai, Trump International Golf Links & Hotel Ireland Doonbeg, CLARE IRELAND, Trump MacLeod House & Lodge Scotland, Aberdeenshire Scotland AB23 8YE, Trump MacLeod House & Lodge Scotland, Aberdeenshire Scotland AB23 8YE, Trump Turnberry, Ayrshire Scotland]
 categories: [Donald Trump]
-date: 2025-07-19 1:14 AM
+date: 2025-07-25 9:15 AM
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
@@ -23,7 +23,7 @@ title: "Trump: Air Force One Frequent Flyer Miles"
 | | **Monday, July 28, 2025** |
 | ⛳️| **[Trump Turnberry](https://www.turnberry.co.uk/)** <br /> Maidens Road KA26 9LT Turnberry <br /> Ayrshire Scotland <br /> <a href="tel:+441655331000">+44.1655.331.000</a> <br /> <a href="tel:+4401655334115">+44 01655 334115</a> |
 | | **Sunday, July 27 2025** |
-| 🍵| The [President](https://www.donaldjtrump.com/) ~~has no public events scheduled~~plays golf🏌‍♂️<br />[Trump Turnberry](https://www.turnberry.co.uk/), Girvan, Scotland Out-of-Town Travel Pool |
+| ⛳️| The [President](https://www.donaldjtrump.com/) ~~has no public events scheduled~~plays golf🏌‍♂️<br />[Trump Turnberry](https://www.turnberry.co.uk/), Girvan, Scotland Out-of-Town Travel Pool |
 | 5:00 AM | Out-of-Town Travel Pool Call Time [10:00 AM Local]<br />[Trump Turnberry](https://www.turnberry.co.uk/), Girvan, Scotland Out-of-Town Travel Pool |
 | ⛳️| **Saturday, July 26 2025** |
 | | The [President](https://www.donaldjtrump.com/) ~~has no public events scheduled~~plays golf🏌‍♂️<br />[Trump Turnberry](https://www.turnberry.co.uk/), Girvan, Scotland Out-of-Town Travel Pool |
