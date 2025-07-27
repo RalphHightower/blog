@@ -24,7 +24,9 @@ title: "Trump: Air Force One Frequent Flyer Miles"
 | ⛳️| **[Trump Turnberry](https://www.turnberry.co.uk/)** <br /> Maidens Road KA26 9LT Turnberry <br /> Ayrshire Scotland <br /> <a href="tel:+441655331000">+44.1655.331.000</a> <br /> <a href="tel:+4401655334115">+44 01655 334115</a> |
 | | **Sunday, July 27 2025** |
 | ⛳️| The [President](https://www.donaldjtrump.com/) ~~has no public events scheduled~~plays golf🏌‍♂️<br />[Trump Turnberry](https://www.turnberry.co.uk/), Girvan, Scotland Out-of-Town Travel Pool |
-| 5:00 AM | Out-of-Town Travel Pool Call Time [10:00 AM Local]<br />[Trump Turnberry](https://www.turnberry.co.uk/), Girvan, Scotland Out-of-Town Travel Pool |
+| 5:00 AM | Out-of-Town Travel Pool Call Time [10:00 AM Local]<br />[Trump Turnberry](https://www.turnberry.co.uk/), Girvan, Scotland<br />Out-of-Town Travel Pool |
+| 6:45 AM | Out-of-Town Travel Pool Call Time<br /><br />[Trump Turnberry](https://www.turnberry.co.uk/), Girvan, Scotland<br />Out-of-Town Travel Pool |
+| 11:30 AM | The [President](https://www.donaldjtrump.com/) meets with the [President of the European Commission, Ursula von der Leyen](https://commission.europa.eu/about/organisation/president_en)<br />[Trump Turnberry](https://www.turnberry.co.uk/), Girvan, Scotland<br />Out-of-Town Travel Pool |
 | ⛳️| **Saturday, July 26 2025** |
 | | The [President](https://www.donaldjtrump.com/) ~~has no public events scheduled~~plays golf🏌‍♂️<br />[Trump Turnberry](https://www.turnberry.co.uk/), Girvan, Scotland Out-of-Town Travel Pool |
 | 5:00 AM | Out-of-Town Travel Pool Call Time [10:00 AM Local]<br />[Trump Turnberry](https://www.turnberry.co.uk/), Girvan, Scotland Out-of-Town Travel Pool |
