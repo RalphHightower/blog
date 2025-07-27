@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [media, MSNBC,  Rachel Maddow Show on MSNBC / Watch Rachel Maddow Live,  Rachel Maddow Blog / The Rachel Maddow Show - MSNBC,  Steve Benen,  Ministry of Truth – HarperCollins, organizations, universities, political parties, foreign governments, federal government, Constitution of the United States, Supreme Court of the United States (SCOTUS), US Courts, Department of Justice (DOJ), BOP –  Federal Bureau of Prisons Web Site, Department of State (DOS), Federal Bureau of Investigation (FBI), James Comey, Congress, President of the United States (POTUS), Senate, House of Representatives, House Rules Committee, Mike Johnson (T-LA4), House Speaker, Thomas Massie (T-KY4), White House (WH), Donald J Trump, President Donald Trump (45), President Donald Trump (47), President Trump (47) Administration, President Trump (47) Cabinet, JD Vance, Vice President JD Vance, Pam Bondi, Kash Patel, Deputy Director Dan Bongino — FBI, tariffs, politics, stupidity, grift, self-dealing, corruption, con, crime, cryptocurrency, criminal associates, criminal businesses, criminal partners, , human trafficking, sex trafficking, pedophile, Jeffrey Epstein, Ghislaine Maxwell]
+tags: [media, MSNBC, Rachel Maddow Show on MSNBC / Watch Rachel Maddow Live, Rachel Maddow Blog / The Rachel Maddow Show - MSNBC, Steve Benen, Ministry of Truth – HarperCollins, organizations, universities, political parties, Democrat Party, Trumpian Party, foreign governments, federal government, Constitution of the United States, Supreme Court of the United States (SCOTUS), US Courts, Department of Justice (DOJ), BOP –  Federal Bureau of Prisons Web Site, Department of State (DOS), Federal Bureau of Investigation (FBI), James Comey, Congress, President of the United States (POTUS), Senate, House of Representatives, House Rules Committee, Mike Johnson (T-LA4), House Speaker, Thomas Massie (T-KY4), White House (WH), Donald J Trump, President Donald Trump (45), President Donald Trump (47), President Trump (47) Administration, President Trump (47) Cabinet, JD Vance, Vice President JD Vance, Pam Bondi, Kash Patel, Deputy Director Dan Bongino — FBI, tariffs, politics, stupidity, grift, self-dealing, corruption, con, crime, cryptocurrency, criminal associates, criminal businesses, criminal partners, human trafficking, sex trafficking, pedophile, Jeffrey Epstein, Ghislaine Maxwell]
 categories: [Jeffrey Epstein, Ghislaine Maxwell, Trump Crime Family, Donald Trump]
 date: 2025-07-23 2:59 PM
 excerpt: ''
@@ -51,10 +51,10 @@ At a [White House](https://www.whitehouse.gov/) event earlier this month, the [H
 ----
 - media
 - [MSNBC](https://www.msnbc.com/)
-        - [Rachel Maddow Show on MSNBC / Watch Rachel Maddow Live](https://www.msnbc.com/rachel-maddow-show)
-            - [Rachel Maddow Blog / The Rachel Maddow Show - MSNBC](https://www.msnbc.com/maddowblog)
-        - [Steve Benen](https://www.msnbc.com/author/steve-benen-ncpn433601)
-            - [Ministry of Truth – HarperCollins](https://www.harpercollins.com/products/ministry-of-truth-steve-benen)
+    - [Rachel Maddow Show on MSNBC / Watch Rachel Maddow Live](https://www.msnbc.com/rachel-maddow-show)
+        - [Rachel Maddow Blog / The Rachel Maddow Show - MSNBC](https://www.msnbc.com/maddowblog)
+            - [Steve Benen](https://www.msnbc.com/author/steve-benen-ncpn433601)
+                - [Ministry of Truth – HarperCollins](https://www.harpercollins.com/products/ministry-of-truth-steve-benen)
 - organizations 
 - universities 
 - political parties
