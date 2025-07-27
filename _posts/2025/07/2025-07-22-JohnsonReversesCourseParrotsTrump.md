@@ -75,24 +75,24 @@ This post has been updated with additional developments.
     - [Federal Bureau of Investigation (FBI)](https://www.fbi.gov/)
         - [James Comey](https://www.fbi.gov/history/directors/james-b-comey)
     - [Congress](https://www.congress.gov/)
-    - [President of the United States (POTUS)](https://www.whitehouse.gov/)
         - [Senate](https://www.senate.gov/)
         - [House of Representatives](https://www.house.gov/)
             - [House Rules Committee](https://rules.house.gov/)
             - [Mike Johnson (T-LA4)](https://mikejohnson.house.gov/)
                 - [House Speaker](https://www.speaker.gov/) 
             - [Thomas Massie (T-KY4)](https://massie.house.gov/)
+    - [President of the United States (POTUS)](https://www.whitehouse.gov/)
     - [White House (WH)](https://www.whitehouse.gov/)
-     - [President Donald Trump (45)](https://trumpwhitehouse.archives.gov/)
-    - [President Donald Trump (47)](https://www.whitehouse.gov/administration/donald-j-trump/)
-        - [Donald J Trump](https://www.donaldjtrump.com/)
-        - [President Trump (47) Administration](https://www.whitehouse.gov/administration/)
-        - [President Trump (47) Cabinet](https://www.whitehouse.gov/administration/the-cabinet/)
-            - [JD Vance](https://www.linkedin.com/in/jd-vance-770a9047/)
-            - [Vice President JD Vance](https://www.whitehouse.gov/administration/jd-vance/)
-            - [Pam Bondi](https://www.justice.gov/ag/staff-profile/meet-attorney-general)
-            - [Kash Patel](https://www.fbi.gov/about/leadership-and-structure/director-patel)
-            - [Deputy Director Dan Bongino — FBI](https://www.fbi.gov/about/leadership-and-structure/deputy-director-dan-bongino)
+    - [Donald J Trump](https://www.donaldjtrump.com/)
+        - [President Donald Trump (45)](https://trumpwhitehouse.archives.gov/)
+        - [President Donald Trump (47)](https://www.whitehouse.gov/administration/donald-j-trump/)
+            - [President Trump (47) Administration](https://www.whitehouse.gov/administration/)
+            - [President Trump (47) Cabinet](https://www.whitehouse.gov/administration/the-cabinet/)
+                - [JD Vance](https://www.linkedin.com/in/jd-vance-770a9047/)
+                - [Vice President JD Vance](https://www.whitehouse.gov/administration/jd-vance/)
+                - [Pam Bondi](https://www.justice.gov/ag/staff-profile/meet-attorney-general)
+                - [Kash Patel](https://www.fbi.gov/about/leadership-and-structure/director-patel)
+                - [Deputy Director Dan Bongino — FBI](https://www.fbi.gov/about/leadership-and-structure/deputy-director-dan-bongino)
 - tariffs
 - politics
 - stupidity
@@ -102,12 +102,9 @@ This post has been updated with additional developments.
 - con
 - crime
 - cryptocurrency 
-- criminal businesses
 - criminal associates
+- criminal businesses
 - criminal partners
-- criminal businesses
-- criminal associates
-- crime partners
     - human trafficking 
     - sex trafficking 
     - pedophile 
