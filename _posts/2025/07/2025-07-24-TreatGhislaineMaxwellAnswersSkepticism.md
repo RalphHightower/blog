@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: []
+tags: [media, MSNBC, Ja’han Jones, CNN, Kaitlan Collins - Anchor and Chief White House Correspondent / CNN, Wall Street Journal (WSJ), organizations, National Association of Criminal Defense Lawyers, companies, Dow Jones – Trusted News & Data, News Corp, foreign countries, state local governments, political parties, Trumpian Party, Democrat Party, Federal Government, Constitution of the United States, Supreme Court of the United States (SCOTUS), US Courts, New York Southern District, Hon. Paul A. Engelmayer / U.S District Court, Hon. Richard M. Berman / U.S District Court, Department of Justice (DOJ), BOP –  Federal Bureau of Prisons Web Site, Department of State (DOS), Federal Bureau of Investigation (FBI), James Comey, Congress, Senate, Lisa Murkowski (T-AK), House of Representatives, James Comer (T-KY1), Oversight Committee, Mike Johnson (T-LA4), House Speaker, President of the United States (POTUS), White House (WH), Donald J Trump, President Donald Trump (45), President Donald Trump (47), President Trump (47) Administration, President Trump (47) Cabinet, JD Vance, Vice President JD Vance, Pam Bondi, Office of the Deputy Attorney General / Office of the Deputy Attorney General, Todd Blanche / LinkedIn, Kash Patel, Deputy Director Dan Bongino — FBI, tariffs, politics, stupidity, grift, self-dealing, corruption, con, crime, cryptocurrency, criminal associates, criminal businesses, criminal partners, human trafficking, sex trafficking, pedophile, Jeffrey Epstein, Ghislaine Maxwell]
 categories: [Jeffrey Epstein, Ghislaine Maxwell, Trump Crime Family, Donald Trump]
 date: 2025-07-24 8:36 PM
 excerpt: ''
@@ -41,10 +41,9 @@ Ja’han Jones is an MSNBC opinion blogger. He previously wrote The ReidOut Blog
 ----
 - media
 - [MSNBC](https://www.msnbc.com/)
-    - [Deadline: Legal Blog](https://www.msnbc.com/deadline-white-house)
-        - Jordan Rubin
+    - Ja’han Jones
 - [CNN](https://www.cnn.com/)
-    - [Kaitlin Collins](https://www.cnn.com/profiles/kaitlan-collins#about)
+    - [Kaitlan Collins - Anchor and Chief White House Correspondent / CNN](https://www.cnn.com/profiles/kaitlan-collins#about)
 - [Wall Street Journal (WSJ)](https://www.wsj.com/)
 - organizations 
 - [National Association of Criminal Defense Lawyers](https://www.nacdl.org/)
@@ -75,7 +74,7 @@ Ja’han Jones is an MSNBC opinion blogger. He previously wrote The ReidOut Blog
             - [James Comer (T-KY1)](https://comer.house.gov/)
                 - [Oversight Committee](https://oversight.house.gov/)
             - [Mike Johnson (T-LA4)](https://mikejohnson.house.gov/)
-                - [m[House](https://www.house.gov/) [Speaker](https://www.speaker.gov/) 
+                - [House](https://www.house.gov/) [Speaker](https://www.speaker.gov/) 
     - [President of the United States (POTUS)](https://www.whitehouse.gov/)
     - [White House (WH)](https://www.whitehouse.gov/)
     - [Donald J Trump](https://www.donaldjtrump.com/)
@@ -102,7 +101,6 @@ Ja’han Jones is an MSNBC opinion blogger. He previously wrote The ReidOut Blog
 - criminal associates
 - criminal businesses
 - criminal partners
-- crime partners
     - human trafficking 
     - sex trafficking 
     - pedophile 
