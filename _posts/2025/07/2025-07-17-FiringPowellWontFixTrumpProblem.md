@@ -153,4 +153,3 @@ Jared Bernstein was chair of [President Joe Biden](https://bid/)'s [Council of E
 - tariffs
 - politics
 - stupidity
-1. 

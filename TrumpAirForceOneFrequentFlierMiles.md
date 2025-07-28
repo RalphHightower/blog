@@ -21,7 +21,12 @@ title: "Trump: Air Force One Frequent Flyer Miles"
 | | **Tuesday, July 29, 2025** |
 | ⛳️| **[Trump Turnberry](https://www.turnberry.co.uk/)** <br /> Maidens Road KA26 9LT Turnberry <br /> Ayrshire Scotland <br /> <a href="tel:+441655331000">+44.1655.331.000</a> <br /> <a href="tel:+4401655334115">+44 01655 334115</a> |
 | | **Monday, July 28, 2025** |
-| ⛳️| **[Trump Turnberry](https://www.turnberry.co.uk/)** <br /> Maidens Road KA26 9LT Turnberry <br /> Ayrshire Scotland <br /> <a href="tel:+441655331000">+44.1655.331.000</a> <br /> <a href="tel:+4401655334115">+44 01655 334115</a> |
+| 3:15 AM | Out-of-Town Travel Pool Call Time<br />Out-of-Town Travel Pool |
+| 7:00 AM | The [President](https://www.donaldjtrump.com/) greets the [Prime Minister of the United Kingdom of Great Britain](https://www.gov.uk/government/people/keir-starmer) and [Northern Ireland](https://www.executiveoffice-ni.gov.uk/articles/executive-office-ministers)<br />Out-of-Town Travel Pool |
+| 7:30 AM | The [President](https://www.donaldjtrump.com/) participates in a Bilateral Meeting with the [Prime Minister of the United Kingdom of Great Britain](https://www.gov.uk/government/people/keir-starmer) and [Northern Ireland](https://www.executiveoffice-ni.gov.uk/articles/executive-office-ministers)<br />Out-of-Town Travel Pool |
+| 10:45 AM | The [President](https://www.donaldjtrump.com/) departs Glasgow, Scotland, en route Aberdeen, Scotland<br />[Trump MacLeod House & Lodge Scotland](https://www.trumphotels.com/macleod-house)<br />Out-of-Town Travel Pool |
+| 12:25 PM | The [President](https://www.donaldjtrump.com/) arrives Aberdeen, Scotland<br />[Trump MacLeod House & Lodge Scotland](https://www.trumphotels.com/macleod-house) |
+| Expanded Out-of-Town Travel Pool |
 | | **Sunday, July 27 2025** |
 | ⛳️| The [President](https://www.donaldjtrump.com/) ~~has no public events scheduled~~plays golf🏌‍♂️<br />[Trump Turnberry](https://www.turnberry.co.uk/), Girvan, Scotland Out-of-Town Travel Pool |
 | 5:00 AM | Out-of-Town Travel Pool Call Time [10:00 AM Local]<br />[Trump Turnberry](https://www.turnberry.co.uk/), Girvan, Scotland<br />Out-of-Town Travel Pool |
