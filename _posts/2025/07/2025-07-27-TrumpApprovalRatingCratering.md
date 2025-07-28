@@ -1,13 +1,13 @@
 ---
 layout: post
-tags: []
+tags: [media, MSNBC, Michael A. Cohen, CBS News, CNN, organizations, universities, Quinnipiac University, companies, Real Clear Politics, Nate Silver, Elliott Morris, Gallup, YouGov polls & surveys / YouGov, political parties, Democrat Party, Trumpian Party, federal government, Constitution of the United States, Supreme Court of the United States (SCOTUS), US Courts, Federal Reserve Board,  Jerome H. Powell, Bureau of Labor Statistics (BLS), Consumer Price Index Summary - 2025 M06 Results, U.S. Bureau of Economic Analysis (BEA), Data Tools / U.S. Bureau of Economic Analysis (BEA), Congress, Text - H.R.1 - 119th Congress (2025-2026) –  One Big Beautiful Bill Act / Congress.gov / Library of Congress, Senate, House of Representatives, President of the United States (POTUS), White House (WH), President Joe Biden, Donald J Trump, President Donald Trump (45), President Donald Trump (47), President Trump (47) Administration, President Trump (47) Cabinet, JD Vance, Vice President JD Vance, Pam Bondi, Kash Patel, Deputy Director Dan Bongino — FBI, tariffs, politics, stupidity, grift, self-dealing, corruption, con, crime, cryptocurrency, criminal associates, criminal businesses, criminal partners, human trafficking, sex trafficking, pedophile, Jeffrey Epstein, Ghislaine Maxwell]
 categories: [Donald Trump]
 date: 2025-07-27 5:33 PM
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: 'title'
+title: "Trump’s Ranking Is Cratering, Six Months In"
 ---
 
 
