@@ -20,26 +20,47 @@ title: "Trump: Air Force One Frequent Flyer Miles"
 |---|---|
 | | **Tuesday, July 29, 2025** |
 | ⛳️| **[Trump Turnberry](https://www.turnberry.co.uk/)** <br /> Maidens Road KA26 9LT Turnberry <br /> Ayrshire Scotland <br /> <a href="tel:+441655331000">+44.1655.331.000</a> <br /> <a href="tel:+4401655334115">+44 01655 334115</a> |
-| | **Monday, July 28, 2025** |
-| 3:15 AM | Out-of-Town Travel Pool Call Time<br />Out-of-Town Travel Pool |
-| 7:00 AM | The [President](https://www.donaldjtrump.com/) greets the [Prime Minister of the United Kingdom of Great Britain](https://www.gov.uk/government/people/keir-starmer) and [Northern Ireland](https://www.executiveoffice-ni.gov.uk/articles/executive-office-ministers)<br />Out-of-Town Travel Pool |
-| 7:30 AM | The [President](https://www.donaldjtrump.com/) participates in a Bilateral Meeting with the [Prime Minister of the United Kingdom of Great Britain](https://www.gov.uk/government/people/keir-starmer) and [Northern Ireland](https://www.executiveoffice-ni.gov.uk/articles/executive-office-ministers)<br />Out-of-Town Travel Pool |
-| 10:45 AM | The [President](https://www.donaldjtrump.com/) departs Glasgow, Scotland, en route Aberdeen, Scotland<br />[Trump MacLeod House & Lodge Scotland](https://www.trumphotels.com/macleod-house)<br />Out-of-Town Travel Pool |
-| 12:25 PM | The [President](https://www.donaldjtrump.com/) arrives Aberdeen, Scotland<br />[Trump MacLeod House & Lodge Scotland](https://www.trumphotels.com/macleod-house) |
-| Expanded Out-of-Town Travel Pool |
+| | **Monday, July 28 2025** |
+| 3:15 AM | Out-of-Town Travel Pool Call Time [8:15 AM Local]<br />[Trump Turnberry](https://www.turnberry.co.uk/), Girvan, [Scotland](https://www.gov.scot/) Out-of-Town Travel Pool |
+| 7:00 AM | The [President](https://www.donaldjtrump.com/) greets the [Prime Minister of the United Kingdom of Great Britain and Northern Ireland](https://www.gov.uk/government/people/keir-starmer) [12:00 PM Local]<br />[Trump Turnberry](https://www.turnberry.co.uk/), Girvan, [Scotland](https://www.gov.scot/) Out-of-Town Travel Pool |
+| 7:30 AM | The [President](https://www.donaldjtrump.com/) participates in a Bilateral Meeting with the [Prime Minister of the United Kingdom of Great Britain and Northern Ireland](https://www.gov.uk/government/people/keir-starmer) [12:30 PM Local]<br />[Trump Turnberry](https://www.turnberry.co.uk/), Girvan, [Scotland](https://www.gov.scot/) Out-of-Town Travel Pool |
+| 10:45 AM | The [President](https://www.donaldjtrump.com/) departs [Glasgow](https://www.cityofglasgow.co.uk/), [Scotland](https://www.gov.scot/), en route [Aberdeen](https://www.aberdeencity.gov.uk/), [Scotland](https://www.gov.scot/) [3:45 PM Local]<br />[Glasgow Prestwick Airport](https://www.glasgowprestwick.com/), [Glasgow](https://www.cityofglasgow.co.uk/), [Scotland](https://www.gov.scot/), [United Kingdom](https://www.gov.uk/) Out-of-Town Travel Pool |
+| 12:25 PM | The [President](https://www.donaldjtrump.com/) arrives [Aberdeen](https://www.aberdeencity.gov.uk/), [Scotland](https://www.gov.scot/) [5:25 PM Local]<br />[Trump International Scotland](https://www.trumpgolfscotland.com/) [Aberdeen](https://www.aberdeencity.gov.uk/) Expanded Out-of-Town Travel Pool |
 | | **Sunday, July 27 2025** |
-| ⛳️| The [President](https://www.donaldjtrump.com/) ~~has no public events scheduled~~plays golf🏌‍♂️<br />[Trump Turnberry](https://www.turnberry.co.uk/), Girvan, Scotland Out-of-Town Travel Pool |
-| 5:00 AM | Out-of-Town Travel Pool Call Time [10:00 AM Local]<br />[Trump Turnberry](https://www.turnberry.co.uk/), Girvan, Scotland<br />Out-of-Town Travel Pool |
-| 6:45 AM | Out-of-Town Travel Pool Call Time<br /><br />[Trump Turnberry](https://www.turnberry.co.uk/), Girvan, Scotland<br />Out-of-Town Travel Pool |
-| 11:30 AM | The [President](https://www.donaldjtrump.com/) meets with the [President of the European Commission, Ursula von der Leyen](https://commission.europa.eu/about/organisation/president_en)<br />[Trump Turnberry](https://www.turnberry.co.uk/), Girvan, Scotland<br />Out-of-Town Travel Pool |
-| ⛳️| **Saturday, July 26 2025** |
-| | The [President](https://www.donaldjtrump.com/) ~~has no public events scheduled~~plays golf🏌‍♂️<br />[Trump Turnberry](https://www.turnberry.co.uk/), Girvan, Scotland Out-of-Town Travel Pool |
-| 5:00 AM | Out-of-Town Travel Pool Call Time [10:00 AM Local]<br />[Trump Turnberry](https://www.turnberry.co.uk/), Girvan, Scotland Out-of-Town Travel Pool |
+| ⛳️| The [President](https://www.donaldjtrump.com/) plays golf with [Eric Trump](https://www.linkedin.com/in/erictrump/). No timeframe was provided.<br />[Trump Turnberry](https://www.turnberry.co.uk/), Girvan, [Scotland](https://www.gov.scot/) Out-of-Town Travel Pool |
+| 6:45 AM | Out-of-Town Travel Pool Call Time [11:45 AM Local]<br />[Trump Turnberry](https://www.turnberry.co.uk/), Girvan, [Scotland](https://www.gov.scot/) Out-of-Town Travel Pool |
+| 11:30 AM | The [President](https://www.donaldjtrump.com/) meets with the [President of the European Commission, Ursula von der Leyen](https://commission.europa.eu/about/organisation/president_en) [4:30 PM Local]<br />[Trump Turnberry](https://www.turnberry.co.uk/), Girvan, [Scotland](https://www.gov.scot/) Out-of-Town Travel Pool |
+| 1:26 PM 💰| The [President](https://www.donaldjtrump.com/) announces a trade deal with the [European Union](https://commission.europa.eu/about/organisation_en) [6:26 PM Local]<br />[Trump Turnberry](https://www.turnberry.co.uk/), Girvan, [Scotland](https://www.gov.scot/) Out-of-Town Travel Pool |
+| 2:36 PM | [White House](https://www.whitehouse.gov/) Press Office: Full lid called [7:36 PM Local]<br />[Trump Turnberry](https://www.turnberry.co.uk/), Girvan, [Scotland](https://www.gov.scot/) |
+| | **Saturday, July 26 2025** |
+| 🏌‍♂️⛳️| The [President](https://www.donaldjtrump.https://www.aberdeencity.gov.uk/com/) ~~has no public events scheduled~~ play golf 🏌‍♂️. [Trump Turnberry](https://www.turnberry.co.uk/), Girvan, [Scotland](https://www.gov.scot/) Out-of-Town Travel Pool |
+| 🏌‍♂️⛳️ | The [President](https://www.donaldjtrump.com/) plays golf with [Eric Trump](https://www.linkedin.com/in/erictrump/), [Warren Stephens](https://uk.usembassy.gov/ambassador/) and Warren Stephens' son. No timeframe was provided.<br />[Trump Turnberry](https://www.turnberry.co.uk/), Girvan, [Scotland](https://www.gov.scot/) Out-of-Town Travel Pool |
+| 4:05 AM | [White House](https://www.whitehouse.gov/) Press Office: Full lid called [9:05 AM Local]<br />[Trump Turnberry](https://www.turnberry.co.uk/), Girvan, [Scotland](https://www.gov.scot/) |
+| 5:00 AM | Out-of-Town Travel Pool Call Time [10:00 AM Local]<br />[Trump Turnberry](https://www.turnberry.co.uk/), Girvan, [Scotland](https://www.gov.scot/) Out-of-Town Travel Pool |
 | | **Friday, July 25 2025** |
-| 7:00 AM | Out-of-Town Travel Pool Call Time<br />[Joint Base Andrews](https://www.jba.af.mil/) Out-of-Town Travel Pool |
+| 7:00 AM | Out-of-Town Travel Pool Call Time<br />[Joint Base Andrews](https://www.whitehouse.gov/) Out-of-Town Travel Pool |
 | 7:30 AM | In-Town Pool Call Time<br />The [White House](https://www.whitehouse.gov/) In-Town Pool |
-| 8:00 AM | The [President](https://www.donaldjtrump.com/) departs the [White House](https://www.whitehouse.gov/) en route [Trump Turnberry, Scotland](https://www.turnberry.co.uk/)<br />The [White House](https://www.whitehouse.gov/) Open Press |
-| 3:20 PM | The [President](https://www.donaldjtrump.com/) arrives Turnberry, Scotland [8:20 PM Local]<br />[Trump Turnberry](https://www.turnberry.co.uk/), Girvan, Scotland Out-of-Town Travel Pool |
+| 8:00 AM | The [President](https://www.donaldjtrump.com/) departs the [White House](https://www.whitehouse.gov/) en route Turnberry, [Scotland](https://www.gov.scot/) \[9:24 AM Actual to [Joint Base Andrews](https://www.whitehouse.gov/)]<br />The [White House](https://www.whitehouse.gov/) Open Press |
+| 9:34 AM | The [President](https://www.donaldjtrump.com/) arrives at [Joint Base Andrews](https://www.whitehouse.gov/)<br />[Joint Base Andrews](https://www.whitehouse.gov/) Open Press |
+| 9:48 AM | The [President](https://www.donaldjtrump.com/) departs [Joint Base Andrews](https://www.whitehouse.gov/) for Turnberry, [Scotland](https://www.gov.scot/)<br />[Joint Base Andrews](https://www.whitehouse.gov/) Open Press |
+| 3:20 PM | The [President](https://www.donaldjtrump.com/) arrives Turnberry, [Scotland](https://www.gov.scot/) [8:20 PM Local; 9:34 PM Actual]<br />[Trump Turnberry](https://www.turnberry.co.uk/), Girvan, [Scotland](https://www.gov.scot/) Out-of-Town Travel Pool |
+| 3:26 PM | The [President](https://www.donaldjtrump.com/) arrives at [Glasgow Prestwick Airport](https://www.glasgowprestwick.com/), [Scotland](https://www.gov.scot/), [United Kingdom](https://www.gov.uk/) [8:26 PM Local]<br />[Glasgow Prestwick Airport](https://www.glasgowprestwick.com/), [Glasgow](https://www.cityofglasgow.co.uk/), [Scotland](https://www.gov.scot/), [United Kingdom](https://www.gov.uk/) Open Press |
+| 3:53 PM | The [President](https://www.donaldjtrump.com/) departs [Glasgow Prestwick Airport](https://www.glasgowprestwick.com/), [Scotland](https://www.gov.scot/), [United Kingdom](https://www.gov.uk/) for [Trump Turnberry](https://www.turnberry.co.uk/) [8:53 PM Local]<br />[Glasgow Prestwick Airport](https://www.glasgowprestwick.com/), [Glasgow](https://www.cityofglasgow.co.uk/), [Scotland](https://www.gov.scot/), [United Kingdom](https://www.gov.uk/) Open Press |
+| 7:34 PM | [White House](https://www.whitehouse.gov/) Press Office: Full lid called [9:34 PM Local]<br />[Trump Turnberry](https://www.turnberry.co.uk/), Girvan, [Scotland](https://www.gov.scot/) |
+| | **Thursday, July 24 2025** |
+| | @RalphHightower: I included Thursday because [Trump](https://www.donaldjtrump.com/) visiting [Powell](https://www.federalreserve.gov/aboutthefed/bios/board/powell.htm) is unprecedented. [Trump](https://www.donaldjtrump.com/) tried his ambush tactic on the renovation costs, but [Powell fact-checked Trump in real-time]({% link _posts/2025/07/2025-07-25-FedChairFactChecksTrumpRealtime.md %}) |
+| 9:00 AM | In-Town Pool Call Time<br />The [White House](https://www.whitehouse.gov/) In-Town Pool |
+| 11:15 AM | [White House](https://www.whitehouse.gov/) Press Office: Lunch lid until 12:00 PM<br />The [White House](https://www.whitehouse.gov/) |
+| 1:27 PM | Tom Homan briefs reporters at The Sticks<br />The Sticks - The [White House](https://www.whitehouse.gov/) |
+| 3:00 PM | The [President](https://www.donaldjtrump.com/) signs Executive Orders and Congressional Bills<br />[Oval Office](https://www.whitehouse.gov/) Closed Press |
+| 3:45 PM | The [President](https://www.donaldjtrump.com/) departs The [White House](https://www.whitehouse.gov/) en route The [Federal Reserve](https://www.federalreserve.gov/) [3:56 PM Actual]<br />The [White House](https://www.whitehouse.gov/) In-Town Travel Pool |
+| 3:59 PM | The [President](https://www.donaldjtrump.com/) arrives at the [Federal Reserve](https://www.federalreserve.gov/)<br />The [White House](https://www.whitehouse.gov/) In-Town Travel Pool |
+| 4:00 PM | The [President](https://www.donaldjtrump.com/) visits The [Federal Reserve](https://www.federalreserve.gov/)<br />[Federal Reserve](https://www.federalreserve.gov/) In-Town Travel Pool |
+| 4:31 PM | The [President](https://www.donaldjtrump.com/) speaks with reporters after visiting The [Federal Reserve](https://www.federalreserve.gov/)<br />[Federal Reserve](https://www.federalreserve.gov/) In-Town Travel Pool |
+| 4:49 PM | The [President](https://www.donaldjtrump.com/) departs The [Federal Reserve](https://www.federalreserve.gov/) for the [White House](https://www.whitehouse.gov/)<br />[Federal Reserve](https://www.federalreserve.gov/) In-Town Travel Pool |
+| 5:10 PM | The [President](https://www.donaldjtrump.com/) arrives The [White House](https://www.whitehouse.gov/) [4:52 PM Actual]<br />The [White House](https://www.whitehouse.gov/) In-Town Travel Pool |
+| 5:32 PM | Russell Vought briefs reporters at The Sticks<br />The Sticks - The [White House](https://www.whitehouse.gov/) |
+| 6:03 PM | [White House](https://www.whitehouse.gov/) Press Office: Full lid called<br />The [White House](https://www.whitehouse.gov/) |
 | | 🔥 [White House](https://www.whitehouse.gov/) 💣| 
 | | **Sunday, July 20, 2025** |
 | 🏌‍♂️⛳️| No official [White House](https://www.whitehouse.gov/) calendar released as of 11:55 am. Per pool report, travel to [Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/) is the only planned event.]<br />The [White House](https://www.whitehouse.gov/) |
