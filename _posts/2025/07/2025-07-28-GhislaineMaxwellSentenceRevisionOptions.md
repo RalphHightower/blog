@@ -7,7 +7,7 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: "
+title: "There Are Multiple Ways That Trump Can Help Ghislaine Maxwell"
 ---
 
 
@@ -107,5 +107,3 @@ Jordan Rubin is the [Deadline: Legal Blog](https://www.msnbc.com/deadline-white-
     - pedophile 
         - Jeffrey Epstein 
         - Ghislaine Maxwell
-
-
