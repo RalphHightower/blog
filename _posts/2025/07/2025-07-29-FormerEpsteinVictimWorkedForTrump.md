@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [media, MSNBC, Steve Benen, The Rachel Maddow Show, MaddowBlog, “Ministry of Truth –  Democracy Reality and the Republicans’ War on the Recent Past.”, NBC News, The New Republic, victims (Epstein), Virginia Giuffre, organizations, universities, political parties, Democrat Party, Trumpian Party, foreign countries, state local governments, federal government, Constitution of the United States, Supreme Court of the United States (SCOTUS), Supreme Court Justices, US Courts, Department of Justice (DOJ), Office of the Pardon Attorney, Department of State (DOS), Department of Housing and Urban Development (HUD), HUD’s Secretary / HUD.gov / U.S. Department of Housing and Urban Development (HUD), Department of Defense (DOD), Joint Chiefs of Staff (JCS), Air Force, Joint Base Andrews, Air Force One, Federal Bureau of Investigation (FBI), James Comey, Congress, Senate, House of Representatives, President of the United States (POTUS), White House (WH), Donald J Trump, President Donald Trump (45), President Donald Trump (47), President Trump (47) Administration, President Trump (47) Cabinet, JD Vance, Vice President JD Vance, Pam Bondi, Kash Patel, Deputy Director Dan Bongino — FBI, tariffs, politics, stupidity, grift, self-dealing, corruption, con, criminal, cryptocurrency, criminal associates, criminal businesses, [Mar-a-Lago, criminal partners, human trafficking, sex trafficking, pedophile, Jeffrey Epstein, Ghislaine Maxwell]
+tags: [media, MSNBC, Steve Benen, The Rachel Maddow Show, MaddowBlog, “Ministry of Truth –  Democracy Reality and the Republicans’ War on the Recent Past.”, NBC News, The New Republic, victims (Epstein), Virginia Giuffre, organizations, universities, political parties, Democrat Party, Trumpian Party, foreign countries, state local governments, federal government, Constitution of the United States, Supreme Court of the United States (SCOTUS), Supreme Court Justices, US Courts, Department of Justice (DOJ), Office of the Pardon Attorney, Department of State (DOS), Department of Housing and Urban Development (HUD), HUD’s Secretary / HUD.gov / U.S. Department of Housing and Urban Development (HUD), Department of Defense (DOD), Joint Chiefs of Staff (JCS), Air Force, Joint Base Andrews, Air Force One, Federal Bureau of Investigation (FBI), James Comey, Congress, Senate, House of Representatives, President of the United States (POTUS), White House (WH), Donald J Trump, President Donald Trump (45), President Donald Trump (47), President Trump (47) Administration, President Trump (47) Cabinet, JD Vance, Vice President JD Vance, Pam Bondi, Kash Patel, Deputy Director Dan Bongino — FBI, tariffs, politics, stupidity, grift, self-dealing, corruption, con, criminal, cryptocurrency, criminal associates, criminal businesses, The Mar-a-Lago Club, criminal partners, human trafficking, sex trafficking, pedophile, Jeffrey Epstein, Ghislaine Maxwell]
 categories: [Jeffrey Epstein, Ghislaine Maxwell, Trump Crime Family, Donald Trump]
 date: 2025-07-29 10:27 PM
 excerpt: ''
@@ -105,7 +105,7 @@ If [White House](http://www.whitehouse.gov/) officials were hoping to see the st
 - cryptocurrency 
 - criminal associates
 - criminal businesses
-- [Mar-a-Lago 
+- [The Mar-a-Lago Club](https://www.maralagoclub.com/)
 - criminal partners
     - human trafficking 
     - sex trafficking 
