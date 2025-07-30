@@ -7,7 +7,7 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: 'title'
+title: "2025-07-30: Federal Reserve Issues Federal Open Market Committee (FOMC) Statement"
 ---
 
 
