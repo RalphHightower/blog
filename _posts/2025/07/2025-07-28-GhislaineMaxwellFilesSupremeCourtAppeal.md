@@ -2,7 +2,7 @@
 layout: post
 tags: [media, MSNBC, DEADLINE –  WHITE HOUSE WITH NICOLLE WALLACE, Jordan Rubin, organizations, universities, political parties, foreign countries, state local governments, Florida, New York, federal government, Constitution of the United States, Supreme Court of the United States (SCOTUS), Supreme Court Justices, US Courts, United States Court of Appeals 2nd Circuit, Department of Justice (DOJ), Southern District of New York, Federal Bureau of Investigation (FBI), Congress, Senate, House of Representatives, President of the United States (POTUS), White House (WH), Donald J Trump, President Donald Trump (45), President Donald Trump (47), President Trump (47) Administration, President Trump (47) Cabinet, JD Vance, Vice President JD Vance, Pam Bondi, Kash Patel, Deputy Director Dan Bongino — FBI, tariffs, politics, stupidity, grift, self-dealing, corruption, con, criminal, cryptocurrency, criminal associates, criminal businesses, criminal partners, human trafficking, sex trafficking, pedophile, Jeffrey Epstein, Ghislaine Maxwell]
 categories: [Jeffrey Epstein, Ghislaine Maxwell, Trump Crime Family, Donald Trump]
-date: 2019-06-25 13:14:15
+date: 2025-07-28 9:32 AM
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
