@@ -93,7 +93,7 @@ And I’m proud of how [America](https://www.usa.gov/) — though it is often pa
 
 But in July 2025, all those things that make me proud of [America](https://www.usa.gov/) are under threat. Worse, they’re under threat from [Americans](https://www.usa.gov/).
 
-[President](https://www.whitehouse.gov/) [Donald Trump](https://www.donaldjtrump.com/), an unrepentant racist, has helped re-normalize rank bigotry. To cite one of innumerable examples, his close confidant [Laura Loomer](https://www.msnbc.com/rachel-maddow-show/maddowblog/laura-loomers-white-house-access-erases-line-fringe-mainstream-rcna210863) commented this week on [X](https://x.com/) that the so-called Alligator Alcatraz migrant detention center in the [Florida](https://www.myflorida.com/) [Everglades](https://www.nps.gov/ever/) could provide “[at least 65 million meals](https://www.independent.co.uk/news/world/americas/us-politics/laura-loomer-alcatraz-alligator-lives-matter-trump-b2782150.html)” to the alligators. (That figure [roughly corresponds](https://pmc.ncbi.nlm.nih.gov/articles/PMC11292280/) to the Latino population of the U.S.)
+[President](https://www.whitehouse.gov/) [Donald Trump](https://www.donaldjtrump.com/), an unrepentant racist, has helped re-normalize rank bigotry. To cite one of innumerable examples, his close confidant [Laura Loomer](https://www.msnbc.com/rachel-maddow-show/maddowblog/laura-loomers-white-house-access-erases-line-fringe-mainstream-rcna210863) commented this week on [X](https://x.com/) that the so-called Alligator Alcatraz migrant detention center in the [Florida](https://www.myflorida.gov/) [Everglades](https://www.nps.gov/ever/) could provide “[at least 65 million meals](https://www.independent.co.uk/news/world/americas/us-politics/laura-loomer-alcatraz-alligator-lives-matter-trump-b2782150.html)” to the alligators. (That figure [roughly corresponds](https://pmc.ncbi.nlm.nih.gov/articles/PMC11292280/) to the Latino population of the U.S.)
 
 And at an event Thursday meant to kickoff a year's worth of festivities commemorating [America](https://www.usa.gov/)'s Semiquincentennial, the [president used an ancient antisemitic slur](https://www.msnbc.com/top-stories/latest/jewish-leaders-decry-president-trumps-use-shylocks-describe-money-lend-rcna216950) when referring to unscrupulous bankers. At the same event, he [he said of congressional Democrats](https://thehill.com/homenews/administration/5385217-trump-on-democrats-who-voted-against-gop-megabill-i-hate-them/) who didn't vote for his megabill: “I hate them, too. You know that? I really do, I hate them. I cannot stand them, because I really believe they hate our country.”
 
@@ -117,7 +117,7 @@ Anthony L. Fisher is a senior editor and writer for [MSNBC Daily](https://www.ms
     - [Gallup - Workplace Consulting & Global Research](https://www.gallup.com/)
 - political parties
     - [Democrat Party](https://www.democrats.org/)
-    - [Trumpian Party](https;//www.gop.com/)
+    - [Trumpian Party](https://www.gop.com/)
 - foreign governments 
     - [Government of Iraq](https://ur.gov.iq/)
 - state, local governments
@@ -168,7 +168,7 @@ Anthony L. Fisher is a senior editor and writer for [MSNBC Daily](https://www.ms
             - [U.S. Space Command](https://www.spacecom.mil/)
     - [Office of the Director of National Intelligence (ODNI)](https://www.odni.gov/)
     - [Department of Homeland Security (DHS)](https://www.dhs.gov/)
-    - [Congress](https;//www.congress.gov/)
+    - [Congress](https://www.congress.gov/)
         - [Text - H.R.1 - 119th Congress (2025-2026): One Big Beautiful Bill Act / Congress.gov / Library of Congress](https://www.congress.gov/bill/119th-congress/house-bill/1/text)
         - [U.S. Capitol Police](https://www.uscp.gov/)
         - [Senate](https://www.senate.gov/)

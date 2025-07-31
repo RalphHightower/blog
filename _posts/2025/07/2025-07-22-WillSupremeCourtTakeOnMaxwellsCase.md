@@ -26,7 +26,7 @@ Even if the [justices](https://www.supremecourt.gov/) agree to take [Maxwell’s
 
 In Maxwell’s case, that issue is whether a promise on behalf of the “[United States](https://www.usa.gov/)” or the “[Government](https://www.usa.gov/)” that’s made by a U.S. attorney in one district binds federal prosecutors in other districts.
 
-That’s important to Maxwell’s case because, she argues, a nonprosecution agreement secured by Epstein in [Florida](https://www.myflorida.com/,) should’ve barred her from being charged in [New York](https://www.ny.gov/) because the agreement said, in part, that “the [United States](https://www.usa.gov/) also agrees that it will not institute any criminal charges against any potential co-conspirators of Epstein.”
+That’s important to Maxwell’s case because, she argues, a nonprosecution agreement secured by Epstein in [Florida](https://www.myflorida.gov/,) should’ve barred her from being charged in [New York](https://www.ny.gov/) because the agreement said, in part, that “the [United States](https://www.usa.gov/) also agrees that it will not institute any criminal charges against any potential co-conspirators of Epstein.”
 
 She hasn’t succeeded in her argument so far.
 
