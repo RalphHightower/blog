@@ -36,7 +36,7 @@ A recent [Gallup](https://www.gallup.com/) poll [gives Trump a 35% approval rati
 
 According to a recent [CBS News](https://www.cbsnews.com/)/[YouGov](https://www.yougov.com/) poll, [there’s been a 20-point shift in support of Trump’s mass deportations policy since February](https://www.cbsnews.com/news/cbs-news-poll-trump-deportation-program-prices/) — with approval of the policy dropping from 59% to 49% and disapproval rising from 41% to 51%. Even more notable is a 10-point shift against the [White House](https://www.whitehouse.gov/) on mass deportations since June. It appears that as Americans see and hear more and more news stories about the excesses of [ICE agents](https://www.ice.gov/) and the tales of those caught up in [Trump](https://www.donaldjtrump.com/)’s deportation dragnet, the less they like it.
 
-[CNN polling](https://www.cnn.com/2025/07/20/politics/cnn-poll-trump-deportations) finds a similar result, with nearly 6 in 10 U.S. adults opposed to deporting noncriminal undocumented immigrants and 57% balking at the construction of “detention facilities” like the so-called Alligator Alcatraz facility in [Florida](https://www.myflorida.com/).
+[CNN polling](https://www.cnn.com/2025/07/20/politics/cnn-poll-trump-deportations) finds a similar result, with nearly 6 in 10 U.S. adults opposed to deporting noncriminal undocumented immigrants and 57% balking at the construction of “detention facilities” like the so-called Alligator Alcatraz facility in [Florida](https://www.myflorida.gov/).
 
 But as bad as [Trump](https://www.donaldjtrump.com/)’s numbers are on immigration, they are arguably worse on the economy.
 

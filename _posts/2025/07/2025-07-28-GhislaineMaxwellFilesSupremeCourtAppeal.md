@@ -24,9 +24,9 @@ Her court filing is a typical one that falls against the backdrop of the atypica
 
 When someone petitions the [Supreme Court](https://www.supremecourt.gov/) to take their case, the opposing party can then file an opposition brief, and then the petitioner can file a reply. That third type of filing is what Maxwell’s lawyers lodged with the justices on Monday.
 
-> *The legal issue she’s pressing involves the unusually broad non-prosecution agreement secured by Epstein in [Florida](https://www.myflorida.com/) in 2007.*
+> *The legal issue she’s pressing involves the unusually broad non-prosecution agreement secured by Epstein in [Florida](https://www.myflorida.gov/) in 2007.*
 
-In it, they attempt to reinforce the arguments made in [Maxwell’s petition](https://www.supremecourt.gov/DocketPDF/24/24-1073/355252/20250424150144637_24-__PetitionForWritOfCertiorari.pdf) filed in April. The legal issue she’s pressing involves the unusually broad non-prosecution agreement secured by Epstein in [Florida](https://www.myflorida.com/) in 2007 that said, in part, that “the [United States](https://www.usa.gov/) also agrees that it will not institute any criminal charges against any potential co-conspirators of Epstein.”
+In it, they attempt to reinforce the arguments made in [Maxwell’s petition](https://www.supremecourt.gov/DocketPDF/24/24-1073/355252/20250424150144637_24-__PetitionForWritOfCertiorari.pdf) filed in April. The legal issue she’s pressing involves the unusually broad non-prosecution agreement secured by Epstein in [Florida](https://www.myflorida.gov/) in 2007 that said, in part, that “the [United States](https://www.usa.gov/) also agrees that it will not institute any criminal charges against any potential co-conspirators of Epstein.”
 
 Maxwell argues the agreement bars her subsequent sex trafficking charges in [New York](https://www.ny.gov/). She presents the matter as an opportunity for the justices to resolve a split among the federal appeals courts, regarding whether a promise on behalf of the “[United States](https://www.usa.gov/)” or the “Government” that’s made by a U.S. attorney in one district binds federal prosecutors in other districts.
 
@@ -44,7 +44,7 @@ The justices receive thousands of petitions annually and grant review in well fe
 
 Maxwell’s court filing doesn’t refer to the unusual out-of-court developments like her meeting last week with [Deputy Attorney General Todd Blanche](), one of [Trump](https://www.donaldjtrump.com/)’s former personal lawyers. But her attorney, David Oscar Markus, [made a direct appeal](https://x.com/domarkus/status/1949865440995397931) to [Trump](https://www.donaldjtrump.com/) on Monday in connection with the reply brief. He said:
 
-> *No one is above the law — not even the [Southern District of New York](https://www.justice.gov/usao-sdny). Our government made a deal, and it must honor it. The [United States](https://www.usa.gov/) cannot promise immunity with one hand in [Florida](https://www.myflorida.com/) and prosecute with the other in [New York](https://www.ny.gov/). [President](https://www.whitehouse.gov/) [Trump](https://www.donaldjtrump.com/) built his legacy in part on the power of a deal — and surely he would agree that when the [United States](https://www.usa.gov/) gives its word, it must stand by it. We are appealing not only to the [Supreme Court](https://www.supremecourt.gov/) but to the [President](https://www.whitehouse.gov/) himself to recognize how profoundly unjust it is to scapegoat Ghislaine Maxwell for Epstein’s crimes, especially when the government promised she would not be prosecuted.*
+> *No one is above the law — not even the [Southern District of New York](https://www.justice.gov/usao-sdny). Our government made a deal, and it must honor it. The [United States](https://www.usa.gov/) cannot promise immunity with one hand in [Florida](https://www.myflorida.gov/) and prosecute with the other in [New York](https://www.ny.gov/). [President](https://www.whitehouse.gov/) [Trump](https://www.donaldjtrump.com/) built his legacy in part on the power of a deal — and surely he would agree that when the [United States](https://www.usa.gov/) gives its word, it must stand by it. We are appealing not only to the [Supreme Court](https://www.supremecourt.gov/) but to the [President](https://www.whitehouse.gov/) himself to recognize how profoundly unjust it is to scapegoat Ghislaine Maxwell for Epstein’s crimes, especially when the government promised she would not be prosecuted.*
 
 There isn’t a set date by which the court must decide whether to take up Maxwell’s appeal. But by the time the justices decide, the [administration](https://www.whitehouse.gov/administration/)’s plans may have become clearer in terms of what sort of help, if any, it might want to give her. If it turns out the answer is that the government doesn’t want to help her at all, then this [Supreme Court](https://www.supremecourt.gov/) appeal could become all the more pivotal for her.
 
@@ -63,7 +63,7 @@ Jordan Rubin is the Deadline: Legal Blog writer. He was a prosecutor for the [Ne
 - political parties 
 - foreign countries 
 - state, local governments
-- [Florida](https://www.myflorida.com/)
+- [Florida](https://www.myflorida.gov/)
 - [New York](https://www.ny.gov/)
 - federal government 
 - [Constitution of the United States](https://constitution.congress.gov/)

@@ -18,7 +18,7 @@ Trump Won't Pardon Ghislaine Maxwell Because It Would Piss Off Citizens of MAGA-
 July 28, 2025, 6:00 AM EDT
 By Danny Cevallos, [MSNBC](https://www.msnbc.com/) legal analyst
 
-One of the biggest questions people were asking after [Department of Justice](https://www.justice.gov/) officials met with [Ghislaine Maxwell](https://www.msnbc.com/top-stories/latest/ghislaine-maxwell-mike-johnson-murkowski-epstein-trump-rcna220816) in a [Florida](https://www.myflorida.com/) courthouse late last week was: What did the DOJ plan on asking [Jeffrey Epstein’s former alleged enabler](https://www.msnbc.com/the-last-word/watch/lawrence-what-did-trump-s-doj-lawyer-offer-ghislaine-maxwell-to-answer-his-questions-today-243813445659), who’s now serving a 20-year federal sentence for sex trafficking?
+One of the biggest questions people were asking after [Department of Justice](https://www.justice.gov/) officials met with [Ghislaine Maxwell](https://www.msnbc.com/top-stories/latest/ghislaine-maxwell-mike-johnson-murkowski-epstein-trump-rcna220816) in a [Florida](https://www.myflorida.gov/) courthouse late last week was: What did the DOJ plan on asking [Jeffrey Epstein’s former alleged enabler](https://www.msnbc.com/the-last-word/watch/lawrence-what-did-trump-s-doj-lawyer-offer-ghislaine-maxwell-to-answer-his-questions-today-243813445659), who’s now serving a 20-year federal sentence for sex trafficking?
 
 Another big question: What are a [convicted sex trafficker like Maxwell’s](https://www.msnbc.com/deadline-white-house/deadline-legal-blog/supreme-court-ghislaine-maxwell-appeal-epstein-trump-rcna220042) answers worth?
 
