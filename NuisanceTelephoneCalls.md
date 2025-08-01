@@ -2,7 +2,7 @@
 layout: page
 tags: [Karoline, Leavitt, Mike Pence, Nikki Haley (2017-2018), Rex Tillerson (2017–2018), Mike Pompeo (2018–2021), Steven Mnuchin (2017–2021), Jim Mattis (2017–2019), Mark Esper (2019–2020), Christopher C. Miller (acting 2020–2021), Jeff Sessions (2017–2018), William Barr (2019–2020), Jeffrey A. Rosen (acting 2020–2021), Ryan Zinke (2017–2019), David Bernhardt (2019–2021), Sonny Perdue (2017–2021), Wilbur Ross (2017–2021), Alexander Acosta (2017–2019), Eugene Scalia (2019–2021), Tom Price (2017), Alex Azar (2018–2021), Ben Carson (2017–2021), Elaine Chao (2017–2021), Rick Perry (2017–2019), Dan Brouillette (2019–2021), Betsy DeVos (2017–2021), David Shulkin (2017–2018), Robert Wilkie (2018–2021), John F. Kelly (2017), Kirstjen Nielsen (2017–2019), Kevin McAleenan (acting 2019), Chad Wolf (acting 2019–2021), Sean Spicer (2017), Sarah Huckabee Sanders (2017–2019), Stephanie Grisham (2019–2020), Kayleigh McEnany (2020–2021), Steven Mnuchin (2017–2021), Lee Zeldin (2025-), Kelly Loeffler (2025-), Pam Bondi (2025-), John Ratcliffe (2025-), Tulsi Gabbard (2025-), Russ Vought (2025-), Brooke Rollins (2025-), Howard Lutnick (2025-), Pete Hegseth (2025-), Linda McMahon (2025-), Chris Wright (2025-), Robert F Kennedy Jr. (2025-), Kristi Noem (2025-), Scott Turner (2025-), Doug Burgum (2025-), Lori Chavez-DeRemer (2025-), Marco Rubio (2025-), Doug Collins (2025-), Sean Duffy (2025-), Scott Bessent (2025-), Jamieson Greer (2025-),]
 categories: [Telephone Numbers]
-date: 2025-07-30 9:10 PM
+date: 2025-07-31 7:46 PM
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description: 
@@ -18,6 +18,9 @@ The telephone numbers below have called and there is an empty person on the othe
 
 | Telephone Number | Location | Date Time[^11] | Caller | Social Media |
 |---|---|---|---|---|
+| <a href="tel:+18033050317">+1 (803) 305-0317</a> | SC. Sumter | 2025-07-31 03:04 PM | — | |
+| <a href="tel:+18035614963">+1 (803) 561-4963</a> | SC. Columbia | 2025-07-31 01:27 PM | — | |
+| <a href="tel:+18035200147">+1 (803) 520-0147</a> | SC. Lexington | 2025-07-31 12:06 PM | — | |
 | <a href="tel:+18036948505">+1 (803) 694-8505</a> | SC. Whitmire | 2025-07-30 06:37 PM | — | |
 | <a href="tel:+18039450969">+1 (803) 945-0969</a> | SC. | 2025-07-30 02:23 PM | — | |
 | <a href="tel:+18033884584">+1 (803) 388-4584</a> | SC. Prosperity | 2025-07-30 12:59 PM | — | |

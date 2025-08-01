@@ -1,5 +1,5 @@
 # second stage of nuisance calls formatting. This adds a sort key for sorting. 
-# usage: cat YYYY-MM-DD.md | awk -f telLink.awk | awk -f timestamp.awk | sort -t@ +0r -1 +1 | tee new.md
+# usage: cat YYYY-MM-DD.md | awk -f telLink.awk | awk -f timestamp.awk | sort -t@ +0r -1 +1 | awk -f rmTimestamp.md | tee new.md
 # edit formatted file to remove sort key: ^.*@
 BEGIN {
   FS = "|"
