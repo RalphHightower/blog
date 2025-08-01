@@ -60,7 +60,7 @@ Allison Detzel contributed.
 - foreign countries 
 - [中国政府网_中央人民政府门户网站 (CN)](https://www.gov.cn/)
 - [Présidence de la République de Madagascar (MG)](https://www.presidence.gov.mg/)
-- [Estados Unidos Mexicano (MX)](https //www.gob.mx/)
+- [Estados Unidos Mexicano (MX)](https://www.gob.mx/)
 - state, local governments 
 - federal government 
 - [Constitution of the United States](https://constitution.congress.gov/)
