@@ -1,29 +1,29 @@
-# First step to format telephone log file. This formats telephone numbers to a linkable format for Markdown files 
 BEGIN {
   FS = "|"
-  PHONE = 1
-  LOCATION  = 2
-  DATETIME = 3
-  CALLER = 4
-  SOCIALMEDIA = 5
+  PHONE = 2
+  LOCATION  = 3
+  DATETIME = 4
+  CALLER = 5
+  SOCIALMEDIA = 6
+  NANPA = "+1"
+  LINK = "<a href=\"tel:+1"
   }
-{
+{ if (index($0, NANPA) > 0) {
+    #printf("DEBUG: %s\n", $PHONE)
+    start = index($PHONE, NANPA)
+    raw = substr($PHONE, start + 2, 10)
+    areacode = "(" substr($PHONE, start + 2, 3) ") "
+    exchange = substr($PHONE, start + 5, 3)
+    subscriber = substr($PHONE, start + 8, 4)
+    $PHONE = areacode exchange "-" subscriber
+    $PHONE = raw
+    #printf("DEBUG: $PHONE=%s\n", $PHONE)
+    }
   link = "| " linkTele($PHONE)
-  dt = $DATETIME 
-  if (substr(dt, 1, 1) == " ")
-    dt = substr(dt, 2)
-  if (substr(dt, length(dt), 1) == " ")
-    dt = substr(dt, 1, length(dt) - 1)
-  cntdt = split(dt, parts, " ")
-  date = parts[1]
-  time = parts[2]
-  noon = toupper(parts[3])
-  voiceMail = (cntdt > 3 ? " " parts[4] : "")
-  $DATETIME = date " " (length(time) == 5 ? time : "0" time) " " noon voiceMail
+  #printf("%s\n", $0)
   for (ndx = LOCATION; ndx <= SOCIALMEDIA; ndx++) {
-    $ndx = $ndx ""
     if (ndx <= NF)
-      link = link " | " (ndx != CALLER ? $ndx : (length($ndx) == 0 ? "—" : $ndx))
+      link = link " | " $ndx
     else
       link = link " | "
     }
