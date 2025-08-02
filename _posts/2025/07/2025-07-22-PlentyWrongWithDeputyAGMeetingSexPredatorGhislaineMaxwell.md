@@ -37,9 +37,9 @@ Maxwell’s lawyer, Davis Oscar Markus, [responded on X](https://x.com/domarkus/
 
 To try to understand what’s happening, let’s recap how we got here and then look at where we could be headed.
 
-Maxwell [is in prison](https://www.justice.gov/usao-sdny/pr/ghislaine-maxwell-sentenced-20-years-prison-conspiring-jeffrey-epstein-sexually-abuse) after a jury found her guilty in 2021 of conspiring with Jeffrey Epstein to sexually abuse minors. She and Epstein were both charged during the first [Trump](https://www.donaldjtrump.com/) administration. Maxwell currently has a [release date](https://www.bop.gov/inmateloc/) in 2037, and she has a [pending petition](https://www.supremecourt.gov/DocketPDF/24/24-1073/355252/20250424150144637_24-__PetitionForWritOfCertiorari.pdf) with the [Supreme Court](https://www.supremecourt.gov/) to try to overturn her conviction. The [Justice Department](https://www.justice.gov/) [opposed her petition](https://www.supremecourt.gov/DocketPDF/24/24-1073/365132/20250714161434468_24-1073_Maxwell_Opp.pdf) just last week, and we don’t know yet whether the high court will take up her appeal; we may hear from the court about that in the fall.
+Maxwell [is in prison](https://www.justice.gov/usao-sdny/pr/ghislaine-maxwell-sentenced-20-years-prison-conspiring-jeffrey-epstein-sexually-abuse) after a jury found her guilty in 2021 of conspiring with Jeffrey Epstein to sexually abuse minors. She and Epstein were both charged during the first [Trump](https://www.donaldjtrump.com/) [administration](https://www.whitehouse.gov/administration/). Maxwell currently has a [release date](https://www.bop.gov/inmateloc/) in 2037, and she has a [pending petition](https://www.supremecourt.gov/DocketPDF/24/24-1073/355252/20250424150144637_24-__PetitionForWritOfCertiorari.pdf) with the [Supreme Court](https://www.supremecourt.gov/) to try to overturn her conviction. The [Justice Department](https://www.justice.gov/) [opposed her petition](https://www.supremecourt.gov/DocketPDF/24/24-1073/365132/20250714161434468_24-1073_Maxwell_Opp.pdf) just last week, and we don’t know yet whether the high court will take up her appeal; we may hear from the court about that in the fall.
 
-Meanwhile, [Trump](https://www.donaldjtrump.com/) has faced intense [political backlash](https://www.washingtonpost.com/politics/2025/07/20/trump-epstein-files-political-fallout-risks/) from some of his supporters, who have questioned his administration’s commitment to uncovering and releasing the full scope of information related to Epstein, amid questions of [Trump](https://www.donaldjtrump.com/)’s personal ties to the disgraced financier. Epstein died in custody in 2019 while awaiting trial, in what the medical examiner deemed a suicide.
+Meanwhile, [Trump](https://www.donaldjtrump.com/) has faced intense [political backlash](https://www.washingtonpost.com/politics/2025/07/20/trump-epstein-files-political-fallout-risks/) from some of his supporters, who have questioned his [administration](https://www.whitehouse.gov/administration/)’s commitment to uncovering and releasing the full scope of information related to Epstein, amid questions of [Trump](https://www.donaldjtrump.com/)’s personal ties to the disgraced financier. Epstein died in custody in 2019 while awaiting trial, in what the medical examiner deemed a suicide.
 
 With that brief background in mind, let’s examine the incentives.
 
@@ -55,7 +55,7 @@ That said, it’s difficult to analyze the value of Maxwell’s potential cooper
 
 In that respect, [Blanche](https://twitter.com/DAGToddBlanche?) and the [Trump](https://www.donaldjtrump.com/) [DOJ](https://www.justice.gov/) may have embarked on a new leg of this journey that is difficult to carry out successfully, especially if they intend to rely at all on third parties (like judges and juries) as opposed to clemency alone, over which [Trump](https://www.donaldjtrump.com/) has unilateral control.
 
-Subscribe to the [Deadline: Legal Newsletter](https://link.msnbc.com/join/5ck/msnbc-deadlinelegal-signup-inline) for expert analysis on the top legal stories of the week, including updates from the [Supreme Court](https://www.supremecourt.gov/) and developments in the [Trump](https://www.donaldjtrump.com/) administration’s legal cases.
+Subscribe to the [Deadline: Legal Newsletter](https://link.msnbc.com/join/5ck/msnbc-deadlinelegal-signup-inline) for expert analysis on the top legal stories of the week, including updates from the [Supreme Court](https://www.supremecourt.gov/) and developments in the [Trump](https://www.donaldjtrump.com/) [administration](https://www.whitehouse.gov/administration/)’s legal cases.
 
 Jordan Rubin is the Deadline: Legal Blog writer. He was a prosecutor for the New York County District Attorney’s Office in Manhattan and is the author of “Bizarro," a book about the secret war on synthetic drugs. Before he joined [MSNBC](https://www.msnbc.com/), he was a legal reporter for Bloomberg Law.
 
@@ -75,17 +75,14 @@ Jordan Rubin is the Deadline: Legal Blog writer. He was a prosecutor for the New
     - [US Courts](https://www.uscourts.gov/)
     - [Department of Justice (DOJ)](https://www.justice.gov/)
     - [BOP: Federal Bureau of Prisons Web Site](https://www.bop.gov/)
-   - [Department of State (DOS)](https://www.state.gov/)
+    - [Immigration andCustomsEnforcement(ICE)](https://www.ice.gov)
+    - [Department of State (DOS)](https://www.state.gov/)
     - [Federal Bureau of Investigation (FBI)](https://www.fbi.gov/)
         - [James Comey](https://www.fbi.gov/history/directors/james-b-comey)
     - [Congress](https://www.congress.gov/)
-    - [President of the United States (POTUS)](https://www.whitehouse.gov/)
         - [Senate](https://www.senate.gov/)
         - [House of Representatives](https://www.house.gov/)
-            - [House Rules Committee](https://rules.house.gov/)
-            - [Mike Johnson (T-LA4)](https://mikejohnson.house.gov/)
-                - [House Speaker](https://www.speaker.gov/) 
-            - [Thomas Massie (T-KY4)](https://massie.house.gov/)
+    - [President of the United States (POTUS)](https://www.whitehouse.gov/)
     - [White House (WH)](https://www.whitehouse.gov/)
     - [Donald J Trump](https://www.donaldjtrump.com/)
         - [President Donald Trump (45)](https://trumpwhitehouse.archives.gov/)

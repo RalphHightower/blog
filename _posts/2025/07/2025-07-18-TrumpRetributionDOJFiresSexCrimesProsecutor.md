@@ -75,14 +75,14 @@ Lisa Rubin is an [MSNBC](https://www.msnbc.com/) legal correspondent and a forme
     - [Federal Bureau of Investigation (FBI)](https://www.fbi.gov/)
         - [James Comey](https://www.fbi.gov/history/directors/james-b-comey)
     - [Congress](https://www.congress.gov/)
-    - [Senate](https://www.senate.gov/)
-    - [House of Representatives](https://www.house.gov/)
+        - [Senate](https://www.senate.gov/)
+        - [House of Representatives](https://www.house.gov/)
     - [President of the United States (POTUS)](https://www.whitehouse.gov/)
     - [White House (WH)](https://www.whitehouse.gov/)
     - [President Joe Biden](https://bidenwhitehouse.archives.gov/)
+    - [Donald J Trump](https://www.donaldjtrump.com/)
     - [President Donald Trump (45)](https://trumpwhitehouse.archives.gov/)
     - [President Donald Trump (47)](https://www.whitehouse.gov/administration/donald-j-trump/)
-        - [President Trump (47) Administration](https://www.whitehouse.gov/administration/)
         - [President Trump Administration (47)](https://www.whitehouse.gov/administration/)
 - politics
 - prosecuted
