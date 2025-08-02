@@ -18,6 +18,20 @@ title: "Trump: Air Force One Frequent Flyer Miles"
 
 | Time | Location |
 |---|---|
+| | **Sunday, August 3 2025** |
+| 2:30 PM ⛳️| Out-of-Town Travel Pool Call Time<br />Out-of-Town Travel Pool<br />[Trump National Golf Club Bedminster](https://www.trumpnationalbedminster.com/) |
+| 5:00 PM | The President departs [Bedminster, New Jersey](https://www.trumpnationalbedminster.com/)<br />[Trump National Golf Club Bedminster](https://www.trumpnationalbedminster.com/) Out-of-Town Travel Pool, en route The [White House](https://www.whitehouse.gov/)<br />Closed Press |
+| 6:40 PM | The President arrives The [White House](https://www.whitehouse.gov/)<br />The [White House](https://www.whitehouse.gov/) Open Press |
+| | **Saturday, August 2 2025** |
+| 🏌‍♂️⛳️| The President ~~has no public events scheduled~~plays golf🏌‍♂️ (other than playing golf ⛳️🏌<br />Out-of-Town Travel Pool<br />[Trump National Golf Club Bedminster](https://www.trumpnationalbedminster.com/) |
+| 10:00 AM | Out-of-Town Travel Pool Call Time<br />Out-of-Town Travel Pool |
+| | **Friday, August 1 2025** |
+| 9:00 AM | In-Town Pool Call Time<br />In-Town Pool |
+| 11:00 AM | The President receives his Intelligence Briefing<br />[Cabinet Room](https://www.trumpnationalbedminster.com/) Closed Press |
+| 2:40 PM | Out-of-Town Travel Pool Call Time<br />Out-of-Town Travel Pool |
+| 4:00 PM | The President departs The [White House](https://www.whitehouse.gov/) en route [Bedminster, New Jersey](https://www.trumpnationalbedminster.com/)<br />[Trump National Golf Club Bedminster](https://www.trumpnationalbedminster.com/) <br />The [White House](https://www.whitehouse.gov/) Open Press |
+| 5:40 PM ⛳️| The President arrives [Bedminster, New Jersey](https://www.trumpnationalbedminster.com/)<br />[Trump National Golf Club Bedminster](https://www.trumpnationalbedminster.com/) Out-of-Town Travel Pool<br />Out-of-Town Travel Pool |
+| | 🔥 [White House](https://www.whitehouse.gov/) 💣| 
 | | **Tuesday, July 29 2025** |
 | 12:45 AM ⛳️| Out-of-Town Travel Pool Call Time [5:45 AM Local]<br />[Trump International Golf Links Aberdeen](https://www.trumpgolfscotland.com/) |
 | 5:00 AM ⛳️| The [President](https://www.donaldjtrump.com/) participates in the Grand Opening Ceremony of [Trump International Golf Links Aberdeen](https://www.trumpgolfscotland.com/) [10:00 AM Local]<br />[Trump International Golf Links Aberdeen](https://www.trumpgolfscotland.com/) Pre-Credentialed Media |
