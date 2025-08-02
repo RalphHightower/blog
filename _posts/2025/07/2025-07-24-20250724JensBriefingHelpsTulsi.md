@@ -39,7 +39,7 @@ Subscribe to the MSNBC Daily Newsletter: https://link.msnbc.com/join/5ck/msnbc..
 ----
 - media
     - [MSNBC](https://www.msnbc.com=)
-        - [The Briefing With Jen Psaki]()
+        - [The Briefing With Jen Psaki](https://www.msnbc.com/jen-psaki)
             - Jen Psaki
 - political parties
     - [Democrat Party](https://www.democrats.org/)
@@ -54,14 +54,14 @@ Subscribe to the MSNBC Daily Newsletter: https://link.msnbc.com/join/5ck/msnbc..
 - Trump crime businesses
     - Trump crime family
         - [Donald J Trump](https://www.donaldjtrump.com/)
+             - [President Donald Trump (45)](https://trumpwhitehouse.archives.gov/)
+            - [President Donald Trump (47)](https://www.whitehouse.gov/administration/donald-j-trump/)
+            - [President Trump (47) Administration](https://www.whitehouse.gov/administration/)
+            - [President Trump (47) Cabinet](https://www.whitehouse.gov/administration/the-cabinet/)
         - [Eric F. Trump / LinkedIn](https://www.linkedin.com/in/erictrump/)
         - [Donald Trump Jr. / LinkedIn](https://www.linkedin.com/in/donald-trump-jr-4454b862/)
         - Ivanka Trump
         - Jared Kushner
-         - [President Donald Trump (45)](https://trumpwhitehouse.archives.gov/)
-        - [President Donald Trump (47)](https://www.whitehouse.gov/administration/donald-j-trump/)
-        - [President Trump (47) Administration](https://www.whitehouse.gov/administration/)
-        - [President Trump (47) Cabinet](https://www.whitehouse.gov/administration/the-cabinet/)
             - [Marco Rubio](https://www.state.gov/biographies/marco-rubio/)
             - [Marco Rubio – LinkedIn](https://www.linkedin.com/in/marcorubio16/)
                 - [Pete Hegseth](https://www.defense.gov/About/Biographies/Biography/Article/4040890/hon-pete-hegseth/)

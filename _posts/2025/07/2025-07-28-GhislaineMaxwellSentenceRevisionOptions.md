@@ -30,7 +30,7 @@ That’s because the criminal procedure rule is stricter when more than a year h
 
 > *(A) information not known to the defendant until one year or more after sentencing; (B) information provided by the defendant to the government within one year of sentencing, but which did not become useful to the government until more than one year after sentencing; or (C) information the usefulness of which could not reasonably have been anticipated by the defendant until more than one year after sentencing and which was promptly provided to the government after its usefulness was reasonably apparent to the defendant.*
 
-Mindful that we don’t know what Maxwell knows or what she told [Deputy Attorney General Todd Blanche](https://www.justice.gov/dag/) in their [highly unusual](https://www.msnbc.com/morning-joe/watch/-beyond-unusual-lisa-rubin-sounds-alarm-on-doj-meeting-with-ghislaine-maxwell-243699269650) meetings last week, let’s examine each subsection to see the difficulty that the [DOJ]() could face if it wants to go the Rule 35 route.
+Mindful that we don’t know what Maxwell knows or what she told [Deputy Attorney General Todd Blanche](https://www.justice.gov/dag/) in their [highly unusual](https://www.msnbc.com/morning-joe/watch/-beyond-unusual-lisa-rubin-sounds-alarm-on-doj-meeting-with-ghislaine-maxwell-243699269650) meetings last week, let’s examine each subsection to see the difficulty that the [DOJ](https://www.justice.gov/) could face if it wants to go the Rule 35 route.
 
 As to point (A) — “information not known to the defendant until one year or more after sentencing” — it would be odd if Maxwell came into new information only recently. The whole Epstein saga is about things that happened years ago.
 
