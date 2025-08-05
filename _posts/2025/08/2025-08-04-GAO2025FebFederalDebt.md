@@ -44,17 +44,21 @@ In the past, debt would spike during recessions or crises, but then decline afte
 Persistent and widening annual budget deficits. When the federal government spends more than it collects in revenue, it borrows money to make up that deficit. The federal debt is the accumulation of this borrowing.
 
 Deficits Are Growing Because Spending Outpaces Revenue
+
 <line graph>
-Despite strong economic growth, the fiscal year 2024 deficit was more than $1.8 trillion, the fifth year in a row the deficit exceeded $1 trillion.
+
+Despite strong economic growth, the fiscal year 2024 deficit was more than \$1.8 trillion, the fifth year in a row the deficit exceeded \$1 trillion.
 
 A structural imbalance between revenue and spending policy is driving the debt.
-Tax revenues have not kept pace with spending and are not projected to catch up over the long term, under current policy.
-A few drivers are causing spending to grow:
- 
-Spending on Medicare and Social Security are increasing as the U.S. population ages and health care costs grow rapidly.
-The government has to pay more in interest as it accumulates debt.
-Spending can increase suddenly and dramatically as the government responds to unexpected events like public health crises, natural disasters, and military conflicts.
-How Much Interest Is the Government Paying on the Debt?
+
+- Tax revenues have not kept pace with spending and are not projected to catch up over the long term, under current policy.
+- A few drivers are causing spending to grow:
+    - Spending on Medicare and Social Security are increasing as the U.S. population ages and health care costs grow rapidly.
+    - The government has to pay more in interest as it accumulates debt.
+    - Spending can increase suddenly and dramatically as the government responds to unexpected events like public health crises, natural disasters, and military conflicts.
+
+#### How Much Interest Is the Government Paying on the Debt?
+
 As federal debt grows and interest rates rise, the government's cost to borrow increases and interest spending grows.
 
 Net Interest Spending Now Exceeds Some of the Largest Categories of Federal Spending
@@ -83,7 +87,7 @@ Congress and the administration will need to make decisions about spending progr
 
 For mandatory spending programs, anyone who is eligible receives benefits, so Congress does not approve program spending each year.
 
-Revenue will also be an important piece of the puzzle. For example, in fiscal year 2024, we estimated that tax deductions, credit, and other tax benefits reduced federal revenue by $1.6 trillion, compared to total revenue collections of almost $4.9 trillion. It is not always clear how successful these tax policies are at meeting their goals.
+Revenue will also be an important piece of the puzzle. For example, in fiscal year 2024, we estimated that tax deductions, credit, and other tax benefits reduced federal revenue by \$1.6 trillion, compared to total revenue collections of almost \$4.9 trillion. It is not always clear how successful these tax policies are at meeting their goals.
 
 Medicare and Social Security cards icon
 
@@ -125,14 +129,13 @@ There are other opportunities for the federal government to improve its fiscal p
         - [U.S. European Command (USEUCOM)](https://www.eucom.mil/)
         - [U.S. Air Force](https://www.af.mil/)
         - [U.S. Army](https://www.army.mil/)
-        - [U.S. Army's 250th Birthday Celebration](https://www.army.mil/1775/)
         - [U.S. Coast Guard (USCG)](https://www.uscg.mil/)
         - [U.S. Marine Corps](https://www.marines.mil/)
         - [National Guard](https://www.nationalguard.mil/)
         - [U.S. Navy](https://www.navy.mil/)
         - [National Guard](https://www.nationalguard.mil/)
         - [U.S. Space Command](https://www.spacecom.mil/)
-            - [Social Security Administration (SSA)](https://www.ssa.gov/)
+    - [Social Security Administration (SSA)](https://www.ssa.gov/)
     - [Medicare](https://www.medicare.gov/)
     - [Medicaid](https://www.medicaid.gov/)
     - [Immigration and Customs Enforcement (ICE)](https://www.ice.gov/)
