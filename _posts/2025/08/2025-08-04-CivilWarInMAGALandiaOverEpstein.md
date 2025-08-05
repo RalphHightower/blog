@@ -2,7 +2,7 @@
 layout: post
 tags: [media, MSNBC, Ali Velshi, organizations, companies, foreign countries, state local governments, Florida (FL), Texas (TX), political parties, Trumpian Party, Democrat Party, Federal Government, Constitution of the United States, Supreme Court of the United States (SCOTUS), US Courts, Department of Justice (DOJ), Northern District of Florida / Northern District of Florida, Federal Bureau of Prisons (BOP), Federal Bureau of Prisons (BOP), FCI Tallahassee, FPC Bryan, Department of State (DOS), Federal Bureau of Investigation (FBI), James Comey, Congress, Senate, House of Representatives, James Comer (T-KY1), Oversight Committee, Mike Johnson (T-LA4), House Speaker, President of the United States (POTUS), White House (WH), Trump crime family, Donald J Trump, President Donald Trump (45), President Donald Trump (47), President Trump (47) Administration, President Trump (47) Cabinet, JD Vance, Vice President JD Vance, Pam Bondi, Office of the Deputy Attorney General / Office of the Deputy Attorney General, Todd Blanche / LinkedIn, Kash Patel, Deputy Director Dan Bongino — FBI, tariffs, politics, stupidity, grift, self-dealing, corruption, con, crime, cryptocurrency, criminal associates, criminal businesses, criminal partners, human trafficking, sex trafficking, pedophile, Jeffrey Epstein, Ghislaine Maxwell]
 categories: [Jeffrey Epstein, Ghislaine Maxwell, Trump Crime Family, Donald Trump]
-date: 
+date: 2025-08-04 9:07 PM
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
