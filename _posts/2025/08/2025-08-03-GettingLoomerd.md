@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [media, MSNBC, organizations, companies, foreign countries, state local governments, Florida (FL), Texas (TX), political parties, Trumpian Party, Democrat Party, Federal Government, Constitution of the United States, Supreme Court of the United States (SCOTUS), US Courts, Department of Justice (DOJ), Northern District of Florida / Northern District of Florida, Federal Bureau of Prisons (BOP), Federal Bureau of Prisons (BOP), FCI Tallahassee, FPC Bryan, Department of State (DOS), Department of Defense (DOD), Joint Chiefs of Staff (JCS), Army, U.S. Military Academy West Point, Federal Bureau of Investigation (FBI), James Comey, Congress, Senate, House of Representatives,  Oversight Committee, Mike Johnson (T-LA4), House Speaker, President of the United States (POTUS), White House (WH), Maurene Comey, Trump crime family, Donald J Trump, President Donald Trump (45), President Donald Trump (47), President Trump (47) Administration, President Trump (47) Cabinet, JD Vance, Vice President JD Vance, Pam Bondi, Office of the Deputy Attorney General / Office of the Deputy Attorney General, Todd Blanche / LinkedIn, Kash Patel, Deputy Director Dan Bongino — FBI, tariffs, politics, stupidity, grift, self-dealing, corruption, con, crime, cryptocurrency, criminal associates, criminal businesses, criminal partners, Laura Loomer, Dr. Janette Nesheiwat / LinkedIn, Adam Schleifer, Brian Walsh, Thomas Boodry, Maggie Dougherty, Timothy Haugh, Wendy Noble, Mike Waltz, Alex Wong, Dr. Vinay Prasad, April Falcon Doss, Jen Easterly]
+tags: [media, MSNBC, organizations, companies, foreign countries, state local governments, Florida (FL), Texas (TX), political parties, Trumpian Party, Democrat Party, Federal Government, Constitution of the United States, Supreme Court of the United States (SCOTUS), US Courts, Department of Justice (DOJ), Northern District of Florida / Northern District of Florida, Federal Bureau of Prisons (BOP), Federal Bureau of Prisons (BOP), FCI Tallahassee, FPC Bryan, Cybersecurity and Infrastructure Agency (CISA), Department of State (DOS), Department of Defense (DOD), Joint Chiefs of Staff (JCS), Army, U.S. Military Academy West Point, Federal Bureau of Investigation (FBI), James Comey, Congress, Senate, House of Representatives,  Oversight Committee, Mike Johnson (T-LA4), House Speaker, President of the United States (POTUS), White House (WH), Maurene Comey, Trump crime family, Donald J Trump, President Donald Trump (45), President Donald Trump (47), President Trump (47) Administration, President Trump (47) Cabinet, JD Vance, Vice President JD Vance, Pam Bondi, Office of the Deputy Attorney General / Office of the Deputy Attorney General, Todd Blanche / LinkedIn, Kash Patel, Deputy Director Dan Bongino — FBI, tariffs, politics, stupidity, grift, self-dealing, corruption, con, crime, cryptocurrency, criminal associates, criminal businesses, criminal partners, Laura Loomer, Dr. Janette Nesheiwat / LinkedIn, Adam Schleifer, Brian Walsh, Thomas Boodry, Maggie Dougherty, Timothy Haugh, Wendy Noble, Mike Waltz, Alex Wong, Dr. Vinay Prasad, April Falcon Doss, Jen Easterly]
 categories: [Donald Trump, Laura Loomer]
 date: 2025-08-03 8:22 PM
 #excerpt: ''
@@ -20,7 +20,7 @@ July 31, 2025, 4:36 PM EDT
 By Ja'han Jones
 
 📰 Main Developments
-Job Rescinded at West Point: The [U.S. Army](https://www.army.mil/) withdrew its offer to Jen Easterly, former [Biden](https://bidenwhitehouse.archives.gov/) [administration](https://www.whitehouse.gov/administration/) official and ex-director of CISA, to serve as a distinguished chair at West Point’s social sciences department.
+Job Rescinded at West Point: The [U.S. Army](https://www.army.mil/) withdrew its offer to Jen Easterly, former [Biden](https://bidenwhitehouse.archives.gov/) [administration](https://www.whitehouse.gov/administration/) official and ex-director of [CISA](https://www.cisa.gov/), to serve as a distinguished chair at West Point’s social sciences department.
 
 Triggering Complaint: The decision followed public complaints by far-right activist [Laura Loomer](https://www.loomered.com/), who alleged a vetting failure and misinformation about Easterly’s ties to controversial figures.
 
@@ -29,7 +29,7 @@ Triggering Complaint: The decision followed public complaints by far-right activ
 [Trump](https://www.donaldjtrump.com/)’s Personnel Shake-ups: Since January, over a dozen government officials criticized by [Loomer](https://www.loomered.com/) have been dismissed, pointing to her outsized influence over MAGA-aligned personnel decisions.
 
 🔥 Political Undercurrents
-CISA Under Fire: [Trump](https://www.donaldjtrump.com/) and allies have long accused the agency of anti-conservative bias, despite it being founded during his own term.
+[CISA](https://www.cisa.gov/) Under Fire: [Trump](https://www.donaldjtrump.com/) and allies have long accused the agency of anti-conservative bias, despite it being founded during his own term.
 
 Disinfo Misdirection: [Loomer](https://www.loomered.com/) falsely linked Easterly to Nina Jankowicz and [Biden]()’s Disinformation Governance Board—both women denied any connection.
 
@@ -75,6 +75,7 @@ This reflects a broader pattern: the entanglement of personnel decisions with fr
         - [FCI Tallahassee](https://www.bop.gov/locations/institutions/tal/)
         - [FPC Bryan](https://www.bop.gov/locations/institutions/bry/)
     - [Department of State (DOS)](https://www.state.gov/)
+    - [Cybersecurity and Infrastructure Security Agency (CISA)](https://www.cisa.gov/)
     - [Department of Defense (DOD)](https://www.defense.gov/)
         - [Joint Chiefs of Staff (JCS)](https://www.jcs.mil/)
             - [Army](https://www.army.mil/)
