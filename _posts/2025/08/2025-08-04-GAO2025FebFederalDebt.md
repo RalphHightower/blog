@@ -1,8 +1,8 @@
 ---
 layout: post
-tags: []
-categories: []
-#date: 2019-06-25 13:14:15
+tags: [media, organizations, political parties, universities, foreign countries, state local governments, federal government, Constitution of the United States, Supreme Court of the United States (SCOTUS), US Courts, Department of Justice (DOJ), Treasury Department, Internal Revenue Service (IRS), Department of Commerce (DOC, Bureau of Labor Statistics, General Accounting Office (GAO), Department of Defense (DOD), Joint Chiefs of Staff (JCS), U.S. Africa Command (AFRICOM), U.S. Central Command (CENTCOM), U.S. Northern Command (USNORTHCOM), Indo-Pacific Command (USINDOPACOM), U.S. Southern Command (SOUTHCOM), U.S. Special Operations Command (USSOCOM), Strategic Command (USSTRATCOM), U.S. European Command (USEUCOM), U.S. Air Force, U.S. Army, U.S. Army’s 250th Birthday Celebration, U.S. Coast Guard (USCG), U.S. Marine Corps, National Guard, U.S. Navy, National Guard, U.S. Space Command, Social Security Administration (SSA), Medicare, Medicaid, Immigration and Customs Enforcement (ICE), Department of Homeland Security (DHS), Customs and Border Patrol (CBP), Congress, Senate, House of Representatives, President of the United States (POTUS), White House (WH), federal debt, federal deficit]
+categories: [federal government, fiscal health]
+date: 2025-08-04 8:52 PM
 #excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
@@ -97,3 +97,51 @@ Bar chart to money icon
 
 There are other opportunities for the federal government to improve its fiscal position, though they wouldn’t be enough to put the nation on a sustainable fiscal path. The government could save billions of dollars if it limited improper payments—those that should not have been made or that were made in the wrong amount. The government could also raise revenue by collecting a portion of the hundreds of billions of dollars in taxes that are owed but not paid.
 
+- media
+- organizations 
+- political parties 
+- universities 
+- foreign countries 
+- state, local governments 
+- federal government 
+- [Constitution of the United States](https://constitution.congress.gov/)
+    - [Supreme Court of the United States (SCOTUS)](https://www.supremecourt.gov/)
+    - [US Courts](https://www.uscourts.gov/)
+    - [Department of Justice (DOJ)](https://www.justice.gov/)
+    - [Treasury Department](https://home.treasury.gov/)
+    - [Internal Revenue Service (IRS)](https://www.irs.gov/)
+    - [Department of Commerce (DOC](https://www.commerce.gov/)
+    - [Bureau of Labor Statistics](https://www.bls.gov/)
+    - [General Accounting Office (GAO)](https://www.gao.gov/)
+    - [Department of Defense (DOD)](https://www.defense.gov/)
+    - [Joint Chiefs of Staff (JCS)](https://www.jcs.mil/)
+        - [U.S. Africa Command (AFRICOM)](https://www.africom.mil/)
+        - [U.S. Central Command (CENTCOM)](https://www.centcom.mil/)
+        - [U.S. Northern Command (USNORTHCOM)](https://www.northcom.mil/)
+        - [Indo-Pacific Command (USINDOPACOM)](https://www.pacom.mil/)
+        - [U.S. Southern Command (SOUTHCOM)](http://www.southcom.mil/)
+        - [U.S. Special Operations Command (USSOCOM)](https://www.socom.mil/)
+        - [Strategic Command (USSTRATCOM)](http://www.stratcom.mil/)
+        - [U.S. European Command (USEUCOM)](https://www.eucom.mil/)
+        - [U.S. Air Force](https://www.af.mil/)
+        - [U.S. Army](https://www.army.mil/)
+        - [U.S. Army's 250th Birthday Celebration](https://www.army.mil/1775/)
+        - [U.S. Coast Guard (USCG)](https://www.uscg.mil/)
+        - [U.S. Marine Corps](https://www.marines.mil/)
+        - [National Guard](https://www.nationalguard.mil/)
+        - [U.S. Navy](https://www.navy.mil/)
+        - [National Guard](https://www.nationalguard.mil/)
+        - [U.S. Space Command](https://www.spacecom.mil/)
+            - [Social Security Administration (SSA)](https://www.ssa.gov/)
+    - [Medicare](https://www.medicare.gov/)
+    - [Medicaid](https://www.medicaid.gov/)
+    - [Immigration and Customs Enforcement (ICE)](https://www.ice.gov/)
+    - [Department of Homeland Security (DHS)](https://www.dhs.gov/)
+    - [Customs and Border Patrol (CBP)](https://www.cbp.gov/)
+    - [Congress](https://www.congress.gov/)
+        - [Senate](https://www.senate.gov/)
+        - [House of Representatives](https://www.house.gov/)
+    - [President of the United States (POTUS)](https://www.whitehouse.gov/)
+    - [White House (WH)](https://www.whitehouse.gov/)
+- federal debt 
+- federal deficit 
