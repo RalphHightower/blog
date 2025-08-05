@@ -37,7 +37,7 @@ In the past, debt would spike during recessions or crises, but then decline afte
 
 ##### Debt Held by the Public Is Projected to Grow Faster Than the Economy
 
-##### Unless spending and revenue policies change, the debt will continue to grow faster than the economy—even during times of growth.
+###### Unless spending and revenue policies change, the debt will continue to grow faster than the economy—even during times of growth.
 
 ### What Is Driving the Growing Debt?
 
@@ -66,7 +66,9 @@ Net Interest Spending Now Exceeds Some of the Largest Categories of Federal Spen
 By 2044, interest costs will exceed spending for Social Security (the largest federal program), absent a change in fiscal policy.
 
 Interest Spending Increases Relative to Other Federal Spending
+
 <pie chart>
+
 From 2009 to 2022, interest rates were at historic lows. This helped keep down the nation’s borrowing costs. Higher interest rates will drive up interest spending.
 
 The government will likely need to borrow more to pay for increased interest costs. That will further increase interest spending and add to future debt.
@@ -75,29 +77,27 @@ The government will likely need to borrow more to pay for increased interest cos
 
 Congress and the administration will need to make major changes to put the country on a sustainable fiscal path. These changes will involve hard choices to balance the potential effects on individuals and businesses.
 
-#### GAO has suggested that Congress develop a strategy for achieving fiscal sustainability.
+GAO has suggested that Congress develop a strategy for achieving fiscal sustainability.
 
-##### The sooner changes to revenue and spending policies are made, the less drastic these changes will need to be.
+The sooner changes to revenue and spending policies are made, the less drastic these changes will need to be.
 
-###### Federal spending breakdown
-
-###### Address the spending and revenue imbalance
+#### Address the spending and revenue imbalance
 
 Congress and the administration will need to make decisions about spending programs, including mandatory spending programs—like Social Security and Medicare—that make up nearly two-thirds of federal spending.
 
 For mandatory spending programs, anyone who is eligible receives benefits, so Congress does not approve program spending each year.
 
-Revenue will also be an important piece of the puzzle. For example, in fiscal year 2024, we estimated that tax deductions, credit, and other tax benefits reduced federal revenue by \$1.6 trillion, compared to total revenue collections of almost \$4.9 trillion. It is not always clear how successful these tax policies are at meeting their goals.
+Revenue will also be an important piece of the puzzle. For example, in fiscal year 2024, we estimated that tax deductions, credit, and other tax benefits reduced federal revenue by $1.6 trillion, compared to total revenue collections of almost $4.9 trillion. It is not always clear how successful these tax policies are at meeting their goals.
 
 Medicare and Social Security cards icon
 
-###### Address financing gaps for Social Security and Medicare
+#### Address financing gaps for Social Security and Medicare
 
 Decisions will also need to be made to shore up the trust funds that support Social Security retirement and survivor benefits and the Medicare Hospital Insurance program. It is projected that in 8 and 11 years, respectively, the funds won't have enough money to pay for full benefits for all recipients (about 67 million people in 2024). Legislation will be needed to address the problem.
 
 Bar chart to money icon
 
-###### Pursue other opportunities to improve fiscal responsibility
+#### Pursue other opportunities to improve fiscal responsibility
 
 There are other opportunities for the federal government to improve its fiscal position, though they wouldn’t be enough to put the nation on a sustainable fiscal path. The government could save billions of dollars if it limited improper payments—those that should not have been made or that were made in the wrong amount. The government could also raise revenue by collecting a portion of the hundreds of billions of dollars in taxes that are owed but not paid.
 
@@ -129,13 +129,14 @@ There are other opportunities for the federal government to improve its fiscal p
         - [U.S. European Command (USEUCOM)](https://www.eucom.mil/)
         - [U.S. Air Force](https://www.af.mil/)
         - [U.S. Army](https://www.army.mil/)
+        - [U.S. Army's 250th Birthday Celebration](https://www.army.mil/1775/)
         - [U.S. Coast Guard (USCG)](https://www.uscg.mil/)
         - [U.S. Marine Corps](https://www.marines.mil/)
         - [National Guard](https://www.nationalguard.mil/)
         - [U.S. Navy](https://www.navy.mil/)
         - [National Guard](https://www.nationalguard.mil/)
         - [U.S. Space Command](https://www.spacecom.mil/)
-    - [Social Security Administration (SSA)](https://www.ssa.gov/)
+            - [Social Security Administration (SSA)](https://www.ssa.gov/)
     - [Medicare](https://www.medicare.gov/)
     - [Medicaid](https://www.medicaid.gov/)
     - [Immigration and Customs Enforcement (ICE)](https://www.ice.gov/)
