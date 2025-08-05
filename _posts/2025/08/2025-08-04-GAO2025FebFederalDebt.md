@@ -45,7 +45,7 @@ Persistent and widening annual budget deficits. When the federal government spen
 
 Deficits Are Growing Because Spending Outpaces Revenue
 
-<line graph>
+[line graph]
 
 Despite strong economic growth, the fiscal year 2024 deficit was more than \$1.8 trillion, the fifth year in a row the deficit exceeded \$1 trillion.
 
@@ -63,13 +63,13 @@ As federal debt grows and interest rates rise, the government's cost to borrow i
 
 Net Interest Spending Now Exceeds Some of the Largest Categories of Federal Spending
 
-<bar chart>
+[bar chart]
 
 By 2044, interest costs will exceed spending for Social Security (the largest federal program), absent a change in fiscal policy.
 
 Interest Spending Increases Relative to Other Federal Spending
 
-<pie chart>
+[pie chart]
 
 From 2009 to 2022, interest rates were at historic lows. This helped keep down the nation’s borrowing costs. Higher interest rates will drive up interest spending.
 
