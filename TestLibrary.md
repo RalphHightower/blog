@@ -22,8 +22,8 @@ title: "Test Library"
 {{ golf | markdownify }}
 
 
-{% capture TrumpTariffs %}
-  {% include TrumpGolf.md %}
+{% capture tariffs %}
+  {% include TrumpTariffs.md %}
 {% endcapture %}
 {{ golf | markdownify }}
 
