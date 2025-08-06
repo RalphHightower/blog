@@ -23,11 +23,11 @@ Testing include.
 {% capture lodging %}
   {% include TrumpLodging.md %}
 {% endcapture %}
-{{ golf | markdownify }}
+{{ lodging | markdownify }}
 
 
 {% capture tariffs %}
   {% include TrumpTariffs.md %}
 {% endcapture %}
-{{ golf | markdownify }}
+{{ tariffs | markdownify }}
 
