@@ -1,6 +1,6 @@
 ---
 layout: page
-tags: [Karoline, Leavitt, Mike Pence, Nikki Haley (2017-2018), Rex Tillerson (2017–2018), Mike Pompeo (2018–2021), Steven Mnuchin (2017–2021), Jim Mattis (2017–2019), Mark Esper (2019–2020), Christopher C. Miller (acting 2020–2021), Jeff Sessions (2017–2018), William Barr (2019–2020), Jeffrey A. Rosen (acting 2020–2021), Ryan Zinke (2017–2019), David Bernhardt (2019–2021), Sonny Perdue (2017–2021), Wilbur Ross (2017–2021), Alexander Acosta (2017–2019), Eugene Scalia (2019–2021), Tom Price (2017), Alex Azar (2018–2021), Ben Carson (2017–2021), Elaine Chao (2017–2021), Rick Perry (2017–2019), Dan Brouillette (2019–2021), Betsy DeVos (2017–2021), David Shulkin (2017–2018), Robert Wilkie (2018–2021), John F. Kelly (2017), Kirstjen Nielsen (2017–2019), Kevin McAleenan (acting 2019), Chad Wolf (acting 2019–2021), Sean Spicer (2017), Sarah Huckabee Sanders (2017–2019), Stephanie Grisham (2019–2020), Kayleigh McEnany (2020–2021), Steven Mnuchin (2017–2021), Lee Zeldin (2025-), Kelly Loeffler (2025-), Pam Bondi (2025-), John Ratcliffe (2025-), Tulsi Gabbard (2025-), Russ Vought (2025-), Brooke Rollins (2025-), Howard Lutnick (2025-), Pete Hegseth (2025-), Linda McMahon (2025-), Chris Wright (2025-), Robert F Kennedy Jr. (2025-), Kristi Noem (2025-), Scott Turner (2025-), Doug Burgum (2025-), Lori Chavez-DeRemer (2025-), Marco Rubio (2025-), Doug Collins (2025-), Sean Duffy (2025-), Scott Bessent (2025-), Jamieson Greer (2025-),]
+tags: [Karoline Leavitt, Mike Pence, Nikki Haley (2017-2018), Rex Tillerson (2017–2018), Mike Pompeo (2018–2021), Steven Mnuchin (2017–2021), Jim Mattis (2017–2019), Mark Esper (2019–2020), Christopher C. Miller (acting 2020–2021), Jeff Sessions (2017–2018), William Barr (2019–2020), Jeffrey A. Rosen (acting 2020–2021), Ryan Zinke (2017–2019), David Bernhardt (2019–2021), Sonny Perdue (2017–2021), Wilbur Ross (2017–2021), Alexander Acosta (2017–2019), Eugene Scalia (2019–2021), Tom Price (2017), Alex Azar (2018–2021), Ben Carson (2017–2021), Elaine Chao (2017–2021), Rick Perry (2017–2019), Dan Brouillette (2019–2021), Betsy DeVos (2017–2021), David Shulkin (2017–2018), Robert Wilkie (2018–2021), John F. Kelly (2017), Kirstjen Nielsen (2017–2019), Kevin McAleenan (acting 2019), Chad Wolf (acting 2019–2021), Sean Spicer (2017), Sarah Huckabee Sanders (2017–2019), Stephanie Grisham (2019–2020), Kayleigh McEnany (2020–2021), Steven Mnuchin (2017–2021), Lee Zeldin (2025-), Kelly Loeffler (2025-), Pam Bondi (2025-), John Ratcliffe (2025-), Tulsi Gabbard (2025-), Russ Vought (2025-), Brooke Rollins (2025-), Howard Lutnick (2025-), Pete Hegseth (2025-), Linda McMahon (2025-), Chris Wright (2025-), Robert F Kennedy Jr. (2025-), Kristi Noem (2025-), Scott Turner (2025-), Doug Burgum (2025-), Lori Chavez-DeRemer (2025-), Marco Rubio (2025-), Doug Collins (2025-), Sean Duffy (2025-), Scott Bessent (2025-), Jamieson Greer (2025-),]
 categories: [Telephone Numbers]
 date: 2025-08-04 7:57 PM
 excerpt: ''
@@ -18,6 +18,10 @@ The telephone numbers below have called and there is an empty person on the othe
 
 | Telephone Number | Location | Date Time[^11] | Caller | Social Media |
 |---|---|---|---|---|
+| <a href="tel:+18037652798">+1 (803) 765-2798</a> | SC. Columbia | 2025-08-05 06:49 PM | — | |
+| <a href="tel:+12029909109">+1 (202) 990-9109</a> | DC. Washington | 2025-08-05 03:34 PM ¤¤ | #TaxFraud | |
+| <a href="tel:+17632702707">+1 (763) 270-2707</a> | MN. Minneapolis | 2025-08-05 03:34 PM ¤¤ | #TaxFraud | |
+| <a href="tel:+18038664777">+1 (803) 866-4777</a> | SC. Olar | 2025-08-05 12:17 PM | Fran Visionary | |
 | <a href="tel:+18037593179">+1 (803) 759-3179</a> | SC. Holly Hill | 2025-08-04 03:53 PM | — | |
 | <a href="tel:+18037262787">+1 (803) 726-2787</a> | SC. Columbia | 2025-08-04 01:00 PM | — | |
 | <a href="tel:+18035705097">+1 (803) 570-5097</a> | SC. Orangeburg | 2025-08-04 12:42 PM | — | |
@@ -252,8 +256,8 @@ The telephone numbers below have called and there is an empty person on the othe
 | <a href="tel:+18037052845">+1 (803) 705-2845</a> | SC. Columbia | 2025-05-22 03:47 PM | — | |
 | <a href="tel:+18035667124">+1 (803) 566-7124</a> | SC. Hickory Grove | 2025-05-22 01:39 PM | — | |
 | <a href="tel:+18038475978">+1 (803) 847-5978</a> | SC. Sumter | 2025-05-22 01:34 PM | CUSTSVC | |
-| <a href="tel:+16802141044">+1 (680) 214-1044</a> | NY. Syracuse | 2025-05-21 04:49 PM | #IRSFraud | |
-| <a href="tel:+16802141044">+1 (680) 214-1044</a> | NY. Syracuse | 2025-05-21 04:49 PM | #IRSFraud | |
+| <a href="tel:+16802141044">+1 (680) 214-1044</a> | NY. Syracuse | 2025-05-21 04:49 PM | #TaxFraud | |
+| <a href="tel:+16802141044">+1 (680) 214-1044</a> | NY. Syracuse | 2025-05-21 04:49 PM | #TaxFraud | |
 | <a href="tel:+18039452458">+1 (803) 945-2458</a> | SC. Little Mountain | 2025-05-21 03:57 PM | — | |
 | <a href="tel:+18035890814">+1 (803) 589-0814</a> | SC. Winnsboro | 2025-05-21 03:14 PM | — | |
 | <a href="tel:+18034595021">+1 (803) 459-5021</a> | SC. | 2025-05-21 02:32 PM | Mary Hicks | |
@@ -1430,13 +1434,13 @@ The telephone numbers below have called and there is an empty person on the othe
 | <a href="tel:+18037151972">+1 (803) 715-1972</a> | SC. Orangeburg | 2024-10-07 12:41 PM | — | |
 | <a href="tel:+18644638935">+1 (864) 463-8935</a> | SC. Cowpens | 2024-09-25 09:48 AM | — | |
 | <a href="tel:+16592176182">+1 (659) 217-6182</a> | NJ. West Blocton | 2024-09-16 06:28 PM | Potential Spam | |
-| <a href="tel:+12024359336">+1 (202) 435-9336</a> | DC. Washington | 2024-08-29 12:15 AM | #IndentityTheftFraud | |
-| <a href="tel:+12024359336">+1 (202) 435-9336</a> | DC. Washington | 2024-08-29 12:15 PM | #IdentityFraud | |
-| <a href="tel:+12016880173">+1 (201) 688-0173</a> | NJ. Bayonne | 2024-08-28 09:03 PM | #IndentityTheftFraud | |
-| <a href="tel:+12016880173">+1 (201) 688-0173</a> | NJ. Bayonne | 2024-08-28 09:03 AM | #IndentityTheftFraud | |
+| <a href="tel:+12024359336">+1 (202) 435-9336</a> | DC. Washington | 2024-08-29 12:15 AM | #IdentityTheftFraud | |
+| <a href="tel:+12024359336">+1 (202) 435-9336</a> | DC. Washington | 2024-08-29 12:15 PM | #IdentityTheftFraud | |
+| <a href="tel:+12016880173">+1 (201) 688-0173</a> | NJ. Bayonne | 2024-08-28 09:03 PM | #IdentityTheftFraud | |
+| <a href="tel:+12016880173">+1 (201) 688-0173</a> | NJ. Bayonne | 2024-08-28 09:03 AM | #IdentityTheftFraud | |
 | <a href="tel:+16802159846">+1 (680) 215-9846</a> | NY. Newark | 2024-08-22 PM | NSID | |
 | <a href="tel:+18034469378">+1 (803) 446-9378</a> | SC. Columbia | 2024-07-29 01:20 PM | Ian Fish | |
-| <a href="tel:+16817168264">+1 (681) 716-8264</a> | WV. Craigsville | 2024-07-24 AM | #IdentityFraud | |
+| <a href="tel:+16817168264">+1 (681) 716-8264</a> | WV. Craigsville | 2024-07-24 AM | #IdentityTheftFraud | |
 | <a href="tel:+13502176286">+1 (350) 217-6286</a> | CA. Stockton | 2024-07-01 10:47 AM | — | |
 | <a href="tel:+18548774845">+1 (854) 877-4845</a> | AR. Little Rock | 2024-05-09 05:33 PM | #FraternalOrderOfPolice | |
 | <a href="tel:+18645360930">+1 (864) 536-0930</a> | SC. Smyrna | 2024-04-29 08:58 AM | — | |
@@ -1460,7 +1464,7 @@ The telephone numbers below have called and there is an empty person on the othe
 | <a href="tel:+18035651586">+1 (803) 565-1586</a> | SC. Sumter | 2024-02-29 08:33 AM | Barry Robinson | |
 | <a href="tel:+18038469930">+1 (803) 846-9930</a> | SC. Columbia | 2024-02-27 08:58 AM | Eric Dash #WrongNumber | |
 | <a href="tel:+18038469930">+1 (803) 846-9930</a> | SC. Columbia | 2024-02-27 08:54 AM | Eric Dash #WrongNumber | |
-| <a href="tel:+16817168264">+1 (681) 716-8264</a> | WV. Craigsville | 2024-02-22 11:22 AM | #IndentityTheftFraud | |
+| <a href="tel:+16817168264">+1 (681) 716-8264</a> | WV. Craigsville | 2024-02-22 11:22 AM | #IdentityTheftFraud | |
 | <a href="tel:+12513780031">+1 (251) 378-0031</a> | AL. Mobile | 2024-02-21 01:25 AM ¤¤ | Potential Spam | |
 | <a href="tel:+12513780031">+1 (251) 378-0031</a> | AL. Mobile | 2024-02-21 01:23 AM | Potential Spam | |
 | <a href="tel:+17863034783">+1 (786) 303-4783</a> | FL. Miami | 2024-02-14 07:28 PM | Adalbert Blanco | |
