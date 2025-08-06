@@ -1,4 +1,4 @@
-| Trump Golf |
+| Trump Golf (Trump Crime Family Businesses) |
 |---|
 | **Florida, West Palm Beach** |
 | [The Mar-a-Lago Club](https://www.maralagoclub.com/) <br /> 1100 South Ocean Boulevard, <br /> Palm Beach, Florida 33480 <br /> [+1 (561) 832-2600](tel:+15618322600) |
@@ -29,8 +29,7 @@
 | **Ireland, Clare** |
 | **[Trump International Golf Links & Hotel Ireland, Doonbeg](https://www.trumpgolfireland.com/)** <br /> DOONBEG CO. <br /> CLARE, IRELAND <br /> Phone: [+353 65 905 5600](tel:+353659055600) |
 | **Scotland, Aberdeenshire** |
-| **[Trump MacLeod House & Lodge Scotland](https://www.trumphotels.com/macleod-house)** <br /> Menie Estate Balmedie <br /> Aberdeenshire, Scotland AB23 8YE <br /> Phone: [+44 1358 743300](tel:+441358743300)
- <br /> Reserve: [+44 1358 743300](tel:+441358743300) |
+| **[Trump MacLeod House & Lodge Scotland](https://www.trumphotels.com/macleod-house)** <br /> Menie Estate Balmedie <br /> Aberdeenshire, Scotland AB23 8YE <br /> Phone: [+44 1358 743300](tel:+441358743300) <br /> Reserve: [+44 1358 743300](tel:+441358743300) |
 | **Scotland, Ayrshire** |
 | **[Trump Turnberry](https://www.turnberry.co.uk/)** <br /> Maidens Road KA26 9LT Turnberry <br /> Ayrshire Scotland <br /> [+44.1655.331.000](tel:+44165533100)<br /> [+44 01655 334115](tel:+4401655334115) |
 | **[Trump International Scotland](https://www.trumpgolfscotland.com/)**<br />Menie Estate Balmedie<br />Aberdeenshire AB23 8YE <br />T [+44 (0)1358 743 300](tel:+4401358743300) |
