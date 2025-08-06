@@ -1,5 +1,5 @@
 ---
-layout: pagr
+layout: page
 tags: [Trump Tariffs, Trump golf, Trump lodging]
 categories: [Trump]
 date: 2025-08-06 12:22 PM
@@ -10,6 +10,10 @@ excerpt: ''
 title: "Test Library"
 ---
 
+
+## Trump Golf
+
+Testing include. 
 
 {% capture golf %}
   {% include TrumpGolf.md %}
@@ -22,9 +26,8 @@ title: "Test Library"
 {{ golf | markdownify }}
 
 
-{% capture tariffs %}
+{% capture TrumpTariffs %}
   {% include TrumpTariffs.md %}
 {% endcapture %}
 {{ golf | markdownify }}
-
 
