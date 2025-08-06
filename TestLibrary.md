@@ -26,7 +26,7 @@ Testing include.
 {{ golf | markdownify }}
 
 
-{% capture TrumpTariffs %}
+{% capture tariffs %}
   {% include TrumpTariffs.md %}
 {% endcapture %}
 {{ golf | markdownify }}
