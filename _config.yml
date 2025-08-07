@@ -137,10 +137,11 @@ pagination:
   limit: 0
   sort_field: 'date'
   sort_reverse: true
+  debug: true
   trail:
     before: 4
     after: 4
-    debug: true
+
 
 readme_index:
   enabled: true
