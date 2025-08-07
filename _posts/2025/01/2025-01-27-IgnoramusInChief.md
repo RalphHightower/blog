@@ -79,5 +79,3 @@ Aaron Parnas, Attorney:
 
 [^101]: @RalphHightower: I know of two Columbias, [Columbia, SC (CAE)](https://columbiasc.gov/), the state capital of [South Carolina](https://www.sc.gov/) and home of [USC](https://www.sc.edu/) and [Columbia, MO (COU)](https://www.como.gov/), home of [University of Missouri](https://missouri.edu/)
 
-
-{% include TrumpTariffs.html %}
