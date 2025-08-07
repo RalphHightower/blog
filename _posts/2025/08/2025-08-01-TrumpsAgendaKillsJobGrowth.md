@@ -101,8 +101,5 @@ This post updates our [related earlier coverage](https://www.msnbc.com/rachel-ma
 - [Howard W. Lutnick](https://www.linkedin.com/in/howardwlutnick/)
 - [Scott Bessent](https://home.treasury.gov/about/general-information/officials/scott-bessent)
 
-{% capture tariffs %}
-    {% include TrumpTariffs.md %}
-{% endcapture %}
-{{ tariffs | markdownify }}
+{% include TrumpTariffs.html %}
 

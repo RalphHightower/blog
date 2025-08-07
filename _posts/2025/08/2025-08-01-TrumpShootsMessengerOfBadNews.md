@@ -125,8 +125,4 @@ This isn’t how Americans govern; it’s how despots rule.
 - [Howard W. Lutnick](https://www.linkedin.com/in/howardwlutnick/)
 - [Scott Bessent](https://home.treasury.gov/about/general-information/officials/scott-bessent)
 
-{% capture tariffs %}
-    {% include TrumpTariffs.md %}
-{% endcapture %}
-{{ tariffs | markdownify }}
-
+{% include TrumpTariffs.html %}
