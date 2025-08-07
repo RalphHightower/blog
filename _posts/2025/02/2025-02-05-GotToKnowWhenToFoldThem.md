@@ -20,3 +20,6 @@ Feb 3, 2025  #marytrump [#trumpcabinet](https://www.whitehouse.gov/) [#donaldtru
 
 - [Canada (CA)](https://www.canada.ca/)
 - [Mexico (MX)](https://www.gob.mx/)
+
+
+{% include TrumpTariffs.html %}

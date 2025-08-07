@@ -117,12 +117,12 @@ Ralph  Hightower
 |---|
 | [House of Representatives](https://www.house.gov/) |
 | **[Joe Wilson, (T-SC2)](https://joewilson.house.gov/)** |
-| 1436 Longworth House Office Building <br /> 1 Independence Ave SE <br /> Washington, DC  20515 <br /> Phone: <a href="tel:+12022252452">(202) 225-2452</a> |
+| 1436 Longworth House Office Building <br /> 1 Independence Ave SE <br /> Washington, DC  20515 <br /> Phone: [(202) 225-2452](tel:+12022252452) |
 | [Senate](https://www.senate.gov/) |
 | **[Lindsey Graham (T-SC)](https://www.lgraham.senate.gov/)** | 
-| 211 Russell Senate Office Building <br /> 2 Constitution Ave NE <br /> Washington, DC 20510 <br /> Office: <a href="tel:+12022245972">(202) 224-5972</a> <br /> Fax: <a href="tel:+12022243808">(202) 224-3808</a> |
+| 211 Russell Senate Office Building <br /> 2 Constitution Ave NE <br /> Washington, DC 20510 <br /> Office: [(202) 224-5972](tel:+12022245972)</a> <br /> Fax: [(202) 224-3808](tel:+12022243808) |
 | **[Tim Scott (T-SC)](https://www.scott.senate.gov/)** |
-| 104 Hart Senate Office <br /> 120 Constitution Ave NE <br /> Washington, DC 20510 <br /> Phone: <a href="tel:+12022246121">(202) 224-6121</a> <br /> Fax: <a href="tel:+12022275143">(202) 228-5143</a> |
+| 104 Hart Senate Office <br /> 120 Constitution Ave NE <br /> Washington, DC 20510 <br /> Phone: [(202) 224-6121](tel:+12022246121) <br /> Fax: [(202) 228-5143](tel:+12022275143) |
 
 ----
 ## Tim Scott's Reply

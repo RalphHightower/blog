@@ -280,7 +280,7 @@ presidential “pooler” in 1881, providing updates to fellow reporters from hi
 were also in the motorcade in Dallas when President John F. Kennedy, Jr. was assassinated,
 providing the nation with contemporaneous, fact-based reporting as the story developed, and as
 conspiracy theories spread. And, [AP](https://www.apnews.com/) journalists were in the pool with President George W. Bush
-when he learned of the September 11 terrorist attacks during an event in [Florida](https://www.myflorida.com/), and they
+when he learned of the September 11 terrorist attacks during an event in [Florida](https://www.myflorida.gov/), and they
 accompanied him on [Air Force One](https://www.whitehouse.gov/about-the-white-house/air-force-one/) to secure locations in [Louisiana](https://www.louisiana.gov/) and [Nebraska](https://www.nebraska.gov/) and back to
 
 p. 8
@@ -574,14 +574,14 @@ Charles D. Tobin (#83626)
 Maxwell S. Mishkin (#1031356)
 1909 K Street NW, 12th Floor
 [Washington, DC](https://dc.gov/) 20006
-Tel: <a href="tel:+12026612200">(202) 661-2200</a>
-Fax: <a href="tel:+12026612299">(202) 661-2299</a>
-brownjay@ballardspahr.com
-tobinc@ballardspahr.com
-mishkinm@ballardspahr.com
+Tel: [(202) 661-2200](tel:+12026612200)
+Fax: [(202) 661-2299](tel:+12026612299)
+[brownjay@ballardspahr.com](mailto:brownjay@ballardspahr.com)
+[tobinc@ballardspahr.com](mailto:tobinc@ballardspahr.com)
+[mishkinm@ballardspahr.com](mailto:mishkinm@ballardspahr.com)
 Sasha Dudding (#1735532)
-1675 Broadwp M,   <a href="tel:+12122231942">(212) 223-1942</a>
-duddings@ballardspahr.com
+1675 Broadwp M,   [(212) 223-1942](tel:+12122231942)
+[duddings@ballardspahr.com](mailto:duddings@ballardspahr.com)
 Counsel for Plaintiff [The Associated Press](https://www.apnews.com/)
 
 - [Afghanistan (AF)](https://moi.gov.af/)
@@ -598,7 +598,7 @@ Counsel for Plaintiff [The Associated Press](https://www.apnews.com/)
 - [CNN](https://www.cnn.com/)
 - Jim Acosta
 - [Mar-a-Lago](https://www.maralagoclub.com/)
-- [Florida (FL)](https://www.myflorida.com/)
+- [Florida (FL)](https://www.myflorida.gov/)
 - [Newsmax](https://www.newsmax.com/)
 - [New York Times](https://www.nytimes.com/)
 - [Playboy](https://www.playboy.com/)

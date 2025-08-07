@@ -217,3 +217,7 @@ underway
 - [Mexico](https://www.gob.mx/)
 - [The State Council of the People's Republic of China](https://english.www.gov.cn/)
 - [中国政府网_中央人民政府门户网站](https://www.gov.cn/)
+
+
+{% include TrumpTariffs.html %}
+

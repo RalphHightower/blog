@@ -18,13 +18,7 @@ title: "Trump's Terrible Tariff Tanks Stock Market"
 Feb 3, 2025 [#Trump](https://www.whitehouse.gov/) #Tariffs #Politics
 NBC News' Brian Cheung and Gabe Gutierrez report on the impacts and reaction to President Trump's tariffs on [Canada](https://www.canada ca/), [Mexico](https://www.gob.mx/) and [China](https://www.gov.cn/) and the president's talks with other nation's leaders.
 
-- [Progress on the Situation at Our Northern Border](https://www.whitehouse.gov/presidential-actions/2025/02/progress-on-the-situation-at-our-northern-border/). Presidential Actions February 3, 2025
-- [Imposing Duties to Address the Situation at Our Southern Border](https://www.whitehouse.gov/presidential-actions/2025/02/imposing-duties-to-address-the-situation-at-our-southern-border/). Presidential Actions February 1, 2025
-- [Fact Sheet: President Donald J. Trump Imposes Tariffs on Imports from Canada, Mexico and China](https://www.whitehouse.gov/fact-sheets/2025/02/fact-sheet-president-donald-j-trump-imposes-tariffs-on-imports-from-canada-mexico-and-china/). Fact Sheets February 1, 2025
-- [Imposing Duties to Address the Flow of Illicit Drugs Across Our Northern Border](https://www.whitehouse.gov/presidential-actions/2025/02/imposing-duties-to-address-the-flow-of-illicit-drugs-across-our-national-border/). Presidential Actions February 1, 2025
- - [Imposing Duties to Address the Synthetic Opioid Supply Chain in the People’s Republic of China](https://www.whitehouse.gov/presidential-actions/2025/02/imposing-duties-to-address-the-synthetic-opioid-supply-chain-in-the-peoples-republic-of-china/). Presidential Actions February 1, 2025
-- [America First Trade Policy](https://www.whitehouse.gov/presidential-actions/2025/01/america-first-trade-policy/). Presidential Actions January 20, 2025
-
+{% include TrumpTariffs.html %}
 ----
 
 Where does the United States get most of its tequila from?

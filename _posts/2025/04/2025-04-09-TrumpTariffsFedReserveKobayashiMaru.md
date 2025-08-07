@@ -143,80 +143,16 @@ The [Fed](https://www.federalreserve.gov/)’s stimulus operates through financi
 | Where Trump Pretends To Work |
 |---|
 | **[White House](https://www.whitehouse.gov)** |
-| 1600 Pennsylvania Ave., NW <br /> Washington, DC 20500 <br /> <a href="tel:+12024561111">+1 (202) 456-1111</a> (comments) <br /> <a href="tel:+12024561414">+1 (202) 456-1414</a> (switchboard) |
+| 1600 Pennsylvania Ave., NW <br /> Washington, DC 20500 <br /> [+1 (202) 456-1111](tel:+12024561111) (comments) <br /> [+1 (202) 456-1414](tel:+12024561414) (switchboard) |
 
 #### If It’s The Weekend, Find Trump On One Of His Golf Courses
 
-| Where Trump Can Be Found On Weekends |
-|---|
-| **[Mar-a-Lago](https://www.maralagoclub.com/)** |
-| [The Mar-a-Lago Club](https://www.maralagoclub.com/) <br /> 1100 South Ocean Boulevard, <br /> Palm Beach, Florida 33480 <br /> <a href="tel+15618322600">+1 (561) 832-2600</a> |
-| **Florida, West Palm Beach** |
-| **[Trump International Golf Club](https://www.trumpinternationalpalmbeaches.com/)** <br /> 3505 Summit Blvd <br /> West Palm Beach FL 33406 <br /> <a href="tel:+15616820700">+1 (561) 682-0700</a> |
-| **California, Los Angeles** |
-| **[Trump National Golf Club Los Angeles](https://www.trumpnationallosangeles.com/)** <br /> One Trump National Drive <br /> Rancho Palos Verdes, CA 90275 <br /> <a href="tel:+13102655000">+1 (310) 265-5000</a> |
-| **Florida, Miami** |
-| **[Trump National Doral Golf Club](https://www.trumpgolfdoral.com/)** <br /> 4400 N.W. 87th Ave <br /> Miami, FL 33178 <br /> <a href="tel:+13055922000">+1 (305) 592-2000</a> |
-| **Florida, Jupiter** |
-| **[Trump National Jupiter Golf Club](https://www.trumpnationaljupiter.com/about)** <br /> 115 Eagle Tree Terrace <br /> Jupiter FL 33477 <br /> <a href="tel:+15616918700">+1 (561) 691-8700</a> |
-| **New Jersey, Bedminster** |
-| **[Trump National Golf Club Bedminster](https://www.trumpnationalbedminster.com/)** <br /> 900 Lamington Road <br /> Bedminster, NJ 07921 <br /> <a href="tel:+19084704400">+1 (908) 470-4400</a> |
-| **New Jersey, Colts Neck** |
-| **[Trump National Golf Club Colts Neck](https://www.trumpcoltsneck.com/)** <br /> One Trump National Blvd <br /> Colts Neck, NJ 07722 <br /> <a href="tel:+15619731550">+1 (561) 973-1550</a> |
-| **New Jersey, Pine Hill** |
-| **[Trump National Golf Club Philadelphia](https://www.trumpnationalphiladelphia.com/)** <br /> 500 West Branch Ave. <br /> Pine Hill, NJ 08021 <br /> <a href="tel:+18564353100">+1 (856) 435-3100</a> |
-| **New York, Hopewell Junction** |
-|  **[Trump National Golf Club Hudson Valley](https://www.trumpnationalhudsonvalley.com/)** <br /> 178 Stormville Rd <br /> Hopewell Junction, NY 12533 <br /> <a href="tel:+18452231600">+1 (845) 223-1600</a> |
-| **New York, Briarcliff Manor** |
-| **[Trump National Golf Club Westchester](https://www.trumpnationalwestchester.com/)** <br /> 100 Shadow Tree Lane <br /> Briarcliff Manor, NY 10510 <br /> <a href="tel:+19149440900">+1 (914) 944-0900</a> |
-| **North Carolina, Mooresville** |
-| **[Trump National Golf Club Charlotte](https://www.trumpnationalcharlotte.com/)** <br /> 120 Trump Square <br /> Mooresville, NC 28117 <br /> <a href="tel:+17047997300">+1 (704) 799-7300</a> |
-| **Virginia, Potomac Falls** |
-| **[Trump National Golf Club Washington, D.C.](https://www.trumpnationaldc.com/)** <br /> 20391 Lowes Island Blvd <br /> Potomac Falls, VA 20165 <br /> <a href="tel:+17034444801">+1 (703) 444-4801</a> |
-| **Dubai** |
-| **[Trump International Golf Club Dubai](https://www.trumpgolfdubai.com/)** <br /> DAMAC Hills <br /> Al Hebiah Third District Dubai <br /> <a href="tel:+971042453939">+971 (0) 4 245 3939</a> |
-| **Ireland, Clare** |
-| **[Trump International Golf Links & Hotel Ireland, Doonbeg](https://www.trumpgolfireland.com/)** <br />  DOONBEG CO. <br /> CLARE, IRELAND <br /> Phone: <a href="tel:+353659055600">+353 65 905 5600</a> |
-| **Scotland, Aberdeenshire** |
-| **[Trump MacLeod House & Lodge Scotland](https://www.trumphotels.com/macleod-house)** <br /> Menie Estate Balmedie <br /> Aberdeenshire, Scotland AB23 8YE <br /> PHONE: <a href="tel:+441358743300">+44 1358 743300</a> <br /> RESERVE: <a href="tel:+441358743300">+44 1358 743300</a> |
-| **Scotland, Ayrshire** |
-| **[Trump Turnberry](https://www.turnberry.co.uk/)** <br /> Maidens Road KA26 9LT Turnberry <br /> Ayrshire Scotland <br /> <a href="tel:+441655331000">+44.1655.331.000</a> <br /> <a href="tel:+4401655334115">+44 01655 334115</a> |
+{% include TrumpGolf.html %}
 
-- [Report to the President on the America First Trade Policy Executive Summary](https://www.whitehouse.gov/fact-sheets/2025/04/report-to-the-president-on-the-america-first-trade-policy-executive-summary/). Fact Sheets April 3, 2025
-- [Regulating Imports with a Reciprocal Tariff to Rectify Trade Practices that Contribute to Large and Persistent Annual United States Goods Trade Deficits](https://www.whitehouse.gov/presidential-actions/2025/04/regulating-imports-with-a-reciprocal-tariff-to-rectify-trade-practices-that-contribute-to-large-and-persistent-annual-united-states-goods-trade-deficits/). Presidential Actions, Executive Orders April 2, 2025
-- [Further Amendment to Duties Addressing the Synthetic Opioid Supply Chain in the People’s Republic of China as Applied to Low-Value Imports](https://www.whitehouse.gov/presidential-actions/2025/04/further-amendment-to-duties-addressing-the-synthetic-opioid-supply-chain-in-the-peoples-republic-of-china-as-applied-to-low-value-imports/). Presidential Actions, Executive Orders April 2, 2025
-- [Fact Sheet: President Donald J. Trump Declares National Emergency to Increase our Competitive Edge, Protect our Sovereignty, and Strengthen our National and Economic Security](https://www.whitehouse.gov/fact-sheets/2025/04/fact-sheet-president-donald-j-trump-declares-national-emergency-to-increase-our-competitive-edge-protect-our-sovereignty-and-strengthen-our-national-and-economic-security/). Fact Sheets April 2, 2025
-- [Regulating Imports with a Reciprocal Tariff to Rectify Trade Practices that Contribute to Large and Persistent Annual United States Goods Trade Deficits](https://www.whitehouse.gov/presidential-actions/2025/04/regulating-imports-with-a-reciprocal-tariff-to-rectify-trade-practices-that-contribute-to-large-and-persistent-annual-united-states-goods-trade-deficits/). Presidential Actions, Executive Orders April 2, 2025
-- [Fact Sheet: President Donald J. Trump Closes De Minimis Exemptions to Combat China’s Role in America’s Synthetic Opioid Crisis](https://www.whitehouse.gov/fact-sheets/2025/04/fact-sheet-president-donald-j-trump-closes-de-minimis-exemptions-to-combat-chinas-role-in-americas-synthetic-opioid-crisis/). Fact Sheets April 2, 2025
-- [Further Amendment to Duties Addressing the Synthetic Opioid Supply Chain in the People’s Republic of China as Applied to Low-Value Imports](https://www.whitehouse.gov/presidential-actions/2025/04/further-amendment-to-duties-addressing-the-synthetic-opioid-supply-chain-in-the-peoples-republic-of-china-as-applied-to-low-value-imports/). Presidential Actions, Executive Orders April 2, 2025
-- [Fact Sheet: President Donald J. Trump Adjusts Imports of Automobiles and Automobile Parts into the United States](https://www.whitehouse.gov/fact-sheets/2025/03/fact-sheet-president-donald-j-trump-adjusts-imports-of-automobiles-and-automobile-parts-into-the-united-states/). Fact Sheets March 26, 2025
-- [Fact Sheet: President Donald J. Trump Imposes Tariffs on Countries Importing Venezuelan Oil](https://www.whitehouse.gov/fact-sheets/2025/03/fact-sheet-president-donald-j-trump-imposes-tariffs-on-countries-importing-venezuelan-oil/). Fact Sheets March 25, 2025
-- [Imposing Tariffs on Countries Importing Venezuelan Oil](https://www.whitehouse.gov/presidential-actions/2025/03/imposing-tariffs-on-countries-importing-venezuelan-oil/). Presidential Actions, Executive Orders March 24, 2025
-- [Amendment to Duties to Address the Flow of Illicit Drugs Across Our Southern Border](https://www.whitehouse.gov/presidential-actions/2025/03/amendment-to-duties-to-address-the-flow-of-illicit-drugs-across-our-southern-border/). Presidential Actions March 6, 2025
-- [Amendment to Duties to Address the Flow of Illicit Drugs Across Our Northern Border](https://www.whitehouse.gov/presidential-actions/2025/03/amendment-to-duties-to-address-the-flow-of-illicit-drugs-across-our-northern-border-0c3c/). Presidential Actions March 6, 2025
-- [Fact Sheet: President Donald J. Trump Proceeds with Tariffs on Imports from Canada and Mexico](https://www.whitehouse.gov/fact-sheets/2025/03/fact-sheet-president-donald-j-trump-proceeds-with-tariffs-on-imports-from-canada-and-mexico/). Fact Sheets March 3, 2025
-- [Further Amendment to Duties Addressing the Synthetic Opioid Supply Chain in the People’s Republic of China](https://www.whitehouse.gov/presidential-actions/2025/03/further-amendment-to-duties-addressing-the-synthetic-opioid-supply-chain-in-the-peoples-republic-of-china/). Presidential Actions March 3, 2025
-- [Amendment to Duties to Address the Situation at our Southern Border](https://www.whitehouse.gov/presidential-actions/2025/03/amendment-to-duties-to-address-the-situation-at-our-southern-border/). Presidential Actions March 2, 2025
-- [Fact Sheet: President Donald J. Trump Addresses the Threat to National Security from Imports of Timber, Lumber, and their Derivative Products](https://www.whitehouse.gov/fact-sheets/2025/03/fact-sheet-president-donald-j-trump-addresses-the-threat-to-national-security-from-imports-of-timber-lumber-and-their-derivative-products/). Fact Sheets March 1, 2025
-- [Addressing the Threat to National Security from Imports of Timber, Lumber](https://www.whitehouse.gov/presidential-actions/2025/03/addressing-the-threat-to-national-security-from-imports-of-timber-lumber/). Presidential Actions March 1, 2025
-- [Addressing the Threat to National Security from Imports of Copper](https://www.whitehouse.gov/presidential-actions/2025/02/addressing-the-threat-to-nationalsecurity-from-imports-of-copper/). Presidential Actions February 25, 2025
-- [Fact Sheet: President Donald J. Trump Addresses the Threat to National Security from Imports of Copper](https://www.whitehouse.gov/fact-sheets/2025/02/fact-sheet-president-donald-j-trump-addresses-the-threat-to-national-security-from-imports-of-copper/). Fact Sheets February 25, 2025
-- [Defending American Companies and Innovators From Overseas Extortion and Unfair Fines and Penalties](https://www.whitehouse.gov/presidential-actions/2025/02/defending-american-companies-and-innovators-from-overseas-extortion-and-unfair-fines-and-penalties/).. Presidential Actions February 21, 2025
-- [Fact Sheet: President Donald J. Trump Issues Directive to Prevent the Unfair Exploitation of American Innovation](https://www.whitehouse.gov/fact-sheets/2025/02/fact-sheet-president-donald-j-trump-issues-directive-to-prevent-the-unfair-exploitation-of-american-innovation/). Fact Sheets February 21, 2025
-- [Remarks by President Trump at Republican Governors Association Meeting](https://www.whitehouse.gov/remarks/2025/02/remarks-by-president-trump-at-republican-governors-association-meeting/). Remarks February 20, 2025
-- [Fact Sheet: President Donald J. Trump Announces “Fair and Reciprocal Plan” on Trade](https://www.whitehouse.gov/fact-sheets/2025/02/fact-sheet-president-donald-j-trump-announces-fair-and-reciprocal-plan-on-trade/). Fact Sheets February 13, 2025
-- [Fact Sheet: President Donald J. Trump Restores Section 232 Tariffs](https://www.whitehouse.gov/fact-sheets/2025/02/fact-sheet-president-donald-j-trump-restores-section-232-tariffs/). Fact Sheets February 11, 2025
-- [Adjusting Imports of Aluminum into The United States](https://www.whitehouse.gov/presidential-actions/2025/02/adjusting-imports-of-aluminum-into-the-united-states/). Presidential Actions February 11, 2025
-- [Adjusting Imports of Steel into The United States](https://www.whitehouse.gov/presidential-actions/2025/02/adjusting-imports-of-steel-into-the-united-states/). Presidential Actions February 10, 2025
-- [Fact Sheet: President Donald J. Trump Restores American Competitiveness and Security in FCPA Enforcement](https://www.whitehouse.gov/fact-sheets/2025/02/fact-sheet-president-donald-j-trump-restores-american-competitiveness-and-security-in-fcpa-enforcement/). Fact Sheets February 10, 2025
-- [Amendment to Duties Addressing the Synthetic Opioid Supply Chain in the People’s Republic of China](https://www.whitehouse.gov/presidential-actions/2025/02/amendment-to-duties-addressing-the-synthetic-opioid-supply-chain-in-the-peoples-republic-of-china/). Presidential Actions February 5, 2025
-- [Progress on the Situation at Our Northern Border](https://www.whitehouse.gov/presidential-actions/2025/02/progress-on-the-situation-at-our-northern-border/). Presidential Actions February 3, 2025
-- [Progress on the Situation at Our Southern Border](https://www.whitehouse.gov/presidential-actions/2025/02/progress-on-the-situation-at-our-southern-border/). Presidential Actions February 3, 2025
-- [Imposing Duties to Address the Synthetic Opioid Supply Chain in the People’s Republic of China](https://www.whitehouse.gov/presidential-actions/2025/02/imposing-duties-to-address-the-synthetic-opioid-supply-chain-in-the-peoples-republic-of-china/). Presidential Actions February 1, 2025
-- [Imposing Duties to Address the Flow of Illicit Drugs Across Our Northern Border](https://www.whitehouse.gov/presidential-actions/2025/02/imposing-duties-to-address-the-flow-of-illicit-drugs-across-our-national-border/). Presidential Actions February 1, 2025
-- [Fact Sheet: President Donald J. Trump Imposes Tariffs on Imports from Canada, Mexico and China](https://www.whitehouse.gov/fact-sheets/2025/02/fact-sheet-president-donald-j-trump-imposes-tariffs-on-imports-from-canada-mexico-and-china/). Fact Sheets February 1, 2025
-- [Imposing Duties to Address the Situation at Our Southern Border](https://www.whitehouse.gov/presidential-actions/2025/02/imposing-duties-to-address-the-situation-at-our-southern-border/). Presidential Actions February 1, 2025
-- [America First Trade Policy](https://www.whitehouse.gov/presidential-actions/2025/01/america-first-trade-policy/). Presidential Actions January 20, 2025
+#### Trump’s Stupid, Fucking Tariffs
+
+{% include TrumpTariffs.html %}
+
 - [Kobayashi Maru scenario / Memory Alpha / Fandom](https://memory-alpha.fandom.com/wiki/Kobayashi_Maru_scenario)
 - [Laurence H. Meyer / Federal Reserve History](https://www.federalreservehistory.org/people/laurence-h-meyer)
 - [Sterno Products - For the Food Service and Hospitality Professional](https://www.sterno.com/)

@@ -1,13 +1,13 @@
 ---
 layout: post
 tags: [Federal Reserve Board, Home - Federal Reserve Bank of Atlanta, Home - Federal Reserve Bank of Boston, Federal Reserve Bank of Chicago, Federal Reserve Bank of Cleveland, Federal Reserve Bank of Dallas - Dallasfed.org, Federal Reserve Bank of Kansas City, Federal Reserve Bank of Minneapolis, Federal Reserve Bank of New York - Serving the Second District and the Nation, Federal Reserve Bank of Philadelphia, Federal Reserve Bank of Richmond, Federal Reserve Bank of St. Louis / Economic Resources & Data, Federal Reserve Bank of San Francisco, Constitution of the United States, Supreme Court of the United States (SCOTUS), US Courts, The Fed - Federal Open Market Committee, Federal Reserve Board - Board Members, Jerome H. Powell, John C. Williams, Michael S. Barr, Michelle W. Bowman, Susan M. Collins, Lisa D. Cook, Austan D. Goolsbee, Philip N. Jefferson, Neel Kashkari, Adriana D. Kugler, Alberto G. Musalem, Christopher J. Waller, Neel Kashkari, The Fed - Federal Open Market Committee, Bonds and Securities / U.S. Department of the Treasury, Federal Open Market Committee, Congress, Senate, House of Representatives, Donald J Trump, President Donald Trump (47), President of the United States (POTUS), White House (WH), monetary policy, employment, inflation]
-categories: [Donald Trump]
+categories: [Federal Reserve, Federal Open Market Committee]
 date: 2025-05-07 3:28 PM
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: "Federal Reserve Issues Federal Open Market Committee (FOMC) Statement"
+title: "2025-05-07: Federal Reserve Issues Federal Open Market Committee (FOMC) Statement"
 ---
 
 
@@ -27,7 +27,7 @@ In assessing the appropriate stance of monetary policy, the [Committee](https://
 
 Voting for the monetary policy action were [Jerome H. Powell, Chair](https://www.federalreserve.gov/aboutthefed/bios/board/powell.htm); [John C. Williams, Vice Chair](https://www.federalreserve.gov/aboutthefed/federal-reserve-system-new-york.htm); [Michael S. Barr](https://www.federalreserve.gov/aboutthefed/bios/board/barr.htm); [Michelle W. Bowman](https://www.federalreserve.gov/aboutthefed/bios/board/bowman.htm); [Susan M. Collins](https://www.federalreserve.gov/aboutthefed/federal-reserve-system-boston.htm); [Lisa D. Cook](https://www.federalreserve.gov/aboutthefed/bios/board/cook.htm); [Austan D. Goolsbee](https://www.federalreserve.gov/aboutthefed/federal-reserve-system-chicago.htm); [Philip N. Jefferson](https://www.federalreserve.gov/aboutthefed/bios/board/jefferson.htm); [Neel Kashkari](https://www.federalreserve.gov/aboutthefed/federal-reserve-system-minneapolis.htm); [Adriana D. Kugler](https://www.federalreserve.gov/aboutthefed/bios/board/kugler.htm); [Alberto G. Musalem](https://www.federalreserve.gov/aboutthefed/federal-reserve-system-st-louis.htm); and [Christopher J. Waller](https://www.federalreserve.gov/aboutthefed/bios/board/waller.htm). [Neel Kashkari](https://www.federalreserve.gov/aboutthefed/federal-reserve-system-minneapolis.htm) voted as an alternate member at this meeting.
 
-For media inquiries, please email media@frb.gov or call <a href="tel:+12024522955">202-452-2955</a>.
+For media inquiries, please email [media@frb.gov](mailto:@frb.gov) or call [202-452-2955](tel:+12024522955).
 
 Implementation Note issued May 7, 2025
 
@@ -72,8 +72,9 @@ More information regarding open market operations and reinvestments may be found
 - [Constitution of the United States](https://constitution.congress.gov/)
 - [Supreme Court of the United States (SCOTUS)](https://constitution.congress.gov/)
 - [US Courts](https://www.uscourts.gov/)
-- [The Fed - Federal Open Market Committee](https://www.federalreserve.gov/monetarypolicy/fomc.htm)
+- [Federal Reserve Board](https://www.federalreserve.gov/)
 - [Federal Reserve Board - Board Members](https://www.federalreserve.gov/aboutthefed/bios/board/default.htm)
+- [The Fed - Federal Open Market Committee](https://www.federalreserve.gov/monetarypolicy/fomc.htm)
 - [Jerome H. Powell](https://www.federalreserve.gov/aboutthefed/bios/board/powell.htm)
 - [John C. Williams](https://www.federalreserve.gov/aboutthefed/federal-reserve-system-new-york.htm)
 - [Michael S. Barr](https://www.federalreserve.gov/aboutthefed/bios/board/barr.htm)
@@ -91,10 +92,10 @@ More information regarding open market operations and reinvestments may be found
 - [Congress](https://www.congress.gov/)
 - [Senate](https://www.senate.gov/)
 - [House of Representatives](https://www.house.gov/)
-- [Donald J Trump](https://www.donaldjtrump.com/)
-- [President Donald Trump (47)](https://www.whitehouse.gov/administration/donald-j-trump/)
 - [President of the United States (POTUS)](https://www.whitehouse.gov/)
 - [White House (WH)](https://www.whitehouse.gov/)
+- [Donald J Trump](https://www.donaldjtrump.com/)
+- [President Donald Trump (47)](https://www.whitehouse.gov/administration/donald-j-trump/)
 - monetary policy 
 - employment 
 - inflation 

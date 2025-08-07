@@ -28,7 +28,7 @@ In assessing the appropriate stance of monetary policy, the [Committee](https://
 
 Voting for the monetary policy action were [Jerome H. Powell](https://www.federalreserve.gov/aboutthefed/bios/board/powell.htm), Chair; [John C. Williams](https://www.federalreserve.gov/aboutthefed/federal-reserve-system-new-york.htm), Vice Chair; [Michael S. Barr](https://www.federalreserve.gov/aboutthefed/bios/board/barr.htm); [Susan M. Collins](https://www.federalreserve.gov/aboutthefed/federal-reserve-system-boston.htm); [Lisa D. Cook](https://www.federalreserve.gov/aboutthefed/bios/board/cook.htm); [Austan D. Goolsbee](https://www.federalreserve.gov/aboutthefed/federal-reserve-system-chicago.htm); [Philip N. Jefferson](https://www.federalreserve.gov/aboutthefed/bios/board/jefferson.htm); [Alberto G. Musalem](https://www.federalreserve.gov/aboutthefed/federal-reserve-system-st-louis.htm); and [Jeffrey R. Schmid](https://www.federalreserve.gov/aboutthefed/federal-reserve-system-kansas-city.htm). Voting against this action were [Michelle W. Bowman](https://www.federalreserve.gov/aboutthefed/bios/board/bowman.htm) and [Christopher J. Waller](https://www.federalreserve.gov/aboutthefed/bios/board/waller.htm), who preferred to lower the target range for the federal funds rate by 1/4 percentage point at this meeting. Absent and not voting was [Adriana D. Kugler](https://www.federalreserve.gov/aboutthefed/bios/board/kugler.htm).
 
-For media inquiries, please email <a href="mailto:@frb.gov">media@frb.gov</a> or call <a href="tel:+12024522955">202-452-2955</a>.
+For media inquiries, please email [media@frb.gov](mailto:@frb.gov) or call [202-452-2955](tel:+12024522955).
 
 Implementation Note issued July 30, 2025
 

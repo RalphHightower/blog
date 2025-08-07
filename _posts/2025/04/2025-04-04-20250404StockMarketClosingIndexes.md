@@ -11,7 +11,7 @@ toc: true
 title: "How To Lose Friends And Piss Off The World 🌎: Trump’s Tariffs Continue Market Turmoil. Trumpcession On Target!"
 ---
 
-After tanking the markets, [Trump](https://www.donaldjtrump.com/) goes golfing ⛳️ again! First to his private [Florida](https://www.myflorida.com/) [Mar-a-Lago golf private club](https://www.maralagoclub.com/), then to his [Trump National Doral Golf Club](https://www.trumpgolfdoral.com/) for a [Liv Golf](https://www.livgolf.com/) [golf tournament](https://www.livgolf.com/schedule/miami-2025/course).
+After tanking the markets, [Trump](https://www.donaldjtrump.com/) goes golfing ⛳️ again! First to his private [Florida](https://www.myflorida.gov/) [Mar-a-Lago golf private club](https://www.maralagoclub.com/), then to his [Trump National Doral Golf Club](https://www.trumpgolfdoral.com/) for a [Liv Golf](https://www.livgolf.com/) [golf tournament](https://www.livgolf.com/schedule/miami-2025/course).
 
 - @RalphHightower 
     - [2025-04-03: How To Lose Friends and Piss Off The World 🌎: Trump Tariffs Unleash Bears In World’s China Shops]({% link _posts/2025/04/2025-04-03-TrumpTariffsTankMarkets.md %}) 
@@ -213,7 +213,7 @@ The [Trumpian](https://www.gop.com/) president was not expected to appear public
 | Trump Locations |
 |---|
 | **[White House](https://www.whitehouse.gov)** |
-| 1600 Pennsylvania Ave., NW <br /> Washington, DC 20500 <br /> <a href="tel:+12024561111">+1 (202) 456-1111</a> (comments) <br /> <a href="tel:+12024561414">+1 (202) 456-1414</a> (switchboard) |
+| 1600 Pennsylvania Ave., NW <br /> Washington, DC 20500 <br /> [+1 (202) 456-1111](tel:+12024561111) (comments) <br /> [+1 (202) 456-1414](tel:+12024561414) (switchboard) |
 | **[Mar-a-Lago](https://www.maralagoclub.com/)** |
 | [The Mar-a-Lago Club](https://www.maralagoclub.com/) <br /> 1100 South Ocean Boulevard, <br /> Palm Beach, Florida 33480 <br /> <a href="tel+15618322600">+1 (561) 832-2600</a> |
 | **Florida, West Palm Beach** |

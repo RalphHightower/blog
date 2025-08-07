@@ -73,7 +73,7 @@ Another jabbed at [Musk’s](https://ir.tesla.com/corporate/elon-musk) negative 
 
 Another worker told of colleagues attempting to quickly sell their homes to move closer to a train stop, while others were struggling to find extended hours of day care to cover the extra time for commuting. Some — including those who were exclusively hired to work remotely — will likely be forced to quit.
 
-“Everyone built their lives around these remote positions,” said a [Veterans Affairs](https://www.va.gov/) employee who is on leave with a newborn. “My supervisor lives in [Florida](https://www.myflorida.com/) and was hired as a remote employee. She can’t relocate.”
+“Everyone built their lives around these remote positions,” said a [Veterans Affairs](https://www.va.gov/) employee who is on leave with a newborn. “My supervisor lives in [Florida](https://www.myflorida.gov/) and was hired as a remote employee. She can’t relocate.”
 
 As far as presidents, [Trump](https://www.whitehouse.gov/administration/donald-j-trump/) is not alone in [his](https://www.whitehouse.gov/administration/donald-j-trump/) travels home. As president, [Joe Biden](https://bidenwhitehouse.archives.gov/) frequently traveled to [his](https://www.whitehouse.gov/administration/donald-j-trump/) home in [Wilmington](https://www.wilmingtonde.gov/), [Delaware](https://www.de.gov/), on the taxpayer dime. Then-first lady [Jill Biden](https://bidenwhitehouse.archives.gov/) was [also called out](https://abcnews.go.com/Politics/taxpayers-foot-bill-majority-jill-bidens-paris-delaware/story?id=111004942) for a costly trip as she was attempting to be at Hunter Biden’s side during [his](https://www.whitehouse.gov/administration/donald-j-trump/) trial. Amid criticism, [Joe Biden](https://bidenwhitehouse.archives.gov/) at the time said [he](https://www.whitehouse.gov/administration/donald-j-trump/) continued to hold meetings and work while home. [One analysis in 2022](https://nypost.com/2022/11/18/president-joe-bidens-frequent-delaware-trips-have-cost-taxpayers-at-least-11m/) in 2022 found that [Biden’s](https://bidenwhitehouse.archives.gov/) [Delaware](https://www.de.gov/) trips at that point cost taxpayers $11 million. [Barack Obama](obamawhitehouse.archives.gov/) would also travel to [Hawaii](https://www.hawaii.gov/) for vacations, which was far more costly of a journey than [Palm Beach](https://www.townofpalmbeach.com/) would be, said [Tom Fitton](https://www.judicialwatch.org/about/#board), president of the legal group [Judicial Watch](https://www.judicialwatch.org/).
 
@@ -102,7 +102,7 @@ Already this year [he](https://www.whitehouse.gov/administration/donald-j-trump/
 - [Henry McMaster](https://governor.sc.gov/governors-biography)
 - [Project 2025](https://www.project2025.org/)
 - [Russell Vought](https://www.linkedin.com/in/russ-vought-787396226/)
-- [Florida](https://www.myflorida.com/)
+- [Florida](https://www.myflorida.gov/)
 - [Palm Beach International Airport (PBI)](https://www.pbia.org/)
 - [Palm Beach County](https://discover.pbc.gov/Pages/default.aspx)
 - [Palm Beach](https://www.townofpalmbeach.com/)
@@ -153,37 +153,4 @@ Already this year [he](https://www.whitehouse.gov/administration/donald-j-trump/
 - politics
 - hypocrisy
 
-| Trump Golf Courses |
-|---|
-| **[Mar-a-Lago](https://www.maralagoclub.com/)** |
-| [The Mar-a-Lago Club](https://www.maralagoclub.com/) <br /> 1100 South Ocean Boulevard, <br /> Palm Beach, Florida 33480 <br /> <a href="tel+15618322600">+1 (561) 832-2600</a> |
-| **Florida, West Palm Beach** |
-| **[Trump International Golf Club](https://www.trumpinternationalpalmbeaches.com/)** <br /> 3505 Summit Blvd <br /> West Palm Beach FL 33406 <br /> <a href="tel:+15616820700">+1 (561) 682-0700</a> |
-| **California, Los Angeles** |
- **[Trump National Golf Club Los Angeles](https://www.trumpnationallosangeles.com/)** <br /> One Trump National Drive <br /> Rancho Palos Verdes, CA 90275 <br /> <a href="tel:+13102655000">+1 (310) 265-5000</a> |
-| **Florida, Miami** |
-| **[Trump National Doral Golf Club](https://www.trumpgolfdoral.com/)** <br /> 4400 N.W. 87th Ave <br /> Miami, FL 33178 <br /> <a href="tel:+13055922000">+1 (305) 592-2000</a> |
-| **Florida, Jupiter** |
-| **[Trump National Jupiter Golf Club](https://www.trumpnationaljupiter.com/about)** <br /> 115 Eagle Tree Terrace <br /> Jupiter FL 33477 <br /> <a href="tel:+15616918700">+1 (561) 691-8700</a> |
-| **New Jersey, Bedminster** |
-| **[Trump National Golf Club Bedminster](https://www.trumpnationalbedminster.com/)** <br /> 900 Lamington Road <br /> Bedminster, NJ 07921 <br /> <a href="tel:+19084704400">+1 (908) 470-4400</a> |
-| **New Jersey, Colts Neck** |
-| **[Trump National Golf Club Colts Neck](https://www.trumpcoltsneck.com/)** <br /> One Trump National Blvd <br /> Colts Neck, NJ 07722 <br /> <a href="tel:+15619731550">+1 (561) 973-1550</a> |
-| **New Jersey, Pine Hill** |
-| **[Trump National Golf Club Philadelphia](https://www.trumpnationalphiladelphia.com/)** <br /> 500 West Branch Ave. <br /> Pine Hill, NJ 08021 <br /> <a href="tel:+18564353100">+1 (856) 435-3100</a> |
-| **New York, Hopewell Junction** |
-|  **[Trump National Golf Club Hudson Valley](https://www.trumpnationalhudsonvalley.com/)** <br /> 178 Stormville Rd <br /> Hopewell Junction, NY 12533 <br /> <a href="tel:+1845.223.1600">+1 (845) 223-1600</a> |
-| **New York, Briarcliff Manor** |
-| **[Trump National Golf Club Westchester](https://www.trumpnationalwestchester.com/)** <br /> 100 Shadow Tree Lane <br /> Briarcliff Manor, NY 10510 <br /> <a href="tel:+19149440900">+1 (914) 944-0900</a> |
-| **North Carolina, Mooresville** |
-| **[Trump National Golf Club Charlotte](https://www.trumpnationalcharlotte.com/)** <br /> 120 Trump Square <br /> Mooresville, NC 28117 <br /> <a href="tel:+17047997300">+1 (704) 799-7300</a> |
-| **Virginia, Potomac Falls** |
-| **[Trump National Golf Club Washington, D.C.](https://www.trumpnationaldc.com/)** <br /> 20391 Lowes Island Blvd <br /> Potomac Falls, VA 20165 <br /> <a href="tel:+17034444801">+1 (703) 444-4801</a> |
-| **Dubai** |
-| **[Trump International Golf Club Dubai](https://www.trumpgolfdubai.com/)** <br /> DAMAC Hills <br /> Al Hebiah Third District Dubai <br /> <a href="tel:+971042453939">+971 (0) 4 245 3939</a> |
-| **Ireland, Clare** |
-| **[Trump International Golf Links & Hotel Ireland, Doonbeg](https://www.trumpgolfireland.com/)** <br />  DOONBEG CO. <br /> CLARE, IRELAND <br /> Phone: <a href="tel:+353659055600">+353 65 905 5600</a> |
-| **Scotland, Aberdeenshire** |
-| **[Trump MacLeod House & Lodge Scotland](https://www.trumphotels.com/macleod-house)** <br /> Menie Estate Balmedie <br /> Aberdeenshire, Scotland AB23 8YE <br /> PHONE: <a href="tel:+441358743300">+44 1358 743300</a> <br /> RESERVE: <a href="tel:+441358743300">+44 1358 743300</a> |
-| **Scotland, Ayrshire** |
-| **[Trump Turnberry](https://www.turnberry.co.uk/)** <br /> Maidens Road KA26 9LT Turnberry <br /> Ayrshire Scotland <br /> <a href="tel:+441655331000">+44.1655.331.000</a> <br /> <a href="tel:+4401655334115">+44 01655 334115</a> |
+{% include TrumpGolf.html %}

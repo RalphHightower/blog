@@ -119,7 +119,7 @@ title: "The Trump 2.0 Corruption Tour 2025: 🇸🇦 🇶🇦 🇦🇪"
 
 | **[Trump National Golf Club Washington, D.C.](https://www.trumpnationaldc.com/)** |
 |---|
-| 20391 Lowes Island Blvd <br /> Potomac Falls, VA 20165 <br /> <a href="tel:+17034444801">+1 (703) 444-4801</a> |
+| 20391 Lowes Island Blvd <br /> Potomac Falls, VA 20165 <br /> [+1 (703) 444-4801](tel:+17034444801) |
 
 
 ### Future Middle East/Asia Trump Property Developments
@@ -143,7 +143,7 @@ title: "The Trump 2.0 Corruption Tour 2025: 🇸🇦 🇶🇦 🇦🇪"
 
 | **[United Arab Emirates](https://www.u.ae/)<br /> Dubai** |
 |---|
-| **[Trump International Golf Club Dubai](https://www.trumpgolfdubai.com/)** <br /> DAMAC Hills <br /> Al Hebiah Third District Dubai <br /> <a href="tel:+971042453939">+971 (0) 4 245 3939</a> |
+| **[Trump International Golf Club Dubai](https://www.trumpgolfdubai.com/)** <br /> DAMAC Hills <br /> Al Hebiah Third District Dubai <br /> [+971 (0) 4 245 3939](tel:+971042453939) |
 
 *"RalphHightower"*
 - Microsoft Copilot 

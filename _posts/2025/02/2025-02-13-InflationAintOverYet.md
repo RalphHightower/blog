@@ -29,3 +29,5 @@ Inflation perked up more than anticipated in January. Wednesday's consumer price
 - [Department of the Treasury](https://home.treasury.gov/)
 - [President Of The United States (POTUS)](https://whitehouse.gov/)
 - [While House (WH)](https://www.whitehouse.gov/)
+
+{% include TrumpTariffs.html %}
