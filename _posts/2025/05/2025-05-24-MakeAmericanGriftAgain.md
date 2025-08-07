@@ -14,7 +14,7 @@ title: "The Trump Crime Family: Make America Grift Again – Meme Coin Auction F
 
 | **Virginia, Potomac Falls** |
 |---|
-| **[Trump National Golf Club Washington, D.C.](https://www.trumpnationaldc.com/)** <br /> 20391 Lowes Island Blvd <br /> Potomac Falls, VA 20165 <br /> <a href="tel:+17034444801">+1 (703) 444-4801</a> |
+| **[Trump National Golf Club Washington, D.C.](https://www.trumpnationaldc.com/)** <br /> 20391 Lowes Island Blvd <br /> Potomac Falls, VA 20165 <br /> [+1 (703) 444-4801](tel:+17034444801) |
 
 ## [The problem(s) with the White House’s defense of Trump’s scandalous crypto dinner](https://www.msnbc.com/rachel-maddow-show/maddowblog/problems-white-houses-defense-trumps-scandalous-crypto-dinner-rcna208749)
 
