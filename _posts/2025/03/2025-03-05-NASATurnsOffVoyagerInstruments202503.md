@@ -65,9 +65,9 @@ https://science.nasa.gov/mission/voyager
 News Media Contact
 DC Agle / Calla Cofield
 
-<a href="tel:+18183939011">818-393-9011</a> / <a href="tel:+18183931821">818-393-1821</a>
+[818-393-9011](tel:+18183939011) / [818-393-1821](tel:+18183931821)
 
-agle@jpl.nasa.gov / calla.e.cofield@jpl.nasa.gov
+[agle@jpl.nasa.gov](mailto:agle@jpl.nasa.gov) / [calla.e.cofield@jpl.nasa.gov](mailto:calla.e.cofield@jpl.nasa.gov)
 
 2025-032
 
