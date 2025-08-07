@@ -1150,10 +1150,7 @@ title: "Trump: Air Force One Frequent Flyer Miles"
 
 ### Where Trump Can Be Found On Weekends
 
-{% capture golf %}
-    {% include TrumpGolf.md %}
-{% endcapture %}
-{{ golf | markdownify }}
+{% include TrumpGolf.html %}
 
 | Use | Name |
 |---|---|
