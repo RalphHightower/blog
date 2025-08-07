@@ -97,3 +97,5 @@ Asked about the potential economic impact of tariffs, Powell said “the range o
 “We don’t know for how long or how much, what countries. We don’t know about retaliation. We don’t know how it’s going to transmit through the economy to consumers,” he said.
 
 Whatever the eventual outcome, “it’s clear that the central bank’s decisions this year will be shaped by the Trump administration’s policies on trade and immigration,” Joe Brusuelas, chief economist at the financial firm RSM, [wrote in a note](https://realeconomy.rsmus.com/morning-market-minute-rate-path-more-uncertain-as-era-of-fiscal-dominance-begins/) Tuesday ahead of the interest rate announcement. “These policies could lead to higher inflation, or, just as important, raise inflation expectations, which would put the Fed’s long-held 2% inflation target at risk.”
+
+{% include TrumpTariffs.html %}
