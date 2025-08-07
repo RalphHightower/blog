@@ -69,6 +69,7 @@ plugins:
 # Minima specific settings, which are only available from Minima 3.0 onward.
 minima:
   show_excerpts: true
+  page_excerpts: true
     # Minima skin selection.
     # Available skins are:
     # classic	 Default, light color scheme.
@@ -127,7 +128,7 @@ permalink: /:year/:month/:title.html
 
 # Pagination Settings
 pagination:
-  enabled: false
+  enabled: true
   per_page: 15
   offset: 0
   permalink: '/page/:num/'
@@ -137,9 +138,9 @@ pagination:
   sort_field: 'date'
   sort_reverse: true
   trail:
-    before: 2
-    after: 2
-  debug: true
+    before: 4
+    after: 4
+    debug: true
 
 readme_index:
   enabled: true

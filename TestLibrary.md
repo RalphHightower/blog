@@ -16,18 +16,21 @@ title: "Test Library"
 Testing include. 
 
 {% capture golf %}
-  {% include TrumpGolf.md %}
+    {% include TrumpGolf.md %}
 {% endcapture %}
 {{ golf | markdownify }}
 
+## Trump Lodging 
+
 {% capture lodging %}
-  {% include TrumpLodging.md %}
+    {% include TrumpLodging.md %}
 {% endcapture %}
 {{ lodging | markdownify }}
 
+## Trump Tariffs 
 
 {% capture tariffs %}
-  {% include TrumpTariffs.md %}
+    {% include TrumpTariffs.md %}
 {% endcapture %}
 {{ tariffs | markdownify }}
 

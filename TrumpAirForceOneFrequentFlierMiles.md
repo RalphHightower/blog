@@ -19,18 +19,25 @@ title: "Trump: Air Force One Frequent Flyer Miles"
 | Time | Location |
 |---|---|
 | | **Sunday, August 3 2025** |
-| 2:30 PM ⛳️| Out-of-Town Travel Pool Call Time<br />Out-of-Town Travel Pool<br />[Trump National Golf Club Bedminster](https://www.trumpnationalbedminster.com/) |
-| 5:00 PM | The President departs [Bedminster, New Jersey](https://www.trumpnationalbedminster.com/)<br />[Trump National Golf Club Bedminster](https://www.trumpnationalbedminster.com/) Out-of-Town Travel Pool, en route The [White House](https://www.whitehouse.gov/)<br />Closed Press |
-| 6:40 PM | The President arrives The [White House](https://www.whitehouse.gov/)<br />The [White House](https://www.whitehouse.gov/) Open Press |
+| 2:30 PM | Out-of-Town Travel Pool Call Time<br />[Trump National Golf Club Bedminster](https://www.trumpnationalbedminster.com/) Out-of-Town Travel Pool |
+| 5:00 PM | Out-of-Town Travel Pool Call Time<br />[Trump National Golf Club Bedminster](https://www.trumpnationalbedminster.com/) Out-of-Town Travel Pool |
+| 6:40 PM | The [President](https://www.donaldjtrump.com/) arrives The [White House](https://www.whitehouse.gov/)<br />The [White House](https://www.whitehouse.gov/) Open Press |
+| 7:30 PM | The [President](https://www.donaldjtrump.com/) departs [Bedminster, New Jersey](https://www.trumpnationalbedminster.com/), en route The [White House](https://www.whitehouse.gov/) [7:31 PM Actual]<br />[Trump National Golf Club Bedminster](https://www.trumpnationalbedminster.com/) Closed Press |
+| 7:51 PM | The [President](https://www.donaldjtrump.com/) arrives at [Lehigh Valley International Airport (ABE)](https://www.flyabe.com/)<br />[Lehigh Valley International Airport (ABE)](https://www.flyabe.com/), [Allentown](https://www.allentownpa.gov/en-us/), [PA](https://www.pa.gov/) Open Press |
+| 8:19 PM | The [President](https://www.donaldjtrump.com/) departs [Lehigh Valley International Airport (ABE)](https://www.flyabe.com/) for [Joint Base Andrews](https://www.jba.af.mil/)<br />[Lehigh Valley International Airport (ABE)](https://www.flyabe.com/), [Allentown](https://www.allentownpa.gov/en-us/), [PA](https://www.pa.gov/) Open Press |
+| 8:30 PM | In-Town Pool Call Time<br />The [White House](https://www.whitehouse.gov/) In-Town Pool |
+| 8:49 PM | The [President](https://www.donaldjtrump.com/) arrives at [Joint Base Andrews](https://www.jba.af.mil/)<br />[Lehigh Valley International Airport (ABE)](https://www.flyabe.com/), [Allentown](https://www.allentownpa.gov/en-us/), [PA](https://www.pa.gov/) Open Press |
+| 9:08 PM | The [President](https://www.donaldjtrump.com/) departs [Joint Base Andrews](https://www.jba.af.mil/) for the [White House](https://www.whitehouse.gov/)<br />[Lehigh Valley International Airport (ABE)](https://www.flyabe.com/)t, [Allentown](https://www.allentownpa.gov/en-us/), [PA](https://www.pa.gov/) Open Press |
+| 9:10 PM | The [President](https://www.donaldjtrump.com/) arrives The [White House](https://www.whitehouse.gov/) [9:17 PM Actual]<br />[South Lawn](https://www.whitehouse.gov/) Open Press |
 | | **Saturday, August 2 2025** |
-| 🏌‍♂️⛳️| The President ~~has no public events scheduled~~plays golf🏌‍♂️ (other than playing golf ⛳️🏌<br />Out-of-Town Travel Pool<br />[Trump National Golf Club Bedminster](https://www.trumpnationalbedminster.com/) |
+| 🏌‍♂️⛳️| The [President](https://www.donaldjtrump.com/) ~~has no public events scheduled~~plays golf🏌‍♂️ (other than playing golf ⛳️🏌<br />Out-of-Town Travel Pool<br />[Trump National Golf Club Bedminster](https://www.trumpnationalbedminster.com/) |
 | 10:00 AM | Out-of-Town Travel Pool Call Time<br />Out-of-Town Travel Pool |
 | | **Friday, August 1 2025** |
 | 9:00 AM | In-Town Pool Call Time<br />In-Town Pool |
-| 11:00 AM | The President receives his Intelligence Briefing<br />[Cabinet Room](https://www.trumpnationalbedminster.com/) Closed Press |
+| 11:00 AM | The [President](https://www.donaldjtrump.com/) receives his Intelligence Briefing<br />[Cabinet Room](https://www.trumpnationalbedminster.com/) Closed Press |
 | 2:40 PM | Out-of-Town Travel Pool Call Time<br />Out-of-Town Travel Pool |
-| 4:00 PM | The President departs The [White House](https://www.whitehouse.gov/) en route [Bedminster, New Jersey](https://www.trumpnationalbedminster.com/)<br />[Trump National Golf Club Bedminster](https://www.trumpnationalbedminster.com/) <br />The [White House](https://www.whitehouse.gov/) Open Press |
-| 5:40 PM ⛳️| The President arrives [Bedminster, New Jersey](https://www.trumpnationalbedminster.com/)<br />[Trump National Golf Club Bedminster](https://www.trumpnationalbedminster.com/) Out-of-Town Travel Pool<br />Out-of-Town Travel Pool |
+| 4:00 PM | The [President](https://www.donaldjtrump.com/) departs The [White House](https://www.whitehouse.gov/) en route [Bedminster, New Jersey](https://www.trumpnationalbedminster.com/)<br />[Trump National Golf Club Bedminster](https://www.trumpnationalbedminster.com/) <br />The [White House](https://www.whitehouse.gov/) Open Press |
+| 5:40 PM ⛳️| The [President](https://www.donaldjtrump.com/) arrives [Bedminster, New Jersey](https://www.trumpnationalbedminster.com/)<br />[Trump National Golf Club Bedminster](https://www.trumpnationalbedminster.com/) Out-of-Town Travel Pool<br />Out-of-Town Travel Pool |
 | | 🔥 [White House](https://www.whitehouse.gov/) 💣| 
 | | **Tuesday, July 29 2025** |
 | 12:45 AM ⛳️| Out-of-Town Travel Pool Call Time [5:45 AM Local]<br />[Trump International Golf Links Aberdeen](https://www.trumpgolfscotland.com/) |
@@ -1141,42 +1148,12 @@ title: "Trump: Air Force One Frequent Flyer Miles"
 | 10:08 PM ⛳️| The [President](https://www.donaldjtrump.com/)-elect departs his golf club for Blair House<br />[Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/) Transition Pool |
 | 11:45 PM | The [President](https://www.donaldjtrump.com/)-elect arrives at Blair House<br />Blair House Transition Pool |
 
-| Where Trump Can Be Found On Weekends |
-|---|
-| **[Mar-a-Lago](https://www.maralagoclub.com/)** |
-| [The Mar-a-Lago Club](https://www.maralagoclub.com/) <br /> 1100 South Ocean Boulevard, <br /> Palm Beach, Florida 33480 <br /> <a href="tel+15618322600">+1 (561) 832-2600</a> |
-| **Florida, West Palm Beach** |
-| **[Trump International Golf Club](https://www.trumpinternationalpalmbeaches.com/)** <br /> 3505 Summit Blvd <br /> West Palm Beach FL 33406 <br /> <a href="tel:+15616820700">+1 (561) 682-0700</a> |
-| **Florida, Miami** |
-| **[Trump National Doral Golf Club](https://www.trumpgolfdoral.com/)** <br /> 4400 N.W. 87th Ave <br /> Miami, FL 33178 <br /> <a href="tel:+13055922000">+1 (305) 592-2000</a> |
-| **Florida, Jupiter** |
-| **[Trump National Jupiter Golf Club](https://www.trumpnationaljupiter.com/)** <br /> 115 Eagle Tree Terrace <br /> Jupiter FL 33477 <br /> <a href="tel:+15616918700">+1 (561) 691-8700</a> |
-| **Virginia, Potomac Falls** |
-| **[Trump National Golf Club Washington, D.C.](https://www.trumpnationaldc.com/)** <br /> 20391 Lowes Island Blvd <br /> Potomac Falls, VA 20165 <br /> <a href="tel:+17034444801">+1 (703) 444-4801</a> |
-| **New Jersey, Bedminster** |
-| **[Trump National Golf Club Bedminster](https://www.trumpnationalbedminster.com/)** <br /> 900 Lamington Road <br /> [Bedminster, New Jersey](https://www.trumpnationalbedminster.com/) 07921 <br /> <a href="tel:+19084704400">+1 (908) 470-4400</a> |
-| **New Jersey, Colts Neck** |
-| **[Trump National Golf Club Colts Neck](https://www.trumpcoltsneck.com/)** <br /> One Trump National Blvd <br /> Colts Neck, NJ 07722 <br /> <a href="tel:+15619731550">+1 (561) 973-1550</a> |
-| **New Jersey, Pine Hill** |
-| **[Trump National Golf Club Philadelphia](https://www.trumpnationalphiladelphia.com/)** <br /> 500 West Branch Ave. <br /> Pine Hill, NJ 08021 <br /> <a href="tel:+18564353100">+1 (856) 435-3100</a> |
-| **New York, Hopewell Junction** |
-| **[Trump National Golf Club Hudson Valley](https://www.trumpnationalhudsonvalley.com/)** <br /> 178 Stormville Rd <br /> Hopewell Junction, NY 12533 <br /> <a href="tel:+18452231600">+1 (845) 223-1600</a> |
-| **New York, Briarcliff Manor** |
-| **[Trump National Golf Club Westchester](https://www.trumpnationalwestchester.com/)** <br /> 100 Shadow Tree Lane <br /> Briarcliff Manor, NY 10510 <br /> <a href="tel:+19149440900">+1 (914) 944-0900</a> |
-| **California, Los Angeles** |
-| **[Trump National Golf Club Los Angeles](https://www.trumpnationallosangeles.com/)** <br /> One Trump National Drive <br /> Rancho Palos Verdes, CA 90275 <br /> <a href="tel:+13102655000">+1 (310) 265-5000</a> |
-| **North Carolina, Mooresville** |
-| **[Trump National Golf Club Charlotte](https://www.trumpnationalcharlotte.com/)** <br /> 120 Trump Square <br /> Mooresville, NC 28117 <br /> <a href="tel:+17047997300">+1 (704) 799-7300</a> |
-| **Nevada, Las Vegas** |
-| **[Luxury Las Vegas Hotel on the Strip / Trump Hotel](https://www.trumphotels.com/las-vegas)** <br a>2000 Fashion Show Drive<br />Las Vegas, Nevada 89109<br />PHONE:<a href="tel:+17029820000">+1 702 982 0000</a><br />RESERVE: <a href="tel:+18669398786">+1 866 939 8786</a><br /><a href="mailto:lasvegas.info@trumphotels.com">lasvegas.info@trumphotels.com</a> |
-| **Dubai** |
-| **[Trump International Golf Club Dubai](https://www.trumpgolfdubai.com/)** <br /> DAMAC Hills <br /> Al Hebiah Third District Dubai <br /> <a href="tel:+971042453939">+971 (0) 4 245 3939</a> |
-| **Ireland, Clare** |
-| **[Trump International Golf Links & Hotel Ireland, Doonbeg](https://www.trumpgolfireland.com/)** <br /> DOONBEG CO. <br /> CLARE, IRELAND <br /> Phone: <a href="tel:+353659055600">+353 65 905 5600</a> |
-| **Scotland, Aberdeenshire** |
-| **[Trump MacLeod House & Lodge Scotland](https://www.trumphotels.com/macleod-house)** <br /> Menie Estate Balmedie <br /> Aberdeenshire, Scotland AB23 8YE <br /> PHONE: <a href="tel:+441358743300">+44 1358 743300</a> <br /> RESERVE: <a href="tel:+441358743300">+44 1358 743300</a> |
-| **Scotland, Ayrshire** |
-| **[Trump Turnberry](https://www.turnberry.co.uk/)** <br /> Maidens Road KA26 9LT Turnberry <br /> Ayrshire Scotland <br /> <a href="tel:+441655331000">+44.1655.331.000</a> <br /> <a href="tel:+4401655334115">+44 01655 334115</a> |
+### Where Trump Can Be Found On Weekends
+
+{% capture golf %}
+    {% include TrumpGolf.md %}
+{% endcapture %}
+{{ golf | markdownify }}
 
 | Use | Name |
 |---|---|
