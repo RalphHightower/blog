@@ -25,43 +25,43 @@ I use [5 Calls](https://www.5calls.org/)[^11] to contact my legislators, but I f
 | [Wilson, Joe (T-SC2)](https://joewilson.house.gov/)[^21] |
 |---|
 | **Washington, DC Office** |
-| 1436 Longworth House Office Building <br /> 1 Independence Ave SE <br /> Washington, DC  20515 <br /> Phone: <a href="tel:+12022252452">(202) 225-2452</a> |
+| 1436 Longworth House Office Building <br /> 1 Independence Ave SE <br /> Washington, DC  20515 <br /> Phone: [202) 225-2452](tel:+12022252452) |
 | **The Midlands Office** |
-| 1700 Sunset Blvd (US 378), Suite 1 <br /> West Columbia, SC  29169 <br /> Phone: <a href="tel:+18039390041">(803) 939-0041</a> <br /> Fax: <a href="tel:+18039390078">(803) 939-0078</a> |
+| 1700 Sunset Blvd (US 378), Suite 1 <br /> West Columbia, SC  29169 <br /> Phone: [803) 939-0041](tel:+18039390041) <br /> Fax: [803) 939-0078](tel:+18039390078) |
 | **Aiken/Barnwell Office** |
-| 1930 University Parkway, Suite 1600 <br /> Aiken, SC  29801 <br /> Phone: <a href="tel:+18036426416">(803) 642-6416</a> <br /> Fax: <a href="tel:+18036426418">(803) 642-6418</a> |
+| 1930 University Parkway, Suite 1600 <br /> Aiken, SC  29801 <br /> Phone: [803) 642-6416](tel:+18036426416) <br /> Fax: [803) 642-6418](tel:+18036426418) |
 
 [^21]: @RalphHightower: I made a personal vow on September 9, 2009 to never vote for [Wilson](https//joewilson.house.gov/) when he embarrassed [South Carolina](https://www.sc.gov/) on national TV, even when he ran with no opposition. 
 
 | [Graham, Lindsey (T-SC)](https://www.lgraham.senate.gov/)[^22] |
 |---|
 | **Washington D.C. Office** |
-| 211 Russell Senate Office Building <br /> 2 Constitution Ave NE <br /> Washington, DC 20510 <br /> Office: <a href="tel:+12022245972">(202) 224-5972</a> <br /> Fax: <a href="tel:+12022243808">(202) 224-3808</a> |
+| 211 Russell Senate Office Building <br /> 2 Constitution Ave NE <br /> Washington, DC 20510 <br /> Office: [202) 224-5972](tel:+12022245972) <br /> Fax: [202) 224-3808](tel:+12022243808) |
 | **Midlands Office** |
-| 2142 Boyce Street, Suite 404 <br /> Columbia, SC 29201 <br /> <a href="tel:+18039330112">(803) 933-0112</a> office <br /> <a href="tel:+18039330957">(803) 933-0957</a> fax |
+| 2142 Boyce Street, Suite 404 <br /> Columbia, SC 29201 <br /> [803) 933-0112](tel:+18039330112) office <br /> [803) 933-0957](tel:+18039330957) fax |
 | **Upstate Office** |
-| 2 West Washington Street, Suite 808 <br /> Greenville, SC 29601 <br /> Main: <a href="tel:+18642501417">(864) 250-1417</a> <br /> Fax: <a href="tel:+18642504322">(864) 250-4322</a> |
+| 2 West Washington Street, Suite 808 <br /> Greenville, SC 29601 <br /> Main: [864) 250-1417](tel:+18642501417) <br /> Fax: [864) 250-4322](tel:+18642504322) |
 | **Pee Dee Office** |
-| McMillan Federal Building <br /> 401 West Evans Street, Suite 111 <br /> Florence, SC 29501 <br /> Main: <a href="tel:+18436681505">(843) 669-1505</a> <br /> Fax: <a href="tel:+18336699015">(843) 669-9015</a> |
+| McMillan Federal Building <br /> 401 West Evans Street, Suite 111 <br /> Florence, SC 29501 <br /> Main: [843) 669-1505](tel:+18436681505) <br /> Fax: [843) 669-9015](tel:+18336699015) |
 | **Lowcountry Office** |
-| 4 Carriage Lane, Suite 401 <br /> Charleston, SC 29407 <br /> Main: <a href="tel:+18438493887">(843) 849-3887</a> <br /> Fax: <a href="tel:+18439713669">(843) 971-3669</a> |
+| 4 Carriage Lane, Suite 401 <br /> Charleston, SC 29407 <br /> Main: [843) 849-3887](tel:+18438493887) <br /> Fax: [843) 971-3669](tel:+18439713669) |
 | **Piedmont Office** |
-| 235 East Main Street, Suite 100 <br /> Rock Hill, SC 29730 <br /> Main: <a href="tel:+18033662828">(803) 366-2828</a> <br /> Fax: <a href="tel:+18033665353">(803) 366-5353</a> |
+| 235 East Main Street, Suite 100 <br /> Rock Hill, SC 29730 <br /> Main: [803) 366-2828](tel:+18033662828) <br /> Fax: [803) 366-5353](tel:+18033665353) |
 | **Golden Corner Office** |
-| 124 Exchange Street, Suite A <br /> Pendleton, SC 29670 <br /> Main: <a href="tel:+18646464090">(864) 646-4090</a> <br /> Fax: <a href="tel:+18646468609">(864) 646-8609</a> |
+| 124 Exchange Street, Suite A <br /> Pendleton, SC 29670 <br /> Main: [864) 646-4090](tel:+18646464090) <br /> Fax: [864) 646-8609](tel:+18646468609) |
 
 [^22]: @RalphHightower: [Trump](https://www.donaldjtrump.com/)'s Poodle
 
 | [Scott, Tim (T-SC)](https://www.scott.senate.gov/)[^23] |
 |---|
 | **Washington D.C.** |
-| 104 Hart Senate Office <br /> 120 Constitution Ave NE <br /> Washington, DC 20510 <br /> Phone: <a href="tel:+12022246121">(202) 224-6121</a> <br /> Fax: <a href="tel:+12022275143">(202) 228-5143</a> |
+| 104 Hart Senate Office <br /> 120 Constitution Ave NE <br /> Washington, DC 20510 <br /> Phone: [202) 224-6121](tel:+12022246121) <br /> Fax: [202) 228-5143](tel:+12022275143) |
 | **Midlands** |
-| 1901 Main Street <br /> Suite 1425 <br /> Columbia, SC 29201 <br /> Phone: <a href="tel:+18037716112">(803) 771-6112</a> <br /> Fax: <a href="tel:+18558028355">(855) 802-9355</a> <br /> |
+| 1901 Main Street <br /> Suite 1425 <br /> Columbia, SC 29201 <br /> Phone: [803) 771-6112](tel:+18037716112) <br /> Fax: [855) 802-9355](tel:+18558028355) <br /> |
 | **Upstate** |
-| 301 N. Main Street <br /> Suite 1006 <br /> Greenville, SC 29601 <br /> Phone: <a href="tel:+18642235366">(864) 233-5366</a> <br /> Fax: <a href="tel:+18558929355">(855) 802-9355</a> |
+| 301 N. Main Street <br /> Suite 1006 <br /> Greenville, SC 29601 <br /> Phone: [864) 233-5366](tel:+18642235366) <br /> Fax: [855) 802-9355](tel:+18558929355) |
 | **Low Country** |
-| 2500 City Hall Lane <br /> 3rd Floor Suite <br /> North Charleston, SC 29406 <br /> Phone: <a href="tel:+18437274525">(843) 727-4525</a> <br /> Fax: <a href="tel:+18558029355">(855) 802-9355</a> |
+| 2500 City Hall Lane <br /> 3rd Floor Suite <br /> North Charleston, SC 29406 <br /> Phone: [843) 727-4525](tel:+18437274525) <br /> Fax: [855) 802-9355](tel:+18558029355) |
 
 [^23]: @RalphHightower: [Trump](https://www.donaldjtrump.com/)'s Lawn Jockey. 
 
