@@ -20,3 +20,5 @@ Feb 13, 2025  #marytrump #trumpcabinet [#donaldtrump](https://www.whitehouse.gov
 
 - [White House (WH)](https://www.whitehouse.gov/)
 - [Trump Party](https://www.gop.com/)
+
+{% include TrumpTariffs.html %}

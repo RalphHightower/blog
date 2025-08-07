@@ -39,4 +39,4 @@ There’s a principle known as “Chesterton’s Fence”: Don’t remove a fenc
 - [White House (WH)](https://www.whitehouse.gov/)
 - [President Of The United States (POTUS)](https://www.whitehouse.gov/)
 
-
+{% include TrumpTariffs.html %}
