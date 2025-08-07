@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [media, MSNBC, Clarissa-Jan Lim, NBC News, people, organizations, companies, foreign countries, state local governments, political parties, Federal Government, Constitution of the United States, Supreme Court of the United States (SCOTUS), US Courts, Department of Justice (DOJ), Federal Bureau of Investigation (FBI), Congress, Senate, House of Representatives, President of the United States (POTUS), White House (WH), Trump criminal associates, Donald J Trump, President Donald Trump (45), President Donald Trump (47), President Trump (47) Administration, President Trump (47) Cabinet, JD Vance, Vice President JD Vance, Pam Bondi, Kash Patel, Deputy Director Dan Bongino — FBI, tariffs, politics, stupidity, grift, self-dealing, corruption, con artist, crime, cryptocurrency, criminal businesses, criminal associates, criminal partners, criminal businesses, criminal associates, , human trafficking, sex trafficking, pedophile, Jeffrey Epstein, Ghislaine Maxwell]
+tags: [media, MSNBC, Clarissa-Jan Lim, NBC News, people, organizations, companies, foreign countries, state local governments, political parties, Federal Government, Constitution of the United States, Supreme Court of the United States (SCOTUS), US Courts, Department of Justice (DOJ), Federal Bureau of Investigation (FBI), Congress, Senate, House of Representatives, President of the United States (POTUS), White House (WH), Trump criminal associates, Donald J Trump, President Donald Trump (45), President Donald Trump (47), President Trump (47) Administration, President Trump (47) Cabinet, JD Vance, Vice President JD Vance, Pam Bondi, Kash Patel, Deputy Director Dan Bongino — FBI, tariffs, politics, stupidity, grift, self-dealing, corruption, con artist, crime, cryptocurrency, criminal businesses, criminal associates, criminal partners, criminal businesses, criminal associates, human trafficking, sex trafficking, pedophile, Jeffrey Epstein, Ghislaine Maxwell]
 categories: [Jeffrey Epstein, Ghislaine Maxwell, Trump Crime Family, Donald Trump]
 date: 2025-04-26 3:00 PM
 excerpt: ''
@@ -79,6 +79,15 @@ Clarissa-Jan Lim is a breaking/trending news blogger for MSNBC Digital. She was 
 - corruption
 - con artist 
 - crime
+- cryptocurrency 
+- criminal associates
+- criminal businesses
+- criminal partners
+    - human trafficking 
+    - sex trafficking 
+    - pedophile 
+        - Jeffrey Epstein 
+        - Ghislaine Maxwell
 - cryptocurrency 
 - criminal associates
 - criminal businesses
