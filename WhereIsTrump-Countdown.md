@@ -114,7 +114,7 @@ If it's the weekend, America's Golfer-in-Chief, [Trump](https://www.donaldjtrump
 - [Roll Call Factba.se - Donald J. Trump's Public Schedule](https://rollcall.com/factbase/trump/topic/calendar/)
 - [JSON : Roll Call Factba.se - Donald J. Trump's Public Schedule](https://media-cdn.factba.se/rss/json/trump/calendar-full.json)
 
-##### Where Trump Can Be Found On Weekends |
+##### Where Trump Can Be Found On Weekends
 
 {% include TrumpGolf.html %}
 
@@ -156,7 +156,7 @@ function setElementText(element, text) {
 
 function updateCounters() {
     showElement('burn');
-    showElementr as('golf');
+    showElement('golf');
     const now = new Date();
     setElementText('current-time', now.toString());
     // Set time to noon for today
