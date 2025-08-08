@@ -2,7 +2,7 @@
 layout: post
 tags: [media, MSNBC, Deadline –  Legal Blog, Jordan Rubin, organizations, victims (Epstein), Virginia Giuffre, organizations, universities, political parties, Democrat Party, Trumpian Party, foreign countries, state local governments, federal government, Constitution of the United States, Supreme Court of the United States (SCOTUS), Supreme Court Justices, US Courts, Department of Justice (DOJ), Office of the Pardon Attorney, Department of State (DOS), Department of Housing and Urban Development (HUD), HUD’s Secretary / HUD.gov / U.S. Department of Housing and Urban Development (HUD), Department of Defense (DOD), Joint Chiefs of Staff (JCS), Air Force, Joint Base Andrews, Air Force One, Federal Bureau of Investigation (FBI), James Comey, Congress, Senate, Markwayne Mullin (T-OK), Sen. Chris Murphy (D-CT), Ruben Gallego (D-AZ), House of Representatives, President of the United States (POTUS), White House (WH), Donald J Trump, President Donald Trump (45), President Donald Trump (47), President Trump (47) Administration, President Trump (47) Cabinet, JD Vance, Vice President JD Vance, Pam Bondi, Kash Patel, Deputy Director Dan Bongino — FBI, tariffs, politics, stupidity, grift, self-dealing, corruption, con, criminal, cryptocurrency, criminal associates, criminal businesses, The Mar-a-Lago Club, criminal partners, human trafficking, sex trafficking, pedophile, Jeffrey Epstein, Ghislaine Maxwell]
 categories: [Jeffrey Epstein, Ghislaine Maxwell, Trump Crime Family, Donald Trump]
-date: 2019-06-25 13:14:15
+date: 2025-07-31 5:11 PM
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
