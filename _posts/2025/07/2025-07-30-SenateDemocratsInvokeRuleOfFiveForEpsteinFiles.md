@@ -1,13 +1,13 @@
 ---
 layout: post
-tags: []
+tags: [media, MSNBC, Steve Benen, The Rachel Maddow Show, MaddowBlog, “Ministry of Truth –  Democracy Reality and the Republicans’ War on the Recent Past.”, NBC News, New York Times (NYT), organizations, companies, foreign countries, state local governments, political parties, Trumpian Party, Democrat Party, Federal Government, Constitution of the United States, 5 USC 2954 –  Information to committees of Congress on request, Supreme Court of the United States (SCOTUS), US Courts, Department of Justice (DOJ), Department of State (DOS), Federal Bureau of Investigation (FBI), Congress, Senate, Homeland Security and Governmental Affairs, Charles E. Schumer (D-NY), Minority Leader, House of Representatives, Committee on Oversight and Government Reform, President of the United States (POTUS), White House (WH), Trump crime associates, Donald J Trump, President Donald Trump (45), President Donald Trump (47), President Trump (47) Administration, President Trump (47) Cabinet, JD Vance, Vice President JD Vance, Pam Bondi, Kash Patel, Deputy Director Dan Bongino — FBI, tariffs, politics, stupidity, grift, self-dealing, corruption, con artist, crime, cryptocurrency, criminal businesses, criminal associates, criminal partners, criminal businesses, criminal associates, crime partners, human trafficking, sex trafficking, pedophile, Jeffrey Epstein, Ghislaine Maxwell]
 categories: [Jeffrey Epstein, Ghislaine Maxwell, Trump Crime Family, Donald Trump]
 date: 2025-07-30 1:57 PM
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: 
+title: "Senate Democrats Use New Tactic to Get Epstein Files"
 ---
 
 
