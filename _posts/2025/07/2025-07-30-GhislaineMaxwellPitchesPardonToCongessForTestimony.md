@@ -2,7 +2,7 @@
 layout: post
 tags: [media, MSNBC, Deadline –  Legal Blog, Jordan Rubin, organizations, universities, Cornell University, Welcome to LII / Legal Information Institute, companies, foreign countries, state local governments, New York (NY), New York City (NYC), political parties, Democrat Party, Trumpian Party, Federal Government, Constitution of the United States, Supreme Court of the United States (SCOTUS), US Courts, Department of Justice (DOJ), Department of State (DOS), Federal Bureau of Investigation (FBI), James Comey, Congress, Senate, House of Representatives, James Comer (T-KY1), Oversight Committee, President of the United States (POTUS), White House (WH), Donald J Trump, President Donald Trump (45), President Donald Trump (47), President Trump (47) Administration, President Trump (47) Cabinet, JD Vance, Vice President JD Vance, Pam Bondi, Emil Bove / LinkedIn, Office of the Deputy Attorney General / Office of the Deputy Attorney General, Todd Blanche / LinkedIn, Kash Patel, Deputy Director Dan Bongino — FBI, tariffs, politics, stupidity, grift, self-dealing, corruption, con, crime, cryptocurrency, criminal associates, criminal businesses, criminal partners, crime partners, human trafficking, sex trafficking, pedophile, Jeffrey Epstein, Ghislaine Maxwell]
 categories: [Jeffrey Epstein, Ghislaine Maxwell, Trump Crime Family, Donald Trump]
-#date: 2019-06-25 13:14:15
+date: 2025-07-30 8:14 AM
 #excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
@@ -104,5 +104,3 @@ Subscribe to the [Deadline: Legal Newsletter](https://link.msnbc.com/join/5ck/ms
     - pedophile 
         - Jeffrey Epstein 
         - Ghislaine Maxwell
-
-Ghislaine Maxwell To Congress: Immunity, Pardon, Listen of Questions, Or I'll Take the Fifth

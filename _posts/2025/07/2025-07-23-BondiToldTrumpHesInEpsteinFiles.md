@@ -2,7 +2,7 @@
 layout: post
 tags: [media, MSNBC, Steve Benen, “Ministry of Truth –  Democracy Reality and the Republicans’ War on the Recent Past.”, Rachel Maddow, The Rachel Maddow Show, MaddowBlog, The Guardian, NBC News, New York Times (NYT), political parties, Democrat Party, Trumpian Party, Federal Government, Constitution of the United States, Supreme Court of the United States (SCOTUS), US Courts, Southern District of Florida / United States District Court, Judge Robin L. Rosenberg / Southern District of Florida / United States District Court, Department of Justice (DOJ), BOP –  Federal Bureau of Prisons Web Site, Department of State (DOS), Federal Bureau of Investigation (FBI), James Comey, Congress, Senate, Dick Durbin of Illinois, House of Representatives, Oversight Committee, Mike Johnson (T-LA4), House Speaker, President of the United States (POTUS), White House (WH), Donald J Trump, President Donald Trump (45), President Donald Trump (47), President Trump (47) Administration, President Trump (47) Cabinet, JD Vance, Vice President JD Vance, Pam Bondi, Kash Patel, Deputy Director Dan Bongino — FBI, tariffs, politics, stupidity, grift, self-dealing, corruption, con, crime, cryptocurrency, criminal associates, criminal businesses, criminal partners, crime partners, human trafficking, sex trafficking, pedophile, Jeffrey Epstein, Ghislaine Maxwell]
 categories: [Jeffrey Epstein, Ghislaine Maxwell, Trump Crime Family, Donald Trump]
-#date: 2025-07-23 7:50 PM
+date: 2025-07-23 7:50 PM
 #excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:

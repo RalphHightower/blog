@@ -52,7 +52,7 @@ Subscribe to the MSNBC Daily Newsletter: https://link.msnbc.com/join/5ck/msnbc..
         - [Consumer Price Index Summary - 2025 M06 Results](https://www.bls.gov/news.release/cpi.nr0.htm)
     - [Congress](https://www.congress.gov/)
     - [Senate](https://www.senate.gov/)
-        - [Minority Leader](https://bioguide.congress.gov/search/bio/S000148)
+        - [Minority Leader](https://www.senate.gov/about/parties-leadership/majority-minority-leaders.htm)
         - [Charles E. Schumer (D-NY)](https://www.schumer.senate.gov/)
     - [House of Representatives](https://www.house.gov/)
     - [President of the United States (POTUS)](https://www.whitehouse.gov/)
