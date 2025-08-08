@@ -65,7 +65,7 @@ Steve Benen is a producer for "The Rachel Maddow Show," the editor of MaddowBlog
 - companies
 - universities 
 - foreign countries 
-    - [Hungary](https://kormany.hu/)
+    - [Magyarország Kormánya - főoldal (HU)](https://kormany.hu/)
         - [Viktor Orbán](https://kormany.hu/miniszterelnok/eletrajz)
 - political parties
 - [Democrat Party](https://www.democrats.org/)
