@@ -200,15 +200,9 @@ Class III.
 
 ###### If It’s The Weekend, Find Trump On One Of His Golf Courses
 
-{% capture lodging %}
-    {% include TrumpLodging.md %}
-{% endcapture %}
-{{ lodging | markdownify }}
+{% include TrumpGolf.html %}
 
-{% capture lodging %}
-    {% include TrumpLodging.md %}
-{% endcapture %}
-{{ lodging | markdownify }}
+{% include TrumpLodging.html %}
 
 #### [South Carolina](https://www.sc.gov/) [Attorney General](https://www.scag.gov/)
 

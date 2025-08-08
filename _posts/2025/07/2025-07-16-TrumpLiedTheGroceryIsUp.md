@@ -37,7 +37,7 @@ A [CNBC report](https://www.nbcnews.com/business/business-news/inflation-picks-j
 The developments did not go unnoticed on [Capitol Hill](https://www.congress.gov/).
 
 [Trump](https://www.donaldjtrump.com/) says he was surprised that [Jerome Powell](https://www.federalreserve.gov/aboutthefed/bios/board/powell.htm), the [Fed](https://www.federalreserve.gov/) chair he appointed, was appointed
-“We’ve said from the start that [Donald Trump](https://www.donaldjtrump.com/)’s tariffs are a national sales tax on working and middle class families — and now it is causing inflation to rise, as many of us feared,” [Senate](https://www.senate.gov/) [Minority Leader](https://bioguide.congress.gov/search/bio/S000148) [Chuck Schumer](https://www.schumer.senate.gov/) said after the data was released. “And there is too large a chance this tariff increase is just the beginning, as chaos on tariffs rise.”
+“We’ve said from the start that [Donald Trump](https://www.donaldjtrump.com/)’s tariffs are a national sales tax on working and middle class families — and now it is causing inflation to rise, as many of us feared,” [Senate](https://www.senate.gov/) [Minority Leader](https://www.senate.gov/about/parties-leadership/majority-minority-leaders.htm) [Chuck Schumer](https://www.schumer.senate.gov/) said after the data was released. “And there is too large a chance this tariff increase is just the beginning, as chaos on tariffs rise.”
 
 The [New York](https://www.ny.gov/) [Democrat](https://www.democrats.org/) added, “Tariffs raise the price of groceries, add thousands of dollars in additional costs for the average household, and [Donald Trump](https://www.donaldjtrump.com/)’s chaotic approach does nothing — nothing — to make our economy stronger. Even worse, real wages are down for June as Americans pay more for groceries, electricity and health care. ... Remember what [Donald Trump](https://www.donaldjtrump.com/) said on the campaign trail? He said that if elected, he would bring costs down on day one. It is now the middle of July. Inflation is going up. And that is the definition of a broken promise.”
 
@@ -65,7 +65,7 @@ The [New York](https://www.ny.gov/) [Democrat](https://www.democrats.org/) added
         - [Consumer Price Index Summary - 2025 M06 Results](https://www.bls.gov/news.release/cpi.nr0.htm)
     - [Congress](https://www.congress.gov/)
     - [Senate](https://www.senate.gov/)
-        - [Minority Leader](https://bioguide.congress.gov/search/bio/S000148)
+        - [Minority Leader](https://www.senate.gov/about/parties-leadership/majority-minority-leaders.htm)
         - [Charles E. Schumer (D-NY)](https://www.schumer.senate.gov/)
     - [House of Representatives](https://www.house.gov/)
     - [President of the United States (POTUS)](https://www.whitehouse.gov/)

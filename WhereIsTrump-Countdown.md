@@ -116,10 +116,7 @@ If it's the weekend, America's Golfer-in-Chief, [Trump](https://www.donaldjtrump
 
 ##### Where Trump Can Be Found On Weekends |
 
-{% capture golf %}
-    {% include TrumpGolf.md %}
-{% endcapture %}
-{{ golf | markdownify }}
+{% include TrumpGolf.html %}
 
 <script>
 

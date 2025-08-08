@@ -42,7 +42,7 @@ Time will tell, as will the degree to which this helps [Trump](https://www.donal
 
 Subscribe to the [Deadline: Legal Newsletter](https://link.msnbc.com/join/5ck/msnbc-deadlinelegal-signup-inline) for expert analysis on the top legal stories of the week, including updates from the [Supreme Court](https://www.supremecourt.gov/) and developments in the [Trump](https://www.donaldjtrump.com/) administration’s legal cases.
 
-Jordan Rubin is the [Deadline: Legal Blog](https://www.msnbc.com/deadline-white-house) writer. He was a prosecutor for the [New York County District Attorney’s Office](https://manhattanda.org/) in [Manhattan](https://manhattanda.org/) and is the author of “Bizarro," a book about the secret war on synthetic drugs. Before he joined [MSNBC](https://www.msnbc.com/), he was a legal reporter for [Bloomberg Law](https://pro.bloomberglaw.com/).
+[Jordan Rubin](https://www.msnbc.com/author/jordan-rubin-ncpn1301611) is the [Deadline: Legal Blog](https://www.msnbc.com/deadline-white-house) writer. He was a prosecutor for the [New York County District Attorney’s Office](https://manhattanda.org/) in [Manhattan](https://manhattanda.org/) and is the author of “Bizarro," a book about the secret war on synthetic drugs. Before he joined [MSNBC](https://www.msnbc.com/), he was a legal reporter for [Bloomberg Law](https://pro.bloomberglaw.com/).
 
 ----
 - media
