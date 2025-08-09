@@ -20,9 +20,9 @@ Technical information:
 
 | | | | |
 |---|---|---|---|
-| Household data: |	<a href="tel:+12026916378">(202) 691-6378</a> | <a href="mailto:cpsinfo@bls.gov">cpsinfo@bls.gov</a> | www.bls.gov/cps</a> |
-| Establishment data:	| <a href="tel:+12026916555">(202) 691-6555</a> | <a href="mailto:cesinfo@bls.gov">cesinfo@bls.gov</a> | www.bls.gov/ces |
-| Media contact:	| <a href="tel:+12026915902">(202) 691-5902</a> | <a href="mailto:PressOffice@bls.gov">PressOffice@bls.gov </a> |
+| Household data: |	[(202) 691-6378](tel:+120269163788) | [cpsinfo@bls.gov](mailto:cpsinfo@bls.gov) |[www.bls.gov/cps](www.bls.gov/cps) |
+| Establishment data:	| [(202) 691-6555](tel:+12026916555) | [cesinfo@bls.gov](mailto:cesinfo@bls.gov) | [www.bls.gov/ces](www.bls.gov/ces) |
+| Media contact:	| [(202) 691-5902](tel:+12026915902) | [PressOffice@bls.gov](mailto:PressOffice@bls.gov) |
 
 THE EMPLOYMENT SITUATION -- JULY 2025
 
