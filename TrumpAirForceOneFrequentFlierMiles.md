@@ -2,7 +2,7 @@
 layout: page
 tags: [The Mar-a-Lago Club, Palm Beach Florida 33480, Trump International Golf Club, West Palm Beach FL 33406, Trump National Doral Golf Club, Miami FL 33178, Trump National Jupiter Golf Club, Jupiter FL 33477, Trump National Golf Club Washington D.C., Potomac Falls VA 20165, Trump National Golf Club Bedminster, Bedminster NJ 07921, Trump National Golf Club Colts Neck, Colts Neck NJ 07722, Trump National Golf Club Philadelphia, Pine Hill NJ 08021, Trump National Golf Club Hudson Valley, Hopewell Junction NY 12533, Trump National Golf Club Los Angeles, Rancho Palos Verdes CA 90275, Trump National Golf Club Charlotte, Mooresville NC 28117, Trump International Golf Club Dubai, Al Hebiah Third District Dubai, Trump International Golf Links & Hotel Ireland Doonbeg, CLARE IRELAND, Trump MacLeod House & Lodge Scotland, Aberdeenshire Scotland AB23 8YE, Trump MacLeod House & Lodge Scotland, Aberdeenshire Scotland AB23 8YE, Trump Turnberry, Ayrshire Scotland]
 categories: [Donald Trump]
-date: 2025-07-25 9:15 AM
+date: 2025-08-08 9:40 PM
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
@@ -15,12 +15,17 @@ title: "Trump: Air Force One Frequent Flyer Miles"
 - 2025-04-05: [Trump Never Let a Weekend of Golf ⛳️ Interfere With a Commander-In-Chief’s Solemn Duty to Receive Fallen Military 🪖]({% link _posts/2025/04/2025-04-05-MilitaryFallenDontInterruptTrumpGolfWeekends.md %})
 
 [^666]: @RalphHightower – [Federal Aviation Administration - Graphic TFRs](https://tfr.faa.gov/tfr3/?page=list)
+[^53860]: [TFR 5_3860 – Federal Aviation Administration - Graphic TFRs](https://tfr.faa.gov/tfr3/?page=detail_5_3860)
 
 | Time | Location |
 |---|---|
+| | **Saturday, August 9, 2025[^53860]** |
+| 8:30 AM ⛳️ | [Donnie](https://www.donaldjtrump.com/) arrives at [Trump National Golf Club Washington, D.C.](https://www.trumpnationaldc.com/) <br /> 20391 Lowes Island Blvd <br /> Potomac Falls, VA 20165 <br /> [+1 (703) 444-4801](tel:+17034444801) |
+| ⛳️🏌‍♂️| [Trump National Golf Club Washington, D.C.](https://www.trumpnationaldc.com/) <br /> 20391 Lowes Island Blvd <br /> Potomac Falls, VA 20165 <br /> [+1 (703) 444-4801](tel:+17034444801) |
+| 6:00 PM | [Donnie](https://www.donaldjtrump.com/) departs [Trump National Golf Club Washington, D.C.](https://www.trumpnationaldc.com/) for the [White House](https://www.whitehouse.gov/) |
 | | **Sunday, August 3 2025** |
-| 2:30 PM | Out-of-Town Travel Pool Call Time<br />[Trump National Golf Club Bedminster](https://www.trumpnationalbedminster.com/) Out-of-Town Travel Pool |
-| 5:00 PM | Out-of-Town Travel Pool Call Time<br />[Trump National Golf Club Bedminster](https://www.trumpnationalbedminster.com/) Out-of-Town Travel Pool |
+| 2:30 PM ⛳️| Out-of-Town Travel Pool Call Time<br />[Trump National Golf Club Bedminster](https://www.trumpnationalbedminster.com/) Out-of-Town Travel Pool |
+| 5:00 PM ⛳️| Out-of-Town Travel Pool Call Time<br />[Trump National Golf Club Bedminster](https://www.trumpnationalbedminster.com/) Out-of-Town Travel Pool |
 | 6:40 PM | The [President](https://www.donaldjtrump.com/) arrives The [White House](https://www.whitehouse.gov/)<br />The [White House](https://www.whitehouse.gov/) Open Press |
 | 7:30 PM | The [President](https://www.donaldjtrump.com/) departs [Bedminster, New Jersey](https://www.trumpnationalbedminster.com/), en route The [White House](https://www.whitehouse.gov/) [7:31 PM Actual]<br />[Trump National Golf Club Bedminster](https://www.trumpnationalbedminster.com/) Closed Press |
 | 7:51 PM | The [President](https://www.donaldjtrump.com/) arrives at [Lehigh Valley International Airport (ABE)](https://www.flyabe.com/)<br />[Lehigh Valley International Airport (ABE)](https://www.flyabe.com/), [Allentown](https://www.allentownpa.gov/en-us/), [PA](https://www.pa.gov/) Open Press |
@@ -34,7 +39,7 @@ title: "Trump: Air Force One Frequent Flyer Miles"
 | 10:00 AM | Out-of-Town Travel Pool Call Time<br />Out-of-Town Travel Pool |
 | | **Friday, August 1 2025** |
 | 9:00 AM | In-Town Pool Call Time<br />In-Town Pool |
-| 11:00 AM | The [President](https://www.donaldjtrump.com/) receives his Intelligence Briefing<br />[Cabinet Room](https://www.trumpnationalbedminster.com/) Closed Press |
+| 11:00 AM | The [President](https://www.donaldjtrump.com/) receives his Intelligence Briefing<br />[Cabinet Room](https://www.whitehouse.gov/) Closed Press |
 | 2:40 PM | Out-of-Town Travel Pool Call Time<br />Out-of-Town Travel Pool |
 | 4:00 PM | The [President](https://www.donaldjtrump.com/) departs The [White House](https://www.whitehouse.gov/) en route [Bedminster, New Jersey](https://www.trumpnationalbedminster.com/)<br />[Trump National Golf Club Bedminster](https://www.trumpnationalbedminster.com/) <br />The [White House](https://www.whitehouse.gov/) Open Press |
 | 5:40 PM ⛳️| The [President](https://www.donaldjtrump.com/) arrives [Bedminster, New Jersey](https://www.trumpnationalbedminster.com/)<br />[Trump National Golf Club Bedminster](https://www.trumpnationalbedminster.com/) Out-of-Town Travel Pool<br />Out-of-Town Travel Pool |
@@ -55,7 +60,7 @@ title: "Trump: Air Force One Frequent Flyer Miles"
 | 10:45 AM | The [President](https://www.donaldjtrump.com/) departs [Glasgow](https://www.cityofglasgow.co.uk/), [Scotland](https://www.gov.scot/), en route [Aberdeen](https://www.aberdeencity.gov.uk/), [Scotland](https://www.gov.scot/) [3:45 PM Local; 5:16 PM Actual]<br />[Glasgow Prestwick Airport](https://www.glasgowprestwick.com/), [Glasgow](https://www.cityofglasgow.co.uk/), [Scotland](https://www.gov.scot/), [United Kingdom](https://www.gov.uk/) Out-of-Town Travel Pool |
 | 11:16 AM | The [President](https://www.donaldjtrump.com/) departs [Trump Turnberry](https://www.turnberry.co.uk/) for [Glasgow](https://www.cityofglasgow.co.uk/), [Scotland](https://www.gov.scot/) [4:16 PM Local]<br />[Trump Turnberry](https://www.turnberry.co.uk/), Girvan, [Scotland](https://www.gov.scot/) Out-of-Town Travel Pool |
 | 11:58 AM | The [President](https://www.donaldjtrump.com/) arrives at [Glasgow Prestwick Airport](https://www.glasgowprestwick.com/), [Scotland](https://www.gov.scot/), [United Kingdom](https://www.gov.uk/) [4:58 PM Local]<br />[Glasgow Prestwick Airport](https://www.glasgowprestwick.com/), [Glasgow](https://www.cityofglasgow.co.uk/), [Scotland](https://www.gov.scot/), [United Kingdom](https://www.gov.uk/) Out-of-Town Travel Pool |
-| 12:25 PM | The [President](https://www.donaldjtrump.com/) arrives [Aberdeen](https://www.aberdeencity.gov.uk/), [Scotland](https://www.gov.scot/) [5:25 PM Local; 7:13 PM Actual]<br />[Trump International Golf Links Aberdeen](https://www.trumpgolfscotland.com/) Expanded<br />Out-of-Town Travel Pool |
+| 12:25 PM ⛳️| The [President](https://www.donaldjtrump.com/) arrives [Aberdeen](https://www.aberdeencity.gov.uk/), [Scotland](https://www.gov.scot/) [5:25 PM Local; 7:13 PM Actual]<br />[Trump International Golf Links Aberdeen](https://www.trumpgolfscotland.com/) Expanded<br />Out-of-Town Travel Pool |
 | 12:46 PM | The [President](https://www.donaldjtrump.com/) arrives at [RAF Lossiemouth](https://www.raf.mod.uk/our-organisation/stations/raf-lossiemouth/), [United Kingdom](https://www.gov.uk/) [5:46 PM Local]<br />[RAF Lossiemouth](https://www.raf.mod.uk/our-organisation/stations/raf-lossiemouth/), [Scotland](https://www.gov.scot/), [United Kingdom](https://www.gov.uk/) Out-of-Town Travel Pool |
 | 1:01 PM | The [President](https://www.donaldjtrump.com/) departs [RAF Lossiemouth](https://www.raf.mod.uk/our-organisation/stations/raf-lossiemouth/) for [Trump International Golf Links Aberdeen](https://www.trumpgolfscotland.com/) [6:01 PM Local]<br />[RAF Lossiemouth](https://www.raf.mod.uk/our-organisation/stations/raf-lossiemouth/), [Scotland](https://www.gov.scot/), [United Kingdom](https://www.gov.uk/) Out-of-Town Travel Pool |
 | 2:36 PM ⛳️| [White House](https://www.whitehouse.gov/) Press Office: Full lid called [7:36 PM Local]<br />[Trump International Golf Links Aberdeen](https://www.trumpgolfscotland.com/) |
@@ -106,8 +111,8 @@ title: "Trump: Air Force One Frequent Flyer Miles"
 | | ⛳️🏌‍♂️[Donnie](https://www.donaldjtrump.com/) ~~has no public events scheduled~~plays golf🏌‍♂️<br />The [White House](https://www.whitehouse.gov/) |
 | 7:30 AM | In-Town Pool Call Time<br />The [White House](https://www.whitehouse.gov/) In-Town Pool |
 | 7:45 AM | In-Town Pool Call Time<br />In-Town Pool |
-| 8:35 AM | The [President](https://www.donaldjtrump.com/) departs the [White House](https://www.whitehouse.gov/) for [Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/)<br />The [White House](https://www.whitehouse.gov/) |
-| 9:11 AM | The [President](https://www.donaldjtrump.com/) arrives at [Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/)<br />[Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/) |
+| 8:35 AM ⛳️| The [President](https://www.donaldjtrump.com/) departs the [White House](https://www.whitehouse.gov/) for [Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/)<br />The [White House](https://www.whitehouse.gov/) |
+| 9:11 AM ⛳️| The [President](https://www.donaldjtrump.com/) arrives at [Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/)<br />[Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/) |
 | 3:43 PM | The [President](https://www.donaldjtrump.com/) departs [Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/)<br /[Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/) |
 | 4:18 PM | The [President](https://www.donaldjtrump.com/) arrives at the [White House](https://www.whitehouse.gov/)<br />The [White House](https://www.whitehouse.gov/) |
 | 4:42 PM | [White House](https://www.whitehouse.gov/) Press Office: Full lid called<br />The [White House](https://www.whitehouse.gov/) |
