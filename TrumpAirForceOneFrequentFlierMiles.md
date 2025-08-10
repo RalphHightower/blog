@@ -20,7 +20,7 @@ title: "Trump: Air Force One Frequent Flyer Miles"
 
 | Time | Location |
 |---|---|
-| | **Sunday, August 10, 2025[^^54541]** |
+| | **Sunday, August 10, 2025[^54541]** |
 | 8:30 AM ⛳️ | [Donnie](https://www.donaldjtrump.com/) arrives at [Trump National Golf Club Washington, D.C.](https://www.trumpnationaldc.com/) <br /> 20391 Lowes Island Blvd <br /> Potomac Falls, VA 20165 <br /> [+1 (703) 444-4801](tel:+17034444801) |
 | ⛳️🏌‍♂️| [Trump National Golf Club Washington, D.C.](https://www.trumpnationaldc.com/) <br /> 20391 Lowes Island Blvd <br /> Potomac Falls, VA 20165 <br /> [+1 (703) 444-4801](tel:+17034444801) |
 | 6:00 PM | [Donnie](https://www.donaldjtrump.com/) departs [Trump National Golf Club Washington, D.C.](https://www.trumpnationaldc.com/) for the [White House](https://www.whitehouse.gov/) |
