@@ -16,13 +16,19 @@ title: "Trump: Air Force One Frequent Flyer Miles"
 
 [^666]: @RalphHightower – [Federal Aviation Administration - Graphic TFRs](https://tfr.faa.gov/tfr3/?page=list)
 [^53860]: [TFR 5_3860 – Federal Aviation Administration - Graphic TFRs](https://tfr.faa.gov/tfr3/?page=detail_5_3860)
+[^54541]: [TFR 5_4541: Federal Aviation Administration - Graphic TFRs](https://tfr.faa.gov/tfr3/?page=detail_5_4541)
 
 | Time | Location |
 |---|---|
+| | **Sunday, August 10, 2025[^^54541]** |
+| 8:30 AM ⛳️ | [Donnie](https://www.donaldjtrump.com/) arrives at [Trump National Golf Club Washington, D.C.](https://www.trumpnationaldc.com/) <br /> 20391 Lowes Island Blvd <br /> Potomac Falls, VA 20165 <br /> [+1 (703) 444-4801](tel:+17034444801) |
+| ⛳️🏌‍♂️| [Trump National Golf Club Washington, D.C.](https://www.trumpnationaldc.com/) <br /> 20391 Lowes Island Blvd <br /> Potomac Falls, VA 20165 <br /> [+1 (703) 444-4801](tel:+17034444801) |
+| 6:00 PM | [Donnie](https://www.donaldjtrump.com/) departs [Trump National Golf Club Washington, D.C.](https://www.trumpnationaldc.com/) for the [White House](https://www.whitehouse.gov/) |
 | | **Saturday, August 9, 2025[^53860]** |
 | 8:30 AM ⛳️ | [Donnie](https://www.donaldjtrump.com/) arrives at [Trump National Golf Club Washington, D.C.](https://www.trumpnationaldc.com/) <br /> 20391 Lowes Island Blvd <br /> Potomac Falls, VA 20165 <br /> [+1 (703) 444-4801](tel:+17034444801) |
 | ⛳️🏌‍♂️| [Trump National Golf Club Washington, D.C.](https://www.trumpnationaldc.com/) <br /> 20391 Lowes Island Blvd <br /> Potomac Falls, VA 20165 <br /> [+1 (703) 444-4801](tel:+17034444801) |
 | 6:00 PM | [Donnie](https://www.donaldjtrump.com/) departs [Trump National Golf Club Washington, D.C.](https://www.trumpnationaldc.com/) for the [White House](https://www.whitehouse.gov/) |
+| | 🔥 [White House](https://www.whitehouse.gov/) 💣| 
 | | **Sunday, August 3 2025** |
 | 2:30 PM ⛳️| Out-of-Town Travel Pool Call Time<br />[Trump National Golf Club Bedminster](https://www.trumpnationalbedminster.com/) Out-of-Town Travel Pool |
 | 5:00 PM ⛳️| Out-of-Town Travel Pool Call Time<br />[Trump National Golf Club Bedminster](https://www.trumpnationalbedminster.com/) Out-of-Town Travel Pool |
