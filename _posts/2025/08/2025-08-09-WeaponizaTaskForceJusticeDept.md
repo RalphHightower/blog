@@ -192,3 +192,5 @@ When using these words in a legal sense, or to refer to oppression of some kind 
 - criminal associates
 - criminal businesses
 - criminal partners
+
+{% include TrumpWeaponization.html %}
