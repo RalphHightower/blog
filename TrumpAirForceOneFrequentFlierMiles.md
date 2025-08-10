@@ -20,14 +20,19 @@ title: "Trump: Air Force One Frequent Flyer Miles"
 
 | Time | Location |
 |---|---|
-| | **Sunday, August 10, 2025[^54541]** |
-| 8:30 AM ⛳️ | [Donnie](https://www.donaldjtrump.com/) arrives at [Trump National Golf Club Washington, D.C.](https://www.trumpnationaldc.com/) <br /> 20391 Lowes Island Blvd <br /> Potomac Falls, VA 20165 <br /> [+1 (703) 444-4801](tel:+17034444801) |
-| ⛳️🏌‍♂️| [Trump National Golf Club Washington, D.C.](https://www.trumpnationaldc.com/) <br /> 20391 Lowes Island Blvd <br /> Potomac Falls, VA 20165 <br /> [+1 (703) 444-4801](tel:+17034444801) |
-| 6:00 PM | [Donnie](https://www.donaldjtrump.com/) departs [Trump National Golf Club Washington, D.C.](https://www.trumpnationaldc.com/) for the [White House](https://www.whitehouse.gov/) |
-| | **Saturday, August 9, 2025[^53860]** |
-| 8:30 AM ⛳️ | [Donnie](https://www.donaldjtrump.com/) arrives at [Trump National Golf Club Washington, D.C.](https://www.trumpnationaldc.com/) <br /> 20391 Lowes Island Blvd <br /> Potomac Falls, VA 20165 <br /> [+1 (703) 444-4801](tel:+17034444801) |
-| ⛳️🏌‍♂️| [Trump National Golf Club Washington, D.C.](https://www.trumpnationaldc.com/) <br /> 20391 Lowes Island Blvd <br /> Potomac Falls, VA 20165 <br /> [+1 (703) 444-4801](tel:+17034444801) |
-| 6:00 PM | [Donnie](https://www.donaldjtrump.com/) departs [Trump National Golf Club Washington, D.C.](https://www.trumpnationaldc.com/) for the [White House](https://www.whitehouse.gov/) |
+| | **Sunday, August 10 2025** |
+| ⛳️🏌‍♂️| The [President](https://www.donaldjtrump.com/) ~~has no public events scheduled~~ (other than playing golf ⛳️🏌)<br />The [White House](https://www.whitehouse.gov/) |
+| 8:00 AM | In-Town Pool Call Time<br />The [White House](https://www.whitehouse.gov/) |
+| 9:00 AM ⛳️| The [President](https://www.donaldjtrump.com/) departs the [White House](https://www.whitehouse.gov/) for [Trump National Golf Club Washington, D.C.](https://www.trumpnationaldc.com/)<br />The [White House](https://www.whitehouse.gov/) |
+| 9:36 AM ⛳️| The [President](https://www.donaldjtrump.com/) arrives at [Trump National Golf Club Washington, D.C.](https://www.trumpnationaldc.com/)<br />[Trump National Golf Club Washington, D.C.](https://www.trumpnationaldc.com/) |
+| | **Saturday, August 9 2025** |
+| ⛳️🏌‍♂️| The [President](https://www.donaldjtrump.com/) ~~has no public events scheduled~~ (other than playing golf with [Lindsey Graham (T-SC)](https://www.lgraham.senate.gov/) ⛳️🏌)<br />The [White House](https://www.whitehouse.gov/) |
+| 8:00 AM | In-Town Pool Call Time<br />The [White House](https://www.whitehouse.gov/) |
+| 8:23 AM ⛳️| The [President](https://www.donaldjtrump.com/) departs the [White House](https://www.whitehouse.gov/) for [Trump National Golf Club Washington, D.C.](https://www.trumpnationaldc.com/)<br />The [White House](https://www.whitehouse.gov/) |
+| 9:38 AM 🍾| The [President](https://www.donaldjtrump.com/) arrives at [Trump National Golf Club Washington, D.C.](https://www.trumpnationaldc.com/)<br />[Trump National Golf Club Washington, D.C.](https://www.trumpnationaldc.com/) |
+| 3:48 PM | The [President](https://www.donaldjtrump.com/) departs [Trump National Golf Club Washington, D.C.](https://www.trumpnationaldc.com/)<br />[Trump National Golf Club Washington, D.C.](https://www.trumpnationaldc.com/) |
+| 4:20 PM | The [President](https://www.donaldjtrump.com/) arrives at the [White House](https://www.whitehouse.gov/)<br />The [White House](https://www.whitehouse.gov/) |
+| 4:55 PM | [White House](https://www.whitehouse.gov/) Press Office: Full lid called<br />The [White House](https://www.whitehouse.gov/) |
 | | 🔥 [White House](https://www.whitehouse.gov/) 💣| 
 | | **Sunday, August 3 2025** |
 | 2:30 PM ⛳️| Out-of-Town Travel Pool Call Time<br />[Trump National Golf Club Bedminster](https://www.trumpnationalbedminster.com/) Out-of-Town Travel Pool |
@@ -41,7 +46,7 @@ title: "Trump: Air Force One Frequent Flyer Miles"
 | 9:08 PM | The [President](https://www.donaldjtrump.com/) departs [Joint Base Andrews](https://www.jba.af.mil/) for the [White House](https://www.whitehouse.gov/)<br />[Lehigh Valley International Airport (ABE)](https://www.flyabe.com/)t, [Allentown](https://www.allentownpa.gov/en-us/), [PA](https://www.pa.gov/) Open Press |
 | 9:10 PM | The [President](https://www.donaldjtrump.com/) arrives The [White House](https://www.whitehouse.gov/) [9:17 PM Actual]<br />[South Lawn](https://www.whitehouse.gov/) Open Press |
 | | **Saturday, August 2 2025** |
-| 🏌‍♂️⛳️| The [President](https://www.donaldjtrump.com/) ~~has no public events scheduled~~plays golf🏌‍♂️ (other than playing golf ⛳️🏌<br />Out-of-Town Travel Pool<br />[Trump National Golf Club Bedminster](https://www.trumpnationalbedminster.com/) |
+| 🏌‍♂️⛳️| The [President](https://www.donaldjtrump.com/) ~~has no public events scheduled~~ (other than playing golf ⛳️🏌)<br />Out-of-Town Travel Pool<br />[Trump National Golf Club Bedminster](https://www.trumpnationalbedminster.com/) |
 | 10:00 AM | Out-of-Town Travel Pool Call Time<br />Out-of-Town Travel Pool |
 | | **Friday, August 1 2025** |
 | 9:00 AM | In-Town Pool Call Time<br />In-Town Pool |
@@ -189,7 +194,7 @@ title: "Trump: Air Force One Frequent Flyer Miles"
 | 6:37 PM | The [President](https://www.donaldjtrump.com/) departs [Joint Base Andrews](https://www.jba.af.mil/) for the [White House](https://www.whitehouse.gov/)<br />[Joint Base Andrews](https://www.jba.af.mil/) |
 | 6:57 PM | [White House](https://www.whitehouse.gov/) Press Office: Full lid called<br />The [White House](https://www.whitehouse.gov/) |
 | | **Saturday, July 5 2025** |
-| ⛳️| The [President](https://www.donaldjtrump.com/) ~~has no public events scheduled~~plays golf🏌‍♂️ (other than playing golf ⛳️🏌<br />[Trump National Golf Club Bedminster](https://www.trumpnationalbedminster.com/) |
+| ⛳️| The [President](https://www.donaldjtrump.com/) ~~has no public events scheduled~~plays golf🏌‍♂️ (other than playing golf ⛳️🏌)<br />[Trump National Golf Club Bedminster](https://www.trumpnationalbedminster.com/) |
 | 10:47 AM ⛳️| [White House](https://www.whitehouse.gov/) Press Office: Full lid called<br />[Trump National Golf Club Bedminster](https://www.trumpnationalbedminster.com/) |
 | 12:00 PM | Out-of-Town Travel Pool Call Time<br />[Trump National Golf Club Bedminster](https://www.trumpnationalbedminster.com/) Out-of-Town Travel Pool |
 | | **Friday, July 4 2025** |
