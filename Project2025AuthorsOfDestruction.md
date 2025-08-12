@@ -11,9 +11,9 @@ title: "Authors of Mass Destruction: Project 2025"
 ---
 
 
-### [Project 2025](https://www.project2025.org/) is the manual that [President](https://www.whitehouse.gov/administration/donald-j-trump/) [Trump](https://www.donaldjtrump.com/) is using to destroy [America](https://www.usa.gov/).
+### :rotating_light: [Project 2025](https://www.project2025.org/) is the manual that [President](https://www.whitehouse.gov/administration/donald-j-trump/) [Trump](https://www.donaldjtrump.com/) is using to destroy [America](https://www.usa.gov/). :rotating_light:
 
-#### Project 2025 – Their Playbook For the Destruction of the United States of America flashing ⚠️
+#### :stop_sign: Project 2025 – Their Playbook For the Destruction of the United States of America flashing :stop_sign:
 
 | Writer | Chapter | Title |
 |---|---|---|
@@ -46,7 +46,7 @@ title: "Authors of Mass Destruction: Project 2025"
 | [Brooks D. Tucker](https://www.linkedin.com/in/brookstucker/) | 20 | [Department of Veterans Affairs](https://static.project2025.org/2025_MandateForLeadership_CHAPTER-20.pdf) |
 | | Section 4 | [The Economy](https://static.heritage.org/project2025/2025_MandateForLeadership_SECTION-04.pdf)
 | Thomas F. Gilman | 21 | [Department of Commerce](https://static.project2025.org/2025_MandateForLeadership_CHAPTER-21.pdf) |
-| William L. Walton, Stephen Moore, [David R. Burton](https://www.linkedin.com/in/davidrburton/) | 22 | [Department of the Treasury](https://static.project2025.org/2025_MandateForLeadership_CHAPTER-22.pdf) |
+| William L. Walton, [Stephen Moore](https://www.heritage.org/staff/stephen-moore), [David R. Burton](https://www.linkedin.com/in/davidrburton/) | 22 | [Department of the Treasury](https://static.project2025.org/2025_MandateForLeadership_CHAPTER-22.pdf) |
 | | 23 | [Export-Import Bank](https://static.project2025.org/2025_MandateForLeadership_CHAPTER-23.pdf) |
 | [Veronique de Rugy](https://www.linkedin.com/in/veronique-de-rugy-50204876/) | 23a | [The Export-Import Bank Should Be Abolished](https://static.project2025.org/2025_MandateForLeadership_CHAPTER-23.pdf) |
 | [Jennifer Hazelton](https://www.linkedin.com/in/jennifer-hazelton-34b1605/) | 23b | [The Case For the Export-Import Bank](https://static.project2025.org/2025_MandateForLeadership_CHAPTER-23.pdf#page=8) |
@@ -71,8 +71,7 @@ Thomas F. Gilman
 Gene Hamilton
 Dennis Dean Kirk
 Christopher Miller
-Stephen Moore
-Hans A. von Spakovsky
+[Hans A. von Spakovsky](https://www.heritage.org/staff/hans-von-spakovsky)
 William L. Walton
 Paul Winfree
 
@@ -100,6 +99,7 @@ Paul Winfree
 - [Kent Lassman](https://www.linkedin.com/in/kent-lassman-8521a77/)
 - [Bernard L. McNamee](https://www.linkedin.com/in/bernard-l-mcnamee-ba626637/)
  - Christopher Miller
+- [Stephen Moore](https://www.heritage.org/staff/stephen-moore)
 - [Mora Namdar](https://www.linkedin.com/in/mora-namdar-8910062b/)
 - [Max Primorac](https://www.linkedin.com/in/max-primorac-21503712/)
 - [William Perry Pendley](https://www.linkedin.com/in/william-perry-pendley-3a30653a/)
