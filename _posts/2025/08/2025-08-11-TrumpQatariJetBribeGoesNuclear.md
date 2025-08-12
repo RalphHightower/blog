@@ -1,13 +1,13 @@
 ---
 layout: post
-tags: []
-categories: []
-#date: 2019-06-25 13:14:15
-#excerpt: ''
+tags: [media, organizations, Home / Democracy Defenders Fund, political parties, universities, companies, The Boeing Company Official Website, 747-8, foreign governments, Government of Qatar, حكومي - بوابتك الرسمية للمعلومات والخدمات في قطر, state local governments, federal government, Constitution of the United States, Foreign Emoluments Clause Generally / Constitution Annotated / Congress.gov / Library of Congress, Supreme Court of the United States (SCOTUS), US Courts, Department of Justice (DOJ), Department of Defense (DOD), Joint Chiefs of Staff (JCS), Air Force Inspector General, Air Force, Sentinel, DR. TROY E. MEINK > Air Force > Biography Display, Joint Base Andrews, Air Force One, Federal Bureau of Investigation (FBI), Federal Reserve Board, Jerome H. Powell, Treasury Department, U.S. Department of the Treasury, Department of Commerce (DOC), Bureau of Labor Statistics (BLS), Congress, Senate, Elizabeth Warren (D-MA), Ed Markey (D-MA), Tammy Duckworth (D-IL), Adam Schiff (D-CA), House of Representatives, Jamie Raskin (D-MD8), John Garamendi (D-CA8), President of the United States (POTUS), White House (WH), Trump crime businesses, Donald J Trump, President Donald Trump (45), President Donald Trump (47), President Trump (47) Administration, President Trump (47) Cabinet, President Trump (47) Administration, President Trump (47) Cabinet, JD Vance, Vice President JD Vance, Pam Bondi, Ed Martin / LinkedIn, Office of the Deputy Attorney General / Office of the Deputy Attorney General, Todd Blanche / LinkedIn, Kash Patel, Deputy Director Dan Bongino — FBI, Donald J. Trump Presidential Library, executive orders, Modernizing Defense Acquisitions and Spurring Innovation in the Defense Industrial Base. Presidential Actions Executive Orders. April 9 2025, bribery, grifter, tariffs, politics, stupidity, self-dealing, corruption, con artist, crime family, cryptocurrency, criminal associates, criminal businesses, criminal partners]
+categories: [Donald Trump]
+date: 2025-08-11 8:49 PM
+excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: 'title'
+title: "Air Force Raiding Nuclear Missiles Modernization to Fortify Trump’s Qatari Bribe, Boeing 747-8 Jumbo Jet"
 ---
 
 
@@ -105,7 +105,7 @@ Ja’han Jones is an MSNBC opinion blogger. He previously wrote The ReidOut Blog
                 - [Office of the Deputy Attorney General / Office of the Deputy Attorney General](https://www.justice.gov/dag)
                 - [Todd Blanche / LinkedIn](https://www.linkedin.com/in/toddblanche/)
             - [Kash Patel](https://www.fbi.gov/about/leadership-and-structure/director-patel)
-            - [Deputy Director Dan Bongino — FBI](https://www.fbi.gov/about/leadership-and-structure/deputy-director-dan-bongino)
+                - [Deputy Director Dan Bongino — FBI](https://www.fbi.gov/about/leadership-and-structure/deputy-director-dan-bongino)
             - [Donald J. Trump Presidential Library](http://www.trumplibrary.gov/)
 - executive orders
 - [Modernizing Defense Acquisitions and Spurring Innovation in the Defense Industrial Base](https://www.whitehouse.gov/presidential-actions/2025/04/modernizing-defense-acquisitions-and-spurring-innovation-in-the-defense-industrial-base/). Presidential Actions, Executive Orders. April 9, 2025
