@@ -1,14 +1,13 @@
 ---
 layout: post
 tags: [media, MSNBC, NBC News, CNN, New York Times, Media Forensics Hub, Homepage / Media Matters for America, The Bulwark, Cathy Young, people, organizations, universities, Clemson University, Media Forensics Hub, Darren Linvill, University of Washington, Human Centered Design & Engineering (HCDE), Kate Starbird / Human Centered Design & Engineering Kate Starbird Professor of Human Centered Design & Engineering (HCDE) at the University of Washington in Seattle., companies, foreign countries, Российская Федерация (RU), Qeveria Shqiptare Keshilli i Ministrave (AL), منصة حكومتنا(LY), محمد شياع السوداني - رئيس مجلس وزارء جمهورية العراق(SD), جمهورية السودان (SD), صفحه اصلی / وزارت امور داخله (AF), state local governments, political parties, Trumpian Party, Democrat Party, Federal Government, Constitution of the United States, Supreme Court of the United States (SCOTUS), US Courts, Department of Justice (DOJ), Office of Director National Intelligence, Department of State (DOS), Federal Bureau of Investigation (FBI), Congress, U.S. Capitol Police, Senate, House of Representatives, President of the United States (POTUS), White House (WH), President Bill Clinton, President George W Bush, President Barack Obama, President Joe Biden, Trump criminal associates, Donald J Trump, President Donald Trump (45), President Donald Trump (47), President Trump (47) Administration, President Trump (47) Cabinet, JD Vance, Vice President JD Vance, Pam Bondi, Kash Patel, Deputy Director Dan Bongino — FBI, tariffs, politics, stupidity, grift, self-dealing, corruption, con artist, crime, cryptocurrency, criminal businesses, criminal associates, criminal partners, criminal businesses, Faux News, Mark Levin, Jesse Watters, Sean Hannity, Greg Gutfeld, Laura Ingraham, criminal associates, Turning Point USA, Student Action Summit, The Charlie Kirk Show - Charlie Kirk, Charlie Kirk / LinkedIn, Tucker Carlson, Megyn Kelly, Benny Johnson, Alex Jones, Laura Loomer, criminal partners, QAnon Anonymous, Travis View, Cursed Media, human trafficking, sex trafficking, pedophile, Jeffrey Epstein, Ghislaine Maxwell]
-tags: []
-categories: []
-date: 
+categories: [Jeffrey Epstein, Ghislaine Maxwell, Trump Crime Family, Donald Trump]
+date: 2025-08-12 10:29 PM
 #excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: 'title'
+title: "Trump Needed a Distraction From the Epstein. Faux News and Russiagate Complied"
 ---
 
 
