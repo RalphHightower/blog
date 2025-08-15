@@ -1,15 +1,17 @@
 ---
 layout: post
-tags: [media, MSNBC, Steve Benen, The Rachel Maddow Show, MaddowBlog, “Ministry of Truth –  Democracy Reality and the Republicans’ War on the Recent Past.”, NBC, Saturday Night Live - NBC.com, Meidas Touch News, organizations, political parties, Democrat Party, Trumpian Party, companies, universities, Smithsonian Institution, foreign countries, state local governments, Minnesota State Government (MN), Office of Governor / Office of Governor Tim Walz and Lt. Governor Peggy Flanagan, Governor Tim Walz / Office of Governor Tim Walz and Lt. Governor Peggy Flanagan, federal government, Constitution of the United States, Emoluments Clause and Presidential Compensation / Constitution Annotated / Congress.gov / Library of Congress, Supreme Court of the United States (SCOTUS), US Courts, Department of Justice (DOJ), Federal Reserve Board, U.S. Department of the Treasury, Department of Commerce (DOC), Bureau of Labor Statistics (BLS), Congress, Senate, House of Representatives, Anna Paulina Luna (T-FL13), Eric Burlison (T-MO7), President of the United States (POTUS), White House (WH), Trump criminal associates, Donald J Trump, President Donald Trump (45), President Donald Trump (47), President Trump (47) Administration, President Trump (47) Cabinet, President Trump (47) Administration, President Trump (47) Cabinet, bribery, grifter, tariffs, politics, stupidity, self-dealing, corruption, con artist, crime family, cryptocurrency, criminal businesses, criminal partner]
+tags: [interdimensional beings, alien abductions, media, MSNBC, Steve Benen, The Rachel Maddow Show, MaddowBlog, “Ministry of Truth –  Democracy Reality and the Republicans’ War on the Recent Past.”, NBC, Saturday Night Live - NBC.com, Meidas Touch News, organizations, political parties, Democrat Party, Trumpian Party, companies, universities, Smithsonian Institution, foreign countries, state local governments, Minnesota State Government (MN), Office of Governor / Office of Governor Tim Walz and Lt. Governor Peggy Flanagan, Governor Tim Walz / Office of Governor Tim Walz and Lt. Governor Peggy Flanagan, federal government, Constitution of the United States, Emoluments Clause and Presidential Compensation / Constitution Annotated / Congress.gov / Library of Congress, Supreme Court of the United States (SCOTUS), US Courts, Department of Justice (DOJ), Federal Reserve Board, U.S. Department of the Treasury, Department of Commerce (DOC), Bureau of Labor Statistics (BLS), Congress, Senate, House of Representatives, Anna Paulina Luna (T-FL13), Eric Burlison (T-MO7), President of the United States (POTUS), White House (WH), Trump criminal associates, Donald J Trump, President Donald Trump (45), President Donald Trump (47), President Trump (47) Administration, President Trump (47) Cabinet, President Trump (47) Administration, President Trump (47) Cabinet, bribery, grifter, tariffs, politics, stupidity, self-dealing, corruption, con artist, crime family, cryptocurrency, criminal businesses, criminal partner]
 categories: [Anna Paulina Luna (T-FL13), Eric Burlison (T-MO7), X-Files]
-date: 
-#excerpt: ''
+date: 2025-08-14 10:12 PM
+excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
 title: "The X-Files: Aliens,‘Interdimensional beings’, Abducted Congressional Trumpers"
 ---
 
+
+There's some weird shit happening at the nation’s capitol: alien abduction, body snatchers, zombies.
 
 - 2025-05-21: [Marco? Polo? Where's Rubio? Invasion of the Body Snatchers]({% link _posts/2025/05/2025-05-21-InvasionOfTheBodySnatchers.md %})
 - 2025-02-22: [Here Comes the Zombie Apocalypse! Musk Says  “I See Dead People!”]({% link _posts/2025/02/2025-02-22-ZombieApocalypse.md %})
