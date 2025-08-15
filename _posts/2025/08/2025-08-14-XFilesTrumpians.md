@@ -7,7 +7,7 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: "The X-Files: Aliens,‘Interdimensional beings’, Abducted Congressional Trumpers"
+title: "The X-Files: Aliens,‘Interdimensional Beings’, Abducted Congressional Trumpers"
 ---
 
 
@@ -39,7 +39,7 @@ Unlike [Burlison](https://burlison.house.gov/), who largely emphasized his perso
 
 [She added](https://ca.news.yahoo.com/maga-lawmaker-anna-paulina-luna-142715205.html), “What I can tell you without getting into classified conversations is that there have been incidences that I believe were very credible people have reported that there have been movements outside of time and space. Based on the photos that I’ve seen, I’m very confident that there’s things out there that have not been created by mankind.”
 
-Last year, [Minnesota]() [Gov.]() [Tim Walz]() [gained national notoriety](https://apnews.com/article/kamala-walz-vp-weird-trump-gen-z-f9d718890c3ca907f42dba5934075382) when he started telling the public that [Trumpians](https://www.gop.com/) are “just weird.” Occasionally, the Democrat’s comments come to mind.
+Last year, [Minnesota](https://www.mn.gov/) [Gov.](https://mn.gov/governor/) [Tim Walz](https://mn.gov/governor/about-gov/timwalz/) [gained national notoriety](https://apnews.com/article/kamala-walz-vp-weird-trump-gen-z-f9d718890c3ca907f42dba5934075382) when he started telling the public that [Trumpians](https://www.gop.com/) are “just weird.” Occasionally, the Democrat’s comments come to mind.
 
 ### Saturday Night Live 
 
