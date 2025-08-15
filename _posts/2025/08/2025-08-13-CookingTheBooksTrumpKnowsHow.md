@@ -12,7 +12,7 @@ title: "Cooking the Books? Trump Knows How!"
 
 On second thought, [Trump](https://www.donaldjtrump.com/) was found guilty of 34 civil felony counts of business records falsification in relation to the [Stormy Daniels](https://stormydaniels.com/) extramarital affair. 
 
-- [New York: 34 Guilty Verdicts. Porn Star Stormy Daniels](|% link NewYork34GuiltyVerdicts.md %})
+- [New York: 34 Guilty Verdicts. Porn Star Stormy Daniels]({% link NewYork34GuiltyVerdicts.md %})
 
 ## [From cooking the books to hiding the books: Team Trump puts access to jobs data in doubt](https://www.msnbc.com/rachel-maddow-show/maddowblog/cooking-books-hiding-books-team-trump-puts-access-jobs-data-doubt-rcna224693)
 
