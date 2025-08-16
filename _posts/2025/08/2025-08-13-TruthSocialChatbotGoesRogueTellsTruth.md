@@ -53,6 +53,7 @@ The thing that stands out here is how out of place [Truth Social](https://truths
 - [Trumpian Party](https://www.gop.com/)
 - universities 
 - companies
+- [Perplexity](https://www.perplexity.ai/)
 - [Elon Musk](https://ir.tesla.com/corporate/elon-musk)
     - [Elon Musk](https://x.com/elonmusk/)
     - [The Boring Company](https://www.boringcompany.com/)
