@@ -1,13 +1,13 @@
 ---
 layout: post
-tags: [democracy, media, MSNBC, Eugene Daniels, Politico, organizations, Democratic Governors Association (DGA), people, Ammar Moussa / LinkedIn, political parties, Democrat Party, Trumpian Party, universities, companies, foreign countries, state local governments, California, Governor of California, About Gavin Newsom / Governor of California, New York, Governor Kathy Hochul, About / Governor Kathy Hochul, Illinois, JB Pritzker Governor, JB Pritzker – The Governor, Texas, Office of the Texas Governor / Greg Abbott, About Gov. Abbott / Office of the Texas Governor / Greg Abbott, Texas Legislature Online - Texas House of Representatives, Official Home Page of the Texas House of Representatives Website for Rep. Talarico James., Official Home Page of the Texas House of Representatives Website for Rep. Jones Jolanda “Jo”., First Lady Michelle Obama / whitehouse.gov, federal government, Constitution of the United States, Supreme Court of the United States (SCOTUS), US Courts, Department of Justice (DOJ), Federal Bureau of Investigation (FBI), Federal Reserve Board, Jerome H. Powell, Treasury Department, U.S. Department of the Treasury, Department of Commerce (DOC), Bureau of Labor Statistics (BLS), Congress, Senate, John Cornyn (T-TX), House of Representatives, President of the United States (POTUS), White House (WH), Trump crime businesses, Donald J Trump, President Donald Trump (45), President Donald Trump (47), President Trump (47) Administration, President Trump (47) Cabinet, President Trump (47) Administration, President Trump (47) Cabinet, JD Vance, Vice President JD Vance, Pam Bondi, Ed Martin / LinkedIn, Office of the Deputy Attorney General / Office of the Deputy Attorney General, Todd Blanche / LinkedIn, Kash Patel, Deputy Director Dan Bongino — FBI, tariffs, politics, stupidity, grift, self-dealing, corruption, con, crime, cryptocurrency, criminal associates, criminal businesses, criminal partners]
+tags: [democracy, media, MSNBC, “The Weekend”, Eugene Daniels, Politico, organizations, Democratic Governors Association (DGA), people, Ammar Moussa / LinkedIn, political parties, Democrat Party, Trumpian Party, universities, companies, foreign countries, state local governments, California, Governor of California, About Gavin Newsom / Governor of California, New York, Governor Kathy Hochul, About / Governor Kathy Hochul, Illinois, JB Pritzker Governor, JB Pritzker – The Governor, Texas, Office of the Texas Governor / Greg Abbott, About Gov. Abbott / Office of the Texas Governor / Greg Abbott, Texas Legislature Online - Texas House of Representatives, Official Home Page of the Texas House of Representatives Website for Rep. Talarico James., Official Home Page of the Texas House of Representatives Website for Rep. Jones Jolanda “Jo”., federal government, Constitution of the United States, Supreme Court of the United States (SCOTUS), US Courts, Department of Justice (DOJ), Federal Bureau of Investigation (FBI), Federal Reserve Board, Treasury Department, U.S. Department of the Treasury, Department of Commerce (DOC), Bureau of Labor Statistics (BLS), Congress, Senate, House of Representatives, President of the United States (POTUS), President Barack Obama, First Lady Michelle Obama / whitehouse.gov, White House (WH), Trump crime businesses, Donald J Trump, President Donald Trump (45), President Donald Trump (47), President Trump (47) Administration, President Trump (47) Cabinet, President Trump (47) Administration, President Trump (47) Cabinet, tariffs, politics, stupidity, grift, self-dealing, corruption, con, crime, cryptocurrency, criminal associates, criminal businesses, criminal partners]
 categories: [Donald Trump, Greg Abbott]
-#date: 2019-06-25 13:14:15
-#excerpt: ''
+date: 2025-08-16 4:03 PM
+excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: "Texas Democrats Use Trump’s Playbook Against Him To Gain Visibility of Trump’s Attacks Against Democracy"
+title: "Texas Democrats Use Trump’s Playbook Against Him To Their Advantage Warning About Dummymandering"
 ---
 
 
@@ -20,7 +20,7 @@ By Eugene Daniels
 
 Sometimes you can't win. But it's better to go down fighting.
 
-For weeks, [Texas Democrats have been doing everything in their power](https://www.msnbc.com/rachel-maddow-show/maddowblog/texas-democrats-leave-state-hope-derail-republicans-radical-redistrict-rcna222836) to draw national attention to a radical [[Republican](https://www.gop.com/)](https://www.gop.com/) plan to try to hang on to the [House of Representatives](https://www.house.gov/) in next year's midterms by gerrymandering the state's [already heavily skewed maps](https://gerrymander.princeton.edu/redistricting-report-card/?planId=recL5EF85h0ILukMA).
+For weeks, [Texas Democrats have been doing everything in their power](https://www.msnbc.com/rachel-maddow-show/maddowblog/texas-democrats-leave-state-hope-derail-republicans-radical-redistrict-rcna222836) to draw national attention to a radical [Republican](https://www.gop.com/) plan to try to hang on to the [House of Representatives](https://www.house.gov/) in next year's midterms by gerrymandering the state's [already heavily skewed maps](https://gerrymander.princeton.edu/redistricting-report-card/?planId=recL5EF85h0ILukMA).
 
 They started by [giving floor speeches](https://www.msnbc.com/the-weekend-primetime/watch/-ready-to-fight-tx-dem-lawmakers-persist-with-their-weeklong-quorum-244660293920), holding press conferences and meeting with [Democratic governors](https://democraticgovernors.org/) of other states and national [Democratic](https://www.democrats.org/) leadership. Then, dozens of [Democratic](https://www.democrats.org/) lawmakers took the [dramatic step of fleeing Texas](https://www.msnbc.com/the-weekend/watch/tx-dems-hold-the-line-against-redistricting-retaliation-this-is-for-the-heart-and-soul-of-america-244670533548) to prevent the Legislature from legally convening.
 
@@ -76,7 +76,8 @@ Eugene Daniels is an [MSNBC](https://www.msnbc.com/) senior Washington correspon
 
 - media 
 - [MSNBC](https://www.msnbc.com/)
-- Eugene Daniels
+    - ["The Weekend"](https://www.msnbc.com/the-weekend)
+        - Eugene Daniels
 - [Politico](https://www.politico.com/)
 - organizations 
 - [Democratic Governors Association (DGA)](https://democraticgovernors.org/)
@@ -104,7 +105,6 @@ Eugene Daniels is an [MSNBC](https://www.msnbc.com/) senior Washington correspon
     - [Texas Legislature Online - Texas House of Representatives](https://capitol.texas.gov/MnuHouse.aspx)
         - [Official Home Page of the Texas House of Representatives Website for Rep. Talarico, James.](https://www.house.texas.gov/members/50)
         - [Official Home Page of the Texas House of Representatives Website for Rep. Jones, Jolanda "Jo".](https://www.house.texas.gov/members/147)
-[First Lady Michelle Obama / whitehouse.gov](https://obamawhitehouse.archives.gov/administration/first-lady-michelle-obama)
 - federal government 
 - [Constitution of the United States](https://constitution.congress.gov/)
     - [Supreme Court of the United States (SCOTUS)](https://www.supremecourt.gov/)
@@ -112,16 +112,16 @@ Eugene Daniels is an [MSNBC](https://www.msnbc.com/) senior Washington correspon
     - [Department of Justice (DOJ)](https://www.justice.gov/)
     - [Federal Bureau of Investigation (FBI)](https://www.fbi.gov/)
     - [Federal Reserve Board](https://www.federalreserve.gov/)
-        - [Jerome H. Powell](https://www.federalreserve.gov/aboutthefed/bios/board/powell.htm)
     - [Treasury Department](https://home.treasury.gov/)
     - [U.S. Department of the Treasury](https://home.treasury.gov/)
     - [Department of Commerce (DOC)](https://www.commerce.gov/)
     - [Bureau of Labor Statistics (BLS)](https://www.bls.gov/)
     - [Congress](https://www.congress.gov/)
         - [Senate](https://www.senate.gov/)
-        - [John Cornyn (T-TX)](https://www.cornyn.senate.gov/)
         - [House of Representatives](https://www.house.gov/)
     - [President of the United States (POTUS)](https://www.whitehouse.gov/)
+    - [President Barack Obama](https://obamawhitehouse.archives.gov/)
+        - [First Lady Michelle Obama / whitehouse.gov](https://obamawhitehouse.archives.gov/administration/first-lady-michelle-obama)
     - [White House (WH)](https://www.whitehouse.gov/)
 - Trump crime businesses 
     - [Donald J Trump](https://www.donaldjtrump.com/)
@@ -131,14 +131,6 @@ Eugene Daniels is an [MSNBC](https://www.msnbc.com/) senior Washington correspon
         - [President Trump (47) Cabinet](https://www.whitehouse.gov/administration/the-cabinet/)
             - [President Trump (47) Administration](https://www.whitehouse.gov/administration/)
             - [President Trump (47) Cabinet](https://www.whitehouse.gov/administration/the-cabinet/)
-            - [JD Vance](https://www.linkedin.com/in/jd-vance-770a9047/)
-            - [Vice President JD Vance](https://www.whitehouse.gov/administration/jd-vance/)
-            - [Pam Bondi](https://www.justice.gov/ag/staff-profile/meet-attorney-general)
-                - [Ed Martin / LinkedIn](https://www.linkedin.com/in/edmartinjr/)
-                - [Office of the Deputy Attorney General / Office of the Deputy Attorney General](https://www.justice.gov/dag)
-                - [Todd Blanche / LinkedIn](https://www.linkedin.com/in/toddblanche/)
-            - [Kash Patel](https://www.fbi.gov/about/leadership-and-structure/director-patel)
-            - [Deputy Director Dan Bongino — FBI](https://www.fbi.gov/about/leadership-and-structure/deputy-director-dan-bongino)
 - tariffs
 - politics
 - stupidity
