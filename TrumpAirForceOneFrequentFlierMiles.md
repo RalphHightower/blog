@@ -27,13 +27,14 @@ title: "Trump: Air Force One Frequent Flyer Miles"
 | 8:30 AM ⛳️| The [President](https://www.donaldjtrump.com/) arrives at [Trump National Golf Club Washington, D.C.](https://www.trumpnationaldc.com/)<br />[Trump National Golf Club Washington, D.C.](https://www.trumpnationaldc.com/) |
 | 4:00 PM | The [President](https://www.donaldjtrump.com/) departs [Trump National Golf Club Washington, D.C.](https://www.trumpnationaldc.com/)<br />[Trump National Golf Club Washington, D.C.](https://www.trumpnationaldc.com/) |
 | | **Saturday, August 16 2025** |
-| TBD | The [President](https://www.donaldjtrump.com/) arrives at [Joint Base Andrews](https://www.jba.af.mil/)<br />[Joint Base Andrews](https://www.jba.af.mil/) Out-of-Town Travel Pool |
-| TBD | The [President](https://www.donaldjtrump.com/) departs [Joint Base Andrews](https://www.jba.af.mil/) for [Joint Base Elmendorf-Richardson](https://www.jber.jb.mil/) in [Alaska](https://www.alaska.gov/)<br />[Joint Base Andrews](https://www.jba.af.mil/) Out-of-Town Travel Pool |
-| 4:35 AM | The [President](https://www.donaldjtrump.com/) arrives The [White House](https://www.whitehouse.gov/)<br />The [White House](https://www.whitehouse.gov/) Out-of-Town Travel Pool |
+| 2:00 AM | The [President](https://www.donaldjtrump.com/) arrives at [Joint Base Andrews](https://www.jba.af.mil/) from [Joint Base Elmendorf-Richardson](https://www.jber.jb.mil/) in [Alaska](https://www.alaska.gov/)<br />[Joint Base Andrews](https://www.jba.af.mil/) Out-of-Town Travel Pool |
+| 2:47 AM | The [President](https://www.donaldjtrump.com/) departs [Joint Base Andrews](https://www.jba.af.mil/) for the [White House](https://www.whitehouse.gov/)<br />[Joint Base Andrews](https://www.jba.af.mil/) Out-of-Town Travel Pool |
+| 3:07 AM | [White House](https://www.whitehouse.gov/) Press Office: Full lid called for [White House](https://www.whitehouse.gov/) In-Town Pool |
+| 4:35 AM | The [President](https://www.donaldjtrump.com/) arrives The [White House](https://www.whitehouse.gov/) [3:07 AM Actual]<br />The [White House](https://www.whitehouse.gov/) Out-of-Town Travel Pool |
 | 9:00 AM | In-Town Pool Call Time<br />The [White House](https://www.whitehouse.gov/) In-Town Pool |
-| 12:00 PM ⛳️| The [President](https://www.donaldjtrump.com/) departs the [White House](https://www.whitehouse.gov/) for [Trump National Golf Club Washington, D.C.](https://www.trumpnationaldc.com/)<br />The [White House](https://www.whitehouse.gov/) |
-| 12:36 AM ⛳️| The [President](https://www.donaldjtrump.com/) arrives at [Trump National Golf Club Washington, D.C.](https://www.trumpnationaldc.com/)<br />[Trump National Golf Club Washington, D.C.](https://www.trumpnationaldc.com/) |
-| 4:30 PM | The [President](https://www.donaldjtrump.com/) departs [Trump National Golf Club Washington, D.C.](https://www.trumpnationaldc.com/)<br />[Trump National Golf Club Washington, D.C.](https://www.trumpnationaldc.com/) |
+| 11:18 AM ⛳️| The [President](https://www.donaldjtrump.com/) departs the [White House](https://www.whitehouse.gov/) for his golf club [Trump National Golf Club Washington, D.C.](https://www.trumpnationaldc.com/)<br />The [White House](https://www.whitehouse.gov/) |
+| 11:51 AM | The [President](https://www.donaldjtrump.com/) arrives at [Trump National Golf Club Washington, D.C.](https://www.trumpnationaldc.com/)<br />[Trump National Golf Club Washington, D.C.](https://www.trumpnationaldc.com/) |
+| 4:30 PM ⛳️| The [President](https://www.donaldjtrump.com/) departs [Trump National Golf Club Washington, D.C.](https://www.trumpnationaldc.com/)<br />[Trump National Golf Club Washington, D.C.](https://www.trumpnationaldc.com/) |
 | 5:06 PM | The [President](https://www.donaldjtrump.com/) arrives at the [White House](https://www.whitehouse.gov/)<br />[White House](https://www.whitehouse.gov/) |
 | | **Friday, August 15 2025** |
 | 6:00 AM | Out-of-Town Travel Pool Call Time<br />The [White House](https://www.whitehouse.gov/) Out-of-Town Travel Pool |
