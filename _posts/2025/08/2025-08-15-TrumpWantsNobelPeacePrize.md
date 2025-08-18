@@ -84,7 +84,7 @@ The official announcement is 56 days away. I shudder to think how much the campa
 - grift
 - self-dealing
 - corruption
-- con
+- con artist 
 - crime
 - cryptocurrency 
 - criminal businesses

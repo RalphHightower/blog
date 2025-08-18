@@ -1,13 +1,13 @@
 ---
 layout: post
-tags: []
+tags: [media, MSNBC, Deadline –  Legal Blog, Jordan Rubin, organizations, companies, Democracy Forward, foreign countries, state local governments, political parties, Democrat Party, Trumpian Party, Federal Government, Constitution of the United States, FOIA.gov - Freedom of Information Act, Supreme Court of the United States (SCOTUS), US Courts, District of Columbia / United States District Court, District Judge Tanya S. Chutkan / District of Columbia / United States District Court, Department of Justice (DOJ), Northern District of Florida / Northern District of Florida, Federal Bureau of Prisons (BOP), Federal Bureau of Prisons (BOP), FCI Tallahassee, FPC Bryan, Department of State (DOS), Federal Bureau of Investigation (FBI), James Comey, Congress, Senate, House of Representatives,  Oversight Committee, Mike Johnson (T-LA4), House Speaker, President of the United States (POTUS), White House (WH), Trump crime family, Donald J Trump, President Donald Trump (45), President Donald Trump (47), President Trump (47) Administration, President Trump (47) Cabinet, JD Vance, Vice President JD Vance, Pam Bondi, Office of the Deputy Attorney General / Office of the Deputy Attorney General, Todd Blanche / LinkedIn, Kash Patel, Deputy Director Dan Bongino — FBI, tariffs, politics, stupidity, grift, self-dealing, corruption, con artist, crime, cryptocurrency, criminal associates, criminal businesses, criminal media, criminal partners, human trafficking, sex trafficking, pedophile, Jeffrey Epstein, Ghislaine Maxwell]
 categories: [Jeffrey Epstein, Ghislaine Maxwell, Trump Crime Family, Donald Trump]
-#date: 2019-06-25 13:14:15
+date: 2025-08-11 3:16 PM
 #excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: 'title'
+title: "FOIA Request For Epstein Files Could Expose Trump Administration’s Handling of Files"
 ---
 
 
@@ -20,13 +20,13 @@ By [Jordan Rubin](https://www.msnbc.com/author/jordan-rubin-ncpn1301611)
 
 Denying the [Justice Department](https://www.justice.gov/)’s motion to unseal [Ghislaine Maxwell](https://www.msnbc.com/deadline-white-house/deadline-legal-blog/ghislaine-maxwell-testimony-congress-supreme-court-rcna222852) grand jury transcripts on Monday, a [federal judge rejected](https://www.msnbc.com/deadline-white-house/deadline-legal-blog/ghislaine-maxwell-grand-jury-transcript-judge-denied-unseal-rcna224275) the [DOJ](https://www.justice.gov/)’s professed interest in transparency as disingenuous. What the judge described as the government’s feigned interest in revealing Jeffrey Epstein-related information puts a finer point on a separate new lawsuit regarding the [Trump](https://www.donaldjtrump.com/) administration’s handling of the matter.
 
-The lawsuit, [from nonprofit Democracy Forward](https://democracyforward.org/updates/fbi-epstein-foia/), seeks to shed light on the administration’s actions by asking a judge in Washington, D.C., to order the government to comply with the Freedom of Information Act. The group filed Freedom of Information Act requests, [detailed in its complaint](https://storage.courtlistener.com/recap/gov.uscourts.dcd.283567/gov.uscourts.dcd.283567.1.0.pdf) filed Friday, seeking senior administration officials’ “communications regarding the Epstein matter, including those regarding correspondence between President [Trump](https://www.donaldjtrump.com/) and Epstein, as well as records concerning agency review of the Epstein matter.”
+The lawsuit, [from nonprofit Democracy Forward](https://democracyforward.org/updates/fbi-epstein-foia/), seeks to shed light on the [administration](https://www.whitehouse.gov/administration/)’s actions by asking a judge in Washington, D.C., to order the government to comply with the [Freedom of Information Act](https://www.foia.gov/). The group filed [Freedom of Information Act](https://www.foia.gov/) requests, [detailed in its complaint](https://storage.courtlistener.com/recap/gov.uscourts.dcd.283567/gov.uscourts.dcd.283567.1.0.pdf) filed Friday, seeking senior administration officials’ “communications regarding the Epstein matter, including those regarding correspondence between President [Trump](https://www.donaldjtrump.com/) and Epstein, as well as records concerning agency review of the Epstein matter.”
 
 The suit has been assigned to [U.S. District Judge Tanya Chutkan](https://www.dcd.uscourts.gov/content/district-judge-tanya-s-chutkan), who [presided over](https://www.msnbc.com/deadline-white-house/deadline-legal-blog/trump-trial-date-judge-chutkan-scottsboro-boys-rcna102219) [Donald Trump](https://www.donaldjtrump.com/)’s federal election interference case, which the [DOJ](https://www.justice.gov/) [moved to dismiss](https://www.msnbc.com/deadline-white-house/deadline-legal-blog/jack-smith-trump-federal-election-interference-case-dismiss-rcna181669) after he won the [2024 presidential election](https://www.fec.gov/resources/cms-content/documents/2024presgeresults.pdf).
 
-The legal claim in the new suit is that the government failed to comply with FOIA by not granting speedy processing of the group’s requests under the federal transparency law.
+The legal claim in the new suit is that the government failed to comply with [FOIA](https://www.foia.gov/) by not granting speedy processing of the group’s requests under the federal transparency law.
 
-“By failing to grant Plaintiff’s requests for expedited processing on Plaintiff’s FOIA requests concerning matters of widespread and exceptional media interest in which there exist possible questions about the government’s integrity that affect public confidence, ... and national urgent need to inform the public, ... [government] Defendants have violated FOIA,” the complaint alleges.
+“By failing to grant Plaintiff’s requests for expedited processing on Plaintiff’s [FOIA](https://www.foia.gov/) requests concerning matters of widespread and exceptional media interest in which there exist possible questions about the government’s integrity that affect public confidence, ... and national urgent need to inform the public, ... [government] Defendants have violated [FOIA](https://www.foia.gov/),” the complaint alleges.
 
 The [administration](https://www.whitehouse.gov/administration/) will have an opportunity to respond in court. How it does so will reveal its latest stance in the affair that has dogged the [White House](https://www.whitehouse.gov/) for its lack of transparency and failure to fulfill its promise to release the full Epstein records.
 
@@ -41,6 +41,7 @@ Subscribe to the [Deadline: Legal Newsletter](https://link.msnbc.com/join/5ck/ms
         - Jordan Rubin
 - organizations 
 - companies
+- [Democracy Forward](https://democracyforward.org/)
 - foreign countries 
 - state, local governments
 - political parties 
@@ -48,6 +49,7 @@ Subscribe to the [Deadline: Legal Newsletter](https://link.msnbc.com/join/5ck/ms
 - [Trumpian Party](https://www.gop.com/)
 - Federal Government 
 - [Constitution of the United States](https://constitution.congress.gov/)
+    - [FOIA.gov - Freedom of Information Act](https://www.foia.gov/)
     - [Supreme Court of the United States (SCOTUS)](https://www.supremecourt.gov/)
     - [US Courts](https://www.uscourts.gov/)
     - [District of Columbia / United States District Court](https://www.dcd.uscourts.gov/)

@@ -2,8 +2,8 @@
 layout: post
 tags: [media, MSNBC, The Rachel Maddow Show, MaddowBlog, Steve Benen, “Ministry of Truth –  Democracy Reality and the Republicans’ War on the Recent Past.”, organizations, companies, foreign countries, state local governments, political parties, Democrat Party, Trumpian Party, Federal Government, Constitution of the United States, Supreme Court of the United States (SCOTUS), US Courts, Department of Justice (DOJ), Northern District of Florida / Northern District of Florida, Federal Bureau of Prisons (BOP), Federal Bureau of Prisons (BOP), FCI Tallahassee, FPC Bryan, Department of State (DOS), Federal Bureau of Investigation (FBI), James Comey, Congress, Senate, House of Representatives,  Oversight Committee, Mike Johnson (T-LA4), House Speaker, President of the United States (POTUS), White House (WH), Trump crime family, Donald J Trump, President Donald Trump (45), President Donald Trump (47), President Trump (47) Administration, President Trump (47) Cabinet, JD Vance, Vice President JD Vance, Pam Bondi, Office of the Deputy Attorney General / Office of the Deputy Attorney General, Todd Blanche / LinkedIn, Kash Patel, Deputy Director Dan Bongino — FBI, tariffs, politics, stupidity, grift, self-dealing, corruption, con artist, crime, cryptocurrency, criminal associates, criminal businesses, criminal media, criminal partners, human trafficking, sex trafficking, pedophile, Jeffrey Epstein, Ghislaine Maxwell]
 categories: [Jeffrey Epstein, Ghislaine Maxwell, Trump Crime Family, Donald Trump]
-#date: 2019-06-25 13:14:15
-#excerpt: ''
+date: 2025-08-11 4:24 PM
+excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
