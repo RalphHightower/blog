@@ -6,6 +6,11 @@ layout: base
 
 [^110]: I am one of the *“enemy within”*.
 
+“If you clung to the truth even against the whole world, you were not mad.”[^115]
+
+[^115]: Winston Smith, the protagonist of George Orwell’s “1984,”
+ 
+
 ## Briefly
 
 ### Synopsis
