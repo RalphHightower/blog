@@ -17,18 +17,18 @@ title: "Trump: Air Force One Frequent Flyer Miles"
 [^666]: @RalphHightower – [Federal Aviation Administration - Graphic TFRs](https://tfr.faa.gov/tfr3/?page=list)
 [^53860]: [TFR 5_3860 – Federal Aviation Administration - Graphic TFRs](https://tfr.faa.gov/tfr3/?page=detail_5_3860)
 [^54541]: [TFR 5_4541: Federal Aviation Administration - Graphic TFRs](https://tfr.faa.gov/tfr3/?page=detail_5_4541)
-[5/8781](https://tfr.faa.gov/tfr3/?page=detail_5_8781). From August 16, 2025 at 1400 UTC (August 16, 2025 at 1000 EDT) To August 16, 2025 at 2300 UTC (August 16, 2025 at 1900 EDT)
-[5/8845](https://tfr.faa.gov/tfr3/?page=detail_5_8845). From August 17, 2025 at 1230 UTC (August 17, 2025 at 0830 EDT) To August 17, 2025 at 2200 UTC (August 17, 2025 at 1800 EDT)
+[^58781]: [TFR 5/8781](https://tfr.faa.gov/tfr3/?page=detail_5_8781). From August 16, 2025 at 1400 UTC (August 16, 2025 at 1000 EDT) To August 16, 2025 at 2300 UTC (August 16, 2025 at 1900 EDT)
+[^58845]: [TFR 5/8845](https://tfr.faa.gov/tfr3/?page=detail_5_8845). From August 17, 2025 at 1230 UTC (August 17, 2025 at 0830 EDT) To August 17, 2025 at 2200 UTC (August 17, 2025 at 1800 EDT)
 
 
 | Time | Location |
 |---|---|
+| | 🔥 [White House](https://www.whitehouse.gov/) 💣| 
 | | **Sunday, August 17 2025** |
 | ⛳️🏌‍♂️| The [President](https://www.donaldjtrump.com/) ~~has no public events scheduled~~ (other than playing golf ⛳️🏌)<br />The [White House](https://www.whitehouse.gov/) |
 | 8:00 AM | In-Town Pool Call Time<br />The [White House](https://www.whitehouse.gov/)<br />In-Town Pool |
 | 9:45 AM | The [President](https://www.donaldjtrump.com/) departs the [White House](https://www.whitehouse.gov/) for his golf club [Trump National Golf Club Washington, D.C.](https://www.trumpnationaldc.com/)<br />The [White House](https://www.whitehouse.gov/) |
-| 10:17 AM | The [President](https://www.donaldjtrump.com/) arrives at [Trump National Golf Club Washington, D.C.](https://www.trumpnationaldc.com/) |
-| [Trump National Golf Club Washington, D.C.](https://www.trumpnationaldc.com/) |
+| 10:17 AM | The [President](https://www.donaldjtrump.com/) arrives at [Trump National Golf Club Washington, D.C.](https://www.trumpnationaldc.com/)<br />[Trump National Golf Club Washington, D.C.](https://www.trumpnationaldc.com/) |
 | 3:31 PM | The [President](https://www.donaldjtrump.com/) departs [Trump National Golf Club Washington, D.C.](https://www.trumpnationaldc.com/)<br />[Trump National Golf Club Washington, D.C.](https://www.trumpnationaldc.com/) |
 | 4:05 PM | The [President](https://www.donaldjtrump.com/) arrives at the [White House](https://www.whitehouse.gov/)<br />The [White House](https://www.whitehouse.gov/) |
 | 4:05 PM | [White House](https://www.whitehouse.gov/) Press Office: Full lid called<br />The [White House](https://www.whitehouse.gov/) |
