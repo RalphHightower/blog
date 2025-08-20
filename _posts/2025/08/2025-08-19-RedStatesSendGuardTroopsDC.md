@@ -158,4 +158,5 @@ Sending members of state [National Guard](https://www.nationalguard.mil/)s to a 
 - criminal businesses
 - criminal associates
 - crime partners
+{% include TrumpWeaponization.html %}
 
