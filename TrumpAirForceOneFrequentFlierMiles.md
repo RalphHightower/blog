@@ -29,8 +29,7 @@ title: "Trump: Air Force One Frequent Flyer Miles"
 | 9:45 AM | The [President](https://www.donaldjtrump.com/) departs the [White House](https://www.whitehouse.gov/) for his golf club [Trump National Golf Club Washington, D.C.](https://www.trumpnationaldc.com/)<br />The [White House](https://www.whitehouse.gov/) |
 | 10:17 AM | The [President](https://www.donaldjtrump.com/) arrives at [Trump National Golf Club Washington, D.C.](https://www.trumpnationaldc.com/) |
 | [Trump National Golf Club Washington, D.C.](https://www.trumpnationaldc.com/) |
-| 3:31 PM | The [President](https://www.donaldjtrump.com/) departs [Trump National Golf Club Washington, D.C.](https://www.trumpnationaldc.com/) |
-| [Trump National Golf Club Washington, D.C.](https://www.trumpnationaldc.com/) |
+| 3:31 PM | The [President](https://www.donaldjtrump.com/) departs [Trump National Golf Club Washington, D.C.](https://www.trumpnationaldc.com/)<br />[Trump National Golf Club Washington, D.C.](https://www.trumpnationaldc.com/) |
 | 4:05 PM | The [President](https://www.donaldjtrump.com/) arrives at the [White House](https://www.whitehouse.gov/)<br />The [White House](https://www.whitehouse.gov/) |
 | 4:05 PM | [White House](https://www.whitehouse.gov/) Press Office: Full lid called<br />The [White House](https://www.whitehouse.gov/) |
 | | **Saturday, August 16 2025** |
