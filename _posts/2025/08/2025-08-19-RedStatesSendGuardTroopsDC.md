@@ -7,7 +7,7 @@ date: 2025-08-19 4:11 PM
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: "My Dumb State, South Carolina: Governor McMaster, With Other Sycophantic Governors Send National Guard Troops to patrol D.C."
+title: "My Dumb State, South Carolina: Governor McMaster, With Other Sycophantic Governors Send National Guard Troops to Patrol D.C."
 ---
 
 
