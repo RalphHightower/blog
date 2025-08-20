@@ -114,7 +114,7 @@ This post updates our [related earlier coverage](https://www.msnbc.com/rachel-ma
     - [President Trump (47) Cabinet](https://www.whitehouse.gov/administration/the-cabinet/)
         - [Marco Rubio](https://www.state.gov/biographies/marco-rubio/)
         - [Marco Rubio – LinkedIn](https://www.linkedin.com/in/marcorubio16/)
-- grift
+- grifter
 - self-dealing
 - corruption
 - con artist 
