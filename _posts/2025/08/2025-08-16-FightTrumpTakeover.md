@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [media, MSNBC, Allison Detzel, Antonia Hylton / LinkedIn, events, “Fight the Trump Takeover”, “No Kings”, organizations, Indivisible, Ezra Levin / LinkedIn, MoveOn –  People-Powered Progress, Planned Parenthood – Still fighting. No matter what., Human Rights Campaign, political parties, universities, companies, foreign countries, state local governments, federal government, Constitution of the United States, Supreme Court of the United States (SCOTUS), US Courts, Department of Justice (DOJ), Federal Bureau of Investigation (FBI), Federal Reserve Board, Treasury Department, U.S. Department of the Treasury, Department of Commerce (DOC), Bureau of Labor Statistics (BLS), Congress, Senate, House of Representatives, President of the United States (POTUS), White House (WH), Trump crime businesses, Donald J Trump, President Donald Trump (45), President Donald Trump (47), President Trump (47) Administration, President Trump (47) Cabinet, tariffs, politics, stupidity, grift, self-dealing, corruption, con, crime, cryptocurrency, criminal associates, criminal businesses, criminal partners]
+tags: [media, MSNBC, Allison Detzel, Antonia Hylton / LinkedIn, events, “Fight the Trump Takeover”, “No Kings”, organizations, Indivisible, Ezra Levin / LinkedIn, MoveOn –  People-Powered Progress, Planned Parenthood – Still fighting. No matter what., Human Rights Campaign, political parties, universities, companies, foreign countries, state local governments, Texas, Office of the Texas Governor / Greg Abbott, About Gov. Abbott / Office of the Texas Governor / Greg Abbott, Texas Legislature Online - Texas House of Representatives, Official Home Page of the Texas House of Representatives Website for Rep. Talarico James., Official Home Page of the Texas House of Representatives Website for Rep. Jones Jolanda “Jo”., federal government, Constitution of the United States, Supreme Court of the United States (SCOTUS), US Courts, Department of Justice (DOJ), Federal Bureau of Investigation (FBI), Federal Reserve Board, Treasury Department, U.S. Department of the Treasury, Department of Commerce (DOC), Bureau of Labor Statistics (BLS), Congress, Senate, House of Representatives, President of the United States (POTUS), White House (WH), Trump crime businesses, Donald J Trump, President Donald Trump (45), President Donald Trump (47), President Trump (47) Administration, President Trump (47) Cabinet, tariffs, politics, stupidity, grift, self-dealing, corruption, con, crime, cryptocurrency, criminal associates, criminal businesses, criminal partners]
 categories: [Donald Trump]
 date: 2025-08-16 4:51 PM
 excerpt: ''
@@ -56,6 +56,12 @@ Allison Detzel is an editor/producer for MSNBC Digital.
 - companies 
 - foreign countries 
 - state, local governments 
+- [Texas](https://www.texas.gov/) 
+    - [Office of the Texas Governor / Greg Abbott](https://gov.texas.gov/)
+        - [About Gov. Abbott / Office of the Texas Governor / Greg Abbott](https://gov.texas.gov/governor-abbott)
+    - [Texas Legislature Online - Texas House of Representatives](https://capitol.texas.gov/MnuHouse.aspx)
+        - [Official Home Page of the Texas House of Representatives Website for Rep. Talarico, James.](https://www.house.texas.gov/members/50)
+        - [Official Home Page of the Texas House of Representatives Website for Rep. Jones, Jolanda "Jo".](https://www.house.texas.gov/members/147)
 - federal government 
 - [Constitution of the United States](https://constitution.congress.gov/)
     - [Supreme Court of the United States (SCOTUS)](https://www.supremecourt.gov/)
@@ -90,5 +96,3 @@ Allison Detzel is an editor/producer for MSNBC Digital.
 - criminal associates
 - criminal businesses
 - criminal partners
- 
-
