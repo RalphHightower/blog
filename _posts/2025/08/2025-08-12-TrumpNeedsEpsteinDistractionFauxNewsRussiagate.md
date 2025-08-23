@@ -104,9 +104,9 @@ On Thursday, [Trump](https://www.donaldjtrump.com/) rolled out a new line when a
 - [صفحه اصلی / وزارت امور داخله (AF)](https://moi.gov.af/)
 - state, local governments
 - political parties 
-- [Trumpian Party](https://www.gop.com/)
 - [Democrat Party](https://www.democrats.org/)
-- Federal Government 
+- [Trumpian Party](https://www.gop.com/)
+- federal government 
 - [Constitution of the United States](https://constitution.congress.gov/)
     - [Supreme Court of the United States (SCOTUS)](https://www.supremecourt.gov/)
     - [US Courts](https://www.uscourts.gov/)

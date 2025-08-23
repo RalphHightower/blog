@@ -65,7 +65,7 @@ This post updates our [related earlier coverage](https://www.msnbc.com/rachel-ma
                 - ["Ministry of Truth: Democracy, Reality, and the Republicans' War on the Recent Past."](https://www.harpercollins.com/products/ministry-of-truth-steve-benen)
 - [NBCNews](https://www.nbcnews.com/)
 - [New York Times (NYT)](https://www.nytimes.com/)
-- [Associated Press (AP)](https://www.apnews.com/)
+- [Associated Press (AP)](https://apnews.com/)
 - [Washington Post](https://www.washingtonpost.com/)
 - [Roll Call](https://rollcall.com/)
 - [BBC Home - Breaking News, World News, US News, Sports, Business, Innovation, Climate, Culture, Travel, Video & Audio](https://www.bbc.com/)
