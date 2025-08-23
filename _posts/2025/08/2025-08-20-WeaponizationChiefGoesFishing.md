@@ -7,7 +7,7 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: "Trump’s Personal Attorney, Department of Justice, Weaponization Working Group On a Snipe Hunt For Dirt On Perceived Enemies"
+title: "Trump’s Personal Attorney, Department of Justice, Weaponization Working Group On a Snipe Hunt To Persecute His Perceived Enemies"
 ---
 
 - ['Prosecute' vs. 'Persecute' – Merriam-Webster](https://www.merriam-webster.com/grammar/prosecuted-vs-persecuted-usage)

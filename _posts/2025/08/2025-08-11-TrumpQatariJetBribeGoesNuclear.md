@@ -108,7 +108,7 @@ To provide [Congress](https://www.congress.gov/) more clarity on these [Air Forc
 - media
 - [MSNBC](https://www.msnbc.com/)
 - [NBC News](https://www.nbcnews.com/)
-- [Associated Press (AP)](https://www.apnews.com/)
+- [Associated Press (AP)](https://apnews.com/)
 - [CBS News](https://www.cbsnews.com/)
 - [Defense One](https://www.defenseone.com/)
 - organizations 
