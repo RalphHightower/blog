@@ -35,7 +35,7 @@ In her solo effort, [Jackson](https://www.supremecourt.gov/) described the [NIH]
 If the court changes course in the future and rules against the [administration](https://www.whitehouse.gov/administration/), that would seem to thwart [Jackson](https://www.supremecourt.gov/)’s [Calvinball](https://screenrant.com/calvin-and-hobbes-explained-calvinball/) theory. But presumably she would be happy about that.
 
 ----
-![Calvin and Hobbes Playing Calvinball](assets/images/10-calvin-and-hobbes-calvinball-2.jpg)
+![Calvin and Hobbes Playing Calvinball](/assets/images/10-calvin-and-hobbes-calvinball-2.jpg)
 > In a broader sense, however, today’s ruling is of a piece with this [Court](https://www.supremecourt.gov/)’s recent tendencies.  “[R]ight when the Judiciary should be hunkering down to do all it can to preserve the law’s constraints,” the [Court](https://www.supremecourt.gov/) opts instead to make vindicating the rule of law and preventing manifestly injurious Government action as difficult as possible. Id., at ___ (JACKSON, J., dissenting) (slip op., at 21).  This is [Calvinball](https://screenrant.com/calvin-and-hobbes-explained-calvinball/) jurisprudence with a twist. [Calvinball](https://screenrant.com/calvin-and-hobbes-explained-calvinball/) has only one rule: There are no fixed rules.<sup>6</sup>  We seem to have two: that one, and this [Administration](https://www.whitehouse.gov/administration/) always wins.<sup>7</sup>
 
 > <sup>6</sup>See [Oxford English Dictionary (2025)](https://www.oed.com/), [https://www.oed.com/ dictionary/calvinball_n](https://www.oed.com/ dictionary/calvinball_n). 
