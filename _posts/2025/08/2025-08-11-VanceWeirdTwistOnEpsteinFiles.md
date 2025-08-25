@@ -40,6 +40,8 @@ To hear [Trump](https://www.donaldjtrump.com/) tell it, those darned [Democrats]
 
 But if that were true, why doesn’t the [Republican](https://www.gop.com/) [White House](https://www.whitehouse.gov/) just release the files? Why bother with the secrecy and contradictory stories if the [vice president](https://www.whitehouse.gov/administration/jd-vance/) is correct and it’s “left-wing politicians and left-wing billionaires” who joined [Trump](https://www.donaldjtrump.com/) on Epstein’s list of friends?
 
+[Steve Benen](https://www.msnbc.com/author/steve-benen-ncpn433601) is a producer for "[The Rachel Maddow Show](https://www.msnbc.com/rachel-maddow-show)," the editor of [MaddowBlog](https://www.msnbc.com/rachel-maddow-show) and an [MSNBC](https://www.msnbc.com/) political contributor. He's also the bestselling author of ["Ministry of Truth: Democracy, Reality, and the Republicans' War on the Recent Past."](https://www.harpercollins.com/products/ministry-of-truth-steve-benen)
+
 ----
 - media
 - [MSNBC](https://www.msnbc.com/)
