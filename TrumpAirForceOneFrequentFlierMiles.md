@@ -2,7 +2,7 @@
 layout: page
 tags: [The Mar-a-Lago Club, Palm Beach Florida 33480, Trump International Golf Club, West Palm Beach FL 33406, Trump National Doral Golf Club, Miami FL 33178, Trump National Jupiter Golf Club, Jupiter FL 33477, Trump National Golf Club Washington D.C., Potomac Falls VA 20165, Trump National Golf Club Bedminster, Bedminster NJ 07921, Trump National Golf Club Colts Neck, Colts Neck NJ 07722, Trump National Golf Club Philadelphia, Pine Hill NJ 08021, Trump National Golf Club Hudson Valley, Hopewell Junction NY 12533, Trump National Golf Club Los Angeles, Rancho Palos Verdes CA 90275, Trump National Golf Club Charlotte, Mooresville NC 28117, Trump International Golf Club Dubai, Al Hebiah Third District Dubai, Trump International Golf Links & Hotel Ireland Doonbeg, CLARE IRELAND, Trump MacLeod House & Lodge Scotland, Aberdeenshire Scotland AB23 8YE, Trump MacLeod House & Lodge Scotland, Aberdeenshire Scotland AB23 8YE, Trump Turnberry, Ayrshire Scotland]
 categories: [Donald Trump]
-date: 2025-08-23 7:36 PM
+date: 2025-08-25 9:12 AM
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
@@ -15,26 +15,32 @@ title: "Trump: Air Force One Frequent Flyer Miles"
 - 2025-04-05: [Trump Never Let a Weekend of Golf ⛳️ Interfere With a Commander-In-Chief’s Solemn Duty to Receive Fallen Military 🪖]({% link _posts/2025/04/2025-04-05-MilitaryFallenDontInterruptTrumpGolfWeekends.md %})
 
 [^666]: @RalphHightower – [Federal Aviation Administration - Graphic TFRs](https://tfr.faa.gov/tfr3/?page=list)
-[^53860]: [TFR 5_3860 – Federal Aviation Administration - Graphic TFRs](https://tfr.faa.gov/tfr3/?page=detail_5_3860)
-[^54541]: [TFR 5_4541: Federal Aviation Administration - Graphic TFRs](https://tfr.faa.gov/tfr3/?page=detail_5_4541)
-[^58781]: [TFR 5/8781](https://tfr.faa.gov/tfr3/?page=detail_5_8781). From August 16, 2025 at 1400 UTC (August 16, 2025 at 1000 EDT) To August 16, 2025 at 2300 UTC (August 16, 2025 at 1900 EDT)
-[^58845]: [TFR 5/8845](https://tfr.faa.gov/tfr3/?page=detail_5_8845). From August 17, 2025 at 1230 UTC (August 17, 2025 at 0830 EDT) To August 17, 2025 at 2200 UTC (August 17, 2025 at 1800 EDT)
-[^51695]: [TFR 5/1695](https://tfr.faa.gov/tfr3/?page=detail_5_1695). From August 23, 2025 at 1230 UTC (August 23, 2025 at 0830 EDT) To August 23, 2025 at 2200 UTC (August 23, 2025 at 1800 EDT)
-
+[^53860]: [TFR 5/3860 – Federal Aviation Administration (FAA)](https://tfr.faa.gov/tfr3/?page=detail_5_3860)
+[^54541]: [TFR 5/4541: Federal Aviation Administration (FAA)](https://tfr.faa.gov/tfr3/?page=detail_5_4541)
+[^58781]: [TFR 5/8781 – Federal Aviation Administration (FAA)](https://tfr.faa.gov/tfr3/?page=detail_5_8781). From August 16, 2025 at 1400 UTC (August 16, 2025 at 1000 EDT) To August 16, 2025 at 2300 UTC (August 16, 2025 at 1900 EDT)
+[^58845]: [TFR 5/8845 – Federal Aviation Administration (FAA)](https://tfr.faa.gov/tfr3/?page=detail_5_8845). From August 17, 2025 at 1230 UTC (August 17, 2025 at 0830 EDT) To August 17, 2025 at 2200 UTC (August 17, 2025 at 1800 EDT)
+[^51695]: [TFR 5/1695 – Federal Aviation Administration (FAA)](https://tfr.faa.gov/tfr3/?page=detail_5_1695). From August 23, 2025 at 1230 UTC (August 23, 2025 at 0830 EDT) To August 23, 2025 at 2200 UTC (August 23, 2025 at 1800 EDT)
+[^52266]: [TFR 5/2266 – Federal Aviation Administration (FAA)](https://tfr.faa.gov/tfr3/?page=detail_5_2266). From August 24, 2025 at 1230 UTC (August 24, 2025 at 0830 EDT) To August 24, 2025 at 2200 UTC (August 24, 2025 at 1800 EDT)
 
 | Time | Location |
 |---|---|
+| | 🔥 [White House](https://www.whitehouse.gov/) 💣| 
 | | **Sunday, August 24 2025** |
-| 8:30 AM ⛳️| The [President](https://www.donaldjtrump.com/) arrives at [Trump National Golf Club Washington, D.C.](https://www.trumpnationaldc.com/)<br />[Trump National Golf Club Washington, D.C.](https://www.trumpnationaldc.com/) |
-| 4:00 PM | The [President](https://www.donaldjtrump.com/) departs [Trump National Golf Club Washington, D.C.](https://www.trumpnationaldc.com/)<br />[Trump National Golf Club Washington, D.C.](https://www.trumpnationaldc.com/) |
-| | **Saturday, August 23 2025[^51695]** |
-| 8:30 AM ⛳️| The [President](https://www.donaldjtrump.com/) arrives at [Trump National Golf Club Washington, D.C.](https://www.trumpnationaldc.com/)<br />[Trump National Golf Club Washington, D.C.](https://www.trumpnationaldc.com/) |
-| 4:00 PM | The [President](https://www.donaldjtrump.com/) departs [Trump National Golf Club Washington, D.C.](https://www.trumpnationaldc.com/)<br />[Trump National Golf Club Washington, D.C.](https://www.trumpnationaldc.com/) |
+| ⛳️🏌‍♂️| The [President](https://www.donaldjtrump.com/) ~~has no public events scheduled~~ (other than playing golf ⛳️🏌)<br />The [White House](https://www.whitehouse.gov/) |
+| 8:00 AM | In-Town Pool Call Time<br />The [White House](https://www.whitehouse.gov/) In-Town Pool |
+| 9:39 AM ⛳️| The [President](https://www.donaldjtrump.com/) departs the [White House](https://www.whitehouse.gov/) for [Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/)<br />The [White House](https://www.whitehouse.gov/) |
+| 10:14 AM ⛳️| The [President](https://www.donaldjtrump.com/) arrives at [Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/)<br />[Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/) |
+| | **Saturday, August 23 2025** |
+| ⛳️🏌‍♂️| The [President](https://www.donaldjtrump.com/) ~~has no public events scheduled~~ (other than playing golf ⛳️🏌)<br />The [White House](https://www.whitehouse.gov/) |
+| 8:15 AM | In-Town Pool Call Time<br />The [White House](https://www.whitehouse.gov/) In-Town Pool |
+| 9:05 AM ⛳️| The [President](https://www.donaldjtrump.com/) departs the [White House](https://www.whitehouse.gov/) for [Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/)<br />The [White House](https://www.whitehouse.gov/) |
+| 9:39 AM ⛳️| The [President](https://www.donaldjtrump.com/) arrives at [Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/)<br />[Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/) |
+| 4:21 PM ⛳️| The [President](https://www.donaldjtrump.com/) departs [Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/)<br />[Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/) |
 | | 🔥 [White House](https://www.whitehouse.gov/) 💣| 
 | | **Sunday, August 17 2025** |
 | ⛳️🏌‍♂️| The [President](https://www.donaldjtrump.com/) ~~has no public events scheduled~~ (other than playing golf ⛳️🏌)<br />The [White House](https://www.whitehouse.gov/) |
 | 8:00 AM | In-Town Pool Call Time<br />The [White House](https://www.whitehouse.gov/)<br />In-Town Pool |
-| 9:45 AM | The [President](https://www.donaldjtrump.com/) departs the [White House](https://www.whitehouse.gov/) for his golf club [Trump National Golf Club Washington, D.C.](https://www.trumpnationaldc.com/)<br />The [White House](https://www.whitehouse.gov/) |
+| 9:45 AM ⛳️| The [President](https://www.donaldjtrump.com/) departs the [White House](https://www.whitehouse.gov/) for his golf club [Trump National Golf Club Washington, D.C.](https://www.trumpnationaldc.com/)<br />The [White House](https://www.whitehouse.gov/) |
 | 10:17 AM | The [President](https://www.donaldjtrump.com/) arrives at [Trump National Golf Club Washington, D.C.](https://www.trumpnationaldc.com/)<br />[Trump National Golf Club Washington, D.C.](https://www.trumpnationaldc.com/) |
 | 3:31 PM | The [President](https://www.donaldjtrump.com/) departs [Trump National Golf Club Washington, D.C.](https://www.trumpnationaldc.com/)<br />[Trump National Golf Club Washington, D.C.](https://www.trumpnationaldc.com/) |
 | 4:05 PM | The [President](https://www.donaldjtrump.com/) arrives at the [White House](https://www.whitehouse.gov/)<br />The [White House](https://www.whitehouse.gov/) |
@@ -117,7 +123,7 @@ title: "Trump: Air Force One Frequent Flyer Miles"
 | 11:58 AM | The [President](https://www.donaldjtrump.com/) arrives at [Glasgow Prestwick Airport](https://www.glasgowprestwick.com/), [Scotland](https://www.gov.scot/), [United Kingdom](https://www.gov.uk/) [4:58 PM Local]<br />[Glasgow Prestwick Airport](https://www.glasgowprestwick.com/), [Glasgow](https://www.cityofglasgow.co.uk/), [Scotland](https://www.gov.scot/), [United Kingdom](https://www.gov.uk/) Out-of-Town Travel Pool |
 | 12:25 PM ⛳️| The [President](https://www.donaldjtrump.com/) arrives [Aberdeen](https://www.aberdeencity.gov.uk/), [Scotland](https://www.gov.scot/) [5:25 PM Local; 7:13 PM Actual]<br />[Trump International Golf Links Aberdeen](https://www.trumpgolfscotland.com/) Expanded<br />Out-of-Town Travel Pool |
 | 12:46 PM | The [President](https://www.donaldjtrump.com/) arrives at [RAF Lossiemouth](https://www.raf.mod.uk/our-organisation/stations/raf-lossiemouth/), [United Kingdom](https://www.gov.uk/) [5:46 PM Local]<br />[RAF Lossiemouth](https://www.raf.mod.uk/our-organisation/stations/raf-lossiemouth/), [Scotland](https://www.gov.scot/), [United Kingdom](https://www.gov.uk/) Out-of-Town Travel Pool |
-| 1:01 PM | The [President](https://www.donaldjtrump.com/) departs [RAF Lossiemouth](https://www.raf.mod.uk/our-organisation/stations/raf-lossiemouth/) for [Trump International Golf Links Aberdeen](https://www.trumpgolfscotland.com/) [6:01 PM Local]<br />[RAF Lossiemouth](https://www.raf.mod.uk/our-organisation/stations/raf-lossiemouth/), [Scotland](https://www.gov.scot/), [United Kingdom](https://www.gov.uk/) Out-of-Town Travel Pool |
+| 1:01 PM ⛳️| The [President](https://www.donaldjtrump.com/) departs [RAF Lossiemouth](https://www.raf.mod.uk/our-organisation/stations/raf-lossiemouth/) for [Trump International Golf Links Aberdeen](https://www.trumpgolfscotland.com/) [6:01 PM Local]<br />[RAF Lossiemouth](https://www.raf.mod.uk/our-organisation/stations/raf-lossiemouth/), [Scotland](https://www.gov.scot/), [United Kingdom](https://www.gov.uk/) Out-of-Town Travel Pool |
 | 2:36 PM ⛳️| [White House](https://www.whitehouse.gov/) Press Office: Full lid called [7:36 PM Local]<br />[Trump International Golf Links Aberdeen](https://www.trumpgolfscotland.com/) |
 | | **Sunday, July 27 2025** |
 | ⛳️| The [President](https://www.donaldjtrump.com/) plays golf with [Eric Trump](https://www.linkedin.com/in/erictrump/). No timeframe was provided.<br />[Trump Turnberry](https://www.turnberry.co.uk/), Girvan, [Scotland](https://www.gov.scot/) Out-of-Town Travel Pool |
@@ -138,7 +144,7 @@ title: "Trump: Air Force One Frequent Flyer Miles"
 | 9:48 AM | The [President](https://www.donaldjtrump.com/) departs [Joint Base Andrews](https://www.whitehouse.gov/) for Turnberry, [Scotland](https://www.gov.scot/)<br />[Joint Base Andrews](https://www.whitehouse.gov/) Open Press |
 | 3:20 PM | The [President](https://www.donaldjtrump.com/) arrives Turnberry, [Scotland](https://www.gov.scot/) [8:20 PM Local; 9:34 PM Actual]<br />[Trump Turnberry](https://www.turnberry.co.uk/), Girvan, [Scotland](https://www.gov.scot/) Out-of-Town Travel Pool |
 | 3:26 PM | The [President](https://www.donaldjtrump.com/) arrives at [Glasgow Prestwick Airport](https://www.glasgowprestwick.com/), [Scotland](https://www.gov.scot/), [United Kingdom](https://www.gov.uk/) [8:26 PM Local]<br />[Glasgow Prestwick Airport](https://www.glasgowprestwick.com/), [Glasgow](https://www.cityofglasgow.co.uk/), [Scotland](https://www.gov.scot/), [United Kingdom](https://www.gov.uk/) Open Press |
-| 3:53 PM | The [President](https://www.donaldjtrump.com/) departs [Glasgow Prestwick Airport](https://www.glasgowprestwick.com/), [Scotland](https://www.gov.scot/), [United Kingdom](https://www.gov.uk/) for [Trump Turnberry](https://www.turnberry.co.uk/) [8:53 PM Local]<br />[Glasgow Prestwick Airport](https://www.glasgowprestwick.com/), [Glasgow](https://www.cityofglasgow.co.uk/), [Scotland](https://www.gov.scot/), [United Kingdom](https://www.gov.uk/) Open Press |
+| 3:53 PM ⛳️| The [President](https://www.donaldjtrump.com/) departs [Glasgow Prestwick Airport](https://www.glasgowprestwick.com/), [Scotland](https://www.gov.scot/), [United Kingdom](https://www.gov.uk/) for [Trump Turnberry](https://www.turnberry.co.uk/) [8:53 PM Local]<br />[Glasgow Prestwick Airport](https://www.glasgowprestwick.com/), [Glasgow](https://www.cityofglasgow.co.uk/), [Scotland](https://www.gov.scot/), [United Kingdom](https://www.gov.uk/) Open Press |
 | 7:34 PM | [White House](https://www.whitehouse.gov/) Press Office: Full lid called [9:34 PM Local]<br />[Trump Turnberry](https://www.turnberry.co.uk/), Girvan, [Scotland](https://www.gov.scot/) |
 | | **Thursday, July 24 2025** |
 | | @RalphHightower: I included Thursday because [Trump](https://www.donaldjtrump.com/) visiting [Powell](https://www.federalreserve.gov/aboutthefed/bios/board/powell.htm) is unprecedented. [Trump](https://www.donaldjtrump.com/) tried his ambush tactic on the renovation costs, but [Powell fact-checked Trump in real-time]({% link _posts/2025/07/2025-07-25-FedChairFactChecksTrumpRealtime.md %}) |
@@ -157,7 +163,7 @@ title: "Trump: Air Force One Frequent Flyer Miles"
 | | 🔥 [White House](https://www.whitehouse.gov/) 💣| 
 | | **Sunday, July 20, 2025** |
 | 🏌‍♂️⛳️| No official [White House](https://www.whitehouse.gov/) calendar released as of 11:55 am. Per pool report, travel to [Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/) is the only planned event.]<br />The [White House](https://www.whitehouse.gov/) |
-| 8:54 AM ⛳️| The [President](https://www.donaldjtrump.com/) departs the [White House](https://www.whitehouse.gov/) for his [Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/)<br />The [White House](https://www.whitehouse.gov/) |
+| 8:54 AM ⛳️| The [President](https://www.donaldjtrump.com/) departs the [White House](https://www.whitehouse.gov/) for [Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/)<br />The [White House](https://www.whitehouse.gov/) |
 | 9:30 AM ⛳️| The [President](https://www.donaldjtrump.com/) arrives at [Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/)<br />[Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/) |
 | 3:22 PM ⛳️| The [President](https://www.donaldjtrump.com/) departs [Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/)<br />[Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/) |
 | 3:58 PM | The [President](https://www.donaldjtrump.com/) arrives at the [White House](https://www.whitehouse.gov/)<br />The [White House](https://www.whitehouse.gov/) |
@@ -246,7 +252,7 @@ title: "Trump: Air Force One Frequent Flyer Miles"
 | 12:50 AM | The [President](https://www.donaldjtrump.com/) arrives at the [White House](https://www.whitehouse.gov/) [12:45 AM Actual]<br />The [White House](https://www.whitehouse.gov/) Out-of-Town Travel Pool |
 | 12:56 AM | [White House](https://www.whitehouse.gov/) Press Office: Full lid called for July 3, 2025<br />The [White House](https://www.whitehouse.gov/) In-Town Pool |
 | 7:30 AM | In-Town Pool Call Time<br />The [White House](https://www.whitehouse.gov/) In-Town Pool |
-| 10:11 AM | The [President](https://www.donaldjtrump.com/) departs the [White House](https://www.whitehouse.gov/) for [Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/)<br />The [White House](https://www.whitehouse.gov/) |
+| 10:11 AM ⛳️| The [President](https://www.donaldjtrump.com/) departs the [White House](https://www.whitehouse.gov/) for [Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/)<br />The [White House](https://www.whitehouse.gov/) |
 | 10:45 AM ⛳️| The [President](https://www.donaldjtrump.com/) arrives at [Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/)<br />[Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/) |
 | 2:54 PM | The [President](https://www.donaldjtrump.com/) departs [Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/)<br />[Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/) |
 | 3:29 PM | The [President](https://www.donaldjtrump.com/) arrives at the [White House](https://www.whitehouse.gov/)<br />The [White House](https://www.whitehouse.gov/) |
