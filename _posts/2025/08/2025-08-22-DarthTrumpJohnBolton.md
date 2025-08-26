@@ -57,7 +57,7 @@ This is a developing story. Please check back for updates.
 - [NBC News](https://www.nbcnews.com/)
 - [New York Times (NYT)](https://www.nytimes.com/)
 - people
-- John Bolton +1 469 512 1949 11th
+- John Bolton  
 - organizations 
 - universities 
 - political parties 
