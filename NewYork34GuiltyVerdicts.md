@@ -17,6 +17,7 @@ title: "New York: 34 Guilty Verdicts. Porn Star Stormy Daniels"
 - [New York](https://www.ny.gov/)
 - [New York State Attorney General](https://ag.ny.gov/)
 - [Letitia James / New York State Attorney General](https://ag.ny.gov/about/meet-letitia-james)
+- [Attorney General James Releases Statement on First Department Opinion Affirming Donald Trump is Liable for Fraud](https://ag.ny.gov/press-release/2025/attorney-general-james-releases-statement-first-department-opinion-affirming). August 21, 2025
 - [Attorney General James Wins Landmark Victory in Case Against Donald Trump](https://ag.ny.gov/press-release/2024/attorney-general-james-wins-landmark-victory-case-against-donald-trump). February 16, 2024
 - [Attorney General James Releases Statement Ahead of Closing Arguments in Civil Fraud Trial Against Donald Trump](https://ag.ny.gov/press-release/2024/attorney-general-james-releases-statement-ahead-closing-arguments-civil-fraud). January 11, 2024
 - [Attorney General James Issues Statement on the Completion of Trial Against Donald Trump](https://ag.ny.gov/press-release/2023/attorney-general-james-issues-statement-completion-trial-against-donald-trump). December 13, 2023
