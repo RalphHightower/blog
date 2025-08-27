@@ -22,3 +22,4 @@ jobs:
           *.md
           **/*.md
           !test/*.md
+          !_data/*.md
