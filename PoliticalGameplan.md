@@ -92,15 +92,15 @@ Clyburn is not in my district, but as the sole Democrat in his gerrymandered Dis
 | Office Locations |
 |---|
 | **Washington, DC** |
-| 274 Cannon House Office Building <br /> 27 Independence Ave SE <br /> Washington, DC 20515 <br /> Phone: [(202) 225-3315](tel:+12022253315) <br /> Fax: [(202) 225-2313](tel:+1202225231) <br /> Hours: Monday-Friday 9:00 AM-5:00 PM |
+| 274 Cannon House Office Building <br /> 27 Independence Ave SE <br /> Washington, DC 20515 <br /> Phone: [\+1 (202) 225-3315](tel:+12022253315) <br /> Fax: [\+1 (202) 225-2313](tel:+1202225231) <br /> Hours: Monday-Friday 9:00 AM-5:00 PM |
 | **Columbia, SC** |
-| 1225 Lady Street, Suite 200 <br /> Columbia, SC 29201 <br /> Phone: [(803) 799-1100](tel:+18037991100) <br /> Fax: [(803) 799-9060](tel:+18037999060) <br /> Hours: Monday-Friday 9:00 AM-5:00 PM |
+| 1225 Lady Street, Suite 200 <br /> Columbia, SC 29201 <br /> Phone: [\+1 (803) 799-1100](tel:+18037991100) <br /> Fax: [\+1 (803) 799-9060](tel:+18037999060) <br /> Hours: Monday-Friday 9:00 AM-5:00 PM |
 | **Kingstree, SC** |
-| 130 W. Main Street <br /> Kingstree, SC 29556 <br /> Phone: [(843) 355-1211](tel:+18433551211) <br /> Fax: [(843) 355-1232](tel:+18433551232) <br /> Hours: Monday-Friday 9:00 AM-5:00 PM |
+| 130 W. Main Street <br /> Kingstree, SC 29556 <br /> Phone: [\+1 (843) 355-1211](tel:+18433551211) <br /> Fax: [\+1 (843) 355-1232](tel:+18433551232) <br /> Hours: Monday-Friday 9:00 AM-5:00 PM |
 | **Santee, SC** |
-| 176 Municipal Way <br /> Santee, SC 29142 <br /> Phone: [803) 854-4700](tel:+18038544700) <br /> Fax: [803) 854-4900](tel:+18038544900) <br /> Hours: Monday-Friday 9:00 AM-5:00 PM |
+| 176 Municipal Way <br /> Santee, SC 29142 <br /> Phone: [\+1 (803) 854-4700](tel:+18038544700) <br /> Fax: [\+1 (803) 854-4900](tel:+18038544900) <br /> Hours: Monday-Friday 9:00 AM-5:00 PM |
 | **Sumter, SC** |
-| 129 South Harvin Street <br /> Sumter, SC 29150 <br /> Phone: [803) 883-5020](tel:+18038835020) <br /> Hours: 2nd and 4th Mondays 10:00 AM–4:00 PM |
+| 129 South Harvin Street <br /> Sumter, SC 29150 <br /> Phone: [\+1 (803) 883-5020](tel:+18038835020) <br /> Hours: 2nd and 4th Mondays 10:00 AM–4:00 PM |
 
 ##### [Trump Party](https://www.gop.com/)
 
@@ -113,11 +113,11 @@ Little good that contacting Wilson will do. He's a political chameleon. First, h
 | Office Locations |
 |---|
 | **Washington, DC Office** |
-| 1436 Longworth House Office Building <br /> 1 Independence Ave SE <br /> Washington, DC  20515 <br /> Phone: [202) 225-2452](tel:+12022252452) |
+| 1436 Longworth House Office Building <br /> 1 Independence Ave SE <br /> Washington, DC  20515 <br /> Phone: [\+1 (202) 225-2452](tel:+12022252452) |
 | **The Midlands Office** |
-| 1700 Sunset Blvd (US 378), Suite 1 <br /> West Columbia, SC  29169 <br /> Phone: [803) 939-0041](tel:+18039390041) <br /> Fax: [803) 939-0078](tel:+18039390078) |
+| 1700 Sunset Blvd (US 378), Suite 1 <br /> West Columbia, SC  29169 <br /> Phone: [\+1 (803) 939-0041](tel:+18039390041) <br /> Fax: [\+1 (803) 939-0078](tel:+18039390078) |
 | **Aiken/Barnwell Office** |
-| 1930 University Parkway, Suite 1600 <br /> Aiken, SC  29801 <br /> Phone: [803) 642-6416](tel:+18036426416) <br /> Fax: [803) 642-6418](tel:+18036426418) |
+| 1930 University Parkway, Suite 1600 <br /> Aiken, SC  29801 <br /> Phone: [\+1 (803) 642-6416](tel:+18036426416) <br /> Fax: [\+1 (803) 642-6418](tel:+18036426418) |
 
 #### [US Senate](https://www.senate.gov/)
 
@@ -141,19 +141,19 @@ Class II.
 | Office Locations |
 |---|
 | **Washington D.C. Office** |
-| 211 Russell Senate Office Building <br /> 2 Constitution Ave NE <br /> Washington, DC 20510 <br /> Office: [202) 224-5972](tel:+12022245972) <br /> Fax: [202) 224-3808](tel:+12022243808) |
+| 211 Russell Senate Office Building <br /> 2 Constitution Ave NE <br /> Washington, DC 20510 <br /> Office: [\+1 (202) 224-5972](tel:+12022245972) <br /> Fax: [\+1 (202) 224-3808](tel:+12022243808) |
 | **Midlands Office** |
-| 2142 Boyce Street, Suite 404 <br /> Columbia, SC 29201 <br /> [803) 933-0112](tel:+18039330112) office <br /> [803) 933-0957](tel:+18039330957) fax |
+| 2142 Boyce Street, Suite 404 <br /> Columbia, SC 29201 <br /> [\+1 (803) 933-0112](tel:+18039330112) office <br /> [\+1 (803) 933-0957](tel:+18039330957) fax |
 | **Upstate Office** |
-| 2 West Washington Street, Suite 808 <br /> Greenville, SC 29601 <br /> Main: [864) 250-1417](tel:+18642501417) <br /> Fax: [864) 250-4322](tel:+18642504322) |
+| 2 West Washington Street, Suite 808 <br /> Greenville, SC 29601 <br /> Main: [\+1 (864) 250-1417](tel:+18642501417) <br /> Fax: [\+1 (864) 250-4322](tel:+18642504322) |
 | **Pee Dee Office** |
-| McMillan Federal Building <br /> 401 West Evans Street, Suite 111 <br /> Florence, SC 29501 <br /> Main: [843) 669-1505](tel:+18436681505) <br /> Fax: [843) 669-9015](tel:+18336699015) |
+| McMillan Federal Building <br /> 401 West Evans Street, Suite 111 <br /> Florence, SC 29501 <br /> Main: [\+1 (843) 669-1505](tel:+18436681505) <br /> Fax: [\+1 (843) 669-9015](tel:+18336699015) |
 | **Lowcountry Office** |
-| 4 Carriage Lane, Suite 401 <br /> Charleston, SC 29407 <br /> Main: [843) 849-3887](tel:+18438493887) <br /> Fax: [843) 971-3669](tel:+18439713669) |
+| 4 Carriage Lane, Suite 401 <br /> Charleston, SC 29407 <br /> Main: [\+1 (843) 849-3887](tel:+18438493887) <br /> Fax: [\+1 (843) 971-3669](tel:+18439713669) |
 | **Piedmont Office** |
-| 235 East Main Street, Suite 100 <br /> Rock Hill, SC 29730 <br /> Main: [803) 366-2828](tel:+18033662828) <br /> Fax: [803) 366-5353](tel:+18033665353) |
+| 235 East Main Street, Suite 100 <br /> Rock Hill, SC 29730 <br /> Main: [\+1 (803) 366-2828](tel:+18033662828) <br /> Fax: [\+1 (803) 366-5353](tel:+18033665353) |
 | **Golden Corner Office** |
-| 124 Exchange Street, Suite A <br /> Pendleton, SC 29670 <br /> Main: [864) 646-4090](tel:+18646464090) <br /> Fax: [864) 646-8609](tel:+18646468609) |
+| 124 Exchange Street, Suite A <br /> Pendleton, SC 29670 <br /> Main: [\+1 (864) 646-4090](tel:+18646464090) <br /> Fax: [\+1 (864) 646-8609](tel:+18646468609) |
 
 - [Trump's Poodle, Senator Lindsey Graham (T-SC), On NBC Meet The Press]({% post_url /2025/01/2025-01-26-TrumpsPoodleOnMTP %})
 - [Sen. Lindsey Graham (T-SC) States That Trump Won't Prosecute Political Enemies. Yea, Right!]({% post_url /2024/12/2024-12-15-LindseyGraham20241215MTP %})
@@ -169,13 +169,13 @@ Class III.
 | Office Locations |
 |---|
 | **Washington D.C.** |
-| 104 Hart Senate Office <br /> 120 Constitution Ave NE <br /> Washington, DC 20510 <br /> Phone: [202) 224-6121](tel:+12022246121) <br /> Fax: [202) 228-5143](tel:+12022275143) |
+| 104 Hart Senate Office <br /> 120 Constitution Ave NE <br /> Washington, DC 20510 <br /> Phone: [\+1 (202) 224-6121](tel:+12022246121) <br /> Fax: [\+1 (202) 228-5143](tel:+12022275143) |
 | **Midlands** |
-| 1901 Main Street <br /> Suite 1425 <br /> Columbia, SC 29201 <br /> Phone: [803) 771-6112](tel:+18037716112) <br /> Fax: [855) 802-9355](tel:+18558028355) <br /> |
+| 1901 Main Street <br /> Suite 1425 <br /> Columbia, SC 29201 <br /> Phone: [\+1 (803) 771-6112](tel:+18037716112) <br /> Fax: [\+1 (855) 802-9355](tel:+18558028355) <br /> |
 | **Upstate** |
-| 301 N. Main Street <br /> Suite 1006 <br /> Greenville, SC 29601 <br /> Phone: [864) 233-5366](tel:+18642235366) <br /> Fax: [855) 802-9355](tel:+18558929355) |
+| 301 N. Main Street <br /> Suite 1006 <br /> Greenville, SC 29601 <br /> Phone: [\+1 (864) 233-5366](tel:+18642235366) <br /> Fax: [\+1 (855) 802-9355](tel:+18558929355) |
 | **Low Country** |
-| 2500 City Hall Lane <br /> 3rd Floor Suite <br /> North Charleston, SC 29406 <br /> Phone: [843) 727-4525](tel:+18437274525) <br /> Fax: [855) 802-9355](tel:+18558029355) |
+| 2500 City Hall Lane <br /> 3rd Floor Suite <br /> North Charleston, SC 29406 <br /> Phone: [\+1 (843) 727-4525](tel:+18437274525) <br /> Fax: [\+1 (855) 802-9355](tel:+18558029355) |
 
 - [Sen. Tim Scott (T-SC) Is Trump's Lawn Jockey]({% post_url /2024/11/2024-11-04-TimScottIsTrumpsLawnJockey %})
 
@@ -196,7 +196,7 @@ Class III.
 | Where Trump Pretends To Work |
 |---|
 | **[White House](https://www.whitehouse.gov)** |
-| 1600 Pennsylvania Ave., NW <br /> Washington, DC 20500 <br /> [+1 (202) 456-1111](tel:+12024561111) (comments) <br /> [+1 (202) 456-1414](tel:+12024561414) (switchboard) |
+| 1600 Pennsylvania Ave., NW <br /> Washington, DC 20500 <br /> [\+1 (202) 456-1111](tel:+12024561111) (comments) <br /> [\+1 (202) 456-1414](tel:+12024561414) (switchboard) |
 
 ###### If It’s The Weekend, Find Trump On One Of His Golf Courses
 
@@ -217,7 +217,7 @@ Class III.
 | **Mailing Address** |
 | The Honorable Alan Wilson <br /> P.O. Box 11549 <br /> Columbia, S.C. 29211 |
 | **Office Location** |
-| Rembert Dennis Building <br /> 1000 Assembly Street, Room 519 <br /> Columbia, S.C. 29201 <br /> General Information: [1-803-734-3970](tel:1-8037343970) <br /> Constituent Services: [1-803-737-3953](tel:1-8037373953) |
+| Rembert Dennis Building <br /> 1000 Assembly Street, Room 519 <br /> Columbia, S.C. 29201 <br /> General Information: [\+1 (803) 734-3970](tel:+18037343970) <br /> Constituent Services: [\+1 (803) 737-3953](tel:+18037373953) |
 
 ##### My Dumb State: South Carolina
 
