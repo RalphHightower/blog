@@ -8,8 +8,11 @@ layout: base
 
 “If you clung to the truth even against the whole world, you were not mad.”[^115]
 
-[^115]: Winston Smith, the protagonist of George Orwell’s “1984,”
+[^115]: Winston Smith, the protagonist of George Orwell’s “1984.”
+
+[^32768]: I freeze time; I photograph. RETIRED Software Engineer (C#, .Net), 50++ years experience; still active for personal projects. Also, I am one of the “enemy within” (D).
  
+Prior to the 2024 election, I had concerns for democracy. Post election, I have fears for democracy. After [Trump](https://www.donaldjtrump.com/)'s second inauguration, democracy won't survive [Trump](https://www.donaldjtrump.com/).
 
 ## Briefly
 
@@ -28,6 +31,7 @@ Surviving “The Apprentice: White House – Wrecking Ball”. [Trump](https://w
 #### Find out who politicians owe their soul to:
 
 - [OpenSecrets](https://www.opensecrets.org/)
+- [CREW / Citizens for Responsibility and Ethics in Washington](https://www.citizensforethics.org/)
 
 #### Get access to your federal data:
 
@@ -48,6 +52,19 @@ Surviving “The Apprentice: White House – Wrecking Ball”. [Trump](https://w
 - [Volunteer Opportunities, Events, and Petitions Near Me · Not Above the Law on Mobilize](https://www.mobilize.us/notabovethelaw/)
 
 #### Call to Action
+
+<div id="2025-09-01T23:59:59">
+
+<ul>
+
+<li><a href="https://www.mobilize.us/mayday/event/827854/">Columbia SC #WorkersOverBillionaires Labor Day</a><br />Monday, September 1, 2025<br />11am – 2pm EDT<br />South Carolina State House<br />1100 Gervais St<br />Columbia, SC 29208</li>
+
+<li>
+<a href="https://www.mobilize.us/mayday/event/827854/">Aiken, SC #WorkersOverBillionaires Labor Day</a><br />Monday, September 1, 2025<br />10am – 12pm EDT<br />Odell Weeks Activity Center<br />1700 Whiskey Rd<br />Aiken, SC 29803</li>
+<li><a href="https://www.mobilize.us/mayday/event/823582/">Rock Hill #WorkersOverBillionaires Labor Day with York County Rising</a><br />Monday, September 1, 2025<br />1:30 – 3pm EDT<br />Dave Lyle between Main + White<br />111 E White St<br />Rock Hill, SC 29730</li>
+</ul>
+
+</div>
 
 <div id="2025-07-19T23:59:59">
 
@@ -361,6 +378,7 @@ I have more information on my website: [Ralph Hightower — Website](https://ral
 <script>
 
 displayUntil("2025-06-14T23:59:59");
+displayUntil("2025-09-01T23:59:59");
 
 function displayUntil(dateUntil) {
     const now = new Date();
