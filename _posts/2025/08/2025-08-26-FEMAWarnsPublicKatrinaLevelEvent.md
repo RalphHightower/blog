@@ -57,10 +57,24 @@ This post updates our [related earlier coverage](https://www.msnbc.com/rachel-ma
                 - ["Ministry of Truth: Democracy, Reality, and the Republicans' War on the Recent Past."](https://www.harpercollins.com/products/ministry-of-truth-steve-benen)
 - [New York Times (NYT)](https://www.nytimes.com/)
 - organizations 
+- political parties 
+- [Democrat Party](https://www.democrats.org/)
+- [Trumpian Party](https://www.gop.com/)
 - universities 
 - companies 
-MN bbn8- foreign countries
+- foreign countries
 - state, local governments 
+- [Home / Virginia.gov](https://www.virginia.gov/)
+    - [Governor of Virginia / Governor.Virginia.gov](https://www.governor.virginia.gov/)
+        - [About the Governor / Governor.Virginia.gov](https://www.governor.virginia.gov/about/)
+- [Mississippi / MS.GOV](https://www.ms.gov/)
+- [Texas](https://www.texas.gov/)
+    - [Office of the Texas Governor / Greg Abbott](https://gov.texas.gov/)
+        - [About Gov. Abbott / Office of the Texas Governor / Greg Abbott]()
+    - [Texas Division of Emergency Management](https://tdem.texas.gov/)
+- [MyFlorida.com - The Official Portal of the State of Florida](https://www.myflorida.gov/)
+    - [Home / Florida Disaster](https://www.floridadisaster.org/)
+        - [Executive Director's Office / Florida Disaster](https://www.floridadisaster.org/dem/Executive-directors-office/)
 - federal government 
 - [Constitution of the United States](https://constitution.congress.gov/)
     - [Supreme Court of the United States (SCOTUS)](https://www.supremecourt.gov/)

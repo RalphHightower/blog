@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: []
+tags: [media, MSNBC, Steve Benen, The Rachel Maddow Show, MaddowBlog, “Ministry of Truth –  Democracy Reality and the Republicans’ War on the Recent Past.”, CNBC, organizations, political parties, Democrat Party, Trumpian Party, universities, companies, foreign countries, state local governments, federal government, Constitution of the United States, Supreme Court of the United States (SCOTUS), US Courts, Federal Reserve Board, Jerome H. Powell, Treasury Department, U.S. Department of the Treasury, Department of Commerce (DOC), Bureau of Labor Statistics (BLS), Congress, Senate, House of Representatives, President of the United States (POTUS), White House (WH), Trump crime businesses, Donald J Trump, President Donald Trump (45), President Donald Trump (47), President Trump (47) Administration, President Trump (47) Cabinet, Trump Organization, World Liberty Financial, $TRUMP, $MELANIA, The Mar-a-Lago Club, Trump International Golf Club, Trump National Doral Golf Club, Trump National Jupiter Golf Club, Trump National Golf Club Washington D.C., Trump National Golf Club Bedminster, Trump National Golf Club Colts Neck, Trump National Golf Club Philadelphia, Trump National Golf Club Hudson Valley, Trump National Golf Club Westchester, Trump National Golf Club Los Angeles, Trump International Golf Club Dubai, Trump International Golf Links & Hotel Ireland Doonbeg, Trump MacLeod House & Lodge Scotland, Trump Turnberry, Trump crime family, Donald J Trump, Eric F. Trump / LinkedIn, Donald Trump Jr. / LinkedIn, Ivanka Trump, Jared Kushner, Howard Lutnick, Howard W. Lutnick, Scott Bessent]
 categories: [Donald Trump]
 date: 2025-08-01 7:10 PM
 excerpt: ''
@@ -47,6 +47,9 @@ This post updates our [related earlier coverage](https://www.msnbc.com/rachel-ma
                 - ["Ministry of Truth: Democracy, Reality, and the Republicans' War on the Recent Past."](https://www.harpercollins.com/products/ministry-of-truth-steve-benen)
 - [CNBC](https://www.cnbc.com/)
 - organizations 
+- political parties 
+- [Democrat Party](https://www.democrats.org/)
+- [Trumpian Party](https://www.gop.com/)
 - universities 
 - companies 
 - foreign countries
@@ -102,4 +105,3 @@ This post updates our [related earlier coverage](https://www.msnbc.com/rachel-ma
 - [Scott Bessent](https://home.treasury.gov/about/general-information/officials/scott-bessent)
 
 {% include TrumpTariffs.html %}
-
