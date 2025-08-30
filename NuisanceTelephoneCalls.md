@@ -18,6 +18,14 @@ The telephone numbers below have called and there is an empty person on the othe
 
 | Telephone Number | Location | Date Time[^11] | Caller | Social Media |
 |---|---|---|---|---|
+| [\+1 (803) 797-2826](tel:+18037972826) | SC. | 2025-08-29 06:56 PM | — | |
+| [\+1 (803) 497-9123](tel:+18034979123) | SC. Columbia | 2025-08-29 05:02 PM | Macaroni Grill | |
+| [\+1 (803) 496-9083](tel:+18034969083) | SC. | 2025-08-29 04:22 PM | Thomas Snell | |
+| [\+1 (803) 780-7129](tel:+18037807129) | SC. Denmark | 2025-08-28 05:58 PM | — | |
+| [\+1 (803) 631-0105](tel:+18036310105) | SC. Fort Mill | 2025-08-28 04:43 PM | — | |
+| [\+1 (803) 771-8843](tel:+18037718843) | SC. Columbia | 2025-08-28 03:44 PM | — | |
+| [\+1 (803) 740-6794](tel:+18037406794) | SC. Columbia | 2025-08-28 02:43 PM | — | |
+| [\+1 (803) 465-9023](tel:+18034659023) | SC. Columbia | 2025-08-28 02:06 PM | Leigh Timmerman | |
 | [\+1 (803) 667-4326](tel:+18036674326) | SC. | 2025-08-27 03:15 PM | — | |
 | [\+1 (803) 216-7059](tel:+18032167059) | SC. Columbia | 2025-08-27 02:55 PM | — | |
 | [\+1 (803) 330-0553](tel:+18033300553) | SC. Pinewood | 2025-08-27 12:59 PM | — | |

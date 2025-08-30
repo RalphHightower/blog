@@ -373,7 +373,7 @@ I have more information on my website: [Ralph Hightower — Website](https://ral
 
 [^31]: @RalphHightower: I find it ironic that a United States federal agency has information for cars and trucks registered in Canada.
 [^32]: Support ended with wheelstop of Space Shuttle Atlantis on July 21, 2011 with the end of the Space Shuttle fleet.
-[^31]: @RalphHightower: The Columbia metro area probably encompasses a larger area than those two counties, but Lexington and Richland are as far as we are willing to drive. Plus, crossing the Broad River to the Northeast area of Columbia is a farther distance. I've included Sandhills Shopping Center since we would eat there after meeting with our financial advisor when he was located out that way.
+[^33]: @RalphHightower: The Columbia metro area probably encompasses a larger area than those two counties, but Lexington and Richland are as far as we are willing to drive. Plus, crossing the Broad River to the Northeast area of Columbia is a farther distance. I've included Sandhills Shopping Center since we would eat there after meeting with our financial advisor when he was located out that way.
 
 <script>
 

@@ -2,7 +2,7 @@
 layout: page
 tags: [Kent Lassman, Kevin D. Roberts, PhD, Rick Dearborn, Russ Vought, Donald Devine, Dennis Dean Kirk, Paul Dans, Christopher Miller, Ken Cuccinelli, Kiron K. Skinner, Dustin J. Carmack, Mora Namdar, Mike Gonzalez, Max Primorac, Daren Bakst, Lindsey M. Burke, Bernard L. McNamee, Mandy M. Gunasekara, Roger Severino, Benjamin S. Carson Sr. MD, William Perry Pendley, federal government destruction, United States of America]
 categories: [Project 2025, destruction of United States of America]
-date: 2025-03-15 10:42 PM
+date: 2025-08-29 5:36 PM
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
@@ -10,59 +10,60 @@ excerpt: ''
 title: "Authors of Mass Destruction: Project 2025"
 ---
 
+Project 2025 website now redirects to a book purchase website. I removed all links to Project 2025. 2025-08-29.
 
-### :rotating_light: [Project 2025](https://www.project2025.org/) is the manual that [President](https://www.whitehouse.gov/administration/donald-j-trump/) [Trump](https://www.donaldjtrump.com/) is using to destroy [America](https://www.usa.gov/). :rotating_light:
+## :rotating_light: [Project 2025]() is the manual that [President](https://www.whitehouse.gov/administration/donald-j-trump/) [Trump](https://www.donaldjtrump.com/) is using to destroy [America](https://www.usa.gov/). :rotating_light:
 
-#### :stop_sign: Project 2025 – Their Playbook For the Destruction of the United States of America flashing :stop_sign:
+### :stop_sign: Project 2025 – Their Playbook For the Destruction of the United States of America flashing :stop_sign:
 
 | Writer | Chapter | Title |
 |---|---|---|
-| | Note | [A Note on "Project 2025"](https://static.project2025.org/2025_MandateForLeadership_P2025-NOTE.pdf) |
-| [Kevin D. Roberts, PhD](https://www.linkedin.com/in/kevin-d-roberts-5ba65047/) | Foreword | ["A Promise to America"](https://static.project2025.org/2025_MandateForLeadership_FOREWORD.pdf) |
-| | Section 1 | [Taking the Reins of Government](https://static.project2025.org/2025_MandateForLeadership_SECTION-01.pdf)
-| [Rick Dearborn](https://www.linkedin.com/in/rick-dearborn-a1702a16a/) | 1 | [White House Office](https://static.project2025.org/2025_MandateForLeadership_CHAPTER-01.pdf) |
-| [Russ Vought](https://www.linkedin.com/in/russ-vought-787396226/) | 2 | [Executive Office of the President of the United States](https://static.project2025.org/2025_MandateForLeadership_CHAPTER-03.pdf) |
-| Donald Devine, Dennis Dean Kirk, [Paul Dans](https://www.linkedin.com/in/paul-dans-3a029225/) | 3 | [Central Personnel Agencies: Managing the Bureaucracy](https://static.project2025.org/2025_MandateForLeadership_CHAPTER-03.pdf) |
-| | Section 2 | [The Common Defense](https://static.project2025.org/2025_MandateForLeadership_SECTION-02.pdf)
- | Christopher Miller | 4 | [Department of Defense](https://static.project2025.org/2025_MandateForLeadership_CHAPTER-04.pdf) |
-| [Ken Cuccinelli](https://www.linkedin.com/in/ken-cuccinelli-91867530/) | 5 | [Department of Homeland Security](https://static.project2025.org/2025_MandateForLeadership_CHAPTER-05.pdf) |
-| [Kiron K. Skinner](https://www.linkedin.com/in/kiron-k-skinner-9a7a6768/) | 6 | [Department of State](https://static.project2025.org/2025_MandateForLeadership_CHAPTER-06.pdf) |
-| [Dustin J. Carmack](https://www.linkedin.com/in/dustin-c-ab159a27/) | 7 | [Intelligence Commuity](https://static.project2025.org/2025_MandateForLeadership_CHAPTER-07.pdf) |
+| | Note | [A Note on "Project 2025"]() |
+| [Kevin D. Roberts, PhD](https://www.linkedin.com/in/kevin-d-roberts-5ba65047/) | Foreword | ["A Promise to America"]() |
+| | Section 1 | [Taking the Reins of Government]()
+| [Rick Dearborn](https://www.linkedin.com/in/rick-dearborn-a1702a16a/) | 1 | [White House Office]() |
+| [Russ Vought](https://www.linkedin.com/in/russ-vought-787396226/) | 2 | [Executive Office of the President of the United States]() |
+| Donald Devine, Dennis Dean Kirk, [Paul Dans](https://www.linkedin.com/in/paul-dans-3a029225/) | 3 | [Central Personnel Agencies: Managing the Bureaucracy]() |
+| | Section 2 | [The Common Defense]()
+ | Christopher Miller | 4 | [Department of Defense]() |
+| [Ken Cuccinelli](https://www.linkedin.com/in/ken-cuccinelli-91867530/) | 5 | [Department of Homeland Security]() |
+| [Kiron K. Skinner](https://www.linkedin.com/in/kiron-k-skinner-9a7a6768/) | 6 | [Department of State]() |
+| [Dustin J. Carmack](https://www.linkedin.com/in/dustin-c-ab159a27/) | 7 | [Intelligence Commuity]() |
 | | 8 | [Media Agencies]() |
-| [Mora Namdar](https://www.linkedin.com/in/mora-namdar-8910062b/) | 8a | [US Agency for Global Media](https://static.project2025.org/2025_MandateForLeadership_CHAPTER-08.pdf) |
-| [Mike Gonzalez](https://www.linkedin.com/in/mike-gonzalez-7243bb2/) | 8b | [Cooperation for Public Broadcasting](https://static.project2025.org/2025_MandateForLeadership_CHAPTER-08.pdf) |
-| [Max Primorac](https://www.linkedin.com/in/max-primorac-21503712/) | 9 | [Agency for International Development](https://static.project2025.org/2025_MandateForLeadership_CHAPTER-09.pdf) |
-| | Section 3 | [The General Welfare](https://static.project2025.org/2025_MandateForLeadership_SECTION-03.pdf)
-| Daren Bakst | 10 | [Department of Agriculture](https://static.project2025.org/2025_MandateForLeadership_CHAPTER-10.pdf) |
-| [Lindsey M. Burke](https://www.linkedin.com/in/lindseyburke/) | 11 | [Department of Education](https://static.project2025.org/2025_MandateForLeadership_CHAPTER-11.pdf) |
-| [Bernard L. McNamee](https://www.linkedin.com/in/bernard-l-mcnamee-ba626637/) | 12 | [Department of Energy and Related Commissions](https://static.project2025.org/2025_MandateForLeadership_CHAPTER-12.pdf) |
-| [Mandy M. Gunasekara](https://www.linkedin.com/in/mandy-gunasekara-570aa53a/) | 13 | [Environmental Protection Agency](https://static.project2025.org/2025_MandateForLeadership_CHAPTER-13.pdf) |
-| [Roger Severino](https://www.linkedin.com/in/roger-severino-193496/) | 14 | [Department of Health and Human Services](https://static.project2025.org/2025_MandateForLeadership_CHAPTER-14.pdf) |
-| [Benjamin S. Carson, Sr., MD](https://www.linkedin.com/in/realbencarson/) | 15 | [Department of Housing and Urban Development](https://static.project2025.org/2025_MandateForLeadership_CHAPTER-15.pdf) |
-| [William Perry Pendley](https://www.linkedin.com/in/william-perry-pendley-3a30653a/) | 16 | [Department of Interior](https://static.project2025.org/2025_MandateForLeadership_CHAPTER-16.pdf) |
-| Gene Hamilton | 17 | [Department of Justice](https://static.project2025.org/2025_MandateForLeadership_CHAPTER-17.pdf) |
-| [Jonathan Berry](https://www.linkedin.com/in/jonathan-berry-a5640a2/) | 18 | [Department of Labor and Related Agencies](https://static.project2025.org/2025_MandateForLeadership_CHAPTER-18.pdf) |
-| [Diana Furchtgott-Roth](https://www.linkedin.com/in/diana-fr/) | 19 | [Department of Transportation](https://static.project2025.org/2025_MandateForLeadership_CHAPTER-19.pdf) |
-| [Brooks D. Tucker](https://www.linkedin.com/in/brookstucker/) | 20 | [Department of Veterans Affairs](https://static.project2025.org/2025_MandateForLeadership_CHAPTER-20.pdf) |
+| [Mora Namdar](https://www.linkedin.com/in/mora-namdar-8910062b/) | 8a | [US Agency for Global Media]() |
+| [Mike Gonzalez](https://www.linkedin.com/in/mike-gonzalez-7243bb2/) | 8b | [Cooperation for Public Broadcasting]() |
+| [Max Primorac](https://www.linkedin.com/in/max-primorac-21503712/) | 9 | [Agency for International Development]() |
+| | Section 3 | [The General Welfare]()
+| Daren Bakst | 10 | [Department of Agriculture]() |
+| [Lindsey M. Burke](https://www.linkedin.com/in/lindseyburke/) | 11 | [Department of Education]() |
+| [Bernard L. McNamee](https://www.linkedin.com/in/bernard-l-mcnamee-ba626637/) | 12 | [Department of Energy and Related Commissions]() |
+| [Mandy M. Gunasekara](https://www.linkedin.com/in/mandy-gunasekara-570aa53a/) | 13 | [Environmental Protection Agency]() |
+| [Roger Severino](https://www.linkedin.com/in/roger-severino-193496/) | 14 | [Department of Health and Human Services]() |
+| [Benjamin S. Carson, Sr., MD](https://www.linkedin.com/in/realbencarson/) | 15 | [Department of Housing and Urban Development]() |
+| [William Perry Pendley](https://www.linkedin.com/in/william-perry-pendley-3a30653a/) | 16 | [Department of Interior]() |
+| Gene Hamilton | 17 | [Department of Justice]() |
+| [Jonathan Berry](https://www.linkedin.com/in/jonathan-berry-a5640a2/) | 18 | [Department of Labor and Related Agencies]() |
+| [Diana Furchtgott-Roth](https://www.linkedin.com/in/diana-fr/) | 19 | [Department of Transportation]() |
+| [Brooks D. Tucker](https://www.linkedin.com/in/brookstucker/) | 20 | [Department of Veterans Affairs]() |
 | | Section 4 | [The Economy](https://static.heritage.org/project2025/2025_MandateForLeadership_SECTION-04.pdf)
-| Thomas F. Gilman | 21 | [Department of Commerce](https://static.project2025.org/2025_MandateForLeadership_CHAPTER-21.pdf) |
-| William L. Walton, [Stephen Moore](https://www.heritage.org/staff/stephen-moore), [David R. Burton](https://www.linkedin.com/in/davidrburton/) | 22 | [Department of the Treasury](https://static.project2025.org/2025_MandateForLeadership_CHAPTER-22.pdf) |
-| | 23 | [Export-Import Bank](https://static.project2025.org/2025_MandateForLeadership_CHAPTER-23.pdf) |
-| [Veronique de Rugy](https://www.linkedin.com/in/veronique-de-rugy-50204876/) | 23a | [The Export-Import Bank Should Be Abolished](https://static.project2025.org/2025_MandateForLeadership_CHAPTER-23.pdf) |
+| Thomas F. Gilman | 21 | [Department of Commerce]() |
+| William L. Walton, [Stephen Moore](https://www.heritage.org/staff/stephen-moore), [David R. Burton](https://www.linkedin.com/in/davidrburton/) | 22 | [Department of the Treasury]() |
+| | 23 | [Export-Import Bank]() |
+| [Veronique de Rugy](https://www.linkedin.com/in/veronique-de-rugy-50204876/) | 23a | [The Export-Import Bank Should Be Abolished]() |
 | [Jennifer Hazelton](https://www.linkedin.com/in/jennifer-hazelton-34b1605/) | 23b | [The Case For the Export-Import Bank](https://static.project2025.org/2025_MandateForLeadership_CHAPTER-23.pdf#page=8) |
-| Paul Winfree | 24 | [Federal Reserve](https://static.project2025.org/2025_MandateForLeadership_CHAPTER-24.pdf) |
-| [Karen Kerrigan](https://www.linkedin.com/in/karenkerrigan/) | 25 | [Small Business Administration](https://static.project2025.org/2025_MandateForLeadership_CHAPTER-25.pdf) |
-| | 26 | [Trade](https://static.project2025.org/2025_MandateForLeadership_CHAPTER-26.pdf) |
-| [Peter Navarro](https://www.linkedin.com/in/peter-navarro-93167122/) | 26a | [The Case For Fair Trade](https://static.project2025.org/2025_MandateForLeadership_CHAPTER-26.pdf) |
+| Paul Winfree | 24 | [Federal Reserve]() |
+| [Karen Kerrigan](https://www.linkedin.com/in/karenkerrigan/) | 25 | [Small Business Administration]() |
+| | 26 | [Trade]() |
+| [Peter Navarro](https://www.linkedin.com/in/peter-navarro-93167122/) | 26a | [The Case For Fair Trade]() |
 | [Kent Lassman](https://www.linkedin.com/in/kent-lassman-8521a77/) | 26b | [The Case For Free Trade](https://static.project2025.org/2025_MandateForLeadership_CHAPTER-26.pdf#page=32) |
-| | Section 5 | [Independent Regulatory Agencies](https://static.project2025.org/2025_MandateForLeadership_SECTION-05.pdf)
-| | 27 | [Financial Regulatory Resources](https://static.project2025.org/2025_MandateForLeadership_CHAPTER-27.pdf) |
-| [David R. Burton](https://www.linkedin.com/in/davidrburton/) | 27a | [Securities and Exchange Commission and Related Agencies](https://static.project2025.org/2025_MandateForLeadership_CHAPTER-27.pdf) |
+| | Section 5 | [Independent Regulatory Agencies]()
+| | 27 | [Financial Regulatory Resources]() |
+| [David R. Burton](https://www.linkedin.com/in/davidrburton/) | 27a | [Securities and Exchange Commission and Related Agencies]() |
 | Robert Bowles | 27b | [Consumer Financial Protection Bureau](https://static.project2025.org/2025_MandateForLeadership_CHAPTER-27.pdf#page=9) |
-| [Brendan Carr](https://www.linkedin.com/in/brendan-carr-0030b126/) | 28 | [Federal Communications Commission](https://static.project2025.org/2025_MandateForLeadership_CHAPTER-28.pdf) |
-| Hans A. von Spakovsky | 29 | [Federal Election Commission](https://static.project2025.org/2025_MandateForLeadership_CHAPTER-29.pdf) |
-| [Adam Candeub](https://www.linkedin.com/in/adam-candeub-18b54958/) | 30 | [Federal Trade Commission](https://static.project2025.org/2025_MandateForLeadership_CHAPTER-30.pdf) |
-| [Edwin J. Feulner](https://www.linkedin.com/in/ed-feulner-46397712/) | Afterword | [Onward](https://static.project2025.org/2025_MandateForLeadership_AFTERWORD.pdf) |
+| [Brendan Carr](https://www.linkedin.com/in/brendan-carr-0030b126/) | 28 | [Federal Communications Commission]() |
+| Hans A. von Spakovsky | 29 | [Federal Election Commission]() |
+| [Adam Candeub](https://www.linkedin.com/in/adam-candeub-18b54958/) | 30 | [Federal Trade Commission]() |
+| [Edwin J. Feulner](https://www.linkedin.com/in/ed-feulner-46397712/) | Afterword | [Onward]() |
 
 Daren Bakst
 Robert Bowles
