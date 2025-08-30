@@ -2,7 +2,7 @@
 layout: page
 tags: [The Mar-a-Lago Club, Palm Beach Florida 33480, Trump International Golf Club, West Palm Beach FL 33406, Trump National Doral Golf Club, Miami FL 33178, Trump National Jupiter Golf Club, Jupiter FL 33477, Trump National Golf Club Washington D.C., Potomac Falls VA 20165, Trump National Golf Club Bedminster, Bedminster NJ 07921, Trump National Golf Club Colts Neck, Colts Neck NJ 07722, Trump National Golf Club Philadelphia, Pine Hill NJ 08021, Trump National Golf Club Hudson Valley, Hopewell Junction NY 12533, Trump National Golf Club Los Angeles, Rancho Palos Verdes CA 90275, Trump National Golf Club Charlotte, Mooresville NC 28117, Trump International Golf Club Dubai, Al Hebiah Third District Dubai, Trump International Golf Links & Hotel Ireland Doonbeg, CLARE IRELAND, Trump MacLeod House & Lodge Scotland, Aberdeenshire Scotland AB23 8YE, Trump MacLeod House & Lodge Scotland, Aberdeenshire Scotland AB23 8YE, Trump Turnberry, Ayrshire Scotland]
 categories: [Donald Trump]
-date: 2025-08-25 9:12 AM
+date: 2025-08-29 1:22 PM
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
@@ -21,9 +21,19 @@ title: "Trump: Air Force One Frequent Flyer Miles"
 [^58845]: [TFR 5/8845 – Federal Aviation Administration (FAA)](https://tfr.faa.gov/tfr3/?page=detail_5_8845). From August 17, 2025 at 1230 UTC (August 17, 2025 at 0830 EDT) To August 17, 2025 at 2200 UTC (August 17, 2025 at 1800 EDT)
 [^51695]: [TFR 5/1695 – Federal Aviation Administration (FAA)](https://tfr.faa.gov/tfr3/?page=detail_5_1695). From August 23, 2025 at 1230 UTC (August 23, 2025 at 0830 EDT) To August 23, 2025 at 2200 UTC (August 23, 2025 at 1800 EDT)
 [^52266]: [TFR 5/2266 – Federal Aviation Administration (FAA)](https://tfr.faa.gov/tfr3/?page=detail_5_2266). From August 24, 2025 at 1230 UTC (August 24, 2025 at 0830 EDT) To August 24, 2025 at 2200 UTC (August 24, 2025 at 1800 EDT)
+[^5_5410]: [Federal Aviation Administration - Graphic TFRs](https://tfr.faa.gov/tfr3/?page=detail_5_5410). From August 30, 2025 at 1230 UTC (August 30, 2025 at 0830 EDT) To August 30, 2025 at 2200 UTC (August 30, 2025 at 1800 EDT)
 
 | Time | Location |
 |---|---|
+| | **Monday, September 1, 2025** |
+| 8:30 AM ⛳️🏌‍♂️| [Donnie](https://www.donaldjtrump.com/) plays golf at his [Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/) |
+| 6:00 PM | [Donnie](https://www.donaldjtrump.com/) returns to the [White House](https://www.whitehouse.gov/) |
+| | **Sunday, August 31, 2025** |
+| 8:30 AM ⛳️🏌‍♂️| [Donnie](https://www.donaldjtrump.com/) plays golf at his [Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/) |
+| 6:00 PM | [Donnie](https://www.donaldjtrump.com/) returns to the [White House](https://www.whitehouse.gov/) |
+| | **Saturday, August 30, 2025[^5_5410]** |
+| 8:30 AM ⛳️🏌‍♂️| [Donnie](https://www.donaldjtrump.com/) plays golf at his [Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/) |
+| 6:00 PM | [Donnie](https://www.donaldjtrump.com/) returns to the [White House](https://www.whitehouse.gov/) |
 | | 🔥 [White House](https://www.whitehouse.gov/) 💣| 
 | | **Sunday, August 24 2025** |
 | ⛳️🏌‍♂️| The [President](https://www.donaldjtrump.com/) ~~has no public events scheduled~~ (other than playing golf ⛳️🏌)<br />The [White House](https://www.whitehouse.gov/) |
