@@ -2,7 +2,7 @@
 layout: page
 tags: [The Mar-a-Lago Club, Palm Beach Florida 33480, Trump International Golf Club, West Palm Beach FL 33406, Trump National Doral Golf Club, Miami FL 33178, Trump National Jupiter Golf Club, Jupiter FL 33477, Trump National Golf Club Washington D.C., Potomac Falls VA 20165, Trump National Golf Club Bedminster, Bedminster NJ 07921, Trump National Golf Club Colts Neck, Colts Neck NJ 07722, Trump National Golf Club Philadelphia, Pine Hill NJ 08021, Trump National Golf Club Hudson Valley, Hopewell Junction NY 12533, Trump National Golf Club Los Angeles, Rancho Palos Verdes CA 90275, Trump National Golf Club Charlotte, Mooresville NC 28117, Trump International Golf Club Dubai, Al Hebiah Third District Dubai, Trump International Golf Links & Hotel Ireland Doonbeg, CLARE IRELAND, Trump MacLeod House & Lodge Scotland, Aberdeenshire Scotland AB23 8YE, Trump MacLeod House & Lodge Scotland, Aberdeenshire Scotland AB23 8YE, Trump Turnberry, Ayrshire Scotland]
 categories: [Donald Trump]
-date: 2025-08-29 1:22 PM
+date: 2025-08-30 10:14 PM
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
@@ -31,9 +31,15 @@ title: "Trump: Air Force One Frequent Flyer Miles"
 | | **Sunday, August 31, 2025** |
 | 8:30 AM ⛳️🏌‍♂️| [Donnie](https://www.donaldjtrump.com/) plays golf at his [Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/) |
 | 6:00 PM | [Donnie](https://www.donaldjtrump.com/) returns to the [White House](https://www.whitehouse.gov/) |
-| | **Saturday, August 30, 2025[^5_5410]** |
-| 8:30 AM ⛳️🏌‍♂️| [Donnie](https://www.donaldjtrump.com/) plays golf at his [Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/) |
-| 6:00 PM | [Donnie](https://www.donaldjtrump.com/) returns to the [White House](https://www.whitehouse.gov/) |
+| | **Saturday, August 30 2025** |
+| ⛳️🏌‍♂️| The [President](https://www.donaldjtrump.com/) ~~has no public events scheduled~~ (other than playing golf ⛳️🏌)<br />The [White House](https://www.whitehouse.gov/) In-Town Pool |
+| 8:00 AM | In-Town Pool Call Time<br />The [White House](https://www.whitehouse.gov/) In-Town Pool |
+| 8:45 AM | The [President](https://www.donaldjtrump.com/) departs the [White House](https://www.whitehouse.gov/) for his golf club with two grandchildren<br />The [White House](https://www.whitehouse.gov/) |
+| 9:18 AM ⛳️| The [President](https://www.donaldjtrump.com/) arrives at [Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/)<br />[Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/) |
+| 1:50 PM 🎾| The [President](https://www.donaldjtrump.com/) walks from the golf course to the tennis courts at his club<br />[Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/)<br >@RalphHightower: [Donnie](https://www.donaldjtrump.com/) is too fat and out of shape to play tennis 🎾 |
+| 2:32 PM | The [President](https://www.donaldjtrump.com/) departs [Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/)<br />[Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/) |
+| 3:06 PM | The [President](https://www.donaldjtrump.com/) arrives at the [White House](https://www.whitehouse.gov/)<br />The [White House](https://www.whitehouse.gov/) |
+| 3:35 PM | [White House](https://www.whitehouse.gov/) Press Office: Full lid called<br />The [White House](https://www.whitehouse.gov/) |
 | | 🔥 [White House](https://www.whitehouse.gov/) 💣| 
 | | **Sunday, August 24 2025** |
 | ⛳️🏌‍♂️| The [President](https://www.donaldjtrump.com/) ~~has no public events scheduled~~ (other than playing golf ⛳️🏌)<br />The [White House](https://www.whitehouse.gov/) |
