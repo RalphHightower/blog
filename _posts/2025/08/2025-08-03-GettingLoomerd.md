@@ -31,7 +31,7 @@ Triggering Complaint: The decision followed public complaints by far-right activ
 🔥 Political Undercurrents
 [CISA](https://www.cisa.gov/) Under Fire: [Trump](https://www.donaldjtrump.com/) and allies have long accused the agency of anti-conservative bias, despite it being founded during his own term.
 
-Disinfo Misdirection: [Loomer](https://www.loomered.com/) falsely linked Easterly to Nina Jankowicz and [Biden]()’s Disinformation Governance Board—both women denied any connection.
+Disinfo Misdirection: [Loomer](https://www.loomered.com/) falsely linked Easterly to Nina Jankowicz and [Biden](https://bidenwhitehouse.archives.gov/)’s Disinformation Governance Board—both women denied any connection.
 
 Ideological Indoctrination: [Trump](https://www.donaldjtrump.com/) appointed MAGA loyalists (like Michael Flynn) to West Point’s oversight board, raising concerns over politicization of military education.
 

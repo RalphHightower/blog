@@ -84,7 +84,7 @@ The reality is there is no good option for [Democrats](https://www.democrats.org
         - [JB Pritzker – The Governor](https://gov.illinois.gov/about/the-governor.html)
 - [Texas](https://www.texas.gov/) 
     - [Office of the Texas Governor / Greg Abbott](https://gov.texas.gov/)
-        - [About Gov. Abbott / Office of the Texas Governor / Greg Abbott]()
+        - [About Gov. Abbott / Office of the Texas Governor / Greg Abbott](https://gov.texas.gov/)
 - federal government 
 - [Constitution of the United States](https://constitution.congress.gov/)
     - [Supreme Court of the United States (SCOTUS)](https://www.supremecourt.gov/)
