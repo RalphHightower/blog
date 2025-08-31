@@ -88,7 +88,7 @@ Pre-order our new book, join our Patreon Cult, and more by clicking here: https:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WTpEze_A4IY?si=bHvZD_UImg7SBbaz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Aug 19, 2025  IHIP News
-[Elise Stefanik (T-NY17)](https://stefanik.house.gov/) gets booed mercilessly at local town hall and [Kristi Noem]() is hiding out from voters in a military base..
+[Elise Stefanik (T-NY17)](https://stefanik.house.gov/) gets booed mercilessly at local town hall and [Kristi Noem](https://www.dhs.gov/person/kristi-noem) is hiding out from voters in a military base..
 
 Order our new book, join our Substack, and more by clicking here: https://linktr.ee/ivehaditpodcast.
 
@@ -147,7 +147,8 @@ Order our new book, join our Substack, and more by clicking here: https://linktr
                 - [Todd Blanche / LinkedIn](https://www.linkedin.com/in/toddblanche/)
             - [Kash Patel](https://www.fbi.gov/about/leadership-and-structure/director-patel)
             - [Deputy Director Dan Bongino — FBI](https://www.fbi.gov/about/leadership-and-structure/deputy-director-dan-bongino)
-- tariffs
+            - [Kristi Noem / Homeland Security](https://www.dhs.gov/person/kristi-noem)
+-  tariffs
 - politics
 - stupidity
 - grift

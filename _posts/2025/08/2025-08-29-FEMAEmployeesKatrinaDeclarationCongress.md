@@ -141,8 +141,8 @@ TOTAL NUMBER OF SIGNATORIES: 191
 - state, local governments 
 - [Texas](https://www.texas.gov/) 
     - [Office of the Texas Governor / Greg Abbott](https://gov.texas.gov/)
-        - [About Gov. Abbott / Office of the Texas Governor / Greg Abbott]()
-- federal government 
+        - [About Gov. Abbott / Office of the Texas Governor / Greg Abbott](https://gov.texas.gov/governor-abbott)
+- - federal government 
 - [Constitution of the United States](https://constitution.congress.gov/)
     - [Supreme Court of the United States (SCOTUS)](https://www.supremecourt.gov/)
     - [US Courts](https://www.uscourts.gov/)
@@ -151,8 +151,8 @@ TOTAL NUMBER OF SIGNATORIES: 191
         - [Federal Emergency Management Agency (FEMA)](https://www.fema.gov/)
             - [Federal Emergency Management Agency Review Council / Homeland Security](https://www.dhs.gov/federal-emergency-management-agency-review-council)
                 - [FEMA Review Council Members / Homeland Security](https://www.dhs.gov/fema-review-council-members)
-                    - [Secretary Kristi Noem](), [Department of Homeland Security](https://www.dhs.gov/) (Co-Chair)
-                    - [Secretary Pete Hegseth](), [Department of Defense](https://www.defense.gov/) (Co-Chair)
+                    - [Secretary Kristi Noem](https://www.dhs.gov/person/kristi-noem), [Department of Homeland Security](https://www.dhs.gov/) (Co-Chair)
+                    - [Secretary Pete Hegseth](https://www.defense.gov/About/Biographies/Biography/Article/4040890/hon-pete-hegseth/), [Department of Defense](https://www.defense.gov/) (Co-Chair)
                     - [Greg Abbott](https://gov.texas.gov/governor-abbott), [Governor](https://gov.texas.gov/) of [Texas](https://www.texas.gov/)
                     - Phil Bryant, Former Governor of [Mississippi](https://www.ms.gov/)
                     - Jane Castor, Mayor, City of Tampa, FL
@@ -180,7 +180,9 @@ TOTAL NUMBER OF SIGNATORIES: 191
         - [President Donald Trump (47)](https://www.whitehouse.gov/[administration](https://www.whitehouse.gov/administration/)/donald-j-trump/)
         - [President Trump (47) Administration](https://www.whitehouse.gov/[administration](https://www.whitehouse.gov/administration/)/)
         - [President Trump (47) Cabinet](https://www.whitehouse.gov/[administration](https://www.whitehouse.gov/administration/)/the-cabinet/)
-            - [Kristi Noem / Homeland Security](https://www.dhs.gov/person/kristi-noem)
+            - [Pete Hegseth](https://www.defense.gov/About/Biographies/Biography/Article/4040890/hon-pete-hegseth/)
+            - [Pete Hegseth – LinkedIn](https://www.linkedin.com/in/petehegseth/)
+                - [Kristi Noem / Homeland Security](https://www.dhs.gov/person/kristi-noem)
                 - Cameron Hamilton
                 - ~~[Ken Pagurek / LinkedIn](https://www.linkedin.com/in/ken-pagurek-26861b1/)~~ 
 - disaster recovery
