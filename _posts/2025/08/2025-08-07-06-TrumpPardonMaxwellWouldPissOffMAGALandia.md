@@ -32,7 +32,7 @@ That kind of approach cheapens our system. If you’re an average American sitti
 
 Folks need to realize that abusing our legal system, as [Trump](https://www.donaldjtrump.com/) is doing, has serious potential consequences for public safety.
 
-[Claire McCaskill](https://www.nbcnews.com/author/claire-mccaskill-ncpn967501), a [Democrat](https://www.democrats.org/), was the first woman elected to the U.S. [Senate](https://www.senate.gov/) from [Missouri](). She is currently an [MSNBC](https://www.msnbc.com/) and [NBC News](https://www.nbcnews.com/) political analyst.
+[Claire McCaskill](https://www.nbcnews.com/author/claire-mccaskill-ncpn967501), a [Democrat](https://www.democrats.org/), was the first woman elected to the U.S. [Senate](https://www.senate.gov/) from [Missouri](https://www.mo.gov/). She is currently an [MSNBC](https://www.msnbc.com/) and [NBC News](https://www.nbcnews.com/) political analyst.
 
 Allison Detzel contributed.
 

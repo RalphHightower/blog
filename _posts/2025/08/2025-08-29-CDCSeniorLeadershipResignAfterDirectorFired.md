@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [media, MSNBC, Brandy Zadrozny, organizations, political parties, Democrat Party, Trumpian Party, universities, companies, foreign countries, state local governments, federal government, Constitution of the United States, Supreme Court of the United States (SCOTUS), US Courts, U.S. Department of the Treasury, Department of Health and Human Services (HHS), Centers for Disease Control (CDC), Susan Monarez. Director, Dr. Deb Houry. deputy director and chief medical officer, National Center for Immunization and Respiratory Diseases (NCIRD), Dr. Demetre Daskalakis, Office of Public Health Data Surveillance and Technology (OPHDST), Dr. Jen Layden, National Center for Emerging and Zoonotic Infectious Diseases (NCEZID), Dr. Daniel Jernigan, Center for Forecasting and Outbreak Analytics (CFA), Global Health Center (GHC), National Center on Birth Defects and Developmental Disabilities (NCBDDD), National Center for Chronic Disease Prevention and Health Promotion (NCCDPHP), National Center for Emerging and Zoonotic Infectious Diseases (NCEZID), National Center for Environmental Health (NCEH)/ Agency for Toxic Substances and Disease Registry (ATSDR), National Center for Health Statistics (NCHS), National Center for HIV Viral Hepatitis STD and TB Prevention (NCHHSTP), National Center for Immunization and Respiratory Diseases (NCIRD), National Center for Injury Prevention and Control (NCIPC), National Center for State Tribal Local and Territorial Public Health Infrastructure and Workforce (NCSTLTPHIW), National Institute for Occupational Safety and Health (NIOSH), CDC Washington Office (CDC/W), Office of Budget Policy and Appropriations (OBPA), Office of Communications (OC), Office of the Chief Operating Officer (OCOO), Office of the Chief of Staff (OCS), Office of Laboratory Systems and Response (OLSR), Office of Minority Health (OMH), Office of Policy Performance and Evaluation (OPPE), Office of Public Health Data Surveillance and Technology (OPHDST), Office of Readiness and Response (ORR), Office of Science (OS), Congress, Senate, Bill Cassidy (T-LA), Health Education Labor and Pensions, House of Representatives, President of the United States (POTUS), White House (WH), Richard Nixon Presidential Library and Museum / Richard Nixon Museum and Library, Jimmy Carter Presidential Library and Museum / Jimmy Carter Library, Ronald Reagan Presidential Library & Museum / Ronald Reagan, President Barack Obama, President Joe Biden, Trump crime businesses, Donald J Trump, President Donald Trump (45), President Donald Trump (47), President Trump (47) Administration, President Trump (47) Cabinet, public health, immunizations, disease prevention, injury prevention, disability prevention, preparedness for new health threats]
+tags: [media, MSNBC, Brandy Zadrozny, organizations, political parties, Democrat Party, Trumpian Party, universities, companies, foreign countries, state local governments, federal government, Constitution of the United States, Supreme Court of the United States (SCOTUS), US Courts, U.S. Department of the Treasury, Department of Health and Human Services (HHS), Centers for Disease Control (CDC), Susan Monarez. Director, Dr. Deb Houry. deputy director and chief medical officer, National Center for Immunization and Respiratory Diseases (NCIRD), Dr. Demetre Daskalakis, Office of Public Health Data Surveillance and Technology (OPHDST), Dr. Jen Layden, National Center for Emerging and Zoonotic Infectious Diseases (NCEZID), Dr. Daniel Jernigan, Center for Forecasting and Outbreak Analytics (CFA), Global Health Center (GHC), National Center on Birth Defects and Developmental Disabilities (NCBDDD), National Center for Chronic Disease Prevention and Health Promotion (NCCDPHP), National Center for Environmental Health (NCEH)/ Agency for Toxic Substances and Disease Registry (ATSDR), National Center for Health Statistics (NCHS), National Center for HIV Viral Hepatitis STD and TB Prevention (NCHHSTP), National Center for Injury Prevention and Control (NCIPC), National Center for State Tribal Local and Territorial Public Health Infrastructure and Workforce (NCSTLTPHIW), National Institute for Occupational Safety and Health (NIOSH), CDC Washington Office (CDC/W), Office of Budget Policy and Appropriations (OBPA), Office of Communications (OC), Office of the Chief Operating Officer (OCOO), Office of the Chief of Staff (OCS), Office of Laboratory Systems and Response (OLSR), Office of Minority Health (OMH), Office of Policy Performance and Evaluation (OPPE), Office of Readiness and Response (ORR), Office of Science (OS), Congress, Senate, Bill Cassidy (T-LA), Bernie Sanders (I-VT), Health Education Labor and Pensions, House of Representatives, President of the United States (POTUS), White House (WH), Richard Nixon Presidential Library and Museum / Richard Nixon Museum and Library, Jimmy Carter Presidential Library and Museum / Jimmy Carter Library, Ronald Reagan Presidential Library & Museum / Ronald Reagan, President Barack Obama, President Joe Biden, Trump crime businesses, Donald J Trump, President Donald Trump (45), President Donald Trump (47), President Trump (47) Administration, President Trump (47) Cabinet, Secretary Robert F. Kennedy Jr. (RFKJr), public health, immunizations, disease prevention, injury prevention, disability prevention, preparedness for new health threats]
 categories: [Donald Trump, Robert F Kennedy Jr, Department of Health and Human Services (HHS), Centers for Disease Control (CDC)]
 date: 2025-08-29 7:38 PM
 #excerpt: ''
@@ -70,6 +70,13 @@ title: "Senior CDC Leadership Resign In Support of Director's Firing"
 Aug. 28, 2025, 11:45 AM EDT
 By Brandy Zadrozny
 
+### Hundreds show up at the CDC to clap out resigning doctors
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/v-c0a_U68fY?si=-MCL4xDSDyHTPfGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+> Aug 29, 2025
+> Supporters lined up along the sidewalk across the street from CDC headquarters in Decatur to cheer for three doctors who resigned from the CDC this week
+
 On Wednesday, the nation’s premier health agency lost some of its most senior and respected leaders, in the [ham-fisted way](https://www.msnbc.com/news/news-analysis/rfk-jr-alienated-maga-maha-white-house-mrna-vaccine-rcna225100) we’ve come to expect from the [Trump](https://www.donaldjtrump.com/) [administration](https://www.whitehouse.gov/).
 
 [Susan Monarez, director of the Centers of Disease Control and Prevention](https://www.msnbc.com/rachel-maddow-show/maddowblog/susan-monarez-cdc-centers-disease-control-rcna227627) for just shy of a month, was [reportedly](https://www.nytimes.com/2025/08/27/health/cdc-monarez-kennedy-vaccines.html) called in to meet with [Health and Human Services](https://www.hhs.gov/) [Secretary Robert F. Kennedy Jr](https://www.hhs.gov/about/leadership/robert-kennedy.html) on Monday and pledge her support for pulling back approvals for Covid vaccines. When she declined, reportedly saying that she needed to confer with her senior staff, [Kennedy](https://www.hhs.gov/about/leadership/robert-kennedy.html) ordered her to fire her senior staff and when she refused that and enlisted the help of [Bill Cassidy](https://www.cassidy.senate.gov/), the Republican chair of the [Senate](,https://www.senate.gov/) [health committee](http://www.help.senate.gov/), [Kennedy](https://www.hhs.gov/about/leadership/robert-kennedy.html) asked for her resignation.
@@ -124,6 +131,7 @@ After a long pause and a heavy sigh, one official told me Wednesday, “There’
 
 Brandy Zadrozny was a former senior enterprise reporter based in New York covering misinformation, extremism and the internet.
 
+----
 - media
 - [MSNBC](https://www.msnbc.com/)
     - Brandy Zadrozny
@@ -154,11 +162,9 @@ Brandy Zadrozny was a former senior enterprise reporter based in New York coveri
             - [Global Health Center (GHC)](https://www.cdc.gov/about/leadership/ghc.html)
             - [National Center on Birth Defects and Developmental Disabilities (NCBDDD)](https://www.cdc.gov/about/leadership/ncbddd.html)
             - [National Center for Chronic Disease Prevention and Health Promotion (NCCDPHP)](https://www.cdc.gov/about/leadership/nccdphp.html)
-            - [National Center for Emerging and Zoonotic Infectious Diseases (NCEZID)](https://www.cdc.gov/about/leadership/ncezid.html)
             - [National Center for Environmental Health (NCEH)/ Agency for Toxic Substances and Disease Registry (ATSDR)](https://www.cdc.gov/about/leadership/nceh.html)
             - [National Center for Health Statistics (NCHS)](https://www.cdc.gov/about/leadership/nchs.html)
             - [National Center for HIV, Viral Hepatitis, STD, and TB Prevention (NCHHSTP)](https://www.cdc.gov/about/leadership/nchhstp.html)
-            - [National Center for Immunization and Respiratory Diseases (NCIRD)](https://www.cdc.gov/about/leadership/ncird.html)
             - [National Center for Injury Prevention and Control (NCIPC)](https://www.cdc.gov/about/leadership/ncipc.html)
             - [National Center for State, Tribal, Local, and Territorial Public Health Infrastructure and Workforce (NCSTLTPHIW)](https://www.cdc.gov/about/leadership/ncstltphiw.html)
             - [National Institute for Occupational Safety and Health (NIOSH)](https://www.cdc.gov/about/leadership/niosh.html)
@@ -170,12 +176,12 @@ Brandy Zadrozny was a former senior enterprise reporter based in New York coveri
             - [Office of Laboratory Systems and Response (OLSR)](https://www.cdc.gov/about/leadership/olsr.html)
             - [Office of Minority Health (OMH)](https://www.cdc.gov/minority-health/index.html)
             - [Office of Policy, Performance, and Evaluation (OPPE)](https://www.cdc.gov/about/leadership/oppe.html)
-            - [Office of Public Health Data, Surveillance, and Technology (OPHDST)](https://www.cdc.gov/about/leadership/ophdst.html)
             - [Office of Readiness and Response (ORR)](https://www.cdc.gov/about/leadership/orr.html)
             - [Office of Science (OS)](https://www.cdc.gov/about/leadership/os.html)
     - [Congress](https://www.congress.gov/)
         - [Senate](https://www.senate.gov/)
             - [Bill Cassidy (T-LA)](https://www.cassidy.senate.gov/)
+            - [Bernie Sanders (I-VT)](https://www.sanders.senate.gov/)
             - [Health, Education, Labor, and Pensions](http://www.help.senate.gov/)
         - [House of Representatives](https://www.house.gov/)
     - [President of the United States (POTUS)](https://www.whitehouse.gov/)
@@ -191,6 +197,7 @@ Brandy Zadrozny was a former senior enterprise reporter based in New York coveri
         - [President Donald Trump (47)](https://www.whitehouse.gov/[administration](https://www.whitehouse.gov/administration/)/donald-j-trump/)
         - [President Trump (47) Administration](https://www.whitehouse.gov/[administration](https://www.whitehouse.gov/administration/)/)
         - [President Trump (47) Cabinet](https://www.whitehouse.gov/[administration](https://www.whitehouse.gov/administration/)/the-cabinet/)
+            - [Secretary Robert F. Kennedy Jr. (RFKJr)](https://www.hhs.gov/about/leadership/robert-kennedy.html)
 - public health 
 - immunizations
 - disease prevention 

@@ -27,7 +27,7 @@ As if [Donald Trump](https://www.donaldjtrump.com/) and his team [hadn’t alrea
 
 That the [president](https://www.whitehouse.gov/) and his team appear to be [brazenly weaponizing federal law enforcement](https://www.msnbc.com/rachel-maddow-show/maddowblog/trumps-doj-opens-investigation-state-ags-office-brought-case-trump-rcna223881) is a scandal unto itself, but in case the developments weren’t quite provocative enough, [NBC News also reported](https://www.nbcnews.com/politics/trump-[administration](https://www.whitehouse.gov/administration/)/live-blog/trump-redistricting-tariffs-immigration-gaza-russia-live-updates-rcna222785/rcrd86085?canonicalCard=true):
 
-> *[U.S. Attorney General](https://www.justice.gov/) [Pam Bondi](https://www.justice.gov/ag/staff-profile/meet-attorney-general) has tapped [Ed Martin](https://www.linkedin.com/in/edmartinjr/), the ex-interim U.S. attorney for Washington, D.C., as ‘special attorney’ probing [New York](https://www.ny.gov/) [Attorney General](https://ag.ny.gov/) [Letitia James](https://ag.ny.gov/about/meet-letitia-james), two [administration](https://www.whitehouse.gov/administration/) officials told [NBC News](https://www.nbcnews.com/). ... [Martin](https://www.linkedin.com/in/edmartinjr/)] will also be involved in a [Justice Department](https://www.justice.gov/) probe against [Sen.](https://www.senate.gov/) [Adam Schiff (D-CA)]() over alleged mortgage fraud related to his ownership of homes in [California](https://www.ca.gov/) and [Maryland](https://www.maryland.gov/), the [administration](https://www.whitehouse.gov/administration/) officials said.*
+> *[U.S. Attorney General](https://www.justice.gov/) [Pam Bondi](https://www.justice.gov/ag/staff-profile/meet-attorney-general) has tapped [Ed Martin](https://www.linkedin.com/in/edmartinjr/), the ex-interim U.S. attorney for Washington, D.C., as ‘special attorney’ probing [New York](https://www.ny.gov/) [Attorney General](https://ag.ny.gov/) [Letitia James](https://ag.ny.gov/about/meet-letitia-james), two [administration](https://www.whitehouse.gov/administration/) officials told [NBC News](https://www.nbcnews.com/). ... [Martin](https://www.linkedin.com/in/edmartinjr/)] will also be involved in a [Justice Department](https://www.justice.gov/) probe against [Sen.](https://www.senate.gov/) [Adam Schiff (D-CA)](https://www.schiff.senate.gov/) over alleged mortgage fraud related to his ownership of homes in [California](https://www.ca.gov/) and [Maryland](https://www.maryland.gov/), the [administration](https://www.whitehouse.gov/administration/) officials said.*
 
 There’s good reason [Martin](https://www.linkedin.com/in/edmartinjr/)’s name might sound familiar.
 
@@ -47,7 +47,7 @@ A month later, [Martin](https://www.linkedin.com/in/edmartinjr/) declared that [
 
 Now, evidently, [Bondi](https://www.justice.gov/ag/staff-profile/meet-attorney-general) has made [Martin](https://www.linkedin.com/in/edmartinjr/) a “special attorney” (not to be confused with a special counsel) who’ll investigate at least two of the Democrats who’ve been repeatedly singled out by [Trump](https://www.donaldjtrump.com/).
 
-A couple of weeks after joining his party’s national ticket, then-[Sen.](https://www.senate.gov/) [JD Vance]() was eager to ease the minds of voters concerned about [Trump](https://www.donaldjtrump.com/) and his threats of retaliation. [Trump](https://www.donaldjtrump.com/), the future vice [president](https://www.whitehouse.gov/) said at the time, is “[not a vengeful guy](https://x.com/Acyn/status/1817731966135042055)[^46].”
+A couple of weeks after joining his party’s national ticket, then-[Sen.](https://www.senate.gov/) [JD Vance](https://bioguide.congress.gov/search/bio/V000137) was eager to ease the minds of voters concerned about [Trump](https://www.donaldjtrump.com/) and his threats of retaliation. [Trump](https://www.donaldjtrump.com/), the future vice [president](https://www.whitehouse.gov/) said at the time, is “[not a vengeful guy](https://x.com/Acyn/status/1817731966135042055)[^46].”
 
 [^46]: @RalphHightower: That’s total, fucking bullshit. 
 
@@ -160,6 +160,7 @@ When using these words in a legal sense, or to refer to oppression of some kind 
     - [Bureau of Labor Statistics (BLS)](https://www.bls.gov/)
     - [Congress](https://www.congress.gov/)
         - [Senate](https://www.senate.gov/)
+            - [Adam Schiff (D-CA)](https://www.schiff.senate.gov/)
             - [JD Vance (T-OH)](https://bioguide.congress.gov/search/bio/V000137). Former
         - [House of Representatives](https://www.house.gov/)
     - [President of the United States (POTUS)](https://www.whitehouse.gov/)
