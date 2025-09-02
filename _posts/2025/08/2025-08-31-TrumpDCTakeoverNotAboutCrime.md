@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [media, MSNBC, James Downie, The 51st — Washington DC local news, The Bulwark, HuffPost - Breaking News Politics Entertainment & Opinion, The New York Times - Breaking News US News World News and Videos, The Washington Post - Breaking news and latest headlines U.S. news world news and video - The Washington Post, organizations, Red Cards / Tarjetas Rojas / Immigrant Legal Resource Center / ILRC, political parties, Democrat Party, Trumpian Party, universities, companies, foreign countries, international, state local governments, State of Alaska (AK), Washington DC / DC, Washington DC Metropolitan Police / mpdc, Home • Council of the District of Columbia, Meet-the-Council-Final-Design-without-bleed-and-cutting-mark.pdf, South Dakota Official State Homepage - Citizen Services (SD), Home / Vermont.gov (VT), State of Wyoming (WY), federal government, Constitution of the United States, U.S. Constitution - Article I / Resources / Constitution Annotated / Congress.gov / Library of Congress, U.S. Constitution - Article II / Resources / Constitution Annotated / Congress.gov / Library of Congress, U.S. Constitution - Article III / Resources / Constitution Annotated / Congress.gov / Library of Congress, U.S. Constitution - Article IV / Resources / Constitution Annotated / Congress.gov / Library of Congress, U.S. Constitution - Article V / Resources / Constitution Annotated / Congress.gov / Library of Congress, U.S. Constitution - Article VI / Resources / Constitution Annotated / Congress.gov / Library of Congress, U.S. Constitution - Article VII / Resources / Constitution Annotated / Congress.gov / Library of Congress, Supreme Court of the United States (SCOTUS), US Courts, Department of Defense (DOD), Joint Chiefs of Staff (JCS), National Guard, Federal Reserve, Department of Justice (DOJ), Department of Homeland Security (DHS), Department of Immigration and Customs Enforcement (ICE), U.S. Customs and Border Protection / U.S. Customs and Border Protection (CBP), U.S. Citizenship and Immigrantion Services USCIS), United States Coast Guard (USCG), Cybersecurity and Infrastructure Security Agency (CISA), Federal Emergency Management Agency (FEMA), mFederal Law Enforcement Training Centers, United States Secret Service, Transportation Security Administration (TSA), U.S. Department of the Treasury, Treasury Department, Department of Commerce (DOC), Bureau of Labor Statistics (BLS), Federal Housing Finance Agency (FHFA), Congress, Senate, House of Representatives, President of the United States (POTUS), White House (WH), Donald J Trump, President Donald Trump (45), President Donald Trump (47), President Trump (47) Administration, President Trump (47) Cabinet, criminal businesses]
+tags: [media, MSNBC, James Downie, The 51st — Washington DC local news, The Bulwark, HuffPost - Breaking News Politics Entertainment & Opinion, The New York Times - Breaking News US News World News and Videos, The Washington Post - Breaking news and latest headlines U.S. news world news and video - The Washington Post, organizations, Red Cards / Tarjetas Rojas / Immigrant Legal Resource Center / ILRC, political parties, Democrat Party, Trumpian Party, universities, companies, foreign countries, international, state local governments, State of Alaska (AK), Washington DC / (DC), Washington DC Metropolitan Police / mpdc, Home • Council of the District of Columbia, Meet-the-Council-Final-Design-without-bleed-and-cutting-mark.pdf, Janeese Lewis George, South Dakota Official State Homepage - Citizen Services (SD), Home / Vermont.gov (VT), State of Wyoming (WY), federal government, Constitution of the United States, U.S. Constitution - Article I / Resources / Constitution Annotated / Congress.gov / Library of Congress, U.S. Constitution - Article II / Resources / Constitution Annotated / Congress.gov / Library of Congress, U.S. Constitution - Article III / Resources / Constitution Annotated / Congress.gov / Library of Congress, U.S. Constitution - Article IV / Resources / Constitution Annotated / Congress.gov / Library of Congress, U.S. Constitution - Article V / Resources / Constitution Annotated / Congress.gov / Library of Congress, U.S. Constitution - Article VI / Resources / Constitution Annotated / Congress.gov / Library of Congress, U.S. Constitution - Article VII / Resources / Constitution Annotated / Congress.gov / Library of Congress, Supreme Court of the United States (SCOTUS), US Courts, Department of Defense (DOD), Joint Chiefs of Staff (JCS), National Guard, Federal Reserve, Department of Justice (DOJ), Department of Homeland Security (DHS), Department of Immigration and Customs Enforcement (ICE), U.S. Customs and Border Protection / U.S. Customs and Border Protection (CBP), U.S. Citizenship and Immigrantion Services USCIS), United States Coast Guard (USCG), Cybersecurity and Infrastructure Security Agency (CISA), Federal Emergency Management Agency (FEMA), mFederal Law Enforcement Training Centers, United States Secret Service, Transportation Security Administration (TSA), U.S. Department of the Treasury, National Park Service (NPS), Washington Monument (U.S. National Park Service), Department of Transportation (DOT), Home / Union Station D.C., Department of Commerce (DOC), Bureau of Labor Statistics (BLS), Federal Housing Finance Agency (FHFA), Congress, Senate, House of Representatives, President of the United States (POTUS), White House (WH), Donald J Trump, President Donald Trump (45), President Donald Trump (47), President Trump (47) Administration, President Trump (47) Cabinet, criminal businesses, Washington District of Columbia (DC), militarization, federalization, crime enforcement, immigration deportation support]
 categories: [Donald Trump, federal weaponization, National Guard, Washington District of Columbia (DC), federalization, crime enforcement, immigration deportation support]
 date: 2025-08-31 4:57 PM
 #excerpt: ''
@@ -30,7 +30,7 @@ In asserting control over [D.C.’s police department](https://mpdc.dc.gov/node)
 
 To be clear, while crime in the city [hit a 30-year low](https://www.justice.gov/usao-dc/pr/violent-crime-dc-hits-30-year-low) last year, residents still want safer streets. In [a recent Washington Post poll,](https://www.washingtonpost.com/dc-md-va/2025/08/20/dc-poll-trump-crime-police/), over 70% of [Washingtonians](https://dc.gov) said crime was a “moderately,” “very” or “extremely” serious problem. Yet nearly 80% opposed the takeover and troop deployment. As someone born in [Washington](https://dc.gov/) and who has lived here my whole life, I have a simple explanation for that discrepancy: Pretty much anyone living in [D.C.](https://dc.gov/) can see every day that the [White House](https://www.whitehouse.gov/)’s justification is a lie.
 
-The [National Guard](https://www.nationalguard.mil/) units, for instance, have largely been deployed at tourist hubs like [Union Statlion]() and the [Washington Monument](), but not where people actually live. During my own commute between Petworth, a residential neighborhood, and my workplace near the Capitol, only at the latter are [National Guard](https://www.nationalguard.mil/) members visible. Reports of troops acting as law enforcement are far rarer than videos of troops working on “beautification projects” — i.e., [picking up trash](https://51st.news/dc-takeover-updates-august24/). And at [an estimated cost of $1 million per day,](https://51st.news/national-guard-dc-faq/), that’s an expensive garbage collection operation.
+The [National Guard](https://www.nationalguard.mil/) units, for instance, have largely been deployed at tourist hubs like [Union Statlion](https://www.unionstationdc.com/) and the [Washington Monument](https://www.nps.gov/wamo/index.htm), but not where people actually live. During my own commute between Petworth, a residential neighborhood, and my workplace near the Capitol, only at the latter are [National Guard](https://www.nationalguard.mil/) members visible. Reports of troops acting as law enforcement are far rarer than videos of troops working on “beautification projects” — i.e., [picking up trash](https://51st.news/dc-takeover-updates-august24/). And at [an estimated cost of $1 million per day,](https://51st.news/national-guard-dc-faq/), that’s an expensive garbage collection operation.
 
 My neighborhood, meanwhile, is part of Ward 4, which [the largest Hispanic population of the city’s eight wards](https://planning.dc.gov/publication/2020-census-information-and-data). The [National Guard](https://www.nationalguard.mil/) rarely makes its way up there, but, as the stack of red cards at my daughter’s school suggests, there is plenty of immigration enforcement. “If you are an immigrant in our community, they are not questioning whether you are documented, whether you have papers,” Janeese Lewis George, who represents Ward 4 on the [D.C. Council](https://dccouncil.gov/), [said recently](https://www.instagram.com/p/DN3zhoB5APV/). “They are literally going up to anyone in our neighborhoods and communities and taking them.”
 
@@ -54,6 +54,7 @@ Seven hundred thousand Americans live in the district, more than [Vermont](https
 
 James Downie is a writer and editor for MSNBC Daily. He was an editor and columnist for The Washington Post and has also written for The New Republic and Foreign Policy.
 
+----
 - media 
 - [MSNBC](https://www.msnbc.com/)
     - James Downie
@@ -73,10 +74,11 @@ James Downie is a writer and editor for MSNBC Daily. He was an editor and column
 - international 
 - state, local governments 
 - [State of Alaska (AK)](https://www.alaska.gov/)
-- [Washington DC / DC](https://dc.gov/portalwip)
+- [Washington DC / (DC)](https://dc.gov/portalwip)
     - [Washington DC Metropolitan Police / mpdc](https://mpdc.dc.gov/node)
     - [Home • Council of the District of Columbia](https://dccouncil.gov/)
         - [Meet-the-Council-Final-Design-without-bleed-and-cutting-mark.pdf](https://dccouncil.gov/wp-content/uploads/2025/02/Meet-the-Council-Final-Design-without-bleed-and-cutting-mark.pdf)
+        - Janeese Lewis George
 - [South Dakota Official State Homepage - Citizen Services (SD)](https://www.sd.gov/cs)
 - [Home / Vermont.gov (VT)](https://www.vermont.gov/)
 - [State of Wyoming (WY)](https://www.wyo.gov/)
@@ -107,7 +109,10 @@ James Downie is a writer and editor for MSNBC Daily. He was an editor and column
         - [United States Secret Service](https://www.secretservice.gov/)
         - [Transportation Security Administration (TSA)](https://www.tsa.gov/)
     - [U.S. Department of the Treasury](https://home.treasury.gov/)
-    - [Treasury Department](https://home.treasury.gov/)
+    - [National Park Service (NPS)](https://www.nps.gov/index.htm)
+        - [Washington Monument (U.S. National Park Service)](https://www.nps.gov/wamo/index.htm)
+    - [Department of Transportation (DOT)](https://www.transportation.gov/)
+        - [Home / Union Station D.C.](https://www.unionstationdc.com/)
     - [Department of Commerce (DOC)](https://www.commerce.gov/)
     - [Bureau of Labor Statistics (BLS)](https://www.bls.gov/)
     - [Federal Housing Finance Agency (FHFA)](https://www.fhfa.gov/)
@@ -123,6 +128,7 @@ James Downie is a writer and editor for MSNBC Daily. He was an editor and column
         - [President Trump (47) Cabinet](https://www.whitehouse.gov/administration/the-cabinet/)
 - criminal businesses
 - Washington District of Columbia (DC)
+- militarization 
 - federalization
 - crime enforcement
 - immigration deportation support
