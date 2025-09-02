@@ -30,7 +30,7 @@ While [the Sidney Reid case](https://www.msnbc.com/deadline-white-house/deadline
 
 After his arrest earlier this month, the [administration](https://www.whitehouse.gov/administration/) sought to make an example of the man who, notably, was working for the [Justice Department](https://www.justice.gov/). According to the initial [complaint](https://storage.courtlistener.com/recap/gov.uscourts.dcd.283707/gov.uscourts.dcd.283707.1.0.pdf) and [statement of facts](https://storage.courtlistener.com/recap/gov.uscourts.dcd.283707/gov.uscourts.dcd.283707.1.1.pdf) filed against him, Dunn allegedly called federal agents “fascists,” said he didn’t want them “in my city” and “str[uck]” an immigration agent in the chest with a “sub-style sandwich.”
 
-[Attorney General](https://www.justice.gov/) [Pam Bondi](https://www.msnbc.com/deadline-white-house/deadline-legal-blog/trump-department-of-justice-independence-ask-jordan-rcna198572) highlighted Dunn’s case after his arrest, [writing that](https://x.com/AGPamBondi/status/1956010229348413694) she had just learned he worked at DOJ and that he is now “FIRED” in addition to facing a felony charge. “If you touch any law enforcement officer, we will come after you,” wrote Bondi, who is a top official in an [administration](https://www.whitehouse.gov/administration/) that has coddled [Jan. 6 defendants]({% link  %}) [who attacked law enforcement](https://www.justsecurity.org/106689/january-6-pardons-statistics/).
+[Attorney General](https://www.justice.gov/) [Pam Bondi](https://www.msnbc.com/deadline-white-house/deadline-legal-blog/trump-department-of-justice-independence-ask-jordan-rcna198572) highlighted Dunn’s case after his arrest, [writing that](https://x.com/AGPamBondi/status/1956010229348413694) she had just learned he worked at DOJ and that he is now “FIRED” in addition to facing a felony charge. “If you touch any law enforcement officer, we will come after you,” wrote Bondi, who is a top official in an [administration](https://www.whitehouse.gov/administration/) that has coddled [Jan. 6 defendants]({% link January6DocumentDocumentLinks.md %}) [who attacked law enforcement](https://www.justsecurity.org/106689/january-6-pardons-statistics/).
 
 Similarly, former [Faux News](https://www.foxnews.com/) host and current [U.S. Attorney for the District of Columbia Jeanine Pirro](https://www.justice.gov/usao-dc/staff-profile/meet-us-attorney) [released a video](https://x.com/JudgeJeanine/status/1955704405161808286?) upon Dunn’s arrest that was accompanied by the text: “Assault a law enforcement officer, and you’ll be prosecuted. This guy thought it was funny — well, he doesn’t think it’s funny today, because we charged him with a felony.”
 
@@ -53,6 +53,7 @@ Subscribe to the [Deadline: Legal Newsletter](https://link.msnbc.com/join/5ck/ms
         - Jordan Rubin
 - [Reuters](https://www.reuters.com/)
 - [Public Broadcasting System (PBS)](https://www.pbs.org/)
+- [Federal: 2020 Election Interference, January 6 Insurrection]({% link January6DocumentDocumentLinks.md %}). @RalphHightower
 - organizations 
 - companies
 - foreign countries 
