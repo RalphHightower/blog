@@ -2,7 +2,7 @@
 layout: post
 tags: [media, MSNBC, Deadline –  Legal Blog, Jordan Rubin, Reuters, Public Broadcasting System (PBS), organizations, companies, foreign countries, state local governments, political parties, Trumpian Party, Democrat Party, Federal Government, Constitution of the United States, Supreme Court of the United States (SCOTUS), US Courts, Department of Justice (DOJ), Federal Bureau of Investigation (FBI), District of Columbia / District of Columbia, Department of State (DOS), Congress, Senate, House of Representatives,  Oversight Committee, Mike Johnson (T-LA4), House Speaker, President of the United States (POTUS), White House (WH), Trump crime family, Donald J Trump, President Donald Trump (45), President Donald Trump (47), President Trump (47) Administration, President Trump (47) Cabinet, JD Vance, Vice President JD Vance, Pam Bondi, Office of the Deputy Attorney General / Office of the Deputy Attorney General, Todd Blanche / LinkedIn, Jeanine Ferris Pirro – District of Columbia / Meet the U.S. Attorney / United States Department of Justice, Kash Patel, Deputy Director Dan Bongino — FBI, tariffs, politics, stupidity, grift, self-dealing, corruption, con, crime, cryptocurrency, criminal associates, criminal businesses, criminal partners, grand jury, ham sandwich]
 categories: [Donald Trump, Jeanine Pirro, National Guard,  militarization, grand jury, ham sandwich]
-date: 2025-09-27 5:52 PM
+date: 2025-08-27 5:52 PM
 #excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
@@ -22,8 +22,8 @@ When I wrote about the shocking triple failure of prosecutors in [Washington, D.
 
 That prospect may have been realized Tuesday, when a grand jury refused to approve a felony charge against him, as [The New York Times](https://www.nytimes.com/) [reported Wednesday](https://www.nytimes.com/2025/08/27/us/politics/trump-sandwich-assault-indictment-justice-department.html).
 
-Beyond the inevitable quips playing on [the old saying](https://history.nycourts.gov/biography/sol-wachtler/) that prosecutors could get a grand jury to indict a ham sandwich, something serious and profound is happening in the nation’s capital.
 
+Beyond the inevitable quips playing on [the old saying](https://history.nycourts.gov/biography/sol-wachtler/) that prosecutors could get a grand jury to indict a ham sandwich, something serious and profound is happening in the nation’s capital.
 Given the relative ease with which prosecutors secure indictments (hence the saying), it’s all the more noteworthy when grand jurors refuse to approve that preliminary step of formally accusing someone of committing a crime. Grand jury presentations are one-sided affairs, guided by prosecutors and governed by the relatively low standard of [probable cause](https://www.dcd.uscourts.gov/sites/dcd/files/HandbookFederalGrandJurors.pdf), as compared to the “beyond a reasonable doubt” standard that prosecutors must clear at trial.
 
 While [the Sidney Reid case](https://www.msnbc.com/deadline-white-house/deadline-legal-blog/jeanine-pirro-washington-indictment-rcna227190) is eye-popping due to the number of times (three) that [D.C.](https://dc.gov/) grand jurors refused to approve a felony case against her, Dunn’s case could signal something at least as significant in response to the [Trump](https://www.donaldjtrump.com/) [administration](https://www.whitehouse.gov/administration/)’s show of force.
