@@ -22,17 +22,17 @@ By [Brandy Zadrozny](https://www.msnbc.com/author/brandy-zadrozny-ncpn858391)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/v-c0a_U68fY?si=-MCL4xDSDyHTPfGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 > Aug 29, 2025
-> Supporters lined up along the sidewalk across the street from CDC headquarters in Decatur to cheer for three doctors who resigned from the CDC this week
+> Supporters lined up along the sidewalk across the street from [CDC](https://www.cdc.gov/) headquarters in Decatur to cheer for three doctors who resigned from the [CDC](https://www.cdc.gov/) this week
 
-Hundreds of employees and supporters of the [Centers for Disease Control and Prevention](https://www.cdc.gov/) lined the sidewalks outside the agency’s Atlanta headquarters Thursday for a “clap out” rally to honor three senior leaders who resigned a day earlier in protest of [Health and Human Services](https://www.hhs.gov/,) [Secretary Robert F. Kennedy Jr.’s](https://www.hhs.gov/about/leadership/robert-kennedy.html) anti-vaccine attacks on the agency and public health at large.
+Hundreds of employees and supporters of the [Centers for Disease Control and Prevention](https://www.cdc.gov/) lined the sidewalks outside the agency’s Atlanta headquarters Thursday for a “clap out” rally to honor three senior leaders who resigned a day earlier in protest of [Health and Human Services](https://www.hhs.gov/,) [Secretary Robert F. Kennedy Jr.](https://www.hhs.gov/about/leadership/robert-kennedy.html) anti-vaccine attacks on the agency and public health at large.
 
-Dr. Deb Houry, former deputy director and chief medical officer; Dr. Demetre Daskalakis, former director of the [National Center for Immunization and Respiratory Diseases (NCIRD)](https://www.cdc.gov/about/leadership/ncird.html); and Dr. Daniel Jernigan, former director of the National Center for Emerging and Zoonotic Infectious Diseases, walked through the crowd, hugging former colleagues and accepting bouquets of flowers.
+Dr. Deb Houry, former deputy director and chief medical officer; Dr. Demetre Daskalakis, former director of the [National Center for Immunization and Respiratory Diseases (NCIRD)](https://www.cdc.gov/about/leadership/ncird.html); and Dr. Daniel Jernigan, former director of the [National Center for Emerging and Zoonotic Infectious Diseases (NCEZID)](https://www.cdc.gov/about/leadership/ncezid.html), walked through the crowd, hugging former colleagues and accepting bouquets of flowers.
 
 They resigned Wednesday after [HHS](https://www.hhs.gov/) announced that [Kennedy](https://www.hhs.gov/about/leadership/robert-kennedy.html) [had fired](https://www.msnbc.com/msnbc/news/cdc-rfk-jr-senior-leaders-resignations-susan-monarez-rcna227717) [CDC](https://www.cdc.gov/,) Director Susan Monarez, who had been in her post for less than a month. Monarez’s lawyers disputed her firing, saying that only the [president](https://www.whitehouse.gov/) had the authority to fire her and claiming that she had been [pushed out for refusing](https://x.com/MarkSZaidEsq/status/1960842941293060446) “to rubber-stamp unscientific, reckless directives and fire dedicated health experts.”
 
 [Kennedy](https://www.hhs.gov/about/leadership/robert-kennedy.html) [defended the firing](https://www.youtube.com/watch?v=4cCnf8mIg5A&ab_channel=FoxNews) Thursday on [Faux News](https://www.foxnews.com/), citing a nonspecific “deeply embedded malaise at the agency.”
 
-According to [reporting in the Washington Post](https://www.washingtonpost.com/politics/2025/08/28/cdc-director-jim-oneill/), the [White House](https://www.whitehouse.gov/) has tapped [HHS](https://www.hhs.gov/) deputy secretary Jim O’Neill to serve as Monarez’s interim replacement. O’Neill, who the Post calls a ["close ally"](https://www.technologyreview.com/2025/06/30/1119449/hhs-robert-f-kennedy-jr-jim-oneill-longevity-maha/) of tech investor Peter Thiel, criticized the [CDC](https://www.cdc.gov/) during the pandemic, but has not echoed [Kennedy](https://www.hhs.gov/about/leadership/robert-kennedy.html)’s attacks on vaccines. He is expected to lead the agency while continuing to advise [HHS](https://www.hhs.gov/).
+According to [reporting in the Washington Post](https://www.washingtonpost.com/politics/2025/08/28/cdc-director-jim-oneill/), the [White House](https://www.whitehouse.gov/) has tapped [HHS](https://www.hhs.gov/) deputy secretary Jim O’Neill to serve as Monarez’s interim replacement. O’Neill, who the [Post](https://www.washingtonpost.com/) calls a ["close ally"](https://www.technologyreview.com/2025/06/30/1119449/hhs-robert-f-kennedy-jr-jim-oneill-longevity-maha/) of tech investor Peter Thiel, criticized the [CDC](https://www.cdc.gov/) during the pandemic, but has not echoed [Kennedy](https://www.hhs.gov/about/leadership/robert-kennedy.html)’s attacks on vaccines. He is expected to lead the agency while continuing to advise [HHS](https://www.hhs.gov/).
 
 Houry, Daskalakis and Jernigan — who were escorted off the [CDC](https://www.cdc.gov/)’s Atlanta campus by security earlier Thursday — gave impromptu speeches in support of their former agency, promising they would continue to fight from the outside.
 
@@ -118,5 +118,4 @@ Brandy Zadrozny was a former senior enterprise reporter based in New York coveri
 - disease prevention 
 - injury prevention
 - disability prevention
-- preparedness for new health threats
-and the internet.
+- preparedness for new health threats and the internet.
