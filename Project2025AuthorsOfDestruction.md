@@ -7,7 +7,7 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: "Authors of Mass Destruction: Project 2025"
+title: "☢️ Authors of Mass Destruction: Project 2025 ☢️"
 ---
 
 Project 2025 website now redirects to a book purchase website. I removed all links to Project 2025. 2025-08-29.

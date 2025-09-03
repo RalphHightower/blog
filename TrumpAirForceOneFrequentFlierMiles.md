@@ -36,9 +36,6 @@ title: "Trump: Air Force One Frequent Flyer Miles"
 | 3:04 PM | The [President](https://www.donaldjtrump.com/) departs [Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/)<br />[Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/) |
 | 3:37 PM | The [President](https://www.donaldjtrump.com/) arrives at the [White House](https://www.whitehouse.gov/)<br />The [White House](https://www.whitehouse.gov/) |
 | 3:39 PM | [White House](https://www.whitehouse.gov/) Press Office: Full lid called<br />The [White House](https://www.whitehouse.gov/) |
-| | **Monday, September 1, 2025** |
-| 8:30 AM ⛳️🏌‍♂️| [Donnie](https://www.donaldjtrump.com/) plays golf at his [Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/) |
-| 6:00 PM | [Donnie](https://www.donaldjtrump.com/) returns to the [White House](https://www.whitehouse.gov/) |
 | | **Sunday, August 31 2025** |
 | ⛳️🏌‍♂️| The [President](https://www.donaldjtrump.com/) ~~has no public events scheduled~~ (other than playing golf ⛳️🏌)<br />The [White House](https://www.whitehouse.gov/) In-Town Pool |
 | 8:00 AM | In-Town Pool Call Time<br />The [White House](https://www.whitehouse.gov/) In-Town Pool |

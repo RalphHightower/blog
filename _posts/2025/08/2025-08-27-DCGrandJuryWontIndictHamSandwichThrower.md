@@ -2,7 +2,7 @@
 layout: post
 tags: [media, MSNBC, Deadline –  Legal Blog, Jordan Rubin, Reuters, Public Broadcasting System (PBS), organizations, companies, foreign countries, state local governments, political parties, Trumpian Party, Democrat Party, Federal Government, Constitution of the United States, Supreme Court of the United States (SCOTUS), US Courts, Department of Justice (DOJ), Federal Bureau of Investigation (FBI), District of Columbia / District of Columbia, Department of State (DOS), Congress, Senate, House of Representatives,  Oversight Committee, Mike Johnson (T-LA4), House Speaker, President of the United States (POTUS), White House (WH), Trump crime family, Donald J Trump, President Donald Trump (45), President Donald Trump (47), President Trump (47) Administration, President Trump (47) Cabinet, JD Vance, Vice President JD Vance, Pam Bondi, Office of the Deputy Attorney General / Office of the Deputy Attorney General, Todd Blanche / LinkedIn, Jeanine Ferris Pirro – District of Columbia / Meet the U.S. Attorney / United States Department of Justice, Kash Patel, Deputy Director Dan Bongino — FBI, tariffs, politics, stupidity, grift, self-dealing, corruption, con, crime, cryptocurrency, criminal associates, criminal businesses, criminal partners, grand jury, ham sandwich]
 categories: [Donald Trump, Jeanine Pirro, National Guard,  militarization, grand jury, ham sandwich]
-date: 2025-09-27 5:52 PM
+date: 2025-08-27 5:52 PM
 #excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
@@ -22,15 +22,15 @@ When I wrote about the shocking triple failure of prosecutors in [Washington, D.
 
 That prospect may have been realized Tuesday, when a grand jury refused to approve a felony charge against him, as [The New York Times](https://www.nytimes.com/) [reported Wednesday](https://www.nytimes.com/2025/08/27/us/politics/trump-sandwich-assault-indictment-justice-department.html).
 
-Beyond the inevitable quips playing on [the old saying](https://history.nycourts.gov/biography/sol-wachtler/) that prosecutors could get a grand jury to indict a ham sandwich, something serious and profound is happening in the nation’s capital.
 
+Beyond the inevitable quips playing on [the old saying](https://history.nycourts.gov/biography/sol-wachtler/) that prosecutors could get a grand jury to indict a ham sandwich, something serious and profound is happening in the nation’s capital.
 Given the relative ease with which prosecutors secure indictments (hence the saying), it’s all the more noteworthy when grand jurors refuse to approve that preliminary step of formally accusing someone of committing a crime. Grand jury presentations are one-sided affairs, guided by prosecutors and governed by the relatively low standard of [probable cause](https://www.dcd.uscourts.gov/sites/dcd/files/HandbookFederalGrandJurors.pdf), as compared to the “beyond a reasonable doubt” standard that prosecutors must clear at trial.
 
 While [the Sidney Reid case](https://www.msnbc.com/deadline-white-house/deadline-legal-blog/jeanine-pirro-washington-indictment-rcna227190) is eye-popping due to the number of times (three) that [D.C.](https://dc.gov/) grand jurors refused to approve a felony case against her, Dunn’s case could signal something at least as significant in response to the [Trump](https://www.donaldjtrump.com/) [administration](https://www.whitehouse.gov/administration/)’s show of force.
 
 After his arrest earlier this month, the [administration](https://www.whitehouse.gov/administration/) sought to make an example of the man who, notably, was working for the [Justice Department](https://www.justice.gov/). According to the initial [complaint](https://storage.courtlistener.com/recap/gov.uscourts.dcd.283707/gov.uscourts.dcd.283707.1.0.pdf) and [statement of facts](https://storage.courtlistener.com/recap/gov.uscourts.dcd.283707/gov.uscourts.dcd.283707.1.1.pdf) filed against him, Dunn allegedly called federal agents “fascists,” said he didn’t want them “in my city” and “str[uck]” an immigration agent in the chest with a “sub-style sandwich.”
 
-[Attorney General](https://www.justice.gov/) [Pam Bondi](https://www.msnbc.com/deadline-white-house/deadline-legal-blog/trump-department-of-justice-independence-ask-jordan-rcna198572) highlighted Dunn’s case after his arrest, [writing that](https://x.com/AGPamBondi/status/1956010229348413694) she had just learned he worked at DOJ and that he is now “FIRED” in addition to facing a felony charge. “If you touch any law enforcement officer, we will come after you,” wrote Bondi, who is a top official in an [administration](https://www.whitehouse.gov/administration/) that has coddled [Jan. 6 defendants]({% link  %}) [who attacked law enforcement](https://www.justsecurity.org/106689/january-6-pardons-statistics/).
+[Attorney General](https://www.justice.gov/) [Pam Bondi](https://www.msnbc.com/deadline-white-house/deadline-legal-blog/trump-department-of-justice-independence-ask-jordan-rcna198572) highlighted Dunn’s case after his arrest, [writing that](https://x.com/AGPamBondi/status/1956010229348413694) she had just learned he worked at DOJ and that he is now “FIRED” in addition to facing a felony charge. “If you touch any law enforcement officer, we will come after you,” wrote Bondi, who is a top official in an [administration](https://www.whitehouse.gov/administration/) that has coddled [Jan. 6 defendants]({% link January6DocumentDocumentLinks.md %}) [who attacked law enforcement](https://www.justsecurity.org/106689/january-6-pardons-statistics/).
 
 Similarly, former [Faux News](https://www.foxnews.com/) host and current [U.S. Attorney for the District of Columbia Jeanine Pirro](https://www.justice.gov/usao-dc/staff-profile/meet-us-attorney) [released a video](https://x.com/JudgeJeanine/status/1955704405161808286?) upon Dunn’s arrest that was accompanied by the text: “Assault a law enforcement officer, and you’ll be prosecuted. This guy thought it was funny — well, he doesn’t think it’s funny today, because we charged him with a felony.”
 
@@ -53,6 +53,7 @@ Subscribe to the [Deadline: Legal Newsletter](https://link.msnbc.com/join/5ck/ms
         - Jordan Rubin
 - [Reuters](https://www.reuters.com/)
 - [Public Broadcasting System (PBS)](https://www.pbs.org/)
+- [Federal: 2020 Election Interference, January 6 Insurrection]({% link January6DocumentDocumentLinks.md %}). @RalphHightower
 - organizations 
 - companies
 - foreign countries 

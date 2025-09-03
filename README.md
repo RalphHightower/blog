@@ -26,19 +26,19 @@ Prior to that long shot of [Trump](https://www.donaldjtrump.com/) 1.0 winning th
 
 Surviving “The Apprentice: White House – Wrecking Ball”. [Trump](https://www.donaldjtrump.com/) 2.0 is about [Trump](https://www.donaldjtrump.com/)’s destruction of America and her democracy. Putting it in his words, “You got to fight for your country, or you won’t have a country.”
 
-### Resources 
+## Resources 
 
-#### Find out who politicians owe their soul to:
+### Find out who politicians owe their soul to:
 
 - [OpenSecrets](https://www.opensecrets.org/)
 - [CREW / Citizens for Responsibility and Ethics in Washington](https://www.citizensforethics.org/)
 
-#### Get access to your federal data:
+## Get access to your federal data:
 
 - [Office of Privacy and Civil Liberties / Overview of The Privacy Act of 1974 (2020 Edition)](https://www.justice.gov/opcl/overview-privacy-act-1974-2020-edition)
 - [The Privacy Act of 1974](https://osc.gov/Pages/Privacy-Act.aspx)
 
-#### Make Your Voice Heard
+## Make Your Voice Heard
 
 - [50501 — 50 protests, 50 states, 1 movement](https://www.fiftyfifty.one/)
 - [Activist Handbook / Campaigning guides for activists ✊](https://activisthandbook.org/)
@@ -51,7 +51,7 @@ Surviving “The Apprentice: White House – Wrecking Ball”. [Trump](https://w
 - [Stand Up America - Demanding the Democracy We Deserve](https://standupamerica.com/)
 - [Volunteer Opportunities, Events, and Petitions Near Me · Not Above the Law on Mobilize](https://www.mobilize.us/notabovethelaw/)
 
-#### Call to Action
+### Call to Action
 
 <div id="2025-09-01T23:59:59">
 
@@ -118,7 +118,7 @@ What to do if the Insurrection Act is invoked / Waging Nonviolence</a>
 
 Hold [Trump](https://www.donaldjtrump.com/)’s feet to the fire on his campaign promises. He promised to lower grocery prices, gas prices, car/truck prices, inflation, housing prices. Grade him on appliances prices, budget deficit, car and truck prices, consumer goods, economy, energy, groceries, housing prices, inflation, interest rate, stock market, trade deficit, unemployment.
 
-### Contributing
+## Contributing
 
 This is my blog with an extremely anti-[Trump](https://www.donaldjtrump.com/) bias. If you agree that [Trump](https://www.donaldjtrump.com/) is going to destroy America and Democracy, I'll consider your contribution. I'll probably have to make administration changes to accept multiple authors.
 
