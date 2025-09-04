@@ -12,10 +12,10 @@ title: "🚨Elon Musk’s Fucking DOGE Amateurs Uploads Private, Personal Social
 
 The information take from the [Social Security](https://www.ssa.gov/) contains information that criminals can use for identity theft. New [Social Security Numbers](https://www.ssa.gov/) would have to be issued 
 
-- full name 
-- address 
+- full names 
+- addresses 
 - birth dates
-- Social Security Number
+- Social Security Numbers
 
 ## [Whistleblower accuses DOGE team of endangering critical Social Security data](https://www.msnbc.com/rachel-maddow-show/maddowblog/whistleblower-accuses-doge-team-endangering-critical-social-security-d-rcna227264)
 
@@ -34,17 +34,17 @@ The underlying concern did not go away. [The New York Times reported](https://ww
 
 It’s an open question as to why, exactly, [DOGE](https://doge.gov/) would even want to upload such a database. (The controversial operation is ostensibly searching for fraud within the [Social Security](https://www.ssa.gov/) system, though its previous claims on the matter [have fallen apart under scrutiny](https://www.msnbc.com/rachel-maddow-show/maddowblog/jd-vance-peddles-familiar-false-claim-social-security-hotline-rcna199565).)
 
-The whistleblower in this case is Charles Borges, the [Social Security Administration](https://www.ssa.gov/)’s chief data officer, who alleges that [DOGE](https://doge.gov/) members copied the highly sensitive data without any kind of “independent security monitoring,” which in turn created “enormous vulnerabilities.”
+The whistleblower in this case is [Charles Borges](https://www.linkedin.com/in/cjborges/), the [Social Security Administration](https://www.ssa.gov/)’s chief data officer, who alleges that [DOGE](https://doge.gov/) members copied the highly sensitive data without any kind of “independent security monitoring,” which in turn created “enormous vulnerabilities.”
 
-Borges didn’t say that the database had been breached, but his complaint added that there was no oversight to assess how and why [DOGE](https://doge.gov/) was using the data. [The Times](https://www.nytimes.com/)’ report added:
+[Borges](https://www.linkedin.com/in/cjborges/) didn’t say that the database had been breached, but his complaint added that there was no oversight to assess how and why [DOGE](https://doge.gov/) was using the data. [The Times](https://www.nytimes.com/)’ report added:
 
-> *‘Should bad actors gain access to this cloud environment, Americans may be susceptible to widespread identity theft, may lose vital health care and food benefits, and the government may be responsible for reissuing every American a new [Social Security](https://www.ssa.gov/) number at great cost,’ Mr. Borges’s complaint said. He alleged that [DOGE](https://doge.gov/) did not involve him in discussions about the project, despite his role as chief data officer, leaving him to piece together evidence of what had happened after the fact.*
+> *‘Should bad actors gain access to this cloud environment, Americans may be susceptible to widespread identity theft, may lose vital health care and food benefits, and the government may be responsible for reissuing every American a new [Social Security](https://www.ssa.gov/) number at great cost,’ [Mr. Borges](https://www.linkedin.com/in/cjborges/)’s complaint said. He alleged that [DOGE](https://doge.gov/) did not involve him in discussions about the project, despite his role as chief data officer, leaving him to piece together evidence of what had happened after the fact.*
 
 A spokesperson for the department said in a written statement, “[Commissioner \[Frank\] Bisignano](https://www.ssa.gov/agency/commissioner/), and the [Social Security Administration](https://www.ssa.gov/) take all whistleblower complaints seriously. [SSA](https://www.ssa.gov/) stores all personal data in secure environments that have robust safeguards in place to protect vital information.
 
 “The data referenced in the complaint is stored in a long-standing environment used by [SSA](https://www.ssa.gov/) and walled off from the internet. High-level career [SSA](https://www.ssa.gov/) officials have administrative access to this system with oversight by [SSA](https://www.ssa.gov/)’s Information Security team. We are not aware of any compromise to this environment and remain dedicated to protecting sensitive personal data.”
 
-In recent months, a variety of federal whistleblowers have come forward, and for the most part, the [congressional Trumpian majority](https://www.congress.gov/) has [ignored them](https://www.msnbc.com/rachel-maddow-show/maddowblog/chuck-grassley-national-whistleblower-day-rcna222229) — even when [confirming Bisignano](https://www.msnbc.com/rachel-maddow-show/maddowblog/republicans-confirm-trumps-divisive-choice-lead-social-security-admini-rcna205301) to lead the [Social Security Administration](https://www.ssa.gov/). Whether [GOP](https://www.gop.com/) lawmakers express similar indifference to Borges remains to be seen. Watch this space.
+In recent months, a variety of federal whistleblowers have come forward, and for the most part, the [congressional Trumpian majority](https://www.congress.gov/) has [ignored them](https://www.msnbc.com/rachel-maddow-show/maddowblog/chuck-grassley-national-whistleblower-day-rcna222229) — even when [confirming Bisignano](https://www.msnbc.com/rachel-maddow-show/maddowblog/republicans-confirm-trumps-divisive-choice-lead-social-security-admini-rcna205301) to lead the [Social Security Administration](https://www.ssa.gov/). Whether [GOP](https://www.gop.com/) lawmakers express similar indifference to [Borges](https://www.linkedin.com/in/cjborges/) remains to be seen. Watch this space.
 
 [Steve Benen](https://www.msnbc.com/author/steve-benen-ncpn433601) is a producer for "[The Rachel Maddow Show](https://www.msnbc.com/rachel-maddow-show)," the editor of [MaddowBlog](https://www.msnbc.com/rachel-maddow-show) and an [MSNBC](https://www.msnbc.com/) political contributor. He's also the bestselling author of ["Ministry of Truth: Democracy, Reality, and the Republicans' War on the Recent Past."](https://www.harpercollins.com/products/ministry-of-truth-steve-benen)
 
@@ -81,8 +81,8 @@ In recent months, a variety of federal whistleblowers have come forward, and for
     - [Social Security Administration (SSA)](https://www.ssa.gov/)
         - [Commissioner / SSA](https://www.ssa.gov/agency/commissioner/)
             - Frank Bisignano 
-                - Charles Borges
-        - Michelle King 
+                - [Charles Borges](https://www.linkedin.com/in/cjborges/)
+            - Michelle King 
     - [U.S. Department of the Treasury](https://home.treasury.gov/)
     - [Department of Commerce (DOC)](https://www.commerce.gov/)
     - [Bureau of Labor Statistics (BLS)](https://www.bls.gov/)
