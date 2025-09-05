@@ -1,7 +1,7 @@
 ---
 layout: post
-tags: []
-categories: [Donald Trump, Pam Bondi, Justice Department]
+tags: [media, MSNBC, Deadline –  Legal Blog, Jordan Rubin, NBC News, Washington Post, Supreme Court Justice Ketanji Brown Jackson Must Be a Calvin and Hobbes Fan. She Referenced Calvinball In an Opinion. @RalphHightower. 2025-08-23., organizations, political parties, Democrat Party, Trumpian Party, universities, companies, foreign countries, state local governments, federal government, Constitution of the United States, U.S. Constitution - Article I / Resources / Constitution Annotated / Congress.gov / Library of Congress, U.S. Constitution - Article II / Resources / Constitution Annotated / Congress.gov / Library of Congress, U.S. Constitution - Article III / Resources / Constitution Annotated / Congress.gov / Library of Congress, U.S. Constitution - Article IV / Resources / Constitution Annotated / Congress.gov / Library of Congress, U.S. Constitution - Article V / Resources / Constitution Annotated / Congress.gov / Library of Congress, U.S. Constitution - Article VI / Resources / Constitution Annotated / Congress.gov / Library of Congress, U.S. Constitution - Article VII / Resources / Constitution Annotated / Congress.gov / Library of Congress, Alien Enemies Act, Supreme Court of the United States (SCOTUS), US Courts, Fifth Circuit Court of Appeals, Judge Andrew S. Oldham, Judge Leslie H. Southwick, Judge Irma Carrillo Ramirez, Federal Reserve, Federal Reserve Board - Federal Reserve Act, Treasury Department, U.S. Department of the Treasury, Department of Commerce (DOC), Bureau of Labor Statistics (BLS), Congress, Senate, House of Representatives, President of the United States (POTUS), White House (WH), President George W. Bush, Trump criminal government, Donald J Trump, President Donald Trump (45), President Donald Trump (47), President Trump (47) Administration, President Trump (47) Cabinet, Pam Bondi, federal judges, US Courts, Justice Department, reliable credibility, unconstitutional executive orders, presumption of regularity]
+categories: [Donald Trump, Pam Bondi, Justice Department, reliable credibility, unconstitutional executive orders, presumption of regularity]
 date: 2025-09-03 11:51 PM
 #excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
@@ -10,8 +10,7 @@ date: 2025-09-03 11:51 PM
 title: "Trump's Justice Department Lose Credibility With Some Federal Judges"
 ---
 
-- [Supreme Court Justice Ketanji Brown Jackson Must Be a Calvin and Hobbes Fan. She Referenced Calvinball In an Opinion
-Ketanji Brown Jackson accuses the Supreme Court of playing ‘Calvinball’ for]({% link _posts/2025/08/2025-08-23-JusticeJacksomReferencesCalviball.md %}). @RalphHightower. 2025-08-23.
+- [Supreme Court Justice Ketanji Brown Jackson Must Be a Calvin and Hobbes Fan. She Referenced Calvinball In an Opinion]({% link _posts/2025/08/2025-08-23-JusticeJacksonReferencesCalvinball.md %}). @RalphHightower. 2025-08-23.
 
 ## [The Trump Justice Department has lost the benefit of the doubt with (some) judges](https://www.msnbc.com/deadline-white-house/deadline-legal-blog/trump-justice-department-lost-benefit-doubt-judges-rcna228763)
 
@@ -34,27 +33,22 @@ In a lengthy dissent, [Trump](https://www.donaldjtrump.com/) appointee [Andrew O
 
 “The majority’s disbelief of [DOJ](https://www.justice.gov/) also conflicts with the presumption of regularity,” [Oldham](https://www.fjc.gov/history/judges/oldham-andrew-stephen) went on, writing that courts “employ a heavy presumption that Government officers, including Government lawyers, act in good faith ‘in the absence of clear evidence to the contrary.’” He found it “troubling that, here again, the rules for this [Administration](https://www.whitehouse.gov/administration/) are different.” If anything, he concluded, “the majority seems to give this [President](https://www.whitehouse.gov/) a presumption of irregularity.”
 
-[Oldham](https://www.fjc.gov/history/judges/oldham-andrew-stephen)’s complaint calls to mind [Supreme Court](https://www.supremecourt.gov/) Justice [Ketanji Brown Jackson](https://www.msnbc.com/deadline-white-house/deadline-legal-blog/supreme-court-ketanji-brown-jackson-dissent-deadline-newsletter-rcna214180)’s recent complaint that her colleagues invariably find a way to side with the [administration](https://www.whitehouse.gov/administration/), [lamenting that](https://www.msnbc.com/deadline-white-house/deadline-legal-blog/ketanji-brown-jackson-supreme-court-trump-calvinball-rcna226523) the high court is [playing a version of “Calvinball” in which “this Administration always wins.”]({% link _posts/2025/08/2025-08-23-JusticeJacksomReferencesCalviball.md %})
+[Oldham](https://www.fjc.gov/history/judges/oldham-andrew-stephen)’s complaint calls to mind [Supreme Court](https://www.supremecourt.gov/) Justice [Ketanji Brown Jackson](https://www.msnbc.com/deadline-white-house/deadline-legal-blog/supreme-court-ketanji-brown-jackson-dissent-deadline-newsletter-rcna214180)’s recent complaint that her colleagues invariably find a way to side with the [administration](https://www.whitehouse.gov/administration/), [lamenting that](https://www.msnbc.com/deadline-white-house/deadline-legal-blog/ketanji-brown-jackson-supreme-court-trump-calvinball-rcna226523) the high court is [playing a version of “Calvinball” in which “this Administration always wins.”]({% link _posts/2025/08/2025-08-23-JusticeJacksonReferencesCalvinball.md %})
 
 If this latest [Alien Enemies Act](https://www.archives.gov/milestone-documents/alien-and-sedition-acts) litigation makes it to the justices, it can provide the latest test of whether [Oldham](https://www.fjc.gov/history/judges/oldham-andrew-stephen)’s or Jackson’s views are vindicated.
 
 Subscribe to the [Deadline: Legal Newsletter](https://link.msnbc.com/join/5ck/msnbc-deadlinelegal-signup-inline) for expert analysis on the top legal stories of the week, including updates from the [Supreme Court](https://www.supremecourt.gov/) and developments in the [Trump](https://www.donaldjtrump.com/) [administration](https://www.whitehouse.gov/administration/)’s legal cases.
 
-Jordan Rubin is the Deadline: Legal Blog writer. He was a prosecutor for the New York County District Attorney’s Office in Manhattan and is the author of “Bizarro," a book about the secret war on synthetic drugs. Before he joined MSNBC, he was a legal reporter for Bloomberg Law.
-
-
-[Alien Enemies Act](https://www.archives.gov/milestone-documents/alien-and-sedition-acts)
-[President George W. Bush](https://georgewbush-whitehouse.archives.gov/)
+[Jordan Rubin](https://www.msnbc.com/author/jordan-rubin-ncpn1301611) is the [Deadline: Legal Blog](https://www.msnbc.com/deadline-white-house) writer. He was a prosecutor for the [New York County District Attorney’s Office](https://manhattanda.org/) in [Manhattan](https://manhattanda.org/) and is the author of “Bizarro," a book about the secret war on synthetic drugs. Before he joined [MSNBC](https://www.msnbc.com/), he was a legal reporter for [Bloomberg Law](https://pro.bloomberglaw.com/).
 
 ----
 - media
 - [MSNBC](https://www.msnbc.com/)
-    - Steve Benen
-        - [The Rachel Maddow Show](https://www.msnbc.com/rachel-maddow-show)
-            - [MaddowBlog](https://www.msnbc.com/rachel-maddow-show) 
-                - ["Ministry of Truth: Democracy, Reality, and the Republicans' War on the Recent Past."](https://www.harpercollins.com/products/ministry-of-truth-steve-benen)
+    - [Deadline: Legal Blog](https://www.msnbc.com/deadline-white-house)
+        - Jordan Rubin
 - [NBC News](https://www.nbcnews.com/)
 - [Washington Post](https://www.washingtonpost.com/)
+- [Supreme Court Justice Ketanji Brown Jackson Must Be a Calvin and Hobbes Fan. She Referenced Calvinball In an Opinion]({% link _posts/2025/08/2025-08-23-JusticeJacksonReferencesCalvinball.md %}). @RalphHightower. 2025-08-23.
 - organizations 
 - political parties 
 - [Democrat Party](https://www.democrats.org/)
@@ -72,6 +66,7 @@ Jordan Rubin is the Deadline: Legal Blog writer. He was a prosecutor for the New
     - [U.S. Constitution - Article V / Resources / Constitution Annotated / Congress.gov / Library of Congress](https://constitution.congress.gov/constitution/article-5/)
     - [U.S. Constitution - Article VI / Resources / Constitution Annotated / Congress.gov / Library of Congress](https://constitution.congress.gov/constitution/article-6/)
     - [U.S. Constitution - Article VII / Resources / Constitution Annotated / Congress.gov / Library of Congress](https://constitution.congress.gov/constitution/article-7/)
+    - [Alien Enemies Act](https://www.archives.gov/milestone-documents/alien-and-sedition-acts)
     - [Supreme Court of the United States (SCOTUS)](https://www.supremecourt.gov/)
     - [US Courts](https://www.uscourts.gov/)
         - [Fifth Circuit Court of Appeals](https://www.ca5.uscourts.gov/)
@@ -89,6 +84,7 @@ Jordan Rubin is the Deadline: Legal Blog writer. He was a prosecutor for the New
         - [House of Representatives](https://www.house.gov/)
     - [President of the United States (POTUS)](https://www.whitehouse.gov/)
     - [White House (WH)](https://www.whitehouse.gov/)
+        - [President George W. Bush](https://georgewbush-whitehouse.archives.gov/)
 - Trump criminal government 
     - [Donald J Trump](https://www.donaldjtrump.com/)
          - [President Donald Trump (45)](https://trumpwhitehouse.archives.gov/)
@@ -100,3 +96,5 @@ Jordan Rubin is the Deadline: Legal Blog writer. He was a prosecutor for the New
 - US Courts 
 - Justice Department 
 - reliable credibility 
+- unconstitutional executive orders
+- presumption of regularity
