@@ -45,16 +45,16 @@ Nonetheless, lawmakers are due to get their hands on some potentially revelatory
 - [Wall Street Journal (WSJ)](https://www.wsj.com/)
 - [Homepage / Media Matters for America](https://www.mediamatters.org/)
 - [PBS News: News, Analysis, Top Headlines, Live Coverage](https://www.pbs.org/newshour/)
-- organizations 
+- organizations
 - [Project Veritas](https://www.projectveritas.com/)
     - [James O'Keefe / LinkedIn](https://www.linkedin.com/in/jamesokeefeiii/)
 - companies
-- foreign countries 
+- foreign countries
 - state, local governments
-- political parties 
+- political parties
 - [Trumpian Party](https://www.gop.com/)
 - [Democrat Party](https://www.democrats.org/)
-- Federal Government 
+- Federal Government
 - [Constitution of the United States](https://constitution.congress.gov/)
     - [Supreme Court of the United States (SCOTUS)](https://www.supremecourt.gov/)
     - [US Courts](https://www.uscourts.gov/)
@@ -89,15 +89,15 @@ Nonetheless, lawmakers are due to get their hands on some potentially revelatory
 - corruption
 - con
 - crime
-- cryptocurrency 
+- cryptocurrency
 - criminal businesses
 - criminal associates
 - criminal partners
 - criminal businesses
 - criminal associates
 - crime partners
-    - human trafficking 
-    - sex trafficking 
-    - pedophile 
-        - Jeffrey Epstein 
+    - human trafficking
+    - sex trafficking
+    - pedophile
+        - Jeffrey Epstein
         - Ghislaine Maxwell
