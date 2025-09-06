@@ -1,7 +1,7 @@
 ---
 layout: post
-tags: [media, MSNBC, Steve Benen, The Rachel Maddow Show, MaddowBlog, “Ministry of Truth –  Democracy Reality and the Republicans’ War on the Recent Past.”, organizations, universities, King’s College London, political parties, Democrat Party, Trumpian Party, international, foreign countries, state local governments, New York, Attorney General, Letitia James, Texas, About Gov. Abbott / Office of the Texas Governor / Greg Abbott, Greg Abbott / LinkedIn, Office of the Attorney General, About the Attorney General / Office of the Attorney General, Ken Paxton / LinkedIn, federal government, Constitution of the United States, U.S. Constitution - Article I / Resources / Constitution Annotated / Congress.gov / Library of Congress, U.S. Constitution - Article II / Resources / Constitution Annotated / Congress.gov / Library of Congress, U.S. Constitution - Article III / Resources / Constitution Annotated / Congress.gov / Library of Congress, U.S. Constitution - Article IV / Resources / Constitution Annotated / Congress.gov / Library of Congress, U.S. Constitution - Article V / Resources / Constitution Annotated / Congress.gov / Library of Congress, U.S. Constitution - Article VI / Resources / Constitution Annotated / Congress.gov / Library of Congress, U.S. Constitution - Article VII / Resources / Constitution Annotated / Congress.gov / Library of Congress, Supreme Court of the United States (SCOTUS), US Courts, Federal Reserve, Federal Reserve Board - Federal Reserve Act, Federal Reserve Board - Board Members, Jerome H. Powell, Federal Reserve Board - Lisa D. Cook, Treasury Department, U.S. Department of the Treasury, Department of Commerce (DOC), Bureau of Labor Statistics (BLS), Federal Housing Finance Agency (FHFA), Congress, Senate, Adam Schiff, House of Representatives, President of the United States (POTUS), White House (WH), Trump criminal government, Donald J Trump, President Donald Trump (45), President Donald Trump (47), President Trump (47) Administration, President Trump (47) Cabinet, Director-William-J-Pulte-Bio.pdf, Bill Pulte / LinkedIn, criminal businesses, Trump Organization, World Liberty Financial, $TRUMP, $MELANIA, The Mar-a-Lago Club, Trump International Golf Club, Trump National Doral Golf Club, Trump National Jupiter Golf Club, Trump National Golf Club Washington D.C., Trump National Golf Club Bedminster, Trump National Golf Club Colts Neck, Trump National Golf Club Philadelphia, Trump National Golf Club Hudson Valley, Trump National Golf Club Westchester, Trump National Golf Club Los Angeles, Trump International Golf Club Dubai, Trump International Golf Links & Hotel Ireland Doonbeg, Trump MacLeod House & Lodge Scotland, Trump Turnberry, Trump crime family, Donald J Trump, Eric F. Trump / LinkedIn, Donald Trump Jr. / LinkedIn, Ivanka Trump, Jared Kushner, Howard Lutnick, Howard W. Lutnick, Scott Bessent]
-categories: [Donald Trump, weaponization, perceived enemies, Department of Justice (DOJ), Pam Bondi, Federal Housing Finance Agency (FHFA), Bill Pulte]
+tags: [media, MSNBC, Steve Benen, The Rachel Maddow Show, MaddowBlog, “Ministry of Truth –  Democracy Reality and the Republicans’ War on the Recent Past.”, organizations, universities, King’s College London, political parties, Democrat Party, Trumpian Party, international, foreign countries, state local governments, New York, Attorney General, Letitia James, Texas, About Gov. Abbott / Office of the Texas Governor / Greg Abbott, Greg Abbott / LinkedIn, Office of the Attorney General, About the Attorney General / Office of the Attorney General, Ken Paxton / LinkedIn, federal government, Constitution of the United States, U.S. Constitution - Article I / Resources / Constitution Annotated / Congress.gov / Library of Congress, U.S. Constitution - Article II / Resources / Constitution Annotated / Congress.gov / Library of Congress, U.S. Constitution - Article III / Resources / Constitution Annotated / Congress.gov / Library of Congress, U.S. Constitution - Article IV / Resources / Constitution Annotated / Congress.gov / Library of Congress, U.S. Constitution - Article V / Resources / Constitution Annotated / Congress.gov / Library of Congress, U.S. Constitution - Article VI / Resources / Constitution Annotated / Congress.gov / Library of Congress, U.S. Constitution - Article VII / Resources / Constitution Annotated / Congress.gov / Library of Congress, Supreme Court of the United States (SCOTUS), US Courts, Federal Reserve, Federal Reserve Board - Federal Reserve Act, Federal Reserve Board - Board Members, Jerome H. Powell, Federal Reserve Board - Lisa D. Cook, Treasury Department, U.S. Department of the Treasury, Department of Commerce (DOC), Bureau of Labor Statistics (BLS), Federal Housing Finance Agency (FHFA), Congress, Senate, Adam Schiff, House of Representatives, President of the United States (POTUS), White House (WH), Trump criminal government, Donald J Trump, President Donald Trump (45), President Donald Trump (47), President Trump (47) Administration, President Trump (47) Cabinet, Director William J Pulte, Bill Pulte / LinkedIn, criminal businesses, Trump Organization, World Liberty Financial, $TRUMP, $MELANIA, The Mar-a-Lago Club, Trump International Golf Club, Trump National Doral Golf Club, Trump National Jupiter Golf Club, Trump National Golf Club Washington D.C., Trump National Golf Club Bedminster, Trump National Golf Club Colts Neck, Trump National Golf Club Philadelphia, Trump National Golf Club Hudson Valley, Trump National Golf Club Westchester, Trump National Golf Club Los Angeles, Trump International Golf Club Dubai, Trump International Golf Links & Hotel Ireland Doonbeg, Trump MacLeod House & Lodge Scotland, Trump Turnberry, Trump crime family, Donald J Trump, Eric F. Trump / LinkedIn, Donald Trump Jr. / LinkedIn, Ivanka Trump, Jared Kushner, Howard Lutnick, Howard W. Lutnick, Scott Bessent]
+categories: [Donald Trump, weaponization, perceived enemies, Department of Justice (DOJ), Pam Bondi, Federal Housing Finance Agency (FHFA), Bill Pulte, Lisa Cook, Letitia James, Adam Schiff, Lee Zeldin, Lori Chavez-DeRemer, Sean Duffy, Ken Paxton]
 date: 2025-08-21 8:34 PM
 #excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
@@ -10,7 +10,7 @@ date: 2025-08-21 8:34 PM
 title: "The Wrath of Trump: Throw Fraudulent Claims Against Perceived Political Enemies"
 ---
 
-Embattled [Texas](https://www.texas.gov/) [Attorney General](https://www.texasattorneygeneral.gov/) [Ken Paxton](https://www.texasattorneygeneral.gov/about-office) has been reported to have three homes listed as primary residences. 
+Embattled [Texas](https://www.texas.gov/) [Attorney General](https://www.texasattorneygeneral.gov/) [Ken Paxton](https://www.texasattorneygeneral.gov/about-office) has been reported to have three homes listed as primary residences.
 
 - [Report: Texas AG Ken Paxton claimed three homes as primary residence - CBS Texas](https://www.cbsnews.com/texas/news/ken-angela-paxton-mortgage-primary-residence-homestead-exemption/)
 
@@ -50,17 +50,17 @@ All of which is to say, maybe we’re dealing with a story about a bunch of offi
 - [MSNBC](https://www.msnbc.com/)
     - Steve Benen
         - [The Rachel Maddow Show](https://www.msnbc.com/rachel-maddow-show)
-            - [MaddowBlog](https://www.msnbc.com/rachel-maddow-show) 
+            - [MaddowBlog](https://www.msnbc.com/rachel-maddow-show)
         - ["Ministry of Truth: Democracy, Reality, and the Republicans' War on the Recent Past."](https://www.harpercollins.com/products/ministry-of-truth-steve-benen)
-- organizations 
-- universities 
+- organizations
+- universities
 - [King's College London](https://www.kcl.ac.uk/index)
-- political parties 
+- political parties
 - [Democrat Party](https://www.democrats.org/)
 - [Trumpian Party](https://www.gop.com/)
-- international 
+- international
 - foreign countries
-- state, local governments 
+- state, local governments
 - [New York](https://www.ny.gov/)
     - [Attorney General](https://ag.ny.gov/)
         - [Letitia James](https://ag.ny.gov/about/meet-letitia-james)
@@ -68,9 +68,9 @@ All of which is to say, maybe we’re dealing with a story about a bunch of offi
     - [About Gov. Abbott / Office of the Texas Governor / Greg Abbott](https://gov.texas.gov/governor-abbott)
         - [Greg Abbott / LinkedIn](https://www.linkedin.com/in/gregabbotttx/)
     - [Office of the Attorney General](https://www.texasattorneygeneral.gov/)
-        - [About the Attorney General / Office of the Attorney General](https://www.texasattorneygeneral.gov/about-office)
+        - [Ken Paxton / Office of the Attorney General](https://www.texasattorneygeneral.gov/about-office)
         - [Ken Paxton / LinkedIn](https://www.linkedin.com/in/ken-paxton-854b2a13/)
-- federal government 
+- federal government
 - [Constitution of the United States](https://constitution.congress.gov/)
     - [U.S. Constitution - Article I / Resources / Constitution Annotated / Congress.gov / Library of Congress](https://constitution.congress.gov/constitution/article-1/)
     - [U.S. Constitution - Article II / Resources / Constitution Annotated / Congress.gov / Library of Congress](https://constitution.congress.gov/constitution/article-2/)
@@ -86,52 +86,35 @@ All of which is to say, maybe we’re dealing with a story about a bunch of offi
         - [Federal Reserve Board - Board Members](https://www.federalreserve.gov/aboutthefed/bios/board/default.htm)
             - [Jerome H. Powell](https://www.federalreserve.gov/aboutthefed/bios/board/powell.htm)
             - [Federal Reserve Board - Lisa D. Cook](https://www.federalreserve.gov/aboutthefed/bios/board/cook.htm)
-    - [Treasury Department](https://home.treasury.gov/)
     - [U.S. Department of the Treasury](https://home.treasury.gov/)
     - [Department of Commerce (DOC)](https://www.commerce.gov/)
     - [Bureau of Labor Statistics (BLS)](https://www.bls.gov/)
     - [Federal Housing Finance Agency (FHFA)](https://www.fhfa.gov/)
+    - [Department of Transportation (DOT)](https://www.transportation.gov/)
+    - [Department of Labor (DOL)](https://www.dol.gov/)
+    - [Environmental Protection Agency (EPA)](https://www.epa.gov/)
     - [Congress](https://www.congress.gov/)
         - [Senate](https://www.senate.gov/)
             - [Adam Schiff](https://www.schiff.senate.gov/)
         - [House of Representatives](https://www.house.gov/)
     - [President of the United States (POTUS)](https://www.whitehouse.gov/)
     - [White House (WH)](https://www.whitehouse.gov/)
-- Trump criminal government 
+- Trump criminal government
     - [Donald J Trump](https://www.donaldjtrump.com/)
          - [President Donald Trump (45)](https://trumpwhitehouse.archives.gov/)
         - [President Donald Trump (47)](https://www.whitehouse.gov/administration/donald-j-trump/)
         - [President Trump (47) Administration](https://www.whitehouse.gov/administration/)
         - [President Trump (47) Cabinet](https://www.whitehouse.gov/administration/the-cabinet/)
-            - [Director-William-J-Pulte-Bio.pdf](https://www.fhfa.gov/about/leadership/william-j-pulte)
+            - [Director William J Pulte](https://www.fhfa.gov/about/leadership/william-j-pulte)
             - [Bill Pulte / LinkedIn](https://www.linkedin.com/in/pulte/)
+            - [Lee Zeldin](https://www.epa.gov/aboutepa/epa-administrator)
+            - [Sean Duffy](https://www.transportation.gov/meet-secretary/us-transportation-secretary-sean-duffy)
+            - [Lori Chavez-DeRemer](https://www.dol.gov/agencies/osec)
+            - [Howard Lutnick](https://www.commerce.gov/about/leadership/howard-lutnick)
+            - [Howard W. Lutnick](https://www.linkedin.com/in/howardwlutnick/)
+            - [Scott Bessent](https://home.treasury.gov/about/general-information/officials/scott-bessent)
 - criminal businesses
-- [Trump Organization](https://www.trump.com/)
-- [World Liberty Financial](https://www.worldlibertyfinancial.com/)
-- [$TRUMP](https://gettrumpmemes.com/)
-- [$MELANIA](https://melaniameme.com/)
-- [The Mar-a-Lago Club](https://www.maralagoclub.com/) 
-- [Trump International Golf Club](https://www.trumpinternationalpalmbeaches.com/) 
-- [Trump National Doral Golf Club](https://www.trumpgolfdoral.com/) 
-- [Trump National Jupiter Golf Club](https://www.trumpnationaljupiter.com/) 
-- [Trump National Golf Club Washington, D.C.](https://www.trumpnationaldc.com/)
-- [Trump National Golf Club Bedminster](https://www.trumpnationalbedminster.com/) 
-- [Trump National Golf Club Colts Neck](https://www.trumpcoltsneck.com/) 
-- [Trump National Golf Club Philadelphia](https://www.trumpnationalphiladelphia.com/) 
-- [Trump National Golf Club Hudson Valley](https://www.trumpnationalhudsonvalley.com/) 
-- [Trump National Golf Club Westchester](https://www.trumpnationalwestchester.com/) 
-- [Trump National Golf Club Los Angeles](https://www.trumpnationallosangeles.com/) 
-- [Trump International Golf Club Dubai](https://www.trumpgolfdubai.com/) 
-- [Trump International Golf Links & Hotel Ireland, Doonbeg](https://www.trumpgolfireland.com/) 
-- [Trump MacLeod House & Lodge Scotland](https://www.trumphotels.com/macleod-house)
-- [Trump Turnberry](https://www.turnberry.co.uk/)
-- Trump crime family
-- [Donald J Trump](https://www.donaldjtrump.com/)
-- [Eric F. Trump / LinkedIn](https://www.linkedin.com/in/erictrump/)
-- [Donald Trump Jr. / LinkedIn](https://www.linkedin.com/in/donald-trump-jr-4454b862/)
-- Ivanka Trump
-- Jared Kushner
-- [Howard Lutnick](https://www.commerce.gov/about/leadership/howard-lutnick)
-- [Howard W. Lutnick](https://www.linkedin.com/in/howardwlutnick/)
-- [Scott Bessent](https://home.treasury.gov/about/general-information/officials/scott-bessent)
-{% include TrumpWeaponization.html %}
+- mortgage fraud
+- primary residence
+- second home
+- {% include TrumpWeaponization.html %}
