@@ -111,5 +111,3 @@ Subscribe to the [Deadline: Legal Newsletter](https://link.msnbc.com/join/5ck/ms
     - pedophile 
         - Jeffrey Epstein 
         - Ghislaine Maxwell
-
-

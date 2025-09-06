@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [media, MSNBC, Erum Salam, Ana Cabrera Reports, Ana Cabrera, organizations, CTU - Chicago Teachers Union, About Us - Chicago Teachers Union, Stacy Davis Gates, political parties, Democrat Party, Trumpian Party, universities, companies, foreign countries, international, state local governments, Illinois (IL), JB Pritzker Governor, The Governor, Office of the Illinois Attorney General Kwame Raoul, Biography of IL Attorney General, City of Chicago, federal government, Constitution of the United States, U.S. Constitution - Article I / Resources / Constitution Annotated / Congress.gov / Library of Congress, U.S. Constitution - Article II / Resources / Constitution Annotated / Congress.gov / Library of Congress, U.S. Constitution - Article III / Resources / Constitution Annotated / Congress.gov / Library of Congress, U.S. Constitution - Article IV / Resources / Constitution Annotated / Congress.gov / Library of Congress, U.S. Constitution - Article V / Resources / Constitution Annotated / Congress.gov / Library of Congress, U.S. Constitution - Article VI / Resources / Constitution Annotated / Congress.gov / Library of Congress, U.S. Constitution - Article VII / Resources / Constitution Annotated / Congress.gov / Library of Congress, Supreme Court of the United States (SCOTUS), US Courts, Federal Reserve, Federal Reserve Board - Federal Reserve Act, US Department of Agriculture (USDA), Supplemental Nutrition Assistance Program (SNAP) / Food and Nutrition Service, Department of Defense (DOD), Joint Chiefs of Staff (JCS), National Guard, Department of Homeland Security (DHS), Department of Immigration and Customs Enforcement (ICE), U.S. Customs and Border Protection / U.S. Customs and Border Protection (CBP), U.S. Citizenship and Immigrantion Services USCIS), United States Coast Guard (USCG), Cybersecurity and Infrastructure Security Agency (CISA), Federal Emergency Management Agency (FEMA), mFederal Law Enforcement Training Centers, United States Secret Service, Transportation Security Administration (TSA), U.S. Department of the Treasury, Home / U.S. Department of Education (ED), Department of Commerce (DOC), Bureau of Labor Statistics (BLS), Federal Housing Finance Agency (FHFA), Congress, Senate, House of Representatives, President of the United States (POTUS), White House (WH), Trump criminal government, Donald J Trump, President Donald Trump (45), President Donald Trump (47), President Trump (47) Administration, President Trump (47) Cabinet, federalization, militarization, crime enforcement, immigration deportation support]
+tags: [media, MSNBC, Erum Salam, Ana Cabrera Reports, Ana Cabrera, organizations, CTU - Chicago Teachers Union, About Us - Chicago Teachers Union, Stacy Davis Gates, political parties, Democrat Party, Trumpian Party, universities, companies, foreign countries, international, state local governments, Illinois (IL), JB Pritzker Governor, The Governor, Office of the Illinois Attorney General Kwame Raoul, Biography of IL Attorney General, City of Chicago, federal government, Constitution of the United States, U.S. Constitution - Article I / Resources / Constitution Annotated / Congress.gov / Library of Congress, U.S. Constitution - Article II / Resources / Constitution Annotated / Congress.gov / Library of Congress, U.S. Constitution - Article III / Resources / Constitution Annotated / Congress.gov / Library of Congress, U.S. Constitution - Article IV / Resources / Constitution Annotated / Congress.gov / Library of Congress, U.S. Constitution - Article V / Resources / Constitution Annotated / Congress.gov / Library of Congress, U.S. Constitution - Article VI / Resources / Constitution Annotated / Congress.gov / Library of Congress, U.S. Constitution - Article VII / Resources / Constitution Annotated / Congress.gov / Library of Congress, Supreme Court of the United States (SCOTUS), US Courts, Federal Reserve, Federal Reserve Board - Federal Reserve Act, US Department of Agriculture (USDA), Supplemental Nutrition Assistance Program (SNAP) / Food and Nutrition Service, Department of Defense (DOD), Joint Chiefs of Staff (JCS), National Guard, Department of Homeland Security (DHS), Department of Immigration and Customs Enforcement (ICE), U.S. Customs and Border Protection / U.S. Customs and Border Protection (CBP), U.S. Citizenship and Immigrantion Services USCIS), United States Coast Guard (USCG), Cybersecurity and Infrastructure Security Agency (CISA), Federal Emergency Management Agency (FEMA), Federal Law Enforcement Training Centers, United States Secret Service, Transportation Security Administration (TSA), U.S. Department of the Treasury, Home / U.S. Department of Education (ED), Department of Commerce (DOC), Bureau of Labor Statistics (BLS), Federal Housing Finance Agency (FHFA), Congress, Senate, House of Representatives, President of the United States (POTUS), White House (WH), Trump criminal government, Donald J Trump, President Donald Trump (45), President Donald Trump (47), President Trump (47) Administration, President Trump (47) Cabinet, federalization, militarization, crime enforcement, immigration deportation support]
 categories: [Donald Trump, National Guard, Chicago Illinois (IL), militarization, weaponization]
 date: 2025-09-01 11:55 AM
 excerpt: ''
@@ -41,30 +41,30 @@ As of Thursday, [Illinois Gov. JB Pritzker](https://wgntv.com/news/chicago-news/
 Erum Salam is a breaking news reporter and producer for [MSNBC](https://www.msnbc.com/) Digital. She previously was a breaking news reporter for The Guardian.
 
 ----
-- media 
+- media
 - [MSNBC](https://www.msnbc.com/)
     - Erum Salam
     - [Ana Cabrera Reports](https://www.msnbc.com/ana-cabrera-reports)
         - Ana Cabrera
-- organizations 
+- organizations
     - [CTU - Chicago Teachers Union](https://www.ctulocal1.org/)
         - [About Us - Chicago Teachers Union](https://www.ctulocal1.org/about/)
             - Stacy Davis Gates
-- political parties 
+- political parties
 - [Democrat Party](https://www.democrats.org/)
 - [Trumpian Party](https://www.gop.com/)
-- universities 
-- companies 
+- universities
+- companies
 - foreign countries
-- international 
-- state, local governments 
+- international
+- state, local governments
 - [Illinois (IL)](https://www.illinois.gov/)
     - [JB Pritzker, Governor](https://gov.illinois.gov/)
         - [The Governor](https://gov.illinois.gov/about/the-governor.html)
     - [Office of the Illinois Attorney General Kwame Raoul](https://www.illinoisattorneygeneral.gov/)
         - [Biography of IL Attorney General](https://www.illinoisattorneygeneral.gov/about/biography/)
     - [City of Chicago](https://www.chicago.gov/city/en.html)
-- federal government 
+- federal government
 - [Constitution of the United States](https://constitution.congress.gov/)
     - [U.S. Constitution - Article I / Resources / Constitution Annotated / Congress.gov / Library of Congress](https://constitution.congress.gov/constitution/article-1/)
     - [U.S. Constitution - Article II / Resources / Constitution Annotated / Congress.gov / Library of Congress](https://constitution.congress.gov/constitution/article-2/)
@@ -89,27 +89,37 @@ Erum Salam is a breaking news reporter and producer for [MSNBC](https://www.msnb
         - [United States Coast Guard (USCG)](https://www.uscg.mil/)
         - [Cybersecurity and Infrastructure Security Agency (CISA)](https://www.cisa.gov/)
         - [Federal Emergency Management Agency (FEMA)](https://www.fema.gov/home)
-        - [mFederal Law Enforcement Training Centers](https://www.fletc.gov/)
+        - [Federal Law Enforcement Training Centers](https://www.fletc.gov/)
         - [United States Secret Service](https://www.secretservice.gov/)
         - [Transportation Security Administration (TSA)](https://www.tsa.gov/)
     - [U.S. Department of the Treasury](https://home.treasury.gov/)
     - [Home / U.S. Department of Education (ED)](http://www.ed.gov/)
     - [Department of Commerce (DOC)](https://www.commerce.gov/)
-    - [Bureau of Labor Statistics (BLS)](https://www.bls.gov/)
+        - [Bureau of Economic Analysis (BEA)](https://www.bea.gov)
+        - [Bureau of Industry and Security (BIS)](https://www.bis.doc.gov)
+        - [Economic Development Administration (EDA)](https://www.eda.gov)
+        - [International Trade Administration (ITA)](https://www.trade.gov)
+        - [Minority Business Development Agency (MBDA)](https://www.mbda.gov)
+        - [National Institute of Standards and Technology (NIST)](https://www.nist.gov)
+        - [National Oceanic and Atmospheric Administration (NOAA)](https://www.noaa.gov)
+        - [National Technical Information Service (NTIS)](https://www.ntis.gov)
+        - [National Telecommunications and Information Administration (NTIA)](https://www.ntia.gov)
+        - [U.S. Census Bureau (CEN)](https://www.census.gov)
+        - [U.S. Patent and Trademark Office (USPTO)](https://www.uspto.gov)
     - [Federal Housing Finance Agency (FHFA)](https://www.fhfa.gov/)
     - [Congress](https://www.congress.gov/)
         - [Senate](https://www.senate.gov/)
         - [House of Representatives](https://www.house.gov/)
         - [President of the United States (POTUS)](https://www.whitehouse.gov/)
     - [White House (WH)](https://www.whitehouse.gov/)
-- Trump criminal government 
+- Trump criminal government
     - [Donald J Trump](https://www.donaldjtrump.com/)
          - [President Donald Trump (45)](https://trumpwhitehouse.archives.gov/)
         - [President Donald Trump (47)](https://www.whitehouse.gov/administration/donald-j-trump/)
         - [President Trump (47) Administration](https://www.whitehouse.gov/administration/)
         - [President Trump (47) Cabinet](https://www.whitehouse.gov/administration/the-cabinet/)
 - federalization
-- militarization 
+- militarization
 - crime enforcement
 - immigration deportation support
 {% include TrumpWeaponization.html %}

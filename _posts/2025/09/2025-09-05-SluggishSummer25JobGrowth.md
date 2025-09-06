@@ -1,19 +1,19 @@
 ---
 layout: post
 tags: []
-categories: []
-#date: 2019-06-25 13:14:15
-#excerpt: ''
+categories: [Donald Trump]
+date: 2025-09-05 5:58 PM
+excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: 'title'
+title: "It’s Trump’s Economy. Trump Kills Job Growth"
 ---
 
 
 ## [U.S. job growth turns ugly over the summer as Trump’s economic agenda falters](https://www.msnbc.com/rachel-maddow-show/maddowblog/us-job-growth-turns-ugly-summer-trumps-economic-agenda-falters-rcna229286)
 
-*As [MSNBC](https://www.msnbc.com/)’s [Ali Velshi]() summarized, “Turns out firing the ref doesn’t change the score.”*
+*As [MSNBC](https://www.msnbc.com/)’s [Ali Velshi](https://www.msnbc.com/velshi) summarized, “Turns out firing the ref doesn’t change the score.”*
 
 Sept. 5, 2025, 8:57 AM EDT
 By [Steve Benen](https://www.msnbc.com/author/steve-benen-ncpn433601)
@@ -38,7 +38,7 @@ In fact, if we exclude 2020, when the pandemic wreaked havoc on the economy, the
 
 When trying to boast about the economy, the [White House](https://www.whitehouse.gov/) routinely references what it calls the “[Trump Effect](https://www.whitehouse.gov/articles/2025/06/trump-effect-higher-pay-for-american-workers/).” The latest job data, coupled with [sluggish growth](https://www.msnbc.com/rachel-maddow-show/maddowblog/new-gdp-data-leads-trump-change-mind-blaming-biden-economy-rcna221934) and [stubborn inflation](https://www.msnbc.com/rachel-maddow-show/maddowblog/trump-prefers-play-make-believe-discouraging-news-inflation-rcna222243), suggests this “effect” simply isn’t working.
 
-Indeed, the question the [president](https://www.whitehouse.gov/) and his team ought to face is simple: “If Trump has created a ‘hot’ economy, why has American job growth slowed to a 16-year low?”
+Indeed, the question the [president](https://www.whitehouse.gov/) and his team ought to face is simple: “If [Trump](https://www.donaldjtrump.com/) has created a ‘hot’ economy, why has American job growth slowed to a 16-year low?”
 
 This post updates our [related earlier coverage](https://www.msnbc.com/rachel-maddow-show/maddowblog/us-job-growth-turns-cold-trumps-agenda-takes-toll-economy-rcna222448).
 
@@ -49,20 +49,20 @@ This post updates our [related earlier coverage](https://www.msnbc.com/rachel-ma
 - [MSNBC](https://www.msnbc.com/)
     - Steve Benen
         - [The Rachel Maddow Show](https://www.msnbc.com/rachel-maddow-show)
-            - [MaddowBlog](https://www.msnbc.com/rachel-maddow-show) 
+            - [MaddowBlog](https://www.msnbc.com/rachel-maddow-show)
                 - ["Ministry of Truth: Democracy, Reality, and the Republicans' War on the Recent Past."](https://www.harpercollins.com/products/ministry-of-truth-steve-benen)
+    - [Velshi on MSNBC](https://www.msnbc.com/velshi)
 - [New York Times (NYT)](https://www.nytimes.com/)
 - [Wall Street Journal (WSJ)](https://www.wsj.com/)
-- [STAT / Reporting from the frontiers of health and medicine](https://www.statnews.com/)
-- organizations 
-- political parties 
+- organizations
+- political parties
 - [Democrat Party](https://www.democrats.org/)
 - [Trumpian Party](https://www.gop.com/)
-- universities 
-- companies 
+- universities
+- companies
 - foreign countries
-- state, local governments 
-- federal government 
+- state, local governments
+- federal government
 - [Constitution of the United States](https://constitution.congress.gov/)
     - [Supreme Court of the United States (SCOTUS)](https://www.supremecourt.gov/)
     - [US Courts](https://www.uscourts.gov/)
@@ -73,11 +73,11 @@ This post updates our [related earlier coverage](https://www.msnbc.com/rachel-ma
         - [House of Representatives](https://www.house.gov/)
     - [President of the United States (POTUS)](https://www.whitehouse.gov/)
     - [White House (WH)](https://www.whitehouse.gov/)
-- Trump crime businesses 
+- Trump crime businesses
     - [Donald J Trump](https://www.donaldjtrump.com/)
          - [President Donald Trump (45)](https://trumpwhitehouse.archives.gov/)
         - [President Donald Trump (47)](https://www.whitehouse.gov/[administration](https://www.whitehouse.gov/administration/)/donald-j-trump/)
         - [President Trump (47) Administration](https://www.whitehouse.gov/[administration](https://www.whitehouse.gov/administration/)/)
         - [President Trump (47) Cabinet](https://www.whitehouse.gov/[administration](https://www.whitehouse.gov/administration/)/the-cabinet/)
             - [Secretary Robert F. Kennedy Jr. (RFKJr)](https://www.hhs.gov/about/leadership/robert-kennedy.html)
-- 
+-
