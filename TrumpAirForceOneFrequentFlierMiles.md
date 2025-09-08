@@ -2,7 +2,7 @@
 layout: page
 tags: [The Mar-a-Lago Club, Palm Beach Florida 33480, Trump International Golf Club, West Palm Beach FL 33406, Trump National Doral Golf Club, Miami FL 33178, Trump National Jupiter Golf Club, Jupiter FL 33477, Trump National Golf Club Washington D.C., Potomac Falls VA 20165, Trump National Golf Club Bedminster, Bedminster NJ 07921, Trump National Golf Club Colts Neck, Colts Neck NJ 07722, Trump National Golf Club Philadelphia, Pine Hill NJ 08021, Trump National Golf Club Hudson Valley, Hopewell Junction NY 12533, Trump National Golf Club Los Angeles, Rancho Palos Verdes CA 90275, Trump National Golf Club Charlotte, Mooresville NC 28117, Trump International Golf Club Dubai, Al Hebiah Third District Dubai, Trump International Golf Links & Hotel Ireland Doonbeg, CLARE IRELAND, Trump MacLeod House & Lodge Scotland, Aberdeenshire Scotland AB23 8YE, Trump MacLeod House & Lodge Scotland, Aberdeenshire Scotland AB23 8YE, Trump Turnberry, Ayrshire Scotland]
 categories: [Donald Trump]
-date: 2025-09-05 10:44 PM
+date: 2025-09-08 2:04 PM
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
@@ -21,18 +21,18 @@ title: "Trump: Air Force One Frequent Flyer Miles"
 | | 🔥 [White House](https://www.whitehouse.gov/) 💣| 
 | | **Sunday, September 7 2025** |
 | 10:50 AM | Out-of-Town Travel Pool Call Time<br />[Joint Base Andrews](https://www.jba.af.mil/) Out-of-Town Travel Pool |
-AM | In-Town Pool Call Time<br />The [White House](https://www.whitehouse.gov/) In-Town Pool |
+| 11:15 AM | In-Town Pool Call Time<br />The [White House](https://www.whitehouse.gov/) In-Town Pool |
 | 11:45 AM | The [President](https://www.donaldjtrump.com/) departs the [White House](https://www.whitehouse.gov/) en route [Queens](https://www.ny.gov/counties/queens), [New York](https://www.ny.gov/) [12:07 PM Actual]<br />[South Lawn](https://www.whitehouse.gov/) Open Press |
 | 12:15 PM | The [President](https://www.donaldjtrump.com/) arrives at [Joint Base Andrews](https://www.jba.af.mil/)<br />[Joint Base Andrews](https://www.jba.af.mil/) |
 | 12:25 PM | The [President](https://www.donaldjtrump.com/) departs [Joint Base Andrews](https://www.jba.af.mil/) for [New York](https://www.ny.gov/)<br />[Joint Base Andrews](https://www.jba.af.mil/) |
 | 1:05 PM | The [President](https://www.donaldjtrump.com/) arrives at [LaGuardia Airport](https://www.laguardiaairport.com/)<br />[LaGuardia Airport](https://www.laguardiaairport.com/) |
 | 1:15 PM | The [President](https://www.donaldjtrump.com/) departs [LaGuardia Airport](https://www.laguardiaairport.com/) for the [U.S. Open](https://www.usopen.org/)<br />[LaGuardia Airport](https://www.laguardiaairport.com/) |
-| 1:34 PM | The [President](https://www.donaldjtrump.com/) arrives at the [U.S. Open](https://www.usopen.org/)<br />[Arthur Ashe Stadium](https://www.flushingmeadowsstadium.com/), [Flushing](https://www.ny.gov/counties/queens), [NY](https://www.ny.gov/) |
-| 1:42 PM | The [President](https://www.donaldjtrump.com/) greets the crowd at the [U.S. Open](https://www.usopen.org/)<br />[Arthur Ashe Stadium](https://www.flushingmeadowsstadium.com/), [Flushing](https://www.ny.gov/counties/queens), [NY](https://www.ny.gov/) |
-| 2:00 PM | The [President](https://www.donaldjtrump.com/) attends the [U.S. Open Tennis Championships](https://www.usopen.org/)<br />[Arthur Ashe Stadium](https://www.flushingmeadowsstadium.com/), [Flushing](https://www.ny.gov/counties/queens), [NY](https://www.ny.gov/) Out-of-Town Travel Pool |
-| 2:32 PM | The [President](https://www.donaldjtrump.com/) greets the crowd before the National Anthem<br />[Arthur Ashe Stadium](https://www.flushingmeadowsstadium.com/), [Flushing](https://www.ny.gov/counties/queens), [NY](https://www.ny.gov/) |
-| 5:50 PM | The [President](https://www.donaldjtrump.com/) attends the [U.S. Open](https://www.usopen.org/) trophy ceremony<br />[Arthur Ashe Stadium](https://www.flushingmeadowsstadium.com/), [Flushing](https://www.ny.gov/counties/queens), [NY](https://www.ny.gov/) |
-| 5:58 PM | The [President](https://www.donaldjtrump.com/) departs [Arthur Ashe Stadium](https://www.flushingmeadowsstadium.com/) for [LaGuardia Airport](https://www.laguardiaairport.com/)<br />[Arthur Ashe Stadium](https://www.flushingmeadowsstadium.com/), [Flushing](https://www.ny.gov/counties/queens), [NY](https://www.ny.gov/) |
+| 1:34 PM 🎾| The [President](https://www.donaldjtrump.com/) arrives at the [U.S. Open](https://www.usopen.org/)<br />[Arthur Ashe Stadium](https://www.flushingmeadowsstadium.com/), [Flushing](https://www.ny.gov/counties/queens), [NY](https://www.ny.gov/) |
+| 1:42 PM ⛳️| The [President](https://www.donaldjtrump.com/) greets the crowd at the [U.S. Open](https://www.usopen.org/)<br />[Arthur Ashe Stadium](https://www.flushingmeadowsstadium.com/), [Flushing](https://www.ny.gov/counties/queens), [NY](https://www.ny.gov/) |
+| 2:00 PM ⛳️| The [President](https://www.donaldjtrump.com/) attends the [U.S. Open Tennis Championships](https://www.usopen.org/)<br />[Arthur Ashe Stadium](https://www.flushingmeadowsstadium.com/), [Flushing](https://www.ny.gov/counties/queens), [NY](https://www.ny.gov/) Out-of-Town Travel Pool |
+| 2:32 PM 🎾| The [President](https://www.donaldjtrump.com/) greets the crowd before the National Anthem<br />[Arthur Ashe Stadium](https://www.flushingmeadowsstadium.com/), [Flushing](https://www.ny.gov/counties/queens), [NY](https://www.ny.gov/) |
+| 5:50 PM 🎾| The [President](https://www.donaldjtrump.com/) attends the [U.S. Open](https://www.usopen.org/) trophy ceremony<br />[Arthur Ashe Stadium](https://www.flushingmeadowsstadium.com/), [Flushing](https://www.ny.gov/counties/queens), [NY](https://www.ny.gov/) |
+| 5:58 PM 🎾| The [President](https://www.donaldjtrump.com/) departs [Arthur Ashe Stadium](https://www.flushingmeadowsstadium.com/) for [LaGuardia Airport](https://www.laguardiaairport.com/)<br />[Arthur Ashe Stadium](https://www.flushingmeadowsstadium.com/), [Flushing](https://www.ny.gov/counties/queens), [NY](https://www.ny.gov/) |
 | 6:10 PM | The [President](https://www.donaldjtrump.com/) arrives at [LaGuardia Airport](https://www.laguardiaairport.com/)<br />[LaGuardia Airport](https://www.laguardiaairport.com/) |
 | 6:18 PM | The [President](https://www.donaldjtrump.com/) departs [LaGuardia Airport](https://www.laguardiaairport.com/) for [Joint Base Andrews](https://www.jba.af.mil/)<br />[LaGuardia Airport](https://www.laguardiaairport.com/) |
 | 7:04 PM | The [President](https://www.donaldjtrump.com/) arrives at [Joint Base Andrews](https://www.jba.af.mil/)<br />[Joint Base Andrews](https://www.jba.af.mil/) |
@@ -40,16 +40,16 @@ AM | In-Town Pool Call Time<br />The [White House](https://www.whitehouse.gov/) 
 | 7:18 PM | The [President](https://www.donaldjtrump.com/) departs [Joint Base Andrews](https://www.jba.af.mil/) for The [White House](https://www.whitehouse.gov/)<br />[Joint Base Andrews](https://www.jba.af.mil/) |
 | 7:53 PM | [White House](https://www.whitehouse.gov/) Press Office: Full lid called<br />The [White House](https://www.whitehouse.gov/) |
 | | **Saturday, September 6 2025** |
-| | The [President](https://www.donaldjtrump.com/) has no public events scheduled<br />The [White House](https://www.whitehouse.gov/) |
+| ⛳️🏌‍♂️| The [President](https://www.donaldjtrump.com/) ~~has no public events scheduled~~ (other than playing golf ⛳️🏌)<br />The [White House](https://www.whitehouse.gov/) |
 | 8:00 AM | In-Town Pool Call Time<br />The [White House](https://www.whitehouse.gov/) In-Town Pool |
-| 9:21 AM | The [President](https://www.donaldjtrump.com/) departs the [White House](https://www.whitehouse.gov/) for his golf club<br />The [White House](https://www.whitehouse.gov/) |
-| 9:54 AM | The [President](https://www.donaldjtrump.com/) arrives at [Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/)<br />[Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/) |
-| 3:50 PM | The [President](https://www.donaldjtrump.com/) departs [Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/)<br />[Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/) |
+| 9:21 AM ⛳️| The [President](https://www.donaldjtrump.com/) departs the [White House](https://www.whitehouse.gov/) for his golf club<br />The [White House](https://www.whitehouse.gov/) |
+| 9:54 AM ⛳️🏌‍♂️| The [President](https://www.donaldjtrump.com/) arrives at [Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/)<br />[Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/) |
+| 3:50 PM ⛳️| The [President](https://www.donaldjtrump.com/) departs [Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/)<br />[Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/) |
 | 4:25 PM | The [President](https://www.donaldjtrump.com/) arrives at the [White House](https://www.whitehouse.gov/)<br />The [White House](https://www.whitehouse.gov/) |
 | 4:25 PM | [White House](https://www.whitehouse.gov/) Press Office: Full lid called<br />The [White House](https://www.whitehouse.gov/) |
 | | 🔥 [White House](https://www.whitehouse.gov/) 💣| 
 | | **Monday, September 1 2025** |
-| ⛳️🏌‍♂️| The [President](https://www.donaldjtrump.com/) ~~has no public events scheduled~~ (other than playing golf ⛳️🏌)<br />The [White House](https://www.whitehouse.gov/) In-Town Pool |
+| ⛳️🏌‍♂️| The [President](https://www.donaldjtrump.com/) ~~has no public events scheduled~~ (other than playing golf ⛳️🏌)<br />The [White House](https://www.whitehouse.gov/) |
 | 8:00 AM | In-Town Pool Call Time<br />The [White House](https://www.whitehouse.gov/) In-Town Pool |
 | 8:50 AM ⛳️| The [President](https://www.donaldjtrump.com/) departs the [White House](https://www.whitehouse.gov/) for his golf club<br />The [White House](https://www.whitehouse.gov/) |
 | 9:25 AM ⛳️| The [President](https://www.donaldjtrump.com/) arrives at [Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/)<br />[Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/) |
@@ -57,7 +57,7 @@ AM | In-Town Pool Call Time<br />The [White House](https://www.whitehouse.gov/) 
 | 3:37 PM | The [President](https://www.donaldjtrump.com/) arrives at the [White House](https://www.whitehouse.gov/)<br />The [White House](https://www.whitehouse.gov/) |
 | 3:39 PM | [White House](https://www.whitehouse.gov/) Press Office: Full lid called<br />The [White House](https://www.whitehouse.gov/) |
 | | **Sunday, August 31 2025** |
-| ⛳️🏌‍♂️| The [President](https://www.donaldjtrump.com/) ~~has no public events scheduled~~ (other than playing golf ⛳️🏌)<br />The [White House](https://www.whitehouse.gov/) In-Town Pool |
+| ⛳️🏌‍♂️| The [President](https://www.donaldjtrump.com/) ~~has no public events scheduled~~ (other than playing golf ⛳️🏌)<br />The [White House](https://www.whitehouse.gov/) |
 | 8:00 AM | In-Town Pool Call Time<br />The [White House](https://www.whitehouse.gov/) In-Town Pool |
 | 9:27 AM | The [President](https://www.donaldjtrump.com/) departs the [White House](https://www.whitehouse.gov/) for his golf club<br />The [White House](https://www.whitehouse.gov/) |
 | 10:02 AM | The [President](https://www.donaldjtrump.com/) arrives at [Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/) to golf with Jon Gruden<br />[Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/) |
@@ -65,7 +65,7 @@ AM | In-Town Pool Call Time<br />The [White House](https://www.whitehouse.gov/) 
 | 4:44 PM | The [President](https://www.donaldjtrump.com/) arrives at the [White House](https://www.whitehouse.gov/)<br />The [White House](https://www.whitehouse.gov/) |
 | 4:48 PM | [White House](https://www.whitehouse.gov/) Press Office: Full lid called<br />The [White House](https://www.whitehouse.gov/) |
 | | **Saturday, August 30 2025** |
-| ⛳️🏌‍♂️| The [President](https://www.donaldjtrump.com/) ~~has no public events scheduled~~ (other than playing golf ⛳️🏌)<br />The [White House](https://www.whitehouse.gov/) In-Town Pool |
+| ⛳️🏌‍♂️| The [President](https://www.donaldjtrump.com/) ~~has no public events scheduled~~ (other than playing golf ⛳️🏌)<br />The [White House](https://www.whitehouse.gov/) |
 | 8:00 AM | In-Town Pool Call Time<br />The [White House](https://www.whitehouse.gov/) In-Town Pool |
 | 8:45 AM | The [President](https://www.donaldjtrump.com/) departs the [White House](https://www.whitehouse.gov/) for his golf club with two grandchildren<br />The [White House](https://www.whitehouse.gov/) |
 | 9:18 AM ⛳️| The [President](https://www.donaldjtrump.com/) arrives at [Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/)<br />[Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/) |
