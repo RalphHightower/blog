@@ -15,24 +15,38 @@ title: "Trump: Air Force One Frequent Flyer Miles"
 - 2025-04-05: [Trump Never Let a Weekend of Golf ⛳️ Interfere With a Commander-In-Chief’s Solemn Duty to Receive Fallen Military 🪖]({% link _posts/2025/04/2025-04-05-MilitaryFallenDontInterruptTrumpGolfWeekends.md %})
 
 [^666]: @RalphHightower – [Federal Aviation Administration - Graphic TFRs](https://tfr.faa.gov/tfr3/?page=list)
-[^53860]: [TFR 5/3860 – Federal Aviation Administration (FAA)](https://tfr.faa.gov/tfr3/?page=detail_5_3860)
-[^54541]: [TFR 5/4541: Federal Aviation Administration (FAA)](https://tfr.faa.gov/tfr3/?page=detail_5_4541)
-[^58781]: [TFR 5/8781 – Federal Aviation Administration (FAA)](https://tfr.faa.gov/tfr3/?page=detail_5_8781). From August 16, 2025 at 1400 UTC (August 16, 2025 at 1000 EDT) To August 16, 2025 at 2300 UTC (August 16, 2025 at 1900 EDT)
-[^58845]: [TFR 5/8845 – Federal Aviation Administration (FAA)](https://tfr.faa.gov/tfr3/?page=detail_5_8845). From August 17, 2025 at 1230 UTC (August 17, 2025 at 0830 EDT) To August 17, 2025 at 2200 UTC (August 17, 2025 at 1800 EDT)
-[^51695]: [TFR 5/1695 – Federal Aviation Administration (FAA)](https://tfr.faa.gov/tfr3/?page=detail_5_1695). From August 23, 2025 at 1230 UTC (August 23, 2025 at 0830 EDT) To August 23, 2025 at 2200 UTC (August 23, 2025 at 1800 EDT)
-[^52266]: [TFR 5/2266 – Federal Aviation Administration (FAA)](https://tfr.faa.gov/tfr3/?page=detail_5_2266). From August 24, 2025 at 1230 UTC (August 24, 2025 at 0830 EDT) To August 24, 2025 at 2200 UTC (August 24, 2025 at 1800 EDT)
-[^5_5410]: [Federal Aviation Administration - Graphic TFRs](https://tfr.faa.gov/tfr3/?page=detail_5_5410). From August 30, 2025 at 1230 UTC (August 30, 2025 at 0830 EDT) To August 30, 2025 at 2200 UTC (August 30, 2025 at 1800 EDT)
-[^55636]: [Federal Aviation Administration - Graphic TFRs](https://tfr.faa.gov/tfr3/?page=detail_5_5636). From September 01, 2025 at 1230 UTC (September 01, 2025 at 0830 EDT) To September 01, 2025 at 2200 UTC (September 01, 2025 at 1800 EDT)
-[^58703]: [Federal Aviation Administration - Graphic TFRs](https://tfr.faa.gov/tfr3/?page=detail_5_8703). From September 06, 2025 at 1230 UTC (September 06, 2025 at 0830 EDT) To September 06, 2025 at 2200 UTC (September 06, 2025 at 1800 EDT)
 
 | Time | Location |
 |---|---|
-| | **Sunday, September 7, 2025** |
-| 8:30 AM ⛳️🏌‍♂️| [Donnie](https://www.donaldjtrump.com/) plays golf at his [Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/) |
-| 6:00 PM ⛳️🏌‍♂️| [Donnie](https://www.donaldjtrump.com/) leavest his [Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/) |
-| | **Saturday, September 6, 2025**[^58703] |
-| 8:30 AM ⛳️🏌‍♂️| [Donnie](https://www.donaldjtrump.com/) plays golf at his [Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/) |
-| 6:00 PM ⛳️🏌‍♂️| [Donnie](https://www.donaldjtrump.com/) leavest his [Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/) |
+| | 🔥 [White House](https://www.whitehouse.gov/) 💣| 
+| | **Sunday, September 7 2025** |
+| 10:50 AM | Out-of-Town Travel Pool Call Time<br />[Joint Base Andrews](https://www.jba.af.mil/) Out-of-Town Travel Pool |
+AM | In-Town Pool Call Time<br />The [White House](https://www.whitehouse.gov/) In-Town Pool |
+| 11:45 AM | The [President](https://www.donaldjtrump.com/) departs the [White House](https://www.whitehouse.gov/) en route [Queens](https://www.ny.gov/counties/queens), [New York](https://www.ny.gov/) [12:07 PM Actual]<br />[South Lawn](https://www.whitehouse.gov/) Open Press |
+| 12:15 PM | The [President](https://www.donaldjtrump.com/) arrives at [Joint Base Andrews](https://www.jba.af.mil/)<br />[Joint Base Andrews](https://www.jba.af.mil/) |
+| 12:25 PM | The [President](https://www.donaldjtrump.com/) departs [Joint Base Andrews](https://www.jba.af.mil/) for [New York](https://www.ny.gov/)<br />[Joint Base Andrews](https://www.jba.af.mil/) |
+| 1:05 PM | The [President](https://www.donaldjtrump.com/) arrives at [LaGuardia Airport](https://www.laguardiaairport.com/)<br />[LaGuardia Airport](https://www.laguardiaairport.com/) |
+| 1:15 PM | The [President](https://www.donaldjtrump.com/) departs [LaGuardia Airport](https://www.laguardiaairport.com/) for the [U.S. Open](https://www.usopen.org/)<br />[LaGuardia Airport](https://www.laguardiaairport.com/) |
+| 1:34 PM | The [President](https://www.donaldjtrump.com/) arrives at the [U.S. Open](https://www.usopen.org/)<br />[Arthur Ashe Stadium](https://www.flushingmeadowsstadium.com/), [Flushing](https://www.ny.gov/counties/queens), [NY](https://www.ny.gov/) |
+| 1:42 PM | The [President](https://www.donaldjtrump.com/) greets the crowd at the [U.S. Open](https://www.usopen.org/)<br />[Arthur Ashe Stadium](https://www.flushingmeadowsstadium.com/), [Flushing](https://www.ny.gov/counties/queens), [NY](https://www.ny.gov/) |
+| 2:00 PM | The [President](https://www.donaldjtrump.com/) attends the [U.S. Open Tennis Championships](https://www.usopen.org/)<br />[Arthur Ashe Stadium](https://www.flushingmeadowsstadium.com/), [Flushing](https://www.ny.gov/counties/queens), [NY](https://www.ny.gov/) Out-of-Town Travel Pool |
+| 2:32 PM | The [President](https://www.donaldjtrump.com/) greets the crowd before the National Anthem<br />[Arthur Ashe Stadium](https://www.flushingmeadowsstadium.com/), [Flushing](https://www.ny.gov/counties/queens), [NY](https://www.ny.gov/) |
+| 5:50 PM | The [President](https://www.donaldjtrump.com/) attends the [U.S. Open](https://www.usopen.org/) trophy ceremony<br />[Arthur Ashe Stadium](https://www.flushingmeadowsstadium.com/), [Flushing](https://www.ny.gov/counties/queens), [NY](https://www.ny.gov/) |
+| 5:58 PM | The [President](https://www.donaldjtrump.com/) departs [Arthur Ashe Stadium](https://www.flushingmeadowsstadium.com/) for [LaGuardia Airport](https://www.laguardiaairport.com/)<br />[Arthur Ashe Stadium](https://www.flushingmeadowsstadium.com/), [Flushing](https://www.ny.gov/counties/queens), [NY](https://www.ny.gov/) |
+| 6:10 PM | The [President](https://www.donaldjtrump.com/) arrives at [LaGuardia Airport](https://www.laguardiaairport.com/)<br />[LaGuardia Airport](https://www.laguardiaairport.com/) |
+| 6:18 PM | The [President](https://www.donaldjtrump.com/) departs [LaGuardia Airport](https://www.laguardiaairport.com/) for [Joint Base Andrews](https://www.jba.af.mil/)<br />[LaGuardia Airport](https://www.laguardiaairport.com/) |
+| 7:04 PM | The [President](https://www.donaldjtrump.com/) arrives at [Joint Base Andrews](https://www.jba.af.mil/)<br />[Joint Base Andrews](https://www.jba.af.mil/) |
+| 7:10 PM | The [President](https://www.donaldjtrump.com/) arrives The [White House](https://www.whitehouse.gov/) [7:45 PM Actual]<br />[South Lawn](https://www.whitehouse.gov/) Open Press |
+| 7:18 PM | The [President](https://www.donaldjtrump.com/) departs [Joint Base Andrews](https://www.jba.af.mil/) for The [White House](https://www.whitehouse.gov/)<br />[Joint Base Andrews](https://www.jba.af.mil/) |
+| 7:53 PM | [White House](https://www.whitehouse.gov/) Press Office: Full lid called<br />The [White House](https://www.whitehouse.gov/) |
+| | **Saturday, September 6 2025** |
+| | The [President](https://www.donaldjtrump.com/) has no public events scheduled<br />The [White House](https://www.whitehouse.gov/) |
+| 8:00 AM | In-Town Pool Call Time<br />The [White House](https://www.whitehouse.gov/) In-Town Pool |
+| 9:21 AM | The [President](https://www.donaldjtrump.com/) departs the [White House](https://www.whitehouse.gov/) for his golf club<br />The [White House](https://www.whitehouse.gov/) |
+| 9:54 AM | The [President](https://www.donaldjtrump.com/) arrives at [Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/)<br />[Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/) |
+| 3:50 PM | The [President](https://www.donaldjtrump.com/) departs [Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/)<br />[Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/) |
+| 4:25 PM | The [President](https://www.donaldjtrump.com/) arrives at the [White House](https://www.whitehouse.gov/)<br />The [White House](https://www.whitehouse.gov/) |
+| 4:25 PM | [White House](https://www.whitehouse.gov/) Press Office: Full lid called<br />The [White House](https://www.whitehouse.gov/) |
 | | 🔥 [White House](https://www.whitehouse.gov/) 💣| 
 | | **Monday, September 1 2025** |
 | ⛳️🏌‍♂️| The [President](https://www.donaldjtrump.com/) ~~has no public events scheduled~~ (other than playing golf ⛳️🏌)<br />The [White House](https://www.whitehouse.gov/) In-Town Pool |
@@ -1285,3 +1299,15 @@ title: "Trump: Air Force One Frequent Flyer Miles"
 | venue | [Wells Fargo Center](https://www.wellsfargocenterphilly.com/) |
 | venue | [Sports & Expo Center in Macomb County](https://www.macomb.edu/community/conference-event-services/sports-expo-center.html) |
 | venue | [Coleman Coliseum - The University of Alabama](https://calendar.ua.edu/coleman_coliseum_616) |
+
+[^53860]: [TFR 5/3860 – Federal Aviation Administration (FAA)](https://tfr.faa.gov/tfr3/?page=detail_5_3860)
+[^54541]: [TFR 5/4541: Federal Aviation Administration (FAA)](https://tfr.faa.gov/tfr3/?page=detail_5_4541)
+[^58781]: [TFR 5/8781 – Federal Aviation Administration (FAA)](https://tfr.faa.gov/tfr3/?page=detail_5_8781). From August 16, 2025 at 1400 UTC (August 16, 2025 at 1000 EDT) To August 16, 2025 at 2300 UTC (August 16, 2025 at 1900 EDT)
+[^58845]: [TFR 5/8845 – Federal Aviation Administration (FAA)](https://tfr.faa.gov/tfr3/?page=detail_5_8845). From August 17, 2025 at 1230 UTC (August 17, 2025 at 0830 EDT) To August 17, 2025 at 2200 UTC (August 17, 2025 at 1800 EDT)
+[^51695]: [TFR 5/1695 – Federal Aviation Administration (FAA)](https://tfr.faa.gov/tfr3/?page=detail_5_1695). From August 23, 2025 at 1230 UTC (August 23, 2025 at 0830 EDT) To August 23, 2025 at 2200 UTC (August 23, 2025 at 1800 EDT)
+[^52266]: [TFR 5/2266 – Federal Aviation Administration (FAA)](https://tfr.faa.gov/tfr3/?page=detail_5_2266). From August 24, 2025 at 1230 UTC (August 24, 2025 at 0830 EDT) To August 24, 2025 at 2200 UTC (August 24, 2025 at 1800 EDT)
+[^5_5410]: [Federal Aviation Administration - Graphic TFRs](https://tfr.faa.gov/tfr3/?page=detail_5_5410). From August 30, 2025 at 1230 UTC (August 30, 2025 at 0830 EDT) To August 30, 2025 at 2200 UTC (August 30, 2025 at 1800 EDT)
+[^55636]: [Federal Aviation Administration - Graphic TFRs](https://tfr.faa.gov/tfr3/?page=detail_5_5636). From September 01, 2025 at 1230 UTC (September 01, 2025 at 0830 EDT) To September 01, 2025 at 2200 UTC (September 01, 2025 at 1800 EDT)
+[^58703]: [Federal Aviation Administration - Graphic TFRs](https://tfr.faa.gov/tfr3/?page=detail_5_8703). NYC, NY From September 06, 2025 at 1230 UTC (September 06, 2025 at 0830 EDT) To September 06, 2025 at 2200 UTC (September 06, 2025 at 1800 EDT)
+[^58352]: [Federal Aviation Administration - Graphic TFRs](https://tfr.faa.gov/tfr3/?page=detail_5_8352). NYC, NY From September 07, 2025 at 1645 UTC (September 07, 2025 at 1245 EDT) To September 07, 2025 at 2300 UTC (September 07, 2025 at 1900 EDT)
+[^58353]: [Federal Aviation Administration - Graphic TFRs](https://tfr.faa.gov/tfr3/?page=detail_5_8353). From September 07, 2025 at 1645 UTC (September 07, 2025 at 1245 EDT) To September 07, 2025 at 2300 UTC (September 07, 2025 at 1900 EDT)
