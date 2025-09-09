@@ -236,7 +236,7 @@ title: "Trump: Air Force One Frequent Flyer Miles"
 7:00 PM | The [President](https://www.donaldjtrump.com/) participates in a Dinner with [Trumpian](https://www.gop.com/) [Senators](https://www.whitehouse.gov/)<br />[State Dining Room](https://www.whitehouse.gov/) Closed Press |
 | 08:30 PM EDT | [Donnie](https://www.donaldjtrump.com/) arrives at [Camp David](https://ndw.cnic.navy.mil/Installations/NSF-Thurmont/) |
 | | 🔥 [White House](https://www.whitehouse.gov/) 💣| 
-|💰 speech was more a campaign speech | **Tuesday, July 15 2025** |
+| | **Tuesday, July 15 2025** |
 | 9:00 AM | In-Town Pool Call Time<br />The [White House](https://www.whitehouse.gov/) In-Town Pool |
 | 11:15 AM | Out-of-Town Travel Pool Call Time<br />/[Joint Base Andrews](https://www.jba.af.mil/) Out-of-Town Travel Pool |
 | 11:30 AM | The [Secret Service](https://www.secretservice.gov/) orders a lockdown of the [White House](https://www.whitehouse.gov/) campus<br />The [White House](https://www.whitehouse.gov/) Open Press |
