@@ -80,6 +80,7 @@ Allison Detzel contributed.
 - universities
 - companies
 - foreign governments
+- state, local governments 
 - federal government
 - [Constitution of the United States](https://constitution.congress.gov/)
     - [U.S. Constitution - Article I / Resources / Constitution Annotated / Congress.gov / Library of Congress](https://constitution.congress.gov/constitution/article-1/)
