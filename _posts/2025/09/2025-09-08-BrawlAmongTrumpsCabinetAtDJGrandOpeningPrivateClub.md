@@ -21,7 +21,7 @@ By Rachael Bade
 
 Rachael Bade is POLITICO's Capitol bureau chief and senior Washington columnist. She is a former co-author of POLITICO Playbook and co-author of "Unchecked: The Untold Story Behind Congress's Botched Impeachments of [Donald Trump](https://www.donaldjtrump.com/)." Her reported column, Corridors, illuminates how power pulses through Washington, from Capitol Hill to the [White House](https://www.whitehouse.gov/) and beyond.
 
-[Treasury](https://home.treasury.gov/) [Secretary Scott Bessent](https://home.treasury.gov/about/general-information/officials/scott-bessent) is seen as [President](https://www.whitehouse.gov/) [Donald Trump](https://www.donaldjtrump.com/) hosts a dinner in the newly renovated Rose Garden at the [White House](https://www.whitehouse.gov/) on Sept. 5, 2025. | Francis Chung/POLITICO
+[Treasury](https://home.treasury.gov/) [Secretary Scott Bessent](https://home.treasury.gov/about/general-information/officials/scott-bessent) is seen as [President](https://www.whitehouse.gov/) [Donald Trump](https://www.donaldjtrump.com/) hosts a dinner in the newly renovated Rose Garden at the [White House](https://www.whitehouse.gov/) on Sept. 5, 2025. / Francis Chung/POLITICO
 
 A private dinner attended by dozens of [administration](https://www.whitehouse.gov/administration/) officials and close advisers to [President](https://www.whitehouse.gov/) [Donald Trump](https://www.donaldjtrump.com/) was temporarily marred by a dramatic clash between two of [Trump](https://www.donaldjtrump.com/)’s top economic officials, with [Treasury](https://home.treasury.gov/) [Secretary Scott Bessent](https://home.treasury.gov/about/general-information/officials/scott-bessent) at one point threatening to punch top housing finance official [Bill Pulte](https://www.fhfa.gov/about/leadership/william-j-pulte) “in the fucking face.”
 
@@ -77,7 +77,7 @@ Wednesday’s dustup also wasn’t the first time [Bessent](https://home.treasur
 
 [Bessent](https://home.treasury.gov/about/general-information/officials/scott-bessent) was pushing for another man, Deputy Treasury Secretary Michael Faulkender, to get the job — and eventually got his way. Faulkender [left the department](https://www.politico.com/news/2025/08/22/treasury-official-faulkender-leaving-00519525) late last month after just five months on the job.
 
-Filed Under: [Fannie Mae](https://www.fanniemae.com/), [Federal Housing Finance Agency](https://www.fhfa.gov/), [Freddie Mac](https://www.freddiemac.com/home), [Treasury Department](https://home.treasury.gov/), [Donald Trump](https://www.donaldjtrump.com/), [Elon Musk](https://ir.tesla.com/corporate/elon-musk/), [Scott Bessent](https://home.treasury.gov/about/general-information/officials/scott-bessent), Columns, Column | Corridors
+Filed Under: [Fannie Mae](https://www.fanniemae.com/), [Federal Housing Finance Agency](https://www.fhfa.gov/), [Freddie Mac](https://www.freddiemac.com/home), [Treasury Department](https://home.treasury.gov/), [Donald Trump](https://www.donaldjtrump.com/), [Elon Musk](https://ir.tesla.com/corporate/elon-musk/), [Scott Bessent](https://home.treasury.gov/about/general-information/officials/scott-bessent), Columns, Column / Corridors
 
 © 2025 POLITICO LLC
 
