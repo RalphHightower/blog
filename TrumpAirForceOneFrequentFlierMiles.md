@@ -2,7 +2,7 @@
 layout: page
 tags: [The Mar-a-Lago Club, Palm Beach Florida 33480, Trump International Golf Club, West Palm Beach FL 33406, Trump National Doral Golf Club, Miami FL 33178, Trump National Jupiter Golf Club, Jupiter FL 33477, Trump National Golf Club Washington D.C., Potomac Falls VA 20165, Trump National Golf Club Bedminster, Bedminster NJ 07921, Trump National Golf Club Colts Neck, Colts Neck NJ 07722, Trump National Golf Club Philadelphia, Pine Hill NJ 08021, Trump National Golf Club Hudson Valley, Hopewell Junction NY 12533, Trump National Golf Club Los Angeles, Rancho Palos Verdes CA 90275, Trump National Golf Club Charlotte, Mooresville NC 28117, Trump International Golf Club Dubai, Al Hebiah Third District Dubai, Trump International Golf Links & Hotel Ireland Doonbeg, CLARE IRELAND, Trump MacLeod House & Lodge Scotland, Aberdeenshire Scotland AB23 8YE, Trump MacLeod House & Lodge Scotland, Aberdeenshire Scotland AB23 8YE, Trump Turnberry, Ayrshire Scotland]
 categories: [Donald Trump]
-date: 2025-09-08 2:04 PM
+date: 2025-09-13 10:17 AM
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
@@ -19,28 +19,49 @@ title: "Trump: Air Force One Frequent Flyer Miles"
 | Time | Location |
 |---|---|
 | | 🔥 [White House](https://www.whitehouse.gov/) 💣| 
-| | **Sunday, September 14, 2025** |
-| ⛳️🏌‍♂️| [Donnie](https://www.whitehouse.gov/) is golfing at his [Trump National Golf Club Bedminster](https://www.trumpnationalbedminster.com/) |
+| | **Sunday, September 14 2925** |
+| ⛳️🏌‍♂️| The [President](https://www.donaldjtrump.com/) ~~has no public events scheduled~~ (other than playing golf ⛳️🏌) | Out-of-Town Travel Pool |
+| 10:00 AM ⛳️| Out-of-Town Travel Pool Call Time<br />Out-of-Town Travel Pool |
+| 3:00 PM ⛳️| Out-of-Town Travel Pool Call Time<br />Out-of-Town Travel Pool |
+| 5:20 PM ⛳️| The [President](https://www.donaldjtrump.com/) departs [Trump National Golf Club Bedminster](https://www.trumpnationalbedminster.com/), en route The [White House](https://www.whitehouse.gov/)<br />Out-of-Town Travel Pool |
+| 5:45 PM | In-Town Pool Call Time<br />In-Town Pool |
+| 6:30 PM | The [President](https://www.donaldjtrump.com/) arrives The [White House](https://www.whitehouse.gov/)<br />[South Lawn](https://www.whitehouse.gov/) Open Press |
 | | **Saturday, September 13, 2025** |
-| ⛳️🏌‍♂️| [Donnie](https://www.whitehouse.gov/) is golfing at his [Trump National Golf Club Bedminster](https://www.trumpnationalbedminster.com/) |
-| | **Friday, September 12 2025**
+| ⛳️🏌‍♂️| [Donnie](https://www.donaldjtrump.com/) plays golf [Trump National Golf Club Bedminster](https://www.trumpnationalbedminster.com/) |
+| | **Friday, September 12 2925** |
 | TBD | Dinner with Steve Witkoff and Mohammed bin Abdulrahman Al Thani, Prime Minister of [Qatar](https://hukoomi.gov.qa/)<br />[Trump Tower](https://www.trumphotels.com/central-park) |
-| 5:50 AM | Out-of-Town Travel Pool Call Time<br />Out-of-Town Travel Pool |
-| 8:00 AM | The [President](https://www.donaldjtrump.com/) participates in a Live TV Interview with Faux and Friends<br />On Camera |
-| 9:40 PM | The [President](https://www.donaldjtrump.com/) departs [New York](https://www.nyc.gov/), [New York](https://www.ny.gov/), en route [Bedminster, New Jersey](https://www.trumpnationalbedminster.com/)<br />Out-of-Town Travel Pool |
-| 10:10 PM | The [President](https://www.donaldjtrump.com/) arrives [Bedminster, New Jersey](https://www.trumpnationalbedminster.com/)<br />Closed Press |
-| | **Thursday, September 11 2025** |
+| 5:50 AM | Out-of-Town Travel Pool Call Time<br />[Trump Tower](https://www.trumphotels.com/central-park) Out-of-Town Travel Pool |
+| 7:47 AM | The [President](https://www.donaldjtrump.com/) departs [Trump Tower](https://www.trumphotels.com/central-park) for a [Faux & Friends](https://www.foxnews.com/shows/fox-and-friends) interview<br />[Trump Tower](https://www.trumphotels.com/central-park) |
+| 7:52 AM | The [President](https://www.donaldjtrump.com/) arrives at [Faux News' Studio M](https://www.foxnews.com)<br />[News Corporation Headquarters](https://newscorp.com/), [New York](https://www.nyc.gov/) |
+| 8:00 AM | The [President](https://www.donaldjtrump.com/) participates in a Live TV Interview with [Faux and Friends](https://www.foxnews.com/shows/fox-and-friends)<br />[News Corporation Headquarters](https://newscorp.com/), [New York](https://www.nyc.gov/) On Camera |
+| 9:09 AM | The [President](https://www.donaldjtrump.com/) departs [Faux News' Studio M](https://www.foxnews.com/) for [Trump Tower](https://www.trumphotels.com/central-park)<br />[News Corporation Headquarters](https://newscorp.com/), [New York](https://www.nyc.gov/) |
+| 9:15 AM | The [President](https://www.donaldjtrump.com/) arrives at [Trump Tower](https://www.trumphotels.com/central-park)<br />[Trump Tower](https://www.trumphotels.com/central-park) |
+| 9:17 AM | [White House](https://www.whitehouse.gov/) Press Office: Lunch lid until 5:00 PM<br />[Trump Tower](https://www.trumphotels.com/central-park) |
+| 9:40 PM ⛳️| The [President](https://www.donaldjtrump.com/) departs [New York](https://www.nyc.gov/), [New York](https://www.ny.gov/), en route [Trump National Golf Club Bedminster](https://www.trumpnationalbedminster.com/)<br />[Trump Tower](https://www.trumphotels.com/central-park) Out-of-Town Travel Pool |
+| 10:10 PM ⛳️| The [President](https://www.donaldjtrump.com/) arrives [Trump National Golf Club Bedminster](https://www.trumpnationalbedminster.com/)<br />[Trump National Golf Club Bedminster](https://www.trumpnationalbedminster.com/) Closed Press |
+| | **Thursday, September 11 2925** |
 | 7:30 AM | In-Town Pool Call Time<br />The [White House](https://www.whitehouse.gov/) In-Town Pool |
 | 8:37 AM | The [President](https://www.donaldjtrump.com/) and the First Lady depart the [White House](https://www.whitehouse.gov/) for The [Pentagon](https://www.defense.gov/)<br />The [White House](https://www.whitehouse.gov/) In-Town Pool |
 | 8:45 AM | The [President](https://www.donaldjtrump.com/) and the First Lady attend a September 11th Observance Event [Actual: 9:02 AM]<br />The [Pentagon](https://www.defense.gov/) Out-of-Town Travel Pool |
 | 8:50 AM | The [President](https://www.donaldjtrump.com/) and the First Lady arrive at The [Pentagon](https://www.defense.gov/)<br />The [Pentagon](https://www.defense.gov/) In-Town Pool |
-| 10:15 AM | The [President](https://www.donaldjtrump.com/) and the First Lady lay a wreath in The [Pentagon Chapel](https://www.defense.gov/)<br />The [Pentagon](https://www.defense.gov/) In-Town Pool |
+| 10:15 AM | The [President](https://www.donaldjtrump.com/) and the First Lady lay a wreath in The [Pentagon](https://www.defense.gov/) Chapel<br />The [Pentagon](https://www.defense.gov/) In-Town Pool |
 | 10:21 AM | The [President](https://www.donaldjtrump.com/) and the First Lady depart The [Pentagon](https://www.defense.gov/) for the [White House](https://www.whitehouse.gov/)<br />The [Pentagon](https://www.defense.gov/) In-Town Pool |
 | 10:29 AM | The [President](https://www.donaldjtrump.com/) and the First Lady arrive at the [White House](https://www.whitehouse.gov/)<br />The [Pentagon](https://www.defense.gov/) In-Town Pool |
 | 12:37 PM | [White House](https://www.whitehouse.gov/) Press Office: Lunch lid until 1:30 PM<br />The [White House](https://www.whitehouse.gov/) |
 | 2:15 PM | Out-of-Town Pool Call Time<br />[Joint Base Andrews](https://www.jba.af.mil/) Pre-Credentialed Media |
 | 4:00 PM | The [President](https://www.donaldjtrump.com/) departs The [White House](https://www.whitehouse.gov/) en route [New York](https://www.nyc.gov/), [New York](https://www.ny.gov/)<br />[South Lawn](https://www.whitehouse.gov/) Open Press |
-| 7:00 PM | The [President](https://www.donaldjtrump.com/) attends the [Yankees Baseball Game](https://www.mlb.com/yankees/)<br />[Yankees Stadium](https://www.mlb.com/yankees/ballpark), [Bronx](https://bronxboropres.nyc.gov/), [NY](https://www.ny.gov/) Out-of-Town Travel Pool <br />@@RalphHightower: I wasn’t going to |
+| 4:57 PM | <br />The [President](https://www.donaldjtrump.com/) departs the [White House](https://www.whitehouse.gov/) for [Joint Base Andrews](https://www.jba.af.mil/)<br />The [White House](https://www.whitehouse.gov/) |
+| 5:04 PM | The [President](https://www.donaldjtrump.com/) arrives at [Joint Base Andrews](https://www.jba.af.mil/)<br />[Joint Base Andrews](https://www.jba.af.mil/) |
+| 5:21 PM | The [President](https://www.donaldjtrump.com/) departs [Joint Base Andrews](https://www.jba.af.mil/) for [New York](https://www.nyc.gov/)<br />[Joint Base Andrews](https://www.jba.af.mil/) |
+| 5:57 PM | The [President](https://www.donaldjtrump.com/) arrives at [LaGuardia Airport](https://www.laguardiaairport.com/) in [New York](https://www.nyc.gov/)<br />[LaGuardia Airport](https://www.laguardiaairport.com/) |
+| 6:13 PM | The [President](https://www.donaldjtrump.com/) departs [LaGuardia Airport](https://www.laguardiaairport.com/) for [Yankees Stadium](https://www.mlb.com/yankees/ballpark) |
+| [LaGuardia Airport](https://www.laguardiaairport.com/) |
+| 6:30 PM | The [President](https://www.donaldjtrump.com/) arrives at [Yankees Stadium](https://www.mlb.com/yankees/ballpark)<br />[Yankees Stadium](https://www.mlb.com/yankees/ballpark), [Bronx](https://bronxboropres.nyc.gov/), [NY](https://www.ny.gov/) |
+| 6:57 PM | The [President](https://www.donaldjtrump.com/) arrives at the Steinbrenner family box<br />[Yankees Stadium](https://www.mlb.com/yankees/ballpark), [Bronx](https://bronxboropres.nyc.gov/), [NY](https://www.ny.gov/) |
+| 7:00 PM | The [President](https://www.donaldjtrump.com/) attends the [Yankees Baseball Game](https://www.mlb.com/yankees/)<br />[Yankees Stadium](https://www.mlb.com/yankees/ballpark), [Bronx](https://bronxboropres.nyc.gov/), [NY](https://www.ny.gov/) Out-of-Town Travel Pool |
+| 9:54 PM | The [President](https://www.donaldjtrump.com/) departs [Yankees Stadium](https://www.mlb.com/yankees/ballpark) for [Trump Tower](https://www.trumphotels.com/central-park)</<[Yankees Stadium](https://www.mlb.com/yankees/ballpark), [Bronx](https://bronxboropres.nyc.gov/), [NY](https://www.ny.gov/) |
+| 10:12 PM | The [President](https://www.donaldjtrump.com/) arrives at [Trump Tower](https://www.trumphotels.com/central-park)</<[Trump Tower](https://www.trumphotels.com/central-park) |
+| 10:15 PM | [White House](https://www.whitehouse.gov/) Press Office: Full lid called<br />[Trump Tower](https://www.trumphotels.com/central-park) |
 | | **Sunday, September 7 2025** |
 | 10:50 AM | Out-of-Town Travel Pool Call Time<br />[Joint Base Andrews](https://www.jba.af.mil/) Out-of-Town Travel Pool |
 | 11:15 AM | In-Town Pool Call Time<br />The [White House](https://www.whitehouse.gov/) In-Town Pool |
