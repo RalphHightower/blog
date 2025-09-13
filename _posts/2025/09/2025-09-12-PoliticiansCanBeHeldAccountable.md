@@ -1,14 +1,16 @@
 ---
 layout: post
-tags: []
-categories: [Donald Trump, Jair Bolsonaro, insurrection, January 6 2021]
+tags: [media, MSNBC, Steve Benen, The Rachel Maddow Show, MaddowBlog, “Ministry of Truth –  Democracy Reality and the Republicans’ War on the Recent Past.”, Associated Press (AP, BBC, NBC News, New York Times (NYT), Reuters, Washington Post, Federal –  2020 Election Interference January 6 Insurrection. @RalphHightower, organizations, political parties, Democrat Party, Trumpian Party, universities, Johns Hopkins University, Home - Filipe Campante, Harvard University, Steven Levitsky – Department of Government, companies, foreign governments, Inicio / Argentina.gob.ar (AR), Startseite von oesterreich.gv.at (AT), Braxil – GOV.BR (BR), Página Inicial — Planalto (BR), Die Bundesregierung informiert / Startseite (DE), Site officiel du Gouvernement / info.gouv.fr (FR), Vlada Republike Hrvatske - Naslovna (HR), www.governo.it / Governo Italiano Presidenza del Consiglio dei Ministri (IT), 메인 / 정부24 (KR), Government of Pakistan (PK), XXV Governo Constitucional (PT), Frontpage / South African Government (ZA), מְדִינַת יִשְׂרָאֵל (IL), جمهوری اسلامی ایران (IR), اسلامی جمہوریہ پاكستان (PK), federal government, Constitution of the United States, U.S. Constitution - Article I / Resources / Constitution Annotated / Congress.gov / Library of Congress, U.S. Constitution - Article II / Resources / Constitution Annotated / Congress.gov / Library of Congress, U.S. Constitution - Article III / Resources / Constitution Annotated / Congress.gov / Library of Congress, U.S. Constitution - Article IV / Resources / Constitution Annotated / Congress.gov / Library of Congress, U.S. Constitution - Article V / Resources / Constitution Annotated / Congress.gov / Library of Congress, U.S. Constitution - Article VI / Resources / Constitution Annotated / Congress.gov / Library of Congress, U.S. Constitution - Article VII / Resources / Constitution Annotated / Congress.gov / Library of Congress, Supreme Court of the United States (SCOTUS), US Courts, Federal Reserve, Federal Reserve Board - Federal Reserve Act, U.S. Department of the Treasury, Supreme Court of the United States (SCOTUS), US Courts, Department of Justice (DOJ), Federal Bureau of Investigation (FBI), Congress, Senate, House of Representatives, President of the United States (POTUS), White House (WH), Trump autocracy, Donald J Trump, President Donald Trump (45), President Donald Trump (47), President Trump (47) Administration, President Trump (47) Cabinet, press secretary, Karoline Leavitt, Marco Rubio - United States Department of State, Marco Rubio, grifter, self-dealing, corruption, con artist, crime, cryptocurrency, criminal associates, criminal businesses, criminal media, criminal organizations, criminal partners, Jair Bolsonaro, Brazil, coup d’état, insurrection, January 6 2021, assassination, political rivals, conviction, sentenced, prison]
+categories: [Donald Trump, January 6 2021, Jair Bolsonaro, insurrection, guilty, prison]
 date: 2025-09-12 20:03
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: 'title'
+title: "Brazil Proves Criminal Politicians Can Be Held Accountable. America? No!"
 ---
+
+- [Federal: 2020 Election Interference, January 6 Insurrection]({% link January6DocumentDocumentLinks.md %}). @RalphHightower
 
 ## [Bolsonaro’s conviction in Brazil proves that former presidents can be held accountable](https://www.msnbc.com/rachel-maddow-show/maddowblog/bolsonaros-conviction-brazil-proves-former-presidents-can-held-account-rcna230888)
 
@@ -60,6 +62,7 @@ This post updates our [related earlier coverage](https://www.msnbc.com/rachel-ma
 - [New York Times (NYT)](https://www.nytimes.com/)
 - [Reuters](https://www.reuters.com/)
 - [Washington Post](https://www.washingtonpost.com/)
+- [Federal: 2020 Election Interference, January 6 Insurrection]({% link January6DocumentDocumentLinks.md %}). @RalphHightower
 - organizations
 - political parties
 - [Democrat Party](https://www.democrats.org/)
@@ -74,6 +77,11 @@ This post updates our [related earlier coverage](https://www.msnbc.com/rachel-ma
 - [Inicio / Argentina.gob.ar (AR)](https://www.argentina.gob.ar/)
 - [Startseite von oesterreich.gv.at (AT)](https://www.oesterreich.gv.at/)
 - [Braxil – GOV.BR (BR)](https://www.gov.br/)
+    - Jair Bolsonaro
+    - [Página Principal / Portal STF](https://portal.stf.jus.br/)
+        - [Advocacia-Geral da União](https://www.gov.br//orgaos/advocacia-geral-da-uniao)
+    - [Supremo Tribunal Federal](https://www.gov.br//orgaos/supremo-tribunal-federal)
+    - [Página Inicial — Planalto](https://www.gov.br/planalto/)
 - [Página Inicial — Planalto (BR)](https://www.gov.br/planalto/pt-br)
 - [Die Bundesregierung informiert / Startseite (DE)](https://www.bundesregierung.de/breg-de)
 - [Site officiel du Gouvernement / info.gouv.fr (FR)](https://www.info.gouv.fr/)
@@ -140,5 +148,3 @@ This post updates our [related earlier coverage](https://www.msnbc.com/rachel-ma
 - conviction 
 - sentenced 
 - prison 
-
-

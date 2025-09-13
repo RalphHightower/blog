@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [media, MSNBC, organizations, political parties, Democrat Party, Trumpian Party, universities, companies, foreign governments, GOV.BR, Jair Bolsonaro, Página Principal / Portal STF, Advocacia-Geral da União, Supremo Tribunal Federal, Página Inicial — Planalto, federal government, Constitution of the United States, U.S. Constitution - Article I / Resources / Constitution Annotated / Congress.gov / Library of Congress, U.S. Constitution - Article II / Resources / Constitution Annotated / Congress.gov / Library of Congress, U.S. Constitution - Article III / Resources / Constitution Annotated / Congress.gov / Library of Congress, U.S. Constitution - Article IV / Resources / Constitution Annotated / Congress.gov / Library of Congress, U.S. Constitution - Article V / Resources / Constitution Annotated / Congress.gov / Library of Congress, U.S. Constitution - Article VI / Resources / Constitution Annotated / Congress.gov / Library of Congress, U.S. Constitution - Article VII / Resources / Constitution Annotated / Congress.gov / Library of Congress, Supreme Court of the United States (SCOTUS), US Courts, Federal Reserve, Federal Reserve Board - Federal Reserve Act, U.S. Department of the Treasury, Supreme Court of the United States (SCOTUS), US Courts, Department of Defense (DOD), Joint Chiefs of Staff (JCS), U.S. Africa Command (AFRICOM), U.S. Central Command (CENTCOM), U.S. Northern Command (USNORTHCOM), Indo-Pacific Command (USINDOPACOM), U.S. Southern Command (SOUTHCOM), U.S. Special Operations Command (USSOCOM), Strategic Command (USSTRATCOM), U.S. European Command (USEUCOM), U.S. Military Academy West Point, U.S. Air Force, U.S. Army, U.S. Army’s 250th Birthday Celebration, U.S. Coast Guard (USCG), U.S. Marine Corps, National Guard, U.S. Navy, National Guard, U.S. Space Command, Department of Justice (DOJ), Federal Bureau of Investigation (FBI), Congress, Senate, House of Representatives, President of the United States (POTUS), White House (WH), Trump autocracy, Donald J Trump, President Donald Trump (45), President Donald Trump (47), President Trump (47) Administration, President Trump (47) Cabinet, press secretary, Karoline Leavitt, grifter, self-dealing, corruption, con artist, crime, cryptocurrency, criminal associates, criminal businesses, criminal media, criminal partners, Jair Bolsonaro, attempted coup d’état, poison attempt on incoming president & vice president, threaten Brazil, trade tariffs, military invasion]
+tags: [media, MSNBC, Federal –  2020 Election Interference January 6 Insurrection. @RalphHightower, Brazil’s former President Jair Bolsonaro convicted of plotting coup sentenced to over 27 years in prison / CNN. 9/11/2025. By Julia Vargas Jones Michael Rios, organizations, political parties, Democrat Party, Trumpian Party, universities, companies, foreign governments, Brazil – GOV.BR, Jair Bolsonaro, Página Principal / Portal STF, Advocacia-Geral da União, Supremo Tribunal Federal, Página Inicial — Planalto, federal government, Constitution of the United States, U.S. Constitution - Article I / Resources / Constitution Annotated / Congress.gov / Library of Congress, U.S. Constitution - Article II / Resources / Constitution Annotated / Congress.gov / Library of Congress, U.S. Constitution - Article III / Resources / Constitution Annotated / Congress.gov / Library of Congress, U.S. Constitution - Article IV / Resources / Constitution Annotated / Congress.gov / Library of Congress, U.S. Constitution - Article V / Resources / Constitution Annotated / Congress.gov / Library of Congress, U.S. Constitution - Article VI / Resources / Constitution Annotated / Congress.gov / Library of Congress, U.S. Constitution - Article VII / Resources / Constitution Annotated / Congress.gov / Library of Congress, Supreme Court of the United States (SCOTUS), US Courts, Federal Reserve, Federal Reserve Board - Federal Reserve Act, U.S. Department of the Treasury, Supreme Court of the United States (SCOTUS), US Courts, Department of Defense (DOD), Joint Chiefs of Staff (JCS), U.S. Africa Command (AFRICOM), U.S. Central Command (CENTCOM), U.S. Northern Command (USNORTHCOM), Indo-Pacific Command (USINDOPACOM), U.S. Southern Command (SOUTHCOM), U.S. Special Operations Command (USSOCOM), Strategic Command (USSTRATCOM), U.S. European Command (USEUCOM), U.S. Military Academy West Point, U.S. Air Force, U.S. Army, U.S. Army’s 250th Birthday Celebration, U.S. Coast Guard (USCG), U.S. Marine Corps, National Guard, U.S. Navy, National Guard, U.S. Space Command, Department of Justice (DOJ), Federal Bureau of Investigation (FBI), Congress, Senate, House of Representatives, President of the United States (POTUS), White House (WH), Trump autocracy, Donald J Trump, President Donald Trump (45), President Donald Trump (47), President Trump (47) Administration, President Trump (47) Cabinet, press secretary, Karoline Leavitt, grifter, self-dealing, corruption, con artist, crime, cryptocurrency, criminal associates, criminal businesses, criminal media, criminal partners, Jair Bolsonaro, attempted coup d’état, poison attempt on incoming president & vice president, threaten Brazil, trade tariffs, military invasion]
 categories: [Donald Trump, Karoline Leavitt, Jair Bolsonaro, attempted coup d'état of Brazil, military invasion]
 date: 2025-09-11 6:20 PM
 excerpt: '“I don’t have any additional actions to preview for today, but I can tell you this is a priority for the administration and the president is unafraid to use the economic might, the military might, of the United States to protect free speech around the world” – Karoline Leavitt,  Trump 2.0 press secretary. '
@@ -10,7 +10,7 @@ excerpt: '“I don’t have any additional actions to preview for today, but I c
 title: "Bless Her Heart: Karoline Leavitt Threatens Brazil With America's Military Might If They Don't Free Jair Bolsonaro, Former Brazilian President That Attempted a January 6 Style of Insurrection"
 ---
 
-
+- [Federal: 2020 Election Interference, January 6 Insurrection]({% link January6DocumentDocumentLinks.md %}). @RalphHightower
 - [Brazil’s former President Jair Bolsonaro convicted of plotting coup, sentenced to over 27 years in prison / CNN](https://www.cnn.com/2025/09/11/americas/brazil-jair-bolsonaro-coup-trial-verdict-latam-intl). 9/11/2025. By Julia Vargas Jones, Michael Rios
 
 ## [Karoline Leavitt floats threats of ‘military might’ over Bolsonaro coup trial](https://www.msnbc.com/top-stories/latest/trump-bolsonaro-trial-brazil-military-might-rcna230388)
@@ -42,6 +42,11 @@ Ja’han Jones is an [MSNBC](https://www.msnbc.com/) opinion blogger. He previou
 ----
 - media
 - [MSNBC](https://www.msnbc.com/)
+    - Ja’han Jones
+        - “Black Hair Defined”
+        - “Black Obituary Project”
+- [Federal: 2020 Election Interference, January 6 Insurrection]({% link January6DocumentDocumentLinks.md %}). @RalphHightower
+- [Brazil’s former President Jair Bolsonaro convicted of plotting coup, sentenced to over 27 years in prison / CNN](https://www.cnn.com/2025/09/11/americas/brazil-jair-bolsonaro-coup-trial-verdict-latam-intl). 9/11/2025. By Julia Vargas Jones, Michael Rios
 - organizations
 - political parties
 - [Democrat Party](https://www.democrats.org/)
@@ -116,9 +121,18 @@ Ja’han Jones is an [MSNBC](https://www.msnbc.com/) opinion blogger. He previou
 - criminal businesses
 - criminal media
 - criminal partners
-- Jair Bolsonaro
+- Brazil 
+- coup d'état
+- insurrection
+- January 6 2021 
     - attempted coup d'état
     - poison attempt on incoming president & vice president
 - threaten Brazil
     - trade tariffs
     - military invasion
+- Jair Bolsonaro
+    - assassination 
+    - political rivals 
+    - conviction 
+    - sentenced 
+    - prison 
