@@ -20,7 +20,7 @@ title: "Trump: Air Force One Frequent Flyer Miles"
 |---|---|
 | | 🔥 [White House](https://www.whitehouse.gov/) 💣| 
 | | **Sunday, September 14 2925** |
-| ⛳️🏌‍♂️| The [President](https://www.donaldjtrump.com/) ~~has no public events scheduled~~ (other than playing golf ⛳️🏌) | Out-of-Town Travel Pool |
+| ⛳️🏌‍♂️| The [President](https://www.donaldjtrump.com/) ~~has no public events scheduled~~ (other than playing golf ⛳️🏌)<br />Out-of-Town Travel Pool |
 | 10:00 AM ⛳️| Out-of-Town Travel Pool Call Time<br />Out-of-Town Travel Pool |
 | 3:00 PM ⛳️| Out-of-Town Travel Pool Call Time<br />Out-of-Town Travel Pool |
 | 5:20 PM ⛳️| The [President](https://www.donaldjtrump.com/) departs [Trump National Golf Club Bedminster](https://www.trumpnationalbedminster.com/), en route The [White House](https://www.whitehouse.gov/)<br />Out-of-Town Travel Pool |
