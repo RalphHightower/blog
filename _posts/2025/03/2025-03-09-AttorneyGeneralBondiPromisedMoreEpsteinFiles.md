@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [media, MSNBC, Ja’han Jones, ABC News, Variety - Entertainment news film reviews awards film festivals box office entertainment industry conferences, Poynter - Poynter, Homepage / Them, Mediaite.com / Media & Politics News / TV Print Online, Newsweek - News Analysis Politics Business Technology, The Hill - covering Congress Politics Political Campaigns and Capitol Hill, Semafor - An intelligent transparent global news platform for breaking stories analysis and video, organizations, political parties, universities, foreign governments, state localgovernments, federal government, Constitution of the United States, Article I – Legislative Branch, Article II – Executive Branch, Article III – Judicial Branch, Article IV – Relationships Between the States, Article V – Amending the Constitution, Article VI – Prior Debts National Supremacy Clause and Oaths of Office, Article VII – Ratification, Alien Enemies Act, US Courts, Department of Justice, New York Southern District, Criminal Division / Public Integrity Section (PIN) / United States Department of Justice, Congress, Senate, House of Representatives, President of the United States (POTUS), White House (WH), Trump crime family, Donald J Trump, President Donald Trump (45), President Donald Trump (47), President Donald Trump (47) Administration, President Donald Trump (47) Cabinet, Pam Bondi, grift, self-dealing, corruption, con, crime, cryptocurrency, criminal businesses, Liars Club, Faux News, criminal associates, Laura Loomer, , Steve Bannon, human trafficking, sex trafficking]
+tags: [media, MSNBC, Ja’han Jones, ABC News, Variety - Entertainment news film reviews awards film festivals box office entertainment industry conferences, Poynter - Poynter, Homepage / Them, Mediaite.com / Media & Politics News / TV Print Online, Newsweek - News Analysis Politics Business Technology, The Hill - covering Congress Politics Political Campaigns and Capitol Hill, Semafor - An intelligent transparent global news platform for breaking stories analysis and video, organizations, political parties, universities, foreign governments, state localgovernments, federal government, Constitution of the United States, Article I – Legislative Branch, Article II – Executive Branch, Article III – Judicial Branch, Article IV – Relationships Between the States, Article V – Amending the Constitution, Article VI – Prior Debts National Supremacy Clause and Oaths of Office, Article VII – Ratification, Alien Enemies Act, US Courts, Department of Justice, New York Southern District, Criminal Division / Public Integrity Section (PIN) / United States Department of Justice, Congress, Senate, House of Representatives, President of the United States (POTUS), White House (WH), Trump crime family, Donald J Trump, President Donald Trump (45), President Donald Trump (47), President Donald Trump (47) Administration, President Donald Trump (47) Cabinet, Pam Bondi, grift, self-dealing, corruption, con, crime, cryptocurrency, criminal businesses, Liars Club, Faux News, criminal associates, Laura Loomer, Steve Bannon, human trafficking, sex trafficking]
 categories: [Jeffrey Epstein, Ghislaine Maxwell, Trump Crime Family, Donald Trump]
 date: 2025-03-07 3:48 PM
 excerpt: ''
@@ -44,6 +44,56 @@ Ja’han Jones is an [MSNBC](https://www.msnbc.com/) opinion blogger. He previou
 - [Variety - Entertainment news, film reviews, awards, film festivals, box office, entertainment industry conferences](https://variety.com/)
 - [Poynter - Poynter](https://www.poynter.org/)
 - [Homepage / Them](https://www.them.us/)
+- [Mediaite.com / Media & Politics News / TV, Print, Online](https://www.mediaite.com/)
+- [Newsweek - News, Analysis, Politics, Business, Technology](https://www.newsweek.com/)
+- [The Hill - covering Congress, Politics, Political Campaigns and Capitol Hill](https://thehill.com/)
+- [Semafor - An intelligent, transparent global news platform for breaking stories, analysis and video](https://www.semafor.com/)
+- organizations 
+- political parties 
+- universities 
+- foreign governments 
+- state, localgovernments
+- federal government 
+- [Constitution of the United States](https://constitution.congress.gov/constitution/)
+- [Article I – Legislative Branch](https://constitution.congress.gov/constitution/article-1/)
+- [Article II – Executive Branch](https://constitution.congress.gov/constitution/article-2/)
+- [Article III – Judicial Branch](https://constitution.congress.gov/constitution/article-3/)
+- [Article IV – Relationships Between the States](https://constitution.congress.gov/constitution/article-4/)
+- [Article V – Amending the Constitution](https://constitution.congress.gov/constitution/article-5/)
+- [Article VI – Prior Debts, National Supremacy Clause, and Oaths of Office](https://constitution.congress.gov/constitution/article-6/)
+- [Article VII – Ratification](https://constitution.congress.gov/constitution/article-7/)
+- [Alien Enemies Act](https://www.archives.gov/milestone-documents/alien-and-sedition-acts)
+- [US Courts](https://www.uscourts.gov/)
+- [Department of Justice](https://www.justice.gov/)
+    - [New York, Southern District](https://www.justice.gov/usao-sdny)
+    - [Criminal Division / Public Integrity Section (PIN) / United States Department of Justice](https://www.justice.gov/criminal/criminal-pin)
+- [Congress](https://www.congress.gov/)
+- [Senate](https://www.senate.gov/)
+- [House of Representatives](https://www.house.gov/)
+- [President of the United States (POTUS)](https://www.whitehouse.gov/)
+- [White House (WH)](https://www.whitehouse.gov/)
+- Trump crime family 
+    - [Donald J Trump](https://www.donaldjtrump.com/)
+    - [President Donald Trump (45)](https://trumpwhitehouse.archives.gov/)
+    - [President Donald Trump (47)](https://www.whitehouse.gov/administration/donald-j-trump/)
+        - [President Donald Trump (47) Administration](https://www.whitehouse.gov/administration/)
+            - [President Donald Trump (47) Cabinet](https://www.whitehouse.gov/administration/the-cabinet/)
+                - [Pam Bondi](https://www.justice.gov/ag/staff-profile/meet-attorney-general)
+- grift
+- self-dealing
+- corruption
+- con
+- crime
+- cryptocurrency 
+- criminal businesses
+    - [Liars Club](https://truthsocial.com/)
+    - [Faux News](https://www.foxnews.com/)
+- criminal associates
+    - [Laura Loomer](https://loomered.com/)
+- criminal partners
+- Steve Bannon 
+- human trafficking 
+- sex trafficking 
 - [Mediaite.com / Media & Politics News / TV, Print, Online](https://www.mediaite.com/)
 - [Newsweek - News, Analysis, Politics, Business, Technology](https://www.newsweek.com/)
 - [The Hill - covering Congress, Politics, Political Campaigns and Capitol Hill](https://thehill.com/)
