@@ -24,7 +24,7 @@ With calls to release the files from across the political spectrum growing loude
 
 > *If Epstein’s victims also name names, they could quickly find themselves defendants in defamation suits, too.*
 
-With the [House](https://www.justice.gov/) back in session, [Democrat](https://www.democrats.org/)ic [Rep.](https://www.house.gov/) [Ro Khanna (D-CA17)](https://khanna.house.gov/) and [Republican](https://www.gop.com/) [Rep.](https://www.house.gov/) [Thomas Massie (T-KY4)](https://massie.house.gov/) are gathering signatures for a [“discharge petition”](https://abcnews.go.com/Politics/trump-calls-epstein-files-irrelevant-push-release-gains/story?id=125225706) that would enable the resolution to come up for a vote, and they are close to [securing the number of signatures necessary for it to pass in the House.](https://thehill.com/homenews/house/5487779-epstein-discharge-petition-incoming-democrats/). Though the [White House](https://www.whitehouse.gov/) said that supporting this effort would be [deemed a “hostile act,”](https://www.cnn.com/2025/09/03/politics/transparency-epstein-trump-[administration](https://www.whitehouse.gov/administration/)) [several [Republicans, including Greene, have signed the petition.](https://www.newsweek.com/jeffrey-epstein-files-republicans-2123569), have signed the petition.
+With the [House](https://www.justice.gov/) back in session, [Democrat](https://www.democrats.org/)ic [Rep.](https://www.house.gov/) [Ro Khanna (D-CA17)](https://khanna.house.gov/) and [Republican](https://www.gop.com/) [Rep.](https://www.house.gov/) [Thomas Massie (T-KY4)](https://massie.house.gov/) are gathering signatures for a [“discharge petition”](https://abcnews.go.com/Politics/trump-calls-epstein-files-irrelevant-push-release-gains/story?id=125225706) that would enable the resolution to come up for a vote, and they are close to [securing the number of signatures necessary for it to pass in the House.](https://thehill.com/homenews/house/5487779-epstein-discharge-petition-incoming-democrats/). Though the [White House](https://www.whitehouse.gov/) said that supporting this effort would be [deemed a “hostile act,”](https://www.cnn.com/2025/09/03/politics/transparency-epstein-trump-administration) [several [Republicans, including Greene, have signed the petition.](https://www.newsweek.com/jeffrey-epstein-files-republicans-2123569), have signed the petition.
 
 In the face of this stonewalling and threats, the survivors are speaking up more than ever. At a news conference held by dozens of survivors last week, survivor Lisa Phillips said they would be [compiling the so-called Epstein client list](https://www.nbcwashington.com/news/national-international/trump-[administration](https://www.whitehouse.gov/administration/)-immigration-epstein-congress-september-3-2025-live-updates/3983272/). But, [she added](https://www.snopes.com/fact-check/epstein-survivors-list/), “We’re not quite sure, you know, how we’re going to release that or even if we’re going to.” That caution reflects the fact that sharing a list with the public could prove hazardous for the survivors. They already face [threats and intimidation](https://www.theguardian.com/commentisfree/2025/sep/06/epstein-files-rape-crime-trump) and releasing a client list carries the risk of [legal action against them](https://www.washingtonpost.com/politics/2025/09/03/house-epstein-files-victims-news-conference/), including claims of defamation.
 
@@ -102,13 +102,13 @@ The fact that immunity for members of [Congress](https://www.congress.gov/) may 
         - [President Donald Trump (47)](https://www.whitehouse.gov/administration/donald-j-trump/)
             - [President Trump (47) Administration](https://www.whitehouse.gov/administration/)
             - [President Trump (47) Cabinet](https://www.whitehouse.gov/administration/the-cabinet/)
-            - [JD Vance](https://www.linkedin.com/in/jd-vance-770a9047/)
-            - [Vice President JD Vance](https://www.whitehouse.gov/administration/jd-vance/)
-            - [Pam Bondi](https://www.justice.gov/ag/staff-profile/meet-attorney-general)
-                - [Office of the Deputy Attorney General / Office of the Deputy Attorney General](https://www.justice.gov/dag)
-                - [Todd Blanche / LinkedIn](https://www.linkedin.com/in/toddblanche/)
-            - [Kash Patel](https://www.fbi.gov/about/leadership-and-structure/director-patel)
-                - [Deputy Director Dan Bongino — FBI](https://www.fbi.gov/about/leadership-and-structure/deputy-director-dan-bongino)
+                - [JD Vance](https://www.linkedin.com/in/jd-vance-770a9047/)
+                - [Vice President JD Vance](https://www.whitehouse.gov/administration/jd-vance/)
+                - [Pam Bondi](https://www.justice.gov/ag/staff-profile/meet-attorney-general)
+                    - [Office of the Deputy Attorney General / Office of the Deputy Attorney General](https://www.justice.gov/dag)
+                    - [Todd Blanche / LinkedIn](https://www.linkedin.com/in/toddblanche/)
+                - [Kash Patel](https://www.fbi.gov/about/leadership-and-structure/director-patel)
+                    - [Deputy Director Dan Bongino — FBI](https://www.fbi.gov/about/leadership-and-structure/deputy-director-dan-bongino)
 - tariffs
 - politics
 - stupidity
