@@ -114,7 +114,7 @@ Already this year [he](https://www.whitehouse.gov/administration/donald-j-trump/
 - [The Scottish Government - gov.scot](https://www.gov.scot/)
 - [Trump Turnberry](https://www.turnberry.co.uk/)
 - [President Joe Biden](https://bidenwhitehouse.archives.gov/)
-- [President Barack Obama](obamawhitehouse.archives.gov/)
+- [President Barack Obama](https://obamawhitehouse.archives.gov/)
 - [Department of Education (ED)](https://www.ed.gov/)
 - [Federal Aviation Administration (FAA)](https://www.faa.gov/)
 - [Miami International Airport - (MIA)](https://miami-airport.com/)
