@@ -49,25 +49,25 @@ Most recently, a [Justice Department](https://www.justice.gov/) whistleblower ha
 
 In the most explosive allegation, [Reuveni](https://www.linkedin.com/in/erez-reuveni-5b796b18/) reported that [Bove](https://www.linkedin.com/in/emil-bove-0113347/) said that if they were confronted with a court order to halt the deportations, they would need to consider telling the court “fuck you” and continuing anyway — which is exactly what happened. During an emergency hearing as the flights were about to take off, [Chief U.S. District Judge Boasberg](https://www.dcd.uscourts.gov/content/chief-judge-james-e-boasberg) of the [District of Columbia](https://www.dcd.uscourts.gov/) ordered that the deportations be halted and that any planes already on their way be ordered to turn back. The government defied that order, the planes landed, and the immigrants were sent to the supermax prison. During his confirmation hearing, [Bove denied](https://www.nytimes.com/2025/06/25/us/politics/emil-bove-confirmation.html) advocating defiance of the courts and claimed he could not recall using vulgar language, [but emails](https://www.justsecurity.org/116777/bove-criminal-contempt-boasberg/) strongly corroborate [Reuveni](https://www.linkedin.com/in/erez-reuveni-5b796b18/)’s description.
 
-When [Trump](https://www.donaldjtrump.com/) nominated [Bove](https://www.linkedin.com/in/emil-bove-0113347/), [the president said](https://truthsocial.com/@realDonaldTrump](https://www.donaldjtrump.com/)/posts/114587010981213926) said [Bove](https://www.linkedin.com/in/emil-bove-0113347/) would “do anything else that is necessary to, MAKE AMERICA GREAT AGAIN.” That is not a qualification for prosecutors or federal judges, who should do everything they can to uphold the [Constitution](https://constitution.congress.gov/) and act with integrity and candor consistent with legal ethics, even if it conflicts with a political agenda. Violating these principles is bad enough, but trying to coerce other attorneys of integrity to do so for your own political gain, as Bove has, is unforgivable.
+When [Trump](https://www.donaldjtrump.com/) nominated [Bove](https://www.linkedin.com/in/emil-bove-0113347/), [the president said](https://truthsocial.com/@realDonaldTrump](https://www.donaldjtrump.com/)/posts/114587010981213926) said [Bove](https://www.linkedin.com/in/emil-bove-0113347/) would “do anything else that is necessary to, MAKE AMERICA GREAT AGAIN.” That is not a qualification for prosecutors or federal judges, who should do everything they can to uphold the [Constitution](https://constitution.congress.gov/constitution/) and act with integrity and candor consistent with legal ethics, even if it conflicts with a political agenda. Violating these principles is bad enough, but trying to coerce other attorneys of integrity to do so for your own political gain, as Bove has, is unforgivable.
 
-Miriam E. Rocah is the former Westchester County (N.Y.) District Attorney, and former AUSA and Chief SDNY.  
+Miriam E. Rocah is the former Westchester County (N.Y.) District Attorney, and former AUSA and Chief SDNY.
 
 - media
 - [MSNBC](https://www.msnbc.com/)
     - Miriam E. Rocah
-- people 
+- people
 - [Erez Reuveni / LinkedIn](https://www.linkedin.com/in/erez-reuveni-5b796b18/)
-foreign governments 
+foreign governments
 - [El Salvador (SV)](https://www.gob.sv/)
 - [Venezuelan (VE)](https://gob.ve/)
     - [Web del M.P.P.D.P.S.G.G. (PRINCIPAL)](https://presidencia.gob.ve/Site/Web/Principal/paginas/classIndex.php)
     - [Nicolás Maduro Moros](https://presidencia.gob.ve/Site/Web/Principal/paginas/classPresidente.php)
-- state, local governments 
+- state, local governments
 - [New York City (NYC)](https://www.nyv.gov/), [New York](https://www.ny.gov/)
     - [Eric Adams – Mayor | Overview | City of New York](https://www.nyc.gov/office-of-the-mayor/index.page)
-- federal government 
-- [Constitution of the United States](https://constitution.congress.gov/)
+- federal government
+- [Constitution of the United States](https://constitution.congress.gov/constitution/)
 - [Article I – Legislative Branch](https://constitution.congress.gov/constitution/article-1/)
 - [Article II – Executive Branch](https://constitution.congress.gov/constitution/article-2/)
 - [Article III – Judicial Branch](https://constitution.congress.gov/constitution/article-3/)
@@ -91,7 +91,7 @@ foreign governments
 - [House of Representatives](https://www.house.gov/)
 - [President of the United States (POTUS)](https://www.whitehouse.gov/)
 - [White House (WH)](https://www.whitehouse.gov/)
-- Trump crime family 
+- Trump crime family
     - [Donald J Trump](https://www.donaldjtrump.com/)
     - [President Donald Trump (45)](https://trumpwhitehouse.archives.gov/)
     - [President Donald Trump (47)](https://www.whitehouse.gov/administration/donald-j-trump/)

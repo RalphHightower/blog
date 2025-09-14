@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [media, MSNBC, James Downie, Wall Street Journal, organizations, universities, political parties, Democrat Party, Trumpian Party, foreign countries, federal government, Constitution of the United States, Supreme Court of the United States (SCOTUS), Federal Bureau of Investigation (FBI), James Comey, Congress, Senate, House of Representatives, House Judiciary Committee Republicans /, Jamie Raskin (D-MD8), President of the United States (POTUS), White House (WH), Donald J Trump, President Donald Trump (45), President Donald Trump (47), President Trump (47) Administration, President Trump (47) Cabinet, Pam Bondi, Kash Patel, Deputy Director Dan Bongino — FBI, grift, self-dealing, corruption, con, crime, cryptocurrency, criminal businesses, Liars Club, criminal associates, crime partners, human trafficking, sex trafficking]
+tags: [media, MSNBC, James Downie, Wall Street Journal, organizations, universities, political parties, Democrat Party, Trumpian Party, foreign countries, federal government, Constitution of the United States, Supreme Court of the United States (SCOTUS), Federal Bureau of Investigation (FBI), James Comey, Congress, Senate, House of Representatives, House Judiciary Committee Republicans, Jamie Raskin (D-MD8), President of the United States (POTUS), White House (WH), Donald J Trump, President Donald Trump (45), President Donald Trump (47), President Trump (47) Administration, President Trump (47) Cabinet, Pam Bondi, Kash Patel, Deputy Director Dan Bongino — FBI, grift, self-dealing, corruption, con, crime, cryptocurrency, criminal businesses, Liars Club, criminal associates, crime partners, human trafficking, sex trafficking]
 categories: [Jeffrey Epstein, Ghislaine Maxwell, Trump Crime Family, Donald Trump]
 date: 2025-07-18 10:35 AM
 excerpt: ''
@@ -63,8 +63,13 @@ James Downie is a writer and editor for [MSNBC](https://www.msnbc.com/) Daily. H
     - [Congress](https://www.congress.gov/)
     - [Senate](https://www.senate.gov/)
     - [House of Representatives](https://www.house.gov/)
-        - [House Judiciary Committee Republicans /](http://judiciary.house.gov/)
+            - [Ro Khanna (D-CA17)](https://khanna.house.gov/)
+            - [Thomas Massie (T-KY4)](https://massie.house.gov/)
+        - [Oversight Committee](https://oversight.house.gov/)
+            - [Mike Johnson (T-LA4)](https://mikejohnson.house.gov/)
+                - [House](https://www.house.gov/) [Speaker](https://www.speaker.gov/) 
         - [Jamie Raskin (D-MD8)](https://raskin.house.gov/)
+        - [House Judiciary Committee Republicans /](http://judiciary.house.gov/)
     - [President of the United States (POTUS)](https://www.whitehouse.gov/)
     - [White House (WH)](https://www.whitehouse.gov/)
     - [Donald J Trump](https://www.donaldjtrump.com/)

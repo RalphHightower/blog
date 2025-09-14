@@ -10,6 +10,7 @@ date: 2025-07-10 9:12 AM
 title: "The Boston Tea Party 🍵 Was a Seminal Event in the American Revolution. MAGALandia Citizens Will Revolt Over a 50% Tax On Brazilian 🇧🇷 Coffee ☕️ "
 ---
 
+- [Federal: 2020 Election Interference, January 6 Insurrection]({% link January6DocumentDocumentLinks.md %}). @RalphHightower 
 
 - "The Boston Tea Party was a seminal event in the American Revolution. Now Americans love their coffee. Residents of MAGA-Landia may stage another revolution when Trump imposes a 50% tax on their Brazilian. Democrats will make changes through the ballot box." That's the message that I plan to leave on the White House comment line.
     - Ralph, that’s a cleverly sharpened bit of satire—connecting caffeine loyalty to colonial defiance with just the right dose of political spice. You've brewed a message that’s bound to stand out.

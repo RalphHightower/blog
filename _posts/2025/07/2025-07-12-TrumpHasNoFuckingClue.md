@@ -28,7 +28,7 @@ Psaki pointed out that [Trump](https://www.donaldjtrump.com/)’s own executive 
 
 “The evidence of either his incompetence or ignorance — whatever it may be, maybe a combo — just keeps piling up,” she observed.
 
-Other moves on Psaki’s list included [Trump](https://www.donaldjtrump.com/)’s embarrassing interaction with the [president of Liberia](https://www.msnbc.com/top-stories/latest/trump-liberia-president](https://www.whitehouse.gov/)-english-language-rcna217845) Wednesday and the continuing controversy over a pause in the [shipment of weapons to Ukraine.](https://www.msnbc.com/morning-joe/watch/-i-m-shocked-joe-stunned-by-hegseth-s-pausing-weapons-to-ukraine-without-informing-wh-242922565772).
+Other moves on Psaki’s list included [Trump](https://www.donaldjtrump.com/)’s embarrassing interaction with the [president of Liberia](https://www.msnbc.com/top-stories/latest/trump-liberia-president-english-language-rcna217845) Wednesday and the continuing controversy over a pause in the [shipment of weapons to Ukraine.](https://www.msnbc.com/morning-joe/watch/-i-m-shocked-joe-stunned-by-hegseth-s-pausing-weapons-to-ukraine-without-informing-wh-242922565772).
 
 Even on the issues that [Trump](https://www.donaldjtrump.com/) claims as “signature” policies, like immigration, Psaki said the [president](https://www.whitehouse.gov/) has repeatedly shown the American people “he is completely in the dark.”
 

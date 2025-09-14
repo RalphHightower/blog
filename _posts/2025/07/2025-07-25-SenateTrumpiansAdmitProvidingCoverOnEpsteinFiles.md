@@ -30,7 +30,7 @@ In other words, [Gallego](https://www.gallego.senate.gov/) rejected a narrow and
 
 As part of the back and forth, however, [Mullin](https://www.mullin.senate.gov/) made an off-hand comment that stood out.
 
-“I’m sure this would be handled just like any other thing \[the [Democrats](https://www.democrats.org/)] have tried to go after like the baseless impeachments. Or the baseless special counsels. Or the unbelievable amount of charges they tried to file against the [president](https://www.whitehouse.gov/),” [Mullin said](https://www.nbcnews.com/politics/politics-news/lawmakers-leave-washington-democrats-epstein-recess-politics-desk-rcna220944). “I’m sure this would be handled the exact same way. What we’re simply wanting to do here is give [[Trump](https://www.donaldjtrump.com/)] cover.”
+“I’m sure this would be handled just like any other thing the [Democrats](https://www.democrats.org/) have tried to go after like the baseless impeachments. Or the baseless special counsels. Or the unbelievable amount of charges they tried to file against the [president](https://www.whitehouse.gov/),” [Mullin said](https://www.nbcnews.com/politics/politics-news/lawmakers-leave-washington-democrats-epstein-recess-politics-desk-rcna220944). “I’m sure this would be handled the exact same way. What we’re simply wanting to do here is give [Trump](https://www.donaldjtrump.com/) cover.”
 
 For now, let’s not dwell on the fact that [Trump](https://www.donaldjtrump.com/)’s impeachments weren’t “baseless.” Let’s also skip past the fact that the incumbent [Republican](https://www.gop.com/) [president](https://www.whitehouse.gov/) faced investigations from two special counsels — Robert Mueller and Jack Smith — and neither was “baseless.”
 
