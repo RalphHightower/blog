@@ -18,7 +18,7 @@ Story by Thom Hartmann. March 18, 2025.
 
 “Whenever law ends, tyranny begins.” —John Locke
 
-When a president declares an “invasion” to justify shredding the [Constitution](https://constitution.congress.gov/), he’s not defending the nation—he’s declaring war on democracy itself.
+When a president declares an “invasion” to justify shredding the [Constitution](https://constitution.congress.gov/constitution/), he’s not defending the nation—he’s declaring war on democracy itself.
 
 The [United States of America](https://www.usa.gov/) has long been defined by its commitment to the rule of law. For over 240 years, this nation has stood as a beacon of justice, due process, and constitutional order. Yet today, we are witnessing a grotesque and unprecedented assault on those very principles.
 
@@ -52,13 +52,13 @@ Now, with this unprecedented abuse of the [Alien Enemies Act](https://www.archiv
 
 And let’s be clear: this is not just about immigrants.
 
-The moment we allow a president—any president—to declare an “invasion” as a pretext for trampling the [Constitution](https://constitution.congress.gov/), we are all at risk.
+The moment we allow a president—any president—to declare an “invasion” as a pretext for trampling the [Constitution](https://constitution.congress.gov/constitution/), we are all at risk.
 
 If [Trump](https://www.whitehouse.gov/administration/donald-j-trump/) can toss migrants into Guantanamo Bay or El Salvadoran prisons today, what stops him from doing the same to protesters tomorrow? To journalists who expose his corruption? To political rivals he deems a threat?
 
 Once the line is crossed, once we allow the executive branch to function as an unaccountable dictatorship, there is no going back.
 
-The [Trumpian Party](https://www..gop.com/), already complicit in countless abuses of power, must be forced to confront this atrocity. Every [Trumpian](https://www..gop.com/) in the [House](https://www.house.gov/) and [Senate](https://www.senate.gov/) who still believes in the [Constitution](https://constitution.congress.gov/)—if any remain—must rise up and act.
+The [Trumpian Party](https://www..gop.com/), already complicit in countless abuses of power, must be forced to confront this atrocity. Every [Trumpian](https://www..gop.com/) in the [House](https://www.house.gov/) and [Senate](https://www.senate.gov/) who still believes in the [Constitution](https://constitution.congress.gov/constitution/)—if any remain—must rise up and act.
 
 They must demand [Trump's](https://www.whitehouse.gov/administration/donald-j-trump/) impeachment for violating his oath of office, for disregarding judicial authority, and for trampling on the rights enshrined in our nation’s founding documents.
 

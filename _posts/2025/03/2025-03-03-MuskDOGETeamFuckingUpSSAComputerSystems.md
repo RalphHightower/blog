@@ -66,7 +66,7 @@ In October, the [Committee for a Responsible Federal Budget](https://www.crfb.or
 It predicted that the [Social Security](https://Www.ssa.gov/) Board of Trustees would start cutting benefits by 2031 instead of 2034 because the fund that covers the deficit between outlays and revenue would run out of money sooner.
 
 - [Fortune](https://www.fortune.com/)
-- [Associated Press (AP)](https://www.apnews.com/)
+- [Associated Press (AP)](https://apnews.com/)
 - [CNBC](https://www.cnbc.com/)
 - [George Mason University](https://www.gmu.edu/) 
 - [Mercatus Center](https://www.mercatus.org/home)
