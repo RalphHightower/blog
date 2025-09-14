@@ -74,7 +74,7 @@ TO REPRESENTATIVES OF THE MEDIA
 Audience Hall
 Monday, 12 May 2025
 
-[[Multimedia](https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2025/5/12/media.html)]
+[Multimedia](https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2025/5/12/media.html)
 
 ___________________________________
 

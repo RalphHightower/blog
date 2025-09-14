@@ -32,12 +32,12 @@ Both [Patel](https://www.fbi.gov/about/leadership-and-structure/director-patel) 
 
 Now, much like [Attorney General](https://www.justice.gov/) [Pam Bondi](https://www.justice.gov/ag/staff-profile/meet-attorney-general/), [who also has faced backlash over Epstein](https://www.msnbc.com/top-stories/latest/jeffrey-epstein-files-pam-bondi-documents-release-rcna195177), [Patel](https://www.fbi.gov/about/leadership-and-structure/director-patel) and [Bongino](https://www.fbi.gov/about/leadership-and-structure/deputy-director-dan-bongino) appear to be discovering the pitfalls of dealing with rabid conspiracy theorists. Some conservatives have a seemingly insatiable hunger for more details to drop from the case. But two of the figures who’ve been known to throw them red meat in the past don’t seem to have much more to offer at the moment.
 
-Ja’han Jones is an MSNBC opinion blogger. He previously wrote The ReidOut Blog. He is a futurist and multimedia producer focused on culture and politics. His previous projects include “Black Hair Defined” and the “Black Obituary Project.”
+[Ja'han Jones](https://www.msnbc.com/author/jahan-jones-ncpn371241) is an MSNBC opinion blogger. He previously wrote The ReidOut Blog. He is a futurist and multimedia producer focused on culture and politics. His previous projects include “Black Hair Defined” and the “Black Obituary Project.”
 
 ----
 - media
     - [MSNBC](https://www.msnbc.com/)
-        - Ja’han Jones
+        - [Ja'han Jones](https://www.msnbc.com/author/jahan-jones-ncpn371241)
 - organizations 
 - companies
 - foreign countries 
@@ -104,4 +104,3 @@ Ja’han Jones is an MSNBC opinion blogger. He previously wrote The ReidOut Blog
     - pedophile 
         - Jeffrey Epstein 
         - Ghislaine Maxwell
-

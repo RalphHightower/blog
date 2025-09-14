@@ -69,8 +69,8 @@ More information regarding open market operations and reinvestments may be found
 | [Federal Reserve Bank of St. Louis / Economic Resources & Data](https://www.stlouisfed.org/) |
 | [Federal Reserve Bank of San Francisco](https://www.frbsf.org/) |
 
-- [Constitution of the United States](https://constitution.congress.gov/)
-- [Supreme Court of the United States (SCOTUS)](https://constitution.congress.gov/)
+- [Constitution of the United States](https://constitution.congress.gov/constitution/)
+- [Supreme Court of the United States (SCOTUS)](https://constitution.congress.gov/constitution/)
 - [US Courts](https://www.uscourts.gov/)
 - [Federal Reserve Board](https://www.federalreserve.gov/)
 - [Federal Reserve Board - Board Members](https://www.federalreserve.gov/aboutthefed/bios/board/default.htm)

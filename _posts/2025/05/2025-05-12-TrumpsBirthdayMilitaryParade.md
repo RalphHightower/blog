@@ -39,7 +39,6 @@ But this time around, [Trump](https://www.donaldjtrump.com/) seems to be getting
 
 As [Trump](https://www.donaldjtrump.com/) and his [DOGE workers](https://www.doge.gov/) [take a chainsaw](https://www.msnbc.com/jose-diaz-balart/watch/musk-on-stage-with-chainsaw-proud-of-what-he-s-doing-with-cuts-that-impact-americans-232591941743) to agencies that deliver [Social Security](https://www.ssa.gov/), [tax revenue](https://www.irs.gov/) and foreign aid in the name of efficiency, the [president](https://www.whitehouse.gov/)’s view appears to be that the “value” of a display of military supremacy and jingoism, all conducted as he looks on approvingly, is priceless. The vibes will be [far closer to a Russian military parade than a Bastille Day](https://www.vox.com/the-big-idea/2018/2/12/17003600/trump-military-parade-bastille-day-washington) celebration of national unity and democracy — which seems fitting for [Trump](https://www.donaldjtrump.com/)’s imperial presidency.
 
-Zeeshan Aleem
 Zeeshan Aleem is a writer and editor for [MSNBC Daily](https://www.msnbc.com/). Previously, he worked at [Vox](https://www.vox.com/), [HuffPost](https://www.huffpost.com/) and [Politico](https://www.politico.com/), and he has also been published in, among other places, [The New York Times](https://www.nytimes.com/), [The Atlantic](https://www.theatlantic.com/), [The Nation](https://www.thenation.com/), and [The Intercept](https://theintercept.com/). 
 
 - [MSNBC](https://www.msnbc.com/)
@@ -78,7 +77,6 @@ Zeeshan Aleem is a writer and editor for [MSNBC Daily](https://www.msnbc.com/). 
 - [President of the United States (POTUS)](https://www.whitehouse.gov/)
 - [White House (WH)](https://www.whitehouse.gov/)
 - [Donald J Trump](https://www.whitehouse.gov/)
-- [President Donald Trump (45)](https://trumpwhitehouse.archives.gov/)
 - [President Donald Trump (45)](https://trumpwhitehouse.archives.gov/)
 - [President Donald Trump (47)](https://www.whitehouse.gov/)
 - vanity 

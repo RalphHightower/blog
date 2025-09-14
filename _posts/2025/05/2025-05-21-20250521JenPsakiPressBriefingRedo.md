@@ -16,8 +16,8 @@ Jen Psaki was the press secretary for [President Barak Obama](https://obamawhite
 
 A White House press briefing re-do (Jen's version)
 
-May 21, 2025  #[MSNBC](https://www.msnbc.com/) #WhiteHouse #KarolineLeavitt
-Jen Psaki offers her own, more clarifying answers to questions asked of White House Press Secretary Karoline Leavitt at a White House press briefing.
+May 21, 2025  [#MSNBC](https://www.msnbc.com/) [#WhiteHouse](https://www.whitehouse.gov/) #KarolineLeavitt
+Jen Psaki offers her own, more clarifying answers to questions asked of [White House](https://www.whitehouse.gov/) Press Secretary Karoline Leavitt at a [White House](https://www.whitehouse.gov/) press briefing.
 
 For more context and news coverage of the most important stories of our day click here: https://www.msnbc.com/
 
@@ -46,7 +46,7 @@ Subscribe to the [MSNBC](https://www.msnbc.com/) Daily Newsletter: https://link.
 - [Congress](https://www.congress.gov/)
 - [Senate](https://www.senate.gov/)
 - [House of Representatives](https://www.house.gov/)
-- [President of the United States (POTUS)](www.whitehouse.gov/)
+- [President of the United States (POTUS)](https;//www.whitehouse.gov/)
 - [White House (WH)](https://www.whitehouse.gov/)
 - [President Barack Obama](https://obamawhitehouse.archives.gov/)
 - [President Joe Biden](https://bidenwhitehouse.archives.gov/)
