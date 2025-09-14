@@ -105,7 +105,7 @@ What could make [Fisher](https://www.fisherinvestments.com/en-us/about/leadershi
 - [Federal Reserve Board](https://www.federalreserve.gov/)
 - [Federal Reserve Bank of Atlanta](https://www.atlantafed.org/)
 - [GDPNow](https://www.atlantafed.org/cqer/research/gdpnow?d=1&s=qp)
-- [Constitution of the United States](https://constitution.congress.gov/)
+- [Constitution of the United States](https://constitution.congress.gov/constitution/)
 - [Supreme Court of the United States (SCOTUS)](https://www.supremecourt.gov/)
 - [US Courts](https://www.uscourts.gov/)
 - [Congress](https://www.congress.gov/)

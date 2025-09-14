@@ -21,7 +21,7 @@ Kristen Kavanaugh and Mike Randolph, speaking in a [Reuters](https://www.reuters
 “I was scared - of him, of being fired, of being humiliated. I felt like I had too much to lose to speak up, no matter how strongly I disagreed with what I saw from him,” she said. That realization inspired the pair of five-year [Tesla](https://www.tesla.com/) veterans to write their book, they said. 
 
 [Musk](https://ir.tesla.com/corporate/elon-musk)’s management style has always been a lightning rod. His focus on speed and impatience with regulations and protocol allow him to advance technologies at a breakneck pace, from developing new electric cars to rockets to brain implants, supporters say. Critics, including those of his recent work in the U.S. government, say he lacks empathy and respect. 
-Kavanaugh and Randolph described a culture of chaos at [Tesla](https://www.tesla.com/) involving tactics mirroring the drive by Musk](https://ir.tesla.com/corporate/elon-musk)’s [Department of Government Efficiency [DOGE)](https://www.doge.gov)to shrink the federal government, such as requests for bullet-point emails to justify jobs.
+Kavanaugh and Randolph described a culture of chaos at [Tesla](https://www.tesla.com/) involving tactics mirroring the drive by [Musk](https://ir.tesla.com/corporate/elon-musk)’s [Department of Government Efficiency [DOGE)](https://www.doge.gov)to shrink the federal government, such as requests for bullet-point emails to justify jobs.
 
 They said federal employees can find their own way to stand up for themselves, such as sharing information in the public interest with journalists.
 

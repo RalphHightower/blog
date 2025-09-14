@@ -22,11 +22,11 @@ As [Trumpian legislators](https://www.gop.com/) are the majority in the red stat
 
 This oath is not just ceremonial; it is a solemn promise to uphold the principles that define our nation.
 
-“I do solemnly swear (or affirm) that I will support and defend the [Constitution](https://constitution.congress.gov/) of the [United States](https://www.usa.gov/) against all enemies, foreign and domestic; that I will bear true faith and allegiance to the same; that I take this obligation freely, without any mental reservation or purpose of evasion; and that I will well and faithfully discharge the duties of the office on which I am about to enter: So help me God.”
+“I do solemnly swear (or affirm) that I will support and defend the [Constitution](https://constitution.congress.gov/constitution/) of the [United States](https://www.usa.gov/) against all enemies, foreign and domestic; that I will bear true faith and allegiance to the same; that I take this obligation freely, without any mental reservation or purpose of evasion; and that I will well and faithfully discharge the duties of the office on which I am about to enter: So help me God.”
 
-I urge you to summon the courage to stand against [Trump](https://www.donaldjtrump.com/) and uphold and defend the [Constitution](https://constitution.congress.gov/) as you swore when you took the oath of office.
+I urge you to summon the courage to stand against [Trump](https://www.donaldjtrump.com/) and uphold and defend the [Constitution](https://constitution.congress.gov/constitution/) as you swore when you took the oath of office.
 
-Our nation is under attack from the president. The [Trumpians](https://www.gop.com/) in [Congress](https://www.congress.gov/) have abdicated their responsibility to protect and defend the [Constitution](https://constitution.congress.gov/). They have capitulated in fear of [Trump](https://www.donaldjtrump.com/). 
+Our nation is under attack from the president. The [Trumpians](https://www.gop.com/) in [Congress](https://www.congress.gov/) have abdicated their responsibility to protect and defend the [Constitution](https://constitution.congress.gov/constitution/). They have capitulated in fear of [Trump](https://www.donaldjtrump.com/). 
 
 [Trump](https://www.donaldjtrump.com/) is making enemies of our neighbors and allies; while [Trump](https://www.donaldjtrump.com/) is making friends of our enemies. 
 
@@ -38,7 +38,7 @@ The following news occurred in the past two months:
 
 ### Ignoring the First Amendment Protecting Freedom of Speech and the Press:
 
-Banning the [Associated Press](https://www.apnews.com/) from White House press briefings and the press pool because the [AP](https://www.apnews.com/) won't recognize "The Gulf of America" is an attack on the [First Amendment](https://constitution.congress.gov/constitution/amendment-1/).
+Banning the [Associated Press](https://apnews.com/) from White House press briefings and the press pool because the [AP](https://apnews.com/) won't recognize "The Gulf of America" is an attack on the [First Amendment](https://constitution.congress.gov/constitution/amendment-1/).
  
 The [AP Stylebook](https://www.ap.org/solutions/platforms/ap-stylebook/) specifies using internationally recognized names, as such, the Gulf of Mexico will continue to be used.
 
@@ -108,7 +108,7 @@ Illustrating America's new isolation from a neighbor and former ally, is an exce
 
 This speech underscores the consequences of isolationist policies and the erosion of trust in American leadership.
 
-Freedom from Consequences is not a protected [Constitutional](https://constitution.congress.gov/) Right.
+Freedom from Consequences is not a protected [Constitutional](https://constitution.congress.gov/constitution/) Right.
 
 s/
 Ralph  Hightower
@@ -229,7 +229,7 @@ Links to Kilmar Abrego Garcia
 - [Nuno Melo - Ministro da Defesa Nacional - Defesa Nacional - XXIV Governo Constitucional](https://www.portugal.gov.pt/pt/gc24/area-de-governo/defesa-nacional/ministro)
 - [中国政府网_中央人民政府门户网站](https://www.gov.cn/)
 - [The State Council of the People's Republic of China](https://english.www.gov.cn/)
-- [Constitution of the United States](https://constitution.congress.gov/)
+- [Constitution of the United States](https://constitution.congress.gov/constitution/)
 - [First Amendment](https://constitution.congress.gov/constitution/amendment-1/)
 - [U.S. Constitution - Fifth Amendment / Resources / Constitution Annotated / Congress.gov / Library of Congress](https://constitution.congress.gov/constitution/amendment-5/)
 - [U.S. Constitution - Sixth Amendment / Resources / Constitution Annotated / Congress.gov / Library of Congress](https://constitution.congress.gov/constitution/amendment-6/)

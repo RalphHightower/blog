@@ -40,7 +40,7 @@ It's not clear whether [WilmerHale](https://www.wilmerhale.com/) or [Susman Godf
 
 In court, the law firms fighting back are winning.
 
-They have argued that the executive orders violate the [Constitution](https://constitution.congress.gov/) and are textbook examples of the government illegally targeting people and companies over their speech and violating their clients' right to counsel.
+They have argued that the executive orders violate the [Constitution](https://constitution.congress.gov/constitution/) and are textbook examples of the government illegally targeting people and companies over their speech and violating their clients' right to counsel.
 
 The executive orders say the law firms run discriminatory DEI programs and that some of them pose national security threats because they employed lawyers who previously investigated [Trump](https://www.donaldjtrump.com/).
 
@@ -100,7 +100,7 @@ Privately, some Big Law partners have expressed pride in their own firms for fig
 
 "Everybody's scared, period," this person said. "Not of each other, but in general. There's just this culture of fear that I've never seen in Big Law."
 
-Companies' in-house lawyers are also nervous. They want to make sure their outside counsel is willing to fight the government if necessary. One lawyer working in a company's general counsel office told [Business Insider](https://www.businessinsider.com_) that her company's advisors at a law firm that made a deal with [Trump](https://www.donaldjtrump.com/) said it was necessary to hold onto influence with regulators.
+Companies' in-house lawyers are also nervous. They want to make sure their outside counsel is willing to fight the government if necessary. One lawyer working in a company's general counsel office told [Business Insider](https://www.businessinsider.com/) that her company's advisors at a law firm that made a deal with [Trump](https://www.donaldjtrump.com/) said it was necessary to hold onto influence with regulators.
 
 "It just feels very cynical," said the in-house lawyer, who wants to redirect work to other firms. "I don't feel comfortable, if you're going to cave in front of the government, that you're going to represent me in front of the government."
 
@@ -137,7 +137,7 @@ Katherine Tangalakis-Lippert and Brent Griffiths contributed reporting.
 - [WilmerHale](https://www.wilmerhale.com/)
 - [Whistler Partners](https://www.whistlerpartners.com/)
 - [Sean Burke – Whistler Partners](https://www.whistlerpartners.com/team/sean-burke)
-- [Constitution of the United States](https://constitution.congress.gov/)
+- [Constitution of the United States](https://constitution.congress.gov/constitution/)
 - judicial
 - [Supreme Court of the United States (SCOTUS)](https://www.supremecourt.gov/)
 - [US Courts](https://www.uscourts.gov/)

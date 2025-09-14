@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: [MSNBC, New York Times, Hamilton College, Democrat Party, Trumpian Party, Donald J Trump, Constitution, Congress, House of Representatives, Senate, US Department of Agriculture (USDA), Brooke Rollins – Secretary of Agriculture, Cage-free egg inventory recovers following avian flu outbreak / Economic Research Service, Centers for Disease Control (CDC), Bird Flu (H5N1), President Barack Obama, President Joe Biden, President Donald Trump (47), Trump (47) Administration, Delivering Emergency Price Relief for American Families and Defeating the Cost-of-Living Crisis. Presidential Actions. January 20 2025, President of the United States (POTUS), White House (WH), egg prices, agriculture, mission accomplished – Bush, day one promise, overpromise – underdeliver, politics]
-categories: []
+categories: [Donald Trump]
 date: 2025-04-18 5:13 PM
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
@@ -33,7 +33,7 @@ Wholesale egg prices have come down, but retail prices — what American consume
 
 The [president](https://www.whitehouse.gov/), in other words, has not brought egg prices “WAY DOWN,” and if he thought picking this fight would work to his advantage, he apparently thought wrong.
 
-As for the larger context, I’m reminded of comments [Barack Obama](obamawhitehouse.archives.gov/) [made last week](https://barackobama.medium.com/conversation-at-hamilton-college-0c44228ac0bd) during an appearance at [Hamilton College](https://www.hamilton.edu/). The former [Democratic](https://www.democrats.org/) [president](https://www.whitehouse.gov/) said, “I think this is one of the challenges that we have — and I saw this even before the last election. I think people tend to think, ‘Oh, [democracy, rule of law, independent judiciary, freedom of the press](https://constitution.congress.gov/). That’s all abstract stuff because it’s not affecting the price of eggs.” Well, you know what? It’s about to affect the price of eggs.”
+As for the larger context, I’m reminded of comments [Barack Obama](https://obamawhitehouse.archives.gov/) [made last week](https://barackobama.medium.com/conversation-at-hamilton-college-0c44228ac0bd) during an appearance at [Hamilton College](https://www.hamilton.edu/). The former [Democratic](https://www.democrats.org/) [president](https://www.whitehouse.gov/) said, “I think this is one of the challenges that we have — and I saw this even before the last election. I think people tend to think, ‘Oh, [democracy, rule of law, independent judiciary, freedom of the press](https://constitution.congress.gov/constitution/). That’s all abstract stuff because it’s not affecting the price of eggs.” Well, you know what? It’s about to affect the price of eggs.”
 
 | Federal Agency | Functions |
 |---|---|
@@ -44,7 +44,7 @@ As for the larger context, I’m reminded of comments [Barack Obama](obamawhiteh
 - [Democrat Party](https://www.democrats.org/)
 - [Trumpian Party](https://www.gop.com/)
 - [Donald J Trump](https://www.donaldjtrump.com/)
-- [Constitution](https://constitution.congress.gov/)
+- [Constitution](https://constitution.congress.gov/constitution/)
 - [Congress](https://www.congress.gov/)
 - [House of Representatives](https://www.house.gov/)
 - [Senate](https://www.senate.gov/)

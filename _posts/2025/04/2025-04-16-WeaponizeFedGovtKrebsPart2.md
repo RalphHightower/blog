@@ -69,7 +69,7 @@ This post updates our [related earlier coverage](https://www.msnbc.com/rachel-ma
 - [Rachel Maddow Show on MSNBC / Watch Rachel Maddow Live](https://www.msnbc.com/rachel-maddow-show)
 - [Rachel Maddow Blog / The Rachel Maddow Show - MSNBC](https://www.msnbc.com/maddowblog)
 - [Donald J Trump](https://www.donaldjtrump.com/)
-- [U.S. Constitution](https://constitution.congress.gov/)
+- [U.S. Constitution](https://constitution.congress.gov/constitution/)
 - [First Amendment](https://constitution.congress.gov/constitution/amendment-1/)
 - [A-Z index of U.S. government departments and agencies / USAGov](https://www.usa.gov/agency-index)
 - [Cybersecurity and Infrastructure Security Agency (CISA)](https://www.cisa.gov/)

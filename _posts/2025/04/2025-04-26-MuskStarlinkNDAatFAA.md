@@ -109,7 +109,7 @@ Indeed, few senior administration officials and others close to [Trump](https://
 - [ X ](https://x.com/)
 - [xAI](https://x.ai/) 
 - [Department of Government Efficiency (DOGE)](https://www.doge.gov/)
-- [Constitution of the United States](https://constitution.congress.gov/)
+- [Constitution of the United States](https://constitution.congress.gov/constitution/)
 - [Department of Transportation (DOT)](https://www.transportation.gov/)
 - [Federal Aviation Administration (FAA)](https://www.faa.gov/)
 - Request For Proposal (RFP)

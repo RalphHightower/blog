@@ -50,7 +50,7 @@ Clarissa-Jan Lim is a breaking/trending news blogger for MSNBC Digital. She was 
 - state, local governments
 - political parties 
 - Federal Government 
-- [Constitution of the United States](https://constitution.congress.gov/)
+- [Constitution of the United States](https://constitution.congress.gov/constitution/)
     - [Supreme Court of the United States (SCOTUS)](https://www.supremecourt.gov/)
     - [US Courts](https://www.uscourts.gov/)
     - [Department of Justice (DOJ)](https://www.justice.gov/)

@@ -48,7 +48,7 @@ Pugnacious individuals are often looking for a fight. While unpleasant, at least
 - [Kelly Loeffler](https://www.sba.gov/person/kelly-loeffler)
 - [Kelly Loeffler – LinkedIn](https://www.linkedin.com/in/kelly-loeffler-198341b7/)
 - [Department of Justice (DOJ)](https://www.justice.gov/)
-- [Attorney General](www.justice.gov/)
+- [Attorney General](https;//www.justice.gov/)
 - [Pam Bondi](https://www.justice.gov/ag/staff-profile/meet-attorney-general)
 - [Central Intelligence Agency (CIA)](https://www.cia.gov/)
 - [John Ratcliffe](https://www.cia.gov/about/director-of-cia/)

@@ -51,7 +51,7 @@ Some of [Trump](https://www.donaldjtrump.com/)’s actions could be reversed in 
 
 “America Alone” is becoming a reality, at the worst possible moment. The world is more dangerous than at any other point in my lifetime. [Russia](http://government.ru/), [China](https://www.gov.cn/), [Iran](https://irangov.ir/), and [North Korea](http://naenara.com.kp) all pose incredible risks both regionally and globally. All four have demonstrated willingness to cooperate and even coordinate their efforts, as we’ve seen with [Russia](http://government.ru/)’s illegal invasion of [Ukraine](https://www.gov.ua/). Advancements in technologies like AI and drones are putting dangerous power in uncontrollable hands.
 
-Yet in this critical moment, we have gone from the indispensable nation to the unreliable nation. There is still time to course correct. I urge my [Republican](https://www.gop.com_) colleagues to reject gutting the [State Department](https://www.state.gov/) and the [Trump](https://www.donaldjtrump.com/) [White House](https://www.whitehouse.gov/)’s larger push toward isolationism. We should welcome sensible reforms for the [State Department](https://www.state.gov/) and U.S. foreign policy, but we should reject actions that will cede the ground to our adversaries and weaken our critical alliances. That will only mean leaving our kids and grandkids a world that is less secure, less prosperous, and less predictable.
+Yet in this critical moment, we have gone from the indispensable nation to the unreliable nation. There is still time to course correct. I urge my [Republican](https://www.gop.com/) colleagues to reject gutting the [State Department](https://www.state.gov/) and the [Trump](https://www.donaldjtrump.com/) [White House](https://www.whitehouse.gov/)’s larger push toward isolationism. We should welcome sensible reforms for the [State Department](https://www.state.gov/) and U.S. foreign policy, but we should reject actions that will cede the ground to our adversaries and weaken our critical alliances. That will only mean leaving our kids and grandkids a world that is less secure, less prosperous, and less predictable.
 
 ----
 [Sen.](https://www.senate.gov/) [Andy Kim](https://www.kim.senate.gov/)
@@ -89,7 +89,7 @@ Yet in this critical moment, we have gone from the indispensable nation to the u
 - [NATO - Topic: Collective defence and Article 5](https://www.nato.int/cps/en/natohq/topics_110496.htm)
 - [European Union](https://commission.europa.eu/)
 - [New Jersey](https://www.nj.gov/)
-- [Constitution of the United States](https://constitution.congress.gov/)
+- [Constitution of the United States](https://constitution.congress.gov/constitution/)
 - [Supreme Court of the United States (SCOTUS)](https://www.supremecourt.gov/)
 - [US Courts](https://www.uscourts.gov/)
 - [Congress](https://www.congress.gov/)
@@ -106,3 +106,4 @@ Yet in this critical moment, we have gone from the indispensable nation to the u
 -  [Marco Rubio - United States Department of State](https://www.state.gov/biographies/marco-rubio/)
 - [Department of Defense (DOD,)](https://www.defense.gov/)
 - politics 
+

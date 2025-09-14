@@ -182,7 +182,7 @@ Matthew T. Hall has been the [South Carolina](https://www.sc.gov/) opinion edito
 - [Attorney General](https://www.scag.gov/)
 - [Alan Wilson  – SC Attorney General](https://www.scag.gov/about-the-office/meet-the-attorney-general/)
 - [Town of Hilton Head Island Municipal Government Website](https://hiltonheadislandsc.gov/)
-- [Constitution of the United States](https://constitution.congress.gov/)
+- [Constitution of the United States](https://constitution.congress.gov/constitution/)
 - [House of Representatives](https://www.house.gov/)
 - [Nancy Mace (T-SC1)](https://mace.house.gov/)
 - [H.R.6042 - 117th Congress (2021-2022): To designate the facility of the United States Postal Service located at 213 William Hilton Parkway in Hilton Head Island, South Carolina, as the "Caesar H. Wright Jr. Post Office Building". / Congress.gov / Library of Congress](https://www.congress.gov/index.php/bill/117th-congress/house-bill/6042)

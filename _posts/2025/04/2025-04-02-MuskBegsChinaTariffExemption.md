@@ -36,7 +36,7 @@ One is an industrial soldering system made by [Illinois Tool Works (ITW)](https:
 The equipment have [25pc import tariffs](https://www.telegraph.co.uk/business/0/impact-of-trump-trade-tariffs-on-uk-world/) under rules introduced during Trump’s first administration.
 
 [Space X](https://www.spacex.com/) to move production to US in 2026
-[SpaceX](https://www.spacex.com/) told the [[USTR](http://www.ustr.gov/) that [ITW](https://www.itw.com/) was planning to move production of the soldering system to the US in 2026 but that in the meantime there was not an alternative that was validated for company usage.
+[SpaceX](https://www.spacex.com/) told the [USTR](http://www.ustr.gov/) that [ITW](https://www.itw.com/) was planning to move production of the soldering system to the US in 2026 but that in the meantime there was not an alternative that was validated for company usage.
 
 “Once production is moved to the US, [SpaceX](https://www.spacex.com/) will procure domestically to support US production,” its application said.
 

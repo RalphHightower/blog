@@ -43,7 +43,7 @@ Khalil’s wife said Monday that he [missed the birth of his first child](https:
 - [Tufts University](https://www.tufts.edu/)
 - [Israel](https://www.gov.il/)
 - [e-Devlet Kapısı Devletin Kısayolu / www.türkiye.gov.tr – Turkey](https://www.turkiye.gov.tr/)
-- [U.S. Constitution](https://constitution.congress.gov/)
+- [U.S. Constitution](https://constitution.congress.gov/constitution/)
 - [First Amendment](https://constitution.congress.gov/constitution/amendment-1/)
 - [Senate](https://www.senate.gov/)
 - [Edward J. Markey (D-MA)](https://www.markey.senate.gov/)

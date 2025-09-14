@@ -153,7 +153,7 @@ Steve Benen is a producer for "The Rachel Maddow Show," the editor of MaddowBlog
 - [New York State Government (NY)](https://www.ny.gov/)
 - [City of Greenville, TX](https://www.ci.greenville.tx.us/)
 - Federal Government 
-- [Constitution of the United States](https://constitution.congress.gov/)
+- [Constitution of the United States](https://constitution.congress.gov/constitution/)
 - [Emoluments Clause and Presidential Compensation / Constitution Annotated / Congress.gov / Library of Congress](https://constitution.congress.gov/browse/essay/artII-S1-C7-1/ALDE_00000233/)
 - [Air Force](https://www.af.mil/)
 - [VC-25 - Air Force One > Air Force > Fact Sheet Display](https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104588/vc-25-air-force-one/) 

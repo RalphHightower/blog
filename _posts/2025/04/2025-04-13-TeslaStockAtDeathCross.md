@@ -30,7 +30,7 @@ The [company](https://www.tesla.com/) is heavily consumer-facing. About 77% of i
 
 Bud Light serves as one example, but to a lesser extent. Following an April 2023 boycott of Bud Light, [Anheuser-Busch InBev SA](https://www.ab-inbev.com/)’s stock tumbled by about 16% in a little over a month. [Sales for Bud Light haven’t recovered](https://www.marketwatch.com/story/budweisers-parent-company-is-selling-less-beer-and-making-more-money-b84c8fec?mod=article_inline). So gauging the fallout from backlash against [Tesla](https://www.tesla.com/) ahead of its future earnings could be difficult.
 
-[Bob Lang](https://explosiveoptions.net/meet-bob-lang/), founder and chief strategist at [Explosive Option](shttps://explosiveoptions.net/), suggests turning to soft data to try and determine how consumers feel about the brand. A survey by [YouGov](https://today.yougov.com/(popup:search/tesla;after=2025-03-11;period=month;type=surveys)) from March showed that 37% of respondents said that [Musk](https://ir.tesla.com/corporate/elon-musk) is either part of or wholly the reason they wouldn’t consider owning or leasing a [Tesla](https://www.tesla.com/).
+[Bob Lang](https://explosiveoptions.net/meet-bob-lang/), founder and chief strategist at [Explosive Option](https://explosiveoptions.net/), suggests turning to soft data to try and determine how consumers feel about the brand. A survey by [YouGov](https://today.yougov.com/(popup:search/tesla;after=2025-03-11;period=month;type=surveys)) from March showed that 37% of respondents said that [Musk](https://ir.tesla.com/corporate/elon-musk) is either part of or wholly the reason they wouldn’t consider owning or leasing a [Tesla](https://www.tesla.com/).
 
 What does the data tell us about [Tesla](https://www.tesla.com/)’s stock?
 
@@ -88,7 +88,7 @@ Finally, [Tesla](https://www.tesla.com/) has growing strengths outside of its EV
 
 - [The A-Team – Wikipedia](https://en.wikipedia.org/wiki/The_A-Team?wprov=sfla1)
 - [Bob Lang](https://explosiveoptions.net/meet-bob-lang/)
-- [Explosive Option](shttps://explosiveoptions.net/) 
+- [Explosive Option](https://explosiveoptions.net/) 
 - [Research Affiliates](https://www.researchaffiliates.com/home)
 - [Rob Arnott](https://www.researchaffiliates.com/about-us/our-team/rob-arnott)
 - [Anheuser-Busch InBev SA](https://www.ab-inbev.com/)

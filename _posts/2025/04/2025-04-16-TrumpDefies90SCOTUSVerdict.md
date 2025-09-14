@@ -48,7 +48,7 @@ But the “unconscionable” position is now the official position of the [admin
 -[Fourth Circuit- Maryland District Court](https://www.mdd.uscourts.gov/)
 - [Paula Xinis, District Judge / District of Maryland / United States District Court](https://www.mdd.uscourts.gov/paula-xinis-district-judge)
 - [Department of Justice (DOJ)](https://www.justice.gov/)
-- [Attorney General](www.justice.gov/)
+- [Attorney General](https://www.justice.gov/)
 - [Pam Bondi](https://www.justice.gov/ag/staff-profile/meet-attorney-general)
 - [Donald J Trump](https://www.donaldjtrump.com/)
 - [President Donald Trump (47)](https://www.whitehouse.gov/administration/donald-j-trump/)
