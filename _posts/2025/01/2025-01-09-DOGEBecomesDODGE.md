@@ -26,7 +26,7 @@ By Arthur Delaney. Jan 9, 2025, 09:16 AM EST
 | Spending | Promises |
 |---|---|
 | [Social Security](https://www.ssa.gov/) | [Trump](https://www.donaldjtrump.com/) |
-| [Medicare](www.medicare.gov/) | [Trump](https://www.donaldjtrump.com/) |
+| [Medicare](https://www.medicare.gov/) | [Trump](https://www.donaldjtrump.com/) |
 | [Defense](https://www.defense.gov/) | [Trumpers](https://www.gop.com/)[^51] |
 
 [^51]: @RalphHightower: It used to be the [Republican Party](https://www.gop.com/), but it died when it picked an unqualified, unfit person as their presidential candidate. 

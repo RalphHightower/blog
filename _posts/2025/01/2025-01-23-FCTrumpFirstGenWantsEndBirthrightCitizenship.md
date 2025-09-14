@@ -13,7 +13,7 @@ title: "Fact Checking Trump: Donald Trump, a First Generation American Citizen, 
 
 ## Sharpie President Trump Cannot Change the Constitution By Executive Order
 
-The [Fourteenth Amendment](https://constitution.congress.gov/constitution/amendment-14/) has been part of the [Constitution](https://constitution.congress.gov/) since July 9, 1868. The [Supreme Court](https://www.supremecourt.gov/) upheld the [amendment](https://constitution.congress.gov/constitution/amendment-14/) in 1884. [Donald Trump](https://www.whitehouse.gov/) cannot go willy-nilly and change the [Constitution](constitution.congress.gov/) by fiat or Executive Order with his Sharpie. 
+The [Fourteenth Amendment](https://constitution.congress.gov/constitution/amendment-14/) has been part of the [Constitution](https://constitution.congress.gov/constitution/) since July 9, 1868. The [Supreme Court](https://www.supremecourt.gov/) upheld the [amendment](https://constitution.congress.gov/constitution/amendment-14/) in 1884. [Donald Trump](https://www.whitehouse.gov/) cannot go willy-nilly and change the [Constitution](https://constitution.congress.gov/constitution/) by fiat or Executive Order with his Sharpie. 
 
 Videos from [Donnie Trump's](https://www.whitehouse.gov/) estranged niece and MSNBC follow [Trump's](https://www.whitehouse.gov/) Executive Order follow after Executive Order. 
 
@@ -117,5 +117,5 @@ This week, [Donald](https://www.whitehouse.gov/) placed an executive order in an
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HRrIfKPIW3E?si=7La3khC4_exbqyY-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Jan 22, 2025  [#Trump](https://www.whitehouse.gov/) [#Constitution](https://constitution.congress.gov/) #birthrightcitizenship
+Jan 22, 2025  [#Trump](https://www.whitehouse.gov/) [#Constitution](https://constitution.congress.gov/constitution/) #birthrightcitizenship
 [Donald Trump](https://www.whitehouse.gov/) issued one of his first executive orders to end birthright citizenship. MSNBC’s Ari Melber delivers a special report on how the order flatly contradicts the [14th Amendment](https://constitution.congress.gov/constitution/amendment-14/) of The [#Constitution](https://constitution. congress.gov/)](https://constitution.congress.gov/constitution/). MSNBC’s Ari Melber delivers a special report. (The Beat's YouTube playlist: https://msnbc.com/ari Ari: / arimelber Beat merch: www.msnbc.com/Beat5)

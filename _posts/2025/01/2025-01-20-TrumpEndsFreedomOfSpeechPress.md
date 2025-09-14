@@ -21,9 +21,9 @@ EXECUTIVE ORDER
 
 January 20, 2025
 
-By the authority vested in me as [President](https://www.whitehouse.gov/) by the [Constitution](constitution.congress.gov/) and the laws of the [United States of America](https://www.usa.gov/), and [section 301 of title 3, United States Code](https://www.govinfo.gov/content/pkg/USCODE-2017-title3/html/USCODE-2017-title3-chap4-sec301.htm), it is hereby ordered as follows:
+By the authority vested in me as [President](https://www.whitehouse.gov/) by the [Constitution](https://constitution.congress.gov/constitution/) and the laws of the [United States of America](https://www.usa.gov/), and [section 301 of title 3, United States Code](https://www.govinfo.gov/content/pkg/USCODE-2017-title3/html/USCODE-2017-title3-chap4-sec301.htm), it is hereby ordered as follows:
 
-Section 1.  Purpose.  The [First Amendment](https://constitution.congress.gov/constitution/amendment-1/) to the [United States Constitution](constitution.congress.gov/), an amendment essential to the success of our Republic, enshrines the right of the American people to speak freely in the public square without Government interference.  Over the last 4 years, the previous administration trampled free speech rights by censoring Americans’ speech on online platforms, often by exerting substantial coercive pressure on third parties, such as social media companies, to moderate, deplatform, or otherwise suppress speech that the [Federal Government](https://www.usa.gov/) did not approve.  Under the guise of combatting “misinformation,”[^11] “disinformation,”[^11] and “malinformation,”[^11] the [Federal Government](https://www.usa.gov/) infringed on the constitutionally protected speech rights of American citizens across the [United States](https://www.usa.gov/) in a manner that advanced the Government’s preferred narrative about significant matters of public debate.  Government censorship of speech is intolerable in a free society.
+Section 1.  Purpose.  The [First Amendment](https://constitution.congress.gov/constitution/amendment-1/) to the [United States Constitution](https://constitution.congress.gov/constitution/), an amendment essential to the success of our Republic, enshrines the right of the American people to speak freely in the public square without Government interference.  Over the last 4 years, the previous administration trampled free speech rights by censoring Americans’ speech on online platforms, often by exerting substantial coercive pressure on third parties, such as social media companies, to moderate, deplatform, or otherwise suppress speech that the [Federal Government](https://www.usa.gov/) did not approve.  Under the guise of combatting “misinformation,”[^11] “disinformation,”[^11] and “malinformation,”[^11] the [Federal Government](https://www.usa.gov/) infringed on the constitutionally protected speech rights of American citizens across the [United States](https://www.usa.gov/) in a manner that advanced the Government’s preferred narrative about significant matters of public debate.  Government censorship of speech is intolerable in a free society.
 
 [^11]: @RalphHightower: **Misinformation, Disinformation, and Malinformationis [Trump’s](https://www.whitehouse.gov/administration/donald-j-trump/) lifeblood**. His tyranny depends upon his pathological lies to bamboozle his cult members. 
 
@@ -53,7 +53,7 @@ THE [WHITE HOUSE](https://www.whitehouse.gov/),
 
 January 20, 2025.
 
-- [Constitution](constitution.congress.gov/)
+- [Constitution](https://constitution.congress.gov/constitution/)
 - [First Amendment](https://constitution.congress.gov/constitution/amendment-1/)
 - [Office of Management and Budget](https://www.whitehouse.gov/omb/)
 - [United States (US)](https://www.usa.gov/)

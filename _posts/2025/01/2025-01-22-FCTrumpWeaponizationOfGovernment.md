@@ -21,7 +21,7 @@ Contrary to what Donald Trump believes, the [federal government](https://www.usa
 
 As the 45<sup>th</sup> president, Trump's first [Attorney General](https://www.justice.gov/)), Jeff Sessions, didn't last that long. Apparently, he refused to follow an order that was illegal from Trump. Trump found a sycophant in William Barr, who resigned in the waning days of Trump's presidency until he could not tolerate any more lies that he won the 2020 election. 
 
-If Trump's second term choice for [Attorney General](https://www.justice.gov/), [Florida's](https://myflorida.com/) [Attorney General Pam Bondi (T-FL)](https://www.myfloridalegal.com/) has any jurisprudence[^31] and ethics, I predict that she'll last less than two months as [US Attorney General](https://www.justice.gov/). 
+If Trump's second term choice for [Attorney General](https://www.justice.gov/), [Florida's](https://myflorida.gov/) [Attorney General Pam Bondi (T-FL)](https://www.myfloridalegal.com/) has any jurisprudence[^31] and ethics, I predict that she'll last less than two months as [US Attorney General](https://www.justice.gov/). 
 
 [^31]: [jurisprudence • Merriam-Webster](http://www.merriam-webster.com/dictionary/jurisprudence)</br >Definition</br >1: the science or philosophy of law</br >2a: a system or body of law</br >2b: the course of court decisions as distinguished from legislation and doctrine</br >3: a department of law
 
@@ -52,7 +52,7 @@ This section does not affect other oaths required by law.
 
 ### [Ending The Weaponization Of The Federal Government – The White House](https://www.whitehouse.gov/presidential-actions/2025/01/ending-the-weaponization-of-the-federal-government/)
 
-<p style="text-align: center">ENDING THE WEAPONIZATION OF THE [FEDERAL GOVERNMENT](https:///.usa.gov/)</p>
+<p style="text-align: center">ENDING THE WEAPONIZATION OF THE [FEDERAL GOVERNMENT](https://www.usa.gov/)</p>
 <p style="text-align: center">EXECUTIVE ORDER</p>
 <p style="text-align: center">January 20, 2025</p>
 
