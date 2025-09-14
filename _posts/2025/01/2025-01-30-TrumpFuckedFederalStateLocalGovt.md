@@ -31,7 +31,8 @@ Matthew J. Vaeth, the acting director of the White House [Office of Management a
 said in a statement on Monday. 
 - “[Donald Trump](https://www.whitehouse.gov/) must direct his Administration to reverse course immediately and the taxpayers’ money should be distributed to the people. These grants help people in red states and blue states, support families, help parents raise kids, and lead to stronger communities. This freeze means missed payrolls and rent payments and everything in between: chaos for everything from universities to non-profit charities.”
 
-Last week, [Trump](https://www.whitehouse.gov/) ordered government agencies to pause other funds appropriated by [Congress](https://www.congress.gov/) — including key climate investments, money for infrastructure projects and nearly all U.S. assistance to foreign nations — challenging the constitutional role of [[Congress](https://www.congress.gov/l](https://www.congress.gov/) and its power of the purse.
+Last week, [Trump](https://www.whitehouse.gov/) ordered government agencies to pause other funds appropriated by [Congress](https://www.congress.gov/) — including key climate investments, money for infrastructure projects and nearly all U.S. assistance to foreign nations — challenging the constitutional role of [Congress](https://www.congress.gov/)
+ and its power of the purse.
 
 And over the weekend, [Trump](https://www.whitehouse.gov/) fired at least 18 inspectors general whose job is to root out corruption in government agencies. He did it without notifying [Congress](https://www.congress.gov/), a move critics denounced as a “chilling purge.”
 
@@ -51,7 +52,7 @@ Bobby Kogan, senior director of federal budget policy at the liberal Center for 
 
 [University of Michigan](https://umich.edu/) law professor Samuel Bagenstos, also served in the Biden administration as general counsel at both the Office of Management and Budget as well as the Department of Health and Human Services:
 
-- “The [Trump](https://www.whitehouse.gov/) Administration is ostentatiously flouting [[Congress](https://www.congress.gov/('s,](https://www.congress.gov/) power of the purse, which is one of the most basic principles of our republic. It’s almost like they’re daring people to sue them so they can challenge the constitutionality of the [Impoundment Control Act](https://www.gao.gov/legal/appropriations-law/impoundment-control-act-resources) and get the Supreme Court to decide the issue as soon as possible.”
+- “The [Trump](https://www.whitehouse.gov/) Administration is ostentatiously flouting [Congress](https://www.congress.gov/)'s, power of the purse, which is one of the most basic principles of our republic. It’s almost like they’re daring people to sue them so they can challenge the constitutionality of the [Impoundment Control Act](https://www.gao.gov/legal/appropriations-law/impoundment-control-act-resources) and get the Supreme Court to decide the issue as soon as possible.”
 
 ### Federal Government Agencies Impacted
 

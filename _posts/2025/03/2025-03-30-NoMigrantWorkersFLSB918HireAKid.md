@@ -11,7 +11,7 @@ excerpt: ''
 title: "Florida Farmers, Not Enough Migrants to Work On Farms 🚜? No problem! Hire a Kid. Child Labor Laws Relaxed"
 ---
 
-Has [Donald Trump](https//www.donaldjtrump.com/) deported migrant  workers?
+Has [Donald Trump](https://www.donaldjtrump.com/) deported migrant  workers?
 
 ## [SB 918: Employment of Minors](https://www.flsenate.gov/Session/Bill/2025/918/BillText/Filed/HTML)
 GENERAL BILL by Collins

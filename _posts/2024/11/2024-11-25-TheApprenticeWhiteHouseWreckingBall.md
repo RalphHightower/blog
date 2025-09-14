@@ -20,7 +20,7 @@ It didn't take me very long to think of a name for this season of The Apprentice
 
 Government services will be cut. Citizens will suffer.
 
-As [Musk](https://x.com/elonmusk) is a fractional CEO[^11] of many companies that do are a customer of the federal government agencies, ([NASA](https://www.nasa.gov), [X](https://x.com/) by many federal agencies),and regulated by many federal agencies, [EPA](https:www.epa.gov), [SEC](https://www.sec.gov/), [FCC](https://www.fcc.gov/), [FAA](https://www.faa.gov/), and [NHTSA](www.nhtsa.gov/), [Musk](https://x.com/elonmusk) stand to benefit substantial financial gains. 
+As [Musk](https://x.com/elonmusk) is a fractional CEO[^11] of many companies that do are a customer of the federal government agencies, ([NASA](https://www.nasa.gov), [X](https://x.com/) by many federal agencies),and regulated by many federal agencies, [EPA](https:www.epa.gov), [SEC](https://www.sec.gov/), [FCC](https://www.fcc.gov/), [FAA](https://www.faa.gov/), and [NHTSA](https://www.nhtsa.gov/), [Musk](https://x.com/elonmusk) stand to benefit substantial financial gains. 
 
 Even as an unpaid "volunteer to thefederalgovernment,  [Musk](https://x.com/elonmusk) and his companies could benefit financially from the federal government. 
 

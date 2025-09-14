@@ -15,10 +15,10 @@ title: "What Trump Really Means: Weaponizing Federal Government"
 
 EXECUTIVE ORDER
 January 20, 2025
-By the authority vested in me as [President](https://www.whitehouse.gov/) by the [Constitution](https://constitution.congress.gov/) and the laws of the [United States of America](https://www.usa.gov/), and [section 301 of title 3, United States Code](https://uscode.house.gov/browse/prelim@title3/chapter4&edition=prelim), it is hereby ordered as follows:
+By the authority vested in me as [President](https://www.whitehouse.gov/) by the [Constitution](https://constitution.congress.gov/constitution/) and the laws of the [United States of America](https://www.usa.gov/), and [section 301 of title 3, United States Code](https://uscode.house.gov/browse/prelim@title3/chapter4&edition=prelim), it is hereby ordered as follows:
 
 Section 1.  Purpose.  The American people have witnessed the previous administration engage in a systematic campaign against its perceived political opponents, weaponizing the legal force of numerous Federal law enforcement agencies]
- and the Intelligence Community against those perceived political opponents in the form of investigations, prosecutions, civil enforcement actions, and other related actions.  These actions appear oriented more toward inflicting political pain than toward pursuing actual justice or legitimate governmental objectives.  Many of these activities appear to be inconsistent with the [Constitution](https://constitution.congress.gov/) and/or the laws of the [United States](https://www.usa.gov/), including those activities directed at parents protesting at school board meetings, Americans who spoke out against the previous administration’s actions, and other Americans who were simply exercising constitutionally protected rights.
+ and the Intelligence Community against those perceived political opponents in the form of investigations, prosecutions, civil enforcement actions, and other related actions.  These actions appear oriented more toward inflicting political pain than toward pursuing actual justice or legitimate governmental objectives.  Many of these activities appear to be inconsistent with the [Constitution](https://constitution.congress.gov/constitution/) and/or the laws of the [United States](https://www.usa.gov/), including those activities directed at parents protesting at school board meetings, Americans who spoke out against the previous administration’s actions, and other Americans who were simply exercising constitutionally protected rights.
 
 The prior administration and allies throughout the country engaged in an unprecedented, third-world weaponization of prosecutorial power to upend the democratic process.  It targeted individuals who voiced opposition to the prior administration’s policies with numerous Federal investigations and politically motivated funding revocations, which cost Americans access to needed services.  The [Department of Justice](https://www.justice.gov/) even jailed an individual for posting a political meme.  And while the [Department of Justice](https://www.justice.gov/) has ruthlessly prosecuted more than [1,500 individuals](https://www.govinfo.gov/collection/january-6th-committee-final-report)[^31] associated with [January 6](https://www.govinfo.gov/collection/january-6th-committee-final-report), and simultaneously dropped nearly all cases against BLM rioters.
 
@@ -52,7 +52,7 @@ January 20, 2025.
 - [3 USC Ch. 4: DELEGATION OF FUNCTIONS](https://uscode.house.gov/view.xhtml?path=/prelim@title3/chapter4&edition=prelim)
 - [50 USC Ch. 45: MISCELLANEOUS INTELLIGENCE COMMUNITY AUTHORITIES](https://uscode.house.gov/view.xhtml?path=/prelim@title50/chapter45&edition=prelim)
 - [Office of Management and Budget](https://www.whitehouse.gov/omb/)
-- [Constitution](https://constitution.congress.gov/)
+- [Constitution](https://constitution.congress.gov/constitution/)
 - [Department of Justice](https://www.justice.gov/)
 - [Securities and Exchange Commission](https://www.sec.gov/)
 - [Federal Trade Commission](https://www.ftc.gov/)

@@ -19,7 +19,7 @@ Ruth Marcus. January 1, 2025 at 5:27 p.m. EST
 
 Chief Justice John Roberts in his year-end report of the [Supreme Court](http://www.supremecourtus.gov/) took a veiled swipe at vice president-elect JD Vance for suggesting that sometimes it is okay to ignore the federal courts' final ruling of law[^11].
 
-[^11]: @RalphHightower: I do disagree with the [Supreme Court's](http://www.supremecourtus.gov/) ruling on presidential immunity that granted Trump a pass to ignore the [Constitution](constitution.congress.gov/). I agree with Sonia Sotomayor that we don't elect "kings".
+[^11]: @RalphHightower: I do disagree with the [Supreme Court's](https://www.supremecourtus.gov/) ruling on presidential immunity that granted Trump a pass to ignore the [Constitution](https://constitution.congress.gov/constitution/). I agree with Sonia Sotomayor that we don't elect "kings".
 
 Roberts addressed multiple concerns of an independent judiciary:
 
@@ -47,15 +47,15 @@ JD Vance, [Yale](https://www.yale.edu/) [Law School Class](https://law.yale.edu/
 
 Vance reiterated his position — although he tried to soft-pedal it — in a [February interview](https://abcnews.go.com/Politics/week-transcript-2-4-24-white-house-national/story?id=106926540) with [ABC’s](https://abcnews.go.com/) George Stephanopoulos:
 
-**Vance**: “The president has to be able to run the government as he thinks he should. That’s the way the [Constitution](constitution.congress.gov/) works. It has been thwarted too much by the way our bureaucracy has worked over the past 15 years.”
+**Vance**: “The president has to be able to run the government as he thinks he should. That’s the way the [Constitution](https://constitution.congress.gov/constitution/) works. It has been thwarted too much by the way our bureaucracy has worked over the past 15 years.”
 
-**Stephanopoulos**: “The [Constitution](constitution.congress.gov/) also says the president must abide by legitimate [Supreme Court](http://www.supremecourtus.gov/) rulings, doesn’t it?”
+**Stephanopoulos**: “The [Constitution](https://constitution.congress.gov/constitution/) also says the president must abide by legitimate [Supreme Court](https://www.supremecourtus.gov/) rulings, doesn’t it?”
 
-**Vance**: “The [Constitution](constitution.congress.gov/) says that the [Supreme Court's](http://www.supremecourtus.gov/) can make rulings, but if the [Supreme Court](http://www.supremecourtus.gov/) — and, look, I hope that they would not do this, but if the [Supreme Court](http://www.supremecourtus.gov/) said the president of the United States can’t fire a general, that would be an illegitimate ruling, and the president has to have Article II prerogative under the [Constitution](constitution.congress.gov/) to actually run the military as he sees fit.”
+**Vance**: “The [Constitution](https://constitution.congress.gov/constitution/) says that the [Supreme Court's](http://www.supremecourtus.gov/) can make rulings, but if the [Supreme Court](https://www.supremecourtus.gov/) — and, look, I hope that they would not do this, but if the [Supreme Court](https://www.supremecourtus.gov/) said the president of the United States can’t fire a general, that would be an illegitimate ruling, and the president has to have Article II prerogative under the [Constitution](https://constitution.congress.gov/constitution/) to actually run the military as he sees fit.”
 
-In an [interview](https://www.politico.com/news/magazine/2024/03/15/mr-maga-goes-to-washington-00147054) with Politico Magazine, Vance repeated, “If the elected president says, ‘I get to control the staff of my own government,’ and the [Supreme Court](http://www.supremecourtus.gov/) steps in and says, ‘You’re not allowed to do that’ — like, that is the constitutional crisis,” Vance said. “It’s not whatever Trump or whoever else does in response. When the [Supreme Court](http://www.supremecourtus.gov/) tells the president he can’t control the government anymore, we need to be honest about what’s actually going on.”
+In an [interview](https://www.politico.com/news/magazine/2024/03/15/mr-maga-goes-to-washington-00147054) with Politico Magazine, Vance repeated, “If the elected president says, ‘I get to control the staff of my own government,’ and the [Supreme Court](https://www.supremecourtus.gov/) steps in and says, ‘You’re not allowed to do that’ — like, that is the constitutional crisis,” Vance said. “It’s not whatever Trump or whoever else does in response. When the [Supreme Court](https://www.supremecourtus.gov/) tells the president he can’t control the government anymore, we need to be honest about what’s actually going on.”
 
-The prospect of the Musk[^111]/Trump/Vance Administration coming to blows with unfavorable rulings from the [Supreme Court's](http://www.supremecourtus.gov/) is real, and imminent. Trump is the most litigious person in the United States, filing lawsuits for any perceived wrong.
+The prospect of the Musk[^111]/Trump/Vance Administration coming to blows with unfavorable rulings from the [Supreme Court's](https://www.supremecourtus.gov/) is real, and imminent. Trump is the most litigious person in the United States, filing lawsuits for any perceived wrong.
 
 [^111]: @RalphHightower: When Elon Musk threw a monkey wrench into the pre-Christmas Continuing Resolution to avoid casting a pall for federal employees, without a paycheck, over the Christmas, New Year's, and Hanukkah holidays, it showed that Musk s the puppeteer and Trump is the puppet
 

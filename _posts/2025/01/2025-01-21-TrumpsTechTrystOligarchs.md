@@ -38,6 +38,6 @@ President Trump signed a wave of executive orders yesterday on immigration, ener
 - [X](https://x.com/)
 - [xAI](https://x.ai/)
 - [YouTube](https://www.youtube.com/)
-- [Valar Ventures](https://www.com/)
+- [Valar Ventures](https://www.valar.com/)
 - [Washington Post](https://www.washingtonpost.com/)
 - [With Honor Fund](https://www.withhonorfund.org/)

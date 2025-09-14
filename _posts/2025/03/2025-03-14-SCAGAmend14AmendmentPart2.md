@@ -26,7 +26,7 @@ The brief emphasizes that the [Constitution’s [Citizenship Clause](https://con
 
 [^25]: @RalphHightower: Huh? I thought that the 14<sup>th</sup> Amendment granted citizenship to newly freed slaves. 
 
-Under the [Biden administration](bidenwhitehouse.archives.gov/), Americans saw firsthand how one administration’s misinterpretation of the [Constitution](constitution.congress.gov/) can create one of the biggest national security crises in our nation’s history. Years of kicking the can down the road have led to a huge strain on state resources, with states paying billions of dollars for the costs of illegal immigration each year. Whether it's for education, welfare, or healthcare, states are paying exorbitant amounts of money each year to keep up. [Texas](https://www.texas.gov/), for example, pays over $850 million per year because of illegal immigration. On top of the cost to taxpayers are the risks to our national security.
+Under the [Biden administration](https://bidenwhitehouse.archives.gov/), Americans saw firsthand how one administration’s misinterpretation of the [Constitution](https://constitution.congress.gov/constitution/) can create one of the biggest national security crises in our nation’s history. Years of kicking the can down the road have led to a huge strain on state resources, with states paying billions of dollars for the costs of illegal immigration each year. Whether it's for education, welfare, or healthcare, states are paying exorbitant amounts of money each year to keep up. [Texas](https://www.texas.gov/), for example, pays over $850 million per year because of illegal immigration. On top of the cost to taxpayers are the risks to our national security.
 
 The states joining [South Carolina](https://www.scag.gov/) in the brief are [Alabama](https://www.alabamaag.gov/), [Arkansas](https://arkansasag.gov/), [Florida](https://www.myfloridalegal.com/), [Idaho](https://www.ag.idaho.gov/), [Indiana](https://www.in.gov/attorneygeneral/), [Kansas](https://www.ag.ks.gov/), [Louisiana](https://ag.louisiana.gov/), [Mississippi](https://www.ms.gov/Agencies/attorney-general), [Missouri](https://ago.mo.gov/), [Montana](https://dojmt.gov/), [Nebraska](https://ago.nebraska.gov/), [North Dakota](https://attorneygeneral.nd.gov/), [Ohio](https://www.ohioattorneygeneral.gov/), [Oklahoma](https://oklahoma.gov/oag.html), [South Dakota](https://atg.sd.gov/#gsc.tab=0), [Utah](https://attorneygeneral.utah.gov/), and [Wyoming](https://ag.wyo.gov/).
 
@@ -36,7 +36,7 @@ You can read the full brief [here](https://www.scag.gov/media/aj2nojfd/file-stam
 - [Steve Marshall](https://www.alabamaag.gov/about/), [Attorney General](https://www.alabamaag.gov/) of [Alabama](https://www.alabama.gov/)
 - Treg Taylor, [Attorney General](https://law.alaska.gov/department/about.html) of [Alaska](https://www.alaska.gov/)
 - [Tim Griffin](https://arkansasag.gov/meet-tim/), [Attorney General](https://arkansasag.gov/) of [Arkansas](https://www.az.gov/)
-- [James Uthmeier](https://www.myfloridalegal.com/ag-bio), [Attorney General](https://www.myfloridalegal.com/) of [Florida](https://www.myflorida.com/)
+- [James Uthmeier](https://www.myfloridalegal.com/ag-bio), [Attorney General](https://www.myfloridalegal.com/) of [Florida](https://www.myflorida.gov/)
 - [Christopher M. Carr](https://georgia.gov/chris-carr), [Attorney General](https://law.georgia.gov/) of [Georgia](https://georgia.gov/)
 - [Raúl Labrador](https://www.ag.idaho.gov/about/), [Attorney General](https://www.ag.idaho.gov/) of [Idaho](https://www.idaho.gov/)
 - [Theodore E. Rokita](https://www.in.gov/attorneygeneral/about-the-office/about-the-attorney-general/), [Attorney General](https://www.in.gov/attorneygeneral/) of [Indiana](https://www.in.gov/)
@@ -57,13 +57,13 @@ You can read the full brief [here](https://www.scag.gov/media/aj2nojfd/file-stam
 - [John McCuskey](https://ago.wv.gov/about/Pages/Meet-The-Attorney-General.aspx), [Attorney General](https://ago.wv.gov/Pages/default.aspx) of [West Virginia](https://www.wv.gov/)
 - [Bridget Hill](https://ag.wyo.gov/ag-biography)
 [Attorney General](https://ag.wyo.gov/) of [Wyoming](https://www.wyo.gov/)
-- [Constitution](https://constitution.congress.gov/)
+- [Constitution](https://constitution.congress.gov/constitution/)
 - [Fourteenth Amendment](https://constitution.congress.gov/constitution/amendment-14/)
 - [Supreme Court of the United States (SCOTUS)](https://www.supremecourt.gov/)
 - [U.S. Courts of Appeals](https://www.uscourts.gov/about-federal-courts/court-role-and-structure/about-us-courts-appeals)
 - [Ninth Circuit Court of Appeals - San Francisco, CA](https://www.uscourts.gov/federal-court-finder/location/213)
 - [District of Columbia / United States District Court](https://www.dcd.uscourts.gov/)
-- [President Biden](bidenwhitehouse.archives.gov/)
+- [President Biden](https://bidenwhitehouse.archives.gov/)
 - [Protecting The Meaning And Value Of American Citizenship – The White House](https://www.whitehouse.gov/presidential-actions/2025/01/protecting-the-meaning-and-value-of-american-citizenship/)
 - [President of the United States (POTUS)](https://www.whitehouse.gov/)
 - [White House (WH)](https://www.whitehouse.gov/)

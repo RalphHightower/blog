@@ -17,7 +17,7 @@ title: "Hiring Freeze Executive Order"
 
 January 20, 2025
 
-By the authority vested in me as [President](https://www.whitehouse.gov/) by the [Constitution](https://constitution.congress.gov/) and the laws of the United States of America, I hereby order a freeze on the hiring of Federal civilian employees, to be applied throughout the executive branch.  As part of this freeze, no Federal civilian position that is vacant at noon on January 20, 2025, may be filled, and no new position may be created except as otherwise provided for in this memorandum or other applicable law.  Except as provided below, this freeze applies to all executive departments and agencies regardless of their sources of operational and programmatic funding.
+By the authority vested in me as [President](https://www.whitehouse.gov/) by the [Constitution](https://constitution.congress.gov/constitution/) and the laws of the United States of America, I hereby order a freeze on the hiring of Federal civilian employees, to be applied throughout the executive branch.  As part of this freeze, no Federal civilian position that is vacant at noon on January 20, 2025, may be filled, and no new position may be created except as otherwise provided for in this memorandum or other applicable law.  Except as provided below, this freeze applies to all executive departments and agencies regardless of their sources of operational and programmatic funding.
 
 This order does not apply to military personnel of the armed forces or to positions related to immigration enforcement, national security, or public safety.  Moreover, nothing in this memorandum shall adversely impact the provision of [Social Security](https://www.ssa.gov/), [Medicare](https://www.medicare.gov/), or [Veterans’](https://www.va.gov/) benefits.  In addition, the [Director of the Office of Personnel Management (OPM)](https://www.opm.gov/) may grant exemptions from this freeze where those exemptions are otherwise necessary.
 
@@ -32,7 +32,7 @@ This memorandum does not limit the nomination and appointment of officials to po
 This memorandum does not abrogate any collective bargaining agreement in effect on the date of this memorandum.
 
 - [President](https://www.whitehouse.gov/)
-- [Constitution](https://constitution.congress.gov/)
+- [Constitution](https://constitution.congress.gov/constitution/)
 - [Social Security](https://www.ssa.gov/) [Medicare](https://www.medicare.gov/)
 - [Veterans](https://www.va.gov/)
 - [Director of the Office of Personnel Management (OPM)](https://www.opm.gov/)

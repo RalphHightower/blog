@@ -97,7 +97,7 @@ For more thought-provoking insights from Michael Steele, Alicia Menendez and Sym
 
 Michael Steele is a co-host of [“The Weeknight”](https://www.msnbc.com/the-weekend) which airs Monday through Friday at 7 p.m. ET on [MSNBC](https://www.msnbc.com/). He is a former lieutenant governor of [Maryland](https://www.maryland.gov/) and a former chairman of the Republican National Committee[^101]. 
 
-[^101]: @RalphHightower: Back then, it was still the Republican Party and not the [Trump Party](https://www.go.com/)
+[^101]: @RalphHightower: Back then, it was still the Republican Party and not the [Trump Party](https://www.gop.com/)
 
 ----
 - media

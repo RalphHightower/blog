@@ -67,7 +67,7 @@ The power couple have tried to support their actions by pushing a steady stream 
 - [ X ](https://x.com/)
 - [xAI](https://x.ai/)
 - [Department of Government Efficiency (DOGE)](https://www.doge.gov/)
-- [U.S. Constitution](https://constitution.congress.gov/)
+- [U.S. Constitution](https://constitution.congress.gov/constitution/)
 - [First Amendment](https://constitution.congress.gov/constitution/amendment-1/)
 - Freedom of Speech
 - Freedom of Press 

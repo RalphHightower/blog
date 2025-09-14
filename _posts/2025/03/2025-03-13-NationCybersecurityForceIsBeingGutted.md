@@ -168,7 +168,7 @@ If [Trump’s](https://www.whitehouse.gov/administration/donald-j-trump/) confro
 - [President Donald J. Trump](https://www.whitehouse.gov/administration/donald-j-trump/)
 - [President Of The United States (POTUS)](https://www.whitehouse.gov/)
 - [President Barack Obama](https://obamawhitehouse.archives.gov/)
-- [President Joe Biden](bidenwhitehouse.archives.gov/)
+- [President Joe Biden](https://bidenwhitehouse.archives.gov/)
 - [White House (WH)](https://www.whitehouse.gov/)
 - [The Trump Administration Is Deprioritizing Russia as a Cyber Threat / WIRED](https://www.wired.com/story/trump-administration-deprioritizing-russia-cyber-threat/#intcid=_wired-article-bottom-recirc_26a14984-b592-477a-85b6-7bc7de3bdeda_roberta-similarity1). Lily Hay Newman, Andy Greenberg. Security. Mar 1, 2025 6:30 AM
 - [Remarks by President Trump at Signing of H.R.3359, Cybersecurity and Infrastructure Security Agency Act – The White House](https://trumpwhitehouse.archives.gov/briefings-statements/remarks-president-trump-signing-h-r-3359-cybersecurity-infrastructure-security-agency-act/). November 16, 2018

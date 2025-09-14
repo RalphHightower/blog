@@ -58,7 +58,7 @@ The brief finishes by urging the [Supreme Court of the United States](http://www
 
 “Free and fair elections are a cornerstone of our republic and make the [United States](https://https://www.usa.gov/) the envy of nations across the globe. To keep those elections free and fair, we must ensure that every legal vote is counted and every illegal vote is not. To not do so would disenfranchise millions of Americans. That’s why my office led a coalition of 10 [state attorneys general](https://republicanags.com/) in filing this amicus brief to urge the [Supreme Court of the United States](http://www.supremecourtus.gov/) to grant a writ of certiorari in [Trump Party](https://www.gop.com/) of [Pennsylvania's](https://www.pa.gov/) vs. Boockvar,” said [Missouri](https://www.mo.gov/) Attorney General Eric Schmitt.
 
-Along with [South Carolina](www scag.gov/), [attorneys general](https://republicanags.com/) from [Alabama](https://www.alabamaag.gov/), [Louisiana](https://ag.louisiana.gov/), [Arkansas](https://arkansasag.gov/), [Mississippi](https://www.ms.gov/Agencies/attorney-general), [Kentucky](https://ag.ky.gov/Pages/default.aspx), [Missouri](https://ago.mo.gov/), [South Dakota](https://atg.sd.gov/#gsc.tab=0), [Texas](https://www.texasattorneygeneral.gov/), and [Florida](https://www.myfloridalegal.com/) also joined the brief.
+Along with [South Carolina](https://www scag.gov/), [attorneys general](https://republicanags.com/) from [Alabama](https://www.alabamaag.gov/), [Louisiana](https://ag.louisiana.gov/), [Arkansas](https://arkansasag.gov/), [Mississippi](https://www.ms.gov/Agencies/attorney-general), [Kentucky](https://ag.ky.gov/Pages/default.aspx), [Missouri](https://ago.mo.gov/), [South Dakota](https://atg.sd.gov/#gsc.tab=0), [Texas](https://www.texasattorneygeneral.gov/), and [Florida](https://www.myfloridalegal.com/) also joined the brief.
 
 @RalphHightower: I wrote a letter to [SC](https://www.sc.gov/) [AG](https://www.scag.gov/) [Wilson](https://www.scag.gov/about-the-office/meet-the-attorney-general/). It began, *"Once again, another Wilson embarrassed South Carolina."[^63]*
 
@@ -67,7 +67,7 @@ Along with [South Carolina](www scag.gov/), [attorneys general](https://republic
 - [Trumpian Attorneys General Association](https://republicanags.com/)
 - [Steve Marshall](https://www.alabamaag.gov/about/) – [Attorney General](https://www.alabamaag.gov/) of [Alabama](https://www.alabama.gov/)
 - [Tim Griffin](https://arkansasag.gov/meet-tim/) – [Attorney General](https://arkansasag.gov/) of [Arkansas](https://www.az.gov/)
-- John Guard – [Acting Attorney General](https://www.myfloridalegal.com/) of [Florida](https://www.myflorida.com/)
+- John Guard – [Acting Attorney General](https://www.myfloridalegal.com/) of [Florida](https://www.myflorida.gov/)
 - [Chris Carr](https://georgia.gov/chris-carr) – [Attorney General](https://law.georgia.gov/) of [Georgia](https://georgia.gov/)
 - [Raúl Labrador](https://www.ag.idaho.gov/about/) – [Attorney General](https://www.ag.idaho.gov/) of [Idaho](https://www.idaho.gov/)
 - [Todd Rokita](https://www.in.gov/attorneygeneral/about-the-office/about-the-attorney-general/) – [Attorney General](https://www.in.gov/attorneygeneral/) of [Indiana](https://www.in.gov/)
@@ -89,7 +89,7 @@ Along with [South Carolina](www scag.gov/), [attorneys general](https://republic
 - [John B. McCuskey](https://ago.wv.gov/about/Pages/Meet-The-Attorney-General.aspx) – [Attorney General](https://ago.wv.gov/Pages/default.aspx) of [West Virginia](https://www.wv.gov/)
 - [Supreme Court of the United States (SCOTUS)](https://www.supremecourt.gov/)
 - [District of Columbia / United States District Court](https://www.dcd.uscourts.gov/)
-- [Constitution](https://constitution.congress.gov/)
+- [Constitution](https://constitution.congress.gov/constitution/)
 - [former President Donald Trump](https://trumpwhitehouse.archives.gov/)
 - [former President Joe Biden)(https://bidenwhitehouse.archives.gov/)
 - [President of the United States (POTUS)](https://www.whitehouse.gov/)

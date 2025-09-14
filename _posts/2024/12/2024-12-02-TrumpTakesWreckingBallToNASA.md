@@ -13,7 +13,7 @@ title: "Trump/Musk Alliance Will Gut American Ingenuity, Innovation, and Leaders
 ---
 
 
-@RalphHightower: Before the article about [Trump](https://www.donaldjtrump.com/)’s and [Musk](https://ir.tesla.com/corporate/elon-musk)'s plan to turn [[NASA](https://www.nasa.gov/), watch [Neil deGrasse Tyson](https://neildegrassetyson.com/)'s video asking the question, "Has [SpaceX](https://www.spacex.com/) Done Anything [NASA](https://www.nasa.gov/) Hasn't?"
+@RalphHightower: Before the article about [Trump](https://www.donaldjtrump.com/)’s and [Musk](https://ir.tesla.com/corporate/elon-musk)'s plan to turn [NASA](https://www.nasa.gov/), watch [Neil deGrasse Tyson](https://neildegrassetyson.com/)'s video asking the question, "Has [SpaceX](https://www.spacex.com/) Done Anything [NASA](https://www.nasa.gov/) Hasn't?"
 
 [SpaceX](https://www.spacex.com/) will only do things that make money. Yeah, he plans to launch people to [Mars](https://science.nasa.gov/mission/mars-2020-perseverance/). But how is he going to pay for it? The research? The development? The testing?
 
@@ -29,7 +29,7 @@ Would [Musk](https://ir.tesla.com/corporate/elon-musk) develop the [James Webb S
 
 <iframe width="853" height="480" src="https://www.youtube.com/embed/3Jgev_YGl44" title="Has SpaceX Done Anything NASA Hasn&#39;t?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Oct 24, 2024 [[Neil deGrasse Tyson](https://neildegrassetyson.com/) Explains...
+Oct 24, 2024 [Neil deGrasse Tyson](https://neildegrassetyson.com/) Explains...
 Does [SpaceX](https://www.spacex.com/) have a role in furthering the frontier of space exploration? [Neil deGrasse Tyson](https://neildegrassetyson.com/) addresses comments on [SpaceX](https://www.spacex.com/)’s trip to [Mars](https://science.nasa.gov/mission/mars-2020-perseverance/), the role of public versus private enterprise in space exploration, and whether companies can afford to take the risks needed in space travel.
 
 [Neil deGrasse Tyson](https://neildegrassetyson.com/): "Civilization has in essentially every case been led geopolitically by Nations. Nations lead expensive projects and when the cost of these projects are understood the risks are Quantified and the time frames are established then private Enterprise comes in later to see if they can make a buck off of it."

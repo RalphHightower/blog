@@ -21,11 +21,11 @@ When the American people elected [President Trump](https://www.whitehouse.gov/) 
 
 [^21]: @RalphHightower: 2024 was not a decisive victory or a mandate. [Trump](https://www.whitehouse.gov/) did not get 50% of the vote. His margin of victory was less than 1.5%, 1.48% to be exact; although he did pick up nine more electoral college votes from 2016. Tables are provided from the [Federal Election Commission (FEC)](https://www.fec.gov/) above the footnotes.
 
-“It was the [Biden administration](bidenwhitehouse.archives.gov/) that estimated there’s between \$233 billion and \$521 billion in federal government waste, fraud, and abuse, and [President Trump](https://www.whitehouse.gov/) is combatting that and saving taxpayers’ money,” [Attorney General](https://www.scag.gov/) [Wilson](https://www.scag.gov/about-the-office/meet-the-attorney-general/) said. “While that should be a bipartisan effort[^31], the [other side](https://www.dems.org/) has filed a lawsuit to undermine the [President’s](https://www.whitehouse.gov/) authority to manage the executive branch.”
+“It was the [Biden administration](https://bidenwhitehouse.archives.gov/) that estimated there’s between \$233 billion and \$521 billion in federal government waste, fraud, and abuse, and [President Trump](https://www.whitehouse.gov/) is combatting that and saving taxpayers’ money,” [Attorney General](https://www.scag.gov/) [Wilson](https://www.scag.gov/about-the-office/meet-the-attorney-general/) said. “While that should be a bipartisan effort[^31], the [other side](https://www.dems.org/) has filed a lawsuit to undermine the [President’s](https://www.whitehouse.gov/) authority to manage the executive branch.”
 
 [^31]: @RalphHightower: No, the [Democratic Attorneys General](https://www.dems.org/) recognize and acknowledge that protecting Americans Personal Identifiable Information (PII) from [DOGE employees](https://doge.gov/) without security clearances and background checks is more important than implementing [Trump’s](https://www.whitehouse.gov/) Wrecking Ball in his destruction of America.
 
-The [states](https://republicanags.com/) make the case that Article II of the [Constitution](https://constitution.congress.gov/) grants [President Trump](https://www.whitehouse.gov/) the authority to direct executive branch agencies. The [states](https://republicanags.com/) urge the court to let [President Trump’s administration](https://www.whitehouse.gov/) continue doing its job to eliminate federal fraud and waste.
+The [states](https://republicanags.com/) make the case that Article II of the [Constitution](https://constitution.congress.gov/constitution/) grants [President Trump](https://www.whitehouse.gov/) the authority to direct executive branch agencies. The [states](https://republicanags.com/) urge the court to let [President Trump’s administration](https://www.whitehouse.gov/) continue doing its job to eliminate federal fraud and waste.
 
 [Attorney General](https://www.scag.gov/) [Wilson](https://www.scag.gov/about-the-office/meet-the-attorney-general/) is also actively supporting state [DOGE](https://www.scag.gov/) efforts to investigate waste fraud and abuse at the state level.
 
@@ -35,7 +35,7 @@ Read the full brief [here](https://www.scag.gov/media/1pljpa02/doc-53-amicus-bri
 
 - [Steve Marshall](https://www.alabamaag.gov/about/) – [Attorney General](https://www.alabamaag.gov/) of [Alabama](https://www.alabama.gov/)
 - [Tim Griffin](https://arkansasag.gov/meet-tim/) – [Attorney General](https://arkansasag.gov/) of [Arkansas](https://www.az.gov/)
-- John Guard – [Acting Attorney General](https://www.myfloridalegal.com/) of [Florida](https://www.myflorida.com/)
+- John Guard – [Acting Attorney General](https://www.myfloridalegal.com/) of [Florida](https://www.myflorida.gov/)
 - [Chris Carr](https://georgia.gov/chris-carr) – [Attorney General](https://law.georgia.gov/) of [Georgia](https://georgia.gov/)
 - [Todd Rokita](https://www.in.gov/attorneygeneral/about-the-office/about-the-attorney-general/) – [Attorney General](https://www.in.gov/attorneygeneral/) of [Indiana](https://www.in.gov/)
 - [Raúl Labrador](https://www.ag.idaho.gov/about/) – [Attorney General](https://www.ag.idaho.gov/) of [Idaho](https://www.idaho.gov/)

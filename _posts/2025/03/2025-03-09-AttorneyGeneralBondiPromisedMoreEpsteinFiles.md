@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [media, MSNBC, Ja’han Jones, ABC News, Variety - Entertainment news film reviews awards film festivals box office entertainment industry conferences, Poynter - Poynter, Homepage / Them, Mediaite.com / Media & Politics News / TV Print Online, Newsweek - News Analysis Politics Business Technology, The Hill - covering Congress Politics Political Campaigns and Capitol Hill, Semafor - An intelligent transparent global news platform for breaking stories analysis and video, organizations, political parties, universities, foreign governments, state localgovernments, federal government, Constitution of the United States, Article I – Legislative Branch, Article II – Executive Branch, Article III – Judicial Branch, Article IV – Relationships Between the States, Article V – Amending the Constitution, Article VI – Prior Debts National Supremacy Clause and Oaths of Office, Article VII – Ratification, Alien Enemies Act, US Courts, Department of Justice, New York Southern District, Criminal Division / Public Integrity Section (PIN) / United States Department of Justice, Congress, Senate, House of Representatives, President of the United States (POTUS), White House (WH), Trump crime family, Donald J Trump, President Donald Trump (45), President Donald Trump (47), President Donald Trump (47) Administration, President Donald Trump (47) Cabinet, Pam Bondi, grift, self-dealing, corruption, con, crime, cryptocurrency, criminal businesses, Liars Club, Faux News, criminal associates, Laura Loomer, crime partners, Steve Bannon, human trafficking, sex trafficking]
+tags: [media, MSNBC, Ja’han Jones, ABC News, Variety - Entertainment news film reviews awards film festivals box office entertainment industry conferences, Poynter - Poynter, Homepage / Them, Mediaite.com / Media & Politics News / TV Print Online, Newsweek - News Analysis Politics Business Technology, The Hill - covering Congress Politics Political Campaigns and Capitol Hill, Semafor - An intelligent transparent global news platform for breaking stories analysis and video, organizations, political parties, universities, foreign governments, state localgovernments, federal government, Constitution of the United States, Article I – Legislative Branch, Article II – Executive Branch, Article III – Judicial Branch, Article IV – Relationships Between the States, Article V – Amending the Constitution, Article VI – Prior Debts National Supremacy Clause and Oaths of Office, Article VII – Ratification, Alien Enemies Act, US Courts, Department of Justice, New York Southern District, Criminal Division / Public Integrity Section (PIN) / United States Department of Justice, Congress, Senate, House of Representatives, President of the United States (POTUS), White House (WH), Trump crime family, Donald J Trump, President Donald Trump (45), President Donald Trump (47), President Donald Trump (47) Administration, President Donald Trump (47) Cabinet, Pam Bondi, grift, self-dealing, corruption, con, crime, cryptocurrency, criminal businesses, Liars Club, Faux News, criminal associates, Laura Loomer, , Steve Bannon, human trafficking, sex trafficking]
 categories: [Jeffrey Epstein, Ghislaine Maxwell, Trump Crime Family, Donald Trump]
 date: 2025-03-07 3:48 PM
 excerpt: ''
@@ -54,7 +54,7 @@ Ja’han Jones is an [MSNBC](https://www.msnbc.com/) opinion blogger. He previou
 - foreign governments 
 - state, localgovernments
 - federal government 
-- [Constitution of the United States](https://constitution.congress.gov/)
+- [Constitution of the United States](https://constitution.congress.gov/constitution/)
 - [Article I – Legislative Branch](https://constitution.congress.gov/constitution/article-1/)
 - [Article II – Executive Branch](https://constitution.congress.gov/constitution/article-2/)
 - [Article III – Judicial Branch](https://constitution.congress.gov/constitution/article-3/)
@@ -90,7 +90,7 @@ Ja’han Jones is an [MSNBC](https://www.msnbc.com/) opinion blogger. He previou
     - [Faux News](https://www.foxnews.com/)
 - criminal associates
     - [Laura Loomer](https://loomered.com/)
-- crime partners
+- criminal partners
 - Steve Bannon 
 - human trafficking 
 - sex trafficking 

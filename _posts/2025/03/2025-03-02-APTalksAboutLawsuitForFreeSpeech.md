@@ -15,31 +15,31 @@ title: "AP Executive Editor Discusses Freedom Of Speech Lawsuit Against White Ho
 
 Story by Kipp Jones. March 2, 2025
 
-Julie Pace, the executive editor for the [Associated Press](https://www.apnews.com/), told [ABC News](https://abcnews.go.com/) on Sunday morning that her [organization](https://www.apnews.com/) will not capitulate in order to be allowed back into the [White House](https://www.whitehouse.gov/) to cover [President Donald Trump](https://www.whitehouse.gov/administration/donald-j-trump/).
+Julie Pace, the executive editor for the [Associated Press](https://apnews.com/), told [ABC News](https://abcnews.go.com/) on Sunday morning that her [organization](https://apnews.com/) will not capitulate in order to be allowed back into the [White House](https://www.whitehouse.gov/) to cover [President Donald Trump](https://www.whitehouse.gov/administration/donald-j-trump/).
 
-Pace said the [wire service](https://www.apnews.com/) is digging in for a [free speech](https://constitution.congress.gov/constitution/amendment-1/) battle it hopes to win on behalf of news organizations and individual citizens she said do not want their language policed by government.
+Pace said the [wire service](https://apnews.com/) is digging in for a [free speech](https://constitution.congress.gov/constitution/amendment-1/) battle it hopes to win on behalf of news organizations and individual citizens she said do not want their language policed by government.
 
-The [AP](https://www.apnews.com/) has spent several weeks barred from entering the [Oval Office](https://www.whitehouse.gov/) and traveling with [Trump](https://www.whitehouse.gov/administration/donald-j-trump/) over its refusal to follow Trump’s [executive order renaming the Gulf of Mexico to the Gulf of America](https://www.whitehouse.gov/presidential-actions/2025/01/restoring-names-that-honor-american-greatness/).
+The [AP](https://apnews.com/) has spent several weeks barred from entering the [Oval Office](https://www.whitehouse.gov/) and traveling with [Trump](https://www.whitehouse.gov/administration/donald-j-trump/) over its refusal to follow Trump’s [executive order renaming the Gulf of Mexico to the Gulf of America](https://www.whitehouse.gov/presidential-actions/2025/01/restoring-names-that-honor-american-greatness/).
 
-The [White House](https://www.whitehouse.gov/) has positioned the [AP](https://www.apnews.com/) as a fringe outlet that is lying to readers. The [AP](https://www.apnews.com/) has said that referring to the body of water is at odds with its style guide, which will not be updated to placate the White House.
+The [White House](https://www.whitehouse.gov/) has positioned the [AP](https://apnews.com/) as a fringe outlet that is lying to readers. The [AP](https://apnews.com/) has said that referring to the body of water is at odds with its style guide, which will not be updated to placate the White House.
 
-On Sunday’s edition of This Week, Pace told anchor George Stephanopoulos the [AP](https://www.apnews.com/) is prepared to dig in for the long haul.
+On Sunday’s edition of This Week, Pace told anchor George Stephanopoulos the [AP](https://apnews.com/) is prepared to dig in for the long haul.
 
 Stephanopoulos:
 
-- “Julie, you’re the executive editor of the [Associated Press](https://www.apnews.com/). The [Associated Press](https://www.apnews.com/) has now been blocked from basically from covering the [White House](https://www.whitehouse.gov/) because you refused to call the Gulf of Mexico, the Gulf of America. Where do things stand right now? How is it affecting your coverage?”
+- “Julie, you’re the executive editor of the [Associated Press](https://apnews.com/). The [Associated Press](https://apnews.com/) has now been blocked from basically from covering the [White House](https://www.whitehouse.gov/) because you refused to call the Gulf of Mexico, the Gulf of America. Where do things stand right now? How is it affecting your coverage?”
 
 Pace replied:
 
-- “So I think the first thing I would say is the [Associated Press](https://www.apnews.com/) is 179 years old. We’re a global, independent, nonpartisan news organization that’s had a commitment to covering the [White House](https://www.whitehouse.gov/) since our founding. And, you know, really you mentioned this is about Gulf of America, Gulf of Mexico, you know, yes, it’s about that, but it’s also about something so much bigger. You know, this is about [freedom of speech](https://constitution.congress.gov/constitution/amendment-1/). And that is a principle, a right that Americans across the political spectrum believe in deeply. This is about whether the government can control the language that we use, that ordinary people can use. And it’s about whether the government can retaliate against you if you don’t use the language that they prefer. So we are standing up for that, right? Not just for the [AP](https://www.apnews.com/), but for all independent news organizations and for the public, because we believe, again, that this is a principle of freedom of speech.”
+- “So I think the first thing I would say is the [Associated Press](https://apnews.com/) is 179 years old. We’re a global, independent, nonpartisan news organization that’s had a commitment to covering the [White House](https://www.whitehouse.gov/) since our founding. And, you know, really you mentioned this is about Gulf of America, Gulf of Mexico, you know, yes, it’s about that, but it’s also about something so much bigger. You know, this is about [freedom of speech](https://constitution.congress.gov/constitution/amendment-1/). And that is a principle, a right that Americans across the political spectrum believe in deeply. This is about whether the government can control the language that we use, that ordinary people can use. And it’s about whether the government can retaliate against you if you don’t use the language that they prefer. So we are standing up for that, right? Not just for the [AP](https://apnews.com/), but for all independent news organizations and for the public, because we believe, again, that this is a principle of freedom of speech.”
 
 When asked if she had any predictions about the lawsuit, she responded:
 
 - “We certainly hope that it results in us being allowed back in to cover [White House](https://www.whitehouse.gov/) events, because we’re there to be the eyes and ears for Americans and people around the world.”
 
 - [ABC News](https://abcnews.go.com/)
-- [Associated Press (AP)](https://www.apnews.com/)
-- [U.S. Constitution](https://constitution.congress.gov/)
+- [Associated Press (AP)](https://apnews.com/)
+- [U.S. Constitution](https://constitution.congress.gov/constitution/)
 - [First Amendment](https://constitution.congress.gov/constitution/amendment-1/)
 - Freedom of Speech
 - Freedom of Press 

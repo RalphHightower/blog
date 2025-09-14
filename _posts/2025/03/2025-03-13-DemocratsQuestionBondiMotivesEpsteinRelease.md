@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [media, MSNBC, Deadline –  Legal Blog, Jordan Rubin, Wall Street Journal (WSJ), organizations, National Association of Criminal Defense Lawyers, companies, Dow Jones – Trusted News & Data, News Corp, foreign countries, state local governments, New York City (NYC) New York, Eric Adams – Mayor - Overview - City of New York, political parties, Trumpian Party, Democrat Party, Federal Government, Constitution of the United States, Supreme Court of the United States (SCOTUS), US Courts, Department of Justice (DOJ), New York Southern District, Southern District of New York / About, BOP –  Federal Bureau of Prisons Web Site, Department of State (DOS), Federal Bureau of Investigation (FBI), James Comey, Congress, President of the United States (POTUS), Senate, House of Representatives, White House (WH), William J. Clinton Presidential Library and Museum, Donald J Trump, President Donald Trump (45), President Donald Trump (47), President Trump (47) Administration, President Trump (47) Cabinet, JD Vance, Vice President JD Vance, Pam Bondi, Kash Patel, Deputy Director Dan Bongino — FBI, Robert F Kennedy Jr, tariffs, politics, stupidity, grift, self-dealing, corruption, con, crime, cryptocurrency, criminal businesses, criminal associates, criminal partners, criminal businesses, criminal associates, crime partners, human trafficking, sex trafficking, pedophile, Jeffrey Epstein, Ghislaine Maxwell, Bill Clinton]
+tags: [media, MSNBC, Deadline –  Legal Blog, Jordan Rubin, Wall Street Journal (WSJ), organizations, National Association of Criminal Defense Lawyers, companies, Dow Jones – Trusted News & Data, News Corp, foreign countries, state local governments, New York City (NYC) New York, Eric Adams – Mayor - Overview - City of New York, political parties, Trumpian Party, Democrat Party, Federal Government, Constitution of the United States, Supreme Court of the United States (SCOTUS), US Courts, Department of Justice (DOJ), New York Southern District, Southern District of New York / About, BOP –  Federal Bureau of Prisons Web Site, Department of State (DOS), Federal Bureau of Investigation (FBI), James Comey, Congress, President of the United States (POTUS), Senate, House of Representatives, White House (WH), William J. Clinton Presidential Library and Museum, Donald J Trump, President Donald Trump (45), President Donald Trump (47), President Trump (47) Administration, President Trump (47) Cabinet, JD Vance, Vice President JD Vance, Pam Bondi, Kash Patel, Deputy Director Dan Bongino — FBI, Robert F Kennedy Jr, tariffs, politics, stupidity, grift, self-dealing, corruption, con, crime, cryptocurrency, criminal businesses, criminal associates, criminal partners, criminal businesses, criminal associates, , human trafficking, sex trafficking, pedophile, Jeffrey Epstein, Ghislaine Maxwell, Bill Clinton]
 categories: [Jeffrey Epstein, Ghislaine Maxwell, Trump Crime Family, Donald Trump]
 date: 2025-03-13 9:05 AM
 excerpt: ''
@@ -34,7 +34,7 @@ In 2002, before Epstein had been charged with any crimes, [Trump](https://www.do
 
 As soft as this resistance from [Democrats](https://www.democrats.org/) may seem — launched via social media posts and not, apparently, in the halls of [Congress](https://www.congress.gov/) — it does appear to be the most sustained effort by [Democrats](https://www.democrats.org/) in any official capacity to bring attention to [Trump](https://www.donaldjtrump.com/) and his associates’ ties to Epstein. 
 
-Which is noteworthy, given [Democrats](https://www.democrats.org/)’ rather odd decision to cede the field on the topic to far-right influencers who might attempt to use the files to attack [Democrats](https://www.democrats.org/) linked to Epstein, like the former [president](https://www.whitehouse.gov/) and the late [New Mexico](https://www.nm.gov/) Gov. Bill Richardson. (A spokesman for [Clinton said in 2019](https://www.cnn.com/2019/07/08/politics/bill-clinton-jeffrey-epstein/index.html) that “[President Clinton](https://www.clintonlibrary.gov/) knows nothing about the terrible crimes Jeffrey Epstein pleaded guilty to in [Florida](https://www.myflorida.com/) some years ago, or those with which he has been recently charged in [New York](https://www.ny.gov/).”) For whatever reason, Democrats have reached a point where they don’t seem comfortable letting [Bondi](https://www.justice.gov/ag/staff-profile/meet-attorney-general/) (or [Trump](https://www.donaldjtrump.com/)’s [Justice Department](https://www.justice.gov/), more broadly) frame this story.
+Which is noteworthy, given [Democrats](https://www.democrats.org/)’ rather odd decision to cede the field on the topic to far-right influencers who might attempt to use the files to attack [Democrats](https://www.democrats.org/) linked to Epstein, like the former [president](https://www.whitehouse.gov/) and the late [New Mexico](https://www.nm.gov/) Gov. Bill Richardson. (A spokesman for [Clinton said in 2019](https://www.cnn.com/2019/07/08/politics/bill-clinton-jeffrey-epstein/index.html) that “[President Clinton](https://www.clintonlibrary.gov/) knows nothing about the terrible crimes Jeffrey Epstein pleaded guilty to in [Florida](https://www.myflorida.gov/) some years ago, or those with which he has been recently charged in [New York](https://www.ny.gov/).”) For whatever reason, Democrats have reached a point where they don’t seem comfortable letting [Bondi](https://www.justice.gov/ag/staff-profile/meet-attorney-general/) (or [Trump](https://www.donaldjtrump.com/)’s [Justice Department](https://www.justice.gov/), more broadly) frame this story.
 
 For the record, [Trump](https://www.donaldjtrump.com/) — who as you may remember [wished Maxwell well](https://www.nytimes.com/2020/07/21/nyregion/trump-ghislaine-maxwell-jeffrey-epstein.html) during her child sexual abuse trial — has sent mixed messages about the release of documents related to his former associate’s federal sex trafficking case. He hedged last year when asked whether the [Epstein documents should be released](https://www.snopes.com/fact-check/musk-maxwell-photo/), initially answering “yes” before telling [Faux News](https://www.foxnews.com/), “I think that less so because, you don’t know, you don’t want to affect people’s lives if it’s phony stuff in there, because it’s a lot of phony stuff with that whole world.”
 
@@ -60,7 +60,7 @@ Ja’han Jones is an MSNBC opinion blogger. He previously wrote The ReidOut Blog
 - [Trumpian Party](https://www.gop.com/)
 - [Democrat Party](https://www.democrats.org/)
 - Federal Government 
-- [Constitution of the United States](https://constitution.congress.gov/)
+- [Constitution of the United States](https://constitution.congress.gov/constitution/)
     - [Supreme Court of the United States (SCOTUS)](https://www.supremecourt.gov/)
     - [US Courts](https://www.uscourts.gov/)
     - [Department of Justice (DOJ)](https://www.justice.gov/)
@@ -70,7 +70,7 @@ Ja’han Jones is an MSNBC opinion blogger. He previously wrote The ReidOut Blog
     - [Department of State (DOS)](https://www.state.gov/)
     - [Federal Bureau of Investigation (FBI)](https://www.fbi.gov/)
         - [James Comey](https://www.fbi.gov/history/directors/james-b-comey)
-    - [Congress](https;//www.congress.gov/)
+    - [Congress](https://www.congress.gov/)
     - [President of the United States (POTUS)](https://www.whitehouse.gov/)
         - [Senate](https://www.senate.gov/)
         - [House of Representatives](https://www.house.gov/)
@@ -96,12 +96,9 @@ Ja’han Jones is an MSNBC opinion blogger. He previously wrote The ReidOut Blog
 - con
 - crime
 - cryptocurrency 
-- criminal businesses
 - criminal associates
+- criminal businesses
 - criminal partners
-- criminal businesses
-- criminal associates
-- crime partners
     - human trafficking 
     - sex trafficking 
     - pedophile 

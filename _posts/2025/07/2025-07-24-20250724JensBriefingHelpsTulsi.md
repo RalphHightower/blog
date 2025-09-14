@@ -15,7 +15,7 @@ title: "Jen's Press Briefing 2025-07-24: Jen Helps Tulsi Gabbard Answer Question
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AIiFMGzBfS8?si=zWabobc4cNKBCJDA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Jul 24, 2025  [#WhiteHouse](https://www.whitehouse.gov/) [#TulsiGabbard](ttps://www.odni.gov/index.php/who-we-are/leadership/director-of-national-intelligence) [#Russia](http://kremlin.ru/)
+Jul 24, 2025  [#WhiteHouse](https://www.whitehouse.gov/) [#TulsiGabbard](https://www.odni.gov/index.php/who-we-are/leadership/director-of-national-intelligence) [#Russia](http://kremlin.ru/)
 Jen Psaki offers her version of answers to questions at the [White House](https://www.whitehouse.gov/) press briefing at which [DNI](https://www.odni.gov/) [Tulsi Gabbard](https://www.odni.gov/index.php/who-we-are/leadership/director-of-national-intelligence) struggled to make her case for her new report on [Russian](http://kremlin.ru/) interference in the 2016 election, her apparent contribution to the [Trump](https://www.donaldjtrump.com/) [administration](https://www.whitehouse.gov/administration/)'s effort to distract from [Trump](https://www.donaldjtrump.com%)'s Jeffrey Epstein scandal. 
 
 For more context and news coverage of the most important stories of our day click here: https://www.msnbc.com/
@@ -34,7 +34,7 @@ Connect with MSNBC Online
 Visit msnbc.com: https://www.msnbc.com/ 
 Subscribe to the MSNBC Daily Newsletter: https://link.msnbc.com/join/5ck/msnbc...
 
-[#WhiteHouse](https://www.whitehouse.gov/) [#TulsiGabbard](ttps://www.odni.gov/index.php/who-we-are/leadership/director-of-national-intelligence) [#Russia](http://kremlin.ru/)
+[#WhiteHouse](https://www.whitehouse.gov/) [#TulsiGabbard](https://www.odni.gov/index.php/who-we-are/leadership/director-of-national-intelligence) [#Russia](http://kremlin.ru/)
 
 ----
 - media

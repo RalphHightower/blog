@@ -30,7 +30,7 @@ We don’t have similar tracking for users who used the [X](https://x.com/) mobi
 - [X’s](https://x.com/) US web traffic had already set a record for the year on election day with 42.3 million visits, then climbed another 10% the following day to 46.5 million.
 - The increase in daily active users for the [X](https://x.com/) mobile apps was not as dramatic – elevated over previous days but no higher than it was during the Republican National Convention.
 - Web traffic and daily active users for [Bluesky](https://bsky.app/) increased dramatically in the week before the election, and then again after election day. For several days, [Bluesky](https://bsky.app/)’s website (bsky.app) had more traffic than [Threads](https://www.threads.net/) (threads.net), which had not previously been the case. [Threads](https://www.threads.net/) is far ahead of [Bluesky](https://bsky.app/) in mobile app usage, however.
-- [Truth Social](truthsocial.com) web and app engagement was up on Tuesday and Wednesday, but not as high as some days during the Republican National Convention.
+- [Truth Social](https://truthsocial.com) web and app engagement was up on Tuesday and Wednesday, but not as high as some days during the Republican National Convention.
 - Worldwide, Nov. 6 was the year’s second highest day of web traffic to x.com — 173.3 million visits, compared with 175.5 million on July 14, the day after the assassination attempt on Trump.
 
 **Updates, as of Nov 15:** In the US, [Bluesky](https://bsky.app/)’s daily active users for iOS and Android increased 73% in the week after the election. To be clear, [Bluesky](https://bsky.app/) is still a relatively small player — on [Bluesky](https://bsky.app/)’s best day, that DAU count was about 1/3 of the audience of [Threads](https://www.threads.net/) and about 1/20 of [X.](https://x.com/) Meanwhile, from election day through Tuesday the 12th, we estimate there were about 1.8 million [X](https://x.com/) account deactivations worldwide, including about 482K in the US.
@@ -51,8 +51,8 @@ On the other hand, [X’s](https://x.com/) recent daily peak in US traffic doesn
 
 In the US, [Bluesky](https://bsky.app/) got more web visits than [Threads](https://www.threads.net/) in the immediate aftermath of the election. For context, it’s important to note that both services are app centric, even though they support a web user interface.
 
-### [Truth Social](truthsocial.com) engagement up (but not that much)
+### [Truth Social](https://truthsocial.com) engagement up (but not that much)
 
-The [Truth Social](truthsocial.com) website (truthsocial.com) drew about 982,000 visits on election day, but that’s less traffic than it got on some days of the Republican National Convention (1.4 million on July 14).
+The [Truth Social](https://truthsocial.com) website (truthsocial.com) drew about 982,000 visits on election day, but that’s less traffic than it got on some days of the Republican National Convention (1.4 million on July 14).
 
-[Truth Social'](truthsocial.com) mobile got about 200,000 daily active users in the US on Nov. 6, which is about 8% higher than previous peaks within the past year.
+[Truth Social](https://truthsocial.com) mobile got about 200,000 daily active users in the US on Nov. 6, which is about 8% higher than previous peaks within the past year.

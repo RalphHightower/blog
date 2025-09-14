@@ -27,7 +27,7 @@ The move by [DOGE](https://doge.gov/), a [Trump](https://www.whitehouse.gov/) ad
 
 The New York Times first reported the news of the group’s access of the massive [federal payment system](https://fiscal.treasury.gov/). The two people who spoke to The Associated Press spoke on condition of anonymity because they were not authorized to speak publicly.
 
-The highest-ranking [Democrat](https://www.democrats.org/) on the [Senate Finance Committee](https://www.finance.senate.gov/), [Ron Wyden](https://www.wyden.senate.gov/) of [Oregon](https://www.oregon.gov/), on Friday sent a letter to [Trump's](https://www.whitehouse.gov/) Treasury Secretary [Scott Bessen](thttps://home.treasury.gov/about/general-information/officials/scott-bessent) expressing concern that “officials associated with Musk may have intended to access these [payment systems](http://www.fiscal.treasury.gov/) to illegally withhold payments to any number of programs.”
+The highest-ranking [Democrat](https://www.democrats.org/) on the [Senate Finance Committee](https://www.finance.senate.gov/), [Ron Wyden](https://www.wyden.senate.gov/) of [Oregon](https://www.oregon.gov/), on Friday sent a letter to [Trump's](https://www.whitehouse.gov/) Treasury Secretary [Scott Bessen](https://home.treasury.gov/about/general-information/officials/scott-bessent) expressing concern that “officials associated with Musk may have intended to access these [payment systems](http://www.fiscal.treasury.gov/) to illegally withhold payments to any number of programs.”
 
 “To put it bluntly, these [payment systems](http://www.fiscal.treasury.gov/) simply cannot fail, and any politically motivated meddling in them risks severe damage to our country and the economy,” [Wyden](https://www.wyden.senate.gov/) said.
 
