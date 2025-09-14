@@ -41,7 +41,7 @@ A [recent investigation by The Atlanta Journal-Constitution](https://www.ajc.com
 
 According to the [Recorder](https://georgiarecorder.com/), some people in [Georgia](https://www.georgia.gov/) have returned money they received to a court-appointed receiver, including [Gov.](https://gov.georgia.gov/) [Brian Kemp](https://gov.georgia.gov/about-us/about-governor-brian-p-kemp), whose donations appear to have come before the alleged scheme began, and [Raffensperger](https://sos.ga.gov/page/about-secretary-raffensperger).
 
-The receiver, [Gregory Hay](shttps://haysconsulting.net/about-us/s-gregory-hays-2/), basically said the scheme was meant to exploit right-wing Christians’ generosity toward like-minded causes:
+The receiver, [Gregory Hay](https://haysconsulting.net/about-us/s-gregory-hays-2/), basically said the scheme was meant to exploit right-wing Christians’ generosity toward like-minded causes:
 
 “We call these affinity frauds, where you base it on a certain group, and this is very religious Christians and [Republicans](https://www.gop.com/),” said Gregory Hays of Atlanta-based [Hays Financial Consulting](https://haysconsulting.net/), who was appointed by a U.S. district court judge to receive the money from those returning the funds. “So most of all the victims are either in politics or very faith-based investors, and all of them that I talked to were influenced by the charitable giving and the feel-good side of the company.”
 
