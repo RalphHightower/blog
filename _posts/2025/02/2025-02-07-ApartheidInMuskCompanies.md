@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [Latin Times, Tesla, racism, Apartheid, Office of Federal Contract Compliance Programs (OFCCP), Department of Labor (DOL), Equal Employment Opportunity Commission ([EEOC](https://www.eeoc.gov/)), White House (WH), politics]
+tags: [Latin Times, Tesla, racism, Apartheid, Office of Federal Contract Compliance Programs (OFCCP), Department of Labor (DOL), Equal Employment Opportunity Commission EEOC, White House (WH), politics]
 categories: [Elon Musk, Donald Trump]
 date: 2025-02-07 6:27 PM
 excerpt: ''
@@ -65,6 +65,81 @@ The Federal Government is charged with enforcing our civil-rights laws.  The pur
 
 Sec. 2.  Policy.  It is the policy of the United States to protect the civil rights of all Americans and to promote individual initiative, excellence, and hard work.  I therefore order all executive departments and agencies (agencies) to terminate all discriminatory and illegal preferences, mandates, policies, programs, activities, guidance, regulations, enforcement actions, consent orders, and requirements.  I further order all agencies to enforce our longstanding civil-rights laws and to combat illegal private-sector DEI preferences, mandates, policies, programs, and activities.
 
+Sec. 3.  Terminating Illegal Discrimination in the Federal Government.  (a)  The following executive actions are hereby revoked:
+(i)    Executive Order 12898 of February 11, 1994 (Federal Actions to Address Environmental Justice in Minority Populations and Low-Income Populations);
+(ii)   Executive Order 13583 of August 18, 2011 (Establishing a Coordinated Government-wide Initiative to Promote Diversity and Inclusion in the Federal Workforce);
+(iii)  Executive Order 13672 of July 21, 2014 (Further Amendments to Executive Order 11478, Equal Employment Opportunity in the Federal Government, and Executive Order 11246, Equal Employment Opportunity); and
+(iv)   The Presidential Memorandum of October 5, 2016 (Promoting Diversity and Inclusion in the National Security Workforce).
+(b)  The Federal contracting process shall be streamlined to enhance speed and efficiency, reduce costs, and require Federal contractors and subcontractors to comply with our civil-rights laws.  Accordingly:
+(i)    Executive Order 11246 of September 24, 1965 (Equal Employment Opportunity), is hereby revoked.  For 90 days from the date of this order, Federal contractors may continue to comply with the regulatory scheme in effect on January 20, 2025.
+(ii)   The Office of [Federal Contract Compliance Program](https://www.dol.gov/agencies/ofccp) within the [Department of Labor](https://www.dol.gov/) shall immediately cease:
+(A)  Promoting “diversity”;
+(B)  Holding Federal contractors and subcontractors responsible for taking “affirmative action”; and
+(C)  Allowing or encouraging Federal contractors and subcontractors to engage in workforce balancing based on race, color, sex, sexual preference, religion, or national origin.
+(iii)  In accordance with Executive Order 13279 of December 12, 2002 (Equal Protection of the Laws for Faith-Based and Community Organizations), the employment, procurement, and contracting practices of Federal contractors and subcontractors shall not consider race, color, sex, sexual preference, religion, or national origin in ways that violate the Nation’s civil rights laws.
+(iv)   The head of each agency shall include in every contract or grant award:
+(A)  A term requiring the contractual counterparty or grant recipient to agree that its compliance in all respects with all applicable Federal anti-discrimination laws is material to the government’s payment decisions for purposes of section 3729(b)(4) of title 31, United States Code; and
+(B)  A term requiring such counterparty or recipient to certify that it does not operate any programs promoting DEI that violate any applicable Federal anti-discrimination laws.
+(c)  The Director of the Office of Management and Budget (OMB), with the assistance of the Attorney General as requested, shall:
+(i)    Review and revise, as appropriate, all Government-wide processes, directives, and guidance;
+(ii)   Excise references to DEI and DEIA principles, under whatever name they may appear, from Federal acquisition, contracting, grants, and financial assistance procedures to streamline those procedures, improve speed and efficiency, lower costs, and comply with civil-rights laws; and
+(iii)  Terminate all “diversity,” “equity,” “equitable decision-making,” “equitable deployment of financial and technical assistance,” “advancing equity,” and like mandates, requirements, programs, or activities, as appropriate.
+
+Sec. 4.  Encouraging the Private Sector to End Illegal DEI Discrimination and Preferences.  (a)  The heads of all agencies, with the assistance of the Attorney General, shall take all appropriate action with respect to the operations of their agencies to advance in the private sector the policy of individual initiative, excellence, and hard work identified in section 2 of this order.
+(b)  To further inform and advise me so that my Administration may formulate appropriate and effective civil-rights policy, the Attorney General, within 120 days of this order, in consultation with the heads of relevant agencies and in coordination with the [Director of OMB](https://www.whitehouse.gov/omb/), shall submit a report to the Assistant to the [President](https://www.whitehouse.gov/) for Domestic Policy containing recommendations for enforcing Federal civil-rights laws and taking other appropriate measures to encourage the private sector to end illegal discrimination and preferences, including DEI.  The report shall contain a proposed strategic enforcement plan identifying:
+(i)    Key sectors of concern within each agency’s jurisdiction;
+(ii)   The most egregious and discriminatory DEI practitioners in each sector of concern;
+(iii)  A plan of specific steps or measures to deter DEI programs or principles (whether specifically denominated “DEI” or otherwise) that constitute illegal discrimination or preferences.  As a part of this plan, each agency shall identify up to nine potential civil compliance investigations of publicly traded corporations, large non-profit corporations or associations, foundations with assets of 500 million dollars or more, State and local bar and medical associations, and institutions of higher education with endowments over 1 billion dollars;
+(iv)   Other strategies to encourage the private sector to end illegal DEI discrimination and preferences and comply with all Federal civil-rights laws;
+(v)    Litigation that would be potentially appropriate for Federal lawsuits, intervention, or statements of interest; and
+(vi)   Potential regulatory action and sub-regulatory guidance.
+
+Sec. 5.  Other Actions.  Within 120 days of this order, the Attorney General and the Secretary of Education shall jointly issue guidance to all State and local educational agencies that receive Federal funds, as well as all institutions of higher education that receive Federal grants or participate in the Federal student loan assistance program under Title IV of the Higher Education Act, 20 U.S.C. 1070 et seq., regarding the measures and practices required to comply with Students for Fair Admissions, Inc. v. [President](https://www.whitehouse.gov/) and Fellows of [Harvard College](https://www.harvard.edu/), 600 U.S. 181 (2023).
+
+Sec. 6.  Severability.  If any provision of this order, or the application of any provision to any person or circumstance, is held to be invalid, the remainder of this order and the application of its provisions to any other persons or circumstances shall not be affected thereby.
+
+Sec. 7.  Scope.  (a)  This order does not apply to lawful Federal or private-sector employment and contracting preferences for veterans of the U.S. armed forces or persons protected by the Randolph-Sheppard Act, 20 U.S.C. 107 et seq.
+(b)  This order does not prevent State or local governments, Federal contractors, or Federally-funded State and local educational agencies or institutions of higher education from engaging in First Amendment-protected speech.
+(c)  This order does not prohibit persons teaching at a Federally funded institution of higher education as part of a larger course of academic instruction from advocating for, endorsing, or promoting the unlawful employment or contracting practices prohibited by this order.
+
+Sec. 8.  General Provisions.  (a)  Nothing in this order shall be construed to impair or otherwise affect:
+(i)   the authority granted by law to an executive department, agency, or the head thereof; or
+(ii)  the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+(b)  This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+(c)  This order is not intended to and does not create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+THE [WHITE HOUSE](https://www.whitehouse.gov/),
+January 21, 2025.
+
+## [[EEOC](https://www.eeoc.gov/) Sues Tesla for Racial Harassment and Retaliation / U.S. Equal Employment Opportunity Commission](https://www.eeoc.gov/newsroom/eeoc-sues-tesla-racial-harassment-and-retaliation)
+
+Press Release
+09-28-2023
+
+Federal Lawsuit Alleges Black Employees Endured Open Hostility and Racism
+FREMONT, Calif. – Electric car maker Tesla, Inc., violated federal law by tolerating widespread and ongoing racial harassment of its Black employees and by subjecting some of these workers to retaliation for opposing the harassment, the U.S. Equal Employment Opportunity Commission ([EEOC](https://www.eeoc.gov/)) charged in a lawsuit filed today.
+
+According to the [EEOC](https://www.eeoc.gov/)’s suit, since at least 2015 to the present, Black employees at Tesla’s Fremont, California manufacturing facilities have routinely endured racial abuse, pervasive stereotyping, and hostility as well as epithets such as variations of the N-word, “monkey,” “boy,” and “black b*tch.” Slurs were used casually and openly in high-traffic areas and at worker hubs. Black employees regularly encountered graffiti, including variations of the N-word, swastikas, threats, and nooses, on desks and other equipment, in bathroom stalls, within elevators, and even on new vehicles rolling off the production line, the [EEOC](https://www.eeoc.gov/) said.
+
+The [EEOC](https://www.eeoc.gov/)’s investigation also found that those who raised objections to racial hostility suffered various forms of retaliation, including terminations, changes in job duties, transfers, and other adverse employment actions.
+
+The [EEOC](https://www.eeoc.gov/) investigated Tesla after [EEOC](https://www.eeoc.gov/) Chair Charlotte A. Burrows filed a commissioner’s charge alleging that Tesla violated Title VII of the Civil Rights Act of 1964 by subjecting Black employees to an unlawful hostile work environment and retaliating against employees for opposing harassment. Title VII prohibits racial harassment and requires employers who receive harassment complaints to take prompt and appropriate action to investigate and stop it.
+
+After first attempting to reach a pre-litigation settlement through conciliation, the [EEOC](https://www.eeoc.gov/) filed its lawsuit ([EEOC](https://www.eeoc.gov/) v Tesla, Inc., Case No. 4:23-cv-04984) in U.S. District Court for the Northern District of California. The [EEOC](https://www.eeoc.gov/)’s lawsuit seeks compensatory and punitive damages, and back pay for the affected workers, as well as injunctive relief designed to reform Tesla’s employment practices to prevent such discrimination in the future.
+
+“Combatting systemic harassment in workplaces is a key strategic enforcement priority for the [EEOC](https://www.eeoc.gov/). Unfortunately, as the lawsuits [EEOC](https://www.eeoc.gov/) has filed this fiscal year show, racial harassment remains a persistent problem in employment. Every employee deserves to have their civil rights respected, and no worker should endure the kind of shameful racial bigotry our investigation revealed,” said Burrows. “Today’s lawsuit makes clear that no company is above the law, and the [EEOC](https://www.eeoc.gov/) will vigorously enforce federal civil rights protections to help ensure American workplaces are free from unlawful harassment and retaliation.”
+
+[EEOC](https://www.eeoc.gov/) San Francisco District Office Director Nancy Sienko said, “When you let a standard slip, you’ve set a new standard. Determining that prolific racial slurs do not merit serious discipline and failing to correct harassing conduct sends an entirely wrong message to employees. It also violates an employer’s legal responsibility to act swiftly and effectively to stop race-based harassment.”
+
+[EEOC](https://www.eeoc.gov/) San Francisco District Office Regional Attorney Roberta L. Steele said, “The allegations in this case are disturbing. No worker should have to endure racial harassment and retaliation to earn a living six decades after the enactment of Title VII.”
+
+[For more information on race discrimination, please visit https://www.eeoc.gov/racecolor-discrimination. For more information on harassment, please visit](https://www.eeoc.gov/harassment.)
+
+The litigation of this case will be led by Senior Trial Attorney James Baker and Assistant Regional Attorney Marcia Mitchell.
+
+The suit was brought by the [EEOC](https://www.eeoc.gov/)’s San Francisco District Office, which has jurisdiction over Northern California, Northern Nevada, Oregon, Washington, Alaska, Idaho and Montana. The San Francisco District has offices in Oakland, San Francisco, San Jose, and Seattle.
+
+The [EEOC](https://www.eeoc.gov/) advances opportunity in the workplace by enforcing federal laws prohibiting employment discrimination. More information is available at www.eeoc.gov. Stay connected with the latest [EEOC](https://www.eeoc.gov/) news by subscribing to our email updates.
 Sec. 3.  Terminating Illegal Discrimination in the Federal Government.  (a)  The following executive actions are hereby revoked:
 (i)    Executive Order 12898 of February 11, 1994 (Federal Actions to Address Environmental Justice in Minority Populations and Low-Income Populations);
 (ii)   Executive Order 13583 of August 18, 2011 (Establishing a Coordinated Government-wide Initiative to Promote Diversity and Inclusion in the Federal Workforce);
