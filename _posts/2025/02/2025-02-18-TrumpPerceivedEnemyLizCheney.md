@@ -19,7 +19,7 @@ Story by Travis Gettys. February 17, 2025
 
 1. **[Trump's Threats](https://www.whitehouse.gov/)**: [Donald Trump](https://www.whitehouse.gov/) has threatened to investigate, prosecute, and even execute his perceived enemies, including Liz Cheney.
 2. **Legal Expert's Warning**: A legal expert, [Kimberly Wehle](https://www.linkedin.com/in/kimberly-wehle/), warns that the law is stacked against [Trump's](https://www.whitehouse.gov/) targets, as there are few protections against vindictive prosecutions.
-3. [**Biden's](bidenwhitehouse.archives.gov/) Preemptive Pardons**: [President Joe Biden](https://bidenwhitehouse.archives.gov/) issued preemptive pardons to some of [Trump's](https://www.whitehouse.gov/) presumed targets, but these pardons do not shield them from subpoenas or other legal unpleasantries.
+3. [**Biden's](https://bidenwhitehouse.archives.gov/) Preemptive Pardons**: [President Joe Biden](https://bidenwhitehouse.archives.gov/) issued preemptive pardons to some of [Trump's](https://www.whitehouse.gov/) presumed targets, but these pardons do not shield them from subpoenas or other legal unpleasantries.
 4. **Challenges for Cheney**: If subpoenaed, Liz Cheney would need to seek court protection and could no longer cite the Fifth Amendment right to avoid self-incrimination on topics covered by the pardon.
 5. **Potential for Vindictive Prosecutions**: [Trump](https://www.whitehouse.gov/) could initiate criminal investigations into matters not covered by the pardon, such as Cheney's tax history or banking transactions.
 6. **Legal Routes and Challenges**: Cheney could claim selective, malicious, or vindictive prosecution, but mounting a defense or filing a civil lawsuit would be challenging and unprecedented.
@@ -44,7 +44,7 @@ These protections are designed to ensure that members of [Congress](https://www.
 
 "The pardon would not shield [Cheney](https://www.congress.gov/member/liz-cheney/C001109) from subpoenas and other unpleasantries arising from an investigation. If slapped with a subpoena for testimony or documents, [Cheney](https://www.congress.gov/member/liz-cheney/C001109) would have to employ counsel to seek a court order protecting her from having to respond."
 
-"The [Supreme Court](https://www..supremecourt.gov^) has never ruled on whether a pardon can quash a subpoena. Preemptive pardons that anticipate future investigations — like those [Biden](bidenwhitehouse.archives.gov) gave the Jan. 6 committee members, [Dr. Anthony Fauci](https://www.nih.gov/), [Gen. Mark Milley](https://www.army.mil/) and five Biden family members — are largely unprecedented, with the prominent exception of President Gerald Ford’s pardon of Richard Nixon for his involvement in Watergate."
+"The [Supreme Court](https://www..supremecourt.gov^) has never ruled on whether a pardon can quash a subpoena. Preemptive pardons that anticipate future investigations — like those [Biden](https://bidenwhitehouse.archives.gov) gave the Jan. 6 committee members, [Dr. Anthony Fauci](https://www.nih.gov/), [Gen. Mark Milley](https://www.army.mil/) and five Biden family members — are largely unprecedented, with the prominent exception of President Gerald Ford’s pardon of Richard Nixon for his involvement in Watergate."
 
 [Cheney](https://www.congress.gov/member/liz-cheney/C001109)'s acceptance of a pardon would also make it hard for her to refuse to testify because she could no longer cite a Fifth Amendment right to avoid self-incrimination on topics covered by the pardon. Trump could also initiate criminal investigations into matters not covered by the pardon, such as her tax history or banking transactions.
 
@@ -67,7 +67,7 @@ But as long as the [Trump's](https://www.whitehouse.gov/) [Department of Justice
 - [House of Representatives](https://www.house.gov/)
 - [Army](https://www.army.mil/)
 - [National Institute of Allergy and Infectious Diseases (NIAID)](http://www.niaid.nih.gov/)
-- [Constitution of the United States](https://constitution.congress.gov/)
+- [Constitution of the United States](https://constitution.congress.gov/constitution/)
 - [Department of Justice (DOJ)](https://www.justice.gov/)
 - [Internal Revenue Service (IRS)](https://www.irs.gov/)
 - [Supreme Court of the United States (SCOTUS)](https://www.supremecourt.gov/)

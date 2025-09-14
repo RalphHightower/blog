@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [Latin Times, Tesla, racism, Apartheid, Office of Federal Contract Compliance Programs (OFCCP), Department of Labor (DOL), Equal Employment Opportunity Commission (EEOC), White House (WH), politics]
+tags: [Latin Times, Tesla, racism, Apartheid, Office of Federal Contract Compliance Programs (OFCCP), Department of Labor (DOL), Equal Employment Opportunity Commission ([EEOC](https://www.eeoc.gov/)), White House (WH), politics]
 categories: [Elon Musk, Donald Trump]
 date: 2025-02-07 6:27 PM
 excerpt: ''
@@ -22,9 +22,9 @@ The order dismantled the [Department of Labor's](https://ww.dol.gov/) [Office of
 With the agency nearly defunct, employees are left with grunt work; informing businesses that discrimination audits have halted and outstanding fines won't be collected, according to the San Francisco Standard.
 [Federal Contract Compliance Programs](https://www.dol.gov/agencies/ofccp)
 
-[Tesla](https://www.tesla.com/) was hit with a lawsuit in September 2023 from the [Equal [Employment Opportunity Commission (EEOC)](https://www.eeoc.gov/), which accused the company of fostering a workplace where Black employees faced ongoing harassment and retaliation.
+[Tesla](https://www.tesla.com/) was hit with a lawsuit in September 2023 from the [Equal [Employment Opportunity Commission ([EEOC](https://www.eeoc.gov/))](https://www.eeoc.gov/), which accused the company of fostering a workplace where Black employees faced ongoing harassment and retaliation.
 
-"Black employees at [Tesla's](https://www.tesla.com/) Fremont, California manufacturing facilities have routinely endured racial abuse, pervasive stereotyping, and hostility as well as epithets such as variations of the N-word, 'monkey,' 'boy,' and 'black b*tch,'" according to the [EEOC](https://www.eeoc.gov/newsroom/eeoc-sues-tesla-racial-harassment-and-retaliation).
+"Black employees at [Tesla's](https://www.tesla.com/) Fremont, California manufacturing facilities have routinely endured racial abuse, pervasive stereotyping, and hostility as well as epithets such as variations of the N-word, 'monkey,' 'boy,' and 'black b*tch,'" according to the [[EEOC](https://www.eeoc.gov/)](https://www.eeoc.gov/newsroom/eeoc-sues-tesla-racial-harassment-and-retaliation).
 
 The fallout of the agency's closure reaches far beyond [Tesla](https://www.tesla.com/). In California alone, dozens of companies, including Google, Meta, BlackRock and PG&E, were slated for [OFCCP](https://www.dol.gov/agencies/ofccp) investigations. Nationwide, more than 2,000 federal contractors were expected to be reviewed in 2024. Now, those cases have been wiped from the books.
 
@@ -44,14 +44,14 @@ The [OFCCP](https://www.dol.gov/agencies/ofccp) played an important role in hold
 - [Department of Labor (DOL)](https://www.fol.gov/)
 - [Office of Federal Contract Compliance Programs (OFCCP) / U.S. Department of Labor](https://www.dol.gov/agencies/ofccp)
 - [California (CA)](https://www.ca.gov/)
-- [Equal Employment Opportunity Commission (EEOC)](https://www.eeoc.gov/)
+- [Equal Employment Opportunity Commission ([EEOC](https://www.eeoc.gov/))](https://www.eeoc.gov/)
 
 ----
 
 ### [Ending Illegal Discrimination And Restoring Merit-Based Opportunity – The White House](https://www.whitehouse.gov/presidential-actions/2025/01/ending-illegal-discrimination-and-restoring-merit-based-opportunity/)
 
 January 21, 2025
-By the authority vested in me as [President](https://www.whitehouse.gov/) by the [Constitution](constitution.congress.gov/) and the laws of the United States of America, it is hereby ordered:
+By the authority vested in me as [President](https://www.whitehouse.gov/) by the [Constitution](https://constitution.congress.gov/constitution/) and the laws of the United States of America, it is hereby ordered:
 
 Section 1.  Purpose.  Longstanding Federal civil-rights laws protect individual Americans from discrimination based on race, color, religion, sex, or national origin.  These civil-rights protections serve as a bedrock supporting equality of opportunity for all Americans.  As [President](https://www.whitehouse.gov/), I have a solemn duty to ensure that these laws are enforced for the benefit of all Americans.
 
@@ -72,7 +72,7 @@ Sec. 3.  Terminating Illegal Discrimination in the Federal Government.  (a)  The
 (iv)   The Presidential Memorandum of October 5, 2016 (Promoting Diversity and Inclusion in the National Security Workforce).
 (b)  The Federal contracting process shall be streamlined to enhance speed and efficiency, reduce costs, and require Federal contractors and subcontractors to comply with our civil-rights laws.  Accordingly:
 (i)    Executive Order 11246 of September 24, 1965 (Equal Employment Opportunity), is hereby revoked.  For 90 days from the date of this order, Federal contractors may continue to comply with the regulatory scheme in effect on January 20, 2025.
-(ii)   The Office of [Federal Contract Compliance Program](shttps://www.dol.gov/agencies/ofccp) within the [Department of Labor](https://www.dol.gov/) shall immediately cease:
+(ii)   The Office of [Federal Contract Compliance Program](https://www.dol.gov/agencies/ofccp) within the [Department of Labor](https://www.dol.gov/) shall immediately cease:
 (A)  Promoting “diversity”;
 (B)  Holding Federal contractors and subcontractors responsible for taking “affirmative action”; and
 (C)  Allowing or encouraging Federal contractors and subcontractors to engage in workforce balancing based on race, color, sex, sexual preference, religion, or national origin.
@@ -111,32 +111,32 @@ Sec. 8.  General Provisions.  (a)  Nothing in this order shall be construed to i
 THE [WHITE HOUSE](https://www.whitehouse.gov/),
 January 21, 2025.
 
-## [EEOC Sues Tesla for Racial Harassment and Retaliation / U.S. Equal Employment Opportunity Commission](https://www.eeoc.gov/newsroom/eeoc-sues-tesla-racial-harassment-and-retaliation)
+## [[EEOC](https://www.eeoc.gov/) Sues Tesla for Racial Harassment and Retaliation / U.S. Equal Employment Opportunity Commission](https://www.eeoc.gov/newsroom/eeoc-sues-tesla-racial-harassment-and-retaliation)
 
 Press Release
 09-28-2023
 
 Federal Lawsuit Alleges Black Employees Endured Open Hostility and Racism
-FREMONT, Calif. – Electric car maker Tesla, Inc., violated federal law by tolerating widespread and ongoing racial harassment of its Black employees and by subjecting some of these workers to retaliation for opposing the harassment, the U.S. Equal Employment Opportunity Commission (EEOC) charged in a lawsuit filed today.
+FREMONT, Calif. – Electric car maker Tesla, Inc., violated federal law by tolerating widespread and ongoing racial harassment of its Black employees and by subjecting some of these workers to retaliation for opposing the harassment, the U.S. Equal Employment Opportunity Commission ([EEOC](https://www.eeoc.gov/)) charged in a lawsuit filed today.
 
-According to the EEOC’s suit, since at least 2015 to the present, Black employees at Tesla’s Fremont, California manufacturing facilities have routinely endured racial abuse, pervasive stereotyping, and hostility as well as epithets such as variations of the N-word, “monkey,” “boy,” and “black b*tch.” Slurs were used casually and openly in high-traffic areas and at worker hubs. Black employees regularly encountered graffiti, including variations of the N-word, swastikas, threats, and nooses, on desks and other equipment, in bathroom stalls, within elevators, and even on new vehicles rolling off the production line, the EEOC said.
+According to the [EEOC](https://www.eeoc.gov/)’s suit, since at least 2015 to the present, Black employees at Tesla’s Fremont, California manufacturing facilities have routinely endured racial abuse, pervasive stereotyping, and hostility as well as epithets such as variations of the N-word, “monkey,” “boy,” and “black b*tch.” Slurs were used casually and openly in high-traffic areas and at worker hubs. Black employees regularly encountered graffiti, including variations of the N-word, swastikas, threats, and nooses, on desks and other equipment, in bathroom stalls, within elevators, and even on new vehicles rolling off the production line, the [EEOC](https://www.eeoc.gov/) said.
 
-The EEOC’s investigation also found that those who raised objections to racial hostility suffered various forms of retaliation, including terminations, changes in job duties, transfers, and other adverse employment actions.
+The [EEOC](https://www.eeoc.gov/)’s investigation also found that those who raised objections to racial hostility suffered various forms of retaliation, including terminations, changes in job duties, transfers, and other adverse employment actions.
 
-The EEOC investigated Tesla after EEOC Chair Charlotte A. Burrows filed a commissioner’s charge alleging that Tesla violated Title VII of the Civil Rights Act of 1964 by subjecting Black employees to an unlawful hostile work environment and retaliating against employees for opposing harassment. Title VII prohibits racial harassment and requires employers who receive harassment complaints to take prompt and appropriate action to investigate and stop it.
+The [EEOC](https://www.eeoc.gov/) investigated Tesla after [EEOC](https://www.eeoc.gov/) Chair Charlotte A. Burrows filed a commissioner’s charge alleging that Tesla violated Title VII of the Civil Rights Act of 1964 by subjecting Black employees to an unlawful hostile work environment and retaliating against employees for opposing harassment. Title VII prohibits racial harassment and requires employers who receive harassment complaints to take prompt and appropriate action to investigate and stop it.
 
-After first attempting to reach a pre-litigation settlement through conciliation, the EEOC filed its lawsuit (EEOC v Tesla, Inc., Case No. 4:23-cv-04984) in U.S. District Court for the Northern District of California. The EEOC’s lawsuit seeks compensatory and punitive damages, and back pay for the affected workers, as well as injunctive relief designed to reform Tesla’s employment practices to prevent such discrimination in the future.
+After first attempting to reach a pre-litigation settlement through conciliation, the [EEOC](https://www.eeoc.gov/) filed its lawsuit ([EEOC](https://www.eeoc.gov/) v Tesla, Inc., Case No. 4:23-cv-04984) in U.S. District Court for the Northern District of California. The [EEOC](https://www.eeoc.gov/)’s lawsuit seeks compensatory and punitive damages, and back pay for the affected workers, as well as injunctive relief designed to reform Tesla’s employment practices to prevent such discrimination in the future.
 
-“Combatting systemic harassment in workplaces is a key strategic enforcement priority for the EEOC. Unfortunately, as the lawsuits EEOC has filed this fiscal year show, racial harassment remains a persistent problem in employment. Every employee deserves to have their civil rights respected, and no worker should endure the kind of shameful racial bigotry our investigation revealed,” said Burrows. “Today’s lawsuit makes clear that no company is above the law, and the EEOC will vigorously enforce federal civil rights protections to help ensure American workplaces are free from unlawful harassment and retaliation.”
+“Combatting systemic harassment in workplaces is a key strategic enforcement priority for the [EEOC](https://www.eeoc.gov/). Unfortunately, as the lawsuits [EEOC](https://www.eeoc.gov/) has filed this fiscal year show, racial harassment remains a persistent problem in employment. Every employee deserves to have their civil rights respected, and no worker should endure the kind of shameful racial bigotry our investigation revealed,” said Burrows. “Today’s lawsuit makes clear that no company is above the law, and the [EEOC](https://www.eeoc.gov/) will vigorously enforce federal civil rights protections to help ensure American workplaces are free from unlawful harassment and retaliation.”
 
-EEOC San Francisco District Office Director Nancy Sienko said, “When you let a standard slip, you’ve set a new standard. Determining that prolific racial slurs do not merit serious discipline and failing to correct harassing conduct sends an entirely wrong message to employees. It also violates an employer’s legal responsibility to act swiftly and effectively to stop race-based harassment.”
+[EEOC](https://www.eeoc.gov/) San Francisco District Office Director Nancy Sienko said, “When you let a standard slip, you’ve set a new standard. Determining that prolific racial slurs do not merit serious discipline and failing to correct harassing conduct sends an entirely wrong message to employees. It also violates an employer’s legal responsibility to act swiftly and effectively to stop race-based harassment.”
 
-EEOC San Francisco District Office Regional Attorney Roberta L. Steele said, “The allegations in this case are disturbing. No worker should have to endure racial harassment and retaliation to earn a living six decades after the enactment of Title VII.”
+[EEOC](https://www.eeoc.gov/) San Francisco District Office Regional Attorney Roberta L. Steele said, “The allegations in this case are disturbing. No worker should have to endure racial harassment and retaliation to earn a living six decades after the enactment of Title VII.”
 
 [For more information on race discrimination, please visit https://www.eeoc.gov/racecolor-discrimination. For more information on harassment, please visit](https://www.eeoc.gov/harassment.)
 
 The litigation of this case will be led by Senior Trial Attorney James Baker and Assistant Regional Attorney Marcia Mitchell.
 
-The suit was brought by the EEOC’s San Francisco District Office, which has jurisdiction over Northern California, Northern Nevada, Oregon, Washington, Alaska, Idaho and Montana. The San Francisco District has offices in Oakland, San Francisco, San Jose, and Seattle.
+The suit was brought by the [EEOC](https://www.eeoc.gov/)’s San Francisco District Office, which has jurisdiction over Northern California, Northern Nevada, Oregon, Washington, Alaska, Idaho and Montana. The San Francisco District has offices in Oakland, San Francisco, San Jose, and Seattle.
 
-The EEOC advances opportunity in the workplace by enforcing federal laws prohibiting employment discrimination. More information is available at www.eeoc.gov. Stay connected with the latest EEOC news by subscribing to our email updates.
+The [EEOC](https://www.eeoc.gov/) advances opportunity in the workplace by enforcing federal laws prohibiting employment discrimination. More information is available at www.eeoc.gov. Stay connected with the latest [EEOC](https://www.eeoc.gov/) news by subscribing to our email updates.
