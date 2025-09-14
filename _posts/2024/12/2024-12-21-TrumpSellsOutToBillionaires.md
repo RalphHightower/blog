@@ -38,6 +38,6 @@ In this episode, Mary Trump dissects how billionaires and CEOs are using their w
 - [ X ](https://x.com/)
 - [xAI](https://x.ai/)
 - [YouTube](https://www.youtube.com/)
-- [Valar Ventures](https://www.com/)
+- [Valar Ventures](https://www.valar.com/)
 - [Washington Post](https://www.washingtonpost.com/)
 

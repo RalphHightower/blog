@@ -7,7 +7,7 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: "Meet the Press: Trump Says That He Won't Prosecue His Political Enemies Or Enemies Within. Yea? And I Still Believe in the Tooth Fairy,"
+title: "Meet the Press: Trump Says That He Won't Persecute His Political Enemies Or Enemies Within. Yea? And I Still Believe in the Tooth Fairy!"
 ---
 
 
