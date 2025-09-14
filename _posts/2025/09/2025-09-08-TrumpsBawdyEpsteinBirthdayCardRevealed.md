@@ -61,28 +61,37 @@ Erum Salam is a breaking news reporter and producer for MSNBC Digital. She previ
 - foreign countries 
 - federal government 
 - [Constitution of the United States](https://constitution.congress.gov/)
-    - [FOIA.gov - Freedom of Information Act](https://www.foia.gov/)
+    - [U.S. Constitution - Article I / Resources / Constitution Annotated / Congress.gov / Library of Congress](https://constitution.congress.gov/constitution/article-1/)
+    - [U.S. Constitution - Article II / Resources / Constitution Annotated / Congress.gov / Library of Congress](https://constitution.congress.gov/constitution/article-2/)
+    - [U.S. Constitution - Article III / Resources / Constitution Annotated / Congress.gov / Library of Congress](https://constitution.congress.gov/constitution/article-3/)
+    - [U.S. Constitution - Article IV / Resources / Constitution Annotated / Congress.gov / Library of Congress](https://constitution.congress.gov/constitution/article-4/)
+    - [U.S. Constitution - Article V / Resources / Constitution Annotated / Congress.gov / Library of Congress](https://constitution.congress.gov/constitution/article-5/)
+    - [U.S. Constitution - Article VI / Resources / Constitution Annotated / Congress.gov / Library of Congress](https://constitution.congress.gov/constitution/article-6/)
+    - [U.S. Constitution - Article VII / Resources / Constitution Annotated / Congress.gov / Library of Congress](https://constitution.congress.gov/constitution/article-7/)
     - [Supreme Court of the United States (SCOTUS)](https://www.supremecourt.gov/)
     - [US Courts](https://www.uscourts.gov/)
-    - [District of Columbia / United States District Court](https://www.dcd.uscourts.gov/)
+    - [Federal Reserve](https;//www.federalreserve.gov/)
+    - [Federal Reserve Board - Federal Reserve Act](https://www.federalreserve.gov/aboutthefed/fract.htm)
+    - [U.S. Department of the Treasury](https://home.treasury.gov/)
+    - [Supreme Court of the United States (SCOTUS)](https://www.supremecourt.gov/)
+    - [US Courts](https://www.uscourts.gov/)
+    - [FOIA.gov - Freedom of Information Act](https://www.foia.gov/)
     - [Department of Justice (DOJ)](https://www.justice.gov/)
     - [Federal Bureau of Prisons (BOP)](https://www.bop.gov/)
         - [Federal Bureau of Prisons (BOP)](https://www.bop.gov/)
-        - [FCI Tallahassee](https://www.bop.gov/locations/institutions/tal/)
-        - [FPC Bryan](https://www.bop.gov/locations/institutions/bry/)
-    - [Department of State (DOS)](https://www.state.gov/)
+            - [FCI Tallahassee](https://www.bop.gov/locations/institutions/tal/)
+            - [FPC Bryan](https://www.bop.gov/locations/institutions/bry/)
     - [Federal Bureau of Investigation (FBI)](https://www.fbi.gov/)
         - [James Comey](https://www.fbi.gov/history/directors/james-b-comey)
     - [Congress](https://www.congress.gov/)
         - [Senate](https://www.senate.gov/)
-            - [Lindsey Graham (T-SC)](https://www.lgraham.senate.gov/)
         - [House of Representatives](https://www.house.gov/)
             - [Ro Khanna (D-CA17)](https://khanna.house.gov/)
             - [Thomas Massie (T-KY4)](https://massie.house.gov/)
             - [James Comer (T-KY1)](https://comer.house.gov/)
-        - [Oversight Committee](https://oversight.house.gov/)
             - [Mike Johnson (T-LA4)](https://mikejohnson.house.gov/)
                 - [House](https://www.house.gov/) [Speaker](https://www.speaker.gov/) 
+        - [Oversight Committee](https://oversight.house.gov/)
      - [President of the United States (POTUS)](https://www.whitehouse.gov/)
     - [White House (WH)](https://www.whitehouse.gov/)
 - Trump criminal government 
@@ -116,6 +125,3 @@ Erum Salam is a breaking news reporter and producer for MSNBC Digital. She previ
     - pedophile 
         - Jeffrey Epstein 
         - Ghislaine Maxwell
-- birthday card
-- hand drawn woman with signature as pubic hair
-- pubic hair

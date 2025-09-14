@@ -26,7 +26,7 @@ As these survivors were sharing their powerful stories with the world, [Trump](h
 
 [Trump](https://www.donaldjtrump.com/) is just so obviously desperate for all of this to go away. He’s [suing The Wall Street Journal](https://www.msnbc.com/rachel-maddow-show/maddowblog/trump-sues-wsj-murdoch-epstein-birthday-letter-rcna219701) for \$10 billion over its reporting of a lewd, innuendo-filled birthday note that the paper reported [Trump](https://www.donaldjtrump.com/) sent to Epstein.
 
-In [Congress](https://www.congress.gov/), his sycophants, including the [speaker of the](speaker.house.gov/) [House](https://www.house.gov/), [Mike Johnson (T-LA4)](https://mikejohnson.house.gov/), held [a closed-door meeting](https://www.politico.com/live-updates/2025/09/03/congress/mike-johnson-thomas-massie-spar-jeffrey-epstein-00541263) in the basement of the Capitol to try and whip votes against the bipartisan petition to release all the files — files, I should note, that have already been vetted by [Trump](https://www.donaldjtrump.com/)’s [Justice Department](https://www.justice.gov/) and, according to [The New York Times](https://www.nytimes.com/2025/07/23/us/politics/trump-epstein-files-named.html), contained the [president](https://www.whitehouse.gov/)’s name. Something he reportedly was made aware of.
+In [Congress](https://www.congress.gov/), his sycophants, including the [speaker of the](https://speaker.house.gov/) [House](https://www.house.gov/), [Mike Johnson (T-LA4)](https://mikejohnson.house.gov/), held [a closed-door meeting](https://www.politico.com/live-updates/2025/09/03/congress/mike-johnson-thomas-massie-spar-jeffrey-epstein-00541263) in the basement of the Capitol to try and whip votes against the bipartisan petition to release all the files — files, I should note, that have already been vetted by [Trump](https://www.donaldjtrump.com/)’s [Justice Department](https://www.justice.gov/) and, according to [The New York Times](https://www.nytimes.com/2025/07/23/us/politics/trump-epstein-files-named.html), contained the [president](https://www.whitehouse.gov/)’s name. Something he reportedly was made aware of.
 
 > *[Trump](https://www.donaldjtrump.com/) is just so obviously desperate for all of this to go away.*
 
@@ -71,7 +71,7 @@ Allison Detzel contributed.
 - political parties 
 - [Democrat Party](https://www.democrats.org/)
 - [Trumpian Party](https://www.gop.com/)
-- Federal Government 
+- federal government 
 - [Constitution of the United States](https://constitution.congress.gov/)
     - [FOIA.gov - Freedom of Information Act](https://www.foia.gov/)
     - [Supreme Court of the United States (SCOTUS)](https://www.supremecourt.gov/)
@@ -94,7 +94,7 @@ Allison Detzel contributed.
         - [Oversight Committee](https://oversight.house.gov/)
             - [Mike Johnson (T-LA4)](https://mikejohnson.house.gov/)
                 - [House](https://www.house.gov/) [Speaker](https://www.speaker.gov/) 
-    - [President of the United States (POTUS)](https://www.whitehouse.gov/)
+     - [President of the United States (POTUS)](https://www.whitehouse.gov/)
     - [White House (WH)](https://www.whitehouse.gov/)
 - Trump criminal government 
     - [Donald J Trump](https://www.donaldjtrump.com/)
