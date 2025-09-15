@@ -50,7 +50,7 @@ In Black’s view, the consumer demographic that typically purchases a pickup tr
 
 [Matt Voda](https://www.linkedin.com/in/matt-voda/), CEO of [OptiMine Software](https://optimine.com/), echoes [Nagle](https://www.pandoelectric.com/about-us)’s argument that truck buyers may be too loyal to their brand of choice — be it [Ford](https://www.ford.com/), [Chevrolet](https://www.chevrolet.com/), or [Dodge](https://www.dodge.com/) — to switch. “Most truck buyers are extremely brand loyal, so it is even more difficult to get a truck buyer to switch brands at some point in their lives,” he notes.
 
-[Voda](https://www.linkedin.com/in/matt-voda/) also claims that [Tesla](https://www.tesla.com/) has invested [almost no money](https://segmentify.com/blog/tesla-marketing-strategy/#:~:text=[Tesla](https://www.tesla.com/)%20doesn't%20do%20marketing,us%20to%20our%20next%20question:) in marketing over the past decade, which he sees as putting the company at a chronic disadvantage when it comes to competing with established truck makers.
+[Voda](https://www.linkedin.com/in/matt-voda/) also claims that [Tesla](https://www.tesla.com/) has invested [almost no money](https://segmentify.com/blog/tesla-marketing-strategy/#:~:text=%20doesn't%20do%20marketing,us%20to%20our%20next%20question:) in marketing over the past decade, which he sees as putting the company at a chronic disadvantage when it comes to competing with established truck makers.
 
 - [TheStreet](https://www.thestreet.com/)
 - [Business Insider](https://www.businessinsider.com/)

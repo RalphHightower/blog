@@ -23,7 +23,7 @@ On [Wednesday morning, the president posted](https://www.independent.co.uk/news/
 
 The [congresswoman bought stock in big brands](https://www.independent.co.uk/topic/congresswoman) like [Lululemon](https://www.lululemon.com/), [Dell Computer](https://www.dell.com/ ), [Amazon](https://www.amazon.com/), and the parent of [Restoration Hardware](https://rh.com/) after they dropped by around 40 percent on average late last week.
 
-Data from a required three-page financial holdings document, seen by [The Associated Press](https://www.apnews.com/), doesn't disclose exactly how much she paid for the stocks, only ranges and dates. As of Wednesday’s market close, some of her investments were already beginning to pay off.
+Data from a required three-page financial holdings document, seen by [The Associated Press](https://apnews.com/), doesn't disclose exactly how much she paid for the stocks, only ranges and dates. As of Wednesday’s market close, some of her investments were already beginning to pay off.
 
 [RH](https://rh.com/), formerly called [Restoration Hardware](https://rh.com/), jumped more than a third since Friday's close when she bought it after a collapse in price that even shook the head of the furniture retailer, [CEO Gary Friedman](https://ir.rh.com/corporate-governance/leadership), who responded “oh shit” during a company call when the tariffs were announced.
 
@@ -31,13 +31,13 @@ Data from a required three-page financial holdings document, seen by [The Associ
 
 Lawmakers from both major parties have previously proposed bills banning members from stock trading because of the apparent [conflict of interest](https://www.independent.co.uk/topic/conflict-of-interest) in owning shares of companies they can heavily influence with positions they can take in office.
 
-Asked whether she made the stock purchases herself and about possible conflicts of interest, [Greene](https://greene.house.gov/) said in a statement to [AP](https://www.apnews.com/): “I have signed a fiduciary agreement to allow my financial advisor to control my investments. All of my investments are reported with full transparency.”
+Asked whether she made the stock purchases herself and about possible conflicts of interest, [Greene](https://greene.house.gov/) said in a statement to [AP](https://apnews.com/): “I have signed a fiduciary agreement to allow my financial advisor to control my investments. All of my investments are reported with full transparency.”
 
 [Greene](https://greene.house.gov/) is one of the MAGA faithfuls that have been outspoken in her support of [Trump](https://www.donaldjtrump.com/)’s tariffs. “Tariffs are a powerful proven source of leverage to protect our national interests,” she posted on [X](https://x.com/) previously, adding, “We will win this trade war.”
 
 [Trump](https://www.donaldjtrump.com/)’s sudden and surprising pause to the tariff’s announced on Wednesday has led some [Democrats](https://www.democrats.org/) to question whether market manipulation or [insider trading](https://www.independent.co.uk/topic/insider-trading) has occurred.
 
-The [Associated Press](https://www.apnews.com/) contributed to this report.
+The [Associated Press](https://apnews.com/) contributed to this report.
 
 [The Independent](https://www.independent.co.uk) is the world’s most free-thinking news brand, providing global news, commentary and analysis for the independently-minded. We have grown a huge, global readership of independently minded individuals, who value our trusted voice and commitment to positive change. Our mission, making change happen, has never been as important as it is today.
 
@@ -76,7 +76,7 @@ Investors are not completely convinced.
 After surging on Wednesday when [Trump](https://www.donaldjtrump.com/) called a partial halt to the import taxes, stocks were heading down again Thursday.
 
 - [The Independent](https://www.independent.co.uk)
-- [Associated Press](https://www.apnews.com/)
+- [Associated Press](https://apnews.com/)
 - [Dell Computer](https://www.dell.com/)
 - [Amazon](https://www.amazon.com/)
 - [Lululemon](https://www.lululemon.com/)

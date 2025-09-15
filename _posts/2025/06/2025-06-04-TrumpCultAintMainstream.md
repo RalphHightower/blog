@@ -53,7 +53,7 @@ This post updates our [related earlier coverage](https://www.msnbc.com/rachel-ma
 - [MSNBC](https://www.msnbc.com/)
 - [NBC News](https://www.nbcnews.com/)
 - [New York Times (NYT)](https://www.nytimes.com/)
-- [Associated Press (AP)](https://www.apnews.com/)
+- [Associated Press (AP)](https://apnews.com/)
 - [CNN](https://www.cnn.com/)
 - [Laura Loomer](https://loomered.com/)
 - [Dr. Janette Nesheiwat / LinkedIn](https://www.linkedin.com/in/dr-janette-nesheiwat-3483731a/)

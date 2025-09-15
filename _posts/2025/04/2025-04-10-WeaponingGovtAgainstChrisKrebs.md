@@ -131,7 +131,7 @@ Skewed the bona fide debate about COVID-19 by attempting to discredit widely sha
 - [Ministry of Truth: Democracy, Reality, and the Republicans' War on the Recent Past―A Timely Investigation of Republican Historical Revisionism That ... Consequences of Rewriting Recent History: Benen, Steve: 9780063393677: Amazon.com: Books](https://www.amazon.com/Ministry-Truth-Democracy-Reality-Republicans/dp/0063393670)
 - [Russia](http://government.ru/)
 - [Vladimir Putin](http://kremlin.ru/)
-- [U.S. Constitution](https://constitution.congress.gov/)
+- [U.S. Constitution](https://constitution.congress.gov/constitution/)
 - [First Amendment](https://constitution.congress.gov/constitution/amendment-1/)
 - [A-Z index of U.S. government departments and agencies / USAGov](https://www.usa.gov/agency-index)
 - [Christopher Murphy (D-CT)](https://www.murphy.senate.gov/)

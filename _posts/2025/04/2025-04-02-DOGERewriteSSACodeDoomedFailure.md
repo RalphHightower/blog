@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: [Elon Musk, Boring, Neuralink, SpaceX, Starlink, Tesla, Twitter, X, xAI, ISO - International Organization for Standardization, C language, COBOL language, Java language, Python language, IBM, Department of Commerce (DOC), Howard Lutnick, Howard W. Lutnick, General Services Administration (GSA), Social Security Administration (SSA), Department of the Treasury (Treasury), Department of Government Efficiency (DOGE), House of Representatives, Dan Min (D-CA47), Senate, Tina Smith (D-MN), President Barack Obama, President Joe Biden, President Donald Trump, President of the United States (POTUS), White House (WH), politics]
-categories: []
+categories: [Donald Trump]
 date: 2025-04-02 8:14 PM
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'

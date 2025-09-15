@@ -12,8 +12,7 @@ title: "Trumpian Legislators Off 'No Comment' On Trump’s Vanity Birthday Parad
 
 ## [Republicans struggle to defend Trump’s military parade as tanks prepare to roll in D.C.](https://www.msnbc.com/rachel-maddow-show/maddowblog/republicans-struggle-defend-trumps-military-parade-tanks-prepare-roll-rcna212563)
 
-*Many [GOP](https://www.go
-p.com/) officials appear to have no idea what to say about the president's military parade — and some don't want to attend the festivities, either.*
+*Many [GOP](https://www.gop.com/) officials appear to have no idea what to say about the president's military parade — and some don't want to attend the festivities, either.*
 
 June 12, 2025, 8:59 AM EDT
 By [Steve Benen](https://www.msnbc.com/author/steve-benen-ncpn433601)

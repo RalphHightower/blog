@@ -101,7 +101,7 @@ Last August, a month before [Taylor Swift](https://www.taylorswift.com/) endorse
 
 These findings are consistent with what we know about celebrity influence more broadly. [Harris](https://kamalaharris.com/)’ endorsers may have fired up the base, but not changed anyone’s minds, just as [Springsteen](https://brucespringsteen.net/)’s comments at his concert likely only appealed to those who already agreed with him.
 
-There is [one recent documented case](https://sites.stat.columbia.edu/gelman/stuff_for_blog/celebrityendorsements_garthwaitemoore.pdf) of a celebrity endorsement tipping the outcome of an election: [Winfrey](https://www.oprah.com/) endorsing [Barack Obama](obamawhitehouse.archives.gov)’s candidacy for the [Democratic](https://www.democrats.org/) nomination in 2008. And of course, many others have tried.
+There is [one recent documented case](https://sites.stat.columbia.edu/gelman/stuff_for_blog/celebrityendorsements_garthwaitemoore.pdf) of a celebrity endorsement tipping the outcome of an election: [Winfrey](https://www.oprah.com/) endorsing [Barack Obama](https://obamawhitehouse.archives.gov)’s candidacy for the [Democratic](https://www.democrats.org/) nomination in 2008. And of course, many others have tried.
 
 In 1920, singer Al Jolson was probably the most famous entertainer in the U.S., and he endorsed [Trumpian](https://www.gop.com/) Warren Harding for president. Whether he really supported Harding is another matter. He was paid by an ad agency to sing “[Harding, You’re The Man for Us.”](https://www.youtube.com/watch?v=Br9lce1VRKk)” He was then hired to sing for Harding’s vice president, Calvin Coolidge, in the next election. 
 

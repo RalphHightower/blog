@@ -24,7 +24,7 @@ Type :	Hazards<br />
 Replaced NOTAM(s) :	N/A<br />
 Affected Area(s)	<br />
 Airspace Definition:<br />
-Center:	NAVAID() (Latitude: 28º10'10"N, Longitude: 89º13'22"W)<br />
+Center:	NAVAID\(\) (Latitude: 28º10'10"N, Longitude: 89º13'22"W)<br />
 Radius:	1 nautical miles<br />
 Altitude:	From the surface up to and including 2000 feet AGL<br />
 Effective Date(s):<br />

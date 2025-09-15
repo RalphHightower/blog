@@ -40,7 +40,7 @@ First [reported by ABC News](https://abcnews.go.com/Politics/trump-administratio
 
 Meanwhile, [Trump](https://www.donaldjtrump.com/) has defended his decision to accept the plane, calling it “a great gesture from [Qatar](https://hukoomi.gov.qa/)” and suggesting it was too good an offer to pass up on.
 
-[“I would never be one to turn down that kind of an offer,” he said Monday when pressed about the deal. “I mean, I could be a stupid person [and] say, ‘No, we don’t want a free, very expensive](airplane.’”)
+“I would never be one to turn down that kind of an offer,” he said Monday when pressed about the deal. “I mean, I could be a stupid person [and] say, ‘No, we don’t want a free, very expensive airplane.’”
 
 Clarissa-Jan Lim is a breaking/trending news blogger for [MSNBC Digital](https://www.msnbc.com/). She was previously a senior reporter and editor at BuzzFeed News.
 

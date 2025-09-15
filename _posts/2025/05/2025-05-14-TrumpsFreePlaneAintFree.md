@@ -19,7 +19,7 @@ By Steve Benen
 
 On Sunday night, as the public first learned about [Donald Trump](https://www.donaldjtrump.com/)’s plan to [accept a superluxury Boeing 747-8 jumbo jet](https://www.msnbc.com/rachel-maddow-show/maddowblog/trump-scrambles-defend-luxury-jet-qatar-ll-use-air-force-one-rcna206207) from his friends in [Qatar to be used as Air Force One, the president was eager to defend the arrangement. The plane, [the Republican argued online](https://truthsocial.com/@realDonaldTrump/114492082555622686), would be “FREE OF CHARGE.”
 
-[Trump returned to the point a few days later, [asking why](https://truthsocial.com/@realDonaldTrump/114503203859060399) taxpayers should be “forced to pay hundreds of millions of Dollars” for a plane “when they can get it for FREE” from Qatar. He [added soon after](https://www.nytimes.com/2025/05/12/us/politics/trump-qatar-plane-jet.html) that only “a stupid person [would] say, ‘No, we don’t want a free, very expensive](airplane.’”)
+[Trump returned to the point a few days later, [asking why](https://truthsocial.com/@realDonaldTrump/114503203859060399) taxpayers should be “forced to pay hundreds of millions of Dollars” for a plane “when they can get it for FREE” from Qatar. He [added soon after](https://www.nytimes.com/2025/05/12/us/politics/trump-qatar-plane-jet.html) that only “a stupid person [would] say, ‘No, we don’t want a free, very expensive] (airplane.’”)
 
 Even if the luxury jet were free, this arrangement would still be a legal, ethical and political mess. But there’s a related problem: The “free” plane wouldn’t be free. [NBC News reported](https://www.nbcnews.com/politics/national-security/turning-qatari-747-air-force-one-cost-1-billion-take-years-experts-say-rcna206582) reported:
 
@@ -39,7 +39,7 @@ Soon after [Schumer](https://www.schumer.senate.gov/)’s comments, [Senate](htt
 
 [Republican](https://www.gop.com/) [Sen.](https://www.senate.gov/) [Tommy Tuberville](https://www.tuberville.senate.gov/) of [Alabama](https://www.alabama.gov/) [blocked the measure](https://www.nbcnews.com/politics/trump-administration/live-blog/trump-saudi-arabia-tariffs-live-update-rcna206060/rcrd79398?canonicalCard=true).
 
-[Democratic](https://www.democrats.org/) [Sen.](https://www.senate.gov/) [Brian Schatz](https://www.schatz.senate.gov/) of [Hawaii](https://portal.ehawaii.gov/), who introduced the resolution, said, “I remain flabbergasted that this thing is not going to pass. I remain completely aghast. This is the most blatant, obvious, ridiculous, gross corruption that I’ve ever seen in my entire life — by dollar amount, by symbolism, by violating [constitutional](https://constitution.congress.gov/) and statutory law.”
+[Democratic](https://www.democrats.org/) [Sen.](https://www.senate.gov/) [Brian Schatz](https://www.schatz.senate.gov/) of [Hawaii](https://portal.ehawaii.gov/), who introduced the resolution, said, “I remain flabbergasted that this thing is not going to pass. I remain completely aghast. This is the most blatant, obvious, ridiculous, gross corruption that I’ve ever seen in my entire life — by dollar amount, by symbolism, by violating [constitutional](https://constitution.congress.gov/constitution/) and statutory law.”
 
 Steve Benen is a producer for "[The Rachel Maddow Show](https://www.msnbc.com/rachel-maddow-show)," the editor of [MaddowBlog](https://www.msnbc.com/rachel-maddow-show) and an [MSNBC](https://www.msnbc.com/) political contributor. He's also the bestselling author of ["Ministry of Truth: Democracy, Reality, and the Republicans' War on the Recent Past."](https://www.harpercollins.com/products/ministry-of-truth-steve-benen)
 
@@ -140,7 +140,7 @@ M- media
 - [New York State Government (NY)](https://www.ny.gov/)
 - [City of Greenville, TX](https://www.ci.greenville.tx.us/)
 - Federal Government 
-- [Constitution of the United States](https://constitution.congress.gov/)
+- [Constitution of the United States](https://constitution.congress.gov/constitution/)
 - [Emoluments Clause and Presidential Compensation / Constitution Annotated / Congress.gov / Library of Congress](https://constitution.congress.gov/browse/essay/artII-S1-C7-1/ALDE_00000233/)
 - [Air Force](https://www.af.mil/)
 - [VC-25 - Air Force One > Air Force > Fact Sheet Display](https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104588/vc-25-air-force-one/) 

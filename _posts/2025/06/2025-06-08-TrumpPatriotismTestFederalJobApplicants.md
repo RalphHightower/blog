@@ -10,9 +10,9 @@ date: 2025-06-08 4:07 PM
 title: "A Presidential Loyalty Oath For Federal Employment? Fuck No! Federal Employees Pledge to Protect and Defend the Constitution."
 ---
 
-The oath of office that every federal employee takes, pledges to support and defend the [Constitution of the United States](https://constitution.congress.gov/).
+The oath of office that every federal employee takes, pledges to support and defend the [Constitution of the United States](https://constitution.congress.gov/constitution/).
 
-It does not specify a person or elected officer. Trump should know that the presidential oath of office also pledges to "support and defend defend the [Constitution of the United States](https://constitution.congress.gov/); **something that he has not done!*?
+It does not specify a person or elected officer. Trump should know that the presidential oath of office also pledges to "support and defend defend the [Constitution of the United States](https://constitution.congress.gov/constitution/); **something that he has not done!*?
 
 ## [5 USC PART III, Subpart B, CHAPTER 33, SUBCHAPTER II: OATH OF OFFICE](https://uscode.house.gov/view.xhtml?path=/prelim@title5/part3/subpartB/chapter33/subchapter2&edition=prelim)
 
@@ -45,18 +45,18 @@ At first blush, a story like this might seem dry and bureaucratic. The [Office o
 
 It’s not. Under the new policy, everyone seeking a job at the GS-5 pay-grade or above — a group that would include everyone from firefighters to food inspectors to air traffic controllers — will have to submit four essays as part of the application process. The essays are supposed to provide answers to specific questions:
 
-1. “How has your commitment to the [Constitution](https://constitution.congress.gov/) and the founding principles of the [United States](https://www.usa.gov/) inspired you to pursue this role within the [Federal government](https://www.usa.gov/)? Provide a concrete example from professional, academic, or personal experience.”
+1. “How has your commitment to the [Constitution](https://constitution.congress.gov/constitution/) and the founding principles of the [United States](https://www.usa.gov/) inspired you to pursue this role within the [Federal government](https://www.usa.gov/)? Provide a concrete example from professional, academic, or personal experience.”
 2. “In this role, how would you use your skills and experience to improve government efficiency and effectiveness? Provide specific examples where you improved processes, reduced costs, or improved outcomes.”
 3. “How would you help advance the [President](https://www.whitehouse.gov/)’s Executive Orders and policy priorities in this role? Identify one or two relevant Executive Orders or policy initiatives that are significant to you, and explain how you would help implement them if hired.”
 4. “How has a strong work ethic contributed to your professional, academic or personal achievements? Provide one or two specific examples, and explain how those qualities would enable you to serve effectively in this position.”
 
-Imagine people who are applying to be rangers at a national park being asked to write essays about how they’d “advance” [Trump](https://www.donaldjtrump.com/)’s executive orders. Then imagine the [president](https://www.whitehouse.gov/) himself trying to write an essay about his “commitment to the [Constitution](https://constitution.congress.gov/)” — a document [he’s talked about “terminating”](https://www.msnbc.com/rachel-maddow-show/maddowblog/fire-trump-denies-writing-wrote-constitution-rcna60282) in response to one of his election conspiracy theories.
+Imagine people who are applying to be rangers at a national park being asked to write essays about how they’d “advance” [Trump](https://www.donaldjtrump.com/)’s executive orders. Then imagine the [president](https://www.whitehouse.gov/) himself trying to write an essay about his “commitment to the [Constitution](https://constitution.congress.gov/constitution/)” — a document [he’s talked about “terminating”](https://www.msnbc.com/rachel-maddow-show/maddowblog/fire-trump-denies-writing-wrote-constitution-rcna60282) in response to one of his election conspiracy theories.
 
 The goal, according to the memo, is to recruit “patriotic Americans” with a “commitment to American ideals,” which also sets a bar that the [incumbent president](https://www.donaldjtrump.com/) [would likely struggle to clear](https://www.msnbc.com/rachel-maddow-show/maddowblog/donald-trump-offers-fresh-evidence-selective-patriotism-rcna139763).
 
 In [an opinion piece for The New York Times](https://www.nytimes.com/2025/06/06/opinion/federal-hiring-trump.html), [Erwin Chemerinsky](https://www.law.berkeley.edu/our-faculty/faculty-profiles/erwin-chemerinsky/#tab_profile), the dean of the [law school](https://www.law.berkeley.edu/,) at the [University of California, Berkeley](https://www.berkeley.edu/), and [Catherine Fisk](https://www.law.berkeley.edu/our-faculty/faculty-profiles/catherine-fisk/#tab_profile), a [professor of labor law](https://www.law.berkeley.edu/our-faculty/faculty-experts-by-topic/) at the [same school](https://www.berkeley.edu/), explained, “The [government](https://www.usa.gov/) can and should ensure that [federal employees](https://www.usa.gov/), from administrative assistants to air traffic controllers, have the skills and aptitude to do their jobs. But their views on the [administration](https://www.whitehouse.gov/administration/)’s policy priorities are irrelevant, as is their patriotism — however that is defined. Allowing someone in the [government](https://www.usa.gov/) to screen applicants for patriotism is reminiscent of the loyalty oaths of the McCarthy era, which were arbitrarily applied to unfairly deny employment to many.”
 
-[Chemerinsky](https://www.law.berkeley.edu/our-faculty/faculty-profiles/erwin-chemerinsky/#tab_profile) and [Fisk](https://www.law.berkeley.edu/our-faculty/faculty-profiles/catherine-fisk/#tab_profile) added, “No modern [presidential administration](https://www.whitehouse.gov/administration/) has undertaken such an effort to staff the [entire government](https://www.usa.gov/) with political loyalists. It is plainly inconsistent with good government, with federal law and with the [Constitution](https://constitution.congress.gov/).”
+[Chemerinsky](https://www.law.berkeley.edu/our-faculty/faculty-profiles/erwin-chemerinsky/#tab_profile) and [Fisk](https://www.law.berkeley.edu/our-faculty/faculty-profiles/catherine-fisk/#tab_profile) added, “No modern [presidential administration](https://www.whitehouse.gov/administration/) has undertaken such an effort to staff the [entire government](https://www.usa.gov/) with political loyalists. It is plainly inconsistent with good government, with federal law and with the [Constitution](https://constitution.congress.gov/constitution/).”
 
 There was a time in the recent past that “patriotism tests” for [federal employees](https://www.usa.gov/) would’ve generated a significant controversy and an intense backlash. But in 2025, against a backdrop of countless other [White House](https://www.whitehouse.gov/) outrages, the [OPM](https://www.opm.gov/) memo doesn’t appear to have made much of a splash.
 
@@ -77,7 +77,7 @@ Steve Benen is a producer for "[The Rachel Maddow Show](https://www.msnbc.com/ra
 - [Faculty Experts by Topic - UC Berkeley Law](https://www.law.berkeley.edu/our-faculty/faculty-experts-by-topic/)
 - [North Atlantic Treaty Organization (NATO)](https://www.nato.int/)
 - Federal Government 
-- [Constitution of the United States](https://constitution.congress.gov/)
+- [Constitution of the United States](https://constitution.congress.gov/constitution/)
 - [5 USC PART III, Subpart B, CHAPTER 33, SUBCHAPTER II: OATH OF OFFICE](https://uscode.house.gov/view.xhtml?path=/prelim@title5/part3/subpartB/chapter33/subchapter2&edition=prelim)
 - [Supreme Court of the United States (SCOTUS)](https://www.supremecourt.gov/)
 - [US Courts](https://www.uscourts.gov/)

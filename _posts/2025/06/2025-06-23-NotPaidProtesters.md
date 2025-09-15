@@ -51,7 +51,7 @@ Steve Benen is a producer for "[The Rachel Maddow Show](https://www.msnbc.com/ra
         - Rachel Maddow 
         - [The Rachel Maddow Show](https://www.msnbc.com/rachel-maddow-show)
         - [MaddowBlog](https://www.msnbc.com/rachel-maddow-show) 
-    - [Associated Press (AP)](https://www.apnews.com/)
+    - [Associated Press (AP)](https://apnews.com/)
 - people 
     - [The Office of Kamala D. Harris](https://kamalaharris.com/)
 - political parties 

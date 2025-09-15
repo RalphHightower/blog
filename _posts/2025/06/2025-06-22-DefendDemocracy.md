@@ -20,7 +20,7 @@ By Ali Velshi
 
 This is an adapted excerpt from the [May 24](https://www.msnbc.com/velshi) episode of “Velshi.”
 
-In the wake of [Donald Trump](https://www.msnbc.com/donald-trump)’s second term, more and more [Americans](https://www.usa.gov/) are asking a critical question: “What can I do to defend [democracy](https://constitution.congress.gov/) in [America](https://www.usa.gov/)?”
+In the wake of [Donald Trump](https://www.msnbc.com/donald-trump)’s second term, more and more [Americans](https://www.usa.gov/) are asking a critical question: “What can I do to defend [democracy](https://constitution.congress.gov/constitution/) in [America](https://www.usa.gov/)?”
 
 That question marks a shift away from the comforting illusion that courts, politicians or institutions will save [America’s democracy](https://www.msnbc.com/opinion/msnbc-opinion/trump-democracy-crisis-brazil-poland-rcna188134) on their own. They won’t. Institutions have failed us repeatedly, as we have learned that what we thought were [guardrails are merely suggestions](https://www.msnbc.com/katy-tur/watch/-guardrails-have-fallen-off-trump-willing-to-make-moves-globally-he-wasn-t-in-first-term-234347077800), reliant on goodwill, decency and the honor system.
 
@@ -117,7 +117,7 @@ Amel Ahmed and Allison Detzel contributed.
 - [Democrat Party](https://www.democrats.org/)
 - [Trump Party](https://www.gop.com/)
 - Federal Government 
-- [Constitution of the United States](https://constitution.congress.gov/)
+- [Constitution of the United States](https://constitution.congress.gov/constitution/)
 - [Supreme Court of the United States (SCOTUS)](https://www.supremecourt.gov/)
 - [US Courts](https://www.uscourts.gov/)
 - [2 USC Ch. 20A: STATUTORY PAY-AS-YOU-GO](https://uscode.house.gov/view.xhtml?path=/prelim@title2/chapter20A&edition=prelim)

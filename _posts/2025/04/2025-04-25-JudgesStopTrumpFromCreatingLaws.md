@@ -21,7 +21,7 @@ A judge threw up a serious hurdle to [president](https://www.whitehouse.gov/) [D
 
 "District judges frequently write detailed opinions like this one when they want to make sure there is a solid basis for the courts of appeals to affirm their decisions and as little room as possible for them to reverse," [Vance](https://substack.com/@joycevance) wrote. "This is a detailed, well justified explanation that will not be easy for an appellate court to dismiss, and it’s not one-sided; it denies some of the relief the plaintiffs requested on technical legal grounds."
 
-"[Judge Kollar-Kotelly](https://www.dcd.uscourts.gov/content/senior-judge-colleen-kollar-kotelly) starts with the basics, explaining what executive orders can and cannot be used for," [Vance](https://substack.com/@joycevance) added. "A president, she writes, 'cannot make new law or devise new [authority](https://www.rawstory.com/trump-voting-rights-executive-order/?) for himself — by executive order or otherwise. He may only wield those powers granted to him by [Congress](https, ://www.congress.gov/) or by the [Constitution](https://constitution.congress.gov/).'"
+"[Judge Kollar-Kotelly](https://www.dcd.uscourts.gov/content/senior-judge-colleen-kollar-kotelly) starts with the basics, explaining what executive orders can and cannot be used for," [Vance](https://substack.com/@joycevance) added. "A president, she writes, 'cannot make new law or devise new [authority](https://www.rawstory.com/trump-voting-rights-executive-order/?) for himself — by executive order or otherwise. He may only wield those powers granted to him by [Congress](https, ://www.congress.gov/) or by the [Constitution](https://constitution.congress.gov/constitution/).'"
 
 [Trump](https://www.donaldjtrump.com/) wanted the [EAC](http://www.eac.gov/) to change its forms to require voters to prove their citizenship before registering to vote or updating their registration, but [Kollar-Kotelly](https://www.dcd.uscourts.gov/content/senior-judge-colleen-kollar-kotelly) blocked that provision.
 
@@ -31,7 +31,7 @@ The [order](https://www.whitehouse.gov/presidential-actions/2025/03/preserving-a
 
 "So why do it?" [Vance](https://substack.com/@joycevance) wrote. "The only rationale offered, voter fraud, is something that has been proven, over and over, not to be a problem, especially in federal elections. It’s the same tired excuse used to make it more difficult for 'certain' qualified voters to exercise their rights."
 
-The judge pointed out that the [Constitution](https://constitution.congress.gov/) authorizes [Congress](https://www.congress.gov/) and the states, and not the president, to regulate federal elections, and [Vance](https://substack.com/@joycevance) said her ruling was a substantial bulwark against [Trump](https://www.donaldjtrump.com/)'s attempts to consolidate power.
+The judge pointed out that the [Constitution](https://constitution.congress.gov/constitution/) authorizes [Congress](https://www.congress.gov/) and the states, and not the president, to regulate federal elections, and [Vance](https://substack.com/@joycevance) said her ruling was a substantial bulwark against [Trump](https://www.donaldjtrump.com/)'s attempts to consolidate power.
 
 "A decision like this should be a foregone conclusion at the end of this case," [Vance](https://substack.com/@joycevance) wrote. "No [president](https://www.whitehouse.gov/) should try to usurp the power to control elections, let alone be able to do so. The [executive order](https://www.whitehouse.gov/presidential-actions/2025/03/preserving-and-protecting-the-integrity-of-american-elections/) and the lawsuits challenging it underscore just how off the rails [Trump](https://www.donaldjtrump.com/) is. Every day, part of the spectacle of [Trump](https://www.donaldjtrump.com/) is his assumption of the role of an [autocrat](https://www.donaldjtrump.com/) at the expense of the American [presidency](https://www.whitehouse.gov/). And the risk is that it all becomes somehow normalized."
 
@@ -41,7 +41,7 @@ The judge pointed out that the [Constitution](https://constitution.congress.gov/
 
 - [Raw Story](https://www.rawstory.com/)
 - [Joyce Vance / Substack](https://substack.com/@joycevance)
-- [Constitution of the United States](https://constitution.congress.gov/)
+- [Constitution of the United States](https://constitution.congress.gov/constitution/)
 - [Election Assistance Commission (EAC)](http://www.eac.gov/)
 - [Supreme Court of the United States (SCOTUS)](https://www.supremecourt.gov/)
 - [US Courts](https://www.uscourts.gov/)

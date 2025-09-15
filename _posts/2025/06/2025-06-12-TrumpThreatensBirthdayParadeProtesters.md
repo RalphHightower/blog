@@ -22,7 +22,7 @@ By [Steve Benen](https://www.msnbc.com/author/steve-benen-ncpn433601)
 
 “We’re going to have a fantastic June 14th parade on Flag Day,” [Trump told reporters](https://rollcall.com/factbase/trump/transcript/donald-trump-remarks-wildfire-briefing-oval-office-june-10-2025/) on the [Oval Office](https://www.whitehouse.gov/) on Tuesday. “It’s going to be an amazing day. We have tanks. We have planes. We have all sorts of things. And I think it’s going to be great.”
 
-Of course, the [president](https://www.whitehouse.gov/) is a highly controversial figure; his idea about having tanks roll down the streets of the nation’s capital is not universally popular; and because the [Constitution](https://constitution.congress.gov/)’s [First Amendment](https://constitution.congress.gov/constitution/amendment-1/) still exists, there’s a reasonably good chance that some of the folks who show up for Saturday’s parade will be there to express their disagreement with the display.
+Of course, the [president](https://www.whitehouse.gov/) is a highly controversial figure; his idea about having tanks roll down the streets of the nation’s capital is not universally popular; and because the [Constitution](https://constitution.congress.gov/constitution/)’s [First Amendment](https://constitution.congress.gov/constitution/amendment-1/) still exists, there’s a reasonably good chance that some of the folks who show up for Saturday’s parade will be there to express their disagreement with the display.
 
 As [NBC News reported](https://www.nbcnews.com/politics/white-house/trump-warns-military-parade-protesters-will-face-heavy-force-rcna212136), [Trump](https://www.donaldjtrump.com/) shared some thoughts about them, too.
 
@@ -73,7 +73,7 @@ Steve Benen is a producer for "[The Rachel Maddow Show](https://www.msnbc.com/ra
 - [Baltimore](https://www.baltimorecity.gov/), [Maryland (MD)](https://moss-maryland-cdn.nicusa-gl.com/Pages/default.aspx)
 - [Boston](https://www.boston.gov/departments/311/city-boston-government), [Massachusetts (MA)](https://www.mass.gov/)
 - [Chicago](https://www.chicago.gov/city/en/chicagogovt.html), [Illinois (IL)](https://www.illinois.gov/government.html)
-- [Tampa](https://www.tampa.gov/), [Florida (FL)](https://www.myflorida.com/)
+- [Tampa](https://www.tampa.gov/), [Florida (FL)](https://www.myflorida.gov/)
 - [Raleigh](https://raleighnc.gov/), [North Carolina (NC)](https://www.nc.gov/)
 - [Washington (DC)](https://dc.gov/)
 - [Gavin Newsom / Governor of California](https://www.gov.ca.gov/about/)
@@ -84,7 +84,7 @@ Steve Benen is a producer for "[The Rachel Maddow Show](https://www.msnbc.com/ra
 - [COUNTY OF LOS ANGELES](https://lacounty.gov/)
 - Federal Government 
 - [Election Day 2024](https://www.fec.gov/resources/cms-content/documents/2024presgeresults.pdf)
-- [Constitution of the United States](https://constitution.congress.gov/)
+- [Constitution of the United States](https://constitution.congress.gov/constitution/)
 - [First Amendment](https://constitution.congress.gov/constitution/amendment-1/)
 - [Supreme Court of the United States (SCOTUS)](https://www.supremecourt.gov/)
 - [US Courts](https://www.uscourts.gov/)
@@ -113,7 +113,7 @@ Steve Benen is a producer for "[The Rachel Maddow Show](https://www.msnbc.com/ra
 - [U.S. European Command (USEUCOM)](https://www.eucom.mil/)
 - [Office of the Director of National Intelligence (ODNI)](https://www.odni.gov/)
 - [Department of Homeland Security (DHS)](https://www.dhs.gov/)
-- [Congress](https;//www.congress.gov/)
+- [Congress](https://www.congress.gov/)
 - [Congressional Budget Office (CBO)](https://www.cbo.gov/)
 - [Senate](https://www.senate.gov/)
 - [House of Representatives](https://www.house.gov/)

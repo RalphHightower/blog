@@ -20,7 +20,7 @@ By Jordan Rubin
 
 [U.S. District](https://www.mdd.uscourts.gov/) [Judge James Boasberg](https://www.dcd.uscourts.gov/content/chief-judge-james-e-boasberg) said probable cause exists to find the [Trump](https://www.donaldjtrump.com/) [administration](https://www.whitehouse.gov/administration/) in contempt for violating his order over deportation flights last month, explaining that he didn’t reach that conclusion lightly but that officials failed to provide satisfactory answers to explain their actions.
 
-“The [Constitution](https://constitution.congress.gov/) does not tolerate willful disobedience of judicial orders — especially by officials of a coordinate branch who have sworn an oath to uphold it,” [Boasberg](https://www.dcd.uscourts.gov/content/chief-judge-james-e-boasberg) wrote in a [lengthy opinion](https://storage.courtlistener.com/recap/gov.uscourts.dcd.278436/gov.uscourts.dcd.278436.81.0_2.pdf) Wednesday.
+“The [Constitution](https://constitution.congress.gov/constitution/) does not tolerate willful disobedience of judicial orders — especially by officials of a coordinate branch who have sworn an oath to uphold it,” [Boasberg](https://www.dcd.uscourts.gov/content/chief-judge-james-e-boasberg) wrote in a [lengthy opinion](https://storage.courtlistener.com/recap/gov.uscourts.dcd.278436/gov.uscourts.dcd.278436.81.0_2.pdf) Wednesday.
 
 The judge said he would give the [government](https://www.whitehouse.gov/) the chance to remedy its contempt but if it doesn’t, he’ll proceed to identify the people in contempt and refer the matter for prosecution.
 

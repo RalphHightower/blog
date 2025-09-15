@@ -23,7 +23,7 @@ Jennifer Vasquez Sura, the wife of Kilmar Abrego Garcia, said she and her childr
 
 As the [Trump](https://www.donaldjtrump.com/) administration [released documents detailing its case](https://www.nbcnews.com/news/us-news/new-documents-government-case-mistakenly-deported-abrego-garcia-gang-rcna201665) against Abrego Garcia, a [Maryland](https://www.maryland.gov/) father with protected status who officials admitted was mistakenly deported to [El Salvador](https://www.gob.sv/), [DHS](https://www.dhs.gov/) last week posted a copy of a civil protective order granted to his wife in 2021.
 
-“Kilmar Abrego Garcia had a history of violence and was not the upstanding ‘Maryland Man’ the media has portrayed him as,” the [agency](ttps://www.dhs.gov/) wrote in a post on [X](https://www.x.com/).
+“Kilmar Abrego Garcia had a history of violence and was not the upstanding ‘Maryland Man’ the media has portrayed him as,” the [agency](https://www.dhs.gov/) wrote in a post on [X](https://www.x.com/).
 
 The family’s home address and other personal information about the couple was not redacted. The [Department of Homeland Security](https://www.dhs.gov/) told [MSNBC](https://www.msnbc.com/) that the documents it posted are publicly accessible.
 
@@ -55,14 +55,14 @@ Meanwhile, Vasquez Sura has continued to advocate for his return. “Enough is e
 - [República de El Salvador](https://www.gob.sv/)
 - [President Nayib Bukele](https://www.presidencia.gob.sv/)
 - Centro de Confinamiento del Terrorismo (CECOT)
-- [Constitution](https://constitution.congress.gov/)
+- [Constitution](https://constitution.congress.gov/constitution/)
 - [Maryland](https://www.maryland.gov/)
 - [Supreme Court of the United States (SCOTUS)](https://www.supremecourt.gov/)
 - [US Courts](https://www.uscourts.gov/)
 - [Fourth Circuit- Maryland District Court](https://www.mdd.uscourts.gov/)
 - [Paula Xinis, District Judge / District of Maryland / United States District Court](https://www.mdd.uscourts.gov/paula-xinis-district-judge)
 - [Department of Justice (DOJ)](https://www.justice.gov/)
-- [Attorney General](www.justice.gov/)
+- [Attorney General](https://www.justice.gov/)
 - [Pam Bondi](https://www.justice.gov/ag/staff-profile/meet-attorney-general)
 - [Department of Homeland Security ,(DHS)](https://www.dhs.gov/)
 - [Immigration and Customs Enforcement (ICE)](https://www.ice.gov/)

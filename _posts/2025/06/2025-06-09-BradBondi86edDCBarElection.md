@@ -41,7 +41,7 @@ As [NBC News reported:](https://www.nbcnews.com/politics/trump-administration/tr
 
 [Seltzer](https://www.linkedin.com/in/dianeseltzer/)’s term will begin July 1.
 
-[Brad Bondi](https://www.linkedin.com/in/bradbondi/) wasn’t the only [Trump](https://www.donaldjtrump.com/) ally to prove unsuccessful Monday. [Alicia Longh](ttps://www.linkedin.com/in/alicia-long-498b126/), who worked closely with [Ed Martin](https://www.msnbc.com/opinion/msnbc-opinion/trump-failed-us-attorney-ed-martin-doj-rcna207163), former interim U.S. attorney in Washington, D.C., lost her bid for treasurer to [Amanda Molina](https://www.hbadc.org/page/AmandaMolina).
+[Brad Bondi](https://www.linkedin.com/in/bradbondi/) wasn’t the only [Trump](https://www.donaldjtrump.com/) ally to prove unsuccessful Monday. [Alicia Longh](https://www.linkedin.com/in/alicia-long-498b126/), who worked closely with [Ed Martin](https://www.msnbc.com/opinion/msnbc-opinion/trump-failed-us-attorney-ed-martin-doj-rcna207163), former interim U.S. attorney in Washington, D.C., lost her bid for treasurer to [Amanda Molina](https://www.hbadc.org/page/AmandaMolina).
 
 Allison Detzel is an editor/producer for MSNBC Digital.
 
@@ -54,7 +54,7 @@ Allison Detzel is an editor/producer for MSNBC Digital.
 - people 
 - [Diane Seltzer](https://www.linkedin.com/in/dianeseltzer/)
 - [Brad Bondi](https://www.linkedin.com/in/bradbondi/)
-- [Alicia Longh](ttps://www.linkedin.com/in/alicia-long-498b126/)
+- [Alicia Longh](https://www.linkedin.com/in/alicia-long-498b126/)
 - [Ed Martin](https://www.msnbc.com/opinion/msnbc-opinion/trump-failed-us-attorney-ed-martin-doj-rcna207163)
 - [Amanda Molina](https://www.hbadc.org/page/AmandaMolina)
 - organizations 

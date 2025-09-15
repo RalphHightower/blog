@@ -11,9 +11,7 @@ title: "Trump Can’t Think of a Reason For Firing Chris Krebs. He Spoke Truth T
 ---
 
 Trump Can't Think of a Reason For Firing Chris Krebs. He Spoke Truth To Power
-## ['Prosecute' vs. 'Persecute' – Merriam-Webster](https://www.merriam-webster.com/grammar/prosecuted-vs-persecuted-usage)
 
-“One you do in court, the other you do if you're a jerk.”
 
 - [2025-04-10: Trump Weaponizes Federal Government to Persecute Truth Told By Cybersecurity Expert Chris Krebs]({% link _posts/2025/04/2025-04-10-WeaponingGovtAgainstChrisKrebs.md %})
 - [2025-04-16: Weaponizing Federal Government: Persecuting Chris Krebs, Former Head of Cybersecurity and Infrastructure Security Agency (CISA) That Spoke the Truth of 2020 Election]({% link _posts/2025/04/2025-04-16-WeaponizeFedGovtKrebsPart2.md %})

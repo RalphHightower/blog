@@ -60,7 +60,7 @@ Steve Benen is a producer for "The Rachel Maddow Show," the editor of MaddowBlog
 - [Democrat Party](https://www.democrats.org/)
 - [Trump Party](https://www.gop.com/)
 - Federal Government 
-- [Constitution of the United States](https://constitution.congress.gov/)
+- [Constitution of the United States](https://constitution.congress.gov/constitution/)
 - [Supreme Court of the United States (SCOTUS)](https://www.supremecourt.gov/)
 - [US Courts](https://www.uscourts.gov/)
 - [National Cancer Institute (NCI)](https://www.cancer.gov/)
@@ -78,7 +78,7 @@ Steve Benen is a producer for "The Rachel Maddow Show," the editor of MaddowBlog
 - [President of the United States (POTUS)](https://www.whitehouse.gov/)
 - [White House (WH)](https://www.whitehouse.gov/)
 - Federal Government 
-- [Constitution of the United States](https://constitution.congress.gov/)
+- [Constitution of the United States](https://constitution.congress.gov/constitution/)
 - [First Amendment](https://constitution.congress.gov/constitution/amendment-1/)
 - [Supreme Court of the United States (SCOTUS)](https://www.supremecourt.gov/)
 - [US Courts](https://www.uscourts.gov/)

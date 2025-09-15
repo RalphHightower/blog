@@ -24,7 +24,7 @@ To hear [Donald Trump](https://www.donaldjtrump.com/) tell it, there was just a 
 
 For good measure, the [president](https://www.whitehouse.gov/) added that he “never” had any intention of trying to oust the [Fed](https://www.federalreserve.gov/) [chair](https://www.federalreserve.gov/aboutthefed/bios/board/powell.htm). “The press runs away with things,” he added.
 
-April 17: In [an item](https://truthsocial.com/@realDonaldTrump](https://www.donaldjtrump.com/)/114352766082542122) published to his social media platform, [Trump](https://www.donaldjtrump.com/) wrote that the [Fed](https://www.federalreserve.gov/) [chair](https://www.federalreserve.gov/aboutthefed/bios/board/powell.htm) is “always” wrong, adding, “[Powell](https://www.federalreserve.gov/aboutthefed/bios/board/powell.htm)’s termination cannot come fast enough!”
+April 17: In [an item](https://truthsocial.com/@realDonaldTrump/114352766082542122) published to his social media platform, [Trump](https://www.donaldjtrump.com/) wrote that the [Fed](https://www.federalreserve.gov/) [chair](https://www.federalreserve.gov/aboutthefed/bios/board/powell.htm) is “always” wrong, adding, “[Powell](https://www.federalreserve.gov/aboutthefed/bios/board/powell.htm)’s termination cannot come fast enough!”
 
 April 17: Hours later, [Trump](https://www.donaldjtrump.com/) said he’s never been “fond of” [Powell](https://www.federalreserve.gov/aboutthefed/bios/board/powell.htm), and suggested that the [Fed](https://www.federalreserve.gov/) [chair](https://www.federalreserve.gov/aboutthefed/bios/board/powell.htm) — whom he first appointed — is [“politically” conspiring against him](https://x.com/Acyn/status/1912929943996248400).
 

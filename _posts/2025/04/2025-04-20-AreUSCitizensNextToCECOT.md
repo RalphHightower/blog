@@ -62,9 +62,9 @@ The legal viability of [Trump](https://www.donaldjtrump.com/)'s potential plan i
 
 Aaron Reichlin-Melnick, senior fellow at the [American Immigration Council](https://www.americanimmigrationcouncil.org/), posted to [X](https://x.com/) on Monday: "We are at a dangerous, dangerous moment in US history, where the [President of the United States](https://www.whitehouse.gov/) is threatening to send US citizens to be imprisoned by a foreign ally, and the foreign ally is saying it won't respect an [sic] US court orders to release people that it's holding."
 
-[Senator](https://www.senate.gov/) [Chris Van Hollen (D-MD)](https://www.vanhollen.senate.gov/) wrote in a Friday X post about Abrego Garcia's case: "We are standing up for EVERYONE's right to due process under the [Constitution](https://constitution.congress.gov/)."
+[Senator](https://www.senate.gov/) [Chris Van Hollen (D-MD)](https://www.vanhollen.senate.gov/) wrote in a Friday X post about Abrego Garcia's case: "We are standing up for EVERYONE's right to due process under the [Constitution](https://constitution.congress.gov/constitution/)."
 
-The [Lincoln Project](https://lincolnproject.us/), the anti-[Trump](https://www.donaldjtrump.com/) [Republican](https://www.gop.com/)[^67] group, wrote in an [X](https://x.com/) statement on April 14: "[Donald Trump](https://www.donaldjtrump.com/) is deporting legal US residents to a foreign gulag, and he has stated publicly that he is moving on to citizens next. This is a [Constitutional](https://constitution.congress.gov/) crisis. Will a single [Trumpian](https://www.gop.com/) stand up for our [Constitution](https://constitution.congress.gov/)?"
+The [Lincoln Project](https://lincolnproject.us/), the anti-[Trump](https://www.donaldjtrump.com/) [Republican](https://www.gop.com/)[^67] group, wrote in an [X](https://x.com/) statement on April 14: "[Donald Trump](https://www.donaldjtrump.com/) is deporting legal US residents to a foreign gulag, and he has stated publicly that he is moving on to citizens next. This is a [Constitutional](https://constitution.congress.gov/constitution/) crisis. Will a single [Trumpian](https://www.gop.com/) stand up for our [Constitution](https://constitution.congress.gov/constitution/)?"
 
 [^67]: @RalphHightower: I'll allow Republican in this use since they are anti-[Trump](https://www.donaldjtrump.com/)
 
@@ -90,14 +90,14 @@ Deportations are expected to continue under the [administration](https://www.whi
 - [President Nayib Bukele](https://www.presidencia.gob.sv/)
 - Centro de Confinamiento del Terrorismo (CECOT)
 - [Alien and Sedition Acts (1798) / National Archives](https://www.archives.gov/milestone-documents/alien-and-sedition-acts)
-- [Constitution](https://constitution.congress.gov/)
+- [Constitution](https://constitution.congress.gov/constitution/)
 - [Maryland](https://www.maryland.gov/)
 - [Supreme Court of the United States (SCOTUS)](https://www.supremecourt.gov/)
 - [US Courts](https://www.uscourts.gov/)
 - [Fourth Circuit- Maryland District Court](https://www.mdd.uscourts.gov/)
 - [Paula Xinis, District Judge / District of Maryland / United States District Court](https://www.mdd.uscourts.gov/paula-xinis-district-judge)
 - [Department of Justice (DOJ)](https://www.justice.gov/)
-- [Attorney General](www.justice.gov/)
+- [Attorney General](https://www.justice.gov/)
 - [Pam Bondi](https://www.justice.gov/ag/staff-profile/meet-attorney-general)
 - [Senate](https://www.senate.gov/)
 - [Chis Van Hollen (D-MD)](https://www.vanhollen.senate.gov/)

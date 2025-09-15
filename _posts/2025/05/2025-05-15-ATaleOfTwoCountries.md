@@ -262,7 +262,7 @@ Because if we fail them now, we’re not just abandoning Ahmad, Murtaza and thou
 - [The Rachel Maddow Show](https://www.msnbc.com/rachel-maddow-show)
 - Steve Benen
 - [NBC News](https://www.nbcnews.com/)
-- [Associated Press (AP)](https://www.apnews.com/)
+- [Associated Press (AP)](https://apnews.com/)
 - [Al Jazeera – Breaking News, World News and Video](https://www.aljazeera.com/)
 - [BBC Breaking News, World News, US News, Sports, Business, Innovation, Climate, Culture, Travel, Video & Audio](https://www.bbc.com/)
 - [CNN](https://www.cnn.com/)
@@ -328,11 +328,11 @@ Because if we fail them now, we’re not just abandoning Ahmad, Murtaza and thou
 - Kabul Afghanistan
 - [Bagram Airfield](https://factcheck.afp.com/doc.afp.com.39VY2ZP)
 - [Accueil - Gouvernement (CG)](https://gouvernement.cg/)
-- [Iraq](http://mop.gov.iq/)
+- [Iraq (IQ)](http://mop.gov.iq/)
 - [Government of Pakistan (PK)](https://www.pakistan.gov.pk/)
 - [e-Devlet Kapısı Devletin Kısayolu / www.türkiye.gov.tr (TR)](https://www.turkiye.gov.tr/non-citizens)
 - [Turkey (TR)](https://www.turkiye.gov.tr/)
-- [Taiwan.gov.tw - Government Portal of the Republic of China (Taiwan)](https://www.taiwan.gov.tw/)
+- [Taiwan.gov.tw - Government Portal of the Republic of China (TW)](https://www.taiwan.gov.tw/)
 - [Ukraine (UA)](https://www.gov.ua/)
 - [South African Government (ZA)](https://www.gov.za/)
 - [Afrikaners (ZA)](https://www.gov.za/)

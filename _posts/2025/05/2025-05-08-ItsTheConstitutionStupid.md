@@ -26,17 +26,17 @@ May 4, 2025, 9:00 AM EDT / Updated May 4, 2025, 9:44 AM EDT
 
 By Amanda Terkel and Lawrence Hurley
 
-[President](https://www.whitehouse.gov/) [Donald Trump](https://www.donaldjtrump.com/) argued in an interview with [NBC News](https://www.nbcnews.com/)’ [“Meet the Press”](https://www.nbcnews.com/meet-the-press-full-episodes) that fulfilling his ambitious campaign promise to rapidly carry out mass deportations may take precedence over giving immigrants the right to due process under the [Constitution](https://constitution.congress.gov/), as required by courts.
+[President](https://www.whitehouse.gov/) [Donald Trump](https://www.donaldjtrump.com/) argued in an interview with [NBC News](https://www.nbcnews.com/)’ [“Meet the Press”](https://www.nbcnews.com/meet-the-press-full-episodes) that fulfilling his ambitious campaign promise to rapidly carry out mass deportations may take precedence over giving immigrants the right to due process under the [Constitution](https://constitution.congress.gov/constitution/), as required by courts.
 
 A central part of [Trump](https://www.donaldjtrump.com/)’s agenda has been implementing the “[largest deportation operation](https://www.nbcnews.com/politics/donald-trump/trump-14-major-campaign-promises-rcna203436)” in U.S. history, as he vowed during the 2024 campaign. In service of that goal, his [administration](https://www.whitehouse.gov/administration/) has [pressed the courts](https://www.nbcnews.com/politics/supreme-court/supreme-court-gives-boost-trump-deportation-plans-alien-enemies-act-rcna198585) to allow the immediate removal of immigrants it accuses of being members of a [Venezuelan gang](https://gob.ve/), without giving them a chance to plead their case before a judge.
 
-In an interview last month with [“Meet the Press,”](https://www.nbcnews.com/meet-the-press-full-episodes) [Secretary of State](www.state.gov/) [Marco Rubio](https://www.state.gov/biographies/marco-rubio/) said, “[Yes, of course](https://www.nbcnews.com/politics/trump-administration/secretary-state-marco-rubio-all-people-us-entitled-due-process-rcna203193),” when asked whether every person in the [United States](https://www.usa.gov/) is entitled to due process.
+In an interview last month with [“Meet the Press,”](https://www.nbcnews.com/meet-the-press-full-episodes) [Secretary of State](https://www.state.gov/) [Marco Rubio](https://www.state.gov/biographies/marco-rubio/) said, “[Yes, of course](https://www.nbcnews.com/politics/trump-administration/secretary-state-marco-rubio-all-people-us-entitled-due-process-rcna203193),” when asked whether every person in the [United States](https://www.usa.gov/) is entitled to due process.
 
 [Trump](https://www.donaldjtrump.com/), however, isn’t so sure.
 
-“I don’t know. I’m not, I’m not a lawyer. I don’t know,” [Trump](https://www.donaldjtrump.com/) replied when asked by [“Meet the Press”](https://www.nbcnews.com/meet-the-press-full-episodes) moderator Kristen Welker whether he agreed with [Rubio](https://www.state.gov/biographies/marco-rubio/). His comments came during a wide-ranging interview at his [Mar-a-Lago resort](https://www.maralagoclub.com/) in [Florida](https://www.myflorida.com/), which aired Sunday.
+“I don’t know. I’m not, I’m not a lawyer. I don’t know,” [Trump](https://www.donaldjtrump.com/) replied when asked by [“Meet the Press”](https://www.nbcnews.com/meet-the-press-full-episodes) moderator Kristen Welker whether he agreed with [Rubio](https://www.state.gov/biographies/marco-rubio/). His comments came during a wide-ranging interview at his [Mar-a-Lago resort](https://www.maralagoclub.com/) in [Florida](https://www.myflorida.gov/), which aired Sunday.
 
-The [Constitution](https://constitution.congress.gov/)’s [Fifth Amendment](https://constitution.congress.gov/constitution/amendment-5/) says “no person” shall be “deprived of life, liberty, or property, without due process of law”; it does not say that person must be a U.S. citizen, and the [Supreme Court](https://www.supremecourt.gov/) has long recognized that noncitizens have certain basic rights. [Trump](https://www.donaldjtrump.com/) has also said that while “we always have to obey the laws,” he would like to see some “homegrown criminals” sent to [El Salvador](https://www.gob.sv/) as well, a proposal that was [widely panned](https://www.nbcnews.com/politics/donald-trump/trump-floats-legally-questionable-proposal-deport-us-citizens-rcna201183) by legal experts.
+The [Constitution](https://constitution.congress.gov/constitution/)’s [Fifth Amendment](https://constitution.congress.gov/constitution/amendment-5/) says “no person” shall be “deprived of life, liberty, or property, without due process of law”; it does not say that person must be a U.S. citizen, and the [Supreme Court](https://www.supremecourt.gov/) has long recognized that noncitizens have certain basic rights. [Trump](https://www.donaldjtrump.com/) has also said that while “we always have to obey the laws,” he would like to see some “homegrown criminals” sent to [El Salvador](https://www.gob.sv/) as well, a proposal that was [widely panned](https://www.nbcnews.com/politics/donald-trump/trump-floats-legally-questionable-proposal-deport-us-citizens-rcna201183) by legal experts.
 
 When Welker tried to point out what the [Fifth Amendment](https://constitution.congress.gov/constitution/amendment-5/) said, [Trump](https://www.donaldjtrump.com/) suggested that such a process would slow him down too much.
 
@@ -44,7 +44,7 @@ When Welker tried to point out what the [Fifth Amendment](https://constitution.c
 
 “I was elected to get them the hell out of here, and the courts are holding me from doing it,” he added.
 
-“But even given those numbers that you’re talking about, don’t you need to uphold the [Constitution](https://constitution.congress.gov/) of the [United States](https://constitution.congress.gov/constitution/amendment-5/) as [president](https://www.whitehouse.gov/)?” Welker asked.
+“But even given those numbers that you’re talking about, don’t you need to uphold the [Constitution](https://constitution.congress.gov/constitution/) of the [United States](https://constitution.congress.gov/constitution/amendment-5/) as [president](https://www.whitehouse.gov/)?” Welker asked.
 
 “I don’t know,” [Trump](https://www.donaldjtrump.com/) replied. “I have to respond by saying, again, I have brilliant lawyers that work for me, and they are going to obviously follow what the [Supreme Court](https://www.supremecourt.gov/) said.”
 
@@ -96,23 +96,23 @@ Welker noted to [Trump](https://www.donaldjtrump.com/) that federal law [prohibi
 
 #### [Trumph's deportations show how he doesn't understand the Constitution](https://www.msnbc.com/opinion/msnbc-opinion/trump-deportations-courts-amendments-constitution-rcna205372)
 
-*The [president](https://www.whitehouse.gov/) seems to think he rules the [Constitution](https://constitution.congress.gov/), not the other way around.*
+*The [president](https://www.whitehouse.gov/) seems to think he rules the [Constitution](https://constitution.congress.gov/constitution/), not the other way around.*
 
 May 8, 2025, 11:33 AM EDT
 
 By Symone D. Sanders-Townsend, co-host of "The Weekend"
 
-The [U.S. Constitution](https://constitution.congress.gov/) is not a suggestion. It is the most sacred document in our country's history.
+The [U.S. Constitution](https://constitution.congress.gov/constitution/) is not a suggestion. It is the most sacred document in our country's history.
 
 Under the government it created, 12,583 people have served in [Congress](https://www.congress.gov/), 116 justices have been appointed to the [Supreme Court](https://www.supremecourt.gov/)'s bench and 45 presidents have led the [executive branch](https://www.whitehouse.gov/).
 
-Now one of those [presidents](https://www.whitehouse.gov/) is seeking to undermine it. Whether [Donald Trump](https://www.donaldjtrump.com/) is [deporting legal residents](https://www.wsj.com/politics/policy/judge-finds-trump-administration-willfully-defied-court-orders-in-deportation-case-ca9e47f8) in defiance of the courts, [freezing federal grants](https://www.nbcnews.com/politics/white-house/trumps-effort-withhold-federal-funding-will-trigger-imminent-legal-act-rcna189583) in defiance of [Congress](https://www.congress.gov/), attempting to unilaterally [dismantle its amendments](https://www.brennancenter.org/our-work/analysis-opinion/presidents-cant-end-birthright-citizenship), or [calling for its termination](https://www.pbs.org/newshour/politics/trump-rebuked-for-call-to-terminate-constitution-over-2020-election-results) altogether, the [current president](https://www.whitehouse.gov/) seems to think he rules the [Constitution](https://constitution.congress.gov/), and not the other way around.
+Now one of those [presidents](https://www.whitehouse.gov/) is seeking to undermine it. Whether [Donald Trump](https://www.donaldjtrump.com/) is [deporting legal residents](https://www.wsj.com/politics/policy/judge-finds-trump-administration-willfully-defied-court-orders-in-deportation-case-ca9e47f8) in defiance of the courts, [freezing federal grants](https://www.nbcnews.com/politics/white-house/trumps-effort-withhold-federal-funding-will-trigger-imminent-legal-act-rcna189583) in defiance of [Congress](https://www.congress.gov/), attempting to unilaterally [dismantle its amendments](https://www.brennancenter.org/our-work/analysis-opinion/presidents-cant-end-birthright-citizenship), or [calling for its termination](https://www.pbs.org/newshour/politics/trump-rebuked-for-call-to-terminate-constitution-over-2020-election-results) altogether, the [current president](https://www.whitehouse.gov/) seems to think he rules the [Constitution](https://constitution.congress.gov/constitution/), and not the other way around.
 
 The [latest case](https://www.nytimes.com/2025/05/06/us/politics/judge-deportation-el-salvador-venezuelan.html) involves a 20-year-old [Venezuelan](https://gob.ve/) identified in court papers only as Cristian, who was flown to [El Salvador](https://www.gob.sv/) in March despite an earlier court order barring him from being deported.
 
-> *The [president](https://www.whitehouse.gov/) can't change the [Constitution](https://constitution.congress.gov/) even if he wants, as he has no role in the amendment process.*
+> *The [president](https://www.whitehouse.gov/) can't change the [Constitution](https://constitution.congress.gov/constitution/) even if he wants, as he has no role in the amendment process.*
 
-The [president](https://www.whitehouse.gov/) is sworn to uphold the [Constitution](https://constitution.congress.gov/), not undermine it. He can't even change it if he wants, as the president has [no specific constitutional role](https://constitution.congress.gov/browse/essay/artV-3-4/ALDE_00013052/) in the process for amending the [Constitution](https://constitution.congress.gov/).
+The [president](https://www.whitehouse.gov/) is sworn to uphold the [Constitution](https://constitution.congress.gov/constitution/), not undermine it. He can't even change it if he wants, as the president has [no specific constitutional role](https://constitution.congress.gov/browse/essay/artV-3-4/ALDE_00013052/) in the process for amending the [Constitution](https://constitution.congress.gov/constitution/).
 
 [Article V](https://constitutioncenter.org/media/files/constitution.pdf) outlines two methods, both of which have a high bar. Under the first, a proposal passed by a two-thirds vote of both the [House](https://www.house.gov/) and the [Senate](https://www.senate.gov/) is then ratified by two-thirds of state legislatures. In the second, two-thirds of state legislatures can call for a new constitutional convention — something that has never happened in our history. In neither case is the [president](https://www.whitehouse.gov/) even consulted.
 
@@ -126,7 +126,7 @@ The [Seneca Falls Convention](https://en.wikipedia.org/wiki/Seneca_Falls_Convent
 
 And it’s not [Donald Trump](https://www.donaldjtrump.com/)’s or [DHS Secretary Kristi Noem](https://www.youtube.com/watch?v=AHTTbb0ddOo)’s words that determine who is entitled to due process under the law. Those are the [Fifth](https://constitution.congress.gov/constitution/amendment-5/) and [14th Amendments](https://constitution.congress.gov/constitution/amendment-14/).
 
-The [United States Constitution](https://constitution.congress.gov/) is not a gaudy skyscraper on Fifth Avenue, with the name "TRUMP" in gold letters. Quite the opposite: It says “WE THE PEOPLE.”
+The [United States Constitution](https://constitution.congress.gov/constitution/) is not a gaudy skyscraper on Fifth Avenue, with the name "TRUMP" in gold letters. Quite the opposite: It says “WE THE PEOPLE.”
 
 This is the moment we the people must stand up. If the rest of [Trump](https://www.donaldjtrump.com/)’s term continues on this path, the document he swore twice to protect and defend will be nothing more than faded paper and the 27 amendments forged over centuries to protect us will fade right along with it.
 
@@ -142,7 +142,7 @@ Symone D. Sanders-Townsend
 - [República de El Salvador](https://www.gob.sv/)
 - [Venezuela](https://gob.ve/)
 - [Maryland](https://www.maryland.gov/)
-- [Constitution of the United States](https://constitution.congress.gov/)
+- [Constitution of the United States](https://constitution.congress.gov/constitution/)
 - [Supreme Court of the United States (SCOTUS)](https://www.supremecourt.gov/)
 - [US Courts](https://www.uscourts.gov/)
 - [Congress](https://www.congress.gov/)

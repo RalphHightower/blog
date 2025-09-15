@@ -43,7 +43,7 @@ Ja’han Jones is an MSNBC opinion blogger. He previously wrote The ReidOut Blog
 - [MSNBC](https://www.msnbc.com/)
 - [NBC News](https://www.nbcnews.com/)
 - [NBC News Author Kristen Welker](https://www.nbcnews.com/author/kristen-welker-ncpn6396)
-- [Associated Press (AP)](https://www.apnews.com/)
+- [Associated Press (AP)](https://apnews.com/)
 - [New York Times (NYT)](https://www.nytimes.com/)
 - [Executive Office of the Mayor](https://mayor.dc.gov/node)
 - [Muriel Bowser / mayormb](https://mayor.dc.gov/biography/muriel-bowser)

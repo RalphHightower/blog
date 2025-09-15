@@ -16,7 +16,7 @@ title: "🚨It’s Official. The Trump Apparatchik Has Crossed the Rubicon. Nixo
 
 April 15, 2025, 2:10 PM EDT
 By Charlie Sykes, MSNBC columnist
-[Donald Trump](https://www.donaldjtrump.com/) just sent the [Supreme Court](https://www.supremecourt.gov/) an unambiguous message: You made your ruling. Now enforce it, because I’m not going to. That [constitutional](https://constitution.congress.gov/) crisis we’ve expected, yet feared? It’s here.
+[Donald Trump](https://www.donaldjtrump.com/) just sent the [Supreme Court](https://www.supremecourt.gov/) an unambiguous message: You made your ruling. Now enforce it, because I’m not going to. That [constitutional](https://constitution.congress.gov/constitution/) crisis we’ve expected, yet feared? It’s here.
 
 On Monday, both [Trump](https://www.donaldjtrump.com/) officials and the [president](https://www.presidencia.gob.sv/) of [El Salvador](https://www.gob.sv/) said they could not return Kilmar Abrego Garcia, a [Maryland](https://www.maryland.gov/) man who was wrongfully deported and sent to a notorious prison in [El Salvador](https://www.gob.sv/).
 
@@ -24,7 +24,7 @@ On Monday, both [Trump](https://www.donaldjtrump.com/) officials and the [presid
 
 And just like that, the [White House](https://www.whitehouse.gov/) openly defied a unanimous ruling by the nation’s highest court.
 
-Last week, by a vote of 9-0[^27], the [court](https://www.supremecourt.gov/) instructed the government to “facilitate” the return of Abrego Garcia. But the justices left [Trump](https://www.donaldjtrump.com/) just enough wiggle room to scoff at making effort at all, despite multiple rulings from [federal courts](https://www.uscourts.gov/), including a district court judge who [called Abrego Garcia’s arrest](https://www.nbcnews.com/news/us-news/trump-administration](https://www.whitehouse.gov/administration/)-asks-scotus-block-order-return-man-mistakenly-dep-rcna199979) “wholly lawless.”
+Last week, by a vote of 9-0[^27], the [court](https://www.supremecourt.gov/) instructed the government to “facilitate” the return of Abrego Garcia. But the justices left [Trump](https://www.donaldjtrump.com/) just enough wiggle room to scoff at making effort at all, despite multiple rulings from [federal courts](https://www.uscourts.gov/), including a district court judge who [called Abrego Garcia’s arrest](https://www.nbcnews.com/news/us-news/trump-administration-asks-scotus-block-order-return-man-mistakenly-dep-rcna199979) “wholly lawless.”
 
 [^27]: @RalphHightower: This is probably the first unanimous verdict in our nation’s history. 
 
@@ -40,14 +40,14 @@ But the “unconscionable” position is now the official position of the [admin
 - [República de El Salvador](https://www.gob.sv/)
 - [President Nayib Bukele](https://www.presidencia.gob.sv/)
 - Centro de Confinamiento del Terrorismo (CECOT)
-- [Constitution](https://constitution.congress.gov/)
+- [Constitution](https://constitution.congress.gov/constitution/)
 - [Maryland](https://www.maryland.gov/)
 - [Supreme Court of the United States (SCOTUS)](https://www.supremecourt.gov/)
 - [US Courts](https://www.uscourts.gov/)
 - [Fourth Circuit- Maryland District Court](https://www.mdd.uscourts.gov/)
 - [Paula Xinis, District Judge / District of Maryland / United States District Court](https://www.mdd.uscourts.gov/paula-xinis-district-judge)
 - [Department of Justice (DOJ)](https://www.justice.gov/)
-- [Attorney General](www.justice.gov/)
+- [Attorney General](https://www.justice.gov/)
 - [Pam Bondi](https://www.justice.gov/ag/staff-profile/meet-attorney-general)
 - [Donald J Trump](https://www.donaldjtrump.com/)
 - [President Donald Trump (47)](https://www.whitehouse.gov/administration/donald-j-trump/)

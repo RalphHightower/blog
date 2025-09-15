@@ -67,7 +67,7 @@ Steve Benen is a producer for "[The Rachel Maddow Show](https://www.msnbc.com/ra
     - [NBC News](https://www.nbcnews.com/)
     - [New YorkTimes (NYT)](https://www.nytimes.com/)
     - [CNN](https://www.cnn.com/)
-    - [Associated Press (AP)](https://www.apnews.com/)
+    - [Associated Press (AP)](https://apnews.com/)
 - Federal Government 
     - [Constitution of the United States](https://constitution.congress.gov/)
     - [First Amendment](https://constitution.congress.gov/constitution/amendment-1/)

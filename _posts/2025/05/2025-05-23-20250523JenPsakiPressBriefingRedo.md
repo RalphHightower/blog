@@ -2,13 +2,12 @@
 layout: post
 tags: [MSNBC, Jen Psaki, press briefing, Faux News, Epoch Times, Constitution of the United States, Supreme Court of the United States (SCOTUS), US Courts, Congress, Senate, House of Representatives, President of the United States (POTUS), White House (WH), President Barack Obama, President Joe Biden, Donald J Trump, President Donald Trump (47), politics]
 categories: [Jen Psaki]
-categories: [Jen Psaki]
 date: 2025-05-23 7:12 AM
 #excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: "Jen Psaki: 2025-05-23 Press Briefing Redo – No Lies. Just Facts"
+title: "Jen Psaki: 2025-05-23 Press Briefing: Jen Answers Questions About Trump’s Crypto Dinner"
 ---
 
 
@@ -47,7 +46,7 @@ Subscribe to the [MSNBC](https://www.msnbc.com/) Daily Newsletter: https://link.
 - [Congress](https://www.congress.gov/)
 - [Senate](https://www.senate.gov/)
 - [House of Representatives](https://www.house.gov/)
-- [President of the United States (POTUS)](www.whitehouse.gov/)
+- [President of the United States (POTUS)](https://www.whitehouse.gov/)
 - [White House (WH)](https://www.whitehouse.gov/)
 - [President Barack Obama](https://obamawhitehouse.archives.gov/)
 - [President Joe Biden](https://bidenwhitehouse.archives.gov/)

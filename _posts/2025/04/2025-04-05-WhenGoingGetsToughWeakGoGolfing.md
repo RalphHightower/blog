@@ -73,7 +73,7 @@ Sure you do, big guy. Sure you do.
 - [NH.gov – The Official Website of New Hampshire State Government / NH.gov](https://www.nh.gov/)
 - [Miami](https://www.miami.gov/Home), [Florida](https://www.myflorida.gov/)
 - Federal Government 
-- [Constitution of the United States](https://constitution.congress.gov/)
+- [Constitution of the United States](https://constitution.congress.gov/constitution/)
 - [First Amendment](https://constitution.congress.gov/constitution/amendment-1/)
 - [Supreme Court of the United States (SCOTUS)](https://www.supremecourt.gov/)
 - [US Courts](https://www.uscourts.gov/)

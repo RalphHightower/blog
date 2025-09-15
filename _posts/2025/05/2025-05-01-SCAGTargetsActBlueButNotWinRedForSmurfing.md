@@ -31,7 +31,7 @@ This action follows a previous letter [Attorney General](https://www.scag.gov/) 
 
 [Wilson](https://www.scag.gov/about-the-office/meet-the-attorney-general/) pointed to alarming reports of individuals listed as "unemployed" or with modest occupations making implausibly large and frequent contributions through [ActBlue](https://www.actblue.com/) platforms. If true, these practices could violate [South Carolina](https://www.sc.gov/)’s charitable, regulatory, criminal, and campaign finance laws, and potentially federal law as well.
 
-[Attorney General](https://www.scag.gov/) [Wilson](https://www.scag.gov/about-the-office/meet-the-attorney-general/) emphasized that [South Carolinians](www.sc.gov/) deserve full transparency to protect the integrity of elections and demanded [ActBlue](https://www.actblue.com/) provide a detailed explanation of its donor verification procedures.
+[Attorney General](https://www.scag.gov/) [Wilson](https://www.scag.gov/about-the-office/meet-the-attorney-general/) emphasized that [South Carolinians](https://www.sc.gov/) deserve full transparency to protect the integrity of elections and demanded [ActBlue](https://www.actblue.com/) provide a detailed explanation of its donor verification procedures.
 
 You can read the letter [here](https://www.scag.gov/media/kkeddh0d/utf-8actblue-letter-4-24-25.pdf).
 

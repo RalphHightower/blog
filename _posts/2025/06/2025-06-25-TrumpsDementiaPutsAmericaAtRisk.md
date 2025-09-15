@@ -64,7 +64,7 @@ Steve Benen is a producer for "[The Rachel Maddow Show](https://www.msnbc.com/ra
     - [NBC News](https://www.nbcnews.com/)
     - [New YorkTimes (NYT)](https://www.nytimes.com/)
     - [CNN](https://www.cnn.com/)
-    - [Associated Press (AP)](https://www.apnews.com/)
+    - [Associated Press (AP)](https://apnews.com/)
 - foreign governments 
     - [Government of Iran](https://irangov.ir/)
     - [Information from the Government of the Netherlands / Government.nl](https://www.government.nl/)

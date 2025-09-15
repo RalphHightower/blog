@@ -79,7 +79,7 @@ The [Pentagon](https://www.defense.gov/) has been contacted for comment.
 - [Signal on Android](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms)
 - [Signal on iPhone or iPad](https://apps.apple.com/us/app/signal-private-messenger/id874139669)
 - [Pete Hegseth](https://www.linkedin.com/in/petehegseth/)
-- [Constitution of the United States](https://constitution.congress.gov/)
+- [Constitution of the United States](https://constitution.congress.gov/constitution/)
 - [Supreme Court of the United States (SCOTUS)](https://www.supremecourt.gov/)
 - [Congress](https://www.congress.gov/)
 - [Senate](https://www.senate.gov/)

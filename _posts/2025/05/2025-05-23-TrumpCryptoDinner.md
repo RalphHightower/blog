@@ -101,7 +101,7 @@ Other people spotted at the dinner included Sandy Carter, the COO of blockchain-
 
 Joining the protesters was [Sen.](https://www.senate.gov/) [Jeff Merkley (D-OR)](https://www.merkley.senate.gov/), who talked up legislation — the [End Crypto Corruption Act](https://www.congress.gov/bill/119th-congress/senate-bill/1668/text) — that he introduced this month with [Senate](https://www.senate.gov/) [Minority Leader](https://www.senate.gov/about/parties-leadership/majority-minority-leaders.htm) [Chuck Schumer (D-NY)](https://www.schumer.senate.gov/). The measure would prohibit senior executive branch officials, including the [presidents](https://www.whitehouse.gov/), from financially benefiting from issuing, endorsing or sponsoring crypto assets.
 
-“The spirit of the [Constitution](https://constitution.congress.gov/) was that no one elected would be selling influence to anyone because it’s to be [government](https://constitution.congress.gov/) by and for the people, your constituents, not government by and for people who hand money across the table to you,” Merkley said.
+“The spirit of the [Constitution](https://constitution.congress.gov/constitution/) was that no one elected would be selling influence to anyone because it’s to be [government](https://constitution.congress.gov/constitution/) by and for the people, your constituents, not government by and for people who hand money across the table to you,” Merkley said.
 
 David Ingram reported from San Francisco and Nnamdi Egwuonwu from Sterling.
 
@@ -222,7 +222,7 @@ Jean Lee contributed.
 - [New York State Government (NY)](https://www.ny.gov/)
 - [City of Greenville, TX](https://www.ci.greenville.tx.us/)
 - Federal Government 
-- [Constitution of the United States](https://constitution.congress.gov/)
+- [Constitution of the United States](https://constitution.congress.gov/constitution/)
 - [Emoluments Clause and Presidential Compensation / Constitution Annotated / Congress.gov / Library of Congress](https://constitution.congress.gov/browse/essay/artII-S1-C7-1/ALDE_00000233/)
 - [Air Force](https://www.af.mil/)
 - [VC-25 - Air Force One > Air Force > Fact Sheet Display](https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104588/vc-25-air-force-one/) 

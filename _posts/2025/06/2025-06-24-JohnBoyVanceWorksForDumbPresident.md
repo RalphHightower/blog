@@ -47,12 +47,12 @@ Zeeshan Aleem is a writer and editor for [MSNBC Daily](https://www.msnbc.com/). 
     - [NBC News](https://www.nbcnews.com/)
         - [Meet The Press with Kristen Welker / Full Episodes / NBC News](https://www.nbcnews.com/meet-the-press-full-episodes)
             - [NBC News Author Kristen Welker](https://www.nbcnews.com/author/kristen-welker-ncpn6396)
-    - foreign governments 
-        - [Government of Israel](https://www.gov.il/)
-            - [משרד ראש הממשלה / Prime Minister's Office](https://www.gov.il/he/departments/prime_ministers_office/govil-landing-page)
-                    - [Benjamin Netanyahu](https://www.netanyahu.org.il/)
-        - [Government of Iran](https://irangov.ir/)
-        - [Government of Qatar](https://hukoomi.gov.qa/)
+- foreign governments 
+    - [Government of Israel](https://www.gov.il/)
+        - [משרד ראש הממשלה / Prime Minister's Office](https://www.gov.il/he/departments/prime_ministers_office/govil-landing-page)
+                - [Benjamin Netanyahu](https://www.netanyahu.org.il/)
+    - [Government of Iran](https://irangov.ir/)
+    - [Government of Qatar](https://hukoomi.gov.qa/)
 - Federal Government 
     - [Constitution of the United States](https://constitution.congress.gov/)
     - [First Amendment](https://constitution.congress.gov/constitution/amendment-1/)

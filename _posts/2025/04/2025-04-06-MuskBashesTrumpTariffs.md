@@ -50,7 +50,7 @@ There's trouble in [Trumplandia](https://www.maralagoclub.com/); [Tesla](https:/
 
 On [X](https://X com/), which [Musk](https://ir.tesla.com/corporate/elon-musk) owns, he took swipes at [Navarro], a [Harvard](https://www.harvard.edu/)-educated economist who advises [Trump](https://www.donaldjtrump.com/) on trade. [Navarro](https://www.linkedin.com/in/peter-navarro-93167122/) who was originally tapped for a spot in the [White House](https://www.whitehouse.gov/) by [Trump](https://www.donaldjtrump.com/)'s son-in-law, Jared Kushner, is the author of books on [China](https://www.gov.cn/) and the economic threats he says the nation poses to the U.S.
 
-A user on [X](https://X com/) posted a video from [CNN](https://www.cnn com/) in which [Navarro](https://www.linkedin.com/in/peter-navarro-93167122/) defends the tariffs, noting positively that he went to Harvard. [Musk](https://ir.tesla.com/corporate/elon-musk) took issue with that, calling it a "bad thing."
+A user on [X](https://X com/) posted a video from [CNN](https://www.cnn.com/) in which [Navarro](https://www.linkedin.com/in/peter-navarro-93167122/) defends the tariffs, noting positively that he went to Harvard. [Musk](https://ir.tesla.com/corporate/elon-musk) took issue with that, calling it a "bad thing."
 
 "A PhD in Econ from [Harvard](https://www.harvard.edu/) is a bad thing, not a good thing," he wrote. "Results in the ego/brains>>1 problem."
 

@@ -32,7 +32,7 @@ When [Bessent](https://home.treasury.gov/about/general-information/officials/sco
 
 For anyone who wants to try to dismiss these concerns and say, “Well, the markets are not the economy,” you’re right about that. They’re not. But look at [what we’re hearing](https://fortune.com/2025/04/05/trump-tariffs-us-recession-outlook-gdp-unemployment-stagflation-inflation-fed/) from major financial institutions; [what they’re predicting right now is a recession](https://www.reuters.com/markets/us/goldman-sachs-raises-odds-us-recession-45-2025-04-07/). That’s not just the market. A recession will impact almost every element of daily life.
 
-But it’s not just members of [Trump)(https://www.donaldjtrump.com/)’s [Cabinet](https://www.whitehouse.gov/administration/the-cabinet/) who are out of touch — this starts at the top. While the markets were melting down over his tariffs, Trump wasn’t in Washington trying to calm the fears of the American people. Instead, he was [golfing and attending fundraisers](https://www.msnbc.com/rachel-maddow-show/maddowblog/trump-florida-golf-event-tariffs-soldiers-lithuania-rcna199706) at his [Mar-a-Lago estate](https://www.maralagoclub.com/) in [Florida](https://www.myflorida.com/).
+But it’s not just members of [Trump)(https://www.donaldjtrump.com/)’s [Cabinet](https://www.whitehouse.gov/administration/the-cabinet/) who are out of touch — this starts at the top. While the markets were melting down over his tariffs, Trump wasn’t in Washington trying to calm the fears of the American people. Instead, he was [golfing and attending fundraisers](https://www.msnbc.com/rachel-maddow-show/maddowblog/trump-florida-golf-event-tariffs-soldiers-lithuania-rcna199706) at his [Mar-a-Lago estate](https://www.maralagoclub.com/) in [Florida](https://www.myflorida.gov/).
 
 On Saturday, [Trump](https://www.donaldjtrump.com/) took time away from his busy weekend to tell Americans that “THIS IS AN ECONOMIC REVOLUTION, AND WE WILL WIN,” and urged them to “HANG TOUGH” in a post [on his Truth Social platform](https://truthsocial.com/@realDonaldTrump/posts/114285375813275308).
 
@@ -83,7 +83,7 @@ This is the consequence of [Trump](https://www.donaldjtrump.com/)’s “big bus
 - [Kelly Loeffler](https://www.sba.gov/person/kelly-loeffler)
 - [Kelly Loeffler – LinkedIn](https://www.linkedin.com/in/kelly-loeffler-198341b7/)
 - [Department of Justice (DOJ)](https://www.justice.gov/)
-- [Attorney General](www.justice.gov/)
+- [Attorney General](https://www.justice.gov/)
 - [Pam Bondi](https://www.justice.gov/ag/staff-profile/meet-attorney-general)
 - [Central Intelligence Agency (CIA)](https://www.cia.gov/)
 - [John Ratcliffe](https://www.cia.gov/about/director-of-cia/)
