@@ -32,7 +32,7 @@ But in all seriousness, we need to kill the bill.
 June 9, 2025, 8:46 AM EDT
 By [Steve Benen](https://www.msnbc.com/author/steve-benen-ncpn433601)
 
-As [Donald Trump](https://www.donaldjtrump.com/)’s relationship with [Elon Musk](https://ir.tesla.com/corporate/elon-musk) imploded last week, the [president](https://www.whitehouse.gov/) and his [top campaign donor](ir.tesla.com/corporate/elon-musk) didn’t just throw random rhetorical punches. Their feud included rather specific threats.
+As [Donald Trump](https://www.donaldjtrump.com/)’s relationship with [Elon Musk](https://ir.tesla.com/corporate/elon-musk) imploded last week, the [president](https://www.whitehouse.gov/) and his [top campaign donor](https://ir.tesla.com/corporate/elon-musk) didn’t just throw random rhetorical punches. Their feud included rather specific threats.
 
 In fact, on Thursday afternoon, in the midst of an online volley, [Trump wrote](https://www.msnbc.com/rachel-maddow-show/maddowblog/elon-musk-trump-derangement-syndrome-rcna211232), “The easiest way to save money in our Budget, Billions and Billions of Dollars, is to terminate [Elon](https://ir.tesla.com/corporate/elon-musk)’s Governmental Subsidies and Contracts.”
 

@@ -7,7 +7,7 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: "Federal Reserve Issues Federal Open Market Committee (FOMC) Statement"
+title: "2025-06-18: Federal Reserve Issues Federal Open Market Committee (FOMC) Statement"
 ---
 
 
@@ -76,11 +76,11 @@ Last Update: June 18, 2025
 | [Federal Reserve Bank of St. Louis / Economic Resources & Data](https://www.stlouisfed.org/) |
 | [Federal Reserve Bank of San Francisco](https://www.frbsf.org/) |
 
-- [Constitution of the United States](https://constitution.congress.gov/)
-- [Supreme Court of the United States (SCOTUS)](https://constitution.congress.gov/)
+- [Constitution of the United States](https://constitution.congress.gov/constitution/)
+- [Supreme Court of the United States (SCOTUS)](https://constitution.congress.gov/constitution/)
 - [US Courts](https://www.uscourts.gov/)
-- [The Fed - Federal Open Market Committee](https://www.federalreserve.gov/monetarypolicy/fomc.htm)
 - [Federal Reserve Board - Board Members](https://www.federalreserve.gov/aboutthefed/bios/board/default.htm)
+- [The Fed - Federal Open Market Committee](https://www.federalreserve.gov/monetarypolicy/fomc.htm)
 - [Jerome H. Powell](https://www.federalreserve.gov/aboutthefed/bios/board/powell.htm)
 - [John C. Williams](https://www.federalreserve.gov/aboutthefed/federal-reserve-system-new-york.htm)
 - [Michael S. Barr](https://www.federalreserve.gov/aboutthefed/bios/board/barr.htm)

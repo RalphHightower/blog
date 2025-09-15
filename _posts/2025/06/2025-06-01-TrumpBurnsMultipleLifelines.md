@@ -61,7 +61,7 @@ James Downie is a writer and editor for [MSNBC Daily](https://www.msnbc.com/). H
 - [New York Times (NYT)](https://www.nytimes.com/)
 - [Texas Monthly](https://www.texasmonthly.com/)
 - [Huffington Post](https://www.huffpost.com/)
-- [Associated Press (AP)](https://www.apnews.com/)
+- [Associated Press (AP)](https://apnews.com/)
 - [Los Angeles Times](https://www.latimes.com/)
 - [Politico](https://www.politico.com/)
 - [The Washington Post](https://www.washingtonpost.com/)

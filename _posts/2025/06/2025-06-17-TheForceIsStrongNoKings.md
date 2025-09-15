@@ -52,7 +52,7 @@ Zeeshan Aleem is a writer and editor for [MSNBC Daily](https://www.msnbc.com/). 
 - [USA Today](https://www.usatoday.com/)
 - [The Guardian](https://www.theguardian.com/)
 - [CBS News](https://www.cbsnews.com/)
-- [Associated Press (AP)](https://www.apnews.com/)
+- [Associated Press (AP)](https://apnews.com/)
 - [WyoFile / News about the people, places and policy of Wyoming](https://wyofile.com/)
 - [The New Yorker](https://www.newyorker.com/)
 - [Wichita KS Breaking News, Sports & Crime / Wichita Eagle](https://www.kansas.com/)

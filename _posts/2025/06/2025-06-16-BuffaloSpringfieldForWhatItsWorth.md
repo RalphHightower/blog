@@ -93,7 +93,7 @@ Songwriters: Stephen Stills. For non-commercial use only.
 - terrorist organization
 - al-Qaeda
 - state, local governments
-- [Minnesota State Government (MN)](https//www.mn.gov/)
+- [Minnesota State Government (MN)](https://www.mn.gov/)
 - [Representative Melissa Hortman](https://www.house.mn.gov/members/profile/12266)
 - [Senator John Hoffman](https://www.senate.mn/members/member_bio.html?mem_id=1205)
 - [New York City](https://www.nyc.gov), [New York](https://www.ny.gov/)

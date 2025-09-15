@@ -137,7 +137,7 @@ Melanie Zanona, Sahil Kapur, Katherine Doyle, Henry J. Gomez and Natasha Korecki
 
 ### [GOP civil war erupts, as Musk ratchets up attacks on Trump's 'Big, Beautiful Bill'](https://www.msnbc.com/top-stories/latest/trump-vs-musk-republican-civil-war-budget-bill-rcna211168)
 
-*[Musk](ir.tesla.com/corporate/elon-musk)’s propaganda machine now rivals [Faux News](https://www.foxnews.com/) in its ability to influence the right wing of the [GOP](https://www.gop.com/). That’s causing real problems for the [president](https://www.whitehouse.gov/).*
+*[Musk](https://ir.tesla.com/corporate/elon-musk)’s propaganda machine now rivals [Faux News](https://www.foxnews.com/) in its ability to influence the right wing of the [GOP](https://www.gop.com/). That’s causing real problems for the [president](https://www.whitehouse.gov/).*
 
 June 5, 2025, 2:48 PM EDT
 By Chris Hayes

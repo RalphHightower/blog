@@ -41,7 +41,7 @@ That’s the thing about war: It never goes as planned. Even now that the U.S. h
 
 Though America’s slide into authoritarianism quickens by the day, there is nominally a group of people who could at least attempt to hit the brakes on the drive to war — and demand that more qualified voices on the matter be heard. We call these people [Republicans](https://www.gop.com/) in [Congress](https://www.congress.gov/).
 
-They could remind the [president](https://www.whitehouse.gov/) that they took an oath to defend the [Constitution](https://constitution.congress.gov/) — the same document that endows them with America’s warmaking powers. They could signal to Americans that they work directly for the people, not their party’s leader.
+They could remind the [president](https://www.whitehouse.gov/) that they took an oath to defend the [Constitution](https://constitution.congress.gov/constitution/) — the same document that endows them with America’s warmaking powers. They could signal to Americans that they work directly for the people, not their party’s leader.
 
 But you’d see something like that — [Republicans](https://www.gop.com/) defying [Trump](https://www.whitehouse.gov/) — only in a satire.
 
@@ -61,7 +61,7 @@ Anthony L. Fisher is a senior editor and writer for MSNBC Daily. He was previous
                 - [Benjamin Netanyahu](https://www.netanyahu.org.il/)
     - [Government of Iran](https://irangov.ir/)
 - Federal Government 
-    - [Constitution of the United States](https://constitution.congress.gov/)
+    - [Constitution of the United States](https://constitution.congress.gov/constitution/)
     - [First Amendment](https://constitution.congress.gov/constitution/amendment-1/)
     - [Supreme Court of the United States (SCOTUS)](https://www.supremecourt.gov/)
     - [US Courts](https://www.uscourts.gov/)

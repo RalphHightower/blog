@@ -66,7 +66,7 @@ Steve Benen is a producer for "[The Rachel Maddow Show](https://www.msnbc.com/ra
 - [Doug Ford, Premier of Ontario / ontario.ca](http://www.ontario.ca/page/premier)
 - state, local governments
 - [California (CA)](https://www.ca.gov/)
-- [Minnesota State Government (MN)](https//www.mn.gov/)
+- [Minnesota State Government (MN)](https://www.mn.gov/)
 - [Office of Governor / Office of Governor Tim Walz and Lt. Governor Peggy Flanagan](https://mn.gov/governor/)
 - [Governor Tim Walz / Office of Governor Tim Walz and Lt. Governor Peggy Flanagan](https://mn.gov/governor/about-gov/timwalz/)
 - [Representative Melissa Hortman](https://www.house.mn.gov/members/profile/12266)

@@ -59,7 +59,7 @@ The [Wall Street Journal](https://www.wsj.com/) [recently reported](https://www.
 - [Wall Street Journal (WSJ)](https://www.wsj.com/)
 - [Reuters](https://www.reuters.com/)
 - [New York Intelligencer](https://nymag.com/)
-- [Associated Press (AP)](https://www.apnews.com/)
+- [Associated Press (AP)](https://apnews.com/)
 - [Constitution of the United States](https://constitution.congress.gov/)
 - [Supreme Court of the United States (SCOTUS)](https://www.supremecourt.gov/)
 - [US Courts](https://www.uscourts.gov/)

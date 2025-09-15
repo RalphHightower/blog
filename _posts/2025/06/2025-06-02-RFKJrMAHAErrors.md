@@ -33,9 +33,9 @@ The broader point is not to simply mock officials’ foibles. As the original [N
 
 [^341]: [RFKJr](https://www.hhs.gov/about/leadership/robert-kennedy.html) is not just a hapless official, he’s a fucking, bungling idiot.
 
-Indeed, [The Associated Press reported](https://apnews.com/article/public-health-measles-rfk-maha-trump-d863f53a5d370413de8d165d5ab96e65) on Saturday that Americans “are losing a vast array of people and programs dedicated to keeping them healthy.” The [AP](https://www.apnews.com/) added that recent cuts imposed by the [Trump](https://www.donaldjtrump.com/) [administration](https://www.whitehouse.gov/administration/) have reduced the nation’s public health system “to a shadow of what it once was, threatening to undermine even routine work at a time when the nation faces the deadliest measles outbreak since at least the 1990s, rising whooping cough cases and the risk that bird flu could spread widely among people.”
+Indeed, [The Associated Press reported](https://apnews.com/article/public-health-measles-rfk-maha-trump-d863f53a5d370413de8d165d5ab96e65) on Saturday that Americans “are losing a vast array of people and programs dedicated to keeping them healthy.” The [AP](https://apnews.com/) added that recent cuts imposed by the [Trump](https://www.donaldjtrump.com/) [administration](https://www.whitehouse.gov/administration/) have reduced the nation’s public health system “to a shadow of what it once was, threatening to undermine even routine work at a time when the nation faces the deadliest measles outbreak since at least the 1990s, rising whooping cough cases and the risk that bird flu could spread widely among people.”
 
-The [AP](https://www.apnews.com/) concluded, “The moves reflect a shift that Americans may not fully realize, away from the very idea of public health.”
+The [AP](https://apnews.com/) concluded, “The moves reflect a shift that Americans may not fully realize, away from the very idea of public health.”
 
 The more the [health secretary](https://www.hhs.gov/about/leadership/robert-kennedy.html) and [his team](https://www.hhs.gov/) suffer humiliations of their own making, the more difficult it becomes to have confidence that these officials have any idea what they’re doing as the nation’s public health system suffers.
 
@@ -50,7 +50,7 @@ Steve Benen is a producer for "[The Rachel Maddow Show](https://www.msnbc.com/ra
 - [MaddowBlog](https://www.msnbc.com/rachel-maddow-show) 
 - ["Ministry of Truth: Democracy, Reality, and the Republicans' War on the Recent Past."](https://www.harpercollins.com/products/ministry-of-truth-steve-benen)
 - [NOTUS](https://www.notus.org/)
-- [Associated Press (AP)](https://www.apnews.com/)
+- [Associated Press (AP)](https://apnews.com/)
 - [Washington Post](https://www.washingtonpost.com/)
 - Federal Government 
 - [Constitution of the United States](https://constitution.congress.gov/)

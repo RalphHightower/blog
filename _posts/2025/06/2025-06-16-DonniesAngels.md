@@ -42,7 +42,7 @@ A great way way to support the channel so we can make these videos is to buy som
 - Charlie's Angels
 - Federal Government 
 - [Election Day 2024](https://www.fec.gov/resources/cms-content/documents/2024presgeresults.pdf)
-- [Constitution of the United States](https://constitution.congress.gov/)
+- [Constitution of the United States](https://constitution.congress.gov/constitution/)
 - [First Amendment](https://constitution.congress.gov/constitution/amendment-1/)
 - [Supreme Court of the United States (SCOTUS)](https://www.supremecourt.gov/)
 - [US Courts](https://www.uscourts.gov/)

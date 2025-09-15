@@ -17,9 +17,9 @@ title: "Christians Should Participate In ‘No King’ Rally"
 June 14, 2025, 7:50 AM EDT 'No King'
 By [Guthrie Graves-Fitzsimmons](https://interfaithalliance.org/team/guthrie-graves-fitzsimmons), vice president of programs and strategy, [Interfaith Alliance](https://interfaithalliance.org/)
 
-“I don’t feel like a king,” [President](https://www.whitehouse.gov/) [Donald Trump](https://www.donaldjtrump.com/) [told Republican lawmakers](https://www.nytimes.com/2025/06/12/us/politics/trump-no-kings-protests.html) at the [White House](https://www.whitehouse.gov/) on Thursday in advance of the [“No Kings”](https://www.nokings.org/) rallies happening around the country on Saturday. Lest you think the [president](https://www.whitehouse.gov/) was acknowledging the restraints on his power, it actually sounded more like he was bemoaning those [constitutional guardrails](https://constitution.congress.gov/) and giving voice to kingly ambitions.
+“I don’t feel like a king,” [President](https://www.whitehouse.gov/) [Donald Trump](https://www.donaldjtrump.com/) [told Republican lawmakers](https://www.nytimes.com/2025/06/12/us/politics/trump-no-kings-protests.html) at the [White House](https://www.whitehouse.gov/) on Thursday in advance of the [“No Kings”](https://www.nokings.org/) rallies happening around the country on Saturday. Lest you think the [president](https://www.whitehouse.gov/) was acknowledging the restraints on his power, it actually sounded more like he was bemoaning those [constitutional guardrails](https://constitution.congress.gov/constitution/) and giving voice to kingly ambitions.
 
-> *It sounded like he was bemoaning [constitutional guardrails](https://constitution.congress.gov/) and giving voice to kingly ambitions.*
+> *It sounded like he was bemoaning [constitutional guardrails](https://constitution.congress.gov/constitution/) and giving voice to kingly ambitions.*
 
 He has made his kingly ambitions known on social media this year. “LONG LIVE THE KING!” he [posted on Truth Social](https://www.nbcnews.com/politics/donald-trump/king-trump-rcna192912) in February. The [White House](https://www.whitehouse.gov/) account on [X](https://x.com/) upped the ante by [posting an AI-generated image](https://www.nbcnews.com/politics/donald-trump/king-trump-rcna192912) of a coronated [Trump](https://www.donaldjtrump.com/) on the cover of [Time magazine](https://www.time.com/) with the headline “LONG LIVE THE KING!” In March, he [reposted an AI-generated image of a lion](https://www.yahoo.com/news/trump-again-implies-king-sharing-162222560.html) of a lion wearing a crown labeled MAGA with the caption “Kings!”
 
@@ -29,7 +29,7 @@ I’m attending the flagship march and rally in [Philadelphia](https://philamuse
 
 For the [Philadelphia](https://philamuseum.org/) protest, [Faithful America](https://urldefense.com/v3/__http:/faithfulamerica.org__;!!PIZeeW5wscynRQ!sx0Q4UcxHVHCIhPbYyitUoNlcDiHUWrRY3aZVyU2JRWwXNhiroZWjrqI29txlEEI6ZttaDQy40WGhtaHSB82-Q$), an online community of progressive Christians, is bringing [its giant Trump Golden Calf balloon](https://mynbc15.com/news/offbeat/golden-bull-calf-trump-like-idol-evangelical-summit-washington-dc-national-mall-christianity-jewish-faith-exodus-politics-election-capitol-police). It’s a reference to the Exodus passage about the ancient Israelites worshipping an idol they created while Moses was away on Mount Sinai receiving the Ten Commandments.
 
-The [Trump](https://www.donaldjtrump.com/) Golden Calf sends the unmistakable message that Christians worshipping [Trump](https://www.donaldjtrump.com/) is idolatrous, and we rebuke our siblings in Christ who are providing spiritual cover for [Trump](https://www.donaldjtrump.com/)’s authoritarian destruction of [American democracy](https://constitution.congress.gov/). [Trump](https://www.donaldjtrump.com/) shows no evidence of personal piety or of an attempt to follow Jesus Christ — recall when he said he [never had to ask God for forgiveness](https://www.cnn.com/2015/07/18/politics/trump-has-never-sought-forgiveness) — and has made it a priority to aid the wealthy and attack the most vulnerable in our society. He exhibits the polar opposite of Christian social ethics.
+The [Trump](https://www.donaldjtrump.com/) Golden Calf sends the unmistakable message that Christians worshipping [Trump](https://www.donaldjtrump.com/) is idolatrous, and we rebuke our siblings in Christ who are providing spiritual cover for [Trump](https://www.donaldjtrump.com/)’s authoritarian destruction of [American democracy](https://constitution.congress.gov/constitution/). [Trump](https://www.donaldjtrump.com/) shows no evidence of personal piety or of an attempt to follow Jesus Christ — recall when he said he [never had to ask God for forgiveness](https://www.cnn.com/2015/07/18/politics/trump-has-never-sought-forgiveness) — and has made it a priority to aid the wealthy and attack the most vulnerable in our society. He exhibits the polar opposite of Christian social ethics.
 
 And yet [Trump](https://www.donaldjtrump.com/) rode back to the [White House](https://www.whitehouse.gov/) with Christian support, and many evangelical and Catholic leaders continue to stand by him even now.
 
@@ -47,7 +47,7 @@ There are signs of growing Christian resistance to [Trump](https://www.donaldjtr
 
 In the Gospel of Luke, God sends the angel Gabriel to Mary who tells her that Jesus will be given “the throne of David, his father. He will rule over Jacob’s house forever, and there will be no end to his kingdom.”
 
-Christians believe Christ’s kingdom will reign forever. As American Christians in the year 2025, we must also believe and work to ensure that [Trump](https://www.donaldjtrump.com/)’s power, granted to him by voters, ends at the end of his second term in accordance with the [Constitution](https://constitution.congress.gov/). And every day, until the end of his [presidency](https://www.whitehouse.gov/), he must be prevented from acting like a king and made to remember that we live in a [democracy](https://constitution.congress.gov/). 
+Christians believe Christ’s kingdom will reign forever. As American Christians in the year 2025, we must also believe and work to ensure that [Trump](https://www.donaldjtrump.com/)’s power, granted to him by voters, ends at the end of his second term in accordance with the [Constitution](https://constitution.congress.gov/constitution/). And every day, until the end of his [presidency](https://www.whitehouse.gov/), he must be prevented from acting like a king and made to remember that we live in a [democracy](https://constitution.congress.gov/constitution/). 
 
 [Guthrie Graves-Fitzsimmons](https://interfaithalliance.org/team/guthrie-graves-fitzsimmons) is vice president of programs and strategy at [Interfaith Alliance](https://interfaithalliance.org/) and the author of "Just Faith: Reclaiming Progressive Christianity."
 
@@ -75,7 +75,7 @@ Christians believe Christ’s kingdom will reign forever. As American Christians
 - [Office of the Chief of Police - LAPD Online](https://www.lapdonline.org/office-of-the-chief-of-police/)
 - [COUNTY OF LOS ANGELES](https://lacounty.gov/)
 - Federal Government 
-- [Constitution of the United States](https://constitution.congress.gov/)
+- [Constitution of the United States](https://constitution.congress.gov/constitution/)
 - [First Amendment](https://constitution.congress.gov/constitution/amendment-1/)
 - [Supreme Court of the United States (SCOTUS)](https://www.supremecourt.gov/)
 - [US Courts](https://www.uscourts.gov/)
