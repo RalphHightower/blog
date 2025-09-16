@@ -66,7 +66,7 @@ Miriam E. Rocah is the former Westchester County (N.Y.) District Attorney, and f
 - political parties 
 - [Democrat Party](https://www.democrats.org/)
 - [Trumpian Party](https://www.gop.com/)
-- Federal Government 
+- Trump Autocracy 
 - [Constitution of the United States](https://constitution.congress.gov/)
     - [Supreme Court of the United States (SCOTUS)](https://www.supremecourt.gov/)
     - [US Courts](https://www.uscourts.gov/)
