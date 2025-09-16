@@ -1,13 +1,13 @@
 ---
 layout: post
-tags: []
-categories: []
+tags: [media, MSNBC, Steve Benen, The Rachel Maddow Show, MaddowBlog, “Ministry of Truth –  Democracy Reality and the Republicans’ War on the Recent Past.”, organizations, political parties, Democrat Party, Trumpian Party, universities, companies, foreign governments, federal government, Constitution of the United States, U.S. Constitution - Article I / Resources / Constitution Annotated / Congress.gov / Library of Congress, U.S. Constitution - Article II / Resources / Constitution Annotated / Congress.gov / Library of Congress, U.S. Constitution - Article III / Resources / Constitution Annotated / Congress.gov / Library of Congress, U.S. Constitution - Article IV / Resources / Constitution Annotated / Congress.gov / Library of Congress, U.S. Constitution - Article V / Resources / Constitution Annotated / Congress.gov / Library of Congress, U.S. Constitution - Article VI / Resources / Constitution Annotated / Congress.gov / Library of Congress, U.S. Constitution - Article VII / Resources / Constitution Annotated / Congress.gov / Library of Congress, Supreme Court of the United States (SCOTUS), US Courts, Federal Reserve, Federal Reserve Board - Federal Reserve Act, U.S. Department of the Treasury, Supreme Court of the United States (SCOTUS), US Courts, Department of Justice (DOJ), Federal Bureau of Investigation (FBI), Congress, Senate, House of Representatives, President of the United States (POTUS), White House (WH), Trump autocracy, Donald J Trump, President Donald Trump (45), President Donald Trump (47), President Trump (47) Administration, President Trump (47) Cabinet, JD Vance, Vice President JD Vance, Pam Bondi, Office of the Deputy Attorney General / Office of the Deputy Attorney General, Todd Blanche / LinkedIn, Kash Patel, Deputy Director Dan Bongino — FBI, tariffs, politics, stupidity, grift, self-dealing, corruption, con, crime, cryptocurrency, criminal associates, criminal businesses, criminal partners, human trafficking, sex trafficking, pedophile, Jeffrey Epstein, Ghislaine Maxwell]
+categories: [Jeffrey Epstein, Ghislaine Maxwell, Trump Crime Family, Donald Trump]
 date: 2025-09-13 14:52
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: 'title'
+title: "Donnie Trump, FBI Informant On Epstein? Come On! Mike Johnson Backs Off Outlandish Claim"
 ---
 
 
@@ -21,7 +21,6 @@ By [Steve Benen](https://www.msnbc.com/author/steve-benen-ncpn433601)
 In some fringe circles, there are still some who believe that [Donald Trump](https://www.donaldjtrump.com/) is secretly a hero in the case against Jeffrey Epstein. As these conspiracy theorists see it, the [president](https://www.whitehouse.gov/) worked quietly with law enforcement behind the scenes to bring his former friend to justice — but the Republican is simply too modest to brag about it.
 
 These foolish claims have never made any sense, which made it rather surprising when [House](https://www.house.gov/) [Speaker](https://speaker.house.gov/) [Mike Johnson (T-LA4)](https://mikejohnson.house.gov/) told reporters on Capitol Hill last week — out loud, on the record and on camera — that [Trump](https://www.donaldjtrump.com/) was “an [FBI](https://www.fbi.gov/) informant” in the case against Epstein.
-
 
 The comment raised more questions than answers. If [Trump](https://www.donaldjtrump.com/) was an informant for federal law enforcement, what precipitated such an arrangement? If the [president](https://www.whitehouse.gov/) worked with the [FBI](https://www.fbi.gov/) to help, in [Johnson](https://mikejohnson.house.gov/)’s words, “take down” a sex trafficking ring, why has this been kept secret?
 
@@ -78,22 +77,33 @@ As of last week, the measure was still a handful of GOP members short of its goa
         - [House of Representatives](https://www.house.gov/)
      - [President of the United States (POTUS)](https://www.whitehouse.gov/)
     - [White House (WH)](https://www.whitehouse.gov/)
-- Trump autocracy
+- Trump autocracy 
     - [Donald J Trump](https://www.donaldjtrump.com/)
         - [President Donald Trump (45)](https://trumpwhitehouse.archives.gov/)
         - [President Donald Trump (47)](https://www.whitehouse.gov/administration/donald-j-trump/)
             - [President Trump (47) Administration](https://www.whitehouse.gov/administration/)
             - [President Trump (47) Cabinet](https://www.whitehouse.gov/administration/the-cabinet/)
-                - press secretary
-                    - Karoline Leavitt
-- grifter
+            - [JD Vance](https://www.linkedin.com/in/jd-vance-770a9047/)
+            - [Vice President JD Vance](https://www.whitehouse.gov/administration/jd-vance/)
+            - [Pam Bondi](https://www.justice.gov/ag/staff-profile/meet-attorney-general)
+            - [Office of the Deputy Attorney General / Office of the Deputy Attorney General](https://www.justice.gov/dag)
+            - [Todd Blanche / LinkedIn](https://www.linkedin.com/in/toddblanche/)
+            - [Kash Patel](https://www.fbi.gov/about/leadership-and-structure/director-patel)
+            - [Deputy Director Dan Bongino — FBI](https://www.fbi.gov/about/leadership-and-structure/deputy-director-dan-bongino)
+- tariffs
+- politics
+- stupidity
+- grift
 - self-dealing
 - corruption
-- con artist
+- con
 - crime
-- cryptocurrency
+- cryptocurrency 
 - criminal associates
 - criminal businesses
-- criminal media
-- criminal organizations
 - criminal partners
+    - human trafficking 
+    - sex trafficking 
+    - pedophile 
+        - Jeffrey Epstein 
+        - Ghislaine Maxwell
