@@ -1,0 +1,1 @@
+(Sunday|Monday|Tuesday|Wednesday|Thursday|Friday|Saturday), (January|February|March|April|May|June|July|August|September|October|November|December) ([123][0-9]|[0-9]) (202[0-9])
