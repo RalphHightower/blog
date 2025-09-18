@@ -163,4 +163,3 @@ Brandy Zadrozny is a senior enterprise reporter for [MSNBC](https://www.msnbc.co
 - [Candace Owens](https://www.candaceowens.com/)
 - [Infowars](https://www.infowars.com/)
     - Alex Jones
-
