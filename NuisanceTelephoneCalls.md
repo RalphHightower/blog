@@ -18,6 +18,8 @@ The telephone numbers below have called and there is an empty person on the othe
 
 | Telephone Number | Location | Date Time[^11] | Caller | Social Media |
 |---|---|---|---|---|
+| [\+1 (803) 574-4757](tel:+18035744757) | SC. Summerton | 2025-09-18 10:40 AM | — | |
+| [\+1 (803) 834-6001](tel:+18038346001) | SC. Columbia | 2025-09-18 09:49 AM | — | |
 | [\+1 (803) 247-7509](tel:+18032477509) | SC. North | 2025-09-16 05:19 PM | — | |
 | [\+1 (803) 416-0768](tel:+18034160768) | SC. Lancaster | 2025-09-16 01:05 PM | — | |
 | [\+1 (803) 272-0107](tel:+18032720107) | SC. Camden | 2025-09-15 07:06 PM | Fletcher V | |
