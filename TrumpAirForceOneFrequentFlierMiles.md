@@ -18,6 +18,7 @@ title: "Trump: Air Force One Frequent Flyer Miles"
 
 | Time | Location |
 |---|---|
+| | 🔥 [White House](https://www.whitehouse.gov/) 💣| 
 | | **Sunday, September 21 2025** |
 | 7:00 AM | Out-of-Town Travel Pool Call Time<br />Out-of-Town Travel Pool |
 | 7:15 AM | In-Town Pool Call Time<br />In-Town Pool |
@@ -30,7 +31,7 @@ title: "Trump: Air Force One Frequent Flyer Miles"
 | 9:15 PM | The [President](https://www.donaldjtrump.com/) arrives The [White House](https://www.whitehouse.gov/)<br />The [White House](https://www.whitehouse.gov/) Out-of-Town Travel Pool |
 | 10:35 PM | The [President](https://www.donaldjtrump.com/) arrives The [White House](https://www.whitehouse.gov/)<br />The [White House](https://www.whitehouse.gov/) Open Press |
 | | ** Saturday, September 20, 2025** | |
-| [Donnie](https://www.donaldjtrump.com/) golfs at his [Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/) |
+| ⛳️🏌‍♂️| [Donnie](https://www.donaldjtrump.com/) golfs at his [Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/) |
 | | 🔥 [White House](https://www.whitehouse.gov/) 💣| 
 | | **Thursday, September 18 2025** |
 | 1:30 AM | Out-of-Town Travel Pool Call Time [6:30 AM Local]<br />[Windsor Castle](https://www.royal.uk/royal-residences-windsor-castle), [Berkshire](https://www.bbc.com/news/england/berkshire), [England, United Kingdom](https://www.gov.uk/) Out-of-Town Travel Pool |
