@@ -163,7 +163,7 @@ Anthony L. Fisher is a senior editor and writer for [MSNBC](https://www.msnbc.co
 - [Turning Point USA](https://www.tpusa.com/)
     - [Charlie Kirk – Deceased](https://www.charliekirk.com/)
         - [The Charlie Kirk Show](https://thecharliekirkshow.com/)
-    - [Home - Stephen K Bannon's War Room](https://warroom.org/)
+- [Home - Stephen K Bannon's War Room](https://warroom.org/)
 - [Candace Owens](https://www.candaceowens.com/)
 - [Infowars](https://www.infowars.com/)
     - Alex Jones
