@@ -30,7 +30,7 @@ title: "Trump: Air Force One Frequent Flyer Miles"
 | 8:00 PM | The [President](https://www.donaldjtrump.com/) attends a private dinner<br />Closed Press |
 | 9:15 PM | The [President](https://www.donaldjtrump.com/) arrives The [White House](https://www.whitehouse.gov/)<br />The [White House](https://www.whitehouse.gov/) Out-of-Town Travel Pool |
 | 10:35 PM | The [President](https://www.donaldjtrump.com/) arrives The [White House](https://www.whitehouse.gov/)<br />The [White House](https://www.whitehouse.gov/) Open Press |
-| | ** Saturday, September 20, 2025** | |
+| | **Saturday, September 20, 2025** |
 | ⛳️🏌‍♂️| [Donnie](https://www.donaldjtrump.com/) golfs at his [Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/) |
 | | 🔥 [White House](https://www.whitehouse.gov/) 💣| 
 | | **Thursday, September 18 2025** |
