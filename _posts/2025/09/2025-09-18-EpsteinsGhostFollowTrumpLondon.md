@@ -102,6 +102,13 @@ Akayla Gardner is a [White House correspondent](https://whca.press/) for [MSNBC]
             - [President Trump (47) Cabinet](https://www.whitehouse.gov/administration/the-cabinet/)
                 - press secretary
                     - Karoline Leavitt
+                - [JD Vance](https://www.linkedin.com/in/jd-vance-770a9047/)
+                - [Vice President JD Vance](https://www.whitehouse.gov/administration/jd-vance/)
+                - [Pam Bondi](https://www.justice.gov/ag/staff-profile/meet-attorney-general)
+                    - [Office of the Deputy Attorney General / Office of the Deputy Attorney General](https://www.justice.gov/dag)
+                    - [Todd Blanche / LinkedIn](https://www.linkedin.com/in/toddblanche/)
+                - [Kash Patel](https://www.fbi.gov/about/leadership-and-structure/director-patel)
+                    - [Deputy Director Dan Bongino — FBI](https://www.fbi.gov/about/leadership-and-structure/deputy-director-dan-bongino)
 - grifter
 - self-dealing
 - corruption

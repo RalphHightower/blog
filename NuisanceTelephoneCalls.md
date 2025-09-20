@@ -18,6 +18,8 @@ The telephone numbers below have called and there is an empty person on the othe
 
 | Telephone Number | Location | Date Time[^11] | Caller | Social Media |
 |---|---|---|---|---|
+| [\+1 (803) 249-1584](tel:+18032491584) | SC. Alcolu | 2025-09-19 11:23 AM | — | |
+| [\+1 (803) 655-3955](tel:+18036553955) | SC. Saint Mathews | 2025-09-19 10:53 AM | Cablecraft | |
 | [\+1 (803) 574-4757](tel:+18035744757) | SC. Summerton | 2025-09-18 10:40 AM | — | |
 | [\+1 (803) 834-6001](tel:+18038346001) | SC. Columbia | 2025-09-18 09:49 AM | — | |
 | [\+1 (803) 247-7509](tel:+18032477509) | SC. North | 2025-09-16 05:19 PM | — | |
@@ -60,7 +62,7 @@ The telephone numbers below have called and there is an empty person on the othe
 | [\+1 (803) 902-7963](tel:+18039027963) | SC. York | 2025-09-02 01:52 PM | — | |
 | [\+1 (803) 449-0339](tel:+18034490339) | SC. Gilbert | 2025-09-02 11:53 AM | — | |
 | [\+1 (803) 509-6227](tel:+18035096227) | SC. Columbia | 2025-09-02 11:49 AM | — | |
-| [\+1 (803) 797-2826](tel:+18037972826) | SC. | 2025-08-29 06:56 PM | — | |
+| [\+1 (803) 797-2826](tel:+18037972826) | SC. Heath Springs | 2025-08-29 06:56 PM | — | |
 | [\+1 (803) 497-9123](tel:+18034979123) | SC. Columbia | 2025-08-29 05:02 PM | Macaroni Grill | |
 | [\+1 (803) 496-9083](tel:+18034969083) | SC. Holly Hill | 2025-08-29 04:22 PM | Thomas Snell | |
 | [\+1 (803) 780-7129](tel:+18037807129) | SC. Denmark | 2025-08-28 05:58 PM | — | |
@@ -97,7 +99,7 @@ The telephone numbers below have called and there is an empty person on the othe
 | [\+1 (803) 966-6135](tel:+18039666135) | SC. Columbia | 2025-08-18 12:17 PM | — | |
 | [\+1 (803) 228-0585](tel:+18032280585) | SC. Fort Mill | 2025-08-16 12:28 PM | — | |
 | [\+1 (803) 745-2464](tel:+18037452464) | SC. Lancaster | 2025-08-15 03:31 PM | — | |
-| [\+1 (803) 210-2340](tel:+18032102340) | SC. | 2025-08-15 02:20 PM | Planned Administration | |
+| [\+1 (803) 210-2340](tel:+18032102340) | SC. Columbia | 2025-08-15 02:20 PM | Planned Administration | |
 | [\+1 (432) 321-3215](tel:+14323213215) | TX. Alpine | 2025-08-15 09:32 AM ¤¤ | #TaxFraud (Tax Help Mediation Agency) | |
 | [\+1 (888) 539-0437](tel:+18885390437) | TX. Alpine | 2025-08-15 09:32 AM ¤¤ | #TaxFraud (Tax Help Mediation Agency) | |
 | [\+1 (803) 862-5933](tel:+18038625933) | SC. Columbia | 2025-08-14 02:52 PM | — | |
