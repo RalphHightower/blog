@@ -15,6 +15,7 @@ title: "Trump: Air Force One Frequent Flyer Miles"
 - 2025-04-05: [Trump Never Let a Weekend of Golf ⛳️ Interfere With a Commander-In-Chief’s Solemn Duty to Receive Fallen Military 🪖]({% link _posts/2025/04/2025-04-05-MilitaryFallenDontInterruptTrumpGolfWeekends.md %})
 
 [^666]: @RalphHightower – [Federal Aviation Administration - Graphic TFRs](https://tfr.faa.gov/tfr3/?page=list)
+[^57501]:  [Federal Aviation Administration - Graphic TFRs](https://tfr.faa.gov/tfr3/?page=detail_5_7501). From September 20, 2025 at 0830 EDT. To September 20, 2025 at 1800 EDT.
 
 | Time | Location |
 |---|---|
@@ -30,8 +31,10 @@ title: "Trump: Air Force One Frequent Flyer Miles"
 | 8:00 PM | The [President](https://www.donaldjtrump.com/) attends a private dinner<br />Closed Press |
 | 9:15 PM | The [President](https://www.donaldjtrump.com/) arrives The [White House](https://www.whitehouse.gov/)<br />The [White House](https://www.whitehouse.gov/) Out-of-Town Travel Pool |
 | 10:35 PM | The [President](https://www.donaldjtrump.com/) arrives The [White House](https://www.whitehouse.gov/)<br />The [White House](https://www.whitehouse.gov/) Open Press |
-| | **Saturday, September 20, 2025** |
+| | **Saturday, September 20, 2025[^57501]** |
 | ⛳️🏌‍♂️| [Donnie](https://www.donaldjtrump.com/) golfs at his [Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/) |
+| 8:30 AM ⛳️🏌‍♂️| [Donnie](https://www.donaldjtrump.com/) arrives at his [Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/) |
+| 6:00 PM ⛳️🏌‍♂️| [Donnie](https://www.donaldjtrump.com/) golfs departs his [Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/) en route to the [White House](https://www.whitehouse.gov/) |
 | | 🔥 [White House](https://www.whitehouse.gov/) 💣| 
 | | **Thursday, September 18 2025** |
 | 1:30 AM | Out-of-Town Travel Pool Call Time [6:30 AM Local]<br />[Windsor Castle](https://www.royal.uk/royal-residences-windsor-castle), [Berkshire](https://www.bbc.com/news/england/berkshire), [England, United Kingdom](https://www.gov.uk/) Out-of-Town Travel Pool |
@@ -110,7 +113,7 @@ title: "Trump: Air Force One Frequent Flyer Miles"
 | 12:37 PM | [White House](https://www.whitehouse.gov/) Press Office: Lunch lid until 1:30 PM<br />The [White House](https://www.whitehouse.gov/) |
 | 2:15 PM | Out-of-Town Pool Call Time<br />[Joint Base Andrews](https://www.jba.af.mil/) Pre-Credentialed Media |
 | 4:00 PM | The [President](https://www.donaldjtrump.com/) departs The [White House](https://www.whitehouse.gov/) en route [New York](https://www.nyc.gov/), [New York](https://www.ny.gov/)<br />[South Lawn](https://www.whitehouse.gov/) Open Press |
-| 4:57 PM | <br />The [President](https://www.donaldjtrump.com/) departs the [White House](https://www.whitehouse.gov/) for [Joint Base Andrews](https://www.jba.af.mil/)<br />The [White House](https://www.whitehouse.gov/) |
+| 4:57 PM | The [President](https://www.donaldjtrump.com/) departs the [White House](https://www.whitehouse.gov/) for [Joint Base Andrews](https://www.jba.af.mil/)<br />The [White House](https://www.whitehouse.gov/) |
 | 5:04 PM | The [President](https://www.donaldjtrump.com/) arrives at [Joint Base Andrews](https://www.jba.af.mil/)<br />[Joint Base Andrews](https://www.jba.af.mil/) |
 | 5:21 PM | The [President](https://www.donaldjtrump.com/) departs [Joint Base Andrews](https://www.jba.af.mil/) for [New York](https://www.nyc.gov/)<br />[Joint Base Andrews](https://www.jba.af.mil/) |
 | 5:57 PM | The [President](https://www.donaldjtrump.com/) arrives at [LaGuardia Airport](https://www.laguardiaairport.com/) in [New York](https://www.nyc.gov/)<br />[LaGuardia Airport](https://www.laguardiaairport.com/) |
