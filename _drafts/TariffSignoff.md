@@ -1,0 +1,5 @@
+"Hi there, this is Ralph Hightower from Chapin, South Carolina. I figured I’d save you the trouble of dodging future constituent calls from me. I’m calling to say 'bye-bye.' I’ve spent enough energy beating a dead horse. I want to leave with this message:
+
+Congress has chosen abdication over legislation, genuflecting before a figure whose trade war tantrums are about to resurface—tomorrow, in fact. With a fresh batch of arbitrary tariffs inbound, the Fed held its breath yesterday. The economy braces itself. Also, ICE raids targeting migrant farm workers will raise prices of the grocery and cause food shortages
+
+So I’m hanging up. I’ll leave the outrage to the residents of MAGALandia when—how shall I say this—"it hits the fan". You’ve earned it. Sleep tight and good luck with the cleanup. Ralph out.

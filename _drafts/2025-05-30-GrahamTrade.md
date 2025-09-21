@@ -2,7 +2,7 @@
 layout: post
 tags: []
 categories: []
-#date: 2019-06-25 13:14:15
+date: 2025-05-30 5:11 PM
 #excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
@@ -12,13 +12,13 @@ title: 'title'
 
 2025-05-30
 
-Dear Mr. Hightower: 
+Dear Mr. Hightower:
 
 Thank you for contacting me regarding tariffs.
 
 I believe trade policy should advance American interests and hold bad actors accountable.  I will continue working with my Senate colleagues and President Trump to support policies that level the playing field.  As the Senate reviews trade issues, I will keep your concerns in mind.
 
-As your United States Senator, my primary job is to understand and represent the interests of all South Carolinians.  The opportunity to hear from you about the issues confronting our nation is not only essential to representative democracy, but allows me to better serve the people of South Carolina.  We will not see eye-to-eye on every issue; however, I promise to always give your concerns the consideration they deserve. 
+As your United States Senator, my primary job is to understand and represent the interests of all South Carolinians.  The opportunity to hear from you about the issues confronting our nation is not only essential to representative democracy, but allows me to better serve the people of South Carolina.  We will not see eye-to-eye on every issue; however, I promise to always give your concerns the consideration they deserve.
 
 I encourage you to visit my website — http://lgraham.senate.gov — as it will have information on the most recent activities before the U.S. Senate.  You can also sign up for our e-mail newsletter, Facebook, Twitter, and YouTube pages which will provide the latest information and updates on the major issues facing our state and our nation.
 

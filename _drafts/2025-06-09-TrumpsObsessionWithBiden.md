@@ -18,7 +18,7 @@ June 5, 2025, 9:01 AM EDT / Updated June 5, 2025, 9:03 AM EDT
 
 By [Steve Benen](https://www.msnbc.com/author/steve-benen-ncpn433601)
 
-Donald Trump’s [unhealthy fixation](https://www.msnbc.com/rachel-maddow-show/maddowblog/even-easter-message-trump-cant-shake-unhealthy-fixation-biden-rcna202159) on [Joe Biden](https://www.nbcnews.com/politics/donald-trump/first-100-days-trump-still-leans-old-foe-joe-biden-rcna201229) [a weird turn](https://www.msnbc.com/rachel-maddow-show/maddowblog/joe-biden-secretly-robotic-clone-new-conspiracy-theory-trump-amplified-rcna210332) over the weekend, as the [Republican incumbent](https://www.donaldjtrump.com/) amplified a social media message that accused the [former Democratic president](https://bidenwhitehouse.archives.gov/) of being [a robotic clone](https://www.msnbc.com/rachel-maddow-show/maddowblog/joe-biden-secretly-robotic-clone-new-conspiracy-theory-trump-amplified-rcna210332) after secretly having been “executed in 2020.”j
+Donald Trump’s [unhealthy fixation](https://www.msnbc.com/rachel-maddow-show/maddowblog/even-easter-message-trump-cant-shake-unhealthy-fixation-biden-rcna202159) on [Joe Biden](https://www.nbcnews.com/politics/donald-trump/first-100-days-trump-still-leans-old-foe-joe-biden-rcna201229) [a weird turn](https://www.msnbc.com/rachel-maddow-show/maddowblog/joe-biden-secretly-robotic-clone-new-conspiracy-theory-trump-amplified-rcna210332) over the weekend, as the [Republican incumbent](https://www.donaldjtrump.com/) amplified a social media message that accused the [former Democratic president](https://bidenwhitehouse.archives.gov/) of being [a robotic clone](https://www.msnbc.com/rachel-maddow-show/maddowblog/joe-biden-secretly-robotic-clone-new-conspiracy-theory-trump-amplified-rcna210332) after secretly having been “executed in 2020.”
 
 While this didn’t reflect well on the [current president](https://www.donaldjtrump.com/)’s judgment, it did draw some guffaws from observers who marveled at the outlandish absurdities [Trump](https://www.donaldjtrump.com/) has embraced as part of his hysterical campaign against his immediate predecessor. His latest anti-[Biden](https://bidenwhitehouse.archives.gov/) move, however, was far less amusing. [NBC News reported](https://www.nbcnews.com/politics/politics-news/president-trump-orders-investigation-joe-biden-alleged-use-autopen-rcna211058):
 
@@ -30,7 +30,7 @@ The [presidential directive](https://www.whitehouse.gov/presidential-actions/202
 
 There is, of course, a degree of irony to the circumstances. After his defeat in the [2020 election](https://www.fec.gov/resources/cms-content/documents/federalelections2020.pdf), [Trump](https://www.donaldjtrump.com/) spent years insisting that [Biden](https://bidenwhitehouse.archives.gov/) had ordered an investigation into him — an odd conspiracy theory for which there is literally no evidence. Now, it’s Trump who’s doing exactly what he falsely accused his predecessor of doing.
 
-What’s more, it’s not just the executive branch taking the anti-[Biden](https://bidenwhitehouse.archives.gov/) crusade seriously. [House](https://www.house.gov/) [Republicans](https://www.gop.com/) are [ramping up](https://www.nbcnews.com/politics/trump-administration/live-blog/trump-administration-musk-tariffs-immigration-russia-live-update-rcna210170/rcrd80708?canonicalCard=true) their [investigations](https://www.politico.com/live-updates/2025/02/24/congress/jordan-subpoena-biden-capitol-attack-00205815) into the former president — [House Oversight Committee](https://intelligence.house.gov/) [Chair](https://intelligence.house.gov/about/chairman.htm) [James Comer](https://comer.house.gov/) has [even subpoenaed Biden’s personal doctor](https://bsky.app/profile/ronfilipkowski.bsky.social/post/3lqszhyhvc22h) to testify before [Congress](https://www.congress.gov/) — as are [Republican](https://www.gop.com/) members of the [Senate Judiciary Committee](http://www.judiciary.senate.gov/).
+What’s more, it’s not just the executive branch taking the anti-[Biden](https://bidenwhitehouse.archives.gov/) crusade seriously. [House](https://www.house.gov/) [Republicans](https://www.gop.com/) are [ramping up](https://www.nbcnews.com/politics/trump-administration/live-blog/trump-administration-musk-tariffs-immigration-russia-live-update-rcna210170/rcrd80708?canonicalCard=true) their [investigations](https://www.politico.com/live-updates/2025/02/24/congress/jordan-subpoena-biden-capitol-attack-00205815) into the former president — [House Oversight Committee](https://oversight.house.gov/) [Chair](https://oversight.house.gov/about/chairman.htm) [James Comer](https://comer.house.gov/) has [even subpoenaed Biden’s personal doctor](https://bsky.app/profile/ronfilipkowski.bsky.social/post/3lqszhyhvc22h) to testify before [Congress](https://www.congress.gov/) — as are [Republican](https://www.gop.com/) members of the [Senate Judiciary Committee](http://www.judiciary.senate.gov/).
 
 The broader question is why the party has launched this crusade.
 
@@ -56,19 +56,19 @@ Will any of this work? What will the courts say? Will there be a public backlash
             - [Ministry of Truth – HarperCollins](https://www.harpercollins.com/products/ministry-of-truth-steve-benen)
         - [Media Matters](https://www.mediamatters.org/)
         - [Axios](https://www.axios.com/)
-- organizations 
+- organizations
     - [World Trade Organization](https://www.wto.org/)
 - companies
-- foreign countries 
+- foreign countries
 - [Home - Canada.ca](https://www.canada.ca/)
-    - [Prime Minister](https://www.pm.gc.ca/) 
+    - [Prime Minister](https://www.pm.gc.ca/)
         - [Mark Carney](https://www.pm.gc.ca/en/about)
 - state, local governments
-- political parties 
+- political parties
     - [Trumpian Party](https://www.gop.com/)
     - [Democrat Party](https://www.democrats.org/)
         - [ActBlue](https://secure.actblue.com/)
-- Federal Government 
+- Federal Government
     - [Constitution of the United States](https://constitution.congress.gov/)
         - [U.S. Constitution - Article II / Resources / Constitution Annotated / Congress.gov / Library of Congress](https://constitution.congress.gov/constitution/article-2/)
         - [U.S. Constitution - Article III / Resources / Constitution Annotated / Congress.gov / Library of Congress](https://constitution.congress.gov/constitution/article-3/)
@@ -233,8 +233,8 @@ Will any of this work? What will the courts say? Will there be a public backlash
              - [Todd Blanche](https://www.linkedin.com/in/toddblanche/)
             - [Emil Bove](https://www.linkedin.com/in/emil-bove-0113347/)
                 - [Office of the Solicitor General / Solicitor General D. John Sauer / United States Department of Justice](https://www.justice.gov/osg/staff-profile/solicitor-general-john-sauer)
-       - press secretary 
-            - Karoline Leavitt 
+       - press secretary
+            - Karoline Leavitt
         - [Scott Turner / LinkedIn](https://www.linkedin.com/in/scottturnerofficial/)
         - [Doug Burgum](https://www.doi.gov/secretary-doug-burgum)
         - [Doug Burgum – LinkedIn](https://www.linkedin.com/in/doug-burgum-03019111/)
@@ -247,7 +247,7 @@ Will any of this work? What will the courts say? Will there be a public backlash
         - [Pam Bondi](https://www.justice.gov/ag/staff-profile/meet-attorney-general)
         - [Kash Patel](https://www.fbi.gov/about/leadership-and-structure/director-patel)
         - [Deputy Director Dan Bongino — FBI](https://www.fbi.gov/about/leadership-and-structure/deputy-director-dan-bongino)
-        - Kari Lake 
+        - Kari Lake
 - [Reviewing Certain Presidential Actions – The White House](https://www.whitehouse.gov/presidential-actions/2025/06/reviewing-certain-presidential-actions/). Presidential Memoranda. June 4, 2025
 - [Fact Sheet: President Donald J. Trump Continues Enforcement of Reciprocal Tariffs and Announces New Tariff Rates](https://www.whitehouse.gov/fact-sheets/2025/07/fact-sheet-president-donald-j-trump-continues-enforcement-of-reciprocal-tariffs-and-announces-new-tariff-rates/). Fact Sheets July 7, 2025
 - [Extending the Modification of the Reciprocal Tariff Rates](https://www.whitehouse.gov/presidential-actions/2025/07/extending-the-modification-of-the-reciprocal-tariff-rates/). Presidential Actions, Executive Orders July 7, 2025
@@ -308,7 +308,7 @@ Will any of this work? What will the courts say? Will there be a public backlash
 - corruption
 - con
 - crime
-- cryptocurrency 
+- cryptocurrency
 - criminal businesses
 - criminal associates
 - criminal partners

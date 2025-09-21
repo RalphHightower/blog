@@ -1,0 +1,3 @@
+I do solemnly swear that I will support and defend the Constitution of the United States against all enemies, foreign and domestic; that I will bear true faith and allegiance to the same; that I take this obligation freely, without any mental reservation or purpose of evasion; and that I will well and faithfully discharge the duties of the office on which I am about to enter. So help me God.
+
+That was the oath of office that Senator [Graham | Scott] took. I'm urging Senator to confirm judges who will likewise support and defend the Constitution. Emil Bove's alleged willingness to defy court orders and fealty to Trump rather than fidelity to the rule of law does not demonstrate jurisprudence.

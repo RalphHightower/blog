@@ -30,7 +30,7 @@ The report, which notes that Gibson Dunn isn’t the only big firm shying away f
 
 Of course, the firms that are fighting back in court have been successful so far. That’s due, in part, to the blatantly retaliatory nature of the president’s executive orders.
 
-In a recent ruling against one of the orders, U.S. District Judge Beryl Howell [wrote](https://storage.courtlistener.com/recap/gov.uscourts.dcd.278290/gov.uscourts.dcd.278290.185.0.pdf): “No American President has ever before issued executive orders like the one at issue in this lawsuit targeting a prominent law firm with adverse actions to be executed by all Executive branch agencies but, in purpose and effect, this action draws from a playbook as old as Shakespeare, who penned the phrase: ‘The first thing we do, let’s kill all the](lawyers.’”)
+In a recent ruling against one of the orders, U.S. District Judge Beryl Howell [wrote](https://storage.courtlistener.com/recap/gov.uscourts.dcd.278290/gov.uscourts.dcd.278290.185.0.pdf): “No American President has ever before issued executive orders like the one at issue in this lawsuit targeting a prominent law firm with adverse actions to be executed by all Executive branch agencies but, in purpose and effect, this action draws from a playbook as old as Shakespeare, who penned the phrase: ‘The first thing we do, let’s kill all the (lawyers.’”)
 
 This latest report on the matter shows that some otherwise powerful firms are killing themselves, professionally speaking — perhaps in the hope of saving themselves, professionally speaking. But whatever their strategy, firms that cave to or shy away from suing this administration are effectively working for it.
 

@@ -2,7 +2,7 @@
 layout: post
 tags: []
 categories: [2024 presidential election]
-#date: 2024-11-03 
+date: 2024-11-03
 #excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
@@ -11,7 +11,7 @@ title: "Trump's Transactional Attitude Towards People As Tools"
 ---
 
 
-## [Donald Trump admits EV flip-flop was a quid pro quo to secure Elon Musk’s support / Fortune](https://fortune.com/2024/08/05/donald-trump-elon-musk-tesla-endorsement/)[^711]. 
+## [Donald Trump admits EV flip-flop was a quid pro quo to secure Elon Musk’s support / Fortune](https://fortune.com/2024/08/05/donald-trump-elon-musk-tesla-endorsement/)[^711].
 
 ### Everything Is a Transaction to Trump. Even Relationships
 
