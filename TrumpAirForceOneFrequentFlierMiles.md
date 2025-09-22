@@ -20,21 +20,25 @@ title: "Trump: Air Force One Frequent Flyer Miles"
 | Time | Location |
 |---|---|
 | | 🔥 [White House](https://www.whitehouse.gov/) 💣| 
+| | **Monday, September 22 2025** |
+| 9:00 AM | In-Town Pool Call Time<br />In-Town Pool |
+| 1:00 PM | Press Briefing by the [White House](https://www.whitehouse.gov/) Press Secretary Karoline Leavitt<br />James S. Brady Press Briefing Room On Camera |
+| 4:00 PM | The [President](https://www.donaldjtrump.com/) makes an announcement on Significant Medical and Scientific Findings for America's Children<br />Roosevelt Room [White House](https://www.whitehouse.gov/) Press Pool |
+| 5:30 PM | The [President](https://www.donaldjtrump.com/) departs the [White House](https://www.whitehouse.gov/) en route New<br />[South Lawn](https://www.whitehouse.gov/) Open Press |
+| 6:45 PM | The [President](https://www.donaldjtrump.com/) arrives [New York City](https://www.nyc.gov), [New York](https://www.ny.gov/)<br />Out-of-Town Travel Pool |
 | | **Sunday, September 21 2025** |
-| 7:00 AM | Out-of-Town Travel Pool Call Time<br />Out-of-Town Travel Pool |
-| 7:15 AM | In-Town Pool Call Time<br />In-Town Pool |
-| 8:00 AM | In-Town Pool Call Time<br />In-Town Pool |
+| | 🔥 [White House](https://www.whitehouse.gov/) 💣| 
+| 7:00 AM | Out-of-Town Travel Pool Call Time<br />[Joint Base Andrews](https://www.jba.af.mil/) Out-of-Town Travel Pool |
+| 7:15 AM | In-Town Pool Call Time<br />The [White House](https://www.whitehouse.gov/) In-Town Pool |
 | 9:30 AM | The [President](https://www.donaldjtrump.com/) departs The [White House](https://www.whitehouse.gov/) en route [Glendale](https://www.glendaleaz.gov/), [Arizona](https://www.az.gov/)<br />The [White House](https://www.whitehouse.gov/) Open Press |
-| 2:00 PM | The [President](https://www.donaldjtrump.com/) participates in the Memorial Service for [Charlie Kirk](https://www.charliekirk.com/)<br />Pre-Credentialed Media |
-| 6:30 PM | Supplemental Pool Call Time |
-| 7:15 PM | The [President](https://www.donaldjtrump.com/) departs The [White House](https://www.whitehouse.gov/) en route [Mount Vernon](https://www.mountvernon.org/)<br />The [White House](https://www.whitehouse.gov/) Open Press |
-| 8:00 PM | The [President](https://www.donaldjtrump.com/) attends a private dinner<br />Closed Press |
-| 9:15 PM | The [President](https://www.donaldjtrump.com/) arrives The [White House](https://www.whitehouse.gov/)<br />The [White House](https://www.whitehouse.gov/) Out-of-Town Travel Pool |
+| 2:00 PM | The [President](https://www.donaldjtrump.com/) participates in the Memorial Service for [Charlie Kirk](https://www.charliekirk.com/) [11:00 AM Local]<br />[State Farm Stadium](https://www.statefarmstadium.com/), [Glendale](https://www.glendaleaz.gov/), [Arizona](https://www.az.gov/) Pre-Credentialed Media |
 | 10:35 PM | The [President](https://www.donaldjtrump.com/) arrives The [White House](https://www.whitehouse.gov/)<br />The [White House](https://www.whitehouse.gov/) Open Press |
-| | **Saturday, September 20, 2025[^57501]** |
-| ⛳️🏌‍♂️| [Donnie](https://www.donaldjtrump.com/) golfs at his [Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/) |
-| 8:30 AM ⛳️🏌‍♂️| [Donnie](https://www.donaldjtrump.com/) arrives at his [Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/) |
-| 6:00 PM ⛳️🏌‍♂️| [Donnie](https://www.donaldjtrump.com/) golfs departs his [Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/) en route to the [White House](https://www.whitehouse.gov/) |
+| | **Saturday, September 20 2025** |
+| 8:00 AM | In-Town Pool Call Time<br />The [White House](https://www.whitehouse.gov/) In-Town Pool |
+| 6:30 PM | Supplemental Pool Call Time<br />The [White House](https://www.whitehouse.gov/) |
+| 7:15 PM | The [President](https://www.donaldjtrump.com/) departs The [White House](https://www.whitehouse.gov/) en route [Mount Vernon](https://www.mountvernon.org/)<br />The [White House](https://www.whitehouse.gov/) Open Press |
+| 8:00 PM | The [President](https://www.donaldjtrump.com/) attends a private dinner<br />[Mount Vernon](https://www.mountvernon.org/) Closed Press |
+| 9:15 PM | The [President](https://www.donaldjtrump.com/) arrives The [White House](https://www.whitehouse.gov/)<br />The [White House](https://www.whitehouse.gov/) Out-of-Town Travel Pool |
 | | 🔥 [White House](https://www.whitehouse.gov/) 💣| 
 | | **Thursday, September 18 2025** |
 | 1:30 AM | Out-of-Town Travel Pool Call Time [6:30 AM Local]<br />[Windsor Castle](https://www.royal.uk/royal-residences-windsor-castle), [Berkshire](https://www.bbc.com/news/england/berkshire), [England, United Kingdom](https://www.gov.uk/) Out-of-Town Travel Pool |
