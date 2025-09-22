@@ -38,11 +38,9 @@ title: "Trump: Air Force One Frequent Flyer Miles"
 | 3:16 PM | The [President](https://www.donaldjtrump.com/) arrives at [State Farm Stadium](https://www.statefarmstadium.com/) in [Glendale](https://www.glendaleaz.gov/), [Arizona](https://www.az.gov/) [12:16 PM Local]<br />[State Farm Stadium](https://www.statefarmstadium.com/), [Glendale](https://www.glendaleaz.gov/), [Arizona](https://www.az.gov/) |
 | 7:17 PM | The [President](https://www.donaldjtrump.com/) departs [State Farm Stadium](https://www.statefarmstadium.com/) in [Glendale](https://www.glendaleaz.gov/), [Arizona](https://www.az.gov/) for [Luke Air Force Base](https://www.luke.af.mil/) [4:17 PM Local]<br />[State Farm Stadium](https://www.statefarmstadium.com/), [Glendale](https://www.glendaleaz.gov/), [Arizona](https://www.az.gov/) |
 | 7:32 PM | The [President](https://www.donaldjtrump.com/) arrives at [Luke Air Force Base](https://www.luke.af.mil/) [4:32 PM Local]<br />[Luke Air Force Base](https://www.luke.af.mil/), [Arizona](https://www.az.gov/) |
-| 7:45 PM | The [President](https://www.donaldjtrump.com/) departs [Luke Air Force Base](https://www.luke.af.mil/) for [Joint Base Andrews](https://www.jba.af.mil/) [4:45 PM Local] |
-| <br />[Luke Air Force Base](https://www.luke.af.mil/), [Arizona](https://www.az.gov/) |
+| 7:45 PM | The [President](https://www.donaldjtrump.com/) departs [Luke Air Force Base](https://www.luke.af.mil/) for [Joint Base Andrews](https://www.jba.af.mil/) [4:45 PM Local]<br />[Luke Air Force Base](https://www.luke.af.mil/), [Arizona](https://www.az.gov/) |
 | 10:35 PM | The [President](https://www.donaldjtrump.com/) arrives The [White House](https://www.whitehouse.gov/) [Actual: 11:49 PM]<br />The [White House](https://www.whitehouse.gov/) Open Press |
-| 11:21 PM | The [President](https://www.donaldjtrump.com/) arrives at [Joint Base Andrews](https://www.jba.af.mil/) |
-| <br />[Joint Base Andrews](https://www.jba.af.mil/) |
+| 11:21 PM | The [President](https://www.donaldjtrump.com/) arrives at [Joint Base Andrews](https://www.jba.af.mil/)<br />[Joint Base Andrews](https://www.jba.af.mil/) |
 | 11:38 PM | The [President](https://www.donaldjtrump.com/) departs [Joint Base Andrews](https://www.jba.af.mil/) for the [White House](https://www.whitehouse.gov/)<br />[Joint Base Andrews](https://www.jba.af.mil/) |
 | 11:54 PM | [White House](https://www.whitehouse.gov/) Press Office: Full lid called</<The [White House](https://www.whitehouse.gov/) |
 | | **Saturday, September 20 2025** |
