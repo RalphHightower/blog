@@ -27,12 +27,24 @@ title: "Trump: Air Force One Frequent Flyer Miles"
 | 5:30 PM | The [President](https://www.donaldjtrump.com/) departs the [White House](https://www.whitehouse.gov/) en route New<br />[South Lawn](https://www.whitehouse.gov/) Open Press |
 | 6:45 PM | The [President](https://www.donaldjtrump.com/) arrives [New York City](https://www.nyc.gov), [New York](https://www.ny.gov/)<br />Out-of-Town Travel Pool |
 | | **Sunday, September 21 2025** |
-| | 🔥 [White House](https://www.whitehouse.gov/) 💣| 
 | 7:00 AM | Out-of-Town Travel Pool Call Time<br />[Joint Base Andrews](https://www.jba.af.mil/) Out-of-Town Travel Pool |
-| 7:15 AM | In-Town Pool Call Time<br />The [White House](https://www.whitehouse.gov/) In-Town Pool |
-| 9:30 AM | The [President](https://www.donaldjtrump.com/) departs The [White House](https://www.whitehouse.gov/) en route [Glendale](https://www.glendaleaz.gov/), [Arizona](https://www.az.gov/)<br />The [White House](https://www.whitehouse.gov/) Open Press |
+| 7:15 AM | In-Town Pool Call Time<br />The [White House](https://www.whitehouse.gov/)<br />In-Town Pool |
+| 9:30 AM | The [President](https://www.donaldjtrump.com/) departs The [White House](https://www.whitehouse.gov/) en route [Glendale](https://www.glendaleaz.gov/), [Arizona](https://www.az.gov/) [9:53 AM Actual to [Joint Base Andrews](https://www.jba.af.mil/)]<br />The [White House](https://www.whitehouse.gov/) Open Press |
+| 10:05 AM | The [President](https://www.donaldjtrump.com/) arrives at [Joint Base Andrews](https://www.jba.af.mil/)<br />[Joint Base Andrews](https://www.jba.af.mil/) |
+| 10:17 AM | The [President](https://www.donaldjtrump.com/) departs [Joint Base Andrews](https://www.jba.af.mil/) for [Glendale](https://www.glendaleaz.gov/), [Arizona](https://www.az.gov/)<br />[Joint Base Andrews](https://www.jba.af.mil/) |
 | 2:00 PM | The [President](https://www.donaldjtrump.com/) participates in the Memorial Service for [Charlie Kirk](https://www.charliekirk.com/) [11:00 AM Local]<br />[State Farm Stadium](https://www.statefarmstadium.com/), [Glendale](https://www.glendaleaz.gov/), [Arizona](https://www.az.gov/) Pre-Credentialed Media |
-| 10:35 PM | The [President](https://www.donaldjtrump.com/) arrives The [White House](https://www.whitehouse.gov/)<br />The [White House](https://www.whitehouse.gov/) Open Press |
+| 2:42 PM | The [President](https://www.donaldjtrump.com/) arrives at [Luke Air Force Base](https://www.luke.af.mil/) [11:42 AM Local]<br />[Luke Air Force Base](https://www.luke.af.mil/), [Arizona](https://www.az.gov/) |
+| 2:58 PM | The [President](https://www.donaldjtrump.com/) departs [Luke Air Force Base](https://www.luke.af.mil/) for [Glendale](https://www.glendaleaz.gov/), [Arizona](https://www.az.gov/) [11:58 AM Local]<br />[Luke Air Force Base](https://www.luke.af.mil/), [Arizona](https://www.az.gov/) |
+| 3:16 PM | The [President](https://www.donaldjtrump.com/) arrives at [State Farm Stadium](https://www.statefarmstadium.com/) in [Glendale](https://www.glendaleaz.gov/), [Arizona](https://www.az.gov/) [12:16 PM Local]<br />[State Farm Stadium](https://www.statefarmstadium.com/), [Glendale](https://www.glendaleaz.gov/), [Arizona](https://www.az.gov/) |
+| 7:17 PM | The [President](https://www.donaldjtrump.com/) departs [State Farm Stadium](https://www.statefarmstadium.com/) in [Glendale](https://www.glendaleaz.gov/), [Arizona](https://www.az.gov/) for [Luke Air Force Base](https://www.luke.af.mil/) [4:17 PM Local]<br />[State Farm Stadium](https://www.statefarmstadium.com/), [Glendale](https://www.glendaleaz.gov/), [Arizona](https://www.az.gov/) |
+| 7:32 PM | The [President](https://www.donaldjtrump.com/) arrives at [Luke Air Force Base](https://www.luke.af.mil/) [4:32 PM Local]<br />[Luke Air Force Base](https://www.luke.af.mil/), [Arizona](https://www.az.gov/) |
+| 7:45 PM | The [President](https://www.donaldjtrump.com/) departs [Luke Air Force Base](https://www.luke.af.mil/) for [Joint Base Andrews](https://www.jba.af.mil/) [4:45 PM Local] |
+| <br />[Luke Air Force Base](https://www.luke.af.mil/), [Arizona](https://www.az.gov/) |
+| 10:35 PM | The [President](https://www.donaldjtrump.com/) arrives The [White House](https://www.whitehouse.gov/) [Actual: 11:49 PM]<br />The [White House](https://www.whitehouse.gov/) Open Press |
+| 11:21 PM | The [President](https://www.donaldjtrump.com/) arrives at [Joint Base Andrews](https://www.jba.af.mil/) |
+| <br />[Joint Base Andrews](https://www.jba.af.mil/) |
+| 11:38 PM | The [President](https://www.donaldjtrump.com/) departs [Joint Base Andrews](https://www.jba.af.mil/) for the [White House](https://www.whitehouse.gov/)<br />[Joint Base Andrews](https://www.jba.af.mil/) |
+| 11:54 PM | [White House](https://www.whitehouse.gov/) Press Office: Full lid called</<The [White House](https://www.whitehouse.gov/) |
 | | **Saturday, September 20 2025** |
 | 8:00 AM | In-Town Pool Call Time<br />The [White House](https://www.whitehouse.gov/) In-Town Pool |
 | 6:30 PM | Supplemental Pool Call Time<br />The [White House](https://www.whitehouse.gov/) |
