@@ -2,7 +2,7 @@
 layout: page
 tags: [Karoline Leavitt, Mike Pence, Nikki Haley (2017-2018), Rex Tillerson (2017–2018), Mike Pompeo (2018–2021), Steven Mnuchin (2017–2021), Jim Mattis (2017–2019), Mark Esper (2019–2020), Christopher C. Miller (acting 2020–2021), Jeff Sessions (2017–2018), William Barr (2019–2020), Jeffrey A. Rosen (acting 2020–2021), Ryan Zinke (2017–2019), David Bernhardt (2019–2021), Sonny Perdue (2017–2021), Wilbur Ross (2017–2021), Alexander Acosta (2017–2019), Eugene Scalia (2019–2021), Tom Price (2017), Alex Azar (2018–2021), Ben Carson (2017–2021), Elaine Chao (2017–2021), Rick Perry (2017–2019), Dan Brouillette (2019–2021), Betsy DeVos (2017–2021), David Shulkin (2017–2018), Robert Wilkie (2018–2021), John F. Kelly (2017), Kirstjen Nielsen (2017–2019), Kevin McAleenan (acting 2019), Chad Wolf (acting 2019–2021), Sean Spicer (2017), Sarah Huckabee Sanders (2017–2019), Stephanie Grisham (2019–2020), Kayleigh McEnany (2020–2021), Steven Mnuchin (2017–2021), Lee Zeldin (2025-), Kelly Loeffler (2025-), Pam Bondi (2025-), John Ratcliffe (2025-), Tulsi Gabbard (2025-), Russ Vought (2025-), Brooke Rollins (2025-), Howard Lutnick (2025-), Pete Hegseth (2025-), Linda McMahon (2025-), Chris Wright (2025-), Robert F Kennedy Jr. (2025-), Kristi Noem (2025-), Scott Turner (2025-), Doug Burgum (2025-), Lori Chavez-DeRemer (2025-), Marco Rubio (2025-), Doug Collins (2025-), Sean Duffy (2025-), Scott Bessent (2025-), Jamieson Greer (2025-),]
 categories: [Telephone Numbers]
-date: 2025-09-16 7:32 PM
+date: 2025-09-22 7:20 PM
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description: 
@@ -18,6 +18,10 @@ The telephone numbers below have called and there is an empty person on the othe
 
 | Telephone Number | Location | Date Time[^11] | Caller | Social Media |
 |---|---|---|---|---|
+| [\+1 (803) 232-7640](tel:+18032327640) | SC. Graniteville | 2025-09-22 03:55 PM | — | |
+| [\+1 (510) 630-1895](tel:+15106301895) | CA. El Sobrante | 2025-09-22 12:58 PM ¤¤ | #TaxFraud | |
+| [\+1 (888) 597-2505](tel:+18885972505) | CA. El Sobrante | 2025-09-22 12:58 PM ¤¤ | #TaxFraud | |
+| [\+1 (803) 483-6327](tel:+18034836327) | SC. Bishopville | 2025-09-22 10:26 AM | R Williams | |
 | [\+1 (803) 249-1584](tel:+18032491584) | SC. Alcolu | 2025-09-19 11:23 AM | — | |
 | [\+1 (803) 655-3955](tel:+18036553955) | SC. Saint Mathews | 2025-09-19 10:53 AM | Cablecraft | |
 | [\+1 (803) 574-4757](tel:+18035744757) | SC. Summerton | 2025-09-18 10:40 AM | — | |
@@ -209,7 +213,7 @@ The telephone numbers below have called and there is an empty person on the othe
 | [\+1 (803) 845-5239](tel:+18038455239) | SC. Aiken | 2025-07-07 12:18 PM | — | |
 | [\+1 (803) 400-9232](tel:+18034009232) | SC. Columbia | 2025-07-07 11:35 AM | — | |
 | [\+1 (803) 597-3908](tel:+18035973908) | SC. Newberry | 2025-07-03 06:03 PM | — | |
-| [\+1 (803) 995-6483](tel:+18039956483) | SC. | 2025-07-03 02:24 PM | — | |
+| [\+1 (803) 995-6483](tel:+18039956483) | SC. Columbia | 2025-07-03 02:24 PM | — | |
 | [\+1 (803) 867-0646](tel:+18038670646) | SC. North Augusta | 2025-07-03 02:08 PM | — | |
 | [\+1 (803) 908-4554](tel:+18039084554) | SC. Columbia | 2025-07-02 04:40 PM | Cummins Atlantic | |
 | [\+1 (803) 849-8167](tel:+18038498167) | SC. Columbia | 2025-07-02 03:37 PM ¤¤ | — | |
@@ -406,8 +410,8 @@ The telephone numbers below have called and there is an empty person on the othe
 | [\+1 (803) 283-8803](tel:+18032838803) | SC. Lancaster | 2025-05-13 10:10 AM | W J Steele | |
 | [\+1 (839) 500-5152](tel:+18395005152) | SC. Rock Hill | 2025-05-13 10:04 AM | Potential Spam | |
 | [\+1 (803) 674-3805](tel:+18036743805) | SC. Batesburg | 2025-05-13 09:52 AM | Potential Spam | |
-| [\+1 (803) 991-7037](tel:+18039917037) | SC. | 2025-05-12 04:06 PM ¤¤ | — | |
-| [\+1 (803) 991-7037](tel:+18039917037) | SC. | 2025-05-12 04:05 PM | — | |
+| [\+1 (803) 991-7037](tel:+18039917037) | SC. Beech  Island | 2025-05-12 04:06 PM ¤¤ | — | |
+| [\+1 (803) 991-7037](tel:+18039917037) | SC. Beech Island | 2025-05-12 04:05 PM | — | |
 | [\+1 (803) 381-0481](tel:+18033810481) | SC. Columbia | 2025-05-12 03:48 PM | — | |
 | [\+1 (803) 228-4062](tel:+18032284062) | SC. Fort Mill | 2025-05-12 03:35 PM | Potential Spam | |
 | [\+1 (803) 416-0525](tel:+18034160525) | SC. Lancaster | 2025-05-12 02:37 PM | — | |
@@ -766,7 +770,7 @@ The telephone numbers below have called and there is an empty person on the othe
 | [\+1 (803) 694-7980](tel:+18036947980) | SC. Whitmire | 2025-04-08 09:31 AM | — | |
 | [\+1 (803) 520-4796](tel:+18035204796) | SC. Lexington | 2025-04-07 06:28 PM | Potential Spam | |
 | [\+1 (803) 584-5229](tel:+18035845229) | SC. Allendale | 2025-04-07 06:26 PM | — | |
-| [\+1 (803) 945-8028](tel:+18039458028) | SC. | 2025-04-07 05:27 PM | — | |
+| [\+1 (803) 945-8028](tel:+18039458028) | SC. Little Mountain | 2025-04-07 05:27 PM | — | |
 | [\+1 (803) 966-6908](tel:+18039666908) | SC. Columbia | 2025-04-07 05:02 PM | — | |
 | [\+1 (803) 581-7704](tel:+18035817704) | SC. Chester | 2025-04-07 04:17 PM | Curtis C Clark | |
 | [\+1 (803) 569-4940](tel:+18035694940) | SC. Columbia | 2025-04-07 03:47 PM ¤¤ | Potential Spam | |
@@ -1019,8 +1023,8 @@ The telephone numbers below have called and there is an empty person on the othe
 | [\+1 (803) 782-9800](tel:+18037829800) | SC. Columbia | 2025-03-14 09:41 AM | National Tax Service | |
 | [\+1 (803) 782-9800](tel:+18037829800) | SC. Columbia | 2025-03-14 09:41 AM ¤¤ | National Tax Service | |
 | [\+1 (803) 782-9800](tel:+18037829800) | SC. Columbia | 2025-03-14 09:40 AM | National Tax Service | |
-| [\+1 (803) 857-7376](tel:+18038577376) | SC. S Carolina | 2025-03-13 06:26 PM ¤¤ | — | |
-| [\+1 (803) 857-7376](tel:+18038577376) | SC. S Carolina | 2025-03-13 06:24 PM | — | |
+| [\+1 (803) 857-7376](tel:+18038577376) | SC. Santee | 2025-03-13 06:26 PM ¤¤ | — | |
+| [\+1 (803) 857-7376](tel:+18038577376) | SC. Santee | 2025-03-13 06:24 PM | — | |
 | [\+1 (803) 376-0410](tel:+18033760410) | SC. Columbia | 2025-03-13 06:01 PM ¤¤ | — | |
 | [\+1 (803) 376-0410](tel:+18033760410) | SC. Columbia | 2025-03-13 05:59 PM | — | |
 | [\+1 (803) 752-9596](tel:+18037529596) | SC. Fort Mill | 2025-03-13 05:32 PM ¤¤ | — | |
@@ -1047,8 +1051,8 @@ The telephone numbers below have called and there is an empty person on the othe
 | [\+1 (803) 709-8572](tel:+18037098572) | SC. Barnwell | 2025-03-12 03:17 PM | — | |
 | [\+1 (803) 599-2647](tel:+18035992647) | SC. Beech Island | 2025-03-12 02:33 PM | — | |
 | [\+1 (803) 844-0510](tel:+18038440510) | SC. Beech Island | 2025-03-12 02:28 PM | Potential Spam | |
-| [\+1 (803) 807-2476](tel:+18038072476) | SC. | 2025-03-12 01:49 PM | — | |
-| [\+1 (803) 807-2476](tel:+18038072476) | SC. | 2025-03-12 01:48 PM | — | |
+| [\+1 (803) 807-2476](tel:+18038072476) | SC. Columbia | 2025-03-12 01:49 PM | — | |
+| [\+1 (803) 807-2476](tel:+18038072476) | SC. Columbia | 2025-03-12 01:48 PM | — | |
 | [\+1 (803) 881-8703](tel:+18038818703) | SC. Columbia | 2025-03-12 11:15 AM | Potential Spam | |
 | [\+1 (803) 881-8703](tel:+18038818703) | SC. Columbia | 2025-03-12 11:14 AM | Potential Spam | |
 | [\+1 (803) 570-5968](tel:+18035705968) | SC. Orangeburg | 2025-03-12 10:34 AM | — | |
@@ -1071,7 +1075,7 @@ The telephone numbers below have called and there is an empty person on the othe
 | [\+1 (803) 492-7987](tel:+18034927987) | SC. Eutawville | 2025-03-07 05:09 PM | Tratt Alvoid | |
 | [\+1 (803) 492-7987](tel:+18034927987) | SC. Eutawville | 2025-03-07 05:09 PM ¤¤ | Tratt Alvoid | |
 | [\+1 (803) 437-2357](tel:+18034372357) | SC. | 2025-03-07 05:03 PM | Rouse Gertie | |
-| [\+1 (803) 857-2389](tel:+18038572389) | SC. | 2025-03-07 04:58 PM | — | |
+| [\+1 (803) 857-2389](tel:+18038572389) | SC. Santee | 2025-03-07 04:58 PM | — | |
 | [\+1 (803) 859-7102](tel:+18038597102) | SC. Beech Island | 2025-03-07 04:35 PM | Potential Spam | |
 | [\+1 (803) 904-8351](tel:+18039048351) | SC. Columbia | 2025-03-07 04:23 PM | — | |
 | [\+1 (803) 753-3302](tel:+18037533302) | SC. Columbia | 2025-03-07 01:05 PM | Burr Forman LLP | |

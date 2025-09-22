@@ -2,7 +2,7 @@
 layout: page
 tags: [The Mar-a-Lago Club, Palm Beach Florida 33480, Trump International Golf Club, West Palm Beach FL 33406, Trump National Doral Golf Club, Miami FL 33178, Trump National Jupiter Golf Club, Jupiter FL 33477, Trump National Golf Club Washington D.C., Potomac Falls VA 20165, Trump National Golf Club Bedminster, Bedminster NJ 07921, Trump National Golf Club Colts Neck, Colts Neck NJ 07722, Trump National Golf Club Philadelphia, Pine Hill NJ 08021, Trump National Golf Club Hudson Valley, Hopewell Junction NY 12533, Trump National Golf Club Los Angeles, Rancho Palos Verdes CA 90275, Trump National Golf Club Charlotte, Mooresville NC 28117, Trump International Golf Club Dubai, Al Hebiah Third District Dubai, Trump International Golf Links & Hotel Ireland Doonbeg, CLARE IRELAND, Trump MacLeod House & Lodge Scotland, Aberdeenshire Scotland AB23 8YE, Trump MacLeod House & Lodge Scotland, Aberdeenshire Scotland AB23 8YE, Trump Turnberry, Ayrshire Scotland]
 categories: [Donald Trump]
-date: 2025-09-20 12:26 AM
+date: 2025-09-22 7:20 PM
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
@@ -20,12 +20,14 @@ title: "Trump: Air Force One Frequent Flyer Miles"
 | Time | Location |
 |---|---|
 | | 🔥 [White House](https://www.whitehouse.gov/) 💣| 
+| | **Tuesday, September 23, 2025** |
 | | **Monday, September 22 2025** |
 | 9:00 AM | In-Town Pool Call Time<br />In-Town Pool |
 | 1:00 PM | Press Briefing by the [White House](https://www.whitehouse.gov/) Press Secretary Karoline Leavitt<br />James S. Brady Press Briefing Room On Camera |
 | 4:00 PM | The [President](https://www.donaldjtrump.com/) makes an announcement on Significant Medical and Scientific Findings for America's Children<br />Roosevelt Room [White House](https://www.whitehouse.gov/) Press Pool |
 | 5:30 PM | The [President](https://www.donaldjtrump.com/) departs the [White House](https://www.whitehouse.gov/) en route New<br />[South Lawn](https://www.whitehouse.gov/) Open Press |
 | 6:45 PM | The [President](https://www.donaldjtrump.com/) arrives [New York City](https://www.nyc.gov), [New York](https://www.ny.gov/)<br />Out-of-Town Travel Pool |
+| | 🔥 [White- House](https://www.whitehouse.gov/) 💣| 
 | | **Sunday, September 21 2025** |
 | 7:00 AM | Out-of-Town Travel Pool Call Time<br />[Joint Base Andrews](https://www.jba.af.mil/) Out-of-Town Travel Pool |
 | 7:15 AM | In-Town Pool Call Time<br />The [White House](https://www.whitehouse.gov/)<br />In-Town Pool |
@@ -45,10 +47,19 @@ title: "Trump: Air Force One Frequent Flyer Miles"
 | 11:54 PM | [White House](https://www.whitehouse.gov/) Press Office: Full lid called</<The [White House](https://www.whitehouse.gov/) |
 | | **Saturday, September 20 2025** |
 | 8:00 AM | In-Town Pool Call Time<br />The [White House](https://www.whitehouse.gov/) In-Town Pool |
+| 9:08 AM | The [President](https://www.donaldjtrump.com/) departs the [White House](https://www.whitehouse.gov/) for his golf club<br />The [White House](https://www.whitehouse.gov/) |
+| 9:42 AM | The [President](https://www.donaldjtrump.com/) arrives at [Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/)<br />[Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/) |
+| 3:27 PM | The [President](https://www.donaldjtrump.com/) departs [Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/)<br />[Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/) |
+| 4:00 PM | The [President](https://www.donaldjtrump.com/) arrives at the [White House](https://www.whitehouse.gov/)<br />The [White House](https://www.whitehouse.gov/) |
+| 4:17 PM | [White House](https://www.whitehouse.gov/) Press Office: Dinner lid until 5:30 PM<br />The [White House](https://www.whitehouse.gov/) |
 | 6:30 PM | Supplemental Pool Call Time<br />The [White House](https://www.whitehouse.gov/) |
-| 7:15 PM | The [President](https://www.donaldjtrump.com/) departs The [White House](https://www.whitehouse.gov/) en route [Mount Vernon](https://www.mountvernon.org/)<br />The [White House](https://www.whitehouse.gov/) Open Press |
+| 7:15 PM | The [President](https://www.donaldjtrump.com/) departs The [White House](https://www.whitehouse.gov/) en route [Mount Vernon](https://www.mountvernon.org/) [7:37 PM Actual]<br />The [White House](https://www.whitehouse.gov/) Open Press |
+| 7:47 PM | [White House](https://www.whitehouse.gov/) Press Office: Dinner lid until 8:45 PM (Supplemental Pool)<br />The [White House](https://www.whitehouse.gov/) |
+| 7:47 PM | The [President](https://www.donaldjtrump.com/) arrives at [Mount Vernon](https://www.mountvernon.org/)<br />[Mount Vernon](https://www.mountvernon.org/) |
 | 8:00 PM | The [President](https://www.donaldjtrump.com/) attends a private dinner<br />[Mount Vernon](https://www.mountvernon.org/) Closed Press |
-| 9:15 PM | The [President](https://www.donaldjtrump.com/) arrives The [White House](https://www.whitehouse.gov/)<br />The [White House](https://www.whitehouse.gov/) Out-of-Town Travel Pool |
+| 9:15 PM | The [President](https://www.donaldjtrump.com/) arrives The [White House](https://www.whitehouse.gov/) [Actual: 9:50 PM]The [White House](https://www.whitehouse.gov/) Out-of-Town Travel Pool |
+| 9:38 PM | The [President](https://www.donaldjtrump.com/) departs [Mount Vernon](https://www.mountvernon.org/) for the [White House](https://www.whitehouse.gov/)<br />[Mount Vernon](https://www.mountvernon.org/) |
+| 9:57 PM | [White House](https://www.whitehouse.gov/) Press Office: Full lid called<br />The [White House](https://www.whitehouse.gov/) |
 | | 🔥 [White House](https://www.whitehouse.gov/) 💣| 
 | | **Thursday, September 18 2025** |
 | 1:30 AM | Out-of-Town Travel Pool Call Time [6:30 AM Local]<br />[Windsor Castle](https://www.royal.uk/royal-residences-windsor-castle), [Berkshire](https://www.bbc.com/news/england/berkshire), [England, United Kingdom](https://www.gov.uk/) Out-of-Town Travel Pool |
