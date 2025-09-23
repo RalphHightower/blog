@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: []
+tags: [media, MSNBC, Steve Benen, The Rachel Maddow Show, MaddowBlog, “Ministry of Truth –  Democracy Reality and the Republicans’ War on the Recent Past.”, NBC News, New York Times (NYT), Reuters, Federal –  2020 Election Interference January 6 Insurrection. @RalphHightower, organizations, political parties, Democrat Party, Trumpian Party, universities, companies, foreign governments, Brazil – GOV.BR, Jair Bolsonaro, Página Principal / Portal STF, Advocacia-Geral da União, Supremo Tribunal Federal, Página Inicial — Planalto, federal government, Constitution of the United States, U.S. Constitution - Article I / Library of Congress, U.S. Constitution - Article II / Library of Congress, U.S. Constitution - Article III / Library of Congress, U.S. Constitution - Article IV / Library of Congress, U.S. Constitution - Article V / Library of Congress, U.S. Constitution - Article VI / Library of Congress, U.S. Constitution - Article VII / Library of Congress, Supreme Court of the United States (SCOTUS), US Courts, Federal Reserve, Federal Reserve Board - Federal Reserve Act, U.S. Department of the Treasury, Supreme Court of the United States (SCOTUS), US Courts, Department of Justice (DOJ), Federal Bureau of Investigation (FBI), Congress, Senate, House of Representatives, President of the United States (POTUS), White House (WH), Trump autocracy, Donald J Trump, President Donald Trump (45), President Donald Trump (47), President Trump (47) Administration, President Trump (47) Cabinet, press secretary, Karoline Leavitt, Marco Rubio - United States Department of State, Marco Rubio, grifter, self-dealing, corruption, con artist, crime, cryptocurrency, criminal associates, criminal businesses, criminal media, criminal organizations, criminal partners]
 categories: [Donald Trump, January 6 2021, Jair Bolsonaro, insurrection, guilty, prison]
 date: 2025-09-13 11:01
 excerpt: ''
@@ -71,13 +71,13 @@ This post updates our [related earlier coverage](https://www.msnbc.com/rachel-ma
     - [Página Inicial — Planalto](https://www.gov.br/planalto/)
 - federal government
 - [Constitution of the United States](https://constitution.congress.gov/)
-    - [U.S. Constitution - Article I / Resources / Constitution Annotated / Congress.gov / Library of Congress](https://constitution.congress.gov/constitution/article-1/)
-    - [U.S. Constitution - Article II / Resources / Constitution Annotated / Congress.gov / Library of Congress](https://constitution.congress.gov/constitution/article-2/)
-    - [U.S. Constitution - Article III / Resources / Constitution Annotated / Congress.gov / Library of Congress](https://constitution.congress.gov/constitution/article-3/)
-    - [U.S. Constitution - Article IV / Resources / Constitution Annotated / Congress.gov / Library of Congress](https://constitution.congress.gov/constitution/article-4/)
-    - [U.S. Constitution - Article V / Resources / Constitution Annotated / Congress.gov / Library of Congress](https://constitution.congress.gov/constitution/article-5/)
-    - [U.S. Constitution - Article VI / Resources / Constitution Annotated / Congress.gov / Library of Congress](https://constitution.congress.gov/constitution/article-6/)
-    - [U.S. Constitution - Article VII / Resources / Constitution Annotated / Congress.gov / Library of Congress](https://constitution.congress.gov/constitution/article-7/)
+    - [U.S. Constitution - Article I / Library of Congress](https://constitution.congress.gov/constitution/article-1/)
+    - [U.S. Constitution - Article II / Library of Congress](https://constitution.congress.gov/constitution/article-2/)
+    - [U.S. Constitution - Article III / Library of Congress](https://constitution.congress.gov/constitution/article-3/)
+    - [U.S. Constitution - Article IV / Library of Congress](https://constitution.congress.gov/constitution/article-4/)
+    - [U.S. Constitution - Article V / Library of Congress](https://constitution.congress.gov/constitution/article-5/)
+    - [U.S. Constitution - Article VI / Library of Congress](https://constitution.congress.gov/constitution/article-6/)
+    - [U.S. Constitution - Article VII / Library of Congress](https://constitution.congress.gov/constitution/article-7/)
     - [Supreme Court of the United States (SCOTUS)](https://www.supremecourt.gov/)
     - [US Courts](https://www.uscourts.gov/)
     - [Federal Reserve](https;//www.federalreserve.gov/)
@@ -113,3 +113,4 @@ This post updates our [related earlier coverage](https://www.msnbc.com/rachel-ma
 - criminal media
 - criminal organizations
 - criminal partners
+{% include TrumpTariffs.html %}
