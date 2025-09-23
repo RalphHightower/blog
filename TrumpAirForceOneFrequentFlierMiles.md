@@ -47,9 +47,9 @@ title: "Trump: Air Force One Frequent Flyer Miles"
 | 11:54 PM | [White House](https://www.whitehouse.gov/) Press Office: Full lid called</<The [White House](https://www.whitehouse.gov/) |
 | | **Saturday, September 20 2025** |
 | 8:00 AM | In-Town Pool Call Time<br />The [White House](https://www.whitehouse.gov/) In-Town Pool |
-| 9:08 AM | The [President](https://www.donaldjtrump.com/) departs the [White House](https://www.whitehouse.gov/) for his golf club<br />The [White House](https://www.whitehouse.gov/) |
-| 9:42 AM | The [President](https://www.donaldjtrump.com/) arrives at [Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/)<br />[Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/) |
-| 3:27 PM | The [President](https://www.donaldjtrump.com/) departs [Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/)<br />[Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/) |
+| 9:08 AM ⛳️🏌‍♂️| The [President](https://www.donaldjtrump.com/) departs the [White House](https://www.whitehouse.gov/) for his golf club<br />The [White House](https://www.whitehouse.gov/) |
+| 9:42 AM ⛳️🏌‍♂️| The [President](https://www.donaldjtrump.com/) arrives at [Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/)<br />[Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/) |
+| 3:27 PM ⛳️🏌‍♂️| The [President](https://www.donaldjtrump.com/) departs [Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/)<br />[Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/) |
 | 4:00 PM | The [President](https://www.donaldjtrump.com/) arrives at the [White House](https://www.whitehouse.gov/)<br />The [White House](https://www.whitehouse.gov/) |
 | 4:17 PM | [White House](https://www.whitehouse.gov/) Press Office: Dinner lid until 5:30 PM<br />The [White House](https://www.whitehouse.gov/) |
 | 6:30 PM | Supplemental Pool Call Time<br />The [White House](https://www.whitehouse.gov/) |
