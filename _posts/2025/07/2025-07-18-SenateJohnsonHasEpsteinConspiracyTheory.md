@@ -20,7 +20,7 @@ By [Steve Benen](https://www.msnbc.com/author/steve-benen-ncpn433601)
 
 Shortly after [Donald Trump](https://www.donaldjtrump.com/) grudgingly left the [White House](https://www.whitehouse.gov/) following his 2020 defeat, he was effectively banned from most major social media platforms and made few television appearances. In his absence, [The New York Times described](https://www.nytimes.com/2021/03/21/us/politics/ron-johnson-wisconsin-misinformation.html) [Wisconsin](https://www.wisconsin.gov/Pages/Home.aspx) [Sen.](https://www.senate.gov/) [Ron Johnson](https://www.ronjohnson.senate.gov/) as [Trump](https://www.donaldjtrump.com/)’s successor as the [Republican Party](https://www.gop.com/)’s “foremost amplifier of conspiracy theories and disinformation.”
 
-[Ron Johnson (T-WI)](https://www.ronjohnson.senate.gov/) is the [Senate](https://www.senate.gov/)'s conspiracy theories crackpot equivalent of the [House](https://www.house.gov/) of [Marjorie Taylor Greene (R-GA14)](https://greene.house.gov/). Johnson's conspiracy theories include:
+[Ron Johnson (T-WI)](https://www.ronjohnson.senate.gov/) is the [Senate](https://www.senate.gov/)'s conspiracy theories crackpot equivalent of the [House](https://www.house.gov/) of [Marjorie Taylor Greene (T-GA14)](https://greene.house.gov/). Johnson's conspiracy theories include:
 
  1. [Covid-19](https://www.msnbc.com/rachel-maddow-show/ron-johnson-tries-rope-god-his-bizarre-take-vaccines-n1286987)
  2. [Jan. 6 attack](https://www.msnbc.com/rachel-maddow-show/ron-johnson-eyes-his-own-investigation-capitol-attack-n1268052)

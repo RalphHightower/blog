@@ -13,7 +13,7 @@ title: "Donald Trump’s Sycophantic Personal Lawyer, Todd Blanche & Perjurer, G
 
 ## [Mike Johnson perfectly explains the flaws in the GOP’s Ghislaine Maxwell gambit](https://www.msnbc.com/top-stories/latest/ghislaine-maxwell-mike-johnson-murkowski-epstein-trump-rcna220816)
 
-*[Sen.](https//www.senate.gov/) [Lisa Murkowski](https://www.murkowski.senate.gov/) also expressed skepticism over the [DOJ](https://www.justice.gov/)’s questioning of Maxwell as [Republican](https://www.gop.com/)s try to quell backlash to [Trump](https://www.donaldjtrump.com%) over the Epstein files.*
+*[Sen.](https://www.senate.gov/) [Lisa Murkowski](https://www.murkowski.senate.gov/) also expressed skepticism over the [DOJ](https://www.justice.gov/)’s questioning of Maxwell as [Republican](https://www.gop.com/)s try to quell backlash to [Trump](https://www.donaldjtrump.com/ ) over the Epstein files.*
 
 July 24, 2025, 2:32 PM EDT
 By [Ja'han Jones](https://www.msnbc.com/author/jahan-jones-ncpn371241)
@@ -28,7 +28,7 @@ Speaking to reporters Wednesday, [Johnson](https://mikejohnson.house.gov/) said 
 
 Even [Johnson](https://mikejohnson.house.gov/), [a lawyer who tried to overturn the results of the 2020 presidential](https://www.nbcnews.com/politics/congress/mike-johnson-january-6-house-speaker-nominee-rcna122081), understands what seemingly every reputable lawyer understands: the obvious incentive for Maxwell to lie.
 
-And [Johnson](https://mikejohnson.house.gov/) isn’t the only [Republican](https://www.gop.com/) to raise this concern. [Sen.](https//www.senate.gov/) [Lisa Murkowski (T-AK)](https://www.murkowski.senate.gov/) of [told CNN’s Kaitlin Collins](https://x.com/kaitlancollins/status/1948196361775804664) that it seems [Trump](https://www.donaldjtrump.com/) is trying to “move to other news” when it comes to his [administration](https://www.whitehouse.gov/administration/)’s handling of the Epstein files — and that the tactic isn’t working. When [Collins](https://www.cnn.com/profiles/kaitlan-collins#about) asked the senator whether she thinks Maxwell is credible, [Murkowski](https://www.murkowski.senate.gov/) took a long pause before answering.
+And [Johnson](https://mikejohnson.house.gov/) isn’t the only [Republican](https://www.gop.com/) to raise this concern. [Sen.](https://www.senate.gov/) [Lisa Murkowski (T-AK)](https://www.murkowski.senate.gov/) of [told CNN’s Kaitlin Collins](https://x.com/kaitlancollins/status/1948196361775804664) that it seems [Trump](https://www.donaldjtrump.com/) is trying to “move to other news” when it comes to his [administration](https://www.whitehouse.gov/administration/)’s handling of the Epstein files — and that the tactic isn’t working. When [Collins](https://www.cnn.com/profiles/kaitlan-collins#about) asked the senator whether she thinks Maxwell is credible, [Murkowski](https://www.murkowski.senate.gov/) took a long pause before answering.
 
 “I don’t know that I find her credible,” she said.
 

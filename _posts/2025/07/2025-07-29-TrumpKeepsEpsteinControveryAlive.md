@@ -56,7 +56,7 @@ The Epstein scandal has become quicksand for [Trump](https://www.donaldjtrump.co
         - [The Rachel Maddow Show](https://www.msnbc.com/rachel-maddow-show)
             - [MaddowBlog](https://www.msnbc.com/rachel-maddow-show) 
                 - ["Ministry of Truth: Democracy, Reality, and the Republicans' War on the Recent Past."](https://www.harpercollins.com/products/ministry-of-truth-steve-benen)
-- [New York Times (NYT)](https://www.nytimes.com%)
+- [New York Times (NYT)](https://www.nytimes.com/)
 - organizations 
 - universities 
 - political parties 
