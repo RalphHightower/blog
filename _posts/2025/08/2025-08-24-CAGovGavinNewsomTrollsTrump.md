@@ -100,7 +100,7 @@ Order our new book, join our Substack, and more by clicking here: https://linktr
 - [I've Had It Podcast](http://www.youtube.com/@ivehaditpodcast)
 - organizations 
 - [Nobel Prize](https://www.nobelprize.org/)
-    - [Nobel Peace Prize](https://www.nobelpeaceprize.org%)
+    - [Nobel Peace Prize](https://www.nobelpeaceprize.org/)
 - political parties 
 - [Democrat Party](https://www.democrats.org/)
 - [Trumpian Party](https://www.gop.com/)

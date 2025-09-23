@@ -20,7 +20,7 @@ By [Steve Benen](https://www.msnbc.com/author/steve-benen-ncpn433601)
 
 At a [White House](https://www.whitehouse.gov/) late last week, a reporter reminded [Donald Trump](https://www.donaldjtrump.com/), “The [Norwegian](https://www.regjeringen.no/) [Nobel Committee](https://www.nobelprize.org/the-nobel-prize-organisation/) will make their announcement as it relates to this year’s [Nobel](https://www.nobelprize.org/prizes/) [Peace Prize](https://www.nobelprize.org/prizes/peace/) on Friday, October 10.” The reporter then asked the [president](https://www.whitehouse.gov/), “Is that date circled on your calendar?”
 
-As part of the [Republican](https://www.gop.com%)’s answer, [he replied](https://rollcall.com/factbase/trump/transcript/donald-trump-remarks-trilateral-agreement-armenia-azerbaijan-august-8-2025/), “I’m not politicking for it.”
+As part of the [Republican](https://www.gop.com/)’s answer, [he replied](https://rollcall.com/factbase/trump/transcript/donald-trump-remarks-trilateral-agreement-armenia-azerbaijan-august-8-2025/), “I’m not politicking for it.”
 
 No, of course not. Perish the thought. It’s not as if the [White House](https://www.whitehouse.gov/), just a few days after the [president](https://www.whitehouse.gov/) said he wasn’t lobbying for the honor, released a list of foreign officials who’ve nominated him for the award alongside a picture of [Trump](https://www.donaldjtrump.com/) and the medal. Wait, actually, that’s exactly what happened.
 

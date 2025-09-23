@@ -24,7 +24,7 @@ Yet, a [joint stipulation](https://storage.courtlistener.com/recap/gov.uscourts.
 
 Among the reasons the [president](https://www.whitehouse.gov/)’s lawyers had cited in seeking the quick deposition was the 94-year-old civil defendant’s health.
 
-“Murdoch recently turned 94 years old and has suffered, but thankfully overcome, multiple health issues throughout his life. Moreover, upon information and belief, Murdoch resides in [New York](https://www.nyc.gov%), [New York](https://www.ny.gov/), which is well over 100 miles from this District,” [they wrote](https://storage.courtlistener.com/recap/gov.uscourts.flsd.693830/gov.uscourts.flsd.693830.23.0_2.pdf) in the motion, referring to the federal court district in Florida in which they filed [the complaint](https://storage.courtlistener.com/recap/gov.uscourts.flsd.693830/gov.uscourts.flsd.693830.1.0_3.pdf).
+“Murdoch recently turned 94 years old and has suffered, but thankfully overcome, multiple health issues throughout his life. Moreover, upon information and belief, Murdoch resides in [New York](https://www.nyc.gov/), [New York](https://www.ny.gov/), which is well over 100 miles from this District,” [they wrote](https://storage.courtlistener.com/recap/gov.uscourts.flsd.693830/gov.uscourts.flsd.693830.23.0_2.pdf) in the motion, referring to the federal court district in Florida in which they filed [the complaint](https://storage.courtlistener.com/recap/gov.uscourts.flsd.693830/gov.uscourts.flsd.693830.1.0_3.pdf).
 
 “Thus, it is presumable, both because of his age and health and/or his distance from this Court, that Murdoch will be unavailable for trial,” [Trump](https://www.donaldjtrump.com/)’s lawyers added.
 

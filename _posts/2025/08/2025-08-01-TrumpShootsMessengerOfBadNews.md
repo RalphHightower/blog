@@ -87,6 +87,7 @@ This isn’t how Americans govern; it’s how despots rule.
     - [Department of Labor (DOL)](https://www.dol.gov/)
     - [Bureau of Labor Statistics (BLS)](https://stats.bls.gov/)
         - [Dr. Erika McEntarfer, Commissioner : U.S. Bureau of Labor Statistics](https://www.bls.gov/bls/senior_staff/mcentarfer.htm)
+        - [Erika McEntarfer / LinkedIn](https://www.linkedin.com/in/erika-mcentarfer-b61579311/)
     - [President of the United States (POTUS)](https://www.whitehouse.gov/)
     - [White House (WH)](https://www.whitehouse.gov/)
     - [President Joe Biden](https://bidenwhitehouse.archives.gov/)
