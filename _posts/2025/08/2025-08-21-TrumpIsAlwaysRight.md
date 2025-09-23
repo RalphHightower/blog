@@ -49,7 +49,7 @@ Of course, that’s not how it works. Reality doesn’t bend to satisfy a wannab
 
 > *Data is the lifeblood of the federal government.*
 
-For generations, federal statistics have been the compass by which Americans navigated storms, both literal and political. Data is the lifeblood of the federal government. The [Bureau of Labor Statistics](https://www.bls.gov/) tells us whether the economy is growing or shrinking. The [Census Bureau](https://www.census.gov/) counts the population that determines political power and federal funding. The [Centers for Disease Control and Prevention](https://www.cdc.gov/) tracks outbreaks and mortality rates, while the [Environmental Protection Agency](https://www.epa.gov%) measures the pollutants in the air we breathe and the water we drink.
+For generations, federal statistics have been the compass by which Americans navigated storms, both literal and political. Data is the lifeblood of the federal government. The [Bureau of Labor Statistics](https://www.bls.gov/) tells us whether the economy is growing or shrinking. The [Census Bureau](https://www.census.gov/) counts the population that determines political power and federal funding. The [Centers for Disease Control and Prevention](https://www.cdc.gov/) tracks outbreaks and mortality rates, while the [Environmental Protection Agency](https://www.epa.gov/) measures the pollutants in the air we breathe and the water we drink.
 
 If we cannot trust Washington’s numbers, someone else will have to step up.
 

@@ -95,7 +95,7 @@ Rose Fabia, 66, a former employee at the [Department of Veterans Affairs](https:
 
 One person at the dinner, Kendall Davis, sparred with protesters, rejecting their assertion that he is a blind supporter of [Trump](https://www.donaldjtrump.com/) and implicitly advocating for his policies. Davis, a young Black crypto owner, said the industry has made him a multimillionaire after he previously was homeless. He characterized his attendance as a once-in-a-lifetime opportunity to dine with a sitting [presidents](https://www.whitehouse.gov/).
 
-“I don’t feel any type of remorse for coming here. My dad is Black. He’s proud of me. My grandma is Black. She’s proud of me. They’re [Democrats](https://www.democrats.org/),” he said. “Nobody in my family has ever ate with the [presidents](https://www.whitehouse.gov/). Let me say this: If it was [Joe Biden](https://bidenwhitehouse.archives.gov%) or [Barack Obama](https://obamawhitehouse.archives.gov/), I would’ve came, too.”
+“I don’t feel any type of remorse for coming here. My dad is Black. He’s proud of me. My grandma is Black. She’s proud of me. They’re [Democrats](https://www.democrats.org/),” he said. “Nobody in my family has ever ate with the [presidents](https://www.whitehouse.gov/). Let me say this: If it was [Joe Biden](https://bidenwhitehouse.archives.gov/) or [Barack Obama](https://obamawhitehouse.archives.gov/), I would’ve came, too.”
 
 Other people spotted at the dinner included Sandy Carter, the COO of blockchain-based Unstoppable Domains.
 

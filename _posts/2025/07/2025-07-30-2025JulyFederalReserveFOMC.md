@@ -15,7 +15,7 @@ title: "2025-07-30: Federal Reserve Issues Federal Open Market Committee (FOMC) 
 
 July 30, 2025
 
-Federal Reserve issues FOMC statement
+[Federal Reserve](https//www.federalreserve.gov/) issues FOMC statement
 For release at 2:00 p.m. EDT
 
 Although swings in net exports continue to affect the data, recent indicators suggest that growth of economic activity moderated in the first half of the year. The unemployment rate remains low, and labor market conditions remain solid. Inflation remains somewhat elevated.
@@ -72,8 +72,8 @@ Last Update: July 30, 2025
 | [Federal Reserve Bank of St. Louis / Economic Resources & Data](https://www.stlouisfed.org/) |
 | [Federal Reserve Bank of San Francisco](https://www.frbsf.org/) |
 
-- [Constitution of the United States](https://constitution.congress.gov/)
-- [Supreme Court of the United States (SCOTUS)](https://constitution.congress.gov/)
+- [Constitution of the United States](https://constitution.congress.gov/constitution/)
+- [Supreme Court of the United States (SCOTUS)](https://constitution.congress.gov/constitution/)
 - [US Courts](https://www.uscourts.gov/)
 - [The Fed - Federal Open Market Committee](https://www.federalreserve.gov/monetarypolicy/fomc.htm)
 - [Federal Reserve Board - Board Members](https://www.federalreserve.gov/aboutthefed/bios/board/default.htm)
@@ -105,3 +105,17 @@ Last Update: July 30, 2025
 - monetary policy 
 - employment 
 - inflation 
+- [Federal Reserve Bank of San Francisco](https://www.frbsf.org/)
+- [Federal Reserve Bank of Dallas - Dallasfed.org](https://www.dallasfed.org/)
+- [Home - Federal Reserve Bank of Kansas City - Federal Reserve Bank of Kansas City](https://www.kansascityfed.org/)
+- [Federal Reserve Bank of Minneapolis](https://www.minneapolisfed.org/)
+- [Federal Reserve Bank of St. Louis / Economic Resources & Data](https://www.stlouisfed.org/)
+- [Federal Reserve Bank of Chicago - Federal Reserve Bank of Chicago](https://www.chicagofed.org/)
+- [Home - Federal Reserve Bank of Atlanta](https://www.atlantafed.org/)
+- [Federal Reserve Bank of Richmond / Richmond Fed](https://www.richmondfed.org/)
+- [Federal Reserve Bank of Cleveland](https://www.clevelandfed.org/)
+- [Federal Reserve Bank of Philadelphia](https://www.philadelphiafed.org/)
+- [FEDERAL RESERVE BANK of NEW YORK - Serving the Second District and the Nation - FEDERAL RESERVE BANK of NEW YORK](https://www.newyorkfed.org/)
+- [Home - Federal Reserve Bank of Boston](https://www.bostonfed.org/)
+- [Federal Reserve Board - Board Members](https://www.federalreserve.gov/aboutthefed/bios/board/default.htm)
+- 

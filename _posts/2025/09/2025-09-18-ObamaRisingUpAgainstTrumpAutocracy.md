@@ -71,6 +71,9 @@ Nearly nine years later, I can’t help but get the feeling that [Obama](https:/
 - [Trumpian Party](https://www.gop.com/)
 - universities
 - [Home - Hamilton College](https://www.hamilton.edu/)
+- [Utah Valley University / Utah Valley University](https://www.uvu.edu/)
+- venues
+- [State Farm Stadium](https://www.statefarmstadium.com/)
 - companies
 - foreign governments
 - state, local governments 
