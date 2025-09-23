@@ -1,13 +1,13 @@
 ---
 layout: post
 tags: [media, MSNBC News - Breaking News and News Today / Latest News, Deadline –  Legal Blog, Jordan Rubin, Bloomberg Law - Legal Research Software, organizations, American Civil Liberties Union / The ACLU dares to create a more perfect union — beyond one person party or side. Our mission is to realize this promise of the United States Constitution for all and expand the reach of its guarantees., political parties, Democrat Party, Trumpian Party, universities, Ball State University / Muncie Indiana / We Fly / Ball State University, About Geoffrey S. Mearns - President of Ball State University, Suzanne Swierc MPH CHES / LinkedIn, companies, foreign governments, state local governments, IN.gov / The Official Website of the State of Indiana, federal government, Constitution of the United States, U.S. Constitution - Article I / Library of Congress, U.S. Constitution - Article II / Library of Congress, U.S. Constitution - Article III / Library of Congress, U.S. Constitution - Article IV / Library of Congress, U.S. Constitution - Article V / Library of Congress, U.S. Constitution - Article VI / Library of Congress, U.S. Constitution - Article VII / Library of Congress, First Amendment - Library of Congress, Supreme Court of the United States (SCOTUS), US Courts, Department of Justice (DOJ), Federal Bureau of Investigation (FBI), Federal Reserve, Federal Reserve Board - Federal Reserve Act, U.S. Department of the Treasury, Congress, Senate, House of Representatives, President of the United States (POTUS), White House (WH), Trump autocracy, Donald J Trump, President Donald Trump (45), President Donald Trump (47), President Trump (47) Administration, President Trump (47) Cabinet, press secretary, Karoline Leavitt, JD Vance, Vice President JD Vance, Pam Bondi, Office of the Deputy Attorney General / Office of the Deputy Attorney General, Todd Blanche / LinkedIn, Kash Patel, Deputy Director Dan Bongino — FBI, Secretary Robert F. Kennedy Jr. (RFKJr), Trump crime family, Donald J Trump, Eric F. Trump / LinkedIn, Donald Trump Jr. / LinkedIn, Ivanka Trump, Jared Kushner, Barron Trump, grifter, self-dealing, corruption, con artist, criminal, cryptocurrency, criminal associates, criminal businesses, criminal media, criminal organizations, criminal partners, Turning Point USA, Charlie Kirk – Deceased, Charlie Kirk / LinkedIn, The Charlie Kirk Show, Home - Stephen K Bannon’s War Room, Candace Owens, Infowars, Alex Jones, Laura Loomer]
-categories: [Donald Trump, Pam Bondi, Charlie Kirk, First Amendment, freedom of speech]
+categories: [Donald Trump, Pam Bondi, Charlie Kirk, First Amendment, freedom of speech, Ball State University, Geoffrey S. Mearns]
 date: 2025-09-22 20:25
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: 'title'
+title: "Freedom of Speech Gets Its First Court Case After Charlie Kirk"
 ---
 
 
