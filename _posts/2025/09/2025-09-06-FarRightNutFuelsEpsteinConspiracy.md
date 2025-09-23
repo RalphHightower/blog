@@ -26,7 +26,7 @@ The [Justice Department](https://www.justice.gov/) responded with a written stat
 
 [Replies to the DOJ’s tweet](https://x.com/TheJusticeDept/status/1963635111112446449/quotes) suggest the effort to quell concerns about the department’s transparency have only raised more questions.
 
-The [Wall Street Journal](https://www.wsj.com%) reported in July that [Trump was told by the attorney general](https://www.nbcnews.com/nightly-news/video/wsj-trump-was-told-he-s-named-in-epstein-files-243736645677) that his name appears in the files; the inclusion of an individual’s name in the files does not imply any wrongdoing.
+The [Wall Street Journal](https://www.wsj.com/) reported in July that [Trump was told by the attorney general](https://www.nbcnews.com/nightly-news/video/wsj-trump-was-told-he-s-named-in-epstein-files-243736645677) that his name appears in the files; the inclusion of an individual’s name in the files does not imply any wrongdoing.
 
 Given O’Keefe](https://www.linkedin.com/in/jamesokeefeiii/)’s track record of dubiously editing hidden-camera clips to advance his political agenda ([which I've covered here for MSNBC in the past](https://www.msnbc.com/the-reidout/reidout-blog/james-okeefe-kari-lake-arizona-migrant-center-rcna133128)), the substance of this particular video should be taken with a boulder-sized grain of salt. But that [O’Keefe](https://www.linkedin.com/in/jamesokeefeiii/)’s agenda now appears to include targeting the [Trump](https://www.donaldjtrump.com/) [administration](https://www.whitehouse.gov/administration/) over an alleged cover-up of the Epstein files is indicative of the growing right-wing backlash to the [administration](https://www.whitehouse.gov/administration/)’s efforts to block the files’ release.
 

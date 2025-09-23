@@ -74,7 +74,7 @@ Sep 3, 2025
         - [Federal Law Enforcement Training Centers](https://www.fletc.gov/)
         - [United States Secret Service](https://www.secretservice.gov/)
         - [Transportation Security Administration (TSA)](https://www.tsa.gov/)
-    - [Department of Health and Human Services (HHS)](https://www.hhs.gov%)
+    - [Department of Health and Human Services (HHS)](https://www.hhs.gov/)
         - [Centers for Disease Control and Prevention (CDC)](https://www.cdc.gov/)
             - [Cesium-137 / Radiation Emergencies / CDC](https://www.cdc.gov/radiation-emergencies/hcp/isotopes/cesium-137.html)
         - [Food and Drug Administration (FDA)](https://www.fda.gov/)
