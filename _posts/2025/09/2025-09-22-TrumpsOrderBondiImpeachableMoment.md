@@ -7,7 +7,7 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: 'title'
+title: "Trump’s Order to His Personal Attorney, Attorney General Pam Bondi, to Persecute His Perceived Political Enemies Is an Impeachable Moment"
 ---
 
 ## [Why Trump’s directive to AG Bondi should be seen as an impeachment-level scandal](https://www.msnbc.com/rachel-maddow-show/maddowblog/trumps-directive-ag-bondi-seen-impeachment-level-scandal-rcna232888)
