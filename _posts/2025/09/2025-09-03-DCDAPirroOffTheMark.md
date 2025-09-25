@@ -66,19 +66,19 @@ Jarvis DeBerry is an opinion editor for MSNBC Daily. He was previously editor-in
 - [Taylor & Francis Online: Peer-reviewed Journals](https://www.tandfonline.com/)
 - [The Independent / Latest news and features from US, UK and worldwide](https://www.independent.co.uk/us)
 - [Home • Minnesota Reformer](https://minnesotareformer.com/)
-- organizations 
+- organizations
 - religions
 - [Church / Annunciation Catholic Church in Minneapolis](https://www.annunciationmsp.org/church)
 - companies
-- foreign countries 
+- foreign countries
 - state, local governments
 - [Washington DC](https://dc.gov/)
     - [Chapter 45. Weapons and Possession of Weapons. / D.C. Law Library](https://code.dccouncil.gov/us/dc/council/code/titles/22/chapters/45/)
     - [Hertzfeld, Andrea / District of Columbia Courts](http://www.dccourts.gov/node/23051)
-- political parties 
+- political parties
 - [Trumpian Party](https://www.gop.com/)
 - [Democrat Party](https://www.democrats.org/)
-- Federal Government 
+- Federal Government
 - [Constitution of the United States](https://constitution.congress.gov/)
     - [Supreme Court of the United States (SCOTUS)](https://www.supremecourt.gov/)
     - [US Courts](https://www.uscourts.gov/)
@@ -91,10 +91,10 @@ Jarvis DeBerry is an opinion editor for MSNBC Daily. He was previously editor-in
         - [House of Representatives](https://www.house.gov/)
                 - [Oversight Committee](https://oversight.house.gov/)
             - [Mike Johnson (T-LA4)](https://mikejohnson.house.gov/)
-                - [House Speaker](https://www.speaker.gov/) 
+                - [House Speaker](https://www.speaker.gov/)
     - [President of the United States (POTUS)](https://www.whitehouse.gov/)
     - [White House (WH)](https://www.whitehouse.gov/)
-- Trump crime family 
+- Trump crime family
     - [Donald J Trump](https://www.donaldjtrump.com/)
         - [President Donald Trump (45)](https://trumpwhitehouse.archives.gov/)
         - [President Donald Trump (47)](https://www.whitehouse.gov/administration/donald-j-trump/)
@@ -116,12 +116,12 @@ Jarvis DeBerry is an opinion editor for MSNBC Daily. He was previously editor-in
 - corruption
 - con
 - crime
-- cryptocurrency 
+- cryptocurrency
 - criminal associates
 - criminal businesses
 - criminal partners
-- grand jury 
-- ham sandwich 
-- open carry 
+- grand jury
+- ham sandwich
+- open carry
 
 

@@ -54,11 +54,11 @@ During last year’s campaign, then-candidate [Trump](https://www.donaldjtrump.c
 - [MSNBC](https://www.msnbc.com/)
     - Steve Benen
         - [The Rachel Maddow Show](https://www.msnbc.com/rachel-maddow-show)
-            - [MaddowBlog](https://www.msnbc.com/rachel-maddow-show) 
+            - [MaddowBlog](https://www.msnbc.com/rachel-maddow-show)
                 - ["Ministry of Truth: Democracy, Reality, and the Republicans' War on the Recent Past."](https://www.harpercollins.com/products/ministry-of-truth-steve-benen)
 - [NBC News](https://www.nbcnews.com/)
 - [New York Times (NYT)](https://www.nytimes.com/,)
-- organizations 
+- organizations
 - companies
 - [Elon Musk](https://ir.tesla.com/corporate/elon-musk)
     - [Elon Musk](https://x.com/elonmusk/)
@@ -69,15 +69,15 @@ During last year’s campaign, then-candidate [Trump](https://www.donaldjtrump.c
     - [Tesla](https://www.tesla.com/)
     - [Twitter](https://twitter.com/)
     - [ X ](https://x.com/)
-    - [xAI](https://x.ai/) 
+    - [xAI](https://x.ai/)
     - [Department of Government Efficiency (DOGE)](https://www.doge.gov/)
     - [Corporate Governance / Tesla Investor Relations](https://ir.tesla.com/corporate)
-- foreign countries 
+- foreign countries
 - state, local governments
-- political parties 
+- political parties
 - [Trumpian Party](https://www.gop.com/)
 - [Democrat Party](https://www.democrats.org/)
-- Federal Government 
+- Federal Government
 - [Constitution of the United States](https://constitution.congress.gov/)
     - [Supreme Court of the United States (SCOTUS)](https://www.supremecourt.gov/)
     - [US Courts](https://www.uscourts.gov/)
@@ -87,9 +87,9 @@ During last year’s campaign, then-candidate [Trump](https://www.donaldjtrump.c
             - [Defense Intelligence Agency (DIA)](https://www.dia.mil/)
         - [Social Security Administration (SSA)](https://www.ssa.gov/)
         - [Commissioner / SSA](https://www.ssa.gov/agency/commissioner/)
-            - Frank Bisignano 
+            - Frank Bisignano
                 - [Chuck Borges / LinkedIn](https://www.linkedin.com/in/cjborges/)
-        - Michelle King 
+        - Michelle King
     - [U.S. Department of the Treasury](https://home.treasury.gov/)
     - [Department of Commerce (DOC)](https://www.commerce.gov/)
         - [Bureau of Labor Statistics (BLS)](https://www.bls.gov/)
@@ -99,16 +99,16 @@ During last year’s campaign, then-candidate [Trump](https://www.donaldjtrump.c
         - [House of Representatives](https://www.house.gov/)
     - [President of the United States (POTUS)](https://www.whitehouse.gov/)
     - [White House (WH)](https://www.whitehouse.gov/)
-- Trump crime businesses 
+- Trump crime businesses
     - [Donald J Trump](https://www.donaldjtrump.com/)
          - [President Donald Trump (45)](https://trumpwhitehouse.archives.gov/)
         - [President Donald Trump (47)](https://www.whitehouse.gov/administration/donald-j-trump/)
         - [President Trump (47) Administration](https://www.whitehouse.gov/administration/)
         - [President Trump (47) Cabinet](https://www.whitehouse.gov/administration/the-cabinet/)
-- data breach 
-- identity theft 
+- data breach
+- identity theft
 - personal identity information (PII)
 - full name
 - birth date
-- address 
-- Social Security Numbers 
+- address
+- Social Security Numbers

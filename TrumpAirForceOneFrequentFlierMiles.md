@@ -20,14 +20,48 @@ title: "Trump: Air Force One Frequent Flyer Miles"
 | Time | Location |
 |---|---|
 | | 🔥 [White House](https://www.whitehouse.gov/) 💣| 
-| | **Tuesday, September 23, 2025** |
+| | **Tuesday, September 23 2025** |
+| 7:00 AM | Out-of-Town Travel Pool Call Time<br />[Trump Tower](https://www.trumptowerny.com/) Out-of-Town Travel Pool |
+| 9:42 AM | The [President](https://www.donaldjtrump.com/) departs [Trump Tower](https://www.trumptowerny.com/) for the [United Nations](https://www.un.org/)<br />[Trump Tower](https://www.trumptowerny.com/) Out-of-Town Travel Pool |
+| 9:48 AM | The [President](https://www.donaldjtrump.com/) arrives at the [United Nations](https://www.un.org/)<br />[United Nations](https://www.un.org/) Out-of-Town Travel Pool |
+| 9:50 AM | The [President](https://www.donaldjtrump.com/) delivers remarks to the [United Nations](https://www.un.org/) [General Assembly](https://www.un.org/en/ga/) [Actual: 10:08 AM]<br />[General Assembly Hall](https://www.un.org/en/ga/) [United Nations](https://www.un.org/) Out-of-Town Travel Pool |
+| 11:10 AM | The [President](https://www.donaldjtrump.com/) participates in a Bilateral Meeting \[Actual: 11:40 AM; with [António Guterres, Secretary-General](https://www.un.org/sg/en), [United Nations](https://www.un.org/)\]<br />[United Nations](https://www.un.org/) Out-of-Town Travel Pool |
+| 12:32 PM | The [President](https://www.donaldjtrump.com/) has a pull-aside meeting with [Javier Milei](https://www.casarosada.gob.ar/), [President](https://www.casarosada.gob.ar/) of [Argentina](https://www.argentina.gob.ar/)<br />[United Nations](https://www.un.org/) Out-of-Town Travel Pool |
+| 12:51 PM | The [President](https://www.donaldjtrump.com/) has a pull-aside meeting with [Ursula von der Leyen](https://commission.europa.eu/about/organisation/president_en), [President](https://commission.europa.eu/about/organisation/president_en) of the [European Commission](https://commission.europa.eu/<br />[United Nations](https://www.un.org/) Out-of-Town Travel Pool |
+| 1:00 PM | The [President](https://www.donaldjtrump.com/) participates in a Bilateral Meeting [Actual: 1:28 PM; with [Volodymyr Zelenskyy](https://www.president.gov.ua/), [President](https://www.president.gov.ua/) of [Ukraine](https://www.gov.ua/)\]<br />[United Nations](https://www.un.org/) Out-of-Town Travel Pool |
+| 2:30 PM | The [President](https://www.donaldjtrump.com/) participates in a Multilateral Meeting [Actual: 4:04 PM]<br />[United Nations](https://www.un.org/) Closed Press |
+| 3:03 PM | The [President](https://www.donaldjtrump.com/) has a pull-aside meeting with [Shavkat Mirziyoyev](https://govinfo.uz/headquarters/official-web-site-of-the-president-of-uzbekistan), [President](https://govinfo.uz/headquarters/official-web-site-of-the-president-of-uzbekistan) of [Uzbekistan](https://govinfo.uz/)<br />[United Nations](https://www.un.org/) Out-of-Town Travel Pool |
+| 3:37 PM | The [President](https://www.donaldjtrump.com/) has a pull-aside meeting with [Emmanuel Macron](https://www.elysee.fr/emmanuel-macron), [President](https://www.elysee.fr/) of [France](https://www.info.gouv.fr/)<br />[United Nations](https://www.un.org/) Out-of-Town Travel Pool |
+| 5:05 PM | The [President](https://www.donaldjtrump.com/) departs the [United Nations](https://www.un.org/) for the [White House](https://www.whitehouse.gov/)<br />[United Nations](https://www.un.org/) |
+| 5:10 PM | The [President](https://www.donaldjtrump.com/) arrives at [Trump Tower](https://www.trumptowerny.com/)<br />[Trump Tower](https://www.trumptowerny.com/) |
+| 5:15 PM | [White House](https://www.whitehouse.gov/) Press Office: Dinner lid until 6:15 PM<br />[Trump Tower](https://www.trumptowerny.com/) |
+| 7:18 PM | The [President](https://www.donaldjtrump.com/) departs [Trump Tower](https://www.trumptowerny.com/) for the [United Nations](https://www.un.org/) Leaders' Reception<br />[Trump Tower](https://www.trumptowerny.com/) |
+| 7:20 PM | The [President](https://www.donaldjtrump.com/) arrives at the [United Nations](https://www.un.org/) Leaders' Reception<br />[Lotte New York Palace Hotel](https://www.lottenypalace.com/) |
+| 7:21 PM | The [President](https://www.donaldjtrump.com/) gives remarks at the [United Nations](https://www.un.org/) Leaders' Reception<br />[United Nations](https://www.un.org/) Closed Press |
+| 9:05 PM | The [President](https://www.donaldjtrump.com/) and First Lady depart [New York](https://www.nyc.gov/), [New York](https://www.ny.gov/), en route The [White House](https://www.whitehouse.gov/) \[Actual: 8:49 PM [Lotte New York Palace Hotel](https://www.lottenypalace.com/) to the [John F. Kennedy International Airport](https://johnfkennedyairport-jfk.com/)\]<br />[Lotte New York Palace Hotel](https://www.lottenypalace.com/) Out-of-Town Travel Pool |
+| 9:15 PM | The [President](https://www.donaldjtrump.com/) and the First Lady arrive at the [Downtown Manhattan Heliport](https://www.downtownskyportnyc.com/)<br />[Downtown Manhattan Heliport](https://www.downtownskyportnyc.com/), NY |
+| 9:28 PM | The [President](https://www.donaldjtrump.com/) and the First Lady depart the [Downtown Manhattan Heliport](https://www.downtownskyportnyc.com/) for [John F. Kennedy International Airport](https://johnfkennedyairport-jfk.com/)<br />[Downtown Manhattan Heliport](https://www.downtownskyportnyc.com/), NY |
+| 9:45 PM | The [President](https://www.donaldjtrump.com/) and the First Lady arrive at [John F. Kennedy International Airport](https://johnfkennedyairport-jfk.com/)<br />[John F. Kennedy International Airport](https://johnfkennedyairport-jfk.com/) |
+| 9:55 PM | The [President](https://www.donaldjtrump.com/) and the First Lady depart [John F. Kennedy International Airport](https://johnfkennedyairport-jfk.com/) for [Joint Base Andrews](https://www.jba.af.mil/)<br />[John F. Kennedy International Airport](https://johnfkennedyairport-jfk.com/) |
+| 10:25 PM | The [President](https://www.donaldjtrump.com/) and the First Lady arrive at [Joint Base Andrews](https://www.jba.af.mil/)<br />[Joint Base Andrews](https://www.jba.af.mil/) |
+| 10:30 PM | In-Town Pool Call Time<br />The [White House](https://www.whitehouse.gov/) In-Town Pool |
+| 10:42 PM | The [President](https://www.donaldjtrump.com/) and the First Lady depart [Joint Base Andrews](https://www.jba.af.mil/) for the [White House](https://www.whitehouse.gov/)<br />[Joint Base Andrews](https://www.jba.af.mil/) |
+| 11:02 PM | [White House](https://www.whitehouse.gov/) Press Office: Full lid called<br />The [White House](https://www.whitehouse.gov/) |
+| 11:10 PM | The [President](https://www.donaldjtrump.com/) and First Lady arrive The [White House](https://www.whitehouse.gov/) [Actual: 10:50 PM]<br />[South Lawn](https://www.whitehouse.gov/) Open Press |
 | | **Monday, September 22 2025** |
-| 9:00 AM | In-Town Pool Call Time<br />In-Town Pool |
-| 1:00 PM | Press Briefing by the [White House](https://www.whitehouse.gov/) Press Secretary Karoline Leavitt<br />James S. Brady Press Briefing Room On Camera |
-| 4:00 PM | The [President](https://www.donaldjtrump.com/) makes an announcement on Significant Medical and Scientific Findings for America's Children<br />Roosevelt Room [White House](https://www.whitehouse.gov/) Press Pool |
-| 5:30 PM | The [President](https://www.donaldjtrump.com/) departs the [White House](https://www.whitehouse.gov/) en route New<br />[South Lawn](https://www.whitehouse.gov/) Open Press |
-| 6:45 PM | The [President](https://www.donaldjtrump.com/) arrives [New York City](https://www.nyc.gov), [New York](https://www.ny.gov/)<br />Out-of-Town Travel Pool |
-| | 🔥 [White- House](https://www.whitehouse.gov/) 💣| 
+| 9:00 AM | In-Town Pool Call Time<br />The [White House](https://www.whitehouse.gov/) In-Town Pool |
+| 11:43 AM | [White House](https://www.whitehouse.gov/) Press Office: Lunch lid until 12:30 PM<br />The [White House](https://www.whitehouse.gov/) |
+| 1:00 PM | Press Briefing by the [White House](https://www.whitehouse.gov/) Press Secretary Karoline Leavitt<br />[James S. Brady Press Briefing Room](https://www.whitehouse.gov/) On Camera |
+| 4:00 PM | The [President](https://www.donaldjtrump.com/) makes an announcement on Significant Medical and Scientific Findings for America's Children<br />[Roosevelt Room](https://www.whitehouse.gov/) [White House](https://www.whitehouse.gov/) Press Pool |
+| 5:30 PM | The [President](https://www.donaldjtrump.com/) departs the [White House](https://www.whitehouse.gov/) en route to [New York](https://www.nyc.gov/), [New York](https://www.ny.gov/) [Actual: 6:24 PM to [Joint Base Andrews](https://www.jba.af.mil/)]<br />[South Lawn](https://www.whitehouse.gov/) Open Press |
+| 6:35 PM | The [President](https://www.donaldjtrump.com/) arrives at [Joint Base Andrews](https://www.jba.af.mil/)<br />[Joint Base Andrews](https://www.jba.af.mil/) Open Press |
+| 6:45 PM | The [President](https://www.donaldjtrump.com/) arrives [New York](https://www.nyc.gov/), [New York](https://www.ny.gov/) [Actual: 8:25 PM from [Downtown Manhattan Heliport](https://www.downtownskyportnyc.com/)]<br />[Trump Tower](https://www.trumptowerny.com/) Out-of-Town Travel Pool |
+| 6:46 PM | The [President](https://www.donaldjtrump.com/) departs [Joint Base Andrews](https://www.jba.af.mil/) for [John F. Kennedy International Airport](https://johnfkennedyairport-jfk.com/)<br />[Joint Base Andrews](https://www.jba.af.mil/) Open Press |
+| 7:26 PM | The [President](https://www.donaldjtrump.com/) arrives at [John F. Kennedy International Airport](https://johnfkennedyairport-jfk.com/)<br />[John F. Kennedy International Airport](https://johnfkennedyairport-jfk.com/) Open Press |
+| 7:45 PM | The [President](https://www.donaldjtrump.com/) departs [John F. Kennedy International Airport](https://johnfkennedyairport-jfk.com/) for Manhattan<br />[John F. Kennedy International Airport](https://johnfkennedyairport-jfk.com/) Open Press |
+| 8:00 PM | The [President](https://www.donaldjtrump.com/) arrives at the [Downtown Manhattan Heliport](https://www.downtownskyportnyc.com/)<br />[Downtown Manhattan Heliport](https://www.downtownskyportnyc.com/), NY Open Press |
+| 8:07 PM | The [President](https://www.donaldjtrump.com/) departs the [Downtown Manhattan Heliport](https://www.downtownskyportnyc.com/) for [Trump Tower](https://www.trumptowerny.com/)<br />[Downtown Manhattan Heliport](https://www.downtownskyportnyc.com/), NY Open Press |
+| 8:26 PM | [White House](https://www.whitehouse.gov/) Press Office: Full lid called<br />[Trump Tower](https://www.trumptowerny.com/) |
 | | **Sunday, September 21 2025** |
 | 7:00 AM | Out-of-Town Travel Pool Call Time<br />[Joint Base Andrews](https://www.jba.af.mil/) Out-of-Town Travel Pool |
 | 7:15 AM | In-Town Pool Call Time<br />The [White House](https://www.whitehouse.gov/)<br />In-Town Pool |

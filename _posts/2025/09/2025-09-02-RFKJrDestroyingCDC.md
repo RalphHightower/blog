@@ -8,7 +8,7 @@ date: 2025-09-02 5:20 PM
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: "Health and Human Services Secretary, Robert F Kennedy Jr Is Destroying the Centers for Disease Control and Prevention" 
+title: "Health and Human Services Secretary, Robert F Kennedy Jr Is Destroying the Centers for Disease Control and Prevention"
 ---
 
 
@@ -46,27 +46,27 @@ Of course, if that is [RFK Jr.](https://www.hhs.gov/about/leadership/robert-kenn
 - [MSNBC](https://www.msnbc.com/)
     - [Steve Benen](https://www.msnbc.com/author/steve-benen-ncpn433601)
         - [The Rachel Maddow Show](https://www.msnbc.com/rachel-maddow-show)
-            - [MaddowBlog](https://www.msnbc.com/rachel-maddow-show) 
+            - [MaddowBlog](https://www.msnbc.com/rachel-maddow-show)
                 - ["Ministry of Truth: Democracy, Reality, and the Republicans' War on the Recent Past."](https://www.harpercollins.com/products/ministry-of-truth-steve-benen)
 - [New York Times (NYT)](https://www.nytimes.com/)
 - [Wall Street Journal (WSJ)](https://www.wsj.com/)
 - [STAT / Reporting from the frontiers of health and medicine](https://www.statnews.com/)
-- organizations 
-- political parties 
+- organizations
+- political parties
 - [Democrat Party](https://www.democrats.org/)
 - [Trumpian Party](https://www.gop.com/)
-- universities 
-- companies 
+- universities
+- companies
 - foreign countries
-- state, local governments 
-- federal government 
+- state, local governments
+- federal government
 - [Constitution of the United States](https://constitution.congress.gov/)
     - [Supreme Court of the United States (SCOTUS)](https://www.supremecourt.gov/)
     - [US Courts](https://www.uscourts.gov/)
     - [U.S. Department of the Treasury](https://home.treasury.gov/)
     - [Department of Health and Human Services (HHS)](https://www.hhs.gov/)
         - [Centers for Disease Control (CDC)](https://www.cdc.gov/)
-            - Susan Monarez. Director 
+            - Susan Monarez. Director
             - Dr. Deb Houry. deputy director and chief medical officer
             - [National Center for Immunization and Respiratory Diseases (NCIRD)](https://www.cdc.gov/about/leadership/ncird.html)
                 - Dr. Demetre Daskalakis
@@ -105,16 +105,16 @@ Of course, if that is [RFK Jr.](https://www.hhs.gov/about/leadership/robert-kenn
         - [Ronald Reagan Presidential Library & Museum / Ronald Reagan](https://www.reaganlibrary.gov/)
         - [President Barack Obama](https://obamawhitehouse.archives.gov/)
         - [President Joe Biden](https://bidenwhitehouse.archives.gov/)
-- Trump crime businesses 
+- Trump crime businesses
     - [Donald J Trump](https://www.donaldjtrump.com/)
          - [President Donald Trump (45)](https://trumpwhitehouse.archives.gov/)
-        - [President Donald Trump (47)](https://www.whitehouse.gov/[administration](https://www.whitehouse.gov/administration/)/donald-j-trump/)
-        - [President Trump (47) Administration](https://www.whitehouse.gov/[administration](https://www.whitehouse.gov/administration/)/)
-        - [President Trump (47) Cabinet](https://www.whitehouse.gov/[administration](https://www.whitehouse.gov/administration/)/the-cabinet/)
+        - [President Donald Trump (47)](https://www.whitehouse.gov/administration//donald-j-trump/)
+        - [President Trump (47) Administration](https://www.whitehouse.gov/administration//)
+        - [President Trump (47) Cabinet](https://www.whitehouse.gov/administration//the-cabinet/)
             - [Secretary Robert F. Kennedy Jr. (RFKJr)](https://www.hhs.gov/about/leadership/robert-kennedy.html)
-- public health 
+- public health
 - immunizations
-- disease prevention 
+- disease prevention
 - injury prevention
 - disability prevention
 - preparedness for new health threats and the internet
