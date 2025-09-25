@@ -96,7 +96,7 @@ This post updates our [related earlier coverage](https://www.msnbc.com/rachel-ma
 - Trump crime businesses
     - [Donald J Trump](https://www.donaldjtrump.com/)
          - [President Donald Trump (45)](https://trumpwhitehouse.archives.gov/)
-        - [President Donald Trump (47)](https://www.whitehouse.gov/[administration](https://www.whitehouse.gov/administration/)/donald-j-trump/)
-        - [President Trump (47) Administration](https://www.whitehouse.gov/[administration](https://www.whitehouse.gov/administration/)/)
-        - [President Trump (47) Cabinet](https://www.whitehouse.gov/[administration](https://www.whitehouse.gov/administration/)/the-cabinet/)
+        - [President Donald Trump (47)](https://www.whitehouse.gov/administration//donald-j-trump/)
+        - [President Trump (47) Administration](https://www.whitehouse.gov/administration//)
+        - [President Trump (47) Cabinet](https://www.whitehouse.gov/administration//the-cabinet/)
             - [Secretary Robert F. Kennedy Jr. (RFKJr)](https://www.hhs.gov/about/leadership/robert-kennedy.html)

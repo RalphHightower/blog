@@ -49,15 +49,15 @@ Subscribe to the [Deadline: Legal Newsletter](https://link.msnbc.com/join/5ck/ms
 - [NBC News](https://www.nbcnews.com/)
 - [Washington Post](https://www.washingtonpost.com/)
 - [Supreme Court Justice Ketanji Brown Jackson Must Be a Calvin and Hobbes Fan. She Referenced Calvinball In an Opinion]({% link _posts/2025/08/2025-08-23-JusticeJacksonReferencesCalvinball.md %}). @RalphHightower. 2025-08-23.
-- organizations 
-- political parties 
+- organizations
+- political parties
 - [Democrat Party](https://www.democrats.org/)
 - [Trumpian Party](https://www.gop.com/)
-- universities 
-- companies 
+- universities
+- companies
 - foreign countries
-- state, local governments 
-- federal government 
+- state, local governments
+- federal government
 - [Constitution of the United States](https://constitution.congress.gov/)
     - [U.S. Constitution - Article I / Resources / Constitution Annotated / Congress.gov / Library of Congress](https://constitution.congress.gov/constitution/article-1/)
     - [U.S. Constitution - Article II / Resources / Constitution Annotated / Congress.gov / Library of Congress](https://constitution.congress.gov/constitution/article-2/)
@@ -85,16 +85,16 @@ Subscribe to the [Deadline: Legal Newsletter](https://link.msnbc.com/join/5ck/ms
     - [President of the United States (POTUS)](https://www.whitehouse.gov/)
     - [White House (WH)](https://www.whitehouse.gov/)
         - [President George W. Bush](https://georgewbush-whitehouse.archives.gov/)
-- Trump criminal government 
+- Trump criminal government
     - [Donald J Trump](https://www.donaldjtrump.com/)
          - [President Donald Trump (45)](https://trumpwhitehouse.archives.gov/)
         - [President Donald Trump (47)](https://www.whitehouse.gov/administration/donald-j-trump/)
         - [President Trump (47) Administration](https://www.whitehouse.gov/administration/)
         - [President Trump (47) Cabinet](https://www.whitehouse.gov/administration/the-cabinet/)
             - [Pam Bondi](https://www.justice.gov/ag/staff-profile/meet-us-attorney/)
-- federal judges 
-- US Courts 
-- Justice Department 
-- reliable credibility 
+- federal judges
+- US Courts
+- Justice Department
+- reliable credibility
 - unconstitutional executive orders
 - presumption of regularity
