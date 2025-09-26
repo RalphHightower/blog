@@ -55,7 +55,7 @@ Nearly nine years later, I can’t help but get the feeling that [Obama](https:/
 - [MSNBC News - Breaking News and News Today / Latest News](https://www.msnbc.com/)
     - [Steve Benen](https://www.msnbc.com/author/steve-benen-ncpn433601)
         - [The Rachel Maddow Show](https://www.msnbc.com/rachel-maddow-show)
-            - [MaddowBlog](https://www.msnbc.com/rachel-maddow-show) 
+            - [MaddowBlog](https://www.msnbc.com/rachel-maddow-show)
                 - ["Ministry of Truth: Democracy, Reality, and the Republicans' War on the Recent Past."](https://www.harpercollins.com/products/ministry-of-truth-steve-benen)
 - [NBC News - Breaking Headlines and Video Reports on World, U.S. and Local Angles / NBC News](https://www.nbcnews.com/)
 - [The New York Times (NYT) - Breaking News, US News, World News and Videos](https://www.nytimes.com/)
@@ -64,7 +64,7 @@ Nearly nine years later, I can’t help but get the feeling that [Obama](https:/
 - organizations
 - [The CT Forum / Live, Unscripted Panel Discussions & Events](https://www.ctforum.org/)
 - [Erie's Think Tank - Jefferson Educational Society](https://www.jeserie.org/)
-- religions 
+- religions
 - [Mother Emanuel AMEC - Home](https://motheremanuel.com/)
 - political parties
 - [Democrat Party](https://www.democrats.org/)
@@ -76,7 +76,7 @@ Nearly nine years later, I can’t help but get the feeling that [Obama](https:/
 - [State Farm Stadium](https://www.statefarmstadium.com/)
 - companies
 - foreign governments
-- state, local governments 
+- state, local governments
 - [Home / Commonwealth of Pennsylvania (PA)](https://www.pa.gov/)
 - [CT.GOV-Connecticut's Official State Website](https://portal.ct.gov/)
     - [Home – City of Hartford](https://www.hartfordct.gov/)
@@ -113,14 +113,29 @@ Nearly nine years later, I can’t help but get the feeling that [Obama](https:/
             - [President Trump (47) Cabinet](https://www.whitehouse.gov/administration/the-cabinet/)
                 - press secretary
                     - Karoline Leavitt
+                - [JD Vance](https://www.linkedin.com/in/jd-vance-770a9047/)
+                - [Vice President JD Vance](https://www.whitehouse.gov/administration/jd-vance/)
+                - [Pam Bondi](https://www.justice.gov/ag/staff-profile/meet-attorney-general)
+                    - [Office of the Deputy Attorney General / Office of the Deputy Attorney General](https://www.justice.gov/dag)
+                    - [Todd Blanche / LinkedIn](https://www.linkedin.com/in/toddblanche/)
+                - [Kash Patel](https://www.fbi.gov/about/leadership-and-structure/director-patel)
+                    - [Deputy Director Dan Bongino — FBI](https://www.fbi.gov/about/leadership-and-structure/deputy-director-dan-bongino)
+                - [Secretary Robert F. Kennedy Jr. (RFKJr)](https://www.hhs.gov/about/leadership/robert-kennedy.html)
 - grifter
 - self-dealing
 - corruption
 - con artist
-- crime
+- criminal
 - cryptocurrency
 - criminal associates
 - criminal businesses
 - criminal media
 - criminal organizations
 - criminal partners
+- [Turning Point USA](https://www.tpusa.com/)
+    - [Charlie Kirk – Deceased](https://www.charliekirk.com/)
+        - [The Charlie Kirk Show](https://thecharliekirkshow.com/)
+- [Home - Stephen K Bannon's War Room](https://warroom.org/)
+- [Candace Owens](https://www.candaceowens.com/)
+- [Infowars](https://www.infowars.com/)
+    - Alex Jones

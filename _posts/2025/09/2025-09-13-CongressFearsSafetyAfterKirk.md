@@ -77,6 +77,9 @@ Mychael graduated from The [George Washington University](https://www.gwu.edu/)â
 - [Democrat Party](https://www.democrats.org/)
 - [Trumpian Party](https://www.gop.com/)
 - universities
+- [Utah Valley University / Utah Valley University](https://www.uvu.edu/)
+- venues
+- [State Farm Stadium](https://www.statefarmstadium.com/)
 - companies
 - foreign governments
 - state, local governments 
