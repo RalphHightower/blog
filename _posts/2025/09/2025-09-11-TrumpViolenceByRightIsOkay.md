@@ -76,9 +76,12 @@ As [Trump](https://www.donaldjtrump.com/) justifies right-wing radicals to a nat
 - [Democrat Party](https://www.democrats.org/)
 - [Trumpian Party](https://www.gop.com/)
 - universities
+- [Utah Valley University / Utah Valley University](https://www.uvu.edu/)
+- venues
+- [State Farm Stadium](https://www.statefarmstadium.com/)
 - companies
 - foreign governments
-- state, local governments 
+- state, local governments
 - federal government
 - [Constitution of the United States](https://constitution.congress.gov/constitution/)
     - [U.S. Constitution - Article I / Library of Congress](https://constitution.congress.gov/constitution/article-1/)
