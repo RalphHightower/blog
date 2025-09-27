@@ -18,6 +18,9 @@ The telephone numbers below have called and there is an empty person on the othe
 
 | Telephone Number | Location | Date Time[^11] | Caller | Social Media |
 |---|---|---|---|---|
+| [\+1 (803) 932-1974](tel:+18039321974) | SC. Little Mountain | 2025-09-26 03:59 PM ¤¤ | — | |
+| [\+1 (803) 895-6199](tel:+18038956199) | SC. Sumter | 2025-09-26 02:14 PM | — | |
+| [\+1 (803) 878-4701](tel:+18038784701) | SC. Orangeburg | 2025-09-26 11:33 AM | — | |
 | [\+1 (803) 848-8366](tel:+18038488366) | SC. Sumter | 2025-09-24 07:59 PM | — | |
 | [\+1 (803) 373-0884](tel:+18033730884) | SC. Beech Island | 2025-09-24 06:01 PM | — | |
 | [\+1 (803) 973-4681](tel:+18039734681) | SC. Columbia | 2025-09-24 05:45 PM | — | |
