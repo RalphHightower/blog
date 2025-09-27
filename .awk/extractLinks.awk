@@ -5,10 +5,10 @@
 BEGIN {
     # https is standard use, except Russian websites are not
     HTTP = "(http"
-        news = ".msnbc.com/|MSNBC News - Breaking News and News Today / Latest News:.nbcnews.com|NBC News - Breaking Headlines and Video Reports on World, U.S. and Local Angles / NBC News:.cbsnews.com/|CBS News / Breaking news, top stories & today's latest headlines:.abcnews.go.com/|ABC News - Breaking News, Latest News and Videos:.nytimes.com/|The New York Times (NYT) - Breaking News, US News, World News and Videos:.wsj.com/|The Wall Street Journal (WSJ) - Breaking News, Business, Financial & Economic News, World News and Video:.washingtonpost.com|The Washington Post - Breaking news and latest headlines, U.S. news, world news, and video - The Washington Post:.wired.com/|WIRED - The Latest in Technology, Science, Culture and Business:apnews.com/|Associated Press News (AP) - Breaking News, Latest Headlines and Videos / AP News:.reuters.com/|Reuters / Breaking International News & Views:.cnn.com|CNN / Breaking News, Latest News and Videos:.bbc.com/|BBC Home - Breaking News, World News, US News, Sports, Business, Innovation, Climate, Culture, Travel, Video & Audio:.bloomberg.com/|Bloomberg - Business News, Stock Markets, Finance, Breaking & World News:.time.com|Time:.businessinsider.com/|Business Insider:thehill.com/|The Hill - covering Congress, Politics, Political Campaigns and Capitol Hill:politico.com/|POLITICO - Politics, Policy, Political News:.thedailybeast.com/|The Daily Beast / The Latest in Politics, Media & Entertainment News:.theatlantic.com/|The Atlantic:.rollingstone.com|Rolling Stone – Music, Film, TV and Political News Coverage:rollcall.com/|Roll Call:.newsweek.com/|Newsweek - News, Analysis, Politics, Business, Technology:newrepublic.com/|The New Republic:.huffpost.com/|HuffPost - Breaking News, Politics, Entertainment & Opinion:.foxbusiness.com/|Faux Business:.theguardian.com|The Guardian – Latest news, sport and opinion:.yahoo.com|Yahoo / Mail, Weather, Search, Politics, News, Finance, Sports & Videos:.foxnews.com/|Faux News:.newsmax.com/|News Min:nypost.com|New York Post – Breaking News, Top Headlines, Photos & Videos"
+        news = ".msnbc.com/|MSNBC News - Breaking News and News Today / Latest News:.nbcnews.com/|NBC News - Breaking Headlines and Video Reports on World, U.S. and Local Angles / NBC News:.cbsnews.com/|CBS News / Breaking news, top stories & today's latest headlines:.abcnews.go.com/|ABC News - Breaking News, Latest News and Videos:.nytimes.com/|The New York Times (NYT) - Breaking News, US News, World News and Videos:.wsj.com/|The Wall Street Journal (WSJ) - Breaking News, Business, Financial & Economic News, World News and Video:.washingtonpost.com/|The Washington Post - Breaking news and latest headlines, U.S. news, world news, and video - The Washington Post:.wired.com/|WIRED - The Latest in Technology, Science, Culture and Business:apnews.com/|Associated Press News (AP) - Breaking News, Latest Headlines and Videos / AP News:.reuters.com/|Reuters / Breaking International News & Views:.cnn.com/|CNN / Breaking News, Latest News and Videos:.bbc.com/|BBC Home - Breaking News, World News, US News, Sports, Business, Innovation, Climate, Culture, Travel, Video & Audio:.bloomberg.com/|Bloomberg - Business News, Stock Markets, Finance, Breaking & World News:.time.com/|Time:.businessinsider.com/|Business Insider (BI) - Latest News in Tech, Markets, Economy & Innovation:thehill.com/|The Hill - covering Congress, Politics, Political Campaigns and Capitol Hill:politico.com/|POLITICO - Politics, Policy, Political News:.thedailybeast.com/|The Daily Beast / The Latest in Politics, Media & Entertainment News:.theatlantic.com/|The Atlantic:.rollingstone.com/|Rolling Stone – Music, Film, TV and Political News Coverage:rollcall.com/|Roll Call:.newsweek.com/|Newsweek - News, Analysis, Politics, Business, Technology:newrepublic.com/|The New Republic:.huffpost.com/|HuffPost - Breaking News, Politics, Entertainment & Opinion:.foxbusiness.com/|Faux Business:.theguardian.com/|The Guardian – Latest news, sport and opinion:.yahoo.com/|Yahoo / Mail, Weather, Search, Politics, News, Finance, Sports & Videos:.foxnews.com/|Faux News:.newsmax.com/|News Min:nypost.com/|New York Post – Breaking News, Top Headlines, Photos & Videos:.mediamatters.org/|Homepage / Media Matters for America:.thebulwark.com/|The Bulwark / Substack:.thedailybeast.com/|The Daily Beast – The Latest in Politics, Media & Entertainment News:talkingpointsmemo.com/|TPM – Talking Points Memo - Breaking News and Analysis:.pbs.org/|PBS News – News, Analysis, Top Headlines, Live Coverage:.cnbc.com/|Stock Markets, Business News, Financials, Earnings - CNBC:abcnews.go.com/|ABC News - Breaking News, Latest News and Video"
     cntNewsLinks = split(news, newsLinks, ":")
     #for (ndx = 1; ndx <= cntNewsLinks; ndx ++)
-        #printf("#00DEBUG: %s\n", newsLinks[ndx])
+        #printf("#00DEBUG: %d=%s\n", ndx, newsLinks[ndx])
     }
 { # 1
     line = $0 "◇"
@@ -36,12 +36,12 @@ BEGIN {
                 if (rightBracket > leftBracket) { # 5
                     if (substr(line, leftBracket + 1, 1) != "^") { # 6
                         link = substr(line, leftBracket, rightParen - leftBracket)
-                        #printf("#45DEBUG: 》%s《\n", newsMedia(link))
+                        #printf("#45DEBUG: %s=》%s《\n", link, newsMedia(link))
                         printf("%s\n", link)
                         reference = newsMedia(link)
                         if (link != reference)
                             printf("- %s\n", reference)
-                        line = substr(line, rightParen + 1)
+                        line = substr(line, rightParen + 0)
                         https = index(line, HTTP)
                         
                         #printf("#50DEBUG\nTRIMMING: length(《%s》)=%d, https=%d\n", line, length(line), https)
@@ -85,10 +85,11 @@ function newsMedia(markdownLink) { # 1
     posAddress = index(display, "://") + 3
     protocol = substr(display, posProtocol, posAddress - posProtocol)
     
-    #printf("#100DEBUG: length(display)=%d, posProtocol=%d, posAddress=%d, protocol:《%s》\n",  display, length(display), posProtocol, posAddress, protocol)
+    #printf("#100DEBUG: length(%s)=%d, posProtocol=%d, posAddress=%d, protocol:《%s》\n",  display, length(display), posProtocol, posAddress, protocol)
     
     posNews = 0
-    for (ndx = 1; (ndx < cntNewsLinks) && (posNews == 0); ndx ++) { # 2
+    found = 0
+    for (ndx = 1; (ndx <= cntNewsLinks) && (posNews == 0); ndx ++) { # 2
         
         #printf("#110DEBUG: newsLinks[%d]=%s\n", ndx, newsLinks[ndx])
 
@@ -115,8 +116,11 @@ function newsMedia(markdownLink) { # 1
                         #printf("#150DEBUG: addressParts[%d]=《%s》\n", parts, addressParts[parts])
                         } # 6
                     } # 5
+                found = 1
                 } # 4
             } # 3
         } # 2
+    if (found == 1)
+        printf("- %s\n", display)
     return(display)
     } # 1
