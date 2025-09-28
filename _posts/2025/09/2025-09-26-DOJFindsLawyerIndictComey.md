@@ -1,7 +1,7 @@
 ---
 layout: post
-tags: [media, organizations, political parties, Democrat Party, Trumpian Party, universities, companies, foreign governments, state local governments, federal government, Constitution of the United States, U.S. Constitution - Article I / Library of Congress, U.S. Constitution - Article II / Library of Congress, U.S. Constitution - Article III / Library of Congress, U.S. Constitution - Article IV / Library of Congress, U.S. Constitution - Article V / Library of Congress, U.S. Constitution - Article VI / Library of Congress, U.S. Constitution - Article VII / Library of Congress, Supreme Court of the United States (SCOTUS), US Courts, Department of Justice (DOJ), Eastern District of Virginia / Eastern District of Virginia, Federal Bureau of Investigation (FBI), James Comey, Federal Reserve, Federal Reserve Board - Federal Reserve Act, U.S. Department of the Treasury, Federal Election Commission (FEC), 2020 Presidential Election Results – Federal Election Commission (FEC), Congress, Senate, House of Representatives, President of the United States (POTUS), White House (WH), Trump autocracy, Donald J Trump, President Donald Trump (45), President Donald Trump (47), President Trump (47) Administration, President Trump (47) Cabinet, press secretary, Karoline Leavitt, Pam Bondi, Office of the Deputy Attorney General / Office of the Deputy Attorney General, Todd Blanche / LinkedIn, Kash Patel, Deputy Director Dan Bongino — FBI, grifter, self-dealing, corruption, con artist, crime, cryptocurrency, criminal associates, criminal businesses, criminal media, criminal organizations, criminal partners]
-categories: [Donald Trump, Department of Justice (DOJ), Pam Bondi, Federal Bureau of Investigation (FBI), James Comey]
+tags: [media, MSNBC News - Breaking News and News Today / Latest News, Ken Dilanian, Carol Leonnig, political parties, Democrat Party, Trumpian Party, organizations, universities, companies, foreign governments, state local governments, federal government, Constitution of the United States, U.S. Constitution - Article I / Library of Congress, U.S. Constitution - Article II / Library of Congress, U.S. Constitution - Article III / Library of Congress, U.S. Constitution - Article IV / Library of Congress, U.S. Constitution - Article V / Library of Congress, U.S. Constitution - Article VI / Library of Congress, U.S. Constitution - Article VII / Library of Congress, Supreme Court of the United States (SCOTUS), US Courts, Department of Justice (DOJ), Eastern District of Virginia / Eastern District of Virginia, Federal Bureau of Investigation (FBI), James Comey, Federal Reserve, Federal Reserve Board - Federal Reserve Act, U.S. Department of the Treasury, Federal Election Commission (FEC), 2020 Presidential Election Results – Federal Election Commission (FEC), Congress, Senate, House of Representatives, President of the United States (POTUS), White House (WH), Trump autocracy, Donald J Trump, President Donald Trump (45), President Donald Trump (47), President Trump (47) Administration, President Trump (47) Cabinet, press secretary, Karoline Leavitt, Pam Bondi, Office of the Deputy Attorney General / Office of the Deputy Attorney General, Todd Blanche / LinkedIn, Lindsey Halligan, Kash Patel, Deputy Director Dan Bongino — FBI, grifter, self-dealing, corruption, con artist, crime, cryptocurrency, criminal associates, criminal businesses, criminal media, criminal organizations, criminal partners]
+categories: [Donald Trump, Department of Justice (DOJ), Pam Bondi, Federal Bureau of Investigation (FBI), James Comey, weaponization]
 date: 2025-09-26 18:23
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
@@ -75,10 +75,13 @@ Sep 20, 2025, 6:44 PM
 
 ----
 - media
-- organizations
+- [MSNBC News - Breaking News and News Today / Latest News](https://www.msnbc.com/)
+    - Ken Dilanian
+    - Carol Leonnig
 - political parties
 - [Democrat Party](https://www.democrats.org/)
 - [Trumpian Party](https://www.gop.com/)
+- organizations
 - universities
 - companies
 - foreign governments
@@ -119,6 +122,7 @@ Sep 20, 2025, 6:44 PM
                 - [Pam Bondi](https://www.justice.gov/ag/staff-profile/meet-attorney-general)
                     - [Office of the Deputy Attorney General / Office of the Deputy Attorney General](https://www.justice.gov/dag)
                     - [Todd Blanche / LinkedIn](https://www.linkedin.com/in/toddblanche/)
+                        - Lindsey Halligan
                 - [Kash Patel](https://www.fbi.gov/about/leadership-and-structure/director-patel)
                     - [Deputy Director Dan Bongino — FBI](https://www.fbi.gov/about/leadership-and-structure/deputy-director-dan-bongino)
 - grifter
@@ -132,3 +136,4 @@ Sep 20, 2025, 6:44 PM
 - criminal media
 - criminal organizations
 - criminal partners
+{% include TrumpWeaponization.html %}
