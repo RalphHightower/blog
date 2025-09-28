@@ -38,7 +38,7 @@ Former [President](https://www.whitehouse.gov/) [Joe Biden](https://bidenwhiteho
 
 However, the [Trump](https://www.donaldjtrump.com/) [family](https://www.trump.com/)'s conflicts of interest dwarf those of all the presidential families that came before. Between the [Trump Organization's ongoing international real estate deals, Truth Social, Trump's cryptocurrency business](https://www.msnbc.com/opinion/msnbc-opinion/trump-conflict-interest-corruption-truth-social-crypto-rcna181181), [meme coin venture](https://www.msnbc.com/opinion/msnbc-opinion/trump-meme-coin-presidential-power-explainer-rcna188734) and his [relentless merchandise rollouts](https://www.msnbc.com/opinion/msnbc-opinion/trump-merchandise-store-business-operations-rcna183706), [Trump](https://www.donaldjtrump.com/) has created a kind of empire of conflicts of interest. Taken in the aggregate, we don't need some kind of smoking gun evidence to be concerned. The existence of this sprawling network of businesses tied to the [presidency](https://www.donaldjtrump.com/) is in and of itself proof that something has gone horribly wrong.
 
-Zeeshan Aleem is a writer and editor for MSNBC Daily. Previously, he worked at Vox, HuffPost and Politico, and he has also been published in, among other places, The New York Times, The Atlantic, The Nation, and The Intercept. You can sign up for his free politics newsletter here.
+Zeeshan Aleem is a writer and editor for [MSNBC Daily](https://www.msnbc.com/). Previously, he worked at [Vox](https://www.vox.com/), [HuffPost](https://www.huffpost.com/) and [Politico](https://www.politico.com/), and he has also been published in, among other places, [The New York Times](https://www.nytimes.com/), [The Atlantic](https://www.theatlantic.com/), [The Nation](https://www.thenation.com/), and [The Intercept](https://theintercept.com/). 
 
 | **[1789 Capital](https://1789capital.vc/)** |
 |---|
@@ -55,7 +55,8 @@ Zeeshan Aleem is a writer and editor for MSNBC Daily. Previously, he worked at V
 - media
 - [Reuters / Breaking International News & Views](https://www.reuters.com/)
 - [The New York Times - Breaking News, US News, World News and Videos](https://www.nytimes.com/)
-- [The Washington Post - Breaking news and latest headlines, U.S. news, world news, and video - The Washington Post](https://www.washingtonpost.com/)- organizations
+- [The Washington Post - Breaking news and latest headlines, U.S. news, world news, and video - The Washington Post](https://www.washingtonpost.com/)
+- organizations
 - political parties
 - [Democrat Party](https://www.democrats.org/)
 - [Trumpian Party](https://www.gop.com/)

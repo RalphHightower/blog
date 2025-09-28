@@ -1,13 +1,13 @@
 ---
 layout: post
-tags: []
-categories: []
+tags: [media, MSNBC News - Breaking News and News Today / Latest News, Stephanie Ruhle, The 11th Hour with Stephanie Ruhle on MSNBC, Charles Herman, The Hill - covering Congress Politics Political Campaigns and Capitol Hill, organizations, political parties, Democrat Party, Trumpian Party, universities, Utah Valley University / Utah Valley University, venues, State Farm Stadium, companies, foreign governments, state local governments, Arizona – Welcome to az.gov / az.gov, Home / City of Phoenix, Minnesota State Government (MN), Office of Governor / Office of Governor Tim Walz and Lt. Governor Peggy Flanagan, Governor Tim Walz / Office of Governor Tim Walz and Lt. Governor Peggy Flanagan, Minnesota Legislature, Home Page - Minnesota Senate, Senator John Hoffman, Minnesota House of Representatives, Representative Melissa Hortman, Home / Commonwealth of Pennsylvania (PA), Butler County PA / Official Website, Home / Utah.gov (UT), City of Orem – Family City USA, Salt Lake City – SLC.gov, federal government, Constitution of the United States, U.S. Constitution - Article I / Library of Congress, U.S. Constitution - Article II / Library of Congress, U.S. Constitution - Article III / Library of Congress, U.S. Constitution - Article IV / Library of Congress, U.S. Constitution - Article V / Library of Congress, U.S. Constitution - Article VI / Library of Congress, U.S. Constitution - Article VII / Library of Congress, Supreme Court of the United States (SCOTUS), US Courts, Department of Justice (DOJ), Federal Bureau of Investigation (FBI), Federal Reserve, Federal Reserve Board - Federal Reserve Act, U.S. Department of the Treasury, Congress, Senate, House of Representatives, President of the United States (POTUS), White House (WH), Trump autocracy, Donald J Trump, President Donald Trump (45), President Donald Trump (47), President Trump (47) Administration, President Trump (47) Cabinet, press secretary, Karoline Leavitt, JD Vance, Vice President JD Vance, Pam Bondi, Office of the Deputy Attorney General / Office of the Deputy Attorney General, Todd Blanche / LinkedIn, Kash Patel, Deputy Director Dan Bongino — FBI, Secretary Robert F. Kennedy Jr. (RFKJr), grifter, self-dealing, corruption, con artist, criminal, cryptocurrency, criminal associates, criminal businesses, criminal media, criminal organizations, criminal partners, Turning Point USA, Charlie Kirk – Deceased, The Charlie Kirk Show, Home - Stephen K Bannon’s War Room, Candace Owens, Infowars, Alex Jones]
+categories: [Donald Trump, Charlie Kirk, decency, compassion, forgiveness, toxic politics, Democrats, Trumpians]
 date: 2025-09-25 18:53
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: 'title'
+title: "Polarized Politics Is Tearing America Apart. Trump Ain't Helping With His Division"
 ---
 
 
@@ -57,7 +57,11 @@ Charles Herman contributed.
 
 ----
 - media
-- [The 11th Hour with Stephanie Ruhle on MSNBC](https://www.msnbc.com/11th-hour)
+- [MSNBC News - Breaking News and News Today / Latest News](https://www.msnbc.com/)
+    - [Stephanie Ruhle](https://www.msnbc.com/11th-hour)
+        - [The 11th Hour with Stephanie Ruhle on MSNBC](https://www.msnbc.com/11th-hour)
+    - Charles Herman
+- [The Hill - covering Congress, Politics, Political Campaigns and Capitol Hill](https://urldefense.com/)
 - organizations
 - political parties
 - [Democrat Party](https://www.democrats.org/)

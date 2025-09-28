@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [media, MSNBC News - Breaking News and News Today / Latest News, The Guardian – Latest news sport and opinion, organizations, political parties, Democrat Party, Trumpian Party, universities, companies, foreign governments, state local governments, Washington D.C., federal government, Constitution of the United States, U.S. Constitution - Article I / Library of Congress, U.S. Constitution - Article II / Library of Congress, U.S. Constitution - Article III / Library of Congress, U.S. Constitution - Article IV / Library of Congress, U.S. Constitution - Article V / Library of Congress, U.S. Constitution - Article VI / Library of Congress, U.S. Constitution - Article VII / Library of Congress, Supreme Court of the United States (SCOTUS), US Courts, Department of Justice (DOJ), Federal Bureau of Investigation (FBI), Federal Reserve, Federal Reserve Board - Federal Reserve Act, U.S. Department of the Treasury, NPS.gov Homepage (U.S. National Park Service), United States Park Police (U.S. National Park Service), National Mall and Memorial Parks (U.S. National Park Service), Congress, Senate, House of Representatives, President of the United States (POTUS), White House (WH), Trump autocracy, Donald J Trump, President Donald Trump (45), President Donald Trump (47), President Trump (47) Administration, President Trump (47) Cabinet, press secretary, Karoline Leavitt, grifter, self-dealing, corruption, con artist, crime, cryptocurrency, criminal associates, Alex Acosta, criminal businesses, criminal media, criminal organizations, criminal partners, human trafficking, sex trafficking, pedophile, Jeffrey Epstein, Ghislaine Maxwell]
+tags: [media, MSNBC News - Breaking News and News Today / Latest News, Brandy Zadrozny, The Guardian – Latest news sport and opinion, organizations, political parties, Democrat Party, Trumpian Party, universities, companies, foreign governments, state local governments, Washington D.C., federal government, Constitution of the United States, U.S. Constitution - Article I / Library of Congress, U.S. Constitution - Article II / Library of Congress, U.S. Constitution - Article III / Library of Congress, U.S. Constitution - Article IV / Library of Congress, U.S. Constitution - Article V / Library of Congress, U.S. Constitution - Article VI / Library of Congress, U.S. Constitution - Article VII / Library of Congress, Supreme Court of the United States (SCOTUS), US Courts, Department of Justice (DOJ), Federal Bureau of Investigation (FBI), Federal Reserve, Federal Reserve Board - Federal Reserve Act, U.S. Department of the Treasury, NPS.gov Homepage (U.S. National Park Service), United States Park Police (U.S. National Park Service), National Mall and Memorial Parks (U.S. National Park Service), Congress, Senate, House of Representatives, President of the United States (POTUS), White House (WH), Trump autocracy, Donald J Trump, President Donald Trump (45), President Donald Trump (47), President Trump (47) Administration, President Trump (47) Cabinet, press secretary, Karoline Leavitt, JD Vance, Vice President JD Vance, Pam Bondi, Office of the Deputy Attorney General / Office of the Deputy Attorney General, Todd Blanche / LinkedIn, Kash Patel, Deputy Director Dan Bongino — FBI, grifter, self-dealing, corruption, con artist, crime, cryptocurrency, criminal associates, Alex Acosta, criminal businesses, criminal media, criminal organizations, criminal partners, human trafficking, sex trafficking, pedophile, Jeffrey Epstein, Ghislaine Maxwell]
 categories: [Jeffrey Epstein, Ghislaine Maxwell, Trump Crime Family, Donald Trump]
 date: 2025-09-24 22:10
 excerpt: ''
@@ -37,13 +37,14 @@ The Secret Handshake said it does not know the current location of the statue.
 
 In a [statement to Time magazine](https://time.com/7319909/trump-epstein-statue-washington-dc-protest/), the [White House](https://www.whitehouse.gov/) said, “Liberals are free to waste their money however they see fit — but it’s not news that Epstein knew [Donald Trump](https://www.donaldjtrump.com/), because [Donald Trump](https://www.donaldjtrump.com/) kicked Epstein out of his club for being a creep.”
 
-Erum Salam is a breaking news reporter and producer for [[MSNBC](https://www.msnbc.com/) Digital](https://www.msnbc.com/). She previously was a breaking news reporter for [The Guardian](https://www.theguardian.com/).
+Erum Salam is a breaking news reporter and producer for [MSNBCl Digital](https://www.msnbc.com/). She previously was a breaking news reporter for [The Guardian](https://www.theguardian.com/).
 
 [Brandy Zadrozny](https://www.msnbc.com/author/brandy-zadrozny-ncpn858391) is a senior enterprise reporter for [MSNBC](https://www.msnbc.com/). She was a previously a senior enterprise reporter for NBC News, based in New York.
 
 ----
 - media
 - [MSNBC News - Breaking News and News Today / Latest News](https://www.msnbc.com/)
+    - [Brandy Zadrozny](https://www.msnbc.com/author/brandy-zadrozny-ncpn858391)
 - [The Guardian – Latest news, sport and opinion](https://www.theguardian.com/)
 - organizations
 - political parties
@@ -86,6 +87,13 @@ Erum Salam is a breaking news reporter and producer for [[MSNBC](https://www.msn
             - [President Trump (47) Cabinet](https://www.whitehouse.gov/administration/the-cabinet/)
                 - press secretary
                     - Karoline Leavitt
+                - [JD Vance](https://www.linkedin.com/in/jd-vance-770a9047/)
+                - [Vice President JD Vance](https://www.whitehouse.gov/administration/jd-vance/)
+                - [Pam Bondi](https://www.justice.gov/ag/staff-profile/meet-attorney-general)
+                    - [Office of the Deputy Attorney General / Office of the Deputy Attorney General](https://www.justice.gov/dag)
+                    - [Todd Blanche / LinkedIn](https://www.linkedin.com/in/toddblanche/)
+                - [Kash Patel](https://www.fbi.gov/about/leadership-and-structure/director-patel)
+                    - [Deputy Director Dan Bongino — FBI](https://www.fbi.gov/about/leadership-and-structure/deputy-director-dan-bongino)
 - grifter
 - self-dealing
 - corruption
