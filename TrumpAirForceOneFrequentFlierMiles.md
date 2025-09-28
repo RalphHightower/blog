@@ -15,18 +15,19 @@ title: "Trump: Air Force One Frequent Flyer Miles"
 - 2025-04-05: [Trump Never Let a Weekend of Golf ⛳️ Interfere With a Commander-In-Chief’s Solemn Duty to Receive Fallen Military 🪖]({% link _posts/2025/04/2025-04-05-MilitaryFallenDontInterruptTrumpGolfWeekends.md %})
 
 [^666]: @RalphHightower – [Federal Aviation Administration - Graphic TFRs](https://tfr.faa.gov/tfr3/?page=list)
-[^57501]:  [Federal Aviation Administration - Graphic TFRs](https://tfr.faa.gov/tfr3/?page=detail_5_7501). From September 20, 2025 at 0830 EDT. To September 20, 2025 at 1800 EDT.
 [^59220]: [Federal Aviation Administration - Graphic TFRs](https://tfr.faa.gov/tfr3/?page=detail_5_9220). From September 26, 2025 at 1030 EDT). To September 26, 2025 at 1630 EDT
 [^59245]: [Federal Aviation Administration - Graphic TFRs](https://tfr.faa.gov/tfr3/?page=detail_5_9245). From September 26, 2025 at 1030 EDT). To September 26, 2025 at 1630 EDT
 [^50929]: [Federal Aviation Administration - Graphic TFRs](https://tfr.faa.gov/tfr3/?page=detail_5_0929). September 27, 2025 at 0830 EDT – September 27, 2025 at 1800 EDT
+[^51198]: [Federal Aviation Administration - Graphic TFRs](https://tfr.faa.gov/tfr3/?page=detail_5_1198). From September 28, 2025 at 0830 EDT
+To September 28, 2025 – 1800 EDT
 
 | Time | Location |
 |---|---|
 | | 🔥 [White House](https://www.whitehouse.gov/) 💣|
-| | **Sunday, September 28, 2025** |
+| | **Sunday, September 28, 2025[^51198]** |
 | ⛳️🏌‍♂️| [Donnie](https://www.donaldjtrump.com/) golfs at his [Trump National Golf Club Washington DC](https://www.trumpnationaldc.com) |
 | 8:30 AM ⛳️🏌‍♂️| [Donnie](https://www.donaldjtrump.com/) arrives at his [Trump National Golf Club Washington DC](https://www.trumpnationaldc.com) |
-| | **Saturday, September 27, 2025**[^50929] |
+| | **Saturday, September 27, 2025[^50929]** |
 | ⛳️🏌‍♂️| [Donnie](https://www.donaldjtrump.com/) golfs at his [Trump National Golf Club Washington DC](https://www.trumpnationaldc.com) |
 | 8:30 AM ⛳️🏌‍♂️| [Donnie](https://www.donaldjtrump.com/) arrives at his [Trump National Golf Club Washington DC](https://www.trumpnationaldc.com) |
 | 6:00 PM ⛳️🏌‍♂️| [Donnie](https://www.donaldjtrump.com/) departs his [Trump National Golf Club Washington DC](https://www.trumpnationaldc.com) |
@@ -1503,3 +1504,4 @@ title: "Trump: Air Force One Frequent Flyer Miles"
 [^58703]: [Federal Aviation Administration - Graphic TFRs](https://tfr.faa.gov/tfr3/?page=detail_5_8703). NYC, NY From September 06, 2025 at 1230 UTC (September 06, 2025 at 0830 EDT) To September 06, 2025 at 2200 UTC (September 06, 2025 at 1800 EDT)
 [^58352]: [Federal Aviation Administration - Graphic TFRs](https://tfr.faa.gov/tfr3/?page=detail_5_8352). NYC, NY From September 07, 2025 at 1645 UTC (September 07, 2025 at 1245 EDT) To September 07, 2025 at 2300 UTC (September 07, 2025 at 1900 EDT)
 [^58353]: [Federal Aviation Administration - Graphic TFRs](https://tfr.faa.gov/tfr3/?page=detail_5_8353). From September 07, 2025 at 1645 UTC (September 07, 2025 at 1245 EDT) To September 07, 2025 at 2300 UTC (September 07, 2025 at 1900 EDT)
+[^57501]:  [Federal Aviation Administration - Graphic TFRs](https://tfr.faa.gov/tfr3/?page=detail_5_7501). From September 20, 2025 at 0830 EDT. To September 20, 2025 at 1800 EDT.
