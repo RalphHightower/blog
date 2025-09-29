@@ -125,7 +125,6 @@ Nearly nine years later, I can’t help but get the feeling that [Obama](https:/
                     - [Todd Blanche / LinkedIn](https://www.linkedin.com/in/toddblanche/)
                 - [Kash Patel](https://www.fbi.gov/about/leadership-and-structure/director-patel)
                     - [Deputy Director Dan Bongino — FBI](https://www.fbi.gov/about/leadership-and-structure/deputy-director-dan-bongino)
-                - [Secretary Robert F. Kennedy Jr. (RFKJr)](https://www.hhs.gov/about/leadership/robert-kennedy.html)
 - grifter
 - self-dealing
 - corruption
