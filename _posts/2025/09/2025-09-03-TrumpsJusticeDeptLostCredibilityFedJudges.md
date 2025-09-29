@@ -91,7 +91,7 @@ Subscribe to the [Deadline: Legal Newsletter](https://link.msnbc.com/join/5ck/ms
         - [President Donald Trump (47)](https://www.whitehouse.gov/administration/donald-j-trump/)
         - [President Trump (47) Administration](https://www.whitehouse.gov/administration/)
         - [President Trump (47) Cabinet](https://www.whitehouse.gov/administration/the-cabinet/)
-            - [Pam Bondi](https://www.justice.gov/ag/staff-profile/meet-us-attorney/)
+            - [Pam Bondi](https://www.justice.gov/ag/staff-profile/meet-attorney-general)
 - federal judges
 - US Courts
 - Justice Department
