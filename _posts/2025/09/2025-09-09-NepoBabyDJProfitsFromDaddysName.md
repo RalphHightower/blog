@@ -34,7 +34,7 @@ That the [president](https://www.whitehouse.gov/)'s [son](https://www.linkedin.c
 
 Conflicts of interest make it impossible to pin down how much policy decision-making is influenced by personal or familial financial interests. But regardless of what's happening behind closed doors, the effect is that it opens the door for inappropriate behavior.
 
-Former [President](https://www.whitehouse.gov/) [Joe Biden](https://bidenwhitehouse.archives.gov/)'s son Hunter Biden set a poor example in this realm. During [Biden](https://bidenwhitehouse.archives.gov/)'s time as vice president, Hunter Biden earned \$50,000 a month for sitting on the board of the [Ukrainian](https://www.gov.ua/) natural gas company Burisma even though he [lacked substantive qualifications](https://www.vox.com/policy-and-politics/2019/10/1/20891510/hunter-biden-burisma-ukraine-shokin), which made it all but certain that he was trading on his surname to get the cushy gig.
+Former [President](https://www.whitehouse.gov/) [Joe Biden](https://bidenwhitehouse.archives.gov/)'s son Hunter Biden set a poor example in this realm. During [Biden](https://bidenwhitehouse.archives.gov/)'s time as vice president, Hunter Biden earned \$50,000 a month for sitting on the board of the [Ukrainian](https://www.kmu.gov.ua/) natural gas company Burisma even though he [lacked substantive qualifications](https://www.vox.com/policy-and-politics/2019/10/1/20891510/hunter-biden-burisma-ukraine-shokin), which made it all but certain that he was trading on his surname to get the cushy gig.
 
 However, the [Trump](https://www.donaldjtrump.com/) [family](https://www.trump.com/)'s conflicts of interest dwarf those of all the presidential families that came before. Between the [Trump Organization's ongoing international real estate deals, Truth Social, Trump's cryptocurrency business](https://www.msnbc.com/opinion/msnbc-opinion/trump-conflict-interest-corruption-truth-social-crypto-rcna181181), [meme coin venture](https://www.msnbc.com/opinion/msnbc-opinion/trump-meme-coin-presidential-power-explainer-rcna188734) and his [relentless merchandise rollouts](https://www.msnbc.com/opinion/msnbc-opinion/trump-merchandise-store-business-operations-rcna183706), [Trump](https://www.donaldjtrump.com/) has created a kind of empire of conflicts of interest. Taken in the aggregate, we don't need some kind of smoking gun evidence to be concerned. The existence of this sprawling network of businesses tied to the [presidency](https://www.donaldjtrump.com/) is in and of itself proof that something has gone horribly wrong.
 
@@ -85,8 +85,8 @@ Zeeshan Aleem is a writer and editor for [MSNBC Daily](https://www.msnbc.com/). 
 - [Homepage — Ministério das Relações Exteriores](https://www.gov.br/mre/)
 - [MRE — Ministério das Relações Exteriores](https://www.gov.br/mre/pt-br)
 - [India](https://www.india.gov.in/)
-- [Ukraine](https://www.gov.ua/)
-- state, local governments
+- [Головна / Кабінет Міністрів України (UA)](https://www.kmu.gov.ua/)
+- [Головна / Кабінет Міністрів України](https://www.kmu.gov.ua/)- state, local governments
 - federal government
 - [President Joe Biden](https://bidenwhitehouse.archives.gov/)
 - [Constitution](https://constitution.congress.gov/constitution/)
