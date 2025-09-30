@@ -7,13 +7,13 @@ date: 2025-04-13 2:54 PM
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: "Federal: 2020 Election Interference, January 6 Insurrection"
+title: "Federal: 2020 Election Interference, January 6 Insurrection ⛓️‍💥"
 ---
 
 ## Select Committee to Investigate the January 6th Attack on the United States Capitol
 
 - [View official Committee reports, printed hearing records, and other publications of the Select Committee](https://www.govinfo.gov/committee/house-january6th?path=/browsecommittee/chamber/house/committee/january6th/collection/CRPT)
-- [View the NARA archive of the January 6th Select Committee website](https://www.webharvest.gov/congress117th/20221224173221/https://january6th.house.gov)
+- [View the NARA archive of the January 6th Select Committee website](https://www.webharvest.gov/congress117th/20221224173221/https://january6th.house.gov,)
 - [View the NARA archive of the January 6th Select Committee Report](https://www.webharvest.gov/congress117th/20221231143403/january6report.house.gov/)
 - Congressman Bennie Thompson, the former Chair of the Select Committee, maintains an [archival copy of content from the January 6th Select Committee website](https://january6th-benniethompson.house.gov/) as part of his Congressional Member office website.
 

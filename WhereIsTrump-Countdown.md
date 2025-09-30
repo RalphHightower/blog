@@ -7,7 +7,7 @@ date: 2025-05-31 7:58 PM
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: "Where Is Trump? 🔥DC? FL⛳️?"
+title: "Where Is Trump? 🔥DC? FL⛳️⁉️"
 ---
 
 

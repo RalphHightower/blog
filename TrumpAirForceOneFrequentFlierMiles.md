@@ -7,7 +7,7 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: "Trump: Air Force One Frequent Flyer Miles"
+title: "🛫Trump: Air Force One Frequent Flyer Miles🚁"
 ---
 
 
