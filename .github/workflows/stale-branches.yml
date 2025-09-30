@@ -1,4 +1,4 @@
-- name: stale-branches.yml – Delete Stale Branches
+name: stale-branches.yml – Delete Stale Branches
 
 on:
   #workflow_dispatch:  # Manual trigger from GitHub UI
