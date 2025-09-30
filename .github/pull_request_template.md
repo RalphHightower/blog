@@ -11,6 +11,7 @@ Please check the type of change your PR introduces:
 - [ ] Jekyll change(s)
 - [ ] Liquid change(s)
 - [ ] Markdown change(s)
+- [ ] YAML change(s)
 - [ ] Build error(s)
 - [ ] Feature
 - [ ] Code style update (formatting, renaming)
@@ -18,6 +19,25 @@ Please check the type of change your PR introduces:
 - [ ] Build related changes
 - [ ] Documentation content changes
 - [ ] Other (please describe):
+
+## Language 
+
+- [ ] awk
+- [ ] C/C++/C#
+- [ ] Ruby
+- [ ] Python 
+
+## Files added
+
+- 
+
+## Files modified 
+
+- 
+
+## Files deleted 
+
+- 
 
 ## What is the current behavior?
 
