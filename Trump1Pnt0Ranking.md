@@ -1,13 +1,13 @@
 ---
 layout: page
-tags: [United States of America , President, C-SPAN, presidential rankings, Abraham Lincoln, George Washington, Franklin D. Roosevelt, Theodore Roosevelt, Dwight D. Eisenhower, Harry S. Truman, Thomas Jefferson, John F. Kennedy, Ronald Reagan, Barack Obama, Lyndon B. Johnson, James Monroe, Woodrow Wilson, William McKinley, John Adams, James Madison, John Quincy Adams, James K. Polk, William J. Clinton, Ulysses S. Grant, George H. W. Bush, Andrew Jackson, William Howard Taft, Calvin Coolidge, Grover Cleveland, Jimmy Carter, James A. Garfield, Gerald R. Ford, George W. Bush, Chester A. Arthur, Richard M. Nixon, Benjamin Harrison, Rutherford B. Hayes, Martin Van Buren, Zachary Taylor, Herbert Hoover, Warren G. Harding, Millard Fillmore, John Tyler, William Henry Harrison, Donald J. Trump, Franklin Pierce, Andrew Johnson, James BuchananPresident, Abraham Lincoln, George Washington, Franklin D. Roosevelt, Theodore Roosevelt, Dwight D. Eisenhower, Harry S. Truman, Thomas Jefferson, John F. Kennedy, Ronald Reagan, Barack Obama, Lyndon B. Johnson, James Monroe, Woodrow Wilson, William McKinley, John Adams, James Madison, John Quincy Adams, James K. Polk, William J. Clinton, Ulysses S. Grant, George H. W. Bush, Andrew Jackson, William Howard Taft, Calvin Coolidge, Grover Cleveland, Jimmy Carter, James A. Garfield, Gerald R. Ford, George W. Bush, Chester A. Arthur, Richard M. Nixon, Benjamin Harrison, Rutherford B. Hayes, Martin Van Buren, Zachary Taylor, Herbert Hoover, Warren G. Harding, Millard Fillmore, John Tyler, William Henry Harrison, Donald J. Trump, Franklin Pierce, Andrew Johnson, James Buchanan]
+tags: [United States of America , President, C-SPAN, presidential rankings, Abraham Lincoln, George Washington, Franklin D. Roosevelt, Theodore Roosevelt, Dwight D. Eisenhower, Harry S. Truman, Thomas Jefferson, John F. Kennedy, Ronald Reagan, Barack Obama, Lyndon B. Johnson, James Monroe, Woodrow Wilson, William McKinley, John Adams, James Madison, John Quincy Adams, James K. Polk, William J. Clinton, Ulysses S. Grant, George H. W. Bush, Andrew Jackson, William Howard Taft, Calvin Coolidge, Grover Cleveland, Jimmy Carter, James A. Garfield, Gerald R. Ford, George W. Bush, Chester A. Arthur, Richard M. Nixon, Benjamin Harrison, Rutherford B. Hayes, Martin Van Buren, Zachary Taylor, Herbert Hoover, Warren G. Harding, Millard Fillmore, John Tyler, William Henry Harrison, Donald J. Trump, Franklin Pierce, Andrew Johnson, James Buchanan, Abraham Lincoln, George Washington, Franklin D. Roosevelt, Theodore Roosevelt, Dwight D. Eisenhower, Harry S. Truman, Thomas Jefferson, John F. Kennedy, Ronald Reagan, Barack Obama, Lyndon B. Johnson, James Monroe, Woodrow Wilson, William McKinley, John Adams, James Madison, John Quincy Adams, James K. Polk, William J. Clinton, Ulysses S. Grant, George H. W. Bush, Andrew Jackson, William Howard Taft, Calvin Coolidge, Grover Cleveland, Jimmy Carter, James A. Garfield, Gerald R. Ford, George W. Bush, Chester A. Arthur, Richard M. Nixon, Benjamin Harrison, Rutherford B. Hayes, Martin Van Buren, Zachary Taylor, Herbert Hoover, Warren G. Harding, Millard Fillmore, John Tyler, William Henry Harrison, Donald J. Trump, Franklin Pierce, Andrew Johnson, James Buchanan]
 categories: [Donald Trump]
 date: 2025-08-15 12:14 PM
 #excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: "Trump 1.0 Presidential Rankings – C-SPAN 2021"
+title: "Trump 1.0 Presidential Rankings – C-SPAN 2021〽️"
 ---
 
 ## [Presidential Rankings Survey - Historians Rank the Top 10 Presidents / C-SPAN Survey on Presidents 2021](https://www.c-span.org/presidentsurvey2021/?page=overall)
@@ -26,6 +26,7 @@ title: "Trump 1.0 Presidential Rankings – C-SPAN 2021"
 | Vision / Setting an Agenda	| 39.6 | 36 |
 | Pursued Equal Justice For All	| 27.6 | 40 |
 | Performance Within Context of Times	| 28.3	| 42 |
+| Overall | 312 | 41 |
 
 @RalphHightower: [President Joe Biden](https://bidenwhitehouse.archives.gov/) was not ranked in this 2021 survey as his term was just beginning. I'm interested in where [Trump 2.0](https://www.donaldjtrump.com/) ranks since his performance is drastically worse than [Trump 1.0](https://trumpwhitehouse.archives.gov/). Even his ranking in MAGALandia is underwater. 
 

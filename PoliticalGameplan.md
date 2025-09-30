@@ -8,7 +8,7 @@ toc: true
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: "Political Gameplan / Strategy"
+title: "🎫 Political Gameplan / Strategy 🏈"
 ---
 
 ## Resistance Is Not Futile!
@@ -79,7 +79,9 @@ Friends with our enemies
 ***Texas does not appoint its electors proportionally. Due to faithless voting, the electoral votes for Texas were: for President, Trump 36, Ron Paul 1, and John Kasich 1; for Vice President, Pence 37 and Carly Fiorina 1.
 ****Washington does not appoint its electors proportionally. Due to faithless voting, the electoral votes for Washington were: for President, Clinton 8, Colin Powell 3, and Faith Spotted Eagle 1; for Vice President, Kaine 8, Elizabeth Warren 1, Susan Collins 1, Maria Cantwell 1, and Winona LaDuke 1.
 
-### Political Contacts
+## Political Contacts
+
+### Federal Government 
 
 #### [US House of Representatives](https://www.house.gov/)
 
@@ -203,6 +205,15 @@ Class III.
 {% include TrumpGolf.html %}
 
 {% include TrumpLodging.html %}
+
+### [South Carolina (SC) Government](https://www.sc.gov/)
+
+#### [Governor Henry McMaster (T)](https://governor.sc.gov/)
+
+| Office Location |
+|---|
+| [State House](https://www.scstatehouse.gov/)<br />
+1100 Gervais Street<br />Columbia, South Carolina 29201<br />Phone: [\+1 (803) 734-2100](tel:+18037342100)<br />Fax: [\+1 (803) 734-5167](tel:+18037345167) |
 
 #### [South Carolina](https://www.sc.gov/) [Attorney General](https://www.scag.gov/)
 
