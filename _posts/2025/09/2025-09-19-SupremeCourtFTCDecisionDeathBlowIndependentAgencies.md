@@ -66,7 +66,6 @@ And in the case of [Brazil](https://www.gov.br/), many Americans may have concer
 
 Ja’han Jones is an [MSNBC](https://www.msnbc.com/) opinion blogger. He previously wrote The ReidOut Blog. He is a futurist and multimedia producer focused on culture and politics. His previous projects include “Black Hair Defined” and the “Black Obituary Project.”
 
-
 ----
 - media
 - [MSNBC News - Breaking News and News Today / Latest News](https://www.msnbc.com/)
