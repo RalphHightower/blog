@@ -25,7 +25,16 @@ Please check the type of change your PR introduces:
 - [ ] awk
 - [ ] C/C++/C#
 - [ ] Ruby
-- [ ] Python 
+- [ ] Markdown
+- [ ] Python
+
+## Operating System 
+
+- [ ] Android
+- [ ] Linux
+- [ ] Solaris
+- [ ] Unix
+- [ ] Windows
 
 ## Files added
 
