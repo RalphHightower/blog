@@ -10,11 +10,11 @@ permissions: {}
 jobs:
   create-issue:
     runs-on: ubuntu-latest
+    permissions:
+      issues: write
     steps:
       - name: Create LICENSE update issue
-        permissions:
-          issues: write
-        uses: peter-evans/create-issue-from-file@v5
+        uses: peter-evans/create-issue-from-file@v4
         with:
           title: "Update LICENSE for the new year"
           content-filepath: .github/license-reminder.md
