@@ -7,7 +7,7 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: "Treasury Secretary, Scott Bessent's Billionaire Buddy Bailout For Rob Citrone’svBad Bet on Argentina"
+title: "Treasury Secretary, Scott Bessent's Billionaire Buddy Bailout For Rob Citrone’ Bad Bet on Argentina"
 ---
 
 My call script to:
