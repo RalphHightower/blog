@@ -6,7 +6,7 @@ on:
   
     
 permissions: 
-  read-only
+  none
     
 jobs:
   stale_branches:
