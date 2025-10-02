@@ -24,13 +24,23 @@ To September 28, 2025 – 1800 EDT
 | Time | Location |
 |---|---|
 | | 🔥 [White House](https://www.whitehouse.gov/) 💣|
-| | **Sunday, September 28, 2025[^51198]** |
-| ⛳️🏌‍♂️| [Donnie](https://www.donaldjtrump.com/) golfs at his [Trump National Golf Club Washington DC](https://www.trumpnationaldc.com) |
-| 8:30 AM ⛳️🏌‍♂️| [Donnie](https://www.donaldjtrump.com/) arrives at his [Trump National Golf Club Washington DC](https://www.trumpnationaldc.com) |
-| | **Saturday, September 27, 2025[^50929]** |
-| ⛳️🏌‍♂️| [Donnie](https://www.donaldjtrump.com/) golfs at his [Trump National Golf Club Washington DC](https://www.trumpnationaldc.com) |
-| 8:30 AM ⛳️🏌‍♂️| [Donnie](https://www.donaldjtrump.com/) arrives at his [Trump National Golf Club Washington DC](https://www.trumpnationaldc.com) |
-| 6:00 PM ⛳️🏌‍♂️| [Donnie](https://www.donaldjtrump.com/) departs his [Trump National Golf Club Washington DC](https://www.trumpnationaldc.com) |
+| | **Sunday, September 28 2025** |
+| ⛳️🏌‍♂️| The [President](https://www.donaldjtrump.com/) ~~has no public events scheduled~~ (other than playing golf ⛳️🏌)<br />The [White House](https://www.whitehouse.gov/) In-Town Pool |
+| 8:00 AM | In-Town Pool Call Time<br />The [White House](https://www.whitehouse.gov/) In-Town Pool |
+| 8:38 AM | The [President](https://www.donaldjtrump.com/) departs the [White House](https://www.whitehouse.gov/) for his [Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/)<br />The [White House](https://www.whitehouse.gov/) |
+| 9:10 AM ⛳️| The [President](https://www.donaldjtrump.com/) arrives at [Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/)<br />[Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/) |
+| 9:28 AM ⛳️| The [President](https://www.donaldjtrump.com/) conducts a phone interview with Barak Ravid of [Axios](https://www.axios.com/)<br />[Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/) |
+| 3:54 PM ⛳️| The [President](https://www.donaldjtrump.com/) departs [Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/)<br />[Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/) |
+| 4:26 PM | The [President](https://www.donaldjtrump.com/) arrives at the [White House](https://www.whitehouse.gov/)<br />The [White House](https://www.whitehouse.gov/) |
+| 4:29 PM | [White House](https://www.whitehouse.gov/) Press Office: Full lid called<br />The [White House](https://www.whitehouse.gov/) |
+| | **Saturday, September 27 2025** |
+| ⛳️🏌‍♂️| The [President](https://www.donaldjtrump.com/) ~~has no public events scheduled~~ (other than playing golf ⛳️🏌)<br />The [White House](https://www.whitehouse.gov/) In-Town Pool |
+| 8:00 AM | In-Town Pool Call Time<br />The [White House](https://www.whitehouse.gov/) In-Town Pool |
+| 8:38 AM ⛳️| The [President](https://www.donaldjtrump.com/) departs the [White House](https://www.whitehouse.gov/) for his [Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/)<br />The [White House](https://www.whitehouse.gov/) |
+| 9:09 AM ⛳️| The [President](https://www.donaldjtrump.com/) arrives at [Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/)<br />[Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/) |
+| 3:12 PM ⛳️| The [President](https://www.donaldjtrump.com/) departs [Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/)<br />[Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/) |
+| 3:44 PM | The [President](https://www.donaldjtrump.com/) arrives at the [White House](https://www.whitehouse.gov/)<br />The [White House](https://www.whitehouse.gov/) |
+| 3:45 PM | [White House](https://www.whitehouse.gov/) Press Office: Full lid called<br />The [White House](https://www.whitehouse.gov/) |
 | | **Friday, September 26 2025** |
 | 8:45 AM | Out-of-Town Travel Pool Call Time<br />[Joint Base Andrews](https://www.jba.af.mil/) Out-of-Town Travel Pool |
 | 9:50 AM | The [President](https://www.donaldjtrump.com/) departs the [White House](https://www.whitehouse.gov/) en route [Bethpage](https://oysterbaytown.com/), [New York](https://www.ny.gov/) \[Actual: 9:59 AM to [Joint Base Andrews](https://www.jba.af.mil/)\]<br />[South Lawn](https://www.whitehouse.gov/) Open Press |

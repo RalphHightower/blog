@@ -3,7 +3,7 @@ name: stale-branches.yml – Delete Stale Branches
 on:
   #workflow_dispatch:  # Manual trigger from GitHub UI
   schedule:
-    - cron: '0 2 * * 0'
+    - cron: '0 6 * * 0'
 
 permissions:
   issues: write
@@ -12,7 +12,6 @@ permissions:
 jobs:
   stale_branches:
     runs-on: ubuntu-latest
-
     steps:
       - name: Stale Branches
         uses: crs-k/stale-branches@v8.2.2          
