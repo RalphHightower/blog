@@ -1,13 +1,13 @@
 ---
 layout: post
-tags: []
-categories: []
+tags: [media, MSNBC News - Breaking News and News Today / Latest News, Laura Barrón-López, NBC News - Breaking Headlines and Video Reports on World U.S. and Local Angles / NBC News, Ali Vitali, POLITICO - Politics Policy Political News, PBS News – News Analysis Top Headlines Live Coverage, NewsHour, organizations, political parties, Democrat Party, Trumpian Party, universities, companies, foreign governments, state local governments, federal government, Constitution of the United States, U.S. Constitution - Article I / Library of Congress, U.S. Constitution - Article II / Library of Congress, U.S. Constitution - Article III / Library of Congress, U.S. Constitution - Article IV / Library of Congress, U.S. Constitution - Article V / Library of Congress, U.S. Constitution - Article VI / Library of Congress, U.S. Constitution - Article VII / Library of Congress, Hatch Act Overview, Supreme Court of the United States (SCOTUS), US Courts, Department of Justice (DOJ), Federal Bureau of Investigation (FBI), Federal Reserve, Federal Reserve Board - Federal Reserve Act, U.S. Department of the Treasury, Department of Interior (DOI), Department of Labor (DOL), Health and Human Services (HHS), Housing and Urban Development Agency (HUD), Small Business Administration (SBA), U.S. Forest Service, Social Security Administration *SSA), Congress, Senate, Jim Banks (D-IN), Andy Kim (D-NJ), Elissa Slotkin (D-MI), House of Representatives, President of the United States (POTUS), White House (WH), government shutdown, Trump autocracy, Donald J Trump, President Donald Trump (45), President Donald Trump (47), President Trump (47) Administration, President Trump (47) Cabinet, press secretary, Karoline Leavitt, grifter, self-dealing, corruption, con artist, crime, cryptocurrency, criminal associates, criminal businesses, criminal media, criminal organizations, criminal partners]
+categories: [Donald Trump, government shutdown, agency notifications]
 date: 2025-10-02 11:39
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: 'title'
+title: "Many Federal Agencies Are Blaming Government Shutdown On Wrong Political Party, Even Using Trump’s Divisive Word"
 ---
 
 
@@ -65,7 +65,7 @@ Laura Barrón-López covers the [White House](https://www.whitehouse.gov/) for [
     - Ali Vitali
 - [POLITICO - Politics, Policy, Political News](https://www.politico.com/)
 - [PBS News – News, Analysis, Top Headlines, Live Coverage](https://www.pbs.org/)
-    [NewsHour](https://www.pbs.org/show/newshour/)
+    - [NewsHour](https://www.pbs.org/show/newshour/)
 - organizations
 - political parties
 - [Democrat Party](https://www.democrats.org/)
@@ -91,12 +91,13 @@ Laura Barrón-López covers the [White House](https://www.whitehouse.gov/) for [
     - [Federal Reserve](https;//www.federalreserve.gov/)
     - [Federal Reserve Board - Federal Reserve Act](https://www.federalreserve.gov/aboutthefed/fract.htm)
     - [U.S. Department of the Treasury](https://home.treasury.gov/)
+    - [Department of Interior (DOI)](https://www.doi.gov/)
     - [Department of Labor (DOL)](https://www.dol.gov/)
     - [Health and Human Services (HHS)](https://www.hhs.gov/)
     - [Housing and Urban Development Agency (HUD)](https://www.hud.gov/)
     - [Small Business Administration (SBA)](https://www.sba.gov/)
     - [U.S. Forest Service](https://www.fs.usda.gov/)
-    - [Social Security Administration](https://www.ssa.gov/)
+    - [Social Security Administration *SSA)](https://www.ssa.gov/)
     - [Congress](https://www.congress.gov/)
         - [Senate](https://www.senate.gov/)
             - [Jim Banks (D-IN)](https://www.banks.senate.gov/)
@@ -105,6 +106,7 @@ Laura Barrón-López covers the [White House](https://www.whitehouse.gov/) for [
                 - [House of Representatives](https://www.house.gov/)
      - [President of the United States (POTUS)](https://www.whitehouse.gov/)
     - [White House (WH)](https://www.whitehouse.gov/)
+- government shutdown
 - Trump autocracy
     - [Donald J Trump](https://www.donaldjtrump.com/)
         - [President Donald Trump (45)](https://trumpwhitehouse.archives.gov/)
