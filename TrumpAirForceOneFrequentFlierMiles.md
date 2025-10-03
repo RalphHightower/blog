@@ -2,7 +2,7 @@
 layout: page
 tags: [The Mar-a-Lago Club, Palm Beach Florida 33480, Trump International Golf Club, West Palm Beach FL 33406, Trump National Doral Golf Club, Miami FL 33178, Trump National Jupiter Golf Club, Jupiter FL 33477, Trump National Golf Club Washington D.C., Potomac Falls VA 20165, Trump National Golf Club Bedminster, Bedminster NJ 07921, Trump National Golf Club Colts Neck, Colts Neck NJ 07722, Trump National Golf Club Philadelphia, Pine Hill NJ 08021, Trump National Golf Club Hudson Valley, Hopewell Junction NY 12533, Trump National Golf Club Los Angeles, Rancho Palos Verdes CA 90275, Trump National Golf Club Charlotte, Mooresville NC 28117, Trump International Golf Club Dubai, Al Hebiah Third District Dubai, Trump International Golf Links & Hotel Ireland Doonbeg, CLARE IRELAND, Trump MacLeod House & Lodge Scotland, Aberdeenshire Scotland AB23 8YE, Trump MacLeod House & Lodge Scotland, Aberdeenshire Scotland AB23 8YE, Trump Turnberry, Ayrshire Scotland]
 categories: [Donald Trump]
-date: 2025-09-22 7:20 PM
+date: 2025-10-03 3:31 PM
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
@@ -15,14 +15,16 @@ title: "🛫Trump: Air Force One Frequent Flyer Miles🚁"
 - 2025-04-05: [Trump Never Let a Weekend of Golf ⛳️ Interfere With a Commander-In-Chief’s Solemn Duty to Receive Fallen Military 🪖]({% link _posts/2025/04/2025-04-05-MilitaryFallenDontInterruptTrumpGolfWeekends.md %})
 
 [^666]: @RalphHightower – [Federal Aviation Administration - Graphic TFRs](https://tfr.faa.gov/tfr3/?page=list)
-[^59220]: [Federal Aviation Administration - Graphic TFRs](https://tfr.faa.gov/tfr3/?page=detail_5_9220). From September 26, 2025 at 1030 EDT). To September 26, 2025 at 1630 EDT
-[^59245]: [Federal Aviation Administration - Graphic TFRs](https://tfr.faa.gov/tfr3/?page=detail_5_9245). From September 26, 2025 at 1030 EDT). To September 26, 2025 at 1630 EDT
-[^50929]: [Federal Aviation Administration - Graphic TFRs](https://tfr.faa.gov/tfr3/?page=detail_5_0929). September 27, 2025 at 0830 EDT – September 27, 2025 at 1800 EDT
-[^51198]: [Federal Aviation Administration - Graphic TFRs](https://tfr.faa.gov/tfr3/?page=detail_5_1198). From September 28, 2025 at 0830 EDT
-To September 28, 2025 – 1800 EDT
+[^56092]: [Federal Aviation Administration - Graphic TFRs](https://tfr.faa.gov/tfr3/?page=detail_5_6092). From October 04, 2025 at 0830 EDT– October 04, 2025 at 1800 EDT.
 
 | Time | Location |
 |---|---|
+| | **Sunday, October 5, 2025** |
+| 8:30 AM ⛳️🏌‍♂️| [Donnie](https://www.donaldjtrump.com/) is golfing at his [Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/) while the government is shut down. |
+| 6:00 PM | [Donnie](https://www.donaldjtrump.com/) is back at the [White House](https://www.whitehouse.gov/) |
+| | **Saturday, October 4, 2025[^56092]** |
+| 8:30 AM ⛳️🏌‍♂️| [Donnie](https://www.donaldjtrump.com/) is golfing at his [Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/) while the government is shut down. |
+| 6:00 PM | [Donnie](https://www.donaldjtrump.com/) is back at the [White House](https://www.whitehouse.gov/) |
 | | 🔥 [White House](https://www.whitehouse.gov/) 💣|
 | | **Sunday, September 28 2025** |
 | ⛳️🏌‍♂️| The [President](https://www.donaldjtrump.com/) ~~has no public events scheduled~~ (other than playing golf ⛳️🏌)<br />The [White House](https://www.whitehouse.gov/) In-Town Pool |
@@ -49,7 +51,7 @@ To September 28, 2025 – 1800 EDT
 | 11:10 AM | The [President](https://www.donaldjtrump.com/) arrives at [Republic Airport](https://republicairport.net/) in [Farmingdale, New York](http://www.farmingdalevillage.com/)<br />[Republic Airport](https://republicairport.net/), [Farmingdale, New York](http://www.farmingdalevillage.com/) Open Press |
 | -:-- AM | The [President](https://www.donaldjtrump.com/) departs [Republic Airport](https://republicairport.net/) in [Farmingdale, New York](http://www.farmingdalevillage.com/)<br />for [Bethpage State Park Golf Course](https://www.bethpagegolfcourse.com/) Open Press |
 | 11:10 AM | The [President](https://www.donaldjtrump.com/) arrives [Bethpage](https://oysterbaytown.com/), [New York](https://www.ny.gov/)<br />The [Bethpage State Park Golf Course](https://www.bethpagegolfcourse.com/), [Farmingdale](http://www.farmingdalevillage.com/), [NY](https://www.ny.gov/) Pre-Credentialed Media |
-| 11:24 AM | The [President](https://www.donaldjtrump.com/) departs [Republic Airport](https://republicairport.net/) for the [Ryder Cup](https://www.rydercup.com/) in [Bethpage](https://oysterbaytown.com/), [New York](https://www.ny.gov/)<br />[Republic Airport](https://republicairport.net/), [Farmingdale, New York](http://www.farmingdalevillage.com/) Open Press |
+| 11:24 AM 🍿| The [President](https://www.donaldjtrump.com/) departs [Republic Airport](https://republicairport.net/) for the [Ryder Cup](https://www.rydercup.com/) in [Bethpage](https://oysterbaytown.com/), [New York](https://www.ny.gov/)<br />[Republic Airport](https://republicairport.net/), [Farmingdale, New York](http://www.farmingdalevillage.com/) Open Press |
 | 11:40 AM | The [President](https://www.donaldjtrump.com/) arrives at the [Bethpage State Park Golf Course](https://www.bethpagegolfcourse.com/) in [Farmingdale, New York](http://www.farmingdalevillage.com/) for the [Ryder Cup](https://www.rydercup.com/)<br />[Republic Airport](https://republicairport.net/), [Farmingdale, New York](http://www.farmingdalevillage.com/) Open Press |
 | 12:00 PM | The [President](https://www.donaldjtrump.com/) attends the [Ryder Cup](https://www.rydercup.com/)<br />The [Bethpage State Park Golf Course](https://www.bethpagegolfcourse.com/), [Farmingdale, New York](http://www.farmingdalevillage.com/) Out-of-Town Travel Pool |
 | 3:30 PM | The [President](https://www.donaldjtrump.com/) departs [Bethpage](https://oysterbaytown.com/), [New York](https://www.ny.gov/), en route the [White House](https://www.whitehouse.gov/)<br />The [Bethpage State Park Golf Course](https://www.bethpagegolfcourse.com/), [Farmingdale, New York](http://www.farmingdalevillage.com/) Out-of-Town Travel Pool |
@@ -214,13 +216,13 @@ To September 28, 2025 – 1800 EDT
 | 5:04 PM | The [President](https://www.donaldjtrump.com/) arrives at [Joint Base Andrews](https://www.jba.af.mil/)<br />[Joint Base Andrews](https://www.jba.af.mil/) |
 | 5:21 PM | The [President](https://www.donaldjtrump.com/) departs [Joint Base Andrews](https://www.jba.af.mil/) for [New York](https://www.nyc.gov/)<br />[Joint Base Andrews](https://www.jba.af.mil/) |
 | 5:57 PM | The [President](https://www.donaldjtrump.com/) arrives at [LaGuardia Airport](https://www.laguardiaairport.com/) in [New York](https://www.nyc.gov/)<br />[LaGuardia Airport](https://www.laguardiaairport.com/) |
-| 6:13 PM | The [President](https://www.donaldjtrump.com/) departs [LaGuardia Airport](https://www.laguardiaairport.com/) for [Yankees Stadium](https://www.mlb.com/yankees/ballpark) |
+| 6:13 PM ⚾️| The [President](https://www.donaldjtrump.com/) departs [LaGuardia Airport](https://www.laguardiaairport.com/) for [Yankees Stadium](https://www.mlb.com/yankees/ballpark) |
 | [LaGuardia Airport](https://www.laguardiaairport.com/) |
-| 6:30 PM | The [President](https://www.donaldjtrump.com/) arrives at [Yankees Stadium](https://www.mlb.com/yankees/ballpark)<br />[Yankees Stadium](https://www.mlb.com/yankees/ballpark), [Bronx](https://bronxboropres.nyc.gov/), [NY](https://www.ny.gov/) |
-| 6:57 PM | The [President](https://www.donaldjtrump.com/) arrives at the Steinbrenner family box<br />[Yankees Stadium](https://www.mlb.com/yankees/ballpark), [Bronx](https://bronxboropres.nyc.gov/), [NY](https://www.ny.gov/) |
-| 7:00 PM | The [President](https://www.donaldjtrump.com/) attends the [Yankees Baseball Game](https://www.mlb.com/yankees/)<br />[Yankees Stadium](https://www.mlb.com/yankees/ballpark), [Bronx](https://bronxboropres.nyc.gov/), [NY](https://www.ny.gov/) Out-of-Town Travel Pool |
-| 9:54 PM | The [President](https://www.donaldjtrump.com/) departs [Yankees Stadium](https://www.mlb.com/yankees/ballpark) for [Trump Tower](https://www.trumphotels.com/central-park)</<[Yankees Stadium](https://www.mlb.com/yankees/ballpark), [Bronx](https://bronxboropres.nyc.gov/), [NY](https://www.ny.gov/) |
-| 10:12 PM | The [President](https://www.donaldjtrump.com/) arrives at [Trump Tower](https://www.trumphotels.com/central-park)</<[Trump Tower](https://www.trumphotels.com/central-park) |
+| 6:30 PM ⚾️| The [President](https://www.donaldjtrump.com/) arrives at [Yankees Stadium](https://www.mlb.com/yankees/ballpark)<br />[Yankees Stadium](https://www.mlb.com/yankees/ballpark), [Bronx](https://bronxboropres.nyc.gov/), [NY](https://www.ny.gov/) |
+| 6:57 PM ⚾️| The [President](https://www.donaldjtrump.com/) arrives at the Steinbrenner family box<br />[Yankees Stadium](https://www.mlb.com/yankees/ballpark), [Bronx](https://bronxboropres.nyc.gov/), [NY](https://www.ny.gov/) |
+| 7:00 PM ⚾️| The [President](https://www.donaldjtrump.com/) attends the [Yankees Baseball Game](https://www.mlb.com/yankees/)<br />[Yankees Stadium](https://www.mlb.com/yankees/ballpark), [Bronx](https://bronxboropres.nyc.gov/), [NY](https://www.ny.gov/) Out-of-Town Travel Pool |
+| 9:54 PM ⚾️| The [President](https://www.donaldjtrump.com/) departs [Yankees Stadium](https://www.mlb.com/yankees/ballpark) for [Trump Tower](https://www.trumphotels.com/central-park)<br />[Yankees Stadium](https://www.mlb.com/yankees/ballpark), [Bronx](https://bronxboropres.nyc.gov/), [NY](https://www.ny.gov/) |
+| 10:12 PM | The [President](https://www.donaldjtrump.com/) arrives at [Trump Tower](https://www.trumphotels.com/central-park)<br />[Trump Tower](https://www.trumphotels.com/central-park) |
 | 10:15 PM | [White House](https://www.whitehouse.gov/) Press Office: Full lid called<br />[Trump Tower](https://www.trumphotels.com/central-park) |
 | | **Sunday, September 7 2025** |
 | 10:50 AM | Out-of-Town Travel Pool Call Time<br />[Joint Base Andrews](https://www.jba.af.mil/) Out-of-Town Travel Pool |
@@ -1350,7 +1352,8 @@ To September 28, 2025 – 1800 EDT
 | 4:10 PM | The [President](https://www.donaldjtrump.com/) arrives [Naval Air Station Joint Reserve Base New Orleans](https://www.navymwrneworleans.com/) [3:10 PM Local]<br />[Naval Air Station Joint Reserve Base New Orleans](https://www.navymwrneworleans.com/) Out-of-Town Travel Pool |
 | 4:20 PM | The [President](https://www.donaldjtrump.com/) departs [Naval Air Station Joint Reserve Base New Orleans](https://www.navymwrneworleans.com/) en route [Caesars Superdome](https://www.caesarssuperdome.com/) [3:20 PM Local]<br />[Naval Air Station Joint Reserve Base New Orleans](https://www.navymwrneworleans.com/) Out-of-Town Travel Pool |
 | 4:50 PM 🏈| The [President](https://www.donaldjtrump.com/) arrives [Caesars Superdome](https://www.caesarssuperdome.com/) for [Super Bowl LIX](https://www.nfl.com/super-bowl/) [3:50 PM Local]<br />[Caesars Superdome](https://www.caesarssuperdome.com/), [New Orleans](https://nola.gov/) Out-of-Town Travel Pool |
-| 9:05 PM | The [President](https://www.donaldjtrump.com/) departs [Caesars Superdome](https://www.caesarssuperdome.com/) en route [Naval Air Station Joint Reserve Base New Orleans](https://www.navymwrneworleans.com/) [8:05 PM Local]<br />[Caesars Superdome](https://www.caesarssuperdome.com/), [New Orleans](https://nola.gov/) Out-of-Town Travel Pool |
+| 9:05 PM 🏈
+| The [President](https://www.donaldjtrump.com/) departs [Caesars Superdome](https://www.caesarssuperdome.com/) en route [Naval Air Station Joint Reserve Base New Orleans](https://www.navymwrneworleans.com/) [8:05 PM Local]<br />[Caesars Superdome](https://www.caesarssuperdome.com/), [New Orleans](https://nola.gov/) Out-of-Town Travel Pool |
 | 9:35 PM | The [President](https://www.donaldjtrump.com/) arrives [Naval Air Station Joint Reserve Base New Orleans](https://www.navymwrneworleans.com/) [8:35 PM Local]<br />[Naval Air Station Joint Reserve Base New Orleans](https://www.navymwrneworleans.com/) Out-of-Town Travel Pool |
 | 9:45 PM | The [President](https://www.donaldjtrump.com/) departs [Naval Air Station Joint Reserve Base New Orleans](https://www.navymwrneworleans.com/) en route [Joint Base Andrews](https://www.jba.af.mil/) [8:45 PM Local]<br />[Naval Air Station Joint Reserve Base New Orleans](https://www.navymwrneworleans.com/) Out-of-Town Travel Pool |
 | 10:45 PM | In-Town Pool Call Time<br />[The White House](https://www.whitehouse.gov/) In-Town Pool |
@@ -1515,3 +1518,7 @@ To September 28, 2025 – 1800 EDT
 [^58352]: [Federal Aviation Administration - Graphic TFRs](https://tfr.faa.gov/tfr3/?page=detail_5_8352). NYC, NY From September 07, 2025 at 1645 UTC (September 07, 2025 at 1245 EDT) To September 07, 2025 at 2300 UTC (September 07, 2025 at 1900 EDT)
 [^58353]: [Federal Aviation Administration - Graphic TFRs](https://tfr.faa.gov/tfr3/?page=detail_5_8353). From September 07, 2025 at 1645 UTC (September 07, 2025 at 1245 EDT) To September 07, 2025 at 2300 UTC (September 07, 2025 at 1900 EDT)
 [^57501]:  [Federal Aviation Administration - Graphic TFRs](https://tfr.faa.gov/tfr3/?page=detail_5_7501). From September 20, 2025 at 0830 EDT. To September 20, 2025 at 1800 EDT.
+[^59220]: [Federal Aviation Administration - Graphic TFRs](https://tfr.faa.gov/tfr3/?page=detail_5_9220). From September 26, 2025 at 1030 EDT). To September 26, 2025 at 1630 EDT
+[^59245]: [Federal Aviation Administration - Graphic TFRs](https://tfr.faa.gov/tfr3/?page=detail_5_9245). From September 26, 2025 at 1030 EDT). To September 26, 2025 at 1630 EDT
+[^50929]: [Federal Aviation Administration - Graphic TFRs](https://tfr.faa.gov/tfr3/?page=detail_5_0929). September 27, 2025 at 0830 EDT – September 27, 2025 at 1800 EDT
+[^51198]: [Federal Aviation Administration - Graphic TFRs](https://tfr.faa.gov/tfr3/?page=detail_5_1198). From September 28, 2025 at 0830 EDT – September 28, 2025 – 1800 EDT
