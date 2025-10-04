@@ -10,6 +10,9 @@ excerpt: ''
 title: "Trump’s Corruption Is On Full Display With James Comey Indictment"
 ---
 
+- ['Prosecute' vs. 'Persecute' – Merriam-Webster](https://www.merriam-webster.com/grammar/prosecuted-vs-persecuted-usage)
+    - “One you do in court, the other you do if you're a jerk.”
+
 ## [As Trump orchestrates James Comey’s indictment, the corruption is the point](https://www.msnbc.com/rachel-maddow-show/maddowblog/trump-orchestrates-james-comey-indictment-fbi-justice-corruption-rcna233857)
 
 *Among the most striking things about the [Comey](https://www.fbi.gov/history/directors/james-b-comey) indictment is that it is plainly what it appears to be. There’s barely a pretense of propriety.*

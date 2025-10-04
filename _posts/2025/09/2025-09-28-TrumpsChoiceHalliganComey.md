@@ -11,6 +11,9 @@ title: 'title'
 ---
 
 
+- ['Prosecute' vs. 'Persecute' – Merriam-Webster](https://www.merriam-webster.com/grammar/prosecuted-vs-persecuted-usage)
+    - “One you do in court, the other you do if you're a jerk.”
+
 ## [Why Trump tapped Lindsey Halligan to secure the James Comey indictment](https://www.msnbc.com/opinion/msnbc-opinion/trump-lindsey-halligan-james-comey-indictment-rcna234122)
 
 *The strategy matches what historian Ruth Ben-Ghiat calls “engineered incompetence.”*
