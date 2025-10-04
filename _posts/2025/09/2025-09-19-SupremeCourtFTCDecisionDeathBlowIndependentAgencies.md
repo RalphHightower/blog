@@ -7,7 +7,7 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: 'title'
+title: "Supreme Court Deals Death Blow To Agencies Legislated To Be Independent"
 ---
 
 

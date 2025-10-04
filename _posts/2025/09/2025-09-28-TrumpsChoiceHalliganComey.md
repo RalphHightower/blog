@@ -7,7 +7,7 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: 'title'
+title: "Trump Needed a Sycophantic Lawyer, Lindsey Halligan, to Indict James Comey On Meritless Evidence"
 ---
 
 
@@ -95,7 +95,7 @@ Securing an indictment is only the first step — now she has to mount a case an
     - [Eastern District of Michigan / Eastern District of Michigan](https://www.justice.gov/usao-edmi)
         - [Barbara L. McQuade / University of Michigan Law School](https://michigan.law.umich.edu/faculty-and-scholarship/our-faculty/barbara-l-mcquade)
         - [Federal Bureau of Investigation (FBI)](https://www.fbi.gov/)
-            - [James Comey](https://www.fbi.gov/history/directors/james-b-comey/)
+            - [James B. Comey, September 4, 2013 - May 9, 2017 — FBI](https://www.fbi.gov/history/directors/james-b-comey)
     - [Federal Reserve](https;//www.federalreserve.gov/)
     - [Federal Reserve Board - Federal Reserve Act](https://www.federalreserve.gov/aboutthefed/fract.htm)
     - [U.S. Department of the Treasury](https://home.treasury.gov/)
