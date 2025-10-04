@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [media, MSNBC News - Breaking News and News Today / Latest News, Zeeshan Aleem, CNN / Breaking News Latest News and Videos, HuffPost - Breaking News Politics Entertainment & Opinion, NBC News - Breaking Headlines and Video Reports on World U.S. and Local Angles / NBC News, The New York Times (NYT) - Breaking News US News World News and Videos, POLITICO - Politics Policy Political News, The Atlantic, Disney.com / The official home for all things Disney, ABC Network - ABC.com, Watch Jimmy Kimmel Live! TV Show - ABC.com, organizations, political parties, Democrat Party, Trumpian Party, universities, Utah Valley University / Utah Valley University, venues, State Farm Stadium, .- companies, Nexstar Media Group Inc. / A Leading Local Media Company With National Reach, Sinclair Inc, foreign governments, state local governments, federal government, Constitution of the United States, U.S. Constitution - Article I / Library of Congress, U.S. Constitution - Article II / Library of Congress, U.S. Constitution - Article III / Library of Congress, U.S. Constitution - Article IV / Library of Congress, U.S. Constitution - Article V / Library of Congress, U.S. Constitution - Article VI / Library of Congress, U.S. Constitution - Article VII / Library of Congress, Supreme Court of the United States (SCOTUS), US Courts, Department of Justice (DOJ), Federal Bureau of Investigation (FBI), Department of Defense (DOD), Joint Chiefs of Staff (JCS), U.S. Africa Command (AFRICOM), U.S. Central Command (CENTCOM), U.S. Northern Command (USNORTHCOM), Indo-Pacific Command (USINDOPACOM), U.S. Southern Command (SOUTHCOM), U.S. Special Operations Command (USSOCOM), Strategic Command (USSTRATCOM), U.S. European Command (USEUCOM), U.S. Military Academy West Point, U.S. Air Force, U.S. Army, U.S. Coast Guard (USCG), U.S. Marine Corps, National Guard, U.S. Navy, National Guard, U.S. Space Command, Federal Reserve, Federal Reserve Board - Federal Reserve Act, U.S. Department of the Treasury, Congress, Senate, House of Representatives, President of the United States (POTUS), White House (WH), Trump autocracy, Donald J Trump, President Donald Trump (45), President Donald Trump (47), President Trump (47) Administration, President Trump (47) Cabinet, press secretary, Karoline Leavitt, JD Vance, Vice President JD Vance, Pam Bondi, Office of the Deputy Attorney General / Office of the Deputy Attorney General, Todd Blanche / LinkedIn, Kash Patel, Deputy Director Dan Bongino — FBI, Pete Hegseth, Pete Hegseth – LinkedIn- grifter, self-dealing, corruption, con artist, criminal, cryptocurrency, criminal associates, criminal businesses, criminal media, criminal organizations, criminal partners, Turning Point USA, Charlie Kirk – Deceased, The Charlie Kirk Show, Home - Stephen K Bannon’s War Room, Candace Owens, Infowars, Alex Jones]
+tags: [media, MSNBC News - Breaking News and News Today / Latest News, Zeeshan Aleem, CNN / Breaking News Latest News and Videos, HuffPost - Breaking News Politics Entertainment & Opinion, NBC News - Breaking Headlines and Video Reports on World U.S. and Local Angles / NBC News, The New York Times (NYT) - Breaking News US News World News and Videos, POLITICO - Politics Policy Political News, The Atlantic, Disney.com / The official home for all things Disney, ABC Network - ABC.com, Watch Jimmy Kimmel Live! TV Show - ABC.com, organizations, political parties, Democrat Party, Trumpian Party, universities, Utah Valley University / Utah Valley University, venues, State Farm Stadium, .- companies, Nexstar Media Group Inc. / A Leading Local Media Company With National Reach, Sinclair Inc, foreign governments, state local governments, federal government, Constitution of the United States, U.S. Constitution - Article I / Library of Congress, U.S. Constitution - Article II / Library of Congress, U.S. Constitution - Article III / Library of Congress, U.S. Constitution - Article IV / Library of Congress, U.S. Constitution - Article V / Library of Congress, U.S. Constitution - Article VI / Library of Congress, U.S. Constitution - Article VII / Library of Congress, Supreme Court of the United States (SCOTUS), US Courts, Department of Justice (DOJ), Federal Bureau of Investigation (FBI), Department of Defense (DOD), Joint Chiefs of Staff (JCS), U.S. Africa Command (AFRICOM), U.S. Central Command (CENTCOM), U.S. Northern Command (USNORTHCOM), Indo-Pacific Command (USINDOPACOM), U.S. Southern Command (SOUTHCOM), U.S. Special Operations Command (USSOCOM), Strategic Command (USSTRATCOM), U.S. European Command (USEUCOM), U.S. Military Academy West Point, U.S. Air Force, U.S. Army, U.S. Coast Guard (USCG), U.S. Marine Corps, National Guard, U.S. Navy, National Guard, U.S. Space Command, Federal Reserve, Federal Reserve Board - Federal Reserve Act, U.S. Department of the Treasury, Congress, Senate, House of Representatives, President of the United States (POTUS), White House (WH), Trump autocracy, Donald J Trump, President Donald Trump (45), President Donald Trump (47), President Trump (47) Administration, President Trump (47) Cabinet, press secretary, Karoline Leavitt, Pete Hegseth, Pete Hegseth – LinkedIn, grifter, self-dealing, corruption, con artist, crime, cryptocurrency, criminal associates, criminal businesses, criminal media, criminal organizations, criminal partners]
 categories: [Armed Forces, recruitment, Charlie Kirk, Donald Trump]
 date: 2025-09-27 18:36
 excerpt: ''
@@ -113,30 +113,16 @@ Zeeshan Aleem is a writer and editor for [MSNBC Daily](https://www.msnbc.com/). 
             - [President Trump (47) Cabinet](https://www.whitehouse.gov/administration/the-cabinet/)
                 - press secretary
                     - Karoline Leavitt
-                - [JD Vance](https://www.linkedin.com/in/jd-vance-770a9047/)
-                - [Vice President JD Vance](https://www.whitehouse.gov/administration/jd-vance/)
-                - [Pam Bondi](https://www.justice.gov/ag/staff-profile/meet-attorney-general)
-                    - [Office of the Deputy Attorney General / Office of the Deputy Attorney General](https://www.justice.gov/dag)
-                    - [Todd Blanche / LinkedIn](https://www.linkedin.com/in/toddblanche/)
-                - [Kash Patel](https://www.fbi.gov/about/leadership-and-structure/director-patel)
-                    - [Deputy Director Dan Bongino — FBI](https://www.fbi.gov/about/leadership-and-structure/deputy-director-dan-bongino)
                 - [Pete Hegseth](https://www.defense.gov/About/Biographies/Biography/Article/4040890/hon-pete-hegseth/)
                 - [Pete Hegseth – LinkedIn](https://www.linkedin.com/in/petehegseth/)
 - grifter
 - self-dealing
 - corruption
 - con artist
-- criminal
+- crime
 - cryptocurrency
 - criminal associates
 - criminal businesses
 - criminal media
 - criminal organizations
 - criminal partners
-- [Turning Point USA](https://www.tpusa.com/)
-    - [Charlie Kirk – Deceased](https://www.charliekirk.com/)
-        - [The Charlie Kirk Show](https://thecharliekirkshow.com/)
-- [Home - Stephen K Bannon's War Room](https://warroom.org/)
-- [Candace Owens](https://www.candaceowens.com/)
-- [Infowars](https://www.infowars.com/)
-    - Alex Jones

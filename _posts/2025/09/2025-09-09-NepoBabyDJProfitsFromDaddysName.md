@@ -85,8 +85,8 @@ Zeeshan Aleem is a writer and editor for [MSNBC Daily](https://www.msnbc.com/). 
 - [Homepage — Ministério das Relações Exteriores](https://www.gov.br/mre/)
 - [MRE — Ministério das Relações Exteriores](https://www.gov.br/mre/pt-br)
 - [India](https://www.india.gov.in/)
-- [Головна / Кабінет Міністрів України (UA)](https://www.kmu.gov.ua/)
-- [Головна / Кабінет Міністрів України](https://www.kmu.gov.ua/)- state, local governments
+- [Україна (UA)](https://www.kmu.gov.ua/)
+- state, local governments
 - federal government
 - [President Joe Biden](https://bidenwhitehouse.archives.gov/)
 - [Constitution](https://constitution.congress.gov/constitution/)
