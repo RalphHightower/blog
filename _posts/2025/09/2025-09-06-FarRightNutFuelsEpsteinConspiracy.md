@@ -62,7 +62,7 @@ Nonetheless, lawmakers are due to get their hands on some potentially revelatory
     - [Criminal Division / Office of Enforcement Operations (OEO) / United States Department of Justice](https://www.justice.gov/criminal/criminal-oeo)
    - [Department of State (DOS)](https://www.state.gov/)
     - [Federal Bureau of Investigation (FBI)](https://www.fbi.gov/)
-        - [James Comey](https://www.fbi.gov/history/directors/james-b-comey)
+        - [James B. Comey, September 4, 2013 - May 9, 2017 — FBI](https://www.fbi.gov/history/directors/james-b-comey)
     - [Congress](https://www.congress.gov/)
     - [President of the United States (POTUS)](https://www.whitehouse.gov/)
         - [Senate](https://www.senate.gov/)

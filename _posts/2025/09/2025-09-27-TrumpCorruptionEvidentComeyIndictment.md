@@ -10,6 +10,9 @@ excerpt: ''
 title: "Trump’s Corruption Is On Full Display With James Comey Indictment"
 ---
 
+- ['Prosecute' vs. 'Persecute' – Merriam-Webster](https://www.merriam-webster.com/grammar/prosecuted-vs-persecuted-usage)
+    - “One you do in court, the other you do if you're a jerk.”
+
 ## [As Trump orchestrates James Comey’s indictment, the corruption is the point](https://www.msnbc.com/rachel-maddow-show/maddowblog/trump-orchestrates-james-comey-indictment-fbi-justice-corruption-rcna233857)
 
 *Among the most striking things about the [Comey](https://www.fbi.gov/history/directors/james-b-comey) indictment is that it is plainly what it appears to be. There’s barely a pretense of propriety.*
@@ -83,7 +86,7 @@ As [Trump](https://www.donaldjtrump.com/) [brags](https://truthsocial.com/@realD
     - [Department of Justice (DOJ)](https://www.justice.gov/)
         - [Eastern District of Virginia / Eastern District of Virginia](https://www.justice.gov/usao-edva)
         - [Federal Bureau of Investigation (FBI)](https://www.fbi.gov/)
-            - [James Comey](https://www.fbi.gov/history/directors/james-b-comey)
+            - [James B. Comey, September 4, 2013 - May 9, 2017 — FBI](https://www.fbi.gov/history/directors/james-b-comey)
     - [Federal Reserve](https;//www.federalreserve.gov/)
     - [Federal Reserve Board - Federal Reserve Act](https://www.federalreserve.gov/aboutthefed/fract.htm)
     - [U.S. Department of the Treasury](https://home.treasury.gov/)

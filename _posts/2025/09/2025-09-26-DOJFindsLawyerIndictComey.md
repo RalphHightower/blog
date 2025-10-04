@@ -10,6 +10,9 @@ excerpt: ''
 title: "Trump Finds a Henchman to Indict Former FBI Director James Comey"
 ---
 
+- ['Prosecute' vs. 'Persecute' – Merriam-Webster](https://www.merriam-webster.com/grammar/prosecuted-vs-persecuted-usage)
+    - “One you do in court, the other you do if you're a jerk.”
+
 ## [DOJ indicts former FBI Director James Comey](https://www.msnbc.com/msnbc/news/james-comey-indictment-congress-fbi-director-rcna233691)
 
 *The prosecution marks a serious escalation in the [president](https://www.whitehouse.gov/)’s politicization of the [Department of Justice](https://www.justice.gov/).*
@@ -100,7 +103,7 @@ Sep 20, 2025, 6:44 PM
     - [Department of Justice (DOJ)](https://www.justice.gov/)
         - [Eastern District of Virginia / Eastern District of Virginia](https://www.justice.gov/usao-edva)
         - [Federal Bureau of Investigation (FBI)](https://www.fbi.gov/)
-            - [James Comey](https://www.fbi.gov/history/directors/james-b-comey)
+            - [James B. Comey, September 4, 2013 - May 9, 2017 — FBI](https://www.fbi.gov/history/directors/james-b-comey)
     - [Federal Reserve](https;//www.federalreserve.gov/)
     - [Federal Reserve Board - Federal Reserve Act](https://www.federalreserve.gov/aboutthefed/fract.htm)
     - [U.S. Department of the Treasury](https://home.treasury.gov/)

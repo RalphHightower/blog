@@ -80,7 +80,7 @@ Miriam E. Rocah is the former Westchester County (N.Y.) District Attorney, and f
         - [FPC Bryan](https://www.bop.gov/locations/institutions/bry/)
     - [Department of State (DOS)](https://www.state.gov/)
     - [Federal Bureau of Investigation (FBI)](https://www.fbi.gov/)
-        - [James Comey](https://www.fbi.gov/history/directors/james-b-comey)
+        - [James B. Comey, September 4, 2013 - May 9, 2017 — FBI](https://www.fbi.gov/history/directors/james-b-comey)
     - [Congress](https://www.congress.gov/)
         - [Senate](https://www.senate.gov/)
         - [House of Representatives](https://www.house.gov/)

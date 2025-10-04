@@ -11,6 +11,9 @@ title: "The venge​ful Trump Attacking His Perceived Enemies; Checking Names Of
 ---
 
 
+- ['Prosecute' vs. 'Persecute' – Merriam-Webster](https://www.merriam-webster.com/grammar/prosecuted-vs-persecuted-usage)
+    - “One you do in court, the other you do if you're a jerk.”
+
 ## [From Kimmel to Comey, Trump is checking names off his ‘enemies list’](https://www.msnbc.com/opinion/msnbc-opinion/trump-comey-indictment-kimmel-enemies-list-retribution-rcna233872)
 
 *The late-night talk show host and the former [FBI](https://www.fbi.gov/) director earned his ire for doing their jobs.*
@@ -32,7 +35,7 @@ From comedian-activists such as Dick Gregory to “The Late Show” host Stephen
 
 Appropriately humble, [Kimmel](https://abc.com/show/9bfe2f4f-41ad-4492-a6dd-0b67db180543) warned that while his suspension drew headlines, a similar effort is happening to target journalists and everyday dissenters that is being overlooked. His message was clear: the real story is bigger, and it should alarm us all.
 
-[Kimmel](https://abc.com/show/9bfe2f4f-41ad-4492-a6dd-0b67db180543)’s case is only the surface. The deeper story is a [president](https://www.whitehouse.gov/) intent on bending law firms, Fortune 500 companies and even broadcasters to his will, and punishing anyone who resists. [Trump](https://www.donaldjtrump.com/) and his [FCC](https:www.fcc.gov/) allies may have failed to take [Kimmel](https://abc.com/show/9bfe2f4f-41ad-4492-a6dd-0b67db180543) down nationally. But broadcasters such as [Sinclair](https://sbgi.net/) and [Nexstar](https://www.nexstar.tv/), both with enormous business before the administration, have continued to bend.
+[Kimmel](https://abc.com/show/9bfe2f4f-41ad-4492-a6dd-0b67db180543)’s case is only the surface. The deeper story is a [president](https://www.whitehouse.gov/) intent on bending law firms, Fortune 500 companies and even broadcasters to his will, and punishing anyone who resists. [Trump](https://www.donaldjtrump.com/) and his [FCC](https://www.fcc.gov/) allies may have failed to take [Kimmel](https://abc.com/show/9bfe2f4f-41ad-4492-a6dd-0b67db180543) down nationally. But broadcasters such as [Sinclair](https://sbgi.net/) and [Nexstar](https://www.nexstar.tv/), both with enormous business before the administration, have continued to bend.
 
 Millions of Americans still rely on local TV as their most trusted news source. Those two companies control nearly one-fifth of [ABC](https://abc.com/) affiliates across the country. In 2018, [Sinclair](https://sbgi.net/) forced anchors nationwide to read the exact same script about supposed media bias, a chilling reminder of how centralized control can masquerade as community news.
 
@@ -94,6 +97,7 @@ Kai Ma contributed.
     - [US Courts](https://www.uscourts.gov/)
     - [Department of Justice (DOJ)](https://www.justice.gov/)
         - [Federal Bureau of Investigation (FBI)](https://www.fbi.gov/)
+            - [James B. Comey, September 4, 2013 - May 9, 2017 — FBI](https://www.fbi.gov/history/directors/james-b-comey)
     - [Federal Reserve](https;//www.federalreserve.gov/)
     - [Federal Reserve Board - Federal Reserve Act](https://www.federalreserve.gov/aboutthefed/fract.htm)
     - [Federal Communications Commission (FCC)](https://www.fcc.gov/)
