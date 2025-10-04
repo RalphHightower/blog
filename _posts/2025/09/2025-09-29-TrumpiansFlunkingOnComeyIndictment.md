@@ -7,7 +7,7 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: "Trumpians Flunking Constitutional Test On Former FBI Director, JamesComey"
+title: "Trumpians Flunking Constitutional Test On Former FBI Director, James Comey"
 ---
 
 - ['Prosecute' vs. 'Persecute' – Merriam-Webster](https://www.merriam-webster.com/grammar/prosecuted-vs-persecuted-usage)

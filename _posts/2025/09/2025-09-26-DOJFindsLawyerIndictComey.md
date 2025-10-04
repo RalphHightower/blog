@@ -10,6 +10,9 @@ excerpt: ''
 title: "Trump Finds a Henchman to Indict Former FBI Director James Comey"
 ---
 
+- ['Prosecute' vs. 'Persecute' – Merriam-Webster](https://www.merriam-webster.com/grammar/prosecuted-vs-persecuted-usage)
+    - “One you do in court, the other you do if you're a jerk.”
+
 ## [DOJ indicts former FBI Director James Comey](https://www.msnbc.com/msnbc/news/james-comey-indictment-congress-fbi-director-rcna233691)
 
 *The prosecution marks a serious escalation in the [president](https://www.whitehouse.gov/)’s politicization of the [Department of Justice](https://www.justice.gov/).*
