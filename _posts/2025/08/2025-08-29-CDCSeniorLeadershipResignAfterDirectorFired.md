@@ -81,7 +81,7 @@ On Wednesday, the nation’s premier health agency lost some of its most senior 
 
 [Susan Monarez, director of the Centers of Disease Control and Prevention](https://www.msnbc.com/rachel-maddow-show/maddowblog/susan-monarez-cdc-centers-disease-control-rcna227627) for just shy of a month, was [reportedly](https://www.nytimes.com/2025/08/27/health/cdc-monarez-kennedy-vaccines.html) called in to meet with [Health and Human Services](https://www.hhs.gov/) [Secretary Robert F. Kennedy Jr](https://www.hhs.gov/about/leadership/robert-kennedy.html) on Monday and pledge her support for pulling back approvals for Covid vaccines. When she declined, reportedly saying that she needed to confer with her senior staff, [Kennedy](https://www.hhs.gov/about/leadership/robert-kennedy.html) ordered her to fire her senior staff and when she refused that and enlisted the help of [Bill Cassidy](https://www.cassidy.senate.gov/), the Republican chair of the [Senate](,https://www.senate.gov/) [health committee](http://www.help.senate.gov/), [Kennedy](https://www.hhs.gov/about/leadership/robert-kennedy.html) asked for her resignation.
 
-> *We’re going to be sicker as a country, not as effective, waste resources. And for what? I don’t understand.”* </></>Senior public health official
+> *We’re going to be sicker as a country, not as effective, waste resources. And for what? I don’t understand.”* <br /><br />Senior public health official
 
 By Wednesday afternoon, the [HHS](https://www.hhs.gov/)' official X account was saying she [was out](https://x.com/[HHS](https://www.hhs.gov/)Gov/status/1960818490614415869), and a lawyer hired by Monarez [was saying](https://x.com/MarkSZaidEsq/status/1960844109935206671) no, she had not and would not resign. A [White House](https://www.whitehouse.gov/) spokesman weighed in that evening [saying](https://nypost.com/2025/08/27/us-news/cdc-director-susan-monarez-departs-agency-less-than-a-month-after-being-sworn-in/) yes, actually, she was fired, but early Thursday, [Monarez’s lawyers said](https://x.com/MarkSZaidEsq/status/1960914637219893636) that the “legally deficient” firing had not come from the [president](https://www.whitehouse.gov/) himself and so she was still [CDC](https://www.cdc.gov/) director. And the [Senate](https://www.senate.gov/) [health committee](http://www.help.senate.gov/) is looking into it, [Cassidy posted](https://x.com/SenBillCassidy](https://www.cassidy.senate.gov/)/status/1960895774079799344).
 
@@ -97,7 +97,7 @@ Houry, Daskalakis, and Jernigan were escorted off [CDC](https://www.cdc.gov/)’
 
 The officials, who asked not to be named over fears of retribution from [Kennedy](https://www.hhs.gov/about/leadership/robert-kennedy.html), describe Houry, Jernigan and Daskalakis as brilliant physicians and effective managers who led the country through decades of public health crises from Ebola to mpox to Covid. Their letters of resignation were shared with [MSNBC](https://www.msnbc.com/) by officials who had received them.
 
-> *I have never experienced such radical non-transparency, nor have I seen such unskilled manipulation of data to achieve a political end rather than the good of the American people.”*;</></>Dr. Demetre Daskalakis
+> *I have never experienced such radical non-transparency, nor have I seen such unskilled manipulation of data to achieve a political end rather than the good of the American people.”*;<br /><br />Dr. Demetre Daskalakis
 
 “Since 1994, I have worked at [CDC](https://www.cdc.gov/) with some of the most intelligent, driven, and compassionate people, working to detect, control, and prevent infectious diseases,” wrote [Jernigan](https://www.cdc.gov/ncezid/leadership/ncezid-director.html), a widely respected epidemiologist who had spent three decades investigating nearly every kind of outbreak from inside the agency. “Given the current context in the Department, I feel it is best for me to offer my resignation.”
 
@@ -194,9 +194,9 @@ Brandy Zadrozny was a former senior enterprise reporter based in New York coveri
 - Trump crime businesses 
     - [Donald J Trump](https://www.donaldjtrump.com/)
          - [President Donald Trump (45)](https://trumpwhitehouse.archives.gov/)
-        - [President Donald Trump (47)](https://www.whitehouse.gov/[administration](https://www.whitehouse.gov/administration/)/donald-j-trump/)
-        - [President Trump (47) Administration](https://www.whitehouse.gov/[administration](https://www.whitehouse.gov/administration/)/)
-        - [President Trump (47) Cabinet](https://www.whitehouse.gov/[administration](https://www.whitehouse.gov/administration/)/the-cabinet/)
+        - [President Donald Trump (47)](https://www.whitehouse.gov/administration//donald-j-trump/)
+        - [President Trump (47) Administration](https://www.whitehouse.gov/administration//)
+        - [President Trump (47) Cabinet](https://www.whitehouse.gov/administration//the-cabinet/)
             - [Secretary Robert F. Kennedy Jr. (RFKJr)](https://www.hhs.gov/about/leadership/robert-kennedy.html)
 - public health 
 - immunizations
