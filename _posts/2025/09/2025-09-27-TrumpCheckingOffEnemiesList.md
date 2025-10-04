@@ -11,9 +11,6 @@ title: "The venge​ful Trump Attacking His Perceived Enemies; Checking Names Of
 ---
 
 
-- ['Prosecute' vs. 'Persecute' – Merriam-Webster](https://www.merriam-webster.com/grammar/prosecuted-vs-persecuted-usage)
-    - “One you do in court, the other you do if you're a jerk.”
-
 ## [From Kimmel to Comey, Trump is checking names off his ‘enemies list’](https://www.msnbc.com/opinion/msnbc-opinion/trump-comey-indictment-kimmel-enemies-list-retribution-rcna233872)
 
 *The late-night talk show host and the former [FBI](https://www.fbi.gov/) director earned his ire for doing their jobs.*

@@ -26,7 +26,7 @@ The emails, obtained by [MSNBC](https://www.msnbc.com/), were sent to employees 
 
 While agencies usually send emails preparing their workforce for furloughs on the brink of a shutdown, the partisan language directly blaming [Democrats](https://www.democrats.org/) is highly unusual and potentially violates rules prohibiting government resources from being used for political or campaign purposes.
 
-> *The Radical Left are going to shut down the government and inflict massive pain on the American people unless they get their $1.5 trillion wish list of demands.</></>[HUD](https://www.hud.gov/) website*
+> *The Radical Left are going to shut down the government and inflict massive pain on the American people unless they get their $1.5 trillion wish list of demands.<br /><br />[HUD](https://www.hud.gov/) website*
 
 The emails come as the [Housing and Urban Development Agency](https://www.hud.gov/) added a banner to its official government landing page also pointing the finger at [Democrat](https://www.democrats.org/)s for the shutdown.
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: [media, MSNBC News - Breaking News and News Today / Latest News, Steve Benen, The Rachel Maddow Show, MaddowBlog, “Ministry of Truth –  Democracy Reality and the Republicans’ War on the Recent Past.”, The New York Times (NYT) - Breaking News US News World News and Videos, The Wall Street Journal (WSJ) - Breaking News Business Financial & Economic News World News and Video, organizations, political parties, Democrat Party, Trumpian Party, universities, University of Minnesota Twin Cities, Home / University of Minnesota Law School, Rozenshtein Alan / University of Minnesota Law School, companies, foreign governments, state local governments, federal government, Constitution of the United States, U.S. Constitution - Article I / Library of Congress, U.S. Constitution - Article II / Library of Congress, U.S. Constitution - Article III / Library of Congress, U.S. Constitution - Article IV / Library of Congress, U.S. Constitution - Article V / Library of Congress, U.S. Constitution - Article VI / Library of Congress, U.S. Constitution - Article VII / Library of Congress, Supreme Court of the United States (SCOTUS), US Courts, Department of Justice (DOJ), Eastern District of Virginia / Eastern District of Virginia, Federal Bureau of Investigation (FBI), James Comey, Federal Reserve, Federal Reserve Board - Federal Reserve Act, U.S. Department of the Treasury, Congress, Senate, House of Representatives, President of the United States (POTUS), White House (WH), Trump autocracy, Donald J Trump, President Donald Trump (45), President Donald Trump (47), President Trump (47) Administration, President Trump (47) Cabinet, press secretary, Karoline Leavitt, Pam Bondi, Office of the Deputy Attorney General / Office of the Deputy Attorney General, Todd Blanche / LinkedIn, Lindsey Halligan, Kash Patel, Deputy Director Dan Bongino — FBI, grifter, self-dealing, corruption, con artist, crime, cryptocurrency, criminal associates, criminal businesses, criminal media, criminal organizations, criminal partners]
-categories: [Donald Trump, Department of Justice (DOJ), Pam Bondi, Lindsey Halligan, Federal Bureau of Investigation (FBI), James Comey, weaponization]
+categories: [Donald Trump, Department of Justice (DOJ), Pam Bondi, Federal Bureau of Investigation (FBI), James Comey, weaponization]
 date: 2025-09-27 16:12
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
@@ -9,9 +9,6 @@ excerpt: ''
 #permalink:
 title: "Trump’s Corruption Is On Full Display With James Comey Indictment"
 ---
-
-- ['Prosecute' vs. 'Persecute' – Merriam-Webster](https://www.merriam-webster.com/grammar/prosecuted-vs-persecuted-usage)
-    - “One you do in court, the other you do if you're a jerk.”
 
 ## [As Trump orchestrates James Comey’s indictment, the corruption is the point](https://www.msnbc.com/rachel-maddow-show/maddowblog/trump-orchestrates-james-comey-indictment-fbi-justice-corruption-rcna233857)
 
@@ -71,7 +68,6 @@ As [Trump](https://www.donaldjtrump.com/) [brags](https://truthsocial.com/@realD
         - [Rozenshtein, Alan / University of Minnesota Law School](https://law.umn.edu/profiles/alan-rozenshtein)
 - companies
 - foreign governments
-- [Российская Федерация (RU)](http://government.ru/)
 - state, local governments 
 - federal government
 - [Constitution of the United States](https://constitution.congress.gov/constitution/)
