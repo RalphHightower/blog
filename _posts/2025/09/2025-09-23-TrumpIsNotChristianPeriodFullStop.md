@@ -21,7 +21,7 @@ By Jarvis DeBerry, MSNBC Opinion Editor
 
 When [President](https://www.whitehouse.gov/) [Donald Trump](https://www.donaldjtrump.com/) addressed the tens of thousands of people [at the State Farm Stadium in Glendale, Arizona](https://www.nbcnews.com/politics/trump-administration/charlie-kirk-funeral-conservative-revival-rcna232823), gathered on Sunday to commemorate [Charlie Kirk](https://www.charliekirk.com/), [who was shot dead Sept. 10 while speaking at Utah Valley University](https://www.msnbc.com/opinion/msnbc-opinion/charlie-kirk-killed-shooting-utah-political-violence-rcna230487), he described the 31-year-old founder of [Turning Point USA](https://www.tpusa.com/) as “a missionary with a noble spirit and a great, great purpose. He didn’t hate his opponents.”
 
-> *I hate my opponent, and I don’t want the best for them. I’m sorry.* </></>[PRESIDENT](https://www.whitehouse.gov/) [DONALD TRUMP](https://www.donaldjtrump.com/)
+> *I hate my opponent, and I don’t want the best for them. I’m sorry.* <br /><br />[PRESIDENT](https://www.whitehouse.gov/) [DONALD TRUMP](https://www.donaldjtrump.com/)
 
 But then, demonstrating that he can’t even allow the deceased to be the focus at his own memorial service, [Trump](https://www.donaldjtrump.com/) interjected: “That’s where I disagreed with [Charlie](https://www.charliekirk.com/). I hate my opponent, and I don’t want the best for them. I’m sorry. I am sorry, [Erika](https://tpusa.com/team/),” he said looking toward [Kirk](https://tpusa.com/team/)’s widow, [who at that same service said that she had forgiven her husband’s killer](https://www.nbcnews.com/now/video/erika-kirk-says-she-forgives-shooter-who-killed-her-husband-charlie-kirk-248035909830).
 
