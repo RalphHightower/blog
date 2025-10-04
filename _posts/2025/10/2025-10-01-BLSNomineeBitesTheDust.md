@@ -114,13 +114,13 @@ This post updates our [related earlier coverage](https://www.msnbc.com/rachel-ma
 - criminal associates
 - [Home - Stephen K Bannon's War Room](https://warroom.org/)
 - [E.J. Antoni, PhD / The Heritage Foundation](https://www.heritage.org/staff/ej-antoni-phd)
-[Matt Gaetz / LinkedIn](https://www.linkedin.com/in/mattgaetz/)
-[Dave Weldon / LinkedIn](https://www.linkedin.com/in/dave-weldon-96053b1b/)
-[Ed Martin / LinkedIn](https://www.linkedin.com/in/edmartinjr/)
-[Dr. Janette Nesheiwat / LinkedIn](https://www.linkedin.com/in/dr-janette-nesheiwat-3483731a/)
-[Chad Chronister / LinkedIn](https://www.linkedin.com/in/chad-chronister-66bb5861/)
-[Kathleen Sgamma / LinkedIn](https://www.linkedin.com/in/kathleen-sgamma-1a40671/)
-- Jared Isaacman
+- [Matt Gaetz / LinkedIn](https://www.linkedin.com/in/mattgaetz/)
+- [Dave Weldon / LinkedIn](https://www.linkedin.com/in/dave-weldon-96053b1b/)
+- [Ed Martin / LinkedIn](https://www.linkedin.com/in/edmartinjr/)
+- [Dr. Janette Nesheiwat / LinkedIn](https://www.linkedin.com/in/dr-janette-nesheiwat-3483731a/)
+- [Chad Chronister / LinkedIn](https://www.linkedin.com/in/chad-chronister-66bb5861/)
+- [Kathleen Sgamma / LinkedIn](https://www.linkedin.com/in/kathleen-sgamma-1a40671/)
+Jared Isaacman
 - criminal businesses
 - criminal media
 - criminal organizations
