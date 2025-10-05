@@ -19,12 +19,24 @@ title: "🛫Trump: Air Force One Frequent Flyer Miles🚁"
 
 | Time | Location |
 |---|---|
-| | **Sunday, October 5, 2025** |
-| 8:30 AM ⛳️🏌‍♂️| [Donnie](https://www.donaldjtrump.com/) is golfing at his [Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/) while the government is shut down. |
-| 6:00 PM | [Donnie](https://www.donaldjtrump.com/) is back at the [White House](https://www.whitehouse.gov/) |
-| | **Saturday, October 4, 2025[^56092]** |
-| 8:30 AM ⛳️🏌‍♂️| [Donnie](https://www.donaldjtrump.com/) is golfing at his [Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/) while the government is shut down. |
-| 6:00 PM | [Donnie](https://www.donaldjtrump.com/) is back at the [White House](https://www.whitehouse.gov/) |
+| | 🔥 [White House](https://www.whitehouse.gov/) 💣|
+| | **Sunday, October 5 2925** |
+| 10:00 AM | Out-of-Town Travel Pool Call Time<br />[Joint Base Andrews](https://www.jba.af.mil/) Out-of-Town Travel Pool |
+| 10:15 AM | In-Town Pool Call Time<br />The [White House](https://www.whitehouse.gov/) In-Town Pool |
+| 10:55 AM | The [President](https://www.donaldjtrump.com/) and The First Lady depart The [White House](https://www.whitehouse.gov/) en route Norfolk, Virginia<br />The [White House](https://www.whitehouse.gov/) Open Press |
+| 1:00 PM | The [President](https://www.donaldjtrump.com/) and The First Lady observe a Naval Sea Power Demonstration<br />[USS George H.W. Bush](https://www.airlant.usff.navy.mil/cvn77/) - [Norfolk Naval Station](https://cnrma.cnic.navy.mil/Installations/NAVSTA-Norfolk/) Out-of-Town Travel Pool |
+| 3:30 PM | The [President](https://www.donaldjtrump.com/) delivers remarks at Navy 250 Celebration<br />[USS Harry S. Truman](https://www.airlant.usff.navy.mil/cvn75/) - [Norfolk Naval Station](https://cnrma.cnic.navy.mil/Installations/NAVSTA-Norfolk/) Pre-Credentialed Media |
+| 4:40 PM | The [President](https://www.donaldjtrump.com/) and The First Lady depart Norfolk, Virginia, en route The [White House](https://www.whitehouse.gov/)<br />[Norfolk International Airport](https://www.flyorf.com/) Out-of-Town Travel Pool |
+| 5:45 PM | The [President](https://www.donaldjtrump.com/) and The First Lady arrive The [White House](https://www.whitehouse.gov/)<br />The [White House](https://www.whitehouse.gov/) Open Press |
+| | **Saturday, October 4 2925** |
+| ⛳️🏌‍♂️| The [President](https://www.donaldjtrump.com/) ~~has no public events scheduled~~ (other than playing golf ⛳️🏌)<br />The [White House](https://www.whitehouse.gov/) |
+| 8:00 AM | In-Town Pool Call Time<br />The [White House](https://www.whitehouse.gov/) In-Town Pool |
+| 9:57 AM 🚁| The [President](https://www.donaldjtrump.com/) departs the [White House](https://www.whitehouse.gov/) for his golf club<br />The [White House](https://www.whitehouse.gov/) |
+| 10:33 AM 🏌‍♂️🚁| The [President](https://www.donaldjtrump.com/) arrives at [Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/)<br />[Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/) |
+| 4:32 PM ⛳️| The [President](https://www.donaldjtrump.com/) departs [Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/)<br />[Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/) |
+| 4:50 PM | The [President](https://www.donaldjtrump.com/) drives through [Washington Dulles International Airport](https://www.flydulles.com/) to examine potential future projects<br />[Washington Dulles International Airport](https://www.flydulles.com/) |
+| 5:21 PM | The [President](https://www.donaldjtrump.com/) arrives at the [White House](https://www.whitehouse.gov/)<br />The [White House](https://www.whitehouse.gov/) In-Town Pool |
+| 5:26 PM | [White House](https://www.whitehouse.gov/) Press Office: Full lid called<br />The [White House](https://www.whitehouse.gov/) In-Town Pool |
 | | 🔥 [White House](https://www.whitehouse.gov/) 💣|
 | | **Sunday, September 28 2025** |
 | ⛳️🏌‍♂️| The [President](https://www.donaldjtrump.com/) ~~has no public events scheduled~~ (other than playing golf ⛳️🏌)<br />The [White House](https://www.whitehouse.gov/) In-Town Pool |
