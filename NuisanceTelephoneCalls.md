@@ -5,14 +5,14 @@ categories: [Telephone Numbers]
 date: 2025-09-23 8:16 PM
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
-#description: 
-#permalink: 
+#description:
+#permalink:
 title: "📵 📞Nuisance Telephone Numbers 📞📵"
 ---
 
 The telephone numbers below have called and there is an empty person on the other end.
 
-## No Acknowledgement 
+## No Acknowledgement
 
 [^11]: @RalphHightower: ¤¤ denotes voice mail left.
 
@@ -214,7 +214,7 @@ The telephone numbers below have called and there is an empty person on the othe
 | [\+1 (864) 788-8709](tel:+18647888709) | SC. | 2025-07-19 04:22 PM | — | |
 | [\+1 (803) 705-7072](tel:+18037057072) | SC. Columbia | 2025-07-18 03:23 PM ¤¤ | — | |
 | [\+1 (803) 705-7072](tel:+18037057072) | SC. Columbia | 2025-07-18 03:22 PM | — | |
-| [\+1 (803) 661-8360](tel:+18036618360) | SC. Columbia | 2025-07-18 01:40 PM | Anthony Sams | — | |
+| [\+1 (803) 661-8360](tel:+18036618360) | SC. Columbia | 2025-07-18 01:40 PM | Anthony Sams | — |
 | [\+1 (803) 806-3495](tel:+18038063495) | SC. Columbia | 2025-07-18 01:20 PM | — | |
 | [\+1 (803) 205-4809](tel:+18032054809) | SC. Columbia | 2025-07-17 05:43 PM | [Gregory Electric](https://www.gregoryelectric.com/) | |
 | [\+1 (803) 945-6495](tel:+18039456495) | SC. Little Mountain | 2025-07-17 03:55 PM | — | |
