@@ -18,6 +18,10 @@ The telephone numbers below have called and there is an empty person on the othe
 
 | Telephone Number | Location | Date Time[^11] | Caller | Social Media |
 |---|---|---|---|---|
+| [\+1 (803) 856-5338](tel:+18038565338) | | 2025-10-06 07:22 PM | — | |
+| [\+1 (803) 341-6106](tel:+18033416106) | SC. Beech Island | 2025-10-06 02:00 PM | — | |
+| [\+1 (803) 485-5858](tel:+18034855858) | SC. Manning | 2025-10-06 12:20 PM | — | |
+| [\+1 (803) 200-1043](tel:+18032001043) | SC. Columbia | 2025-10-06 10:26 AM | — | |
 | [\+1 (803) 401-4972](tel:+18034014972) | SC. Columbia | 2025-10-03 07:05 PM | — | |
 | [\+1 (803) 216-0670](tel:+18032160670) | SC. Columbia | 2025-10-03 04:05 PM | — | |
 | [\+1 (803) 384-5836](tel:+18033845836) | SC. Edgefield | 2025-10-03 01:00 PM | — | |
