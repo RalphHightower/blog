@@ -1,4 +1,4 @@
-name: NewYearUpdateCopyright.yml – New Year LICENSE Reminder
+name: newYearUpdateCopyright.yml – New Year LICENSE Reminder
 
 on:
   schedule:
