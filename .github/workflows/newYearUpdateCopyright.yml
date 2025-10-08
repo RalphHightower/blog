@@ -8,6 +8,7 @@ on:
 permissions: none
 
 jobs:
+  permissions:
     issues: write
     contents: read
   create-issue:
