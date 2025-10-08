@@ -6,8 +6,8 @@ on:
     - cron: 30 4 30 6,9 *
     - cron: 30 5 31 12 *
   #workflow_dispatch:
-permissions:
-  contents: read-all
+
+permissions: read-all
 
 jobs:
   create-issue:
