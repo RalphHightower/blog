@@ -18,6 +18,11 @@ The telephone numbers below have called and there is an empty person on the othe
 
 | Telephone Number | Location | Date Time[^11] | Caller | Social Media |
 |---|---|---|---|---|
+| [\+1 (803) 602-6260](tel:+18036026260) | SC. Columbia | 2025-10-07 04:34 PM | [Sec Fed Bank](https://www.securityfederalbank.com/) | |
+| [\+1 (803) 902-9800](tel:+18039029800) | SC. York | 2025-10-07 03:16 PM | — | |
+| [\+1 (803) 862-5646](tel:+18038625646) | SC. Columbia | 2025-10-07 10:47 AM | — | |
+| [\+1 (803) 884-3119](tel:+18038843119) | SC. Blackville | 2025-10-07 09:59 AM | — | |
+| [\+1 (803) 217-1802](tel:+18032171802) | SC. Columbia | 2025-10-07 09:51 AM | — | |
 | [\+1 (803) 856-5338](tel:+18038565338) | | 2025-10-06 07:22 PM | — | |
 | [\+1 (803) 341-6106](tel:+18033416106) | SC. Beech Island | 2025-10-06 02:00 PM | — | |
 | [\+1 (803) 485-5858](tel:+18034855858) | SC. Manning | 2025-10-06 12:20 PM | — | |
