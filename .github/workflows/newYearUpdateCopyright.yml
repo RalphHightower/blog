@@ -8,10 +8,10 @@ on:
 permissions: read-all
 
 jobs:
-  permissions:
-    issues: write
   create-issue:
     runs-on: ubuntu-latest
+    permissions:
+      issues: write
     steps:
       - name: Create LICENSE update issue
         uses: peter-evans/create-issue-from-file@v6
