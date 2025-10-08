@@ -5,11 +5,12 @@ on:
   schedule:
     - cron: '0 6 * * 0'
 
-permissions:
-  issues: write
-  contents: write
+permissions: none
 
 jobs:
+  permissions:
+    issues: write
+    contents: write
   stale_branches:
     runs-on: ubuntu-latest
     steps:
