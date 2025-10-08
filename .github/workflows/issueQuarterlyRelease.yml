@@ -6,14 +6,14 @@ on:
     - cron: 30 4 30 6 *
     - cron: 30 5 31 12 *
   #workflow_dispatch:
-  permissions: none
+  permissions:
+    contents: read
 
 jobs:
   create-issue:
     runs-on: ubuntu-latest
     permissions:
       issues: write
-      contents: write
     steps:
       - name: Create Quarterly Release
         uses: peter-evans/create-issue-from-file@v6

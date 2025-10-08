@@ -5,12 +5,12 @@ on:
     - cron: '0 5 1 1 *'  # Midnight EST on Jan 1 America/New_York
   #workflow_dispatch:
 
-permissions: none
+permissions:
+  contents: read
 
 jobs:
   permissions:
     issues: write
-    contents: read
   create-issue:
     runs-on: ubuntu-latest
     steps:
