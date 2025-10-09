@@ -18,6 +18,11 @@ The telephone numbers below have called and there is an empty person on the othe
 
 | Telephone Number | Location | Date Time[^11] | Caller | Social Media |
 |---|---|---|---|---|
+| [\+1 (803) 921-0014](tel:+18039210014) | SC. Eutawville | 2025-10-08 12:47 PM | — | |
+| [\+1 (803) 814-0694](tel:+18038140694) | SC. Columbia | 2025-10-08 12:44 PM | — | |
+| [\+1 (803) 258-3236](tel:+18032583236) | SC. Springfield | 2025-10-08 12:18 PM | — | |
+| [\+1 (803) 512-6149](tel:+18035126149) | SC. Dalzel | 2025-10-08 11:29 AM | — | |
+| [\+1 (803) 590-0909](tel:+18035900909) | SC. Little Mountain | 2025-10-08 10:56 AM | — | |
 | [\+1 (803) 602-6260](tel:+18036026260) | SC. Columbia | 2025-10-07 04:34 PM | [Sec Fed Bank](https://www.securityfederalbank.com/) | |
 | [\+1 (803) 902-9800](tel:+18039029800) | SC. York | 2025-10-07 03:16 PM | — | |
 | [\+1 (803) 862-5646](tel:+18038625646) | SC. Columbia | 2025-10-07 10:47 AM | — | |
@@ -1277,7 +1282,7 @@ The telephone numbers below have called and there is an empty person on the othe
 | [\+1 (803) 312-0857](tel:+18033120857) | SC. Columbia | 2025-02-21 10:16 AM | — | |
 | [\+1 (803) 520-7804](tel:+18035207804) | SC. Lexington | 2025-02-21 10:13 AM | Jones Michael | |
 | [\+1 (803) 340-1189](tel:+18033401189) | SC. Sumter | 2025-02-21 09:02 AM | Rosa Dix | |
-| [\+1 (803) 472-0155](tel:+18034720155) | SC. | 2025-02-20 06:03 PM | Vickie Osbourne | |
+| [\+1 (803) 472-0155](tel:+18034720155) | SC. Summerton | 2025-02-20 06:03 PM | Vickie Osbourne | |
 | [\+1 (803) 274-3253](tel:+18032743253) | SC. Branchville | 2025-02-20 05:45 PM | — | |
 | [\+1 (803) 956-5351](tel:+18039565351) | SC. Bamberg | 2025-02-20 05:22 PM | — | |
 | [\+1 (803) 764-5616](tel:+18037645616) | SC. Columbia | 2025-02-20 03:57 PM | — | |
