@@ -7,7 +7,7 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: "Former FBI Director, James Comey, Pleads “Not Guilty” At Trump’s Weaponization Arraignment""
+title: "Former FBI Director, James Comey, Pleads “Not Guilty” At Trump’s Weaponization Arraignment"
 ---
 
 ## [Ex-FBI Director James Comey pleads not guilty to indictment secured by Trump loyalist](https://www.msnbc.com/deadline-white-house/deadline-legal-blog/james-comey-pleads-not-guilty-trump-halligan-rcna236313)
