@@ -18,6 +18,9 @@ The telephone numbers below have called and there is an empty person on the othe
 
 | Telephone Number | Location | Date Time[^11] | Caller | Social Media |
 |---|---|---|---|---|
+| [\+1 (803) 851-3908](tel:+18038513908) | SC. Columbia | 2025-10-10 04:07 PM | — | |
+| [\+1 (803) 775-8802](tel:+18037758802) | | 2025-10-10 03:43 PM | Margaret S Scott | |
+| [\+1 (803) 366-7974](tel:+18033667974) | SC. Rock Hill | 2025-10-10 10:49 AM | Lola Sutherland | |
 | [\+1 (803) 817-9744](tel:+18038179744) | SC. Rock Hill | 2025-10-09 05:01 PM | — | |
 | [\+1 (803) 327-5206](tel:+18033275206) | SC. Rock Hill | 2025-10-09 03:34 PM | Louise McClure | |
 | [\+1 (803) 253-1511](tel:+18032531511) | SC. Columbia | 2025-10-09 03:23 PM | — | |
