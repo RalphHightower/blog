@@ -81,7 +81,7 @@ Ali Vitali is a Capitol Hill correspondent for [NBC News](https://www.nbcnews.co
             - [Air Force](https://www.af.mil/)
                 - [Joint Base Andrews](https://www.jba.af.mil/)
                     - [Air Force One](https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104588/vc-25-air-force-one/)
-    - [Federal Reserve](https;//www.federalreserve.gov/)
+    - [Federal Reserve](https://www.federalreserve.gov/)
     - [Federal Reserve Board - Federal Reserve Act](https://www.federalreserve.gov/aboutthefed/fract.htm)
     - [Office of the Special Counsel (OSC)](https://osc.gov/)
 [U.S. Trade Representative](http://www.ustr.gov/)
