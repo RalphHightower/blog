@@ -18,6 +18,15 @@ The telephone numbers below have called and there is an empty person on the othe
 
 | Telephone Number | Location | Date Time[^11] | Caller | Social Media |
 |---|---|---|---|---|
+| [\+1 (803) 817-9744](tel:+18038179744) | SC. Rock Hill | 2025-10-09 05:01 PM | — | |
+| [\+1 (803) 327-5206](tel:+18033275206) | SC. Rock Hill | 2025-10-09 03:34 PM | Louise McClure | |
+| [\+1 (803) 253-1511](tel:+18032531511) | SC. Columbia | 2025-10-09 03:23 PM | — | |
+| [\+1 (803) 547-1384](tel:+18035471384) | SC. Fort Mill | 2025-10-09 03:19 PM | James Vassil | |
+| [\+1 (803) 548-5383](tel:+18035485383) | SC. Fort Mill | 2025-10-09 03:06 PM | Andy Threatt | |
+| [\+1 (803) 578-9631](tel:+18035789631) | SC. Fort Mill | 2025-10-09 12:13 PM | R Joe Harris & | |
+| [\+1 (803) 981-7300](tel:+18039817300) | SC. Rock | 2025-10-09 12:07 PM | — | |
+| [\+1 (803) 708-6488](tel:+18037086488) | SC. Columbia | 2025-10-09 11:48 AM | Thaddeus Davis | |
+| [\+1 (803) 472-0031](tel:+18034720031) | SC. Summerton | 2025-10-09 09:27 AM | Connie Hardwick | |
 | [\+1 (803) 921-0014](tel:+18039210014) | SC. Eutawville | 2025-10-08 12:47 PM | — | |
 | [\+1 (803) 814-0694](tel:+18038140694) | SC. Columbia | 2025-10-08 12:44 PM | — | |
 | [\+1 (803) 258-3236](tel:+18032583236) | SC. Springfield | 2025-10-08 12:18 PM | — | |
