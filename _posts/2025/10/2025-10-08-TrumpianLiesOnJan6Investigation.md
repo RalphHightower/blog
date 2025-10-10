@@ -7,7 +7,7 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: "Latest Lies From Trumpian Senators: FBI 'Wiretapped' Them. No, They Didn't Listen In; They Captured Number Dialed & Call Duratio"
+title: "Latest Lies From Trumpian Senators: FBI 'Wiretapped' Them. No, They Didn't Listen In; They Captured Number Dialed & Call Duration"
 ---
 
 - [Federal: 2020 Election Interference, January 6 Insurrection]({% link January6DocumentDocumentLinks.md %})
