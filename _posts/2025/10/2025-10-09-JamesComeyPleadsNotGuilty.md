@@ -65,7 +65,7 @@ Subscribe to the [Deadline: Legal Newsletter](https://link.msnbc.com/join/5ck/ms
     - [US Courts](https://www.uscourts.gov/)
     - [Department of Justice (DOJ)](https://www.justice.gov/)
         - [Federal Bureau of Investigation (FBI)](https://www.fbi.gov/)
-    - [Federal Reserve](https;//www.federalreserve.gov/)
+    - [Federal Reserve](https://www.federalreserve.gov/)
     - [Federal Reserve Board - Federal Reserve Act](https://www.federalreserve.gov/aboutthefed/fract.htm)
     - [U.S. Department of the Treasury](https://home.treasury.gov/)
     - [Congress](https://www.congress.gov/)
