@@ -1,12 +1,13 @@
 ---
 layout: post
 tags: [media, MSNBC News - Breaking News and News Today / Latest News, Erum Salam, Associated Press News (AP) - Breaking News Latest Headlines and Videos / AP News, NBC News - Breaking Headlines and Video Reports on World U.S. and Local Angles / NBC News, The Hill - covering Congress Politics Political Campaigns and Capitol Hill, people, María Corina Machado – Facebook, organizations, 2025 Nobel Peace Prize, The official website of the Nobel Prize - NobelPrize.org, The Norwegian Nobel Committee - NobelPrize.org, Nobel Peace Prize 2025 - Press release - NobelPrize.org, political parties, Democrat Party, Trumpian Party, universities, companies, foreign governments, Web del M.P.P.D.P.S.G.G. (PRINCIPAL) (VE(, govil - אתר השירותים והמידע הממשלתי, משרד ראש הממשלה / Prime Minister’s Office, state local governments, federal government, Constitution of the United States, U.S. Constitution - Article I / Library of Congress, U.S. Constitution - Article II / Library of Congress, U.S. Constitution - Article III / Library of Congress, U.S. Constitution - Article IV / Library of Congress, U.S. Constitution - Article V / Library of Congress, U.S. Constitution - Article VI / Library of Congress, U.S. Constitution - Article VII / Library of Congress, Supreme Court of the United States (SCOTUS), US Courts, Department of Justice (DOJ), Federal Bureau of Investigation (FBI), Federal Reserve, Federal Reserve Board - Federal Reserve Act, U.S. Department of the Treasury, Congress, Senate, House of Representatives, President of the United States (POTUS), White House (WH), Theodore Roosevelt, Woodrow Wilson, Jimmy Carter Presidential Library and Museum / Jimmy Carter Library, President Barack Obama, Trump autocracy, Donald J Trump, President Donald Trump (45), President Donald Trump (47), President Trump (47) Administration, President Trump (47) Cabinet, press secretary, Karoline Leavitt, grifter, self-dealing, corruption, con artist, crime, cryptocurrency, criminal associates, criminal businesses, criminal media, criminal organizations, criminal partners]
+categories: [2025 Nobel Peace Prize, María Corina Machado, Venezuelan Democracy Activist]
 date: 2025-10-10 18:45
 excerpt:'
 #image:BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: ""
+title: "The Nobel Peace Goes To: Not Trump, But a Venezuelan Activist For Democracy, María Corina Machado"
 ---
 
 ## [María Corina Machado wins 2025 Nobel Peace Prize, despite Trump campaign](https://www.msnbc.com/top-stories/latest/nobel-peace-prize-2025-winner-machado-trump-rcna236645)
@@ -48,15 +49,15 @@ Erum Salam is a breaking news reporter and producer for MSNBC Digital. She previ
 - organizations
 - [2025 Nobel Peace Prize](https://www.nobelpeaceprize.org/)
 - [The official website of the Nobel Prize - NobelPrize.org](https://www.nobelprize.org/)
-- [The Norwegian Nobel Committee - NobelPrize.org](https://www.nobelprize.org/about/the-norwegian-nobel-committee/)
-- [Nobel Peace Prize 2025 - Press release - NobelPrize.org](https://www.nobelprize.org/prizes/peace/2025/press-release/)
+    - [The Norwegian Nobel Committee - NobelPrize.org](https://www.nobelprize.org/about/the-norwegian-nobel-committee/)
+        - [Nobel Peace Prize 2025 - Press release - NobelPrize.org](https://www.nobelprize.org/prizes/peace/2025/press-release/)
 - political parties
 - [Democrat Party](https://www.democrats.org/)
 - [Trumpian Party](https://www.gop.com/)
 - universities
 - companies
 - foreign governments
-- [Web del M.P.P.D.P.S.G.G. (PRINCIPAL) (VE(](https://www.presidencia.gob.ve/Site/Web/Principal/paginas/classIndex.php)
+- [Web del M.P.P.D.P.S.G.G. (PRINCIPAL) (VE)](https://www.presidencia.gob.ve/)
 - [govil - אתר השירותים והמידע הממשלתי](https://www.gov.il/)
 - [משרד ראש הממשלה / Prime Minister's Office](https://www.gov.il/he/departments/prime_ministers_office/govil-landing-page)
 - state, local governments 
