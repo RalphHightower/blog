@@ -16,10 +16,14 @@ title: "🛫Trump: Air Force One Frequent Flyer Miles🚁"
 
 [^666]: @RalphHightower – [Federal Aviation Administration - Graphic TFRs](https://tfr.faa.gov/tfr3/?page=list)
 [^59616]: [5/9616](https://tfr.faa.gov/tfr3/?page=detail_5_9616). From October 11, 2025 at 0830 EDT – October 11, 2025 at 1800 EDT
+[^59887]: [Federal Aviation Administration - Graphic TFRs](https://tfr.faa.gov/tfr3/?page=detail_5_9887). October 12, 2025 at 0830 EDT – October 12, 2025 at 1800 EDT
 
 | Time | Location |
 |---|---|
-| | **Saturday, October 11, 2025** |
+| | **Sunday, October 12, 2025[^59887]** |
+| 8:30 AM ⛳️🏌‍♂️| [Donnie](https://www.donaldjtrump.com/) plays golf at his [Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/) |
+| 6:00 PM | [Donnie](https://www.donaldjtrump.com/) returns to the [White House](https://www.whitehouse.gov/) |
+| | **Saturday, October 11, 2025[^59616]** |
 | 8:30 AM ⛳️🏌‍♂️| [Donnie](https://www.donaldjtrump.com/) plays golf at his [Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/) |
 | 6:00 PM | [Donnie](https://www.donaldjtrump.com/) returns to the [White House](https://www.whitehouse.gov/) |
 | | 🔥 [White House](https://www.whitehouse.gov/) 💣|
