@@ -29,4 +29,3 @@ jobs:
           assignees: RalphHightower
           labels: |
             maintenance
-            license
