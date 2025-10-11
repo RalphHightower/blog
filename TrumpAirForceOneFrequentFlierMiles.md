@@ -15,23 +15,26 @@ title: "🛫Trump: Air Force One Frequent Flyer Miles🚁"
 - 2025-04-05: [Trump Never Let a Weekend of Golf ⛳️ Interfere With a Commander-In-Chief’s Solemn Duty to Receive Fallen Military 🪖]({% link _posts/2025/04/2025-04-05-MilitaryFallenDontInterruptTrumpGolfWeekends.md %})
 
 [^666]: @RalphHightower – [Federal Aviation Administration - Graphic TFRs](https://tfr.faa.gov/tfr3/?page=list)
-[^56092]: [Federal Aviation Administration - Graphic TFRs](https://tfr.faa.gov/tfr3/?page=detail_5_6092). From October 04, 2025 at 0830 EDT– October 04, 2025 at 1800 EDT.
+[^59616]: [5/9616](https://tfr.faa.gov/tfr3/?page=detail_5_9616). From October 11, 2025 at 0830 EDT – October 11, 2025 at 1800 EDT
 
 | Time | Location |
 |---|---|
+| | **Saturday, October 11, 2025** |
+| 8:30 AM ⛳️🏌‍♂️| [Donnie](https://www.donaldjtrump.com/) plays golf at his [Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/) |
+| 6:00 PM | [Donnie](https://www.donaldjtrump.com/) returns to the [White House](https://www.whitehouse.gov/) |
 | | 🔥 [White House](https://www.whitehouse.gov/) 💣|
 | | **Sunday, October 5 2925** |
-| 10:00 AM | Out-of-Town Travel Pool Call Time |[Joint Base Andrews](https://www.jba.af.mil/) Out-of-Town Travel Pool |
+| 10:00 AM | Out-of-Town Travel Pool Call Time<br />Joint Base Andrews](https://www.jba.af.mil/) Out-of-Town Travel Pool |
 | 10:15 AM | In-Town Pool Call Time |The [White House](https://www.whitehouse.gov/) In-Town Pool |
 | 10:55 AM | The [President](https://www.donaldjtrump.com/) and The First Lady depart The [White House](https://www.whitehouse.gov/) en route Norfolk, Virginia [Actual: 11:11 AM to [Joint Base Andrews](https://www.jba.af.mil/)] |The [White House](https://www.whitehouse.gov/) Open Press |
-| 11:19 AM | The [President](https://www.donaldjtrump.com/) and the First Lady arrive at [Joint Base Andrews](https://www.jba.af.mil/) |[Joint Base Andrews](https://www.jba.af.mil/) |
-| 11:34 AM | The [President](https://www.donaldjtrump.com/) and the First Lady depart [Joint Base Andrews](https://www.jba.af.mil/) for [Norfolk Naval Station](https://cnrma.cnic.navy.mil/Installations/NAVSTA-Norfolk/) |[Joint Base Andrews](https://www.jba.af.mil/) |
+| 11:19 AM | The [President](https://www.donaldjtrump.com/) and the First Lady arrive at [Joint Base Andrews](https://www.jba.af.mil/)<br />[Joint Base Andrews](https://www.jba.af.mil/) |
+| 11:34 AM | The [President](https://www.donaldjtrump.com/) and the First Lady depart [Joint Base Andrews](https://www.jba.af.mil/) for [Norfolk Naval Station](https://cnrma.cnic.navy.mil/Installations/NAVSTA-Norfolk/)<br />Joint Base Andrews](https://www.jba.af.mil/) |
 | 11:58 AM | The [President](https://www.donaldjtrump.com/) and the First Lady arrive at Chambers Field, [Norfolk Naval Station](https://cnrma.cnic.navy.mil/Installations/NAVSTA-Norfolk/) |Chambers Field, Naval Station [Norfolk](https://www.norfolk.gov/), [Virginia](https://www.virginia.gov/) |
 | 12:17 PM | The [President](https://www.donaldjtrump.com/) and the First Lady depart Chambers Field, [Norfolk Naval Station](https://cnrma.cnic.navy.mil/Installations/NAVSTA-Norfolk/) for the [USS George H.W. Bush](https://www.airlant.usff.navy.mil/cvn77/) |Chambers Field, [Norfolk Naval Station](https://cnrma.cnic.navy.mil/Installations/NAVSTA-Norfolk/), VA |
-| 12:52 PM | The [President](https://www.donaldjtrump.com/) and the First Lady arrive at the [USS George H.W. Bush](https://www.airlant.usff.navy.mil/cvn77/) |[USS George H.W. Bush](https://www.airlant.usff.navy.mil/cvn77/) - [Norfolk Naval Station](https://cnrma.cnic.navy.mil/Installations/NAVSTA-Norfolk/) |
-| 1:00 PM | The [President](https://www.donaldjtrump.com/) and The First Lady observe a Naval Sea Power Demonstration |[USS George H.W. Bush](https://www.airlant.usff.navy.mil/cvn77/) - [Norfolk Naval Station](https://cnrma.cnic.navy.mil/Installations/NAVSTA-Norfolk/) Out-of-Town Travel Pool |
-| 3:05 PM | The [President](https://www.donaldjtrump.com/) and the First Lady depart the [USS George H.W. Bush](https://www.airlant.usff.navy.mil/cvn77/) for the [USS Harry S. Truman](https://www.airlant.usff.navy.mil/cvn75/) |[USS George H.W. Bush](https://www.airlant.usff.navy.mil/cvn77/) - [Norfolk Naval Station](https://cnrma.cnic.navy.mil/Installations/NAVSTA-Norfolk/) |
-| 3:30 PM | The [President](https://www.donaldjtrump.com/) delivers remarks at Navy 250 Celebration [Actual: 4:14 PM] |[USS Harry S. Truman](https://www.airlant.usff.navy.mil/cvn75/) - [Norfolk Naval Station](https://cnrma.cnic.navy.mil/Installations/NAVSTA-Norfolk/) Pre-Credentialed Media |
+| 12:52 PM | The [President](https://www.donaldjtrump.com/) and the First Lady arrive at the [USS George H.W. Bush](https://www.airlant.usff.navy.mil/cvn77/)<br />USS George H.W. Bush](https://www.airlant.usff.navy.mil/cvn77/) - [Norfolk Naval Station](https://cnrma.cnic.navy.mil/Installations/NAVSTA-Norfolk/) |
+| 1:00 PM | The [President](https://www.donaldjtrump.com/) and The First Lady observe a Naval Sea Power Demonstration<br />USS George H.W. Bush](https://www.airlant.usff.navy.mil/cvn77/) - [Norfolk Naval Station](https://cnrma.cnic.navy.mil/Installations/NAVSTA-Norfolk/) Out-of-Town Travel Pool |
+| 3:05 PM | The [President](https://www.donaldjtrump.com/) and the First Lady depart the [USS George H.W. Bush](https://www.airlant.usff.navy.mil/cvn77/) for the [USS Harry S. Truman](https://www.airlant.usff.navy.mil/cvn75/)<br />USS George H.W. Bush](https://www.airlant.usff.navy.mil/cvn77/) - [Norfolk Naval Station](https://cnrma.cnic.navy.mil/Installations/NAVSTA-Norfolk/) |
+| 3:30 PM | The [President](https://www.donaldjtrump.com/) delivers remarks at Navy 250 Celebration [Actual: 4:14 PM]<br />USS Harry S. Truman](https://www.airlant.usff.navy.mil/cvn75/) - [Norfolk Naval Station](https://cnrma.cnic.navy.mil/Installations/NAVSTA-Norfolk/) Pre-Credentialed Media |
 | 3:45 PM | The [President](https://www.donaldjtrump.com/) and the First Lady arrive at the [USS Harry S. Truman](https://www.airlant.usff.navy.mil/cvn75/) [Note: Time is approximate]<br />[USS Harry S. Truman](https://www.airlant.usff.navy.mil/cvn75/) - [Norfolk Naval Station](https://cnrma.cnic.navy.mil/Installations/NAVSTA-Norfolk/) |
 | 4:40 PM | The [President](https://www.donaldjtrump.com/) and The First Lady depart Norfolk, Virginia, en route The [White House](https://www.whitehouse.gov/) [Actual: 5:24 PM to [Joint Base Andrews](https://www.jba.af.mil/)]<br />Chambers Field, [Norfolk Naval Station](https://cnrma.cnic.navy.mil/Installations/NAVSTA-Norfolk/), VA Out-of-Town Travel Pool |
 | 5:04 PM | The [President](https://www.donaldjtrump.com/) and the First Lady depart the [USS Harry S. Truman](https://www.airlant.usff.navy.mil/cvn75/) for Chambers Field, [Norfolk Naval Station](https://cnrma.cnic.navy.mil/Installations/NAVSTA-Norfolk/)<br />[USS Harry S. Truman](https://www.airlant.usff.navy.mil/cvn75/) - [Norfolk Naval Station](https://cnrma.cnic.navy.mil/Installations/NAVSTA-Norfolk/) |
@@ -1544,3 +1547,4 @@ title: "🛫Trump: Air Force One Frequent Flyer Miles🚁"
 [^59245]: [Federal Aviation Administration - Graphic TFRs](https://tfr.faa.gov/tfr3/?page=detail_5_9245). From September 26, 2025 at 1030 EDT). To September 26, 2025 at 1630 EDT
 [^50929]: [Federal Aviation Administration - Graphic TFRs](https://tfr.faa.gov/tfr3/?page=detail_5_0929). September 27, 2025 at 0830 EDT – September 27, 2025 at 1800 EDT
 [^51198]: [Federal Aviation Administration - Graphic TFRs](https://tfr.faa.gov/tfr3/?page=detail_5_1198). From September 28, 2025 at 0830 EDT – September 28, 2025 – 1800 EDT
+[^56092]: [Federal Aviation Administration - Graphic TFRs](https://tfr.faa.gov/tfr3/?page=detail_5_6092). From October 04, 2025 at 0830 EDT– October 04, 2025 at 1800 EDT.
