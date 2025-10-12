@@ -6,7 +6,7 @@
 
 Please check the type of change your PR introduces:
 
-- [ ] New blog post 
+- [ ] New blog post
 - [ ] Bugfix
 - [ ] Jekyll change(s)
 - [ ] Liquid change(s)
@@ -20,24 +20,32 @@ Please check the type of change your PR introduces:
 - [ ] Documentation content changes
 - [ ] Other (please describe):
 
-## Language 
+## Language(s)
 
 - [ ] awk
 - [ ] C/C++/C#
+- [ ] Markdown
 - [ ] Ruby
-- [ ] Python 
+- [ ] Python
+
+## Operating System(s)
+
+- [ ] Linux
+- [ ] Unix
+- [ ] Solaris
+- [ ] Windows
 
 ## Files added
 
-- 
+-
 
-## Files modified 
+## Files modified
 
-- 
+-
 
-## Files deleted 
+## Files deleted
 
-- 
+-
 
 ## What is the current behavior?
 
