@@ -5,9 +5,7 @@ on:
     - cron: "0 5 1 1 *" # America/New_York (UTC-5:00)
   workflow_dispatch:
 
-permissions:
-  contents: read
-  
+permissions: none 
 jobs:
   create_issue:
     name: Create issue to update copyright year
@@ -30,7 +28,7 @@ jobs:
           GH_REPO: ${{ github.repository }}
           TITLE: Happy New  Year! 🎆 – 🍾 Update License Year
           ASSIGNEES: RalphHightower 
-          LABELS: "maintenance,license"
+          LABELS: "maintenance"
           BODY: |
             # New Year's Maintenance 
 
