@@ -7,7 +7,7 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: 'title'
+title: 'Lessons From James Comey’s Indictment For Letitia James and Adam Schiff'
 ---
 
 
