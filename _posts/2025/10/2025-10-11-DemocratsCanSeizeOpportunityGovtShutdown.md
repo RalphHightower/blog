@@ -23,7 +23,7 @@ By Ayman Mohyeldin, [MSNBC](https://www.msnbc.com/) Columnist
 
 So far, the sticking point for those leading the charge has been our ailing health care system, as [Democrats](https://www.democrats.org/) push back against the [Trump](https://www.democrats.org/) administration in an effort to maintain pre-existing condition protections, expand [Medicare](https://www.medicare.gov/), lower drug costs and stop premiums from shooting up. But at its core, this is and always has been a bigger fight — a refusal to bankroll [President](https://www.whitehouse.gov/) [Donald Trump](https://www.democrats.org/)’s abuse of power.
 
-At its core, this is and always has been a bigger fight — a refusal to bankroll [President](https://www.whitehouse.gov/) [Donald Trump](https://www.democrats.org/)’s [abuse of power](https://www.vox.com/politics/462076/trump-democracy-jimmy-kimmel-charlie-kirk).
+> *At its core, this is and always has been a bigger fight — a refusal to bankroll [President](https://www.whitehouse.gov/) [Donald Trump](https://www.democrats.org/)’s [abuse of power](https://www.vox.com/politics/462076/trump-democracy-jimmy-kimmel-charlie-kirk).*
 
 And now that [Democrats](https://www.democrats.org/) have gained some traction, they can’t afford to miss the opportunity to bring into sharp focus the true challenge of this moment. This government shutdown cannot be just about numbers on a spreadsheet. It must be framed about refusing to fund authoritarianism.
 
