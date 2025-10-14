@@ -35,17 +35,17 @@ Please check the type of change your PR introduces:
 - [ ] Solaris
 - [ ] Windows
 
-## Files added
+## Files Added
 
--
+- 
 
-## Files modified
+## Files Modified
 
--
+- 
 
-## Files deleted
+## Files Deleted
 
--
+- 
 
 ## What is the current behavior?
 
