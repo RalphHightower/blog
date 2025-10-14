@@ -6,18 +6,18 @@
 
 Please check the type of change your PR introduces:
 
-- [ ] New blog post
-- [ ] Bugfix
+- [ ] New blog post(s)
+- [ ] Bugfix(es)
 - [ ] Jekyll change(s)
 - [ ] Liquid change(s)
 - [ ] Markdown change(s)
 - [ ] YAML change(s)
 - [ ] Build error(s)
-- [ ] Feature
+- [ ] Feature(s)
 - [ ] Code style update (formatting, renaming)
 - [ ] Refactoring (no functional changes, no api changes)
-- [ ] Build related changes
-- [ ] Documentation content changes
+- [ ] Build related change(s)
+- [ ] Documentation content change(s)
 - [ ] Other (please describe):
 
 ## Language(s)
