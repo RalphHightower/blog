@@ -20,19 +20,58 @@ title: "🛫Trump: Air Force One Frequent Flyer Miles🚁"
 
 | Time | Location |
 |---|---|
-| | **Sunday, October 12, 2025[^59887]** |
-| 8:30 AM ⛳️🏌‍♂️| [Donnie](https://www.donaldjtrump.com/) plays golf at his [Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/) |
-| 6:00 PM | [Donnie](https://www.donaldjtrump.com/) returns to the [White House](https://www.whitehouse.gov/) |
-| | **Saturday, October 11, 2025[^59616]** |
-| 8:30 AM ⛳️🏌‍♂️| [Donnie](https://www.donaldjtrump.com/) plays golf at his [Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/) |
-| 6:00 PM | [Donnie](https://www.donaldjtrump.com/) returns to the [White House](https://www.whitehouse.gov/) |
+| | 🔥 [White House](https://www.whitehouse.gov/) 💣|
+| | **Tuesday, October 14 2025** |
+| 12:05 AM | The [President](https://www.donaldjtrump.com/) arrives The [White House](https;//www.whitehouse.gov/)<br />The [White House](https;//www.whitehouse.gov/) Open Press |
+| 2:50 AM | The [President](https://www.donaldjtrump.com/) arrives The [White House](https;//www.whitehouse.gov/)<br />[South Lawn](https://www.whitehouse.gov/) Open Press |
+| 9:00 AM | In-Town Pool Call Time<br />The [White House](https;//www.whitehouse.gov/) In-Town Pool |
+| 1:00 PM | The [President](https://www.donaldjtrump.com/) greets the [President](https://www.donaldjtrump.com/) of the [Argentine Republic](https://www.argentina.gob.ar/)<br />[Stakeout Location](https://www.whitehouse.gov/) Open Press |
+| 1:15 PM | The [President](https://www.donaldjtrump.com/) participates in a Bilateral Lunch with the [President](https://www.donaldjtrump.com/) of the [Argentine Republic](https://www.argentina.gob.ar/)<br />[Cabinet Room](https://www.whitehouse.gov/) Closed Press |
+| 4:00 PM | The [President](https://www.donaldjtrump.com/) participates in a Medal of Freedom Ceremony for Charlie Kirk<br />[East Room](https;//www.whitehouse.gov/) |
+| | **Monday, October 13 2025** |
+| 2:20 AM | The [President](https://www.donaldjtrump.com/) arrives [Tel Aviv](https://www.tel-aviv.gov.il/), [Israel](https://www.gov.il/) [9:20 AM Local; Actual: 9:44 AM]<br />[Ben Gurion Airport](https://www.iaa.gov.il/), [Tel Aviv](https://www.tel-aviv.gov.il/), [Israel](https://www.gov.il/) Out-of-Town Travel Pool |
+| 3:09 AM | The [President](https://www.donaldjtrump.com/) departs the airport for the [Knesset](https://main.knesset.gov.il/) [10:09 AM Local]<br />[Ben Gurion Airport](https://www.iaa.gov.il/), [Tel Aviv](https://www.tel-aviv.gov.il/), [Israel](https://www.gov.il/) Out-of-Town Travel Pool |
+| 3:45 AM | The [President](https://www.donaldjtrump.com/) meets with Hostage Families [10:45 AM Local]<br />The [Knesset](https://main.knesset.gov.il/), [Jerusalem](https://govextra.gov.il/moia/jerusalem-lang/) Closed Press |
+| 4:00 AM | The [President](https://www.donaldjtrump.com/) delivers Remarks to The [Knesset](https://main.knesset.gov.il/) [11:00 AM Local; 2:08 PM Actual]<br />The [Knesset](https://main.knesset.gov.il/), [Jerusalem](https://govextra.gov.il/moia/jerusalem-lang/) Out-of-Town Travel Pool |
+| 4:00 AM | The [President](https://www.donaldjtrump.com/) arrives at the [Knesset](https://main.knesset.gov.il/) [11:00 AM Local]<br />The [Knesset](https://main.knesset.gov.il/), [Jerusalem](https://govextra.gov.il/moia/jerusalem-lang/) Out-of-Town Travel Pool |
+| 6:00 AM | The [President](https://www.donaldjtrump.com/) departs [Tel Aviv](https://www.tel-aviv.gov.il/), [Israel](https://www.gov.il/), en route Sharm ElSheikh, [Egypt](https://www.presidency.eg/) [1:00 PM Local; 4:15 PM Actual]<br />[Ben Gurion Airport](https://www.iaa.gov.il/), [Tel Aviv](https://www.tel-aviv.gov.il/), [Israel](https://www.gov.il/) Out-of-Town Travel Pool |
+| 6:45 AM | The [President](https://www.donaldjtrump.com/) arrives [Sharm El-Sheikh](https://www.southsinai.gov.eg/City/Details/3), [Egypt](https://www.presidency.eg/) [1:45 PM Local; Actual: 5:20 PM Local]<br />[Sharm El-Sheikh](https://www.southsinai.gov.eg/City/Details/3) International Airport, [Egypt](https://www.presidency.eg/) Out-of-Town Travel Pool |
+| 7:30 AM | The [President](https://www.donaldjtrump.com/) participates in a Middle East Peace Ceremony [2:30 PM Local; 7:17 PM Actual]<br />Tonino Lamborghini International Convention Center, [Sharm El-Sheikh](https://www.southsinai.gov.eg/City/Details/3), [Egypt](https://www.presidency.eg/) Out-of-Town Travel Pool |
+| 8:35 AM | The [President](https://www.donaldjtrump.com/) departs the [Knesset](https://main.knesset.gov.il/) for [Ben Gurion Airport](https://www.iaa.gov.il/) in [Tel Aviv](https://www.tel-aviv.gov.il/) [3:35 PM Local]<br />The [Knesset](https://main.knesset.gov.il/), [Jerusalem](https://govextra.gov.il/moia/jerusalem-lang/) Out-of-Town Travel Pool |
+| 9:00 AM | The [President](https://www.donaldjtrump.com/) arrives at [Ben Gurion Airport](https://www.iaa.gov.il/) in [Tel Aviv](https://www.tel-aviv.gov.il/) [4:00 PM Local]<br />The [Knesset](https://main.knesset.gov.il/), [Jerusalem](https://govextra.gov.il/moia/jerusalem-lang/) Out-of-Town Travel Pool |
+| 9:26 AM | The [President](https://www.donaldjtrump.com/) departs [Ben Gurion Airport](https://www.iaa.gov.il/) in [Tel Aviv](https://www.tel-aviv.gov.il/) for [Sharm El-Sheikh](https://www.southsinai.gov.eg/City/Details/3), [Egypt](https://www.presidency.eg/) [4:26 PM Local]<br />The [Knesset](https://main.knesset.gov.il/), [Jerusalem](https://govextra.gov.il/moia/jerusalem-lang/) Out-of-Town Travel Pool |
+| 10:00 AM | The [President](https://www.donaldjtrump.com/) departs [Sharm El-Sheikh](https://www.southsinai.gov.eg/City/Details/3), [Egypt](https://www.presidency.eg/), en route The [White House](https;//www.whitehouse.gov/) [5:00 PM Local; 8:55 PM Actual to [Joint Base Andrews](https://www.jba.af.mil/)]<br />[Sharm El-Sheikh International Airport](https://sharmelsheikh-airport.com/), [Egypt](https://www.presidency.eg/) Out-of-Town Travel Pool |
+| 10:40 AM | The [President](https://www.donaldjtrump.com/) departs [[Sharm El-Sheikh International Airport](https://sharmelsheikh-airport.com/) for the peace ceremony [5:40 PM Local]<br />[Sharm El-Sheikh International Airport](https://sharmelsheikh-airport.com/), [Egypt](https://www.presidency.eg/) Out-of-Town Travel Pool |
+| 10:48 AM | The [President](https://www.donaldjtrump.com/) arrives at the peace ceremony [5:48 PM Local]<br />Tonino Lamborghini International Convention Center, [Sharm El-Sheikh](https://www.southsinai.gov.eg/City/Details/3), [Egypt](https://www.presidency.eg/) Out-of-Town Travel Pool |
+| 10:55 AM | The [President](https://www.donaldjtrump.com/) and Abdel Fattah El-Sisi, [President](https://www.donaldjtrump.com/) of [Egypt](https://www.presidency.eg/), speak to reporters [5:55 PM Local]<br />Tonino Lamborghini International Convention Center, [Sharm El-Sheikh](https://www.southsinai.gov.eg/City/Details/3), [Egypt](https://www.presidency.eg/) Out-of-Town Travel Pool |
+| 12:58 PM | The [President](https://www.donaldjtrump.com/) delivers a speech at the peace ceremony in [Egypt](https://www.presidency.eg/) [12:58 PM Local]<br />Tonino Lamborghini International Convention Center, [Sharm El-Sheikh](https://www.southsinai.gov.eg/City/Details/3), [Egypt](https://www.presidency.eg/) Out-of-Town Travel Pool |
+| 1:42 PM | The [President](https://www.donaldjtrump.com/) departs the peace ceremony for the airport [1:42 PM Local]<br />Tonino Lamborghini International Convention Center, [Sharm El-Sheikh](https://www.southsinai.gov.eg/City/Details/3), [Egypt](https://www.presidency.eg/) Out-of-Town Travel Pool |
+| 1:50 PM | The [President](https://www.donaldjtrump.com/) arrives at [Sharm El-Sheikh International Airport](https://sharmelsheikh-airport.com/) [1:50 PM Local]<br />Tonino Lamborghini International Convention Center, [Sharm El-Sheikh](https://www.southsinai.gov.eg/City/Details/3), [Egypt](https://www.presidency.eg/) Out-of-Town Travel Pool |
+| 6:40 PM | The [President](https://www.donaldjtrump.com/) lands at [RAF Mildenhall](https://www.mildenhall.af.mil/) for refueling [11:40 PM Local]<br />[RAF Mildenhall](https://www.mildenhall.af.mil/), [England, United Kingdom](https://www.gov.uk/) Out-of-Town Travel Pool |
+| 7:51 PM | The [President](https://www.donaldjtrump.com/) departs from the [RAF Mildenhall](https://www.mildenhall.af.mil/) refueling stop for [Joint Base Andrews](https://www.jba.af.mil/) [12:51 AM Local 10/14]<br />[RAF Mildenhall](https://www.mildenhall.af.mil/), [England, United Kingdom](https://www.gov.uk/) Out-of-Town Travel Pool |
+| 11:30 PM | In-Town Pool Call Time<br />The [White House](https;//www.whitehouse.gov/) In-Town Pool |
+| | **Sunday, October 12 2025** |
+| 2:30 PM | In-Town Pool Call Time<br />The [White House](https;//www.whitehouse.gov/) In-Town Pool |
+| 2:35 PM | Out-of-Town Travel Pool Call Time<br />[Joint Base Andrews](https://www.jba.af.mil/) Out-of-Town Travel Pool |
+| 3:30 PM | The [President](https://www.donaldjtrump.com/) departs The [White House](https;//www.whitehouse.gov/) en route [Tel Aviv](https://www.tel-aviv.gov.il/), [Israel](https://www.gov.il/) [Actual: 4:14 PM to [Joint Base Andrews](https://www.jba.af.mil/)]<br />The [White House](https;//www.whitehouse.gov/) Out-of-Town Travel Pool |
+| 4:31 PM | The [President](https://www.donaldjtrump.com/) arrives at [Joint Base Andrews](https://www.jba.af.mil/)<br />[Joint Base Andrews](https://www.jba.af.mil/) Out-of-Town Travel Pool |
+| 4:47 PM | The [President](https://www.donaldjtrump.com/) departs [Joint Base Andrews](https://www.jba.af.mil/) for [Tel Aviv](https://www.tel-aviv.gov.il/), [Israel](https://www.gov.il/)<br />[Joint Base Andrews](https://www.jba.af.mil/) Out-of-Town Travel Pool |
+| | **Saturday, October 11 2025** |
+| | The [President](https://www.donaldjtrump.com/) has no public events scheduled<br />The [White House](https;//www.whitehouse.gov/) |
+| 8:30 AM | In-Town Pool Call Time<br />The [White House](https;//www.whitehouse.gov/) In-Town Pool |
+| 9:31 AM | The [President](https://www.donaldjtrump.com/) departs the [White House](https;//www.whitehouse.gov/) for his [Trump National Golf Club](https://www.trumpnationaldc.com/)<br />The [White House](https;//www.whitehouse.gov/) |
+| 10:06 AM | The [President](https://www.donaldjtrump.com/) arrives at [Trump National Golf Club](https://www.trumpnationaldc.com/)<br />[Trump National Golf Club](https://www.trumpnationaldc.com/) |
+| 4:23 PM | The [President](https://www.donaldjtrump.com/) departs [Trump National Golf Club](https://www.trumpnationaldc.com/)<br />[Trump National Golf Club](https://www.trumpnationaldc.com/) |
+| 5:00 PM | The [President](https://www.donaldjtrump.com/) arrives at the [White House](https;//www.whitehouse.gov/)<br />The [White House](https;//www.whitehouse.gov/) In-Town Pool |
+| 5:01 PM | [White House](https;//www.whitehouse.gov/) Press Office: Full lid called<br />The [White House](https;//www.whitehouse.gov/) In-Town Pool |
 | | 🔥 [White House](https://www.whitehouse.gov/) 💣|
 | | **Sunday, October 5 2925** |
-| 10:00 AM | Out-of-Town Travel Pool Call Time<br />Joint Base Andrews](https://www.jba.af.mil/) Out-of-Town Travel Pool |
-| 10:15 AM | In-Town Pool Call Time |The [White House](https://www.whitehouse.gov/) In-Town Pool |
-| 10:55 AM | The [President](https://www.donaldjtrump.com/) and The First Lady depart The [White House](https://www.whitehouse.gov/) en route Norfolk, Virginia [Actual: 11:11 AM to [Joint Base Andrews](https://www.jba.af.mil/)] |The [White House](https://www.whitehouse.gov/) Open Press |
+| 10:00 AM | Out-of-Town Travel Pool Call Time<br />[Joint Base Andrews](https://www.jba.af.mil/) Out-of-Town Travel Pool |
+| 10:15 AM | In-Town Pool Call Time 
+<br />The [White House](https://www.whitehouse.gov/) In-Town Pool |
+| 10:55 AM | The [President](https://www.donaldjtrump.com/) and The First Lady depart The [White House](https://www.whitehouse.gov/) en route Norfolk, Virginia [Actual: 11:11 AM to [Joint Base Andrews](https://www.jba.af.mil/)]<br />The [White House](https://www.whitehouse.gov/) Open Press |
 | 11:19 AM | The [President](https://www.donaldjtrump.com/) and the First Lady arrive at [Joint Base Andrews](https://www.jba.af.mil/)<br />[Joint Base Andrews](https://www.jba.af.mil/) |
-| 11:34 AM | The [President](https://www.donaldjtrump.com/) and the First Lady depart [Joint Base Andrews](https://www.jba.af.mil/) for [Norfolk Naval Station](https://cnrma.cnic.navy.mil/Installations/NAVSTA-Norfolk/)<br />Joint Base Andrews](https://www.jba.af.mil/) |
+| 11:34 AM | The [President](https://www.donaldjtrump.com/) and the First Lady depart [Joint Base Andrews](https://www.jba.af.mil/) for [Norfolk Naval Station](https://cnrma.cnic.navy.mil/Installations/NAVSTA-Norfolk/)<br />[Joint Base Andrews](https://www.jba.af.mil/) |
 | 11:58 AM | The [President](https://www.donaldjtrump.com/) and the First Lady arrive at Chambers Field, [Norfolk Naval Station](https://cnrma.cnic.navy.mil/Installations/NAVSTA-Norfolk/) |Chambers Field, Naval Station [Norfolk](https://www.norfolk.gov/), [Virginia](https://www.virginia.gov/) |
 | 12:17 PM | The [President](https://www.donaldjtrump.com/) and the First Lady depart Chambers Field, [Norfolk Naval Station](https://cnrma.cnic.navy.mil/Installations/NAVSTA-Norfolk/) for the [USS George H.W. Bush](https://www.airlant.usff.navy.mil/cvn77/) |Chambers Field, [Norfolk Naval Station](https://cnrma.cnic.navy.mil/Installations/NAVSTA-Norfolk/), VA |
 | 12:52 PM | The [President](https://www.donaldjtrump.com/) and the First Lady arrive at the [USS George H.W. Bush](https://www.airlant.usff.navy.mil/cvn77/)<br />USS George H.W. Bush](https://www.airlant.usff.navy.mil/cvn77/) - [Norfolk Naval Station](https://cnrma.cnic.navy.mil/Installations/NAVSTA-Norfolk/) |
@@ -46,7 +85,7 @@ title: "🛫Trump: Air Force One Frequent Flyer Miles🚁"
 | 5:45 PM | The [President](https://www.donaldjtrump.com/) and The First Lady arrive The [White House](https://www.whitehouse.gov/) [Actual: 6:19 PM]<br />The [White House](https://www.whitehouse.gov/) Open Press |
 | 5:55 PM | The [President](https://www.donaldjtrump.com/) and the First Lady arrive at [Joint Base Andrews](https://www.jba.af.mil/)<br />[Joint Base Andrews](https://www.jba.af.mil/) |
 | 6:10 PM | The [President](https://www.donaldjtrump.com/) and the First Lady depart [Joint Base Andrews](https://www.jba.af.mil/) for the [White House](https://www.whitehouse.gov/)<br />[Joint Base Andrews](https://www.jba.af.mil/) |
-| 6:28 PM | [White House](https://www.whitehouse.gov/) Press Office: Full lid called |The [White House](https://www.whitehouse.gov/) |
+| 6:28 PM | [White House](https://www.whitehouse.gov/) Press Office: Full lid called<br />The [White House](https://www.whitehouse.gov/) |
 | | **Saturday, October 4 2925** |
 | ⛳️🏌‍♂️| The [President](https://www.donaldjtrump.com/) ~~has no public events scheduled~~ (other than playing golf ⛳️🏌)<br />The [White House](https://www.whitehouse.gov/) |
 | 8:00 AM | In-Town Pool Call Time<br />The [White House](https://www.whitehouse.gov/) In-Town Pool |

@@ -2,7 +2,6 @@
 layout: page
 tags: [Karoline Leavitt, Mike Pence, Nikki Haley (2017-2018), Rex Tillerson (2017–2018), Mike Pompeo (2018–2021), Steven Mnuchin (2017–2021), Jim Mattis (2017–2019), Mark Esper (2019–2020), Christopher C. Miller (acting 2020–2021), Jeff Sessions (2017–2018), William Barr (2019–2020), Jeffrey A. Rosen (acting 2020–2021), Ryan Zinke (2017–2019), David Bernhardt (2019–2021), Sonny Perdue (2017–2021), Wilbur Ross (2017–2021), Alexander Acosta (2017–2019), Eugene Scalia (2019–2021), Tom Price (2017), Alex Azar (2018–2021), Ben Carson (2017–2021), Elaine Chao (2017–2021), Rick Perry (2017–2019), Dan Brouillette (2019–2021), Betsy DeVos (2017–2021), David Shulkin (2017–2018), Robert Wilkie (2018–2021), John F. Kelly (2017), Kirstjen Nielsen (2017–2019), Kevin McAleenan (acting 2019), Chad Wolf (acting 2019–2021), Sean Spicer (2017), Sarah Huckabee Sanders (2017–2019), Stephanie Grisham (2019–2020), Kayleigh McEnany (2020–2021), Steven Mnuchin (2017–2021), Lee Zeldin (2025-), Kelly Loeffler (2025-), Pam Bondi (2025-), John Ratcliffe (2025-), Tulsi Gabbard (2025-), Russ Vought (2025-), Brooke Rollins (2025-), Howard Lutnick (2025-), Pete Hegseth (2025-), Linda McMahon (2025-), Chris Wright (2025-), Robert F Kennedy Jr. (2025-), Kristi Noem (2025-), Scott Turner (2025-), Doug Burgum (2025-), Lori Chavez-DeRemer (2025-), Marco Rubio (2025-), Doug Collins (2025-), Sean Duffy (2025-), Scott Bessent (2025-), Jamieson Greer (2025-),]
 categories: [Telephone Numbers]
-date: 2025-09-23 8:16 PM
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
@@ -18,6 +17,11 @@ The telephone numbers below have called and there is an empty person on the othe
 
 | Telephone Number | Location | Date Time[^11] | Caller | Social Media |
 |---|---|---|---|---|
+| [\+1 (803) 327-2239](tel:+18033272239) | SC. Rock Hill | 2025-10-13 06:30 PM | [Aces Flight School](https://www.acesflightschool.com/) | |
+| [\+1 (803) 547-7817](tel:+18035477817) | SC. Fort Mill | 2025-10-13 05:57 PM | Sharon McKown | |
+| [\+1 (803) 547-0951](tel:+18035470951) | SC. Fort Mill | 2025-10-13 04:02 PM | Lucius Baker | |
+| [\+1 (803) 328-3743](tel:+18033283743) | SC. Rock Hill | 2025-10-13 03:03 PM | Scott Robinette | |
+| [\+1 (803) 583-4109](tel:+18035834109) | SC. Pelion | 2025-10-13 09:28 AM | Heather Graham | |
 | [\+1 (803) 851-3908](tel:+18038513908) | SC. Columbia | 2025-10-10 04:07 PM | — | |
 | [\+1 (803) 775-8802](tel:+18037758802) | | 2025-10-10 03:43 PM | Margaret S Scott | |
 | [\+1 (803) 366-7974](tel:+18033667974) | SC. Rock Hill | 2025-10-10 10:49 AM | Lola Sutherland | |
