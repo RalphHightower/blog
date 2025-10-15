@@ -2,7 +2,6 @@
 layout: page
 tags: [The Mar-a-Lago Club Palm Beach Florida 33480, Trump International Golf Club West Palm Beach FL 33406, Trump National Doral Golf Club Miami FL 33178, Trump National Jupiter Golf Club Jupiter FL 33477, Trump National Golf Club Washington D.C. Potomac Falls VA 20165, Trump National Golf Club Bedminster Bedminster NJ 07921, Trump National Golf Club Colts Neck Colts Neck NJ 07722, Trump National Golf Club Philadelphia Pine Hill NJ 08021, Trump National Golf Club Hudson Valley Hopewell Junction NY 12533, Trump National Golf Club Los Angeles Rancho Palos Verdes CA 90275, Trump National Golf Club Charlotte Mooresville NC 28117, Trump International Golf Club Dubai Al Hebiah Third District Dubai, Trump International Golf Links & Hotel Ireland Doonbeg CLARE IRELAND, Trump MacLeod House & Lodge Scotland Aberdeenshire Scotland AB23 8YE, Trump MacLeod House & Lodge Scotland Aberdeenshire Scotland AB23 8YE, Trump Turnberry Ayrshire Scotland]
 categories: [Donald Trump]
-date: 2025-10-03 3:31 PM
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
@@ -15,12 +14,29 @@ title: "🛫Trump: Air Force One Frequent Flyer Miles🚁"
 - 2025-04-05: [Trump Never Let a Weekend of Golf ⛳️ Interfere With a Commander-In-Chief’s Solemn Duty to Receive Fallen Military 🪖]({% link _posts/2025/04/2025-04-05-MilitaryFallenDontInterruptTrumpGolfWeekends.md %})
 
 [^666]: @RalphHightower – [Federal Aviation Administration - Graphic TFRs](https://tfr.faa.gov/tfr3/?page=list)
-[^59616]: [5/9616](https://tfr.faa.gov/tfr3/?page=detail_5_9616). From October 11, 2025 at 0830 EDT – October 11, 2025 at 1800 EDT
-[^59887]: [Federal Aviation Administration - Graphic TFRs](https://tfr.faa.gov/tfr3/?page=detail_5_9887). October 12, 2025 at 0830 EDT – October 12, 2025 at 1800 EDT
+[^50910]: [Federal Aviation Administration - Graphic TFRs](https://tfr.faa.gov/tfr3/?page=detail_5_0910). From October 17, 2025 at 1615 EDT – October 19, 2025 at 1830 EDT)
+
+- **Sunday, October 19, 2025[^50910]**
+    - **[The Mar-a-Lago Club](https://www.maralagoclub.com/)** <br /> 1100 South Ocean Boulevard, <br /> Palm Beach, Florida 33480 <br /> [+1 (561) 832-2600](tel:+15618322600)
+    - **[Trump International Golf Club](https://www.trumpinternationalpalmbeaches.com/)** <br /> 3505 Summit Blvd <br /> West Palm Beach FL 33406 <br /> [+1 (561) 682-0700](tel:+15616820700)
+    - 6:30 PM **[The Mar-a-Lago Club](https://www.maralagoclub.com/)** <br /> 1100 South Ocean Boulevard, <br /> Palm Beach, Florida 33480 <br /> [+1 (561) 832-2600](tel:+15618322600)
+    - [Palm Beach International Airport](https://www.pbia.org/)
+    - [Joint Base Andrews](https://www.jba.af.mil/)
+    - [White House](https://www.whitehouse.gov/)
+- **Saturday, October 18, 2025[^50910]**
+    - **[The Mar-a-Lago Club](https://www.maralagoclub.com/)** <br /> 1100 South Ocean Boulevard, <br /> Palm Beach, Florida 33480 <br /> [+1 (561) 832-2600](tel:+15618322600)
+    - **[Trump International Golf Club](https://www.trumpinternationalpalmbeaches.com/)** <br /> 3505 Summit Blvd <br /> West Palm Beach FL 33406 <br /> [+1 (561) 682-0700](tel:+15616820700)
+    - **[The Mar-a-Lago Club](https://www.maralagoclub.com/)** <br /> 1100 South Ocean Boulevard, <br /> Palm Beach, Florida 33480 <br /> [+1 (561) 832-2600](tel:+15618322600)
+- **Friday, October 17, 2025[^50910]**
+    - 4:15 PM[White House](https://www.whitehouse.gov/)
+    - [Joint Base Andrews](https://www.jba.af.mil/)
+    - [Palm Beach International Airport](https://www.pbia.org/)
+    - **[The Mar-a-Lago Club](https://www.maralagoclub.com/)** <br /> 1100 South Ocean Boulevard, <br /> Palm Beach, Florida 33480 <br /> [+1 (561) 832-2600](tel:+15618322600)
 
 | Time | Location |
 |---|---|
-| | 🔥 [White House](https://www.whitehouse.gov/) 💣|
+| | **Friday, October 17, 2025[^50910]** |
+| 4:15 PM | [Donnie](https://www.donaldjtrump.com/) departs the [White House](https://www.whitehouse.gov/), burning 🔥 taxpayer dollars 💸 for another damned weekend of golf |
 | | **Tuesday, October 14 2025** |
 | 12:05 AM | The [President](https://www.donaldjtrump.com/) arrives The [White House](https;//www.whitehouse.gov/)<br />The [White House](https;//www.whitehouse.gov/) Open Press |
 | 2:50 AM | The [President](https://www.donaldjtrump.com/) arrives The [White House](https;//www.whitehouse.gov/)<br />[South Lawn](https://www.whitehouse.gov/) Open Press |
@@ -34,7 +50,7 @@ title: "🛫Trump: Air Force One Frequent Flyer Miles🚁"
 | 3:45 AM | The [President](https://www.donaldjtrump.com/) meets with Hostage Families [10:45 AM Local]<br />The [Knesset](https://main.knesset.gov.il/), [Jerusalem](https://govextra.gov.il/moia/jerusalem-lang/) Closed Press |
 | 4:00 AM | The [President](https://www.donaldjtrump.com/) delivers Remarks to The [Knesset](https://main.knesset.gov.il/) [11:00 AM Local; 2:08 PM Actual]<br />The [Knesset](https://main.knesset.gov.il/), [Jerusalem](https://govextra.gov.il/moia/jerusalem-lang/) Out-of-Town Travel Pool |
 | 4:00 AM | The [President](https://www.donaldjtrump.com/) arrives at the [Knesset](https://main.knesset.gov.il/) [11:00 AM Local]<br />The [Knesset](https://main.knesset.gov.il/), [Jerusalem](https://govextra.gov.il/moia/jerusalem-lang/) Out-of-Town Travel Pool |
-| 6:00 AM | The [President](https://www.donaldjtrump.com/) departs [Tel Aviv](https://www.tel-aviv.gov.il/), [Israel](https://www.gov.il/), en route Sharm ElSheikh, [Egypt](https://www.presidency.eg/) [1:00 PM Local; 4:15 PM Actual]<br />[Ben Gurion Airport](https://www.iaa.gov.il/), [Tel Aviv](https://www.tel-aviv.gov.il/), [Israel](https://www.gov.il/) Out-of-Town Travel Pool |
+| 6:00 AM | The [President](https://www.donaldjtrump.com/) departs [Tel Aviv](https://www.tel-aviv.gov.il/), [Israel](https://www.gov.il/), en route [Sharm El-Sheikh](https://www.southsinai.gov.eg/City/Details/3), [Egypt](https://www.presidency.eg/) [1:00 PM Local; 4:15 PM Actual]<br />[Ben Gurion Airport](https://www.iaa.gov.il/), [Tel Aviv](https://www.tel-aviv.gov.il/), [Israel](https://www.gov.il/) Out-of-Town Travel Pool |
 | 6:45 AM | The [President](https://www.donaldjtrump.com/) arrives [Sharm El-Sheikh](https://www.southsinai.gov.eg/City/Details/3), [Egypt](https://www.presidency.eg/) [1:45 PM Local; Actual: 5:20 PM Local]<br />[Sharm El-Sheikh](https://www.southsinai.gov.eg/City/Details/3) International Airport, [Egypt](https://www.presidency.eg/) Out-of-Town Travel Pool |
 | 7:30 AM | The [President](https://www.donaldjtrump.com/) participates in a Middle East Peace Ceremony [2:30 PM Local; 7:17 PM Actual]<br />Tonino Lamborghini International Convention Center, [Sharm El-Sheikh](https://www.southsinai.gov.eg/City/Details/3), [Egypt](https://www.presidency.eg/) Out-of-Town Travel Pool |
 | 8:35 AM | The [President](https://www.donaldjtrump.com/) departs the [Knesset](https://main.knesset.gov.il/) for [Ben Gurion Airport](https://www.iaa.gov.il/) in [Tel Aviv](https://www.tel-aviv.gov.il/) [3:35 PM Local]<br />The [Knesset](https://main.knesset.gov.il/), [Jerusalem](https://govextra.gov.il/moia/jerusalem-lang/) Out-of-Town Travel Pool |
@@ -72,7 +88,7 @@ title: "🛫Trump: Air Force One Frequent Flyer Miles🚁"
 | 11:19 AM | The [President](https://www.donaldjtrump.com/) and the First Lady arrive at [Joint Base Andrews](https://www.jba.af.mil/)<br />[Joint Base Andrews](https://www.jba.af.mil/) |
 | 11:34 AM | The [President](https://www.donaldjtrump.com/) and the First Lady depart [Joint Base Andrews](https://www.jba.af.mil/) for [Norfolk Naval Station](https://cnrma.cnic.navy.mil/Installations/NAVSTA-Norfolk/)<br />[Joint Base Andrews](https://www.jba.af.mil/) |
 | 11:58 AM | The [President](https://www.donaldjtrump.com/) and the First Lady arrive at Chambers Field, [Norfolk Naval Station](https://cnrma.cnic.navy.mil/Installations/NAVSTA-Norfolk/)<br />Chambers Field, Naval Station [Norfolk](https://www.norfolk.gov/), [Virginia](https://www.virginia.gov/) |
-| 12:17 PM | The [President](https://www.donaldjtrump.com/) and the First Lady depart Chambers Field, [Norfolk Naval Station](https://cnrma.cnic.navy.mil/Installations/NAVSTA-Norfolk/) for the [USS George H.W. Bush](https://www.airlant.usff.navy.mil/cvn77/)</>Chambers Field, [Norfolk Naval Station](https://cnrma.cnic.navy.mil/Installations/NAVSTA-Norfolk/), VA |
+| 12:17 PM | The [President](https://www.donaldjtrump.com/) and the First Lady depart Chambers Field, [Norfolk Naval Station](https://cnrma.cnic.navy.mil/Installations/NAVSTA-Norfolk/) for the [USS George H.W. Bush](https://www.airlant.usff.navy.mil/cvn77/)<br />Chambers Field, [Norfolk Naval Station](https://cnrma.cnic.navy.mil/Installations/NAVSTA-Norfolk/), VA |
 | 12:52 PM | The [President](https://www.donaldjtrump.com/) and the First Lady arrive at the [USS George H.W. Bush](https://www.airlant.usff.navy.mil/cvn77/)<br />[USS George H.W. Bush](https://www.airlant.usff.navy.mil/cvn77/) - [Norfolk Naval Station](https://cnrma.cnic.navy.mil/Installations/NAVSTA-Norfolk/) |
 | 1:00 PM | The [President](https://www.donaldjtrump.com/) and The First Lady observe a Naval Sea Power Demonstration<br />[USS George H.W. Bush](https://www.airlant.usff.navy.mil/cvn77/) - [Norfolk Naval Station](https://cnrma.cnic.navy.mil/Installations/NAVSTA-Norfolk/) Out-of-Town Travel Pool |
 | 3:05 PM | The [President](https://www.donaldjtrump.com/) and the First Lady depart the [USS George H.W. Bush](https://www.airlant.usff.navy.mil/cvn77/) for the [USS Harry S. Truman](https://www.airlant.usff.navy.mil/cvn75/)<br />[USS George H.W. Bush](https://www.airlant.usff.navy.mil/cvn77/) - [Norfolk Naval Station](https://cnrma.cnic.navy.mil/Installations/NAVSTA-Norfolk/) |
@@ -1590,3 +1606,5 @@ title: "🛫Trump: Air Force One Frequent Flyer Miles🚁"
 [^50929]: [Federal Aviation Administration - Graphic TFRs](https://tfr.faa.gov/tfr3/?page=detail_5_0929). September 27, 2025 at 0830 EDT – September 27, 2025 at 1800 EDT
 [^51198]: [Federal Aviation Administration - Graphic TFRs](https://tfr.faa.gov/tfr3/?page=detail_5_1198). From September 28, 2025 at 0830 EDT – September 28, 2025 – 1800 EDT
 [^56092]: [Federal Aviation Administration - Graphic TFRs](https://tfr.faa.gov/tfr3/?page=detail_5_6092). From October 04, 2025 at 0830 EDT– October 04, 2025 at 1800 EDT.
+[^59616]: [5/9616](https://tfr.faa.gov/tfr3/?page=detail_5_9616). From October 11, 2025 at 0830 EDT – October 11, 2025 at 1800 EDT
+[^59887]: [Federal Aviation Administration - Graphic TFRs](https://tfr.faa.gov/tfr3/?page=detail_5_9887). October 12, 2025 at 0830 EDT – October 12, 2025 at 1800 EDT
