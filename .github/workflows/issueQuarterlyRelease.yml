@@ -35,8 +35,8 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GH_REPO: ${{ github.repository }}
-          TITLE: Maintenance: Quarterly Release
-          ASSIGNEES: RalphHightower 
+          TITLE: "Maintenance: Quarterly Release"
+          ASSIGNEES: "RalphHightower"
           LABELS: "maintenance,release – minor"
           BODY: |
             # Quarterly Release 
