@@ -11,6 +11,9 @@ title: 'Lessons From James Comey’s Indictment For Letitia James and Adam Schif
 ---
 
 
+- ['Prosecute' vs. 'Persecute' – Merriam-Webster](https://www.merriam-webster.com/grammar/prosecuted-vs-persecuted-usage)
+    - “One you do in court, the other you do if you're a jerk.”
+
 ## [What Letitia James and Adam Schiff should take from James Comey's indictment](https://www.msnbc.com/opinion/msnbc-opinion/james-comey-plea-letitia-james-adam-schiff-rcna236392)
 
 *[President](https://www.whitehouse.gov/) [Donald Trump](https://www.donaldjtrump.com/)'s revenge campaign doesn't require convictions in court. Simple humiliation will suffice.*
@@ -110,6 +113,7 @@ Hayes Brown is a writer and editor for MSNBC Daily, where he helps frame the new
                         - Lindsey Halligan
                 - [Kash Patel](https://www.fbi.gov/about/leadership-and-structure/director-patel)
                     - [Deputy Director Dan Bongino — FBI](https://www.fbi.gov/about/leadership-and-structure/deputy-director-dan-bongino)
+{% include TrumpWeaponization.html %}
 - grifter
 - self-dealing
 - corruption

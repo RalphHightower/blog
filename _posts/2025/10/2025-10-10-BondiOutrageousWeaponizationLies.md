@@ -10,6 +10,10 @@ excerpt: ''
 title: "Trump Crime Family: His Personal Lawyer, Pam Bondi's Outrageous Lies That The Department of Justice (DOJ) Isn’t Weaponized"
 ---
 
+- ['Prosecute' vs. 'Persecute' – Merriam-Webster](https://www.merriam-webster.com/grammar/prosecuted-vs-persecuted-usage)
+    - “One you do in court, the other you do if you're a jerk.”
+- [Federal: 2020 Election Interference, January 6 Insurrection]({% link January6DocumentDocumentLinks.md %})
+
 ## [Pam Bondi’s boasts about the ‘end’ of weaponization suddenly look a lot more preposterous](https://www.msnbc.com/rachel-maddow-show/maddowblog/pam-bondis-boasts-end-weaponization-suddenly-look-lot-preposterous-rcna236855)
 
 *If [Bondi](https://www.justice.gov/ag/staff-profile/meet-attorney-general/) genuinely believes she and the [president](https://www.whitehouse.gov/) have somehow “ended” government weaponization, I have some very bad news for the [attorney General](https://www.justice.gov/).*
@@ -110,6 +114,7 @@ This post updates our [related earlier coverage](https://www.msnbc.com/rachel-ma
                         - Lindsey Halligan
                 - [Kash Patel](https://www.fbi.gov/about/leadership-and-structure/director-patel)
                     - [Deputy Director Dan Bongino — FBI](https://www.fbi.gov/about/leadership-and-structure/deputy-director-dan-bongino)
+{% include TrumpWeaponization.html %}
 - grifter
 - self-dealing
 - corruption

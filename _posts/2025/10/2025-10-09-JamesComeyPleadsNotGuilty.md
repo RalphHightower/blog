@@ -10,6 +10,9 @@ excerpt: ''
 title: "Former FBI Director, James Comey, Pleads “Not Guilty” At Trump’s Weaponization Arraignment"
 ---
 
+- ['Prosecute' vs. 'Persecute' – Merriam-Webster](https://www.merriam-webster.com/grammar/prosecuted-vs-persecuted-usage)
+    - “One you do in court, the other you do if you're a jerk.”
+
 ## [Ex-FBI Director James Comey pleads not guilty to indictment secured by Trump loyalist](https://www.msnbc.com/deadline-white-house/deadline-legal-blog/james-comey-pleads-not-guilty-trump-halligan-rcna236313)
 
 *Former [Trump](https://www.donaldjtrump.com/) personal lawyer [Lindsey Halligan](https://www.justice.gov/usao-edva/) obtained the indictment sought by the [president](https://www.whitehouse.gov/). Now she needs to prove the case.*
@@ -87,6 +90,7 @@ Subscribe to the [Deadline: Legal Newsletter](https://link.msnbc.com/join/5ck/ms
             - [President Trump (47) Cabinet](https://www.whitehouse.gov/administration/the-cabinet/)
                 - press secretary
                     - Karoline Leavitt
+{% include TrumpWeaponization.html %}
 - grifter
 - self-dealing
 - corruption

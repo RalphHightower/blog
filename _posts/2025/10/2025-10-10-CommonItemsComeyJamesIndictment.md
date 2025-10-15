@@ -10,6 +10,9 @@ excerpt: ''
 title: "The Common Item Of James Comey's Indictment & Letitia James' Indictment"
 ---
 
+- ['Prosecute' vs. 'Persecute' – Merriam-Webster](https://www.merriam-webster.com/grammar/prosecuted-vs-persecuted-usage)
+    - “One you do in court, the other you do if you're a jerk.”
+
 ## [The one thing the Letitia James and James Comey indictments have in common](https://www.msnbc.com/rachel-maddow-show/maddowblog/one-thing-letitia-james-james-comey-indictments-common-rcna236837)
 
 *Both cases are brazenly and transparently corrupt, for the sake of brazen and transparent corruption.*
