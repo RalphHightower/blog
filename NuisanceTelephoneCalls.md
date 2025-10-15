@@ -17,6 +17,11 @@ The telephone numbers below have called and there is an empty person on the othe
 
 | Telephone Number | Location | Date Time[^11] | Caller | Social Media |
 |---|---|---|---|---|
+| [\+1 (803) 856-5401](tel:+18038565401) | SC. Bishopville | 2025-10-14 06:20 PM | — | |
+| [\+1 (803) 562-0645](tel:+18035620645) | SC. Columbia | 2025-10-14 05:55 PM | Netcom Columbia SC | |
+| [\+1 (803) 440-8724](tel:+18034408724) | SC. Columbia | 2025-10-14 04:37 PM | — | |
+| [\+1 (803) 474-5952](tel:+18034745952) | SC. Beech Island | 2025-10-14 12:12 PM | Laura Tovo | |
+| [\+1 (803) 356-1814](tel:+18033561814) | SC. Lexington | 2025-10-14 09:53 AM | David Peacock | |
 | [\+1 (803) 327-2239](tel:+18033272239) | SC. Rock Hill | 2025-10-13 06:30 PM | [Aces Flight School](https://www.acesflightschool.com/) | |
 | [\+1 (803) 547-7817](tel:+18035477817) | SC. Fort Mill | 2025-10-13 05:57 PM | Sharon McKown | |
 | [\+1 (803) 547-0951](tel:+18035470951) | SC. Fort Mill | 2025-10-13 04:02 PM | Lucius Baker | |
