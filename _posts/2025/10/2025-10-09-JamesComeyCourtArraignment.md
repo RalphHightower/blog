@@ -130,6 +130,7 @@ Subscribe to the [Deadline: Legal Newsletter](https://link.msnbc.com/join/5ck/ms
                         - Lindsey Halligan
                 - [Kash Patel](https://www.fbi.gov/about/leadership-and-structure/director-patel)
                     - [Deputy Director Dan Bongino — FBI](https://www.fbi.gov/about/leadership-and-structure/deputy-director-dan-bongino)
+{% include TrumpWeaponization.html %}
 - grifter
 - self-dealing
 - corruption

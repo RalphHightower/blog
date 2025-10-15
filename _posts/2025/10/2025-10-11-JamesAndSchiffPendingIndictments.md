@@ -113,6 +113,7 @@ Hayes Brown is a writer and editor for MSNBC Daily, where he helps frame the new
                         - Lindsey Halligan
                 - [Kash Patel](https://www.fbi.gov/about/leadership-and-structure/director-patel)
                     - [Deputy Director Dan Bongino — FBI](https://www.fbi.gov/about/leadership-and-structure/deputy-director-dan-bongino)
+{% include TrumpWeaponization.html %}
 - grifter
 - self-dealing
 - corruption

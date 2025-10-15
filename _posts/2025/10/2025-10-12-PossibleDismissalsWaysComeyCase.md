@@ -129,6 +129,7 @@ Jordan Rubin is the Deadline: Legal Blog writer. He was a prosecutor for the New
                         - Lindsey Halligan
                 - [Kash Patel](https://www.fbi.gov/about/leadership-and-structure/director-patel)
                     - [Deputy Director Dan Bongino — FBI](https://www.fbi.gov/about/leadership-and-structure/deputy-director-dan-bongino)
+{% include TrumpWeaponization.html %}
 - grifter
 - self-dealing
 - corruption

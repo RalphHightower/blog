@@ -114,6 +114,7 @@ This post updates our [related earlier coverage](https://www.msnbc.com/rachel-ma
                         - Lindsey Halligan
                 - [Kash Patel](https://www.fbi.gov/about/leadership-and-structure/director-patel)
                     - [Deputy Director Dan Bongino — FBI](https://www.fbi.gov/about/leadership-and-structure/deputy-director-dan-bongino)
+{% include TrumpWeaponization.html %}
 - grifter
 - self-dealing
 - corruption

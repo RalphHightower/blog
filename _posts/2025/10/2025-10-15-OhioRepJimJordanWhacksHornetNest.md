@@ -1,7 +1,7 @@
 ---
 layout: post
-tags: []
-categories: []
+tags: [media, MSNBC News - Breaking News and News Today / Latest News, Steve Benen, The Rachel Maddow Show, MaddowBlog, “Ministry of Truth –  Democracy Reality and the Republicans’ War on the Recent Past.”, MSNBC News - Breaking News and News Today / Latest News, NBC News - Breaking Headlines and Video Reports on World U.S. and Local Angles / NBC News, The New York Times (NYT) - Breaking News US News World News and Videos, POLITICO - Politics Policy Political News, The Daily Beast / The Latest in Politics Media & Entertainment News, NPR - Breaking News Analysis Music Arts & Podcasts – NPR, organizations, political parties, Democrat Party, Trumpian Party, universities, George Mason University / A Top 50 Public R1 Research University / George Mason University, Welcome to UCL / University College London, Full-Time Faculty / NYU School of Law, Andrew Weissmann - Biography / NYU School of Law, companies, foreign governments, state local governments, federal government, Constitution of the United States, U.S. Constitution - Article I / Library of Congress, U.S. Constitution - Article II / Library of Congress, U.S. Constitution - Article III / Library of Congress, U.S. Constitution - Article IV / Library of Congress, U.S. Constitution - Article V / Library of Congress, U.S. Constitution - Article VI / Library of Congress, U.S. Constitution - Article VII / Library of Congress, Supreme Court of the United States (SCOTUS), US Courts, Department of Justice (DOJ), Special Counsel Jack Smith, Federal Bureau of Investigation (FBI), Federal Reserve, Federal Reserve Board - Federal Reserve Act, U.S. Department of the Treasury, Congress, Senate, House of Representatives Jim Jordan (T-OH4), House Judiciary Committee, The Chairman / House Judiciary Committee Republicans, President of the United States (POTUS), White House (WH), Trump autocracy, Donald J Trump, President Donald Trump (45), President Donald Trump (47), President Trump (47) Administration, President Trump (47) Cabinet, press secretary, Karoline Leavitt, Pam Bondi, Office of the Deputy Attorney General / Office of the Deputy Attorney General, Todd Blanche / LinkedIn, Lindsey Halligan, Kash Patel, Deputy Director Dan Bongino — FBI, grifter, self-dealing, corruption, con artist, crime, cryptocurrency, criminal associates, criminal businesses, criminal media, criminal organizations, criminal partners]
+categories: [Donald Trump, Department of Justice (DOJ), Pam Bondi, weaponization, January 6 2021 Insurrection, 2020 election interference, top-secret documents, classified documents, active concealment, Jim Jordan (T-OH4), Merrick Garland, Jack Smith, special counsel]
 date: 2025-10-15 15:29
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
@@ -83,7 +83,8 @@ This post updates our [related earlier coverage](https://www.msnbc.com/rachel-ma
     - [Supreme Court of the United States (SCOTUS)](https://www.supremecourt.gov/)
     - [US Courts](https://www.uscourts.gov/)
     - [Department of Justice (DOJ)](https://www.justice.gov/)
-        - [Sppecial Counsel Jack Smith](https://www.justice.gov/archives/sco-smith)
+        - Merrick Garland 
+            - [Special Counsel Jack Smith](https://www.justice.gov/archives/sco-smith)
         - [Federal Bureau of Investigation (FBI)](https://www.fbi.gov/)
     - [Federal Reserve](https://www.federalreserve.gov/)
     - [Federal Reserve Board - Federal Reserve Act](https://www.federalreserve.gov/aboutthefed/fract.htm)
@@ -103,6 +104,13 @@ This post updates our [related earlier coverage](https://www.msnbc.com/rachel-ma
             - [President Trump (47) Cabinet](https://www.whitehouse.gov/administration/the-cabinet/)
                 - press secretary
                     - Karoline Leavitt
+                - [Pam Bondi](https://www.justice.gov/ag/staff-profile/meet-attorney-general)
+                    - [Office of the Deputy Attorney General / Office of the Deputy Attorney General](https://www.justice.gov/dag)
+                    - [Todd Blanche / LinkedIn](https://www.linkedin.com/in/toddblanche/)
+                        - Lindsey Halligan
+                - [Kash Patel](https://www.fbi.gov/about/leadership-and-structure/director-patel)
+                    - [Deputy Director Dan Bongino — FBI](https://www.fbi.gov/about/leadership-and-structure/deputy-director-dan-bongino)
+{% include TrumpWeaponization.html %}
 - grifter
 - self-dealing
 - corruption
