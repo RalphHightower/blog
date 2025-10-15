@@ -55,7 +55,6 @@ There have already been too many recent instances in which those in positions of
         - [The Rachel Maddow Show](https://www.msnbc.com/rachel-maddow-show)
             - [MaddowBlog](https://www.msnbc.com/rachel-maddow-show)
             - ["Ministry of Truth: Democracy, Reality, and the Republicans' War on the Recent Past."](https://www.harpercollins.com/products/ministry-of-truth-steve-benen)
-- [Faux News](https://www.foxnews.com/)
 - [The New Republic](https://newrepublic.com/)
 - [POLITICO - Politics, Policy, Political News](https://www.politico.com/)
 - organizations
@@ -140,6 +139,7 @@ There have already been too many recent instances in which those in positions of
 - cryptocurrency
 - criminal associates
 - criminal businesses
+- [Faux News](https://www.foxnews.com/)
 - criminal media
 - criminal organizations
 - criminal partners
