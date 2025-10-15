@@ -10,6 +10,8 @@ excerpt: ''
 title: "Possible Ways James Comey's Indictment Could Be Dismissed Before Triala"
 ---
 
+- ['Prosecute' vs. 'Persecute' – Merriam-Webster](https://www.merriam-webster.com/grammar/prosecuted-vs-persecuted-usage)
+    - “One you do in court, the other you do if you're a jerk.”
 
 ## [How James Comey’s indictment could be dismissed before trial](https://www.msnbc.com/deadline-white-house/deadline-legal-blog/james-comey-indictment-trump-pretrial-motions-rcna236650)
 
