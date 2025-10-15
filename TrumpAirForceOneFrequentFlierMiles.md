@@ -37,7 +37,7 @@ title: "🛫Trump: Air Force One Frequent Flyer Miles🚁"
 |---|---|
 | | **Friday, October 17, 2025[^50910]** |
 | 4:15 PM | [Donnie](https://www.donaldjtrump.com/) departs the [White House](https://www.whitehouse.gov/), burning 🔥 taxpayer dollars 💸 for another damned weekend of golf |
-| **Tuesday, October 14 2025** |
+| | **Tuesday, October 14 2025** |
 | 12:05 AM | The [President](https://www.donaldjtrump.com/) arrives The [White House](https;//www.whitehouse.gov/)<br />The [White House](https;//www.whitehouse.gov/) Open Press |
 | 2:50 AM | The [President](https://www.donaldjtrump.com/) arrives The [White House](https;//www.whitehouse.gov/)<br />[South Lawn](https://www.whitehouse.gov/) Open Press |
 | 9:00 AM | In-Town Pool Call Time<br />The [White House](https;//www.whitehouse.gov/) In-Town Pool |
