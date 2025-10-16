@@ -17,6 +17,15 @@ The telephone numbers below have called and there is an empty person on the othe
 
 | Telephone Number | Location | Date Time[^11] | Caller | Social Media |
 |---|---|---|---|---|
+| [\+1 (803) 997-6786](tel:+18039976786) | SC. Orangeburg | 2025-10-15 06:52 PM | — | |
+| [\+1 (803) 667-9304](tel:+18036679304) | SC. Columbia | 2025-10-15 06:17 PM ¤¤ | Tami Adger | |
+| [\+1 (803) 667-9304](tel:+18036679304) | SC. Columbia | 2025-10-15 06:16 PM | Tami Adger | |
+| [\+1 (803) 578-7388](tel:+18035787388) | SC. Fort Mill | 2025-10-15 03:48 PM | — | |
+| [\+1 (803) 314-9984](tel:+18033149984) | SC. Columbia | 2025-10-15 03:39 PM | — | |
+| [\+1 (803) 262-4982](tel:+18032624982) | SC. Aiken | 2025-10-15 01:15 PM | — | |
+| [\+1 (803) 224-9831](tel:+18032249831) | SC. Barnwell | 2025-10-15 11:28 AM | — | |
+| [\+1 (803) 342-3836](tel:+18033423836) | SC. Lancaster | 2025-10-15 11:10 AM | — | |
+| [\+1 (803) 651-5758](tel:+18036515758) | SC. Sumter | 2025-10-15 11:05 AM | — | |
 | [\+1 (803) 856-5401](tel:+18038565401) | SC. Bishopville | 2025-10-14 06:20 PM | — | |
 | [\+1 (803) 562-0645](tel:+18035620645) | SC. Columbia | 2025-10-14 05:55 PM | Netcom Columbia SC | |
 | [\+1 (803) 440-8724](tel:+18034408724) | SC. Columbia | 2025-10-14 04:37 PM | — | |
