@@ -85,7 +85,6 @@ Erum Salam is a breaking news reporter and producer for MSNBC Digital. She previ
             - [U.S. Marine Corps](https://www.marines.mil/)
             - [National Guard](https://www.nationalguard.mil/)
             - [U.S. Navy](https://www.navy.mil/)
-            - [National Guard](https://www.nationalguard.mil/)
             - [U.S. Space Command](https://www.spacecom.mil/)
         - [Department of Homeland Security (DHS)](https://www.dhs.gov/)
             - [Immigration and Customs Enforcement (ICE)](https://www.ice.gov/)
