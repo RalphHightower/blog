@@ -7,8 +7,9 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: "Trumpian Talking Points Out of Touch With "No Kings' Ptotests"
+title: "Trumpian Talking Points Out of Touch With No Kings' Protests"
 ---
+
 
 
 ## [The GOP’s ‘No Kings’ talking points are out of touch with reality](https://www.msnbc.com/opinion/msnbc-opinion/no-kings-protests-trump-republican-warnings-rcna237845)
