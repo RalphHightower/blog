@@ -17,6 +17,18 @@ The telephone numbers below have called and there is an empty person on the othe
 
 | Telephone Number | Location | Date Time[^11] | Caller | Social Media |
 |---|---|---|---|---|
+| [\+1 (803) 683-5425](tel:+18036835425) | SC. Columbia | 2025-10-16 07:25 PM | All South FCU | |
+| [\+1 (803) 607-9483](tel:+18036079483) | SC. Sumter | 2025-10-16 05:19 PM | Larry W Coker | |
+| [\+1 (803) 226-7280](tel:+18032267280) | SC. Aiken | 2025-10-16 04:34 PM | — | |
+| [\+1 (803) 612-3427](tel:+18036123427) | SC. Columbia | 2025-10-16 04:15 PM | — | |
+| [\+1 (803) 529-1969](tel:+18035291969) | SC. Columbia | 2025-10-16 03:32 PM | — | |
+| [\+1 (803) 894-5220](tel:+18038945220) | SC. Pelion | 2025-10-16 03:09 PM | Jennifer Murphy | |
+| [\+1 (803) 623-6004](tel:+18036236004) | SC. Chester | 2025-10-16 01:22 PM | Fresenius Med | |
+| [\+1 (803) 735-7782](tel:+18037357782) | SC. Columbia | 2025-10-16 12:32 PM | — | |
+| [\+1 (803) 205-4083](tel:+18032054083) | SC. Columbia | 2025-10-16 11:17 AM | Barbara Little | |
+| [\+1 (803) 941-8215](tel:+18039418215) | SC. Little Mountain | 2025-10-16 11:15 AM | — | |
+| [\+1 (803) 900-9680](tel:+18039009680) | SC. Camden | 2025-10-16 09:59 AM | — | |
+| [\+1 (803) 993-4869](tel:+18039934869) | SC. Columbia | 2025-10-16 09:58 AM | — | |
 | [\+1 (803) 997-6786](tel:+18039976786) | SC. Orangeburg | 2025-10-15 06:52 PM | — | |
 | [\+1 (803) 667-9304](tel:+18036679304) | SC. Columbia | 2025-10-15 06:17 PM ¤¤ | Tami Adger | |
 | [\+1 (803) 667-9304](tel:+18036679304) | SC. Columbia | 2025-10-15 06:16 PM | Tami Adger | |
