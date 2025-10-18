@@ -37,7 +37,7 @@ title: "🛫Trump: Air Force One Frequent Flyer Miles🚁"
 |---|---|
 | | 🔥 [White House](https://www.whitehouse.gov/) 💣|
 | | **Sunday, October 19 2025** |
-| 7:15 AM 🏌‍♂️⛳️| Out-of-Town Travel Pool Call Time<br />Out-of-Town Travel Pool<br />**[Trump International Golf Club](https://www.trumpinternationalpalmbeaches.com/) |
+| 7:15 AM 🏌‍♂️⛳️| Out-of-Town Travel Pool Call Time<br />Out-of-Town Travel Pool<br />[Trump International Golf Club](https://www.trumpinternationalpalmbeaches.com/) |
 | 5:25 PM | The [President](https://www.donaldjtrump.com/) departs [Palm Beach](https://discover.pbc.gov/), [Florida](https://www.myflorida.gov/) en route The [White House](https://www.whitehouse.gov/)<br />Out-of-Town Travel Pool |
 | 7:00 PM | In-Town Pool Call Time<br />In-Town Pool |
 | 7:50 PM | The [President](https://www.donaldjtrump.com/) arrives The [White House](https://www.whitehouse.gov/)<br />The [White House](https://www.whitehouse.gov/) Open Press |
@@ -46,7 +46,7 @@ title: "🛫Trump: Air Force One Frequent Flyer Miles🚁"
 | 7:15 AM | Out-of-Town Travel Pool Call Time<br />Out-of-Town Travel Pool |
 | | **Friday, October 17 2025** |
 | 9:00 AM | In-Town Pool Call Time<br />The [White House](https://www.whitehouse.gov/) In-Town Pool |
-| 11:46 AM | [White House](https://www.whitehouse.gov/) Press Office: Lunch lid until 12:40 PM | <br />The [White House](https://www.whitehouse.gov/) |
+| 11:46 AM | [White House](https://www.whitehouse.gov/) Press Office: Lunch lid until 12:40 PM<br />The [White House](https://www.whitehouse.gov/) |
 | 1:00 PM | The [President](https://www.donaldjtrump.com/) greets the [President](https://www.donaldjtrump.com/) of Ukraine<br />[Stakeout Location](https://www.whitehouse.gov/) Open Press |
 | 1:15 PM | The [President](https://www.donaldjtrump.com/) participates in a Bilateral Lunch with the [President](https://www.donaldjtrump.com/) of Ukraine<br />[Cabinet Room](https://www.whitehouse.gov/) Closed Press |
 | 2:00 PM | Out-of-Town Travel Pool Call Time<br />[Joint Base Andrews](https://www.maralagoclub.com/) Out-of-Town Travel Pool |
