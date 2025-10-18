@@ -35,8 +35,29 @@ title: "🛫Trump: Air Force One Frequent Flyer Miles🚁"
 
 | Time | Location |
 |---|---|
-| | **Friday, October 17, 2025[^50910]** |
-| 4:15 PM | [Donnie](https://www.donaldjtrump.com/) departs the [White House](https://www.whitehouse.gov/), burning 🔥 taxpayer dollars 💸 for another damned weekend of golf |
+| | 🔥 [White House](https://www.whitehouse.gov/) 💣|
+| | **Sunday, October 19 2025** |
+| 7:15 AM 🏌‍♂️⛳️| Out-of-Town Travel Pool Call Time<br />Out-of-Town Travel Pool<br />**[Trump International Golf Club](https://www.trumpinternationalpalmbeaches.com/) |
+| 5:25 PM | The [President](https://www.donaldjtrump.com/) departs [Palm Beach](https://discover.pbc.gov/), [Florida](https://www.myflorida.gov/) en route The [White House](https://www.whitehouse.gov/)<br />Out-of-Town Travel Pool |
+| 7:00 PM | In-Town Pool Call Time<br />In-Town Pool |
+| 7:50 PM | The [President](https://www.donaldjtrump.com/) arrives The [White House](https://www.whitehouse.gov/)<br />The [White House](https://www.whitehouse.gov/) Open Press |
+| | **Saturday, October 18 2025** |
+| ⛳️🏌‍♂️| The [President](https://www.donaldjtrump.com/) ~~has no public events scheduled~~ (other than playing golf ⛳️🏌)<br />[Trump International Golf Club](https://www.trumpinternationalpalmbeaches.com/)<br />Out-of-Town Travel Pool |
+| 7:15 AM | Out-of-Town Travel Pool Call Time<br />Out-of-Town Travel Pool |
+| | **Friday, October 17 2025** |
+| 9:00 AM | In-Town Pool Call Time<br />The [White House](https://www.whitehouse.gov/) In-Town Pool |
+| 11:46 AM | [White House](https://www.whitehouse.gov/) Press Office: Lunch lid until 12:40 PM | <br />The [White House](https://www.whitehouse.gov/) |
+| 1:00 PM | The [President](https://www.donaldjtrump.com/) greets the [President](https://www.donaldjtrump.com/) of Ukraine<br />[Stakeout Location](https://www.whitehouse.gov/) Open Press |
+| 1:15 PM | The [President](https://www.donaldjtrump.com/) participates in a Bilateral Lunch with the [President](https://www.donaldjtrump.com/) of Ukraine<br />[Cabinet Room](https://www.whitehouse.gov/) Closed Press |
+| 2:00 PM | Out-of-Town Travel Pool Call Time<br />[Joint Base Andrews](https://www.maralagoclub.com/) Out-of-Town Travel Pool |
+| 3:00 PM | The [President](https://www.donaldjtrump.com/) departs the [White House](https://www.whitehouse.gov/) en route [Palm Beach](https://discover.pbc.gov/), [Florida](https://www.myflorida.gov/) [Actual: 4:20 PM to [Joint Base Andrews](https://www.maralagoclub.com/)]<br />[South Lawn](https://www.whitehouse.gov/) Open Press |
+| 4:28 PM | The [President](https://www.donaldjtrump.com/) arrives at [Joint Base Andrews](https://www.maralagoclub.com/)<br />[Joint Base Andrews](https://www.maralagoclub.com/) Out-of-Town Travel Pool |
+| 4:43 PM | The [President](https://www.donaldjtrump.com/) departs [Joint Base Andrews](https://www.maralagoclub.com/) for [Palm Beach International Airport](https://https://www.pbia.org/).<br />[Joint Base Andrews](https://www.maralagoclub.com/) Out-of-Town Travel Pool |
+| 5:25 PM | The [President](https://www.donaldjtrump.com/) arrives [Palm Beach](https://discover.pbc.gov/), [Florida](https://www.myflorida.gov/) [Actual: 6:52 PM to [Mar-a-Lago](https://www.maralagoclub.com/)]<br />[Mar-a-Lago](https://www.maralagoclub.com/) Out-of-Town Travel Pool |
+| 6:24 PM | The [President](https://www.donaldjtrump.com/) arrives at [Palm Beach International Airport](https://https://www.pbia.org/).<br />[Palm Beach International Airport](https://https://www.pbia.org/). Out-of-Town Travel Pool |
+| 6:37 PM ⛳️🏌‍♂️| The [President](https://www.donaldjtrump.com/) departs [Palm Beach International Airport](https://https://www.pbia.org/). for [Mar-a-Lago](https://www.maralagoclub.com/)<br />[Palm Beach International Airport](https://https://www.pbia.org/). Out-of-Town Travel Pool |
+| 7:18 PM | [White House](https://www.whitehouse.gov/) Press Office: Full lid called<br />[Mar-a-Lago](https://www.maralagoclub.com/) In-Town Pool |
+| | 🔥 [White House](https://www.whitehouse.gov/) 💣|
 | | **Tuesday, October 14 2025** |
 | 12:05 AM | The [President](https://www.donaldjtrump.com/) arrives The [White House](https;//www.whitehouse.gov/)<br />The [White House](https;//www.whitehouse.gov/) Open Press |
 | 2:50 AM | The [President](https://www.donaldjtrump.com/) arrives The [White House](https;//www.whitehouse.gov/)<br />[South Lawn](https://www.whitehouse.gov/) Open Press |
