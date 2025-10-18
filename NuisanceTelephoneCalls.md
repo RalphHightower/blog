@@ -17,6 +17,13 @@ The telephone numbers below have called and there is an empty person on the othe
 
 | Telephone Number | Location | Date Time[^11] | Caller | Social Media |
 |---|---|---|---|---|
+| [\+1 (803) 302-4320](tel:+18033024320) | SC. North Augusta | 2025-10-17 01:46 PM | — | |
+| [\+1 (803) 490-1589](tel:+18034901589) | SC. Lexington | 2025-10-17 01:17 PM | Freedom Towing | |
+| [\+1 (803) 714-6450](tel:+18037146450) | SC. Columbia | 2025-10-17 12:31 PM | — | |
+| [\+1 (803) 510-5629](tel:+18035105629) | SC. North Augusta | 2025-10-17 11:53 AM | — | |
+| [\+1 (803) 620-2092](tel:+18036202092) | SC. York | 2025-10-17 11:01 AM | Shirley Brown | |
+| [\+1 (803) 990-2523](tel:+18039902523) | SC. | 2025-10-17 10:02 AM | — | |
+| [\+1 (803) 626-1965](tel:+18036261965) | SC. Columbia | 2025-10-17 09:46 AM | — | |
 | [\+1 (803) 683-5425](tel:+18036835425) | SC. Columbia | 2025-10-16 07:25 PM | All South FCU | |
 | [\+1 (803) 607-9483](tel:+18036079483) | SC. Sumter | 2025-10-16 05:19 PM | Larry W Coker | |
 | [\+1 (803) 226-7280](tel:+18032267280) | SC. Aiken | 2025-10-16 04:34 PM | — | |
