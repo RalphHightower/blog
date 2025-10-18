@@ -38,12 +38,16 @@ title: "🛫Trump: Air Force One Frequent Flyer Miles🚁"
 | | 🔥 [White House](https://www.whitehouse.gov/) 💣|
 | | **Sunday, October 19 2025** |
 | 7:15 AM 🏌‍♂️⛳️| Out-of-Town Travel Pool Call Time<br />Out-of-Town Travel Pool<br />[Trump International Golf Club](https://www.trumpinternationalpalmbeaches.com/) |
+| -:-- AM | [Donnie](https://www.donaldjtrump.com/) plays golf at his [Trump International Golf Club](https://www.trumpinternationalpalmbeaches.com/)** <br /> 3505 Summit Blvd <br /> West Palm Beach FL 33406 <br /> [+1 (561) 682-0700](tel:+15616820700) while federal employees and the military don't get paid during the government shutdown. |
+| -:-- PM | [Donnie](https://www.donaldjtrump.com/) can't play golf at night, so it’s back to [The Mar-a-Lago Club](https://www.maralagoclub.com/)** <br /> 1100 South Ocean Boulevard, <br /> Palm Beach, Florida 33480 <br /> [+1 (561) 832-2600](tel:+15618322600) |
 | 5:25 PM | The [President](https://www.donaldjtrump.com/) departs [Palm Beach](https://discover.pbc.gov/), [Florida](https://www.myflorida.gov/) en route The [White House](https://www.whitehouse.gov/)<br />Out-of-Town Travel Pool |
 | 7:00 PM | In-Town Pool Call Time<br />In-Town Pool |
 | 7:50 PM | The [President](https://www.donaldjtrump.com/) arrives The [White House](https://www.whitehouse.gov/)<br />The [White House](https://www.whitehouse.gov/) Open Press |
 | | **Saturday, October 18 2025** |
 | ⛳️🏌‍♂️| The [President](https://www.donaldjtrump.com/) ~~has no public events scheduled~~ (other than playing golf ⛳️🏌)<br />[Trump International Golf Club](https://www.trumpinternationalpalmbeaches.com/)<br />Out-of-Town Travel Pool |
 | 7:15 AM | Out-of-Town Travel Pool Call Time<br />Out-of-Town Travel Pool |
+| -:-- AM | [Donnie](https://www.donaldjtrump.com/) plays golf at his [Trump International Golf Club](https://www.trumpinternationalpalmbeaches.com/)** <br /> 3505 Summit Blvd <br /> West Palm Beach FL 33406 <br /> [+1 (561) 682-0700](tel:+15616820700) while federal employees and the military don't get paid during the government shutdown. |
+| -:-- PM | [Donnie](https://www.donaldjtrump.com/) can't play golf at night, so it’s back to [The Mar-a-Lago Club](https://www.maralagoclub.com/)** <br /> 1100 South Ocean Boulevard, <br /> Palm Beach, Florida 33480 <br /> [+1 (561) 832-2600](tel:+15618322600) |
 | | **Friday, October 17 2025** |
 | 9:00 AM | In-Town Pool Call Time<br />The [White House](https://www.whitehouse.gov/) In-Town Pool |
 | 11:46 AM | [White House](https://www.whitehouse.gov/) Press Office: Lunch lid until 12:40 PM<br />The [White House](https://www.whitehouse.gov/) |
