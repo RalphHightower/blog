@@ -14,7 +14,7 @@ BEGIN {
     line = $0 "◇"
     https = index(line, HTTP)
     
-    printf("#10DEBUG: NR=%d, length(《%s》)=%d, https=%d\n", NR, line, length(line), https)
+    #printf("#10DEBUG: NR=%d, length(《%s》)=%d, https=%d\n", NR, line, length(line), https)
 
     if (https > 0) { # 2
     
