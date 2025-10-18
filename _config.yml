@@ -47,7 +47,7 @@ plugins:
   - jekyll-feed
   - jekyll-github-metadata
   - jekyll-mentions
-  - jekyll-optional-front-matter
+  # - jekyll-optional-front-matter
   - jekyll-readme-index
   - jekyll-relative-links
   - jekyll-seo-tag
