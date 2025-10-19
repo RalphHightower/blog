@@ -62,7 +62,7 @@ Allison Detzel contributed.
 - state, local governments 
 - [Illinois (IL)](https://www.illinois.gov/)
     - [The Governor](https://gov.illinois.gov/about/the-governor.html)
-        - [JB Pritzker](https://gov.illinois.gov/about/the-governor.html), [Governor](https://gov.illinois.gov/)
+        - [JB Pritzker](https://gov.illinois.gov/about/the-governor.html)
     - [City of Chicago](https://www.chicago.gov/city/en.html)
         - [City of Chicago :: Office of the Mayor](https://www.chicago.gov/city/en/depts/mayor.html)
 - federal government

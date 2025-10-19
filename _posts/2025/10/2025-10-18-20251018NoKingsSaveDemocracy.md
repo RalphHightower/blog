@@ -52,7 +52,7 @@ That’s why we’re turning out today, everywhere across the country. Not just 
 
 There are more of us than there are of them — and we are not bowing down. Today, we’re reminding the world: [Trump](https://www.donaldjtrump.com/) wants a crown, but in America, there are no kings.
 
-Ezra Levin is the co-founder and co-executive director of [Indivisible](https://indivisible.org/)!. He was previously an anti-poverty advocate and served on the staff of Rep. [Lloyd Doggett (D-TX37.)](https://doggett.house.gov/)
+Ezra Levin is the co-founder and co-executive director of [Indivisible](https://indivisible.org/). He was previously an anti-poverty advocate and served on the staff of Rep. [Lloyd Doggett (D-TX37)](https://doggett.house.gov/)
 
 Leah Greenberg is the co-founder and co-executive director of [Indivisible](https://indivisible.org/). She was previously a human trafficking policy advocate and served on the staff of Rep. Tom Perriello (D-Va.).
 
@@ -122,7 +122,7 @@ Leah Greenberg is the co-founder and co-executive director of [Indivisible](http
     - [Congress](https://www.congress.gov/)
         - [Senate](https://www.senate.gov/)
         - [House of Representatives](https://www.house.gov/)
-            - [Lloyd Doggett (D-TX37.l)](https://doggett.house.gov/)
+            - [Lloyd Doggett (D-TX37)](https://doggett.house.gov/)
      - [President of the United States (POTUS)](https://www.whitehouse.gov/)
     - [White House (WH)](https://www.whitehouse.gov/)
 - Trump autocracy
