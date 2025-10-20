@@ -3,7 +3,9 @@
 # Pull request type
 <!-- Please try to limit your pull request to one type, submit multiple pull requests if needed -->
 
-<!--
+- [ ] **🚨 [Jekyll Precheck] Verify blog(s), page(s) before merge**
+
+<!-
 IS#9999 – Issue created independently of a Pull Request 
 PR#9999 – Issue created from a Pull Request
 -->
