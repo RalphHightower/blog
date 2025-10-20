@@ -36,18 +36,25 @@ title: "🛫Trump: Air Force One Frequent Flyer Miles🚁"
 | Time | Location |
 |---|---|
 | | 🔥 [White House](https://www.whitehouse.gov/) 💣|
-|💸🔥| **Sunday, October 19 2025** |
-| 7:15 AM 🏌‍♂️⛳️| Out-of-Town Travel Pool Call Time<br />Out-of-Town Travel Pool<br />[Trump International Golf Club](https://www.trumpinternationalpalmbeaches.com/) |
-| -:-- AM | [Donnie](https://www.donaldjtrump.com/) plays golf at his **[Trump International Golf Club](https://www.trumpinternationalpalmbeaches.com/)** <br /> 3505 Summit Blvd <br /> West Palm Beach FL 33406 <br /> [+1 (561) 682-0700](tel:+15616820700)<br /> Meanwhile, federal employees and the military don't get paid during the government shutdown. |
-| -:-- PM | [Donnie](https://www.donaldjtrump.com/) can't play golf at night, so it’s back to **[The Mar-a-Lago Club](https://www.maralagoclub.com/)** <br /> 1100 South Ocean Boulevard, <br /> Palm Beach, Florida 33480 <br /> [+1 (561) 832-2600](tel:+15618322600) |
-| 5:25 PM | The [President](https://www.donaldjtrump.com/) departs [Palm Beach](https://discover.pbc.gov/), [Florida](https://www.myflorida.gov/) en route The [White House](https://www.whitehouse.gov/)<br />Out-of-Town Travel Pool |
-| 7:00 PM | In-Town Pool Call Time<br />In-Town Pool |
-| 7:50 PM | The [President](https://www.donaldjtrump.com/) arrives The [White House](https://www.whitehouse.gov/)<br />The [White House](https://www.whitehouse.gov/) Open Press |
-|💸🔥| **Saturday, October 18 2025** |
-| ⛳️🏌‍♂️| The [President](https://www.donaldjtrump.com/) ~~has no public events scheduled~~ (other than playing golf ⛳️🏌)<br />[Trump International Golf Club](https://www.trumpinternationalpalmbeaches.com/)<br />Out-of-Town Travel Pool |
-| 7:15 AM ⛳️🏌‍♂️💸🔥| Out-of-Town Travel Pool Call Time<br />Out-of-Town Travel Pool |
-| -:-- AM ⛳️🏌‍♂️💸🔥| [Donnie](https://www.donaldjtrump.com/) plays golf at his **[Trump International Golf Club](https://www.trumpinternationalpalmbeaches.com/)** <br /> 3505 Summit Blvd <br /> West Palm Beach FL 33406 <br /> [+1 (561) 682-0700](tel:+15616820700)<br /> Meanwhile, federal employees and the military don't get paid during the government shutdown. |
-| -:-- PM | [Donnie](https://www.donaldjtrump.com/) can't play golf at night, so it’s back to **[The Mar-a-Lago Club](https://www.maralagoclub.com/)** <br /> 1100 South Ocean Boulevard, <br /> Palm Beach, Florida 33480 <br /> [+1 (561) 832-2600](tel:+15618322600) |
+| 💸🔥| **Sunday, October 19 2025**
+| 7:15 AM | Out-of-Town Travel Pool Call Time<br/>[Mar-a-Lago](https://www.maralagoclub.com/) Out-of-Town Travel Pool |
+| 9:19 AM ⛳️🏌‍♂️💸🔥| The[President](https://www.donaldjtrump.com/) departs [Mar-a-Lago](https://www.maralagoclub.com/) for his golf club<br/>[Mar-a-Lago](https://www.maralagoclub.com/) |
+| 9:27 AM ⛳️🏌‍♂️💸🔥| The [President](https://www.donaldjtrump.com/) arrives at [Trump International Golf Club West Palm Beach](https://www.trumpinternationalpalmbeaches.com/)<br/>[Trump International Golf Club West Palm Beach](https://www.trumpinternationalpalmbeaches.com/) |
+| 3:02 PM ⛳️🏌‍♂️💸🔥| The [President](https://www.donaldjtrump.com/) departs [Trump International Golf Club West Palm Beach](https://www.trumpinternationalpalmbeaches.com/) for [Mar-a-Lago](https://www.maralagoclub.com/)<br/>[Trump International Golf Club West Palm Beach](https://www.trumpinternationalpalmbeaches.com/) |
+| 3:09 PM 💸🔥| The [President](https://www.donaldjtrump.com/) arrives at [Mar-a-Lago](https://www.maralagoclub.com/)<br/>[Mar-a-Lago](https://www.maralagoclub.com/) |
+| 5:25 PM 💸🔥| The [President](https://www.donaldjtrump.com/) departs [Palm Beach](https://discover.pbc.gov/), [Florida](https://www.myflorida.gov/) en route The [White House](https://www.whitehouse.gov/) [Actual: 6:01 PM From [Mar-a-Lago](https://www.maralagoclub.com/) to [Palm Beach International Airport](https://www.pbia.org/)]<br/>[Mar-a-Lago](https://www.maralagoclub.com/) Out-of-Town Travel Pool |
+| 6:09 PM 💸🔥| The [President](https://www.donaldjtrump.com/) arrives at [Palm Beach International Airport](https://www.pbia.org/)<br/>[Palm Beach International Airport](https://www.pbia.org/) In-Town Pool |
+| 6:24 PM 💸🔥| The [President](https://www.donaldjtrump.com/) departs [Palm Beach International Airport](https://www.pbia.org/) for [Joint Base Andrews](https://www.jba.af.mil/)<br/>[Palm Beach International Airport](https://www.pbia.org/) In-Town Pool |
+| 7:00 PM | In-Town Pool Call Time<br/>The [White House](https://www.whitehouse.gov/) In-Town Pool |
+| 7:50 PM | The [President](https://www.donaldjtrump.com/) arrives The [White House](https://www.whitehouse.gov/)<br/>The [White House](https://www.whitehouse.gov/) Open Press |
+| **Saturday, October 18 2025** |
+|⛳️🏌‍♂️💸🔥 | The [President](https://www.donaldjtrump.com/) has no public events scheduled<br />[Mar-a-Lago](https://www.maralagoclub.com/) Out-of-Town Travel Pool |
+| 7:15 AM | Out-of-Town Travel Pool Call Time<br />[Mar-a-Lago](https://www.maralagoclub.com/) Out-of-Town Travel Pool |
+| 9:07 AM ⛳️🏌‍♂️💸🔥| The [President](https://www.donaldjtrump.com/) departs [Mar-a-Lago](https://www.maralagoclub.com/) for his golf club<br />[Mar-a-Lago](https://www.maralagoclub.com/) |
+| 9:15 AM ⛳️🏌‍♂️💸🔥| The [President](https://www.donaldjtrump.com/) arrives at [Trump International Golf Club West Palm Beach](https://www.trumpinternationalpalmbeaches.com/)<br />[Trump International Golf Club West Palm Beach](https://www.trumpinternationalpalmbeaches.com/) |
+| 4:52 PM ⛳️🏌‍♂️💸🔥| The [President](https://www.donaldjtrump.com/) departs [Trump International Golf Club West Palm Beach](https://www.trumpinternationalpalmbeaches.com/) for [Mar-a-Lago](https://www.maralagoclub.com/)<br />[Trump International Golf Club West Palm Beach](https://www.trumpinternationalpalmbeaches.com/) |
+| 4:59 PM 💸🔥| The [President](https://www.donaldjtrump.com/) arrives at [Mar-a-Lago](https://www.maralagoclub.com/)<br />[Mar-a-Lago](https://www.maralagoclub.com/) |
+| 5:08 PM 💸🔥| [White House](https://www.whitehouse.gov/) Press Office: Full lid called<br />[Mar-a-Lago](https://www.maralagoclub.com/) In-Town Pool |
 |💸🔥| **Friday, October 17 2025** |
 | 9:00 AM | In-Town Pool Call Time<br />The [White House](https://www.whitehouse.gov/) In-Town Pool |
 | 11:46 AM | [White House](https://www.whitehouse.gov/) Press Office: Lunch lid until 12:40 PM<br />The [White House](https://www.whitehouse.gov/) |
