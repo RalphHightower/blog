@@ -3,7 +3,11 @@
 # Pull request type
 <!-- Please try to limit your pull request to one type, submit multiple pull requests if needed -->
 
-- [ ] **🚨 [Jekyll Precheck] Verify blog(s), page(s) before merge**
+**🚨 Jekyll Precheck Verify blog(s), page(s) before merge 🚨**
+- [ ] title
+- [ ] tags
+- [ ] categories
+- [ ] date 
 
 <!-
 IS#9999 – Issue created independently of a Pull Request 
