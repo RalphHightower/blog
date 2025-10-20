@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: [media, MSNBC News - Breaking News and News Today / Latest News, “The Weeknight”, Michael Steele, POLITICO - Politics Policy Political News, organizations, “No Kings”, political parties, Democrat Party, Trumpian Party, universities, companies, foreign governments, state local governments, federal government, Constitution of the United States, U.S. Constitution - Article I / Library of Congress, U.S. Constitution - Article II / Library of Congress, U.S. Constitution - Article III / Library of Congress, U.S. Constitution - Article IV / Library of Congress, U.S. Constitution - Article V / Library of Congress, U.S. Constitution - Article VI / Library of Congress, U.S. Constitution - Article VII / Library of Congress, Supreme Court of the United States (SCOTUS), US Courts, Department of Defense (DOD), Joint Chiefs of Staff (JCS), U.S. Africa Command (AFRICOM), U.S. Central Command (CENTCOM), U.S. Northern Command (USNORTHCOM), Indo-Pacific Command (USINDOPACOM), U.S. Southern Command (SOUTHCOM), U.S. Special Operations Command (USSOCOM), Strategic Command (USSTRATCOM), U.S. European Command (USEUCOM), U.S. Military Academy West Point, U.S. Air Force, U.S. Army, U.S. Coast Guard (USCG), U.S. Marine Corps, National Guard, U.S. Navy, U.S. Space Command, Department of Justice (DOJ), Federal Bureau of Investigation (FBI), Federal Reserve, Federal Reserve Board - Federal Reserve Act, U.S. Department of the Treasury, Congress, Senate, Roger Marshall (T-KS), House of Representatives, Tom Emmer(T-MN6), Mike Johnson (T-LA4), Speaker, President of the United States (POTUS), White House (WH), President George W. Bush, President Barack Obama, Trump autocracy, Donald J Trump, President Donald Trump (45), President Donald Trump (47), President Trump (47) Administration, President Trump (47) Cabinet, press secretary, Karoline Leavitt, grifter, self-dealing, corruption, con artist, crime, cryptocurrency, criminal associates, criminal businesses, criminal media, criminal organizations, criminal partners]
-categories: [Donald Trump, autocracy, dictatorship, No Kings]
+categories: [Donald Trump, authoritarian, 50501, No Kings, fight tyranny, defend liberty, Ezra Levin, Leah Greenberg]
 date: 2025-10-17 14:51
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
@@ -9,7 +9,6 @@ excerpt: ''
 #permalink:
 title: "Trumpian Talking Points Out of Touch With No Kings' Protests"
 ---
-
 
 
 ## [The GOP’s ‘No Kings’ talking points are out of touch with reality](https://www.msnbc.com/opinion/msnbc-opinion/no-kings-protests-trump-republican-warnings-rcna237845)
