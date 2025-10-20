@@ -7,7 +7,7 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: 'title'
+title: "Massives Turnout of October 18, 2025 “No Kings” Protests Troubles Trump"
 ---
 
 
