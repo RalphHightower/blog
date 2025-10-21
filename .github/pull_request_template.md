@@ -9,10 +9,11 @@
 - [ ] categories
 - [ ] date 
 
-<!-
+<!--
 IS#9999 – Issue created independently of a Pull Request 
 PR#9999 – Issue created from a Pull Request
 -->
+
 Issue Number: N/A
 
 Please check the type of change your PR introduces:
