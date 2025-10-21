@@ -7,7 +7,7 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: "Mike Johnson Is Afraid to Swear In Adelita Grijalva (D-AZ7)"
+title: "Mike Johnson (T-LA4) Is Afraid to Swear In Adelita Grijalva (D-AZ7)"
 ---
 
 ## [Adelita Grijalva was elected to Congress. But she's having trouble doing her job.](https://www.msnbc.com/msnbc/news/adelita-grijalva-congress-sworn-in-johnson-epstein-rcna238261)
