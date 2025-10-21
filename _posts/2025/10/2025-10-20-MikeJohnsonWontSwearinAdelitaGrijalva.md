@@ -41,7 +41,7 @@ Moments after it wrapped, Grijalva, flanked by members of the [Congressional His
 
 “I’m a member-elect, which means that you don’t get the benefits. So when I don’t have a pin, I can’t go in through, like, the quick line where members of [Congress](https://www.congress.gov/) and staff are allowed to go through an expedited line because we have meetings and other things,” Grijalva said.
 
-> *Every day that I am not sworn in is another day that my constituents are blocked from critical constituent services and excluded from debates happening right now that affect their lives."* </></>Rep.-elect Adelita Grijalva
+> *Every day that I am not sworn in is another day that my constituents are blocked from critical constituent services and excluded from debates happening right now that affect their lives."* <br /><br />Rep.-elect Adelita Grijalva
 
 In [Arizona](https://www.az.gov/), the slowdown means Grijalva is not only unable to reopen her district office, but she also can’t update the voice message attached to that office’s phone line — which still includes a message from her late father. It also means she’s unable to launch formal inquiries into problems faced by her constituents, a critical component of her job.
 
