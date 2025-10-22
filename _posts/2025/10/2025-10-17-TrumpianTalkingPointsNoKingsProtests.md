@@ -20,7 +20,7 @@ By Michael Steele, co-host of [“The Weeknight”](https://www.msnbc.com/weekni
 
 In recent days, [Republican](https://www.gop.com/) leaders have warned darkly about the ["No Kings"](https://www.nokings.org/) national protests scheduled for Saturday.
 
-[Speaker](https://speaker.house.gov/) [Mike Johnson (T-LA4)](https://mikejohnson.house.gov/) called it a [“hate-America rally”](https://www.politico.com/news/2025/10/10/no-kings-protest-mike-johnson-00602705) that will ​​draw “the pro-Hamas wing” of the [Democratic Party](https://www.democrats.org/) and “the antifa people.” [House](https://www.house.gov/) [Republican](https://www.gop.com/) [Whip]() [Tom Emmer(T-MN6)](http://www.house.gov/representatives) claimed that [“you’ll see the hate for America all over this thing when they show up”](https://www.majoritywhip.gov/news/documentsingle.aspx?DocumentID=3518) for the rally. [Sen.](https://www.senate.gov/) [Roger Marshall (T-KS)](https://www.marshall.senate.gov/) claimed protesters were being paid and suggested the [National Guard](https://www.nationalguard.mil/) might need to show up.
+[Speaker](https://speaker.house.gov/) [Mike Johnson (T-LA4)](https://mikejohnson.house.gov/) called it a [“hate-America rally”](https://www.politico.com/news/2025/10/10/no-kings-protest-mike-johnson-00602705) that will ​​draw “the pro-Hamas wing” of the [Democratic Party](https://www.democrats.org/) and “the antifa people.” [House](https://www.house.gov/) [Republican](https://www.gop.com/) [Whip](https://www.majoritywhip.gov/) [Tom Emmer(T-MN6)](http://www.house.gov/representatives) claimed that [“you’ll see the hate for America all over this thing when they show up”](https://www.majoritywhip.gov/news/documentsingle.aspx?DocumentID=3518) for the rally. [Sen.](https://www.senate.gov/) [Roger Marshall (T-KS)](https://www.marshall.senate.gov/) claimed protesters were being paid and suggested the [National Guard](https://www.nationalguard.mil/) might need to show up.
 
 Trust me when I say these comments aren’t spontaneous. When I was chairman of the [Republican National Committee](https://rnc.org/), I sat in countless meetings where we carefully crafted the talking points for the week, fine-tuning the language so everyone from local lawmakers to friendly cable news pundits could stay on message.
 
@@ -100,6 +100,7 @@ Michael Steele is a co-host of [“The Weeknight,”](https://www.msnbc.com/week
             - [Roger Marshall (T-KS)](https://www.marshall.senate.gov/)
         - [House of Representatives](https://www.house.gov/)
             - [Tom Emmer(T-MN6)](http://www.house.gov/representatives)
+                - [Majority Whip](https://www.majoritywhip.gov/)
             - [Mike Johnson (T-LA4)](https://mikejohnson.house.gov/)
                 - [Speaker](https://speaker.house.gov/)
     - [President of the United States (POTUS)](https://www.whitehouse.gov/)
