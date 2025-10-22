@@ -17,6 +17,12 @@ The telephone numbers below have called and there is an empty person on the othe
 
 | Telephone Number | Location | Date Time[^11] | Caller | Social Media |
 |---|---|---|---|---|
+| [\+1 (803) 431-8523](tel:+18034318523) | SC. Fort Mill | 2025-10-21 06:11 PM | — | |
+| [\+1 (803) 330-0373](tel:+18033300373) | SC. Pinewood | 2025-10-21 12:35 PM | — | |
+| [\+1 (803) 855-4397](tel:+18038554397) | SC. | 2025-10-21 10:19 AM | — | |
+| [\+1 (803) 508-7158](tel:+18035087158) | SC. Aiken | 2025-10-20 02:42 PM | — | |
+| [\+1 (629) 236-1590](tel:+16292361590) | TN. Nashville | 2025-10-20 10:44 AM ¤¤ | #TaxFraud | |
+| [\+1 (877) 453-0255](tel:+18774530255) | | 2025-10-20 10:44 AM | #TaxFraud | |
 | [\+1 (803) 302-4320](tel:+18033024320) | SC. North Augusta | 2025-10-17 01:46 PM | — | |
 | [\+1 (803) 490-1589](tel:+18034901589) | SC. Lexington | 2025-10-17 01:17 PM | Freedom Towing | |
 | [\+1 (803) 714-6450](tel:+18037146450) | SC. Columbia | 2025-10-17 12:31 PM | — | |
