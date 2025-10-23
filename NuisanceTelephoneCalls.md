@@ -17,6 +17,11 @@ The telephone numbers below have called and there is an empty person on the othe
 
 | Telephone Number | Location | Date Time[^11] | Caller | Social Media |
 |---|---|---|---|---|
+| [\+1 (803) 795-1082](tel:+18037951082) | SC. Sumter | 2025-10-22 07:45 PM | — | |
+| [\+1 (803) 743-9140](tel:+18037439140) | SC. Columbia | 2025-10-22 05:21 PM | — | |
+| [\+1 (803) 234-8480](tel:+18032348480) | SC. Columbia | 2025-10-22 01:38 PM | Lane Bryant | |
+| [\+1 (803) 492-7311](tel:+18034927311) | SC. Eutawville | 2025-10-22 12:27 PM | — | |
+| [\+1 (803) 714-4826](tel:+18037144826) | SC. Columbia | 2025-10-22 09:33 AM | — | |
 | [\+1 (803) 431-8523](tel:+18034318523) | SC. Fort Mill | 2025-10-21 06:11 PM | — | |
 | [\+1 (803) 330-0373](tel:+18033300373) | SC. Pinewood | 2025-10-21 12:35 PM | — | |
 | [\+1 (803) 855-4397](tel:+18038554397) | SC. | 2025-10-21 10:19 AM | — | |
