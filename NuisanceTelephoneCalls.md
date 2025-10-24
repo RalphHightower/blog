@@ -17,6 +17,11 @@ The telephone numbers below have called and there is an empty person on the othe
 
 | Telephone Number | Location | Date Time[^11] | Caller | Social Media |
 |---|---|---|---|---|
+| [\+1 (803) 572-8910](tel:+18035728910) | SC. Camden | 2025-10-23 01:33 PM | — | |
+| [\+1 (803) 873-9377](tel:+18038739377) | SC. Columbia | 2025-10-23 01:21 PM | — | |
+| [\+1 (803) 354-4590](tel:+18033544590) | SC. Columbia | 2025-10-23 12:49 PM | — | |
+| [\+1 (803) 848-8774](tel:+18038488774) | SC. Sumter | 2025-10-23 10:57 AM | — | |
+| [\+1 (803) 576-5893](tel:+18035765893) | SC. Columbia | 2025-10-23 10:15 AM | [University of SC](https://www.sc.edu/) | |
 | [\+1 (803) 795-1082](tel:+18037951082) | SC. Sumter | 2025-10-22 07:45 PM | — | |
 | [\+1 (803) 743-9140](tel:+18037439140) | SC. Columbia | 2025-10-22 05:21 PM | — | |
 | [\+1 (803) 234-8480](tel:+18032348480) | SC. Columbia | 2025-10-22 01:38 PM | Lane Bryant | |
