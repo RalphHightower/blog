@@ -17,6 +17,11 @@ The telephone numbers below have called and there is an empty person on the othe
 
 | Telephone Number | Location | Date Time[^11] | Caller | Social Media |
 |---|---|---|---|---|
+| [\+1 (803) 391-8884](tel:+18033918884) | SC. Columbia | 2025-10-24 01:47 PM | — | |
+| [\+1 (803) 997-6161](tel:+18039976161) | SC. Orangeburg | 2025-10-24 01:29 PM | — | |
+| [\+1 (803) 882-2769](tel:+18038822769) | SC. Prosperity | 2025-10-24 10:06 AM | — | |
+| [\+1 (803) 882-2769](tel:+18038822769) | SC. Prosperity | 2025-10-24 10:06 AM | — | |
+| [\+1 (803) 882-2769](tel:+18038822769) | SC. Prosperity | 2025-10-24 10:05 AM | — | |
 | [\+1 (803) 572-8910](tel:+18035728910) | SC. Camden | 2025-10-23 01:33 PM | — | |
 | [\+1 (803) 873-9377](tel:+18038739377) | SC. Columbia | 2025-10-23 01:21 PM | — | |
 | [\+1 (803) 354-4590](tel:+18033544590) | SC. Columbia | 2025-10-23 12:49 PM | — | |

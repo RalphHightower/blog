@@ -10,6 +10,8 @@ excerpt: ''
 title: "James Comey's Attorneys Cite Supreme Court Justices, Alito & Thomas, To Dismiss Attorney Lindsey"
 ---
 
+- ['Prosecute' vs. 'Persecute' – Merriam-Webster](https://www.merriam-webster.com/grammar/prosecuted-vs-persecuted-usage)
+    - “One you do in court, the other you do if you're a jerk.”
 
 ## [Comey cites Samuel Alito and Clarence Thomas in arguing against Halligan’s appointment](https://www.msnbc.com/deadline-white-house/deadline-legal-blog/comey-cites-samuel-alito-clarence-thomas-arguing-halligans-appointment-rcna238864)
 
