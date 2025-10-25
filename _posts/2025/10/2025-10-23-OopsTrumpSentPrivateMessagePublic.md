@@ -10,6 +10,8 @@ excerpt: ''
 title: "Oops! Trump Accidently Sent a Public Message to His Personal Attorney, Pam Blondi, Ordering Her to Persecute James Comey, Letitia James & Adam Schiff That Was Meant To Be Private"
 ---
 
+- ['Prosecute' vs. 'Persecute' – Merriam-Webster](https://www.merriam-webster.com/grammar/prosecuted-vs-persecuted-usage)
+    - “One you do in court, the other you do if you're a jerk.”
 
 ## [Trump’s scandalous directive to AG Pam Bondi reached the public by accident](https://www.msnbc.com/rachel-maddow-show/maddowblog/trumps-scandalous-directive-ag-pam-bondi-reached-public-accident-rcna236927)
 
