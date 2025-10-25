@@ -52,7 +52,7 @@ plugins:
   - jekyll-relative-links
   - jekyll-seo-tag
   - jekyll-sitemap
-  # - jekyll-tagging
+  - jekyll-tagging
   - jekyll-titles-from-headings
   - jekyll_ai_related_posts
   - jekyll-toc
@@ -141,7 +141,6 @@ pagination:
   trail:
     before: 4
     after: 4
-
 
 readme_index:
   enabled: true
