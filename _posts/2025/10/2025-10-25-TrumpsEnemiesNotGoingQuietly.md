@@ -7,9 +7,11 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: 'title'
+title: "Trump’s Perceived Enemies Are Fighting Back"
 ---
 
+- ['Prosecute' vs. 'Persecute' – Merriam-Webster](https://www.merriam-webster.com/grammar/prosecuted-vs-persecuted-usage)
+    - “One you do in court, the other you do if you're a jerk.”
 
 ## [Trump crossed another name off his enemies list. But his targets aren’t going quietly.](https://www.msnbc.com/top-stories/latest/trump-indict-letitia-james-enemies-list-tyranny-impeachment-rcna236918)
 
