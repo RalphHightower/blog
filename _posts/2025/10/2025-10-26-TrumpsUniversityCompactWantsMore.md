@@ -1,13 +1,13 @@
 ---
 layout: post
-tags: []
-categories: []
+tags: [media, MSNBC News - Breaking News and News Today / Latest News, Steve Benen, The Rachel Maddow Show, MaddowBlog, “Ministry of Truth –  Democracy Reality and the Republicans’ War on the Recent Past.”, The New York Times (NYT) - Breaking News US News World News and Videos, organizations, political parties, Democrat Party, Trumpian Party, universities, Brown University, Columbia University in the City of New York, MIT - Massachusetts Institute of Technology, University of Pennsylvania, University of Southern California, The University of Virginia, companies, foreign governments, state local governments, federal government, Constitution of the United States, U.S. Constitution - Article I / Library of Congress, U.S. Constitution - Article II / Library of Congress, U.S. Constitution - Article III / Library of Congress, U.S. Constitution - Article IV / Library of Congress, U.S. Constitution - Article V / Library of Congress, U.S. Constitution - Article VI / Library of Congress, U.S. Constitution - Article VII / Library of Congress, U.S. Constitution - First Amendment / Library of Congress, U.S. Constitution - Second Amendment / Library of Congress, U.S. Constitution - Third Amendment / Library of Congress, U.S. Constitution - Fourth Amendment / Library of Congress, U.S. Constitution - Fifth Amendment / Library of Congress, U.S. Constitution - Sixth Amendment / Library of Congress, U.S. Constitution - Seventh Amendment / Library of Congress, U.S. Constitution - Eighth Amendment / Library of Congress, U.S. Constitution - Tenth Amendment / Library of Congress, U.S. Constitution - Eleventh Amendment / Library of Congress, U.S. Constitution - Twelfth Amendment / Library of Congress, U.S. Constitution - Thirteenth Amendment / Library of Congress, U.S. Constitution - Fourteenth Amendment / Library of Congress, U.S. Constitution - Fifteenth Amendment / Library of Congress, U.S. Constitution - Sixteenth Amendment / Library of Congress, U.S. Constitution - Seventeenth Amendment / Library of Congress, U.S. Constitution - Eighteenth Amendment / Library of Congress, U.S. Constitution - Nineteenth Amendment / Library of Congress, U.S. Constitution - Twentieth Amendment / Library of Congress, U.S. Constitution - Twenty-First Amendment / Library of Congress, U.S. Constitution - Twenty-Second Amendment / Library of Congress, U.S. Constitution - Twenty-Third Amendment / Library of Congress, U.S. Constitution - Twenty-Fourth Amendment / Library of Congress, U.S. Constitution - Twenty-Fifth Amendment / Library of Congress, U.S. Constitution - Twenty-Fifth Amendment / Library of Congress, U.S. Constitution - Twenty-Sixth Amendment / Library of Congress, U.S. Constitution - Twenty-Seventh Amendment / Library of Congress, Supreme Court of the United States (SCOTUS), US Courts, Department of Justice (DOJ), Federal Bureau of Investigation (FBI), Federal Reserve, Federal Reserve Board - Federal Reserve Act, U.S. Department of the Treasury, Department of Education (ED), Congress, Senate, House of Representatives, President of the United States (POTUS), White House (WH), Trump autocracy, Donald J Trump, President Donald Trump (45), President Donald Trump (47), President Trump (47) Administration, President Trump (47) Cabinet, press secretary, Karoline Leavitt, extortion, grifter, self-dealing, corruption, con artist, crime, cryptocurrency, criminal associates, criminal businesses, criminal media, criminal organizations, criminal partners]
+categories: [Donal Trump, Department of Education (ED), extortion, universities, colleges, higher education]
 date: 2025-10-26 19:40
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: 'title'
+title: "Trump’s “Compact for Academic Excellence in Higher Education” For Universities and Colleges Is Extortion and Violates Constitutional Rights"
 ---
 
 
@@ -59,8 +59,8 @@ It’s something for the other schools still weighing what to do with the propos
 - universities
 - [Brown University](https://www.brown.edu/)
 - [Columbia University in the City of New York](https://www.columbia.edu/content/)
-- [MIT - Massachusetts Institute of Technology](https://tlecms.mit.edu/spotlight/seeing-atoms)
-[University of Pennsylvania](https://www.upenn.edu/)
+- [MIT - Massachusetts Institute of Technology](https://tlecms.mit.edu/)
+- [University of Pennsylvania](https://www.upenn.edu/)
 - [University of Southern California](https://www.usc.edu/)
 - [The University of Virginia](https://www.virginia.edu/)
 - companies
@@ -109,6 +109,7 @@ It’s something for the other schools still weighing what to do with the propos
     - [Federal Reserve](https://www.federalreserve.gov/)
     - [Federal Reserve Board - Federal Reserve Act](https://www.federalreserve.gov/aboutthefed/fract.htm)
     - [U.S. Department of the Treasury](https://home.treasury.gov/)
+    - [Department of Education (ED)](https://www.ed.gov/)
     - [Congress](https://www.congress.gov/)
         - [Senate](https://www.senate.gov/)
         - [House of Representatives](https://www.house.gov/)
