@@ -51,6 +51,7 @@ It’s something for the other schools still weighing what to do with the propos
         - [The Rachel Maddow Show](https://www.msnbc.com/rachel-maddow-show)
             - [MaddowBlog](https://www.msnbc.com/rachel-maddow-show)
                 - ["Ministry of Truth: Democracy, Reality, and the Republicans' War on the Recent Past."](https://www.harpercollins.com/products/ministry-of-truth-steve-benen)
+- [NBC News - Breaking Headlines and Video Reports on World, U.S. and Local Angles / NBC News](https://www.nbcnews.com/)
 - [The New York Times (NYT) - Breaking News, US News, World News and Videos](https://www.nytimes.com/)
 - organizations
 - political parties
