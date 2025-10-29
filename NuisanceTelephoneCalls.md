@@ -17,6 +17,11 @@ The telephone numbers below have called and there is an empty person on the othe
 
 | Telephone Number | Location | Date Time[^11] | Caller | Social Media |
 |---|---|---|---|---|
+| [\+1 (803) 801-2913](tel:+18038012913) | SC. Winnsboro | 2025-10-29 01:27 PM | — | |
+| [\+1 (803) 821-1810](tel:+18038211810) | SC. West Columbia | 2025-10-29 01:05 PM | GMS Health Room | |
+| [\+1 (803) 497-3878](tel:+18034973878) | SC. Columbia | 2025-10-29 12:14 PM | — | |
+| [\+1 (803) 662-9994](tel:+18036629994) | SC. Orangeburg | 2025-10-29 11:22 AM | Velta Wade | |
+| [\+1 (803) 809-2937](tel:+18038092937) | SC. Orangeburg | 2025-10-29 11:07 AM | — | |
 | [\+1 (803) 828-3200](tel:+18038283200) | SC. | 2025-10-28 06:19 PM | — | |
 | [\+1 (803) 806-1073](tel:+18038061073) | SC. Columbia | 2025-10-28 01:57 PM ¤¤ | — | |
 | [\+1 (803) 806-1073](tel:+18038061073) | SC. Columbia | 2025-10-28 01:56 PM | — | |
