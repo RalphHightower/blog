@@ -173,7 +173,13 @@ function postHeader() {
     }
 
 function printTitle() {
+    # print title to move to Jekyll section
     printf("\ntitle: \"%s: World Stock Market Closing Indexes: Americas (%s). Europe, Middle East, & Africa (%s). Asia Pacific (%s).\"\n---\n", curDate, mktAmericas, mktEurope, mktAsia)
+    
+    # segment to print Liquid internal link for ../ClosingIndexes.md for yesterday, next day navigation links Filename Format(_posts/YYYY/MM/YYYY-MM-DD-YYYYMMDDClosingIndexes.md)
+    path = "_posts/" substr(curDate, 1, 4) "/" substr(curDate, 6, 2) "/" curDate "-" substr(curDate, 1, 4) substr(curDate, 6, 2) substr(curDate,  9, 2) "ClosingIndexes.md"
+    
+    printf("\n- [%s: World Stock Market Closing Indexes: Americas (%s). Europe, Middle East, & Africa (%s). Asia Pacific (%s).]({%% link %s %%})\n\n", curDate, mktAmericas, mktEurope, mktAsia, path)
     }
 
 function postTrailer() {

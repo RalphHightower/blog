@@ -14,48 +14,99 @@ title: "🛫Trump: Air Force One Frequent Flyer Miles🚁"
 - 2025-04-05: [Trump Never Let a Weekend of Golf ⛳️ Interfere With a Commander-In-Chief’s Solemn Duty to Receive Fallen Military 🪖]({% link _posts/2025/04/2025-04-05-MilitaryFallenDontInterruptTrumpGolfWeekends.md %})
 
 [^666]: @RalphHightower – [Federal Aviation Administration - Graphic TFRs](https://tfr.faa.gov/tfr3/?page=list)
-[^50910]: [Federal Aviation Administration - Graphic TFRs](https://tfr.faa.gov/tfr3/?page=detail_5_0910). From October 17, 2025 at 1615 EDT – October 19, 2025 at 1830 EDT)
-
-- **Sunday, October 19, 2025[^50910]**
-    - **[The Mar-a-Lago Club](https://www.maralagoclub.com/)** <br /> 1100 South Ocean Boulevard, <br /> Palm Beach, Florida 33480 <br /> [+1 (561) 832-2600](tel:+15618322600)
-    - **[Trump International Golf Club](https://www.trumpinternationalpalmbeaches.com/)** <br /> 3505 Summit Blvd <br /> West Palm Beach FL 33406 <br /> [+1 (561) 682-0700](tel:+15616820700)
-    - 6:30 PM **[The Mar-a-Lago Club](https://www.maralagoclub.com/)** <br /> 1100 South Ocean Boulevard, <br /> Palm Beach, Florida 33480 <br /> [+1 (561) 832-2600](tel:+15618322600)
-    - [Palm Beach International Airport](https://www.pbia.org/)
-    - [Joint Base Andrews](https://www.jba.af.mil/)
-    - [White House](https://www.whitehouse.gov/)
-- **Saturday, October 18, 2025[^50910]**
-    - **[The Mar-a-Lago Club](https://www.maralagoclub.com/)** <br /> 1100 South Ocean Boulevard, <br /> Palm Beach, Florida 33480 <br /> [+1 (561) 832-2600](tel:+15618322600)
-    - **[Trump International Golf Club](https://www.trumpinternationalpalmbeaches.com/)** <br /> 3505 Summit Blvd <br /> West Palm Beach FL 33406 <br /> [+1 (561) 682-0700](tel:+15616820700)
-    - **[The Mar-a-Lago Club](https://www.maralagoclub.com/)** <br /> 1100 South Ocean Boulevard, <br /> Palm Beach, Florida 33480 <br /> [+1 (561) 832-2600](tel:+15618322600)
-- **Friday, October 17, 2025[^50910]**
-    - 4:15 PM[White House](https://www.whitehouse.gov/)
-    - [Joint Base Andrews](https://www.jba.af.mil/)
-    - [Palm Beach International Airport](https://www.pbia.org/)
-    - **[The Mar-a-Lago Club](https://www.maralagoclub.com/)** <br /> 1100 South Ocean Boulevard, <br /> Palm Beach, Florida 33480 <br /> [+1 (561) 832-2600](tel:+15618322600)
 
 | Time | Location |
 |---|---|
+| | **Tuesday, October 28 2025** |
+| 1:59 AM 💸🔥 | The [President](https://www.donaldjtrump.com/) departs [The Okura](https://theokuratokyo.jp/) hotel to visit U.S. Troops [2:59 AM Local]<br />[The Okura](https://theokuratokyo.jp/), [Tokyo](https://www.metro.tokyo.lg.jp/) |
+| 2:05 AM 💸🔥 | The [President](https://www.donaldjtrump.com/) arrives at the [Hardy Barracks](https://home.army.mil/japan/) landing zone [3:05 PM Local]<br />[Hardy Barracks](https://home.army.mil/japan/), [Tokyo](https://www.metro.tokyo.lg.jp/) |
+| 2:16 AM 💸🔥 | The [President](https://www.dona ldjtrump.com/) departs the [Hardy Barracks](https://home.army.mil/japan/) landing zone for the [USS George Washington](https://www.airpac.navy.mil/Organization/USS-George-Washington-CVN-73/) in [Yokosuka](https://www.city.yokosuka.kanagawa.jp/), [Japan](https://www.japan.go.jp/) [3:16 PM Local]<br />[Hardy Barracks](https://home.army.mil/japan/), [Tokyo](https://www.metro.tokyo.lg.jp/) |
+| 2:45 AM 💸🔥 | The [President](https://www.donaldjtrump.com/) participates in a Troop Visit and Remarks on the [USS George Washington](https://www.airpac.navy.mil/Organization/USS-George-Washington-CVN-73/) [3:45 PM Local; 4:14 PM Actual]<br />US Fleet Activities [Yokosuka](https://www.city.yokosuka.kanagawa.jp/), [Japan](https://www.japan.go.jp/) Pre-Credentialed Media |
+| 2:47 AM 💸🔥 | The [President](https://www.donaldjtrump.com/) arrives in [Yokosuka](https://www.city.yokosuka.kanagawa.jp/), [Japan](https://www.japan.go.jp/) [3:47 PM Local]<br />US Fleet Activities [Yokosuka](https://www.city.yokosuka.kanagawa.jp/), [Japan](https://www.japan.go.jp/) |
+| 4:22 AM 💸🔥 | The [President](https://www.donaldjtrump.com/) departs [Yokosuka](https://www.city.yokosuka.kanagawa.jp/), [Japan](https://www.japan.go.jp/) for [Tokyo](https://www.metro.tokyo.lg.jp/) [5:22 PM Local]<br />US Fleet Activities [Yokosuka](https://www.city.yokosuka.kanagawa.jp/), [Japan](https://www.japan.go.jp/) |
+| 5:06 AM 💸🔥 | The [President](https://www.donaldjtrump.com/) arrives at the [Hardy Barracks](https://home.army.mil/japan/) landing zone [6:06 PM Local]<br />[Hardy Barracks](https://home.army.mil/japan/), [Tokyo](https://www.metro.tokyo.lg.jp/) |
+| 5:12 AM 💸🔥 | The [President](https://www.donaldjtrump.com/) departs the [Hardy Barracks](https://home.army.mil/japan/) landing zone for [The Okura](https://theokuratokyo.jp/) hotel [6:12 PM Local]<br />[Hardy Barracks](https://home.army.mil/japan/), [Tokyo](https://www.metro.tokyo.lg.jp/) |
+| 5:22 AM 💸🔥 | The [President](https://www.donaldjtrump.com/) arrives at [The Okura](https://theokuratokyo.jp/) hotel [6:22 PM Local]<br />[The Okura](https://theokuratokyo.jp/), [Tokyo](https://www.metro.tokyo.lg.jp/) |
+| 6:05 AM 💸🔥 | The [President](https://www.donaldjtrump.com/) participates in a Reception and Dinner with Business Leaders [7:05 PM Local; 7:46 PM Actual]<br />[U.S. Ambassadors Residence](https://jp.usembassy.gov/), [Tokyo](https://www.metro.tokyo.lg.jp/) Out-of-Town Travel Pool |
+| 6:18 AM 💸🔥 | The [President](https://www.donaldjtrump.com/) arrives at a a Reception and Dinner with Business Leaders [7:18 PM Local]<br />[U.S. Ambassadors Residence](https://jp.usembassy.gov/), [Tokyo](https://www.metro.tokyo.lg.jp/) Out-of-Town Travel Pool |
+| 7:33 AM 💸🔥 | [White House](https://www.whitehouse.gov/) Press Office: Full lid called [8:33 PM Local] [Note: Lid given while The [President](https://www.donaldjtrump.com/) was still attending a dinner at the [U.S. Ambassadors Residence](https://jp.usembassy.gov/). The Residence is across the street -- 120 feet -- from [The Okura](https://theokuratokyo.jp/) hotel]<br />[The Okura](https://theokuratokyo.jp/), [Tokyo](https://www.metro.tokyo.lg.jp/) |
+| 6:45 PM 💸🔥 | Out-of-Town Travel Pool Call Time [7:45 AM Local 10/29]<br />[The Okura](https://theokuratokyo.jp/), [Tokyo](https://www.metro.tokyo.lg.jp/) Out-of-Town Travel Pool |
+| 8:00 PM 💸🔥 | The [President](https://www.donaldjtrump.com/) departs [Tokyo](https://www.metro.tokyo.lg.jp/), [Japan](https://www.japan.go.jp/), en route [Gyeongju](https://www.gyeongju.go.kr/), [South Korea](https://www.gov.kr/) [9:00 AM Local 10/29]<br />[Haneda Airport](https://tokyo-haneda.com/), [Ota City](https://www.city.ota.tokyo.jp/),, [Japan](https://www.japan.go.jp/) Out-of-Town Travel Pool |
+| 9:40 PM 💸🔥 | The [President](https://www.donaldjtrump.com/) arrives [Gyeongju](https://www.gyeongju.go.kr/), [South Korea](https://www.gov.kr/) [10:40 AM Local 10/29]<br />[Gimhae International Airport (PUS)](https://gimhaeairport.com/), [Busan](https://www.busan.go.kr/), [South Korea](https://www.gov.kr/) Pre-Credentialed Media |
+| 11:05 PM 💸🔥 | The [President](https://www.donaldjtrump.com/) delivers Keynote Remarks at [APEC CEO](https://www.apec.org/)s Luncheon [12:05 PM Local 10/29]<br />[Gyeongju Arts Center](https://garts.kr/), [South Korea](https://www.gov.kr/) Out-of-Town Travel Pool |
+| | **Monday, October 27 2025** |
+| 4:05 AM 💸🔥 | The [President](https://www.donaldjtrump.com/) arrives [Tokyo](https://www.metro.tokyo.lg.jp/), [Japan](https://www.japan.go.jp/) [5:05 PM Local; 4:59 PM Actual]<br />[Haneda Airport](https://tokyo-haneda.com/), [Ota City](https://www.city.ota.tokyo.jp/),, [Japan](https://www.japan.go.jp/) Pre-Credentialed Media |
+| 4:23 AM 💸🔥 | The [President](https://www.donaldjtrump.com/) departs [Haneda Airport](https://tokyo-haneda.com/) for [Tokyo](https://www.metro.tokyo.lg.jp/) [5:23 PM Local]<br />[Haneda Airport](https://tokyo-haneda.com/), [Ota City](https://www.city.ota.tokyo.jp/),, [Japan](https://www.japan.go.jp/) |
+| 4:42 AM 💸🔥 | The [President](https://www.donaldjtrump.com/) arrives at the [Hardy Barracks](https://home.army.mil/japan/) landing zone in [Tokyo](https://www.metro.tokyo.lg.jp/) [5:42 PM Local]<br />[Hardy Barracks](https://home.army.mil/japan/), [Tokyo](https://www.metro.tokyo.lg.jp/) |
+| 4:50 AM 💸🔥 | The [President](https://www.donaldjtrump.com/) departs at the [Hardy Barracks](https://home.army.mil/japan/) landing zone in [Tokyo](https://www.metro.tokyo.lg.jp/) for the [Imperial Palace](https://www.kunaicho.go.jp/) [5:50 PM Local]<br />[Hardy Barracks](https://home.army.mil/japan/), [Tokyo](https://www.metro.tokyo.lg.jp/) |
+| 5:07 AM 💸🔥 | The [President](https://www.donaldjtrump.com/) arrives at the [Imperial Palace](https://www.kunaicho.go.jp/) [6:07 PM Local]<br />[Imperial Palace](https://www.kunaicho.go.jp/), [Tokyo](https://www.metro.tokyo.lg.jp/) |
+| 5:30 AM 💸🔥 | The [President](https://www.donaldjtrump.com/) participates in a Courtesy Call and Visit with the [Emperor of Japan](https://www.kunaicho.go.jp/) [6:30 PM Local]<br />[Imperial Palace](https://www.kunaicho.go.jp/), [Tokyo](https://www.metro.tokyo.lg.jp/) Out-of-Town Travel Pool |
+| 6:12 AM 💸🔥 | The [President](https://www.donaldjtrump.com/) departs the [Imperial Palace](https://www.kunaicho.go.jp/) for his hotel [7:12 PM Local]<br />[Imperial Palace](https://www.kunaicho.go.jp/), [Tokyo](https://www.metro.tokyo.lg.jp/) |
+| 6:19 AM 💸🔥 |The [President](https://www.donaldjtrump.com/) arrives at [The Okura](https://theokuratokyo.jp/) hotel [7:19 PM Local]<br />[The Okura](https://theokuratokyo.jp/), [Tokyo](https://www.metro.tokyo.lg.jp/) |
+| 6:27 AM 💸🔥 | [White House](https://www.whitehouse.gov/) Press Office: Full lid called [7:27 PM Local]<br />[The Okura](https://theokuratokyo.jp/), [Tokyo](https://www.metro.tokyo.lg.jp/) |
+| 7:00 PM 💸🔥 | Out-of-Town Travel Pool Call Time [8:00 AM Local 10/28]<br />[The Okura](https://theokuratokyo.jp/), [Tokyo](https://www.metro.tokyo.lg.jp/) Out-of-Town Travel Pool |
+| 8:28 PM 💸🔥 | The [President](https://www.donaldjtrump.com/) departs [The Okura](https://theokuratokyo.jp/) hotel for [Akasaka Palace](https://www.geihinkan.go.jp/akasaka/) [9:28 AM Local 10/28]<br />[Akasaka Palace](https://www.geihinkan.go.jp/akasaka/), [Tokyo](https://www.metro.tokyo.lg.jp/) |
+| 8:30 PM 💸🔥 |The [President](https://www.donaldjtrump.com/) participates in an Extended Bilateral Meeting with the [Prime Minister](https://www.kantei.go.jp/) of [Japan](https://www.japan.go.jp/) [9:30 AM Local 10/28; 9:53 AM Actual]<br />[Tokyo](https://www.metro.tokyo.lg.jp/), [Japan](https://www.japan.go.jp/) Out-of-Town Travel Pool |
+| 8:32 PM 💸🔥 | The [President](https://www.donaldjtrump.com/) arrives at [Akasaka Palace](https://www.geihinkan.go.jp/akasaka/) [9:32 AM Local 10/28]<br />[Akasaka Palace](https://www.geihinkan.go.jp/akasaka/), [Tokyo](https://www.metro.tokyo.lg.jp/) |
+| 9:59 PM 💸🔥 | The [President](https://www.donaldjtrump.com/) and the [Prime Minister](https://www.kantei.go.jp/) of [Japan](https://www.japan.go.jp/) conduct a signing ceremony for a reaffirmation of U.S.-[Japan](https://www.japan.go.jp/) relations [10:59 AM Local 10/28]<br />[Akasaka Palace](https://www.geihinkan.go.jp/akasaka/), [Tokyo](https://www.metro.tokyo.lg.jp/) |
+| 10:45 PM 💸🔥 | The [President](https://www.donaldjtrump.com/) and the [Prime Minister](https://www.kantei.go.jp/) meet with [the families of Japanese citizens abducted by North Korea](https://japan.kantei.go.jp/104/actions/202510/28rachi.html) [11:45 AM Local 10/28]<br />[Akasaka Palace](https://www.geihinkan.go.jp/akasaka/), [Tokyo](https://www.metro.tokyo.lg.jp/) |
+| 10:53 PM 💸🔥 | The [President](https://www.donaldjtrump.com/) departs [Akasaka Palace](https://www.geihinkan.go.jp/akasaka/) for [The Okura](https://theokuratokyo.jp/) hotel [11:53 AM Local 10/28]<br />[Akasaka Palace](https://www.geihinkan.go.jp/akasaka/), [Tokyo](https://www.metro.tokyo.lg.jp/) |
+| 10:59 PM 💸🔥 | The [President](https://www.donaldjtrump.com/) arrives at [The Okura](https://theokuratokyo.jp/) hotel [11:59 AM Local 10/28]<br />[The Okura](https://theokuratokyo.jp/), [Tokyo](https://www.metro.tokyo.lg.jp/) |
+| | **Sunday, October 26 2025** |
+| 2:10 AM 💸🔥 | The [President](https://www.donaldjtrump.com/) participates in an [ASEAN](https://asean.org/) family photo [2:10 PM Local]<br />[Kuala Lumpur Convention Centre](https://www.klccconventioncentre.com/), [Malaysia](https://www.malaysia.gov.my/) Pre-Credentialed Media |
+| 2:20 AM 💸🔥 | The [President](https://www.donaldjtrump.com/) attends a working lunch at the [ASEAN](https://asean.org/) summit and delivers remarks [2:20 PM Local]<br />[Kuala Lumpur Convention Centre](https://www.klccconventioncentre.com/), [Malaysia](https://www.malaysia.gov.my/) Pre-Credentialed Media |
+| 2:30 AM 💸🔥 | The [President](https://www.donaldjtrump.com/) participates in an Expanded Bilateral Meeting and signing with the [Prime Minister](https://www.pmo.gov.my/) of [Malaysia](https://www.malaysia.gov.my/) [2:30 PM Local; 1:20 PM Actual]<br />[Kuala Lumpur Convention Centre](https://www.klccconventioncentre.com/), [Malaysia](https://www.malaysia.gov.my/) Out-of-Town Travel Pool |
+| 3:45 AM 💸🔥 | The [President](https://www.donaldjtrump.com/) participates in a signing with the [Prime Minister](http://kh.cmf-cnv.org.kh/) of the [Kingdom of Cambodia](https://demo.cambodia.gov.kh/) and the [Prime Minister](https://www.thaigov.go.th/en/cabinet/prime-minister) of the [Kingdom of Thailand](https://www.thaigov.go.th/th/home) [3:45 PM Local; 12:37 PM Actual]<br />[Kuala Lumpur Convention Centre](https://www.klccconventioncentre.com/), [Malaysia](https://www.malaysia.gov.my/) Out-of-Town Travel Pool |
+| 3:45 AM 💸🔥 | The [President](https://www.donaldjtrump.com/) holds a bilateral meeting with [Luiz Inácio Lula da Silva](https://www.gov.br/planalto/pt-br/conheca-a-presidencia/biografia-do-presidente/biografia-do-39o-presidente-da-republica), [President](https://www.gov.br/planalto/pt-br/conheca-a-presidencia) of [Brazil](https://www.gov.br/planalto/pt-br?set_language=pt-br) [3:45 PM Local]<br />[Kuala Lumpur Convention Centre](https://www.klccconventioncentre.com/), [Malaysia](https://www.malaysia.gov.my/) Pre-Credentialed Media |
+| 4:41 AM 💸🔥 | The [President](https://www.donaldjtrump.com/) departs the [Kuala Lumpur Convention Centre](https://www.klccconventioncentre.com/) for his hotel [4:41 PM Local]<br />[Kuala Lumpur Convention Centre](https://www.klccconventioncentre.com/), [Malaysia](https://www.malaysia.gov.my/) Pre-Credentialed Media |
+| 4:48 AM 💸🔥 | The [President](https://www.donaldjtrump.com/) arrives at The [Ritz-Carlton](https://www.ritzcarlton.com/en/hotels/kulrz-the-ritz-carlton-kuala-lumpur/), [Kuala Lumpur](https://kualalumpurcity.my/) [4:48 PM Local]<br />The [Ritz-Carlton](https://www.ritzcarlton.com/en/hotels/kulrz-the-ritz-carlton-kuala-lumpur/), [Kuala Lumpur](https://kualalumpurcity.my/), [Malaysia](https://www.malaysia.gov.my/) Pre-Credentialed Media |
+| 4:53 AM 💸🔥 | [White House](https://www.whitehouse.gov/) Press Office: Full lid called for October 24th, October 25th, and October 26th [4:53 PM Local]<br />The [Ritz-Carlton](https://www.ritzcarlton.com/en/hotels/kulrz-the-ritz-carlton-kuala-lumpur/), [Kuala Lumpur](https://kualalumpurcity.my/), [Malaysia](https://www.malaysia.gov.my/) Pre-Credentialed Media |
+| 7:45 AM 💸🔥 | The [President](https://www.donaldjtrump.com/) participates in a working dinner with U.S. - [ASEAN](https://asean.org/) Leaders [7:45 PM Local; Note: No confirmation the event was attended by the [President](https://www.donaldjtrump.com/)]<br />[Kuala Lumpur Convention Centre](https://www.klccconventioncentre.com/), [Malaysia](https://www.malaysia.gov.my/) Out-of-Town Travel Pool |
+| 8:00 PM 💸🔥 | Out-of-Town Travel Pool Call Time [8:00 AM Local 10/27]<br />The [Ritz-Carlton](https://www.ritzcarlton.com/en/hotels/kulrz-the-ritz-carlton-kuala-lumpur/), [Kuala Lumpur](https://kualalumpurcity.my/), [Malaysia](https://www.malaysia.gov.my/) Out-of-Town Travel Pool |
+| 9:11 PM 💸🔥 | The [President](https://www.donaldjtrump.com/) departs The [Ritz-Carlton](https://www.ritzcarlton.com/en/hotels/kulrz-the-ritz-carlton-kuala-lumpur/) [Kuala Lumpur](https://kualalumpurcity.my/) for the Airport [9:11 AM Local 10/27]<br />The [Ritz-Carlton](https://www.ritzcarlton.com/en/hotels/kulrz-the-ritz-carlton-kuala-lumpur/), [Kuala Lumpur](https://kualalumpurcity.my/), [Malaysia](https://www.malaysia.gov.my/) Out-of-Town Travel Pool |
+| 9:54 PM 💸🔥 | The [President](https://www.donaldjtrump.com/) arrives at [Kuala Lumpur International Airport (KUL)](https://www.kuala-lumpur-airport.com/) [9:54 AM Local 10/27]<br />[Kuala Lumpur International Airport (KUL)](https://www.kuala-lumpur-airport.com/), [Malaysia](https://www.malaysia.gov.my/) Out-of-Town Travel Pool |
+| 10:00 PM 💸🔥 | The [President](https://www.donaldjtrump.com/) departs [Kuala Lumpur](https://kualalumpurcity.my/), [Malaysia](https://www.malaysia.gov.my/), en route Tokyo, Japan [10:00 AM Local 10/27; Actual: 10:10 AM]<br />[Kuala Lumpur International Airport (KUL)](https://www.kuala-lumpur-airport.com/), [Malaysia](https://www.malaysia.gov.my/) Out-of-Town Travel Pool |
+| | **Saturday, October 25 2025** |
+| 6:16 AM 💸🔥 | The [President](https://www.donaldjtrump.com/) arrives at [Ramstein Air Base](https://www.ramstein.af.mil/) in [Germany](https://www.bundesregierung.de/) [12:16 PM Local]<br />[Ramstein Air Base](https://www.ramstein.af.mil/), [Germany](https://www.bundesregierung.de/) |
+| 7:35 AM 💸🔥 | The [President](https://www.donaldjtrump.com/) departs [Ramstein Air Base](https://www.ramstein.af.mil/) for [Al Udeid Air Base](https://www.afcent.af.mil/Units/379th-Air-Expeditionary-Wing/), [Qatar](https://hukoomi.gov.qa/) [1:35 PM Local]<br />[Ramstein Air Base](https://www.ramstein.af.mil/), [Germany](https://www.bundesregierung.de/) |
+| 1:04 PM 💸🔥 | The [President](https://www.donaldjtrump.com/) arrives at [Al Udeid Air Base](https://www.afcent.af.mil/Units/379th-Air-Expeditionary-Wing/), [Qatar](https://hukoomi.gov.qa/) [8:04 PM Local]<br />[Al Udeid Air Base](https://www.afcent.af.mil/Units/379th-Air-Expeditionary-Wing/), [Qatar](https://hukoomi.gov.qa/) |
+| 1:25 PM 💸🔥 | The [President](https://www.donaldjtrump.com/) holds a bilateral meeting with [Tamim bin Hamad Al Thani](https://hukoomi.gov.qa/the-amir), Emir of [Qatar](https://hukoomi.gov.qa/), on Air Force One [8:25 PM Local]<br />[Al Udeid Air Base](https://www.afcent.af.mil/Units/379th-Air-Expeditionary-Wing/), [Qatar](https://hukoomi.gov.qa/) |
+| 2:30 PM 💸🔥 | The [President](https://www.donaldjtrump.com/) gaggles with reporters after meetings with leaders of [Qatar](https://hukoomi.gov.qa/) in person and Japan on the phone [9:30 PM Local]<br />[Al Udeid Air Base](https://www.afcent.af.mil/Units/379th-Air-Expeditionary-Wing/), [Qatar](https://hukoomi.gov.qa/) |
+| 3:05 PM 💸🔥 | The [President](https://www.donaldjtrump.com/) departs [Al Udeid Air Base](https://www.afcent.af.mil/Units/379th-Air-Expeditionary-Wing/), [Qatar](https://hukoomi.gov.qa/) for [Kuala Lumpur](https://kualalumpurcity.my/), [Malaysia](https://www.malaysia.gov.my/) [10:05 PM Local]<br />[Al Udeid Air Base](https://www.afcent.af.mil/Units/379th-Air-Expeditionary-Wing/), [Qatar](https://hukoomi.gov.qa/) |
+| 10:05 PM 💸🔥 | The [President](https://www.donaldjtrump.com/) arrives [Kuala Lumpur](https://kualalumpurcity.my/), [Malaysia](https://www.malaysia.gov.my/) [10:05 AM Local; Actual: 9:53 AM Local 10/26]<br />[Kuala Lumpur International Airport (KUL)](https://www.kuala-lumpur-airport.com/), [Malaysia](https://www.malaysia.gov.my/) Pre-Credentialed Media |
+| 10:16 PM 💸🔥 | The [President](https://www.donaldjtrump.com/) departs [Kuala Lumpur International Airport (KUL)](https://www.kuala-lumpur-airport.com/) for the [Kuala Lumpur Convention Centre](https://www.klccconventioncentre.com/), [Malaysia](https://www.malaysia.gov.my/) [10:16 AM Local 10/26]<br />[Kuala Lumpur International Airport (KUL)](https://www.kuala-lumpur-airport.com/), [Malaysia](https://www.malaysia.gov.my/) Pre-Credentialed Media |
+| 11:01 PM 💸🔥 | The [President](https://www.donaldjtrump.com/) arrives at the [Kuala Lumpur Convention Centre](https://www.klccconventioncentre.com/), [Malaysia](https://www.malaysia.gov.my/) [11:01 AM Local 10/26]<br />[Kuala Lumpur International Airport (KUL)](https://www.kuala-lumpur-airport.com/), [Malaysia](https://www.malaysia.gov.my/) Pre-Credentialed Media |
+| | **Friday, October 24 2025** |
+| 9:00 AM 💸🔥 | In Town Pool Call Time<br />The [White House](https://www.whitehouse.gov/) |
+| 9:50 AM 💸🔥 | Kevin Hassett briefs reporters at The Sticks<br />The Sticks - The [White House](https://www.whitehouse.gov/) |
+| 11:32 AM 💸🔥 | [White House](https://www.whitehouse.gov/) Press Office: Lunch lid until 12:30 PM <br />The [White House](https://www.whitehouse.gov/) |
+| 3:53 PM 💸🔥 | [White House](https://www.whitehouse.gov/) Press Office: Dinner lid until 10:00 PM <br />The [White House](https://www.whitehouse.gov/) |
+| 7:00 PM 💸🔥 | The [President](https://www.donaldjtrump.com/) attends a Tele-rally for [New Jersey](https://www.nj.gov/) Gubernatorial candidate Jack Ciattarelli<br />The [White House](https://www.whitehouse.gov/) Out-of-Town Travel Pool |
+| 9:35 PM 💸🔥 | Out-of-Town Travel Pool Call Time<br />[Joint Base Andrews](https://www.jba.af.mil/) Out-of-Town Travel Pool |
+| 10:40 PM 💸🔥 | The [President](https://www.donaldjtrump.com/) departs the [White House](https://www.whitehouse.gov/) en route [Kuala Lumpur](https://kualalumpurcity.my/), [Malaysia](https://www.malaysia.gov.my/) [Actual: 10:51 PM to [Joint Base Andrews](https://www.jba.af.mil/)]<br />[South Lawn](https://www.whitehouse.gov/) Open Press |
+| 11:02 PM 💸🔥 | The [President](https://www.donaldjtrump.com/) arrives at [Joint Base Andrews](https://www.jba.af.mil/)<br />[Joint Base Andrews](https://www.jba.af.mil/) |
+| 11:15 PM 💸🔥 | The [President](https://www.donaldjtrump.com/) departs [Joint Base Andrews](https://www.jba.af.mil/) for [Kuala Lumpur](https://kualalumpurcity.my/), [Malaysia](https://www.malaysia.gov.my/) via [Germany](https://www.bundesregierung.de/) and [Qatar](https://hukoomi.gov.qa/)<br />[Joint Base Andrews](https://www.jba.af.mil/) |
 | | 🔥 [White House](https://www.whitehouse.gov/) 💣|
-| 💸🔥| **Sunday, October 19 2025**
+| 💸🔥 | **Sunday, October 19 2025**
 | 7:15 AM | Out-of-Town Travel Pool Call Time<br/>[Mar-a-Lago](https://www.maralagoclub.com/) Out-of-Town Travel Pool |
-| 9:19 AM ⛳️🏌‍♂️💸🔥| The[President](https://www.donaldjtrump.com/) departs [Mar-a-Lago](https://www.maralagoclub.com/) for his golf club<br/>[Mar-a-Lago](https://www.maralagoclub.com/) |
-| 9:27 AM ⛳️🏌‍♂️💸🔥| The [President](https://www.donaldjtrump.com/) arrives at [Trump International Golf Club West Palm Beach](https://www.trumpinternationalpalmbeaches.com/)<br/>[Trump International Golf Club West Palm Beach](https://www.trumpinternationalpalmbeaches.com/) |
-| 3:02 PM ⛳️🏌‍♂️💸🔥| The [President](https://www.donaldjtrump.com/) departs [Trump International Golf Club West Palm Beach](https://www.trumpinternationalpalmbeaches.com/) for [Mar-a-Lago](https://www.maralagoclub.com/)<br/>[Trump International Golf Club West Palm Beach](https://www.trumpinternationalpalmbeaches.com/) |
-| 3:09 PM 💸🔥| The [President](https://www.donaldjtrump.com/) arrives at [Mar-a-Lago](https://www.maralagoclub.com/)<br/>[Mar-a-Lago](https://www.maralagoclub.com/) |
-| 5:25 PM 💸🔥| The [President](https://www.donaldjtrump.com/) departs [Palm Beach](https://discover.pbc.gov/), [Florida](https://www.myflorida.gov/) en route The [White House](https://www.whitehouse.gov/) [Actual: 6:01 PM From [Mar-a-Lago](https://www.maralagoclub.com/) to [Palm Beach International Airport](https://www.pbia.org/)]<br/>[Mar-a-Lago](https://www.maralagoclub.com/) Out-of-Town Travel Pool |
-| 6:09 PM 💸🔥| The [President](https://www.donaldjtrump.com/) arrives at [Palm Beach International Airport](https://www.pbia.org/)<br/>[Palm Beach International Airport](https://www.pbia.org/) In-Town Pool |
-| 6:24 PM 💸🔥| The [President](https://www.donaldjtrump.com/) departs [Palm Beach International Airport](https://www.pbia.org/) for [Joint Base Andrews](https://www.jba.af.mil/)<br/>[Palm Beach International Airport](https://www.pbia.org/) In-Town Pool |
+| 9:19 AM ⛳️🏌‍♂️💸🔥 | The[President](https://www.donaldjtrump.com/) departs [Mar-a-Lago](https://www.maralagoclub.com/) for his golf club<br/>[Mar-a-Lago](https://www.maralagoclub.com/) |
+| 9:27 AM ⛳️🏌‍♂️💸🔥 | The [President](https://www.donaldjtrump.com/) arrives at [Trump International Golf Club West Palm Beach](https://www.trumpinternationalpalmbeaches.com/)<br/>[Trump International Golf Club West Palm Beach](https://www.trumpinternationalpalmbeaches.com/) |
+| 3:02 PM ⛳️🏌‍♂️💸🔥 | The [President](https://www.donaldjtrump.com/) departs [Trump International Golf Club West Palm Beach](https://www.trumpinternationalpalmbeaches.com/) for [Mar-a-Lago](https://www.maralagoclub.com/)<br/>[Trump International Golf Club West Palm Beach](https://www.trumpinternationalpalmbeaches.com/) |
+| 3:09 PM 💸🔥 | The [President](https://www.donaldjtrump.com/) arrives at [Mar-a-Lago](https://www.maralagoclub.com/)<br/>[Mar-a-Lago](https://www.maralagoclub.com/) |
+| 5:25 PM 💸🔥 | The [President](https://www.donaldjtrump.com/) departs [Palm Beach](https://discover.pbc.gov/), [Florida](https://www.myflorida.gov/) en route The [White House](https://www.whitehouse.gov/) [Actual: 6:01 PM From [Mar-a-Lago](https://www.maralagoclub.com/) to [Palm Beach International Airport](https://www.pbia.org/)]<br/>[Mar-a-Lago](https://www.maralagoclub.com/) Out-of-Town Travel Pool |
+| 6:09 PM 💸🔥 | The [President](https://www.donaldjtrump.com/) arrives at [Palm Beach International Airport](https://www.pbia.org/)<br/>[Palm Beach International Airport](https://www.pbia.org/) In-Town Pool |
+| 6:24 PM 💸🔥 | The [President](https://www.donaldjtrump.com/) departs [Palm Beach International Airport](https://www.pbia.org/) for [Joint Base Andrews](https://www.jba.af.mil/)<br/>[Palm Beach International Airport](https://www.pbia.org/) In-Town Pool |
 | 7:00 PM | In-Town Pool Call Time<br/>The [White House](https://www.whitehouse.gov/) In-Town Pool |
 | 7:50 PM | The [President](https://www.donaldjtrump.com/) arrives The [White House](https://www.whitehouse.gov/)<br/>The [White House](https://www.whitehouse.gov/) Open Press |
-| **Saturday, October 18 2025** |
+| | **Saturday, October 18 2025** |
 |⛳️🏌‍♂️💸🔥 | The [President](https://www.donaldjtrump.com/) has no public events scheduled<br />[Mar-a-Lago](https://www.maralagoclub.com/) Out-of-Town Travel Pool |
 | 7:15 AM | Out-of-Town Travel Pool Call Time<br />[Mar-a-Lago](https://www.maralagoclub.com/) Out-of-Town Travel Pool |
-| 9:07 AM ⛳️🏌‍♂️💸🔥| The [President](https://www.donaldjtrump.com/) departs [Mar-a-Lago](https://www.maralagoclub.com/) for his golf club<br />[Mar-a-Lago](https://www.maralagoclub.com/) |
-| 9:15 AM ⛳️🏌‍♂️💸🔥| The [President](https://www.donaldjtrump.com/) arrives at [Trump International Golf Club West Palm Beach](https://www.trumpinternationalpalmbeaches.com/)<br />[Trump International Golf Club West Palm Beach](https://www.trumpinternationalpalmbeaches.com/) |
-| 4:52 PM ⛳️🏌‍♂️💸🔥| The [President](https://www.donaldjtrump.com/) departs [Trump International Golf Club West Palm Beach](https://www.trumpinternationalpalmbeaches.com/) for [Mar-a-Lago](https://www.maralagoclub.com/)<br />[Trump International Golf Club West Palm Beach](https://www.trumpinternationalpalmbeaches.com/) |
-| 4:59 PM 💸🔥| The [President](https://www.donaldjtrump.com/) arrives at [Mar-a-Lago](https://www.maralagoclub.com/)<br />[Mar-a-Lago](https://www.maralagoclub.com/) |
-| 5:08 PM 💸🔥| [White House](https://www.whitehouse.gov/) Press Office: Full lid called<br />[Mar-a-Lago](https://www.maralagoclub.com/) In-Town Pool |
-|💸🔥| **Friday, October 17 2025** |
+| 9:07 AM ⛳️🏌‍♂️💸🔥 | The [President](https://www.donaldjtrump.com/) departs [Mar-a-Lago](https://www.maralagoclub.com/) for his golf club<br />[Mar-a-Lago](https://www.maralagoclub.com/) |
+| 9:15 AM ⛳️🏌‍♂️💸🔥 | The [President](https://www.donaldjtrump.com/) arrives at [Trump International Golf Club West Palm Beach](https://www.trumpinternationalpalmbeaches.com/)<br />[Trump International Golf Club West Palm Beach](https://www.trumpinternationalpalmbeaches.com/) |
+| 4:52 PM ⛳️🏌‍♂️💸🔥 | The [President](https://www.donaldjtrump.com/) departs [Trump International Golf Club West Palm Beach](https://www.trumpinternationalpalmbeaches.com/) for [Mar-a-Lago](https://www.maralagoclub.com/)<br />[Trump International Golf Club West Palm Beach](https://www.trumpinternationalpalmbeaches.com/) |
+| 4:59 PM 💸🔥 | The [President](https://www.donaldjtrump.com/) arrives at [Mar-a-Lago](https://www.maralagoclub.com/)<br />[Mar-a-Lago](https://www.maralagoclub.com/) |
+| 5:08 PM 💸🔥 | [White House](https://www.whitehouse.gov/) Press Office: Full lid called<br />[Mar-a-Lago](https://www.maralagoclub.com/) In-Town Pool |
+|💸🔥 | **Friday, October 17 2025** |
 | 9:00 AM | In-Town Pool Call Time<br />The [White House](https://www.whitehouse.gov/) In-Town Pool |
 | 11:46 AM | [White House](https://www.whitehouse.gov/) Press Office: Lunch lid until 12:40 PM<br />The [White House](https://www.whitehouse.gov/) |
 | 1:00 PM | The [President](https://www.donaldjtrump.com/) greets the [President Volodymyr Zelenskyy](https://www.president.gov.ua/) of [Ukraine](https://www.kmu.gov.ua/)<br />[Stakeout Location](https://www.whitehouse.gov/) Open Press |
@@ -69,14 +120,14 @@ title: "🛫Trump: Air Force One Frequent Flyer Miles🚁"
 | 6:37 PM ⛳️🏌‍♂️| The [President](https://www.donaldjtrump.com/) departs [Palm Beach International Airport](https://https://www.pbia.org/). for [Mar-a-Lago](https://www.maralagoclub.com/)<br />[Palm Beach International Airport](https://https://www.pbia.org/). Out-of-Town Travel Pool |
 | 7:18 PM | [White House](https://www.whitehouse.gov/) Press Office: Full lid called<br />[Mar-a-Lago](https://www.maralagoclub.com/) In-Town Pool |
 | | 🔥 [White House](https://www.whitehouse.gov/) 💣|
-|💸🔥| **Tuesday, October 14 2025** |
+|💸🔥 | **Tuesday, October 14 2025** |
 | 12:05 AM | The [President](https://www.donaldjtrump.com/) arrives The [White House](https;//www.whitehouse.gov/)<br />The [White House](https;//www.whitehouse.gov/) Open Press |
 | 2:50 AM | The [President](https://www.donaldjtrump.com/) arrives The [White House](https;//www.whitehouse.gov/)<br />[South Lawn](https://www.whitehouse.gov/) Open Press |
 | 9:00 AM | In-Town Pool Call Time<br />The [White House](https;//www.whitehouse.gov/) In-Town Pool |
 | 1:00 PM | The [President](https://www.donaldjtrump.com/) greets the [President](https://www.donaldjtrump.com/) of the [Argentine Republic](https://www.argentina.gob.ar/)<br />[Stakeout Location](https://www.whitehouse.gov/) Open Press |
 | 1:15 PM | The [President](https://www.donaldjtrump.com/) participates in a Bilateral Lunch with the [President](https://www.donaldjtrump.com/) of the [Argentine Republic](https://www.argentina.gob.ar/)<br />[Cabinet Room](https://www.whitehouse.gov/) Closed Press |
 | 4:00 PM | The [President](https://www.donaldjtrump.com/) participates in a Medal of Freedom Ceremony for Charlie Kirk<br />[East Room](https;//www.whitehouse.gov/) |
-|💸🔥| **Monday, October 13 2025** |
+|💸🔥 | **Monday, October 13 2025** |
 | 2:20 AM | The [President](https://www.donaldjtrump.com/) arrives [Tel Aviv](https://www.tel-aviv.gov.il/), [Israel](https://www.gov.il/) [9:20 AM Local; Actual: 9:44 AM]<br />[Ben Gurion Airport](https://www.iaa.gov.il/), [Tel Aviv](https://www.tel-aviv.gov.il/), [Israel](https://www.gov.il/) Out-of-Town Travel Pool |
 | 3:09 AM | The [President](https://www.donaldjtrump.com/) departs the airport for the [Knesset](https://main.knesset.gov.il/) [10:09 AM Local]<br />[Ben Gurion Airport](https://www.iaa.gov.il/), [Tel Aviv](https://www.tel-aviv.gov.il/), [Israel](https://www.gov.il/) Out-of-Town Travel Pool |
 | 3:45 AM | The [President](https://www.donaldjtrump.com/) meets with Hostage Families [10:45 AM Local]<br />The [Knesset](https://main.knesset.gov.il/), [Jerusalem](https://govextra.gov.il/moia/jerusalem-lang/) Closed Press |
@@ -98,13 +149,13 @@ title: "🛫Trump: Air Force One Frequent Flyer Miles🚁"
 | 6:40 PM | The [President](https://www.donaldjtrump.com/) lands at [RAF Mildenhall](https://www.mildenhall.af.mil/) for refueling [11:40 PM Local]<br />[RAF Mildenhall](https://www.mildenhall.af.mil/), [England, United Kingdom](https://www.gov.uk/) Out-of-Town Travel Pool |
 | 7:51 PM | The [President](https://www.donaldjtrump.com/) departs from the [RAF Mildenhall](https://www.mildenhall.af.mil/) refueling stop for [Joint Base Andrews](https://www.jba.af.mil/) [12:51 AM Local 10/14]<br />[RAF Mildenhall](https://www.mildenhall.af.mil/), [England, United Kingdom](https://www.gov.uk/) Out-of-Town Travel Pool |
 | 11:30 PM | In-Town Pool Call Time<br />The [White House](https;//www.whitehouse.gov/) In-Town Pool |
-|💸🔥| **Sunday, October 12 2025** |
+|💸🔥 | **Sunday, October 12 2025** |
 | 2:30 PM | In-Town Pool Call Time<br />The [White House](https;//www.whitehouse.gov/) In-Town Pool |
 | 2:35 PM | Out-of-Town Travel Pool Call Time<br />[Joint Base Andrews](https://www.jba.af.mil/) Out-of-Town Travel Pool |
 | 3:30 PM | The [President](https://www.donaldjtrump.com/) departs The [White House](https;//www.whitehouse.gov/) en route [Tel Aviv](https://www.tel-aviv.gov.il/), [Israel](https://www.gov.il/) [Actual: 4:14 PM to [Joint Base Andrews](https://www.jba.af.mil/)]<br />The [White House](https;//www.whitehouse.gov/) Out-of-Town Travel Pool |
 | 4:31 PM | The [President](https://www.donaldjtrump.com/) arrives at [Joint Base Andrews](https://www.jba.af.mil/)<br />[Joint Base Andrews](https://www.jba.af.mil/) Out-of-Town Travel Pool |
 | 4:47 PM | The [President](https://www.donaldjtrump.com/) departs [Joint Base Andrews](https://www.jba.af.mil/) for [Tel Aviv](https://www.tel-aviv.gov.il/), [Israel](https://www.gov.il/)<br />[Joint Base Andrews](https://www.jba.af.mil/) Out-of-Town Travel Pool |
-|💸🔥| **Saturday, October 11 2025** |
+|💸🔥 | **Saturday, October 11 2025** |
 | ⛳️🏌‍♂️| The [President](https://www.donaldjtrump.com/) ~~has no public events scheduled~~ (other than playing golf ⛳️🏌)<br />The [White House](https://www.whitehouse.gov/) |
 | 8:30 AM | In-Town Pool Call Time<br />The [White House](https;//www.whitehouse.gov/) In-Town Pool |
 | 9:31 AM ⛳️| The [President](https://www.donaldjtrump.com/) departs the [White House](https;//www.whitehouse.gov/) for his [Trump National Golf Club](https://www.trumpnationaldc.com/)<br />The [White House](https;//www.whitehouse.gov/) |
@@ -113,7 +164,7 @@ title: "🛫Trump: Air Force One Frequent Flyer Miles🚁"
 | 5:00 PM | The [President](https://www.donaldjtrump.com/) arrives at the [White House](https;//www.whitehouse.gov/)<br />The [White House](https;//www.whitehouse.gov/) In-Town Pool |
 | 5:01 PM | [White House](https;//www.whitehouse.gov/) Press Office: Full lid called<br />The [White House](https;//www.whitehouse.gov/) In-Town Pool |
 | | 🔥 [White House](https://www.whitehouse.gov/) 💣|
-|💸🔥| **Sunday, October 5 2925** |
+|💸🔥 | **Sunday, October 5 2925** |
 | 10:00 AM | Out-of-Town Travel Pool Call Time<br />[Joint Base Andrews](https://www.jba.af.mil/) Out-of-Town Travel Pool |
 | 10:15 AM | In-Town Pool Call Time<br />The [White House](https://www.whitehouse.gov/) In-Town Pool |
 | 10:55 AM | The [President](https://www.donaldjtrump.com/) and The First Lady depart The [White House](https://www.whitehouse.gov/) en route [Norfolk](https://www.norfolk.gov/), [Virginia](https://www.virginia.gov/) [Actual: 11:11 AM to [Joint Base Andrews](https://www.jba.af.mil/)]<br />The [White House](https://www.whitehouse.gov/) Open Press |
@@ -133,7 +184,7 @@ title: "🛫Trump: Air Force One Frequent Flyer Miles🚁"
 | 5:55 PM | The [President](https://www.donaldjtrump.com/) and the First Lady arrive at [Joint Base Andrews](https://www.jba.af.mil/)<br />[Joint Base Andrews](https://www.jba.af.mil/) |
 | 6:10 PM | The [President](https://www.donaldjtrump.com/) and the First Lady depart [Joint Base Andrews](https://www.jba.af.mil/) for the [White House](https://www.whitehouse.gov/)<br />[Joint Base Andrews](https://www.jba.af.mil/) |
 | 6:28 PM | [White House](https://www.whitehouse.gov/) Press Office: Full lid called<br />The [White House](https://www.whitehouse.gov/) |
-|💸🔥| **Saturday, October 4 2925** |
+|💸🔥 | **Saturday, October 4 2925** |
 | ⛳️🏌‍♂️| The [President](https://www.donaldjtrump.com/) ~~has no public events scheduled~~ (other than playing golf ⛳️🏌)<br />The [White House](https://www.whitehouse.gov/) |
 | 8:00 AM | In-Town Pool Call Time<br />The [White House](https://www.whitehouse.gov/) In-Town Pool |
 | 9:57 AM⛳️| The [President](https://www.donaldjtrump.com/) departs the [White House](https://www.whitehouse.gov/) for his golf club<br />The [White House](https://www.whitehouse.gov/) |
@@ -143,7 +194,7 @@ title: "🛫Trump: Air Force One Frequent Flyer Miles🚁"
 | 5:21 PM | The [President](https://www.donaldjtrump.com/) arrives at the [White House](https://www.whitehouse.gov/)<br />The [White House](https://www.whitehouse.gov/) In-Town Pool |
 | 5:26 PM | [White House](https://www.whitehouse.gov/) Press Office: Full lid called<br />The [White House](https://www.whitehouse.gov/) In-Town Pool |
 | | 🔥 [White House](https://www.whitehouse.gov/) 💣|
-|💸🔥| **Sunday, September 28 2025** |
+|💸🔥 | **Sunday, September 28 2025** |
 | ⛳️🏌‍♂️| The [President](https://www.donaldjtrump.com/) ~~has no public events scheduled~~ (other than playing golf ⛳️🏌)<br />The [White House](https://www.whitehouse.gov/) In-Town Pool |
 | 8:00 AM | In-Town Pool Call Time<br />The [White House](https://www.whitehouse.gov/) In-Town Pool |
 | 8:38 AM ⛳️| The [President](https://www.donaldjtrump.com/) departs the [White House](https://www.whitehouse.gov/) for his [Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/)<br />The [White House](https://www.whitehouse.gov/) |
@@ -152,7 +203,7 @@ title: "🛫Trump: Air Force One Frequent Flyer Miles🚁"
 | 3:54 PM ⛳️| The [President](https://www.donaldjtrump.com/) departs [Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/)<br />[Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/) |
 | 4:26 PM | The [President](https://www.donaldjtrump.com/) arrives at the [White House](https://www.whitehouse.gov/)<br />The [White House](https://www.whitehouse.gov/) |
 | 4:29 PM | [White House](https://www.whitehouse.gov/) Press Office: Full lid called<br />The [White House](https://www.whitehouse.gov/) |
-|💸🔥| **Saturday, September 27 2025** |
+|💸🔥 | **Saturday, September 27 2025** |
 | ⛳️🏌‍♂️| The [President](https://www.donaldjtrump.com/) ~~has no public events scheduled~~ (other than playing golf ⛳️🏌)<br />The [White House](https://www.whitehouse.gov/) In-Town Pool |
 | 8:00 AM | In-Town Pool Call Time<br />The [White House](https://www.whitehouse.gov/) In-Town Pool |
 | 8:38 AM ⛳️| The [President](https://www.donaldjtrump.com/) departs the [White House](https://www.whitehouse.gov/) for his [Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/)<br />The [White House](https://www.whitehouse.gov/) |
@@ -160,7 +211,7 @@ title: "🛫Trump: Air Force One Frequent Flyer Miles🚁"
 | 3:12 PM ⛳️| The [President](https://www.donaldjtrump.com/) departs [Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/)<br />[Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/) |
 | 3:44 PM | The [President](https://www.donaldjtrump.com/) arrives at the [White House](https://www.whitehouse.gov/)<br />The [White House](https://www.whitehouse.gov/) |
 | 3:45 PM | [White House](https://www.whitehouse.gov/) Press Office: Full lid called<br />The [White House](https://www.whitehouse.gov/) |
-|💸🔥| **Friday, September 26 2025** |
+|💸🔥 | **Friday, September 26 2025** |
 | 8:45 AM | Out-of-Town Travel Pool Call Time<br />[Joint Base Andrews](https://www.jba.af.mil/) Out-of-Town Travel Pool |
 | 9:50 AM | The [President](https://www.donaldjtrump.com/) departs the [White House](https://www.whitehouse.gov/) en route [Bethpage](https://oysterbaytown.com/), [New York](https://www.ny.gov/) \[Actual: 9:59 AM to [Joint Base Andrews](https://www.jba.af.mil/)\]<br />[South Lawn](https://www.whitehouse.gov/) Open Press |
 | 10:15 AM | The [President](https://www.donaldjtrump.com/) arrives at [Joint Base Andrews](https://www.jba.af.mil/)<br />[Joint Base Andrews](https://www.jba.af.mil/) Open Press |
@@ -177,7 +228,7 @@ title: "🛫Trump: Air Force One Frequent Flyer Miles🚁"
 | -:-- PM | The [President](https://www.donaldjtrump.com/) departs [Joint Base Andrews](https://www.jba.af.mil/) for [White House](https://www.whitehouse.gov/)<br />[Joint Base Andrews](https://www.jba.af.mil/) Open Press |
 | 4:55 PM | The [President](https://www.donaldjtrump.com/) arrives [White House](https://www.whitehouse.gov/)<br />[South Lawn](https://www.whitehouse.gov/) Open Press |
 | | 🔥 [White House](https://www.whitehouse.gov/) 💣|
-|💸🔥| **Tuesday, September 23 2025** |
+|💸🔥 | **Tuesday, September 23 2025** |
 | 7:00 AM | Out-of-Town Travel Pool Call Time<br />[Trump Tower](https://www.trumptowerny.com/) Out-of-Town Travel Pool |
 | 9:42 AM | The [President](https://www.donaldjtrump.com/) departs [Trump Tower](https://www.trumptowerny.com/) for the [United Nations](https://www.un.org/)<br />[Trump Tower](https://www.trumptowerny.com/) Out-of-Town Travel Pool |
 | 9:48 AM | The [President](https://www.donaldjtrump.com/) arrives at the [United Nations](https://www.un.org/)<br />[United Nations](https://www.un.org/) Out-of-Town Travel Pool |
@@ -205,7 +256,7 @@ title: "🛫Trump: Air Force One Frequent Flyer Miles🚁"
 | 10:42 PM | The [President](https://www.donaldjtrump.com/) and the First Lady depart [Joint Base Andrews](https://www.jba.af.mil/) for the [White House](https://www.whitehouse.gov/)<br />[Joint Base Andrews](https://www.jba.af.mil/) |
 | 11:02 PM | [White House](https://www.whitehouse.gov/) Press Office: Full lid called<br />The [White House](https://www.whitehouse.gov/) |
 | 11:10 PM | The [President](https://www.donaldjtrump.com/) and First Lady arrive The [White House](https://www.whitehouse.gov/) [Actual: 10:50 PM]<br />[South Lawn](https://www.whitehouse.gov/) Open Press |
-|💸🔥| **Monday, September 22 2025** |
+|💸🔥 | **Monday, September 22 2025** |
 | 9:00 AM | In-Town Pool Call Time<br />The [White House](https://www.whitehouse.gov/) In-Town Pool |
 | 11:43 AM | [White House](https://www.whitehouse.gov/) Press Office: Lunch lid until 12:30 PM<br />The [White House](https://www.whitehouse.gov/) |
 | 1:00 PM | Press Briefing by the [White House](https://www.whitehouse.gov/) Press Secretary Karoline Leavitt<br />[James S. Brady Press Briefing Room](https://www.whitehouse.gov/) On Camera |
@@ -219,7 +270,7 @@ title: "🛫Trump: Air Force One Frequent Flyer Miles🚁"
 | 8:00 PM | The [President](https://www.donaldjtrump.com/) arrives at the [Downtown Manhattan Heliport](https://www.downtownskyportnyc.com/)<br />[Downtown Manhattan Heliport](https://www.downtownskyportnyc.com/), NY Open Press |
 | 8:07 PM | The [President](https://www.donaldjtrump.com/) departs the [Downtown Manhattan Heliport](https://www.downtownskyportnyc.com/) for [Trump Tower](https://www.trumptowerny.com/)<br />[Downtown Manhattan Heliport](https://www.downtownskyportnyc.com/), NY Open Press |
 | 8:26 PM | [White House](https://www.whitehouse.gov/) Press Office: Full lid called<br />[Trump Tower](https://www.trumptowerny.com/) |
-| 💸🔥| **Sunday, September 21 2025** |
+| 💸🔥 | **Sunday, September 21 2025** |
 | 7:00 AM | Out-of-Town Travel Pool Call Time<br />[Joint Base Andrews](https://www.jba.af.mil/) Out-of-Town Travel Pool |
 | 7:15 AM | In-Town Pool Call Time<br />The [White House](https://www.whitehouse.gov/)<br />In-Town Pool |
 | 9:30 AM | The [President](https://www.donaldjtrump.com/) departs The [White House](https://www.whitehouse.gov/) en route [Glendale](https://www.glendaleaz.gov/), [Arizona](https://www.az.gov/) [9:53 AM Actual to [Joint Base Andrews](https://www.jba.af.mil/)]<br />The [White House](https://www.whitehouse.gov/) Open Press |
@@ -236,7 +287,7 @@ title: "🛫Trump: Air Force One Frequent Flyer Miles🚁"
 | 11:21 PM | The [President](https://www.donaldjtrump.com/) arrives at [Joint Base Andrews](https://www.jba.af.mil/)<br />[Joint Base Andrews](https://www.jba.af.mil/) |
 | 11:38 PM | The [President](https://www.donaldjtrump.com/) departs [Joint Base Andrews](https://www.jba.af.mil/) for the [White House](https://www.whitehouse.gov/)<br />[Joint Base Andrews](https://www.jba.af.mil/) |
 | 11:54 PM | [White House](https://www.whitehouse.gov/) Press Office: Full lid called</<The [White House](https://www.whitehouse.gov/) |
-| 💸🔥| **Saturday, September 20 2025** |
+| 💸🔥 | **Saturday, September 20 2025** |
 | 8:00 AM | In-Town Pool Call Time<br />The [White House](https://www.whitehouse.gov/) In-Town Pool |
 | 9:08 AM ⛳️🏌‍♂️| The [President](https://www.donaldjtrump.com/) departs the [White House](https://www.whitehouse.gov/) for his golf club<br />The [White House](https://www.whitehouse.gov/) |
 | 9:42 AM ⛳️🏌‍♂️| The [President](https://www.donaldjtrump.com/) arrives at [Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/)<br />[Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/) |
@@ -1396,7 +1447,7 @@ title: "🛫Trump: Air Force One Frequent Flyer Miles🚁"
 | 6:15 PM | The [President](https://www.donaldjtrump.com/) departs [Faena Hotel & Forum](https://www.faena.com/miami-beach/gather/venues/faena-forum) en route [Miami International Airport](https://miami-airport.com/)<br />[Faena Hotel & Forum](https://www.faena.com/miami-beach/gather/venues/faena-forum), [Miami Beach](https://www.miamibeachfl.gov/), [Florida](https://www.myflorida.com/) Out-of-Town Travel Pool |
 | 6:35 PM | The [President](https://www.donaldjtrump.com/) arrives [Miami International Airport](https://miami-airport.com/)<br />[Miami International Airport](https://miami-airport.com/) Out-of-Town Travel Pool |
 | 6:45 PM | The [President](https://www.donaldjtrump.com/) departs [Miami International Airport](https://miami-airport.com/) en route [Joint Base Andrews](https://www.jba.af.mil/)<br />[Miami International Airport](https://miami-airport.com/) Out-of-Town Travel Pool |
-| 7:30 PM | The [President](https://www.donaldjtrump.com/) signs Executive Orders [on board Air Force One en route to [JBA](https://www.jba.af.mil/)]<br />[Miami International Airport](https://miami-airport.com/) Closed Press |
+| 7:30 PM | The [President](https://www.donaldjtrump.com/) signs Executive Orders [on board [Air Force One](https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104588/vc-25-air-force-one/) en route to [JBA](https://www.jba.af.mil/)]<br />[Miami International Airport](https://miami-airport.com/) Closed Press |
 | 7:30 PM | In-Town Pool Call Time<br />[The White House](https://www.whitehouse.gov/) Closed Press |
 | 8:50 PM | The [President](https://www.donaldjtrump.com/) arrives [Joint Base Andrews](https://www.jba.af.mil/)<br />[Joint Base Andrews](https://www.jba.af.mil/) Out-of-Town Travel Pool |
 | 9:00 PM | The [President](https://www.donaldjtrump.com/) departs [Joint Base Andrews](https://www.jba.af.mil/) en route [The White House](https://www.whitehouse.gov/)<br />[Joint Base Andrews](https://www.jba.af.mil/) Out-of-Town Travel Pool |
@@ -1640,3 +1691,4 @@ title: "🛫Trump: Air Force One Frequent Flyer Miles🚁"
 [^56092]: [Federal Aviation Administration - Graphic TFRs](https://tfr.faa.gov/tfr3/?page=detail_5_6092). From October 04, 2025 at 0830 EDT– October 04, 2025 at 1800 EDT.
 [^59616]: [5/9616](https://tfr.faa.gov/tfr3/?page=detail_5_9616). From October 11, 2025 at 0830 EDT – October 11, 2025 at 1800 EDT
 [^59887]: [Federal Aviation Administration - Graphic TFRs](https://tfr.faa.gov/tfr3/?page=detail_5_9887). October 12, 2025 at 0830 EDT – October 12, 2025 at 1800 EDT
+[^50910]: [Federal Aviation Administration - Graphic TFRs](https://tfr.faa.gov/tfr3/?page=detail_5_0910). From October 17, 2025 at 1615 EDT – October 19, 2025 at 1830 EDT)
