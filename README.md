@@ -41,11 +41,13 @@ Surviving “The Apprentice: White House – Wrecking Ball”. [Trump](https://w
 ## Make Your Voice Heard
 
 - [50501 — 50 protests, 50 states, 1 movement](https://www.fiftyfifty.one/)
+- [RepresentUs: Demand Accountable Government](https://represent.us/)
+- [DEFIANCE.org / Defy Trump, Together](https://www.defiance.org/)
+- [Indivisible](https://indivisible.org/)
+- [No Kings](https://www.nokings.org/)
 - [Activist Handbook / Campaigning guides for activists ✊](https://activisthandbook.org/)
 - [American Civil Liberties Union / The ACLU dares to create a more perfect union — beyond one person, party, or side. Our mission is to realize this promise of the United States Constitution for all and expand the reach of its guarantees.](https://www.aclu.org/)
-- [Indivisible](https://indivisible.org/)
 - [League of Conservation Voters](https://www.lcv.org/)
-- [No Kings](https://www.nokings.org/)
 - [People's Promise](https://peoplespromise.us/)
 - [SoSha (Social Share) – We’ve put together a social toolkit that tracks Trump's most unpopular policies and biggest failures. Share these posts with your networks and customize your messages so they break through the social media algorithms.](https://app.sosha.ai/toolkit/trump-news-headlines-media-9938)
 - [Stand Up America - Demanding the Democracy We Deserve](https://standupamerica.com/)
