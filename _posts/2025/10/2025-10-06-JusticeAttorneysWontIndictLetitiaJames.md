@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: [media, MSNBC News - Breaking News and News Today / Latest News, Carol Leonnig, Ken Dilanian, The New York Times (NYT) - Breaking News US News World News and Videos, organizations, political parties, Democrat Party, Trumpian Party, universities, companies, foreign governments, state local governments, New York, New York State Attorney General, Letitia James / New York State Attorney General, Home / Virginia.gov, City of Norfolk Virginia - Official Website / Official Website, federal government, Constitution of the United States, U.S. Constitution - Article I / Library of Congress, U.S. Constitution - Article II / Library of Congress, U.S. Constitution - Article III / Library of Congress, U.S. Constitution - Article IV / Library of Congress, U.S. Constitution - Article V / Library of Congress, U.S. Constitution - Article VI / Library of Congress, U.S. Constitution - Article VII / Library of Congress, Supreme Court of the United States (SCOTUS), US Courts, Department of Justice (DOJ), Eastern District of Virginia / Eastern District of Virginia, Elizabeth Yusi / LinkedIn, District of Columbia / District of Columbia, Federal Bureau of Investigation (FBI), James B. Comey September 4 2013 - May 9 2017 — FBI, Federal Reserve Board - Federal Reserve Act, U.S. Department of the Treasury, Federal Housing Finance Agency (FHFA), Congress, Senate, Adam Schiff D-CA), House of Representatives, President of the United States (POTUS), White House (WH), Trump autocracy, Donald J Trump, President Donald Trump (45), President Donald Trump (47), President Trump (47) Administration, President Trump (47) Cabinet, press secretary, Karoline Leavitt, Director William J Pulte, Bill Pulte / LinkedIn, grifter, self-dealing, corruption, con artist, crime, cryptocurrency, criminal associates, criminal businesses, criminal media, criminal organizations, criminal partners]
-categories: [Donald Trump, Department of Justice (DOJ), Pam Bondi, Federal Housing Finance Agency (FHFA), Bill Pulte, New York Attorney General, Letitia James, mortgage fraud, weaponization, persecution, Trump Crime Family]
+categories: [Donald Trump, Department of Justice (DOJ), Pam Bondi, Federal Housing Finance Agency (FHFA), Bill Pulte, Federal Bureau of Investigation (FBI), James Comey, New York Attorney General, Letitia James, mortgage fraud, weaponization, persecution, Trump Crime Family]
 date: 2025-10-06 17:30
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
@@ -123,6 +123,13 @@ Ken Dilanian is the justice and intelligence correspondent for [MSNBC](https://w
                     - Karoline Leavitt
                 - [Director William J Pulte](https://www.fhfa.gov/about/leadership/william-j-pulte)
                 - [Bill Pulte / LinkedIn](https://www.linkedin.com/in/pulte/)
+                - [Pam Bondi](https://www.justice.gov/ag/staff-profile/meet-attorney-general)
+                    - [Office of the Deputy Attorney General / Office of the Deputy Attorney General](https://www.justice.gov/dag)
+                    - [Todd Blanche / LinkedIn](https://www.linkedin.com/in/toddblanche/)
+                        - Lindsey Halligan
+                - [Kash Patel](https://www.fbi.gov/about/leadership-and-structure/director-patel)
+                    - [Deputy Director Dan Bongino — FBI](https://www.fbi.gov/about/leadership-and-structure/deputy-director-dan-bongino)
+{% include TrumpWeaponization.html %}
 - grifter
 - self-dealing
 - corruption
