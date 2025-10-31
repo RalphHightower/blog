@@ -17,6 +17,9 @@ The telephone numbers below have called and there is an empty person on the othe
 
 | Telephone Number | Location | Date Time[^11] | Caller | Social Media |
 |---|---|---|---|---|
+| [\+1 (803) 602-5482](tel:+18036025482) | SC. Columbia | 2025-10-30 04:37 PM ¤¤ | — | |
+| [\+1 (803) 602-5482](tel:+18036025482) | SC. Columbia | 2025-10-30 04:36 PM | — | |
+| [\+1 (803) 324-4684](tel:+18033244684) | Rock Hill | 2025-10-30 01:58 PM | — | |
 | [\+1 (803) 801-2913](tel:+18038012913) | SC. Winnsboro | 2025-10-29 01:27 PM | — | |
 | [\+1 (803) 821-1810](tel:+18038211810) | SC. West Columbia | 2025-10-29 01:05 PM | GMS Health Room | |
 | [\+1 (803) 497-3878](tel:+18034973878) | SC. Columbia | 2025-10-29 12:14 PM | — | |
