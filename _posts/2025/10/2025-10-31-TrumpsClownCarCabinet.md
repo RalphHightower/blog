@@ -7,7 +7,7 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: 'title'
+title: "The Trump Crime Family: Trump’s Cabinet of Stupid Fucking Idiots"
 ---
 
 ## [Trump’s clown car Cabinet is key to his retribution campaign](https://www.msnbc.com/top-stories/latest/trump-retribution-campaign-clown-car-cabinet-rcna240811)
