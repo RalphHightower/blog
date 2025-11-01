@@ -10,7 +10,7 @@ excerpt: ''
 title: "Health and Human Services, Robert F Kennedy Jr, Choice For Surgeon General Is Typhoid Mary"
 ---
 
-- [Caution: The Surgeon General Could Be Hazardous To Your Health]({% _posts/2025/05/2025-05-09-CautionSurgeonGeneralHazardousToHealth.md %})
+- [Caution: The Surgeon General Could Be Hazardous To Your Health]({% link _posts/2025/05/2025-05-09-CautionSurgeonGeneralHazardousToHealth.md %})
 
 ## [Trump's surgeon general nominee is a public health risk](https://www.msnbc.com/opinion/msnbc-opinion/trump-surgeon-general-nominee-casey-means-rcna240352)
 
