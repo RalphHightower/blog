@@ -122,7 +122,7 @@ Jordan Rubin is the Deadline: Legal Blog writer. He was a prosecutor for the New
                 - [Pam Bondi](https://www.justice.gov/ag/staff-profile/meet-attorney-general)
                     - [Office of the Deputy Attorney General / Office of the Deputy Attorney General](https://www.justice.gov/dag)
                     - [Todd Blanche / LinkedIn](https://www.linkedin.com/in/toddblanche/)
-                        - Lindsey Halligan
+                        - [Lindsey Halligan](https://www.justice.gov/usao-edva/)
                 - [Kash Patel](https://www.fbi.gov/about/leadership-and-structure/director-patel)
                     - [Deputy Director Dan Bongino — FBI](https://www.fbi.gov/about/leadership-and-structure/deputy-director-dan-bongino)
 {% include TrumpWeaponization.html %}
