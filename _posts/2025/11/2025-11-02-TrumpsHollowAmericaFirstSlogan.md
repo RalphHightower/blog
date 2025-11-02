@@ -7,7 +7,7 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: "Treasury Bessent’s Billionaire Buddy Bailout Ain’t Putting America First:
+title: "Treasury Bessent’s Billionaire Buddy Bailout Ain’t Putting America First"
 ---
 
 
