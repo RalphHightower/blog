@@ -117,8 +117,7 @@ Allison Detzel contributed.
     - [Universidad de Buenos Aires](https://www.uba.ar/)
 - [Laman Resmi Republik Indonesia • Portal Informasi Indonesia](https://indonesia.go.id/)
     - [Laman Resmi Presiden Republik Indonesia • Presiden RI](https://www.presidenri.go.id/)
-- [govil - אתר השירותים והמידע הממשלתי](https://www.gov.il/)
-- [משרד ראש הממשלה / 
+- [מְדִינַת יִשְׂרָאֵל (IL)](https://www.gov.il/)
 - [الديوان الأميري في دولة قطر (QA)](https://www.diwan.gov.qa/?sc_lang=ar-QA)
 [الموقع الرسمي لرئاسة الجمهورية-جمهورية مصر العربية(EG)](https://www.presidency.eg/ar/)
 - terrorist groups 
