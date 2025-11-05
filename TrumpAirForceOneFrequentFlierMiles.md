@@ -31,8 +31,7 @@ title: "🛫Trump: Air Force One Frequent Flyer Miles🚁"
 | 7:50 PM 🔥💸 | The [President](https://www.donaldjtrump.com/) arrives The [White House](https://www.whitehouse.gov/) [Actual: 7:26 PM]<br />The [White House](https://www.whitehouse.gov/) Open Press |
 | | **Saturday, November 1 2025** |
 | 7:00 AM 🔥💸 | Out-of-Town Travel Pool Call Time<br />[Mar-a-Lago](https://www.maralagoclub.com/) Out-of-Town Travel Pool |
-| 9:26 AM 🔥💸 | The [President](https://www.donaldjtrump.com/) departs [Mar-a-Lago](https://www.maralagoclub.com/) for his golf club |
-| [Mar-a-Lago](https://www.maralagoclub.com/) |
+| 9:26 AM 🔥💸 | The [President](https://www.donaldjtrump.com/) departs [Mar-a-Lago](https://www.maralagoclub.com/) for [his golf club](https://www.trumpinternationalpalmbeaches.com/)<br />[Mar-a-Lago](https://www.maralagoclub.com/) |
 | 9:33 AM 🔥💸 | The [President](https://www.donaldjtrump.com/) arrives at [Trump International Golf Club West Palm Beach](https://www.trumpinternationalpalmbeaches.com/)<br />[Trump International Golf Club West Palm Beach](https://www.trumpinternationalpalmbeaches.com/) |
 | 1:54 PM 🔥💸 | The [President](https://www.donaldjtrump.com/) departs [Trump International Golf Club West Palm Beach](https://www.trumpinternationalpalmbeaches.com/) for [Mar-a-Lago](https://www.maralagoclub.com/)<br />[Trump International Golf Club West Palm Beach](https://www.trumpinternationalpalmbeaches.com/) |
 | 2:01 PM 🔥💸 | The [President](https://www.donaldjtrump.com/) arrives at [Mar-a-Lago](https://www.maralagoclub.com/)<br />[Mar-a-Lago](https://www.maralagoclub.com/) |
