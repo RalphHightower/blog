@@ -9,7 +9,7 @@ excerpt: ''
 #permalink:
 title: "A Dichotomy Between the Ultra Wealthy and the Poor: Trump’s “Let Them Eat Cake!”"
 ---
-"Let Them Eat Cake!"
+
 ## [As food aid expired, Trump cheered his marble bathroom and held a ‘Gatsby’ party](https://www.msnbc.com/rachel-maddow-show/maddowblog/food-aid-expired-trump-cheered-marble-bathroom-held-gatsby-party-rcna241552)
 
 *As millions of families confronted soaring health care costs and the loss of food assistance, their [president](https://www.whitehouse.gov/) made his indifference clear.*
@@ -25,7 +25,7 @@ On Friday afternoon, with roughly 11 hours remaining before the [SNAP](https://w
 
 By Friday night, the [president](https://www.whitehouse.gov/)’s day took a rather farcical turn. [USA Today](https://www.usatoday.com/story/news/politics/2025/11/02/trump-gatsby-1920s-party/87052157007/) reported:
 
-[President](https://www.whitehouse.gov/) [Donald Trump](https://www.donaldjtrump.com/) hosted a Great Gatsby-themed party at [Mar-A-Lago](https://www.maralagoclub.com/) on Oct. 31, as multiple federal judges ruled the [administration](https://www.whitehouse.gov/administration/) could not stop funding food aid amid the ongoing government shutdown. The party was labeled ‘A Little Party Never Killed Nobody’ according to multiple media attendees. The title was drawn from a song on the soundtrack of the 2013 movie adaptation of ‘The Great Gatsby.’
+> *[President](https://www.whitehouse.gov/) [Donald Trump](https://www.donaldjtrump.com/) hosted a Great Gatsby-themed party at [Mar-A-Lago](https://www.maralagoclub.com/) on Oct. 31, as multiple federal judges ruled the [administration](https://www.whitehouse.gov/administration/) could not stop funding food aid amid the ongoing government shutdown. The party was labeled ‘A Little Party Never Killed Nobody’ according to multiple media attendees. The title was drawn from a song on the soundtrack of the 2013 movie adaptation of ‘The Great Gatsby.’*
 
 The report added that attendees were seen “mimicking ‘Roaring 20’s’ era attire, a period just before the Great Depression that historians note for its staggering income inequity.” (Historian Heather Cox Richardson added that F. Scott Fitzgerald’s 1925 novel “skewered the immoral and meaningless lives of the very wealthy during the Jazz Age who spent their time throwing extravagant parties and laying waste to the lives of the people around them.”)
 
