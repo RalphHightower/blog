@@ -11,6 +11,7 @@ toc: true
 title: "🎫 Political Gameplan / Strategy 🏈"
 ---
 
+{ :toc }
 ## Resistance Is Not Futile!
 
 - [Why We Made a Guide to Winning a Fight / WIRED](https://www.wired.com/story/editor-letter-guide-to-winning-a-fight/)
