@@ -7,7 +7,7 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: "Coirt Rejects Trump’s Executive Order Taking Control of States’ Elections Control"
+title: "Court Rejects Trump’s Executive Order Taking Control of States’ Elections Control"
 ---
 
 

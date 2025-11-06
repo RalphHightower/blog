@@ -323,7 +323,7 @@ The telephone numbers below have called and there is an empty person on the othe
 | [\+1 (803) 353-1748](tel:+18033531748) | SC. Eastover | 2025-07-28 12:44 PM | — | |
 | [\+1 (803) 764-0416](tel:+18037640416) | SC. Columbia | 2025-07-25 04:20 PM ¤¤ | — | |
 | [\+1 (803) 258-3162](tel:+18032583162) | SC. Springfield | 2025-07-25 03:25 PM | — | |
-| [\+1 (803) 477-3561](tel:+18034773561) | SC. Columbia | 2025-07-25 12:52 PM | SC | MARCUS TREMAYNE BENJAMIN | |
+| [\+1 (803) 477-3561](tel:+18034773561) | SC. Columbia | 2025-07-25 12:52 PM | MARCUS TREMAYNE BENJAMIN | |
 | [\+1 (803) 989-7248](tel:+18039897248) | SC. Aiken | 2025-07-24 12:43 PM | — | |
 | [\+1 (803) 743-4880](tel:+18037434880) | SC. Columbia | 2025-07-24 11:53 AM | — | |
 | [\+1 (803) 559-2656](tel:+18035592656) | SC. Wagener | 2025-07-24 11:43 AM | — | |
