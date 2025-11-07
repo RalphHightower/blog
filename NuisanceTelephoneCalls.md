@@ -19,6 +19,9 @@ The telephone numbers below have called and there is an empty person on the othe
 
 | Telephone Number | Location | Date Time[^11] | Caller | Social Media |
 |---|---|---|---|---|
+| [\+1 (803) 854-3849](tel:+18038543849) | SC. Santee | 2025-11-06 06:54 PM | Daisy Riggins | |
+| [\+1 (803) 249-1263](tel:+18032491263) | SC. Acolu | 2025-11-06 03:01 PM | — | |
+| [\+1 (803) 676-4208](tel:+18036764208) | SC. Bamberg | 2025-11-06 11:45 AM | MARIO G PEREZ | |
 | [\+1 (803) 987-9102](tel:+18039879102) | SC. Orangeburg | 2025-11-05 01:25 PM | City of Orangeburg | |
 | [\+1 (803) 709-7491](tel:+18037097491) | SC. Barnwell | 2025-11-05 01:11 PM | — | |
 | [\+1 (283) 444-1229](tel:+12834441229) | OH. Bethel | 2025-11-05 10:48 AM ¤¤ | #TaxFraud | |
@@ -32,7 +35,15 @@ The telephone numbers below have called and there is an empty person on the othe
 | [\+1 (803) 838-0979](tel:+18038380979) | SC. Ridge Spring | 2025-11-04 12:00 PM | — | |
 | [\+1 (803) 879-9701](tel:+18038799701) | SC. Clover | 2025-11-04 10:18 AM | — | |
 | [\+1 (803) 392-6575](tel:+18033926575) | SC. North Augusta | 2025-11-04 09:56 AM | — | |
-| [\+1 (803) 938-5458](tel:+18039385458) | SC. Sumter | 2025-11-01 10:54 AM | Linda Plowden | |
+| [\+1 (803) 639-5818](tel:+18036395818) | SC. York | 2025-11-03 05:24 PM | — | |
+| [\+1 (803) 636-2128](tel:+18036362128) | SC. Columbia | 2025-11-03 04:22 PM ¤¤ | — | |
+| [\+1 (803) 216-6291](tel:+18032166291) | SC. Columbia | 2025-11-03 03:19 PM | CAROLINA CARE P | |
+| [\+1 (803) 426-5652](tel:+18034265652) | SC. North Augusta | 2025-11-03 03:02 PM | — | |
+| [\+1 (803) 719-4232](tel:+18037194232) | SC. Columbia | 2025-11-03 11:52 AM ¤¤ | — | |
+| [\+1 (803) 719-4232](tel:+18037194232) | SC. Columbia | 2025-11-03 11:51 AM | — | |
+| [\+1 (803) 443-7630](tel:+18034437630) | SC. New Ellington | 2025-11-03 10:27 | — | |
+| [\+1 (803) 567-8071](tel:+18035678071) | SC. Columbia | 2025-11-03 09:51 | — | |
+| [\+1 (803) 938-5458](tel:+18039385458) | SC. Sumter | 2025-11-01 10:54 AM | DIANN FORTUNE (Linda Plowden/Wendell Moses) | |
 | [\+1 (803) 369-3524](tel:+18033693524) | SC. Columbia | 2025-10-31 03:24 PM ¤¤ | — | |
 | [\+1 (803) 369-3524](tel:+18033693524) | SC. Columbia | 2025-10-31 03:23 PM | — | |
 | [\+1 (803) 454-8620](tel:+18034548620) | SC. Columbia | 2025-10-31 02:00 PM ¤¤ | — | |
@@ -52,7 +63,7 @@ The telephone numbers below have called and there is an empty person on the othe
 | [\+1 (803) 806-1073](tel:+18038061073) | SC. Columbia | 2025-10-28 01:56 PM | — | |
 | [\+1 (803) 981-9366](tel:+18039819366) | SC. Rock Hill | 2025-10-28 01:29 PM | Gail Davis | |
 | [\+1 (803) 886-9895](tel:+18038869895) | SC. Salley | 2025-10-28 01:20 PM | — | |
-| [\+1 (803) 377-8667](tel:+18033778667) | SC. Chester | 2025-10-28 01:08 PM | | BILLY MCCAMERON |
+| [\+1 (803) 377-8667](tel:+18033778667) | SC. Chester | 2025-10-28 01:08 PM | BILLY MCCAMERON |
 | [\+1 (803) 883-4989](tel:+18038834989) | SC. Sumter | 2025-10-28 10:24 AM | Diana Lane | |
 | [\+1 (803) 251-0072](tel:+18032510072) | SC. Columbia | 2025-10-27 01:38 PM | — | |
 | [\+1 (803) 390-0375](tel:+18033900375) | SC. Sumter | 2025-10-27 12:51 PM | JUDI S POTOFF | |
