@@ -8,6 +8,7 @@ layout: base
   {%- endif -%}
   {%- assign date_format = site.minima.date_format | default: "%B %e, %Y %I:%M %p %Z, %a" -%}
   <span class="post-meta">{{ page.date | date: date_format }}</span>
+  {{ content | toc }}
   {{ content }}
 
 <h2>Related Posts</h2>
