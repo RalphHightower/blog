@@ -16,6 +16,8 @@ Today's "Word of the Day" comes, not from [Merriam-Webster](https://www.merriam-
 
 ## [Trump makes an overdue discovery: ‘They have this new word called 'affordability'](https://www.msnbc.com/rachel-maddow-show/maddowblog/trump-makes-overdue-discovery-new-word-called-affordability-rcna242345)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/06fK4X-8apw?si=YzdadUU92csEkPjs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 *After [Democrats](https://www.democrats.org/) scored election victories, the [president](https://www.whitehouse.gov/) started talking about “affordability.” Unfortunately, his assessment is rooted in nonsense.*
 
 Nov. 6, 2025, 10:58 AM EST
