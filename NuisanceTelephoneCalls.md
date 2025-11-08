@@ -19,6 +19,10 @@ The telephone numbers below have called and there is an empty person on the othe
 
 | Telephone Number | Location | Date Time[^11] | Caller | Social Media |
 |---|---|---|---|---|
+| [\+1 (803) 614-7517](tel:+18036147517) | SC. Orangeburg | 2025-11-07 02:45 PM | — | |
+| [\+1 (803) 399-8716](tel:+18033998716) | SC. Lexington | 2025-11-07 12:56 PM | Thelma Gonzalez (SENN ANTIONE) | |
+| [\+1 (803) 659-3693](tel:+18036593693) | SC. Rock Hill | 2025-11-07 11:12 AM | — | |
+| [\+1 (803) 658-6185](tel:+18036586185) | SC. Hickory Grove | 2025-11-07 09:27 AM | — | |
 | [\+1 (803) 854-3849](tel:+18038543849) | SC. Santee | 2025-11-06 06:54 PM | Daisy Riggins | |
 | [\+1 (803) 249-1263](tel:+18032491263) | SC. Acolu | 2025-11-06 03:01 PM | — | |
 | [\+1 (803) 676-4208](tel:+18036764208) | SC. Bamberg | 2025-11-06 11:45 AM | MARIO G PEREZ | |
