@@ -19,6 +19,7 @@ The telephone numbers below have called and there is an empty person on the othe
 
 | Telephone Number | Location | Date Time[^11] | Caller | Social Media |
 |---|---|---|---|---|
+| [\+1 (803) 561-9106](tel:+18035619106) | SC. Columbia | 2025-11-08 11:46 AM | Irena Zeeff (ZEEFF ANNEKE) | |
 | [\+1 (803) 614-7517](tel:+18036147517) | SC. Orangeburg | 2025-11-07 02:45 PM | — | |
 | [\+1 (803) 399-8716](tel:+18033998716) | SC. Lexington | 2025-11-07 12:56 PM | Thelma Gonzalez (SENN ANTIONE) | |
 | [\+1 (803) 659-3693](tel:+18036593693) | SC. Rock Hill | 2025-11-07 11:12 AM | — | |
