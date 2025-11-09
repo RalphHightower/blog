@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [media, Associated Press News (AP) - Breaking News Latest Headlines and Videos / AP News, MSNBC News - Breaking News and News Today / Latest News, TIME / Current & Breaking News / National & World Updates, organizations, political parties, Democrat Party, Trumpian Party, universities, companies, Parente Christopher V. / Cheronis & Parente LLC, foreign governments, state local governments, Chicago, Trump’s perceived enemies, federal government, US Courts, United States District Court for the Northern District of Illinois, Alexakis Georgia Nick / Federal Judicial Center, Judge Sara Ellis, Customs and Border Protection (CBP), Department of Homeland Security (DHS), Congress, Senate, Chris Murphy (D-CT), President of the United States (POTUS), White House (WH), Trump autocracy, Donald J Trump, President Donald Trump (45), President Donald Trump (47), President Trump (47) Administration, President Trump (47) Cabinet, press secretary, Karoline Leavitt, Kristi Noem / Homeland Security, Rodney S. Scott Commissioner / U.S. Customs and Border Protection, grifter, self-dealing, corruption, con artist, crime, cryptocurrency, criminal associates, criminal businesses, criminal media, criminal organizations, criminal partners]
+tags: [media, Associated Press News (AP) - Breaking News Latest Headlines and Videos / AP News, MSNBC News - Breaking News and News Today / Latest News, TIME / Current & Breaking News / National & World Updates, organizations, political parties, Democrat Party, Trumpian Party, universities, companies, Chevrolet Cars Trucks SUVs Crossovers and Vans, The Chevy Tahoe –  Full-Size SUV / Chevrolet, Parente Christopher V. / Cheronis & Parente LLC, foreign governments, state local governments, Chicago, Trump’s perceived enemies, federal government, US Courts, United States District Court for the Northern District of Illinois, Alexakis Georgia Nick / Federal Judicial Center, Judge Sara Ellis, Customs and Border Protection (CBP), Department of Homeland Security (DHS), Congress, Senate, Chris Murphy (D-CT), President of the United States (POTUS), White House (WH), Trump autocracy, Donald J Trump, President Donald Trump (45), President Donald Trump (47), President Trump (47) Administration, President Trump (47) Cabinet, press secretary, Karoline Leavitt, Kristi Noem / Homeland Security, Rodney S. Scott Commissioner / U.S. Customs and Border Protection, grifter, self-dealing, corruption, con artist, crime, cryptocurrency, criminal associates, criminal businesses, criminal media, criminal organizations, criminal partners]
 categories: [Donald Trump, Department of Homeland Security (DHS), Kristi Noem, Customs and Border Patrol (CBP), Rodney S Scott, excessive deadly force, weaponization]
 date: 2025-11-07 22:52
 excerpt: ''
@@ -69,7 +69,9 @@ On Thursday, [U.S. District](https://www.ilnd.uscourts.gov/) [Judge Sara Ellis](
 - [Trumpian Party](https://www.gop.com/)
 - universities
 - companies
-[Parente, Christopher V. / Cheronis & Parente LLC](https://www.cheronislaw.com/attorney/parente-christopher-v/)
+- [Chevrolet Cars, Trucks, SUVs, Crossovers and Vans](https://www.chevrolet.com/)
+- [The Chevy Tahoe: Full-Size SUV / Chevrolet](https://www.chevrolet.com/suvs/tahoe)
+- [Parente, Christopher V. / Cheronis & Parente LLC](https://www.cheronislaw.com/attorney/parente-christopher-v/)
 - foreign governments
 - state, local governments 
 [Chicago](https://www.chicago.gov/)
