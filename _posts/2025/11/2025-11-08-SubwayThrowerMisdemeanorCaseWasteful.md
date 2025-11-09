@@ -1,13 +1,13 @@
 ---
 layout: post
-tags: []
-categories: []
+tags: [media, MSNBC News - Breaking News and News Today / Latest News, Barbara McQuade, CBS News / Breaking news top stories & today’s latest headlines, HuffPost - Breaking News Politics Entertainment & Opinion, The New York Times (NYT) - Breaking News US News World News and Videos, Home / Subway®, The Washington Post - Breaking news and latest headlines U.S. news world news and video - The Washington Post, Customs and Border Protection (CBP), U.S. Attorney Jeanine Pirro, District Judge Carl J. Nichols / District of Columbia / United States District Court, political parties, Democrat Party, Trumpian Party, companies, Home / Subway®, state local governments, Washington DC, federal government, Constitution of the United States, Supreme Court of the United States (SCOTUS), US Courts, District of Columbia / United States District Court, District Judge Carl J. Nichols / District of Columbia / United States District Court, Department of Justice (DOJ), Department of Defense (DOD), Air Force, President of the United States (POTUS), White House (WH), Trump autocracy, Donald J Trump, President Donald Trump (45), President Donald Trump (47), President Trump (47) Administration, President Trump (47) Cabinet, press secretary, Karoline Leavitt, Pam Bondi – Office of the Attorney General / Meet the Attorney General / United States Department of Justice, Todd Blanche – Office of the Deputy Attorney General / Office of the Deputy Attorney General, Todd Blanche / LinkedIn, Jeanine Pirro – District of Columbia / Meet the U.S. Attorney / United States Department of Justice, Lindsey Halligan, Director Kash Patel — FBI, Deputy Director Dan Bongino — FBI, grifter, self-dealing, corruption, con artist, crime, cryptocurrency, criminal associates, criminal businesses, criminal media, criminal organizations, criminal partners]
+categories: [Jeanine Pirro, Department of Justice (DOJ), Customs and Border Protection (CBP), US Courts, Subway, Sean Dunn, weaponization,  misdemeanor, not guilty]
 date: 2025-11-08 21:00
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: 'title'
+title: "Misdemeanor Jury Trial of DC Subway Sandwich Thrower Was Wasteful Use of Resources"
 ---
 
 ## [Jeanine Pirro’s case against the D.C. sandwich-thrower was downright lawless](https://www.msnbc.com/opinion/msnbc-opinion/jeanine-pirros-case-dc-sandwich-thrower-was-downright-lawless-rcna242612)
@@ -23,7 +23,7 @@ That’s why [Washington, D.C.](https://dc.gov/), [U.S. Attorney Jeanine Pirro](
 
 [Pirro](https://www.justice.gov/usao-dc/staff-profile/meet-us-attorney) should have known better than to file assault charges.
 
-A jury indicated its agreement Thursday when it returned a [not-guilty verdict](https://www.washingtonpost.com/dc-md-va/2025/11/06/dc-sandwich-guy-trial-trump-federal-takeover/) against 37-year-old Air Force veteran Sean Dunn, who admitted he threw a [Subway](https://www.subway.com/) sandwich at a [Customs and Border Protection](https://www.cbp.gov/) agent. Dunn claimed it was [an act of protest](https://www.nytimes.com/2025/11/06/us/politics/trump-sandwich-guy-verdict.html) against [President](https://www.whitehouse.gov/) [Donald Trump](https://www.donaldjtrump.com/) for declaring an emergency and surging federal law enforcement agents into [Washington, D.C.](https://dc.gov/)
+A jury indicated its agreement Thursday when it returned a [not-guilty verdict](https://www.washingtonpost.com/dc-md-va/2025/11/06/dc-sandwich-guy-trial-trump-federal-takeover/) against 37-year-old [Air Force](https://www.af.mil/) veteran Sean Dunn, who admitted he threw a [Subway](https://www.subway.com/) sandwich at a [Customs and Border Protection](https://www.cbp.gov/) agent. Dunn claimed it was [an act of protest](https://www.nytimes.com/2025/11/06/us/politics/trump-sandwich-guy-verdict.html) against [President](https://www.whitehouse.gov/) [Donald Trump](https://www.donaldjtrump.com/) for declaring an emergency and surging federal law enforcement agents into [Washington, D.C.](https://dc.gov/)
 
 [Pirro](https://www.justice.gov/usao-dc/staff-profile/meet-us-attorney) should have known better than to file assault charges because the facts didn’t satisfy the elements of the offense. To prove an assault under the [federal statute](https://www.law.cornell.edu/uscode/text/18/111), the prosecution must establish not just that Dunn threw the sandwich at the agent, but that the act constituted a “forcible assault.”
 
@@ -49,18 +49,23 @@ Meanwhile, we will probably never know which case went uncharged, just so that t
 
 Barbara McQuade is an [MSNBC](https://www.msnbc.com/) columnist and NBC News and [MSNBC](https://www.msnbc.com/) legal analyst. She is the author of "Attack from Within: How Disinformation is Sabotaging America," as well as a professor at the University of Michigan Law School and a former U.S. attorney for the Eastern District of Michigan.
 
-
-
 ----
 - media
-- organizations
+- [MSNBC News - Breaking News and News Today / Latest News](https://www.msnbc.com/)
+    - Barbara McQuade
+- [CBS News / Breaking news, top stories & today's latest headlines](https://www.cbsnews.com/)
+- [HuffPost - Breaking News, Politics, Entertainment & Opinion](https://www.huffpost.com/)
+- [The New York Times (NYT) - Breaking News, US News, World News and Videos](https://www.nytimes.com/)
+[Home / Subway®](https://www.subway.com/en-us)
+- [The Washington Post - Breaking news and latest headlines, U.S. news, world news, and video - The Washington Post](https://www.washingtonpost.com/)
+[Customs and Border Protection (CBP)](https://www.cbp.gov/)
+[U.S. Attorney Jeanine Pirro](https://www.justice.gov/usao-dc/staff-profile/meet-us-attorney)
+[District Judge Carl J. Nichols / District of Columbia / United States District Court](https://www.dcd.uscourts.gov/content/district-judge-carl-j-nichols)
 - political parties
 - [Democrat Party](https://www.democrats.org/)
 - [Trumpian Party](https://www.gop.com/)
-- universities
 - companies
 - [Home / Subway®](https://www.subway.com/en-us)
-- foreign governments
 - state, local governments 
 - [Washington, DC](https://dc.gov/)
 - federal government
@@ -70,6 +75,8 @@ Barbara McQuade is an [MSNBC](https://www.msnbc.com/) columnist and NBC News and
         - [District of Columbia / United States District Court](https://www.dcd.uscourts.gov/)
             - [District Judge Carl J. Nichols / District of Columbia / United States District Court](https://www.dcd.uscourts.gov/content/district-judge-carl-j-nichols)
         - [Department of Justice (DOJ)](https://www.justice.gov/)
+    - [Department of Defense (DOD)](https://www.defense.gov/)
+        - [Air Force](https://www.af.mil/)
      - [President of the United States (POTUS)](https://www.whitehouse.gov/)
     - [White House (WH)](https://www.whitehouse.gov/)
 - Trump autocracy
