@@ -30,10 +30,13 @@ title: "🛫Trump: Air Force One Frequent Flyer Miles🚁"
 | 7:00 PM 🔥💸 | In-Town Pool Call Time<br />The [White House](https://www.whitehouse.gov/) In-Town Pool |
 | 7:45 PM 🔥💸 | The [President](https://www.donaldjtrump.com/) arrives The [White House](https://www.whitehouse.gov/)<br />The [White House](https://www.whitehouse.gov/) Open Press |
 | | **Saturday, November 8 2025** |
-| 🔥💸⛳️🏌‍♂️| The [President](https://www.donaldjtrump.com/) ~~has no public events scheduled~~ (other than playing golf ⛳️🔥💸🏌)<br />[Mar-a-Lago](https://www.maralagoclub.com/) Out-of-Town Travel Pool |
-| 7:00 AM 🔥💸 | Out-of-Town Travel Pool Call Time<br />[Mar-a-Lago](https://www.maralagoclub.com/) Out-of-Town Travel Pool |
-| -:-- AM 🔥💸 ⛳️🏌‍♂️| [Donnie](https://www.donaldjtrump.com) plays golf at his [Trump International Golf Club West Palm Beach](https://www.trumpinternationalpalmbeaches.com/) |
-| -:--PM 🔥💸 | [Donnie](https://www.donaldjtrump.com/) returns to [Mar-a-Lago](https://www.maralagoclub.com/) |
+| | The [President](https://www.donaldjtrump.com/) has no public events scheduled<br />[Mar-a-Lago](https://www.maralagoclub.com/) Out-of-Town Travel Pool |
+| 7:00 AM 🔥💸 | Out-of-Town Travel Pool Call Time<br />[Mar-a-Lago](https://www.maralagoclub.com/)Out-of-Town Travel Pool |
+| 8:35 AM 🔥💸 ⛳️🏌‍♂️| The [President](https://www.donaldjtrump.com/) departs [Mar-a-Lago](https://www.maralagoclub.com/) for his golf club<br />[Mar-a-Lago](https://www.maralagoclub.com/) |
+| 8:44 AM 🔥💸 ⛳️🏌‍♂️| The [President](https://www.donaldjtrump.com/) arrives at [Trump International Golf Club West Palm Beach](https://www.trumpinternationalpalmbeaches.com/)<br />[Trump International Golf Club West Palm Beach](https://www.trumpinternationalpalmbeaches.com/) |
+| 3:17 PM 🔥💸 🏌‍♂️⛳️| The [President](https://www.donaldjtrump.com/) departs [Trump International Golf Club West Palm Beach](https://www.trumpinternationalpalmbeaches.com/) for [Mar-a-Lago](https://www.maralagoclub.com/)<br />[Trump International Golf Club West Palm Beach](https://www.trumpinternationalpalmbeaches.com/) |
+| 3:26 PM 🔥💸 | The [President](https://www.donaldjtrump.com/) arrives at [Mar-a-Lago](https://www.maralagoclub.com/)<br />[Mar-a-Lago](https://www.maralagoclub.com/) |
+| 3:31 PM 🔥💸 | White House Press Office: Full lid called<br />[Mar-a-Lago](https://www.maralagoclub.com/) |
 | | **Friday, November 7 2025** |
 | 9:00 AM 🔥💸 | In-Town Pool Call Time<br />The [White House](https://www.whitehouse.gov/) |
 | 9:30 AM 🔥💸 | Kevin Hassett briefs reporters at The Sticks [Note: time is approximate]</>The Sticks - The [White House](https://www.whitehouse.gov/)
@@ -53,7 +56,7 @@ title: "🛫Trump: Air Force One Frequent Flyer Miles🚁"
 | 8:00 AM 🔥💸 | In-Town Pool Call Time<br />The [White House](https://www.whitehouse.gov/) |
 | 8:30 AM 🔥💸 | The [President](https://www.donaldjtrump.com/) delivers remarks at Breakfast with [Republican](https://www.gop.com/) [Senators](https://www.senate.gov/) [8:23 AM Actual]<br />[State Dining Room](https://www.whitehouse.gov/) [White House](https://www.whitehouse.gov/) Press Pool |
 | 8:40 AM 🔥💸 | Out-of-Town Pool Call Time<br />[Joint Base Andrews (ADW)](https://www.jba.af.mil/) Out-of-Town Pool |
-| 9:35 AM 🔥💸 | The [President](https://www.donaldjtrump.com/) departs The [White House](https://www.whitehouse.gov/) en route [Miami](https://www.miami.gov/), Florida [Actual: 10:14 AM to [Joint Base Andrews (ADW)](https://www.jba.af.mil/)]<br />[South Lawn](https://www.whitehouse.gov/) Open Press |
+| 9:35 AM 🔥💸 | The [President](https://www.donaldjtrump.com/) departs The [White House](https://www.whitehouse.gov/) en route [Miami](https://www.miami.gov/), [Florida](https;//www.myflorida.gov/) [Actual: 10:14 AM to [Joint Base Andrews (ADW)](https://www.jba.af.mil/)]<br />[South Lawn](https://www.whitehouse.gov/) Open Press |
 | 10:22 AM 🔥💸 | The [President](https://www.donaldjtrump.com/) arrives at [Joint Base Andrews (ADW)](https://www.jba.af.mil/)<br />[Joint Base Andrews (ADW)](https://www.jba.af.mil/) Open Press |
 | 10:35 AM 🔥💸 | The [President](https://www.donaldjtrump.com/) departs [Joint Base Andrews (ADW)](https://www.jba.af.mil/) for [Miami](https://www.miami.gov/)<br />[Joint Base Andrews (ADW)](https://www.jba.af.mil/) Open Press |
 | 12:00 PM 🔥💸 | The [President](https://www.donaldjtrump.com/) arrives [Miami](https://www.miami.gov/), [Florida](https://www.myflorida.gov/) [12:25 PM Actual]<br />[Miami International Airport (MIA)](https://miami-airport.com/) Pre-Credentialed Media |
@@ -741,7 +744,7 @@ title: "🛫Trump: Air Force One Frequent Flyer Miles🚁"
 | | **Saturday, July 12 2025** |
 | ⛳️| [Donnie](https://www.donaldjtrump.com/) ~~has no public events scheduled~~plays golf🏌‍♂️<br />[Trump National Golf Club Bedminster](https://www.trumpnationalbedminster.com/) Out-of-Town Travel Pool |
 | 11:00 AM ⛳️| Out-of-Town Travel Pool Call Time<br />[Trump National Golf Club Bedminster](https://www.trumpnationalbedminster.com/) Out-of-Town Travel Pool |
-| | **Friday, July 11 2025** |
+| | **Friday, July 11 2025** |M
 | 8:00 AM | In-Town Pool Call Time<br />The [White House](https://www.whitehouse.gov/) In-Town Pool |
 | 8:25 AM | Out-of-Town Travel Pool Call Time<br />[Joint Base Andrews (ADW)](https://www.jba.af.mil/) Out-of-Town Travel Pool |
 | 8:48 AM | Russell Vought briefs reporters at The Sticks<br />The Sticks - The [White House](https://www.whitehouse.gov/) |
