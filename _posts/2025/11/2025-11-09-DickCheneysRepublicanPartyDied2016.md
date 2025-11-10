@@ -10,7 +10,7 @@ excerpt: ''
 title: "Dick Cheney's Republican Party Died 2016"
 ---
 
-- [Federal: 2020 Election Interference, January 6 Insurrection ⛓️‍💥]({% link January6DocumentDocumentLinks %})
+- [Federal: 2020 Election Interference, January 6 Insurrection ⛓️‍💥]({% link January6DocumentDocumentLinks.md %})
 
 ## [Dick Cheney funeral will serve as a litmus test for Trump loyalists](https://www.msnbc.com/opinion/msnbc-opinion/dick-cheney-funeral-litmus-test-trump-loyal-rcna242265)
 
@@ -61,7 +61,7 @@ Susan Del Percio is a [Republican](https://www.gop.com/) strategist and a politi
 - [POLITICO - Politics, Policy, Political News](https://www.politico.com/)
 - [The Hill - covering Congress, Politics, Political Campaigns and Capitol Hill](https://thehill.com/)
 - [USA TODAY - Breaking News and Latest News Today](https://www.usatoday.com/)
-- [Federal: 2020 Election Interference, January 6 Insurrection ⛓️‍💥]({% link January6DocumentDocumentLinks %}). @RalphHightower
+- [Federal: 2020 Election Interference, January 6 Insurrection ⛓️‍💥]({% link January6DocumentDocumentLinks.md %}). @RalphHightower
 - political parties
 - [Democrat Party](https://www.democrats.org/)
 - [Trumpian Party](https://www.gop.com/)
