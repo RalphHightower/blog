@@ -23,20 +23,30 @@ title: "🛫Trump: Air Force One Frequent Flyer Miles🚁"
 | | 🔥 [White House](https://www.whitehouse.gov/) 💣|
 | | **Sunday, November 9 2025** |
 | 7:00 AM 🔥💸 | Out-of-Town Travel Pool Call Time<br />[Mar-a-Lago](https://www.maralagoclub.com/) Out-of-Town Travel Pool |
-| -:-- AM 🔥💸 ⛳️🏌‍♂️| [Donnie](https://www.donaldjtrump.com) plays golf at his [Trump International Golf Club West Palm Beach](https://www.trumpinternationalpalmbeaches.com/) |
-| -:-- PM 🔥💸 | [Donnie](https://www.donaldjtrump.com/) leaves for the [NFL](https://www.nfl.com/) |
-| 2:45 PM 🔥💸 🏈| The [President](https://www.donaldjtrump.com/) departs [Palm Beach](https://discover.pbc.gov/), [Florida](https://www.myflorida.gov/), en route [Washington, D.C.](https://dc.gov/)</>[Mar-a-Lago](https://www.maralagoclub.com/) Out-of-Town Travel Pool |
-| 5:35 PM 🔥💸🏈 | The [President](https://www.donaldjtrump.com/) attends [The Commanders](https://www.commanders.com/) Football Game<br />[Northwest Stadium](https://northweststadium.com/), [Landover](https://www.princegeorgescountymd.gov/), [Maryland](https;//www.maryland.gov/) |
+| 8:47 AM 🔥💸 ⛳️🏌‍♂️| The [President](https://www.donaldjtrump.com/) departs [Mar-a-Lago](https://www.maralagoclub.com/) for his golf club<br />[Mar-a-Lago](https://www.maralagoclub.com/) |
+| 8:54 AM 🔥💸 ⛳️🏌‍♂️| The [President](https://www.donaldjtrump.com/) arrives at [Trump International Golf Club West Palm Beach](https://www.trumpinternationalpalmbeaches.com/)<br />[Trump International Golf Club West Palm Beach](https://www.trumpinternationalpalmbeaches.com/) |
+| 12:52 PM 🔥💸 ⛳️🏌‍♂️| The [President](https://www.donaldjtrump.com/) arrives at [Mar-a-Lago](https://www.maralagoclub.com/)<br />[Mar-a-Lago](https://www.maralagoclub.com/) |
+| 12:54 PM 🔥💸 ⛳️🏌‍♂️| The [President](https://www.donaldjtrump.com/) departs [Trump International Golf Club West Palm Beach](https://www.trumpinternationalpalmbeaches.com/) for [Mar-a-Lago](https://www.maralagoclub.com/)<br />[Trump International Golf Club West Palm Beach](https://www.trumpinternationalpalmbeaches.com/) |
+| 2:35 PM 🔥💸 ⛳️🏌‍♂️| The [President](https://www.donaldjtrump.com/) arrives at [Palm Beach International Airport (PBI)](https://www.pbia.org/)<br />[Palm Beach International Airport (PBI)](https://www.pbia.org/) |
+| 2:45 PM 🔥💸 ⛳️🏌‍♂️| The [President](https://www.donaldjtrump.com/) departs [Palm Beach](https://discover.pbc.gov/), [Florida](https://www.myflorida.gov/), en route [Washington, D.C.](https://dc.gov/) [Actual: 2:27 PM to [Palm Beach International Airport (PBI)](https://www.pbia.org/)<br />[Mar-a-Lago](https://www.maralagoclub.com/) Out-of-Town Travel Pool |
+| 2:53 PM 🔥💸 ⛳️🏌‍♂️| The [President](https://www.donaldjtrump.com/) departs [Palm Beach International Airport (PBI)](https://www.pbia.org/) for [Joint Base Andrews (ADW)](https://www.jba.af.mil/)<br />[Palm Beach International Airport (PBI)](https://www.pbia.org/) |
+| 4:40 PM 🔥💸 | The [President](https://www.donaldjtrump.com/) arrives at [Joint Base Andrews (ADW)](https://www.jba.af.mil/)<br />[Joint Base Andrews (ADW)](https://www.jba.af.mil/) |
+| 4:58 PM 🔥💸🏈 | The [President](https://www.donaldjtrump.com/) departs [Joint Base Andrews (ADW)](https://www.jba.af.mil/) for [Northwest Stadium](https://northweststadium.com/) in [Landover](https://www.princegeorgescountymd.gov/)<br />[Joint Base Andrews (ADW)](https://www.jba.af.mil/) |
+| 5:15 PM 🔥💸 🏈| The [President](https://www.donaldjtrump.com/) arrives at [Northwest Stadium](https://northweststadium.com/)<br /[Northwest Stadium](https://northweststadium.com/), [Landover](https://www.princegeorgescountymd.gov/), [Maryland](https;//www.maryland.gov/) |
+| 5:35 PM 🔥💸 🏈| The [President](https://www.donaldjtrump.com/) attends [The Commanders](https://www.commanders.com/)) Football Game<br /[Northwest Stadium](https://northweststadium.com/), [Landover](https://www.princegeorgescountymd.gov/), [Maryland](https;//www.maryland.gov/) |
+| 6:00 PM 🔥💸 🏈| The [President](https://www.donaldjtrump.com/) administers the oath to new servicemembers during halftime at a [Washington Commanders](https://www.commanders.com/) game<br />[Northwest Stadium](https://northweststadium.com/), [Landover](https://www.princegeorgescountymd.gov/), [Maryland](https;//www.maryland.gov/) |
+| 6:42 PM 🔥💸 🏈| The [President](https://www.donaldjtrump.com/) departs [Northwest Stadium](https://northweststadium.com/) for the [White House](https://www.whitehouse.gov/)<br />[Northwest Stadium](https://northweststadium.com/), [Landover](https://www.princegeorgescountymd.gov/), [Maryland](https;//www.maryland.gov/) |
 | 7:00 PM 🔥💸 | In-Town Pool Call Time<br />The [White House](https://www.whitehouse.gov/) In-Town Pool |
-| 7:45 PM 🔥💸 | The [President](https://www.donaldjtrump.com/) arrives The [White House](https://www.whitehouse.gov/)<br />The [White House](https://www.whitehouse.gov/) Open Press |
+| 7:10 PM 🔥💸 | [White House](https://www.whitehouse.gov/) Press Office: Full lid called<br />The [White House](https://www.whitehouse.gov/) |
+| 7:45 PM 🔥💸 | The [President](https://www.donaldjtrump.com/) arrives The [White House](https://www.whitehouse.gov/) [Actual: 6:53 PM]<br />The [White House](https://www.whitehouse.gov/) Open Press |
 | | **Saturday, November 8 2025** |
-| | The [President](https://www.donaldjtrump.com/) has no public events scheduled<br />[Mar-a-Lago](https://www.maralagoclub.com/) Out-of-Town Travel Pool |
+| | The [President](https://www.donaldjtrump.com/) ~~has no public events scheduled~~ (other than playing golf ⛳️🔥💸🏌)<br />[Mar-a-Lago](https://www.maralagoclub.com/) Out-of-Town Travel Pool |
 | 7:00 AM 🔥💸 | Out-of-Town Travel Pool Call Time<br />[Mar-a-Lago](https://www.maralagoclub.com/)Out-of-Town Travel Pool |
 | 8:35 AM 🔥💸 ⛳️🏌‍♂️| The [President](https://www.donaldjtrump.com/) departs [Mar-a-Lago](https://www.maralagoclub.com/) for his golf club<br />[Mar-a-Lago](https://www.maralagoclub.com/) |
 | 8:44 AM 🔥💸 ⛳️🏌‍♂️| The [President](https://www.donaldjtrump.com/) arrives at [Trump International Golf Club West Palm Beach](https://www.trumpinternationalpalmbeaches.com/)<br />[Trump International Golf Club West Palm Beach](https://www.trumpinternationalpalmbeaches.com/) |
 | 3:17 PM 🔥💸 🏌‍♂️⛳️| The [President](https://www.donaldjtrump.com/) departs [Trump International Golf Club West Palm Beach](https://www.trumpinternationalpalmbeaches.com/) for [Mar-a-Lago](https://www.maralagoclub.com/)<br />[Trump International Golf Club West Palm Beach](https://www.trumpinternationalpalmbeaches.com/) |
 | 3:26 PM 🔥💸 | The [President](https://www.donaldjtrump.com/) arrives at [Mar-a-Lago](https://www.maralagoclub.com/)<br />[Mar-a-Lago](https://www.maralagoclub.com/) |
-| 3:31 PM 🔥💸 | White House Press Office: Full lid called<br />[Mar-a-Lago](https://www.maralagoclub.com/) |
+| 3:31 PM 🔥💸 | [White House](https://www.whitehouse.gov/) Press Office: Full lid called<br />[Mar-a-Lago](https://www.maralagoclub.com/) |
 | | **Friday, November 7 2025** |
 | 9:00 AM 🔥💸 | In-Town Pool Call Time<br />The [White House](https://www.whitehouse.gov/) |
 | 9:30 AM 🔥💸 | Kevin Hassett briefs reporters at The Sticks [Note: time is approximate]</>The Sticks - The [White House](https://www.whitehouse.gov/)
