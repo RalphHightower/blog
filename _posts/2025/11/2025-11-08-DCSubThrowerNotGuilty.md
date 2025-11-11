@@ -30,14 +30,15 @@ According to the initial [complaint](https://storage.courtlistener.com/recap/gov
 
 Ahead of trial, Dunn’s defense lawyers called his prosecution “a blatant abuse of power.” They [argued that](https://storage.courtlistener.com/recap/gov.uscourts.dcd.284293/gov.uscourts.dcd.284293.20.1.pdf) the government “has chosen to bring a criminal case over conduct so minor it would be comical — were it not for the unmistakable retaliatory motive behind it and the resulting risk to Mr. Dunn.” They noted that he “tossed a sandwich at a fully armed, heavily protected [Customs and Border Protection](https://www.cbp.gov/)” officer, but they maintained that “that act alone would never have drawn a federal charge. What did was the political speech that accompanied it.”
 
-Subscribe to the [Deadline: Legal Newsletter](https://link.msnbc.com/join/5ck/msnbc-deadlinelegal-signup-inline) for expert analysis on the top legal stories of the week, including updates from the Supreme Court and developments in the [Trump](https://www.donaldjtrump.com/) administration’s legal cases.
+Subscribe to the [Deadline: Legal Newsletter](https://link.msnbc.com/join/5ck/msnbc-deadlinelegal-signup-inline) for expert analysis on the top legal stories of the week, including updates from the [Supreme Court](https://www.supremecourt.gov/) and developments in the [Trump](https://www.donaldjtrump.com/) [administration](https://www.whitehouse.gov/administration/)’s legal cases.
 
-Jordan Rubin is the Deadline: Legal Blog writer. He was a prosecutor for the New York County District Attorney’s Office in Manhattan and is the author of “Bizarro," a book about the secret war on synthetic drugs. Before he joined MSNBC, he was a legal reporter for Bloomberg Law.
-
+[Jordan Rubin](https://www.msnbc.com/author/jordan-rubin-ncpn1301611) is the [Deadline: Legal Blog](https://www.msnbc.com/deadline-white-house) writer. He was a prosecutor for the [New York County District Attorney’s Office](https://manhattanda.org/) in [Manhattan](https://manhattanda.org/) and is the author of “Bizarro," a book about the secret war on synthetic drugs. Before he joined [MSNBC](https://www.msnbc.com/), he was a legal reporter for [Bloomberg Law](https://pro.bloomberglaw.com/).
 
 ----
 - media
 - [MSNBC News - Breaking News and News Today / Latest News](https://link.msnbc.com/)
+    - [Deadline: Legal Blog](https://www.msnbc.com/deadline-white-house)
+        - Jordan Rubin
 - [Associated Press News (AP) - Breaking News, Latest Headlines and Videos / AP News](https://apnews.com/)
 - [Non-Profit Free Legal Search Engine and Alert System – CourtListener.com](https://storage.courtlistener.com/)
 - organizations
