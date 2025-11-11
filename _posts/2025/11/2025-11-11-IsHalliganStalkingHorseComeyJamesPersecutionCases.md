@@ -7,7 +7,7 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: 'title'
+title: "Motions to Dismiss by James Comey’s and Letitia James' Attorneys Each Say That Persecuting Attorney, Lindsey Halligan Is a ‘Stalking Horse’"
 ---
 
 - ['Prosecute' vs. 'Persecute' – Merriam-Webster](https://www.merriam-webster.com/grammar/prosecuted-vs-persecuted-usage)

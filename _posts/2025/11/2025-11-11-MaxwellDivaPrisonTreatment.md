@@ -7,7 +7,7 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: 'title'
+title: "Jeffrey Epstein Conspirator, Ghislaine Maxwell, Gets the “Diva” Treatment at Club Fed"
 ---
 
 > From: Ghislaine Maxwell<br /><br />To: (Maxwell's relative)<br /><br />Date: 08/08/2025 8:08 a.m.<br /><br />Bryan is a different beast in every possible respect to Tal. It is a well managed well run institution with an execellent Warden who leads from the top. She is a true professional and the best representative of the BOP I have met. The food is legions better, the place is clean, the staff responsive and polite - I haven't seen or heard the usual foul language or screaming accompanied by threats leveled at inmates by anyone. I have not seen a single fight, drug deal, passed out person or naked inmate running around or several of them congregating in a shower! In other words I feel like I have dropped through Alice in Wonderlands looking glass. I am much much happier here and more importantly safe. So yes everyone can breath a sigh.
