@@ -19,6 +19,13 @@ The telephone numbers below have called and there is an empty person on the othe
 
 | Telephone Number | Location | Date Time[^11] | Caller | Social Media |
 |---|---|---|---|---|
+| [\+1 (803) 666-6237](tel:+18036666237) | SC. Dalzell | 2025-11-10 05:48 PM | — | |
+| [\+1 (803) 703-9418](tel:+18037039418) | SC. Denmark | 2025-11-10 05:41 PM | | |
+| [\+1 (803) 757-7575](tel:+18037577575) | SC. Sumter | 2025-11-10 05:29 PM | JASON KANG | |
+| [\+1 (803) 228-4397](tel:+18032284397) | SC. Fort Mill | 2025-11-10 02:58 PM | SHEBA S JOHNSON | |
+| [\+1 (803) 349-9347](tel:+18033499347) | SC. Beech Island | 2025-11-10 02:47 PM | — | |
+| [\+1 (803) 274-8600](tel:+18032748600) | SC. Branchville | 2025-11-10 01:23 PM | Richard & Louella Rickenbacker | |
+| [\+1 (803) 717-8951](tel:+18037178951) | SC. Sumter | 2025-11-10 10:43 AM | SHAWAFBHTS, SC | |
 | [\+1 (803) 561-9106](tel:+18035619106) | SC. Columbia | 2025-11-08 11:46 AM | Irena Zeeff (ZEEFF ANNEKE) | |
 | [\+1 (803) 614-7517](tel:+18036147517) | SC. Orangeburg | 2025-11-07 02:45 PM | — | |
 | [\+1 (803) 399-8716](tel:+18033998716) | SC. Lexington | 2025-11-07 12:56 PM | Thelma Gonzalez (SENN ANTIONE) | |
