@@ -19,6 +19,13 @@ The telephone numbers below have called and there is an empty person on the othe
 
 | Telephone Number | Location | Date Time[^11] | Caller | Social Media |
 |---|---|---|---|---|
+| [\+1 (803) 666-2983](tel:+18036662983) | SC. Dalzell | 2025-11-11 04:45 PM | CHRISTOPHER M WILLIAMS | |
+| [\+1 (803) 929-1373](tel:+18039291373) | SC. Columbia | 2025-11-11 03:44 PM ¤¤ | VULCAN MATERIAL | |
+| [\+1 (803) 929-1373](tel:+18039291373) | SC. Columbia | 2025-11-11 03:43 PM | VULCAN MATERIAL | |
+| [\+1 (803) 659-0728](tel:+18036590728) | SC. Rock Hill | 2025-11-11 02:25 PM | — | |
+| [\+1 (803) 358-7853](tel:+18033587853) | SC. Lexington | 2025-11-11 01:11 PM | — | |
+| [\+1 (803) 980-0566](tel:+18039800566) | SC. Rock Hill | 2025-11-11 10:29 AM | ALAN J GROSS | |
+| [\+1 (803) 610-0485](tel:+18036100485) | SC. Clover | 2025-11-11 09:56 AM | Lacey E | |
 | [\+1 (803) 666-6237](tel:+18036666237) | SC. Dalzell | 2025-11-10 05:48 PM | — | |
 | [\+1 (803) 703-9418](tel:+18037039418) | SC. Denmark | 2025-11-10 05:41 PM | | |
 | [\+1 (803) 757-7575](tel:+18037577575) | SC. Sumter | 2025-11-10 05:29 PM | JASON KANG | |
