@@ -1,11 +1,12 @@
 ---
 layout: base_toc
+title: Reason for Starting a Blog
 toc: true
 ---
 
-# Reason for Starting a Blog[^110]
+I am one of the *“enemies within”*.
 
-[^110]: I am one of the *“enemy within”*.
+[^110]: A tagline that [Donnie Trump](https://www.donaldjtrump.com/) gave to [Senator](https://www.senate.gov/) [Adam Schiff (D-CA)](https://www.schiff.senate.gov/) during an hour long with [NBC News](https://www.nbcnews.com/) [Meet the Press](https://www.nbcnews.com/meet-the-press) with host [Kristen Welker](https://www.nbcnews.com/author/kristen-welker-ncpn6396).
 
 “If you clung to the truth even against the whole world, you were not mad.”[^115]
 

@@ -7,21 +7,26 @@
 
     {%- include header.html -%}
 
-    <main class="page-content" aria-label="Content">
-      <div class="wrapper">
-      
-        <div>
-          <div id="table-of-contents">
-            <strong>[ Table of Contents ]</strong>
-            {{ content | toc_only }}
-          </div>
-          <div id="markdown-content">
-            {{ content | inject_anchors }}
-          </div>
+<main class="page-content" aria-label="Content">
+  <div class="wrapper">
+    <article class="post">
 
-        {{ content }}
+      <header class="post-header">
+        <h1 class="post-title">{{ page.title | escape }}</h1>
+      </header>
+
+      <div>
+        <div id="table-of-contents">
+          {{ content | toc_only }}
+        </div>
+        <div id="markdown-content">
+          {{ content | inject_anchors }}
+        </div>
       </div>
-    </main>
+
+    </article>
+  </div>
+</main>
 
     {%- include footer.html -%}
 
