@@ -1,5 +1,5 @@
 ---
-layout: base
+layout: base_toc
 ---
 
 # Reason for Starting a Blog[^110]
