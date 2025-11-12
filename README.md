@@ -471,6 +471,7 @@ function setElementText(element, text) {
 |---|---|
 | ![GitHub Repositories By Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RalphHightower&theme=default) | ![GitHub Most Committed By Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RalphHightower&theme=default) |
 | ![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RalphHightower&theme=default) | ![GitHub Commits By Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RalphHightower&theme=default&utcOffset=-5) |
+
 <script>
 
 // Set your dates here (year, month (0-based), day, hour, minute)
