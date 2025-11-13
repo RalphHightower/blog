@@ -19,6 +19,11 @@ The telephone numbers below have called and there is an empty person on the othe
 
 | Telephone Number | Location | Date Time[^11] | Caller | Social Media |
 |---|---|---|---|---|
+| [\+1 (803) 941-1382](tel:+18039411382) | SC. Little Mountain | 2025-11-12 04:13 PM ¤¤ | Corelogic | |
+| [\+1 (803) 941-1382](tel:+18039411382) | SC. Little Mountain | 2025-11-12 04:12 PM | Corelogic | |
+| [\+1 (803) 964-1404](tel:+18039641404) | SC. Hampton | 2025-11-12 12:35 PM | — | |
+| [\+1 (803) 298-6428](tel:+18032986428) | SC. Little Mountain | 2025-11-12 12:02 PM | DOMINION ENERGY | |
+| [\+1 (803) 515-0785](tel:+18035150785) | SC. Orangeburg | 2025-11-12 10:42 AM | — | |
 | [\+1 (803) 666-2983](tel:+18036662983) | SC. Dalzell | 2025-11-11 04:45 PM | CHRISTOPHER M WILLIAMS | |
 | [\+1 (803) 929-1373](tel:+18039291373) | SC. Columbia | 2025-11-11 03:44 PM ¤¤ | VULCAN MATERIAL | |
 | [\+1 (803) 929-1373](tel:+18039291373) | SC. Columbia | 2025-11-11 03:43 PM | VULCAN MATERIAL | |
