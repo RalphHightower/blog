@@ -7,6 +7,7 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
+toc: true
 title: "☢️ Authors of Mass Destruction: Project 2025 ☢️"
 ---
 
@@ -226,4 +227,5 @@ Paul Winfree
 - [texas public policy foundation](https://www.texaspolicy.com/)
 - [Teneo Network](https://www.teneonetwork.com/)
 - [Turning Point USA](https://www.tpusa.com/)
+    - [Charlie Kirk](https://www.charliekirk.com/)
 - [Young Americas Foundation](https://www.yaf.org/)
