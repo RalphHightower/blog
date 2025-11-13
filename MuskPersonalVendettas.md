@@ -7,6 +7,7 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
+toc: true
 title: "Musk’s Personnel Vendettas: Federal/States Gov’t"
 ---
 
