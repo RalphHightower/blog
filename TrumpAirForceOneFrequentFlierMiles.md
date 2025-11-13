@@ -16,7 +16,6 @@ toc: true
 
 [^666]: @RalphHightower – [Federal Aviation Administration - Graphic TFRs](https://tfr.faa.gov/tfr3/?page=list)
 
-- **Sunday, November, 9
 🔥💸 = Government Shutdown 
 
 | Time | Location |
