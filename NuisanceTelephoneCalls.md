@@ -19,6 +19,7 @@ The telephone numbers below have called and there is an empty person on the othe
 
 | Telephone Number | Location | Date Time[^11] | Caller | Social Media |
 |---|---|---|---|---|
+| [\+1 (803) 340-0624](tel:+18033400624) | SC. Sumter | 2025-11-12 07:33 PM | Matthew Clause (Dell Tudor) | |
 | [\+1 (803) 941-1382](tel:+18039411382) | SC. Little Mountain | 2025-11-12 04:13 PM ¤¤ | Corelogic | |
 | [\+1 (803) 941-1382](tel:+18039411382) | SC. Little Mountain | 2025-11-12 04:12 PM | Corelogic | |
 | [\+1 (803) 964-1404](tel:+18039641404) | SC. Hampton | 2025-11-12 12:35 PM | — | |

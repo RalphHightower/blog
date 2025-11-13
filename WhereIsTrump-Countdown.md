@@ -7,9 +7,9 @@ date: 2025-05-31 7:58 PM
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
+toc: true
 title: "Where Is Trump? 🔥DC? FL⛳️⁉️"
 ---
-
 
 If it's the weekend, America's Golfer-in-Chief, [Trump](https://www.donaldjtrump.com/) is busy grifting America, playing golf at one of his golf courses. 
 

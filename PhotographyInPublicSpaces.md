@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Photography In Public Spaces – Your Rights"
 toc: true
+title: "Photography In Public Spaces – Your Rights"
 ---
 
 ## [If Stopped for Photographing in Public KNOW YOUR RIGHTS IF YOU ARE STOPPED FOR PHOTOGRAPHING IN PUBLIC / ACLU of DC](https://www.acludc.org/know-your-rights/if-stopped-photographing-public/)
