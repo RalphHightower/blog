@@ -19,6 +19,11 @@ The telephone numbers below have called and there is an empty person on the othe
 
 | Telephone Number | Location | Date Time[^11] | Caller | Social Media |
 |---|---|---|---|---|
+| [\+1 (803) 857-7026](tel:+18038577026) | SC. Santee | 2025-11-13 08:06 PM | — | |
+| [\+1 (803) 886-9072](tel:+18038869072) | SC. Salley | 2025-11-13 07:56 PM | — | |
+| [\+1 (803) 335-3453](tel:+18033353453) | SC. Aiken | 2025-11-13 02:52 PM | 》STEPHEN E TOOLE | |
+| [\+1 (803) 746-6037](tel:+18037466037) | SC. Clover | 2025-11-13 02:47 PM | Movement Mortgage (ALYSSA DOBY) | |
+| [\+1 (803) 515-9697](tel:+18035159697) | SC. Orangeburg | 2025-11-13 02:42 PM | — | || [\+1 (803) 340-0624](tel:+18033400624) | SC. Sumter | 2025-11-12 07:33 PM | Matthew Clause (Dell Tudor) | |
 | [\+1 (803) 941-1382](tel:+18039411382) | SC. Little Mountain | 2025-11-12 04:13 PM ¤¤ | Corelogic | |
 | [\+1 (803) 941-1382](tel:+18039411382) | SC. Little Mountain | 2025-11-12 04:12 PM | Corelogic | |
 | [\+1 (803) 964-1404](tel:+18039641404) | SC. Hampton | 2025-11-12 12:35 PM | — | |
