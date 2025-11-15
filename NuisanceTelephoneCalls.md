@@ -19,6 +19,13 @@ The telephone numbers below have called and there is an empty person on the othe
 
 | Telephone Number | Location | Date Time[^11] | Caller | Social Media |
 |---|---|---|---|---|
+| [\+1 (803) 796-4526](tel:+18037964526) | SC. Columbia | 2025-11-149:59 0AM | WILLIAM SOMA | |
+| [\+1 (803) 941-0347](tel:+18039410347) | SC. Little Mountain | 2025-11-14 07:54 PM | — | |
+| [\+1 (803) 342-3018](tel:+18033423018) | SC. Lancaster | 2025-11-14 06:26 PM | [US Postal Service](https://www.usps.com/) | |
+| [\+1 (803) 809-2159](tel:+18038092159) | SC. Orangeburg | 2025-11-14 05:35 PM | — | |
+| [\+1 (803) 994-3761](tel:+18039943761) | SC. Whitmire | 2025-11-14 11:37 AM | — | |
+| [\+1 (803) 587-8259](tel:+18035878259) | SC. Columbia | 2025-11-14 10:11 AM ¤¤ | — | |
+| [\+1 (803) 587-8259](tel:+18035878259) | SC. Columbia | 2025-11-14 10:10 AM | — | |
 | [\+1 (803) 857-7026](tel:+18038577026) | SC. Santee | 2025-11-13 08:06 PM | — | |
 | [\+1 (803) 886-9072](tel:+18038869072) | SC. Salley | 2025-11-13 07:56 PM | — | |
 | [\+1 (803) 335-3453](tel:+18033353453) | SC. Aiken | 2025-11-13 02:52 PM | 》STEPHEN E TOOLE | |

@@ -10,16 +10,52 @@ title: "🛫Trump: Air Force One Frequent Flyer Miles🚁"
 toc: true
 ---
 
-
 - 2025-05-18: [The Trump 2.0 Corruption Tour 2025: 🇸🇦 🇶🇦 🇦🇪]({% link _posts/2025/05/2025-05-18-Trump20CorruptionTour.md %})
 - 2025-04-05: [Trump Never Let a Weekend of Golf ⛳️🔥💸 Interfere With a Commander-In-Chief’s Solemn Duty to Receive Fallen Military 🪖]({% link _posts/2025/04/2025-04-05-MilitaryFallenDontInterruptTrumpGolfWeekends.md %})
 
 [^666]: @RalphHightower – [Federal Aviation Administration - Graphic TFRs](https://tfr.faa.gov/tfr3/?page=list)
 
+[^56225]: [Federal Aviation Administration - Graphic TFRs](https://tfr.faa.gov/tfr3/?page=detail_5_6225.html%3C%2FNotamDetail%3E%3C%2FTFR%3E)
+From November 14, 2025 at 2000 EST – November 16, 2025 at 1830 EST)
+
+- **Sunday, November 16, 2025**[^56225]
+    - -:-- AM [Donnie](https://www.donaldjtrump.com/) departs [Mar-a-Lago](https://www.maralagoclub.com/) to play golf at his [Trump International Golf Club](https://www.trumpinternationalpalmbeaches.com/)
+    - -:-- PM [Donnie] departs from a day of golf at [Trump International Golf Club](https://www.trumpinternationalpalmbeaches.com/) for his private resort club [Mar-a-Lago](https://www.maralagoclub.com/)
+    - 5:25 PM [Donnie] departs for [Palm Beach International Airport (PBI)](https://www.pbia.org/)
+    - -:-- PM [Donnie](https://www.donaldjtrump.com/) arrives at [Palm Beach International Airport (PBI)](https://www.pbia.org/)
+    - -:-- PM [Donnie](https://www.donaldjtrump.com/) departs [Palm Beach International Airport (PBI)](https://www.pbia.org/)
+    - 7:50 PM [Donnie](https://www.donaldjtrump.com/) arrives at [Joint Base Andrews (ADW)](https://www.jba.af.mil/)
+    - -:-- PM [Donnie](https://www.donaldjtrump.com/) departs [Joint Base Andrews (ADW)](https://www.jba.af.mil/)
+    - -:-- PM [Donnie](https://www.donaldjtrump.com/) arrives at the [White House](https;//www.donaldjtrump.com/)
+- **Saturday, November 15, 2025**[^56225]
+    - -:-- AM [Donnie](https://www.donaldjtrump.com/) departs [Mar-a-Lago](https://www.maralagoclub.com/) to play golf at his [Trump International Golf Club](https://www.trumpinternationalpalmbeaches.com/)
+    - -:-- PM [Donnie] departs from a day of golf at [Trump International Golf Club](https://www.trumpinternationalpalmbeaches.com/) for his private resort club [Mar-a-Lago](https://www.maralagoclub.com/)
+- **Friday, November 14, 2025**[^56225]
+    - 6:00 PM [Donnie](https://www.donaldjtrump.com) departs the [White House](https://www.whitehouse.gov/) for a weekend of golf at his [Mar-a-Lago](https://www.maralagoclub.com/)
+    - -:-- PM [Donnie](https://www.donaldjtrump.com/) arrives at [Joint Base Andrews (ADW)](https://www.jba.af.mil/)
+    - -:-- PM [Donnie](https://www.donaldjtrump.com/) departs [Joint Base Andrews (ADW)](https://www.jba.af.mil/)
+    - -:-- PM [Donnie](https://www.donaldjtrump.com/) arrives at [Palm Beach International Airport (PBI)](https://www.pbia.org/)
+    - -:-- PM [Donnie](https://www.donaldjtrump.com/) departs [Palm Beach International Airport (PBI)](https://www.pbia.org/)
+    - 8:25 PM [Donnie](https://www.donaldjtrump.com/) arrives at his [Mar-a-Lago Club](https://www.maralagoclub.com/)
+    - - **Sunday, November, 9
 🔥💸 = Government Shutdown 
 
 | Time | Location |
 |---|---|
+| | **Friday, November 14 2025** |
+| 8:51 AM | Jamieson Greer briefs reporters at The Sticks<br />The Sticks - The [White House](https://www.whitehouse.gov/) |
+| 9:00 AM | In-Town Pool Call Time<br />The [White House](https://www.whitehouse.gov/) |
+| 11:34 AM | [White House](https://www.whitehouse.gov/) Press Office: Lunch lid until 12:30 PM | <br />[Oval Office](https://www.whitehouse.gov/) Closed Press |
+| 12:22 PM | Tom Homan briefs reporters at The Sticks<br />The Sticks - The [White House](https://www.whitehouse.gov/) |
+| 4:30 PM | Out-of-Town Travel Pool Call Time<br />[Joint Base Andrews (ADW)](https://www.jba.af.mil/) Out-of-Town Travel Pool |
+| 5:00 PM | Bev Turner of GB News interviews the [President](https://www.donaldjtrump.com/) [Time is approximate]<br />The [White House](https://www.whitehouse.gov/) |
+| 6:00 PM | The [President](https://www.donaldjtrump.com/) departs the [White House](https://www.whitehouse.gov/) en route [Palm Beach](https://discover.pbc.gov/), [Florida](https://www.myflorida.gov/) [Actual: 6:06 PM to [Joint Base Andrews (ADW)](https://www.jba.af.mil/)]<br />[South Lawn](https://www.whitehouse.gov/) Open Press |
+| 6:15 PM | The [President](https://www.donaldjtrump.com/) arrives at [Joint Base Andrews (ADW)](https://www.jba.af.mil/)<br />[Joint Base Andrews (ADW)](https://www.jba.af.mil/) Open Press |
+| 6:29 PM | The [President](https://www.donaldjtrump.com/) departs [Joint Base Andrews (ADW)](https://www.jba.af.mil/) for [Palm Beach International (PBI)](https://www.pbia.org/)<br />[Joint Base Andrews (ADW)](https://www.jba.af.mil/) Open Press |
+| 8:13 PM | The [President](https://www.donaldjtrump.com/) arrives at [Palm Beach International (PBI)](https://www.pbia.org/)<br />[Palm Beach International (PBI)](https://www.pbia.org/) Open Press |
+| 8:25 PM | The [President](https://www.donaldjtrump.com/) arrives [Palm Beach](https://discover.pbc.gov/), [Florida](https://www.myflorida.gov/) [Actual: 8:37 PM at [Mar-a-Lago](https://www.maralagoclub.com/)]<br />[Mar-a-Lago](https://www.maralagoclub.com/) Out-of-Town Travel Pool |
+| 8:27 PM | The [President](https://www.donaldjtrump.com/) departs [Palm Beach International (PBI)](https://www.pbia.org/) for [Mar-a-Lago](https://www.maralagoclub.com/)<br />[Palm Beach International (PBI)](https://www.pbia.org/) Open Press |
+| 8:38 PM | [White House](https://www.whitehouse.gov/) Press Office: Full lid called<br />The [White House](https://www.whitehouse.gov/) |
 | | 🔥 [White House](https://www.whitehouse.gov/) 💣|
 | | **Sunday, November 9 2025** |
 | 7:00 AM 🔥💸 | Out-of-Town Travel Pool Call Time<br />[Mar-a-Lago](https://www.maralagoclub.com/) Out-of-Town Travel Pool |
@@ -85,6 +121,8 @@ toc: true
 | | 🔥 [White House](https://www.whitehouse.gov/) 💣|
 | | **Sunday, November 2 2025** |
 | 7:00 AM 🔥💸 | Out-of-Town Travel Pool Call Time<br />[Mar-a-Lago](https://www.maralagoclub.com/) Out-of-Town Travel Pool |
+| -:-- AM | [Donnie](https://www.donaldjtrump.com/) departs [Mar-a-Lago](https://www.maralagoclub.com/) to play golf at his [Trump International Golf Club](https://www.trumpinternationalpalmbeaches.com/) |
+| -:-- PM | [Donnie](https://www.donaldjtrump.com/) departs his golf club [Trump International Golf Club](https://www.trumpinternationalpalmbeaches.com/) for [Mar-a-Lago](https://www.maralagoclub.com/) |
 | 4:57 PM 🔥💸 | The [President](https://www.donaldjtrump.com/) departs [Mar-a-Lago](https://www.maralagoclub.com/) for [Palm Beach International Airport (PBI)](https://www.pbia.org/)<br />[Mar-a-Lago](https://www.maralagoclub.com/) |
 | 5:04 PM 🔥💸 | The [President](https://www.donaldjtrump.com/) arrives at [Palm Beach International Airport (PBI)](https://www.pbia.org/), and spends a few moments stopping by to visit his personal 757, ["Trump Force One" (N757AF)](https://www.trump.com/)<br />[Palm Beach International Airport (PBI)](https://www.pbia.org/) |
 | 5:25 PM 🔥💸 | The [President](https://www.donaldjtrump.com/) departs [Palm Beach](https://discover.pbc.gov/), [Florida](https://www.myflorida.gov/), en route The [White House](https://www.whitehouse.gov/) \[Actual: 5:30 PM to [Joint Base Andrews (ADW)](https://www.jba.af.mil/)\]<br />[Mar-a-Lago](https://www.maralagoclub.com/) Out-of-Town Travel Pool |
@@ -111,6 +149,7 @@ toc: true
 | 2:00 PM 🔥💸| The [President](https://www.donaldjtrump.com/) departs [Palm Beach International Airport (PBI)](https://www.pbia.org/) for [Mar-a-Lago](https://www.maralagoclub.com/)<br />[Palm Beach International Airport (PBI)](https://www.pbia.org/) Out-of-Town Travel Pool |
 | 2:08 PM 🔥💸| The [President](https://www.donaldjtrump.com/) arrives at [Mar-a-Lago](https://www.maralagoclub.com/)<br />[Mar-a-Lago](https://www.maralagoclub.com/) Out-of-Town Travel Pool |
 | 2:14 PM 🔥💸| [White House](https://www.whitehouse.gov) Press Office: Dinner lid until 6:00 PM<br />[Mar-a-Lago](https://www.maralagoclub.com/) Out-of-Town Travel Pool |
+| | 🔥 [White House](https://www.whitehouse.gov/) 💣|
 | | **Thursday, October 30 2025** |
 | 12:03 AM 🔥💸| The [President](https://www.donaldjtrump.com/) boards [Air Force One](https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104588/vc-25-air-force-one/) to return to the United States [1:03 PM Local]<br />[Gimhae International Airport (PUS)](https://gimhaeairport.com/), [Busan](https://www.busan.go.kr/), [South Korea](https://www.gov.kr/) Out-of-Town Travel Pool |
 | 7:09 AM 🔥💸| The [President](https://www.donaldjtrump.com/) arrives at [Joint Base Elmendorf-Richardson (EDF)](https://www.jber.jb.mil/) to refuel [3:09 AM Local]<br />[Joint Base Elmendorf-Richardson (EDF)](https://www.jber.jb.mil/), [AK](https://www.alaska.gov/) Out-of-Town Travel Pool |
@@ -292,6 +331,7 @@ toc: true
 | 3:05 PM 🔥💸| The [President](https://www.donaldjtrump.com/) and the First Lady depart the [USS George H.W. Bush](https://www.airlant.usff.navy.mil/cvn77/) for the [USS Harry S. Truman](https://www.airlant.usff.navy.mil/cvn75/)<br />[USS George H.W. Bush](https://www.airlant.usff.navy.mil/cvn77/) - [Norfolk Naval Station](https://cnrma.cnic.navy.mil/Installations/NAVSTA-Norfolk/) |
 | 3:30 PM 🔥💸| The [President](https://www.donaldjtrump.com/) delivers remarks at Navy 250 Celebration [Actual: 4:14 PM]<br />[USS Harry S. Truman](https://www.airlant.usff.navy.mil/cvn75/) - [Norfolk Naval Station](https://cnrma.cnic.navy.mil/Installations/NAVSTA-Norfolk/) Pre-Credentialed Media |
 | 3:45 PM 🔥💸| The [President](https://www.donaldjtrump.com/) and the First Lady arrive at the [USS Harry S. Truman](https://www.airlant.usff.navy.mil/cvn75/) [Note: Time is approximate]<br />[USS Harry S. Truman](https://www.airlant.usff.navy.mil/cvn75/) - [Norfolk Naval Station](https://cnrma.cnic.navy.mil/Installations/NAVSTA-Norfolk/) |
+| | 🔥 [White House](https://www.whitehouse.gov/) 💣|
 | 4:40 PM 🔥💸| The [President](https://www.donaldjtrump.com/) and The First Lady depart [Norfolk](https://www.norfolk.gov/), [Virginia](https://www.virginia.gov/), en route The [White House](https://www.whitehouse.gov/) [Actual: 5:24 PM to [Joint Base Andrews (ADW)](https://www.jba.af.mil/)]<br />Chambers Field, [Norfolk Naval Station](https://cnrma.cnic.navy.mil/Installations/NAVSTA-Norfolk/), VA Out-of-Town Travel Pool |
 | 5:04 PM 🔥💸| The [President](https://www.donaldjtrump.com/) and the First Lady depart the [USS Harry S. Truman](https://www.airlant.usff.navy.mil/cvn75/) for Chambers Field, [Norfolk Naval Station](https://cnrma.cnic.navy.mil/Installations/NAVSTA-Norfolk/)<br />[USS Harry S. Truman](https://www.airlant.usff.navy.mil/cvn75/) - [Norfolk Naval Station](https://cnrma.cnic.navy.mil/Installations/NAVSTA-Norfolk/) |
 | 5:14 PM 🔥💸| The [President](https://www.donaldjtrump.com/) and the First Lady arrive at Chambers Field, [Norfolk Naval Station](https://cnrma.cnic.navy.mil/Installations/NAVSTA-Norfolk/)<br />Chambers Field, [Norfolk Naval Station](https://cnrma.cnic.navy.mil/Installations/NAVSTA-Norfolk/), [Norfolk](https://www.norfolk.gov/), [Virginia](https://www.virginia.gov/) |
