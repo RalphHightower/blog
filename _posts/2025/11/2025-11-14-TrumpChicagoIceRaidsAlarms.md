@@ -59,9 +59,13 @@ The extremeness of the behavior in which [ICE](https://www.ice.gov/), [CBP](http
 
 ----
 - media
+- [MSNBC News - Breaking News and News Today / Latest News](https://www.msnbc.com/)
+- [Chicago Magazine](https://www.chicagomag.com/)
+- [Chicago Tribune - Chicago News, Sports, Weather, Business & Things to Do](https://www.chicagotribune.com/)
+- [FOX 32 Chicago / Local News, Weather, and Live Streams / WFLD](https://www.fox32chicago.com/)
+- [Mother Jones – Smart, fearless journalism](https://www.motherjones.com/)
 - [CBS News / Breaking news, top stories & today's latest headlines](https://www.cbsnews.com/)
 - [CNN / Breaking News, Latest News and Videos](https://www.cnn.com/)
-- [MSNBC News - Breaking News and News Today / Latest News](https://www.msnbc.com/)
 - [NBC News - Breaking Headlines and Video Reports on World, U.S. and Local Angles / NBC News](https://www.nbcnews.com/)
 - [The New York Times (NYT) - Breaking News, US News, World News and Videos](https://www.nytimes.com/)
 - [Reuters / Breaking International News & Views](https://www.reuters.com/)
@@ -75,6 +79,7 @@ The extremeness of the behavior in which [ICE](https://www.ice.gov/), [CBP](http
 - [WBEZ Chicago - WBEZ Chicago](https://www.wbez.org/)
 - organizations
 - [Home Page - The Appeal](https://theappeal.org/)
+- [Gallup - Workplace Consulting & Global Research](https://www.gallup.com/home.aspx)
 - political parties
 - [Democrat Party](https://www.democrats.org/)
 - [Trumpian Party](https://www.gop.com/)
@@ -83,6 +88,7 @@ The extremeness of the behavior in which [ICE](https://www.ice.gov/), [CBP](http
     - [Fordham Law J.D. Admissions / Fordham School of Law](https://www.fordham.edu/school-of-law/admissions/jd-admissions/)
         - [John Pfaff / Fordham School of Law](https://www.fordham.edu/school-of-law/faculty/directory/full-time/john-pfaff/)
 - companies
+[Civil Rights Attorneys / Loevy + Loevy](https://www.loevy.com/)
 - state, local governments
 - [Los Angeles](https://lacity.gov/)
 - [Illinois](https://www.illinois.gov/)

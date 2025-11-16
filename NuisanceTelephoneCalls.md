@@ -19,13 +19,19 @@ The telephone numbers below have called and there is an empty person on the othe
 
 | Telephone Number | Location | Date Time[^11] | Caller | Social Media |
 |---|---|---|---|---|
-| [\+1 (803) 796-4526](tel:+18037964526) | SC. Columbia | 2025-11-149:59 0AM | WILLIAM SOMA | |
+| [(310)387-1618](tel:(310)387-1618) | CA. Los Angeles | SC. 02025-11-15 10:44 AM | S HOLLINGSWORT | |
+| [\+1 (803) 735-8508](tel:+18037358508) | SC. Columbia | 2025-11-15 04:06 PM | SHERRY L HARTFIELD | |
+| [\+1 (803) 683-9052](tel:+18036839052) | SC. Columbia | 2025-11-15 02:46 PM ¤¤ | — | |
+| [\+1 (803) 683-9052](tel:+18036839052) | SC. Columbia | 2025-11-15 02:45 PM | — | |
+| [\+1 (803) 541-3136](tel:+18035413136) | SC. Barnwell | 2025-11-15 10:49 AM | Tracey Brooker | |
+| [\+1 (803) 708-3292](tel:+18037083292) | SC. Columbia | 2025-11-15 09:52 AM | Bonita I Saussy | |
 | [\+1 (803) 941-0347](tel:+18039410347) | SC. Little Mountain | 2025-11-14 07:54 PM | — | |
 | [\+1 (803) 342-3018](tel:+18033423018) | SC. Lancaster | 2025-11-14 06:26 PM | [US Postal Service](https://www.usps.com/) | |
 | [\+1 (803) 809-2159](tel:+18038092159) | SC. Orangeburg | 2025-11-14 05:35 PM | — | |
 | [\+1 (803) 994-3761](tel:+18039943761) | SC. Whitmire | 2025-11-14 11:37 AM | — | |
 | [\+1 (803) 587-8259](tel:+18035878259) | SC. Columbia | 2025-11-14 10:11 AM ¤¤ | — | |
 | [\+1 (803) 587-8259](tel:+18035878259) | SC. Columbia | 2025-11-14 10:10 AM | — | |
+| [\+1 (803) 796-4526](tel:+18037964526) | SC. Columbia | 2025-11-14 09:59 AM | WILLIAM SOMA | |
 | [\+1 (803) 857-7026](tel:+18038577026) | SC. Santee | 2025-11-13 08:06 PM | — | |
 | [\+1 (803) 886-9072](tel:+18038869072) | SC. Salley | 2025-11-13 07:56 PM | — | |
 | [\+1 (803) 335-3453](tel:+18033353453) | SC. Aiken | 2025-11-13 02:52 PM | 》STEPHEN E TOOLE | |

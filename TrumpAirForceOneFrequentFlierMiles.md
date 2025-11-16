@@ -37,15 +37,23 @@ From November 14, 2025 at 2000 EST – November 16, 2025 at 1830 EST)
     - -:-- PM [Donnie](https://www.donaldjtrump.com/) arrives at [Palm Beach International Airport (PBI)](https://www.pbia.org/)
     - -:-- PM [Donnie](https://www.donaldjtrump.com/) departs [Palm Beach International Airport (PBI)](https://www.pbia.org/)
     - 8:25 PM [Donnie](https://www.donaldjtrump.com/) arrives at his [Mar-a-Lago Club](https://www.maralagoclub.com/)
-    - - **Sunday, November, 9
+
 🔥💸 = Government Shutdown 
 
 | Time | Location |
 |---|---|
+| | **Saturday, November 15 2025** |
+| | The [President](https://www.donaldjtrump.com/) has no public events scheduled<br />[Mar-a-Lago](https://www.maralagoclub.com/) In-Town Pool |
+| 7:00 AM | Out-of-Town Travel Pool Call Time<br />[Mar-a-Lago](https://www.maralagoclub.com/) Out-of-Town Travel Pool |
+| 9:13 AM ⛳️🏌‍♂️ | The [President](https://www.donaldjtrump.com/) departs [Mar-a-Lago](https://www.maralagoclub.com/) for his golf club<br />[Mar-a-Lago](https://www.maralagoclub.com/) |
+| 9:21 AM ⛳️🏌‍♂️| The [President](https://www.donaldjtrump.com/) arrives at [Trump International Golf Club West Palm Beach](https://www.trumpinternationalpalmbeaches.com/)<br />[Trump International Golf Club West Palm Beach](https://www.trumpinternationalpalmbeaches.com/) |
+| 3:55 PM ⛳️🏌‍♂️| The [President](https://www.donaldjtrump.com/) departs [Trump International Golf Club West Palm Beach](https://www.trumpinternationalpalmbeaches.com/) for [Mar-a-Lago](https://www.maralagoclub.com/)<br />[Trump International Golf Club West Palm Beach](https://www.trumpinternationalpalmbeaches.com/) |
+| 4:04 PM | The [President](https://www.donaldjtrump.com/) arrives at [Mar-a-Lago](https://www.maralagoclub.com/)<br />[Mar-a-Lago](https://www.maralagoclub.com/) |
+| 4:05 PM | [White House](https://www.whitehouse.gov/) Press Office: Full lid called<br />[Mar-a-Lago](https://www.maralagoclub.com/) |
 | | **Friday, November 14 2025** |
 | 8:51 AM | Jamieson Greer briefs reporters at The Sticks<br />The Sticks - The [White House](https://www.whitehouse.gov/) |
 | 9:00 AM | In-Town Pool Call Time<br />The [White House](https://www.whitehouse.gov/) |
-| 11:34 AM | [White House](https://www.whitehouse.gov/) Press Office: Lunch lid until 12:30 PM | <br />[Oval Office](https://www.whitehouse.gov/) Closed Press |
+| 11:34 AM | [White House](https://www.whitehouse.gov/) Press Office: Lunch lid until 12:30 PM<br />[Oval Office](https://www.whitehouse.gov/) Closed Press |
 | 12:22 PM | Tom Homan briefs reporters at The Sticks<br />The Sticks - The [White House](https://www.whitehouse.gov/) |
 | 4:30 PM | Out-of-Town Travel Pool Call Time<br />[Joint Base Andrews (ADW)](https://www.jba.af.mil/) Out-of-Town Travel Pool |
 | 5:00 PM | Bev Turner of GB News interviews the [President](https://www.donaldjtrump.com/) [Time is approximate]<br />The [White House](https://www.whitehouse.gov/) |
