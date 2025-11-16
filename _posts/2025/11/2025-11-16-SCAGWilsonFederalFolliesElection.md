@@ -7,7 +7,7 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: "My Dumb State: South Carolina Attorney General, Alan Wilson, Parrots Trump's Federal Citizenship Requirement For Federal Elections 
+title: "My Dumb State. South Carolina: Attorney General Alan Wilson’s Federal Follies Follows Trump’s Citizenship Requirement For Elections"
 ---
 
 
