@@ -88,5 +88,7 @@ This post updates our [related earlier coverage](https://www.msnbc.com/rachel-ma
 - criminal media
 - criminal organizations
 - criminal partners
+
 {% include TrumpGolf.html %}
+
 {% include TrumpLodging.html %}
