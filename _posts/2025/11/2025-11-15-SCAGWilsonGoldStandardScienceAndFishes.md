@@ -27,6 +27,12 @@ The letter outlines several key requests for the [U.S. Department of Commerce](h
 You can read the full letter [here](https://www.scag.gov/media/mfkprzby/10-13-2025-ags-final-red-snapper-letter.pdf). 
 [Meet the Attorney General - South Carolina Attorney General](https://www.scag.gov/about-the-office/meet-the-attorney-general/)
 
+| Locations |
+|---|
+| **Mailing Address** |
+| The Honorable Alan Wilson <br /> P.O. Box 11549 <br /> Columbia, S.C. 29211 |
+| **Office Location** |
+| Rembert Dennis Building <br /> 1000 Assembly Street, Room 519 <br /> Columbia, S.C. 29201 <br /> General Information: [\+1 (803) 734-3970](tel:+18037343970) <br /> Constituent Services: [\+1 (803) 737-3953](tel:+18037373953) |
 
 ----
 - political parties
