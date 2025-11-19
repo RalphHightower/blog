@@ -24,7 +24,7 @@ In [Trump’s](https://www.donaldjtrump.com/) America, one is presumed guilty un
 
 - [Merriam-Webster's definition of "allegation":](http://www.merriam-webster.com/dictionary/allegation)
     - noun<br />al·​le·​ga·​tion - \ ˌa-lə-ˈgā-shən  \ <br />Legal Definition<br />1: the act of alleging<br />2a: a statement not yet proven<br />//allegations in an affidavit<br />b: a statement by a party to a lawsuit of what the party will attempt to prove : averment<br />— compare accusation, indictment, information, proof
-- Merriam-Webster's definition of "grand jury":  http://www.merriam-webster.com/dictionary/grand%20jury
+- [Merriam-Webster's definition of "grand jury":](http://www.merriam-webster.com/dictionary/grand%20jury)
     - noun<br />Legal Definition<br />: a jury that examines accusations against persons charged with crime and if the evidence warrants makes formal charges on which the accused persons are later tried<br />— see also no bill and true bill at bill sense 3b, indictment<br />— compare petit jury, special grand jury
 - [Merriam-Webster's definition of "indictment":](http://www.merriam-webster.com/dictionary/indictment)
     - noun<br />in·​dict·​ment - \ in-ˈdīt-mənt  \ <br />Legal Definition<br />1: the action or the legal process of indicting<br />2a: a formal written statement framed by a prosecuting authority and found by a grand jury that charges a person or persons with an offense<br />— compare complaint, information<br />b: bill of indictment
@@ -35,7 +35,7 @@ In [Trump’s](https://www.donaldjtrump.com/) America, one is presumed guilty un
 
 NOV 03, 2025
 
-(COLUMBIA, S.C.) – [South Carolina](https://www.sc.gov/) [Attorney General](https://www.scag.gov/) [Alan Wilson](https://www.scag.gov/about-the-office/meet-the-attorney-general) joined [22 other states](https://republicanags.com/) in filing a friend-of-the-court brief supporting [President](https://www.whitehouse.gov/) [Trump](https://www.donaldjtrump.com/)’s authority to fire [Lisa Cook](https://www.federalreserve.gov/aboutthefed/bios/board/cook.htm), [Governor of the Federal Reserve Board](https://www.federalreserve.gov/aboutthefed.htm).
+([COLUMBIA](https://www.columbiasc.gov/), [S.C.](https://www.sc.gov/)) – [South Carolina](https://www.sc.gov/) [Attorney General](https://www.scag.gov/) [Alan Wilson](https://www.scag.gov/about-the-office/meet-the-attorney-general) joined [22 other states](https://republicanags.com/) in filing a friend-of-the-court brief supporting [President](https://www.whitehouse.gov/) [Trump](https://www.donaldjtrump.com/)’s authority to fire [Lisa Cook](https://www.federalreserve.gov/aboutthefed/bios/board/cook.htm), [Governor of the Federal Reserve Board](https://www.federalreserve.gov/aboutthefed.htm).
 
 “I’m proud to stand with [President](https://www.whitehouse.gov/) [Trump](https://www.donaldjtrump.com/) in this case. I think the [Constitution](https://constitution.congress.gov/constitution/) and federal law give him the authority to fire her in these circumstances, and he is on solid ground in attempting to fire her for cause. At the end of the day, the [President](https://www.whitehouse.gov/) gets to exercise executive power—not unelected bureaucrats,” [Attorney General](https://www.scag.gov/) [Wilson](https://www.scag.gov/about-the-office/meet-the-attorney-general) said.
 
