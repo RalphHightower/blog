@@ -19,6 +19,19 @@ The telephone numbers below have called and there is an empty person on the othe
 
 | Telephone Number | Location | Date Time[^11] | Caller | Social Media |
 |---|---|---|---|---|
+| [\+1 (803) 354-5718](tel:+18033545718) | SC. Columbia | 2025-11-18 08:09 PM ¤¤ | — | |
+| [\+1 (803) 354-5718](tel:+18033545718) | SC. Columbia | 2025-11-18 08:08 PM | — | |
+| [\+1 (803) 651-5705](tel:+18036515705) | SC. Sumter | 2025-11-18 03:25 PM | — | |
+| [\+1 (803) 542-9491](tel:+18035429491) | SC. Columbia | 2025-11-18 03:06 PM ¤¤ | JEFFREY L LAFORCE | |
+| [\+1 (803) 542-9491](tel:+18035429491) | SC. Columbia | 2025-11-18 03:05 PM | JEFFREY L LAFORCE | |
+| [\+1 (803) 741-5659](tel:+18037415659) | SC. Columbia | 2025-11-18 12:12 PM | — | |
+| [\+1 (803) 871-2710](tel:+18038712710) | SC. Summerton | 2025-11-17 06:17 PM | — | |
+| [\+1 (803) 973-8616](tel:+18039738616) | SC. Columbia | 2025-11-17 04:35 PM ¤¤ | — | |
+| [\+1 (803) 797-2936](tel:+18037972936) | SC. Heath Springs | 2025-11-17 03:15 PM | — | |
+| [\+1 (803) 905-4369](tel:+18039054369) | SC. | 2025-11-17 02:23 PM | William Martin | |
+| [\+1 (803) 946-5389](tel:+18039465389) | SC. Barnwell | 2025-11-17 01:28 PM | — | |
+| [\+1 (803) 223-6365](tel:+18032236365) | SC. Columbia | 2025-11-17 12:27 PM ¤¤ | — | |
+| [\+1 (803) 223-6365](tel:+18032236365) | SC. Columbia | 2025-11-17 12:26 PM | — | |
 | [\+1 (803) 636-2872](tel:+18036362872) | SC. Columbia | 2025-11-16 03:26 PM | Internal Project (HARBOR RETIREME) | |
 | [\+1 (803) 619-2878](tel:+18036192878) | SC. Fort Mill | 2025-11-16 12:32 PM | — | |
 | [(310)387-1618](tel:(310)387-1618) | CA. Los Angeles | SC. 02025-11-15 10:44 AM | S HOLLINGSWORT | |
