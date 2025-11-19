@@ -1,7 +1,7 @@
 ---
 layout: post
-tags: []
-categories: []
+tags: [My Dumb State, South Carolina, organizations, Democratic Attorneys General Association, Trumpian Attorneys General Association, America First Legal / Defending the Rights of Everyday Americans, political parties, Democrat Party, Trumpian Party, state local governments, Alabama.gov / The Official Website of the State of Alabama, Attorney General’s Office - Alabama Attorney General’s Office, Steve Marshall – Meet The Attorney General - Alabama Attorney General’s Office, State of Alaska, Alaska Department of Law, Alaska Department of Law - About & Contact, Arkansas.gov, Home - Arkansas Attorney General, Tim Griffin – Meet Tim - Arkansas Attorney General, Georgia.gov, Office of the Attorney General, Chris Carr / Office of the Attorney General, MyFlorida, Home / My Florida Legal, Welcome, Welcome - Kentucky Attorney General, Attorney General Russell Coleman - Kentucky Attorney General, / MS.GOV, Attorney General Lynn Fitch - Attorney General of Mississippi, About - Attorney General Lynn Fitch, mo.gov, Attorney General Office of Missouri / Jefferson City Missouri, About AG Hanaway / Attorney General Office of Missouri, Home / North Dakota State Government - ND Portal, Home - North Dakota Attorney General, Attorney General Drew H. Wrigley - North Dakota Attorney General, Oklahoma.gov Home, Oklahoma Attorney General (049), Gentner Drummond, Welcome / The Official Website of the State of Idaho, Home - Idaho Office of Attorney General, Paúl Labrador – About - Idaho Office of Attorney General, IN.gov / The Official Website of the State of Indiana, Attorney General –  Home, Todd Rokita – Attorney General –  About the Attorney General, Welcome / Iowa.gov, Homepage / Iowa Attorney General, Brenna Bird – About Attorney General Brenna Bird / Iowa Attorney General, Home - Kansas.gov, Attorney General of KS / Home, Kris Kobach – Attorney General Kris W. Kobach / Attorney General of KS, Louisiana.gov - The official website of Louisiana, Louisiana Office of the Attorney General, Liz Murrell – Louisiana Office of the Attorney General, Home / Nebraska.gov, Welcome / Nebraska Attorney General Mike Hilgers, Mike Hilgers – About / Nebraska Attorney General Mike Hilgers, Ohio.gov / Official Website of the State of Ohio / Ohio.gov, Home - Ohio Attorney General Dave Yost, Dave Yost – Administration - Ohio Attorney General Dave Yost, Home / South Carolina, South Carolina Attorney General, Alan Wilson – Meet the Attorney General - South Carolina Attorney General, South Dakota Official State Homepage - Citizen Services, South Dakota Attorney General, Marty Jackley – South Dakota Attorney General, Texas.gov / The Official Website of the State of Texas, Office of the Attorney General, Ken Paxton – About the Attorney General / Office of the Attorney General, Home / Utah.gov, Derek Brown / Utah Attorney General, Derek Brown / Derek Brown, State of West Virginia, Office of the WV Attorney General John B. McCuskey, John McCuskey – Meet Attorney General JB McCuskey / Office of the WV Attorney General John B. McCuskey, State of Wyoming, Wyoming Attorney General, Wyoming Attorney General - Administrative Division Staff, federal government, Constitution of the United States, U.S. Constitution - Article I / Library of Congress, U.S. Constitution - Article II / Library of Congress, U.S. Constitution - Article III / Library of Congress, U.S. Constitution - Article IV / Library of Congress, U.S. Constitution - Article V / Library of Congress, U.S. Constitution - Article VI / Library of Congress, U.S. Constitution - Article VII / Library of Congress, U.S. Constitution - Fourteenth Amendment / Library of Congress, Supreme Court of the United States (SCOTUS), US Courts, Department of Justice (DOJ), Congress, Senate, House of Representatives, President of the United States (POTUS), White House (WH), Trump autocracy, Donald J Trump, President Donald Trump (45), President Donald Trump (47), President Trump (47) Administration, President Trump (47) Cabinet, press secretary, Karoline Leavitt, Pam Bondi – Office of the Attorney General / Meet the Attorney General / United States Department of Justice, Todd Blanche – Office of the Deputy Attorney General / Office of the Deputy Attorney General, Todd Blanche / LinkedIn, Lindsey Halligan]
+categories: [Donald Trump, Fourteenth Amendment, South Carolina, Tennessee, Iowa, Alabama, Alaska, Arkansas, Georgia, Florida, Idaho, Indiana, Kansas, Kentucky, Louisiana, Mississippi, Missouri, Montana, Nebraska, North Dakota, Oklahoma, South Dakota, Texas, Utah, West Virginia, Wyoming]
 date: 2025-11-18 18:30
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
@@ -23,7 +23,7 @@ On his first day in office, [President](https://www.whitehouse.gov/) [Trump](htt
 
 [President](https://www.whitehouse.gov/) [Trump](https://www.donaldjtrump.com/) is asking the [Supreme Court](https://www.supremecourt.gov/) to decide whether the executive order is constitutional. The attorneys general say the [Fourteenth Amendment](https://constitution.congress.gov/constitution/amendment-14) never intended to grant automatic citizenship to tourists or illegal aliens who are coming into our country for the sole purpose of having an “anchor baby.”
 
-[South Carolina](https://www.sc.gov/) joined the Tennessee and Iowa co-led brief along with [Alabama](https://www.alabamaag.gov/), [Alaska](https://law.alaska.gov/), [Arkansas](https://arkansasag.gov/), [Georgia](https://law.georgia.gov/), [Florida](https://www.myfloridalegal.com/), [Idaho](https://www.ag.idaho.gov/), [Indiana](https://www.in.gov/attorneygeneral/), [Kansas](https://www.ag.ks.gov/home), [Kentucky](https://ag.ky.gov/Pages/default.aspx), [Louisiana](https://ag.louisiana.gov/), [Mississippi](https://attorneygenerallynnfitch.com/), [Missouri](https://ago.mo.gov/), [Montana](https://ago.mo.gov/), [Nebraska](https://ago.nebraska.gov/), [North Dakota](https://attorneygeneral.nd.gov/), [Oklahoma](https://oklahoma.gov/oag.html), [South Dakota](https://atg.sd.gov/#gsc.tab=0), [Texas](https://www.texasattorneygeneral.gov/), [Utah](https://attorneygeneral.utah.gov/), [West Virginia](https://ago.wv.gov/), and [Wyoming](https://ag.wyo.gov/).
+[South Carolina](https://www.sc.gov/) joined the [Tennessee](https://www.tn.gov/attorneygeneral.html) and [Iowa](https://www.iowaattorneygeneral.gov/) co-led brief along with [Alabama](https://www.alabamaag.gov/), [Alaska](https://law.alaska.gov/), [Arkansas](https://arkansasag.gov/), [Georgia](https://law.georgia.gov/), [Florida](https://www.myfloridalegal.com/), [Idaho](https://www.ag.idaho.gov/), [Indiana](https://www.in.gov/attorneygeneral/), [Kansas](https://www.ag.ks.gov/home), [Kentucky](https://ag.ky.gov/Pages/default.aspx), [Louisiana](https://ag.louisiana.gov/), [Mississippi](https://attorneygenerallynnfitch.com/), [Missouri](https://ago.mo.gov/), [Montana](https://ago.mo.gov/), [Nebraska](https://ago.nebraska.gov/), [North Dakota](https://attorneygeneral.nd.gov/), [Oklahoma](https://oklahoma.gov/oag.html), [South Dakota](https://atg.sd.gov/#gsc.tab=0), [Texas](https://www.texasattorneygeneral.gov/), [Utah](https://attorneygeneral.utah.gov/), [West Virginia](https://ago.wv.gov/), and [Wyoming](https://ag.wyo.gov/).
 
 You can read the full brief [here](https://www.scag.gov/media/qc5fqy2g/scotus-cert-amicus-birthright-final.pdf).
 
@@ -59,6 +59,9 @@ You can read the full brief [here](https://www.scag.gov/media/qc5fqy2g/scotus-ce
         - [Chris Carr / Office of the Attorney General](https://law.georgia.gov/biography-attorney-general)
 - [MyFlorida](https://www.myflorida.gov/)
     - [Home / My Florida Legal](https://www.myfloridalegal.com/)
+- [Welcome / Iowa.gov](https://www.iowa.gov/)
+    - [Homepage / Iowa Attorney General](https://www.iowaattorneygeneral.gov/)
+        - [Brenna Bird – About Attorney General Brenna Bird / Iowa Attorney General](https://www.iowaattorneygeneral.gov/about-us/about-attorney-general-brenna-bird)
 - [Welcome](https://kentucky.gov/)
     - [Welcome - Kentucky Attorney General](https://ag.ky.gov/Pages/default.aspx)
         - [Attorney General Russell Coleman - Kentucky Attorney General](https://ag.ky.gov/about/Pages/Attorney-General.aspx)
@@ -71,9 +74,6 @@ You can read the full brief [here](https://www.scag.gov/media/qc5fqy2g/scotus-ce
 - [Home / North Dakota State Government - ND Portal](https://www.nd.gov/home)
     - [Home - North Dakota Attorney General](https://attorneygeneral.nd.gov/)
         - [Attorney General Drew H. Wrigley - North Dakota Attorney General](https://attorneygeneral.nd.gov/attorney-generals-office/attorney-general-drew-h-wrigley/)
-- [Oklahoma.gov Home](https://oklahoma.gov/en.html)
-    - [Oklahoma Attorney General (049)](https://oklahoma.gov/oag.html)
-    - [Gentner Drummond](https://oklahoma.gov/oag/about/bio.html)
 - [Welcome / The Official Website of the State of Idaho](https://idaho.gov/)
     - [Home - Idaho Office of Attorney General](https://www.ag.idaho.gov/)
         - [Paúl Labrador – About - Idaho Office of Attorney General](https://www.ag.idaho.gov/about/)
@@ -95,12 +95,18 @@ You can read the full brief [here](https://www.scag.gov/media/qc5fqy2g/scotus-ce
 - [Ohio.gov / Official Website of the State of Ohio / Ohio.gov](https://ohio.gov/)
     - [Home - Ohio Attorney General Dave Yost](https://www.ohioattorneygeneral.gov/)
         - [Dave Yost – Administration - Ohio Attorney General Dave Yost](https://www.ohioattorneygeneral.gov/About-AG/AG-Administration)
+- [Oklahoma.gov Home](https://oklahoma.gov/en.html)
+    - [Oklahoma Attorney General (049)](https://oklahoma.gov/oag.html)
+    - [Gentner Drummond](https://oklahoma.gov/oag/about/bio.html)
 - [Home / South Carolina](https://sc.gov/)
     - [South Carolina Attorney General](https://www.scag.gov/)
         - [Alan Wilson – Meet the Attorney General - South Carolina Attorney General](https://www.scag.gov/about-the-office/meet-the-attorney-general/)
 - [South Dakota Official State Homepage - Citizen Services](https://www.sd.gov/cs)
     - [South Dakota Attorney General](https://atg.sd.gov/#gsc.tab=0)
         - [Marty Jackley – South Dakota Attorney General](https://atg.sd.gov/OurOffice/bio.aspx#gsc.tab=0)
+- [Tennessee State Government - TN.gov](https://www.tn.gov/)
+    - [Attorney General & Reporter](https://www.tn.gov/attorneygeneral.html)
+        - [Attorney General Jonathan Skrmetti](https://www.tn.gov/attorneygeneral/about-the-office/general-skrmetti.html)
 - [Texas.gov / The Official Website of the State of Texas](https://www.texas.gov/)
     - [Office of the Attorney General](https://www.texasattorneygeneral.gov/)
         - [Ken Paxton – About the Attorney General / Office of the Attorney General](https://www.texasattorneygeneral.gov/about-office)
