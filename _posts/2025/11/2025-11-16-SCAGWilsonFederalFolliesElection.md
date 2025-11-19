@@ -32,15 +32,12 @@ The [Republican coalition](https://republicanags.com/)’s letter explains that 
 You can read the letter [here](https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fclick-1252989.icptrack.com%2Ficp%2Frelay.php%3Fr%3D44924690%26msgid%3D517785%26act%3D8HTH%26c%3D1252989%26pid%3D2180040%26destination%3Dhttps%253A%252F%252Fwww.scag.gov%252Fmedia%252Foa1lchxu%252Fcomment-iso-afl-pfr.pdf%26cf%3D5808%26v%3D73c7fc8053d7afaff8cb3ca6736b842d01defa220e69124706ac66e99b229b74&data=05%7C02%7Crkittle%40scag.gov%7C9f6cf1885e9f427a345808de10b57c1e%7Caa43a17bbf734a4baea2e6f1f30c7e04%7C0%7C0%7C638966569160074577%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=jbWg0ALHO793neQdgzbqvJMlb3YwG7X5zGs4AS75Fn4%3D&reserved=0)
 .
 
-
 | Locations |
 |---|
 | **Mailing Address** |
 | The Honorable Alan Wilson <br /> P.O. Box 11549 <br /> Columbia, S.C. 29211 |
 | **Office Location** |
 | Rembert Dennis Building <br /> 1000 Assembly Street, Room 519 <br /> Columbia, S.C. 29201 <br /> General Information: [\+1 (803) 734-3970](tel:+18037343970) <br /> Constituent Services: [\+1 (803) 737-3953](tel:+18037373953) |
-
-
 
 ----
 - My Dumb State
