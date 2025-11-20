@@ -19,6 +19,10 @@ The telephone numbers below have called and there is an empty person on the othe
 
 | Telephone Number | Location | Date Time[^11] | Caller | Social Media |
 |---|---|---|---|---|
+| [\+1 (803) 618-7583](tel:+18036187583) | SC. Johnston | 2025-11-19 08:57 PM | — | |
+| [\+1 (803) 851-8287](tel:+18038518287) | SC. Columbia | 2025-11-19 03:28 PM | — | |
+| [\+1 (803) 868-1059](tel:+18038681059) | SC. Barnwell | 2025-11-19 12:22 PM | — | |
+| [\+1 (803) 818-4316](tel:+18038184316) | SC. York | 2025-11-19 10:10 AM | TOBY M SULLIVAN | |
 | [\+1 (803) 354-5718](tel:+18033545718) | SC. Columbia | 2025-11-18 08:09 PM ¤¤ | — | |
 | [\+1 (803) 354-5718](tel:+18033545718) | SC. Columbia | 2025-11-18 08:08 PM | — | |
 | [\+1 (803) 651-5705](tel:+18036515705) | SC. Sumter | 2025-11-18 03:25 PM | — | |
