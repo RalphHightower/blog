@@ -12,7 +12,7 @@ title: "My Dumb State, South Carolina: Attorney General Alan Wilson Supports Nat
 
 Black Hawk helicopters. Agents rappelling from helicopters. Kicking down doors. Trashing apartments. Apartment residents separated by doing color. Children separated from their parents. 
 
-- 2025-10-16 22:13; [Chicago Is In America, Not Gaza]({% link  %})
+- 2025-10-16 22:13; [Chicago Is In America, Not Gaza]({% link _posts/2025/10/2025-10-16-ChicagoIsInAmericaNotVietnam.md %})
 - 2025-11-02 21:28; [Trump Wants National Guard Strike Force To Quell “Civil Unrest”]({% link _posts/2025/10/2025-10-16-ChicagoIsInAmericaNotVietnam.md %})
 - 2025-11-07 22:52; [Customs and Border Patrol Agent, Charles Exum, Is a Sick, Barbaric Sub-Human. Bragging About Five Rounds Inflicting Seven Bullet Holes]({% link _posts/2025/11/2025-11-07-CharlesExumExcessiveDeadlyForceCBPChicago.md %})
 - 2025-11-14 22:46; [Trump’s ICE Raids In Chicago Raising Alarms]({% link _posts/2025/11/2025-11-14-TrumpChicagoIceRaidsAlarms.md %})
