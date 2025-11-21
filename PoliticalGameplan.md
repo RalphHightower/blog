@@ -140,6 +140,13 @@ Class III terms run from the beginning of the 118th Congress on January 3, 2023,
 
 Class II.
 
+- 2025-11-13: [Senator Lindsey Graham (T-SC), Like Trump, Intends To Extort the Federal Government]({% link _posts/2025/11/2025-11-13-LindseyGrahamIntendsExtortFederalGovernment.md %})
+- 2025-10-08: [Latest Lies From Trumpian Senators: FBI 'Wiretapped' Them. No, They Didn't Listen In; They Captured Number Dialed & Call Duration]({% link _posts/2025/10/2025-10-08-TrumpianLiesOnJan6Investigation.md %})
+- 2025-01-26: [Trump's Poodle, Senator Lindsey Graham (T-SC), On NBC Meet The Press]({% link blog/_posts/2025/01/2025-01-26-TrumpsPoodleOnMTP %})
+- 2024-12-15: [Sen. Lindsey Graham (T-SC) States That Trump Won't Prosecute Political Enemies. Yea, Right!]({% link blog/_posts/2024/12/2024-12-15-LindseyGraham20241215MTP %})
+- 2024-12-12: [MSNBC Morning Joe Panel Discusses Kash Patel as Trump's Pick for FBI Director]({% link blog/_posts/2024/12/2024-12-12-LindseyGrahamSupportsPatek4FBI %})
+- 2024-10-20: [Bless His Heart – Senator Lindsey Graham (T-SC): Why Are You "Republicans" Supporting Harris?]({% link blog/_posts/2024/10/2024-10-20-AnswerToTrumpersSupportingHarris %})
+
 | Office Locations |
 |---|
 | **Washington D.C. Office** |
@@ -157,16 +164,13 @@ Class II.
 | **Golden Corner Office** |
 | 124 Exchange Street, Suite A <br /> Pendleton, SC 29670 <br /> Main: [\+1 (864) 646-4090](tel:+18646464090) <br /> Fax: [\+1 (864) 646-8609](tel:+18646468609) |
 
-- [Trump's Poodle, Senator Lindsey Graham (T-SC), On NBC Meet The Press]({% post_url /2025/01/2025-01-26-TrumpsPoodleOnMTP %})
-- [Sen. Lindsey Graham (T-SC) States That Trump Won't Prosecute Political Enemies. Yea, Right!]({% post_url /2024/12/2024-12-15-LindseyGraham20241215MTP %})
-- [MSNBC Morning Joe Panel Discusses Kash Patel as Trump's Pick for FBI Director]({% post_url /2024/12/2024-12-12-LindseyGrahamSupportsPatek4FBI %})
-- [Bless His Heart – Senator Lindsey Graham (T-SC): Why Are You "Republicans" Supporting Harris?]({% post_url /2024/10/2024-10-20-AnswerToTrumpersSupportingHarris %})
-
 ###### [Scott, Tim (T-SC)](https://www.scott.senate.gov/)
+
+Class III.
 
 Yes, my assessment has racial overtones, but [Scott](https://www.scott.senate.gov/) is [Trump's](https://www.whitehouse.gov/administration/donald-j-trump/) *"lawn jockey."*
 
-Class III.
+- 2024-11-04: [Sen. Tim Scott (T-SC) Is Trump's Lawn Jockey]({% link blog/_posts/2024/11/2024-11-04-TimScottIsTrumpsLawnJockey %})
 
 | Office Locations |
 |---|
@@ -179,15 +183,12 @@ Class III.
 | **Low Country** |
 | 2500 City Hall Lane <br /> 3rd Floor Suite <br /> North Charleston, SC 29406 <br /> Phone: [\+1 (843) 727-4525](tel:+18437274525) <br /> Fax: [\+1 (855) 802-9355](tel:+18558029355) |
 
-- [Sen. Tim Scott (T-SC) Is Trump's Lawn Jockey]({% post_url /2024/11/2024-11-04-TimScottIsTrumpsLawnJockey %})
-
 #### President
 
 ##### [Trump Party](https://www.gop.com/)
 
-[FAA NOTAM (Notice To Air Men](https://tfr.faa.gov/)
-
-- Third Drop-down: Select VIP
+- [FAA NOTAM (Notice To Air Men](https://tfr.faa.gov/)
+    - Third Drop-down: Select VIP
 
 [Roll Call Factba.se - Donald J. Trump's Public Schedule](https://rollcall.com/factbase/trump/topic/calendar/)
 
@@ -217,11 +218,32 @@ Class III.
 
 #### [South Carolina](https://www.sc.gov/) [Attorney General](https://www.scag.gov/)
 
-##### [Trump Party](https://www.gop.com/)
-
-###### [Alan Wilson](https://www.scag.gov/about-the-office/meet-the-attorney-general/)
+##### [Alan Wilson](https://www.scag.gov/about-the-office/meet-the-attorney-general/)
 
 [Alan Wilson (T)](https://www.scag.gov/about-the-office/meet-the-attorney-general/) is the most nakedly partisan [Attorney General](https://www.scag.gov/) that [South Carolina](https://www.s.gov/) has ever had. Wilson is an election denier; he thinks that the [Democrats](https://www.democrats.org/) stole the 2020 election.
+
+##### My Dumb State: South Carolina
+
+- 2025-11-20: [My Dumb State: South Carolina We've Been Down This Path Before. There Is No State Sponsored Religion. Ten Commandments Redux]({% link _posts/2025/11/2025-11-20-SCAGWilsonTenCommandments.md %})
+- 2025-11-19: [My Dumb State: South Carolina Attorney General Alan Wilson Supports National Guard 'Kabul Style' Raids In Chicago! 🚨]({% link _posts/2025/11/2025-11-19-SCAGWilsonSupportsKabulStyleRaidsChicago.md %})
+- 2025-11-18: [My Dumb State: South Carolina Attorney General Alan Wilson Wants To Convict Federal Reserve Governor, Lisa Cook, Without a Trial]({% link _posts/2025/11/2025-11-18-SCAGWilsonFireFedReserveLisaCook.md %})
+- 2025-11-18: [My Dumb State: South Carolina Attorney General, Alan Wilson, Wants To Amend The Fourteenth Amendment – Part 4 (Supreme Court)]({% link _posts/2025/11/2025-11-18-SCAGWilsonAmendFourteenthAdmendmentPart4.md %})
+- 2025-11-16: [My Dumb State. South Carolina: Attorney General Alan Wilson’s Federal Follies Follows Trump’s Citizenship Requirement For Elections]({% link _posts/2025/11/2025-11-16-SCAGWilsonFederalFolliesElection.md %})
+- 2025-11-15: [My Dumb State: South Carolina Attorney General Alan Wilson, “Gold Standard Science” (π = 3.2) & Gulf of America Red Snapper Fishes]({% link _posts/2025/11/2025-11-15-SCAGWilsonGoldStandardScienceAndFishes.md %})
+- 2025-05-01: [My Dumb State: South Carolina Attorney General Alan Wilson Investigates ActBlue (Democrat Party) for ‘Smurfing’, But Not WinRed (Trump Party)]({% link _posts/2025/05/2025-05-01-SCAGTargetsActBlueButNotWinRedForSmurfing.md %})
+- 2025-04-11: [My Dumb State: South Carolina Attorney General Alan Wilson Supports Oil Drilling, Except Off South Carolina’s Coast. NIMBY (Not In My Back Yard)]({% link _posts/2025/04/2025-04-11-SCAGForOilDrillingExceptOffSC.md %})
+- 2025-03-29: [My Dumb State: South Carolina Attorney General, Alan Wilson, Wants To Amend The Fourteenth Amendment – Part 3 (Supreme Court)]({% link _posts/2025/03/2025-03-29-SCAGAmend14thAmendmentPart3.md %})
+- 2025-03-14: [My Dumb State: South Carolina Attorney General, Alan Wilson, Wants To Amend The Fourteenth Amendment – Part 2 (Ninth Appeals Court)]({% link _posts/2025/03/2025-03-14-SCAGAmend14AmendmentPart2.md %})
+- 2025-02-25: [My Dumb State: South Carolina Attorney General Alan Wilson Supports Trump’s Illegal, Lawless Firings Of Government Watchdogs]({% link _posts/2025/02/2025-02-25-SCAG-TAGA-SupportTrumpIllegalFirings.md %})
+- 2025-02-21: [🚨 My Dumb State: South Carolina Attorney General Alan Wilson Is Not Interested In Protecting South Carolinians' Personal Identifiable Information (PII) In the Biggest Data Breach of the US Treasury Central Payment System! 🚨]({% link _posts/2025/02/2025-02-21-SC-AG-SupportsDOGE-DataBreachOfPII.md %})
+- 2025-02-07: [My Dumb State: South Carolina Attorney General, Alan Wilson, Wants To Amend The Fourteenth Amendment]({% link _posts/2025/02/2025-02-07-SCAGWants14thAmendmentAmended.md %})
+- 2025-02-06: [My Dumb State: South Carolina Attorney General, Alan Wilson, Weaponizes State Government To Persecute Trump's Perceived Enemy, Dr. Anthony Fauci]({% link _posts/2025/02/2025-02-06-SCAGWeaponizesStateGovernment.md %})
+- 2025-01-28: [My Dumb State: South Carolina Attorney General Alan Wilson Sues Costco To Abandon DEI. What About BMW?]({% link _posts/2025/01/2025-01-28-SCAG-DEI.md %})
+- 2024-11-01: [My Dumb State: South Carolina Attorney General Alan Wilson Thinks That Trying to Overthrow An Election and Incite An Insurrection Is Legal]({% link _posts/2024/11/2024-11-01-SCAG-StopJackSmith.md %})
+- 2024-07-26: [My Dumb State: South Carolina Attorney General Alan Wilson Whines About New York Fine of Trump Organization For 34 Felony Civil Guilty Verdicts of Business Records Falsification For Fraud (Financial, Insurance, Property Tax)]({% link _posts/2024/07/2024-07-26-SCAG-NYCivilVerdictTrumpBusinessFraud.md %})
+- 2020-11-09: [My Dumb State: South Carolina Attorney General Alan Wilson Sues Pennsylvania For Election Fraud Over 2020 Presidential Election]({% link _posts/2019/08/2019-08-27-FEMAFundsDivertedToIllegalAliens.md %})
+
+###### Locations / Contacts
 
 | Locations |
 |---|
@@ -229,20 +251,6 @@ Class III.
 | The Honorable Alan Wilson <br /> P.O. Box 11549 <br /> Columbia, S.C. 29211 |
 | **Office Location** |
 | Rembert Dennis Building <br /> 1000 Assembly Street, Room 519 <br /> Columbia, S.C. 29201 <br /> General Information: [\+1 (803) 734-3970](tel:+18037343970) <br /> Constituent Services: [\+1 (803) 737-3953](tel:+18037373953) |
-
-##### My Dumb State: South Carolina
-
-- [My Dumb State: South Carolina Attorney General Alan Wilson Investigates ActBlue (Democrat Party) for ‘Smurfing’, But Not WinRed (Trump Party)]({% link _posts/2025/05/2025-05-01-SCAGTargetsActBlueButNotWinRedForSmurfing.md %}). @RalphHightower, 2025-05-01
-- [My Dumb State, South Carolina: Attorney General, Alan Wilson, Wants To Amend The Fourteenth Amendment – Part 3 (Supreme Court)]({% link _posts/2025/03/2025-03-29-SCAGAmend14thAmendmentPart3.md %}). @RalphHightower, 2025-03-29
-- [My Dumb State, South Carolina: Attorney General, Alan Wilson, Wants To Amend The Fourteenth Amendment – Part 2 (Ninth Appeals Court)]({% link _posts/2025/03/2025-03-14-SCAGAmend14AmendmentPart2.md %}). @RalphHightower, 2025-03-14
-- [My Dumb State, South Carolina: Attorney General Alan Wilson Supports Trump’s Illegal, Lawless Firings Of Government Watchdogs]({% link _posts/2025/02/2025-02-25-SCAG-TAGA-SupportTrumpIllegalFirings.md %}). @RalphHightower, 2025-02-25
-- [🚨 My Dumb State, South Carolina: Attorney General Alan Wilson Is Not Interested In Protecting South Carolinians' Personal Identifiable Information (PII) In the Biggest Data Breach of the US Treasury Central Payment System! 🚨]({% link _posts/2025/02/2025-02-21-SC-AG-SupportsDOGE-DataBreachOfPII.md %}). @RalphHightower, 2025-02-21
-- [My Dumb State, South Carolina: Attorney General, Alan Wilson, Wants To Amend The Fourteenth Amendment]({% link _posts/2025/02/2025-02-07-SCAGWants14thAmendmentAmended.md %}). @RalphHightower, 2025-02-07
-- [My Dumb State, South Carolina: Attorney General, Alan Wilson, Weaponizes State Government To Persecute Trump's Perceived Enemy, Dr. Anthony Fauci]({% link _posts/2025/02/2025-02-06-SCAGWeaponizesStateGovernment.md %}). @RalphHightower, 2025-02-06
-- [My Dumb State, South Carolina: Attorney General Alan Wilson Sues Costco To Abandon DEI. What About BMW?]({% link _posts/2025/01/2025-01-28-SCAG-DEI.md %}). @RalphHightower, 2025-01-28
-- [My Dumb State, South Carolina: Attorney General Alan Wilson Thinks That Trying to Overthrow An Election and Incite An Insurrection Is Legal]({% link _posts/2024/11/2024-11-01-SCAG-StopJackSmith.md %}). @RalphHightower, 2024-11-01
-- [My Dumb State, South Carolina: Attorney General Alan Wilson Whines About New York Fine of Trump Organization For 34 Felony Civil Guilty Verdicts of Business Records Falsification For Fraud (Financial, Insurance, Property Tax)]({% link _posts/2024/07/2024-07-26-SCAG-NYCivilVerdictTrumpBusinessFraud.md %}). @RalphHightower, 2024-07-26
-- [My Dumb State, South Carolina: Attorney General Alan Wilson Sues Pennsylvania For Election Fraud Over 2020 Presidential Election]({% link _posts/2019/08/2019-08-27-FEMAFundsDivertedToIllegalAliens.md %}). @RalphHightower, 2020-11-09
 
 #### Attorneys General
 
