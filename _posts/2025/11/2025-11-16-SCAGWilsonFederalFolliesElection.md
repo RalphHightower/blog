@@ -13,6 +13,8 @@ title: "My Dumb State. South Carolina: Attorney General Alan Wilson’s Federal 
 
 [Trump’s](https://www.donaldjtrump.com/) executive order mandating proof of citizenship to vote in federal elections is a solution in search of a problem. States require people registration to be citizens of the United States. Penalties include prison and/or fines.
 
+Just look at the [2020 Election Results](https://ralphhightower.github.io/blog/#2020-presidential-election-results--federal-election-commission-fec). [Biden](https://bidenwhitehouse.archives.gov/) won by 7,059,526 votes, winning by a 4.46% margin crossing the 51% line. [Trump](https://www.donaldjtrump.com/) by Electoral College Votes, but he lost in popular vote to Clinton, [2016](https://www.fec.gov/resources/cms-content/documents/federalelections2020.pdf) and 1.48% in [2024](https://www.fec.gov/resources/cms-content/documents/2024presgeresults.pdf), never crossing 50%.
+
 ## [Attorney General Alan Wilson backs rule requiring proof of citizenship to vote in federal elections - South Carolina Attorney General](https://www.scag.gov/about-the-office/news/attorney-general-alan-wilson-backs-rule-requiring-proof-of-citizenship-to-vote-in-federal-elections/)
 
 OCT 21, 2025

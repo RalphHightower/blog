@@ -7,7 +7,7 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: "My Dumb State, South Carolina: Attorney General Alan Wilson, “Gold Standard Science” (π = 3.2) & Gulf of America Red Snapper Fishes"
+title: "My Dumb State: South Carolina Attorney General Alan Wilson, “Gold Standard Science” (π = 3.2) & Gulf of America Red Snapper Fishes"
 ---
 
 

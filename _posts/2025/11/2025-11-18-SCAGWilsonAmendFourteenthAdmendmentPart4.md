@@ -7,7 +7,7 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: "My Dumb State, South Carolina: Attorney General, Alan Wilson, Wants To Amend The Fourteenth Amendment – Part 4 (Supreme Court)"
+title: "My Dumb State: South Carolina Attorney General, Alan Wilson, Wants To Amend The Fourteenth Amendment – Part 4 (Supreme Court)"
 ---
 
 

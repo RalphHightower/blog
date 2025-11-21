@@ -7,7 +7,7 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: "My Dumb State, South Carolina: We've Been Down This Path Before. There Is No State Sponsored Religion"
+title: "My Dumb State: South Carolina We've Been Down This Path Before. There Is No State Sponsored Religion. Redux Ten Commandments"
 ---
 
 We've been down this path before. The [First Amendment](https://constitution.congress.gov/constitution/amendment-1/) guarantees freedom of religion. There is no state sponsored religion. This opens the floodgates for other religions in public schools, Muslim, Buddhism, …

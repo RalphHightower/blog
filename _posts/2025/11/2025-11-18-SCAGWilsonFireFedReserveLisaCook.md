@@ -7,7 +7,7 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: "My Dumb State, South Carolina: Attorney General Alan Wilson Wants To Convict Federal Reserve Governor, Lisa Cook, Without a Trial"
+title: "My Dumb State: South Carolina Attorney General Alan Wilson Wants To Convict Federal Reserve Governor, Lisa Cook, Without a Trial"
 ---
 
 In [Trump’s](https://www.donaldjtrump.com/) America, one is presumed guilty until proven innocent. 

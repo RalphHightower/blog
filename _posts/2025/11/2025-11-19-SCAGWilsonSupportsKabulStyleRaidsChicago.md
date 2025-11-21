@@ -7,7 +7,7 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: "My Dumb State, South Carolina: Attorney General Alan Wilson Supports National Guard 'Kabul Style' Raids In Chicago! 🚨"
+title: "My Dumb State: South Carolina Attorney General Alan Wilson Supports National Guard 'Kabul Style' Raids In Chicago! 🚨"
 ---
 
 Violence begets violence. [Department of Homeland Security (DHS)](https://www.dhs.gov/)'s goon squads, [Immigration and Customs Enforcement (ICE)](https://www.ice.gov/) and [Customs and Border Protection (CBP)](https://www.cbp.gov/) are not conducting themselves as police; instead, they are acting as if they are military in a foreign country.
