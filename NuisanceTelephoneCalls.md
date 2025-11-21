@@ -19,6 +19,11 @@ The telephone numbers below have called and there is an empty person on the othe
 
 | Telephone Number | Location | Date Time[^11] | Caller | Social Media |
 |---|---|---|---|---|
+| [\+1 (803) 973-6020](tel:+18039736020) | SC. Columbia | 2025-11-20 06:57 PM ¤¤ | ED BANKS INSURA | |
+| [\+1 (803) 638-5831](tel:+18036385831) | SC. Columbia | 2025-11-20 12:24 PM | | |
+| [\+1 (803) 932-2807](tel:+18039322807) | SC. Little Mountain | 2025-11-20 12:07 PM | | |
+| [\+1 (803) 997-6312](tel:+18039976312) | SC. Orangeburg | 2025-11-20 12:07 PM | Lee Enterprises | |
+| [\+1 (803) 932-2807](tel:+18039322807) | SC. Little Mountain | 2025-11-20 12:06 PM | | |
 | [\+1 (803) 618-7583](tel:+18036187583) | SC. Johnston | 2025-11-19 08:57 PM | — | |
 | [\+1 (803) 851-8287](tel:+18038518287) | SC. Columbia | 2025-11-19 03:28 PM | — | |
 | [\+1 (803) 868-1059](tel:+18038681059) | SC. Barnwell | 2025-11-19 12:22 PM | — | |
