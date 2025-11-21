@@ -20,6 +20,61 @@ In [Trump’s](https://www.donaldjtrump.com/) America, one is presumed guilty un
 5. Trump University was a scam.
 6. Trump Foundation was a self-dealing sham charity.
 
+## 📞 Condensed Call Script for Attorney General Wilson
+
+### Introduction: 
+
+Hello, I’m calling to express concern about [Attorney General](https://www.scag.gov/) [Wilson](https://www.scag.gov/about-the-office/meet-the-attorney-general/)’s amicus brief supporting [Trump](https://)’s attempt to fire [Federal Reserve](https://www.federalreserve.gov/) [Governor Lisa Cook](https://www.federalreserve.gov/aboutthefed/bios/board/cook.htm).
+
+### Legal Point:
+
+The [Federal Reserve Act](https://www.federalreserve.gov/aboutthefed/fract.htm) does not give the [President](https://www.whitehouse.gov/) unilateral power to remove governors. Allegations of “cause” require due process — indictment by a grand jury and adjudication in court. Presuming guilt before innocence is not justice.
+
+### Independence of the Fed: 
+
+[Congress](https://www.congress.gov/) designed the [Fed](https://www.federalreserve.gov/) to be independent of political influence. [Governors](https://www.federalreserve.gov/aboutthefed/bios/board/default.htm) serve 14-year terms to shield them from presidential pressure. Undermining that independence risks America’s financial stability.
+
+### Economic Record: 
+
+Putting someone in charge of monetary policy who has bankrupted companies, lost an airline, a football team, and even casinos — where the house always wins — is reckless. His policies already added $3 trillion to the national debt.
+
+### Global Example: 
+
+Look at [Argentina](https://www.argentina.gob.ar/): their central bank answers to the president, and the result has been rampant inflation and repeated defaults. America cannot afford that path.
+
+### Hypocrisy on Bureaucrats: 
+
+[Wilson](https://www.scag.gov/about-the-office/meet-the-attorney-general/) rails against “unelected bureaucrats,” yet if elected governor, he will appoint unelected officials to run agencies. [Congress](https://www.congress.gov/) intentionally gave agencies long terms — [FBI](https://www.fbi.gov/) Director (10 years), [FTC](https://www.ftc.gov/) Commissioners (7 years) — to protect them from political meddling. Undermining that design erodes stability.
+
+### Closing: 
+
+[Attorney General](https://www.scag.gov/) [Wilson](https://www.scag.gov/about-the-office/meet-the-attorney-general/) should respect the independence of institutions rather than politicize them. America’s financial credibility depends on it.
+
+🎯 Why this works
+Concise: Each section is 2–3 sentences, perfect for a call.
+
+Structured: Legal → Economic → Global → Hypocrisy → Closing.
+
+Punchy: Keeps your satire and critique but avoids long tangents.
+
+Memorable soundbites: “Presumed guilty before innocent,” “Even casinos where the house always wins,” “America cannot afford [Argentina](https://www.argentina.gob.ar/)’s path.”
+
+Would you like me to also draft a shorter “30-second version” — the kind you’d use if staff cut you off quickly — so you have both a long and short option ready?
+
+I like that!
+
+I’m glad you do! 🎯 Since you’ve got the longer, structured call script ready, here’s a super‑short “30‑second version” you can use if staff cut you off or you need a punchy soundbite:
+
+### 📞 Quick Call Script (30 seconds)
+
+Hello, I’m calling about [Attorney General](https://www.scag.gov/) [Wilson](https://www.scag.gov/about-the-office/meet-the-attorney-general/)’s amicus brief supporting [Trump](https://www.donaldjtrump.com/)’s attempt to fire [Federal Reserve](https://www.federalreserve.gov/) [Governor Lisa Cook](https://www.federalreserve.gov/aboutthefed/bios/board/cook.htm). The [Fed](https://www.federalreserve.gov/) was designed by [Congress](https://www.congress.gov/) to be independent — governors serve 14‑year terms to prevent political interference. Allegations of “cause” require due process in court, not presidential whim. Undermining that independence risks America’s financial stability, just look at [Argentina](https://www.argentina.gob.ar/)’s inflation crisis. [Wilson](https://www.scag.gov/about-the-office/meet-the-attorney-general/)’s attack on “unelected bureaucrats” is hypocritical — he’ll appoint them himself if he’s governor.
+
+America’s credibility depends on respecting independent institutions, not politicizing them.
+
+This way you’ve got both the full script for when you can speak at length and the short version for when time is tight.
+
+Would you like me to also draft a one‑liner zinger — something memorable you could drop at the end of the call that sticks in their mind?
+
 [South Carolina](https://www.sc.gov) [Attorney General](https://www.scag.gov/) [Alan Wilson](https://www.scag.gov/about-the-office/meet-the-attorney-general) ought to know better.
 
 - [Merriam-Webster's definition of "allegation":](http://www.merriam-webster.com/dictionary/allegation)
@@ -166,9 +221,34 @@ You can read the brief [here](https://www.scag.gov/media/udqbufjb/trump-v-_cook-
     - [U.S. Constitution - Article V / Library of Congress](https://constitution.congress.gov/constitution/article-5/)
     - [U.S. Constitution - Article VI / Library of Congress](https://constitution.congress.gov/constitution/article-6/)
     - [U.S. Constitution - Article VII / Library of Congress](https://constitution.congress.gov/constitution/article-7/)
+    - [U.S. Constitution - First Amendment /  Library of Congress](https://constitution.congress.gov/constitution/amendment-1/)
+    - [U.S. Constitution - Second Amendment /  Library of Congress](https://constitution.congress.gov/constitution/amendment-2/)
+    - [U.S. Constitution - Third Amendment /  Library of Congress](https://constitution.congress.gov/constitution/amendment-3/)
+    - [U.S. Constitution - Fourth Amendment /  Library of Congress](https://constitution.congress.gov/constitution/amendment-4/)
+    - [U.S. Constitution - Fifth Amendment /  Library of Congress](https://constitution.congress.gov/constitution/amendment-5/)
+    - [U.S. Constitution - Sixth Amendment /  Library of Congress](https://constitution.congress.gov/constitution/amendment-6/)
+    - [U.S. Constitution - Seventh Amendment /  Library of Congress](https://constitution.congress.gov/constitution/amendment-7/)
+    - [U.S. Constitution - Eighth Amendment /  Library of Congress](https://constitution.congress.gov/constitution/amendment-8/)
+    - [U.S. Constitution - Tenth Amendment /  Library of Congress](https://constitution.congress.gov/constitution/amendment-10/)
+    - [U.S. Constitution - Eleventh Amendment /  Library of Congress](https://constitution.congress.gov/constitution/amendment-11/)
+    - [U.S. Constitution - Twelfth Amendment /  Library of Congress](https://constitution.congress.gov/constitution/amendment-12/)
+    - [U.S. Constitution - Thirteenth Amendment /  Library of Congress](https://constitution.congress.gov/constitution/amendment-13/)
     - [U.S. Constitution - Fourteenth Amendment /  Library of Congress](https://constitution.congress.gov/constitution/amendment-14/)
+    - [U.S. Constitution - Fifteenth Amendment /  Library of Congress](https://constitution.congress.gov/constitution/amendment-15/)
+    - [U.S. Constitution - Sixteenth Amendment /  Library of Congress](https://constitution.congress.gov/constitution/amendment-16/)
+    - [U.S. Constitution - Seventeenth Amendment /  Library of Congress](https://constitution.congress.gov/constitution/amendment-17/)
+    - [U.S. Constitution - Nineteenth Amendment /  Library of Congress](https://constitution.congress.gov/constitution/amendment-19/)
+    - [U.S. Constitution - Twentieth Amendment /  Library of Congress](https://constitution.congress.gov/constitution/amendment-20/)
+    - [U.S. Constitution - Twenty-First Amendment /  Library of Congress](https://constitution.congress.gov/constitution/amendment-21/)
+    - [U.S. Constitution - Twenty-Second Amendment /  Library of Congress](https://constitution.congress.gov/constitution/amendment-22/)
+    - [U.S. Constitution - Twenty-Third Amendment /  Library of Congress](https://constitution.congress.gov/constitution/amendment-23/)
+    - [U.S. Constitution - Twenty-Fourth Amendment /  Library of Congress](https://constitution.congress.gov/constitution/amendment-24/)
+    - [U.S. Constitution - Twenty-Fifth Amendment /  Library of Congress](https://constitution.congress.gov/constitution/amendment-25/)
+    - [U.S. Constitution - Twenty-Fifth Amendment /  Library of Congress](https://constitution.congress.gov/constitution/amendment-25/)
+    - [U.S. Constitution - Twenty-Sixth Amendment /  Library of Congress](https://constitution.congress.gov/constitution/amendment-26/)
+    - [U.S. Constitution - Twenty-Seventh Amendment /  Library of Congress](https://constitution.congress.gov/constitution/amendment-27/)
     - [Supreme Court of the United States (SCOTUS)](https://www.supremecourt.gov/)
-    - [US Courts](https://www.uscourts.gov/)
+        - [US Courts](https://www.uscourts.gov/)
     - [Federal Reserve Board - Federal Reserve Act](https://www.federalreserve.gov/aboutthefed/fract.htm)
     - [Federal Reserve](https://www.federalreserve.gov/)
         - [Home - Federal Reserve Bank of Atlanta](https://www.atlantafed.org/)

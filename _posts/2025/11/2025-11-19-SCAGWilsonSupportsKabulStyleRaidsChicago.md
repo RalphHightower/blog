@@ -10,6 +10,8 @@ excerpt: ''
 title: "My Dumb State, South Carolina: Attorney General Alan Wilson Supports National Guard 'Kabul Style' Raids In Chicago! 🚨"
 ---
 
+Violence begets violence. [Department of Homeland Security (DHS)](https://www.dhs.gov/)'s goon squads, [Immigration and Customs Enforcement (ICE)](https://www.ice.gov/) and [Customs and Border Protection (CBP)](https://www.cbp.gov/) are not conducting themselves as police; instead, they are acting as if they are military in a foreign country.
+
 Black Hawk helicopters. Agents rappelling from helicopters. Kicking down doors. Trashing apartments. Apartment residents separated by doing color. Children separated from their parents. 
 
 - 2025-10-16 22:13; [Chicago Is In America, Not Gaza]({% link _posts/2025/10/2025-10-16-ChicagoIsInAmericaNotVietnam.md %})
@@ -53,9 +55,6 @@ You can read their brief [here](https://www.scag.gov/media/aztm3hgl/202511101820
 - [Arkansas.gov](https://portal.arkansas.gov/)
     - [Home - Arkansas Attorney General](https://arkansasag.gov/)
         - [Tim Griffin – Meet Tim - Arkansas Attorney General](https://arkansasag.gov/meet-tim/)
-- [Arizona Legislature](https://www.azleg.gov/)
-    - [Senate Member](https://www.azleg.gov/senate-member/)<br />Warren Petersen<br />President of the Senate<br />Phone Number: [602-926-4136](tel:+16029264136)
-    - [House Member](https://www.azleg.gov/house-member/)<br />Steve Montenegro<br />Speaker of the House<br />Phone Number: [602-926-3635](tel:+16029263635)
 - [Georgia.gov](https://georgia.gov/)
     - [Office of the Attorney General](https://law.georgia.gov/)
         - [Chris Carr / Office of the Attorney General](https://law.georgia.gov/biography-attorney-general)
@@ -128,6 +127,32 @@ You can read their brief [here](https://www.scag.gov/media/aztm3hgl/202511101820
     - [U.S. Constitution - Article V / Library of Congress](https://constitution.congress.gov/constitution/article-5/)
     - [U.S. Constitution - Article VI / Library of Congress](https://constitution.congress.gov/constitution/article-6/)
     - [U.S. Constitution - Article VII / Library of Congress](https://constitution.congress.gov/constitution/article-7/)
+    - [U.S. Constitution - First Amendment /  Library of Congress](https://constitution.congress.gov/constitution/amendment-1/)
+    - [U.S. Constitution - Second Amendment /  Library of Congress](https://constitution.congress.gov/constitution/amendment-2/)
+    - [U.S. Constitution - Third Amendment /  Library of Congress](https://constitution.congress.gov/constitution/amendment-3/)
+    - [U.S. Constitution - Fourth Amendment /  Library of Congress](https://constitution.congress.gov/constitution/amendment-4/)
+    - [U.S. Constitution - Fifth Amendment /  Library of Congress](https://constitution.congress.gov/constitution/amendment-5/)
+    - [U.S. Constitution - Sixth Amendment /  Library of Congress](https://constitution.congress.gov/constitution/amendment-6/)
+    - [U.S. Constitution - Seventh Amendment /  Library of Congress](https://constitution.congress.gov/constitution/amendment-7/)
+    - [U.S. Constitution - Eighth Amendment /  Library of Congress](https://constitution.congress.gov/constitution/amendment-8/)
+    - [U.S. Constitution - Tenth Amendment /  Library of Congress](https://constitution.congress.gov/constitution/amendment-10/)
+    - [U.S. Constitution - Eleventh Amendment /  Library of Congress](https://constitution.congress.gov/constitution/amendment-11/)
+    - [U.S. Constitution - Twelfth Amendment /  Library of Congress](https://constitution.congress.gov/constitution/amendment-12/)
+    - [U.S. Constitution - Thirteenth Amendment /  Library of Congress](https://constitution.congress.gov/constitution/amendment-13/)
+    - [U.S. Constitution - Fourteenth Amendment /  Library of Congress](https://constitution.congress.gov/constitution/amendment-14/)
+    - [U.S. Constitution - Fifteenth Amendment /  Library of Congress](https://constitution.congress.gov/constitution/amendment-15/)
+    - [U.S. Constitution - Sixteenth Amendment /  Library of Congress](https://constitution.congress.gov/constitution/amendment-16/)
+    - [U.S. Constitution - Seventeenth Amendment /  Library of Congress](https://constitution.congress.gov/constitution/amendment-17/)
+    - [U.S. Constitution - Nineteenth Amendment /  Library of Congress](https://constitution.congress.gov/constitution/amendment-19/)
+    - [U.S. Constitution - Twentieth Amendment /  Library of Congress](https://constitution.congress.gov/constitution/amendment-20/)
+    - [U.S. Constitution - Twenty-First Amendment /  Library of Congress](https://constitution.congress.gov/constitution/amendment-21/)
+    - [U.S. Constitution - Twenty-Second Amendment /  Library of Congress](https://constitution.congress.gov/constitution/amendment-22/)
+    - [U.S. Constitution - Twenty-Third Amendment /  Library of Congress](https://constitution.congress.gov/constitution/amendment-23/)
+    - [U.S. Constitution - Twenty-Fourth Amendment /  Library of Congress](https://constitution.congress.gov/constitution/amendment-24/)
+    - [U.S. Constitution - Twenty-Fifth Amendment /  Library of Congress](https://constitution.congress.gov/constitution/amendment-25/)
+    - [U.S. Constitution - Twenty-Fifth Amendment /  Library of Congress](https://constitution.congress.gov/constitution/amendment-25/)
+    - [U.S. Constitution - Twenty-Sixth Amendment /  Library of Congress](https://constitution.congress.gov/constitution/amendment-26/)
+    - [U.S. Constitution - Twenty-Seventh Amendment /  Library of Congress](https://constitution.congress.gov/constitution/amendment-27/)
     - [Department if Defense (DOD)](https://www.defense.gov/)
         - [Joint Chiefs of Staff (JCS)](https://www.jcs.mil/)
             - [National Guard](https://www.nationalguard.mil/)
