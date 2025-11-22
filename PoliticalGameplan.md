@@ -142,10 +142,10 @@ Class II.
 
 - 2025-11-13: [Senator Lindsey Graham (T-SC), Like Trump, Intends To Extort the Federal Government]({% link _posts/2025/11/2025-11-13-LindseyGrahamIntendsExtortFederalGovernment.md %})
 - 2025-10-08: [Latest Lies From Trumpian Senators: FBI 'Wiretapped' Them. No, They Didn't Listen In; They Captured Number Dialed & Call Duration]({% link _posts/2025/10/2025-10-08-TrumpianLiesOnJan6Investigation.md %})
-- 2025-01-26: [Trump's Poodle, Senator Lindsey Graham (T-SC), On NBC Meet The Press]({% link blog/_posts/2025/01/2025-01-26-TrumpsPoodleOnMTP.md %})
-- 2024-12-15: [Sen. Lindsey Graham (T-SC) States That Trump Won't Prosecute Political Enemies. Yea, Right!]({% link blog/_posts/2024/12/2024-12-15-LindseyGraham20241215MTP.md %})
-- 2024-12-12: [MSNBC Morning Joe Panel Discusses Kash Patel as Trump's Pick for FBI Director]({% link blog/_posts/2024/12/2024-12-12-LindseyGrahamSupportsPatek4FBI.md %})
-- 2024-10-20: [Bless His Heart – Senator Lindsey Graham (T-SC): Why Are You "Republicans" Supporting Harris?]({% link blog/_posts/2024/10/2024-10-20-AnswerToTrumpersSupportingHarris.md %})
+- 2025-01-26: [Trump's Poodle, Senator Lindsey Graham (T-SC), On NBC Meet The Press]({% link _posts/2025/01/2025-01-26-TrumpsPoodleOnMTP.md %})
+- 2024-12-15: [Sen. Lindsey Graham (T-SC) States That Trump Won't Prosecute Political Enemies. Yea, Right!]({% link _posts/2024/12/2024-12-15-LindseyGraham20241215MTP.md %})
+- 2024-12-12: [MSNBC Morning Joe Panel Discusses Kash Patel as Trump's Pick for FBI Director]({% link _posts/2024/12/2024-12-12-LindseyGrahamSupportsPatek4FBI.md %})
+- 2024-10-20: [Bless His Heart – Senator Lindsey Graham (T-SC): Why Are You "Republicans" Supporting Harris?]({% link _posts/2024/10/2024-10-20-AnswerToTrumpersSupportingHarris.md %})
 
 | Office Locations |
 |---|
@@ -170,7 +170,7 @@ Class III.
 
 Yes, my assessment has racial overtones, but [Scott](https://www.scott.senate.gov/) is [Trump's](https://www.whitehouse.gov/administration/donald-j-trump/) *"lawn jockey."*
 
-- 2024-11-04: [Sen. Tim Scott (T-SC) Is Trump's Lawn Jockey]({% link blog/_posts/2024/11/2024-11-04-TimScottIsTrumpsLawnJockey.md %})
+- 2024-11-04: [Sen. Tim Scott (T-SC) Is Trump's Lawn Jockey]({% link _posts/2024/11/2024-11-04-TimScottIsTrumpsLawnJockey.md %})
 
 | Office Locations |
 |---|
