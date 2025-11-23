@@ -20,6 +20,10 @@ The telephone numbers below have called and there is an empty person on the othe
 
 | Telephone Number | Location | Date Time[^11]<sup>,</dup>[^12] | Caller | Social Media |
 |---|---|---|---|---|
+| [\+1 (803) 658-4737](tel:+18036584737) | SC. Hickory Grove ! 2025-11-22 4:24 PM | Edward Bryant | — | |
+| [\+1 (803) 275-2718](tel:+18032752718) | SC. Johnston | 2025-11-22 03:18 PM ! | — | |
+| [\+1 (803) 283-4371](tel:+18032834371) | SC. Lancaster | 2025-11-22 01:10 PM | Catrina Bradley (JAMES A BRADLEY) | |
+| [\+1 (803) 705-2673](tel:+18037052673) | SC. Columbia! ! 2025-11-22 11:31 AM | 0 | — | |
 | [\+1 (803) 442-4294](tel:+18034424294) | SC. North Augusta | 2025-11-21 07:47 PM | VICTORIA RAY | |
 | [\+1 (803) 855-0926](tel:+18038550926) | SC. Orangeburg | 2025-11-21 06:46 PM | — | |
 | [\+1 (803) 663-0194](tel:+18036630194) | SC. Graniteville | 2025-11-21 05:33 PM | — | |
