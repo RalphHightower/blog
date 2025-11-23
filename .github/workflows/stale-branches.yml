@@ -13,6 +13,7 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       issues: write
+      contents: write
     steps:
       - name: Harden the runner (Audit all outbound calls)
         uses: step-security/harden-runner@95d9a5deda9de15063e7595e9719c11c38c90ae2 # v2.13.2
