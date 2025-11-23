@@ -183,7 +183,6 @@ function printTitle() {
     }
 
 function postTrailer() {
-    printTitle()
 
     printWorldStockExchanges()
     printTrumpBusinesses()
@@ -191,6 +190,9 @@ function postTrailer() {
     printTrumpAutocracy()
     printTrumpCrimeBusinesses()
     printTrumpStupidity()
+    
+    # print at end of file. File will be positioned at EOF. This makes it easier to cut and paste in Jekyll and paste as title and navigation 
+    printTitle()
     }
     
 function printWorldStockExchanges() {  
