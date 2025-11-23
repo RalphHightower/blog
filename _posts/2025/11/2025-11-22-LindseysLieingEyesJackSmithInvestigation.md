@@ -13,7 +13,15 @@ title: "Senate Added a Section in the Government Continuing Resolution That Lega
 
 - [Federal: 2020 Election Interference, January 6 Insurrection]({% link January6DocumentDocumentLinks.md %})
 
-[Senator Lindsey Graham (T-SC)](https,://www.lgraham.senate.gov/) contacted [Georgia Secretary of State](https://sos.ga.gov/) asking him to throw out [Georgia](https://www.georgia.gov/) mail-in votes.
+## January 6 Amnesia
+
+[Senator Lindsey Graham (T-SC)](https://www.lgraham.senate.gov/) has completely forgotten about what happened when [Trump](supporters stormed the Capitol to halt the transfer of power to the next administration. 
+
+[Lindsey Graham (T-SC)](https://www.lgraham.senate.gov/) claims that he intends to sue the hell out of government for *"wiretapping"* his cellphones. The subpoenas were issued in 2022 by [Special Counsel Jack Smith](https://www.justice.gov/archives/sco-smith) in the 2020 election interference and January 6, 2022 insurrection to stop the certification of the Electoral College votes.
+
+[Senator Lindsey Graham (T-SC)](https,://www.lgraham.senate.gov/) contacted [Georgia Secretary of State](https://sos.ga.gov/) asking him to throw out [Georgia](https://www.georgia.gov/) mail-in votes.[^171]
+
+[^171]: [Georgia official says Graham asked him about tossing ballots / AP News](https://apnews.com/article/georgia-official-graham-tossing-ballots-281416294b5c54c6535f8ffaab4322a2)<br /><br />By  KATE BRUMBACK<br />Published 2:01 PM EST, November 16, 2020
 
 ## Graham Speaks on Arctic Frost at Press Conference with Colleagues
 
@@ -25,13 +33,33 @@ You can’t hide your Senate cries,<br />And your smile is just disguise.<br />T
 
 Acting tough with Emmy flair,<br />Phones were seized, you shout unfair.<br />Bravo echoes through the hall,<br />But it’s taxpayers who foot it all.
 
+### Ex Post Facto 
+
+[Sec. 213. (a) In general.—Section 10 of the Legislative Branch Appropriations Act, 2005 (2 U.S.C. 6628) is amended—](https://ralphhightower.github.io/blog/2025/11/LindseysLieingEyesJackSmithInvestigation.html#sec-213-a-in-generalsection-10-of-the-legislative-branch-appropriations-act-2005-2-usc-6628-is-amended) of [H. R. 5371 ]() is in direct violation of the [Constitution](https://constitution.congress.gov/constitution_) [Article I. Section 9. Clause 3](https://constitution.congress.gov/constitution/article-1/#article-1-section-9-clause-3)
+No Bill of Attainder or ex post facto Law shall be passed.
+
+#### "Back To The Future" Paradox
+
+Here is a simple explanation of ex post facto and why retroactive laws violate the [Constitution](https://constitution.congress.gov/constitution/) and why it is impossible to legislate the past.
+
+In 2022, you drove 55 MPH on a highway where the posted speed limit is 55 MPH. In 2025, the speed limit is changed to 45 MPH with the speed limit change retroactive to 2022. The government cannot write you a speeding ticket in 2025 when it was legal in 2022.
+
 ## Full Phone Call: Trump Pressures Georgia Secretary of State To Recount Election Votes | NBC News
 
 Then there’s the infamous recorded telephone call from [Trump](https://www.donaldjtrump.com/) to [Georgia Secretary of State](https://sos.ga.gov/), asking for 11,780 more votes.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AW_Bdf_jGaA?si=MpFFgxthF9k9DEDB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+## Graham VOWS To SUE Over 'ARCTIC FROST'; Maher CHALLENGES Patton Oswalt On Dems' DIRECTION | RISING
+ 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3ctdX_Wu0qA?si=CDxKnQ2DiYpc8VAu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+About Rising: <br />Rising is a weekday morning show with bipartisan hosts that breaks the mold of morning TV by taking viewers inside the halls of Washington power like never before. The show leans into the day's political cycle with cutting edge analysis from DC insiders who can predict what is going to happen. It also sets the day's political agenda by breaking exclusive news with a team of scoop-driven reporters and demanding answers during interviews with the country's most important political newsmaker
+
+
 @RalphHightower: I deleted a lot of text from [H. R. 5371 (Enrolled-Bill)](https://www.congress.gov/119/bills/hr5371/BILLS-119hr5371enr.xml) to keep just the relevant text.
+
+----
 
 [H. R. 5371 (Enrolled-Bill)](https://www.congress.gov/119/bills/hr5371/BILLS-119hr5371enr.xml)
 AT THE FIRST SESSION
@@ -224,6 +252,39 @@ GENERAL PROVISIONS
 (B) PERIOD.—With respect to any violation of section 10 with respect to which the applicable Senator first obtained actual notice of the violation of section 10 before the date of enactment of this Act, a civil action under subsection (d) of section 10 of the [Legislative Branch](https://www.congress.gov,/) Appropriations Act, 2005 (2 U.S.C. 6628), as added by this section, may not be commenced later than 5 years after the date of enactment of this Act.
 
 This division may be cited as the “[Legislative Branch](https://www.congress.gov,/) Appropriations Act, 2026”.
+
+## January 6, 2021 Footage 
+
+### LIVE COVERAGE | Mob storms the U.S. Capitol on Jan. 6th 2021
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_EQfUbE4bL8?si=FqH6sKzPmlCZ_mSJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Streamed live on Jan 6, 2021
+Protesters pressed past police and broke into the U.S. Capitol as Congress met in a joint session on Jan. 6 to count each state’s electoral votes and confirm President-elect Joe Biden as the winner. As many as three dozen congressional Republicans were expected to launch a final challenge to the results of the 2020 presidential election.
+
+It has become routine after recent elections for House lawmakers on the losing side to put up a symbolic fight over the results, which they can do under an 1880s law governing the process. It has been less common for senators to join them, but this time a dozen will. Sens. Josh Hawley (R-Mo.) and Ted Cruz (R-Tex.) will lead the challenge of the votes and call for an “emergency audit” to investigate baseless fraud allegations.
+
+The Post’s Libby Casey will anchor live coverage, featuring reporters Aaron Blake, Rhonda Colvin, James Hohmann and Amber Phillips. Read more: https://wapo.st/3ohQZCg. Read more: https://wapo.st/3ohQZCg. Subscribe to The Washington Post on YouTube: https://wapo.st/2QOdcqK
+
+### Day of Rage: How Trump Supporters Took the U.S. Capitol | Visual Investigations
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jWJVMoe7OY0?si=ZbDYpCgKu6NawY1l" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+The New York Times
+4.9M subscribers
+
+Jul 1, 2021
+The Jan. 6 attack on the U.S. Capitol was perhaps the most widely documented act of political violence in history. The New York Times obtained, analyzed and mapped out thousands of cellphone videos, police bodycam recordings and internal police audio to provide the most complete picture to date of what happened — and why. Our Oscar-shortlisted documentary “Day of Rage” charts in chilling detail how the peaceful transition of power was disrupted by rioters who stormed a seemingly impenetrable seat of government.
+
+The team behind “Day of Rage” will release scenes and other reporting that were left on the cutting room floor on the film’s Twitter account, @dayofrage.
+
+Sign up for our Visual Investigations newsletter: https://nyti.ms/3xhj7dE
+
+Subscribe: http://bit.ly/U8Ys7n
+More from The New York Times Video:  http://nytimes.com/video
+
+Whether it's reporting on conflicts abroad and political divisions at home, or covering the latest style trends and scientific developments, New York Times video journalists provide a revealing and unforgettable view of the world. It's all the news that's fit to watch.
+
 
 ----
 - media
