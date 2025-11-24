@@ -7,7 +7,7 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: 'Founding Fathers Constitutional Legal Tripwire Prohibiting Retroactive Laws"
+title: "Founding Fathers Constitutional Legal Tripwire Prohibiting Retroactive Laws"
 ---
 
 - [ ] [\+1 (803) 933-0112 (Columbia)](tel:+18039330112)
