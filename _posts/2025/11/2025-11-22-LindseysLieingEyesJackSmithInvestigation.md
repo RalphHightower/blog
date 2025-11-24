@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [media, Federal –  2020 Election Interference January 6 Insurrection, political parties, Democrat Party, Trumpian Party, Trump’s perceived enemies, James B. Comey September 4 2013 - May 9 2017 — FBI, Letitia James / New York State Attorney General, Adam Schiff (D-CA), federal government, Constitution of the United States, U.S. Constitution - Article I / Library of Congress, U.S. Constitution - Article II / Library of Congress, U.S. Constitution - Article III / Library of Congress, U.S. Constitution - Article IV / Library of Congress, U.S. Constitution - Article V / Library of Congress, U.S. Constitution - Article VI / Library of Congress, U.S. Constitution - Article VII / Library of Congress, U.S. Constitution - First Amendment / Library of Congress, U.S. Constitution - Second Amendment / Library of Congress, U.S. Constitution - Third Amendment / Library of Congress, U.S. Constitution - Fourth Amendment / Library of Congress, U.S. Constitution - Fifth Amendment / Library of Congress, U.S. Constitution - Sixth Amendment / Library of Congress, U.S. Constitution - Seventh Amendment / Library of Congress, U.S. Constitution - Eighth Amendment / Library of Congress, U.S. Constitution - Tenth Amendment / Library of Congress, U.S. Constitution - Eleventh Amendment / Library of Congress, U.S. Constitution - Twelfth Amendment / Library of Congress, U.S. Constitution - Thirteenth Amendment / Library of Congress, U.S. Constitution - Fourteenth Amendment / Library of Congress, U.S. Constitution - Fifteenth Amendment / Library of Congress, U.S. Constitution - Sixteenth Amendment / Library of Congress, U.S. Constitution - Seventeenth Amendment / Library of Congress, U.S. Constitution - Nineteenth Amendment / Library of Congress, U.S. Constitution - Twentieth Amendment / Library of Congress, U.S. Constitution - Twenty-First Amendment / Library of Congress, U.S. Constitution - Twenty-Second Amendment / Library of Congress, U.S. Constitution - Twenty-Third Amendment / Library of Congress, U.S. Constitution - Twenty-Fourth Amendment / Library of Congress, U.S. Constitution - Twenty-Fifth Amendment / Library of Congress, U.S. Constitution - Twenty-Fifth Amendment / Library of Congress, U.S. Constitution - Twenty-Sixth Amendment / Library of Congress, U.S. Constitution - Twenty-Seventh Amendment / Library of Congress, Supreme Court of the United States (SCOTUS), US Courts, Department of Justice (DOJ), Federal Bureau of Investigation (FBI), U.S. Department of the Treasury, Federal Housing Finance Agency (FHFA), Congress, H. R. 5371 (Enrolled-Bill), Senate, Lindsey Graham (T-SC), House of Representatives, President of the United States (POTUS), White House (WH), Trump autocracy, Donald J Trump, President Donald Trump (45), President Donald Trump (47), President Trump (47) Administration, President Trump (47) Cabinet, press secretary, Karoline Leavitt, Scott Bessent / U.S. Department of the Treasury, Director William J Pulte – Federal Housing Finance Agency (FHFA), Bill Pulte / LinkedIn, Pam Bondi – Office of the Attorney General / Meet the Attorney General / United States Department of Justice, Todd Blanche – Office of the Deputy Attorney General / Office of the Deputy Attorney General, Todd Blanche / LinkedIn, Lindsey Halligan, Director Kash Patel — FBI, Deputy Director Dan Bongino — FBI, grifter, self-dealing, corruption, con artist, crime, cryptocurrency, criminal associates, criminal businesses, criminal media, criminal organizations, criminal partners]
+tags: [media, The Hill - covering Congress Politics Political Campaigns and Capitol Hill, Federal –  2020 Election Interference January 6 Insurrection, political parties, Democrat Party, Trumpian Party, state local governments, Homepage / Georgia Secretary of State, federal government, Constitution of the United States, U.S. Constitution - Article I / Library of Congress, U.S. Constitution - Article II / Library of Congress, U.S. Constitution - Article III / Library of Congress, U.S. Constitution - Article IV / Library of Congress, U.S. Constitution - Article V / Library of Congress, U.S. Constitution - Article VI / Library of Congress, U.S. Constitution - Article VII / Library of Congress, U.S. Constitution - First Amendment / Library of Congress, U.S. Constitution - Second Amendment / Library of Congress, U.S. Constitution - Third Amendment / Library of Congress, U.S. Constitution - Fourth Amendment / Library of Congress, U.S. Constitution - Fifth Amendment / Library of Congress, U.S. Constitution - Sixth Amendment / Library of Congress, U.S. Constitution - Seventh Amendment / Library of Congress, U.S. Constitution - Eighth Amendment / Library of Congress, U.S. Constitution - Tenth Amendment / Library of Congress, U.S. Constitution - Eleventh Amendment / Library of Congress, U.S. Constitution - Twelfth Amendment / Library of Congress, U.S. Constitution - Thirteenth Amendment / Library of Congress, U.S. Constitution - Fourteenth Amendment / Library of Congress, U.S. Constitution - Fifteenth Amendment / Library of Congress, U.S. Constitution - Sixteenth Amendment / Library of Congress, U.S. Constitution - Seventeenth Amendment / Library of Congress, U.S. Constitution - Nineteenth Amendment / Library of Congress, U.S. Constitution - Twentieth Amendment / Library of Congress, U.S. Constitution - Twenty-First Amendment / Library of Congress, U.S. Constitution - Twenty-Second Amendment / Library of Congress, U.S. Constitution - Twenty-Third Amendment / Library of Congress, U.S. Constitution - Twenty-Fourth Amendment / Library of Congress, U.S. Constitution - Twenty-Fifth Amendment / Library of Congress, U.S. Constitution - Twenty-Fifth Amendment / Library of Congress, U.S. Constitution - Twenty-Sixth Amendment / Library of Congress, U.S. Constitution - Twenty-Seventh Amendment / Library of Congress, Supreme Court of the United States (SCOTUS), US Courts, Department of Justice (DOJ), Federal Bureau of Investigation (FBI), U.S. Department of the Treasury, Congress, Foreign Intelligence Surveillance Act (FISA) / Library of Congress, H. R. 5371 (Enrolled-Bill), Sec. 213. (a) In general.—Section 10 of the Legislative Branch Appropriations Act 2005 (2 U.S.C. 6628) is amended—, Senate, Lindsey Graham (T-SC), House of Representatives, President of the United States (POTUS), White House (WH), Trump autocracy, Donald J Trump, President Donald Trump (45), President Donald Trump (47), President Trump (47) Administration, President Trump (47) Cabinet, press secretary, Karoline Leavitt, Scott Bessent / U.S. Department of the Treasury, Pam Bondi – Office of the Attorney General / Meet the Attorney General / United States Department of Justice, Todd Blanche – Office of the Deputy Attorney General / Office of the Deputy Attorney General, Todd Blanche / LinkedIn, Lindsey Halligan, Director Kash Patel — FBI, Deputy Director Dan Bongino — FBI, grifter, self-dealing, corruption, con artist, crime, cryptocurrency, criminal associates, criminal businesses, criminal media, criminal organizations, criminal partners]
 categories: [Donald Trump, 2020 Election Interference, January 6 2021 Insurrection, Georgia, Secretary of State, Brad Raffensperger, Lindsey Graham (T-SC)]
 date: 2025-11-22 16:22
 excerpt: ''
@@ -13,6 +13,10 @@ title: "Senate Added a Section in the Government Continuing Resolution That Lega
 
 - [Federal: 2020 Election Interference, January 6 Insurrection]({% link January6DocumentDocumentLinks.md %})
 
+## January 6, 2021. Senator Lindsey Graham (T-SC). Congressional Record – After Order Was Restored
+
+Trump and I have had a hell of a journey. I hate it being this way. Oh, my God, I hate it. From my point of view, he has been a consequential President. But today, the first thing you will see, all I can say is, count me out. Enough is enough. I tried to be helpful. But when the Wisconsin supreme court ruled 4 to 3 that they didn’t violate the Constitution of Wisconsin, I agreed with the three, but I accept the four. If Al Gore can accept 5 to 4 he is not President, I can accept Wisconsin 4 to 3. Pennsylvania went to the Second Circuit. So much for all the judges being in Trump’s pocket. They said: No, you are wrong. I accept the Pennsylvania Second Circuit that Trump’s lawsuit wasn’t right. Georgia, they said the secretary of state took the law in his own hands, and he changed the election laws unlawfully. A Federal judge said no. I accept the Federal judge, even though I don’t agree with it. Fraud. They say there is 66,000 people in Georgia under 18 voting. How many people believe that? I asked: Give me 10. I haven’t had one. They said 8,000 felons in prison in Arizona voted. Give me 10. I haven’t gotten one. Does that say there are problems in every election? I don’t buy this. Enough is enough. We got to end it. -- 
+
 ## January 6 Amnesia
 
 [Senator Lindsey Graham (T-SC)](https://www.lgraham.senate.gov/) has completely forgotten about what happened when [Trump](supporters stormed the Capitol to halt the transfer of power to the next administration. 
@@ -23,7 +27,7 @@ title: "Senate Added a Section in the Government Continuing Resolution That Lega
 
 [^171]: [Georgia official says Graham asked him about tossing ballots / AP News](https://apnews.com/article/georgia-official-graham-tossing-ballots-281416294b5c54c6535f8ffaab4322a2)<br /><br />By  KATE BRUMBACK<br />Published 2:01 PM EST, November 16, 2020
 
-## Graham Speaks on Arctic Frost at Press Conference with Colleagues
+### Graham Speaks on Arctic Frost at Press Conference with Colleagues
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-994GDI_wgw?si=B4imFjpb-tMUxWrx&amp;start=76" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -35,7 +39,7 @@ Acting tough with Emmy flair,<br />Phones were seized, you shout unfair.<br />Br
 
 ### Ex Post Facto 
 
-[Sec. 213. (a) In general.—Section 10 of the Legislative Branch Appropriations Act, 2005 (2 U.S.C. 6628) is amended—](https://ralphhightower.github.io/blog/2025/11/LindseysLieingEyesJackSmithInvestigation.html#sec-213-a-in-generalsection-10-of-the-legislative-branch-appropriations-act-2005-2-usc-6628-is-amended) of [H. R. 5371 ]() is in direct violation of the [Constitution](https://constitution.congress.gov/constitution_) [Article I. Section 9. Clause 3](https://constitution.congress.gov/constitution/article-1/#article-1-section-9-clause-3)
+[Sec. 213. (a) In general.—Section 10 of the Legislative Branch Appropriations Act, 2005 (2 U.S.C. 6628) is amended—](https://ralphhightower.github.io/blog/2025/11/LindseysLieingEyesJackSmithInvestigation.html#sec-213-a-in-generalsection-10-of-the-legislative-branch-appropriations-act-2005-2-usc-6628-is-amended) of [H. R. 5371](https://www.congress.gov/119/bills/hr5371/BILLS-119hr5371enr.xml) is in direct violation of the [Constitution](https://constitution.congress.gov/constitution_) [Article I. Section 9. Clause 3](https://constitution.congress.gov/constitution/article-1/#article-1-section-9-clause-3)
 No Bill of Attainder or ex post facto Law shall be passed.
 
 #### "Back To The Future" Paradox
@@ -44,11 +48,9 @@ Here is a simple explanation of ex post facto and why retroactive laws violate t
 
 In 2022, you drove 55 MPH on a highway where the posted speed limit is 55 MPH. In 2025, the speed limit is changed to 45 MPH with the speed limit change retroactive to 2022. The government cannot write you a speeding ticket in 2025 when it was legal in 2022.
 
-## Full Phone Call: Trump Pressures Georgia Secretary of State To Recount Election Votes | NBC News
+## "Laws For Thee, But Not For Me"
 
-Then there’s the infamous recorded telephone call from [Trump](https://www.donaldjtrump.com/) to [Georgia Secretary of State](https://sos.ga.gov/), asking for 11,780 more votes.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AW_Bdf_jGaA?si=MpFFgxthF9k9DEDB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+In the [The Hill](https://thehill.com/) video below, the hosts point out that [Graham](https://https://www.lgraham.senate.gov/) is more than happy for government to spy on citizens using [Foreign Intelligence Surveillance Act (FISA) / Congress.gov / Library of Congress](https://www.congress.gov/crs-product/IF11451)
 
 ## Graham VOWS To SUE Over 'ARCTIC FROST'; Maher CHALLENGES Patton Oswalt On Dems' DIRECTION | RISING
  
@@ -56,6 +58,19 @@ Then there’s the infamous recorded telephone call from [Trump](https://www.don
 
 About Rising: <br />Rising is a weekday morning show with bipartisan hosts that breaks the mold of morning TV by taking viewers inside the halls of Washington power like never before. The show leans into the day's political cycle with cutting edge analysis from DC insiders who can predict what is going to happen. It also sets the day's political agenda by breaking exclusive news with a team of scoop-driven reporters and demanding answers during interviews with the country's most important political newsmaker
 
+- [Fears grow of DOJ becoming ‘piggy bank’ for Donald Trump as allies seek lucrative settlements / The Hill](https://thehill.com/homenews/administration/5618124-trump-allies-justice-department-settlements/)<br />by Rebecca Beitsch - 11/23/25 6:00 AM ET
+- [Mike Johnson counters John Thune on Russian sanctions bill process / The Hill](https://thehill.com/homenews/house/5617766-johnson-thune-russian-sanctions-bill/)<_>by Emily Brooks - 11/21/25 3:29 PM ET
+- [GOP Rep. Fitzpatrick moves to force vote on Russia sanctions bill / The Hill](https://thehill.com/homenews/house/5617711-fitzpatrick-forces-vote-russia-sanctions/)<br />by Laura Kelly - 11/21/25 2:50 PM ET
+- [Senate floor debate erupts over letting senators reap millions from suing DOJ / The Hill](https://thehill.com/homenews/senate/5616018-senate-cell-phone-records-lawsuits-clash/)<br />by Alexander Bolton - 11/20/25 4:56 PM ET
+- [Senate Democrats introduce bill to strike down $500k phone record provision / The Hill](https://thehill.com/homenews/senate/5614929-senate-democrats-phone-record-provision/)<br />by Rebecca Beitsch - 11/20/25 11:08 AM ET
+- [John Thune blocking House effort to overturn $500K Senate lawsuit law / The Hill](https://thehill.com/homenews/senate/5614047-thune-senate-cell-phone-litigation-house-vote/)<br />by Al Weaver - 11/20/25 6:00 AM ET
+- [John Thune blasts Mike Johnson push to prevent senators' $500K DOJ lawsuits / The Hill](https://thehill.com/homenews/senate/5613644-thune-house-gop-repeal-sue-doj/)<br />by Alexander Bolton - 11/19/25 3:58 PM ET
+
+## Full Phone Call: Trump Pressures Georgia Secretary of State To Recount Election Votes | NBC News
+
+Then there’s the infamous recorded telephone call from [Trump](https://www.donaldjtrump.com/) to [Georgia Secretary of State](https://sos.ga.gov/), asking for 11,780 more votes.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AW_Bdf_jGaA?si=MpFFgxthF9k9DEDB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 @RalphHightower: I deleted a lot of text from [H. R. 5371 (Enrolled-Bill)](https://www.congress.gov/119/bills/hr5371/BILLS-119hr5371enr.xml) to keep just the relevant text.
 
@@ -288,14 +303,11 @@ Whether it's reporting on conflicts abroad and political divisions at home, or c
 
 ----
 - media
+- [The Hill - covering Congress, Politics, Political Campaigns and Capitol Hill](https://thehill.com/)
 - [Federal: 2020 Election Interference, January 6 Insurrection]({% link January6DocumentDocumentLinks.md %})
 - political parties
 - [Democrat Party](https://www.democrats.org/)
 - [Trumpian Party](https://www.gop.com/)
-- Trump’s perceived enemies
-- [James B. Comey, September 4, 2013 - May 9, 2017 — FBI](https://www.fbi.gov/history/directors/james-b-comey)
-- [Letitia James / New York State Attorney General](https://ag.ny.gov/about/meet-letitia-james)
-- [Adam Schiff (D-CA)](https://www.schiff.senate.gov/)
 - state, local governments
 - [Homepage / Georgia Secretary of State](https://sos.ga.gov/)
 - federal government
@@ -338,9 +350,10 @@ Whether it's reporting on conflicts abroad and political divisions at home, or c
     - [Department of Justice (DOJ)](https://www.justice.gov/)
         - [Federal Bureau of Investigation (FBI)](https://www.fbi.gov/)
     - [U.S. Department of the Treasury](https://home.treasury.gov/)
-    - [Federal Housing Finance Agency (FHFA)](https://www.fhfa.gov/)
     - [Congress](https://www.congress.gov/)
+        - [Foreign Intelligence Surveillance Act (FISA) / Congress.gov / Library of Congress](https://www.congress.gov/crs-product/IF11451)
         - [H. R. 5371 (Enrolled-Bill)](https://www.congress.gov/119/bills/hr5371/BILLS-119hr5371enr.xml)
+            - [Sec. 213. (a) In general.—Section 10 of the Legislative Branch Appropriations Act, 2005 (2 U.S.C. 6628) is amended—](https://ralphhightower.github.io/blog/2025/11/LindseysLieingEyesJackSmithInvestigation.html#sec-213-a-in-generalsection-10-of-the-legislative-branch-appropriations-act-2005-2-usc-6628-is-amended)
         - [Senate](https://www.senate.gov/)
             - [Lindsey Graham (T-SC)](https://www.lgraham.senate.gov/)
         - [House of Representatives](https://www.house.gov/)
@@ -355,8 +368,6 @@ Whether it's reporting on conflicts abroad and political divisions at home, or c
                 - press secretary
                     - Karoline Leavitt
                 - [Scott Bessent / U.S. Department of the Treasury](https://home.treasury.gov/about/general-information/officials/scott-bessent)
-                - [Director William J Pulte – Federal Housing Finance Agency (FHFA)](https://www.fhfa.gov/about/leadership/william-j-pulte)
-                - [Bill Pulte / LinkedIn](https://www.linkedin.com/in/pulte/)
                 - [Pam Bondi – Office of the Attorney General / Meet the Attorney General / United States Department of Justice](https://www.justice.gov/ag/staff-profile/meet-attorney-general)
                     - [Todd Blanche – Office of the Deputy Attorney General / Office of the Deputy Attorney General](https://www.justice.gov/dag)
                     - [Todd Blanche / LinkedIn](https://www.linkedin.com/in/toddblanche/)
