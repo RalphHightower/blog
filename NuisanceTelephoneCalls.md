@@ -20,6 +20,14 @@ The telephone numbers below have called and there is an empty person on the othe
 
 | Telephone Number | Location | Date Time[^11]<sup>,</dup>[^12] | Caller | Social Media |
 |---|---|---|---|---|
+| [\+1 (803) 659-3853](tel:+18036593853) | SC. Rock Hill | 2025-11-24 06:10 PM | — | |
+| [\+1 (803) 590-3893](tel:+18035903893) | SC. Little Mountain | 2025-11-24 05:57 PM | — | |
+| [\+1 (803) 328-6067](tel:+18033286067) | SC. Rock Hill | 2025-11-24 11:46 AM | Alvin Starnes | |
+| [\+1 (803) 250-2712](tel:+18032502712) | SC. Columbia | 2025-11-24 11:21 AM ¤¤ | — | |
+| [\+1 (803) 250-2712](tel:+18032502712) | SC. Columbia | 2025-11-24 11:20 AM | — | |
+| [\+1 (803) 443-7385](tel:+18034437385) | SC. New Ellington | 2025-11-24 10:44 AM | — | |
+| [\+1 (803) 988-7923](tel:+18039887923) | SC. Columbia | 2025-11-24 09:16 AM | — | |
+| [\+1 (803) 692-1808](tel:+18036921808) | SC. Bishopville | 2025-11-24 09:12 AM | KEYONA R WARREN | |
 | [\+1 (803) 658-4737](tel:+18036584737) | SC. Hickory Grove ! 2025-11-22 4:24 PM | Edward Bryant | — | |
 | [\+1 (803) 275-2718](tel:+18032752718) | SC. Johnston | 2025-11-22 03:18 PM ! | — | |
 | [\+1 (803) 283-4371](tel:+18032834371) | SC. Lancaster | 2025-11-22 01:10 PM | Catrina Bradley (JAMES A BRADLEY) | |
