@@ -1,7 +1,7 @@
 ---
 layout: post
-tags: []
-categories: []
+tags: [media, MS NOW - Breaking News and News Today / Latest News, CNN / Breaking News Latest News and Videos, The New York Times (NYT) - Breaking News US News World News and Videos, The Hill - covering Congress Politics Political Campaigns and Capitol Hill, The Washington Post - Breaking news and latest headlines U.S. news world news and video - The Washington Post, organizations, political parties, Democrat Party, Florida Democratic Party / Fighting for Florida, Trumpian Party, Home - Flori-da GOP, state local governments, MyFlorida.gov - The Official Portal of the State of Florida, Home / My Florida Legal, Governor, Ron DeSantis / Executive Office of the Governor, Attorney General James Uthmeier / My Florida Legal, Constitution of the United States, Supreme Court of the United States (SCOTUS), US Courts, Department of Justice (DOJ), Federal Bureau of Investigation (FBI), U.S. Department of the Interior (DOI), Congress, Senate, Ashley Moody (T-FL), Rick Scott (T-FL), House of Representatives, Byron Donalds (T-FL19), Jimmy Patronis (T-FL1), President of the United States (POTUS), White House (WH), Trump autocracy, Donald J Trump, President Donald Trump (45), President Donald Trump (47), President Trump (47) Administration, President Trump (47) Cabinet, press secretary, Karoline Leavitt, Secretary Doug Burgum / U.S. Department of the Interior, grifter, self-dealing, corruption, con artist, crime, cryptocurrency, criminal associates, criminal businesses, Mar-a-Lago, Trump International Golf Club West Palm Beach, criminal media, criminal organizations, criminal partners]
+categories: [Donald Trump, Department of Interior (DOI), Doug Burgum, oil exploration, Gulf of Mexico, Atlantic Coast]
 date: 2025-11-24 21:41
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
