@@ -15,29 +15,31 @@ toc: true
 
 [^666]: @RalphHightower – [Federal Aviation Administration - Graphic TFRs](https://tfr.faa.gov/tfr3/?page=list)
 
-[^56225]: [Federal Aviation Administration - Graphic TFRs](https://tfr.faa.gov/tfr3/?page=detail_5_6225.html%3C%2FNotamDetail%3E%3C%2FTFR%3E)
-From November 14, 2025 at 2000 EST – November 16, 2025 at 1830 EST)
+[^50709]: [Federal Aviation Administration - Graphic TFRs](https://tfr.faa.gov/tfr3/?page=detail_5_0709). From November 25, 2025 at 2000 EST – November 30, 2025 at 1630 EST
 
-- **Sunday, November 30, 2025[^]**
+- **Sunday, November 30, 2025[^50709]**
     - -:-- AM ⛳️🏌‍♂️[Donnie](https://www.donaldjtrump.com/) departs [Mar-a-Lago](https://www.maralagoclub.com/) to play golf at his [Trump International Golf Club](https://www.trumpinternationalpalmbeaches.com/)
-    - -:-- PM ⛳️🏌‍♂️[Donnie] departs from a day of golf at [Trump International Golf Club](https://www.trumpinternationalpalmbeaches.com/) for his private resort club [Mar-a-Lago](https://www.maralagoclub.com/)
-    - -:-- PM [Donnie] departs for [Palm Beach International Airport (PBI)](https://www.pbia.org/)
+    - -:-- PM ⛳️🏌‍♂️[Donnie](https://www.donaldjtrump.com/) departs from a day of golf at [Trump International Golf Club](https://www.trumpinternationalpalmbeaches.com/) for his private resort club [Mar-a-Lago](https://www.maralagoclub.com/)
+    - 4:30 PM [Donnie](https://www.donaldjtrump.com/) departs for [Palm Beach International Airport (PBI)](https://www.pbia.org/)
     - -:-- PM [Donnie](https://www.donaldjtrump.com/) arrives at [Palm Beach International Airport (PBI)](https://www.pbia.org/)
     - -:-- PM [Donnie](https://www.donaldjtrump.com/) departs [Palm Beach International Airport (PBI)](https://www.pbia.org/)
     - -:-- PM [Donnie](https://www.donaldjtrump.com/) arrives at [Joint Base Andrews (ADW)](https://www.jba.af.mil/)
     - -:-- PM [Donnie](https://www.donaldjtrump.com/) departs [Joint Base Andrews (ADW)](https://www.jba.af.mil/)
     - -:-- PM [Donnie](https://www.donaldjtrump.com/) arrives at the [White House](https;//www.donaldjtrump.com/)
-- **Saturday, November 29, 2025[^]**
-    - -:-- ⛳️🏌‍♂️AM [Donnie](https://www.donaldjtrump.com/) departs [Mar-a-Lago](https://www.maralagoclub.com/) to play golf at his [Trump International Golf Club](https://www.trumpinternationalpalmbeaches.com/)
-    - -:-- PM ⛳️🏌‍♂️[Donnie] departs from a day of golf at [Trump International Golf Club](https://www.trumpinternationalpalmbeaches.com/) for his private resort club [Mar-a-Lago](https://www.maralagoclub.com/)
-- **Friday, November 28, 2025[^]**
+- **Saturday, November 29, 2025[^50709]**
     - -:-- AM ⛳️🏌‍♂️ [Donnie](https://www.donaldjtrump.com/) departs [Mar-a-Lago](https://www.maralagoclub.com/) to play golf at his [Trump International Golf Club](https://www.trumpinternationalpalmbeaches.com/)
-    - -:-- PM ⛳️🏌‍♂️[Donnie] departs from a day of golf at [Trump International Golf Club](https://www.trumpinternationalpalmbeaches.com/) for his private resort club [Mar-a-Lago](https://www.maralagoclub.com/)
-- **Thursday November 27, 2925[^]**
+    - -:-- PM ⛳️🏌‍♂️[Donnie](https://www.donaldjtrump.com/) departs from a day of golf at [Trump International Golf Club](https://www.trumpinternationalpalmbeaches.com/) for his private resort club [Mar-a-Lago](https://www.maralagoclub.com/)
+- **Friday, November 28, 2025[^50709]**
     - -:-- AM ⛳️🏌‍♂️ [Donnie](https://www.donaldjtrump.com/) departs [Mar-a-Lago](https://www.maralagoclub.com/) to play golf at his [Trump International Golf Club](https://www.trumpinternationalpalmbeaches.com/)
-    - -:-- PM ⛳️🏌‍♂️[Donnie] departs from a day of golf at [Trump International Golf Club](https://www.trumpinternationalpalmbeaches.com/) for his private resort club [Mar-a-Lago](https://www.maralagoclub.com/)
-- **Wednesday November 26, 2925[^]**
-    - -:-- PM [Donnie](https://www.donaldjtrump.com) departs the [White House](https://www.whitehouse.gov/) for a weekend of golf at his [Mar-a-Lago](https://www.maralagoclub.com/)
+    - -:-- PM ⛳️🏌‍♂️[Donnie](https://www.donaldjtrump.com/) departs from a day of golf at [Trump International Golf Club](https://www.trumpinternationalpalmbeaches.com/) for his private resort club [Mar-a-Lago](https://www.maralagoclub.com/)
+- **Thursday November 27, 2025[^50709]**
+    - -:-- AM ⛳️🏌‍♂️ [Donnie](https://www.donaldjtrump.com/) departs [Mar-a-Lago](https://www.maralagoclub.com/) to play golf at his [Trump International Golf Club](https://www.trumpinternationalpalmbeaches.com/)
+    - -:-- PM ⛳️🏌‍♂️[Donnie](https://www.donaldjtrump.com/) departs from a day of golf at [Trump International Golf Club](https://www.trumpinternationalpalmbeaches.com/) for his private resort club [Mar-a-Lago](https://www.maralagoclub.com/)
+- **Wednesday November 26, 2025[^50709]**
+    - -:-- AM ⛳️🏌‍♂️ [Donnie](https://www.donaldjtrump.com/) departs [Mar-a-Lago](https://www.maralagoclub.com/) to play golf at his [Trump International Golf Club](https://www.trumpinternationalpalmbeaches.com/)
+    - -:-- PM ⛳️🏌‍♂️[Donnie](https://www.donaldjtrump.com/) departs from a day of golf at [Trump International Golf Club](https://www.trumpinternationalpalmbeaches.com/) for his private resort club [Mar-a-Lago](https://www.maralagoclub.com/)
+- **Tuesday November 25, 2025[^50709]**
+    - 8:00 PM [Donnie](https://www.donaldjtrump.com) departs the [White House](https://www.whitehouse.gov/) for a weekend of golf at his [Mar-a-Lago](https://www.maralagoclub.com/)
     - -:-- PM [Donnie](https://www.donaldjtrump.com/) arrives at [Joint Base Andrews (ADW)](https://www.jba.af.mil/)
     - -:-- PM [Donnie](https://www.donaldjtrump.com/) departs [Joint Base Andrews (ADW)](https://www.jba.af.mil/)
     - -:-- PM [Donnie](https://www.donaldjtrump.com/) arrives at [Palm Beach International Airport (PBI)](https://www.pbia.org/)
@@ -48,6 +50,14 @@ From November 14, 2025 at 2000 EST – November 16, 2025 at 1830 EST)
 
 | Time | Location |
 |---|---|
+| | **Saturday, November 22 2025**
+| | 🔥 [White House](https://www.whitehouse.gov/) 💣|
+| 10:00 AM | In-Town Travel Pool Call Time<br />The [White House](https://www.whitehouse.gov/) In-Town Pool |
+| 11:00 AM | In-Town Pool Call Time<br />The [White House](https://www.whitehouse.gov/) In-Town Pool |
+| 11:35 AM | The [President](https://www.donaldjtrump.com/) departs the [White House](https://www.whitehouse.gov/) en route [Joint Base Andrews (ADW)](https://www.jba.af.mil/)<br />[South Lawn](https://www.whitehouse.gov/) Open Press |
+| 12:00 PM | The [President](https://www.donaldjtrump.com/) visits [The Courses at Andrews](https://andrewsfss.com/the-courses-at-andrews/)<br />[Joint Base Andrews (ADW)](https://www.jba.af.mil/) Closed Press |
+| 2:40 PM | The [President](https://www.donaldjtrump.com/) arrives The [White House](https://www.whitehouse.gov/)<br />[South Lawn](https://www.whitehouse.gov/) In-Town Pool |
+| 3:11 PM | [White House](https://www.whitehouse.gov/) Press Office: Full lid called<br />The [White House](https://www.whitehouse.gov/) In-Town Travel Pool |
 | | 🔥 [White House](https://www.whitehouse.gov/) 💣|
 | | **Sunday, November 16 2025** |
 | 7:00 AM | Out-of-Town Travel Pool Call Time<br />[Mar-a-Lago](https://www.maralagoclub.com/) Out-of-Town Travel Pool |
@@ -1878,3 +1888,5 @@ From November 14, 2025 at 2000 EST – November 16, 2025 at 1830 EST)
 [^59887]: [Federal Aviation Administration - Graphic TFRs](https://tfr.faa.gov/tfr3/?page=detail_5_9887). October 12, 2025 at 0830 EDT – October 12, 2025 at 1800 EDT
 [^50910]: [Federal Aviation Administration - Graphic TFRs](https://tfr.faa.gov/tfr3/?page=detail_5_0910). From October 17, 2025 at 1615 EDT – October 19, 2025 at 1830 EDT)
 [^57472]:  [Federal Aviation Administration - Graphic TFRs](https://tfr.faa.gov/tfr3/?page=detail_5_7472). West Palm Beach. October 31, 2025 at 1215 PM EDT – November 02, 2025 at 6:30 PM EST
+[^56225]: [Federal Aviation Administration - Graphic TFRs](https://tfr.faa.gov/tfr3/?page=detail_5_6225.html%3C%2FNotamDetail%3E%3C%2FTFR%3E)
+From November 14, 2025 at 2000 EST – November 16, 2025 at 1830 EST)
