@@ -135,3 +135,10 @@ Carol Leonnig is a senior investigative reporter with [MSNBC](https://www.msnbc.
 - criminal media
 - criminal organizations
 - criminal partners
+- [Turning Point USA](https://www.tpusa.com/)
+    - [Charlie Kirk – Deceased](https://www.charliekirk.com/)
+        - [The Charlie Kirk Show](https://thecharliekirkshow.com/)
+- [Home - Stephen K Bannon's War Room](https://warroom.org/)
+- [Candace Owens](https://www.candaceowens.com/)
+- [Infowars](https://www.infowars.com/)
+    - Alex Jones
