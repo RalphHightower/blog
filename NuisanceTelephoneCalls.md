@@ -20,6 +20,15 @@ The telephone numbers below have called and there is an empty person on the othe
 
 | Telephone Number | Location | Date Time[^11]<sup>,</dup>[^12] | Caller | Social Media |
 |---|---|---|---|---|
+| [\+1 (803) 325-2272](tel:+18033252272) | SC. Rock Hill | 2025-11-25 06:43 PM | K Abernathy (DON PISARCHICK) | |
+| [\+1 (803) 547-9993](tel:+18035479993) | SC. Fort Mill | 2025-11-25 04:14 PM | Patrick Grandey | |
+| [\+1 (803) 387-0239](tel:+18033870239) | SC. Orangeburg | 2025-11-25 03:19 PM | RICHARD ALLEN COOPER | |
+| [\+1 (803) 756-1612](tel:+18037561612) | SC. Columbia | 2025-11-25 03:07 PM | GEORGE B HARDEE | |
+| [\+1 (803) 462-9054](tel:+18034629054) | SC. Columbia | 2025-11-25 02:39 PM | NETBANK | |
+| [\+1 (803) 359-1999](tel:+18033591999) | SC. Lexington | 2025-11-25 11:44 AM | Greg Culley (DONNA C CULLEY) | |
+| [\+1 (803) 399-8921](tel:+18033998921) | SC. Lexington | 2025-11-25 11:09 AM | Karen P Patten (BACK DOUGLAS) | |
+| [\+1 (803) 459-1242](tel:+18034591242) | SC. Bishopville | 2025-11-25 11:05 AM | — | |
+| [\+1 (803) 877-8030](tel:+18038778030) | SC. Newberry | 2025-11-25 10:41 AM | — | |
 | [\+1 (803) 659-3853](tel:+18036593853) | SC. Rock Hill | 2025-11-24 06:10 PM | — | |
 | [\+1 (803) 590-3893](tel:+18035903893) | SC. Little Mountain | 2025-11-24 05:57 PM | — | |
 | [\+1 (803) 328-6067](tel:+18033286067) | SC. Rock Hill | 2025-11-24 11:46 AM | Alvin Starnes | |
