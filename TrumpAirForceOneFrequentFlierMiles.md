@@ -60,7 +60,7 @@ toc: true
 | | **Tuesday, November 25 2025** |
 | 9:00 AM | In-Town Pool Call Time<br />The [White House](https://www.whitehouse.gov/) |
 | 12:00 PM | The [President](https://www.donaldjtrump.com/) and First Lady participate in the Thanksgiving Turkey Pardoning<br />[Rose Garden](https://www.whitehouse.gov/) Pre-Credentialed Media |
-| 12:54 PM | [White House](https://www.whitehouse.gov/) Press Office: Lunch lid until 2:00 PM | <br />The [White House](https://www.whitehouse.gov/) |
+| 12:54 PM | [White House](https://www.whitehouse.gov/) Press Office: Lunch lid until 2:00 PM<br />The [White House](https://www.whitehouse.gov/) |
 | 4:20 PM | Out-of-Town Travel Pool Call Time<br />[Joint Base Andrews (ADW)](https://www.jba.af.mil/) Out-of-Town Travel Pool |
 | 6:00 PM | The [President](https://www.donaldjtrump.com/) and First Lady depart the [White House](https://www.whitehouse.gov/) en route [Palm Beach](https://discover.pbc.gov/), [Florida](https://www.myflorida.gov/) [Actual: 6:09 PM to [Joint Base Andrews (ADW)](https://www.jba.af.mil/)]<br />[South Lawn](https://www.whitehouse.gov/) Open Press |
 | 6:19 PM | The [President](https://www.donaldjtrump.com/) arrives at [Joint Base Andrews (ADW)](https://www.jba.af.mil/)<br />[Joint Base Andrews (ADW)](https://www.jba.af.mil/) Open Press |
