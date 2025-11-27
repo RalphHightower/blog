@@ -23,7 +23,7 @@ jobs:
       - name: Stale Branches
         uses: crs-k/stale-branches@865501af01284d43aef267d4b9aab0f9f1734b12 # v8.2.2
         with:
-            repo-token: ${{ secrets.STALE_BRANCHES_TOKEN }}
+            repo-token: "${{ secrets.STALE_BRANCHES_TOKEN }}"
             # days-before-delete: 180
             # comment-updates: false
             # max-issues: 20
