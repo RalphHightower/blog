@@ -25,7 +25,7 @@ Now, democracy is on life support.
 
 <div id="current-time"></div>
 
-### Days of Hell
+### Days of Perdition
 
 <div id="daysSince"></div>
 
@@ -328,7 +328,7 @@ There are two court cases that have not yet convened and must be decided because
 
 **Damn!** How the hell did [Trump](https://www.donaldjtrump.com/) win?! Although the federal case will be winding down since the [DOJ](https://www.justice.gov/) has some regulation that sitting presidents cannot be tried.
 
-#### [Donald Trump](https://www.donaldjtrump.com/) Is Guilty For Attempting To Overturn An Election And Instigating The January 6, 2021 Insurrection
+#### Donald Trump Is Guilty For Attempting To Overturn An Election And Instigating The January 6, 2021 Insurrection
 
 [Federal: 2020 Election Interference, January 6 Insurrection]({% link January6DocumentDocumentLinks.md %})
 

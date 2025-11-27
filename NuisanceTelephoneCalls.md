@@ -20,6 +20,11 @@ The telephone numbers below have called and there is an empty person on the othe
 
 | Telephone Number | Location | Date Time[^11]<sup>,</dup>[^12] | Caller | Social Media |
 |---|---|---|---|---|
+| [\+1 (803) 617-5965](tel:+18036175965) | SC. Aiken | 2025-11-26 06:49 PM | — | |
+| [\+1 (803) 520-3217](tel:+18035203217) | SC. Lexington | 2025-11-26 05:04 PM | TARA T PRICE | |
+| [\+1 (803) 514-5098](tel:+18035145098) | SC. Aiken | 2025-11-26 11:16 AM | JALEEL RASHAD HAMMOND | |
+| [\+1 (803) 797-4506](tel:+18037974506) | SC. Heath Springs | 2025-11-26 10:39 AM | — | |
+| [\+1 (803) 408-0207](tel:+18034080207) | SC. Elgin | 2025-11-26 10:27 AM | KIMBERLY B GREER | |
 | [\+1 (803) 325-2272](tel:+18033252272) | SC. Rock Hill | 2025-11-25 06:43 PM | K Abernathy (DON PISARCHICK) | |
 | [\+1 (803) 547-9993](tel:+18035479993) | SC. Fort Mill | 2025-11-25 04:14 PM | Patrick Grandey | |
 | [\+1 (803) 387-0239](tel:+18033870239) | SC. Orangeburg | 2025-11-25 03:19 PM | RICHARD ALLEN COOPER | |
