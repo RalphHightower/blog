@@ -50,6 +50,11 @@ toc: true
 
 | Time | Location |
 |---|---|
+| | **Thursday, November 27 2025** |
+| 7:30 AM | Out-of-Town Travel Pool Call Time<br />[Mar-a-Lago](https://www.maralagoclub.com/) Out-of-Town Travel Pool |
+| 9:39 AM | The [President](https://www.donaldjtrump.com/) departs [Mar-a-Lago](https://www.maralagoclub.com/) for his golf club<br />[Mar-a-Lago](https://www.maralagoclub.com/) |
+| 9:47 AM | The [President](https://www.donaldjtrump.com/) arrives at [Trump International Golf Club West Palm Beach](https://www.trumpinternationalpalmbeaches.com/)<br />[Trump International Golf Club West Palm Beach](https://www.trumpinternationalpalmbeaches.com/) |
+| 6:00 PM | The [President](https://www.donaldjtrump.com/) participates in a call with [Service Members](https://www.jcs.mil/)<br />[Mar-a-Lago](https://www.maralagoclub.com/) Out-of-Town Travel Pool<br /><br /> **@RalphHightower: [Donnie](https://www.donaldjtrump.com/) never let the Commander-in-Chief traditional duties of serving Thanksgiving or Christmas meals to the [troops](https://www.jcs.mil/) interfere with his golf. He prefers just phoning in his holiday greetings.** |
 | | **Wednesday, November 26 2025** |
 | ⛳️🏌‍♂️| The [President](https://www.donaldjtrump.com/) ~~has no public events scheduled~~ (other than playing golf ⛳️🏌)<br />[Mar-a-Lago](https://www.maralagoclub.com/) Out-of-Town Travel Pool |
 | 7:30 AM | Out-of-Town Travel Pool Call Time<br />[Mar-a-Lago](https://www.maralagoclub.com/) Out-of-Town Travel Pool |
@@ -57,6 +62,8 @@ toc: true
 | 8:43 AM ⛳️🏌‍♂️| The [President](https://www.donaldjtrump.com/) arrives at [Trump International Golf Club West Palm Beach](https://www.trumpinternationalpalmbeaches.com/)<br />[Trump International Golf Club West Palm Beach](https://www.trumpinternationalpalmbeaches.com/) |
 | 3:07 PM ⛳️🏌‍♂️| The [President](https://www.donaldjtrump.com/) departs [Trump International Golf Club West Palm Beach](https://www.trumpinternationalpalmbeaches.com/) for [Mar-a-Lago](https://www.maralagoclub.com/)<br />[Trump International Golf Club West Palm Beach](https://www.trumpinternationalpalmbeaches.com/) |
 | 3:16 PM | The [President](https://www.donaldjtrump.com/) arrives at [Mar-a-Lago](https://www.maralagoclub.com/)<br />[Mar-a-Lago](https://www.maralagoclub.com/) |
+| 4:25 PM | [White House](https://www.whitehouse.gov/) Press Office: Full lid called<br />[Mar-a-Lago](https://www.maralagoclub.com/) In-Town Travel Pool
+| 9:15 PM | The [President](https://www.donaldjtrump.com/) streams remarks after [National Guard](https://www.nationalguard.mil/) shooting in [Washington](https://dc.gov/)<br />[Mar-a-Lago](https://www.maralagoclub.com/) In-Town Travel Pool |
 | | **Tuesday, November 25 2025** |
 | 9:00 AM | In-Town Pool Call Time<br />The [White House](https://www.whitehouse.gov/) |
 | 12:00 PM | The [President](https://www.donaldjtrump.com/) and First Lady participate in the Thanksgiving Turkey Pardoning<br />[Rose Garden](https://www.whitehouse.gov/) Pre-Credentialed Media |
@@ -144,7 +151,7 @@ toc: true
 | 3:31 PM 🔥💸 | [White House](https://www.whitehouse.gov/) Press Office: Full lid called<br />[Mar-a-Lago](https://www.maralagoclub.com/) |
 | | **Friday, November 7 2025** |
 | 9:00 AM 🔥💸 | In-Town Pool Call Time<br />The [White House](https://www.whitehouse.gov/) |
-| 9:30 AM 🔥💸 | Kevin Hassett briefs reporters at The Sticks [Note: time is approximate]</>The Sticks - The [White House](https://www.whitehouse.gov/)
+| 9:30 AM 🔥💸 | Kevin Hassett briefs reporters at The Sticks [Note: time is approximate]<br />The Sticks - The [White House](https://www.whitehouse.gov/)
 | 11:30 AM 🔥💸 | The [President](https://www.donaldjtrump.com/) greets the [Prime Minister (Viktor Orbán)](https://kormany.hu/miniszterelnok/eletrajz) of [Hungary](https://kormany.hu/)<br />Stakeout Location Open Press |
 | 11:45 AM 🔥💸 | The [President](https://www.donaldjtrump.com/) participates in a Bilateral Lunch with the [Prime Minister (Viktor Orbán)](https://kormany.hu/miniszterelnok/eletrajz) of [Hungary](https://kormany.hu/)<br />[Cabinet Room](https://www.whitehouse.gov/) Closed Press |
 | 2:00 PM 🔥💸 | Out-of-Town Travel Pool Call Time<br />[Joint Base Andrews (ADW)](https://www.jba.af.mil/) Out-of-Town Travel Pool |
