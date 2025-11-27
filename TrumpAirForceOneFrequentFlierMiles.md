@@ -50,6 +50,26 @@ toc: true
 
 | Time | Location |
 |---|---|
+| | **Wednesday, November 26 2025** |
+| ⛳️🏌‍♂️| The [President](https://www.donaldjtrump.com/) ~~has no public events scheduled~~ (other than playing golf ⛳️🏌)<br />[Mar-a-Lago](https://www.maralagoclub.com/) Out-of-Town Travel Pool |
+| 7:30 AM | Out-of-Town Travel Pool Call Time<br />[Mar-a-Lago](https://www.maralagoclub.com/) Out-of-Town Travel Pool |
+| 8:35 AM ⛳️🏌‍♂️| The [President](https://www.donaldjtrump.com/) departs [Mar-a-Lago](https://www.maralagoclub.com/) for his golf club<br />[Mar-a-Lago](https://www.maralagoclub.com/) |
+| 8:43 AM ⛳️🏌‍♂️| The [President](https://www.donaldjtrump.com/) arrives at [Trump International Golf Club West Palm Beach](https://www.trumpinternationalpalmbeaches.com/)<br />[Trump International Golf Club West Palm Beach](https://www.trumpinternationalpalmbeaches.com/) |
+| 3:07 PM ⛳️🏌‍♂️| The [President](https://www.donaldjtrump.com/) departs [Trump International Golf Club West Palm Beach](https://www.trumpinternationalpalmbeaches.com/) for [Mar-a-Lago](https://www.maralagoclub.com/)<br />[Trump International Golf Club West Palm Beach](https://www.trumpinternationalpalmbeaches.com/) |
+| 3:16 PM | The [President](https://www.donaldjtrump.com/) arrives at [Mar-a-Lago](https://www.maralagoclub.com/)<br />[Mar-a-Lago](https://www.maralagoclub.com/) |
+| | **Tuesday, November 25 2025** |
+| 9:00 AM | In-Town Pool Call Time<br />The [White House](https://www.whitehouse.gov/) |
+| 12:00 PM | The [President](https://www.donaldjtrump.com/) and First Lady participate in the Thanksgiving Turkey Pardoning<br />[Rose Garden](https://www.whitehouse.gov/) Pre-Credentialed Media |
+| 12:54 PM | [White House](https://www.whitehouse.gov/) Press Office: Lunch lid until 2:00 PM | <br />The [White House](https://www.whitehouse.gov/) |
+| 4:20 PM | Out-of-Town Travel Pool Call Time<br />[Joint Base Andrews (ADW)](https://www.jba.af.mil/) Out-of-Town Travel Pool |
+| 6:00 PM | The [President](https://www.donaldjtrump.com/) and First Lady depart the [White House](https://www.whitehouse.gov/) en route [Palm Beach](https://discover.pbc.gov/), [Florida](https://www.myflorida.gov/) [Actual: 6:09 PM to [Joint Base Andrews (ADW)](https://www.jba.af.mil/)]<br />[South Lawn](https://www.whitehouse.gov/) Open Press |
+| 6:19 PM | The [President](https://www.donaldjtrump.com/) arrives at [Joint Base Andrews (ADW)](https://www.jba.af.mil/)<br />[Joint Base Andrews (ADW)](https://www.jba.af.mil/) Open Press |
+| 6:35 PM | The [President](https://www.donaldjtrump.com/) departs [Joint Base Andrews (ADW)](https://www.jba.af.mil/) for [Palm Beach International Airport (PBI)](https://www.pbia.org/)<br />[Joint Base Andrews (ADW)](https://www.jba.af.mil/) Open Press |
+| 8:23 PM | The [President](https://www.donaldjtrump.com/) arrives at [Palm Beach International Airport (PBI)](https://www.pbia.org/)<br />[Palm Beach International Airport (PBI)](https://www.pbia.org/) Open Press |
+| 8:40 PM | The [President](https://www.donaldjtrump.com/) departs [Palm Beach International Airport (PBI)](https://www.pbia.org/) for [Mar-a-Lago](https://www.maralagoclub.com/)<br />[Palm Beach International Airport (PBI)](https://www.pbia.org/) Open Press |
+| 8:50 PM | The [President](https://www.donaldjtrump.com/) and First Lady arrive [Palm Beach](https://discover.pbc.gov/), [Florida](https://www.myflorida.gov/) [Actual: 8:50 PM]<br />[Mar-a-Lago](https://www.maralagoclub.com/) Out-of-Town Travel Pool |
+| 8:51 PM | [White House](https://www.whitehouse.gov/) Press Office: Full lid called<br />[Mar-a-Lago](https://www.maralagoclub.com/) In-Town Travel Pool |
+| | 🔥 [White House](https://www.whitehouse.gov/) 💣|
 | | **Saturday, November 22 2025**
 | | 🔥 [White House](https://www.whitehouse.gov/) 💣|
 | 10:00 AM | In-Town Travel Pool Call Time<br />The [White House](https://www.whitehouse.gov/) In-Town Pool |
@@ -65,7 +85,7 @@ toc: true
 | 9:13 AM ⛳️🏌‍♂️| The [President](https://www.donaldjtrump.com/) arrives at [Trump International Golf Club West Palm Beach](https://www.trumpinternationalpalmbeaches.com/)<br />[Trump International Golf Club West Palm Beach](https://www.trumpinternationalpalmbeaches.com/) |
 | 4:15 PM ⛳️🏌‍♂️| The [President](https://www.donaldjtrump.com/) departs [Trump International Golf Club West Palm Beach](https://www.trumpinternationalpalmbeaches.com/) for [Mar-a-Lago](https://www.maralagoclub.com/)<br />[Trump International Golf Club West Palm Beach](https://www.trumpinternationalpalmbeaches.com/) |
 | 4:21 PM | The [President](https://www.donaldjtrump.com/) arrives at [Mar-a-Lago](https://www.maralagoclub.com/)<br />[Mar-a-Lago](https://www.maralagoclub.com/) |
-| 5:25 PM | The [President](https://www.donaldjtrump.com/) departs [Palm Beach](https://discover.pbc.gov/), [Florida](https://www.myflorida.gov/), en route The [White House](https://www.whitehouse.gov/) [Actual: 6:36 PM]<br />[Mar-a-Lago](https://www.maralagoclub.com/) Out-of-Town Travel Pool |
+| 5:25 PM | The [President](https://www.donaldjtrump.com/) departs [Palm Beach](https://discover.pbc.gov/), [Florida](https://www.myflorida.gov/) , en route The [White House](https://www.whitehouse.gov/) [Actual: 6:36 PM]<br />[Mar-a-Lago](https://www.maralagoclub.com/) Out-of-Town Travel Pool |
 | 6:44 PM | The [President](https://www.donaldjtrump.com/) arrives at [Palm Beach International Airport (PBI)](https://www.pbia.org/)<br />[Palm Beach International Airport (PBI)](https://www.pbia.org/) Open Press |
 | 7:00 PM | In-Town Pool Call Time<br />The [White House](https://www.whitehouse.gov/) In-Town Pool |
 | 7:12 PM | The[President](https://www.donaldjtrump.com/) departs [Palm Beach International Airport (PBI)](https://www.pbia.org/) for [Joint Base Andrews (ADW)](https://www.jba.af.mil/)<br />[Palm Beach International Airport (PBI)](https://www.pbia.org/) Open Press |
