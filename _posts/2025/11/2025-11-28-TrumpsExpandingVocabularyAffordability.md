@@ -7,7 +7,7 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: "Trump Adds a New Word to His Vocabulary " Affordability"
+title: "Trump Adds a New Word to His Vocabulary Affordability"
 ---
 
 [Merriam-Webster's definition of "affordability":](http://www.merriam-webster.com/dictionary/affordability)<br /><br />adjective<br />af·​ford·​able | \ ə-ˈfȯr-də-bəl  \<br />Definition<br />: able to be afforded : having a cost that is not too high<br />//products sold at affordable prices<br />//an affordable purchase<br />//affordable housing [=housing that is not too expensive for people of limited means]<br />Other Words<br />af​ford​abil​i​ty \ ə-ˌfȯr-də-ˈbi-lə-tē  \ noun<br />af​ford​ably \ ə-ˈfȯr-də-blē  \ adverb<br />//an affordably priced car<br />Synonyms & Antonyms<br />Synonyms<br />accessible, popular
