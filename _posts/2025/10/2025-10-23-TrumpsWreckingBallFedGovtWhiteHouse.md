@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [media, MSNBC News - Breaking News and News Today / Latest News, Steve Benen, The Rachel Maddow Show, MaddowBlog, “Ministry of Truth –  Democracy Reality and the Republicans’ War on the Recent Past.”, Doomsday Scenario, MSNBC News - Breaking News and News Today / Latest News, NBC News - Breaking Headlines and Video Reports on World U.S. and Local Angles / NBC News, The New York Times (NYT) - Breaking News US News World News and Videos, The Washington Post - Breaking news and latest headlines U.S. news world news and video - The Washington Post, The Wall Street Journal (WSJ) - Breaking News Business Financial & Economic News World News and Video, @SavingPlaces / National Trust for Historic Preservation, organizations, @SavingPlaces / National Trust for Historic Preservation, political parties, Democrat Party, Trumpian Party, universities, companies, foreign governments, state local governments, federal government, Supreme Court of the United States (SCOTUS), US Courts, Department of Justice (DOJ), Federal Bureau of Investigation (FBI), Congress, Senate, House of Representatives, President of the United States (POTUS), White House (WH), President Barack Obama, The Obama Presidential Center / The Obama Foundation, Trump autocracy, Donald J Trump, President Donald Trump (45), President Donald Trump (47), President Trump (47) Administration, President Trump (47) Cabinet, press secretary, Karoline Leavitt, grifter, self-dealing, corruption, con artist, crime, cryptocurrency, criminal associates, criminal businesses, criminal media, criminal organizations, criminal partners]
+tags: [media, MSNBC News - Breaking News and News Today / Latest News, Steve Benen, The Rachel Maddow Show, MaddowBlog, “Ministry of Truth –  Democracy Reality and the Republicans’ War on the Recent Past.”, Doomsday Scenario, NBC News - Breaking Headlines and Video Reports on World U.S. and Local Angles / NBC News, The New York Times (NYT) - Breaking News US News World News and Videos, The Washington Post - Breaking news and latest headlines U.S. news world news and video - The Washington Post, The Wall Street Journal (WSJ) - Breaking News Business Financial & Economic News World News and Video, organizations, SavingPlaces / National Trust for Historic Preservation, political parties, Democrat Party, Trumpian Party, federal government, Supreme Court of the United States (SCOTUS), US Courts, Department of Justice (DOJ), Federal Bureau of Investigation (FBI), Congress, Senate, House of Representatives, President of the United States (POTUS), White House (WH), President Barack Obama, The Obama Presidential Center / The Obama Foundation, Trump autocracy, Donald J Trump, President Donald Trump (45), President Donald Trump (47), President Trump (47) Administration, President Trump (47) Cabinet, press secretary, Karoline Leavitt, grifter, self-dealing, corruption, con artist, crime, cryptocurrency, criminal associates, criminal businesses, criminal media, criminal organizations, criminal partners]
 categories: [Donald Trump, White House, East Room, destruction, gilded ballroom]
 date: 2025-10-23 13:39
 excerpt: ''
@@ -57,21 +57,15 @@ And that’s ultimately what makes this a national scandal. [Trump](https://www.
             - [MaddowBlog](https://www.msnbc.com/rachel-maddow-show)
                 - ["Ministry of Truth: Democracy, Reality, and the Republicans' War on the Recent Past."](https://www.harpercollins.com/products/ministry-of-truth-steve-benen)
 - [Doomsday Scenario](https://www.doomsdayscenario.co/)
-- [MSNBC News - Breaking News and News Today / Latest News](https://www.msnbc.com/)
 - [NBC News - Breaking Headlines and Video Reports on World, U.S. and Local Angles / NBC News](https://www.nbcnews.com/)
 - [The New York Times (NYT) - Breaking News, US News, World News and Videos](https://www.nytimes.com/)
 - [The Washington Post - Breaking news and latest headlines, U.S. news, world news, and video - The Washington Post](https://www.washingtonpost.com/)
 - [The Wall Street Journal (WSJ) - Breaking News, Business, Financial & Economic News, World News and Video](https://www.wsj.com/)
-- [@SavingPlaces / National Trust for Historic Preservation](https://savingplaces.org/)
 - organizations
 - [@SavingPlaces / National Trust for Historic Preservation](https://savingplaces.org/)
 - political parties
 - [Democrat Party](https://www.democrats.org/)
 - [Trumpian Party](https://www.gop.com/)
-- universities
-- companies
-- foreign governments
-- state, local governments 
 - federal government
     - [Supreme Court of the United States (SCOTUS)](https://www.supremecourt.gov/)
         - [US Courts](https://www.uscourts.gov/)
