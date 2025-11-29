@@ -1,7 +1,7 @@
 ---
 layout: post
-tags: []
-categories: [Donald Trump, Cabinet]
+tags: [media, MS NOW - Breaking News and News Today / Latest News, Jen Psaki, Allison Detzel, ABC News - Breaking News Latest News and Video, The New York Times (NYT) - Breaking News US News World News and Videos, The Daily Beast / The Latest in Politics Media & Entertainment News, The Hill - covering Congress Politics Political Campaigns and Capitol Hill, PBS News – News Analysis Top Headlines Live Coverage, ProPublica — Investigative Journalism and News in the Public Interest, political parties, Democrat Party, Trumpian Party, companies, Home / Official LEGO® Shop US, F1 - The Official Home of Formula 1® Racing, Las Vegas Grand Prix 2025 - F1 Race, foreign governments, Scottish Government - mygov.scot, state local governments, Las Vegas, Pennsylvania, South Dakota, Texas, Trump’s perceived enemies, James B. Comey September 4 2013 - May 9 2017 — FBI, Letitia James / New York State Attorney General, Adam Schiff (D-CA), federal government, Supreme Court of the United States (SCOTUS), US Courts, Congress, Senate, Mark Kelly (D-AZ), Lisa Murkowski (T-AK), Adam Schiff (D-CA), House of Representatives, President of the United States (POTUS), White House (WH), President Joe Biden, Trump autocracy, Donald J Trump, President Donald Trump (45), President Donald Trump (47), President Trump (47) Administration, President Trump (47) Cabinet, press secretary, Karoline Leavitt, Department of Defense (DOD), HON Pete Hegseth > U.S. Department of War > Biography / U.S. Department of War, Department of Homeland Security (DHS), Kristi Noem / Homeland Security, Federal Bureau of Investigation (FBI), Director Kash Patel — FBI, Deputy Director Dan Bongino — FBI, FBI Special Weapons and Tactics (SWAT) — FBI, Department of Health and Human Services (HHS), Robert F. Kennedy Jr. / HHS.gov, Centers for Disease Control and Prevention (CDC), Department of Justice (DOJ), Pam Bondi – Office of the Attorney General / Meet the Attorney General / United States Department of Justice, Todd Blanche – Office of the Deputy Attorney General / Office of the Deputy Attorney General, Todd Blanche / LinkedIn, Supreme Court of the United States (SCOTUS), Department of Transportation (DOT), U.S. Transportation Secretary Sean Duffy / US Department of Transportation, U.S. Department of the Treasury, Scott Bessent / U.S. Department of the Treasury, Lindsey Halligan, grifter, self-dealing, corruption, con artist, crime, cryptocurrency, criminal associates, criminal businesses, criminal media, criminal organizations, criminal partners, Kash Patel’s girlfriend, Alexis Wilkins]
+categories: [Donald Trump, President Trump (47) Cabinet, press secretary, Karoline Leavitt, Department of Defense (DOD), HON Pete Hegseth > U.S. Department of War > Biography / U.S. Department of War, Department of Homeland Security (DHS), Kristi Noem / Homeland Security, Federal Bureau of Investigation (FBI), Director Kash Patel — FBI, Deputy Director Dan Bongino — FBI, FBI Special Weapons and Tactics (SWAT) — FBI, Department of Health and Human Services (HHS), Robert F. Kennedy Jr. / HHS.gov, Centers for Disease Control and Prevention (CDC), Department of Justice (DOJ), Pam Bondi – Office of the Attorney General / Meet the Attorney General / United States Department of Justice, Todd Blanche – Office of the Deputy Attorney General / Office of the Deputy Attorney General, Todd Blanche / LinkedIn, Supreme Court of the United States (SCOTUS), Department of Transportation (DOT), U.S. Transportation Secretary Sean Duffy / US Department of Transportation, U.S. Department of the Treasury, Scott Bessent / U.S. Department of the Treasury, Lindsey Halligan, grifter, self-dealing, corruption, con artist, crime, cryptocurrency, criminal associates, criminal businesses, criminal media, criminal organizations, criminal partners, Kash Patel’s girlfriend, Alexis Wilkins]
 date: 2025-11-28 19:53
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
@@ -81,20 +81,6 @@ Jen Psaki
 
 Jen Psaki is the host of "The Briefing with Jen Psaki" airing Tuesdays through Fridays at 9 p.m. EST. She is the former [White House](https://www.whitehouse.gov/) press secretary for [President Joe Biden](https://obamawhitehouse.gov/).
 [The Briefing with Jen Psaki](https://www.ms.now/jen-psaki)
-
-- [Department of Justice (DOJ)](https:www.justice.gov/)
-- [Centers for Disease Control and Prevention (CDC)](https://www.cdc.gov/)
-- [Department of Health and Human Services (HHS)](https://www.hhs.gov/)
-- [Federal Bureau of Investigation (FBI)](https://www.fbi.gov/)
-- [FBI Special Weapons and Tactics (SWAT) — FBI](https://www.fbi.gov/news/gallery/swat)
-- [Department of Homeland Security (DHS)](https://www.dhs.gov/)
-- [Department of Transportation (DOT)](https://www.transportation.gov/)
-- [U.S. Department of the Treasury](https://home.treasury.gov/)
-- [Kristi Noem / Homeland Security](https://www.dhs.gov/kristi-noem)
-- [Scott Bessent / U.S. Department of the Treasury](https://home.treasury.gov/about/general-information/officials/scott-bessent)
-- [U.S. Transportation Secretary Sean Duffy / US Department of Transportation](https://www.transportation.gov/meet-secretary/us-transportation-secretary-sean-duffy)
-- [Robert F. Kennedy, Jr. / HHS.gov](https://www.hhs.gov/about/leadership/robert-kennedy.html)
-- [HON Pete Hegseth > U.S. Department of War > Biography / U.S. Department of War](https://www.war.gov/About/Biographies/Biography/Article/4040890/hon-pete-hegseth/)
 
 ----
 - media
