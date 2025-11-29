@@ -20,6 +20,11 @@ The telephone numbers below have called and there is an empty person on the othe
 
 | Telephone Number | Location | Date Time[^11]<sup>,</dup>[^12] | Caller | Social Media |
 |---|---|---|---|---|
+| [\+1 (803) 708-3253](tel:+18037083253) | SC. Columbia | 2025-11-28 06:55 PM | ANDERSON J | |
+| [\+1 (803) 726-9567](tel:+18037269567) | SC. Columbia | 2025-11-28 02:40 PM ¤¤ | — | |
+| [\+1 (803) 726-9567](tel:+18037269567) | SC. Columbia | 2025-11-28 02:39 PM | — | |
+| [\+1 (803) 683-8462](tel:+18036838462) | SC. Columbia | 2025-11-28 11:05 AM | PRODUCTS | |
+| [\+1 (803) 683-8462](tel:+18036838462) | SC. Columbia | 2025-11-28 11:05 AM | PRODUCTS | |
 | [\+1 (803) 617-5965](tel:+18036175965) | SC. Aiken | 2025-11-26 06:49 PM | — | |
 | [\+1 (803) 520-3217](tel:+18035203217) | SC. Lexington | 2025-11-26 05:04 PM | TARA T PRICE | |
 | [\+1 (803) 514-5098](tel:+18035145098) | SC. Aiken | 2025-11-26 11:16 AM | JALEEL RASHAD HAMMOND | |
