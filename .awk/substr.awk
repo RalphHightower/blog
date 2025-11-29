@@ -1,5 +1,5 @@
 {
-    start = 850
+    start = 619
     if (length($0) >= start)
         printf("%d: |%s|\n", NR, substr($0, start))
     }
