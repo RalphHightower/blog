@@ -51,13 +51,12 @@ toc: true
 | Time | Location |
 |---|---|
 | | **Saturday, November 29 2025** |
-| | The [President](https://www.donaldjtrump.com/) has no public events scheduled<br />[Mar-a-Lago](https://www.maralagoclub.com/) Out-of-Town Travel Pool |
+| | The [President](https://www.donaldjtrump.com/) ~~has no public events scheduled~~ (other than playing golf ⛳️🏌)<br />[Mar-a-Lago](https://www.maralagoclub.com/) Out-of-Town Travel Pool |
 | 7:30 AM | Out-of-Town Travel Pool Call Time<br />[Mar-a-Lago](https://www.maralagoclub.com/) Out-of-Town Travel Pool |
 | 9:35 AM | The [President](https://www.donaldjtrump.com/) departs [Mar-a-Lago](https://www.maralagoclub.com/) for his golf club<br />[Mar-a-Lago](https://www.maralagoclub.com/) |
 | 9:41 AM | The [President](https://www.donaldjtrump.com/) arrives at [Trump International Golf Club West Palm Beach](https://www.trumpinternationalpalmbeaches.com/)<br />[Trump International Golf Club West Palm Beach](https://www.trumpinternationalpalmbeaches.com/) |
 | 3:03 PM | The [President](https://www.donaldjtrump.com/) departs [Trump International Golf Club West Palm Beach](https://www.trumpinternationalpalmbeaches.com/) for [Mar-a-Lago](https://www.maralagoclub.com/)<br />[Trump International Golf Club West Palm Beach](https://www.trumpinternationalpalmbeaches.com/) |
-| 3:09 PM | The [President](https://www.donaldjtrump.com/) arrives at [Mar-a-Lago](https://www.maralagoclub.com/) |
-| [Mar-a-Lago](https://www.maralagoclub.com/) |
+| 3:09 PM | The [President](https://www.donaldjtrump.com/) arrives at [Mar-a-Lago](https://www.maralagoclub.com/)<br />[Mar-a-Lago](https://www.maralagoclub.com/) |
 | 3:10 PM | [White House](https://www.whitehouse.gov/) Press Office: Full lid called<br />[Mar-a-Lago](https://www.maralagoclub.com/) |
 | | **Friday, November 28 2025** |
 | | The [President](https://www.donaldjtrump.com/) ~~has no public events scheduled~~ (other than playing golf ⛳️🏌)<br />[Mar-a-Lago](https://www.maralagoclub.com/) Out-of-Town Travel Pool |
