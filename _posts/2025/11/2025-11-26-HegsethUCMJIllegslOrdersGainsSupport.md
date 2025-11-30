@@ -7,7 +7,7 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: "Hegseth Targeting Mark Kelly (D-AZ) Gains Support From Trumpian Legislatir"
+title: "Hegseth Targeting Mark Kelly (D-AZ) Gains Support From Trumpian Legislators"
 ---
 
 
