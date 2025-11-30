@@ -20,6 +20,7 @@ The telephone numbers below have called and there is an empty person on the othe
 
 | Telephone Number | Location | Date Time[^11]<sup>,</dup>[^12] | Caller | Social Media |
 |---|---|---|---|---|
+| [\+1 (803) 459-5656](tel:+18034595656) | SC. Bishopville | 2025-11-29 02:48 PM | — | |
 | [\+1 (803) 708-3253](tel:+18037083253) | SC. Columbia | 2025-11-28 06:55 PM | ANDERSON J | |
 | [\+1 (803) 726-9567](tel:+18037269567) | SC. Columbia | 2025-11-28 02:40 PM ¤¤ | — | |
 | [\+1 (803) 726-9567](tel:+18037269567) | SC. Columbia | 2025-11-28 02:39 PM | — | |
