@@ -126,7 +126,7 @@ Jen Psaki is the host of "The Briefing with Jen Psaki" airing Tuesdays through F
         - [US Courts](https://www.uscourts.gov/)
     - [Congress](https://www.congress.gov/)
         - [Senate](https://www.senate.gov/)
-        - [Mark Kelly (D-AZ(](https://www.kelly.senate.gov/)
+        - [Mark Kelly (D-AZ)](https://www.kelly.senate.gov/)
         - [Lisa Murkowski (T-AK)](https://www.murkowski.senate.gov/)
         - [Adam Schiff (D-CA)](https://www.schiff.senate.gov/)
         - [House of Representatives](https://www.house.gov/)
