@@ -20,6 +20,9 @@ The telephone numbers below have called and there is an empty person on the othe
 
 | Telephone Number | Location | Date Time[^11]<sup>,</dup>[^12] | Caller | Social Media |
 |---|---|---|---|---|
+| [\+1 (803) 443-6408](tel:+18034436408) | SC. New Ellington | 2025-12-01 05:23 PM | — | |
+| [\+1 (803) 278-9154](tel:+18032789154) | SC. North Augusta | 2025-12-01 11:32 AM | — | |
+| [\+1 (803) 354-4276](tel:+18033544276) | SC. Columbia | 2025-12-01 10:53 AM | COLUMBIA CARE | |
 | [\+1 (803) 459-5656](tel:+18034595656) | SC. Bishopville | 2025-11-29 02:48 PM | — | |
 | [\+1 (803) 708-3253](tel:+18037083253) | SC. Columbia | 2025-11-28 06:55 PM | ANDERSON J | |
 | [\+1 (803) 726-9567](tel:+18037269567) | SC. Columbia | 2025-11-28 02:40 PM ¤¤ | — | |
