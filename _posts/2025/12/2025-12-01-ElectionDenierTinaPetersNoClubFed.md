@@ -62,7 +62,7 @@ This post updates our [related earlier coverage](https://www.ms.now/rachel-maddo
         - [Rachel Maddow](https://www.ms.now/rachel-maddow-show/rachel-maddow-biography-n1157621)
             - [Steve Benen](https://www.ms.now/author/steve-benen)
                 - ["Ministry of Truth: Democracy, Reality, and the Republicans' War on the Recent Past."](https://www.harpercollins.com/products/ministry-of-truth-steve-benen)
-- [Associated Press News (AP) - Breaking News, Latest Headlines and Videos / AP News](https://apnews.com/)
+ - [Associated Press News (AP) - Breaking News, Latest Headlines and Videos / AP News](https://apnews.com/)
 - [The New York Times (NYT) - Breaking News, US News, World News and Videos](https://www.nytimes.com/)
 - [MS NOW - Breaking News and News Today / Latest News](https://www.ms.now/)
 - organizations
