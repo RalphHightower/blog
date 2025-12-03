@@ -20,6 +20,15 @@ The telephone numbers below have called and there is an empty person on the othe
 
 | Telephone Number | Location | Date Time[^11]<sup>,</dup>[^12] | Caller | Social Media |
 |---|---|---|---|---|
+| [\+1 (803) 470-3114](tel:+18034703114) | SC. Columbia | 2025-12-02 08:57 PM | Billy Cain | |
+| [\+1 (803) 470-3114](tel:+18034703114) | SC. Columbia | 2025-12-02 08:56 PM | Billy Cain | |
+| [\+1 (803) 470-3114](tel:+18034703114) | SC. Columbia | 2025-12-02 08:49 PM 🚫 | Billy Cain | |
+| [\+1 (803) 828-5276](tel:+18038285276) | SC. Columbia | 2025-12-02 04:38 PM ¤¤ | Aerocare 154 | |
+| [\+1 (803) 828-5276](tel:+18038285276) | SC. Columbia | 2025-12-02 04:37 PM | Aerocare 154 | |
+| [\+1 (803) 957-3213](tel:+18039573213) | SC. Lexington | 2025-12-02 02:54 PM | Angela B Rewis (GUY WEST) | |
+| [\+1 (803) 574-2587](tel:+18035742587) | SC. Summerton | 2025-12-02 12:39 PM | — | |
+| [\+1 (803) 650-3809](tel:+18036503809) | SC. Fort Mill | 2025-12-02 08:24 AM | — | |
+| [\+1 (803) 650-3809](tel:+18036503809) | SC. Fort Mill | 2025-12-02 08:24 AM | — | |
 | [\+1 (803) 443-6408](tel:+18034436408) | SC. New Ellington | 2025-12-01 05:23 PM | — | |
 | [\+1 (803) 278-9154](tel:+18032789154) | SC. North Augusta | 2025-12-01 11:32 AM | — | |
 | [\+1 (803) 354-4276](tel:+18033544276) | SC. Columbia | 2025-12-01 10:53 AM | COLUMBIA CARE | |
