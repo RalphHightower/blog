@@ -70,13 +70,13 @@ It’s also worth remembering what we have inherited in this country: a rich, de
 
 Allison Detzel contributed.
 
-Rachel Maddow is host of the Emmy Award-winning “The Rachel Maddow Show” Mondays at 9 p.m. ET on MS NOW. “The Rachel Maddow Show” features Maddow’s take on the biggest stories of the day, political and otherwise, including in-depth analysis and stories no other shows in cable news will cover.
-
-
+[Rachel Maddow](https://www.ms.now/rachel-maddow-show/rachel-maddow-biography-n1157621) is host of the Emmy Award-winning “[Rachel Maddow Show](https://www.ms.now/rachel-maddow-show)” Mondays at 9 p.m. ET on [MS NOW](https://www.ms.now/). “[Rachel Maddow Show](https://www.ms.now/rachel-maddow-show)” features Maddow’s take on the biggest stories of the day, political and otherwise, including in-depth analysis and stories no other shows in cable news will cover.
 
 ----
 - media
-[MS NOW - Breaking News and News Today / Latest News](https://www.ms.now/)
+- [MS NOW - Breaking News and News Today / Latest News](https://www.ms.now/)
+    - [Rachel Maddow Show](https://www.ms.now/rachel-maddow-show)
+        - [Rachel Maddow](https://www.ms.now/rachel-maddow-show/rachel-maddow-biography-n1157621)
 - [Albany News, Weather, Sports, Breaking News](https://cbs6albany.com/)
 - [Cincinnati News, Sports and Things to Do / Cincinnati Enquirer](https://www.cincinnati.com/)
 - [Albany News, Weather, Sports, Breaking News](https://cbs6albany.com/)
