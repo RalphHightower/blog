@@ -13,7 +13,7 @@ title: "Trump’s Personal Lawyer, Pam Blondi, Seeks Redo of Former FBI Director
 - ['Prosecute' vs. 'Persecute' – Merriam-Webster](https://www.merriam-webster.com/grammar/prosecuted-vs-persecuted-usage)
     - “One you do in court, the other you do if you're a jerk.”
 - [Federal: 2020 Election Interference, January 6 Insurrection]({% link January6DocumentDocumentLinks.md %})
-- [💸 New York: 34 Guilty Verdicts. Porn Star Stormy Daniels 👙]({% link NewYork34GuiltyVerdicts.nd %})
+- [💸 New York: 34 Guilty Verdicts. Porn Star Stormy Daniels 👙]({% link NewYork34GuiltyVerdicts.md %})
 
 ## [With James Comey possibly facing a new indictment, statute of limitations could be at play](https://www.ms.now/deadline-white-house/deadline-legal-blog/james-comey-new-indictment-statute-limitations-halligan-trump)
 

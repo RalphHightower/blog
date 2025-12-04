@@ -32,7 +32,7 @@ Afraid of the nation’s light.
 - ['Prosecute' vs. 'Persecute' – Merriam-Webster](https://www.merriam-webster.com/grammar/prosecuted-vs-persecuted-usage)
     - “One you do in court, the other you do if you're a jerk.”
 - [Federal: 2020 Election Interference, January 6 Insurrection]({% link January6DocumentDocumentLinks.md %})
-- [💸 New York: 34 Guilty Verdicts. Porn Star Stormy Daniels 👙]({% link NewYork34GuiltyVerdicts.nd %})
+- [💸 New York: 34 Guilty Verdicts. Porn Star Stormy Daniels 👙]({% link NewYork34GuiltyVerdicts.md %})
 
 ## [Jim Jordan prefers secrecy to sunlight when it comes to his Jack Smith probe](https://www.ms.now/rachel-maddow-show/maddowblog/jim-jordan-prefers-secrecy-to-sunlight-when-it-comes-to-his-jack-smith-probe)
 
@@ -93,7 +93,7 @@ This post updates our [related earlier coverage](https://www.ms.now/rachel-maddo
 - ['Prosecute' vs. 'Persecute' – Merriam-Webster](https://www.merriam-webster.com/grammar/prosecuted-vs-persecuted-usage)
     - “One you do in court, the other you do if you're a jerk.”
 - [Federal: 2020 Election Interference, January 6 Insurrection]({% link January6DocumentDocumentLinks.md %})
-- [💸 New York: 34 Guilty Verdicts. Porn Star Stormy Daniels 👙]({% link NewYork34GuiltyVerdicts.nd %})
+- [💸 New York: 34 Guilty Verdicts. Porn Star Stormy Daniels 👙]({% link NewYork34GuiltyVerdicts.md %})
 - political parties
 - [Democrat Party](https://www.democrats.org/)
 - [Trumpian Party](https://www.gop.com/)
