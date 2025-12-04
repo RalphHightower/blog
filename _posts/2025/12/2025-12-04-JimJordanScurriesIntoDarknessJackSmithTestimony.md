@@ -63,7 +63,7 @@ In October, [Smith](https://www.justice.gov/archives/sco-smith) notified the [Ho
 
 [Smith](https://www.justice.gov/archives/sco-smith) clearly wanted more transparency, but he wasn’t in a position to dictate the terms.
 
-[The New York Times reported](https://www.nytimes.com/live/2025/12/03/us/trump-news/c665b349-d12c-56d9-a879-456e05554314?smid=url-share) that [House](https://www.house.gov/) [Republicans](https://www.gop.com/) “have been reluctant to give [Smith](https://www.justice.gov/archives/sco-smith)] a prime public platform out of concern that he could embarrass [Trump](https://www.donaldjtrump.com/) by making a compelling case for the indictments over the [president](https://www.whitehouse.gov/)’s attempt to overturn the [2020 election]({% kink January6DocumentDocumentLinks.md %}) and his retention of classified documents.”
+[The New York Times reported](https://www.nytimes.com/live/2025/12/03/us/trump-news/c665b349-d12c-56d9-a879-456e05554314?smid=url-share) that [House](https://www.house.gov/) [Republicans](https://www.gop.com/) “have been reluctant to give [Smith](https://www.justice.gov/archives/sco-smith)] a prime public platform out of concern that he could embarrass [Trump](https://www.donaldjtrump.com/) by making a compelling case for the indictments over the [president](https://www.whitehouse.gov/)’s attempt to overturn the [2020 election]({% link January6DocumentDocumentLinks.md %}) and his retention of classified documents.”
 
 Those concerns give away the game.
 
