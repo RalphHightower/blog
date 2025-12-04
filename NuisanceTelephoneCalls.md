@@ -20,6 +20,13 @@ The telephone numbers below have called and there is an empty person on the othe
 
 | Telephone Number | Location | Date Time[^11]<sup>,</dup>[^12] | Caller | Social Media |
 |---|---|---|---|---|
+| [\+1 (803) 486-6567](tel:+18034866567) | SC. Bishopville | 2025-12-03 07:54 PM | [ROCKHILL BGMC](https://www.myrockhillgmc.com/) | |
+| [\+1 (803) 855-1412](tel:+18038551412) | SC. Orangeburg | 2025-12-03 07:07 PM | DENISE BOWERS BURBAGE | |
+| [\+1 (803) 938-6273](tel:+18039386273) | SC. Sumter | 2025-12-03 06:43 PM | — | |
+| [\+1 (803) 358-0793](tel:+18033580793) | SC. Lexington | 2025-12-03 06:27 PM | Kaye Furubotten (VIRGINIA FAY FURUBOTTEN) | |
+| [\+1 (803) 941-4513](tel:+18039414513) | SC. Little Mountain | 2025-12-03 10:35 AM ¤¤ | DOMINION ENERGY | |
+| [\+1 (803) 941-4513](tel:+18039414513) | SC. Little Mountain | 2025-12-03 10:34 AM | DOMINION ENERGY | |
+| [\+1 (803) 285-1490](tel:+18032851490) | SC. Lancaster | 2025-12-03 10:02 AM | James Neal | |
 | [\+1 (803) 470-3114](tel:+18034703114) | SC. Columbia | 2025-12-02 08:57 PM | Billy Cain | |
 | [\+1 (803) 470-3114](tel:+18034703114) | SC. Columbia | 2025-12-02 08:56 PM | Billy Cain | |
 | [\+1 (803) 470-3114](tel:+18034703114) | SC. Columbia | 2025-12-02 08:49 PM 🚫 | Billy Cain | |
