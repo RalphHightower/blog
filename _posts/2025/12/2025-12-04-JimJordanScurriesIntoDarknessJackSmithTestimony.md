@@ -14,20 +14,7 @@ title: "Like a Cockroach, Jim Jordan (T-OH4) Scurries Into Darkness For Jack Smi
 
 _(Weird Al–style satire inspired by Madonna’s “Like a Virgin”)_
 
-Like a cockroach,
-Hiding under a rock,
-Preferring darkness,
-Afraid of the public shock.
-
-Jack Smith’s on the calendar,
-December seventeenth’s the day,
-He offered to go public,
-But Jordan said “No way!”
-
-Like a cockroach,
-Creeping out of sight,
-Like a cockroach,
-Afraid of the nation’s light.
+Like a cockroach,<br />Hiding under a rock,<br />Preferring darkness,<br />Afraid of the public shock.<br /><br />Jack Smith’s on the calendar,<br />December seventeenth’s the day,<br />He offered to go public,<br />But Jordan said “No way!”<br /><br />Like a cockroach,<br />Creeping out of sight,<br />Like a cockroach,<br />Afraid of the nation’s light.<br />
 
 - ['Prosecute' vs. 'Persecute' – Merriam-Webster](https://www.merriam-webster.com/grammar/prosecuted-vs-persecuted-usage)
     - “One you do in court, the other you do if you're a jerk.”
