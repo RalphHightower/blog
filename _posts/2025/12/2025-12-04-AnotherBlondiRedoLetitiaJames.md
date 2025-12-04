@@ -13,7 +13,7 @@ title: "Trump’s Personal Lawyer, Pam Blondi, Seeks Redo of New York Attorney G
 - ['Prosecute' vs. 'Persecute' – Merriam-Webster](https://www.merriam-webster.com/grammar/prosecuted-vs-persecuted-usage)
     - “One you do in court, the other you do if you're a jerk.”
 - [Federal: 2020 Election Interference, January 6 Insurrection]({% link January6DocumentDocumentLinks.md %})
-- [💸 New York: 34 Guilty Verdicts. Porn Star Stormy Daniels 👙]({% link NewYork34GuiltyVerdicts.nd %})
+- [💸 New York: 34 Guilty Verdicts. Porn Star Stormy Daniels 👙]({% link NewYork34GuiltyVerdicts.md %})
 
 ## [Trump's DOJ expected to seek re-indictment of Letitia James](https://www.ms.now/news/prosecutor-indictment-letitia-james-trump)
 
