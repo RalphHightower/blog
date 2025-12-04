@@ -7,7 +7,7 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title:Like a Cockroach, Jim Jordan (T-OH4) Scurries Into Darkness For Jack Smith Testimony"
+title: "Like a Cockroach, Jim Jordan (T-OH4) Scurries Into Darkness For Jack Smith Testimony"
 ---
 
 🎶 Parody: “Like a Cockroach”
