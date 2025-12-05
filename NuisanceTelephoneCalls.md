@@ -20,6 +20,9 @@ The telephone numbers below have called and there is an empty person on the othe
 
 | Telephone Number | Location | Date Time[^11]<sup>,</dup>[^12] | Caller | Social Media |
 |---|---|---|---|---|
+| [\+1 (803) 897-1784](tel:+18038971784) | SC. Elloree | 2025-12-04 08:09 PM | — | |
+| [\+1 (803) 663-9217](tel:+18036639217) | SC. Graniteville | 2025-12-04 04:34 PM | SHOTTO R | |
+| [\+1 (803) 780-5762](tel:+18037805762) | SC. Denmark | 2025-12-04 02:34 PM | — | |
 | [\+1 (803) 486-6567](tel:+18034866567) | SC. Bishopville | 2025-12-03 07:54 PM | [ROCKHILL BGMC](https://www.myrockhillgmc.com/) | |
 | [\+1 (803) 855-1412](tel:+18038551412) | SC. Orangeburg | 2025-12-03 07:07 PM | DENISE BOWERS BURBAGE | |
 | [\+1 (803) 938-6273](tel:+18039386273) | SC. Sumter | 2025-12-03 06:43 PM | — | |
