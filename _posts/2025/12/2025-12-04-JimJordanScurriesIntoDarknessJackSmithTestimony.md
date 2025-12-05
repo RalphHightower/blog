@@ -128,7 +128,7 @@ This post updates our [related earlier coverage](https://www.ms.now/rachel-maddo
                         - [Lindsey Halligan](https://www.justice.gov/usao-edva/)
                 - [Director Kash Patel — FBI](https://www.fbi.gov/about/leadership-and-structure/director-patel)
                     - [Deputy Director Dan Bongino — FBI](https://www.fbi.gov/about/leadership-and-structure/deputy-director-dan-bongino)
-{% if tags contains weaponization" or categories contains weaponization" %}
+{% if tags contains "weaponization" or categories contains "weaponization" %}
   {% include TrumpWeaponization.html %}
 {% endif %}
 - grifter
