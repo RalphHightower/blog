@@ -32,24 +32,18 @@ toc: true
 - **Friday, November 28, 2025[^50709]**
     - -:-- AM ⛳️🏌‍♂️ [Donnie](https://www.donaldjtrump.com/) departs [Mar-a-Lago](https://www.maralagoclub.com/) to play golf at his [Trump International Golf Club](https://www.trumpinternationalpalmbeaches.com/)
     - -:-- PM ⛳️🏌‍♂️[Donnie](https://www.donaldjtrump.com/) departs from a day of golf at [Trump International Golf Club](https://www.trumpinternationalpalmbeaches.com/) for his private resort club [Mar-a-Lago](https://www.maralagoclub.com/)
-- **Thursday November 27, 2025[^50709]**
-    - -:-- AM ⛳️🏌‍♂️ [Donnie](https://www.donaldjtrump.com/) departs [Mar-a-Lago](https://www.maralagoclub.com/) to play golf at his [Trump International Golf Club](https://www.trumpinternationalpalmbeaches.com/)
-    - -:-- PM ⛳️🏌‍♂️[Donnie](https://www.donaldjtrump.com/) departs from a day of golf at [Trump International Golf Club](https://www.trumpinternationalpalmbeaches.com/) for his private resort club [Mar-a-Lago](https://www.maralagoclub.com/)
-- **Wednesday November 26, 2025[^50709]**
-    - -:-- AM ⛳️🏌‍♂️ [Donnie](https://www.donaldjtrump.com/) departs [Mar-a-Lago](https://www.maralagoclub.com/) to play golf at his [Trump International Golf Club](https://www.trumpinternationalpalmbeaches.com/)
-    - -:-- PM ⛳️🏌‍♂️[Donnie](https://www.donaldjtrump.com/) departs from a day of golf at [Trump International Golf Club](https://www.trumpinternationalpalmbeaches.com/) for his private resort club [Mar-a-Lago](https://www.maralagoclub.com/)
-- **Tuesday November 25, 2025[^50709]**
-    - 8:00 PM [Donnie](https://www.donaldjtrump.com) departs the [White House](https://www.whitehouse.gov/) for a weekend of golf at his [Mar-a-Lago](https://www.maralagoclub.com/)
-    - -:-- PM [Donnie](https://www.donaldjtrump.com/) arrives at [Joint Base Andrews (ADW)](https://www.jba.af.mil/)
-    - -:-- PM [Donnie](https://www.donaldjtrump.com/) departs [Joint Base Andrews (ADW)](https://www.jba.af.mil/)
-    - -:-- PM [Donnie](https://www.donaldjtrump.com/) arrives at [Palm Beach International Airport (PBI)](https://www.pbia.org/)
-    - -:-- PM [Donnie](https://www.donaldjtrump.com/) departs [Palm Beach International Airport (PBI)](https://www.pbia.org/)
-    - -:-- PM [Donnie](https://www.donaldjtrump.com/) arrives at his [Mar-a-Lago Club](https://www.maralagoclub.com/)
 
 🔥💸 = Government Shutdown 
 
 | Time | Location |
 |---|---|
+|---|---|
+| | **Sunday, December 7, 2025** |
+| | 🔥 [White House](https://www.whitehouse.gov/) 💣|
+| ⁉️ | @RalphHightower: I don't believe it! [Donnie](https://www.donaldjtrump.com/) isn’t burning taxpayer dollars flying down to his [Mar-a-Lago resort](https://www.maralagoclub.com/) to play golf at his [Trump International Golf Club West Palm Beach](https://www.trumpinternationalpalmbeaches.com/). Something about [John F. Kennedy Center for the Performing Arts](https://www.kennedy-center.org/) Honors Medal Presentation Dinner. Did it create a Par​tic​i​pa​to​ry Peace Prize since there’s not a snowball's chance in hell of winning the [Nobel Peace Prize](https://www.nobelpeaceprize.org/)? Other than that Southeast Asia trip that spanned a weekend, thatbhe hasn't golfed at one of golf courses since becoming [President](https://www.whitehouse.gov/). |
+| | **Saturday, December 6, 2025** |
+| ⁉️ | @RalphHightower: I don't believe it! [Donnie](https://www.donaldjtrump.com/) isn’t burning taxpayer dollars flying down to his [Mar-a-Lago resort](https://www.maralagoclub.com/) to play golf at his [Trump International Golf Club West Palm Beach](https://www.trumpinternationalpalmbeaches.com/). Something about [John F. Kennedy Center for the Performing Arts](https://www.kennedy-center.org/) Honors Medal Presentation Dinner. Did it create a Par​tic​i​pa​to​ry Peace Prize since there’s not a snowball's chance in hell of winning the [Nobel Peace Prize](https://www.nobelpeaceprize.org/)? Other than that Southeast Asia trip that spanned a weekend, thatbhe hasn't golfed at one of golf courses since becoming [President](https://www.whitehouse.gov/). |
+| | 🔥 [White House](https://www.whitehouse.gov/) 💣|
 | | **Sunday, November 30 2025**
 | 7:30 AM | Out-of-Town Travel Pool Call Time<br />[Mar-a-Lago](https://www.maralagoclub.com/) Out-of-Town Travel Pool
 | 9:32 AM ⛳️🏌‍♂️| The [President](https://www.donaldjtrump.com/) departs [Mar-a-Lago](https://www.maralagoclub.com/) for his golf club<br />[Mar-a-Lago](https://www.maralagoclub.com/)
