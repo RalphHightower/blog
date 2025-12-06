@@ -20,6 +20,16 @@ The telephone numbers below have called and there is an empty person on the othe
 
 | Telephone Number | Location | Date Time[^11]<sup>,</dup>[^12] | Caller | Social Media |
 |---|---|---|---|---|
+| [\+1 (803) 719-5846](tel:+18037195846) | SC. Columbia | 2025-12-05 07:20 PM | [County of Richland](https://www.richlandcountysc.gov/Home) | |
+| [\+1 (803) 719-5846](tel:+18037195846) | SC. Columbia | 2025-12-05 07:19 PM | [County of Richland](https://www.richlandcountysc.gov/Home) | |
+| [\+1 (803) 903-4239](tel:+18039034239) | SC. Hampton | 2025-12-05 06:54 PM | ELIZABETH D CARR | |
+| [\+1 (803) 599-6941](tel:+18035996941) | SC. Beech Island | 2025-12-05 05:21 PM | — | |
+| [\+1 (803) 496-7582](tel:+18034967582) | SC. Holly Hill | 2025-12-05 04:19 PM | Bertha Davis (ANNETTE DAVIS) | |
+| [\+1 (803) 223-0420](tel:+18032230420) | SC. Columbia | 2025-12-05 03:46 PM | — | |
+| [\+1 (803) 814-0882](tel:+18038140882) | SC. Columbia | 2025-12-05 03:27 PM | SMITH JAMES | |
+| [\+1 (803) 485-9407](tel:+18034859407) | SC. Manning | 2025-12-05 03:24 PM ¤¤ | — | |
+| [\+1 (803) 485-9407](tel:+18034859407) | SC. Manning | 2025-12-05 03:22 PM | — | |
+| [\+1 (803) 615-5847](tel:+18036155847) | SC. Edgefield | 2025-12-05 12:49 PM | ROBERSON SAMANT | |
 | [\+1 (803) 897-1784](tel:+18038971784) | SC. Elloree | 2025-12-04 08:09 PM | — | |
 | [\+1 (803) 663-9217](tel:+18036639217) | SC. Graniteville | 2025-12-04 04:34 PM | SHOTTO R | |
 | [\+1 (803) 780-5762](tel:+18037805762) | SC. Denmark | 2025-12-04 02:34 PM | — | |
