@@ -38,7 +38,7 @@ A month earlier, [U.S. Customs and Border Protection](https://www.cbp.gov/) used
 
 These sentiments [should apply to Jan. 6](https://www.ms.now/rachel-maddow-show/maddowblog/speaker-johnson-tries-draw-clear-distinction-jan-6-attack-l-unrest-rcna212346), but as far as [Team Trump](https://www.donaldjtrump.com/) is concerned, they don’t.
 
-So while [Patel](https://www.fbi.gov/about/leadership-and-structure/director-patel/) appears to have conveniently forgotten about the [Jan. 6 attack]({%blink January6DocumentDocumentLinks.md %}) on the U.S. Capitol, he has a regrettable amount of company.
+So while [Patel](https://www.fbi.gov/about/leadership-and-structure/director-patel/) appears to have conveniently forgotten about the [Jan. 6 attack]({% link January6DocumentDocumentLinks.md %}) on the U.S. Capitol, he has a regrettable amount of company.
 
 This post updates our [related earlier coverage](https://www.ms.now/rachel-maddow-show/maddowblog/jan-6-attack-republican-leaders-keep-basic-tests-self-awareness-rcna217527).
 
