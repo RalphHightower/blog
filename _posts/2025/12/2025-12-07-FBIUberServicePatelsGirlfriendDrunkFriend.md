@@ -77,6 +77,7 @@ Ken Dilanian is the justice and intelligence correspondent for [MS NOW](https://
     - Ken Dilanian
 - [Faux News - Breaking News Updates / Latest News Headlines / Photos & News Videos](https://www.foxnews.com/)
 - [New York Post – Breaking News, Top Headlines, Photos & Videos](https://nypost.com/)
+- [governmentattic.org](https://www.governmentattic.org/)
 - political parties
 - [Democrat Party](https://www.democrats.org/)
 - [Trumpian Party](https://www.gop.com/)
@@ -101,7 +102,6 @@ Ken Dilanian is the justice and intelligence correspondent for [MS NOW](https://
     - [White House (WH)](https://www.whitehouse.gov/)
         - [President George H.W. Bush](https://www.bush41.org/)
         - [President Bill Clinton](https://clintonwhitehouse2.archives.gov/)
-        - [governmentattic.org](https://www.governmentattic.org/)
 - Trump autocracy
     - [Donald J Trump](https://www.donaldjtrump.com/)
         - [President Donald Trump (45)](https://trumpwhitehouse.archives.gov/)
