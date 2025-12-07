@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [media, MS NOW - Breaking News and News Today / Latest News, The Weekend, Eugene Daniels, The New York Times (NYT) - Breaking News US News World News and Videos, POLITICO - Politics Policy Political News, TIME / Current & Breaking News / National & World Updates, political parties, Democrat Party, Trumpian Party, state local governments, Home / Commonwealth of Pennsylvania, federal government, Supreme Court of the United States (SCOTUS), US Courts, Department of Justice (DOJ), Federal Bureau of Investigation (FBI), Congress, Senate, House of Representatives, [Matt Van Epps T-TN7), President of the United States (POTUS), White House (WH), Trump autocracy, Donald J Trump, President Donald Trump (45), President Donald Trump (47), President Trump (47) Administration, President Trump (47) Cabinet, press secretary, Karoline Leavitt, grifter, self-dealing, corruption, con artist, crime, cryptocurrency, criminal associates, criminal businesses, Faux News - Breaking News Updates / Latest News Headlines / Photos & News Videos, Kayleigh McEnany / Fox News, criminal media, criminal organizations, criminal partners]
+tags: [media, MS NOW - Breaking News and News Today / Latest News, The Weekend, Eugene Daniels, The New York Times (NYT) - Breaking News US News World News and Videos, POLITICO - Politics Policy Political News, TIME / Current & Breaking News / National & World Updates, political parties, Democrat Party, Trumpian Party, state local governments, Home / Commonwealth of Pennsylvania, federal government, Supreme Court of the United States (SCOTUS), US Courts, Department of Justice (DOJ), Federal Bureau of Investigation (FBI), Congress, Senate, House of Representatives, Matt Van Epps (T-TN7), President of the United States (POTUS), White House (WH), Trump autocracy, Donald J Trump, President Donald Trump (45), President Donald Trump (47), President Trump (47) Administration, President Trump (47) Cabinet, press secretary, Karoline Leavitt, grifter, self-dealing, corruption, con artist, crime, cryptocurrency, criminal associates, criminal businesses, Faux News - Breaking News Updates / Latest News Headlines / Photos & News Videos, Kayleigh McEnany / Fox News, criminal media, criminal organizations, criminal partners]
 categories: [Donald Trump, economy, inflation, affordability]
 date: 2025-12-06 16:06
 excerpt: ''
@@ -58,7 +58,7 @@ But [Trump](https://www.donaldjtrump.com/) didn’t reverse nearly enough of the
 
 **[Democrats](https://www.democrats.org/) have done well in recent campaigns by putting high costs at the top of their agenda.**
 
-[Democrats](https://www.democrats.org/) have done well in recent campaigns by putting high costs at the top of their agenda, and [Republican](https://www.gop.com/) [Rep.-elect](https://www.house.gov/) [Matt Van Epps [T-TN7)](https://vanepps.house.gov/) staved off a loss by talking about the issue.
+[Democrats](https://www.democrats.org/) have done well in recent campaigns by putting high costs at the top of their agenda, and [Republican](https://www.gop.com/) [Rep.-elect](https://www.house.gov/) [Matt Van Epps (T-TN7)](https://vanepps.house.gov/) staved off a loss by talking about the issue.
 
 The best strategy for [Republican](https://www.gop.com/)s in [Congress](https://www.congress.gov/) might be to cut [Trump](https://www.donaldjtrump.com/) loose and run their own campaigns focused on affordability, and there is no way the [president](https://www.whitehouse.gov/) would let them get away with that.
 
@@ -91,7 +91,7 @@ The midterm elections aren’t for 11 months. A lot might happen in that time. B
     - [Congress](https://www.congress.gov/)
         - [Senate](https://www.senate.gov/)
         - [House of Representatives](https://www.house.gov/)
-            - [Matt Van Epps [T-TN7)](https://vanepps.house.gov/)
+            - [Matt Van Epps (T-TN7)](https://vanepps.house.gov/)
     - [President of the United States (POTUS)](https://www.whitehouse.gov/)
     - [White House (WH)](https://www.whitehouse.gov/)
 - Trump autocracy
