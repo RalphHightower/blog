@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [media, MS NOW - Breaking News and News Today / Latest News, The Weekend, Eugene Daniels, The New York Times (NYT) - Breaking News US News World News and Videos, POLITICO - Politics Policy Political News, TIME / Current & Breaking News / National & World Updates, political parties, Democrat Party, Trumpian Party, state local governments, Home / Commonwealth of Pennsylvania, federal government, Supreme Court of the United States (SCOTUS), US Courts, Department of Justice (DOJ), Federal Bureau of Investigation (FBI), Congress, Senate, House of Representatives, [Matt Van Epps T-TN7) - President of the United States (POTUS), White House (WH), Trump autocracy, Donald J Trump, President Donald Trump (45), President Donald Trump (47), President Trump (47) Administration, President Trump (47) Cabinet, press secretary, Karoline Leavitt, grifter, self-dealing, corruption, con artist, crime, cryptocurrency, criminal associates, criminal businesses, Faux News - Breaking News Updates / Latest News Headlines / Photos & News Videos, Kayleigh McEnany / Fox News, criminal media, criminal organizations, criminal partners]
+tags: [media, MS NOW - Breaking News and News Today / Latest News, The Weekend, Eugene Daniels, The New York Times (NYT) - Breaking News US News World News and Videos, POLITICO - Politics Policy Political News, TIME / Current & Breaking News / National & World Updates, political parties, Democrat Party, Trumpian Party, state local governments, Home / Commonwealth of Pennsylvania, federal government, Supreme Court of the United States (SCOTUS), US Courts, Department of Justice (DOJ), Federal Bureau of Investigation (FBI), Congress, Senate, House of Representatives, [Matt Van Epps T-TN7), President of the United States (POTUS), White House (WH), Trump autocracy, Donald J Trump, President Donald Trump (45), President Donald Trump (47), President Trump (47) Administration, President Trump (47) Cabinet, press secretary, Karoline Leavitt, grifter, self-dealing, corruption, con artist, crime, cryptocurrency, criminal associates, criminal businesses, Faux News - Breaking News Updates / Latest News Headlines / Photos & News Videos, Kayleigh McEnany / Fox News, criminal media, criminal organizations, criminal partners]
 categories: [Donald Trump, economy, inflation, affordability]
 date: 2025-12-06 16:06
 excerpt: ''
@@ -50,9 +50,9 @@ Sarah Matthews, who worked in the first [Trump](https://www.donaldjtrump.com/) [
 
 “There would be times where I was helping prep the then-press secretary, [Kayleigh McEnany](https://www.foxnews.com/person/m/kayleigh-mcenany), for briefings, and I would say, ‘Well, this is what we really should be saying, because this will help him with this group of voters.’ I remember many times [Kayleigh](https://www.foxnews.com/person/m/kayleigh-mcenany) telling me, ‘I can’t go out there and say that at the podium because that’s not what he wants me to say,’” Matthews told me this week.
 
-If you talk to current and former [Trump](https://www.donaldjtrump.com/) aides and allies, as I have, they will tell you that keeping [Trump](https://www.donaldjtrump.com/) on message is near impossible. And they’ve clearly tried. 
+If you talk to current and former [Trump](https://www.donaldjtrump.com/) aides and allies, as I have, they will tell you that keeping [Trump](https://www.donaldjtrump.com/) on message is near impossible. And they’ve clearly tried.
 
-Because every once in a while, [Trump](https://www.donaldjtrump.com/) will reveal that someone told him prices were too high. He’s announced an “affordability tour,” starting in [Pennsylvania](https://www.pa.gov/). The [administration](https://www.whitehouse.gov/administration/) has also backed off some of the tariffs, highlighted its new “[Trump](https://www.donaldjtrump.com/) accounts,” an investment program for children under 18, and even floated the idea of a 50-year mortgage. 
+Because every once in a while, [Trump](https://www.donaldjtrump.com/) will reveal that someone told him prices were too high. He’s announced an “affordability tour,” starting in [Pennsylvania](https://www.pa.gov/). The [administration](https://www.whitehouse.gov/administration/) has also backed off some of the tariffs, highlighted its new “[Trump](https://www.donaldjtrump.com/) accounts,” an investment program for children under 18, and even floated the idea of a 50-year mortgage.
 
 But [Trump](https://www.donaldjtrump.com/) didn’t reverse nearly enough of the tariffs to have much of an impact, and neither the [Trump](https://www.donaldjtrump.com/) accounts nor a 50-year mortgage are going to help anyone struggling to buy groceries right now.
 
@@ -62,11 +62,11 @@ But [Trump](https://www.donaldjtrump.com/) didn’t reverse nearly enough of the
 
 The best strategy for [Republican](https://www.gop.com/)s in [Congress](https://www.congress.gov/) might be to cut [Trump](https://www.donaldjtrump.com/) loose and run their own campaigns focused on affordability, and there is no way the [president](https://www.whitehouse.gov/) would let them get away with that.
 
-For years, members of the party, especially in [Congress](https://www.congress.gov/), who have even lightly criticized a policy outcome of [Trump](https://www.donaldjtrump.com/)’s have found themselves on the opposite end of a social media post, or death threats from his most fervent supporters. 
+For years, members of the party, especially in [Congress](https://www.congress.gov/), who have even lightly criticized a policy outcome of [Trump](https://www.donaldjtrump.com/)’s have found themselves on the opposite end of a social media post, or death threats from his most fervent supporters.
 
 The midterm elections aren’t for 11 months. A lot might happen in that time. But it’s unlikely that prices will come down enough to solve this political problem for [Republican](https://www.gop.com/)s, and [Trump](https://www.donaldjtrump.com/) has already given [Democrats](https://www.democrats.org/) enough bad sound bites to run a slew of brutal ads.
 
-[Trump](https://www.donaldjtrump.com/) has been successful in business and in politics by convincing people of things that aren’t really true. But voters looking at another \$200 grocery bill can’t be persuaded otherwise. 
+[Trump](https://www.donaldjtrump.com/) has been successful in business and in politics by convincing people of things that aren’t really true. But voters looking at another \$200 grocery bill can’t be persuaded otherwise.
 
 [Eugene Daniels](https://www.ms.now/author/eugene-daniels) is an [MS NOW](https://www.ms.now/) senior [Washington](https://dc.gov/) correspondent and co-host of ["The Weekend."](https://www.ms.now/the-weekend)
 
@@ -81,7 +81,7 @@ The midterm elections aren’t for 11 months. A lot might happen in that time. B
 - political parties
 - [Democrat Party](https://www.democrats.org/)
 - [Trumpian Party](https://www.gop.com/)
-- state, local governments 
+- state, local governments
 [Home / Commonwealth of Pennsylvania](https://www.pa.gov/en)
 - federal government
     - [Supreme Court of the United States (SCOTUS)](https://www.supremecourt.gov/)
@@ -91,7 +91,8 @@ The midterm elections aren’t for 11 months. A lot might happen in that time. B
     - [Congress](https://www.congress.gov/)
         - [Senate](https://www.senate.gov/)
         - [House of Representatives](https://www.house.gov/)
-            - [Matt Van Epps [T-TN7)](https://vanepps.house.gov/)     - [President of the United States (POTUS)](https://www.whitehouse.gov/)
+            - [Matt Van Epps [T-TN7)](https://vanepps.house.gov/)
+    - [President of the United States (POTUS)](https://www.whitehouse.gov/)
     - [White House (WH)](https://www.whitehouse.gov/)
 - Trump autocracy
     - [Donald J Trump](https://www.donaldjtrump.com/)
