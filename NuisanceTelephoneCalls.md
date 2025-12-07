@@ -20,6 +20,7 @@ The telephone numbers below have called and there is an empty person on the othe
 
 | Telephone Number | Location | Date Time[^11]<sup>,</dup>[^12] | Caller | Social Media |
 |---|---|---|---|---|
+| [\+1 (803) 531-1206](tel:+18035311206) | SC. Orangeburg | 2025-12-06 11:11 AM | EASTERLIN D | |
 | [\+1 (803) 719-5846](tel:+18037195846) | SC. Columbia | 2025-12-05 07:20 PM | [County of Richland](https://www.richlandcountysc.gov/Home) | |
 | [\+1 (803) 719-5846](tel:+18037195846) | SC. Columbia | 2025-12-05 07:19 PM | [County of Richland](https://www.richlandcountysc.gov/Home) | |
 | [\+1 (803) 903-4239](tel:+18039034239) | SC. Hampton | 2025-12-05 06:54 PM | ELIZABETH D CARR | |
