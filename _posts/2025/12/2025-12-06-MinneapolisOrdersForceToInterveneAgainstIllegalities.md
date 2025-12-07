@@ -7,7 +7,7 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: "Minneapolis Police Are To Intervene When DHS, CBP and ICE Use Unlawful "
+title: "Minneapolis Police Are To Intervene When DHS, CBP and ICE Use Unlawful Force"
 ---
 
 
