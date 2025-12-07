@@ -55,7 +55,7 @@ This post updates our [related earlier coverage](https://www.msnbc.com/rachel-ma
 - universities
 - companies
 - foreign governments
-- state, local governments 
+- state, local governments
 - federal government
     - [Supreme Court of the United States (SCOTUS)](https://www.supremecourt.gov/)
         - [US Courts](https://www.uscourts.gov/)

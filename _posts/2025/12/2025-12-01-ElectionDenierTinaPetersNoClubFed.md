@@ -69,7 +69,7 @@ This post updates our [related earlier coverage](https://www.ms.now/rachel-maddo
 - political parties
 - [Democrat Party](https://www.democrats.org/)
 - [Trumpian Party](https://www.gop.com/)
-- state, local governments 
+- state, local governments
 - [Home / colorado.gov](https://co.colorado.gov/)
     - [Home / Colorado Department of Corrections](https://cdoc.colorado.gov/)
 - federal government
