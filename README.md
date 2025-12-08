@@ -77,6 +77,13 @@ Surviving “The Apprentice: White House – Wrecking Ball”. [Trump](https://w
 - [Stand Up America - Demanding the Democracy We Deserve](https://standupamerica.com/)
 - [Volunteer Opportunities, Events, and Petitions Near Me · Not Above the Law on Mobilize](https://www.mobilize.us/notabovethelaw/)
 
+## Resistance – WIRED
+
+- [The WIRED Guide to Protecting Yourself From Government Surveillance / WIRED](https://www.wired.com/story/the-wired-guide-to-protecting-yourself-from-government-surveillance/)
+- [How to Win a Fight / WIRED](https://www.wired.com/how-to-win-a-fight/)
+- [The Texting Network for the End of the World / WIRED](https://www.wired.com/story/youre-not-ready-for-phone-dead-zones/#intcid=_wired-article-bottom-recirc-bkt-a_32e02728-b9ff-409c-baf4-9fc00d0d8985_closr)
+- ['No Kings’ Protests, Citizen-Run ICE Trackers Trigger Intelligence Warnings / WIRED](https://www.wired.com/story/no-kings-protests-citizen-run-ice-trackers-trigger-intelligence-warnings/#intcid=_wired-article-bottom-recirc-bkt-a_32e02728-b9ff-409c-baf4-9fc00d0d8985_closr)
+
 ### Call to Action
 
 When agents encounter strangers, the Fourth Amendment imposes three core limitations:
@@ -114,7 +121,6 @@ What to do if the Insurrection Act is invoked / Waging Nonviolence</a>
 <li><a href="https://indivisible.org/resource/could-trump-invoke-insurrection-act-what-know-and-how-prepare">Could Trump Invoke the Insurrection Act? What to Know—and How to Prepare / Indivisible</a></li>
 <li><a href="https://wagingnonviolence.org/2025/06/american-spring-nonviolent-protest-accelerating/">American Spring? How nonviolent protest in the US is accelerating / Waging Nonviolence</a><br />Contrary to conventional wisdom, the size and scale of anti-Trump protests this year have dwarfed those in 2017, and they have been extraordinarily peaceful.<br />Erica Chenoweth, Soha Hammam, Jeremy Pressman, and Christopher Wiley Shay June 12, 2025</li>
 </ul>
-
 
 </div>
 
@@ -239,6 +245,16 @@ No, I do not have TDS ([Trump](https://www.donaldjtrump.com/) Derangement Syndro
 [^320]: [Wikipedia — Trump derangement syndrome](https://en.wikipedia.org/wiki/Trump_derangement_syndrome?wprov=sfla1)
 [^325]: [Trump](https://www.donaldjtrump.com/)'s sycophants, acolytes, and cult members, are just as infantile as [Trump](https://www.donaldjtrump.com/) with his name calling and labeling.
 [^340]: @RalphHightower: Since [Trumpers](https://www.donaldjtrump.com/) have their TDS for us, I created the *"Rabid [Trump](https://www.donaldjtrump.com/) Disease"* for them. Either that, or [Trump](https://www.donaldjtrump.com/) Cultists.
+
+### Protest Songs
+
+This is my [@YouTube](https://www.youtube com/) curated list of protest related songs for inspiring resistance and uprising against the [Trump](https://www.donaldjtrump.com/) [ap​pa​rat​chik](http://www.merriam-webster.com/dictionary/apparatchik).
+ 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LkQzsDav-oI?si=bTumzZ72t_unOdsY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+### January 6, 2021 Insurrection
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WUB814y5ns0?si=BoffEEe2brDIg2SW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 [Trump](https://www.donaldjtrump.com/)'s actions following the 2020 election should have disqualified him from ever serving again. However, the [Trumpers](https://www.donaldjtrump.com/)[^330] in the [House](https://www.house.gov/) and [Senate](https://www.senate.gov/) chose **"Party Over Country"**
 
