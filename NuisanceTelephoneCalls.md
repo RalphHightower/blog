@@ -20,6 +20,14 @@ The telephone numbers below have called and there is an empty person on the othe
 
 | Telephone Number | Location | Date Time[^11]<sup>,</dup>[^12] | Caller | Social Media |
 |---|---|---|---|---|
+| [\+1 (803) 510-7981](tel:+18035107981) | SC. North Augusta | 2025-12-08 07:34 PM | — | |
+| [\+1 (803) 519-9479](tel:+18035199479) | SC. Chester | 2025-12-08 06:47 PM | BREANNA M EDGEMON | |
+| [\+1 (803) 339-6279](tel:+18033396279) | SC. York | 2025-12-08 06:38 PM ¤¤ | — | |
+| [\+1 (803) 339-6279](tel:+18033396279) | SC. York | 2025-12-08 06:36 PM | — | |
+| [\+1 (803) 921-4385](tel:+18039214385) | SC. Eutawville | 2025-12-08 05:21 PM | — | |
+| [\+1 (803) 767-4879](tel:+18037674879) | SC. Columbia | 2025-12-08 10:53 AM ¤¤🚫 | — | |
+| [\+1 (803) 994-7408](tel:+18039947408) | SC. Whitmire | 2025-12-08 09:04 AM ¤¤ | — | |
+| [\+1 (803) 994-7408](tel:+18039947408) | SC. Whitmire | 2025-12-08 09:03 AM | — | |
 | [\+1 (803) 531-1206](tel:+18035311206) | SC. Orangeburg | 2025-12-06 11:11 AM | EASTERLIN D | |
 | [\+1 (803) 719-5846](tel:+18037195846) | SC. Columbia | 2025-12-05 07:20 PM | [County of Richland](https://www.richlandcountysc.gov/Home) | |
 | [\+1 (803) 719-5846](tel:+18037195846) | SC. Columbia | 2025-12-05 07:19 PM | [County of Richland](https://www.richlandcountysc.gov/Home) | |
