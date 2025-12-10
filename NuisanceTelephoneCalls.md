@@ -20,6 +20,8 @@ The telephone numbers below have called and there is an empty person on the othe
 
 | Telephone Number | Location | Date Time[^11]<sup>,</dup>[^12] | Caller | Social Media |
 |---|---|---|---|---|
+| [\+1 (803) 454-3241](tel:+18034543241) | SC. Columbia | 2025-12-09 03:45 PM ¤¤ | — | |
+| [\+1 (803) 454-3241](tel:+18034543241) | SC. Columbia | 2025-12-09 03:44 PM | — | |
 | [\+1 (803) 510-7981](tel:+18035107981) | SC. North Augusta | 2025-12-08 07:34 PM | — | |
 | [\+1 (803) 519-9479](tel:+18035199479) | SC. Chester | 2025-12-08 06:47 PM | BREANNA M EDGEMON | |
 | [\+1 (803) 339-6279](tel:+18033396279) | SC. York | 2025-12-08 06:38 PM ¤¤ | — | |
