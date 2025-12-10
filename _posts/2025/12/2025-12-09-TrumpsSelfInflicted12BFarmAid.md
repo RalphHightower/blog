@@ -7,7 +7,7 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: "Trump’s \$20 Billion Farm Aid Because of Damage His Tariffs Caused"
+title: "Trump’s $20 Billion Farm Aid Because of Damage His Tariffs Caused"
 ---
 
 The Arsonist Deserves No Credit For Putting Out Fires He Started.
