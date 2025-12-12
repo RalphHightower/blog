@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [media, MS NOW Breaking News and News Today / Latest News, “Velshi.”, Ali Velshi, Jimson Rodriguez, Allison Detzel, Stock Markets Business News Financials Earnings CNBC, MSNBC News Breaking News and News Today / Latest News, NBC News Breaking Headlines and Video Reports on World U.S. and Local Angles / NBC News, Newsweek News Analysis Politics Business Technology, USA TODAY Breaking News and Latest News Today, NPR Breaking News Analysis Music Arts & Podcasts – NPR, PBS News – News Analysis Top Headlines Live Coverage, Ukraine, Головна / Кабінет Міністрів України (UA), organizations, Boston University College Republicans, political parties, Democrat Party, Trumpian Party, foreign governments, Головна / Кабінет Міністрів України (UA), Российская Федерация (RU), state local governments, Washington D.C., Philadelphia, federal government, Constitution of the United States, U.S. Constitution - First Amendment / Library of Congress, Supreme Court of the United States (SCOTUS), US Courts, Department of Justice (DOJ), Federal Bureau of Investigation (FBI), Consumer Financial Protection Bureau, Department of Homeland Security (DHS), U.S. Immigration and Customs Enforcement (ICE), National Park Service (NPS), Independence National Historical Park (U.S. National Park Service), Office of Personnel Management (OPM), Congress, Senate, House of Representatives, President of the United States (POTUS), White House (WH), Trump autocracy, Donald J Trump, President Donald Trump (45), President Donald Trump (47), President Trump (47) Administration, President Trump (47) Cabinet, press secretary, Karoline Leavitt, Pam Bondi – Office of the Attorney General / Meet the Attorney General / United States Department of Justice, Todd Blanche – Office of the Deputy Attorney General / Office of the Deputy Attorney General, Todd Blanche / LinkedIn, Lindsey Halligan, Director Kash Patel — FBI, Deputy Director Dan Bongino — FBI, Media Offenders – The White House, “Media Bias” page, grifter, self-dealing, corruption, con artist, crime, cryptocurrency, criminal associates, criminal businesses, criminal media, criminal organizations, criminal partners]
+tags: [media, MS NOW Breaking News and News Today / Latest News, “Velshi.”, Ali Velshi, Jimson Rodriguez, Allison Detzel, Stock Markets Business News Financials Earnings CNBC, Government News Research and Events for Federal Employees - GovExec.com, HISTORY / Topics Shows and This Day in History, MSNBC News Breaking News and News Today / Latest News, NBC News Breaking Headlines and Video Reports on World U.S. and Local Angles / NBC News, Newsweek News Analysis Politics Business Technology, USA TODAY Breaking News and Latest News Today, NPR Breaking News Analysis Music Arts & Podcasts – NPR, PBS News – News Analysis Top Headlines Live Coverage, organizations, Boston University College Republicans, political parties, Democrat Party, Trumpian Party, foreign governments, Головна / Кабінет Міністрів України (UA), Российская Федерация (RU), state local governments, Washington D.C., Philadelphia, federal government, Constitution of the United States, U.S. Constitution - First Amendment / Library of Congress, Supreme Court of the United States (SCOTUS), US Courts, Department of Justice (DOJ), Federal Bureau of Investigation (FBI), Consumer Financial Protection Bureau, Department of Homeland Security (DHS), U.S. Immigration and Customs Enforcement (ICE), National Park Service (NPS), Independence National Historical Park (U.S. National Park Service), Office of Personnel Management (OPM), Congress, Senate, House of Representatives, President of the United States (POTUS), White House (WH), Trump autocracy, Donald J Trump, President Donald Trump (45), President Donald Trump (47), President Trump (47) Administration, President Trump (47) Cabinet, press secretary, Karoline Leavitt, Pam Bondi – Office of the Attorney General / Meet the Attorney General / United States Department of Justice, Todd Blanche – Office of the Deputy Attorney General / Office of the Deputy Attorney General, Todd Blanche / LinkedIn, Lindsey Halligan, Director Kash Patel — FBI, Deputy Director Dan Bongino — FBI, Media Offenders – The White House, “Media Bias” page, grifter, self-dealing, corruption, con artist, crime, cryptocurrency, criminal associates, criminal businesses, criminal media, criminal organizations, criminal partners]
 categories: [Donald Trump, Communist Party, Soviet Union, first amendment, freedom of speech]
 date: 2025-12-10 13:30
 excerpt: ''
@@ -26,7 +26,7 @@ That was emblematic of the Red Scare, an era when paranoia ran high among the pe
 
 The panel had a simple question for them: “Are you, or have you ever been, a member of the Communist Party?” If the answer was yes, the panel wanted to know who else they knew or suspected to be a communist or communist sympathizer. The men refused to cooperate, and they refused to name names.
 
-One day later, the [House of Representatives](https://www.house.gov/) overwhelmingly approved citations against them for contempt of Congress. 
+One day later, the [House of Representatives](https://www.house.gov/) overwhelmingly approved citations against them for contempt of Congress.
 
 Those men became known as the [Hollywood Ten](https://www.history.com/this-day-in-history/november-24/hollywood-10-cited-for-contempt-of-congress). They were the first group of people to be systematically blacklisted in Hollywood and shut out of the industry for known or suspected ties to the Communist Party or its ideology.
 
@@ -36,7 +36,7 @@ That was only the beginning. Two and a half years later, a book called [“Red C
 
 The list included people like actor and director Orson Welles, the composer Leonard Bernstein and folk singer Pete Seeger.
 
-A lot of you may remember that ugly chapter of American politics. Well, more than seven decades later, it seems the book may have been reopened. 
+A lot of you may remember that ugly chapter of American politics. Well, more than seven decades later, it seems the book may have been reopened.
 
 About a week ago, the [White House](https://www.whitehouse.gov/) debuted a [“Media Bias” page](https://www.whitehouse.gov/mediabias/) on its official government website. It features a “Media Offender of the Week” and a section called the “Offender Hall of Shame.” It also lists specific stories and journalists with which the [White House](https://www.whitehouse.gov/) has taken issue, for one reason or another.
 
@@ -64,7 +64,7 @@ An [ICE](https://www.ice.gov/) tip line has actually existed for more than two d
 
 But the concern in all of these cases is not necessarily about the tip lines themselves; it’s about the recruitment of the American public to police one another.
 
-There’s a term for this: denunciation. It’s the practice of citizens monitoring one another’s movements and reporting activities to the government. It’s characteristic of repressive societies and authoritarian states. 
+There’s a term for this: denunciation. It’s the practice of citizens monitoring one another’s movements and reporting activities to the government. It’s characteristic of repressive societies and authoritarian states.
 
 This is not the honorable work of being a [whistleblower](https://www.ms.now/top-stories/latest/meta-whistleblowers-vr-headset-zuckerberg-senate-rcna230444), either. Whereas whistleblowers document and report abuses of power, often by people in positions of authority, denunciation is more about reporting activity that the state does not agree with, even if it’s not a crime.
 
@@ -100,14 +100,14 @@ Jimson Rodriguez and Allison Detzel contributed.
         - Jimson Rodriguez
         - Allison Detzel
 - [Stock Markets, Business News, Financials, Earnings  CNBC](https://www.cnbc.com/)
+- [Government News, Research and Events for Federal Employees - GovExec.com](https://www.govexec.com/)
+- [HISTORY / Topics, Shows and This Day in History](https://www.history.com/)
 - [MSNBC News  Breaking News and News Today / Latest News](https://www.msnbc.com/)
 - [NBC News  Breaking Headlines and Video Reports on World, U.S. and Local Angles / NBC News](https://www.nbcnews.com/)
 - [Newsweek  News, Analysis, Politics, Business, Technology](https://www.newsweek.com/)
 - [USA TODAY  Breaking News and Latest News Today](https://www.usatoday.com/)
 - [NPR  Breaking News, Analysis, Music, Arts & Podcasts – NPR](https://www.npr.org/)
 - [PBS News – News, Analysis, Top Headlines, Live Coverage](https://www.pbs.org/)
-- [Ukraine](https://www.kmu.gov.ua/)
-- [Головна / Кабінет Міністрів України (UA)](https://www.kmu.gov.ua/)
 organizations
 - [Boston University College Republicans](https://www.bucollegerepublicans.com/)
 - political parties
@@ -116,7 +116,7 @@ organizations
 - foreign governments
 - [Головна / Кабінет Міністрів України (UA)](https://www.kmu.gov.ua/)
 - [Российская Федерация (RU)](http://government.ru/)
-- state, local governments 
+- state, local governments
 - [Washington, D.C.](https://dc.gov/)
 - [Philadelphia](https://www.phila.gov/)
 - federal government
