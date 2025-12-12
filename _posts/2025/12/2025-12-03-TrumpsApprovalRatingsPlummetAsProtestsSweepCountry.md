@@ -7,7 +7,7 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: "Trump’s Approval Ratings Plummet As Anti-Trump Protests Sweep Across theNation"
+title: "Trump’s Approval Ratings Plummet As Anti-Trump Protests Sweep Across the Nation"
 ---
 
 ## [Anti-Trump protests sweep the country as his approval rating sinks to new lows](https://www.ms.now/rachel-maddow-show/maddowblog/trump-approval-rating-protests-healthcare-redistricting-immigration-raids)
