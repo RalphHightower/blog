@@ -538,7 +538,7 @@ From December 13, 2025 at 1345 EST – December 13, 2025 at 1830 EST
 | 10:35 PM | The [President](https://www.donaldjtrump.com/) arrives The [White House](https://www.whitehouse.gov/) [Actual: 11:49 PM]<br />The [White House](https://www.whitehouse.gov/) Open Press |
 | 11:21 PM | The [President](https://www.donaldjtrump.com/) arrives at [Joint Base Andrews (ADW)](https://www.jba.af.mil/)<br />[Joint Base Andrews (ADW)](https://www.jba.af.mil/) |
 | 11:38 PM | The [President](https://www.donaldjtrump.com/) departs [Joint Base Andrews (ADW)](https://www.jba.af.mil/) for the [White House](https://www.whitehouse.gov/)<br />[Joint Base Andrews (ADW)](https://www.jba.af.mil/) |
-| 11:54 PM | [White House](https://www.whitehouse.gov/) Press Office: Full lid called</<The [White House](https://www.whitehouse.gov/) |
+| 11:54 PM | [White House](https://www.whitehouse.gov/) Press Office: Full lid called<br />The [White House](https://www.whitehouse.gov/) |
 | 🔥💸 | **Saturday, September 20 2025** |
 | 8:00 AM | In-Town Pool Call Time<br />The [White House](https://www.whitehouse.gov/) In-Town Pool |
 | 9:08 AM ⛳️🏌‍♂️| The [President](https://www.donaldjtrump.com/) departs the [White House](https://www.whitehouse.gov/) for his golf club<br />The [White House](https://www.whitehouse.gov/) |
