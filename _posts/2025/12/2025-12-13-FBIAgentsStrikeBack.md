@@ -1,13 +1,13 @@
 ---
 layout: post
-tags: []
-categories: []
+tags: [media, MS NOW Breaking News and News Today / Latest News, Rachel Maddow Show, Rachel Maddow, Steve Benen, “Ministry of Truth –  Democracy Reality and the Republicans’ War on the Recent Past.”, Associated Press News (AP) - Breaking News Latest Headlines and Videos / AP News, NBC News - Breaking Headlines and Video Reports on World U.S. and Local Angles / NBC News, The New York Times (NYT) - Breaking News US News World News and Videos, NPR - Breaking News Analysis Music Arts & Podcasts – NPR, political parties, Democrat Party, Trumpian Party, federal government, Supreme Court of the United States (SCOTUS), US Courts, Department of Justice (DOJ), Federal Bureau of Investigation (FBI), James B. Comey September 4 2013 - May 9 2017 — FBI, Christopher Wray August 2 2017 - January 20 2025 — FBI, David L. Bowdich - The Walt Disney Company, David Maltinsky, Brian Driscoll, Home Page / Quantico VA, Congress, Senate, House of Representatives, President of the United States (POTUS), White House (WH), Trump autocracy, Donald J Trump, President Donald Trump (45), President Donald Trump (47), President Trump (47) Administration, President Trump (47) Cabinet, press secretary, Karoline Leavitt, Pam Bondi – Office of the Attorney General / Meet the Attorney General / United States Department of Justice, Todd Blanche – Office of the Deputy Attorney General / Office of the Deputy Attorney General, Todd Blanche / LinkedIn, Lindsey Halligan, Director Kash Patel — FBI, Deputy Director Dan Bongino — FBI, grifter, self-dealing, corruption, con artist, crime, cryptocurrency, criminal associates, criminal businesses, criminal media, criminal organizations, criminal partners]
+categories: [Federal Bureau of Investigation (FBI), Kash Patel, Dan Bongino, subversion of FBI mission]
 date: 2025-12-13 13:52
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: Agents Strike Back. The Saga of Justice Restored.
+title: :Agents Strike Back. The Saga of Justice Restored."
 ---
 
 
@@ -39,6 +39,20 @@ as they rally to reclaim their purpose.
 In a galaxy not so far away,
 the Agents strike lead up.
 ```
+
+The mission of the [Federal Bureau of Investigation (FBI)](https://www.fbi.gov/) is to investigate:
+
+- Civil Rights 
+- Counterintelligence
+- Cyber
+- Public Corruption 
+- Terrorism 
+- Violent Crime
+- Transnational Organized Crime
+- Weapons of Mass Destruction
+- White-Collar Crime
+
+Yet their core mission has been usurped for immigration deportation. Four year college degrees were required for the government’s top law investigative and enforcement agency. But [lPatel](https://www.fbi.gov/about/leadership-and-structure/director-patel) has dumbed down the elite agency to require just a high school education. 
 
 ## [Following Kash Patel’s purge, ousted FBI officials fight back in court](https://www.ms.now/rachel-maddow-show/maddowblog/following-kash-patels-purge-ousted-fbi-officials-fight-back-in-court)
 
