@@ -7,7 +7,7 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: "Try As He May. Trump Can't Pardon Sycophants Prisoned On State Charges"
+title: "Try As He May. Trump Can't Pardon Sycophant, Tina Peters, Sitting In a Colorado Jail Cell"
 ---
 
 
