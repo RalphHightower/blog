@@ -7,7 +7,7 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: :Agents Strike Back. The Saga of Justice Restored."
+title: "Agents Strike Back. The Saga of Justice Restored."
 ---
 
 
