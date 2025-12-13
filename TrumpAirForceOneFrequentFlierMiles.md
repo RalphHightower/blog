@@ -15,7 +15,14 @@ toc: true
 
 [^666]: @RalphHightower – [Federal Aviation Administration - Graphic TFRs](https://tfr.faa.gov/tfr3/?page=list)
 
+[^57736]:  [Federal Aviation Administration - Graphic TFRs](https://tfr.faa.gov/tfr3/?page=detail_5_7736). From December 13, 2025 at 1345 EST – December 13, 2025 at 1830 EST
+[^57734]: [Federal Aviation Administration - Graphic TFRs](https://tfr.faa.gov/tfr3/?page=detail_5_7734)
+From December 13, 2025 at 1345 EST – December 13, 2025 at 1830 EST
+[^58724]: [Federal Aviation Administration - Graphic TFRs](https://tfr.faa.gov/tfr3/?page=detail_5_8724). From December 13, 2025 at 2000 EST – December 14, 2025 at 0700 EST
+
+
 [^50709]: [Federal Aviation Administration - Graphic TFRs](https://tfr.faa.gov/tfr3/?page=detail_5_0709). From November 25, 2025 at 2000 EST – November 30, 2025 at 1630 EST
+
 
 - **Sunday, November 30, 2025[^50709]**
     - -:-- AM ⛳️🏌‍♂️[Donnie](https://www.donaldjtrump.com/) departs [Mar-a-Lago](https://www.maralagoclub.com/) to play golf at his [Trump International Golf Club](https://www.trumpinternationalpalmbeaches.com/)
@@ -57,7 +64,8 @@ toc: true
 | 5:29 PM | The [President](https://www.donaldjtrump.com/) arrives at [Joint Base Andrews (ADW)](https://www.jba.af.mil/)<br />[Joint Base Andrews (ADW)](https://www.jba.af.mil/)
 | 5:46 PM | The [President](https://www.donaldjtrump.com/) departs [Joint Base Andrews (ADW)](https://www.jba.af.mil/) for the [White House](https://www.whitehouse.gov/)<br />[Joint Base Andrews (ADW)](https://www.jba.af.mil/)
 | 5:50 PM | The [President](https://www.donaldjtrump.com/) and First Lady arrive the [White House](https://www.whitehouse.gov/) [Actual: 5:56 PM]<br />[South Lawn](https://www.whitehouse.gov/) Open Press
-| 6:06 PM | [White House](https://www.whitehouse.gov/) Press Office: Full lid called<br />The [White House](https://www.whitehouse.gov/)| | **Saturday, November 29 2025** |
+| 6:06 PM | [White House](https://www.whitehouse.gov/) Press Office: Full lid called<br />The [White House](https://www.whitehouse.gov/) | 
+| **Saturday, November 29 2025** |
 | | The [President](https://www.donaldjtrump.com/) ~~has no public events scheduled~~ (other than playing golf ⛳️🏌)<br />[Mar-a-Lago](https://www.maralagoclub.com/) Out-of-Town Travel Pool |
 | 7:30 AM | Out-of-Town Travel Pool Call Time<br />[Mar-a-Lago](https://www.maralagoclub.com/) Out-of-Town Travel Pool |
 | 9:35 AM ⛳️🏌‍♂️| The [President](https://www.donaldjtrump.com/) departs [Mar-a-Lago](https://www.maralagoclub.com/) for his golf club<br />[Mar-a-Lago](https://www.maralagoclub.com/) |
@@ -157,8 +165,8 @@ toc: true
 | 2:53 PM 🔥💸 ⛳️🏌‍♂️| The [President](https://www.donaldjtrump.com/) departs [Palm Beach International Airport (PBI)](https://www.pbia.org/) for [Joint Base Andrews (ADW)](https://www.jba.af.mil/)<br />[Palm Beach International Airport (PBI)](https://www.pbia.org/) |
 | 4:40 PM 🔥💸 | The [President](https://www.donaldjtrump.com/) arrives at [Joint Base Andrews (ADW)](https://www.jba.af.mil/)<br />[Joint Base Andrews (ADW)](https://www.jba.af.mil/) |
 | 4:58 PM 🔥💸🏈 | The [President](https://www.donaldjtrump.com/) departs [Joint Base Andrews (ADW)](https://www.jba.af.mil/) for [Northwest Stadium](https://northweststadium.com/) in [Landover](https://www.princegeorgescountymd.gov/)<br />[Joint Base Andrews (ADW)](https://www.jba.af.mil/) |
-| 5:15 PM 🔥💸 🏈| The [President](https://www.donaldjtrump.com/) arrives at [Northwest Stadium](https://northweststadium.com/)<br /[Northwest Stadium](https://northweststadium.com/), [Landover](https://www.princegeorgescountymd.gov/), [Maryland](https;//www.maryland.gov/) |
-| 5:35 PM 🔥💸 🏈| The [President](https://www.donaldjtrump.com/) attends [The Commanders](https://www.commanders.com/)) Football Game<br /[Northwest Stadium](https://northweststadium.com/), [Landover](https://www.princegeorgescountymd.gov/), [Maryland](https;//www.maryland.gov/) |
+| 5:15 PM 🔥💸 🏈| The [President](https://www.donaldjtrump.com/) arrives at [Northwest Stadium](https://northweststadium.com/)<br />[Northwest Stadium](https://northweststadium.com/), [Landover](https://www.princegeorgescountymd.gov/), [Maryland](https;//www.maryland.gov/) |
+| 5:35 PM 🔥💸 🏈| The [President](https://www.donaldjtrump.com/) attends [The Commanders](https://www.commanders.com/) Football Game<br />[Northwest Stadium](https://northweststadium.com/), [Landover](https://www.princegeorgescountymd.gov/), [Maryland](https;//www.maryland.gov/) |
 | 6:00 PM 🔥💸 🏈| The [President](https://www.donaldjtrump.com/) administers the oath to new servicemembers during halftime at a [Washington Commanders](https://www.commanders.com/) game<br />[Northwest Stadium](https://northweststadium.com/), [Landover](https://www.princegeorgescountymd.gov/), [Maryland](https;//www.maryland.gov/) |
 | 6:42 PM 🔥💸 🏈| The [President](https://www.donaldjtrump.com/) departs [Northwest Stadium](https://northweststadium.com/) for the [White House](https://www.whitehouse.gov/)<br />[Northwest Stadium](https://northweststadium.com/), [Landover](https://www.princegeorgescountymd.gov/), [Maryland](https;//www.maryland.gov/) |
 | 7:00 PM 🔥💸 | In-Town Pool Call Time<br />The [White House](https://www.whitehouse.gov/) In-Town Pool |
@@ -530,7 +538,7 @@ toc: true
 | 10:35 PM | The [President](https://www.donaldjtrump.com/) arrives The [White House](https://www.whitehouse.gov/) [Actual: 11:49 PM]<br />The [White House](https://www.whitehouse.gov/) Open Press |
 | 11:21 PM | The [President](https://www.donaldjtrump.com/) arrives at [Joint Base Andrews (ADW)](https://www.jba.af.mil/)<br />[Joint Base Andrews (ADW)](https://www.jba.af.mil/) |
 | 11:38 PM | The [President](https://www.donaldjtrump.com/) departs [Joint Base Andrews (ADW)](https://www.jba.af.mil/) for the [White House](https://www.whitehouse.gov/)<br />[Joint Base Andrews (ADW)](https://www.jba.af.mil/) |
-| 11:54 PM | [White House](https://www.whitehouse.gov/) Press Office: Full lid called</<The [White House](https://www.whitehouse.gov/) |
+| 11:54 PM | [White House](https://www.whitehouse.gov/) Press Office: Full lid called<br />The [White House](https://www.whitehouse.gov/) |
 | 🔥💸 | **Saturday, September 20 2025** |
 | 8:00 AM | In-Town Pool Call Time<br />The [White House](https://www.whitehouse.gov/) In-Town Pool |
 | 9:08 AM ⛳️🏌‍♂️| The [President](https://www.donaldjtrump.com/) departs the [White House](https://www.whitehouse.gov/) for his golf club<br />The [White House](https://www.whitehouse.gov/) |
@@ -854,7 +862,7 @@ toc: true
 | | 🔥 [White House](https://www.whitehouse.gov/) 💣|
 | | **Tuesday, July 15 2025** |
 | 9:00 AM | In-Town Pool Call Time<br />The [White House](https://www.whitehouse.gov/) In-Town Pool |
-| 11:15 AM | Out-of-Town Travel Pool Call Time<br />/[Joint Base Andrews (ADW)](https://www.jba.af.mil/) Out-of-Town Travel Pool |
+| 11:15 AM | Out-of-Town Travel Pool Call Time<br />[Joint Base Andrews (ADW)](https://www.jba.af.mil/) Out-of-Town Travel Pool |
 | 11:30 AM | The [Secret Service](https://www.secretservice.gov/) orders a lockdown of the [White House](https://www.whitehouse.gov/) campus<br />The [White House](https://www.whitehouse.gov/) Open Press |
 | 11:56 AM | The [Secret Service](https://www.secretservice.gov/) lifts the lockdown of the [White House](https://www.whitehouse.gov/) campus [Note: per [Secret Service](https://www.secretservice.gov/) statement at ~5:00 p.m., an object was thrown over the gate on the [North Grounds](https://www.whitehouse.gov/). Object was cleared by explosive ordinance disposal team, person transported for mental health evaluation.]<br />The [White House](https://www.whitehouse.gov/) Open Press |
 | 12:30 PM | The [President](https://www.donaldjtrump.com/) departs the [White House](https://www.whitehouse.gov/) en route [Pittsburgh](https://www.pittsburghpa.gov/), [Pennsylvania](https://www.pa.gov/) [1:14 PM Actual to [Joint Base Andrews (ADW)](https://www.jba.af.mil/)]<br />The [White House](https://www.whitehouse.gov/) Open Press |
