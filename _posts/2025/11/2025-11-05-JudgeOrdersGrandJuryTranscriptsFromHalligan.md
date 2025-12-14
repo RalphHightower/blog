@@ -10,6 +10,8 @@ excerpt: ''
 title: "Judge Orders Halligan To Send James Comey’s Grand Jury Transcripts"
 ---
 
+- ['Prosecute' vs. 'Persecute' – Merriam-Webster](https://www.merriam-webster.com/grammar/prosecuted-vs-persecuted-usage)
+    - “One you do in court, the other you do if you're a jerk.”
 
 ## [Judge says DOJ failed to give full transcripts of Halligan’s Comey grand jury proceedings](https://www.msnbc.com/deadline-white-house/deadline-legal-blog/james-comey-grand-jury-transcript-lindsey-halligan-rcna241879)
 
@@ -38,7 +40,7 @@ Subscribe to the [Deadline: Legal Newsletter](https://link.msnbc.com/join/5ck/ms
 
 ----
 - media
-- [MSNBC News - Breaking News and News Today / Latest News](https://link.msnbc.com/)
+- [MSNBC News - Breaking News and News Today / Latest News](https://www.msnbc.com/)
     - [Deadline: Legal Blog](https://www.msnbc.com/deadline-white-house)
         - Jordan Rubin
 - [Non-Profit Free Legal Search Engine and Alert System – CourtListener.com](https://storage.courtlistener.com/)
@@ -91,9 +93,9 @@ Subscribe to the [Deadline: Legal Newsletter](https://link.msnbc.com/join/5ck/ms
     - [U.S. Constitution - Twenty-Seventh Amendment /  Library of Congress](https://constitution.congress.gov/constitution/amendment-27/)
     - [Supreme Court of the United States (SCOTUS)](https://www.supremecourt.gov/)
     - [US Courts](https://www.uscourts.gov/)
-    - [Official Website for the United States District Court for the District of South Carolina](https://www.scd.uscourts.gov/)
-        - [SCD - District Judges](https://www.scd.uscourts.gov/Judges/distjudge.asp)
-            - [Judge Cameron McGowan Currie](https://www.scd.uscourts.gov/Judges/distjudge.asp)
+        - [Official Website for the United States District Court for the District of South Carolina](https://www.scd.uscourts.gov/)
+            - [SCD - District Judges](https://www.scd.uscourts.gov/Judges/distjudge.asp)
+                - [Judge Cameron McGowan Currie](https://www.scd.uscourts.gov/Judges/distjudge.asp)
     - [Department of Justice (DOJ)](https://www.justice.gov/)
         - [Eastern District of Virginia / Eastern District of Virginia](https://www.justice.gov/usao-edva)
         - [Federal Bureau of Investigation (FBI)](https://www.fbi.gov/)

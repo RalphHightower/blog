@@ -97,7 +97,7 @@ Neither [Kelly](https://www.kelly.senate.gov/), nor any of the other [Democratic
         - [10 U.S.C. 47 - UNIFORM CODE OF MILITARY JUSTICE - Content Details - USCODE-2024-title10-subtitleA-partII-chap47](https://www.govinfo.gov/app/details/USCODE-2024-title10/USCODE-2024-title10-subtitleA-partII-chap47)
     - [Senate](https://www.senate.gov/)
         - [House of Representatives](https://www.house.gov/)
-     - [President of the United States (POTUS)](https://www.whitehouse.gov/)
+    - [President of the United States (POTUS)](https://www.whitehouse.gov/)
     - [White House (WH)](https://www.whitehouse.gov/)
 - Trump autocracy
     - [Donald J Trump](https://www.donaldjtrump.com/)
@@ -107,7 +107,7 @@ Neither [Kelly](https://www.kelly.senate.gov/), nor any of the other [Democratic
             - [President Trump (47) Cabinet](https://www.whitehouse.gov/administration/the-cabinet/)
                 - press secretary
                     - Karoline Leavitt
-                - [HON Pete Hegseth > U.S. Department of War > Biography / U.S. Department of War](https://www.war.gov/About/Biographies/Biography/Article/4040890/hon-pete-hegseth/)
+                - [HON Pete Hegseth > U.S. Department of War > Biography / U.S. Department of Defense](https://www.defense.gov/About/Biographies/Biography/Article/4040890/hon-pete-hegseth/)
 {% if tags contains "weaponization" or categories contains "weaponization" %}
   {% include TrumpWeaponization.html %}
 {% endif %}
