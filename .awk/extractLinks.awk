@@ -14,7 +14,7 @@ BEGIN {
     line = $0 "◇"
     https = index(line, HTTP)
     
-    printf("#10DEBUG: NR=%d, length(《%s》)=%d, https=%d\n", NR, line, length(line), https)
+    #printf("#10DEBUG: NR=%d, length(《%s》)=%d, https=%d\n", NR, line, length(line), https)
 
     if (https > 0) { # 2
     
@@ -39,8 +39,14 @@ BEGIN {
                         #printf("#45DEBUG: %s=》%s《\n", link, newsMedia(link))
                         printf("%s\n", link)
                         reference = newsMedia(link)
-                        if (link != reference)
-                            printf("- %s\n", reference)
+                        if (link != reference) {
+                            if (!(reference in PRINTED)) {
+                                #printf("#47DEBUG: link=%s, reference=%s\n", link, reference)
+                                if (index(reference, "https://link.ms") == 0)
+                                    printf("- %s\n", reference)
+                                PRINTED[ reference ] = reference 
+                                }
+                            }
                         line = substr(line, rightParen + 0)
                         https = index(line, HTTP)
                         
@@ -120,7 +126,12 @@ function newsMedia(markdownLink) { # 1
                 } # 4
             } # 3
         } # 2
-    if (found == 1)
-        printf("- %s\n", display)
+    if (found == 1) {
+        if (!(display in FOUND)) {
+            #printf("#160DEBUG\n")
+            #printf("- %s\n", display)
+            FOUND[ display ] = 1
+            }
+        }
     return(display)
     } # 1

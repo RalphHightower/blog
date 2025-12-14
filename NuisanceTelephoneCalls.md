@@ -20,6 +20,8 @@ The telephone numbers below have called and there is an empty person on the othe
 
 | Telephone Number | Location | Date Time[^11]<sup>,</dup>[^12] | Caller | Social Media |
 |---|---|---|---|---|
+| [\+1 (803) 482-2236](tel:+18034822236) | SC. Great Falls | 2025-12-13 10:15 AM | Jimmy Williams | |
+| [\+1 (803) 768-5416](tel:+18037685416) | SC. Newberry | 2025-12-12 10:13 AM | — | |
 | [\+1 (888) 264-1083](tel:+18882641083) | Toll Free | 2025-12-11 02:53 PM | — | |
 | [\+1 (803) 548-3415](tel:+18035483415) | SC. Fort Mill | 2025-12-11 09:43 AM | KEITH J GRIFFIN | |
 | [\+1 (803) 454-3241](tel:+18034543241) | SC. Columbia | 2025-12-09 03:45 PM ¤¤ | — | |
