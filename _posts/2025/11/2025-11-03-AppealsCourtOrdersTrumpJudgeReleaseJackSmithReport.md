@@ -10,6 +10,8 @@ excerpt: ''
 title: "Appeals Court Orders Florida Judge, Aileen Cannon, To Release Jack Smith’s Report Of Classified Documents"
 ---
 
+- ['Prosecute' vs. 'Persecute' – Merriam-Webster](https://www.merriam-webster.com/grammar/prosecuted-vs-persecuted-usage)
+    - “One you do in court, the other you do if you're a jerk.”
 
 ## [Appeals court finds ‘undue delay’ in Cannon’s handling of litigation over Jack Smith report](https://www.msnbc.com/deadline-white-house/deadline-legal-blog/judge-cannon-jack-smith-report-trump-undue-delay-rcna241707)
 
@@ -34,7 +36,7 @@ Subscribe to the [Deadline: Legal Newsletter](https://link.msnbc.com/join/5ck/ms
 
 ----
 - media
-- [MSNBC News - Breaking News and News Today / Latest News](https://link.msnbc.com/)
+- [MSNBC News - Breaking News and News Today / Latest News](https://www..msnbc.com/)
     - [Deadline: Legal Blog](https://www.msnbc.com/deadline-white-house)
         - Jordan Rubin
 - [Non-Profit Free Legal Search Engine and Alert System – CourtListener.com](https://storage.courtlistener.com/)

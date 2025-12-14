@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: []
+tags: [media, MSNBC News - Breaking News and News Today / Latest News, organizations, National Center for LGBTQ Rights, political parties, Democrat Party, Trumpian Party, universities, companies, Home - GLAD Law, federal government, Constitution of the United States, Supreme Court of the United States (SCOTUS), US Courts, Department of Justice (DOJ), Air Force, Space Force, President of the United States (POTUS), White House (WH), Trump autocracy, Donald J Trump, President Donald Trump (45), President Donald Trump (47), President Trump (47) Administration, President Trump (47) Cabinet, press secretary, Karoline Leavitt, Pam Bondi – Office of the Attorney General / Meet the Attorney General / United States Department of Justice, Todd Blanche – Office of the Deputy Attorney General / Office of the Deputy Attorney General, Todd Blanche / LinkedIn, Lindsey Halligan, grifter, self-dealing, corruption, con artist, crime, cryptocurrency, criminal associates, criminal businesses, criminal media, criminal organizations, criminal partners]
 categories: [Donald Trump, transgender service members, retirement, health benefits]
 date: 2025-11-12 18:32
 excerpt: ''

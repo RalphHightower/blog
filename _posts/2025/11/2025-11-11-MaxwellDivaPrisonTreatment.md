@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: [media, MSNBC News - Breaking News and News Today / Latest News, NBC News - Breaking Headlines and Video Reports on World U.S. and Local Angles / NBC News, political parties, Democrat Party, Trumpian Party, federal government, Constitution of the United States, Supreme Court of the United States (SCOTUS), US Courts, Department of Justice (DOJ), Federal Bureau of Prisons (BOP), FCI Tallahassee, FPC Bryan, Federal Bureau of Investigation (FBI), Congress, Senate, House of Representatives, Jamie Raskin (D-MD8), President of the United States (POTUS), White House (WH), Trump autocracy, Donald J Trump, President Donald Trump (45), President Donald Trump (47), President Trump (47) Administration, President Trump (47) Cabinet, press secretary, Karoline Leavitt, Pam Bondi – Office of the Attorney General / Meet the Attorney General / United States Department of Justice, Todd Blanche – Office of the Deputy Attorney General / Office of the Deputy Attorney General, Todd Blanche / LinkedIn, Lindsey Halligan, Director Kash Patel — FBI, Deputy Director Dan Bongino — FBI, tariffs, politics, stupidity, grift, self-dealing, corruption, con artist, crime, cryptocurrency, criminal associates, Alan Dershowitz, criminal businesses, criminal media, criminal partners, human trafficking, sex trafficking, pedophile, Jeffrey Epstein, Ghislaine Maxwell]
-categories: [Jeffrey Epstein, Ghislaine Maxwell, Trump Crime Family, Donald Trump]
+categories: [Jeffrey Epstein, Ghislaine Maxwell, human trafficking, sex trafficking, pedophile, Trump Crime Family, Donald Trump, Department of Justice (DOJ), Pam Bondi, Todd Blanche, Federal Bureau of Investigation (FBI), Kash Patel, Dan Bongino]
 date: 2025-11-11 13:07
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
@@ -74,9 +74,9 @@ Ken Dilanian is the justice and intelligence correspondent for [MSNBC](https://w
     - [Supreme Court of the United States (SCOTUS)](https://www.supremecourt.gov/)
         - [US Courts](https://www.uscourts.gov/)
     - [Department of Justice (DOJ)](https://www.justice.gov/)
-    - [Federal Bureau of Prisons (BOP)](https://www.bop.gov/)
-        - [FCI Tallahassee](https://www.bop.gov/locations/institutions/tal/)
-        - [FPC Bryan](https://www.bop.gov/locations/institutions/bry/)
+        - [Federal Bureau of Prisons (BOP)](https://www.bop.gov/)
+            - [FCI Tallahassee](https://www.bop.gov/locations/institutions/tal/)
+            - [FPC Bryan](https://www.bop.gov/locations/institutions/bry/)
     - [Federal Bureau of Investigation (FBI)](https://www.fbi.gov/)
     - [Congress](https://www.congress.gov/)
         - [Senate](https://www.senate.gov/)

@@ -36,7 +36,7 @@ Subscribe to the [Deadline: Legal Newsletter](https://link.msnbc.com/join/5ck/ms
 
 ----
 - media
-- [MSNBC News - Breaking News and News Today / Latest News](https://link.msnbc.com/)
+- [MSNBC News - Breaking News and News Today / Latest News](https://www.msnbc.com/)
     - [Deadline: Legal Blog](https://www.msnbc.com/deadline-white-house)
         - Jordan Rubin
 - [Associated Press News (AP) - Breaking News, Latest Headlines and Videos / AP News](https://apnews.com/)
