@@ -16,7 +16,7 @@ title: "Jeffrey Epstein Had Crazy, Racist, Eugenicist Ideas"
 *Recently released emails show Epstein discussed the appeal of fascism and population control through climate change with AI theorists who have ties to prominent tech billionaires.*
 
 Dec. 8, 2025, 7:06 PM EST
-By Ja'han Jones
+By [Ja'han Jones](https://www.ms.now/author/jahan-jones?embedded=app&platform=android)
 
 After his conviction, sex offender Jeffrey Epstein maintained relationships with multiple Silicon Valley elites who promoted eugenics and racist pseudoscience, emails show.
 

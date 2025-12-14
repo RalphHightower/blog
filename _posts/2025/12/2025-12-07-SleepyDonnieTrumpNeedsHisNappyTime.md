@@ -16,7 +16,7 @@ title: "Sleepy Donnie Trump Needs His Nappy Time"
 *The 79-year-old [president](https://www.donaldjtrump.com/), who has been accused of nodding off in recent meetings, railed against the idea of a [president](https://www.donaldjtrump.com/) needing naps during his 2016 [presidential](https://www.donaldjtrump.com/) run.*
 
 Dec. 4, 2025, 1:22 PM EST
-By Hayes Brown
+By [Hayes Brown](https://www.ms.now/author/hayes-brown)
 
 I’ll be completely honest with you: I didn’t intend to write about [President](https://www.donaldjtrump.com/) [Donald Trump’s age](https://www.ms.now/opinion/donald-trump-aging-medical-nyt) again quite so soon. It was only last week that he was railing against The [New York Times](https://www.nytimes.com/) for daring to report that our 79-year-old [president](https://www.donaldjtrump.com/) [is slowing down](https://www.nytimes.com/2025/11/25/us/politics/trump-age-health.html). But his visible lethargy at his televised [Cabinet](https://www.whitehouse.gov/administration/the-cabinet/) meeting this week isn’t helping him change the topic.
 

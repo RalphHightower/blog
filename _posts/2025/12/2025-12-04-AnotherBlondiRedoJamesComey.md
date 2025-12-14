@@ -54,7 +54,7 @@ Subscribe to the [Deadline: Legal Newsletter](https://link.ms.now/join/5ck/msnbc
 
 ----
 - media
-- [MS NOW - Breaking News and News Today / Latest News](https://link.ms.now/)
+- [MS NOW - Breaking News and News Today / Latest News](https://www.ms.now/)
     - [Deadline: Legal Blog](https://www.msnbc.com/deadline-white-house)
         - Jordan Rubin
 - [Non-Profit Free Legal Search Engine and Alert System – CourtListener.com](https://storage.courtlistener.com/)

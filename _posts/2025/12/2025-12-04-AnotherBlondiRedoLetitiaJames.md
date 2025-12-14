@@ -20,7 +20,7 @@ title: "Trump’s Personal Lawyer, Pam Blondi, Seeks Redo of New York Attorney G
 *The mortgage fraud case was just dismissed on the grounds that [Lindsey Halligan](https://www.justice.gov/usao-edva/) was unlawfully appointed to her position — but the [DOJ](https://www.justice.gov/) isn't done yet.*
 
 Dec. 3, 2025, 9:24 PM EST
-By Carol Leonnig and Ken Dilanian
+By [Carol Leonnig](https://www.ms.now/author/carol-leonnig) and [Ken Dilanian](https://www.ms.now/author/ken-dilanian-2)
 
 Federal prosecutors are expected to seek to re-indict [New York](https://www.ny.gov/) [Attorney General](https://ag.ny.gov/) [Letitia James](https://ag.ny.gov/about/meet-letitia-james) on Thursday in [Norfolk, Va](https://www.justice.gov/usao-edva/). on charges related to alleged mortgage fraud, according to a source with knowledge of the plans.
 

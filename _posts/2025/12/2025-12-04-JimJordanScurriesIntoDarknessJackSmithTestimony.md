@@ -10,6 +10,8 @@ excerpt: ''
 title: "Like a Cockroach, Jim Jordan (T-OH4) Scurries Into Darkness For Jack Smith Testimony"
 ---
 
+- 2025-10-24: [Special Counsel Jack Smith Calls Jim Jordan (T-OH4) Bluff: Will Testify In Open Hearing]({% link _posts/2025/10/2025-10-24-SpecialCounselJackSmithCallsJordanRaisesStake.md %})
+
 🎶 Parody: “Like a Cockroach”
 
 _(Weird Al–style satire inspired by Madonna’s “Like a Virgin”)_

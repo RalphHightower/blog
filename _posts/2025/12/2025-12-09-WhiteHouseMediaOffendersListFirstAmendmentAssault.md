@@ -16,7 +16,7 @@ title: "Trump’s Media Offenders List Is a Badge of Honor For Defending Freedom
 *The [White House](https://www.whitehouse.gov/)’s attempt to shame journalists for reporting the truth only shows how low [President](https://www.whitehouse.gov/) [Trump](https://www.donaldjtrump.com/)’s energy is these days.*
 
 Dec. 5, 2025, 10:00 AM EST
-By Max Burns
+By [Max Burns](https://www.ms.now/author/max-burns)
 
 Over Thanksgiving weekend, I received a surge in unexpected messages — including many death threats. In short order, I learned that I’d be included on [President](https://www.whitehouse.gov/) [Donald Trump](https://www.donaldjtrump.com/)’s list of ‘[Media Offenders](https://www.whitehouse.gov/media-bias-reporter/max-burns/),’ a taxpayer-funded enemies list on the [White House](https://www.whitehouse.gov/)’s [website](https://www.whitehouse.gov/) and the [president](https://www.whitehouse.gov/)’s latest gambit in rallying the [MAGA](https://www.donaldjtrump.com/) base against the [free press](https://constitution.congress.gov/constitution/amendment-1/). 
 

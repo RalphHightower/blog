@@ -16,7 +16,7 @@ title: "Federal Judge Allows Release of Ghislaine Maxwell’s Grand Jury Files"
 *The [Justice Department](https://www.justice.gov/) requested the release of transcripts and discovery material related to the criminal prosecution of disgraced financier Jeffrey Epstein.*
 
 Dec. 9, 2025, 10:59 AM EST
-By Sydney Carruth
+By [Sydney Carruth](https://www.ms.now/author/sydney-carruth)
 
 A federal judge in [New York](https://www.nysd.uscourts.gov/) granted the [Justice Department](https://www.justice.gov/)’s motion to release grand jury material related to the criminal prosecution of Ghislaine Maxwell.
 
