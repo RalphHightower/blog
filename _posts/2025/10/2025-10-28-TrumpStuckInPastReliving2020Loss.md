@@ -13,7 +13,7 @@ title: "For Trump, It's Groundhog's Day. He's Stuck, Reliving His 2020 Loss"
 - ['Prosecute' vs. 'Persecute' – Merriam-Webster](https://www.merriam-webster.com/grammar/prosecuted-vs-persecuted-usage)
     - “One you do in court, the other you do if you're a jerk.”
 - [Federal: 2020 Election Interference, January 6 Insurrection]({% link January6DocumentDocumentLinks.md %})
-- [My Dumb State, South Carolina: Attorney General Alan Wilson Thinks That Trying to Overthrow An Election and Incite An Insurrection Is Legal]({% link _posts/2024/11/2024-11-01-SCAG-StopJackSmith.md %}). @RalphHightower, 2024-11-01
+- [My Dumb State: South Carolina Attorney General Alan Wilson Thinks That Trying to Overthrow An Election and Incite An Insurrection Is Legal]({% link _posts/2024/11/2024-11-01-SCAG-StopJackSmith.md %}). @RalphHightower, 2024-11-01
 
 ## [Five years later, Trump prioritizes his campaign against his 2020 election defeat](https://www.msnbc.com/rachel-maddow-show/maddowblog/trump-2020-election-defeat-rcna240257)
 
@@ -39,7 +39,7 @@ If we were to stop here, it would be a legitimate story about an incumbent [pres
 - [Trump](https://www.donaldjtrump.com/) added a “Stop the Steal” lawyer named Kurt Olsen to his [administration](https://www.whitehouse.gov/administration/) and [tasked him with launching an investigation](https://www.msnbc.com/rachel-maddow-show/maddowblog/white-house-hires-another-stop-steal-lawyer-failure-inevitable-rcna238712) with launching an investigation into his 2020 defeat.
 - The [president](https://www.whitehouse.gov/) hired another “Stop the Steal” lawyer named [Ed Martin](https://www.linkedin.com/in/edmartinjr/) and [rewarded him with a leadership position](https://www.msnbc.com/rachel-maddow-show/maddowblog/pam-bondi-finds-new-job-ed-martin-special-attorney-pursuing-trump-foes-rcna223934) in the [Justice Department](https://www.justice.gov/).
 - [Trump](https://www.donaldjtrump.com/) has [hired election deniers](https://www.nytimes.com/2025/10/24/us/politics/election-deniers-trump-administration.html) to help oversee federal elections.
-- According to claims the [president](https://www.whitehouse.gov/) made last week, both the [FBI](https://www.fbi.gov/) and the [Office of the Director of National Intelligence](https://www.odni.gov%) are [currently investigating the results](https://bsky.app/profile/atrupar.com/post/3m3qaazbmvz2a) of the 2020 election.
+- According to claims the [president](https://www.whitehouse.gov/) made last week, both the [FBI](https://www.fbi.gov/) and the [Office of the Director of National Intelligence](https://www.odni.gov/) are [currently investigating the results](https://bsky.app/profile/atrupar.com/post/3m3qaazbmvz2a) of the 2020 election.
 
 About a year ago, with time running out in the 2024 presidential election and early voting underway across much of the country, then-[Sen.](https://www.senate.gov/) [JD Vance (T-OH)](https://bioguide.congress.gov/search/bio/V000137) refused to answer questions about who was the rightful winner of the 2020 race. The [Ohio](https://www.ohio.gov/) [Republican](https://www.gop.com/) [complained at the time](https://www.msnbc.com/rachel-maddow-show/maddowblog/trump-steps-vances-message-clings-rigged-election-lie-rcna174049) that political journalists were “obsessed” with the election from four years earlier.
 
@@ -106,7 +106,7 @@ This post updates our [related earlier coverage](https://www.msnbc.com/rachel-ma
     - [US Courts](https://www.uscourts.gov/)
     - [Department of Justice (DOJ)](https://www.justice.gov/)
         - [Federal Bureau of Investigation (FBI)](https://www.fbi.gov/)
-    - [Office of the Director of National Intelligence (ODNI)](https://www.odni.gov%)
+    - [Office of the Director of National Intelligence (ODNI)](https://www.odni.gov/)
     - [Federal Reserve](https://www.federalreserve.gov/)
     - [Federal Reserve Board - Federal Reserve Act](https://www.federalreserve.gov/aboutthefed/fract.htm)
     - [U.S. Department of the Treasury](https://home.treasury.gov/)

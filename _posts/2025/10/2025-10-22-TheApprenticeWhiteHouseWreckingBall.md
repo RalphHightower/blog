@@ -17,7 +17,7 @@ I called the first season of [Trump’s](https://www.donaldjtrump.com/) presiden
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rShVBz7xmZ8?si=z1ltS8l8FqYwu8ZF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Oct 22, 2025  #trump #whitehouse #ballroom
-Jen Psaki, MSNBC Host and Former White House Press Secretary along with Cornell Belcher, MSNBC Political Analyst join Nicolle Wallace on Deadline White House with reaction to the images coming from the [White House](https://www.whitehouse.gov/) with [Donald Trump](https://www.donaldjtrump.com%) ordering the demolition of the entire [East Wing of the White House](https://www.whitehouse.gov/) for the purpose of building a 90,000 square foot ball room and how the destruction of the people's house is symbolic of how he views the Presidency.
+Jen Psaki, MSNBC Host and Former White House Press Secretary along with Cornell Belcher, MSNBC Political Analyst join Nicolle Wallace on Deadline White House with reaction to the images coming from the [White House](https://www.whitehouse.gov/) with [Donald Trump](https://www.donaldjtrump.com/) ordering the demolition of the entire [East Wing of the White House](https://www.whitehouse.gov/) for the purpose of building a 90,000 square foot ball room and how the destruction of the people's house is symbolic of how he views the Presidency.
 
 ## [At the White House, Trump's destructive impulses take a literal turn](https://www.msnbc.com/rachel-maddow-show/maddowblog/white-house-trumps-destructive-impulses-take-literal-turn-rcna238839)
 

@@ -46,7 +46,7 @@ Evidently, one party is allowed to use inflammatory rhetoric and the other is no
         - [The Rachel Maddow Show](https://www.msnbc.com/rachel-maddow-show)
             - [MaddowBlog](https://www.msnbc.com/rachel-maddow-show)
                 - ["Ministry of Truth: Democracy, Reality, and the Republicans' War on the Recent Past."](https://www.harpercollins.com/products/ministry-of-truth-steve-benen)
-- [CNN / Breaking News, Latest News and Videos](https://transcripts.cnn.com/)
+ - [CNN / Breaking News, Latest News and Videos](https://transcripts.cnn.com/)
     - [Kaitlan Collins - Anchor and Chief White House Correspondent / CNN](https://www.cnn.com/profiles/kaitlan-collins#about)
 - [Federal: 2020 Election Interference, January 6 Insurrection]({% link January6DocumentDocumentLinks.md %})
 - organizations

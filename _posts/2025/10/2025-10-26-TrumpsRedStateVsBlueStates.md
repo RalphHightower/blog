@@ -30,9 +30,9 @@ The [president](https://www.whitehouse.gov/)’s apparent eagerness to draw over
 
 > *[President](https://www.whitehouse.gov/) [Donald Trump](https://www.donaldjtrump.com/) approved major disaster declarations for [Alaska](https://www.alaska.gov/), [Nebraska](https://www.nebraska.gov/), [North Dakota](https://www.nd.gov/) and the Leech Lake Band of Ojibwe late Wednesday, while denying requests from [Vermont](https://www.vermont.gov/), [Illinois](https://www.illinois.gov/) and [Maryland](https://www.maryland.gov/) and leaving other states still waiting for answers. ... The disaster declarations authorize the [Federal Emergency Management Agency](https://www.fema.gov/) to support recipients with federal financial assistance to repair public infrastructure damaged by disasters and, in some cases, provide survivors money for repairs and temporary housing.*
 
-The [AP](https://apnews.com/)’s report added that the [White House](https://www.whitehouse.gov/) denied four requests, “including [Maryland](https://www.maryland.goov/)’s appeal for reconsideration after the state was denied a disaster declaration for May flooding that severely impacted the state’s two westernmost counties.”
+The [AP](https://apnews.com/)’s report added that the [White House](https://www.whitehouse.gov/) denied four requests, “including [Maryland](https://www.maryland.gov/)’s appeal for reconsideration after the state was denied a disaster declaration for May flooding that severely impacted the state’s two westernmost counties.”
 
-[Trump](https://www.donaldjtrump.com/) lost [Maryland](https://www.maryland.goov/) by 29 points last fall.
+[Trump](https://www.donaldjtrump.com/) lost [Maryland](https://www.maryland.gov/) by 29 points last fall.
 
 The state’s [Democratic](https://www.democrats.org/) [governor](https://governor.maryland.gov/Pages/home.aspx), [Wes Moore](https://governor.maryland.gov/leadership/Pages/governor.aspx), described the denial as “deeply frustrating,” adding in a written statement that “[President](https://www.whitehouse.gov/) [Trump](https://www.donaldjtrump.com/) and his [administration](https://www.whitehouse.gov/administration/) have politicized disaster relief, and our communities are the ones who will pay the price.”
 
@@ -65,7 +65,7 @@ It would be easier to see this as a coincidence if the [Republican](https://www.
 - state, local governments 
 - [State of Alaska](https://www.alaska.gov/)
 - [Illinois](https://www.illinois.gov/)
-- [Maryland](https://www.maryland.goov/)
+- [Maryland](https://www.maryland.gov/)
     - [Office of Governor Wes Moore](https://governor.maryland.gov/Pages/home.aspx)
         - [Governor Wes Moore - Our Leadership - Office of Governor Wes Moore](https://governor.maryland.gov/leadership/Pages/governor.aspx)
 - [Maryland.gov - Official Website of the State of Maryland](https://www.maryland.gov/Pages/default.aspx)

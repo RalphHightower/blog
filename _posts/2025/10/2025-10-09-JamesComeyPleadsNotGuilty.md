@@ -40,7 +40,6 @@ Subscribe to the [Deadline: Legal Newsletter](https://link.msnbc.com/join/5ck/ms
     - [Deadline: Legal Blog](https://www.msnbc.com/deadline-white-house)
         - Jordan Rubin
             - "Bizarro"
-- [MSNBC News - Breaking News and News Today / Latest News](https://link.msnbc.com/)
 - [NPR - Breaking News, Analysis, Music, Arts & Podcasts – NPR](https://www.npr.org/)
 - organizations
 - political parties

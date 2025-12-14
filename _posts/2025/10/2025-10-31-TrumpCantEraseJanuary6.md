@@ -56,7 +56,7 @@ Have any questions or comments for me? Please [submit them through this form](ht
 - foreign governments
 - [Magyarország Kormánya - főoldal (Hungary Government)](https://kormany.hu/)
     - [Viktor Orbán](https://kormany.hu/miniszterelnok/eletrajz)
-- [Venezuelan (VE)](https://gob.ve/)
+- [Venezuela (VE)](https://gob.ve/)
     - [Web del M.P.P.D.P.S.G.G. (PRINCIPAL)](https://presidencia.gob.ve/Site/Web/Principal/paginas/classIndex.php)
     - [Nicolás Maduro Moros](https://presidencia.gob.ve/Site/Web/Principal/paginas/classPresidente.php)
 - state, local governments 

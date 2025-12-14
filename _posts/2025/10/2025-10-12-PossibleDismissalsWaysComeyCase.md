@@ -68,11 +68,12 @@ While [Nachmanoff](https://www.vaed.uscourts.gov/Alexandria) set a tone of keepi
 
 Subscribe to the [Deadline: Legal Newsletter](https://link.msnbc.com/join/5ck/msnbc-deadlinelegal-signup-inline) for expert analysis on the top legal stories of the week, including updates from the Supreme Court and developments in the [Trump](https://www.donaldjtrump.com/) [administration](https://www.whitehouse.gov/administration/)’s legal cases.
 
-Jordan Rubin is the Deadline: Legal Blog writer. He was a prosecutor for the New York County District Attorney’s Office in Manhattan and is the author of “Bizarro," a book about the secret war on synthetic drugs. Before he joined MSNBC, he was a legal reporter for Bloomberg Law.
+[Jordan Rubin](https://www.msnbc.com/author/jordan-rubin-ncpn1301611) is the Deadline: Legal Blog writer. He was a prosecutor for the New York County District Attorney’s Office in Manhattan and is the author of “Bizarro," a book about the secret war on synthetic drugs. Before he joined MSNBC, he was a legal reporter for Bloomberg Law.
 
 ----
 - media
-- [MSNBC News - Breaking News and News Today / Latest News](https://link.msnbc.com/)
+- [MSNBC News - Breaking News and News Today / Latest News](https://www.msnbc.com/)
+    - [Jordan Rubin](https://www.msnbc.com/author/jordan-rubin-ncpn1301611)
 - organizations
 - political parties
 - [Democrat Party](https://www.democrats.org/)

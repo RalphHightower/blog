@@ -11,7 +11,7 @@ title: "Latest Lies From Trumpian Senators: FBI 'Wiretapped' Them. No, They Didn
 ---
 
 - [Federal: 2020 Election Interference, January 6 Insurrection]({% link January6DocumentDocumentLinks.md %})
-- [My Dumb State, South Carolina: Attorney General Alan Wilson Thinks That Trying to Overthrow An Election and Incite An Insurrection Is Legal]({% link _posts/2024/11/2024-11-01-SCAG-StopJackSmith.md %}). @RalphHightower, 2024-11-01
+- [My Dumb State: South Carolina Attorney General Alan Wilson Thinks That Trying to Overthrow An Election and Incite An Insurrection Is Legal]({% link _posts/2024/11/2024-11-01-SCAG-StopJackSmith.md %}). @RalphHightower, 2024-11-01
 
 ## [The latest Republican conspiracy theory about the FBI and Jan. 6 starts to unravel](https://www.msnbc.com/rachel-maddow-show/maddowblog/january-6-fbi-republican-conspiracy-theory-rcna236367)
 
@@ -63,7 +63,7 @@ But barring additional revelations, that “fact” won’t be true.
 - [The New York Times (NYT) - Breaking News, US News, World News and Videos](https://www.nytimes.com/)
 - [POLITICO - Politics, Policy, Political News](https://www.politico.com/)
 - [Federal: 2020 Election Interference, January 6 Insurrection]({% link January6DocumentDocumentLinks.md %})
-- [My Dumb State, South Carolina: Attorney General Alan Wilson Thinks That Trying to Overthrow An Election and Incite An Insurrection Is Legal]({% link _posts/2024/11/2024-11-01-SCAG-StopJackSmith.md %}). @RalphHightower, 2024-11-01
+- [My Dumb State: South Carolina Attorney General Alan Wilson Thinks That Trying to Overthrow An Election and Incite An Insurrection Is Legal]({% link _posts/2024/11/2024-11-01-SCAG-StopJackSmith.md %}). @RalphHightower, 2024-11-01
 - organizations
 - political parties
 - [Democrat Party](https://www.democrats.org/)
