@@ -45,7 +45,7 @@ Watch [The Late Show with Stephen Colbert](https://www.cbs.com/shows/the-late-sh
 
 ----
 - media
-- [MS NOW - Breaking News and News Today / Latest News](https://link.ms.now/)
+- [MS NOW - Breaking News and News Today / Latest News](https://www.ms.now/)
     - [The Briefing with Jen Psaki](https://www.ms.now/jen-psaki)
 - [CBS TV Network Primetime, Daytime, Late Night and Classic Television Shows](https://www.cbs.com/)
     - [The Late Show With Stephen Colbert on CBS](https://www.cbs.com/shows/the-late-show-with-stephen-colbert/)
