@@ -44,9 +44,24 @@ From December 13, 2025 at 1345 EST – December 13, 2025 at 1830 EST
 
 | Time | Location |
 |---|---|
-|---|---|
-| | **Sunday, December 7, 2025** |
 | | 🔥 [White House](https://www.whitehouse.gov/) 💣|
+| | **Sunday, December 14, 2025** |
+| ⁉️ | Two golf-free weekends in a row⁉️ Is [Donnie](https://www.donaldjtrump.com/) getting too week to play golf every dawned weekend? |
+| | **Saturday, December 13 2025** |
+| 10:30 AM | Supplemental Pool Call Time<br />[M&T Bank Stadium](https://www.baltimoreravens.com/stadium/), [Baltimore](https://www.baltimorecity.gov/) |
+| 1:00 PM | In-Town Pool Call Time<br />The [White House](https://www.whitehouse.gov/) In-Town Pool |
+| 1:47 PM 🏈| The [President](https://www.donaldjtrump.com/) departs the [White House](https://www.whitehouse.gov/) for the [Army](https://www.westpoint.edu/) - [Navy](https://www.usna.edu/) Football game<br />The [White House](https://www.whitehouse.gov/) In-Town Pool |
+| 2:10 PM 🏈| The [President](https://www.donaldjtrump.com/) arrives at [Fort McHenry](https://www.nps.gov/fomc/)<br />[Fort McHenry National Monument](https://www.nps.gov/fomc/), [Baltimore](https://www.baltimorecity.gov/) |
+| 2:18 PM 🏈| The [President](https://www.donaldjtrump.com/) departs [Fort McHenry](https://www.nps.gov/fomc/) for the [Army](https://www.westpoint.edu/)-[Navy](https://www.usna.edu/) Game<br />[Fort McHenry National Monument](https://www.nps.gov/fomc/), [Baltimore](https://www.baltimorecity.gov/) |
+| 2:25 PM | The [President](https://www.donaldjtrump.com/) arrives at [M&T Bank Stadium](https://www.baltimoreravens.com/stadium/) for the [Army](https://www.westpoint.edu/)-[Navy](https://www.usna.edu/) Game<br />[M&T Bank Stadium](https://www.baltimoreravens.com/stadium/), [Baltimore](https://www.baltimorecity.gov/) |
+| 2:30 PM | The [President](https://www.donaldjtrump.com/) attends the [Army](https://www.westpoint.edu/) - [Navy](https://www.usna.edu/) Football Game<br />[M&T Bank Stadium](https://www.baltimoreravens.com/stadium/), [Baltimore](https://www.baltimorecity.gov/) In-Town Pool |
+| 5:52 PM | The [President](https://www.donaldjtrump.com/) departs [M&T Bank Stadium](https://www.baltimoreravens.com/stadium/) for [Fort McHenry](https://www.nps.gov/fomc/)<br />[M&T Bank Stadium](https://www.baltimoreravens.com/stadium/), [Baltimore](https://www.baltimorecity.gov/) |
+| 6:00 PM | The [President](https://www.donaldjtrump.com/) arrives at [Fort McHenry](https://www.nps.gov/fomc/)<br />[Fort McHenry National Monument](https://www.nps.gov/fomc/), [Baltimore](https://www.baltimorecity.gov/) |
+| 6:04 PM | The [President](https://www.donaldjtrump.com/) departs [Fort McHenry](https://www.nps.gov/fomc/) for the [White House](https://www.whitehouse.gov/)<br />[Fort McHenry National Monument](https://www.nps.gov/fomc/), [Baltimore](https://www.baltimorecity.gov/) |
+| 6:25 PM | The [President](https://www.donaldjtrump.com/) arrives at the [White House](https://www.whitehouse.gov/)<br />[South Lawn](https://www.whitehouse.gov/) |
+| 6:43 PM | [White House](https://www.whitehouse.gov/) Press Office: Full lid called<br />The [White House](https://www.whitehouse.gov/) |
+| | 🔥 [White House](https://www.whitehouse.gov/) 💣|
+| | **Sunday, December 7, 2025** |
 | ⁉️ | @RalphHightower: I don't believe it! [Donnie](https://www.donaldjtrump.com/) isn’t burning taxpayer dollars flying down to his [Mar-a-Lago resort](https://www.maralagoclub.com/) to play golf at his [Trump International Golf Club West Palm Beach](https://www.trumpinternationalpalmbeaches.com/). Something about [John F. Kennedy Center for the Performing Arts](https://www.kennedy-center.org/) Honors Medal Presentation Dinner. Did it create a Par​tic​i​pa​to​ry Peace Prize since there’s not a snowball's chance in hell of winning the [Nobel Peace Prize](https://www.nobelpeaceprize.org/)? Other than that Southeast Asia trip that spanned a weekend, thatbhe hasn't golfed at one of golf courses since becoming [President](https://www.whitehouse.gov/). |
 | | **Saturday, December 6, 2025** |
 | ⁉️ | @RalphHightower: I don't believe it! [Donnie](https://www.donaldjtrump.com/) isn’t burning taxpayer dollars flying down to his [Mar-a-Lago resort](https://www.maralagoclub.com/) to play golf at his [Trump International Golf Club West Palm Beach](https://www.trumpinternationalpalmbeaches.com/). Something about [John F. Kennedy Center for the Performing Arts](https://www.kennedy-center.org/) Honors Medal Presentation Dinner. Did it create a Par​tic​i​pa​to​ry Peace Prize since there’s not a snowball's chance in hell of winning the [Nobel Peace Prize](https://www.nobelpeaceprize.org/)? Other than that Southeast Asia trip that spanned a weekend, thatbhe hasn't golfed at one of golf courses since becoming [President](https://www.whitehouse.gov/). |
