@@ -9,11 +9,10 @@
 - [ ] categories
 - [ ] date 
 
-<!--
+<!-
 IS#9999 – Issue created independently of a Pull Request 
 PR#9999 – Issue created from a Pull Request
 -->
-
 Issue Number: N/A
 
 Please check the type of change your PR introduces:
@@ -38,6 +37,9 @@ Please check the type of change your PR introduces:
 - [ ] Assembler
 - [ ] awk
 - [ ] C/C++/C#
+- [ ] HTML
+- [ ] Javascript 
+- [ ] Liquid
 - [ ] Markdown
 - [ ] Ruby
 - [ ] Python
