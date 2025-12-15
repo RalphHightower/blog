@@ -46,7 +46,7 @@ From December 13, 2025 at 1345 EST – December 13, 2025 at 1830 EST
 |---|---|
 | | 🔥 [White House](https://www.whitehouse.gov/) 💣|
 | | **Sunday, December 14, 2025** |
-| ⁉️ | Two golf-free weekends in a row⁉️ Is [Donnie](https://www.donaldjtrump.com/) getting too week to play golf every dawned weekend? |
+| ⁉️ | Two golf-free weekends in a row⁉️ Is [Donnie](https://www.donaldjtrump.com/) getting too weak to play golf every dawned weekend? |
 | | **Saturday, December 13 2025** |
 | 10:30 AM | Supplemental Pool Call Time<br />[M&T Bank Stadium](https://www.baltimoreravens.com/stadium/), [Baltimore](https://www.baltimorecity.gov/) |
 | 1:00 PM | In-Town Pool Call Time<br />The [White House](https://www.whitehouse.gov/) In-Town Pool |
