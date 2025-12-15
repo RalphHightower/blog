@@ -23,7 +23,7 @@ A few weeks ago, the [White House](https://www.whitehouse.gov/)’s efforts to h
 
 Evidently, the request was not well received. [The Associated Press reported](https://apnews.com/article/colorado-clerk-election-conspiracy-0a2cb663691cacae63ba8cd98d692bcf):
 
-> **[Colorado](https://co.colorado.gov/) doesn’t plan to transfer from state prison to federal custody a former county clerk who has become a hero to election conspiracy theorists following a request from the [Trump](https://www.donaldjtrump.com/) [administration](https://www.whitehouse.gov/administration/), state officials said Wednesday. The [Colorado](https://co.colorado.gov/) [Department of Corrections](https://cdoc.colorado.gov/) said it is not seeking a transfer of Tina Peters, who was convicted last year of orchestrating a scheme in [Mesa County]() to breach voting machine data driven by false claims of fraud in the 2020 election.**
+> **[Colorado](https://co.colorado.gov/) doesn’t plan to transfer from state prison to federal custody a former county clerk who has become a hero to election conspiracy theorists following a request from the [Trump](https://www.donaldjtrump.com/) [administration](https://www.whitehouse.gov/administration/), state officials said Wednesday. The [Colorado](https://co.colorado.gov/) [Department of Corrections](https://cdoc.colorado.gov/) said it is not seeking a transfer of Tina Peters, who was convicted last year of orchestrating a scheme in [Mesa County](https://www.mesacounty.us/) to breach voting machine data driven by false claims of fraud in the 2020 election.**
 
 “Transferring an individual is an action initiated by the [Colorado](https://co.colorado.gov/) [Department of Corrections](https://cdoc.colorado.gov/), not an outside entity,” department spokesperson Alondra Gonzalez-Garcia told the AP.
 
@@ -53,6 +53,41 @@ For his part, Peters’ defense attorney recently told [Steve Bannon](https://wa
 
 This post updates our [related earlier coverage](https://www.ms.now/rachel-maddow-show/maddowblog/trump-free-tina-peters-colorado-harsh-measures-rcna226315).
 
+| Inmate | PETERS, TINA M |
+|---|---|
+| Name: |	PETERS, TINA M |
+| Age: |	70 |
+| Ethnicity: |	WHITE |
+| Gender: |	FEMALE |
+| Hair Color: |	WHITE |
+| Eye Color: |	BLUE |
+| Height: |	5' 04" |
+| Weight: |	135 |
+| DOC Number: |	203512 |
+| Est. Parole |
+| Eligibility Date: |	01/02/2029 |
+| Next Parole |
+| Hearing Date: |	Oct 2028 |
+| This offender is scheduled on the Parole Board agenda for the month and year above. Please contact the facility case manager for the exact date. |
+| Est. Mandatory |
+| Release Date: |	02/17/2033 |
+| Est. Sentence |
+| Discharge Date: |	  |
+| Current Facility | |
+| Assignment: |	LA VISTA CORRECTIONAL FACILITY |
+
+CURRENT CONVICTIONS
+
+| Date	| Sentence	| County |	Case No. |
+|---|---|---|---|
+| 10/03/2024 	| 3Y-3Y	| MESA 	| 22CR371 | 
+| 10/03/2024 	| 3Y-3Y	| MESA 	| 22CR371 | 
+| 10/03/2024 	| 3Y-3Y	| MESA 	| 22CR371 | 
+| 10/03/2024 	| 15M-15M	| MESA 	| 22CR371 | 
+| 10/03/2024 	| 120D-120D	| MESA 	| 22CR371 | 
+| 10/03/2024 	| 6M-6M	| MESA 	| 22CR371 | 
+| 10/03/2024 	| 6M-6M	| MESA 	| 22CR371
+
 [Steve Benen](https://www.ms.now/author/steve-benen) is a producer for ["The Rachel Maddow Show,"](https://www.ms.now/rachel-maddow-show) the editor of [MaddowBlog](https://www.ms.now/maddowblog) and an [MS NOW](https://www.ms.now/) political contributor. He's also the bestselling author of ["Ministry of Truth: Democracy, Reality, and the Republicans' War on the Recent Past."](https://www.harpercollins.com/products/ministry-of-truth-steve-benen)
 
 ----
@@ -72,6 +107,7 @@ This post updates our [related earlier coverage](https://www.ms.now/rachel-maddo
 - state, local governments
 - [Home / colorado.gov](https://co.colorado.gov/)
     - [Home / Colorado Department of Corrections](https://cdoc.colorado.gov/)
+    - [Homepage / Mesa County](https://www.mesacounty.us/)
 - federal government
 - [2020 Presidential Election Results – Federal Election Commission (FEC)](https://www.fec.gov/resources/cms-content/documents/federalelections2020.pdf)
 - [Constitution of the United States](https://constitution.congress.gov/constitution/)
