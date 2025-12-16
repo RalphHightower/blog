@@ -7,7 +7,7 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: "Trump Keeps Truing to Pardon ColoradoTina Peters Jailed For Interfering With Colorado Election. Peters Must Complete Her Sentence"
+title: "Trump Keeps Trying to Pardon Colorado Tina Peters Jailed For Interfering With Colorado Election. Peters Must Complete Her Sentence"
 ---
 
 
