@@ -20,6 +20,11 @@ The telephone numbers below have called and there is an empty person on the othe
 
 | Telephone Number | Location | Date Time[^11]<sup>,</dup>[^12] | Caller | Social Media |
 |---|---|---|---|---|
+| [\+1 (803) 709-7093](tel:+18037097093) | SC. Barnwell | 2025-12-17 06:36 PM | NORM C OBRIEN | |
+| [\+1 (803) 602-4075](tel:+18036024075) | SC. Columbia | 2025-12-17 02:28 PM | — | |
+| [\+1 (803) 955-4575](tel:+18039554575) | SC. West Carolina | 2025-12-17 11:34 AM | ETHEL BUTLER | |
+| [\+1 (803) 317-6192](tel:+18033176192) | SC. Batesburg | 2025-12-17 09:47 AM | EDYTH BLIZZARD | |
+| [\+1 (803) 739-4358](tel:+18037394358) | SC. Columbia | 2025-12-17 09:36 AM | Wanda Lorick | |
 | [\+1 (803) 482-2236](tel:+18034822236) | SC. Great Falls | 2025-12-13 10:15 AM | Jimmy Williams | |
 | [\+1 (803) 768-5416](tel:+18037685416) | SC. Newberry | 2025-12-12 10:13 AM | — | |
 | [\+1 (888) 264-1083](tel:+18882641083) | Toll Free | 2025-12-11 02:53 PM | — | |
