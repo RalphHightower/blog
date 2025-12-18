@@ -945,7 +945,7 @@ toc: true
 | | **Saturday, July 12, 2025** |
 | ⛳️| [Donnie](https://www.donaldjtrump.com/) ~~has no public events scheduled~~plays golf🏌‍♂️<br />[Trump National Golf Club Bedminster](https://www.trumpnationalbedminster.com/) Out-of-Town Travel Pool |
 | 11:00 AM ⛳️| Out-of-Town Travel Pool Call Time<br />[Trump National Golf Club Bedminster](https://www.trumpnationalbedminster.com/) Out-of-Town Travel Pool |
-| | **Friday, July 11, 2025** |M
+| | **Friday, July 11, 2025** |
 | 8:00 AM | In-Town Pool Call Time<br />The [White House](https://www.whitehouse.gov/) In-Town Pool |
 | 8:25 AM | Out-of-Town Travel Pool Call Time<br />[Joint Base Andrews (ADW)](https://www.jba.af.mil/) Out-of-Town Travel Pool |
 | 8:48 AM | Russell Vought briefs reporters at The Sticks<br />The Sticks - The [White House](https://www.whitehouse.gov/) |
@@ -1793,8 +1793,8 @@ toc: true
 | | **Saturday, February 15, 2025** |
 | ⛳️| [Donnie](https://www.donaldjtrump.com/) ~~has no public events scheduled~~plays golf🏌‍♂️<br />[Mar-a-Lago](https://www.maralagoclub.com/) |
 | 8:00 AM ⛳️| Out-of-Town Pool Call Time<br />[Mar-a-Lago](https://www.maralagoclub.com/) Out-of-Town Pool |
-| 10:11 AM ⛳️✈️| The [President](https://www.donaldjtrump.com/) departs [Mar-a-Lago](https://www.maralagoclub.com/) for a tour of a Boeing Plane and his golf club<br />[Mar-a-Lago](https://www.maralagoclub.com/) |
-| 10:29 AM ⛳️✈️| The [President](https://www.donaldjtrump.com/) arrives at [Palm Beach International Airport (PBI)](https://www.pbia.org/) for a tour of a Boeing 747-8KB, Tail Number P4-HBJ<br />[Palm Beach International Airport (PBI)](https://www.pbia.org/) |
+| 10:11 AM ⛳️✈️| The [President](https://www.donaldjtrump.com/) departs [Mar-a-Lago](https://www.maralagoclub.com/) for a tour of a [Boeing](https://www.boeing.com/) Plane and his golf club<br />[Mar-a-Lago](https://www.maralagoclub.com/) |
+| 10:29 AM ⛳️✈️| The [President](https://www.donaldjtrump.com/) arrives at [Palm Beach International Airport (PBI)](https://www.pbia.org/) for a tour of a [Boeing](https://www.boeing.com/) [747-8KB](https://www.boeing.com/commercial/747-8), Tail Number P4-HBJ<br />[Palm Beach International Airport (PBI)](https://www.pbia.org/) |
 | 11:41 AM ⛳️| The [President](https://www.donaldjtrump.com/) departs [Palm Beach International Airport (PBI)](https://www.pbia.org/) for [his golf club](https://www.trumpinternationalpalmbeaches.com/)<br />[Palm Beach International Airport (PBI)](https://www.pbia.org/) |
 | 11:44 AM ⛳️| The [President](https://www.donaldjtrump.com/) arrives at [Trump International Golf Club West Palm Beach](https://www.trumpinternationalpalmbeaches.com/)<br />[Trump International Golf Club West Palm Beach](https://www.trumpinternationalpalmbeaches.com/) |
 | 4:45 PM ⛳️| The [President](https://www.donaldjtrump.com/) departs [Trump International Golf Club West Palm Beach](https://www.trumpinternationalpalmbeaches.com/) for [Mar-a-Lago](https://www.maralagoclub.com/)<br />[Trump International Golf Club West Palm Beach](https://www.trumpinternationalpalmbeaches.com/) |
