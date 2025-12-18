@@ -17,7 +17,7 @@ toc: true
 
 [^50160]: [Federal Aviation Administration - Graphic TFRs](https://tfr.faa.gov/tfr3/?page=detail_5_0160). From December 19, 2025 at 2330 EST – January 04, 2026 at 1830 EST
 
-- **Sunday, January 4, 2026[^50160]** |
+- **Sunday, January 4, 2026[^50160]**
     - -:-- AM ⛳️🏌‍♂️[Donnie](https://www.donaldjtrump.com/) departs [Mar-a-Lago](https://www.maralagoclub.com/) to play golf at his [Trump International Golf Club](https://www.trumpinternationalpalmbeaches.com/)
     - -:-- PM ⛳️🏌‍♂️[Donnie](https://www.donaldjtrump.com/) departs from a day of golf at [Trump International Golf Club](https://www.trumpinternationalpalmbeaches.com/) for his private resort club [Mar-a-Lago](https://www.maralagoclub.com/)
     - 6:30 PM [Donnie](https://www.donaldjtrump.com/) departs for [Palm Beach International Airport (PBI)](https://www.pbia.org/)
@@ -26,52 +26,52 @@ toc: true
     - -:-- PM [Donnie](https://www.donaldjtrump.com/) arrives at [Joint Base Andrews (ADW)](https://www.jba.af.mil/)
     - -:-- PM [Donnie](https://www.donaldjtrump.com/) departs [Joint Base Andrews (ADW)](https://www.jba.af.mil/)
     - -:-- PM [Donnie](https://www.donaldjtrump.com/) arrives at the [White House](https;//www.donaldjtrump.com/)
-- **Saturday, January 3, 2026[^50160]** |
+- **Saturday, January 3, 2026[^50160]**
     - -:-- AM ⛳️🏌‍♂️ [Donnie](https://www.donaldjtrump.com/) departs [Mar-a-Lago](https://www.maralagoclub.com/) to play golf at his [Trump International Golf Club](https://www.trumpinternationalpalmbeaches.com/)
     - -:-- PM ⛳️🏌‍♂️[Donnie](https://www.donaldjtrump.com/) departs from a day of golf at [Trump International Golf Club](https://www.trumpinternationalpalmbeaches.com/) for his private resort club [Mar-a-Lago](https://www.maralagoclub.com/)
-- **Friday, January 2, 2026[^50160]** |
+- **Friday, January 2, 2026[^50160]**
     - -:-- AM ⛳️🏌‍♂️ [Donnie](https://www.donaldjtrump.com/) departs [Mar-a-Lago](https://www.maralagoclub.com/) to play golf at his [Trump International Golf Club](https://www.trumpinternationalpalmbeaches.com/)
     - -:-- PM ⛳️🏌‍♂️[Donnie](https://www.donaldjtrump.com/) departs from a day of golf at [Trump International Golf Club](https://www.trumpinternationalpalmbeaches.com/) for his private resort club [Mar-a-Lago](https://www.maralagoclub.com/)
-- **Thursday, January 1, 2026[^50160]** |
+- **Thursday, January 1, 2026[^50160]**
     - -:-- AM ⛳️🏌‍♂️ [Donnie](https://www.donaldjtrump.com/) departs [Mar-a-Lago](https://www.maralagoclub.com/) to play golf at his [Trump International Golf Club](https://www.trumpinternationalpalmbeaches.com/)
     - -:-- PM ⛳️🏌‍♂️[Donnie](https://www.donaldjtrump.com/) departs from a day of golf at [Trump International Golf Club](https://www.trumpinternationalpalmbeaches.com/) for his private resort club [Mar-a-Lago](https://www.maralagoclub.com/)
-- **Wednesday, December 31, 2025[^50160]** |
+- **Wednesday, December 31, 2025[^50160]**
     - -:-- AM ⛳️🏌‍♂️ [Donnie](https://www.donaldjtrump.com/) departs [Mar-a-Lago](https://www.maralagoclub.com/) to play golf at his [Trump International Golf Club](https://www.trumpinternationalpalmbeaches.com/)
     - -:-- PM ⛳️🏌‍♂️[Donnie](https://www.donaldjtrump.com/) departs from a day of golf at [Trump International Golf Club](https://www.trumpinternationalpalmbeaches.com/) for his private resort club [Mar-a-Lago](https://www.maralagoclub.com/)
-- **Tuesday, December 30, 2025[^50160]** |
+- **Tuesday, December 30, 2025[^50160]**
     - -:-- AM ⛳️🏌‍♂️ [Donnie](https://www.donaldjtrump.com/) departs [Mar-a-Lago](https://www.maralagoclub.com/) to play golf at his [Trump International Golf Club](https://www.trumpinternationalpalmbeaches.com/)
     - -:-- PM ⛳️🏌‍♂️[Donnie](https://www.donaldjtrump.com/) departs from a day of golf at [Trump International Golf Club](https://www.trumpinternationalpalmbeaches.com/) for his private resort club [Mar-a-Lago](https://www.maralagoclub.com/)
-- **Monday, December 29, 2025[^50160]** |
+- **Monday, December 29, 2025[^50160]**
     - -:-- AM ⛳️🏌‍♂️ [Donnie](https://www.donaldjtrump.com/) departs [Mar-a-Lago](https://www.maralagoclub.com/) to play golf at his [Trump International Golf Club](https://www.trumpinternationalpalmbeaches.com/)
     - -:-- PM ⛳️🏌‍♂️[Donnie](https://www.donaldjtrump.com/) departs from a day of golf at [Trump International Golf Club](https://www.trumpinternationalpalmbeaches.com/) for his private resort club [Mar-a-Lago](https://www.maralagoclub.com/)
-- **Sunday, December 28, 2025[^50160]** |
+- **Sunday, December 28, 2025[^50160]**
     - -:-- AM ⛳️🏌‍♂️ [Donnie](https://www.donaldjtrump.com/) departs [Mar-a-Lago](https://www.maralagoclub.com/) to play golf at his [Trump International Golf Club](https://www.trumpinternationalpalmbeaches.com/)
     - -:-- PM ⛳️🏌‍♂️[Donnie](https://www.donaldjtrump.com/) departs from a day of golf at [Trump International Golf Club](https://www.trumpinternationalpalmbeaches.com/) for his private resort club [Mar-a-Lago](https://www.maralagoclub.com/)
-- **Saturday, December 27, 2025[^50160]** |
+- **Saturday, December 27, 2025[^50160]**
     - -:-- AM ⛳️🏌‍♂️ [Donnie](https://www.donaldjtrump.com/) departs [Mar-a-Lago](https://www.maralagoclub.com/) to play golf at his [Trump International Golf Club](https://www.trumpinternationalpalmbeaches.com/)
     - -:-- PM ⛳️🏌‍♂️[Donnie](https://www.donaldjtrump.com/) departs from a day of golf at [Trump International Golf Club](https://www.trumpinternationalpalmbeaches.com/) for his private resort club [Mar-a-Lago](https://www.maralagoclub.com/)
-- **Friday, December 26, 2025[^50160]** |
+- **Friday, December 26, 2025[^50160]**
     - -:-- AM ⛳️🏌‍♂️ [Donnie](https://www.donaldjtrump.com/) departs [Mar-a-Lago](https://www.maralagoclub.com/) to play golf at his [Trump International Golf Club](https://www.trumpinternationalpalmbeaches.com/)
     - -:-- PM ⛳️🏌‍♂️[Donnie](https://www.donaldjtrump.com/) departs from a day of golf at [Trump International Golf Club](https://www.trumpinternationalpalmbeaches.com/) for his private resort club [Mar-a-Lago](https://www.maralagoclub.com/)
-- **Thursday, December 25, 2025[^50160]** |
+- **Thursday, December 25, 2025[^50160]**
     - -:-- AM ⛳️🏌‍♂️ [Donnie](https://www.donaldjtrump.com/) departs [Mar-a-Lago](https://www.maralagoclub.com/) to play golf at his [Trump International Golf Club](https://www.trumpinternationalpalmbeaches.com/)
     - -:-- PM ⛳️🏌‍♂️[Donnie](https://www.donaldjtrump.com/) departs from a day of golf at [Trump International Golf Club](https://www.trumpinternationalpalmbeaches.com/) for his private resort club [Mar-a-Lago](https://www.maralagoclub.com/)
-- **Wednesday, December 24, 2025[^50160]** |
+- **Wednesday, December 24, 2025[^50160]**
     - -:-- AM ⛳️🏌‍♂️ [Donnie](https://www.donaldjtrump.com/) departs [Mar-a-Lago](https://www.maralagoclub.com/) to play golf at his [Trump International Golf Club](https://www.trumpinternationalpalmbeaches.com/)
     - -:-- PM ⛳️🏌‍♂️[Donnie](https://www.donaldjtrump.com/) departs from a day of golf at [Trump International Golf Club](https://www.trumpinternationalpalmbeaches.com/) for his private resort club [Mar-a-Lago](https://www.maralagoclub.com/)
-- **Tueday, December 23, 2025[^50160]** |
+- **Tueday, December 23, 2025[^50160]**
     - -:-- AM ⛳️🏌‍♂️ [Donnie](https://www.donaldjtrump.com/) departs [Mar-a-Lago](https://www.maralagoclub.com/) to play golf at his [Trump International Golf Club](https://www.trumpinternationalpalmbeaches.com/)
     - -:-- PM ⛳️🏌‍♂️[Donnie](https://www.donaldjtrump.com/) departs from a day of golf at [Trump International Golf Club](https://www.trumpinternationalpalmbeaches.com/) for his private resort club [Mar-a-Lago](https://www.maralagoclub.com/)
-- **Monday, December 22, 2025[^50160]** |
+- **Monday, December 22, 2025[^50160]**
     - -:-- AM ⛳️🏌‍♂️ [Donnie](https://www.donaldjtrump.com/) departs [Mar-a-Lago](https://www.maralagoclub.com/) to play golf at his [Trump International Golf Club](https://www.trumpinternationalpalmbeaches.com/)
     - -:-- PM ⛳️🏌‍♂️[Donnie](https://www.donaldjtrump.com/) departs from a day of golf at [Trump International Golf Club](https://www.trumpinternationalpalmbeaches.com/) for his private resort club [Mar-a-Lago](https://www.maralagoclub.com/)
-- **Sunday, December 21, 2025[^50160]** |
+- **Sunday, December 21, 2025[^50160]**
     - -:-- AM ⛳️🏌‍♂️ [Donnie](https://www.donaldjtrump.com/) departs [Mar-a-Lago](https://www.maralagoclub.com/) to play golf at his [Trump International Golf Club](https://www.trumpinternationalpalmbeaches.com/)
     - -:-- PM ⛳️🏌‍♂️[Donnie](https://www.donaldjtrump.com/) departs from a day of golf at [Trump International Golf Club](https://www.trumpinternationalpalmbeaches.com/) for his private resort club [Mar-a-Lago](https://www.maralagoclub.com/)
-- **Saturday, December 20, 2025[^50160]** |
+- **Saturday, December 20, 2025[^50160]**
     - -:-- AM ⛳️🏌‍♂️ [Donnie](https://www.donaldjtrump.com/) departs [Mar-a-Lago](https://www.maralagoclub.com/) to play golf at his [Trump International Golf Club](https://www.trumpinternationalpalmbeaches.com/)
     - -:-- PM ⛳️🏌‍♂️[Donnie](https://www.donaldjtrump.com/) departs from a day of golf at [Trump International Golf Club](https://www.trumpinternationalpalmbeaches.com/) for his private resort club [Mar-a-Lago](https://www.maralagoclub.com/)
-- **Friday, December 19, 2025[^50160]** |
+- **Friday, December 19, 2025[^50160]**
     - 11:30 PM [Donnie](https://www.donaldjtrump.com/) departs the [White House](https://www.whitehouse.gov/) en route [Palm Beach](https://discover.pbc.gov/), [Florida](https://www.myflorida.gov/) to [Joint Base Andrews (ADW)](https://www.jba.af.mil/)
      - -:-- [Donnie](https://www.donaldjtrump.com/) arrives at [Joint Base Andrews (ADW)](https://www.jba.af.mil/)
     - -:-- [Donnie](https://www.donaldjtrump.com/) departs [Joint Base Andrews (ADW)](https://www.jba.af.mil/) for [Palm Beach International Airport (PBI)](https://www.pbia.org/)
