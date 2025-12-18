@@ -79,14 +79,14 @@ toc: true
     - -:-- [Donnie](https://www.donaldjtrump.com/) departs [Palm Beach International Airport (PBI)](https://www.pbia.org/) for [Mar-a-Lago](https://www.maralagoclub.com/)
     - -:-- [Donnie](https://www.donaldjtrump.com/) and First Lady arrive [Mar-a-Lago](https://www.maralagoclub.com/)
 
-🔥💸 = Government Shutdown 
+🔥💸 = Government Shutdown
 
 | Time | Location |
 |---|---|
 | | 🔥 [White House](https://www.whitehouse.gov/) 💣|
 | | **Sunday, December 14, 2025** |
 | ⁉️ | Two golf-free weekends in a row⁉️ Is [Donnie](https://www.donaldjtrump.com/) getting too weak to play golf every dawned weekend? |
-| | **Saturday, December 13 2025** |
+| | **Saturday, December 13, 2025** |
 | 10:30 AM | Supplemental Pool Call Time<br />[M&T Bank Stadium](https://www.baltimoreravens.com/stadium/), [Baltimore](https://www.baltimorecity.gov/) |
 | 1:00 PM | In-Town Pool Call Time<br />The [White House](https://www.whitehouse.gov/) In-Town Pool |
 | 1:47 PM 🏈| The [President](https://www.donaldjtrump.com/) departs the [White House](https://www.whitehouse.gov/) for the [Army](https://www.westpoint.edu/) - [Navy](https://www.usna.edu/) Football game<br />The [White House](https://www.whitehouse.gov/) In-Town Pool |
@@ -105,7 +105,7 @@ toc: true
 | | **Saturday, December 6, 2025** |
 | ⁉️ | @RalphHightower: I don't believe it! [Donnie](https://www.donaldjtrump.com/) isn’t burning taxpayer dollars flying down to his [Mar-a-Lago resort](https://www.maralagoclub.com/) to play golf at his [Trump International Golf Club West Palm Beach](https://www.trumpinternationalpalmbeaches.com/). Something about [John F. Kennedy Center for the Performing Arts](https://www.kennedy-center.org/) Honors Medal Presentation Dinner. Did it create a Par​tic​i​pa​to​ry Peace Prize since there’s not a snowball's chance in hell of winning the [Nobel Peace Prize](https://www.nobelpeaceprize.org/)? Other than that Southeast Asia trip that spanned a weekend, thatbhe hasn't golfed at one of golf courses since becoming [President](https://www.whitehouse.gov/). |
 | | 🔥 [White House](https://www.whitehouse.gov/) 💣|
-| | **Sunday, November 30 2025**
+| | **Sunday, November 30, 2025** |
 | 7:30 AM | Out-of-Town Travel Pool Call Time<br />[Mar-a-Lago](https://www.maralagoclub.com/) Out-of-Town Travel Pool
 | 9:32 AM ⛳️🏌‍♂️| The [President](https://www.donaldjtrump.com/) departs [Mar-a-Lago](https://www.maralagoclub.com/) for his golf club<br />[Mar-a-Lago](https://www.maralagoclub.com/)
 | 9:39 AM ⛳️🏌‍♂️| The [President](https://www.donaldjtrump.com/) arrives at [Trump International Golf Club West Palm Beach](https://www.trumpinternationalpalmbeaches.com/)<br />[Trump International Golf Club West Palm Beach](https://www.trumpinternationalpalmbeaches.com/)
@@ -118,8 +118,8 @@ toc: true
 | 5:29 PM | The [President](https://www.donaldjtrump.com/) arrives at [Joint Base Andrews (ADW)](https://www.jba.af.mil/)<br />[Joint Base Andrews (ADW)](https://www.jba.af.mil/)
 | 5:46 PM | The [President](https://www.donaldjtrump.com/) departs [Joint Base Andrews (ADW)](https://www.jba.af.mil/) for the [White House](https://www.whitehouse.gov/)<br />[Joint Base Andrews (ADW)](https://www.jba.af.mil/)
 | 5:50 PM | The [President](https://www.donaldjtrump.com/) and First Lady arrive the [White House](https://www.whitehouse.gov/) [Actual: 5:56 PM]<br />[South Lawn](https://www.whitehouse.gov/) Open Press
-| 6:06 PM | [White House](https://www.whitehouse.gov/) Press Office: Full lid called<br />The [White House](https://www.whitehouse.gov/) | 
-| | **Saturday, November 29 2025** |
+| 6:06 PM | [White House](https://www.whitehouse.gov/) Press Office: Full lid called<br />The [White House](https://www.whitehouse.gov/) |
+| | **Saturday, November 29, 2025** |
 | | The [President](https://www.donaldjtrump.com/) ~~has no public events scheduled~~ (other than playing golf ⛳️🏌)<br />[Mar-a-Lago](https://www.maralagoclub.com/) Out-of-Town Travel Pool |
 | 7:30 AM | Out-of-Town Travel Pool Call Time<br />[Mar-a-Lago](https://www.maralagoclub.com/) Out-of-Town Travel Pool |
 | 9:35 AM ⛳️🏌‍♂️| The [President](https://www.donaldjtrump.com/) departs [Mar-a-Lago](https://www.maralagoclub.com/) for his golf club<br />[Mar-a-Lago](https://www.maralagoclub.com/) |
@@ -127,7 +127,7 @@ toc: true
 | 3:03 PM ⛳️🏌‍♂️| The [President](https://www.donaldjtrump.com/) departs [Trump International Golf Club West Palm Beach](https://www.trumpinternationalpalmbeaches.com/) for [Mar-a-Lago](https://www.maralagoclub.com/)<br />[Trump International Golf Club West Palm Beach](https://www.trumpinternationalpalmbeaches.com/) |
 | 3:09 PM | The [President](https://www.donaldjtrump.com/) arrives at [Mar-a-Lago](https://www.maralagoclub.com/)<br />[Mar-a-Lago](https://www.maralagoclub.com/) |
 | 3:10 PM | [White House](https://www.whitehouse.gov/) Press Office: Full lid called<br />[Mar-a-Lago](https://www.maralagoclub.com/) |
-| | **Friday, November 28 2025** |
+| | **Friday, November 28, 2025** |
 | | The [President](https://www.donaldjtrump.com/) ~~has no public events scheduled~~ (other than playing golf ⛳️🏌)<br />[Mar-a-Lago](https://www.maralagoclub.com/) Out-of-Town Travel Pool |
 | 7:30 AM | Out-of-Town Travel Pool Call Time<br />[Mar-a-Lago](https://www.maralagoclub.com/) Out-of-Town Travel Pool |
 | 12:21 PM ⛳️🏌‍♂️ | The [President](https://www.donaldjtrump.com/) departs [Mar-a-Lago](https://www.maralagoclub.com/) for his golf club<br />[Mar-a-Lago](https://www.maralagoclub.com/) |
@@ -135,21 +135,21 @@ toc: true
 | 4:01 PM ⛳️🏌‍♂️| The [President](https://www.donaldjtrump.com/) departs [Trump International Golf Club West Palm Beach](https://www.trumpinternationalpalmbeaches.com/) for [Mar-a-Lago](https://www.maralagoclub.com/)<br />[Trump International Golf Club West Palm Beach](https://www.trumpinternationalpalmbeaches.com/) |
 | 4:09 PM | The [President](https://www.donaldjtrump.com/) arrives at [Mar-a-Lago](https://www.maralagoclub.com/)<br />[Mar-a-Lago](https://www.maralagoclub.com/) |
 | 4:09 PM | [White House](https://www.whitehouse.gov/) Press Office: Full lid called<br />[Mar-a-Lago](https://www.maralagoclub.com/) |
-| | **Thursday, November 27 2025** |
+| | **Thursday, November 27, 2025** |
 | 7:30 AM | Out-of-Town Travel Pool Call Time<br />[Mar-a-Lago](https://www.maralagoclub.com/) Out-of-Town Travel Pool |
 | 9:39 AM ⛳️🏌‍♂️| The [President](https://www.donaldjtrump.com/) departs [Mar-a-Lago](https://www.maralagoclub.com/) for his golf club<br />[Mar-a-Lago](https://www.maralagoclub.com/) |
 | 9:47 AM ⛳️🏌‍♂️| The [President](https://www.donaldjtrump.com/) arrives at [Trump International Golf Club West Palm Beach](https://www.trumpinternationalpalmbeaches.com/)<br />[Trump International Golf Club West Palm Beach](https://www.trumpinternationalpalmbeaches.com/) |
 | 6:00 PM | The [President](https://www.donaldjtrump.com/) participates in a call with [Service Members](https://www.jcs.mil/)<br />[Mar-a-Lago](https://www.maralagoclub.com/) Out-of-Town Travel Pool<br /><br /> **@RalphHightower: [Donnie](https://www.donaldjtrump.com/) never let the Commander-in-Chief traditional duties of serving Thanksgiving or Christmas meals to the [troops](https://www.jcs.mil/) interfere with his golf. He prefers just phoning in his holiday greetings.** |
-| | **Wednesday, November 26 2025** |
+| | **Wednesday, November 26, 2025** |
 | ⛳️🏌‍♂️| The [President](https://www.donaldjtrump.com/) ~~has no public events scheduled~~ (other than playing golf ⛳️🏌)<br />[Mar-a-Lago](https://www.maralagoclub.com/) Out-of-Town Travel Pool |
 | 7:30 AM | Out-of-Town Travel Pool Call Time<br />[Mar-a-Lago](https://www.maralagoclub.com/) Out-of-Town Travel Pool |
 | 8:35 AM ⛳️🏌‍♂️| The [President](https://www.donaldjtrump.com/) departs [Mar-a-Lago](https://www.maralagoclub.com/) for his golf club<br />[Mar-a-Lago](https://www.maralagoclub.com/) |
 | 8:43 AM ⛳️🏌‍♂️| The [President](https://www.donaldjtrump.com/) arrives at [Trump International Golf Club West Palm Beach](https://www.trumpinternationalpalmbeaches.com/)<br />[Trump International Golf Club West Palm Beach](https://www.trumpinternationalpalmbeaches.com/) |
 | 3:07 PM ⛳️🏌‍♂️| The [President](https://www.donaldjtrump.com/) departs [Trump International Golf Club West Palm Beach](https://www.trumpinternationalpalmbeaches.com/) for [Mar-a-Lago](https://www.maralagoclub.com/)<br />[Trump International Golf Club West Palm Beach](https://www.trumpinternationalpalmbeaches.com/) |
 | 3:16 PM | The [President](https://www.donaldjtrump.com/) arrives at [Mar-a-Lago](https://www.maralagoclub.com/)<br />[Mar-a-Lago](https://www.maralagoclub.com/) |
-| 4:25 PM | [White House](https://www.whitehouse.gov/) Press Office: Full lid called<br />[Mar-a-Lago](https://www.maralagoclub.com/) In-Town Travel Pool
+| 4:25 PM | [White ,,House](https://www.whitehouse.gov/) Press Office: Full lid called<br />[Mar-a-Lago](https://www.maralagoclub.com/) In-Town Travel Pool
 | 9:15 PM | The [President](https://www.donaldjtrump.com/) streams remarks after [National Guard](https://www.nationalguard.mil/) shooting in [Washington](https://dc.gov/)<br />[Mar-a-Lago](https://www.maralagoclub.com/) In-Town Travel Pool |
-| | **Tuesday, November 25 2025** |
+| | **Tuesday, November 25, 2025** |
 | 9:00 AM | In-Town Pool Call Time<br />The [White House](https://www.whitehouse.gov/) |
 | 12:00 PM | The [President](https://www.donaldjtrump.com/) and First Lady participate in the Thanksgiving Turkey Pardoning<br />[Rose Garden](https://www.whitehouse.gov/) Pre-Credentialed Media |
 | 12:54 PM | [White House](https://www.whitehouse.gov/) Press Office: Lunch lid until 2:00 PM<br />The [White House](https://www.whitehouse.gov/) |
@@ -162,7 +162,7 @@ toc: true
 | 8:50 PM | The [President](https://www.donaldjtrump.com/) and First Lady arrive [Palm Beach](https://discover.pbc.gov/), [Florida](https://www.myflorida.gov/) [Actual: 8:50 PM]<br />[Mar-a-Lago](https://www.maralagoclub.com/) Out-of-Town Travel Pool |
 | 8:51 PM | [White House](https://www.whitehouse.gov/) Press Office: Full lid called<br />[Mar-a-Lago](https://www.maralagoclub.com/) In-Town Travel Pool |
 | | 🔥 [White House](https://www.whitehouse.gov/) 💣|
-| | **Saturday, November 22 2025**
+| | **Saturday, November 22, 2025** |
 | | 🔥 [White House](https://www.whitehouse.gov/) 💣|
 | 10:00 AM | In-Town Travel Pool Call Time<br />The [White House](https://www.whitehouse.gov/) In-Town Pool |
 | 11:00 AM | In-Town Pool Call Time<br />The [White House](https://www.whitehouse.gov/) In-Town Pool |
@@ -171,7 +171,7 @@ toc: true
 | 2:40 PM | The [President](https://www.donaldjtrump.com/) arrives The [White House](https://www.whitehouse.gov/)<br />[South Lawn](https://www.whitehouse.gov/) In-Town Pool |
 | 3:11 PM | [White House](https://www.whitehouse.gov/) Press Office: Full lid called<br />The [White House](https://www.whitehouse.gov/) In-Town Travel Pool |
 | | 🔥 [White House](https://www.whitehouse.gov/) 💣|
-| | **Sunday, November 16 2025** |
+| | **Sunday, November 16, 2025** |
 | 7:00 AM | Out-of-Town Travel Pool Call Time<br />[Mar-a-Lago](https://www.maralagoclub.com/) Out-of-Town Travel Pool |
 | 9:06 AM ⛳️🏌‍♂️ | The [President](https://www.donaldjtrump.com/) departs [Mar-a-Lago](https://www.maralagoclub.com/) for his golf club<br />[Mar-a-Lago](https://www.maralagoclub.com/) |
 | 9:13 AM ⛳️🏌‍♂️| The [President](https://www.donaldjtrump.com/) arrives at [Trump International Golf Club West Palm Beach](https://www.trumpinternationalpalmbeaches.com/)<br />[Trump International Golf Club West Palm Beach](https://www.trumpinternationalpalmbeaches.com/) |
@@ -185,7 +185,7 @@ toc: true
 | 8:59 PM | The [President](https://www.donaldjtrump.com/) arrives at [Joint Base Andrews (ADW)](https://www.jba.af.mil/)<br />[Palm Beach International Airport (PBI)](https://www.pbia.org/) Open Press |
 | 9:17 PM | The [President](https://www.donaldjtrump.com/) departs [Joint Base Andrews (ADW)](https://www.jba.af.mil/) for the [White House](https://www.whitehouse.gov/)<br />[Palm Beach International Airport (PBI)](https://www.pbia.org/) Open Press |
 | 9:41 PM | [White House](https://www.whitehouse.gov/) Press Office: Full lid called<br />The [White House](https://www.whitehouse.gov/) |
-| | **Saturday, November 15 2025** |
+| | **Saturday, November 15, 2025** |
 | | The [President](https://www.donaldjtrump.com/) has no public events scheduled<br />[Mar-a-Lago](https://www.maralagoclub.com/) In-Town Pool |
 | 7:00 AM | Out-of-Town Travel Pool Call Time<br />[Mar-a-Lago](https://www.maralagoclub.com/) Out-of-Town Travel Pool |
 | 9:13 AM ⛳️🏌‍♂️ | The [President](https://www.donaldjtrump.com/) departs [Mar-a-Lago](https://www.maralagoclub.com/) for his golf club<br />[Mar-a-Lago](https://www.maralagoclub.com/) |
@@ -193,7 +193,7 @@ toc: true
 | 3:55 PM ⛳️🏌‍♂️| The [President](https://www.donaldjtrump.com/) departs [Trump International Golf Club West Palm Beach](https://www.trumpinternationalpalmbeaches.com/) for [Mar-a-Lago](https://www.maralagoclub.com/)<br />[Trump International Golf Club West Palm Beach](https://www.trumpinternationalpalmbeaches.com/) |
 | 4:04 PM | The [President](https://www.donaldjtrump.com/) arrives at [Mar-a-Lago](https://www.maralagoclub.com/)<br />[Mar-a-Lago](https://www.maralagoclub.com/) |
 | 4:05 PM | [White House](https://www.whitehouse.gov/) Press Office: Full lid called<br />[Mar-a-Lago](https://www.maralagoclub.com/) |
-| | **Friday, November 14 2025** |
+| | **Friday, November 14, 2025** |
 | 8:51 AM | Jamieson Greer briefs reporters at The Sticks<br />The Sticks - The [White House](https://www.whitehouse.gov/) |
 | 9:00 AM | In-Town Pool Call Time<br />The [White House](https://www.whitehouse.gov/) |
 | 11:34 AM | [White House](https://www.whitehouse.gov/) Press Office: Lunch lid until 12:30 PM<br />[Oval Office](https://www.whitehouse.gov/) Closed Press |
@@ -208,7 +208,7 @@ toc: true
 | 8:27 PM | The [President](https://www.donaldjtrump.com/) departs [Palm Beach International (PBI)](https://www.pbia.org/) for [Mar-a-Lago](https://www.maralagoclub.com/)<br />[Palm Beach International (PBI)](https://www.pbia.org/) Open Press |
 | 8:38 PM | [White House](https://www.whitehouse.gov/) Press Office: Full lid called<br />The [White House](https://www.whitehouse.gov/) |
 | | 🔥 [White House](https://www.whitehouse.gov/) 💣|
-| | **Sunday, November 9 2025** |
+| | **Sunday, November 9, 2025** |
 | 7:00 AM 🔥💸 | Out-of-Town Travel Pool Call Time<br />[Mar-a-Lago](https://www.maralagoclub.com/) Out-of-Town Travel Pool |
 | 8:47 AM 🔥💸 ⛳️🏌‍♂️| The [President](https://www.donaldjtrump.com/) departs [Mar-a-Lago](https://www.maralagoclub.com/) for his golf club<br />[Mar-a-Lago](https://www.maralagoclub.com/) |
 | 8:54 AM 🔥💸 ⛳️🏌‍♂️| The [President](https://www.donaldjtrump.com/) arrives at [Trump International Golf Club West Palm Beach](https://www.trumpinternationalpalmbeaches.com/)<br />[Trump International Golf Club West Palm Beach](https://www.trumpinternationalpalmbeaches.com/) |
@@ -226,7 +226,7 @@ toc: true
 | 7:00 PM 🔥💸 | In-Town Pool Call Time<br />The [White House](https://www.whitehouse.gov/) In-Town Pool |
 | 7:10 PM 🔥💸 | [White House](https://www.whitehouse.gov/) Press Office: Full lid called<br />The [White House](https://www.whitehouse.gov/) |
 | 7:45 PM 🔥💸 | The [President](https://www.donaldjtrump.com/) arrives The [White House](https://www.whitehouse.gov/) [Actual: 6:53 PM]<br />The [White House](https://www.whitehouse.gov/) Open Press |
-| | **Saturday, November 8 2025** |
+| | **Saturday, November 8, 2025** |
 | | The [President](https://www.donaldjtrump.com/) ~~has no public events scheduled~~ (other than playing golf ⛳️🔥💸🏌)<br />[Mar-a-Lago](https://www.maralagoclub.com/) Out-of-Town Travel Pool |
 | 7:00 AM 🔥💸 | Out-of-Town Travel Pool Call Time<br />[Mar-a-Lago](https://www.maralagoclub.com/)Out-of-Town Travel Pool |
 | 8:35 AM 🔥💸 ⛳️🏌‍♂️| The [President](https://www.donaldjtrump.com/) departs [Mar-a-Lago](https://www.maralagoclub.com/) for his golf club<br />[Mar-a-Lago](https://www.maralagoclub.com/) |
@@ -234,7 +234,7 @@ toc: true
 | 3:17 PM 🔥💸 🏌‍♂️⛳️| The [President](https://www.donaldjtrump.com/) departs [Trump International Golf Club West Palm Beach](https://www.trumpinternationalpalmbeaches.com/) for [Mar-a-Lago](https://www.maralagoclub.com/)<br />[Trump International Golf Club West Palm Beach](https://www.trumpinternationalpalmbeaches.com/) |
 | 3:26 PM 🔥💸 | The [President](https://www.donaldjtrump.com/) arrives at [Mar-a-Lago](https://www.maralagoclub.com/)<br />[Mar-a-Lago](https://www.maralagoclub.com/) |
 | 3:31 PM 🔥💸 | [White House](https://www.whitehouse.gov/) Press Office: Full lid called<br />[Mar-a-Lago](https://www.maralagoclub.com/) |
-| | **Friday, November 7 2025** |
+| | **Friday, November 7, 2025** |
 | 9:00 AM 🔥💸 | In-Town Pool Call Time<br />The [White House](https://www.whitehouse.gov/) |
 | 9:30 AM 🔥💸 | Kevin Hassett briefs reporters at The Sticks [Note: time is approximate]<br />The Sticks - The [White House](https://www.whitehouse.gov/)
 | 11:30 AM 🔥💸 | The [President](https://www.donaldjtrump.com/) greets the [Prime Minister (Viktor Orbán)](https://kormany.hu/miniszterelnok/eletrajz) of [Hungary](https://kormany.hu/)<br />Stakeout Location Open Press |
@@ -249,7 +249,7 @@ toc: true
 | 8:34 PM 🔥💸 | The [President](https://www.donaldjtrump.com/) departs [Palm Beach International Airport (PBI)](https://www.pbia.org/) for [Mar-a-Lago](https://www.maralagoclub.com/)<br />[Palm Beach International Airport (PBI)](https://www.pbia.org/) Out-of-Town Travel Pool |
 | 8:43 PM 🔥💸 | [White House](https://www.whitehouse.gov/) Press Office: Full lid called<br />[Mar-a-Lago](https://www.m<br />aralagoclub.com/) |
 | | 🔥 [White House](https://www.whitehouse.gov/) 💣|
-| | **Wednesday, November 5 2025** |
+| | **Wednesday, November 5, 2025** |
 | 8:00 AM 🔥💸 | In-Town Pool Call Time<br />The [White House](https://www.whitehouse.gov/) |
 | 8:30 AM 🔥💸 | The [President](https://www.donaldjtrump.com/) delivers remarks at Breakfast with [Republican](https://www.gop.com/) [Senators](https://www.senate.gov/) [8:23 AM Actual]<br />[State Dining Room](https://www.whitehouse.gov/) [White House](https://www.whitehouse.gov/) Press Pool |
 | 8:40 AM 🔥💸 | Out-of-Town Pool Call Time<br />[Joint Base Andrews (ADW)](https://www.jba.af.mil/) Out-of-Town Pool |
@@ -270,7 +270,7 @@ toc: true
 | 5:51 PM 🔥💸 | The [President](https://www.donaldjtrump.com/) departs [Joint Base Andrews (ADW)](https://www.jba.af.mil/) for the [White House](https://www.whitehouse.gov/)<br />[Joint Base Andrews (ADW)](https://www.jba.af.mil/) Pre-Credentialed Media |
 | 6:19 PM 🔥💸 | [White House](https://www.whitehouse.gov/) Press Office: Full lid called<br />The [White House](https://www.whitehouse.gov/) |
 | | 🔥 [White House](https://www.whitehouse.gov/) 💣|
-| | **Sunday, November 2 2025** |
+| | **Sunday, November 2, 2025** |
 | 7:00 AM 🔥💸 | Out-of-Town Travel Pool Call Time<br />[Mar-a-Lago](https://www.maralagoclub.com/) Out-of-Town Travel Pool |
 | -:-- AM | [Donnie](https://www.donaldjtrump.com/) departs [Mar-a-Lago](https://www.maralagoclub.com/) to play golf at his [Trump International Golf Club](https://www.trumpinternationalpalmbeaches.com/) |
 | -:-- PM | [Donnie](https://www.donaldjtrump.com/) departs his golf club [Trump International Golf Club](https://www.trumpinternationalpalmbeaches.com/) for [Mar-a-Lago](https://www.maralagoclub.com/) |
@@ -282,7 +282,7 @@ toc: true
 | 7:17 PM 🔥💸 | The [President](https://www.donaldjtrump.com/) departs [Joint Base Andrews (ADW)](https://www.jba.af.mil/) for the [White House](https://www.whitehouse.gov/)<br />[Joint Base Andrews (ADW)](https://www.jba.af.mil/) |
 | 7:42 PM 🔥💸 | [White House](https://www.whitehouse.gov/) Press Office: Full lid called<br />The [White House](https://www.whitehouse.gov/) |
 | 7:50 PM 🔥💸 | The [President](https://www.donaldjtrump.com/) arrives The [White House](https://www.whitehouse.gov/) [Actual: 7:26 PM]<br />The [White House](https://www.whitehouse.gov/) Open Press |
-| | **Saturday, November 1 2025** |
+| | **Saturday, November 1, 2025** |
 | 7:00 AM 🔥💸 | Out-of-Town Travel Pool Call Time<br />[Mar-a-Lago](https://www.maralagoclub.com/) Out-of-Town Travel Pool |
 | 9:26 AM 🔥💸 | The [President](https://www.donaldjtrump.com/) departs [Mar-a-Lago](https://www.maralagoclub.com/) for [his golf club](https://www.trumpinternationalpalmbeaches.com/)<br />[Mar-a-Lago](https://www.maralagoclub.com/) |
 | 9:33 AM 🔥💸 | The [President](https://www.donaldjtrump.com/) arrives at [Trump International Golf Club West Palm Beach](https://www.trumpinternationalpalmbeaches.com/)<br />[Trump International Golf Club West Palm Beach](https://www.trumpinternationalpalmbeaches.com/) |
@@ -290,7 +290,7 @@ toc: true
 | 2:01 PM 🔥💸 | The [President](https://www.donaldjtrump.com/) arrives at [Mar-a-Lago](https://www.maralagoclub.com/)<br />[Mar-a-Lago](https://www.maralagoclub.com/) |
 | 2:06 PM 🔥💸 | [White House](https://www.whitehouse.gov/) Press Office: Full lid called<br />[Mar-a-Lago](https://www.maralagoclub.com/) |
 | 7:30 PM 🔥💸 | The [President](https://www.donaldjtrump.com/) attends a [MAGA Inc.](https://www.magapac.com/) Dinner<br />[Mar-a-Lago](https://www.maralagoclub.com/) Out-of-Town Travel Pool |
-| | **Friday, October 31 2025** |
+| | **Friday, October 31, 2025** |
 | 9:00 AM 🔥💸| Out-of-Town Travel Pool Call Time<br />[Joint Base Andrews (ADW)](https://www.jba.af.mil/) Out-of-Town Travel Pool |
 | 9:00 AM 🔥💸| In-Town Pool<br />The [White House](https://www.whitehouse.gov) Out-of-Town Travel Pool |
 | 10:00 AM 🔥💸| The [President](https://www.donaldjtrump.com/) departs The [White House](https://www.whitehouse.gov) en route [Palm Beach](https://discover.pbc.gov/), [Florida](https://www.myflorida.gov/) \[11:15 AM Actual to [Joint Base Andrews (ADW)](https://www.jba.af.mil/)]<br />The [White House](https://www.whitehouse.gov) Out-of-Town Travel Pool |
@@ -301,7 +301,7 @@ toc: true
 | 2:08 PM 🔥💸| The [President](https://www.donaldjtrump.com/) arrives at [Mar-a-Lago](https://www.maralagoclub.com/)<br />[Mar-a-Lago](https://www.maralagoclub.com/) Out-of-Town Travel Pool |
 | 2:14 PM 🔥💸| [White House](https://www.whitehouse.gov) Press Office: Dinner lid until 6:00 PM<br />[Mar-a-Lago](https://www.maralagoclub.com/) Out-of-Town Travel Pool |
 | | 🔥 [White House](https://www.whitehouse.gov/) 💣|
-| | **Thursday, October 30 2025** |
+| | **Thursday, October 30, 2025** |
 | 12:03 AM 🔥💸| The [President](https://www.donaldjtrump.com/) boards [Air Force One](https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104588/vc-25-air-force-one/) to return to the United States [1:03 PM Local]<br />[Gimhae International Airport (PUS)](https://gimhaeairport.com/), [Busan](https://www.busan.go.kr/), [South Korea](https://www.gov.kr/) Out-of-Town Travel Pool |
 | 7:09 AM 🔥💸| The [President](https://www.donaldjtrump.com/) arrives at [Joint Base Elmendorf-Richardson (EDF)](https://www.jber.jb.mil/) to refuel [3:09 AM Local]<br />[Joint Base Elmendorf-Richardson (EDF)](https://www.jber.jb.mil/), [AK](https://www.alaska.gov/) Out-of-Town Travel Pool |
 | 8:26 AM 🔥💸| The [President](https://www.donaldjtrump.com/) departs from the refueling stop at [Joint Base Elmendorf-Richardson (EDF)](https://www.jber.jb.mil/) for [Joint Base Andrews (ADW)](https://www.jba.af.mil/) [4:26 AM Local]<br />[Joint Base Elmendorf-Richardson (EDF)](https://www.jber.jb.mil/), [AK](https://www.alaska.gov/) Out-of-Town Travel Pool |
@@ -310,7 +310,7 @@ toc: true
 | 2:49 PM 🔥💸| The [President](https://www.donaldjtrump.com/) departs [Joint Base Andrews (ADW)](https://www.jba.af.mil/) for the [White House](https://www.whitehouse.gov/)<br />[Joint Base Andrews (ADW)](https://www.jba.af.mil/) Out-of-Town Travel Pool |
 | 3:05 PM 🔥💸| The [President](https://www.donaldjtrump.com/) arrives The [White House](https://www.whitehouse.gov/) [3:07 PM Actual]<br />The [White House](https://www.whitehouse.gov/) Open Press |
 | 5:30 PM 🔥💸| The [President](https://www.donaldjtrump.com/) and The First Lady participate in Halloween at The [White House](https://www.whitehouse.gov/)<br />The [White House](https://www.whitehouse.gov/) Pre-Credentialed Media |
-| | **Wednesday, October 29 2025**
+| | **Wednesday, October 29, 2025** |
 | 12:20 AM 🔥💸| The [President](https://www.donaldjtrump.com/) participates in a High Honor Presentation [1:20 PM Local]<br />[Gyeongju Arts Center](https://garts.kr/), [South Korea](https://www.gov.kr/) Restricted Pool |
 | 1:10 AM 🔥💸| The [President](https://www.donaldjtrump.com/) departs the [Gyeongju Arts Center](https://garts.kr/) for the [National Museum](https://gyeongju.museum.go.kr/) [2:10 PM Local]<br />[Gyeongju Arts Center](https://garts.kr/), [South Korea](https://www.gov.kr/) Pre-Credentialed Media |
 | 1:13 AM 🔥💸| The [President](https://www.donaldjtrump.com/) arrives at the [Gyeongju National Museum](https://gyeongju.museum.go.kr/) to receive the Grand Order of Mugunghwa from [South Korea](https://www.gov.kr/) [2:13 PM Local]<br />[Gyeongju National Museum](https://gyeongju.museum.go.kr/), [South Korea](https://www.gov.kr/) Pre-Credentialed Media |
@@ -322,7 +322,7 @@ toc: true
 | 7:30 PM 🔥💸| Out-of-Town Travel Pool Call Time [8:30 AM Local 10/30]<br />[Hilton Gyeongju](https://www.hilton.com/en/hotels/kyohitw-hilton-gyeongju/), [South Korea](https://www.gov.kr/) Out-of-Town Travel Pool |
 | 10:00 PM 🔥💸| The [President](https://www.donaldjtrump.com/) participates in a Bilateral Meeting with [President](https://www.donaldjtrump.com/) Xi of the [People's Republic of China](https://www.gov.cn/) [11:00 AM Local 10/30]<br />Busan, [South Korea](https://www.gov.kr/) Out-of-Town Travel Pool |
 | 11:55 PM 🔥💸| The [President](https://www.donaldjtrump.com/) departs [Gyeongju](https://www.gyeongju.go.kr/open_content/eng/index.do), [South Korea](https://www.gov.kr/), en route The [White House](https://www.whitehouse.gov/) [12:55 PM Local 10/30]<br />[Gimhae International Airport (PUS)](https://gimhaeairport.com/), [Busan](https://www.busan.go.kr/), [South Korea](https://www.gov.kr/) Out-of-Town Travel Pool |
-| | **Tuesday, October 28 2025** |
+| | **Tuesday, October 28, 2025** |
 | 1:59 AM 🔥💸 | The [President](https://www.donaldjtrump.com/) departs [The Okura](https://theokuratokyo.jp/) hotel to visit U.S. Troops [2:59 AM Local]<br />[The Okura](https://theokuratokyo.jp/), [Tokyo](https://www.metro.tokyo.lg.jp/) |
 | 2:05 AM 🔥💸 | The [President](https://www.donaldjtrump.com/) arrives at the [Hardy Barracks](https://home.army.mil/japan/) landing zone [3:05 PM Local]<br />[Hardy Barracks](https://home.army.mil/japan/), [Tokyo](https://www.metro.tokyo.lg.jp/) |
 | 2:16 AM 🔥💸 | The [President](https://www.donaldjtrump.com/) departs the [Hardy Barracks](https://home.army.mil/japan/) landing zone for the [USS George Washington](https://www.airpac.navy.mil/Organization/USS-George-Washington-CVN-73/) in [Yokosuka](https://www.city.yokosuka.kanagawa.jp/), [Japan](https://www.japan.go.jp/) [3:16 PM Local]<br />[Hardy Barracks](https://home.army.mil/japan/), [Tokyo](https://www.metro.tokyo.lg.jp/) |
@@ -339,7 +339,7 @@ toc: true
 | 8:00 PM 🔥💸 | The [President](https://www.donaldjtrump.com/) departs [Tokyo](https://www.metro.tokyo.lg.jp/), [Japan](https://www.japan.go.jp/), en route [Gyeongju](https://www.gyeongju.go.kr/), [South Korea](https://www.gov.kr/) [9:00 AM Local 10/29]<br />[Haneda Airport (HND)](https://tokyo-haneda.com/), [Ota City](https://www.city.ota.tokyo.jp/),, [Japan](https://www.japan.go.jp/) Out-of-Town Travel Pool |
 | 9:40 PM 🔥💸 | The [President](https://www.donaldjtrump.com/) arrives [Gyeongju](https://www.gyeongju.go.kr/), [South Korea](https://www.gov.kr/) [10:40 AM Local 10/29]<br />[Gimhae International Airport (PUS)](https://gimhaeairport.com/), [Busan](https://www.busan.go.kr/), [South Korea](https://www.gov.kr/) Pre-Credentialed Media |
 | 11:05 PM 🔥💸 | The [President](https://www.donaldjtrump.com/) delivers Keynote Remarks at [APEC CEO](https://www.apec.org/)s Luncheon [12:05 PM Local 10/29]<br />[Gyeongju Arts Center](https://garts.kr/), [South Korea](https://www.gov.kr/) Out-of-Town Travel Pool |
-| | **Monday, October 27 2025** |
+| | **Monday, October 27, 2025** |
 | 4:05 AM 🔥💸 | The [President](https://www.donaldjtrump.com/) arrives [Tokyo](https://www.metro.tokyo.lg.jp/), [Japan](https://www.japan.go.jp/) [5:05 PM Local; 4:59 PM Actual]<br />[Haneda Airport (HND)](https://tokyo-haneda.com/), [Ota City](https://www.city.ota.tokyo.jp/),, [Japan](https://www.japan.go.jp/) Pre-Credentialed Media |
 | 4:23 AM 🔥💸 | The [President](https://www.donaldjtrump.com/) departs [Haneda Airport (HND)](https://tokyo-haneda.com/) for [Tokyo](https://www.metro.tokyo.lg.jp/) [5:23 PM Local]<br />[Haneda Airport (HND)](https://tokyo-haneda.com/), [Ota City](https://www.city.ota.tokyo.jp/),, [Japan](https://www.japan.go.jp/) |
 | 4:42 AM 🔥💸 | The [President](https://www.donaldjtrump.com/) arrives at the [Hardy Barracks](https://home.army.mil/japan/) landing zone in [Tokyo](https://www.metro.tokyo.lg.jp/) [5:42 PM Local]<br />[Hardy Barracks](https://home.army.mil/japan/), [Tokyo](https://www.metro.tokyo.lg.jp/) |
@@ -357,7 +357,7 @@ toc: true
 | 10:45 PM 🔥💸 | The [President](https://www.donaldjtrump.com/) and the [Prime Minister](https://www.kantei.go.jp/), [Sanae Takaichi (高市 早苗)](https://www.sanae.gr.jp/),  meet with [the families of Japanese citizens abducted by North Korea](https://japan.kantei.go.jp/104/actions/202510/28rachi.html) [11:45 AM Local 10/28]<br />[Akasaka Palace](https://www.geihinkan.go.jp/akasaka/), [Tokyo](https://www.metro.tokyo.lg.jp/) |
 | 10:53 PM 🔥💸 | The [President](https://www.donaldjtrump.com/) departs [Akasaka Palace](https://www.geihinkan.go.jp/akasaka/) for [The Okura](https://theokuratokyo.jp/) hotel [11:53 AM Local 10/28]<br />[Akasaka Palace](https://www.geihinkan.go.jp/akasaka/), [Tokyo](https://www.metro.tokyo.lg.jp/) |
 | 10:59 PM 🔥💸 | The [President](https://www.donaldjtrump.com/) arrives at [The Okura](https://theokuratokyo.jp/) hotel [11:59 AM Local 10/28]<br />[The Okura](https://theokuratokyo.jp/), [Tokyo](https://www.metro.tokyo.lg.jp/) |
-| | **Sunday, October 26 2025** |
+| | **Sunday, October 26, 2025** |
 | 2:10 AM 🔥💸 | The [President](https://www.donaldjtrump.com/) participates in an [ASEAN](https://asean.org/) family photo [2:10 PM Local]<br />[Kuala Lumpur Convention Centre](https://www.klccconventioncentre.com/), [Malaysia](https://www.malaysia.gov.my/) Pre-Credentialed Media |
 | 2:20 AM 🔥💸 | The [President](https://www.donaldjtrump.com/) attends a working lunch at the [ASEAN](https://asean.org/) summit and delivers remarks [2:20 PM Local]<br />[Kuala Lumpur Convention Centre](https://www.klccconventioncentre.com/), [Malaysia](https://www.malaysia.gov.my/) Pre-Credentialed Media |
 | 2:30 AM 🔥💸 | The [President](https://www.donaldjtrump.com/) participates in an Expanded Bilateral Meeting and signing with the [Prime Minister](https://www.pmo.gov.my/) of [Malaysia](https://www.malaysia.gov.my/) [2:30 PM Local; 1:20 PM Actual]<br />[Kuala Lumpur Convention Centre](https://www.klccconventioncentre.com/), [Malaysia](https://www.malaysia.gov.my/) Out-of-Town Travel Pool |
@@ -371,7 +371,7 @@ toc: true
 | 9:11 PM 🔥💸 | The [President](https://www.donaldjtrump.com/) departs The [Ritz-Carlton](https://www.ritzcarlton.com/en/hotels/kulrz-the-ritz-carlton-kuala-lumpur/) [Kuala Lumpur](https://kualalumpurcity.my/) for the Airport [9:11 AM Local 10/27]<br />The [Ritz-Carlton](https://www.ritzcarlton.com/en/hotels/kulrz-the-ritz-carlton-kuala-lumpur/), [Kuala Lumpur](https://kualalumpurcity.my/), [Malaysia](https://www.malaysia.gov.my/) Out-of-Town Travel Pool |
 | 9:54 PM 🔥💸 | The [President](https://www.donaldjtrump.com/) arrives at [Kuala Lumpur International Airport (KUL)](https://www.kuala-lumpur-airport.com/) [9:54 AM Local 10/27]<br />[Kuala Lumpur International Airport (KUL)](https://www.kuala-lumpur-airport.com/), [Malaysia](https://www.malaysia.gov.my/) Out-of-Town Travel Pool |
 | 10:00 PM 🔥💸 | The [President](https://www.donaldjtrump.com/) departs [Kuala Lumpur](https://kualalumpurcity.my/), [Malaysia](https://www.malaysia.gov.my/), en route Tokyo, Japan [10:00 AM Local 10/27; Actual: 10:10 AM]<br />[Kuala Lumpur International Airport (KUL)](https://www.kuala-lumpur-airport.com/), [Malaysia](https://www.malaysia.gov.my/) Out-of-Town Travel Pool |
-| | **Saturday, October 25 2025** |
+| | **Saturday, October 25, 2025** |
 | 6:16 AM 🔥💸 | The [President](https://www.donaldjtrump.com/) arrives at [Ramstein Air Base (RMS)](https://www.ramstein.af.mil/) in [Germany](https://www.bundesregierung.de/) [12:16 PM Local]<br />[Ramstein Air Base (RMS)](https://www.ramstein.af.mil/), [Germany](https://www.bundesregierung.de/) |
 | 7:35 AM 🔥💸 | The [President](https://www.donaldjtrump.com/) departs [Ramstein Air Base (RMS)](https://www.ramstein.af.mil/) for [Al Udeid Air Base (XJD)](https://www.afcent.af.mil/Units/379th-Air-Expeditionary-Wing/), [Qatar](https://hukoomi.gov.qa/) [1:35 PM Local]<br />[Ramstein Air Base (RMS)](https://www.ramstein.af.mil/), [Germany](https://www.bundesregierung.de/) |
 | 1:04 PM 🔥💸 | The [President](https://www.donaldjtrump.com/) arrives at [Al Udeid Air Base (XJD)](https://www.afcent.af.mil/Units/379th-Air-Expeditionary-Wing/), [Qatar](https://hukoomi.gov.qa/) [8:04 PM Local]<br />[Al Udeid Air Base (XJD)](https://www.afcent.af.mil/Units/379th-Air-Expeditionary-Wing/), [Qatar](https://hukoomi.gov.qa/) |
@@ -381,7 +381,7 @@ toc: true
 | 10:05 PM 🔥💸 | The [President](https://www.donaldjtrump.com/) arrives [Kuala Lumpur](https://kualalumpurcity.my/), [Malaysia](https://www.malaysia.gov.my/) [10:05 AM Local; Actual: 9:53 AM Local 10/26]<br />[Kuala Lumpur International Airport (KUL)](https://www.kuala-lumpur-airport.com/), [Malaysia](https://www.malaysia.gov.my/) Pre-Credentialed Media |
 | 10:16 PM 🔥💸 | The [President](https://www.donaldjtrump.com/) departs [Kuala Lumpur International Airport (KUL)](https://www.kuala-lumpur-airport.com/) for the [Kuala Lumpur Convention Centre](https://www.klccconventioncentre.com/), [Malaysia](https://www.malaysia.gov.my/) [10:16 AM Local 10/26]<br />[Kuala Lumpur International Airport (KUL)](https://www.kuala-lumpur-airport.com/), [Malaysia](https://www.malaysia.gov.my/) Pre-Credentialed Media |
 | 11:01 PM 🔥💸 | The [President](https://www.donaldjtrump.com/) arrives at the [Kuala Lumpur Convention Centre](https://www.klccconventioncentre.com/), [Malaysia](https://www.malaysia.gov.my/) [11:01 AM Local 10/26]<br />[Kuala Lumpur International Airport (KUL)](https://www.kuala-lumpur-airport.com/), [Malaysia](https://www.malaysia.gov.my/) Pre-Credentialed Media |
-| | **Friday, October 24 2025** |
+| | **Friday, October 24, 2025** |
 | 9:00 AM 🔥💸 | In Town Pool Call Time<br />The [White House](https://www.whitehouse.gov/) |
 | 9:50 AM 🔥💸 | Kevin Hassett briefs reporters at The Sticks<br />The Sticks - The [White House](https://www.whitehouse.gov/) |
 | 11:32 AM 🔥💸 | [White House](https://www.whitehouse.gov/) Press Office: Lunch lid until 12:30 PM <br />The [White House](https://www.whitehouse.gov/) |
@@ -392,7 +392,7 @@ toc: true
 | 11:02 PM 🔥💸 | The [President](https://www.donaldjtrump.com/) arrives at [Joint Base Andrews (ADW)](https://www.jba.af.mil/)<br />[Joint Base Andrews (ADW)](https://www.jba.af.mil/) |
 | 11:15 PM 🔥💸 | The [President](https://www.donaldjtrump.com/) departs [Joint Base Andrews (ADW)](https://www.jba.af.mil/) for [Kuala Lumpur](https://kualalumpurcity.my/), [Malaysia](https://www.malaysia.gov.my/) via [Germany](https://www.bundesregierung.de/) and [Qatar](https://hukoomi.gov.qa/)<br />[Joint Base Andrews (ADW)](https://www.jba.af.mil/) |
 | | 🔥 [White House](https://www.whitehouse.gov/) 💣|
-| 🔥💸 | **Sunday, October 19 2025**
+| 🔥💸 | **Sunday, October 19, 2025** |
 | 7:15 AM 🔥💸| Out-of-Town Travel Pool Call Time<br/>[Mar-a-Lago](https://www.maralagoclub.com/) Out-of-Town Travel Pool |
 | 9:19 AM ⛳️🏌‍♂️🔥💸 | The[President](https://www.donaldjtrump.com/) departs [Mar-a-Lago](https://www.maralagoclub.com/) for his golf club<br/>[Mar-a-Lago](https://www.maralagoclub.com/) |
 | 9:27 AM ⛳️🏌‍♂️🔥💸 | The [President](https://www.donaldjtrump.com/) arrives at [Trump International Golf Club West Palm Beach](https://www.trumpinternationalpalmbeaches.com/)<br/>[Trump International Golf Club West Palm Beach](https://www.trumpinternationalpalmbeaches.com/) |
@@ -403,7 +403,7 @@ toc: true
 | 6:24 PM 🔥💸 | The [President](https://www.donaldjtrump.com/) departs [Palm Beach International Airport (PBI)](https://www.pbia.org/) for [Joint Base Andrews (ADW)](https://www.jba.af.mil/)<br/>[Palm Beach International Airport (PBI)](https://www.pbia.org/) In-Town Pool |
 | 7:00 PM 🔥💸| In-Town Pool Call Time<br/>The [White House](https://www.whitehouse.gov/) In-Town Pool |
 | 7:50 PM 🔥💸| The [President](https://www.donaldjtrump.com/) arrives The [White House](https://www.whitehouse.gov/)<br/>The [White House](https://www.whitehouse.gov/) Open Press |
-| | **Saturday, October 18 2025** |
+| | **Saturday, October 18, 2025** |
 |⛳️🏌‍♂️🔥💸 | The [President](https://www.donaldjtrump.com/) ~~has no public events scheduled~~ (other than playing golf ⛳️🔥💸🏌)<br />[Mar-a-Lago](https://www.maralagoclub.com/) Out-of-Town Travel Pool |
 | 7:15 AM 🔥💸| Out-of-Town Travel Pool Call Time<br />[Mar-a-Lago](https://www.maralagoclub.com/) Out-of-Town Travel Pool |
 | 9:07 AM ⛳️🏌‍♂️🔥💸 | The [President](https://www.donaldjtrump.com/) departs [Mar-a-Lago](https://www.maralagoclub.com/) for his golf club<br />[Mar-a-Lago](https://www.maralagoclub.com/) |
@@ -411,7 +411,7 @@ toc: true
 | 4:52 PM ⛳️🏌‍♂️🔥💸 | The [President](https://www.donaldjtrump.com/) departs [Trump International Golf Club West Palm Beach](https://www.trumpinternationalpalmbeaches.com/) for [Mar-a-Lago](https://www.maralagoclub.com/)<br />[Trump International Golf Club West Palm Beach](https://www.trumpinternationalpalmbeaches.com/) |
 | 4:59 PM 🔥💸 | The [President](https://www.donaldjtrump.com/) arrives at [Mar-a-Lago](https://www.maralagoclub.com/)<br />[Mar-a-Lago](https://www.maralagoclub.com/) |
 | 5:08 PM 🔥💸 | [White House](https://www.whitehouse.gov/) Press Office: Full lid called<br />[Mar-a-Lago](https://www.maralagoclub.com/) In-Town Pool |
-|🔥💸 | **Friday, October 17 2025** |
+|🔥💸 | **Friday, October 17, 2025** |
 | 9:00 AM 🔥💸| In-Town Pool Call Time<br />The [White House](https://www.whitehouse.gov/) In-Town Pool |
 | 11:46 AM 🔥💸| [White House](https://www.whitehouse.gov/) Press Office: Lunch lid until 12:40 PM<br />The [White House](https://www.whitehouse.gov/) |
 | 1:00 PM 🔥💸| The [President](https://www.donaldjtrump.com/) greets the [President Volodymyr Zelenskyy](https://www.president.gov.ua/) of [Ukraine](https://www.kmu.gov.ua/)<br />[Stakeout Location](https://www.whitehouse.gov/) Open Press |
@@ -425,14 +425,14 @@ toc: true
 | 6:37 PM ⛳️🔥💸🏌‍♂️| The [President](https://www.donaldjtrump.com/) departs [Palm Beach International Airport (PBI)](https://https://www.pbia.org/). for [Mar-a-Lago](https://www.maralagoclub.com/)<br />[Palm Beach International Airport (PBI)](https://https://www.pbia.org/). Out-of-Town Travel Pool |
 | 7:18 PM 🔥💸| [White House](https://www.whitehouse.gov/) Press Office: Full lid called<br />[Mar-a-Lago](https://www.maralagoclub.com/) In-Town Pool |
 | | 🔥 [White House](https://www.whitehouse.gov/) 💣|
-|🔥💸 | **Tuesday, October 14 2025** |
+|🔥💸 | **Tuesday, October 14, 2025** |
 | 12:05 AM 🔥💸| The [President](https://www.donaldjtrump.com/) arrives The [White House](https;//www.whitehouse.gov/)<br />The [White House](https;//www.whitehouse.gov/) Open Press |
 | 2:50 AM 🔥💸| The [President](https://www.donaldjtrump.com/) arrives The [White House](https;//www.whitehouse.gov/)<br />[South Lawn](https://www.whitehouse.gov/) Open Press |
 | 9:00 AM 🔥💸| In-Town Pool Call Time<br />The [White House](https;//www.whitehouse.gov/) In-Town Pool |
 | 1:00 PM 🔥💸| The [President](https://www.donaldjtrump.com/) greets the [President](https://www.donaldjtrump.com/) of the [Argentine Republic](https://www.argentina.gob.ar/)<br />[Stakeout Location](https://www.whitehouse.gov/) Open Press |
 | 1:15 PM 🔥💸| The [President](https://www.donaldjtrump.com/) participates in a Bilateral Lunch with the [President](https://www.donaldjtrump.com/) of the [Argentine Republic](https://www.argentina.gob.ar/)<br />[Cabinet Room](https://www.whitehouse.gov/) Closed Press |
 | 4:00 PM 🔥💸| The [President](https://www.donaldjtrump.com/) participates in a Medal of Freedom Ceremony for Charlie Kirk<br />[East Room](https;//www.whitehouse.gov/) |
-|🔥💸 | **Monday, October 13 2025** |
+|🔥💸 | **Monday, October 13, 2025** |
 | 2:20 AM 🔥💸| The [President](https://www.donaldjtrump.com/) arrives [Tel Aviv](https://www.tel-aviv.gov.il/), [Israel](https://www.gov.il/) [9:20 AM Local; Actual: 9:44 AM]<br />[Ben Gurion Airport (TLV)](https://www.iaa.gov.il/), [Tel Aviv](https://www.tel-aviv.gov.il/), [Israel](https://www.gov.il/) Out-of-Town Travel Pool |
 | 3:09 AM 🔥💸| The [President](https://www.donaldjtrump.com/) departs the airport for the [Knesset](https://main.knesset.gov.il/) [10:09 AM Local]<br />[Ben Gurion Airport (TLV)](https://www.iaa.gov.il/), [Tel Aviv](https://www.tel-aviv.gov.il/), [Israel](https://www.gov.il/) Out-of-Town Travel Pool |
 | 3:45 AM 🔥💸| The [President](https://www.donaldjtrump.com/) meets with Hostage Families [10:45 AM Local]<br />The [Knesset](https://main.knesset.gov.il/), [Jerusalem](https://govextra.gov.il/moia/jerusalem-lang/) Closed Press |
@@ -454,13 +454,13 @@ toc: true
 | 6:40 PM 🔥💸| The [President](https://www.donaldjtrump.com/) lands at [RAF Mildenhall](https://www.mildenhall.af.mil/) for refueling [11:40 PM Local]<br >[Royal Air Force Mildenhall (MHZ)](https://www.mildenhall.af.mil/), [England, United Kingdom](https://www.gov.uk/) Out-of-Town Travel Pool |
 | 7:51 PM 🔥💸| The [President](https://www.donaldjtrump.com/) departs from the [RAF Mildenhall](https://www.mildenhall.af.mil/) refueling stop for [Joint Base Andrews (ADW)](https://www.jba.af.mil/) [12:51 AM Local 10/14]<br >[Royal Air Force Mildenhall (MHZ)](https://www.mildenhall.af.mil/), [England, United Kingdom](https://www.gov.uk/) Out-of-Town Travel Pool |
 | 11:30 PM 🔥💸| In-Town Pool Call Time<br />The [White House](https;//www.whitehouse.gov/) In-Town Pool |
-|🔥💸 | **Sunday, October 12 2025** |
+|🔥💸 | **Sunday, October 12, 2025** |
 | 2:30 PM 🔥💸| In-Town Pool Call Time<br />The [White House](https;//www.whitehouse.gov/) In-Town Pool |
 | 2:35 PM 🔥💸| Out-of-Town Travel Pool Call Time<br />[Joint Base Andrews (ADW)](https://www.jba.af.mil/) Out-of-Town Travel Pool |
 | 3:30 PM 🔥💸| The [President](https://www.donaldjtrump.com/) departs The [White House](https;//www.whitehouse.gov/) en route [Tel Aviv](https://www.tel-aviv.gov.il/), [Israel](https://www.gov.il/) [Actual: 4:14 PM to [Joint Base Andrews (ADW)](https://www.jba.af.mil/)]<br />The [White House](https;//www.whitehouse.gov/) Out-of-Town Travel Pool |
 | 4:31 PM 🔥💸| The [President](https://www.donaldjtrump.com/) arrives at [Joint Base Andrews (ADW)](https://www.jba.af.mil/)<br />[Joint Base Andrews (ADW)](https://www.jba.af.mil/) Out-of-Town Travel Pool |
 | 4:47 PM 🔥💸| The [President](https://www.donaldjtrump.com/) departs [Joint Base Andrews (ADW)](https://www.jba.af.mil/) for [Tel Aviv](https://www.tel-aviv.gov.il/), [Israel](https://www.gov.il/)<br />[Joint Base Andrews (ADW)](https://www.jba.af.mil/) Out-of-Town Travel Pool |
-|🔥💸 | **Saturday, October 11 2025** |
+|🔥💸 | **Saturday, October 11, 2025** |
 | ⛳️🔥💸🏌‍♂️| The [President](https://www.donaldjtrump.com/) ~~has no public events scheduled~~ (other than playing golf ⛳️🔥💸🏌)<br />The [White House](https://www.whitehouse.gov/) |
 | 8:30 AM 🔥💸| In-Town Pool Call Time<br />The [White House](https;//www.whitehouse.gov/) In-Town Pool |
 | 9:31 AM ⛳️🔥💸| The [President](https://www.donaldjtrump.com/) departs the [White House](https;//www.whitehouse.gov/) for his [Trump National Golf Club](https://www.trumpnationaldc.com/)<br />The [White House](https;//www.whitehouse.gov/) |
@@ -469,7 +469,7 @@ toc: true
 | 5:00 PM 🔥💸| The [President](https://www.donaldjtrump.com/) arrives at the [White House](https;//www.whitehouse.gov/)<br />The [White House](https;//www.whitehouse.gov/) In-Town Pool |
 | 5:01 PM 🔥💸| [White House](https;//www.whitehouse.gov/) Press Office: Full lid called<br />The [White House](https;//www.whitehouse.gov/) In-Town Pool |
 | | 🔥 [White House](https://www.whitehouse.gov/) 💣|
-|🔥💸 | **Sunday, October 5 2025** |
+|🔥💸 | **Sunday, October 5, 2025** |
 | 10:00 AM 🔥💸| Out-of-Town Travel Pool Call Time<br />[Joint Base Andrews (ADW)](https://www.jba.af.mil/) Out-of-Town Travel Pool |
 | 10:15 AM 🔥💸| In-Town Pool Call Time<br />The [White House](https://www.whitehouse.gov/) In-Town Pool |
 | 10:55 AM 🔥💸| The [President](https://www.donaldjtrump.com/) and The First Lady depart The [White House](https://www.whitehouse.gov/) en route [Norfolk](https://www.norfolk.gov/), [Virginia](https://www.virginia.gov/) [Actual: 11:11 AM to [Joint Base Andrews (ADW)](https://www.jba.af.mil/)]<br />The [White House](https://www.whitehouse.gov/) Open Press |
@@ -490,7 +490,7 @@ toc: true
 | 5:55 PM 🔥💸| The [President](https://www.donaldjtrump.com/) and the First Lady arrive at [Joint Base Andrews (ADW)](https://www.jba.af.mil/)<br />[Joint Base Andrews (ADW)](https://www.jba.af.mil/) |
 | 6:10 PM 🔥💸| The [President](https://www.donaldjtrump.com/) and the First Lady depart [Joint Base Andrews (ADW)](https://www.jba.af.mil/) for the [White House](https://www.whitehouse.gov/)<br />[Joint Base Andrews (ADW)](https://www.jba.af.mil/) |
 | 6:28 PM 🔥💸| [White House](https://www.whitehouse.gov/) Press Office: Full lid called<br />The [White House](https://www.whitehouse.gov/) |
-|🔥💸 | **Saturday, October 4 2025** |
+|🔥💸 | **Saturday, October 4, 2025** |
 | ⛳️🏌‍♂️🔥💸| The [President](https://www.donaldjtrump.com/) ~~has no public events scheduled~~ (other than playing golf ⛳️🏌)<br />The [White House](https://www.whitehouse.gov/) |
 | 8:00 AM 🔥💸| In-Town Pool Call Time<br />The [White House](https://www.whitehouse.gov/) In-Town Pool |
 | 9:57 AM⛳️🔥💸| The [President](https://www.donaldjtrump.com/) departs the [White House](https://www.whitehouse.gov/) for his golf club<br />The [White House](https://www.whitehouse.gov/) |
@@ -500,7 +500,7 @@ toc: true
 | 5:21 PM 🔥💸| The [President](https://www.donaldjtrump.com/) arrives at the [White House](https://www.whitehouse.gov/)<br />The [White House](https://www.whitehouse.gov/) In-Town Pool |
 | 5:26 PM 🔥💸| [White House](https://www.whitehouse.gov/) Press Office: Full lid called<br />The [White House](https://www.whitehouse.gov/) In-Town Pool |
 | | 🔥 [White House](https://www.whitehouse.gov/) 💣|
-|🔥💸 | **Sunday, September 28 2025** |
+|🔥💸 | **Sunday, September 28, 2025** |
 | ⛳️🏌‍♂️| The [President](https://www.donaldjtrump.com/) ~~has no public events scheduled~~ (other than playing golf ⛳️🏌)<br />The [White House](https://www.whitehouse.gov/) In-Town Pool |
 | 8:00 AM | In-Town Pool Call Time<br />The [White House](https://www.whitehouse.gov/) In-Town Pool |
 | 8:38 AM ⛳️| The [President](https://www.donaldjtrump.com/) departs the [White House](https://www.whitehouse.gov/) for his [Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/)<br />The [White House](https://www.whitehouse.gov/) |
@@ -509,7 +509,7 @@ toc: true
 | 3:54 PM ⛳️| The [President](https://www.donaldjtrump.com/) departs [Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/)<br />[Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/) |
 | 4:26 PM | The [President](https://www.donaldjtrump.com/) arrives at the [White House](https://www.whitehouse.gov/)<br />The [White House](https://www.whitehouse.gov/) |
 | 4:29 PM | [White House](https://www.whitehouse.gov/) Press Office: Full lid called<br />The [White House](https://www.whitehouse.gov/) |
-|🔥💸 | **Saturday, September 27 2025** |
+|🔥💸 | **Saturday, September 27, 2025** |
 | ⛳️🏌‍♂️| The [President](https://www.donaldjtrump.com/) ~~has no public events scheduled~~ (other than playing golf ⛳️🏌)<br />The [White House](https://www.whitehouse.gov/) In-Town Pool |
 | 8:00 AM | In-Town Pool Call Time<br />The [White House](https://www.whitehouse.gov/) In-Town Pool |
 | 8:38 AM ⛳️| The [President](https://www.donaldjtrump.com/) departs the [White House](https://www.whitehouse.gov/) for his [Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/)<br />The [White House](https://www.whitehouse.gov/) |
@@ -517,7 +517,7 @@ toc: true
 | 3:12 PM ⛳️| The [President](https://www.donaldjtrump.com/) departs [Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/)<br />[Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/) |
 | 3:44 PM | The [President](https://www.donaldjtrump.com/) arrives at the [White House](https://www.whitehouse.gov/)<br />The [White House](https://www.whitehouse.gov/) |
 | 3:45 PM | [White House](https://www.whitehouse.gov/) Press Office: Full lid called<br />The [White House](https://www.whitehouse.gov/) |
-|🔥💸 | **Friday, September 26 2025** |
+|🔥💸 | **Friday, September 26, 2025** |
 | 8:45 AM | Out-of-Town Travel Pool Call Time<br />[Joint Base Andrews (ADW)](https://www.jba.af.mil/) Out-of-Town Travel Pool |
 | 9:50 AM | The [President](https://www.donaldjtrump.com/) departs the [White House](https://www.whitehouse.gov/) en route [Bethpage](https://oysterbaytown.com/), [New York](https://www.ny.gov/) \[Actual: 9:59 AM to [Joint Base Andrews (ADW)](https://www.jba.af.mil/)\]<br />[South Lawn](https://www.whitehouse.gov/) Open Press |
 | 10:15 AM | The [President](https://www.donaldjtrump.com/) arrives at [Joint Base Andrews (ADW)](https://www.jba.af.mil/)<br />[Joint Base Andrews (ADW)](https://www.jba.af.mil/) Open Press |
@@ -534,7 +534,7 @@ toc: true
 | -:-- PM | The [President](https://www.donaldjtrump.com/) departs [Joint Base Andrews (ADW)](https://www.jba.af.mil/) for [White House](https://www.whitehouse.gov/)<br />[Joint Base Andrews (ADW)](https://www.jba.af.mil/) Open Press |
 | 4:55 PM | The [President](https://www.donaldjtrump.com/) arrives [White House](https://www.whitehouse.gov/)<br />[South Lawn](https://www.whitehouse.gov/) Open Press |
 | | 🔥 [White House](https://www.whitehouse.gov/) 💣|
-|🔥💸 | **Tuesday, September 23 2025** |
+|🔥💸 | **Tuesday, September 23, 2025** |
 | 7:00 AM | Out-of-Town Travel Pool Call Time<br />[Trump Tower](https://www.trumptowerny.com/) Out-of-Town Travel Pool |
 | 9:42 AM | The [President](https://www.donaldjtrump.com/) departs [Trump Tower](https://www.trumptowerny.com/) for the [United Nations](https://www.un.org/)<br />[Trump Tower](https://www.trumptowerny.com/) Out-of-Town Travel Pool |
 | 9:48 AM | The [President](https://www.donaldjtrump.com/) arrives at the [United Nations](https://www.un.org/)<br />[United Nations](https://www.un.org/) Out-of-Town Travel Pool |
@@ -562,7 +562,7 @@ toc: true
 | 10:42 PM | The [President](https://www.donaldjtrump.com/) and the First Lady depart [Joint Base Andrews (ADW)](https://www.jba.af.mil/) for the [White House](https://www.whitehouse.gov/)<br />[Joint Base Andrews (ADW)](https://www.jba.af.mil/) |
 | 11:02 PM | [White House](https://www.whitehouse.gov/) Press Office: Full lid called<br />The [White House](https://www.whitehouse.gov/) |
 | 11:10 PM | The [President](https://www.donaldjtrump.com/) and First Lady arrive The [White House](https://www.whitehouse.gov/) [Actual: 10:50 PM]<br />[South Lawn](https://www.whitehouse.gov/) Open Press |
-|🔥💸 | **Monday, September 22 2025** |
+|🔥💸 | **Monday, September 22, 2025** |
 | 9:00 AM | In-Town Pool Call Time<br />The [White House](https://www.whitehouse.gov/) In-Town Pool |
 | 11:43 AM | [White House](https://www.whitehouse.gov/) Press Office: Lunch lid until 12:30 PM<br />The [White House](https://www.whitehouse.gov/) |
 | 1:00 PM | Press Briefing by the [White House](https://www.whitehouse.gov/) Press Secretary Karoline Leavitt<br />[James S. Brady Press Briefing Room](https://www.whitehouse.gov/) On Camera |
@@ -576,7 +576,7 @@ toc: true
 | 8:00 PM | The [President](https://www.donaldjtrump.com/) arrives at the [Downtown Manhattan Heliport (JRB)](https://www.downtownskyportnyc.com/)<br />[Downtown Manhattan Heliport (JRB)](https://www.downtownskyportnyc.com/), NY Open Press |
 | 8:07 PM | The [President](https://www.donaldjtrump.com/) departs the [Downtown Manhattan Heliport (JRB)](https://www.downtownskyportnyc.com/) for [Trump Tower](https://www.trumptowerny.com/)<br />[Downtown Manhattan Heliport (JRB)](https://www.downtownskyportnyc.com/), NY Open Press |
 | 8:26 PM | [White House](https://www.whitehouse.gov/) Press Office: Full lid called<br />[Trump Tower](https://www.trumptowerny.com/) |
-| 🔥💸 | **Sunday, September 21 2025** |
+| 🔥💸 | **Sunday, September 21, 2025** |
 | 7:00 AM | Out-of-Town Travel Pool Call Time<br />[Joint Base Andrews (ADW)](https://www.jba.af.mil/) Out-of-Town Travel Pool |
 | 7:15 AM | In-Town Pool Call Time<br />The [White House](https://www.whitehouse.gov/)<br />In-Town Pool |
 | 9:30 AM | The [President](https://www.donaldjtrump.com/) departs The [White House](https://www.whitehouse.gov/) en route [Glendale](https://www.glendaleaz.gov/), [Arizona](https://www.az.gov/) [9:53 AM Actual to [Joint Base Andrews (ADW)](https://www.jba.af.mil/)]<br />The [White House](https://www.whitehouse.gov/) Open Press |
@@ -593,7 +593,7 @@ toc: true
 | 11:21 PM | The [President](https://www.donaldjtrump.com/) arrives at [Joint Base Andrews (ADW)](https://www.jba.af.mil/)<br />[Joint Base Andrews (ADW)](https://www.jba.af.mil/) |
 | 11:38 PM | The [President](https://www.donaldjtrump.com/) departs [Joint Base Andrews (ADW)](https://www.jba.af.mil/) for the [White House](https://www.whitehouse.gov/)<br />[Joint Base Andrews (ADW)](https://www.jba.af.mil/) |
 | 11:54 PM | [White House](https://www.whitehouse.gov/) Press Office: Full lid called<br />The [White House](https://www.whitehouse.gov/) |
-| 🔥💸 | **Saturday, September 20 2025** |
+| 🔥💸 | **Saturday, September 20, 2025** |
 | 8:00 AM | In-Town Pool Call Time<br />The [White House](https://www.whitehouse.gov/) In-Town Pool |
 | 9:08 AM ⛳️🏌‍♂️| The [President](https://www.donaldjtrump.com/) departs the [White House](https://www.whitehouse.gov/) for his golf club<br />The [White House](https://www.whitehouse.gov/) |
 | 9:42 AM ⛳️🏌‍♂️| The [President](https://www.donaldjtrump.com/) arrives at [Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/)<br />[Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/) |
@@ -609,7 +609,7 @@ toc: true
 | 9:38 PM | The [President](https://www.donaldjtrump.com/) departs [Mount Vernon](https://www.mountvernon.org/) for the [White House](https://www.whitehouse.gov/)<br />[Mount Vernon](https://www.mountvernon.org/) |
 | 9:57 PM | [White House](https://www.whitehouse.gov/) Press Office: Full lid called<br />The [White House](https://www.whitehouse.gov/) |
 | | 🔥 [White House](https://www.whitehouse.gov/) 💣|
-| | **Thursday, September 18 2025** |
+| | **Thursday, September 18, 2025** |
 | 1:30 AM | Out-of-Town Travel Pool Call Time [6:30 AM Local]<br />[Windsor Castle](https://www.royal.uk/royal-residences-windsor-castle), [Berkshire](https://www.bbc.com/news/england/berkshire), [England, United Kingdom](https://www.gov.uk/) Out-of-Town Travel Pool |
 | 5:00 AM | The [President](https://www.donaldjtrump.com/) and The First Lady participate in Farewells to the [King](https://www.royal.uk/the-king-0) and [Queen](https://www.royal.uk/the-queen-0) of the [United Kingdom of Great Britain and Northern Ireland](https://www.gov.uk/) [10:00 AM Local]<br />[Windsor Castle](https://www.royal.uk/royal-residences-windsor-castle), [Berkshire](https://www.bbc.com/news/england/berkshire), [England, United Kingdom](https://www.gov.uk/) |
 | 5:30 AM | The [President](https://www.donaldjtrump.com/) departs [Windsor Castle](https://www.royal.uk/royal-residences-windsor-castle) en route [Chequers Estate](https://www.gov.uk/government/organisations/prime-ministers-office-10-downing-street) [10:30 AM Local; Actual: 10:23 AM Local]<br />[Windsor Castle](https://www.royal.uk/royal-residences-windsor-castle), [Berkshire](https://www.bbc.com/news/england/berkshire), [England, United Kingdom](https://www.gov.uk/) Out-of-Town Travel Pool |
@@ -629,7 +629,7 @@ toc: true
 | 8:12 PM | The [President](https://www.donaldjtrump.com/) and the First Lady depart [Joint Base Andrews (ADW)](https://www.jba.af.mil/) for the [White House](https://www.whitehouse.gov/)<br />[Joint Base Andrews (ADW)](https://www.jba.af.mil/) |
 | 8:21 PM | The [President](https://www.donaldjtrump.com/) and the First Lady arrive at the [White House](https://www.whitehouse.gov/)<br />The [White House](https://www.whitehouse.gov/) |
 | 8:29 PM | [White House](https://www.whitehouse.gov/) Press Office: Full lid called<br />The [White House](https://www.whitehouse.gov/) |
-| | **Wednesday, September 17 2025** |
+| | **Wednesday, September 17, 2025** |
 | 3:30 AM | Out-of-Town Travel Pool Call Time [8:30 AM Local]<br />[Winfield House](https://uk.usembassy.gov/), [London](https://www.london.gov.uk/) Out-of-Town Travel Pool |
 | 6:55 AM | The [President](https://www.donaldjtrump.com/) and the First Lady depart [Winfield House](https://uk.usembassy.gov/) in London for [Windsor Castle](https://www.royal.uk/royal-residences-windsor-castle) [11:55 AM Local]<br />[Winfield House](https://uk.usembassy.gov/), London Out-of-Town Travel Pool |
 | 7:14 AM | The [President](https://www.donaldjtrump.com/) and The First Lady arrive at [Windsor Castle](https://www.royal.uk/royal-residences-windsor-castle) [12:14 PM Local]<br />[Windsor Castle](https://www.royal.uk/royal-residences-windsor-castle), [Berkshire](https://www.bbc.com/news/england/berkshire), [England, United Kingdom](https://www.gov.uk/) Out-of-Town Travel Pool |
@@ -641,7 +641,7 @@ toc: true
 | 3:30 PM | The [President](https://www.donaldjtrump.com/) and The First Lady participate in a State Banquet [8:30 PM Local]<br />[Windsor Castle](https://www.royal.uk/royal-residences-windsor-castle), [Berkshire](https://www.bbc.com/news/england/berkshire), [England, United Kingdom](https://www.gov.uk/) |
 | 4:41 PM | [White House](https://www.whitehouse.gov/) Press Office: Full lid called [9:41 PM Local]<br />[Windsor Castle](https://www.royal.uk/royal-residences-windsor-castle), [Berkshire](https://www.bbc.com/news/england/berkshire), [England, United Kingdom](https://www.gov.uk/) |
 | 5:15 PM | The [President](https://www.donaldjtrump.com/) and The First Lady participate in a Post-Dinner Program [10:15 PM Local]<br />[Windsor Castle](https://www.royal.uk/royal-residences-windsor-castle), [Berkshire](https://www.bbc.com/news/england/berkshire), [England, United Kingdom](https://www.gov.uk/) Out-of-Town Travel Pool |
-| | **Tuesday, September 16 2025** |
+| | **Tuesday, September 16, 2025** |
 | 7:25 AM | Out-of-Town Travel Pool Call Time<br />[Joint Base Andrews (ADW)](https://www.jba.af.mil/) Out-of-Town Travel Pool |
 | 7:45 AM | In-Town Pool Call Time<br />The [White House](https://www.whitehouse.gov/) In-Town Pool |
 | 8:30 AM | The [President](https://www.donaldjtrump.com/) and The First Lady depart The [White House](https://www.whitehouse.gov/) en route [London](https://www.london.gov.uk/), [United Kingdom](https://www.gov.uk/) [9:34 AM Actual to [Joint Base Andrews (ADW)](https://www.jba.af.mil/)<br />The [White House](https://www.whitehouse.gov/) Open Press |
@@ -652,7 +652,7 @@ toc: true
 | 4:55 PM | The [President](https://www.donaldjtrump.com/) and the First Lady arrive at [Winfield House](https://uk.usembassy.gov/) in [London](https://www.london.gov.uk/) [9:55 PM Local] |
 | 4:55 PM | [White House](https://www.whitehouse.gov/) Press Office: Full lid called [9:55 PM Local]<br />[Winfield House](https://uk.usembassy.gov/), [London](https://www.london.gov.uk/) Out-of-Town Travel Pool |
 | | 🔥 [White House](https://www.whitehouse.gov/) 💣|
-| | **Sunday, September 14 2025** |
+| | **Sunday, September 14, 2025** |
 | ⛳️🏌‍♂️| The [President](https://www.donaldjtrump.com/) ~~has no public events scheduled~~ (other than playing golf ⛳️🏌)<br /> Out-of-Town Travel Pool |
 | 10:00 AM ⛳️| Out-of-Town Travel Pool Call Time<br />Out-of-Town Travel Pool |
 | 3:00 PM ⛳️| Out-of-Town Travel Pool Call Time<br />Out-of-Town Travel Pool |
@@ -664,7 +664,7 @@ toc: true
 | 9:36 AM ⛳️| [White House](https://www.whitehouse.gov/) Press Office: Full lid called<br />[Trump National Golf Club Bedminster](https://www.trumpnationalbedminster.com/) |
 | 10:00 AM ⛳️| Out-of-Town Travel Pool Call Time<br />[Trump National Golf Club Bedminster](https://www.trumpnationalbedminster.com/)<br />Out-of-Town Travel Pool |
 | 11:00 AM ⚾️| The [President](https://www.donaldjtrump.com/) golfs with Rob Schmitt of [Newsmin](https://www.newsmax.com/) [Note: Time is estimated. No exact time provided]<br />[Trump National Golf Club Bedminster](https://www.trumpnationalbedminster.com/) |
-| | **Friday, September 12 2025** |
+| | **Friday, September 12, 2025** |
 | TBD | Dinner with Steve Witkoff and Mohammed bin Abdulrahman Al Thani, Prime Minister of [Qatar](https://hukoomi.gov.qa/)<br />[Trump Tower](https://www.trumphotels.com/central-park) |
 | 5:50 AM | Out-of-Town Travel Pool Call Time<br />[Trump Tower](https://www.trumphotels.com/central-park) Out-of-Town Travel Pool |
 | 7:47 AM | The [President](https://www.donaldjtrump.com/) departs [Trump Tower](https://www.trumphotels.com/central-park) for a [Faux & Friends](https://www.foxnews.com/shows/fox-and-friends) interview<br />[Trump Tower](https://www.trumphotels.com/central-park) |
@@ -675,7 +675,7 @@ toc: true
 | 9:17 AM | [White House](https://www.whitehouse.gov/) Press Office: Lunch lid until 5:00 PM<br />[Trump Tower](https://www.trumphotels.com/central-park) |
 | 9:40 PM ⛳️| The [President](https://www.donaldjtrump.com/) departs [New York](https://www.nyc.gov/), [New York](https://www.ny.gov/), en route [Trump National Golf Club Bedminster](https://www.trumpnationalbedminster.com/)<br />[Trump Tower](https://www.trumphotels.com/central-park) Out-of-Town Travel Pool |
 | 10:10 PM ⛳️| The [President](https://www.donaldjtrump.com/) arrives [Trump National Golf Club Bedminster](https://www.trumpnationalbedminster.com/)<br />[Trump National Golf Club Bedminster](https://www.trumpnationalbedminster.com/) Closed Press |
-| | **Thursday, September 11 2025** |
+| | **Thursday, September 11, 2025** |
 | 7:30 AM | In-Town Pool Call Time<br />The [White House](https://www.whitehouse.gov/) In-Town Pool |
 | 8:37 AM | The [President](https://www.donaldjtrump.com/) and the First Lady depart the [White House](https://www.whitehouse.gov/) for The [Pentagon](https://www.defense.gov/)<br />The [White House](https://www.whitehouse.gov/) In-Town Pool |
 | 8:45 AM | The [President](https://www.donaldjtrump.com/) and the First Lady attend a September 11th Observance Event [Actual: 9:02 AM]<br />The [Pentagon](https://www.defense.gov/) Out-of-Town Travel Pool |
@@ -697,7 +697,7 @@ toc: true
 | 9:54 PM ⚾️| The [President](https://www.donaldjtrump.com/) departs [Yankees Stadium](https://www.mlb.com/yankees/ballpark) for [Trump Tower](https://www.trumphotels.com/central-park)<br />[Yankees Stadium](https://www.mlb.com/yankees/ballpark), [Bronx](https://bronxboropres.nyc.gov/), [NY](https://www.ny.gov/) |
 | 10:12 PM | The [President](https://www.donaldjtrump.com/) arrives at [Trump Tower](https://www.trumphotels.com/central-park)<br />[Trump Tower](https://www.trumphotels.com/central-park) |
 | 10:15 PM | [White House](https://www.whitehouse.gov/) Press Office: Full lid called<br />[Trump Tower](https://www.trumphotels.com/central-park) |
-| | **Sunday, September 7 2025** |
+| | **Sunday, September 7, 2025** |
 | 10:50 AM | Out-of-Town Travel Pool Call Time<br />[Joint Base Andrews (ADW)](https://www.jba.af.mil/) Out-of-Town Travel Pool |
 | 11:15 AM | In-Town Pool Call Time<br />The [White House](https://www.whitehouse.gov/) In-Town Pool |
 | 11:45 AM | The [President](https://www.donaldjtrump.com/) departs the [White House](https://www.whitehouse.gov/) en route [Queens](https://www.ny.gov/counties/queens), [New York](https://www.ny.gov/) [12:07 PM Actual]<br />[South Lawn](https://www.whitehouse.gov/) Open Press |
@@ -717,7 +717,7 @@ toc: true
 | 7:10 PM | The [President](https://www.donaldjtrump.com/) arrives The [White House](https://www.whitehouse.gov/) [7:45 PM Actual]<br />[South Lawn](https://www.whitehouse.gov/) Open Press |
 | 7:18 PM | The [President](https://www.donaldjtrump.com/) departs [Joint Base Andrews (ADW)](https://www.jba.af.mil/) for The [White House](https://www.whitehouse.gov/)<br />[Joint Base Andrews (ADW)](https://www.jba.af.mil/) |
 | 7:53 PM | [White House](https://www.whitehouse.gov/) Press Office: Full lid called<br />The [White House](https://www.whitehouse.gov/) |
-| | **Saturday, September 6 2025** |
+| | **Saturday, September 6, 2025** |
 | ⛳️🏌‍♂️| The [President](https://www.donaldjtrump.com/) ~~has no public events scheduled~~ (other than playing golf ⛳️🏌)<br />The [White House](https://www.whitehouse.gov/) |
 | 8:00 AM | In-Town Pool Call Time<br />The [White House](https://www.whitehouse.gov/) In-Town Pool |
 | 9:21 AM ⛳️| The [President](https://www.donaldjtrump.com/) departs the [White House](https://www.whitehouse.gov/) for his golf club<br />The [White House](https://www.whitehouse.gov/) |
@@ -726,7 +726,7 @@ toc: true
 | 4:25 PM | The [President](https://www.donaldjtrump.com/) arrives at the [White House](https://www.whitehouse.gov/)<br />The [White House](https://www.whitehouse.gov/) |
 | 4:25 PM | [White House](https://www.whitehouse.gov/) Press Office: Full lid called<br />The [White House](https://www.whitehouse.gov/) |
 | | 🔥 [White House](https://www.whitehouse.gov/) 💣|
-| | **Monday, September 1 2025** |
+| | **Monday, September 1, 2025** |
 | ⛳️🏌‍♂️| The [President](https://www.donaldjtrump.com/) ~~has no public events scheduled~~ (other than playing golf ⛳️🏌)<br />The [White House](https://www.whitehouse.gov/) |
 | 8:00 AM | In-Town Pool Call Time<br />The [White House](https://www.whitehouse.gov/) In-Town Pool |
 | 8:50 AM ⛳️| The [President](https://www.donaldjtrump.com/) departs the [White House](https://www.whitehouse.gov/) for his golf club<br />The [White House](https://www.whitehouse.gov/) |
@@ -734,7 +734,7 @@ toc: true
 | 3:04 PM ⛳️| The [President](https://www.donaldjtrump.com/) departs [Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/)<br />[Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/) |
 | 3:37 PM | The [President](https://www.donaldjtrump.com/) arrives at the [White House](https://www.whitehouse.gov/)<br />The [White House](https://www.whitehouse.gov/) |
 | 3:39 PM | [White House](https://www.whitehouse.gov/) Press Office: Full lid called<br />The [White House](https://www.whitehouse.gov/) |
-| | **Sunday, August 31 2025** |
+| | **Sunday, August 31, 2025** |
 | ⛳️🏌‍♂️| The [President](https://www.donaldjtrump.com/) ~~has no public events scheduled~~ (other than playing golf ⛳️🏌)<br />The [White House](https://www.whitehouse.gov/) |
 | 8:00 AM | In-Town Pool Call Time<br />The [White House](https://www.whitehouse.gov/) In-Town Pool |
 | 9:27 AM | The [President](https://www.donaldjtrump.com/) departs the [White House](https://www.whitehouse.gov/) for his golf club<br />The [White House](https://www.whitehouse.gov/) |
@@ -742,7 +742,7 @@ toc: true
 | 4:10 PM ⛳️| The [President](https://www.donaldjtrump.com/) departs [Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/)<br />[Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/) |
 | 4:44 PM | The [President](https://www.donaldjtrump.com/) arrives at the [White House](https://www.whitehouse.gov/)<br />The [White House](https://www.whitehouse.gov/) |
 | 4:48 PM | [White House](https://www.whitehouse.gov/) Press Office: Full lid called<br />The [White House](https://www.whitehouse.gov/) |
-| | **Saturday, August 30 2025** |
+| | **Saturday, August 30, 2025** |
 | ⛳️🏌‍♂️| The [President](https://www.donaldjtrump.com/) ~~has no public events scheduled~~ (other than playing golf ⛳️🏌)<br />The [White House](https://www.whitehouse.gov/) |
 | 8:00 AM | In-Town Pool Call Time<br />The [White House](https://www.whitehouse.gov/) In-Town Pool |
 | 8:45 AM ⛳️| The [President](https://www.donaldjtrump.com/) departs the [White House](https://www.whitehouse.gov/) for his golf club with two grandchildren<br />The [White House](https://www.whitehouse.gov/) |
@@ -752,19 +752,19 @@ toc: true
 | 3:06 PM | The [President](https://www.donaldjtrump.com/) arrives at the [White House](https://www.whitehouse.gov/)<br />The [White House](https://www.whitehouse.gov/) |
 | 3:35 PM | [White House](https://www.whitehouse.gov/) Press Office: Full lid called<br />The [White House](https://www.whitehouse.gov/) |
 | | 🔥 [White House](https://www.whitehouse.gov/) 💣|
-| | **Sunday, August 24 2025** |
+| | **Sunday, August 24, 2025** |
 | ⛳️🏌‍♂️| The [President](https://www.donaldjtrump.com/) ~~has no public events scheduled~~ (other than playing golf ⛳️🏌)<br />The [White House](https://www.whitehouse.gov/) |
 | 8:00 AM | In-Town Pool Call Time<br />The [White House](https://www.whitehouse.gov/) In-Town Pool |
 | 9:39 AM ⛳️| The [President](https://www.donaldjtrump.com/) departs the [White House](https://www.whitehouse.gov/) for [Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/)<br />The [White House](https://www.whitehouse.gov/) |
 | 10:14 AM ⛳️| The [President](https://www.donaldjtrump.com/) arrives at [Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/)<br />[Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/) |
-| | **Saturday, August 23 2025** |
+| | **Saturday, August 23, 2025** |
 | ⛳️🏌‍♂️| The [President](https://www.donaldjtrump.com/) ~~has no public events scheduled~~ (other than playing golf ⛳️🏌)<br />The [White House](https://www.whitehouse.gov/) |
 | 8:15 AM | In-Town Pool Call Time<br />The [White House](https://www.whitehouse.gov/) In-Town Pool |
 | 9:05 AM ⛳️| The [President](https://www.donaldjtrump.com/) departs the [White House](https://www.whitehouse.gov/) for [Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/)<br />The [White House](https://www.whitehouse.gov/) |
 | 9:39 AM ⛳️| The [President](https://www.donaldjtrump.com/) arrives at [Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/)<br />[Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/) |
 | 4:21 PM ⛳️| The [President](https://www.donaldjtrump.com/) departs [Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/)<br />[Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/) |
 | | 🔥 [White House](https://www.whitehouse.gov/) 💣|
-| | **Sunday, August 17 2025** |
+| | **Sunday, August 17, 2025** |
 | ⛳️🏌‍♂️| The [President](https://www.donaldjtrump.com/) ~~has no public events scheduled~~ (other than playing golf ⛳️🏌)<br />The [White House](https://www.whitehouse.gov/) |
 | 8:00 AM | In-Town Pool Call Time<br />The [White House](https://www.whitehouse.gov/)<br />In-Town Pool |
 | 9:45 AM ⛳️| The [President](https://www.donaldjtrump.com/) departs the [White House](https://www.whitehouse.gov/) for his golf club [Trump National Golf Club Washington, D.C.](https://www.trumpnationaldc.com/)<br />The [White House](https://www.whitehouse.gov/) |
@@ -772,7 +772,7 @@ toc: true
 | 3:31 PM ⛳️| The [President](https://www.donaldjtrump.com/) departs [Trump National Golf Club Washington, D.C.](https://www.trumpnationaldc.com/)<br />[Trump National Golf Club Washington, D.C.](https://www.trumpnationaldc.com/) |
 | 4:05 PM | The [President](https://www.donaldjtrump.com/) arrives at the [White House](https://www.whitehouse.gov/)<br />The [White House](https://www.whitehouse.gov/) |
 | 4:05 PM | [White House](https://www.whitehouse.gov/) Press Office: Full lid called<br />The [White House](https://www.whitehouse.gov/) |
-| | **Saturday, August 16 2025** |
+| | **Saturday, August 16, 2025** |
 | 2:00 AM | The [President](https://www.donaldjtrump.com/) arrives at [Joint Base Andrews (ADW)](https://www.jba.af.mil/) from [Joint Base Elmendorf-Richardson (EDF)](https://www.jber.jb.mil/) in [Alaska](https://www.alaska.gov/)<br />[Joint Base Andrews (ADW)](https://www.jba.af.mil/) Out-of-Town Travel Pool |
 | 2:47 AM | The [President](https://www.donaldjtrump.com/) departs [Joint Base Andrews (ADW)](https://www.jba.af.mil/) for the [White House](https://www.whitehouse.gov/)<br />[Joint Base Andrews (ADW)](https://www.jba.af.mil/) Out-of-Town Travel Pool |
 | 3:07 AM | [White House](https://www.whitehouse.gov/) Press Office: Full lid called for [White House](https://www.whitehouse.gov/) In-Town Pool |
@@ -782,7 +782,7 @@ toc: true
 | 11:51 AM | The [President](https://www.donaldjtrump.com/) arrives at [Trump National Golf Club Washington, D.C.](https://www.trumpnationaldc.com/)<br />[Trump National Golf Club Washington, D.C.](https://www.trumpnationaldc.com/) |
 | 4:30 PM ⛳️| The [President](https://www.donaldjtrump.com/) departs [Trump National Golf Club Washington, D.C.](https://www.trumpnationaldc.com/)<br />[Trump National Golf Club Washington, D.C.](https://www.trumpnationaldc.com/) |
 | 5:06 PM | The [President](https://www.donaldjtrump.com/) arrives at the [White House](https://www.whitehouse.gov/)<br />[White House](https://www.whitehouse.gov/) |
-| | **Friday, August 15 2025** |
+| | **Friday, August 15, 2025** |
 | 6:00 AM | Out-of-Town Travel Pool Call Time<br />The [White House](https://www.whitehouse.gov/) Out-of-Town Travel Pool |
 | 6:45 AM | The [President](https://www.donaldjtrump.com/) departs the [White House](https://www.whitehouse.gov/) en route [Anchorage](https://www.cityofanchorage.org/), [Alaska](https://www.alaska.gov/) \[7:32 AM Actual to [JBA](https://www.jba.af.mil/)]<br />The [White House](https://www.whitehouse.gov/) Out-of-Town Travel Pool |
 | 7:53 AM | The [President](https://www.donaldjtrump.com/) arrives at [Joint Base Andrews (ADW)](https://www.jba.af.mil/)<br />[Joint Base Andrews (ADW)](https://www.jba.af.mil/) Out-of-Town Travel Pool |
@@ -794,7 +794,7 @@ toc: true
 | 7:39 PM | The [President](https://www.donaldjtrump.com/) pre-records an interview with [Sean Hannity](https://www.foxnews.com/person/h/sean-hannity)<br />[Joint Base Elmendorf-Richardson (EDF)](https://www.jber.jb.mil/), [Alaska](https://www.alaska.gov/) Out-of-Town Travel Pool |
 | 9:45 PM | The [President](https://www.donaldjtrump.com/) departs [Anchorage](https://www.cityofanchorage.org/), [Alaska](https://www.alaska.gov/) en route The [White House](https://www.whitehouse.gov/) [5:45 PM Local; 4:21 PM Actual]<br />[Joint Base Elmendorf-Richardson (EDF)](https://www.jber.jb.mil/), [Alaska](https://www.alaska.gov/) Out-of-Town Travel Pool |
 | | 🔥 [White House](https://www.whitehouse.gov/) 💣|
-| | **Sunday, August 10 2025** |
+| | **Sunday, August 10, 2025** |
 | ⛳️🏌‍♂️| The [President](https://www.donaldjtrump.com/) ~~has no public events scheduled~~ (other than playing golf ⛳️🏌)<br />The [White House](https://www.whitehouse.gov/) |
 | 8:00 AM | In-Town Pool Call Time<br />The [White House](https://www.whitehouse.gov/) |
 | 9:00 AM ⛳️| The [President](https://www.donaldjtrump.com/) departs the [White House](https://www.whitehouse.gov/) for [Trump National Golf Club Washington, D.C.](https://www.trumpnationaldc.com/)<br />The [White House](https://www.whitehouse.gov/) |
@@ -802,7 +802,7 @@ toc: true
 | 4:03 PM ⛳️| The [President](https://www.donaldjtrump.com/) departs [Trump National Golf Club Washington, D.C.](https://www.trumpnationaldc.com/)<br />[Trump National Golf Club Washington, D.C.](https://www.trumpnationaldc.com/) |
 | 4:36 PM | The [President](https://www.donaldjtrump.com/) arrives at the [White House](https://www.whitehouse.gov/)<br />[White House](https://www.whitehouse.gov/) |
 | 4:50 PM | [White House](https://www.whitehouse.gov/) Press Office: Full lid called<br />[White House](https://www.whitehouse.gov/) |
-| | **Saturday, August 9 2025** |
+| | **Saturday, August 9, 2025** |
 | ⛳️🏌‍♂️| The [President](https://www.donaldjtrump.com/) ~~has no public events scheduled~~ (other than playing golf with [Lindsey Graham (T-SC)](https://www.lgraham.senate.gov/) ⛳️🏌)<br />The [White House](https://www.whitehouse.gov/) |
 | 8:00 AM | In-Town Pool Call Time<br />The [White House](https://www.whitehouse.gov/) |
 | 8:23 AM ⛳️| The [President](https://www.donaldjtrump.com/) departs the [White House](https://www.whitehouse.gov/) for [Trump National Golf Club Washington, D.C.](https://www.trumpnationaldc.com/)<br />The [White House](https://www.whitehouse.gov/) |
@@ -811,7 +811,7 @@ toc: true
 | 4:20 PM | The [President](https://www.donaldjtrump.com/) arrives at the [White House](https://www.whitehouse.gov/)<br />The [White House](https://www.whitehouse.gov/) |
 | 4:55 PM | [White House](https://www.whitehouse.gov/) Press Office: Full lid called<br />The [White House](https://www.whitehouse.gov/) |
 | | 🔥 [White House](https://www.whitehouse.gov/) 💣|
-| | **Sunday, August 3 2025** |
+| | **Sunday, August 3, 2025** |
 | 2:30 PM ⛳️| Out-of-Town Travel Pool Call Time<br />[Trump National Golf Club Bedminster](https://www.trumpnationalbedminster.com/) Out-of-Town Travel Pool |
 | 5:00 PM ⛳️| Out-of-Town Travel Pool Call Time<br />[Trump National Golf Club Bedminster](https://www.trumpnationalbedminster.com/) Out-of-Town Travel Pool |
 | 6:40 PM | The [President](https://www.donaldjtrump.com/) arrives The [White House](https://www.whitehouse.gov/)<br />The [White House](https://www.whitehouse.gov/) Open Press |
@@ -822,17 +822,17 @@ toc: true
 | 8:49 PM | The [President](https://www.donaldjtrump.com/) arrives at [Joint Base Andrews (ADW)](https://www.jba.af.mil/)<br />[Lehigh Valley International Airport (ABE)](https://www.flyabe.com/), [Allentown](https://www.allentownpa.gov/en-us/), [PA](https://www.pa.gov/) Open Press |
 | 9:08 PM | The [President](https://www.donaldjtrump.com/) departs [Joint Base Andrews (ADW)](https://www.jba.af.mil/) for the [White House](https://www.whitehouse.gov/)<br />[Lehigh Valley International Airport (ABE)](https://www.flyabe.com/)t, [Allentown](https://www.allentownpa.gov/en-us/), [PA](https://www.pa.gov/) Open Press |
 | 9:10 PM | The [President](https://www.donaldjtrump.com/) arrives The [White House](https://www.whitehouse.gov/) [9:17 PM Actual]<br />[South Lawn](https://www.whitehouse.gov/) Open Press |
-| | **Saturday, August 2 2025** |
+| | **Saturday, August 2, 2025** |
 | 🏌‍♂️⛳️| The [President](https://www.donaldjtrump.com/) ~~has no public events scheduled~~ (other than playing golf ⛳️🏌)<br />Out-of-Town Travel Pool<br />[Trump National Golf Club Bedminster](https://www.trumpnationalbedminster.com/) |
 | 10:00 AM | Out-of-Town Travel Pool Call Time<br />Out-of-Town Travel Pool |
-| | **Friday, August 1 2025** |
+| | **Friday, August 1, 2025** |
 | 9:00 AM | In-Town Pool Call Time<br />In-Town Pool |
 | 11:00 AM | The [President](https://www.donaldjtrump.com/) receives his Intelligence Briefing<br />[Cabinet Room](https://www.whitehouse.gov/) Closed Press |
 | 2:40 PM | Out-of-Town Travel Pool Call Time<br />Out-of-Town Travel Pool |
 | 4:00 PM | The [President](https://www.donaldjtrump.com/) departs The [White House](https://www.whitehouse.gov/) en route [Bedminster, New Jersey](https://www.trumpnationalbedminster.com/)<br />[Trump National Golf Club Bedminster](https://www.trumpnationalbedminster.com/) <br />The [White House](https://www.whitehouse.gov/) Open Press |
 | 5:40 PM ⛳️| The [President](https://www.donaldjtrump.com/) arrives [Bedminster, New Jersey](https://www.trumpnationalbedminster.com/)<br />[Trump National Golf Club Bedminster](https://www.trumpnationalbedminster.com/) Out-of-Town Travel Pool<br />Out-of-Town Travel Pool |
 | | 🔥 [White House](https://www.whitehouse.gov/) 💣|
-| | **Tuesday, July 29 2025** |
+| | **Tuesday, July 29, 2025** |
 | 12:45 AM ⛳️| Out-of-Town Travel Pool Call Time [5:45 AM Local]<br />[Trump International Golf Links Aberdeen](https://www.trumpgolfscotland.com/) |
 | 5:00 AM ⛳️| The [President](https://www.donaldjtrump.com/) participates in the Grand Opening Ceremony of [Trump International Golf Links Aberdeen](https://www.trumpgolfscotland.com/) [10:00 AM Local]<br />[Trump International Golf Links Aberdeen](https://www.trumpgolfscotland.com/) Pre-Credentialed Media |
 | 11:00 AM | The [President](https://www.donaldjtrump.com/) departs [Aberdeen](https://www.aberdeencity.gov.uk/), [Scotland](https://www.gov.scot/), en route The [White House](https://www.whitehouse.gov/) [4:00 PM Local]<br />[RAF Lossiemouth](https://www.raf.mod.uk/our-organisation/stations/raf-lossiemouth/), [Scotland](https://www.gov.scot/), [United Kingdom](https://www.gov.uk/) Out-of-Town Travel Pool |
@@ -841,7 +841,7 @@ toc: true
 | 6:00 PM | In-Town Pool Call Time<br />The [White House](https://www.whitehouse.gov/)<br />In-Town Pool |
 | *7:00 PM* | The [President](https://www.donaldjtrump.com/) departs [Joint Base Andrews (ADW)](https://www.jba.af.mil/) for the [White House](https://www.whitehouse.gov/)<br />[Joint Base Andrews (ADW)](https://www.jba.af.mil/) |
 | 7:20 PM | The [President](https://www.donaldjtrump.com/) arrives The [White House](https://www.whitehouse.gov/)<br />The [White House](https://www.whitehouse.gov/) Open Press |
-| | **Monday, July 28 2025** |
+| | **Monday, July 28, 2025** |
 | 3:15 AM | Out-of-Town Travel Pool Call Time [8:15 AM Local]<br />[Trump Turnberry](https://www.turnberry.co.uk/), Girvan, [Scotland](https://www.gov.scot/) Out-of-Town Travel Pool |
 | 7:00 AM 💰| The [President](https://www.donaldjtrump.com/) greets the [Prime Minister of the United Kingdom of Great Britain and Northern Ireland](https://www.gov.uk/government/people/keir-starmer) [12:00 PM Local; 12:38 PM Actual]<br />[Trump Turnberry](https://www.turnberry.co.uk/), Girvan, [Scotland](https://www.gov.scot/) Out-of-Town Travel Pool |
 | 7:30 AM 💰| The [President](https://www.donaldjtrump.com/) participates in a Bilateral Meeting with the [Prime Minister of the United Kingdom of Great Britain and Northern Ireland](https://www.gov.uk/government/people/keir-starmer) [12:30 PM Local; 1:53 PM Actual]<br />[Trump Turnberry](https://www.turnberry.co.uk/), Girvan, [Scotland](https://www.gov.scot/) Out-of-Town Travel Pool |
@@ -852,18 +852,18 @@ toc: true
 | 12:46 PM | The [President](https://www.donaldjtrump.com/) arrives at [RAF Lossiemouth](https://www.raf.mod.uk/our-organisation/stations/raf-lossiemouth/), [United Kingdom](https://www.gov.uk/) [5:46 PM Local]<br />[RAF Lossiemouth](https://www.raf.mod.uk/our-organisation/stations/raf-lossiemouth/), [Scotland](https://www.gov.scot/), [United Kingdom](https://www.gov.uk/) Out-of-Town Travel Pool |
 | 1:01 PM ⛳️| The [President](https://www.donaldjtrump.com/) departs [RAF Lossiemouth](https://www.raf.mod.uk/our-organisation/stations/raf-lossiemouth/) for [Trump International Golf Links Aberdeen](https://www.trumpgolfscotland.com/) [6:01 PM Local]<br />[RAF Lossiemouth](https://www.raf.mod.uk/our-organisation/stations/raf-lossiemouth/), [Scotland](https://www.gov.scot/), [United Kingdom](https://www.gov.uk/) Out-of-Town Travel Pool |
 | 2:36 PM ⛳️| [White House](https://www.whitehouse.gov/) Press Office: Full lid called [7:36 PM Local]<br />[Trump International Golf Links Aberdeen](https://www.trumpgolfscotland.com/) |
-| | **Sunday, July 27 2025** |
+| | **Sunday, July 27, 2025** |
 | ⛳️| The [President](https://www.donaldjtrump.com/) plays golf with [Eric Trump](https://www.linkedin.com/in/erictrump/). No timeframe was provided.<br />[Trump Turnberry](https://www.turnberry.co.uk/), Girvan, [Scotland](https://www.gov.scot/) Out-of-Town Travel Pool |
 | 6:45 AM | Out-of-Town Travel Pool Call Time [11:45 AM Local]<br />[Trump Turnberry](https://www.turnberry.co.uk/), Girvan, [Scotland](https://www.gov.scot/) Out-of-Town Travel Pool |
 | 11:30 AM 💰| The [President](https://www.donaldjtrump.com/) meets with the [President of the European Commission, Ursula von der Leyen](https://commission.europa.eu/about/organisation/president_en) [4:30 PM Local]<br />[Trump Turnberry](https://www.turnberry.co.uk/), Girvan, [Scotland](https://www.gov.scot/) Out-of-Town Travel Pool |
 | 1:26 PM 💰| The [President](https://www.donaldjtrump.com/) announces a trade deal with the [European Union](https://commission.europa.eu/about/organisation_en) [6:26 PM Local]<br />[Trump Turnberry](https://www.turnberry.co.uk/), Girvan, [Scotland](https://www.gov.scot/) Out-of-Town Travel Pool |
 | 2:36 PM | [White House](https://www.whitehouse.gov/) Press Office: Full lid called [7:36 PM Local]<br />[Trump Turnberry](https://www.turnberry.co.uk/), Girvan, [Scotland](https://www.gov.scot/) |
-| | **Saturday, July 26 2025** |
+| | **Saturday, July 26, 2025** |
 | 🏌‍♂️⛳️| The [President](https://www.donaldjtrump.https://www.aberdeencity.gov.uk/com/) ~~has no public events scheduled~~ play golf 🏌‍♂️. [Trump Turnberry](https://www.turnberry.co.uk/), Girvan, [Scotland](https://www.gov.scot/) Out-of-Town Travel Pool |
 | 🏌‍♂️⛳️ | The [President](https://www.donaldjtrump.com/) plays golf with [Eric Trump](https://www.linkedin.com/in/erictrump/), [Warren Stephens](https://uk.usembassy.gov/ambassador/) and Warren Stephens' son. No timeframe was provided.<br />[Trump Turnberry](https://www.turnberry.co.uk/), Girvan, [Scotland](https://www.gov.scot/) Out-of-Town Travel Pool |
 | 4:05 AM | [White House](https://www.whitehouse.gov/) Press Office: Full lid called [9:05 AM Local]<br />[Trump Turnberry](https://www.turnberry.co.uk/), Girvan, [Scotland](https://www.gov.scot/) |
 | 5:00 AM | Out-of-Town Travel Pool Call Time [10:00 AM Local]<br />[Trump Turnberry](https://www.turnberry.co.uk/), Girvan, [Scotland](https://www.gov.scot/) Out-of-Town Travel Pool |
-| | **Friday, July 25 2025** |
+| | **Friday, July 25, 2025** |
 | 7:00 AM | Out-of-Town Travel Pool Call Time<br />[Joint Base Andrews (ADW)](https://www.whitehouse.gov/) Out-of-Town Travel Pool |
 | 7:30 AM | In-Town Pool Call Time<br />The [White House](https://www.whitehouse.gov/) In-Town Pool |
 | 8:00 AM | The [President](https://www.donaldjtrump.com/) departs the [White House](https://www.whitehouse.gov/) en route Turnberry, [Scotland](https://www.gov.scot/) \[9:24 AM Actual to [Joint Base Andrews (ADW)](https://www.whitehouse.gov/)]<br />The [White House](https://www.whitehouse.gov/) Open Press |
@@ -873,7 +873,7 @@ toc: true
 | 3:26 PM | The [President](https://www.donaldjtrump.com/) arrives at [Glasgow Prestwick Airport (PIK)](https://www.glasgowprestwick.com/), [Scotland](https://www.gov.scot/), [United Kingdom](https://www.gov.uk/) [8:26 PM Local]<br />[Glasgow Prestwick Airport (PIK)](https://www.glasgowprestwick.com/), [Glasgow](https://www.cityofglasgow.co.uk/), [Scotland](https://www.gov.scot/), [United Kingdom](https://www.gov.uk/) Open Press |
 | 3:53 PM ⛳️| The [President](https://www.donaldjtrump.com/) departs [Glasgow Prestwick Airport (PIK)](https://www.glasgowprestwick.com/), [Scotland](https://www.gov.scot/), [United Kingdom](https://www.gov.uk/) for [Trump Turnberry](https://www.turnberry.co.uk/) [8:53 PM Local]<br />[Glasgow Prestwick Airport (PIK)](https://www.glasgowprestwick.com/), [Glasgow](https://www.cityofglasgow.co.uk/), [Scotland](https://www.gov.scot/), [United Kingdom](https://www.gov.uk/) Open Press |
 | 7:34 PM | [White House](https://www.whitehouse.gov/) Press Office: Full lid called [9:34 PM Local]<br />[Trump Turnberry](https://www.turnberry.co.uk/), Girvan, [Scotland](https://www.gov.scot/) |
-| | **Thursday, July 24 2025** |
+| | **Thursday, July 24, 2025** |
 | | @RalphHightower: I included Thursday because [Trump](https://www.donaldjtrump.com/) visiting [Powell](https://www.federalreserve.gov/aboutthefed/bios/board/powell.htm) is unprecedented. [Trump](https://www.donaldjtrump.com/) tried his ambush tactic on the renovation costs, but [Powell fact-checked Trump in real-time]({% link _posts/2025/07/2025-07-25-FedChairFactChecksTrumpRealtime.md %}) |
 | 9:00 AM | In-Town Pool Call Time<br />The [White House](https://www.whitehouse.gov/) In-Town Pool |
 | 11:15 AM | [White House](https://www.whitehouse.gov/) Press Office: Lunch lid until 12:00 PM<br />The [White House](https://www.whitehouse.gov/) |
@@ -895,7 +895,7 @@ toc: true
 | 3:22 PM ⛳️| The [President](https://www.donaldjtrump.com/) departs [Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/)<br />[Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/) |
 | 3:58 PM | The [President](https://www.donaldjtrump.com/) arrives at the [White House](https://www.whitehouse.gov/)<br />The [White House](https://www.whitehouse.gov/) |
 | 4:01 PM | [White House](https://www.whitehouse.gov/) Press Office: Full lid called<br />The [White House](https://www.whitehouse.gov/) |
-| | **Saturday, July 19 2025** |
+| | **Saturday, July 19, 2025** |
 | | ⛳️🏌‍♂️[Donnie](https://www.donaldjtrump.com/) ~~has no public events scheduled~~plays golf🏌‍♂️at his [Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/)<br />The [White House](https://www.whitehouse.gov/) |
 | 7:30 AM | In-Town Pool Call Time<br />The [White House](https://www.whitehouse.gov/) In-Town Pool |
 | 7:45 AM | In-Town Pool Call Time<br />In-Town Pool |
@@ -914,7 +914,7 @@ toc: true
 7:00 PM | The [President](https://www.donaldjtrump.com/) participates in a Dinner with [Trumpian](https://www.gop.com/) [Senators](https://www.whitehouse.gov/)<br />[State Dining Room](https://www.whitehouse.gov/) Closed Press |
 | 08:30 PM EDT | [Donnie](https://www.donaldjtrump.com/) arrives at [Camp David](https://ndw.cnic.navy.mil/Installations/NSF-Thurmont/) |
 | | 🔥 [White House](https://www.whitehouse.gov/) 💣|
-| | **Tuesday, July 15 2025** |
+| | **Tuesday, July 15, 2025** |
 | 9:00 AM | In-Town Pool Call Time<br />The [White House](https://www.whitehouse.gov/) In-Town Pool |
 | 11:15 AM | Out-of-Town Travel Pool Call Time<br />[Joint Base Andrews (ADW)](https://www.jba.af.mil/) Out-of-Town Travel Pool |
 | 11:30 AM | The [Secret Service](https://www.secretservice.gov/) orders a lockdown of the [White House](https://www.whitehouse.gov/) campus<br />The [White House](https://www.whitehouse.gov/) Open Press |
@@ -933,7 +933,7 @@ toc: true
 | 7:00 PM | The [President](https://www.donaldjtrump.com/) departs [Joint Base Andrews (ADW)](https://www.jba.af.mil/) for the [White House](https://www.whitehouse.gov/)<br />[Joint Base Andrews (ADW)](https://www.jba.af.mil/) |
 | 7:22 PM | [White House](https://www.whitehouse.gov/) Press Office: Full lid called<br />The [White House](https://www.whitehouse.gov/) |
 | | 🔥 [White House](https://www.whitehouse.gov/) 💣|
-| | **Sunday, July 13 2025** |
+| | **Sunday, July 13, 2025** |
 | 11:30 AM ⛳️| Out-of-Town Travel Pool Call Time<br />[Trump National Golf Club Bedminster](https://www.trumpnationalbedminster.com/) Out-of-Town Travel Pool |
 | 1:40 PM | The [President](https://www.donaldjtrump.com/) and The First Lady depart [Trump National Golf Club Bedminster](https://www.trumpnationalbedminster.com/), en route [East Rutherford, New Jersey](https://www.eastrutherfordnj.net/) \[Actual to [Teterboro Airport (PEB)](https://www.panynj.gov/airports/en/teterboro.html)\]<br />[Trump National Golf Club Bedminster](https://www.trumpnationalbedminster.com/) Closed Press |
 | 2:16 PM | The [President](https://www.donaldjtrump.com/) and the First Lady arrive at [Teterboro Airport (PEB)](https://www.panynj.gov/airports/en/teterboro.html)<br />[Teterboro Airport (PEB)](https://www.panynj.gov/airports/en/teterboro.html), [Teterboro, New Jersey](https://www.teterboronj.org/) |
@@ -942,10 +942,10 @@ toc: true
 | 7:25 PM | The [President](https://www.donaldjtrump.com/) departs [East Rutherford, New Jersey](https://www.eastrutherfordnj.net/), en route The [White House](https://www.whitehouse.gov/)<br />[MetLife Stadium](https://www.metlifestadium.com/), [East Rutherford, New Jersey](https://www.eastrutherfordnj.net/) Out-of-Town Travel Pool |
 | 7:30 PM | In-Town Pool Call Time<br />The [White House](https://www.whitehouse.gov/) In-Town Pool |
 | 8:30 PM | The [President](https://www.donaldjtrump.com/) arrives The [White House](https://www.whitehouse.gov/)<br />The [White House](https://www.whitehouse.gov/) Open Press |
-| | **Saturday, July 12 2025** |
+| | **Saturday, July 12, 2025** |
 | ⛳️| [Donnie](https://www.donaldjtrump.com/) ~~has no public events scheduled~~plays golf🏌‍♂️<br />[Trump National Golf Club Bedminster](https://www.trumpnationalbedminster.com/) Out-of-Town Travel Pool |
 | 11:00 AM ⛳️| Out-of-Town Travel Pool Call Time<br />[Trump National Golf Club Bedminster](https://www.trumpnationalbedminster.com/) Out-of-Town Travel Pool |
-| | **Friday, July 11 2025** |M
+| | **Friday, July 11, 2025** |M
 | 8:00 AM | In-Town Pool Call Time<br />The [White House](https://www.whitehouse.gov/) In-Town Pool |
 | 8:25 AM | Out-of-Town Travel Pool Call Time<br />[Joint Base Andrews (ADW)](https://www.jba.af.mil/) Out-of-Town Travel Pool |
 | 8:48 AM | Russell Vought briefs reporters at The Sticks<br />The Sticks - The [White House](https://www.whitehouse.gov/) |
@@ -960,7 +960,7 @@ toc: true
 | 3:15 PM | The [President](https://www.donaldjtrump.com/) and The First Lady depart [Kerrville](https://www.kerrvilletx.gov/), [Texas](https://www.texas.gov/), en route [Bedminster, New Jersey](https://www.trumpnationalbedminster.com/) [2:15 PM Local]<br />[Kerrville Municipal Airport (ERV)](https://www.kerrvilletx.gov/1765/Airport), [Kerrville](https://www.kerrvilletx.gov/), [Kerrville](https://www.kerrvilletx.gov/), [Texas](https://www.texas.gov/) Out-of-Town Travel Pool |
 | 8:45 PM | The [President](https://www.donaldjtrump.com/) and The First Lady arrive [Bedminster, New Jersey](https://www.trumpnationalbedminster.com/)<br />[Trump National Golf Club Bedminster](https://www.trumpnationalbedminster.com/) Out-of-Town Travel Pool |
 | | 🔥 [White House](https://www.whitehouse.gov/) 💣|
-| | **Sunday, July 6 2025** |
+| | **Sunday, July 6, 2025** |
 | 3:00 PM ⛳️| Out-of-Town Travel Pool Call Time<br />[Trump National Golf Club Bedminster](https://www.trumpnationalbedminster.com/) Out-of-Town Travel Pool |
 | 5:00 PM | The [President](https://www.donaldjtrump.com/) departs [Bedminster, New Jersey](https://www.trumpnationalbedminster.com/) en route Washington, D.C. \[5:11 PM Actual to [Morristown Municipal Airport (MMU)](https://www.mmuair.com/)\]<br />[Trump National Golf Club Bedminster](https://www.trumpnationalbedminster.com/) Out-of-Town Travel Pool |
 | 5:20 PM | The [President](https://www.donaldjtrump.com/) arrives at [Morristown Municipal Airport (MMU)](https://www.mmuair.com/)<br />[Morristown Municipal Airport (MMU)](https://www.mmuair.com/) |
@@ -970,11 +970,11 @@ toc: true
 | 6:30 PM | The [President](https://www.donaldjtrump.com/) arrives the [White House](https://www.whitehouse.gov/) [6:46 PM Actual]<br />The [White House](https://www.whitehouse.gov/) Open Press |
 | 6:37 PM | The [President](https://www.donaldjtrump.com/) departs [Joint Base Andrews (ADW)](https://www.jba.af.mil/) for the [White House](https://www.whitehouse.gov/)<br />[Joint Base Andrews (ADW)](https://www.jba.af.mil/) |
 | 6:57 PM | [White House](https://www.whitehouse.gov/) Press Office: Full lid called<br />The [White House](https://www.whitehouse.gov/) |
-| | **Saturday, July 5 2025** |
+| | **Saturday, July 5, 2025** |
 | ⛳️| The [President](https://www.donaldjtrump.com/) ~~has no public events scheduled~~plays golf🏌‍♂️ (other than playing golf ⛳️🏌)<br />[Trump National Golf Club Bedminster](https://www.trumpnationalbedminster.com/) |
 | 10:47 AM ⛳️| [White House](https://www.whitehouse.gov/) Press Office: Full lid called<br />[Trump National Golf Club Bedminster](https://www.trumpnationalbedminster.com/) |
 | 12:00 PM | Out-of-Town Travel Pool Call Time<br />[Trump National Golf Club Bedminster](https://www.trumpnationalbedminster.com/) Out-of-Town Travel Pool |
-| | **Friday, July 4 2025** |
+| | **Friday, July 4, 2025** |
 | 12:23 AM | The [President](https://www.donaldjtrump.com/) departs [Joint Base Andrews (ADW)](https://www.jba.af.mil/) for the [White House](https://www.whitehouse.gov/)<br />[Joint Base Andrews (ADW)](https://www.jba.af.mil/) Out-of-Town Travel Pool |
 | 12:50 AM | The [President](https://www.donaldjtrump.com/) arrives at the [White House](https://www.whitehouse.gov/) [12:45 AM Actual]<br />The [White House](https://www.whitehouse.gov/) Out-of-Town Travel Pool |
 | 12:56 AM | [White House](https://www.whitehouse.gov/) Press Office: Full lid called for July 3, 2025<br />The [White House](https://www.whitehouse.gov/) In-Town Pool |
@@ -993,7 +993,7 @@ toc: true
 | 11:02 PM | The [President](https://www.donaldjtrump.com/) departs [Morristown Municipal Airport (MMU)](https://www.mmuair.com/) for [Bedminster, New Jersey](https://www.trumpnationalbedminster.com/)<br />[Morristown Municipal Airport (MMU)](https://www.mmuair.com/) |
 | 11:30 PM | The [President](https://www.donaldjtrump.com/) and First Lady arrive [Bedminster, New Jersey](https://www.trumpnationalbedminster.com/) [11:17 PM Actual]<br />[Trump National Golf Club Bedminster](https://www.trumpnationalbedminster.com/) Out-of-Town Travel Pool |
 | 11:34 PM | [White House](https://www.whitehouse.gov/) Press Office: Full lid called<br />[Trump National Golf Club Bedminster](https://www.trumpnationalbedminster.com/) |
-| | **Thursday, July 3 2025** |
+| | **Thursday, July 3, 2025** |
 | 9:00 AM | In-Town Pool Call Time<br />The [White House](https://www.whitehouse.gov/) In-Town Pool |
 | 11:30 AM | The [President](https://www.donaldjtrump.com/) receives his Intelligence Briefing<br />[Oval Office](https://www.whitehouse.gov/) Closed Press |
 | 11:45 AM | [White House](https://www.whitehouse.gov/) Press Office: Lunch lid until 12:30 PM<br />The [White House](https://www.whitehouse.gov/) In-Town Pool |
@@ -1011,14 +1011,14 @@ toc: true
 | 10:15 PM | The [President](https://www.donaldjtrump.com/) departs [Des Moines](https://www.dsm.city/), [Iowa](https://www.iowa.gov/), en route The [White House](https://www.whitehouse.gov/) [9:15 PM Local; 9:11 PM Actual]<br />[Des Moines International Airport (DSM)](https://www.flydsm.com/) Out-of-Town Travel Pool |
 | 11:59 PM | The [President](https://www.donaldjtrump.com/) arrives at [Joint Base Andrews (ADW)](https://www.jba.af.mil/)<br />[Joint Base Andrews (ADW)](https://www.jba.af.mil/) Out-of-Town Travel Pool |
 | | 🔥 [White House](https://www.whitehouse.gov/) 💣|
-| | **Sunday, June 29 2025** |
+| | **Sunday, June 29, 2025** |
 | | [Donnie](https://www.donaldjtrump.com/) ~~has no public events scheduled~~plays golf🏌‍♂️<br />The [White House](https://www.whitehouse.gov/) |
 | 7:45 AM | In-Town Pool Call Time<br />[White House](https://www.whitehouse.gov/) In-Town Pool |
 | 9:28 AM ⛳️| The [President](https://www.donaldjtrump.com/) departs the [White House](https://www.whitehouse.gov/) for [his golf club](https://www.trumpnationaldc.com/)<br />The [White House](https://www.whitehouse.gov/) |
 | 10:00 AM | The [President](https://www.donaldjtrump.com/) is interviewed by [Maria Bartiromo](https://www.foxnews.com/person/b/maria-bartiromo) on [Faux News](https://www.foxnews.com/)' [Sunday Morning Futures](https://www.foxnews.com/shows/sunday-morning-futures)<br />The [White House](https://www.whitehouse.gov/)<br />[White House](https://www.whitehouse.gov/) Press Pool |
 | 10:02 AM ⛳️| The President arrives at [Trump National Golf Club Washington, D.C.](https://www.trumpnationaldc.com/)<br />The [White House](https://www.whitehouse.gov/) |
 | 6:00 PM [^666] | [Trump](https://www.donaldjtrump.com/) leaves his [Trump National Golf Club Washington, D.C.](https://www.trumpnationaldc.com/) for the [White House](https://www.whitehouse.gov/) |
-| | **Saturday, June 28 2025** |
+| | **Saturday, June 28, 2025** |
 | | The [President](https://www.whitehouse.gov/) ~~has no public events scheduled~~plays golf🏌‍♂️<br />The [White House](https://www.whitehouse.gov/) |
 | 7:45 AM | In-Town Pool Call Time<br />The [White House](https://www.whitehouse.gov/) In-Town Pool |
 | 8:24 AM ⛳️| The [President](https://www.whitehouse.gov/) departs the [White House](https://www.whitehouse.gov/) for [his golf club](https://www.trumpnationaldc.com/)<br />The [White House](https://www.whitehouse.gov/) |
@@ -1027,7 +1027,7 @@ toc: true
 | 3:45 PM | The [President](https://www.whitehouse.gov/) arrives at the [White House](https://www.whitehouse.gov/)<br />The [White House](https://www.whitehouse.gov/) |
 | 3:45 PM | [White House](https://www.whitehouse.gov/) Press Office: Full lid called<br />The [White House](https://www.whitehouse.gov/) In-Town Pool |
 | | 🔥 [White House](https://www.whitehouse.gov/) 💣|
-| | **Wednesday, June 25 2025** |
+| | **Wednesday, June 25, 2025** |
 | 2:15 AM | The [President](https://www.donaldjtrump.com/) participates in a Photo Opportunity with the [King](https://www.royal-house.nl/members-royal-house/king-willem-alexander) and [Queen](https://www.royal-house.nl/members-royal-house/queen-maxima) of the [Kingdom of The Netherlands](https://www.royal-house.nl/) [8:15 AM Local]<br />[World Forum](https://worldforum.nl/), [The Hague](https://www.denhaag.nl/nl/), [Netherlands](https://www.government.nl/) Closed Press |
 | 2:25 AM | The [President](https://www.donaldjtrump.com/) participates in a Breakfast with the [King](https://www.royal-house.nl/members-royal-house/king-willem-alexander) and [Queen](https://www.royal-house.nl/members-royal-house/queen-maxima) of the [Kingdom of The Netherlands](https://www.royal-house.nl/) [8:25 AM Local]<br />[World Forum](https://worldforum.nl/), [The Hague](https://www.denhaag.nl/nl/), [Netherlands](https://www.government.nl/) Closed Press |
 | 3:55 AM | The [President](https://www.donaldjtrump.com/) participates in an Official Greeting and Pull-Aside with the [NATO](https://www.nato.int/) [Secretary General](https://www.nato.int/cps/en/natohq/who_is_who_229125.htm) [9:55 AM Local]<br />[World Forum](https://worldforum.nl/), [The Hague](https://www.denhaag.nl/nl/), [Netherlands](https://www.government.nl/) Out-of-Town Travel Pool |
@@ -1038,7 +1038,7 @@ toc: true
 | 10:40 AM | The [President](https://www.donaldjtrump.com/) departs [The Hague](https://www.denhaag.nl/nl/), [Netherlands](https://www.government.nl/) en route The [White House](https://www.whitehouse.gov/) [4:40 PM Local]<br />[World Forum](https://worldforum.nl/), [The Hague](https://www.denhaag.nl/nl/), [Netherlands](https://www.government.nl/) Out-of-Town Travel Pool |
 | 6:00 PM | In-Town Pool Call Time<br />The [White House](https://www.whitehouse.gov/) In-Town Pool |
 | 6:50 PM | The [President](https://www.donaldjtrump.com/) arrives The [White House](https://www.whitehouse.gov/)<br />The [White House](https://www.whitehouse.gov/) Open Press |
-| | **Tuesday, June 24 2025** |
+| | **Tuesday, June 24, 2025** |
 | 4:55 AM | Out-of-Town Pool Call Time<br />[Joint Base Andrews (ADW)](https://www.jba.af.mil/) Out-of-Town Pool |
 | 5:15 AM | In-Town Pool Call Time<br />The [White House](https://www.whitehouse.gov/) In-Town Pool |
 | 6:00 AM | The [President](https://www.donaldjtrump.com/) departs The [White House](https://www.whitehouse.gov/) en route [The Hague](https://www.denhaag.nl/nl/), [Netherlands](https://www.government.nl/) [6:48 AM Actual to [JBA](https://www.jba.af.mil/)]<br />[South Lawn](https://www.whitehouse.gov/) Open Press |
@@ -1050,11 +1050,11 @@ toc: true
 | 2:30 PM | The [President](https://www.donaldjtrump.com/) attends a Social Dinner [8:30 PM Local]<br />[World Forum](https://worldforum.nl/), [The Hague](https://www.denhaag.nl/nl/), [Netherlands](https://www.government.nl/) Out-of-Town Travel Pool |
 | 11:30 PM | Out-of-Town Pool Call Time [5:30 AM Local 6/25]<br />[Royal Palace Huis ten Bosch](https://www.royal-house.nl/), [The Hague](https://www.denhaag.nl/nl/), [Netherlands](https://www.government.nl/) Closed Press |
 | | 🔥 [White House](https://www.whitehouse.gov/) 💣|
-| | **Sunday, June 22 2025** |
+| | **Sunday, June 22, 2025** |
 | | [Donnie](https://www.donaldjtrump.com/) ~~has no public events scheduled~~plays golf🏌‍♂️<br />The [White House](https://www.whitehouse.gov/) In-Town Pool |
 | 9:26 AM | [White House](https://www.whitehouse.gov/) Press Office: Full lid called<br />The [White House](https://www.whitehouse.gov/) In-Town Pool |
 | 10:00 AM | In-Town Pool Call Time<br />The [White House](https://www.whitehouse.gov/) In-Town Pool |
-| | **Saturday, June 21 2025**
+| | **Saturday, June 21, 2025** |
 | 1:20 PM ⛳️| Out-of-Town Travel Pool Call Time<br />[Trump National Golf Club Bedminster](https://www.trumpnationalbedminster.com/) Out-of-Town Travel Pool |
 | 4:20 PM | The [President](https://www.donaldjtrump.com/) departs [Bedminster, New Jersey](https://www.trumpnationalbedminster.com/) en route The [White House](https://www.whitehouse.gov/)<br />[Trump National Golf Club Bedminster](https://www.trumpnationalbedminster.com/) Closed Press |
 | 4:43 PM | The [President](https://www.donaldjtrump.com/) arrives at [Morristown Municipal Airport (MMU)](https://www.mmuair.com/)<br />[Morristown Municipal Airport (MMU)](https://www.mmuair.com/) Closed Press |
@@ -1066,7 +1066,7 @@ toc: true
 | 6:00 PM | The [President](https://www.donaldjtrump.com/) attends a National Security Meeting<br />[Oval Office](https://www.whitehouse.gov/) Closed Press |
 | 10:00 PM | The [President](https://www.donaldjtrump.com/) addresses the nation after Iran air strikes<br />The [White House](https://www.whitehouse.gov/) Open Press |
 | | 🔥 [White House](https://www.whitehouse.gov/) 💣|
-| | **Friday, June 20 2025** |
+| | **Friday, June 20, 2025** |
 | 9:00 AM | In-Town Pool Call Time<br />The [White House](https://www.whitehouse.gov/) In-Town Pool |
 | 11:00 AM | The [President](https://www.donaldjtrump.com/) attends a National Security Meeting<br />[Oval Office](https://www.whitehouse.gov/) Closed Press |
 | 12:04 PM | [White House](https://www.whitehouse.gov/) Press Office: Lunch lid until 1:00 PM<br />The [White House](https://www.whitehouse.gov/) Open Press |
@@ -1079,7 +1079,7 @@ toc: true
 | 4:02 PM ⛳️| [White House](https://www.whitehouse.gov/) Press Office: Full lid called<br />[Trump National Golf Club Bedminster](https://www.trumpnationalbedminster.com/) Open Press |
 | 7:30 PM 💰| The [President](https://www.donaldjtrump.com/) attends a [MAGA Inc.](https://www.magapac.com/) Dinner<br />[Trump National Golf Club Bedminster](https://www.trumpnationalbedminster.com/) Closed Press |
 | | 🔥 [White House](https://www.whitehouse.gov/) 💣|
-| | **Tuesday, June 17 2025** |
+| | **Tuesday, June 17, 2025** |
 | | [Note: No official [White House](https://www.whitehouse.gov/) schedule as of 4:15 PM ET June 17, 2025]<br />The [White House](https://www.whitehouse.gov/) Open Press |
 | 1:01 AM | The [President](https://www.donaldjtrump.com/) arrives at [Calgary International Airport (YYC)](https://www.yyc.com/) [11:01 PM Local 6/16]<br />[Calgary International Airport (YYC)](https://www.yyc.com/), [Alberta](https://www.alberta.ca/), [Canada](https://www.canada.ca) Out-of-Town Travel Pool |
 | 1:25 AM | The [President](https://www.donaldjtrump.com/) departs [Calgary International Airport (YYC)](https://www.yyc.com/) for [Joint Base Andrews (ADW)](https://www.jba.af.mil/) [11:25 PM Local 6/16]<br />[Calgary International Airport (YYC)](https://www.yyc.com/), [Alberta](https://www.alberta.ca/), [Canada](https://www.canada.ca) Out-of-Town Travel Pool |
@@ -1089,7 +1089,7 @@ toc: true
 | 5:31 AM | [White House](https://www.whitehouse.gov/) Press Office: Breakfast lid until 10:30 AM (Note: Amended from 11:00 AM by WHPO)<br />The [White House](https://www.whitehouse.gov/) Open Press |
 | 12:01 PM | [White House](https://www.whitehouse.gov/) Press Office: Lunch lid until 1:00 PM<br />The [White House](https://www.whitehouse.gov/) Open Press |
 | 6:30 PM | [White House](https://www.whitehouse.gov/) Press Office: Full lid called<br />The [White House](https://www.whitehouse.gov/) |
-| | **Monday, June 16 2025** |
+| | **Monday, June 16, 2025** |
 | | CANCELLED: TBD: The [President](https://www.donaldjtrump.com/) participates in a Bilateral Meeting with the [President of Mexico](https://www.gob.mx/presidencia) The [President](https://www.donaldjtrump.com/) departed a day early from Calgary]<br />[Pomeroy Kananaskis Mountain Lodge](https://lodgeatkananaskis.com/), Kananaskis, [Alberta](https://www.alberta.ca/), [Canada](https://www.canada.ca) Out-of-Town Travel Pool |
 | | CANCELLED: TBD: The [President](https://www.donaldjtrump.com/) participates in a Bilateral Meeting with the [President of Ukraine](https://www.president.gov.ua/) The [President](https://www.donaldjtrump.com/) departed a day early from Calgary]<br />[Pomeroy Kananaskis Mountain Lodge](https://lodgeatkananaskis.com/), Kananaskis, [Alberta](https://www.alberta.ca/), [Canada](https://www.canada.ca) Out-of-Town Travel Pool |
 | 7:00 AM | Out-of-Town Travel Pool Call Time [5:00 AM Local]<br />[Pomeroy Kananaskis Mountain Lodge](https://lodgeatkananaskis.com/), Kananaskis, [Alberta](https://www.alberta.ca/), [Canada](https://www.canada.ca) Out-of-Town Travel Pool |
@@ -1102,7 +1102,7 @@ toc: true
 | 7:45 PM | The [President](https://www.donaldjtrump.com/) participates in a [G7 Family Photo](https://g7.canada.ca/) [5:45 PM Local]<br />[Pomeroy Kananaskis Mountain Lodge](https://lodgeatkananaskis.com/), Kananaskis, [Alberta](https://www.alberta.ca/), [Canada](https://www.canada.ca) Out-of-Town Travel Pool |
 | 8:15 PM | The [President](https://www.donaldjtrump.com/) participates in Session IV [6:15 PM Local]<br />[Pomeroy Kananaskis Mountain Lodge](https://lodgeatkananaskis.com/), Kananaskis, [Alberta](https://www.alberta.ca/), [Canada](https://www.canada.ca) Closed Press |
 | 11:00 PM | The [President](https://www.donaldjtrump.com/) attends a Cultural Event [9:00 PM Local]<br />[Pomeroy Kananaskis Mountain Lodge](https://lodgeatkananaskis.com/), Kananaskis, [Alberta](https://www.alberta.ca/), [Canada](https://www.canada.ca) Closed Press |
-| | **Sunday, June 15 2025** |
+| | **Sunday, June 15, 2025** |
 | 5:00 PM | In-Town Pool Call Time<br />The [White House](https://www.whitehouse.gov/) Out-of-Town Travel Pool |
 | 5:00 PM | Out-of-Town Travel Pool Call Time<br />[Joint Base Andrews (ADW)](https://www.jba.af.mil/) Out-of-Town Travel Pool |
 | 6:00 PM | The [President](https://www.donaldjtrump.com/) departs The [White House](https://www.whitehouse.gov/) en route Calgary, Canada [Note: to [Joint Base Andrews (ADW)](https://www.jba.af.mil/) - 6:15 pm Actual]<br />[South Lawn](https://www.whitehouse.gov/) Open Press |
@@ -1113,18 +1113,18 @@ toc: true
 | 11:39 PM | The [President](https://www.donaldjtrump.com/) arrives at Kananaskis, [Alberta](https://www.alberta.ca/), [Canada](https://www.canada.ca) for the [G7 Summit](https://g7.canada.ca/) [9:39 PM Local]<br />[Pomeroy Kananaskis Mountain Lodge](https://lodgeatkananaskis.com/), Kananaskis, [Alberta](https://www.alberta.ca/), [Canada](https://www.canada.ca) Out-of-Town Travel Pool |
 | 11:47 PM | [White House](https://www.whitehouse.gov/) Press Office: Full lid called [9:47 PM Local]<br />[Pomeroy Kananaskis Mountain Lodge](https://lodgeatkananaskis.com/), Kananaskis, [Alberta](https://www.alberta.ca/), [Canada](https://www.canada.ca) Out-of-Town Travel Pool |
 | | 🔥 [White House](https://www.whitehouse.gov/) 💣|
-| | **Sunday, June 8 2025** |
+| | **Sunday, June 8, 2025** |
 | 1:35 AM ⛳️| The [President](https://www.donaldjtrump.com/) departs [UFC-316 Dvalishvili vs. O'Malley 2](https://www.ufc.com/event/ufc-316) en route [Bedminster, New Jersey](https://www.trumpnationalbedminster.com/)<br />[Prudential Center](https://www.prucenter.com/), [Newark](https://www.newarknj.gov/), [New Jersey](https://www.nj.gov/) Out-of-Town Travel Pool |
 | 2:15 AM ⛳️| The [President](https://www.donaldjtrump.com/) arrives [Bedminster, New Jersey](https://www.trumpnationalbedminster.com/)<br />[Trump National Golf Club Bedminster](https://www.trumpnationalbedminster.com/) Out-of-Town Travel Pool |
 | 12:30 PM ⛳️| Out-of-Town Travel Pool Call Time<br />[Trump National Golf Club Bedminster](https://www.trumpnationalbedminster.com/) Out-of-Town Travel Pool |
 | 3:45 PM ⛳️| The [President](https://www.donaldjtrump.com/) departs [Bedminster, New Jersey](https://www.trumpnationalbedminster.com/), en route [Hagerstown](https://www.hagerstownmd.org/), [Maryland](https://www.maryland.gov/)<br />[Trump National Golf Club Bedminster](https://www.trumpnationalbedminster.com/) Out-of-Town Travel Pool |
 | 4:35 PM | The [President](https://www.donaldjtrump.com/) arrives [Hagerstown](https://www.hagerstownmd.org/), [Maryland](https://www.maryland.gov/)<br />[Hagerstown](https://www.hagerstownmd.org/) Regional Airport (HGR)](https://www.washco-md.net/hagerstown-regional-airport/) Out-of-Town Travel Pool |
 | 5:00 PM | The [President](https://www.donaldjtrump.com/) arrives [Camp David](https://ndw.cnic.navy.mil/Installations/NSF-Thurmont/)<br />[Camp David](https://ndw.cnic.navy.mil/Installations/NSF-Thurmont/) Closed Press |
-| | **Saturday, June 7 2025** |
+| | **Saturday, June 7, 2025** |
 | 1:00 PM ⛳️| Out-of-Town Travel Pool Call Time<br />[Trump National Golf Club Bedminster](https://www.trumpnationalbedminster.com/) Out-of-Town Travel Pool |
 | 8:45 PM ⛳️| The [President](https://www.donaldjtrump.com/) departs [Bedminster, New Jersey](https://www.trumpnationalbedminster.com/), en route [Prudential Center](https://www.prucenter.com/)<br />[Trump National Golf Club Bedminster](https://www.trumpnationalbedminster.com/) Out-of-Town Travel Pool |
 | 9:30 PM 🥊| The [President](https://www.donaldjtrump.com/) attends [UFC-316 Dvalishvili vs. O'Malley 2](https://www.ufc.com/event/ufc-316)<br />[Prudential Center](https://www.prucenter.com/), [Newark](https://www.newarknj.gov/), [New Jersey](https://www.nj.gov/) Out-of-Town Travel Pool |
-| | **Friday, June 6 2025** |
+| | **Friday, June 6, 2025** |
 | 8:15 AM | Peter Navarro briefs reporters at The Sticks<br />The Sticks - The [White House](https://www.whitehouse.gov/) |
 | 12:22 PM | [White House](https://www.whitehouse.gov/) Press Office: Lunch lid until 1:00 PM<br />The [White House](https://www.whitehouse.gov/) |
 | 1:30 PM | The [President](https://www.donaldjtrump.com/) signs Executive Orders<br />[Oval Office](https://www.whitehouse.gov) Closed Press |
@@ -1138,7 +1138,7 @@ toc: true
 | 6:10 PM ⛳️| The [President](https://www.donaldjtrump.com/) arrives [Bedminster, New Jersey](https://www.trumpnationalbedminster.com/) [6:26 PM Actual]<br />[Trump National Golf Club Bedminster](https://www.trumpnationalbedminster.com/) Out-of-Town Travel Pool |
 | 6:26 PM ⛳️| [White House](https://www.whitehouse.gov/) Press Office: Full lid called<br />[Trump National Golf Club Bedminster](https://www.trumpnationalbedminster.com/) |
 | | 🔥 [White House](https://www.whitehouse.gov/) 💣|
-| | **Sunday, June 1 2025** |
+| | **Sunday, June 1, 2025** |
 | | [Donnie](https://www.donaldjtrump.com/) ~~has no public events scheduled~~plays golf🏌‍♂️<br />[The White House](https://www.whitehouse.gov/) |
 | 7:45 AM | In-Town Pool Call Time<br />[The White House](https://www.whitehouse.gov/) In-Town Pool |
 | 8:50 AM ⛳️| The [President](https://www.donaldjtrump.com/) departs the [White House](https://www.whitehouse.gov/) for [his golf club](https://www.trumpnationaldc.com/)<br />[The White House](https://www.whitehouse.gov/) |
@@ -1146,7 +1146,7 @@ toc: true
 | 4:50 PM ⛳️| The [President](https://www.donaldjtrump.com/) departs [Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/)<br />[Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/) |
 | 5:29 PM | The [President](https://www.donaldjtrump.com/) arrives at the [White House](https://www.whitehouse.gov/)<br />[The White House](https://www.whitehouse.gov/) |
 | 5:45 PM | [White House](https://www.whitehouse.gov/) Press Office: Full lid called<br />[The White House](https://www.whitehouse.gov/) |
-| | **Saturday, May 31 2025** |
+| | **Saturday, May 31, 2025** |
 | | [Donnie](https://www.donaldjtrump.com/) ~~has no public events scheduled~~plays golf🏌‍♂️<br />[The White House](https://www.whitehouse.gov/) |
 | 7:30 AM | In-Town Pool Call Time<br />[The White House](https://www.whitehouse.gov/) In-Town Pool |
 | 9:25 AM ⛳️| The [President](https://www.donaldjtrump.com/) departs the [White House](https://www.whitehouse.gov/) for [his golf club](https://www.trumpnationaldc.com/)<br />[The White House](https://www.whitehouse.gov/) |
@@ -1155,7 +1155,7 @@ toc: true
 | 3:56 PM | The [President](https://www.donaldjtrump.com/) arrives at the [White House](https://www.whitehouse.gov/)<br />[The White House](https://www.whitehouse.gov/) |
 | 4:02 PM | [White House](https://www.whitehouse.gov/) Press Office: Full lid called<br />[The White House](https://www.whitehouse.gov/) |
 | | 🔥 [White House](https://www.whitehouse.gov/) 💣|
-| | **Monday, May 26 2025** |
+| | **Monday, May 26, 2025** |
 | 9:40 AM | In-Town Travel Pool Call Time<br />[The White House](https://www.whitehouse.gov/) In-Town Travel Pool |
 | 10:40 AM 🪖| The [President](https://www.donaldjtrump.com/) departs [The White House](https://www.whitehouse.gov/) en route [Arlington National Cemetery](https://www.arlingtoncemetery.mil/)<br />[South Portico](https://www.whitehouse.gov/) In-Town Travel Pool |
 | 10:50 AM 🪖| The [President](https://www.donaldjtrump.com/) arrives [Arlington National Cemetery](https://www.arlingtoncemetery.mil/)<br />[Arlington National Cemetery](https://www.arlingtoncemetery.mil/) In-Town Travel Pool |
@@ -1165,7 +1165,7 @@ toc: true
 | 5:00 PM ⛳️| The [President](https://www.donaldjtrump.com/) departs [Trump National Golf Club D.C.](https://www.trumpnationaldc.com/) en route [The White House](https://www.whitehouse.gov/)<br />[Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/) In-Town Travel Pool |
 | 5:35 PM | The [President](https://www.donaldjtrump.com/) arrives [The White House](https://www.whitehouse.gov/)<br />[South Portico](https://www.whitehouse.gov/) In-Town Travel Pool |
 | 6:38 PM | [White House](https://www.whitehouse.gov/) Press Office: Full lid called<br />[The White House](https://www.whitehouse.gov/) |
-| | **Sunday, May 25 2025** |
+| | **Sunday, May 25, 2025** |
 | 2:30 PM ⛳️| Out-of-Town Travel Pool Call Time<br />[Trump National Golf Club Bedminster](https://www.trumpnationalbedminster.com/) Out-of-Town Travel Pool |
 | 5:00 PM ⛳️| The [President](https://www.donaldjtrump.com/) departs [Trump National Golf Club Bedminster](https://www.trumpnationalbedminster.com/) en route [Morristown Municipal Airport (MMU)](https://www.mmuair.com/)<br />[Trump National Golf Club Bedminster](https://www.trumpnationalbedminster.com/) Closed Press |
 | 5:00 PM | In-Town Pool Call Time<br />[The White House](https://www.whitehouse.gov/) Out-of-Town Travel Pool |
@@ -1175,7 +1175,7 @@ toc: true
 | 6:20 PM | The [President](https://www.donaldjtrump.com/) departs [Joint Base Andrews (ADW)](https://www.jba.af.mil/) en route [The White House](https://www.whitehouse.gov/)<br />[Joint Base Andrews (ADW)](https://www.jba.af.mil/) Out-of-Town Travel Pool |
 | 6:30 PM | The [President](https://www.donaldjtrump.com/) arrives [The White House](https://www.whitehouse.gov/)<br />[South Lawn](https://www.whitehouse.gov/) Open Press |
 | 7:44 PM | [White House](https://www.whitehouse.gov/) Press Office: Full lid called<br />[The White House](https://www.whitehouse.gov/) |
-| | **Saturday, May 24 2025** |
+| | **Saturday, May 24, 2025** |
 | 6:00 AM ⛳️| Out-of-Town Travel Pool Call Time<br />[Trump National Golf Club Bedminster](https://www.trumpnationalbedminster.com/) Out-of-Town Travel Pool |
 | 7:45 AM ⛳️| The [President](https://www.donaldjtrump.com/) departs [Trump National Golf Club Bedminster](https://www.trumpnationalbedminster.com/) en route [West Point Landing Zone](https://www.westpoint.edu/)<br />[Trump National Golf Club Bedminster](https://www.trumpnationalbedminster.com/) Out-of-Town Travel Pool |
 | 8:15 AM | The [President](https://www.donaldjtrump.com/) arrives [West Point Landing Zone](https://www.westpoint.edu/)<br />The Plain, [United States Military Academy](https://www.westpoint.edu/), West Point, NY Out-of-Town Travel Pool |
@@ -1183,7 +1183,7 @@ toc: true
 | 11:15 AM ⛳️| The [President](https://www.donaldjtrump.com/) departs West Point Landing Zone en route [Trump National Golf Club Bedminster](https://www.trumpnationalbedminster.com/)<br />The Plain, [United States Military Academy](https://www.westpoint.edu/), West Point, NY Out-of-Town Travel Pool |
 | 11:45 AM ⛳️| The [President](https://www.donaldjtrump.com/) arrives [Trump National Golf Club Bedminster](https://www.trumpnationalbedminster.com/)<br />[Trump National Golf Club Bedminster](https://www.trumpnationalbedminster.com/) Out-of-Town Travel Pool |
 | 12:11 PM ⛳️| [White House](https://www.whitehouse.gov/) Press Office: Full lid called<br />[Trump National Golf Club Bedminster](https://www.trumpnationalbedminster.com/) |
-| | **Friday, May 23 2025** |
+| | **Friday, May 23, 2025** |
 | 9:00 AM | In-Town Pool Call Time<br />[The White House](https://www.whitehouse.gov/) In-Town Pool |
 | 11:31 AM | [White House](https://www.whitehouse.gov/) Press Office: Lunch lid until 12:30 PM<br />[The White House](https://www.whitehouse.gov/) |
 | 1:00 PM | The [President](https://www.donaldjtrump.com/) signs Executive Orders<br />[Oval Office](https://www.whitehouse.gov/) Closed Press |
@@ -1196,7 +1196,7 @@ toc: true
 | 4:30 PM ⛳️| The [President](https://www.donaldjtrump.com/) arrives [Trump National Golf Club Bedminster](https://www.trumpnationalbedminster.com/)<br />[Trump National Golf Club Bedminster](https://www.trumpnationalbedminster.com/) Closed Press |
 | 5:46 PM ⛳️| [White House](https://www.whitehouse.gov/) Press Office: Full lid called<br />[Trump National Golf Club Bedminster](https://www.trumpnationalbedminster.com/) |
 | | 🔥 [White House](https://www.whitehouse.gov/) 💣|
-| | **Sunday, May 18 2025** |
+| | **Sunday, May 18, 2025** |
 | | [Donnie](https://www.donaldjtrump.com/) ~~has no public events scheduled~~plays golf🏌‍♂️.<br />[The White House](https://www.whitehouse.gov/) |
 | 8:00 AM | In-Town Pool Call Time<br />[The White House](https://www.whitehouse.gov/) In-Town Pool |
 | 9:32 AM ⛳️| The [President](https://www.donaldjtrump.com/) departs the [White House](https://www.whitehouse.gov/) for [his golf club](https://www.trumpnationaldc.com/)<br />[The White House](https://www.whitehouse.gov/) |
@@ -1204,7 +1204,7 @@ toc: true
 | 3:32 PM ⛳️| The [President](https://www.donaldjtrump.com/) departs [Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/)<br />[Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/) |
 | 4:06 PM | The [President](https://www.donaldjtrump.com/) arrives at the [White House](https://www.whitehouse.gov/)<br />[The White House](https://www.whitehouse.gov/) |
 | 4:11 PM | [White House](https://www.whitehouse.gov/) Press Office: Full lid called<br />[The White House](https://www.whitehouse.gov/) |
-| | **Monday, May 12 2025** |
+| | **Monday, May 12, 2025** |
 | 8:00 AM | In-Town Pool Call Time<br />The [White House](https://www.whitehouse.gov/)<br /> In-Town Pool |
 | 9:30 AM | Out-of-Town Pool Call Time<br />[Joint Base Andrews (ADW)](https://www.jba.af.mil/About/)<br /> [White House](https://www.whitehouse.gov/)<br /> Press Pool |
 | 9:30 AM | The [President](https://www.whitehouse.gov/) holds a Press Conference with the Secretary of [Health and Human Services](https://hhs.gov/)<br />[Roosevelt Room](https://www.whitehouse.gov/)<br /> [White House](https://www.whitehouse.gov/)<br /> Press Pool |
@@ -1213,7 +1213,7 @@ toc: true
 | 10:55 AM | The [President](https://www.whitehouse.gov/) departs [Joint Base Andrews (ADW)](https://www.jba.af.mil/About/) en route [Royal Air Force Mildenhall (MHZ)](https://www.mildenhall.af.mil/)<br />[Joint Base Andrews (ADW)](https://www.jba.af.mil/About/)<br /> Out-of-Town Travel Pool |
 | 6:45 PM | The [President](https://www.whitehouse.gov/) arrives [Royal Air Force Mildenhall (MHZ)](https://www.mildenhall.af.mil/)<br />[11:45 PM Local]<br >[Royal Air Force Mildenhall (MHZ)](https://www.mildenhall.af.mil/)<br /> [England, United Kingdom](https://www.gov.uk/)<br /> Out-of-Town Travel Pool |
 | 7:45 PM | The [President](https://www.whitehouse.gov/) departs [Royal Air Force Mildenhall (MHZ)](https://www.mildenhall.af.mil/) en route [King Khalid International Airport (RUH)](https://www.kkia.sa/en)<br />[12:45 AM 5/13]<br >[Royal Air Force Mildenhall (MHZ)](https://www.mildenhall.af.mil/)<br /> [England, United Kingdom](https://www.gov.uk/)<br /> Out-of-Town Travel Pool |
-| | **Tuesday, May 13 2025** |
+| | **Tuesday, May 13, 2025** |
 | 2:45 AM | The [President](https://www.whitehouse.gov/) arrives [King Khalid International Airport (RUH)](https://www.kkia.sa/en)<br />[9:45 AM Local]<br />[King Khalid International Airport (RUH)](https://www.kkia.sa/en)<br /> Pre-Credentialed Media |
 | 3:10 AM | The [President](https://www.whitehouse.gov/) departs [King Khalid International Airport (RUH)](https://www.kkia.sa/en) en route [The Ritz-Carlton Riyadh](https://www.ritzcarlton.com/en/hotels/ruhrz-the-ritz-carlton-riyadh/)<br />[10:10 AM Local]<br />[King Khalid International Airport (RUH)](https://www.kkia.sa/en)<br /> Out-of-Town Travel Pool |
 | 3:40 AM | The [President](https://www.whitehouse.gov/) arrives [The Ritz-Carlton Riyadh](https://www.ritzcarlton.com/en/hotels/ruhrz-the-ritz-carlton-riyadh/)<br />[10:40 AM Local]<br />[The Ritz-Carlton Riyadh](https://www.ritzcarlton.com/en/hotels/ruhrz-the-ritz-carlton-riyadh/)<br />[Riyadh](https://www.alriyadh.gov.sa/), [Saudi Arabia](https://my.gov.sa/)<br /> Out-of-Town Travel Pool |
@@ -1233,7 +1233,7 @@ toc: true
 | 3:05 PM | The [President](https://www.whitehouse.gov/) departs [Diriyah](https://www.diriyah.sa/) [At-Turaif](https://www.diriyah.sa/ar/at-turaif) en route [The Ritz-Carlton Riyadh](https://www.ritzcarlton.com/en/hotels/ruhrz-the-ritz-carlton-riyadh/)<br />[10:05 PM Local]<br />[At-Turaif World Heritage Site](https://www.diriyah.sa/ar/at-turaif)<br />[Diriyah](https://www.diriyah.sa/), [Saudi Arabia](https://my.gov.sa/)<br /> Out-of-Town Travel Pool |
 | 3:25 PM | The [President](https://www.whitehouse.gov/) arrives [The Ritz-Carlton Riyadh](https://www.ritzcarlton.com/en/hotels/ruhrz-the-ritz-carlton-riyadh/)<br />[10:25 PM Local]<br />[The Ritz-Carlton](https://www.ritzcarlton.com/en/hotels/ruhrz-the-ritz-carlton-riyadh/)<br /> [Riyadh](https://www.alriyadh.gov.sa/), [Saudi Arabia](https://my.gov.sa/)<br /> Out-of-Town Travel Pool |
 | 4:06 PM | [White House](https://www.whitehouse.gov/) Press Office: Full lid called<br />[11:06 PM Local]<br />[The Ritz-Carlton](https://www.ritzcarlton.com/en/hotels/ruhrz-the-ritz-carlton-riyadh/)<br /> [Riyadh](https://www.alriyadh.gov.sa/), [Saudi Arabia](https://my.gov.sa/)<br /> Out-of-Town Travel Pool |
-| | **Wednesday, May 14 2025** |
+| | **Wednesday, May 14, 2025** |
 | 1:00 AM | Out-of-Town Pool Call Time<br />[8:00 AM Local]<br />[The Ritz-Carlton](https://www.ritzcarlton.com/en/hotels/ruhrz-the-ritz-carlton-riyadh/)<br /> [Riyadh](https://www.alriyadh.gov.sa/), [Saudi Arabia](https://my.gov.sa/)<br /> Out-of-Town Pool |
 | 3:00 AM | The [President](https://www.whitehouse.gov/) participates in the [Gulf Cooperation Council](https://www.gcc-sg.org/) Leaders' Meeting<br />[10:00 AM Local]<br />[The Ritz-Carlton](https://www.ritzcarlton.com/en/hotels/ruhrz-the-ritz-carlton-riyadh/)<br /> [Riyadh](https://www.alriyadh.gov.sa/), [Saudi Arabia](https://my.gov.sa/)<br /> Pre-Credentialed Media |
 | 4:30 AM | The [President](https://www.whitehouse.gov/) departs the [The Ritz-Carlton](https://www.ritzcarlton.com/en/hotels/ruhrz-the-ritz-carlton-riyadh/) [Riyadh](https://www.alriyadh.gov.sa/) en route [King Khalid International Airport (RUH)](https://www.kkia.sa/en)<br />[11:30 AM Local]<br />[The Ritz-Carlton](https://www.ritzcarlton.com/en/hotels/ruhrz-the-ritz-carlton-riyadh/)<br /> [Riyadh](https://www.alriyadh.gov.sa/), [Saudi Arabia](https://my.gov.sa/)<br /> Out-of-Town Travel Pool |
@@ -1251,7 +1251,7 @@ toc: true
 | 2:50 PM | The [President](https://www.whitehouse.gov/) departs [Lusail Palace](https://www.lusail.com/) en route [St. Regis](https://www.marriott.com/en-us/hotels/dohxr-the-st-regis-doha/) Doha<br />[9:50 PM Local]<br />[Lusail Palace](https://www.lusail.com/)<br />Lusail, [Qatar](https://hukoomi.gov.qa/)<br /> Out-of-Town Travel Pool |
 | 3:00 PM | The [President](https://www.whitehouse.gov/) arrives [St. Regis](https://www.marriott.com/en-us/hotels/dohxr-the-st-regis-doha/) Doha<br />[10:00 PM Local]<br />[St. Regis](https://www.marriott.com/en-us/hotels/dohxr-the-st-regis-doha/)<br /> Doha, [Qatar](https://hukoomi.gov.qa/)<br /> Out-of-Town Travel Pool |
 | 3:41 PM | [White House](https://www.whitehouse.gov/) Press Office: Full lid called<br />[10:41 PM Local]<br />[St. Regis](https://www.marriott.com/en-us/hotels/dohxr-the-st-regis-doha/)<br /> Doha, [Qatar](https://hukoomi.gov.qa/)<br /> Out-of-Town Travel Pool |
-| | **Thursday, May 15 2025** |
+| | **Thursday, May 15, 2025** |
 | 1:00 AM | Out-of-Town Pool Call Time<br />[8:00 AM Local]<br />[St. Regis](https://www.marriott.com/en-us/hotels/dohxr-the-st-regis-doha/)<br /> Doha, [Qatar](https://hukoomi.gov.qa/)<br /> Out-of-Town Pool |
 | 2:15 AM | The [President](https://www.whitehouse.gov/) participates in a Roundtable with Business Leaders<br />[9:15 AM Local]<br />[St. Regis](https://www.marriott.com/en-us/hotels/dohxr-the-st-regis-doha/)<br /> Doha, [Qatar](https://hukoomi.gov.qa/)<br /> Out-of-Town Travel Pool |
 | 3:30 AM | The [President](https://www.whitehouse.gov/) departs the [St. Regis](https://www.marriott.com/en-us/hotels/dohxr-the-st-regis-doha/) Doha en route [Al Udeid Air Base (XJD)](https://www.afcent.af.mil/Units/379th-Air-Expeditionary-Wing/)<br />[10:30 AM Local]<br />[St. Regis](https://www.marriott.com/en-us/hotels/dohxr-the-st-regis-doha/)<br /> Doha, [Qatar](https://hukoomi.gov.qa/)<br /> Out-of-Town Travel Pool |
@@ -1270,7 +1270,7 @@ toc: true
 | 1:35 PM | The [President](https://www.whitehouse.gov/) departs [Qasr Al Watan](https://www.qasralwatan.ae/) en route The [Ritz-Carlton Abu Dhabi](https://www.ritzcarlton.com/en/hotels/auhrz-the-ritz-carlton-abu-dhabi-grand-canal/)<br />[9:35 PM Local]<br />[Qasr Al Watan](https://www.qasralwatan.ae/)<br /> [Abu Dhabi](https://www.tamm.abudhabi/), [United Arab Emirates](https://www.u.ae/)<br /> Out-of-Town Travel Pool |
 | 1:50 PM | The [President](https://www.whitehouse.gov/) arrives The [Ritz-Carlton Abu Dhabi](https://www.ritzcarlton.com/en/hotels/auhrz-the-ritz-carlton-abu-dhabi-grand-canal/)<br />[9:50 PM Local]<br />[Ritz-Carlton](https://www.ritzcarlton.com/en/hotels/auhrz-the-ritz-carlton-abu-dhabi-grand-canal/)<br /> [Abu Dhabi](https://www.tamm.abudhabi/), [United Arab Emirates](https://www.u.ae/)<br /> Out-of-Town Travel Pool |
 | 3:31 PM | [White House](https://www.whitehouse.gov/) Press Office: Full lid called<br />[11:31 PM Local]<br />[Ritz-Carlton](https://www.ritzcarlton.com/en/hotels/auhrz-the-ritz-carlton-abu-dhabi-grand-canal/)<br /> [Abu Dhabi](https://www.tamm.abudhabi/), [United Arab Emirates](https://www.u.ae/)<br /> Out-of-Town Travel Pool |
-| | **Friday, May 16 2025** |
+| | **Friday, May 16, 2025** |
 | 1:00 AM | Out-of-Town Pool Call Time<br />[9:00 AM Local]<br />[Ritz-Carlton](https://www.ritzcarlton.com/en/hotels/auhrz-the-ritz-carlton-abu-dhabi-grand-canal/)<br /> [Abu Dhabi](https://www.tamm.abudhabi/), [United Arab Emirates](https://www.u.ae/)<br /> Out-of-Town Pool |
 | 2:15 AM | The [President](https://www.whitehouse.gov/) departs the [Ritz Carlton Abu Dhabi](https://www.ritzcarlton.com/en/hotels/auhrz-the-ritz-carlton-abu-dhabi-grand-canal/) en route [Qasr Al Watan](https://www.qasralwatan.ae/)<br />[10:15 AM Local]<br />[The Ritz-Carlton](https://www.ritzcarlton.com/en/hotels/auhrz-the-ritz-carlton-abu-dhabi-grand-canal/)<br /> [Abu Dhabi](https://www.tamm.abudhabi/), [United Arab Emirates](https://www.u.ae/)<br /> Out-of-Town Travel Pool |
 | 2:45 AM | The [President](https://www.whitehouse.gov/) arrives [Qasr Al Watan](https://www.qasralwatan.ae/)<br />[10:45 AM Local]<br />[Qasr Al Watan](https://www.qasralwatan.ae/)<br /> [Abu Dhabi](https://www.tamm.abudhabi/), [United Arab Emirates](https://www.u.ae/)<br /> Out-of-Town Travel Pool |
@@ -1292,11 +1292,11 @@ toc: true
 | 10:20 PM | The [President](https://www.whitehouse.gov/) arrives [Joint Base Andrews (ADW)](https://www.jba.af.mil/About/)<br />[Joint Base Andrews (ADW)](https://www.jba.af.mil/About/)<br /> Out-of-Town Travel Pool |
 | 10:30 PM | The [President](https://www.whitehouse.gov/) departs [Joint Base Andrews (ADW)](https://www.jba.af.mil/About/) en route The [White House](https://www.whitehouse.gov/)<br />[Joint Base Andrews (ADW)](https://www.jba.af.mil/About/)<br /> Out-of-Town Travel Pool |
 | 10:40 PM | The [President](https://www.whitehouse.gov/) arrives The [White House](https://www.whitehouse.gov/)<br /> [South Lawn](https://www.whitehouse.gov/) Open Press |
-| | **Saturday, May 17 2025** |
+| | **Saturday, May 17, 2025** |
 | | The [President](https://www.whitehouse.gov/) ~~has no public events scheduled~~plays golf🏌‍♂️.<br />The [White House](https://www.whitehouse.gov/) |
 | 10:00 AM | In-Town Pool Call Time<br />The [White House](https://www.whitehouse.gov/)<br /> In-Town Pool |
 | 10:25 AM | [White House](https://www.whitehouse.gov/) Press Office: Full lid called<br />The [White House](https://www.whitehouse.gov/) <br /> Closed Press |
-| | **Sunday, May 18 2025** |
+| | **Sunday, May 18, 2025** |
 | | The [President](https://www.whitehouse.gov/) ~~has no public events scheduled~~plays golf🏌‍♂️.<br />The [White House](https://www.whitehouse.gov/) |
 | 8:00 AM | In-Town Pool Call Time<br />The [White House](https://www.whitehouse.gov/)<br /> In-Town Pool |
 | 9:32 AM ⛳️| The [President](https://www.whitehouse.gov/) departs the [White House](https://www.whitehouse.gov/) for [his golf club](https://www.trumpnationaldc.com/)<br />The [White House](https://www.whitehouse.gov/)
@@ -1305,7 +1305,7 @@ toc: true
 | 4:06 PM | The [President](https://www.whitehouse.gov/) arrives at the [White House](https://www.whitehouse.gov/)<br />The [White House](https://www.whitehouse.gov/) |
 | 4:11 PM | [White House](https://www.whitehouse.gov/) Press Office: Full lid called<br />The [White House](https://www.whitehouse.gov/) |
 | | 🔥 [White House](https://www.whitehouse.gov/) 💣|
-| | **Saturday, May 10 2025** |
+| | **Saturday, May 10, 2025** |
 | | [Donnie](https://www.donaldjtrump.com/) ~~has no public events scheduled~~plays golf🏌‍♂️<br />[The White House](https://www.whitehouse.gov/) |
 | 8:00 AM | In-Town Pool Call Time<br />[The White House](https://www.whitehouse.gov/) In-Town Pool |
 | 9:06 AM ⛳️| The [President](https://www.donaldjtrump.com/) departs the [White House](https://www.whitehouse.gov/) for [his golf club](https://www.trumpnationaldc.com/)<br />[The White House](https://www.whitehouse.gov/) |
@@ -1314,7 +1314,7 @@ toc: true
 | 3:55 PM | The [President](https://www.donaldjtrump.com/) arrives at the [White House](https://www.whitehouse.gov/)<br />[The White House](https://www.whitehouse.gov/) |
 | 4:02 PM | [White House](https://www.whitehouse.gov/) Press Office: Full lid called<br />[Oval Office](https://www.whitehouse.gov/) Closed Press |
 | | 🔥 [White House](https://www.whitehouse.gov/) 💣|
-| | **Monday, May 5 2025** |
+| | **Monday, May 5, 2025** |
 | 9:00 AM | In-Town Pool Call Time<br />[The White House](https://www.whitehouse.gov/) In-Town Pool |
 | 1:00 PM | The [President](https://www.donaldjtrump.com/) delivers a Sports Announcement<br />[Oval Office](https://www.whitehouse.gov/) [White House](https://www.whitehouse.gov/) Press Pool |
 | 2:20 PM | [White House](https://www.whitehouse.gov/) Press Office: Lunch lid until 3:00 PM<br />[The White House](https://www.whitehouse.gov/) |
@@ -1326,7 +1326,7 @@ toc: true
 | 9:20 PM ⛳️| The [President](https://www.donaldjtrump.com/) departs [Trump National Golf Club Washington, D.C.](https://www.trumpnationaldc.com/) en route [The White House](https://www.whitehouse.gov/)<br />[Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/) Closed Press |
 | 9:35 PM | The [President](https://www.donaldjtrump.com/) arrives [The White House](https://www.whitehouse.gov/)<br />[South Lawn](https://www.whitehouse.gov/) Open Press |
 | 9:54 PM | [White House](https://www.whitehouse.gov/) Press Office: Full lid called<br />[The White House](https://www.whitehouse.gov/) |
-| | **Sunday, May 4 2025** |
+| | **Sunday, May 4, 2025** |
 | 7:30 AM ⛳️| Out-of-Town Travel Pool Call Time<br />[Mar-a-Lago](https://www.maralagoclub.com/) Out-of-Town Travel Pool |
 | 10:25 AM ⛳️| The [President](https://www.donaldjtrump.com/) departs [Mar-a-Lago](https://www.maralagoclub.com/) for [his golf club](https://www.trumpinternationalpalmbeaches.com/)<br />[Mar-a-Lago](https://www.maralagoclub.com/) |
 | 10:33 AM ⛳️| The [President](https://www.donaldjtrump.com/) arrives at [Trump International Golf Club West Palm Beach](https://www.trumpinternationalpalmbeaches.com/)<br />[Trump International Golf Club West Palm Beach](https://www.trumpinternationalpalmbeaches.com/) |
@@ -1340,7 +1340,7 @@ toc: true
 | 7:40 PM | The [President](https://www.donaldjtrump.com/) departs [Joint Base Andrews (ADW)](https://www.jba.af.mil/) en route [The White House](https://www.whitehouse.gov/)<br />[Joint Base Andrews (ADW)](https://www.jba.af.mil/) Out-of-Town Travel Pool |
 | 7:50 PM | The [President](https://www.donaldjtrump.com/) arrives [The White House](https://www.whitehouse.gov/)<br />[South Lawn](https://www.whitehouse.gov/) Open Press |
 | 8:20 PM | [White House](https://www.whitehouse.gov/) Press Office: Full lid called<br />[The White House](https://www.whitehouse.gov/) |
-| | **Saturday, May 3 2025** |
+| | **Saturday, May 3, 2025** |
 | ⛳️| [Donnie](https://www.donaldjtrump.com/) ~~has no public events scheduled~~plays golf🏌‍♂️<br />[Mar-a-Lago](https://www.maralagoclub.com/) In-Town Pool |
 | 7:30 AM ⛳️| Out-of-Town Travel Pool Call Time<br />[Mar-a-Lago](https://www.maralagoclub.com/) Out-of-Town Travel Pool |
 | 9:36 AM ⛳️| The [President](https://www.donaldjtrump.com/) departs [Mar-a-Lago](https://www.maralagoclub.com/) for [his golf club](https://www.trumpinternationalpalmbeaches.com/)<br />[Mar-a-Lago](https://www.maralagoclub.com/) |
@@ -1348,7 +1348,7 @@ toc: true
 | 3:45 PM ⛳️| The [President](https://www.donaldjtrump.com/) departs [Trump International Golf Club West Palm Beach](https://www.trumpinternationalpalmbeaches.com/) for [Mar-a-Lago](https://www.maralagoclub.com/)<br />[Trump International Golf Club West Palm Beach](https://www.trumpinternationalpalmbeaches.com/) |
 | 3:54 PM ⛳️| The [President](https://www.donaldjtrump.com/) arrives at [Mar-a-Lago](https://www.maralagoclub.com/)<br />[Mar-a-Lago](https://www.maralagoclub.com/) |
 | 3:56 PM ⛳️| [White House](https://www.whitehouse.gov/) Press Office: Full lid called<br />[Mar-a-Lago](https://www.maralagoclub.com/) |
-| | **Friday, May 2 2025** |
+| | **Friday, May 2, 2025** |
 | 8:00 AM ⛳️| Out-of-Town Pool Call Time<br />[Mar-a-Lago](https://www.maralagoclub.com/) Out-of-Town Pool |
 | 9:34 AM ⛳️| The [President](https://www.donaldjtrump.com/) departs [Mar-a-Lago](https://www.maralagoclub.com/) for [his golf club](https://www.trumpinternationalpalmbeaches.com/)<br />[Mar-a-Lago](https://www.maralagoclub.com/) |
 | 9:43 AM ⛳️| The [President](https://www.donaldjtrump.com/) arrives at [Trump International Golf Club West Palm Beach](https://www.trumpinternationalpalmbeaches.com/)<br />[Trump International Golf Club West Palm Beach](https://www.trumpinternationalpalmbeaches.com/) |
@@ -1356,7 +1356,7 @@ toc: true
 | 2:56 PM ⛳️| The [President](https://www.donaldjtrump.com/) arrives at [Mar-a-Lago](https://www.maralagoclub.com/)<br />[Mar-a-Lago](https://www.maralagoclub.com/) |
 | 4:10 PM ⛳️| [White House](https://www.whitehouse.gov/) Press Office: Full lid called<br />[Mar-a-Lago](https://www.maralagoclub.com/) Out-of-Town Travel Pool |
 | 7:30 PM ⛳️| The [President](https://www.donaldjtrump.com/) participates in the 2025 RNC Spring Gala<br />[Mar-a-Lago](https://www.maralagoclub.com/) Closed Press |
-| | **Thursday, May 1 2025** |
+| | **Thursday, May 1, 2025** |
 | 8:00 AM | In-Town Pool Call Time<br />[The White House](https://www.whitehouse.gov/) In-Town Pool |
 | 8:30 AM | Press Briefing by the [White House](https://www.whitehouse.gov/) Press Secretary Karoline Leavitt and Deputy Chief of Staff Stephen Miller on Restoring Common Sense<br />[James S. Brady Press Briefing Room](https://www.whitehouse.gov/) On Camera |
 | 11:00 AM | The [President](https://www.donaldjtrump.com/) participates in a National Day of Prayer Event<br />[Rose Garden](https://www.whitehouse.gov/) Pre-Credentialed Media |
@@ -1378,7 +1378,7 @@ toc: true
 | 11:15 PM ⛳️| The [President](https://www.donaldjtrump.com/) arrives at [Mar-a-Lago](https://www.maralagoclub.com/)<br />[Mar-a-Lago](https://www.maralagoclub.com/) Out-of-Town Travel Pool |
 | 11:50 PM ⛳️| [White House](https://www.whitehouse.gov/) Press Office: Full lid called<br />[Mar-a-Lago](https://www.maralagoclub.com/) Out-of-Town Travel Pool |
 | | 🔥 [White House](https://www.whitehouse.gov/) 💣|
-| | **Tuesday, April 29 2025** |
+| | **Tuesday, April 29, 2025** |
 | 8:00 AM | In-Town Pool Call Time<br />[The White House](https://www.whitehouse.gov/) In-Town Pool |
 | 8:30 AM | Press Briefing by the [White House](https://www.whitehouse.gov/) Press Secretary Karoline Leavitt and Treasury Secretary Scott Bessent on Unleashing Economic Greatness<br />[James S. Brady Press Briefing Room](https://www.whitehouse.gov/) Open Press |
 | 11:31 AM | [White House](https://www.whitehouse.gov/) Press Office: Lunch lid until 12:30 PM<br />[The White House](https://www.whitehouse.gov/) |
@@ -1399,7 +1399,7 @@ toc: true
 | 9:05 PM | The [President](https://www.donaldjtrump.com/) departs [Joint Base Andrews (ADW)](https://www.jba.af.mil/) en route [The White House](https://www.whitehouse.gov/)<br />[Joint Base Andrews (ADW)](https://www.jba.af.mil/) Out-of-Town Travel Pool |
 | 9:15 PM | The [President](https://www.donaldjtrump.com/) arrives [The White House](https://www.whitehouse.gov/)<br />[South Lawn](https://www.whitehouse.gov/) Open Press |
 | 9:52 PM | [White House](https://www.whitehouse.gov/) Press Office: Full lid called<br />[The White House](https://www.whitehouse.gov/) Out-of-Town Travel Pool |
-| | **Sunday, April 27 2025** |
+| | **Sunday, April 27, 2025** |
 | 3:00 PM ⛳️| Out-of-Town Travel Pool Call Time<br />[Trump National Golf Club Bedminster](https://www.trumpnationalbedminster.com/) Out-of-Town Travel Pool |
 | 5:00 PM ⛳️| The [President](https://www.donaldjtrump.com/) and The First Lady depart [Trump National Golf Club Bedminster](https://www.trumpnationalbedminster.com/) en route [Morristown Municipal Airport (MMU)](https://www.mmuair.com/)<br />[Morristown Municipal Airport (MMU)](https://www.mmuair.com/) Closed Press |
 | 5:00 PM | In-Town Pool Call Time<br />[The White House](https://www.whitehouse.gov/) Closed Press |
@@ -1409,7 +1409,7 @@ toc: true
 | 6:20 PM | The [President](https://www.donaldjtrump.com/) and The First Lady depart [Joint Base Andrews (ADW)](https://www.jba.af.mil/) en route [The White House](https://www.whitehouse.gov/)<br />[Joint Base Andrews (ADW)](https://www.jba.af.mil/) Out-of-Town Travel Pool |
 | 6:30 PM | The [President](https://www.donaldjtrump.com/) and The First Lady arrive [The White House](https://www.whitehouse.gov/)<br />[South Lawn](https://www.whitehouse.gov/) Open Press |
 | 7:40 PM | [White House](https://www.whitehouse.gov/) Press Office: Full lid called<br />[The White House](https://www.whitehouse.gov/) Out-of-Town Travel Pool |
-| | **Saturday, April 26 2025** |
+| | **Saturday, April 26, 2025** |
 | 3:15 AM | The [President](https://www.donaldjtrump.com/) and The First Lady depart [Villa Taverna](https://it.usembassy.gov/our-relationship/policy-history/residence/) en route [St. Peter's Basilica](https://www.basilicasanpietro.va/) [9:15 AM Local]<br />[Villa Taverna](https://it.usembassy.gov/our-relationship/policy-history/residence/), Rome, Italy Out-of-Town Travel Pool |
 | 3:30 AM | The [President](https://www.donaldjtrump.com/) and The First Lady arrive [St. Peter's Basilica](https://www.basilicasanpietro.va/) [9:30 AM Local]<br />[St. Peter's Basilica](https://www.basilicasanpietro.va/), Vatican City Out-of-Town Travel Pool |
 | 4:00 AM | The [President](https://www.donaldjtrump.com/) and The First Lady attend the Funeral Mass for the Roman Pontiff Francis [10:00 AM Local]<br />[St. Peter's Basilica](https://www.basilicasanpietro.va/), Vatican City Out-of-Town Travel Pool |
@@ -1420,7 +1420,7 @@ toc: true
 | 5:10 PM | The [President](https://www.donaldjtrump.com/) and The First Lady arrive [Newark Liberty International Airport (EWR)](https://www.newarkairport.com/)<br />[Newark Liberty International Airport (EWR)](https://www.newarkairport.com/) Out-of-Town Travel Pool |
 | 5:20 PM ⛳️| The [President](https://www.donaldjtrump.com/) and The First Lady depart [Newark Liberty International Airport (EWR)](https://www.newarkairport.com/) en route [Trump National Golf Club Bedminster](https://www.trumpnationalbedminster.com/)<br />[Newark Liberty International Airport (EWR)](https://www.newarkairport.com/) Out-of-Town Travel Pool |
 | 5:40 PM ⛳️| The [President](https://www.donaldjtrump.com/) and The First Lady arrive [Trump National Golf Club Bedminster](https://www.trumpnationalbedminster.com/)<br />[Trump National Golf Club Bedminster](https://www.trumpnationalbedminster.com/) Out-of-Town Travel Pool |
-| | **Friday, April 25 2025** |
+| | **Friday, April 25, 2025** |
 | 7:25 AM | Out-of-Town Travel Pool Call Time<br />[Joint Base Andrews (ADW)](https://www.jba.af.mil/) Out-of-Town Travel Pool |
 | 7:30 AM | In-Town Pool Call Time<br />[The White House](https://www.whitehouse.gov/) In-Town Pool |
 | 8:30 AM | The [President](https://www.donaldjtrump.com/) and The First Lady depart the [White House](https://www.whitehouse.gov/) en route [Joint Base Andrews (ADW)](https://www.jba.af.mil/)<br />[South Lawn](https://www.whitehouse.gov/) Open Press |
@@ -1430,7 +1430,7 @@ toc: true
 | 5:00 PM | The [President](https://www.donaldjtrump.com/) and The First Lady depart [Leonardo da Vinci International Airport (FCO)](https://www.adr.it/) en route [Villa Taverna](https://it.usembassy.gov/our-relationship/policy-history/residence/) [11:00 PM Local]<br />[Fiumicino Leonardo da Vinci International Airport (FCO)](https://www.adr.it/), Rome Out-of-Town Travel Pool |
 | 5:35 PM | The [President](https://www.donaldjtrump.com/) and The First Lady arrive [Villa Taverna](https://it.usembassy.gov/our-relationship/policy-history/residence/) [11:35 PM Local]<br />[Villa Taverna](https://it.usembassy.gov/our-relationship/policy-history/residence/), Rome, Italy Out-of-Town Travel Pool |
 | 6:06 PM | [White House](https://www.whitehouse.gov/) Press Office: Full lid called<br />[Villa Taverna](https://it.usembassy.gov/our-relationship/policy-history/residence/), Rome, Italy |
-| | **Thursday, April 24 2025** |
+| | **Thursday, April 24, 2025** |
 | 9:00 AM | In-Town Pool Call Time<br />[The White House](https://www.whitehouse.gov/) In-Town Pool |
 | 12:00 PM | The [President](https://www.donaldjtrump.com/) greets the [Prime Minister of the Kingdom of Norway](https://www.regjeringen.no/no/dep/smk/id875/)<br />Stakeout Location Open Press |
 | 12:05 PM | The [President](https://www.donaldjtrump.com/) participates in a Bilateral Lunch with the [Prime Minister of the Kingdom of Norway](https://www.regjeringen.no/no/dep/smk/id875/)<br />[Cabinet Room](https://www.whitehouse.gov/) Closed Press |
@@ -1447,7 +1447,7 @@ toc: true
 | 9:55 PM | The [President](https://www.donaldjtrump.com/) arrives [The White House](https://www.whitehouse.gov/)<br />[South Lawn](https://www.whitehouse.gov/) Open Press |
 | 10:14 PM | [White House](https://www.whitehouse.gov/) Press Office: Full lid called<br />[The White House](https://www.whitehouse.gov/) |
 | | 🔥 [White House](https://www.whitehouse.gov/) 💣|
-| | **Sunday, April 20 2025** |
+| | **Sunday, April 20, 2025** |
 | | [Donnie](https://www.donaldjtrump.com/) ~~has no public events scheduled~~plays golf🏌‍♂️<br />[The White House](https://www.whitehouse.gov/) |
 | 9:00 AM | In-Town Pool Call Time<br />[The White House](https://www.whitehouse.gov/) In-Town Pool |
 | 11:05 AM ⛳️| The [President](https://www.donaldjtrump.com/) departs the [White House](https://www.whitehouse.gov/) for [his golf club](https://www.trumpnationaldc.com/)<br />[The White House](https://www.whitehouse.gov/) |
@@ -1455,7 +1455,7 @@ toc: true
 | 3:49 PM ⛳️| The [President](https://www.donaldjtrump.com/) departs [Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/)<br />[Trump National Golf Club Washington DC](https://www.trumpnationaldc.com/) |
 | 4:21 PM | The [President](https://www.donaldjtrump.com/) arrives at the [White House](https://www.whitehouse.gov/)<br />[The White House](https://www.whitehouse.gov/) |
 | 4:29 PM | [White House](https://www.whitehouse.gov/) Press Office: Full lid called<br />[The White House](https://www.whitehouse.gov/) |
-| | **Saturday, April 19 2025** |
+| | **Saturday, April 19, 2025** |
 | | [Donnie](https://www.donaldjtrump.com/) ~~has no public events scheduled~~plays golf🏌‍♂️<br />[The White House](https://www.whitehouse.gov/) |
 | 7:30 AM | In-Town Pool Call Time<br />[The White House](https://www.whitehouse.gov/) In-Town Pool |
 | 9:19 AM ⛳️| The [President](https://www.donaldjtrump.com/) departs the [White House](https://www.whitehouse.gov/) for [his golf club](https://www.trumpnationaldc.com/)<br />[The White House](https://www.whitehouse.gov/) |
@@ -1464,7 +1464,7 @@ toc: true
 | 4:50 PM | The [President](https://www.donaldjtrump.com/) arrives at the [White House](https://www.whitehouse.gov/)<br />[The White House](https://www.whitehouse.gov/) |
 | 5:02 PM | [White House](https://www.whitehouse.gov/) Press Office: Full lid called<br />[The White House](https://www.whitehouse.gov/) |
 | | 🔥 [White House](https://www.whitehouse.gov/) 💣|
-| | **Sunday, April 13 2025** |
+| | **Sunday, April 13, 2025** |
 | 12:01 AM | The [President](https://www.donaldjtrump.com/) arrives [Palm Beach International Airport (PBI)](https://www.pbia.org/)<br />[Palm Beach International Airport (PBI)](https://www.pbia.org/) Out-of-Town Travel Pool |
 | 12:10 AM ⛳️| The [President](https://www.donaldjtrump.com/) departs [Palm Beach International Airport (PBI)](https://www.pbia.org/) en route [Mar-a-Lago](https://www.maralagoclub.com/)<br />[Palm Beach International Airport (PBI)](https://www.pbia.org/) Out-of-Town Travel Pool |
 | 12:25 AM ⛳️| The [President](https://www.donaldjtrump.com/) arrives at [Mar-a-Lago](https://www.maralagoclub.com/)<br />[Mar-a-Lago](https://www.maralagoclub.com/) In-Town Pool |
@@ -1480,7 +1480,7 @@ toc: true
 | 7:40 PM | The [President](https://www.donaldjtrump.com/) departs [Joint Base Andrews (ADW)](https://www.jba.af.mil/) en route [The White House](https://www.whitehouse.gov/)<br />[Joint Base Andrews (ADW)](https://www.jba.af.mil/) Out-of-Town Travel Pool |
 | 7:50 PM | The [President](https://www.donaldjtrump.com/) arrives [The White House](https://www.whitehouse.gov/)<br />[South Lawn](https://www.whitehouse.gov/) Open Press |
 | 10:36 PM | [White House](https://www.whitehouse.gov/) Press Office: Full lid called<br />[The White House](https://www.whitehouse.gov/) |
-| | **Saturday, April 12 2025** |
+| | **Saturday, April 12, 2025** |
 | 7:20 AM ⛳️| Out-of-Town Travel Pool Call Time<br />[Mar-a-Lago](https://www.maralagoclub.com/) Out-of-Town Travel Pool |
 | 8:51 AM ⛳️| The [President](https://www.donaldjtrump.com/) departs [Mar-a-Lago](https://www.maralagoclub.com/) for [his golf club](https://www.trumpinternationalpalmbeaches.com/)<br />[Mar-a-Lago](https://www.maralagoclub.com/) |
 | 8:58 AM ⛳️| The [President](https://www.donaldjtrump.com/) arrives at [Trump International Golf Club West Palm Beach](https://www.trumpinternationalpalmbeaches.com/)<br />[Trump International Golf Club West Palm Beach](https://www.trumpinternationalpalmbeaches.com/) |
@@ -1497,7 +1497,7 @@ toc: true
 | 11:05 PM | The [President](https://www.donaldjtrump.com/) departs [Kaseya Center](https://www.kaseyacenter.com/) en route [Miami International Airport (MIA)](https://miami-airport.com/)<br />[Kaseya Center](https://www.kaseyacenter.com/), Miami Out-of-Town Travel Pool |
 | 11:15 PM | The [President](https://www.donaldjtrump.com/) arrives [Miami International Airport (MIA)](https://miami-airport.com/)<br />[Miami International Airport (MIA)](https://miami-airport.com/) Out-of-Town Travel Pool |
 | 11:25 PM | The [President](https://www.donaldjtrump.com/) departs [Miami International Airport (MIA)](https://miami-airport.com/) en route [Palm Beach International Airport (PBI)](https://www.pbia.org/)<br />[Miami International Airport (MIA)](https://miami-airport.com/) Out-of-Town Travel Pool |
-| | **Friday, April 11 2025** |
+| | **Friday, April 11, 2025** |
 | 8:45 AM | In-Town Pool Call Time<br />[The White House](https://www.whitehouse.gov/) In-Town Pool |
 | 8:45 AM | Supplemental Pool Call Time<br />[Walter Reed National Military Medical Center](https://walterreed.tricare.mil/) In-Town Pool |
 | 10:50 AM | The [President](https://www.donaldjtrump.com/) departs [The White House](https://www.whitehouse.gov/) en route [Walter Reed Hospital](https://walterreed.tricare.mil/)<br />[South Lawn](https://www.whitehouse.gov/) Open Press |
@@ -1512,7 +1512,7 @@ toc: true
 | 6:40 PM ⛳️| The [President](https://www.donaldjtrump.com/) arrives at [Mar-a-Lago](https://www.maralagoclub.com/)<br />[Mar-a-Lago](https://www.maralagoclub.com/) Out-of-Town Travel Pool |
 | 8:25 PM ⛳️| [White House](https://www.whitehouse.gov/) Press Office: Full lid called<br />[Mar-a-Lago](https://www.maralagoclub.com/) |
 | | 🔥 [White House](https://www.whitehouse.gov/) 💣|
-| | **Sunday, April 6 2025** |
+| | **Sunday, April 6, 2025** |
 | 6:15 AM ⛳️| Out-of-Town Pool Call Time<br />[Mar-a-Lago](https://www.maralagoclub.com/) Out-of-Town Pool |
 | 7:53 AM ⛳️| The [President](https://www.donaldjtrump.com/) departs [Mar-a-Lago](https://www.maralagoclub.com/) for [his golf club](https://www.trumpnationaljupiter.com/)<br />[Mar-a-Lago](https://www.maralagoclub.com/) |
 | 8:14 AM ⛳️| The [President](https://www.donaldjtrump.com/) arrives at [Trump National Golf Club Jupiter](https://www.trumpnationaljupiter.com/)<br />[Trump National Golf Club Jupiter](https://www.trumpnationaljupiter.com/) |
@@ -1527,7 +1527,7 @@ toc: true
 | 7:40 PM | The [President](https://www.donaldjtrump.com/) departs [Joint Base Andrews (ADW)](https://www.jba.af.mil/) en route [The White House](https://www.whitehouse.gov/)<br />[Joint Base Andrews (ADW)](https://www.jba.af.mil/) Out-of-Town Travel Pool |
 | 7:50 PM | The [President](https://www.donaldjtrump.com/) arrives [The White House](https://www.whitehouse.gov/)<br />[South Lawn](https://www.whitehouse.gov/) Open Press |
 | 7:54 PM | [White House](https://www.whitehouse.gov/) Press Office: Full lid called<br />[The White House](https://www.whitehouse.gov/) |
-| | **Saturday, April 5 2025** |
+| | **Saturday, April 5, 2025** |
 | ⛳️| [Donnie](https://www.donaldjtrump.com/) ~~has no public events scheduled~~plays golf🏌‍♂️<br />[Mar-a-Lago](https://www.maralagoclub.com/) |
 | 6:45 AM ⛳️| Out-of-Town Pool Call Time<br />[Mar-a-Lago](https://www.maralagoclub.com/) Out-of-Town Pool |
 | 8:14 AM ⛳️| The [President](https://www.donaldjtrump.com/) departs [Mar-a-Lago](https://www.maralagoclub.com/) for [his golf club](https://www.trumpnationaljupiter.com/)<br />[Mar-a-Lago](https://www.maralagoclub.com/) |
@@ -1535,7 +1535,7 @@ toc: true
 | 12:21 PM ⛳️| The [President](https://www.donaldjtrump.com/) departs [Trump National Golf Club Jupiter](https://www.trumpnationaljupiter.com/) for [Mar-a-Lago](https://www.maralagoclub.com/)<br />[Trump National Golf Club Jupiter](https://www.trumpnationaljupiter.com/) |
 | 12:46 PM ⛳️| The [President](https://www.donaldjtrump.com/) arrives at [Mar-a-Lago](https://www.maralagoclub.com/)<br />[Mar-a-Lago](https://www.maralagoclub.com/) Out-of-Town Travel Pool |
 | 12:50 PM ⛳️| [White House](https://www.whitehouse.gov/) Press Office: Full lid called<br />[Mar-a-Lago](https://www.maralagoclub.com/) |
-| | **Friday, April 4 2025** |
+| | **Friday, April 4, 2025** |
 | 6:45 AM ⛳️| Out-of-Town Pool Call Time<br />[Mar-a-Lago](https://www.maralagoclub.com/) Out-of-Town Pool |
 | 9:36 AM ⛳️| The [President](https://www.donaldjtrump.com/) departs [Mar-a-Lago](https://www.maralagoclub.com/) for [his golf club](https://www.trumpinternationalpalmbeaches.com/)<br />[Mar-a-Lago](https://www.maralagoclub.com/) |
 | 9:45 AM ⛳️| The [President](https://www.donaldjtrump.com/) arrives at [Trump International Golf Club West Palm Beach](https://www.trumpinternationalpalmbeaches.com/)<br />[Trump International Golf Club West Palm Beach](https://www.trumpinternationalpalmbeaches.com/) |
@@ -1543,7 +1543,7 @@ toc: true
 | 3:35 PM ⛳️| The [President](https://www.donaldjtrump.com/) arrives at [Mar-a-Lago](https://www.maralagoclub.com/)<br />[Mar-a-Lago](https://www.maralagoclub.com/) |
 | 3:42 PM ⛳️| [White House](https://www.whitehouse.gov/) Press Office: Full lid called<br />[Mar-a-Lago](https://www.maralagoclub.com/) |
 | 7:30 PM 💰| The [President](https://www.donaldjtrump.com/) attends a [MAGA Inc.](https://www.magapac.com/) Candelight Dinner<br />[Mar-a-Lago](https://www.maralagoclub.com/) Closed Press |
-| | **Thursday, April 3 2025** |
+| | **Thursday, April 3, 2025** |
 | 9:00 AM | In-Town Pool Call Time<br />[The White House](https://www.whitehouse.gov/) In-Town Pool |
 | 11:39 AM | [White House](https://www.whitehouse.gov/) Press Office: Lunch lid until 12:30 PM<br />[The White House](https://www.whitehouse.gov/) |
 | 1:00 PM | The [President](https://www.donaldjtrump.com/) receives his Intelligence Briefing<br />[The White House](https://www.whitehouse.gov/) Closed Press |
@@ -1560,7 +1560,7 @@ toc: true
 | 10:00 PM ⛳️| The [President](https://www.donaldjtrump.com/) arrives at [Mar-a-Lago](https://www.maralagoclub.com/)<br />[Mar-a-Lago](https://www.maralagoclub.com/) Out-of-Town Travel Pool |
 | 10:52 PM ⛳️| [White House](https://www.whitehouse.gov/) Press Office: Full lid called<br />[Mar-a-Lago](https://www.maralagoclub.com/) |
 | | 🔥 [White House](https://www.whitehouse.gov/) 💣|
-| | **Sunday, March 30 2025** |
+| | **Sunday, March 30, 2025** |
 | 7:00 AM ⛳️| Out-of-Town Pool Call Time<br />[Mar-a-Lago](https://www.maralagoclub.com/) Out-of-Town Pool |
 | 8:53 AM ⛳️| The [President](https://www.donaldjtrump.com/) departs [Mar-a-Lago](https://www.maralagoclub.com/) for [his golf club](https://www.trumpinternationalpalmbeaches.com/)<br />[Mar-a-Lago](https://www.maralagoclub.com/) |
 | 8:59 AM ⛳️| The [President](https://www.donaldjtrump.com/) arrives at [Trump International Golf Club West Palm Beach](https://www.trumpinternationalpalmbeaches.com/)<br />[Trump International Golf Club West Palm Beach](https://www.trumpinternationalpalmbeaches.com/) |
@@ -1574,7 +1574,7 @@ toc: true
 | 7:40 PM | The [President](https://www.donaldjtrump.com/) departs [Joint Base Andrews (ADW)](https://www.jba.af.mil/) en route [The White House](https://www.whitehouse.gov/)<br />[Palm Beach International Airport (PBI)](https://www.pbia.org/) Out-of-Town Travel Pool |
 | 7:50 PM | The [President](https://www.donaldjtrump.com/) arrives [The White House](https://www.whitehouse.gov/)<br />[South Lawn](https://www.whitehouse.gov/) Open Press |
 | 8:12 PM | [White House](https://www.whitehouse.gov/) Press Office: Full lid called<br />[The White House](https://www.whitehouse.gov/) |
-| | **Saturday, March 29 2025** |
+| | **Saturday, March 29, 2025** |
 | ⛳️| [Donnie](https://www.donaldjtrump.com/) ~~has no public events scheduled~~plays golf🏌‍♂️<br />[Mar-a-Lago](https://www.maralagoclub.com/) |
 | 7:00 AM ⛳️| Out-of-Town Pool Call Time<br />[Mar-a-Lago](https://www.maralagoclub.com/) Out-of-Town Pool |
 | 9:06 AM ⛳️| The [President](https://www.donaldjtrump.com/) departs [Mar-a-Lago](https://www.maralagoclub.com/) for [his golf club](https://www.trumpinternationalpalmbeaches.com/)<br />[Mar-a-Lago](https://www.maralagoclub.com/) |
@@ -1582,7 +1582,7 @@ toc: true
 | 3:50 PM ⛳️| The [President](https://www.donaldjtrump.com/) departs [Trump International Golf Club West Palm Beach](https://www.trumpinternationalpalmbeaches.com/) for [Mar-a-Lago](https://www.maralagoclub.com/)<br />[Trump International Golf Club West Palm Beach](https://www.trumpinternationalpalmbeaches.com/) |
 | 3:59 PM ⛳️| The [President](https://www.donaldjtrump.com/) arrives at [Mar-a-Lago](https://www.maralagoclub.com/)<br />[Mar-a-Lago](https://www.maralagoclub.com/) |
 | 4:14 PM ⛳️| [White House](https://www.whitehouse.gov/) Press Office: Full lid called<br />[Mar-a-Lago](https://www.maralagoclub.com/) |
-| | **Friday, March 28 2025** |
+| | **Friday, March 28, 2025** |
 | 9:00 AM | In-Town Pool Call Time<br />[The White House](https://www.whitehouse.gov/) In-Town Pool |
 | 12:45 PM | Out-of-Town Pool Call Time<br />[Joint Base Andrews (ADW)](https://www.jba.af.mil/) Out-of-Town Pool |
 | 1:00 PM | The [President](https://www.donaldjtrump.com/) participates in the Swearing-In Ceremony for the U.S. Attorney for New Jersey<br />[Oval Office](https://www.whitehouse.gov/) [White House](https://www.whitehouse.gov/) Press Pool |
@@ -1594,7 +1594,7 @@ toc: true
 | 4:50 PM ⛳️| The [President](https://www.donaldjtrump.com/) arrives at [Mar-a-Lago](https://www.maralagoclub.com/)<br />[Mar-a-Lago](https://www.maralagoclub.com/) Out-of-Town Travel Pool |
 | 4:52 PM ⛳️| [White House](https://www.whitehouse.gov/) Press Office: Full lid called<br />[Mar-a-Lago](https://www.maralagoclub.com/) |
 | | 🔥 [White House](https://www.whitehouse.gov/) 💣|
-| | **Saturday, March 22 2025** |
+| | **Saturday, March 22, 2025** |
 | 2:30 PM ⛳️| Out-of-Town Travel Pool Call Time<br />[Trump National Golf Club Bedminster](https://www.trumpnationalbedminster.com/) Out-of-Town Travel Pool |
 | 5:45 PM ⛳️| The [President](https://www.donaldjtrump.com/) departs [Trump National Golf Club Bedminster](https://www.trumpnationalbedminster.com/) en route [Morristown Municipal Airport (MMU)](https://www.mmuair.com/)<br />[Trump National Golf Club Bedminster](https://www.trumpnationalbedminster.com/) Closed Press |
 | 5:55 PM | The [President](https://www.donaldjtrump.com/) arrives [Morristown Municipal Airport (MMU)](https://www.mmuair.com/)<br />[Morristown Municipal Airport (MMU)](https://www.mmuair.com/) Out-of-Town Travel Pool |
@@ -1609,7 +1609,7 @@ toc: true
 | 10:15 PM | The [President](https://www.donaldjtrump.com/) arrives [Joint Base Andrews (ADW)](https://www.jba.af.mil/)<br />[Joint Base Andrews (ADW)](https://www.jba.af.mil/) Out-of-Town Travel Pool |
 | 10:25 PM | The [President](https://www.donaldjtrump.com/) departs [Joint Base Andrews (ADW)](https://www.jba.af.mil/) en route [The White House](https://www.whitehouse.gov/)<br />[Joint Base Andrews (ADW)](https://www.jba.af.mil/) Out-of-Town Travel Pool |
 | 10:35 PM | The [President](https://www.donaldjtrump.com/) arrives [The White House](https://www.whitehouse.gov/)<br />[South Lawn](https://www.whitehouse.gov/) Open Press |
-| | **Friday, March 21 2025** |
+| | **Friday, March 21, 2025** |
 | 9:00 AM | In-Town Pool Call Time<br />[The White House](https://www.whitehouse.gov/) In-Town Pool |
 | 11:00 AM | The [President](https://www.donaldjtrump.com/) and the [Secretary](https://www.defense.gov/About/Biographies/Biography/Article/4040890/hon-pete-hegseth/) of [Defense](https://www.defense.gov/) [Pete Hegseth](https://www.linkedin.com/in/petehegseth/) deliver remarks<br />[Oval Office](https://www.whitehouse.gov/) [White House](https://www.whitehouse.gov/) Press Pool |
 | 12:43 PM | [White House](https://www.whitehouse.gov/) Press Office: Lunch lid until 1:30 PM<br />[The White House](https://www.whitehouse.gov/) |
@@ -1622,7 +1622,7 @@ toc: true
 | 6:30 PM ⛳️| The [President](https://www.donaldjtrump.com/) arrives [Trump National Golf Club Bedminster](https://www.trumpnationalbedminster.com/)<br />[Trump National Golf Club Bedminster](https://www.trumpnationalbedminster.com/) Closed Press |
 | 6:50 PM ⛳️| [White House](https://www.whitehouse.gov/) Press Office: Full lid called<br />[Trump National Golf Club Bedminster](https://www.trumpnationalbedminster.com/) |
 | | 🔥 [White House](https://www.whitehouse.gov/) 💣|
-| | **Sunday, March 16 2025** |
+| | **Sunday, March 16, 2025** |
 | 6:15 AM ⛳️| Out-of-Town Pool Call Time<br />[Mar-a-Lago](https://www.maralagoclub.com/) Out-of-Town Pool |
 | 8:30 AM ⛳️| The [President](https://www.donaldjtrump.com/) departs [Mar-a-Lago](https://www.maralagoclub.com/) for [his golf club](https://www.trumpinternationalpalmbeaches.com/)<br />[Mar-a-Lago](https://www.maralagoclub.com/) |
 | 8:38 AM ⛳️| The [President](https://www.donaldjtrump.com/) arrives at [Trump International Golf Club West Palm Beach](https://www.trumpinternationalpalmbeaches.com/)<br />[Trump International Golf Club West Palm Beach](https://www.trumpinternationalpalmbeaches.com/) |
@@ -1638,7 +1638,7 @@ toc: true
 | 11:35 PM | The [President](https://www.donaldjtrump.com/) arrives [Joint Base Andrews (ADW)](https://www.jba.af.mil/)<br />[Joint Base Andrews (ADW)](https://www.jba.af.mil/) Out-of-town Travel Pool |
 | 11:45 PM | The [President](https://www.donaldjtrump.com/) departs [Joint Base Andrews (ADW)](https://www.jba.af.mil/) en route [The White House](https://www.whitehouse.gov/)<br />[Joint Base Andrews (ADW)](https://www.jba.af.mil/) Out-of-town Travel Pool |
 | 11:55 PM | The [President](https://www.donaldjtrump.com/) arrives [The White House](https://www.whitehouse.gov/)<br />[The White House](https://www.whitehouse.gov/) Open Press |
-| | **Saturday, March 15 2025** |
+| | **Saturday, March 15, 2025** |
 | ⛳️| [Donnie](https://www.donaldjtrump.com/) ~~has no public events scheduled~~plays golf🏌‍♂️<br />[Mar-a-Lago](https://www.maralagoclub.com/) |
 | 5:45 AM ⛳️| Out-of-Town Pool Call Time<br />[Mar-a-Lago](https://www.maralagoclub.com/) Out-of-Town Pool |
 | 8:14 AM ⛳️| The [President](https://www.donaldjtrump.com/) departs [Mar-a-Lago](https://www.maralagoclub.com/) for [his golf club](https://www.trumpinternationalpalmbeaches.com/)<br />[Mar-a-Lago](https://www.maralagoclub.com/) |
@@ -1647,7 +1647,7 @@ toc: true
 | 2:56 PM ⛳️| The [President](https://www.donaldjtrump.com/) arrives at [Mar-a-Lago](https://www.maralagoclub.com/)<br />[Mar-a-Lago](https://www.maralagoclub.com/) |
 | 3:37 PM ⛳️| [White House](https://www.whitehouse.gov/) Press Office: Full lid called<br />[Mar-a-Lago](https://www.maralagoclub.com/) |
 | 7:00 PM 💰| The [President](https://www.donaldjtrump.com/) hosts a candlelight fundraising dinner at [Mar-a-Lago](https://www.maralagoclub.com/) [Note: Time is estimated]<br />[Mar-a-Lago](https://www.maralagoclub.com/) |
-| | **Friday, March 14 2025** |
+| | **Friday, March 14, 2025** |
 | 9:00 AM | In-Town Pool Call Time<br />[The White House](https://www.whitehouse.gov/) In-Town Pool |
 | 12:00 PM | The [President](https://www.donaldjtrump.com/) signs Executive Orders<br />[Oval Office](https://www.whitehouse.gov/) Closed Press |
 | 2:50 PM | The [President](https://www.donaldjtrump.com/) departs [The White House](https://www.whitehouse.gov/) en route the [Department of Justice](https://www.justice.gov/)<br />[South Portico](https://www.whitehouse.gov/) In-Town Travel Pool |
@@ -1664,7 +1664,7 @@ toc: true
 | 8:10 PM ⛳️| The [President](https://www.donaldjtrump.com/) arrives at [Mar-a-Lago](https://www.maralagoclub.com/)<br />[Mar-a-Lago](https://www.maralagoclub.com/) Out-of-town Travel Pool |
 | 8:23 PM ⛳️| [White House](https://www.whitehouse.gov/) Press Office: Full lid called<br />[Mar-a-Lago](https://www.maralagoclub.com/) |
 | | 🔥 [White House](https://www.whitehouse.gov/) 💣|
-| | **Sunday, March 9 2025** |
+| | **Sunday, March 9, 2025** |
 | 6:30 AM ⛳️| Out-of-Town Travel Pool Call Time<br />[Mar-a-Lago](https://www.maralagoclub.com/) Out-of-Town Travel Pool |
 | 8:38 AM ⛳️| The [President](https://www.donaldjtrump.com/) departs [Mar-a-Lago](https://www.maralagoclub.com/) for [his golf club](https://www.trumpinternationalpalmbeaches.com/)<br />[Mar-a-Lago](https://www.maralagoclub.com/) |
 | 8:44 AM ⛳️| The [President](https://www.donaldjtrump.com/) arrives at [Trump International Golf Club West Palm Beach](https://www.trumpinternationalpalmbeaches.com/)<br />[Trump International Golf Club West Palm Beach](https://www.trumpinternationalpalmbeaches.com/) |
@@ -1678,7 +1678,7 @@ toc: true
 | 7:40 PM | The [President](https://www.donaldjtrump.com/) departs [Joint Base Andrews (ADW)](https://www.jba.af.mil/) en route [The White House](https://www.whitehouse.gov/)<br />[Joint Base Andrews (ADW)](https://www.jba.af.mil/) Out-of-Town Pool |
 | 7:50 PM | The [President](https://www.donaldjtrump.com/) arrives [The White House](https://www.whitehouse.gov/)<br />[South Lawn](https://www.whitehouse.gov/) Open Press |
 | 7:56 PM | [White House](https://www.whitehouse.gov/) Press Office: Full lid called<br />[The White House](https://www.whitehouse.gov/) |
-| | **Saturday, March 8 2025** |
+| | **Saturday, March 8, 2025** |
 | ⛳️| [Donnie](https://www.donaldjtrump.com/) ~~has no public events scheduled~~plays golf🏌‍♂️<br />[Mar-a-Lago](https://www.maralagoclub.com/) |
 | 6:30 AM ⛳️| Out-of-Town Pool Call Time<br />[Mar-a-Lago](https://www.maralagoclub.com/) Out-of-Town Pool |
 | 8:09 AM ⛳️| The [President](https://www.donaldjtrump.com/) departs [Mar-a-Lago](https://www.maralagoclub.com/) for [his golf club](https://www.trumpinternationalpalmbeaches.com/)<br />[Mar-a-Lago](https://www.maralagoclub.com/) |
@@ -1686,7 +1686,7 @@ toc: true
 | 1:23 PM ⛳️| The [President](https://www.donaldjtrump.com/) departs [Trump International Golf Club West Palm Beach](https://www.trumpinternationalpalmbeaches.com/) for [Mar-a-Lago](https://www.maralagoclub.com/)<br />[Trump International Golf Club West Palm Beach](https://www.trumpinternationalpalmbeaches.com/) |
 | 1:29 PM ⛳️| The [President](https://www.donaldjtrump.com/) arrives at [Mar-a-Lago](https://www.maralagoclub.com/)<br />[Mar-a-Lago](https://www.maralagoclub.com/) |
 | 2:02 PM ⛳️| [White House](https://www.whitehouse.gov/) Press Office: Full lid called<br />[Mar-a-Lago](https://www.maralagoclub.com/) |
-| | **Friday, March 7 2025** |
+| | **Friday, March 7, 2025** |
 | 9:00 AM | In-Town Pool Call Time<br />[The White House](https://www.whitehouse.gov/) In-Town Pool |
 | 11:00 AM | The [President](https://www.donaldjtrump.com/) delivers remarks<br />[Oval Office](https://www.whitehouse.gov/) [White House](https://www.whitehouse.gov/) Press Pool |
 | 2:30 PM | The [President](https://www.donaldjtrump.com/) signs Executive Orders<br />[Oval Office](https://www.whitehouse.gov/) Closed Press |
@@ -1700,7 +1700,7 @@ toc: true
 | 7:50 PM ⛳️| The [President](https://www.donaldjtrump.com/) arrives at [Mar-a-Lago](https://www.maralagoclub.com/)<br />[Mar-a-Lago](https://www.maralagoclub.com/) Out-of-Town Travel Pool |
 | 8:30 PM ⛳️| [White House](https://www.whitehouse.gov/) Press Office: Full lid called<br />[Mar-a-Lago](https://www.maralagoclub.com/) |
 | | 🔥 [White House](https://www.whitehouse.gov/) 💣|
-| | **Sunday, March 2 2025** |
+| | **Sunday, March 2, 2025** |
 | 7:00 AM ⛳️| Out-of-Town Travel Pool Call Time<br />[Mar-a-Lago](https://www.maralagoclub.com/) Out-of-Town Travel Pool |
 | 8:52 AM ⛳️| The [President](https://www.donaldjtrump.com/) departs [Mar-a-Lago](https://www.maralagoclub.com/) for [his golf club](https://www.trumpinternationalpalmbeaches.com/)<br />[Mar-a-Lago](https://www.maralagoclub.com/) |
 | 9:00 AM ⛳️| The [President](https://www.donaldjtrump.com/) arrives at [Trump International Golf Club West Palm Beach](https://www.trumpinternationalpalmbeaches.com/)<br />[Trump International Golf Club West Palm Beach](https://www.trumpinternationalpalmbeaches.com/) |
@@ -1714,7 +1714,7 @@ toc: true
 | 7:35 PM | The [President](https://www.donaldjtrump.com/) departs [Joint Base Andrews (ADW)](https://www.jba.af.mil/) en route [The White House](https://www.whitehouse.gov/)<br />[Joint Base Andrews (ADW)](https://www.jba.af.mil/) Out-of-Town Pool |
 | 7:45 PM | The [President](https://www.donaldjtrump.com/) arrives [The White House](https://www.whitehouse.gov/)<br />[South Lawn](https://www.whitehouse.gov/) Open Press |
 | 8:14 PM | [White House](https://www.whitehouse.gov/) Press Office: Full lid called<br />[The White House](https://www.whitehouse.gov/) |
-| | **Saturday, March 1 2025** |
+| | **Saturday, March 1, 2025** |
 | 7:00 AM ⛳️| Out-of-Town Pool Call Time<br />[Mar-a-Lago](https://www.maralagoclub.com/) Out-of-Town Pool |
 | 9:02 AM ⛳️| The [President](https://www.donaldjtrump.com/) departs [Mar-a-Lago](https://www.maralagoclub.com/) for [his golf club](https://www.trumpinternationalpalmbeaches.com/)<br />[Mar-a-Lago](https://www.maralagoclub.com/) |
 | 9:10 AM ⛳️| The [President](https://www.donaldjtrump.com/) arrives at [Trump International Golf Club West Palm Beach](https://www.trumpinternationalpalmbeaches.com/)<br />[Trump International Golf Club West Palm Beach](https://www.trumpinternationalpalmbeaches.com/) |
@@ -1723,7 +1723,7 @@ toc: true
 | 5:29 PM ⛳️| [White House](https://www.whitehouse.gov/) Press Office: Full lid called<br />[Mar-a-Lago](https://www.maralagoclub.com/) |
 | 7:00 PM 💰| The [President](https://www.donaldjtrump.com/) attends the [MAGA INC.](https://www.magapac.com/) Candlelight Finance Dinner<br />[Mar-a-Lago](https://www.maralagoclub.com/) Closed Press |
 | | 🔥 [White House](https://www.whitehouse.gov/) 💣|
-| | **Saturday, February 22 2025** |
+| | **Saturday, February 22, 2025** |
 | 11:00 AM | In-Town Pool Call Time<br />[The White House](https://www.whitehouse.gov/) In-Town Pool |
 | 1:00 PM | The [President](https://www.donaldjtrump.com/) departs [The White House](https://www.whitehouse.gov/) en route [National Harbor South Pointe](https://www.nationalharbor.com/meetings-groups/event-spaces/waterfront-event-spaces/southpointe/) Lot Landing Zone<br />[South Lawn](https://www.whitehouse.gov/) Open Press |
 | 1:10 PM | The [President](https://www.donaldjtrump.com/) arrives [National Harbor SouthPointe](https://www.nationalharbor.com/meetings-groups/event-spaces/waterfront-event-spaces/southpointe/) Lot Landing Zone<br />[National Harbor SouthPointe](https://www.nationalharbor.com/meetings-groups/event-spaces/waterfront-event-spaces/southpointe/), Oxon Hill, [MD](https://www.maryland gov/) In-Town Travel Pool |
@@ -1738,7 +1738,7 @@ toc: true
 | 6:45 PM | The [President](https://www.donaldjtrump.com/) and The First Lady participate in the [National Governors Association](https://www.nga.org%) Evening Dinner and Reception<br />[East Room](https://www.whitehouse.gov/) In-Town Travel Pool |
 | 8:39 PM | [White House](https://www.whitehouse.gov/) Press Office: Full lid called<br />[The White House](https://www.whitehouse.gov/) |
 | | 🔥 [White House](https://www.whitehouse.gov/) 💣|
-| | **Wednesday, February 19 2025** |
+| | **Wednesday, February 19, 2025** |
 | 6:45 AM ⛳️| Out-of-Town Pool Call Time<br />[Mar-a-Lago](https://www.maralagoclub.com/) Out-of-Town Pool |
 | 8:00 AM ⛳️| The [President](https://www.donaldjtrump.com/) departs [Mar-a-Lago](https://www.maralagoclub.com/) en route [Palm Beach International Airport (PBI)](https://www.pbia.org/)<br />[Mar-a-Lago](https://www.maralagoclub.com/) Out-of-Town Travel Pool |
 | 8:15 AM | The [President](https://www.donaldjtrump.com/) arrives [Palm Beach International Airport (PBI)](https://www.pbia.org/)<br />[Palm Beach International Airport (PBI)](https://www.pbia.org/) Out-of-Town Travel Pool |
@@ -1759,7 +1759,7 @@ toc: true
 | 9:00 PM | The [President](https://www.donaldjtrump.com/) departs [Joint Base Andrews (ADW)](https://www.jba.af.mil/) en route [The White House](https://www.whitehouse.gov/)<br />[Joint Base Andrews (ADW)](https://www.jba.af.mil/) Out-of-Town Travel Pool |
 | 9:10 PM | The [President](https://www.donaldjtrump.com/) arrives at [The White House](https://www.whitehouse.gov/)<br />[South Lawn](https://www.whitehouse.gov/) Open Press |
 | 10:00 PM | [White House](https://www.whitehouse.gov/) Press Office: Full lid called<br />[The White House](https://www.whitehouse.gov/) |
-| | **Tuesday, February 18 2025** |
+| | **Tuesday, February 18, 2025** |
 | 7:10 AM ⛳️| Out-of-Town Pool Call Time<br />[Mar-a-Lago](https://www.maralagoclub.com/) Out-of-Town Pool |
 | 9:40 AM ⛳️| The [President](https://www.donaldjtrump.com/) departs [Mar-a-Lago](https://www.maralagoclub.com/) for [his golf club](https://www.trumpinternationalpalmbeaches.com/)<br />[Mar-a-Lago](https://www.maralagoclub.com/) |
 | 9:47 AM ⛳️| The [President](https://www.donaldjtrump.com/) arrives at [Trump International Golf Club West Palm Beach](https://www.trumpinternationalpalmbeaches.com/)<br />[Trump International Golf Club West Palm Beach](https://www.trumpinternationalpalmbeaches.com/) |
@@ -1767,7 +1767,7 @@ toc: true
 | 2:02 PM ⛳️| The [President](https://www.donaldjtrump.com/) arrives at [Mar-a-Lago](https://www.maralagoclub.com/)<br />[Mar-a-Lago](https://www.maralagoclub.com/) |
 | 4:00 PM ⛳️| The [President](https://www.donaldjtrump.com/) signs Executive Orders<br />[Mar-a-Lago](https://www.maralagoclub.com/) Expanded Out-of-Town Travel Pool |
 | 5:24 PM ⛳️| [White House](https://www.whitehouse.gov/) Press Office: Full lid called<br />[Mar-a-Lago](https://www.maralagoclub.com/) |
-| | **Monday, February 17 2025** |
+| | **Monday, February 17, 2025** |
 | ⛳️| [Donnie](https://www.donaldjtrump.com/) ~~has no public events scheduled~~plays golf🏌‍♂️<br />[Mar-a-Lago](https://www.maralagoclub.com/) |
 | 6:45 AM ⛳️| Out-of-Town Pool Call Time<br />[Mar-a-Lago](https://www.maralagoclub.com/) Out-of-Town Pool |
 | 9:22 AM ⛳️| The [President](https://www.donaldjtrump.com/) departs [Mar-a-Lago](https://www.maralagoclub.com/) for [his golf club](https://www.trumpinternationalpalmbeaches.com/)<br />[Mar-a-Lago](https://www.maralagoclub.com/) |
@@ -1775,7 +1775,7 @@ toc: true
 | 3:13 PM ⛳️| The [President](https://www.donaldjtrump.com/) departs [Trump International Golf Club West Palm Beach](https://www.trumpinternationalpalmbeaches.com/) for [Mar-a-Lago](https://www.maralagoclub.com/)<br />[Trump International Golf Club West Palm Beach](https://www.trumpinternationalpalmbeaches.com/) |
 | 3:20 PM ⛳️| The [President](https://www.donaldjtrump.com/) arrives at [Mar-a-Lago](https://www.maralagoclub.com/)<br />[Mar-a-Lago](https://www.maralagoclub.com/) |
 | 3:57 PM ⛳️| [White House](https://www.whitehouse.gov/) Press Office: Full lid called<br />[Mar-a-Lago](https://www.maralagoclub.com/) |
-| | **Sunday, February 16 2025** |
+| | **Sunday, February 16, 2025** |
 | 9:45 AM ⛳️| Out-of-Town Pool Call Time<br />[Mar-a-Lago](https://www.maralagoclub.com/) Out-of-Town Pool |
 | 11:30 AM ⛳️| The [President](https://www.donaldjtrump.com/) departs [Mar-a-Lago](https://www.maralagoclub.com/) en route [Palm Beach International Airport (PBI)](https://www.pbia.org/)<br />[Mar-a-Lago](https://www.maralagoclub.com/) Out-of-Town Travel Pool |
 | 11:45 AM | The [President](https://www.donaldjtrump.com/) arrives [Palm Beach International Airport (PBI)](https://www.pbia.org/)<br />[Palm Beach International Airport (PBI)](https://www.pbia.org/) Out-of-Town Travel Pool |
@@ -1790,7 +1790,7 @@ toc: true
 | 4:16 PM ⛳️| [White House](https://www.whitehouse.gov/) Press Office: Full lid called<br />[Mar-a-Lago](https://www.maralagoclub.com/) |
 | 4:25 PM ⛳️| The [President](https://www.donaldjtrump.com/) departs [Palm Beach International Airport (PBI)](https://www.pbia.org/) en route [Mar-a-Lago](https://www.maralagoclub.com/)<br />[Palm Beach International Airport (PBI)](https://www.pbia.org/) Out-of-Town Travel Pool |
 | 4:40 PM ⛳️| The [President](https://www.donaldjtrump.com/) arrives at [Mar-a-Lago](https://www.maralagoclub.com/)<br />[Mar-a-Lago](https://www.maralagoclub.com/) Out-of-Town Travel Pool |
-| | **Saturday, February 15 2025** |
+| | **Saturday, February 15, 2025** |
 | ⛳️| [Donnie](https://www.donaldjtrump.com/) ~~has no public events scheduled~~plays golf🏌‍♂️<br />[Mar-a-Lago](https://www.maralagoclub.com/) |
 | 8:00 AM ⛳️| Out-of-Town Pool Call Time<br />[Mar-a-Lago](https://www.maralagoclub.com/) Out-of-Town Pool |
 | 10:11 AM ⛳️✈️| The [President](https://www.donaldjtrump.com/) departs [Mar-a-Lago](https://www.maralagoclub.com/) for a tour of a Boeing Plane and his golf club<br />[Mar-a-Lago](https://www.maralagoclub.com/) |
@@ -1800,7 +1800,7 @@ toc: true
 | 4:45 PM ⛳️| The [President](https://www.donaldjtrump.com/) departs [Trump International Golf Club West Palm Beach](https://www.trumpinternationalpalmbeaches.com/) for [Mar-a-Lago](https://www.maralagoclub.com/)<br />[Trump International Golf Club West Palm Beach](https://www.trumpinternationalpalmbeaches.com/) |
 | 4:54 PM ⛳️| The [President](https://www.donaldjtrump.com/) arrives at [Mar-a-Lago](https://www.maralagoclub.com/)<br />[Mar-a-Lago](https://www.maralagoclub.com/) |
 | 5:32 PM ⛳️| [White House](https://www.whitehouse.gov/) Press Office: Full lid called<br />[Mar-a-Lago](https://www.maralagoclub.com/) |
-| | **Friday, February 14 2025** |
+| | **Friday, February 14, 2025** |
 | 9:00 AM | In-Town Pool Call Time<br />[The White House](https://www.whitehouse.gov/) In-Town Pool |
 | 11:48 AM | The [President](https://www.donaldjtrump.com/) and [Elon Musk](https://ir.tesla.com/corporate/elon-musk) sit for a 73-minute interview with [Sean Hannity](https://www.foxnews.com/person/h/sean-hannity) of [Faux News](https://www.foxnews.com/)<br />[Roosevelt Room](https://www.whitehouse.gov/) Closed Press |
 | 12:00 PM | Out-of-Town Pool Call Time<br />[Joint Base Andrews (ADW)](https://www.jba.af.mil/) Out-of-Town Pool |
@@ -1813,7 +1813,7 @@ toc: true
 | 4:50 PM ⛳️| The [President](https://www.donaldjtrump.com/) arrives at [Mar-a-Lago](https://www.maralagoclub.com/)<br />[Mar-a-Lago](https://www.maralagoclub.com/) Out-of-Town Travel Pool |
 | 5:58 PM ⛳️| [White House](https://www.whitehouse.gov/) Press Office: Full lid called<br />[Mar-a-Lago](https://www.maralagoclub.com/) |
 | | 🔥 [White House](https://www.whitehouse.gov/) 💣|
-| | **Sunday, February 9 2025** |
+| | **Sunday, February 9, 2025** |
 | 6:45 AM ⛳️| Out-of-Town Pool Call Time<br />[Mar-a-Lago](https://www.maralagoclub.com/) Out-of-Town Pool |
 | 8:27 AM ⛳️| The [President](https://www.donaldjtrump.com/) departs [Mar-a-Lago](https://www.maralagoclub.com/) for [his golf club](https://www.trumpinternationalpalmbeaches.com/)<br />[Mar-a-Lago](https://www.maralagoclub.com/) |
 | 8:36 AM ⛳️| The [President](https://www.donaldjtrump.com/) arrives at [Trump International Golf Club West Palm Beach](https://www.trumpinternationalpalmbeaches.com/) to play golf with Tiger Woods<br />[Trump International Golf Club West Palm Beach](https://www.trumpinternationalpalmbeaches.com/) |
@@ -1830,14 +1830,14 @@ toc: true
 | 9:45 PM | The [President](https://www.donaldjtrump.com/) departs [Naval Air Station Joint Reserve Base New Orleans](https://www.navymwrneworleans.com/) en route [Joint Base Andrews (ADW)](https://www.jba.af.mil/) [8:45 PM Local]<br />[Naval Air Station Joint Reserve Base New Orleans](https://www.navymwrneworleans.com/) Out-of-Town Travel Pool |
 | 10:45 PM | In-Town Pool Call Time<br />[The White House](https://www.whitehouse.gov/) In-Town Pool |
 | 11:50 PM | The [President](https://www.donaldjtrump.com/) arrives [Joint Base Andrews (ADW)](https://www.jba.af.mil/)<br />[Joint Base Andrews (ADW)](https://www.jba.af.mil/) Out-of-Town Travel Pool |
-| | **Saturday, February 8 2025** |
+| | **Saturday, February 8, 2025** |
 | ⛳️| ⬢ [Note: [The White House](https://www.whitehouse.gov/) did not send a schedule for February 8, 2025. The events here were reconstructed from pool reports]<br />[The White House](https://www.whitehouse.gov/) |
 | 9:14 AM ⛳️| The [President](https://www.donaldjtrump.com/) departs [Mar-a-Lago](https://www.maralagoclub.com/) for [his golf club](https://www.trumpinternationalpalmbeaches.com/)<br />[Mar-a-Lago](https://www.maralagoclub.com/) |
 | 9:21 AM ⛳️| The [President](https://www.donaldjtrump.com/) arrives at [Trump International Golf Club West Palm Beach](https://www.trumpinternationalpalmbeaches.com/)<br />[Trump International Golf Club West Palm Beach](https://www.trumpinternationalpalmbeaches.com/) |
 | 1:40 PM ⛳️| The [President](https://www.donaldjtrump.com/) departs [Trump International Golf Club West Palm Beach](https://www.trumpinternationalpalmbeaches.com/) for [Mar-a-Lago](https://www.maralagoclub.com/)<br />[Trump International Golf Club West Palm Beach](https://www.trumpinternationalpalmbeaches.com/) |
 | 1:50 PM ⛳️| The [President](https://www.donaldjtrump.com/) arrives at [Mar-a-Lago](https://www.maralagoclub.com/)<br />[Mar-a-Lago](https://www.maralagoclub.com/) |
 | 2:51 PM ⛳️| [White House](https://www.whitehouse.gov/) Press Office: Full lid called<br />[Mar-a-Lago](https://www.maralagoclub.com/) |
-| | **Friday, February 7 2025** |
+| | **Friday, February 7, 2025** |
 | 9:00 AM | In-Town Pool Call Time<br />[The White House](https://www.whitehouse.gov/) In-Town Pool |
 | 11:30 AM | The [President](https://www.donaldjtrump.com/) greets the [Prime Minister of Japan](https://japan.kantei.go.jp/)<br />[The White House](https://www.whitehouse.gov/) Open Press |
 | 11:35 AM | The [President](https://www.donaldjtrump.com/) hosts a bilateral meeting with the [Prime Minister of Japan](https://japan.kantei.go.jp/)<br />[Oval Office](https://www.whitehouse.gov/) In-House Pool |
@@ -1854,7 +1854,7 @@ toc: true
 | 8:05 PM 💰| The [President](https://www.donaldjtrump.com/) addresses GOP senators at dinner at [Mar-a-Lago](https://www.maralagoclub.com/)<br />[ccMar-A-Lago](https://www.maralagoclub.com/) Out-of-Town Travel Pool |
 | 8:49 PM ⛳️| [White House](https://www.whitehouse.gov/) Press Office: Full lid called<br />[Mar-a-Lago](https://www.maralagoclub.com/) |
 | | 🔥 [White House](https://www.whitehouse.gov/) 💣|
-| | **Sunday, February 2 2025** |
+| | **Sunday, February 2, 2025** |
 | 6:40 AM ⛳️| Out-of-Town Pool Call Time<br />[Mar-a-Lago](https://www.maralagoclub.com/) Out-of-Town Pool |
 | 9:03 AM ⛳️| The [President](https://www.donaldjtrump.com/) departs [Mar-a-Lago](https://www.maralagoclub.com/) for [his golf club](https://www.trumpinternationalpalmbeaches.com/)<br />[Mar-a-Lago](https://www.maralagoclub.com/) |
 | 9:10 AM ⛳️| The [President](https://www.donaldjtrump.com/) arrives at [Trump International Golf Club West Palm Beach](https://www.trumpinternationalpalmbeaches.com/)<br />[Trump International Golf Club West Palm Beach](https://www.trumpinternationalpalmbeaches.com/) |
@@ -1868,14 +1868,14 @@ toc: true
 | 7:10 PM | The [President](https://www.donaldjtrump.com/) departs [Joint Base Andrews (ADW)](https://www.jba.af.mil/) en route [The White House](https://www.whitehouse.gov/)<br />[Joint Base Andrews (ADW)](https://www.jba.af.mil/) Out-of-Town Travel Pool |
 | 7:20 PM | The [President](https://www.donaldjtrump.com/) arrives [The White House](https://www.whitehouse.gov/)<br />[The White House](https://www.whitehouse.gov/) Open Press |
 | 8:00 PM | [White House](https://www.whitehouse.gov/) Press Office: Full lid called<br />[The White House](https://www.whitehouse.gov/) |
-| | **Saturday, February 1 2025** |
+| | **Saturday, February 1, 2025** |
 | ⛳️| [Donnie](https://www.donaldjtrump.com/) ~~has no public events scheduled~~plays golf🏌‍♂️.<br />[Mar-a-Lago](https://www.maralagoclub.com/) |
 | 9:28 AM ⛳️| The [President](https://www.donaldjtrump.com/) departs [Mar-a-Lago](https://www.maralagoclub.com/) for [his golf club](https://www.trumpinternationalpalmbeaches.com/)<br />[Mar-a-Lago](https://www.maralagoclub.com/) |
 | 9:34 AM ⛳️| The [President](https://www.donaldjtrump.com/) arrives at [Trump International Golf Club West Palm Beach](https://www.trumpinternationalpalmbeaches.com/)<br />[Trump International Golf Club West Palm Beach](https://www.trumpinternationalpalmbeaches.com/) |
 | 3:04 PM ⛳️| The [President](https://www.donaldjtrump.com/) departs [Trump International Golf Club West Palm Beach](https://www.trumpinternationalpalmbeaches.com/) for [Mar-a-Lago](https://www.maralagoclub.com/)<br />[Trump International Golf Club West Palm Beach](https://www.trumpinternationalpalmbeaches.com/) |
 | 3:11 PM ⛳️| The [President](https://www.donaldjtrump.com/) arrives at [Mar-a-Lago](https://www.maralagoclub.com/)<br />[Mar-a-Lago](https://www.maralagoclub.com/) |
 | 5:40 PM ⛳️| [White House](https://www.whitehouse.gov/) Press Office: Full lid called<br />[Mar-a-Lago](https://www.maralagoclub.com/) |
-| | **Friday, January 31 2025** |
+| | **Friday, January 31, 2025** |
 | 9:00 AM | In-Town Pool Call Time<br />[The White House](https://www.whitehouse.gov/) In-Town Pool |
 | 1:00 PM | Press Briefing by the [White House](https://www.whitehouse.gov/) Press Secretary<br />[James S. Brady Press Briefing Room](https://www.whitehouse.gov/) On Camera |
 | 3:00 PM | The [President](https://www.donaldjtrump.com/) signs Executive Orders<br />[The White House](https://www.whitehouse.gov/) |
@@ -1888,23 +1888,23 @@ toc: true
 | 7:50 PM ⛳️| The [President](https://www.donaldjtrump.com/) arrives at [Mar-a-Lago](https://www.maralagoclub.com/)<br />[Mar-a-Lago](https://www.maralagoclub.com/) Out-of-Town Travel Pool |
 | 8:14 PM ⛳️| [White House](https://www.whitehouse.gov/) Press Office: Full lid called<br />[Mar-a-Lago](https://www.maralagoclub.com/) |
 | | 🔥 [White House](https://www.whitehouse.gov/) 💣|
-| | **Monday, January 27 2025** |
+| | **Monday, January 27, 2025** |
 | 5:00 PM 🐔💰⛳️| The [President](https://www.donaldjtrump.com/) attends a House GOP Conference meeting at [Trump National Doral Miami](https://www.trumpgolfdoral.com/) [Time TBD]<br />[Trump National Doral Miami](https://www.trumpgolfdoral.com/) Out-of-Town Pool |
 | 7:00 PM | The [President](https://www.donaldjtrump.com/) departs [Miami International Airport (MIA)](https://miami-airport.com/) for [Joint Base Andrews (ADW)](https://www.jba.af.mil/)<br />[Joint Base Andrews (ADW)](https://www.jba.af.mil/) Out-of-Town Pool |
 | 9:25 PM | The [President](https://www.donaldjtrump.com/) arrives at [The White House](https://www.whitehouse.gov/)<br />[South Lawn](https://www.whitehouse.gov/) Out-of-Town Pool |
 | 9:38 PM | [White House](https://www.whitehouse.gov/) Press Office: Full lid called<br />[The White House](https://www.whitehouse.gov/) |
-| | **Sunday, January 26 2025** |
+| | **Sunday, January 26, 2025** |
 | ⛳️| [Donnie](https://www.donaldjtrump.com/) ~~has no public events scheduled~~plays golf🏌‍♂️.<br />[Trump National Doral Miami](https://www.trumpgolfdoral.com/) Out-of-Town Pool |
 | 9:00 AM ⛳️| Out-of-Town Pool Call Time<br />[Trump National Doral Miami](https://www.trumpgolfdoral.com/) Out-of-Town Pool |
 | 9:42 AM ⛳️| [White House](https://www.whitehouse.gov/) Press Office: Full lid called<br />[Trump National Doral Miami](https://www.trumpgolfdoral.com/) |
-| | **Saturday, January 25 2025** |
+| | **Saturday, January 25, 2025** |
 | 3:15 PM 💰| The [President](https://www.donaldjtrump.com/) departs his hotel for [Circa Resort and Casino](https://www.circalasvegas.com/) [12:15 PM Local]<br />[Trump International Hotel, Las Vegas](https://www.trumphotels.com/las-vegas) Out-of-Town Pool |
 | 3:30 PM 💰| The [President](https://www.donaldjtrump.com/) delivers remarks on tips and taxes [12:30 PM Local]<br />[Circa Resort and Casino](https://www.circalasvegas.com/), Las Vegas Out-of-Town Pool |
 | 4:30 PM 💰| The [President](https://www.donaldjtrump.com/) speaks with gamblers on the floor of the [Circa Resort and Casino](https://www.circalasvegas.com/) [1:30 PM Local]<br />[Circa Resort and Casino](https://www.circalasvegas.com/), Las Vegas Out-of-Town Pool |
 | 5:00 PM | The [President](https://www.donaldjtrump.com/) departs [Harry Reid International Airport (LAS)](https://www.harryreidairport.com/) for Miami [2:00 PM Local]<br />[Harry Reid International Airport (LAS)](https://www.harryreidairport.com/), Las Vegas Out-of-Town Pool |
 | 9:30 PM | The [President](https://www.donaldjtrump.com/) arrives at [Miami International Airport (MIA)](https://miami-airport.com/)<br />[Miami International Airport (MIA)](https://miami-airport.com/) Out-of-Town Pool |
 | 9:54 PM ⛳️| [White House](https://www.whitehouse.gov/) Press Office: Full lid called<br />[Trump National Doral Miami](https://www.trumpgolfdoral.com/) |
-| | **Friday, January 24 2025** |
+| | **Friday, January 24, 2025** |
 | 9:00 AM | The [President](https://www.donaldjtrump.com/) departs [The White House](https://www.whitehouse.gov/) en route [Joint Base Andrews (ADW)](https://www.jba.af.mil/)<br />[South Lawn](https://www.whitehouse.gov/) Open Press |
 | 9:15 AM | The [President](https://www.donaldjtrump.com/) depart [Joint Base Andrews (ADW)](https://www.jba.af.mil/) en route [Asheville Regional Airport (AVL)](https://flyavl.com/)<br />[Joint Base Andrews (ADW)](https://www.jba.af.mil/) Out-of-Town Pool<br />10:51 AM<br />The [President](https://www.donaldjtrump.com/) arrives at [Asheville Regional Airport (AVL)](https://flyavl.com/)<br />[Asheville Regional Airport (AVL)](https://flyavl.com/), [Fletcher](https://www.fletchernc.org/), [North Carolina](https://www.nc.gov/) Out-of-Town Pool |
 | 11:00 AM | The [President](https://www.donaldjtrump.com/) receives a Hurricane Helene recovery briefing<br />[Asheville Regional Airport (AVL)](https://flyavl.com/), [Fletcher](https://www.fletchernc.org/), [North Carolina](https://www.nc.gov/) Out-of-Town Pool |
@@ -1919,7 +1919,7 @@ toc: true
 | 11:20 PM 💰| The [President](https://www.donaldjtrump.com/) spends the evening at [Trump International Hotel, Las Vegas](https://www.trumphotels.com/las-vegas) [8:20 PM Local]<br />[Trump International Hotel, Las Vegas](https://www.trumphotels.com/las-vegas) Out-of-Town Pool |
 | 11:25 PM 💰| [White House](https://www.whitehouse.gov/) Press Office: Full lid called [8:20 PM Local]<br />[Trump International Hotel, Las Vegas](https://www.trumphotels.com/las-vegas) |
 | | 🔥 [White House](https://www.whitehouse.gov/) 💣|
-| | **Sunday, January 19 2025** |
+| | **Sunday, January 19, 2025** |
 | 1:11 PM 🪖| The [President](https://www.donaldjtrump.com/)-elect departs Blair House for [Arlington National Cemetery](https://www.arlingtoncemetery.mil/)<br />Blair House Transition Pool |
 | 1:20 PM 🪖| The [President](https://www.donaldjtrump.com/)-elect arrives at [Arlington National Cemetery](https://www.arlingtoncemetery.mil/)<br />[Arlington National Cemetery](https://www.arlingtoncemetery.mil/) Transition Pool |
 | 1:31 PM 🪖| The [President](https://www.donaldjtrump.com/)-elect and the Vice-President-elect lays a wreath at the Tomb of the Unknown Soldier<br />[Arlington National Cemetery](https://www.arlingtoncemetery.mil/) Transition Pool |
@@ -1933,7 +1933,7 @@ toc: true
 | 9:16 PM | The [President](https://www.donaldjtrump.com/)-elect arrives at the event at the [National Building Museum](https://nbm.org/)<br />[National Building Museum](https://nbm.org/) Transition Pool |
 | 11:49 PM | The [President](https://www.donaldjtrump.com/)-elect departs the [National Building Museum](https://nbm.org/) for Blair House<br />[National Building Museum](https://nbm.org/) Transition Pool |
 | 11:54 PM | The [President](https://www.donaldjtrump.com/)-elect arrives at Blair House<br />Blair House Transition Pool |
-| | **Saturday, January 18 2025** |
+| | **Saturday, January 18, 2025** |
 | 4:32 PM | The [President](https://www.donaldjtrump.com/)-elect arrives at [Palm Beach International Airport (PBI)](https://www.pbia.org/)<br />[Palm Beach International Airport (PBI)](https://www.pbia.org/) Transition Pool |
 | 5:05 PM | The [President](https://www.donaldjtrump.com/)-elect departs [Palm Beach International Airport (PBI)](https://www.pbia.org/) for Washington<br />[Palm Beach International Airport (PBI)](https://www.pbia.org/) Transition Pool |
 | 7:02 PM | The [President](https://www.donaldjtrump.com/)-elect arrives at [Dulles International Airport (IAD)](https://www.flydulles.com/)<br />Washington [Dulles International Airport (IAD)](https://www.flydulles.com/) Transition Pool |
