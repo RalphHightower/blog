@@ -67,7 +67,7 @@ This post updates our related earlier coverage.
 - [POLITICO - Politics, Policy, Political News](https://www.politico.com/)
 - [The Daily Beast / The Latest in Politics, Media & Entertainment News](https://www.thedailybeast.com/)
 - [The Hill - covering Congress, Politics, Political Campaigns and Capitol Hill](https://thehill.com/)
-- [Federal: 2020 Election Interference, January 6 Insurrection]({% link blog/January6DocumentDocumentLinks.md %})
+- [Federal: 2020 Election Interference, January 6 Insurrection]({% linkJanuary6DocumentDocumentLinks.md %})
 - political parties
 - [Democrat Party](https://www.democrats.org/)
 - [Trumpian Party](https://www.gop.com/)
