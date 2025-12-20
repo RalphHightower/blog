@@ -1,13 +1,13 @@
 ---
 layout: post
 tags: [media, MS NOW - Breaking News and News Today / Latest News, Alex Tabet, PBS News – News Analysis Top Headlines Live Coverage, political parties, Democrat Party, Trumpian Party, foreign governments, Israel, federal government, Constitution of the United States, Supreme Court of the United States (SCOTUS), US Courts, Department of Justice (DOJ), Federal Bureau of Investigation (FBI), Congress, Senate, House of Representatives, President of the United States (POTUS), White House (WH), Trump autocracy, Donald J Trump, President Donald Trump (45), Michael R. Pence – The White House, President Donald Trump (47), President Trump (47) Administration, President Trump (47) Cabinet, press secretary, Karoline Leavitt, Pam Bondi – Office of the Attorney General / Meet the Attorney General / United States Department of Justice, Todd Blanche – Office of the Deputy Attorney General / Office of the Deputy Attorney General, Todd Blanche / LinkedIn, Lindsey Halligan, Director Kash Patel — FBI, grifter, self-dealing, corruption, con artist, crime, cryptocurrency, criminal associates, criminal businesses, criminal media, criminal organizations, criminal partners, human trafficking, sex trafficking, pedophile, Jeffrey Epstein, Ghislaine Maxwell, Turning Point USA, Charlie Kirk – Deceased, The Charlie Kirk Show, AMERICAFEST 2025, Home - Stephen K Bannon’s War Room, Candace Owens, Infowars, Alex Jones, Nick Fuentes, Tucker Carlson, Ben Shapiro, The Daily Wire - Breaking News Videos & Podcasts]
-categories: [Jeffrey Epstein, Ghislaine Maxwell, human trafficking, sex trafficking, pedophile, Trump Crime Family, Donald Trump, Department of Justice (DOJ), Pam Bondi, Todd Blanche, Federal Bureau of Investigation (FBI), Kash Patel, Dan Bongino]
+categories: [Donald Trump, Turning Point USA, Charlie Kirk – Deceased, The Charlie Kirk Show, AMERICAFEST 2025, Home - Stephen K Bannon’s War Room, Candace Owens, Infowars, Alex Jones, Nick Fuentes, Tucker Carlson, Ben Shapiro, The Daily Wire - Breaking News Videos & Podcasts. Jeffrey Epstein, Ghislaine Maxwell, human trafficking, sex trafficking, pedophile, Trump Crime Family, Donald Trump, Department of Justice (DOJ), Pam Bondi, Todd Blanche, Federal Bureau of Investigation (FBI), Kash Patel, Dan Bongino]
 date: 2025-12-20 14:08
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: "Civil War In MAGALandia: Turning Point USA"s AmericaFest 2025"
+title: "Civil War In MAGALandia: Turning Point USA's AmericaFest 2025"
 ---
 
 “I love it when a plan comes together.”
