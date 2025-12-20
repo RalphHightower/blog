@@ -7,7 +7,7 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: Evidence From Trump’s Georgia Election Interference Case Becomes Public^
+title: "Evidence From Trump’s Georgia Election Interference Case Becomes Public"
 ---
 
 - [Federal: 2020 Election Interference, January 6 Insurrection]({% link January6DocumentDocumentLinks.md %})
