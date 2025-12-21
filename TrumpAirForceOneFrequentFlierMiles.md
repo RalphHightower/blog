@@ -83,6 +83,42 @@ toc: true
 
 | Time | Location |
 |---|---|
+| Time | Event |
+|---|---|
+| | **Sunday, December 21 2025** |
+| ⛳️🏌‍♂️| The [President](https://www.donaldjtrump.com/) ~~has no public events scheduled~~plays golf🏌‍♂️<br />[Mar-a-Lago](https://www.maralagoclub.com/) |
+| -:-- AM ⛳️🏌‍♂️| [Donnie](https://www.donaldjtrump.com/) departs [Mar-a-Lago](https://www.maralagoclub.com/) for a Day of golf at [Trump International Golf Club West Palm Beach](https://www.trumpinternationalpalmbeaches.com/) |
+| -:-- PM | [Donnie](https://www.donaldjtrump.com/) returns to [Mar-a-Lago](https://www.maralagoclub.com/) after a day of golf at [Trump International Golf Club West Palm Beach](https://www.trumpinternationalpalmbeaches.com/) |
+| 7:30 AM | In-Town Pool Call Time<br />[Mar-a-Lago](https://www.maralagoclub.com/) In-Town Pool |
+| | **Saturday, December 20 2025** |
+| ⛳️🏌‍♂️| The [President](https://www.donaldjtrump.com/) ~~has no public events scheduled~~plays golf🏌‍♂️<br />[Mar-a-Lago](https://www.maralagoclub.com/) Out-of-Town Travel Pool |
+| 12:41 AM | The [President](https://www.donaldjtrump.com/) arrives at [Palm Beach International Airport (PBI)](https://www.pbia.org/)<br />[Palm Beach International Airport (PBI)](https://www.pbia.org/) |
+| 12:56 AM | The [President](https://www.donaldjtrump.com/) departs [Palm Beach International Airport (PBI)](https://www.pbia.org/) for [Mar-a-Lago](https://www.maralagoclub.com/)<br />[Palm Beach International Airport (PBI)](https://www.pbia.org/) |
+| 1:07 AM | The [President](https://www.donaldjtrump.com/) arrives at [Mar-a-Lago](https://www.maralagoclub.com/)<br />[Mar-a-Lago](https://www.maralagoclub.com/) |
+| 1:07 AM | [White House](https://www.whitehouse.gov/) Press Office: Full lid called for December 19, 2025**<br />[Mar-a-Lago](https://www.maralagoclub.com/) |
+| 7:30 AM | In-Town Pool Call Time<br />[Mar-a-Lago](https://www.maralagoclub.com/) In-Town Pool |
+| 9:37 AM ⛳️🏌‍♂️| The [President](https://www.donaldjtrump.com/) departs [Mar-a-Lago](https://www.maralagoclub.com/) for his golf club<br />[Mar-a-Lago](https://www.maralagoclub.com/) |
+| 9:44 AM ⛳️🏌‍♂️| The [President](https://www.donaldjtrump.com/) arrives at [Trump International Golf Club West Palm Beach](https://www.trumpinternationalpalmbeaches.com/)<br />[Trump International Golf Club West Palm Beach](https://www.trumpinternationalpalmbeaches.com/) |
+| 4:19 PM | The [President](https://www.donaldjtrump.com/) departs [Trump International Golf Club West Palm Beach](https://www.trumpinternationalpalmbeaches.com/) for [Mar-a-Lago](https://www.maralagoclub.com/)<br />[Trump International Golf Club West Palm Beach](https://www.trumpinternationalpalmbeaches.com/) |
+| 4:28 PM | The [President](https://www.donaldjtrump.com/) arrives at [Mar-a-Lago](https://www.maralagoclub.com/)<br />[Mar-a-Lago](https://www.maralagoclub.com/) |
+| 4:28 PM | [White House](https://www.whitehouse.gov/) Press Office: Full lid called<br />[Mar-a-Lago](https://www.maralagoclub.com/) |
+| | **Friday, December 19 2025** |
+| 9:00 AM | In-Town Pool Call Time<br />The [White House](https://www.whitehouse.gov/) In-Town Pool |
+| 1:00 PM | The [President](https://www.donaldjtrump.com/) makes an Announcement [Actual: 2:18 PM]<br />[Roosevelt Room](https://www.whitehouse.gov/) [White House](https://www.whitehouse.gov/) Press Pool |
+| 3:51 PM | Kevin Hassett briefs reporters at The Sticks<br />The Sticks - The [White House](https://www.whitehouse.gov/) |
+| 5:45 PM | Out-of-Town Travel Pool Call Time<br />[Joint Base Andrews (ADW)](https://www.jba.af.mil/) Out-of-Town Travel Pool |
+| 5:45 PM | The [President](https://www.donaldjtrump.com/) participates in a Christmas Reception<br />Grand Foyer Closed Press |
+| 7:11 PM | The [President](https://www.donaldjtrump.com/) departs the [White House](https://www.whitehouse.gov/) for [Joint Base Andrews (ADW)](https://www.jba.af.mil/)<br />[South Lawn](https://www.whitehouse.gov/) |
+| 7:24 PM | The [President](https://www.donaldjtrump.com/) arrives at [Joint Base Andrews (ADW)](https://www.jba.af.mil/)<br />[Joint Base Andrews (ADW)](https://www.jba.af.mil/) |
+| 7:35 PM | The [President](https://www.donaldjtrump.com/) departs [Joint Base Andrews (ADW)](https://www.jba.af.mil/) for [Rocky Mount-Wilson Regional Airport (KRW)](https://www.krwiairport.org/)<br />[Joint Base Andrews (ADW)](https://www.jba.af.mil/) |
+| 8:16 PM | The [President](https://www.donaldjtrump.com/) arrives at [Rocky Mount-Wilson Regional Airport (KRW)](https://www.krwiairport.org/)<br />[Rocky Mount-Wilson Regional Airport (KRW)](https://www.krwiairport.org/), [Elm City](https://elmcitync.com/), [North Carolina](https://www.nc.gov/) |
+| 8:25 PM | The [President](https://www.donaldjtrump.com/) departs [Rocky Mount-Wilson Regional Airport (KRW)](https://www.krwiairport.org/) for the [Rocky Mount Event Center](https://rockymountevents.com/)<br />[Rocky Mount-Wilson Regional Airport (KRW)](https://www.krwiairport.org/), [Elm City](https://elmcitync.com/), [North Carolina](https://www.nc.gov/) |
+| 8:52 PM | The [President](https://www.donaldjtrump.com/) arrives at [Rocky Mount Event Center](https://rockymountevents.com/)<br />[Rocky Mount Event Center](https://rockymountevents.com/), [North Carolina](https://www.nc.gov/) |
+| 9:00 PM | The [President](https://www.donaldjtrump.com/) delivers Remarks on the Economy [8:58 PM Actual]<br />[Rocky Mount Event Center](https://rockymountevents.com/), [North Carolina](https://www.nc.gov/) Pre-Credentialed Media |
+| 10:34 PM | The [President](https://www.donaldjtrump.com/) departs [Rocky Mount Event Center](https://rockymountevents.com/) for [Rocky Mount-Wilson Regional Airport (KRW)](https://www.krwiairport.org/)<br />[Rocky Mount Event Center](https://rockymountevents.com/), [North Carolina](https://www.nc.gov/) |
+| 10:59 PM | The [President](https://www.donaldjtrump.com/) arrives at [Rocky Mount-Wilson Regional Airport (KRW)](https://www.krwiairport.org/)<br />[Rocky Mount-Wilson Regional Airport (KRW)](https://www.krwiairport.org/), [Elm City](https://elmcitync.com/), [North Carolina](https://www.nc.gov/) |
+| 11:16 PM | The [President](https://www.donaldjtrump.com/) departs [Rocky Mount-Wilson Regional Airport (KRW)](https://www.krwiairport.org/) for [Palm Beach International Airport (PBI)](https://www.pbia.org/)<br />[Rocky Mount-Wilson Regional Airport (KRW)](https://www.krwiairport.org/), [Elm City](https://elmcitync.com/), [North Carolina](https://www.nc.gov/) |
+| 11:58 PM | [White House](https://www.whitehouse.gov/) Press Office: Lunch lid until 12:45 PM<br />The [White House](https://www.whitehouse.gov/) |
 | | 🔥 [White House](https://www.whitehouse.gov/) 💣|
 | | **Sunday, December 14, 2025** |
 | ⁉️ | Two golf-free weekends in a row⁉️ Is [Donnie](https://www.donaldjtrump.com/) getting too weak to play golf every dawned weekend? |
