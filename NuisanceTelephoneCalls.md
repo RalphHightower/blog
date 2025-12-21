@@ -20,6 +20,7 @@ The telephone numbers below have called and there is an empty person on the othe
 
 | Telephone Number | Location | Date Time[^11]<sup>,</sup>[^12] | Caller | Social Media |
 |---|---|---|---|---|
+| [\+1 (803) 377-4348](tel:+18033774348) | SC. Chester | 2025-12-20 12:54 PM | RICHARD T LAND | |
 | [\+1 (803) 428-6624](tel:+18034286624) | SC. Bishopville | 2025-12-19 03:57 PM | Rubria Boone | |
 | [\+1 (803) 709-7093](tel:+18037097093) | SC. Barnwell | 2025-12-17 06:36 PM | NORM C OBRIEN | |
 | [\+1 (803) 602-4075](tel:+18036024075) | SC. Columbia | 2025-12-17 02:28 PM | — | |
