@@ -28,7 +28,7 @@ The [Department of Justice](https://www.justice.gov/) is up against a deadline t
 
 “If they release some documents and hide others, the American people will see right through it, and they’ll ask the obvious question,” [Schumer](https://www.schumer.senate.gov/) said. “We are all asking the obvious question that looms, [President](https://www.whitehouse.gov/) [Trump](https://www.donaldjtrump.com/), what are you trying to hide?”
 
-The [Senate](https://www.senate.gov/) minority leader, who was joined Tuesday by [Sens.](https://www.senate.gov/) [Dick Durbin (D-IL)](https://www.durbin.senate.gov/), [Ron Wyden (D-OR)](https://www.wyden.senate.gov/), [Richard Blumenthal (D-CT)](https://www.blumenthal.sebate.gov/), [Amy Klobuchar (D-MN)](https://www.klobuchar.gov/), and [Jeff Merkley (D-OR)](https://www.merkley.gov/), said the task force has been “preparing for every scenario.” 
+The [Senate](https://www.senate.gov/) minority leader, who was joined Tuesday by [Sens.](https://www.senate.gov/) [Dick Durbin (D-IL)](https://www.durbin.senate.gov/), [Ron Wyden (D-OR)](https://www.wyden.senate.gov/), [Richard Blumenthal (D-CT)](https://www.blumenthal.sebate.gov/), [Amy Klobuchar (D-MN)](https://www.klobuchar.gov/), and [Jeff Merkley (D-OR)](https://www.merkley.senate.gov/), said the task force has been “preparing for every scenario.” 
 
 The group plans to work with attorneys representing survivors of late [New York](https://www.ny.gov) financier Jeffrey Epstein’s sex trafficking enterprise and individuals intimately familiar with the federal investigation into Epstein’s abuse to ensure the documents were not tampered with prior to release. 
 
@@ -84,7 +84,7 @@ The [FBI](https://www.fbi.gov/) and [DOJ](https://www.justice.gov/) [announced i
         - [Epstein Files Transparency Act](https://www.congress.gov/bill/119th-congress/house-bill/4405/text)
         - [Senate](https://www.senate.gov/)
             - [Amy Klobuchar (D-MN)](https://www.klobuchar.gov/)
-            - [Jeff Merkley (D-OR)](https://www.merkley.gov/)
+            - [Jeff Merkley (D-OR)](https://www.merkley.senate.gov/)
             - [Richard Blumenthal (D-CT)](https://www.blumenthal.sebate.gov/)
             - [Dick Durbin (D-IL)](https://www.durbin.senate.gov/)
             - [Chuck Schumer (D-NY)](https://www.schumer.senate.gov/)
