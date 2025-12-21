@@ -83,8 +83,7 @@ toc: true
 
 | Time | Location |
 |---|---|
-| Time | Event |
-|---|---|
+| | 🔥 [White House](https://www.whitehouse.gov/) 💣|
 | | **Sunday, December 21 2025** |
 | ⛳️🏌‍♂️| The [President](https://www.donaldjtrump.com/) ~~has no public events scheduled~~plays golf🏌‍♂️<br />[Mar-a-Lago](https://www.maralagoclub.com/) |
 | -:-- AM ⛳️🏌‍♂️| [Donnie](https://www.donaldjtrump.com/) departs [Mar-a-Lago](https://www.maralagoclub.com/) for a Day of golf at [Trump International Golf Club West Palm Beach](https://www.trumpinternationalpalmbeaches.com/) |
