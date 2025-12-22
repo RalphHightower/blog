@@ -80,12 +80,12 @@ CURRENT CONVICTIONS
 
 | Date	| Sentence	| County |	Case No. |
 |---|---|---|---|
-| 10/03/2024 	| 3Y-3Y	| MESA 	| 22CR371 | 
-| 10/03/2024 	| 3Y-3Y	| MESA 	| 22CR371 | 
-| 10/03/2024 	| 3Y-3Y	| MESA 	| 22CR371 | 
-| 10/03/2024 	| 15M-15M	| MESA 	| 22CR371 | 
-| 10/03/2024 	| 120D-120D	| MESA 	| 22CR371 | 
-| 10/03/2024 	| 6M-6M	| MESA 	| 22CR371 | 
+| 10/03/2024 	| 3Y-3Y	| MESA 	| 22CR371 |
+| 10/03/2024 	| 3Y-3Y	| MESA 	| 22CR371 |
+| 10/03/2024 	| 3Y-3Y	| MESA 	| 22CR371 |
+| 10/03/2024 	| 15M-15M	| MESA 	| 22CR371 |
+| 10/03/2024 	| 120D-120D	| MESA 	| 22CR371 |
+| 10/03/2024 	| 6M-6M	| MESA 	| 22CR371 |
 | 10/03/2024 	| 6M-6M	| MESA 	| 22CR371
 
 [Steve Benen](https://www.ms.now/author/steve-benen) is a producer for ["The Rachel Maddow Show,"](https://www.ms.now/rachel-maddow-show) the editor of [MaddowBlog](https://www.ms.now/maddowblog) and an [MS NOW](https://www.ms.now/) political contributor. He's also the bestselling author of ["Ministry of Truth: Democracy, Reality, and the Republicans' War on the Recent Past."](https://www.harpercollins.com/products/ministry-of-truth-steve-benen)

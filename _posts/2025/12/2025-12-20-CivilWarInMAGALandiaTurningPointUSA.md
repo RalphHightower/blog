@@ -31,7 +31,7 @@ In a more surprising turn, Shapiro chastised the man who would take the stage af
 
 Shapiro dug further into [Carlson](https://tuckercarlson.com/):
 
-“He built [Nick Fuentes](https://nicholasjfuentes.com/) up, and he ought to take responsibility for that.” 
+“He built [Nick Fuentes](https://nicholasjfuentes.com/) up, and he ought to take responsibility for that.”
 
 [Carlson](https://tuckercarlson.com/) wasn’t the only AmericaFest speaker caught in Shapiro’s sights. The 41-year-old co-founder of [The Daily Wire](https://www.dailywire.com/) also unloaded on former [White House](https://www.whitehouse.gov/) strategist [Steve Bannon](https://warroom.org/) over his recent rhetoric surrounding Israel.
 
@@ -39,7 +39,7 @@ Shapiro dug further into [Carlson](https://tuckercarlson.com/):
 
 “He’s simply maligning people that he disagrees with, which is indeed par for the course from a man who was once a P.R. flack for Jeffrey Epstein,” Shapiro said, without clarifying the claim.
 
-New photos released by [House](https://www.house.gov/) [Democrats](https://www.democrats.org/) on Thursday show [Bannon and Epstein sitting across from each other at a desk](https://www.ms.now/news/house-democrats-release-new-jeffrey-epstein-photos-donald-trump). 
+New photos released by [House](https://www.house.gov/) [Democrats](https://www.democrats.org/) on Thursday show [Bannon and Epstein sitting across from each other at a desk](https://www.ms.now/news/house-democrats-release-new-jeffrey-epstein-photos-donald-trump).
 
 [Carlson](https://tuckercarlson.com/), who took the stage shortly after Shapiro, refused to invoke his new nemesis by name. Instead, he chided Shapiro for criticizing him at an event known for its free-speech ethos.
 
@@ -108,10 +108,10 @@ She [posted](https://x.com/RealCandaceO/status/2001826552070447587?s=20): “Eve
 - criminal media
 - criminal organizations
 - criminal partners
-    - human trafficking 
-    - sex trafficking 
-    - pedophile 
-        - Jeffrey Epstein 
+    - human trafficking
+    - sex trafficking
+    - pedophile
+        - Jeffrey Epstein
         - Ghislaine Maxwell
 - [Turning Point USA](https://www.tpusa.com/)
     - [Charlie Kirk – Deceased](https://www.charliekirk.com/)
