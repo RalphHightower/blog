@@ -20,6 +20,9 @@ The telephone numbers below have called and there is an empty person on the othe
 
 | Telephone Number | Location | Date Time[^11]<sup>,</sup>[^12] | Caller | Social Media |
 |---|---|---|---|---|
+| [\+1 (803) 433-0999](tel:+18034330999) | SC. Manning | 2025-12-23 12:14 PM | ELIZABETH L DICKSON | |
+| [\+1 (803) 218-1806](tel:+18032181806) | SC. Salley | 2025-12-23 11:50 AM | — | |
+| [\+1 (803) 953-1802](tel:+18039531802) | SC. Manning | 2025-12-23 10:11 AM | — | |
 | [\+1 (803) 377-4348](tel:+18033774348) | SC. Chester | 2025-12-20 12:54 PM | RICHARD T LAND | |
 | [\+1 (803) 428-6624](tel:+18034286624) | SC. Bishopville | 2025-12-19 03:57 PM | Rubria Boone | |
 | [\+1 (803) 709-7093](tel:+18037097093) | SC. Barnwell | 2025-12-17 06:36 PM | NORM C OBRIEN | |
