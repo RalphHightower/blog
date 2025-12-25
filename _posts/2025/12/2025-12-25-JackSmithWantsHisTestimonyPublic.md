@@ -7,7 +7,7 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: "Jack Smith to Jim Jordan (T-OH4): Release My Testimony to the Public@"
+title: "Jack Smith to Jim Jordan (T-OH4): Release My Testimony to the Public!"
 ---
 
 
