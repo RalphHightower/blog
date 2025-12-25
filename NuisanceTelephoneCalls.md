@@ -20,6 +20,7 @@ The telephone numbers below have called and there is an empty person on the othe
 
 | Telephone Number | Location | Date Time[^11]<sup>,</sup>[^12] | Caller | Social Media |
 |---|---|---|---|---|
+| [\+1 (803) 474-8203](tel:+18034748203) | SC. Beech Island | 2025-12-24 12:58 PM | — | |
 | [\+1 (803) 433-0999](tel:+18034330999) | SC. Manning | 2025-12-23 12:14 PM | ELIZABETH L DICKSON | |
 | [\+1 (803) 218-1806](tel:+18032181806) | SC. Salley | 2025-12-23 11:50 AM | — | |
 | [\+1 (803) 953-1802](tel:+18039531802) | SC. Manning | 2025-12-23 10:11 AM | — | |

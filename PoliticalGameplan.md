@@ -249,8 +249,8 @@ Yes, my assessment has racial overtones, but [Scott](https://www.scott.senate.go
 |---|
 | **Mailing Address** |
 | The Honorable Alan Wilson <br /> P.O. Box 11549 <br /> Columbia, S.C. 29211 |
-| **Office Location** |
 | Rembert Dennis Building <br /> 1000 Assembly Street, Room 519 <br /> Columbia, S.C. 29201 <br /> General Information: [\+1 (803) 734-3970](tel:+18037343970) <br /> Constituent Services: [\+1 (803) 737-3953](tel:+18037373953) |
+| **Office Location** |
 
 #### Attorneys General
 
