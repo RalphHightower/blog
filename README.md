@@ -4,7 +4,7 @@ title: Reason for Starting a Blog
 toc: true
 ---
 
-I am one of the *“enemies within”*.
+I am one of the *“enemies within”[^110]*.
 
 [^110]: A tagline that [Donnie Trump](https://www.donaldjtrump.com/) gave to [Senator](https://www.senate.gov/) [Adam Schiff (D-CA)](https://www.schiff.senate.gov/) during an hour long with [NBC News](https://www.nbcnews.com/) [Meet the Press](https://www.nbcnews.com/meet-the-press) with host [Kristen Welker](https://www.nbcnews.com/author/kristen-welker-ncpn6396).
 
@@ -483,7 +483,7 @@ function setElementText(element, text) {
 
 | |
 |:---|
-| ![Ralph Hightower Repository’s Stats](https://github-readme-stats.vercel.app/api?username=RalphHightower&show_icons=true&title_color=73000a&text_color=73000a&border_color=73000a&icon_color=73000a&bg_color=ffffff&include_all_commits=false&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage) |
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RalphHightower&repo=github-readme-stats&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/RalphHightower/github-readme-stats)
 | ![GitHub Streak](https://streak-stats.vercel.app?user=RalphHightower&date_format=Y-m-d&border=73000a&stroke=73000a&ring=73000a&fire=73000a&currStreakNum=73000a&sideNums=73000a&currStreakLabel=73000a&sideLabels=73000a&dates=73000a) |
 | ![GitHub Summary Cards](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RalphHightower&theme=default) |
 | ![RalphHightower's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RalphHightower&theme=minimal&color=73000a&title_color=73000a&line=73000a&point=73000a) |
