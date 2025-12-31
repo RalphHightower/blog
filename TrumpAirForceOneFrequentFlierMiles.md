@@ -84,30 +84,61 @@ toc: true
 | Time | Location |
 |---|---|
 | | 🔥 [White House](https://www.whitehouse.gov/) 💣|
+|---|---|
+| | **Tuesday, December 30 2025** |
+| ⛳️🏌‍♂️| The [President](https://www.donaldjtrump.com/) ~~has no public events scheduled~~ other than plays golf🏌‍♂️<br />[Mar-a-Lago](https://www.maralagoclub.com/) [Palm Beach](https://discover.pbc.gov/), [Florida](https://www.myflorida.gov/) Closed Press |
+| 7:45 AM | Out-of-Town Travel Pool Call Time<br />[Mar-a-Lago](https://www.maralagoclub.com/) Out-of-Town Travel Pool |
+| 9:12 AM ⛳️🏌‍♂️| The [President](https://www.donaldjtrump.com/) departs [Mar-a-Lago](https://www.maralagoclub.com/) for his golf club<br />[Mar-a-Lago](https://www.maralagoclub.com/) |
+| 9:21 AM ⛳️🏌‍♂️| The [President](https://www.donaldjtrump.com/) arrives at [Trump International Golf Club West Palm Beach](https://www.trumpinternationalpalmbeaches.com/)<br />[Trump International Golf Club West Palm Beach](https://www.trumpinternationalpalmbeaches.com/) |
+| 2:46 PM ⛳️🏌‍♂️| The [President](https://www.donaldjtrump.com/) departs [Trump International Golf Club West Palm Beach](https://www.trumpinternationalpalmbeaches.com/) for [Mar-a-Lago](https://www.maralagoclub.com/)<br />[Trump International Golf Club West Palm Beach](https://www.trumpinternationalpalmbeaches.com/) |
+| 2:55 PM | The [President](https://www.donaldjtrump.com/) arrives at [Mar-a-Lago](https://www.maralagoclub.com/)<br />[Mar-a-Lago](https://www.maralagoclub.com/) |
+| 2:58 PM | [White House](https://www.whitehouse.gov/) Press Office: Full lid called<br />[Mar-a-Lago](https://www.maralagoclub.com/) |
+| | **Monday, December 29 2025** |
+| 11:15 AM | Out-of-Town Travel Pool Call Time<br />[Mar-a-Lago](https://www.maralagoclub.com/) Out-of-Town Travel Pool |
+| 1:00 PM | The [President](https://www.donaldjtrump.com/) participates in a Bilateral Meeting with the [Prime Minister](https://www.gov.il/departments/prime_ministers_office/govil-landing-page) of [Israel](https://www.gov.il/) [Actual: 1:50 PM]<br />[Mar-a-Lago](https://www.maralagoclub.com/) Out-of-Town Travel Pool |
+| 1:26 PM | The [President](https://www.donaldjtrump.com/) greets the [Prime Minister](https://www.gov.il/departments/prime_ministers_office/govil-landing-page) of [Israel](https://www.gov.il/) at [Mar-a-Lago](https://www.maralagoclub.com/)<br />[Mar-a-Lago](https://www.maralagoclub.com/) Out-of-Town Travel Pool |
+| 2:22 PM | The [President](https://www.donaldjtrump.com/) speaks to reporters briefly on the patio of [Mar-a-Lago](https://www.maralagoclub.com/)<br />[Mar-a-Lago](https://www.maralagoclub.com/) Out-of-Town Travel Pool |
+| 3:49 PM | The [President](https://www.donaldjtrump.com/) and the [Prime Minister](https://www.gov.il/departments/prime_ministers_office/govil-landing-page) of [Israel](https://www.gov.il/) hold a joint press event at [Mar-a-Lago](https://www.maralagoclub.com/)<br />[Mar-a-Lago](https://www.maralagoclub.com/) Out-of-Town Travel Pool |
+| 4:31 PM | [White House](https://www.whitehouse.gov/) Press Office: Full lid called<br />[Mar-a-Lago](https://www.maralagoclub.com/) |
 | | **Sunday, December 28 2025** |
-| 7:45 AM | Out-of-Town Travel Pool Call Time<br />[Mar-a-Lago](https://www.maralagoclub.com/) [Palm Beach](https://discover.pbc.gov/), [Florida](https://www.myflorida.gov/) Closed Press |
-| -:-- AM ⛳️🏌‍♂️| [Donnie](https://www.donaldjtrump.com/) departs [Mar-a-Lago](https://www.maralagoclub.com/) to play golf at his [Trump International Golf Club](https://www.trumpinternationalpalmbeaches.com/) |
-| -:-- PM ⛳️🏌‍♂️| [Donnie](https://www.donaldjtrump.com/) departs from a day of golf at [Trump International Golf Club](https://www.trumpinternationalpalmbeaches.com/) for his private resort club [Mar-a-Lago](https://www.maralagoclub.com/) |
-| 3:00 PM | The [President](https://www.donaldjtrump.com/) participates in a Bilateral Meeting with the [President](https://www.president.gov.ua/) of [Ukraine](https://www.kmu.gov.ua/)<br />[Mar-a-Lago](https://www.maralagoclub.com/) [Palm Beach](https://discover.pbc.gov/), [Florida](https://www.myflorida.gov/) Closed Press |
+| 11:15 AM | Out-of-Town Travel Pool Call Time<br />[Mar-a-Lago](https://www.maralagoclub.com/) [Palm Beach](https://discover.pbc.gov/), [Florida](https://www.myflorida.gov/) Closed Press |
+| 1:00 PM | The [President](https://www.donaldjtrump.com/) participates in a Bilateral Meeting with the [President](https://www.president.gov.ua/) of [Ukraine](https://www.kmu.gov.ua/) [Actual: 1:40 PM]<br />[Mar-a-Lago](https://www.maralagoclub.com/) [Palm Beach](https://discover.pbc.gov/), [Florida](https://www.myflorida.gov/) Closed Press |
+| 1:26 PM | The [President](https://www.donaldjtrump.com/) greets the [President](https://www.president.gov.ua/) of [Ukraine](https://www.kmu.gov.ua/) on his arrival at [Mar-a-Lago](https://www.maralagoclub.com/)<br />[Mar-a-Lago](https://www.maralagoclub.com/) |
+| 4:50 PM | The [President](https://www.donaldjtrump.com/) and the [President](https://www.president.gov.ua/) of [Ukraine](https://www.kmu.gov.ua/) hold a joint press event at [Mar-a-Lago](https://www.maralagoclub.com/)<br />[Mar-a-Lago](https://www.maralagoclub.com/) |
+| 6:14 PM ⛳️🏌‍♂️| The [President](https://www.donaldjtrump.com/) departs [Mar-a-Lago](https://www.maralagoclub.com/) for his golf club<br />[Mar-a-Lago](https://www.maralagoclub.com/) |
+| 6:23 PM ⛳️🏌‍♂️| The [President](https://www.donaldjtrump.com/) arrives at [Trump International Golf Club West Palm Beach](https://www.trumpinternationalpalmbeaches.com/)<br />[Trump International Golf Club West Palm Beach](https://www.trumpinternationalpalmbeaches.com/) |
+| 7:15 PM ⛳️🏌‍♂️| The [President](https://www.donaldjtrump.com/) departs [Trump International Golf Club West Palm Beach](https://www.trumpinternationalpalmbeaches.com/) for [Mar-a-Lago](https://www.maralagoclub.com/)<br />[Trump International Golf Club West Palm Beach](https://www.trumpinternationalpalmbeaches.com/) |
+| 7:23 PM | The [President](https://www.donaldjtrump.com/) arrives at [Mar-a-Lago](https://www.maralagoclub.com/)<br />[Mar-a-Lago](https://www.maralagoclub.com/) |
+| 7:53 PM | [White House](https://www.whitehouse.gov/) Press Office: Full lid called<br />[Mar-a-Lago](https://www.maralagoclub.com/) |
 | | **Saturday, December 27 2025** |
 | ⛳️🏌‍♂️| The [President](https://www.donaldjtrump.com/) ~~has no public events scheduled~~ other than plays golf🏌‍♂️<br />[Mar-a-Lago](https://www.maralagoclub.com/) [Palm Beach](https://discover.pbc.gov/), [Florida](https://www.myflorida.gov/) Closed Press |
-| -:-- AM ⛳️🏌‍♂️| [Donnie](https://www.donaldjtrump.com/) departs [Mar-a-Lago](https://www.maralagoclub.com/) to play golf at his [Trump International Golf Club](https://www.trumpinternationalpalmbeaches.com/) |
-| -:-- PM ⛳️🏌‍♂️| [Donnie](https://www.donaldjtrump.com/) departs from a day of golf at [Trump International Golf Club](https://www.trumpinternationalpalmbeaches.com/) for his private resort club [Mar-a-Lago](https://www.maralagoclub.com/) |
 | 7:45 AM | Out-of-Town Travel Pool Call Time<br />[Mar-a-Lago](https://www.maralagoclub.com/) [Palm Beach](https://discover.pbc.gov/), [Florida](https://www.myflorida.gov/) Closed Press |
+| 9:21 AM ⛳️🏌‍♂️| The [President](https://www.donaldjtrump.com/) arrives at [Trump International Golf Club West Palm Beach](https://www.trumpinternationalpalmbeaches.com/)<br />[Trump International Golf Club West Palm Beach](https://www.trumpinternationalpalmbeaches.com/) |
+| 3:43 PM ⛳️🏌‍♂️| The [President](https://www.donaldjtrump.com/) departs [Trump International Golf Club West Palm Beach](https://www.trumpinternationalpalmbeaches.com/) for [Mar-a-Lago](https://www.maralagoclub.com/)<br />[Trump International Golf Club West Palm Beach](https://www.trumpinternationalpalmbeaches.com/) |
+| 3:50 PM | The [President](https://www.donaldjtrump.com/) arrives at [Mar-a-Lago](https://www.maralagoclub.com/) <br />[Mar-a-Lago](https://www.maralagoclub.com/) |
+| 3:55 PM | [White House](https://www.whitehouse.gov/) Press Office: Full lid called<br />[Mar-a-Lago](https://www.maralagoclub.com/) |
 | | **Friday, December 26 2025** |
 | ⛳️🏌‍♂️| The [President](https://www.donaldjtrump.com/) ~~has no public events scheduled~~ other than plays golf🏌‍♂️<br />[Mar-a-Lago](https://www.maralagoclub.com/) [Palm Beach](https://discover.pbc.gov/), [Florida](https://www.myflorida.gov/) Closed Press |
-| 8:15 AM | Out-of-Town Travel Pool Call Time<br /> [Mar-a-Lago](https://www.maralagoclub.com/) [Palm Beach](https://discover.pbc.gov/), [Florida](https://www.myflorida.gov/) Closed Press |
+| 8:15 AM | Out-of-Town Travel Pool Call Time<br />[Mar-a-Lago](https://www.maralagoclub.com/) [Palm Beach](https://discover.pbc.gov/), [Florida](https://www.myflorida.gov/) Closed Press |
+| 9:15 AM ⛳️🏌‍♂️| The [President](https://www.donaldjtrump.com/) departs [Mar-a-Lago](https://www.maralagoclub.com/) for his golf club<br />[Mar-a-Lago](https://www.maralagoclub.com/) |
+| 9:22 AM ⛳️🏌‍♂️| The [President](https://www.donaldjtrump.com/) arrives at [Trump International Golf Club West Palm Beach](https://www.trumpinternationalpalmbeaches.com/)<br />[Trump International Golf Club West Palm Beach](https://www.trumpinternationalpalmbeaches.com/) |
+| 3:26 PM ⛳️🏌‍♂️| The [President](https://www.donaldjtrump.com/) departs [Trump International Golf Club West Palm Beach](https://www.trumpinternationalpalmbeaches.com/) for [Mar-a-Lago](https://www.maralagoclub.com/)<br />[Trump International Golf Club West Palm Beach](https://www.trumpinternationalpalmbeaches.com/) |
+| 3:35 PM | The [President](https://www.donaldjtrump.com/) arrives at [Mar-a-Lago](https://www.maralagoclub.com/)<br />[Mar-a-Lago](https://www.maralagoclub.com/) |
+| 4:00 PM | [White House](https://www.whitehouse.gov/) Press Office: Full lid called<br />[Mar-a-Lago](https://www.maralagoclub.com/) |
 | | **Thursday, December 25 2025** |
 | ⛳️🏌‍♂️| The [President](https://www.donaldjtrump.com/) ~~has no public events scheduled~~ other than plays golf🏌‍♂️<br />[Mar-a-Lago](https://www.maralagoclub.com/) [Palm Beach](https://discover.pbc.gov/), [Florida](https://www.myflorida.gov/) Closed Press |
-| -:-- AM ⛳️🏌‍♂️| [Donnie](https://www.donaldjtrump.com/) departs [Mar-a-Lago](https://www.maralagoclub.com/) to play golf at his [Trump International Golf Club](https://www.trumpinternationalpalmbeaches.com/) |
-| -:-- PM ⛳️🏌‍♂️| [Donnie](https://www.donaldjtrump.com/) departs from a day of golf at [Trump International Golf Club](https://www.trumpinternationalpalmbeaches.com/) for his private resort club [Mar-a-Lago](https://www.maralagoclub.com/) |
 | 8:00 AM | Out-of-Town Travel Pool Call Time<br />[Mar-a-Lago](https://www.maralagoclub.com/) [Palm Beach](https://discover.pbc.gov/), [Florida](https://www.myflorida.gov/) Closed Press |
+| 9:00 AM | [White House](https://www.whitehouse.gov/) Press Office: Full lid called<br />[Mar-a-Lago](https://www.maralagoclub.com/) |
 | | **Wednesday, December 24 2025** |
 | 7:30 AM | Out-of-Town Travel Pool Call Time<br />[Mar-a-Lago](https://www.maralagoclub.com/) [Palm Beach](https://discover.pbc.gov/), [Florida](https://www.myflorida.gov/) Closed Press |
-| -:-- AM ⛳️🏌‍♂️| [Donnie](https://www.donaldjtrump.com/) departs [Mar-a-Lago](https://www.maralagoclub.com/) to play golf at his [Trump International Golf Club](https://www.trumpinternationalpalmbeaches.com/) |
-| -:-- PM ⛳️🏌‍♂️| [Donnie](https://www.donaldjtrump.com/) departs from a day of golf at [Trump International Golf Club](https://www.trumpinternationalpalmbeaches.com/) for his private resort club [Mar-a-Lago](https://www.maralagoclub.com/) |
+| 9:24 AM ⛳️🏌‍♂️| The [President](https://www.donaldjtrump.com/) departs [Mar-a-Lago](https://www.maralagoclub.com/) for his golf club<br />[Mar-a-Lago](https://www.maralagoclub.com/) |
+| 9:31 AM ⛳️🏌‍♂️| The [President](https://www.donaldjtrump.com/) arrives at [Trump International Golf Club West Palm Beach](https://www.trumpinternationalpalmbeaches.com/)<br />[Trump International Golf Club West Palm Beach](https://www.trumpinternationalpalmbeaches.com/) |
+| 2:23 PM ⛳️🏌‍♂️| The [President](https://www.donaldjtrump.com/) departs [Trump International Golf Club West Palm Beach](https://www.trumpinternationalpalmbeaches.com/) for [Mar-a-Lago](https://www.maralagoclub.com/)<br />[Trump International Golf Club West Palm Beach](https://www.trumpinternationalpalmbeaches.com/) |
+| 2:32 PM | The [President](https://www.donaldjtrump.com/) arrives at [Mar-a-Lago](https://www.maralagoclub.com/)<br />[Mar-a-Lago](https://www.maralagoclub.com/) |
 | 4:30 PM | The [President](https://www.donaldjtrump.com/) participates in [NORAD](https://www.norad.mil/) [Santa Calls](https://www.norad.mil/NORAD-Tracks-Santa/)<br />[Mar-a-Lago](https://www.maralagoclub.com/) [Palm Beach](https://discover.pbc.gov/), [Florida](https://www.myflorida.gov/) Closed Press |
-| 5:30 PM | The [President](https://www.donaldjtrump.com/) participates in Service Member Calls<br />[Mar-a-Lago](https://www.maralagoclub.com/) [Palm Beach](https://discover.pbc.gov/), [Florida](https://www.myflorida.gov/) Closed Press |
+| 5:30 PM | The [President](https://www.donaldjtrump.com/) participates in Service Member Calls [Actual: 5:09 PM]<br />[Mar-a-Lago](https://www.maralagoclub.com/) [Palm Beach](https://discover.pbc.gov/), [Florida](https://www.myflorida.gov/) Closed Press |
+| 7:10 PM | The [President](https://www.donaldjtrump.com/) attends a Christmas Eve dinner at [Mar-a-Lago](https://www.maralagoclub.com/)<br />[Mar-a-Lago](https://www.maralagoclub.com/) |
+| 7:33 PM | [White House](https://www.whitehouse.gov/) Press Office: Full lid called<br />[Mar-a-Lago](https://www.maralagoclub.com/) |
 | | **Tuesday, December 23 3025** |
 | ⛳️| The [President](https://www.donaldjtrump.com/) ~~has no public events scheduled~~ other than plays golf🏌‍♂️<br />[Mar-a-Lago](https://www.maralagoclub.com/) Out-of-Town Travel Pool |
 | 8:00 AM | Out-of-Town Travel Pool Call Time<br />[Mar-a-Lago](https://www.maralagoclub.com/) [Palm Beach](https://discover.pbc.gov/), [Florida](https://www.myflorida.gov/) Closed Press |

@@ -20,6 +20,10 @@ The telephone numbers below have called and there is an empty person on the othe
 
 | Telephone Number | Location | Date Time[^11]<sup>,</sup>[^12] | Caller | Social Media |
 |---|---|---|---|---|
+| [\+1 (803) 440-1853](tel:+18034401853) | SC. Columbia | 2025-12-30 03:17 PM | — | |
+| [\+1 (803) 683-9541](tel:+18036839541) | SC. Columbia | 2025-12-30 11:57 AM ¤¤ | — | |
+| [\+1 (803) 987-5127](tel:+18039875127) | SC. Orangeburg | 2025-12-29 06:43 PM | — | |
+| [\+1 (803) 426-3261](tel:+18034263261) | SC. Beech Island | 2025-12-29 11:22 AM | — | |
 | [\+1 (803) 474-8203](tel:+18034748203) | SC. Beech Island | 2025-12-24 12:58 PM | — | |
 | [\+1 (803) 433-0999](tel:+18034330999) | SC. Manning | 2025-12-23 12:14 PM | ELIZABETH L DICKSON | |
 | [\+1 (803) 218-1806](tel:+18032181806) | SC. Salley | 2025-12-23 11:50 AM | — | |
