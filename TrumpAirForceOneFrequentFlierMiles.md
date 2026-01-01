@@ -81,11 +81,11 @@ toc: true
 
 🔥💸 = Government Shutdown
 
-{% include TrumpAirForceOneFrequentFlyerMiles/2026Q1.md %}
-{% include TrumpAirForceOneFrequentFlyerMiles/2025Q4.md %}
-{% include TrumpAirForceOneFrequentFlyerMiles/2025Q3.md %}
-{% include TrumpAirForceOneFrequentFlyerMiles/2025Q3.md %}
-{% include TrumpAirForceOneFrequentFlyerMiles/2025Q1.md %}
+{% include_relative TrumpAF1/2026Q1.md %}
+{% include_relative TrumpAF1/2025Q4.md %}
+{% include_relative TrumpAF1/2025Q3.md %}
+{% include_relative TrumpAF1/2025Q3.md %}
+{% include_relative TrumpAF1/2025Q1.md %}
 
 ### Where Trump Can Be Found On Weekends
 
