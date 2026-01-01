@@ -81,8 +81,6 @@ toc: true
 
 🔥💸 = Government Shutdown
 
-| Time | Location |
-|---|---|
 {% include TrumpAirForceOneFrequentFlyerMiles/2026Q1.md %}
 {% include TrumpAirForceOneFrequentFlyerMiles/2025Q4.md %}
 {% include TrumpAirForceOneFrequentFlyerMiles/2025Q3.md %}
