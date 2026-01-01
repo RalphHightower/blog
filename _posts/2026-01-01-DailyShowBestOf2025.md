@@ -1,13 +1,14 @@
 ---
 layout: post
+tags: [media, Comedy Central / Homepage - Shows & Schedules, Comedy Central The Daily Show Fan Page, Desi Lydic, Jon Stewart, organizations, political parties, Democrat Party, Trumpian Party, federal government, Constitution of the United States, Supreme Court of the United States (SCOTUS), US Courts, Department of Justice (DOJ), Federal Bureau of Investigation (FBI), Congress, Senate, House of Representatives, President of the United States (POTUS), White House (WH), Trump autocracy, Donald J Trump, President Donald Trump (45), President Donald Trump (47), President Trump (47) Administration, President Trump (47) Cabinet, press secretary, Karoline Leavitt, Pam Bondi – Office of the Attorney General / Meet the Attorney General / United States Department of Justice, Todd Blanche – Office of the Deputy Attorney General / Office of the Deputy Attorney General, Todd Blanche / LinkedIn, Lindsey Halligan, Director Kash Patel — FBI, grifter, self-dealing, corruption, con artist, crime, cryptocurrency, criminal associates, criminal businesses, criminal media, criminal organizations, criminal partners]
 tags: []
-categories: []
+categories: [Daily Show, Comedy Central, Desi Lydic, Jon Stewart, Donald Trump, 2925 Year in Review]
 date: 2026-01-01 15:25
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: 'title'
+title: "Daily Show Desi Lydic: 2025 Year In Review"
 ---
 
 
@@ -15,8 +16,8 @@ title: 'title'
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DeGiFF99MvA?si=TFB-wodqxoTJ9d7l" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Dec 26, 2025  #DesiLydic [#DailyShow[Comedy Central](https://www.cc.com/) #2025
-Desi Lydic tackled the biggest stories from 2025, including presidential awkwardness at Jimmy Carter's funeral, Trump's pay-to-stay Gold Card scheme for immigrants, [MAGA](https://www.donaldjtrump.com/)'s grievance against the first American pope, right-wing stanning for Sydney Sweeney amid her jeans ad controversy, and more. [#DailyShow[Comedy Central](https://www.cc.com/) #DesiLydic #2025
+Dec 26, 2025  #DesiLydic [#DailyShow](https://www.cc.com/fan-hub/the-daily-show) [#Comedy Central](https://www.cc.com/) #2025
+Desi Lydic tackled the biggest stories from 2025, including presidential awkwardness at Jimmy Carter's funeral, Trump's pay-to-stay Gold Card scheme for immigrants, [MAGA](https://www.donaldjtrump.com/)'s grievance against the first American pope, right-wing stanning for Sydney Sweeney amid her jeans ad controversy, and more. [#DailyShow](https://www.cc.com/fan-hub/the-daily-show) [#Comedy Central](https://www.cc.com/) #DesiLydic #2025
 
 Subscribe to [The Daily Show[Comedy Central](https://www.cc.com/):
    / [@thedailyshow](https://www.youtube.com/watch?v=DeGiFF99MvA)
@@ -40,8 +41,8 @@ Jon Stewart and The Best Fucking News Team host [The Daily Show](https://www.cc.
 
 ----
 - media
-- [Comedy Central The Daily Show Fan Page](https://www.cc.com/fan-hub/the-daily-show)
-    - [Comedy Central / Homepage - Shows & Schedules](https://www.cc.com/)
+- [Comedy Central / Homepage - Shows & Schedules](https://www.cc.com/)
+    - [Comedy Central The Daily Show Fan Page](https://www.cc.com/fan-hub/the-daily-show)
         - Desi Lydic
         - Jon Stewart
 - organizations
