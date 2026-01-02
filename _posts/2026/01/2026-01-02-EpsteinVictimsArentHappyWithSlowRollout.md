@@ -1,13 +1,13 @@
 ---
 layout: post
-tags: []
+tags: [media, MS NOW - Breaking News and News Today / Latest News, “The Rachel Maddow Show”, Rachel Maddow, Miami News –  Breaking Stories Sports & Crime / Miami Herald, The New York Times (NYT) - Breaking News US News World News and Videos, NPR - Breaking News Analysis Music Arts & Podcasts – NPR, organizations, political parties, Democrat Party, Trumpian Party, state local governments, federal government, Constitution of the United States, Supreme Court of the United States (SCOTUS), US Courts, Department of Justice (DOJ), Federal Bureau of Investigation (FBI), U.S. Department of the Treasury, Federal Housing Finance Agency (FHFA), U.S. Department of Labor (DOL), Congress, H.R.4405 - 119th Congress (2025-2026) –  Epstein Files Transparency Act / Congress.gov / Library of Congress, Senate, House of Representatives, President of the United States (POTUS), White House (WH), Trump autocracy, Donald J Trump, President Donald Trump (45), President Donald Trump (47), President Trump (47) Administration, President Trump (47) Cabinet, press secretary, Karoline Leavitt, Pam Bondi – Office of the Attorney General / Meet the Attorney General / United States Department of Justice, Todd Blanche – Office of the Deputy Attorney General / Office of the Deputy Attorney General, Todd Blanche / LinkedIn, Lindsey Halligan, Director Kash Patel — FBI, grifter, self-dealing, corruption, con artist, crime, cryptocurrency, criminal associates, criminal businesses, criminal media, criminal organizations, criminal partners, human trafficking, sex trafficking, pedophile, Jeffrey Epstein, Ghislaine Maxwell]
 categories: [Jeffrey Epstein, Ghislaine Maxwell, human trafficking, sex trafficking, pedophile, Trump Crime Family, Donald Trump, Department of Justice (DOJ), Pam Bondi, Todd Blanche, Federal Bureau of Investigation (FBI), Kash Patel]
 date: 2026-01-02 15:37
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: "Epstein. Victims Aren't With Slow Rollout Of Epstein Files"
+title: "Epstein. Victims Aren't Happy With Justice Department Slow Rollout Of Epstein Files"
 ---
 
 
@@ -48,7 +48,7 @@ Seven years later, we are still feeling the shock waves of Brown’s reporting.
 
 This past Friday was the deadline for the [Justice Department](https://www.justice.gov/) to unseal its [files related to Epstein](https://www.ms.now/news/justice-department-releases-epstein-files-investigation). It was required by law, thanks to a bill passed by [Congress](https://www.congress.gov/) and signed by the [president](https://www.whitehouse.gov/), to release all of the records in its possession and to redact only personal information that could invade a victim’s privacy. 
 
-But when that deadline came around, the [Justice Department](https://www.justice.gov/) failed to release all of the Epstein files as they were legally compelled to do. Instead, they released a small portion of them — [heavily redacted. ](https://www.ms.now/news/democrats-slam-trump-[administration](https://www.whitehouse.gov/administration/)-incomplete-epstein-files). 
+But when that deadline came around, the [Justice Department](https://www.justice.gov/) failed to release all of the Epstein files as they were legally compelled to do. Instead, they released a small portion of them — [heavily redacted.](https://www.ms.now/news/democrats-slam-trump-administration-incomplete-epstein-files). 
 
 The [Justice Department](https://www.justice.gov/) also inexplicably removed some of the documents after they posted them, including a photo that showed [Trump](https://www.donaldjtrump.com/). (After public backlash, they put that photo back up.)
 
@@ -66,6 +66,12 @@ Rachel Maddow is host of the Emmy Award-winning “The Rachel Maddow Show” Mon
 
  ----
 - media
+- [MS NOW - Breaking News and News Today / Latest News](https://www.ms.now/)
+    - “The Rachel Maddow Show”
+        - Rachel Maddow
+- [Miami News: Breaking Stories, Sports & Crime / Miami Herald](https://www.miamiherald.com/)
+- [The New York Times (NYT) - Breaking News, US News, World News and Videos](https://www.nytimes.com/)
+- [NPR - Breaking News, Analysis, Music, Arts & Podcasts – NPR](https://www.npr.org/)
 - organizations
 - political parties
 - [Democrat Party](https://www.democrats.org/)
@@ -77,10 +83,9 @@ Rachel Maddow is host of the Emmy Award-winning “The Rachel Maddow Show” Mon
         - [US Courts](https://www.uscourts.gov/)
     - [Department of Justice (DOJ)](https://www.justice.gov/)
         - [Federal Bureau of Investigation (FBI)](https://www.fbi.gov/)
-    - [Federal Reserve](https://www.federalreserve.gov/)
-    - [Federal Reserve Board - Federal Reserve Act](https://www.federalreserve.gov/aboutthefed/fract.htm)
     - [U.S. Department of the Treasury](https://home.treasury.gov/)
     - [Federal Housing Finance Agency (FHFA)](https://www.fhfa.gov/)
+    - [U.S. Department of Labor (DOL)](https://www.dol.gov/)
     - [Congress](https://www.congress.gov/)
         - [H.R.4405 - 119th Congress (2025-2026): Epstein Files Transparency Act / Congress.gov / Library of Congress](https://www.congress.gov/bill/119th-congress/house-bill/4405)
         - [Senate](https://www.senate.gov/)
@@ -95,9 +100,6 @@ Rachel Maddow is host of the Emmy Award-winning “The Rachel Maddow Show” Mon
             - [President Trump (47) Cabinet](https://www.whitehouse.gov/administration/the-cabinet/)
                 - press secretary
                     - Karoline Leavitt
-                - [Scott Bessent / U.S. Department of the Treasury](https://home.treasury.gov/about/general-information/officials/scott-bessent)
-                - [Director William J Pulte – Federal Housing Finance Agency (FHFA)](https://www.fhfa.gov/about/leadership/william-j-pulte)
-                - [Bill Pulte / LinkedIn](https://www.linkedin.com/in/pulte/)
                 - [Pam Bondi – Office of the Attorney General / Meet the Attorney General / United States Department of Justice](https://www.justice.gov/ag/staff-profile/meet-attorney-general)
                     - [Todd Blanche – Office of the Deputy Attorney General / Office of the Deputy Attorney General](https://www.justice.gov/dag)
                     - [Todd Blanche / LinkedIn](https://www.linkedin.com/in/toddblanche/)
