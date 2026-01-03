@@ -20,6 +20,7 @@ The telephone numbers below have called and there is an empty person on the othe
 
 | Telephone Number | Location | Date Time[^11]<sup>,</sup>[^12] | Caller | Social Media |
 |---|---|---|---|---|
+| [\+1 (803) 810-0314](tel:+18038100314) | SC. York | 2026-01-02 04:46 PM | DANICA A SANCIC | |
 | [\+1 (803) 440-1853](tel:+18034401853) | SC. Columbia | 2025-12-30 03:17 PM | — | |
 | [\+1 (803) 683-9541](tel:+18036839541) | SC. Columbia | 2025-12-30 11:57 AM ¤¤ | — | |
 | [\+1 (803) 987-5127](tel:+18039875127) | SC. Orangeburg | 2025-12-29 06:43 PM | — | |
