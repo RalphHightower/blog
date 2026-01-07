@@ -20,6 +20,7 @@ The telephone numbers below have called and there is an empty person on the othe
 
 | Telephone Number | Location | Date Time[^11]<sup>,</sup>[^12] | Caller | Social Media |
 |---|---|---|---|---|
+| [\+1 (803) 212-4871](tel:+18032124871) | SC. Columbia | 2026-01-06 02:31 PM | SC GEN ASSEMBLY (LEGISLATURE) | #InsuranceFraud |
 | [\+1 (803) 988-4950](tel:+18039884950) | SC. Columbia | 2026-01-03 12:05 PM | WACHOVIA | |
 | [\+1 (803) 325-1381](tel:+18033251381) | SC. Rock Hill | 2026-01-03 11:19 AM | Lela King | |
 | [\+1 (803) 810-0314](tel:+18038100314) | SC. York | 2026-01-02 04:46 PM | DANICA A SANCIC | |
