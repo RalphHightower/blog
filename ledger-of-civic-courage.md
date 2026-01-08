@@ -1,5 +1,5 @@
 ---
-title: "The Ledger of Civic Courage"
+title: "Profiles In Courage"
 subtitle: "A Manuscript for the Years When the Ground Shifted"
 author: "Ralph Hightower"
 layout: page
@@ -46,9 +46,11 @@ twitter_image: "/assets/images/ledger-social-preview.png"
 theme_hint: "green-bar"
 ---
 
+This page began as a counterpoint to [2025: Reflections On the Year of Buffonery]({% link _posts/2025/12/2025-12-28-2025ReflectionsOnYearOfBuffoonery.md %}) to honor and highlight the heroes of 2025 who stood up to power and spoke the truth while facing personal risk and safety in defense of the [Constitution](https://constitution.congress.gov/).
+
 > *This ledger is written in the spirit of green‑bar printer paper — the quiet, methodical record‑keeping of those who keep systems running even when the world tilts.*
 
-# **THE LEDGER OF CIVIC COURAGE**  
+# **PROFILES IN COURAGE**  
 *A Manuscript for the Years When the Ground Shifted*
 
 ---
