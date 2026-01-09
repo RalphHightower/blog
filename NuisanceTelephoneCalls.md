@@ -20,6 +20,10 @@ The telephone numbers below have called and there is an empty person on the othe
 
 | Telephone Number | Location | Date Time[^11]<sup>,</sup>[^12] | Caller | Social Media |
 |---|---|---|---|---|
+| [\+1 (803) 471-2528](tel:+18034712528) | SC. Jackson | 2026-01-08 05:23 PM | PROGRESS RAIL S | |
+| [\+1 (839) 400-0371](tel:+18394000371) | SC. Fort Mill | 2026-01-08 12:13 PM | — | |
+| [\+1 (803) 613-0243](tel:+18036130243) | SC. North Augusta | 2026-01-08 10:10 AM | — | |
+| [\+1 (803) 705-8606](tel:+18037058606) | SC. Columbia | 2026-01-07 10:19 AM ¤¤ 🚫 | HAGEMEYER CAMER | |
 | [\+1 (803) 212-4871](tel:+18032124871) | SC. Columbia | 2026-01-06 02:31 PM | SC GEN ASSEMBLY (LEGISLATURE) | #InsuranceFraud |
 | [\+1 (803) 988-4950](tel:+18039884950) | SC. Columbia | 2026-01-03 12:05 PM | WACHOVIA | |
 | [\+1 (803) 325-1381](tel:+18033251381) | SC. Rock Hill | 2026-01-03 11:19 AM | Lela King | |
