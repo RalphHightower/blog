@@ -26,10 +26,10 @@ jobs:
 
       - name: Checkout Repository
         uses: actions/checkout@8e8c483db84b4bee98b60c0593521ed34d9990e8 # v6.0.1
-      - name: Set Up Ruby 3.4.7
+      - name: Set Up Ruby 3.4.8
         uses: ruby/setup-ruby@d5f787ce339eb0767271bc01d922e85644c2c8ab # v1.280.0
         with:
-          ruby-version: 3.4.7
+          ruby-version: 3.4.8
           bundler-cache: true
       # - name: Run tests
       #   run: script/cibuild
