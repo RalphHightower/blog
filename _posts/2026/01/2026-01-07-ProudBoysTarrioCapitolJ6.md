@@ -1,13 +1,13 @@
 ---
 layout: post
-tags: []
-categories: []
+tags: [media, MS NOW - Breaking News and News Today / Latest News, Andy Campbell, NPR - Breaking News Analysis Music Arts & Podcasts – NPR, organization, domestic terrorism groups, Proud Boys, Enrique Tarrio, political parties, Democrat Party, Trumpian Party, federal government, Constitution of the United States, Supreme Court of the United States (SCOTUS), US Courts, Department of Justice (DOJ), Federal Bureau of Investigation (FBI), Office of the Attorney General / Attorney General –  Merrick B. Garland / United States Department of Justice, Congress, Senate, House of Representatives, President of the United States (POTUS), White House (WH), Trump autocracy, Donald J Trump, President Donald Trump (45), President Donald Trump (47), President Trump (47) Administration, President Trump (47) Cabinet, press secretary, Karoline Leavitt, Scott Bessent / U.S. Department of the Treasury, Director William J Pulte – Federal Housing Finance Agency (FHFA), Bill Pulte / LinkedIn, Pam Bondi – Office of the Attorney General / Meet the Attorney General / United States Department of Justice, Todd Blanche – Office of the Deputy Attorney General / Office of the Deputy Attorney General, Todd Blanche / LinkedIn, Lindsey Halligan, Director Kash Patel — FBI, grifter, self-dealing, corruption, con artist, crime, cryptocurrency, criminal associates, criminal businesses, criminal media, criminal organizations, criminal partners]
+categories: [domestic terrorism groups, Proud Boys, Enrique Tarrio]
 date: 2026-01-07 21:32
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: 'title'
+title: "Convicted Seditionist Enrique Tarrio Revisits the Capitol"
 ---
 
 
@@ -50,21 +50,16 @@ It’s not clear what Tarrio’s public appearance on Tuesday might mean for the
 
 ----
 - media
+- [MS NOW - Breaking News and News Today / Latest News](https://www.ms.now/)
+    - [Andy Campbell](https://www.ms.now/author/andy-campbell)
+- [NPR - Breaking News, Analysis, Music, Arts & Podcasts – NPR](https://www.npr.org/)
 - organization
 - domestic terrorism groups
 - Proud Boys
-    - Enrico Baltimore
+    - Enrique Tarrio
 - political parties
 - [Democrat Party](https://www.democrats.org/)
 - [Trumpian Party](https://www.gop.com/)
-- universities
-- companies
-- foreign governments
-- state, local governments
-- Trump’s perceived enemies
-- [James B. Comey, September 4, 2013 - May 9, 2017 — FBI](https://www.fbi.gov/history/directors/james-b-comey)
-- [Letitia James / New York State Attorney General](https://ag.ny.gov/about/meet-letitia-james)
-- [Adam Schiff (D-CA)](https://www.schiff.senate.gov/)
 - federal government
 - [Constitution of the United States](https://constitution.congress.gov/constitution/)
     - [Supreme Court of the United States (SCOTUS)](https://www.supremecourt.gov/)
