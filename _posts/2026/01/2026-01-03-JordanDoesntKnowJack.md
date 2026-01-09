@@ -52,7 +52,7 @@ Then, throwing a boomerang of accusations that he politicized justice, [Smith](h
 
 [Smith](https://www.justice.gov/archives/sco-smith) added that he had no doubt “that [President](https://www.whitehouse.gov/) [Trump](https://www.donaldjtrump.com/) wants to seek retribution against me because of my role as special counsel.”
 
-Finally, >Smith](https://www.justice.gov/archives/sco-smith) used his testimony to put on the public record that the evidence he collected was sufficient to prove beyond a reasonable doubt that the [president](https://www.whitehouse.gov/) had violated the law in the classified documents case and “that [President](https://www.whitehouse.gov/) [Trump](https://www.donaldjtrump.com/) was by a large measure the most culpable and most responsible person in this (the January 6) conspiracy.”
+Finally, [Smith](https://www.justice.gov/archives/sco-smith) used his testimony to put on the public record that the evidence he collected was sufficient to prove beyond a reasonable doubt that the [president](https://www.whitehouse.gov/) had violated the law in the classified documents case and “that [President](https://www.whitehouse.gov/) [Trump](https://www.donaldjtrump.com/) was by a large measure the most culpable and most responsible person in this (the January 6) conspiracy.”
 
 “These crimes,” [Smith](https://www.justice.gov/archives/sco-smith) said, “were committed for his benefit. The attack that happened at the Capitol … does not happen without him … So in terms of why we would pursue a case against him, I entirely disagree with any characterization that our work was in any way meant to hamper him in the [\[2024\] presidential election](https://www.fec.gov/resources/cms-content/documents/2024presgeresults.pdf).”
 
