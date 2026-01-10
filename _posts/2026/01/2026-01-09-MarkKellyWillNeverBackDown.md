@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [media, MS NOW - Breaking News and News Today / Latest News, Rachel Maddow Show, Rachel Maddow, Steve Benen, The Hill - covering Congress Politics Political Campaigns and Capitol Hill, USA TODAY - Breaking News and Latest News Today, The Washington Post - Breaking news and latest headlines U.S. news world news and video - The Washington Post, organizations, political parties, Democrat Party, Trumpian Party, universities, companies, foreign governments, state local governments, Maine, North Carolina, federal government, Constitution of the United States, Supreme Court of the United States (SCOTUS), US Courts, Department of Justice (DOJ), Federal Bureau of Investigation (FBI), Department of Defense (DOD), Uniform Code of Military Justice, Navy, Board for Correction of Naval Records, Secretary of the Navy John Phelan, Federal Housing Finance Agency (FHFA), Congress, Senate, Susan Collins (T-ME), Mark Kelly (D-AZ), Thom Tillis (T-NC), House of Representatives, President of the United States (POTUS), White House (WH), Trump autocracy, Donald J Trump, President Donald Trump (45), President Donald Trump (47), President Trump (47) Administration, President Trump (47) Cabinet, press secretary, Karoline Leavitt, Pam Bondi – Office of the Attorney General / Meet the Attorney General / United States Department of Justice, Todd Blanche – Office of the Deputy Attorney General / Office of the Deputy Attorney General, Todd Blanche / LinkedIn, Lindsey Halligan, Director Kash Patel — FBI, Secretary Pete Hegseth, grifter, self-dealing, corruption, con artist, crime, cryptocurrency, criminal associates, criminal businesses, criminal media, criminal organizations, criminal partners]
+tags: [media, MS NOW - Breaking News and News Today / Latest News, Rachel Maddow Show, Rachel Maddow, Steve Benen, The Hill - covering Congress Politics Political Campaigns and Capitol Hill, USA TODAY - Breaking News and Latest News Today, The Washington Post - Breaking news and latest headlines U.S. news world news and video - The Washington Post, political parties, Democrat Party, Trumpian Party, state local governments, Maine, North Carolina, federal government, Constitution of the United States, Supreme Court of the United States (SCOTUS), US Courts, Department of Justice (DOJ), Federal Bureau of Investigation (FBI), Department of Defense (DOD), Uniform Code of Military Justice, Navy, Board for Correction of Naval Records, Secretary of the Navy John Phelan, Federal Housing Finance Agency (FHFA), Congress, Senate, Susan Collins (T-ME), Mark Kelly (D-AZ), Thom Tillis (T-NC), House of Representatives, President of the United States (POTUS), White House (WH), Trump autocracy, Donald J Trump, President Donald Trump (45), President Donald Trump (47), President Trump (47) Administration, President Trump (47) Cabinet, press secretary, Karoline Leavitt, Pam Bondi – Office of the Attorney General / Meet the Attorney General / United States Department of Justice, Todd Blanche – Office of the Deputy Attorney General / Office of the Deputy Attorney General, Todd Blanche / LinkedIn, Lindsey Halligan, Director Kash Patel — FBI, Secretary Pete Hegseth, grifter, self-dealing, corruption, con artist, crime, cryptocurrency, criminal associates, criminal businesses, criminal media, criminal organizations, criminal partners]
 categories: [Donald Trump, Department of Defense (DOD), Pete Hegseth, Uniform Code of Military Justice, Navy, Board for Correction of Naval Records, Secretary of the Navy John Phelan]
 date: 2026-01-09 20:29
 excerpt: ''
@@ -67,13 +67,9 @@ This post updates our [related earlier coverage](https://www.ms.now/rachel-maddo
 - [The Hill - covering Congress, Politics, Political Campaigns and Capitol Hill](https://thehill.com/)
 - [USA TODAY - Breaking News and Latest News Today](https://www.usatoday.com/)
 - [The Washington Post - Breaking news and latest headlines, U.S. news, world news, and video - The Washington Post](https://www.washingtonpost.com/)
-- organizations
 - political parties
 - [Democrat Party](https://www.democrats.org/)
 - [Trumpian Party](https://www.gop.com/)
-- universities
-- companies
-- foreign governments
 - state, local governments
 - [Maine](https://www.maine.gov/)
 - [North Carolina](https://www.nc.gov/)
