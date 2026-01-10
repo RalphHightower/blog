@@ -20,6 +20,8 @@ The telephone numbers below have called and there is an empty person on the othe
 
 | Telephone Number | Location | Date Time[^11]<sup>,</sup>[^12] | Caller | Social Media |
 |---|---|---|---|---|
+| [\+1 (803) 302-0603](tel:+18033020603) | SC. North Augusta | 2026-01-09 01:27 PM | — | |
+| [\+1 (803) 497-3578](tel:+18034973578) | SC. Columbia | 2026-01-09 11:03 AM | Couthen, Eddie (DEBORAH O SMITH) | |
 | [\+1 (803) 471-2528](tel:+18034712528) | SC. Jackson | 2026-01-08 05:23 PM | PROGRESS RAIL S | |
 | [\+1 (839) 400-0371](tel:+18394000371) | SC. Fort Mill | 2026-01-08 12:13 PM | — | |
 | [\+1 (803) 613-0243](tel:+18036130243) | SC. North Augusta | 2026-01-08 10:10 AM | — | |
