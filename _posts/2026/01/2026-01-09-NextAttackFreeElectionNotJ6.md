@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [media, MS NOW - Breaking News and News Today / Latest News, Ryan Teague Beckwith, NPR - Breaking News Analysis Music Arts & Podcasts – NPR, organizations, The Handbasket, Marisa Kabas, Democracy Docket, The Elections Group, Jennifer Morrell, MIT Election Data and Science Lab, Charles Stewart III, Elias Law Group, Marc Elias, American Oversight, Chioma Chukwu, Bipartisan Policy Center, Matthew Weil, Brennan Center for Justice, Wendy Weiser, Campaign Legal Center, Anna Baldwin, Democracy Forward, Skye Perryman, The Center for Election Innovation & Research, David J. Becker, NPR - Breaking News Analysis Music Arts & Podcasts – NPR, States United Democracy Center, Joanna Lydgate, VoteRiders, Lauren Kunis, political parties, Democrat Party, Trumpian Party, universities, companies, foreign governments, Afghanistan (AF), China (CN), Iraq (IQ), Russia (RU), state local governments, federal government, Constitution of the United States, Supreme Court of the United States (SCOTUS), US Courts, Department of Justice (DOJ), Federal Bureau of Investigation (FBI), Federal Reserve, Federal Reserve Board - Federal Reserve Act, U.S. Department of the Treasury, Federal Housing Finance Agency (FHFA), Congress, Senate, House of Representatives, President of the United States (POTUS), White House (WH), Trump autocracy, Donald J Trump, President Donald Trump (45), President Donald Trump (47), President Trump (47) Administration, President Trump (47) Cabinet, press secretary, Karoline Leavitt, Pam Bondi – Office of the Attorney General / Meet the Attorney General / United States Department of Justice, Todd Blanche – Office of the Deputy Attorney General / Office of the Deputy Attorney General, Todd Blanche / LinkedIn, Lindsey Halligan, Director Kash Patel — FBI, grifter, self-dealing, corruption, con artist, crime, cryptocurrency, criminal associates, criminal businesses, criminal media, criminal organizations, criminal partners]
+tags: [media, MS NOW - Breaking News and News Today / Latest News, Ryan Teague Beckwith, NPR - Breaking News Analysis Music Arts & Podcasts – NPR, organizations, The Handbasket, Marisa Kabas, Democracy Docket, The Elections Group, Jennifer Morrell, MIT Election Data and Science Lab, Charles Stewart III, Elias Law Group, Marc Elias, American Oversight, Chioma Chukwu, Bipartisan Policy Center, Matthew Weil, Brennan Center for Justice, Wendy Weiser, Campaign Legal Center, Anna Baldwin, Democracy Forward, Skye Perryman, The Center for Election Innovation & Research, David J. Becker, NPR - Breaking News Analysis Music Arts & Podcasts – NPR, States United Democracy Center, Joanna Lydgate, VoteRiders, Lauren Kunis, FactCheck.org - A Project of The Annenberg Public Policy Center, Legislative News Studies and Analysis / National Conference of State Legislatures, political parties, Democrat Party, Trumpian Party, universities, companies, foreign governments, Afghanistan (AF), China (CN), Iraq (IQ), Russia (RU), state local governments, federal government, Constitution of the United States, Supreme Court of the United States (SCOTUS), US Courts, Department of Justice (DOJ), Federal Bureau of Investigation (FBI), Congress, Electoral Count Reform Act, Senate, House of Representatives, President of the United States (POTUS), White House (WH), Trump autocracy, Donald J Trump, President Donald Trump (45), President Donald Trump (47), President Trump (47) Administration, President Trump (47) Cabinet, Preserving and Protecting the Integrity of American Elections – The White House, press secretary, Karoline Leavitt, Pam Bondi – Office of the Attorney General / Meet the Attorney General / United States Department of Justice, Todd Blanche – Office of the Deputy Attorney General / Office of the Deputy Attorney General, Todd Blanche / LinkedIn, Lindsey Halligan, Director Kash Patel — FBI, grifter, self-dealing, corruption, con artist, crime, cryptocurrency, criminal associates, criminal businesses, criminal media, criminal organizations, criminal partners]
 categories: [Donald Trump, normalization of election denial, attempted federalization of elections, collection of voter data, high turnover among election officials, late-arriving mail ballots being thrown out, new laws making voting harder, centralizing sensitive voter data, public misunderstanding, interference from the Trump administration, ineffective political opposition, public mistrust of elections, americans will give up]
 date: 2026-01-09 15:22
 excerpt: ''
@@ -138,6 +138,8 @@ Ryan Teague Beckwith is a newsletter editor for MS NOW.
     - [Joanna Lydgate](https://statesunited.org/our-team/joanna-lydgate/)
 - [VoteRiders](https://www.voteriders.org/)
     - [Lauren Kunis](https://www.voteriders.org/team/lauren-kunis/)
+- [FactCheck.org - A Project of The Annenberg Public Policy Center](https://www.factcheck.org/)
+- [Legislative News, Studies and Analysis / National Conference of State Legislatures](https://www.ncsl.org/,)
 - political parties
 - [Democrat Party](https://www.democrats.org/)
 - [Trumpian Party](https://www.gop.com/)
@@ -155,11 +157,8 @@ Ryan Teague Beckwith is a newsletter editor for MS NOW.
         - [US Courts](https://www.uscourts.gov/)
     - [Department of Justice (DOJ)](https://www.justice.gov/)
         - [Federal Bureau of Investigation (FBI)](https://www.fbi.gov/)
-    - [Federal Reserve](https://www.federalreserve.gov/)
-    - [Federal Reserve Board - Federal Reserve Act](https://www.federalreserve.gov/aboutthefed/fract.htm)
-    - [U.S. Department of the Treasury](https://home.treasury.gov/)
-    - [Federal Housing Finance Agency (FHFA)](https://www.fhfa.gov/)
     - [Congress](https://www.congress.gov/)
+        - [Electoral Count Reform Act](https://www.govinfo.gov/content/pkg/PLAW-117publ328/html/PLAW-117publ328.htm)
         - [Senate](https://www.senate.gov/)
         - [House of Representatives](https://www.house.gov/)
     - [President of the United States (POTUS)](https://www.whitehouse.gov/)
@@ -170,6 +169,7 @@ Ryan Teague Beckwith is a newsletter editor for MS NOW.
         - [President Donald Trump (47)](https://www.whitehouse.gov/administration/donald-j-trump/)
             - [President Trump (47) Administration](https://www.whitehouse.gov/administration/)
             - [President Trump (47) Cabinet](https://www.whitehouse.gov/administration/the-cabinet/)
+                - [Preserving and Protecting the Integrity of American Elections – The White House](https://www.whitehouse.gov/presidential-actions/2025/03/preserving-and-protecting-the-integrity-of-american-elections/)
                 - press secretary
                     - Karoline Leavitt
                 - [Pam Bondi – Office of the Attorney General / Meet the Attorney General / United States Department of Justice](https://www.justice.gov/ag/staff-profile/meet-attorney-general)
