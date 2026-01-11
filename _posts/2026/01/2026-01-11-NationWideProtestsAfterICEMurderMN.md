@@ -1,8 +1,7 @@
 ---
 layout: post
 tags: [media, MS NOW Breaking News and News Today / Latest News, Clarissa-Jan Lim, MS NOW’s “The Weekend” show, Axios Breaking news U.S. news and politics and local news, organizations, Homepage / Indivisible, political parties, Democrat Party, Trumpian Party, state local governments, Minnesota.gov Portal / mn.gov // Minnesota’s State Portal, Attorney General’s Office, Biography of Minnesota Attorney General Keith Ellison, City of Minneapolis, Mayor City of Minneapolis, About the Mayor City of Minneapolis, Jacob Frey, Police City of Minneapolis, Police Chief & Administration City of Minneapolis, Home / Saint Paul Minnesota, Oregon.gov  –  State of Oregon, City of Portland Oregon / Portland.gov, Police and safety / Portland.gov, Chief’s Office / Portland.gov, federal government, Constitution of the United States, Supreme Court of the United States (SCOTUS), US Courts, Department of Justice (DOJ), Federal Bureau of Investigation (FBI), Department of Homeland Security (DHS), Immigration and Customs Enforcement (ICE), Congress, Senate, House of Representatives, Angie Craig (D-MN2), Kelly Morrison (D-MN4), Ilhan Omar (D-MN5), President of the United States (POTUS), White House (WH), Trump autocracy, Donald J Trump, President Donald Trump (45), President Donald Trump (47), President Trump (47) Administration, President Trump (47) Cabinet, Vice President JD Vance, press secretary, Karoline Leavitt, Kristi Noem / Homeland Security, Pam Bondi – Office of the Attorney General / Meet the Attorney General / United States Department of Justice, Todd Blanche – Office of the Deputy Attorney General / Office of the Deputy Attorney General, Todd Blanche / LinkedIn, Lindsey Halligan, Director Kash Patel — FBI, grifter, self-dealing, corruption, con artist, crime, cryptocurrency, criminal associates, criminal businesses, criminal media, criminal organizations, criminal partners]
-tags: []
-categories: [Donald Trump, Department of Homeland Security (DHS), Kristi Noem, Immigration and Customs Enforcement (ICE), Minnesota, Minneapolis, murder, ]
+categories: [Donald Trump, Department of Homeland Security (DHS), Kristi Noem, Immigration and Customs Enforcement (ICE), Jonathan Ross, Minnesota, Minneapolis, murder, Renee Good]
 date: 2026-01-11 12:17
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
@@ -11,6 +10,11 @@ excerpt: ''
 title: "Protests Erupt Nationwide After Murder of Innocent Minnesotan By Immigration and Customs Enforcement"
 ---
 
+The murder of Renee Good is cowboy vigilantism. As [MS NOW](https://www.ms.now/) [Rachel Maddow](https://www.ms.now/rachel-maddow-show/rachel-maddow-biography-n115762) said months ago, "Ready. Fire. Aim." Or in [Trump's](https://www.donaldjtrump.com/) America, "One is presumed guilty until proven innocent."
+
+Modern cars now have an Auto Lock feature where the doors automatically lock as a safety feature when the car is put in drive and unlock in park. The [ICE](https://www.ice.gov/) agent, Johnathan Ross, was trying to yank a car door open that was probably locked. 
+
+Lastly, **WHAT THE FUCK** was Ross doing holding a cellphone in one hand and a lethal weapon in the other hand,
 
 ## [Protests swell over ICE killing of Minneapolis woman as White House blames victim](https://www.ms.now/news/minneapolis-police-detain-at-least-30-protesting-ice-killing-of-local-woman)
 
