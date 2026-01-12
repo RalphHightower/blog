@@ -481,19 +481,10 @@ function setElementText(element, text) {
 
 [![OpenSSF Best Practices](https://www.bestpractices.dev/projects/9780/badge)](https://www.bestpractices.dev/projects/9780)
 
-[![GitHub stats](https://github-readme-stats-nu-three-69.vercel.app/api?username=RalphHightower&count_private=true&show_icons=true&include_all_commits=true&show=reviews&theme=tokyonight)](https://github.com/RalphHightower?tab=repositories)
-
-| |
-|:---|
-| [![RalphHightower GitHub stats](https://vercel.com/ralphhightowers-projects/github-readme-statsapi?username=RalphHightower&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/RalphHightower/github-readme-stats) |
+|   |
+|---|
 | ![GitHub Streak](https://streak-stats.vercel.app?user=RalphHightower&date_format=Y-m-d&border=73000a&stroke=73000a&ring=73000a&fire=73000a&currStreakNum=73000a&sideNums=73000a&currStreakLabel=73000a&sideLabels=73000a&dates=73000a) |
-| ![GitHub Summary Cards](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RalphHightower&theme=default) |
 | ![RalphHightower's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RalphHightower&theme=minimal&color=73000a&title_color=73000a&line=73000a&point=73000a) |
-
-|  |  |
-|---|---|
-| ![GitHub Repositories By Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RalphHightower&theme=default) | ![GitHub Most Committed By Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RalphHightower&theme=default) |
-| ![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RalphHightower&theme=default) | ![GitHub Commits By Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RalphHightower&theme=default&utcOffset=-5) |
 
 <script>
 
