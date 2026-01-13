@@ -13,7 +13,7 @@ title: "Petty Little Pete's (DOD Secretary) Retribution Against Senator Mark Kel
 
 ## [Hegseth aims to reduce Sen. Mark Kelly’s military rank and pension](https://www.ms.now/news/hegseth-aims-to-reduce-sen-mark-kellys-military-rank-and-pension)
 
-*The [defense]() [secretary]()’s move comes after [Kelly](https://www.kelly.senate.gov/), a former Navy combat pilot, reminded active service members that they “can refuse illegal orders.”*
+*The [defense](https://www.defense.gov/) [secretary](https://www.defense.gov/About/Biographies/Biography/Article/4040890/hon-pete-hegseth/)’s move comes after [Kelly](https://www.kelly.senate.gov/), a former Navy combat pilot, reminded active service members that they “can refuse illegal orders.”*
 
 Jan. 5, 2026, 1:54 PM EST
 By [Erum Salam](https://www.ms.now/author/erum-salam)
