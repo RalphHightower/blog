@@ -52,7 +52,7 @@ We’ve seen how often [Trump](https://www.donaldjtrump.com/) has some impulse o
 
 Some of what results is trivial, but sometimes there is real consequence. And what if [Trump](https://www.donaldjtrump.com/) becomes even more erratic over the next three years? We could wind up with a kind of chaos that makes today’s volatility look like stability.
 
-The increasing attention on his age has clearly bothered [Trump](https://www.donaldjtrump.com/). A November [New York Times article](https://www.nytimes.com/2025/11/25/us/politics/trump-age-health.html) exploring how aging has affected him sparked [a lengthy rant](https://truthsocial.com/@realDonaldTrump/posts/115692843128539904) on [Truth Social](https://truthsocial.com%). The “top doctors,” he insisted, “have given me PERFECT Marks — Some have even said they have never seen such Strong Results.” He “ACED” his cognitive tests, [Trump](https://www.donaldjtrump.com/) added, and “it’s seditious, perhaps even treasonous” for anyone to say otherwise.
+The increasing attention on his age has clearly bothered [Trump](https://www.donaldjtrump.com/). A November [New York Times article](https://www.nytimes.com/2025/11/25/us/politics/trump-age-health.html) exploring how aging has affected him sparked [a lengthy rant](https://truthsocial.com/@realDonaldTrump/posts/115692843128539904) on [Truth Social](https://truthsocial.com/). The “top doctors,” he insisted, “have given me PERFECT Marks — Some have even said they have never seen such Strong Results.” He “ACED” his cognitive tests, [Trump](https://www.donaldjtrump.com/) added, and “it’s seditious, perhaps even treasonous” for anyone to say otherwise.
 
 Then, on New Year’s Day, came [The Wall Street Journal](https;//www.wsj.com/)’s [similarly lengthy exploration](https://www.wsj.com/us-news/as-signs-of-aging-emerge-trump-responds-with-defiance-769c5dcd) of his aging. [Trump](https://www.donaldjtrump.com/) cooperated with the article and made some unusually candid remarks. He takes a higher dose of aspirin than his doctors recommend, he said, which could help explain the bruising on his hands and the fact that he is easily cut. (“They say aspirin is good for thinning out the blood, and I don’t want thick blood pouring through my heart,” he explained.) He tried compression socks for his swollen ankles, he said, but didn’t like how they felt.
 
@@ -86,7 +86,7 @@ Paul Waldman is a journalist and author focused on politics and culture.
 - [Democrat Party](https://www.democrats.org/)
 - [Trumpian Party](https://www.gop.com/)
 - companies
-- [Truth Social](https://truthsocial.com%)
+- [Truth Social](https://truthsocial.com/)
 - federal government
 - [Constitution of the United States](https://constitution.congress.gov/constitution/)
     - [Supreme Court of the United States (SCOTUS)](https://www.supremecourt.gov/)

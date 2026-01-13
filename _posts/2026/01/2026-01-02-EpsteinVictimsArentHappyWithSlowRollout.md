@@ -22,7 +22,7 @@ This is an adapted excerpt from the [Dec. 22](https://www.ms.now/rachel-maddow-s
 
 It was the appointment of a new labor secretary, of all things, that got it going. In 2017, during [Donald Trump’s](https://www.ms.now/white-house)’s first [administration](https://www.whitehouse.gov/administration/), the [president](https://www.whitehouse.gov/) picked a low-profile former U.S. attorney from Florida to head the [U.S. Department of Labor](https://www.dol.gov/).
 
-[Alex Acosta](https://www.ms.now/news/news-analysis/alex-acosta-jeffrey-epstein-testimony-house-oversight-rcna232401) wasn’t the flashiest of Cabinet nominees, and labor secretary certainly wasn’t the flashiest of [Cabinet positions](https://www.whitehouse.gov/administration/the-cabinet%), but for one investigative reporter in Florida, the name rang a bell.
+[Alex Acosta](https://www.ms.now/news/news-analysis/alex-acosta-jeffrey-epstein-testimony-house-oversight-rcna232401) wasn’t the flashiest of Cabinet nominees, and labor secretary certainly wasn’t the flashiest of [Cabinet positions](https://www.whitehouse.gov/administration/the-cabinet/), but for one investigative reporter in Florida, the name rang a bell.
 
 When that reporter saw Acosta’s name in the papers, she remembered that back when he was the U.S. attorney for the [Southern District of Florida](https://www.justice.gov/usao-sdfl/) in 2008, his office had [arranged a plea deal](https://www.npr.org/2019/07/10/740425294/labor-sec-alex-acosta-defends-his-handling-of-jeffrey-epstein-plea-deal) for a big finance guy.
 
