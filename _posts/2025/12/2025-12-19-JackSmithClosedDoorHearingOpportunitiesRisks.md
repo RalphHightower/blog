@@ -42,9 +42,9 @@ The obvious problem with [Johnson](https://mikejohnson.house.gov/)’s remark is
 
 The [House speaker](https://mikejohnson.house.gov/) simply asserted that the former special counsel abused the justice system, but the [GOP leader](https://www.gop.com/) bolstered the claim with literally nothing.
 
-As for developments in the [House Judiciary Committee](https://judiciary.house.gov%), [Politico reported](https://www.politico.com/news/2025/12/17/jack-smith-trump-congress-investigations-00693884) that [Smith](https://www.justice.gov/archives/sco-smith) is in the unenviable position of having to navigate “Byzantine secrecy laws and rules that limit what he can disclose to lawmakers” while [Republicans](https://www.gop.com/) look for ways to “trip him up and incriminate him.”
+As for developments in the [House Judiciary Committee](https://judiciary.house.gov/), [Politico reported](https://www.politico.com/news/2025/12/17/jack-smith-trump-congress-investigations-00693884) that [Smith](https://www.justice.gov/archives/sco-smith) is in the unenviable position of having to navigate “Byzantine secrecy laws and rules that limit what he can disclose to lawmakers” while [Republicans](https://www.gop.com/) look for ways to “trip him up and incriminate him.”
 
-But while there are political risks, there are related opportunities. The same [Politico](https://www.politico.com%) report added that [House](https://www.house.gov/) [Democrats](https://www.democrats.org/) are “eager for further details about the investigations [Smith](https://www.justice.gov/archives/sco-smith) had to abandon after [Trump](https://www.donaldjtrump.com/) won reelection in 2024.”
+But while there are political risks, there are related opportunities. The same [Politico](https://www.politico.com/) report added that [House](https://www.house.gov/) [Democrats](https://www.democrats.org/) are “eager for further details about the investigations [Smith](https://www.justice.gov/archives/sco-smith) had to abandon after [Trump](https://www.donaldjtrump.com/) won reelection in 2024.”
 
 [Rep.](https://www.house.gov/) [Jamie Raskin of (D-MD8)](https://raskin.house.gov/), the top [Democrat](https://www.democrats.org/) on the [House Judiciary Committee](https://judiciary.house.gov/), said, “We want to hear exactly what he found, and what he did. He just needs to come and tell the truth.”
 
@@ -85,7 +85,7 @@ This post updates our related earlier coverage.
         - [Senate](https://www.senate.gov/)
             - [Marsha Blackburn (T-TN)](https://www.blackburn.senate.gov/)
         - [House of Representatives](https://www.house.gov/)
-            - [House Judiciary Committee](https://judiciary.house.gov%)
+            - [House Judiciary Committee](https://judiciary.house.gov/)
             - [House Judiciary Committee](https://judiciary.house.gov/)
                 - [Jim Jordan (T-OH4)](https://jordan.house.gov/)
                     - [The Chairman / House Judiciary Committee Republicans](http://judiciary.house.gov/the-committee/the-chairman)

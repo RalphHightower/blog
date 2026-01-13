@@ -68,7 +68,6 @@ The most important thing for everyone to understand about the [ongoing existenti
 
 That’s the real silver lining here: [Trump](https://www.donaldjtrump.com/)’s attacks are so reckless and transparent that they’ve left our independent institutions with no choice but to fight back. 
 
-Chris Hayes
 Chris Hayes hosts [“All In with Chris Hayes”](http://www.msnbc.com/all) at 8 p.m. ET Tuesday through Friday on [MSNBC](https://www.msnbc.com/). He is the editor-at-large at [The Nation](https://www.thenation.com/). A former fellow at [Harvard University](https://www.harvard.edu/)’s [Edmond J. Safra Foundation Center for Ethics](https://www.ethics.harvard.edu/home), Hayes was a [Bernard Schwartz Fellow](https://www.bernardlschwartz.com/us-economic-policy) at the [New America Foundation](http://newamerica.org/). His latest book is “[The Sirens’ Call: How Attention Became the World’s Most Endangered Resource](https://www.c-span.org/program/book-tv/the-sirens-call-how-attention-became-the-worlds-most-endangered-resource/655543)” ([Penguin Press](https://www.penguin.com/penguin-press-overview/)).
 
 Allison Detzel contributed.

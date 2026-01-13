@@ -119,7 +119,7 @@ By all appearances, none of this was lost on [Trump](https://www.donaldjtrump.co
     - [US Courts](https://www.uscourts.gov/)
     - [Department of Justice (DOJ)](https://www.justice.gov/)
         - [Federal Bureau of Investigation (FBI)](https://www.fbi.gov/)
-[Air Force One](https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104588/vc-25-air-force-one/)
+    - [Air Force One](https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104588/vc-25-air-force-one/)
     - [Department of Defense (DOD)](https://www.defense.gov/)
         - [Joint Chiefs of Staff (JCS)](https://www.jcs.mil/)
             - [U.S. Africa Command (AFRICOM)](https://www.africom.mil/)

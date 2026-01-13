@@ -79,7 +79,8 @@ Kai Ma contributed.
 - [Nexstar Media Group, Inc. / A Leading Local Media Company With National Reach](https://www.nexstar.tv/)
 - [Sinclair, Inc](https://sbgi.net/)
 - foreign governments
-- state, local governments 
+- state, local governments
+- Newark Mayor Ras Baraka 
 - [New York](https://www.ny.gov/)
     - [New York State Attorney General](https://ag.ny.gov/)
         - [Letitia James / New York State Attorney General](https://ag.ny.gov/about/meet-letitia-james)
@@ -98,7 +99,7 @@ Kai Ma contributed.
     - [Department of Justice (DOJ)](https://www.justice.gov/)
         - [Federal Bureau of Investigation (FBI)](https://www.fbi.gov/)
             - [James B. Comey, September 4, 2013 - May 9, 2017 — FBI](https://www.fbi.gov/history/directors/james-b-comey)
-    - [Federal Reserve](https;//www.federalreserve.gov/)
+    - [Federal Reserve](https://www.federalreserve.gov/)
     - [Federal Reserve Board - Federal Reserve Act](https://www.federalreserve.gov/aboutthefed/fract.htm)
     - [Federal Communications Commission (FCC)](https://www.fcc.gov/)
     - [U.S. Department of the Treasury](https://home.treasury.gov/)
