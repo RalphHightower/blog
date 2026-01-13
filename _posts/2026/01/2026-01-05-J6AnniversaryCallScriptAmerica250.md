@@ -238,7 +238,7 @@ Six South Carolina members of the [House of Representatives](https://www.house.g
 | Daniel Island Office |
 | 900 Island Park Drive Suite 260<br />Daniel Island, SC  29492<br />Phone: [(843) 352-7572](tel:+18433527572) |
 | |
-| **[Joe Wilson (T-SC2)](https;//joewilson.house.gov/)** |
+| **[Joe Wilson (T-SC2)](https://joewilson.house.gov/)** |
 | Washington, DC Office |
 | 1436 Longworth House Office Building <br /> 1 Independence Ave SE <br /> Washington, DC  20515 <br /> Phone: [\+1 (202) 225-2452](tel:+12022252452) |
 | The Midlands Office |
@@ -258,12 +258,12 @@ Six South Carolina members of the [House of Representatives](https://www.house.g
 | Upstate Office |
 | 114 Trade Street<br />Greer, SC 29651<br />[(864) 241-0175](tel:+18642410175) |
 | |
-| **[Ralph Norman (T-SC5)](https;//norman.house.gov/)** |
+| **[Ralph Norman (T-SC5)](https://norman.house.gov/)** |
 | 569 Cannon HOB<br />Washington, DC 20515<br />Phone: [(202) 225-5501](tel:+12022255501)<br />FAX: [(202) 225-0464](tel:+12022250464) |
 | Rock Hill Office |
 | 516 Oakland Ave<br />Rock Hill, SC 29730<br />Phone: [(803) 327-1114](tel:+18033271114)<br />FAX: [(803) 327-4330](tel:+18033274330) |
 | |
-| **[Russell Fry (T-SC7)](https;//fry.house.gov/)** |
+| **[Russell Fry (T-SC7)](https://fry.house.gov/)** |
 | 345 Cannon HOB<br />Washington, DC 20515<br />[(202) 225-9895](tel:+12022259895)<br />Office Hours: 9:00am-5:00pm |
 | 1500 Hwy 17 N, Suite 304<br />Surfside Beach, SC 29575<br />[(843) 353-5377](tel:+18433535377) |
 | 401 West Evans Street<br />Suite 205<br />Florence, SC 29501<br />[(843) 799-6880](tel:+18437996880)<br />Office Hours 9:00am-1:00pm & 2:30pm-5pm |
@@ -374,11 +374,11 @@ Thus the day revealed each man’s measure: who upheld his oath, who bartered it
             - [Scott, Tim (T-SC)](https://www.scott.senate.gov/)
         - [House of Representatives](https://www.house.gov/)
             - [Nancy Mace (T-SC1)](http://mace.house.gov/)
-            - [Joe Wilson (T-SC2)](https;//joewilson.house.gov/)
+            - [Joe Wilson (T-SC2)](https://joewilson.house.gov/)
             - [Sheri Biggs (T-SC3)](http://sheribiggs.house.gov/)
             - [William Timmons (T-SC4)](https://timmons.house.gov/)
-            - [William Timmons (T-SC5)](https;//timmons.house.gov/)
-            - [Russell Fry (T-SC7)](https;//fry.house.gov/)
+            - [William Timmons (T-SC5)](https://timmons.house.gov/)
+            - [Russell Fry (T-SC7)](https://fry.house.gov/)
             - [37 Republican Members Release Statement Ahead of Electoral College Vote / U.S. Congressman Mike Johnson](https://mikejohnson.house.gov/news/documentsingle.aspx?DocumentID=715). WASHINGTON. January 6 2021
             - [126 Members of Congress (linked here), in which we urged the Court to immediately address the fact that four battleground states (Georgia, Michigan, Pennsylvania and Wisconsin)126 Members of Congress (linked here), in which we urged the Court to immediately address the fact that four battleground states (Georgia, Michigan, Pennsylvania and Wisconsin)](https://www.supremecourt.gov/DocketPDF/22/22O155/163550/20201211132250339_Texas%20v.%20Pennsylvania%20Amicus%20Brief%20of%20126%20Representatives%20--%20corrected.pdf)
     - [President of the United States (POTUS)](https://www.whitehouse.gov/)
