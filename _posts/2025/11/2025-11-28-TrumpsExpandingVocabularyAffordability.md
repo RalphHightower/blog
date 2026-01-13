@@ -25,17 +25,17 @@ It didn’t work for [Joe Biden](https://bidenwhitehouse.archives.gov/). And aft
 
 Among [White House](https://www.whitehouse.gov/) aides, the election results were accepted as a bracing dose of reality, prompting meetings on how to refocus the [White House](https://www.whitehouse.gov/)’s message on Americans’ economic anxieties. And there is mounting frustration among some in the [administration](https://www.whitehouse.gov/administration/) who view [Trump](https://www.donaldjtrump.com/)’s focus on international relations — and his public pursuit of a [Nobel Peace Prize](https://www.nobelpeaceprize.org/) — as a distraction from the economy-centric messaging that delivered him a second term.
 
-“I predicted this,” one [White House](https://www.whitehouse.gov/) official told [MSNBC](https;//www.msnbc.com/), granted anonymity to speak candidly about the election results. “The [president](https://www.whitehouse.gov/) needs to focus on domestic issues versus his foreign policy legacy.”
+“I predicted this,” one [White House](https://www.whitehouse.gov/) official told [MSNBC](https://www.msnbc.com/), granted anonymity to speak candidly about the election results. “The [president](https://www.whitehouse.gov/) needs to focus on domestic issues versus his foreign policy legacy.”
 
 Since last Tuesday, the [White House](https://www.whitehouse.gov/) has held meetings where talking points centered on affordability have been discussed.
 
-“Tuesday’s election results definitely have heightened the desire to start talking about this more and talk about it now,” a second [White House](https://www.whitehouse.gov/) official told [MSNBC](https;//www.msnbc.com/). “The results highlighted what we’ve known to be true for a while, and a lot of people have been saying — behind the scenes — here and now, we’re taking that message more forcefully to the public.”
+“Tuesday’s election results definitely have heightened the desire to start talking about this more and talk about it now,” a second [White House](https://www.whitehouse.gov/) official told [MSNBC](https://www.msnbc.com/). “The results highlighted what we’ve known to be true for a while, and a lot of people have been saying — behind the scenes — here and now, we’re taking that message more forcefully to the public.”
 
 But there’s at least one primary factor complicating that messaging pivot: [Trump](https://www.donaldjtrump.com/) himself.
 
 While his staff works to refocus the [White House](https://www.whitehouse.gov/) message on affordability, [Trump](https://www.donaldjtrump.com/) ended the week by dismissing economic concerns, blaming them on negative media coverage and insisting that prices are falling when data shows the opposite.
 
-On Wednesday, the bruise of the election still fresh, [Trump](https://www.donaldjtrump.com/) flew to and from [Miami](https://www.miami.gov/). Recapturing “cost of living” as a winning issue for [Republicans](https://www.gop.com/) was top of mind for the [president](https://www.whitehouse.gov/) while aboard [Air Force One](https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104588/vc-25-air-force-one/), the second [White House](https://www.whitehouse.gov/) official told [MSNBC](https;//www.msnbc.com/).
+On Wednesday, the bruise of the election still fresh, [Trump](https://www.donaldjtrump.com/) flew to and from [Miami](https://www.miami.gov/). Recapturing “cost of living” as a winning issue for [Republicans](https://www.gop.com/) was top of mind for the [president](https://www.whitehouse.gov/) while aboard [Air Force One](https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104588/vc-25-air-force-one/), the second [White House](https://www.whitehouse.gov/) official told [MSNBC](https://www.msnbc.com/).
 
 Within days, [Trump](https://www.donaldjtrump.com/) seemed more focused on casting blame for “affordability” concerns while also trying to insist that they weren’t valid.
 
@@ -57,9 +57,9 @@ Among those calling on [Trump](https://www.donaldjtrump.com/) to refocus his eff
 
 Asked later in the day about those comments, [Trump](https://www.donaldjtrump.com/) suggested that he wasn’t going to change his approach. “I have to view the presidency as a worldwide situation, not locally,” he said. “I mean, we could have a world that’s on fire, where wars come to our shores very easily.”
 
-Jake Traylor is a [White House](https://www.whitehouse.gov/) correspondent for [MSNBC](https;//www.msnbc.com/).
+Jake Traylor is a [White House](https://www.whitehouse.gov/) correspondent for [MSNBC](https://www.msnbc.com/).
 
-Akayla Gardner is a [White House](https://www.whitehouse.gov/) correspondent for [MSNBC](https;//www.msnbc.com/).
+Akayla Gardner is a [White House](https://www.whitehouse.gov/) correspondent for [MSNBC](https://www.msnbc.com/).
 
 ----
 - media

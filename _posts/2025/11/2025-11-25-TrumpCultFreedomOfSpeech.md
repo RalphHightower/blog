@@ -24,7 +24,7 @@ Take the [president](https://www.whitehouse.gov/)’s reaction last Thursday to 
 
 > *[Trumpists](https://www.donaldjtrump.com/) believe they enjoy the God-given American right to say the most transgressive and deliberately offensive things, while characterizing anyone who takes offense as triggered, censorious snowflakes.*
 
-[House](https://www.house.gov/) [Speaker](https://speaker.house.gov/) [Mike Johnson (T-LA4)](https;//mikejohnson.house.gov/), defended the [president](https://www.whitehouse.gov/)’s violent rhetoric in semantic terms. “What I read was he was defining the crime of sedition … That is a factual statement,” [Johnson said](https://www.ms.now/news/trump-calls-democrats-seditious-traitors-republicans-rcna245028). [Rep.](https://www.house.gov/) [Tim Burchett (T-TN)](https://burchett.house.gov/), went further, fully endorsing [Trump](https://www.donaldjtrump.com/)’s apparent violent threats against members of the minority party, saying, “If this were any other time in history, those folks would be in chains and they’d be in prison.”
+[House](https://www.house.gov/) [Speaker](https://speaker.house.gov/) [Mike Johnson (T-LA4)](https://mikejohnson.house.gov/), defended the [president](https://www.whitehouse.gov/)’s violent rhetoric in semantic terms. “What I read was he was defining the crime of sedition … That is a factual statement,” [Johnson said](https://www.ms.now/news/trump-calls-democrats-seditious-traitors-republicans-rcna245028). [Rep.](https://www.house.gov/) [Tim Burchett (T-TN)](https://burchett.house.gov/), went further, fully endorsing [Trump](https://www.donaldjtrump.com/)’s apparent violent threats against members of the minority party, saying, “If this were any other time in history, those folks would be in chains and they’d be in prison.”
 
 [Trump](https://www.donaldjtrump.com/), attempting an audacious level of gaslighting, [claimed on Friday his words](https://www.newsweek.com/donald-trump-democrats-video-executed-seditious-11089044) were “not threatening death,” but he added, “I think they’re in serious trouble. In the old days, it was death. That was seditious behavior … modern day is a lot softer.”
 
@@ -96,7 +96,7 @@ Anthony L. Fisher is a senior editor and writer for MS NOW.
         - [House of Representatives](https://www.house.gov/)
             - [Tim Burchett (TTN2)](https://burchett.house.gov/)
             - [Jason Crow, (D-O6)](https://crow.house.gov/)
-            - [Mike Johnson (T-LA4)](https;//mikejohnson.house.gov/)
+            - [Mike Johnson (T-LA4)](https://mikejohnson.house.gov/)
      - [President of the United States (POTUS)](https://www.whitehouse.gov/)
     - [White House (WH)](https://www.whitehouse.gov/)
 - Trump autocracy

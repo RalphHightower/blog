@@ -44,7 +44,7 @@ This behind-the-scenes account reveals new details about the [FBI](https://www.f
 
 [White House](https://www.whitehouse.gov/) spokesperson Abigail Jackson issued a statement claiming the court-approved search at [Trump](https://www.donaldjtrump.com/)’s club was illegal. But she did not address any of the specific new reporting about the search.
 
-“The [Biden](https://bidenwhitehouse.archives.gov/) [DOJ](https;//www.justice.gov/)’s raid on [President](https://www.whitehouse.gov/) [Trump](https://www.donaldjtrump.com/)’s home was highly illegal and yet, MSDNC continues to provide cover for the witch hunt against the [President](https://www.whitehouse.gov/),” the statement read. “This is another perfect example as to why the American people no longer trust the media.”
+“The [Biden](https://bidenwhitehouse.archives.gov/) [DOJ](https://www.justice.gov/)’s raid on [President](https://www.whitehouse.gov/) [Trump](https://www.donaldjtrump.com/)’s home was highly illegal and yet, MSDNC continues to provide cover for the witch hunt against the [President](https://www.whitehouse.gov/),” the statement read. “This is another perfect example as to why the American people no longer trust the media.”
 
 This account is drawn from interviews conducted for our book “Injustice,” including with senior officials in the [Trump](https://www.donaldjtrump.com/) and [Biden](https://bidenwhitehouse.archives.gov/) [administration](https://www.whitehouse.gov/administration/)s, government prosecutors and federal agents, and other firsthand witnesses to one of the most challenging periods in [Justice Department](https://www.justice.gov/) history. Many agreed to be interviewed only on the condition of anonymity out of fear of retribution.
 
@@ -72,7 +72,7 @@ Olsen, the assistant [attorney general](https://www.justice.gov/), winced when h
 
 Suddenly, [Trump](https://www.donaldjtrump.com/) emerged through the dining-room entryway and welcomed his visitors as [Corcoran](https://www.bhfs.com/people/evan_corcoran/) made introductions, starting with the [FBI](https://www.fbi.gov/) agents. “Oh, [FBI](https://www.fbi.gov/),” [Trump](https://www.donaldjtrump.com/) said. “You do great work.”
 
-When [Corcoran](https://www.bhfs.com/people/evan_corcoran/) introduced [Bratt](https://www.law.virginia.edu/faculty/adjunct-profile/bjay/bjay), [Trump](https://www.donaldjtrump.com/) said: “Oh, [DOJ](https;//www.justice.gov/). Great reputation.” [Trump](https://www.donaldjtrump.com/) wanted to make sure his visitors knew they had his full cooperation. “I’m an open book,” [Trump](https://www.donaldjtrump.com/) said. “Anything you want I’ll give it to you.”
+When [Corcoran](https://www.bhfs.com/people/evan_corcoran/) introduced [Bratt](https://www.law.virginia.edu/faculty/adjunct-profile/bjay/bjay), [Trump](https://www.donaldjtrump.com/) said: “Oh, [DOJ](https://www.justice.gov/). Great reputation.” [Trump](https://www.donaldjtrump.com/) wanted to make sure his visitors knew they had his full cooperation. “I’m an open book,” [Trump](https://www.donaldjtrump.com/) said. “Anything you want I’ll give it to you.”
 
 After [Trump](https://www.donaldjtrump.com/) said his goodbyes, [Corcoran](https://www.bhfs.com/people/evan_corcoran/) led [Bratt](https://www.law.virginia.edu/faculty/adjunct-profile/bjay/bjay) and the agents down a spiral staircase to an underground tunnel, then to the storage room where [Trump](https://www.donaldjtrump.com/) alleged his records were kept. Once inside the cramped room, the agents immediately saw that things had been moved and reorganized from the time that Michael’s picture was taken. There were far fewer boxes. [Corcoran](https://www.bhfs.com/people/evan_corcoran/) told [Bratt](https://www.law.virginia.edu/faculty/adjunct-profile/bjay/bjay) he would not let them open any of the boxes. The irony wasn’t lost on the team: [Trump](https://www.donaldjtrump.com/) was not quite an open book.
 
@@ -86,7 +86,7 @@ A local [Florida](https://www.myflorida.gov/) politics website broke the story o
 
 “These are dark times for our Nation, as my beautiful home, [Mar-a-Lago](https://www.maralagoclub.com/) in [Palm Beach](https://discover.pbc.gov/), [Florida](https://www.myflorida.gov/), is currently under siege, raided, and occupied by a large group of [FBI](https://www.fbi.gov/) agents,” [Trump](https://www.donaldjtrump.com/) wrote on [Liars Club](https://truthsocial.com/).
 
-Milhoan prepared to release the statement, but a [DOJ](https;//www.justice.gov/) spokesperson called to stop her, saying top [Justice Department](https://www.justice.gov/) officials feared it could look political. Kohler was stunned. It was standard [FBI](https://www.fbi.gov/) procedure to publicly explain that a court had approved a search.
+Milhoan prepared to release the statement, but a [DOJ](https://www.justice.gov/) spokesperson called to stop her, saying top [Justice Department](https://www.justice.gov/) officials feared it could look political. Kohler was stunned. It was standard [FBI](https://www.fbi.gov/) procedure to publicly explain that a court had approved a search.
 
 The old video of an agent with a long gun quickly stirred up online criticism of the government. [Trump](https://www.donaldjtrump.com/) was further amping up that vitriol with his own rhetoric.
 
