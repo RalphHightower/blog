@@ -53,7 +53,7 @@ For the [Biden administration](https://bidenwhitehouse.archives.gov), a restive 
 
 Now, [Republicans](https://www.gop.com/) risk a similar fate.
 
-Among those calling on [Trump](https://www.donaldjtrump.com/) to refocus his efforts on domestic issues is [Rep.](https://www.house.gov/) [Marjorie Taylor Greene (T-GA14)](https://greene.house.gov/). “I would really like to see nonstop meetings at the [WH](https://www.whitehouse.gov%) on domestic policy not foreign policy,” [Greene](https://greene.house.gov/) [posted on X on Monday morning](https://x.com/RepMTG/status/1987891560759853181).
+Among those calling on [Trump](https://www.donaldjtrump.com/) to refocus his efforts on domestic issues is [Rep.](https://www.house.gov/) [Marjorie Taylor Greene (T-GA14)](https://greene.house.gov/). “I would really like to see nonstop meetings at the [WH](https://www.whitehouse.gov/) on domestic policy not foreign policy,” [Greene](https://greene.house.gov/) [posted on X on Monday morning](https://x.com/RepMTG/status/1987891560759853181).
 
 Asked later in the day about those comments, [Trump](https://www.donaldjtrump.com/) suggested that he wasn’t going to change his approach. “I have to view the presidency as a worldwide situation, not locally,” he said. “I mean, we could have a world that’s on fire, where wars come to our shores very easily.”
 
