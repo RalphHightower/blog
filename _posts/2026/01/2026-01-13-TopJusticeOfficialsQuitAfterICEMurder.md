@@ -13,7 +13,7 @@ title: "Top Justice Officials Leave Justice Department After Failure to Investig
 
 ## [Top DOJ officials quit after their division refused to probe Minnesota ICE shooting](https://www.ms.now/news/doj-civil-rights-division-officials-quit-harmeet-dhillon)
 
-*At least four leaders of the [Civil Rights Division](https://www.justice.gov/crt) resigned because the section's head, [Harmeet Dhillon](https://www.justice.gov/crt/staff-profile/assistant-attorney-general), decided not to investigate shooting of Renee Good.*
+*At least ~~four~~ six leaders of the [Civil Rights Division](https://www.justice.gov/crt) resigned because the section's head, [Harmeet Dhillon](https://www.justice.gov/crt/staff-profile/assistant-attorney-general), decided not to investigate shooting of Renee Good.*
 
 Jan. 12, 2026, 11:05 PM EST
 By [Carol Leonnig](https://www.ms.now/author/carol-leonnig) and [Ken Dilanian](https://www.ms.now/author/ken-dilanian-2)
