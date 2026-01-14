@@ -44,7 +44,7 @@ The [Department of Homeland Security](https://www.dhs.gov/) claimed [Exum](https
 
 An updated [DHS](https://www.dhs.gov/) statement referred to Martinez and Santos as “[“domestic terrorists.”](https://www.dhs.gov/news/2025/10/04/update-dhs-deploys-special-operations-after-multiple-violent-attacks-federal-law).” They have not been charged with terrorism.
 
-The [agency](https;//www.dhs.gov/)’s statement further described Martinez as having been armed during the altercation. A prosecutor informed the judge that she had a concealed carry permit for a pistol that was in her purse but that she did not brandish it. Martinez is not facing firearms charges.
+The [agency](https://www.dhs.gov/)’s statement further described Martinez as having been armed during the altercation. A prosecutor informed the judge that she had a concealed carry permit for a pistol that was in her purse but that she did not brandish it. Martinez is not facing firearms charges.
 
 [Sen.](https://www.senate.gov/) [Chris Murphy (D-CT)](https://www.murphy.senate.gov/) [decried](https://time.com/7326794/ice-protests-chicago-marimar-martinez/) the [DHS](https://www.dhs.gov/) narrative as “propaganda” on social media, saying the agency’s version of events doesn’t align with the evidence.
 
