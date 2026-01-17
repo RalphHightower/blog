@@ -89,3 +89,4 @@ From December 13, 2025 at 1345 EST – December 13, 2025 at 1830 EST
 [^58724]: [Federal Aviation Administration - Graphic TFRs](https://tfr.faa.gov/tfr3/?page=detail_5_8724). From December 13, 2025 at 2000 EST – December 14, 2025 at 0700 EST
 [^50709]: [Federal Aviation Administration - Graphic TFRs](https://tfr.faa.gov/tfr3/?page=detail_5_0709). From November 25, 2025 at 2000 EST – November 30, 2025 at 1630 EST
 [^50160]: [Federal Aviation Administration - Graphic TFRs](https://tfr.faa.gov/tfr3/?page=detail_5_0160). From December 19, 2025 at 2330 EST – January 04, 2026 at 1830 EST
+[^61344]: [Federal Aviation Administration - Graphic TFRs](https://tfr.faa.gov/tfr3/?page=detail_6_1344). From January 09, 2026 at 08:00 PM EST – January 11, 2026 at 07:30 PM EST
