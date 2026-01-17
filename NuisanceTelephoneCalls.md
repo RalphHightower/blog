@@ -20,6 +20,11 @@ The telephone numbers below have called and there is an empty person on the othe
 
 | Telephone Number | Location | Date Time[^11]<sup>,</sup>[^12] | Caller | Social Media |
 |---|---|---|---|---|
+| [\+1 (803) 568-3910](tel:+18035683910) | SC. Swansea | 2026-01-16 10:17 AM | Family Affair F (PEGGY A MCIVER) | |
+| [\+1 (839) 400-0649](tel:+18394000649) | SC. Fort Mill | 2026-01-15 04:07 PM | — | |
+| [\+1 (803) 274-8610](tel:+18032748610) | SC. Branchville | 2026-01-15 01:36 PM | STACEY WHITE | |
+| [\+1 (501) 527-4003](tel:+15015274003) | AR. Little Rock | 2026-01-15 12:15 PM ¤¤🚫 | — | |
+| [\+1 (803) 659-3830](tel:+18036593830) | SC. Rock Hill | 2026-01-14 04:25 PM ¤¤🚫 | BRITTANY M MCFADDEN | |
 | [\+1 (803) 366-6208](tel:+18033666208) | SC. Rock Hill | 2026-01-13 12:19 PM | E Pearson (PEARSON JOHN) | |
 | [\+1 (803) 302-0603](tel:+18033020603) | SC. North Augusta | 2026-01-09 01:27 PM | — | |
 | [\+1 (803) 497-3578](tel:+18034973578) | SC. Columbia | 2026-01-09 11:03 AM | Couthen, Eddie (DEBORAH O SMITH) | |
