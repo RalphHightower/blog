@@ -81,8 +81,7 @@ toc: true
 [^59887]: [Federal Aviation Administration - Graphic TFRs](https://tfr.faa.gov/tfr3/?page=detail_5_9887). October 12, 2025 at 0830 EDT – October 12, 2025 at 1800 EDT
 [^50910]: [Federal Aviation Administration - Graphic TFRs](https://tfr.faa.gov/tfr3/?page=detail_5_0910). From October 17, 2025 at 1615 EDT – October 19, 2025 at 1830 EDT)
 [^57472]:  [Federal Aviation Administration - Graphic TFRs](https://tfr.faa.gov/tfr3/?page=detail_5_7472). West Palm Beach. October 31, 2025 at 1215 PM EDT – November 02, 2025 at 6:30 PM EST
-[^56225]: [Federal Aviation Administration - Graphic TFRs](https://tfr.faa.gov/tfr3/?page=detail_5_6225.html%3C%2FNotamDetail%3E%3C%2FTFR%3E)
-From November 14, 2025 at 2000 EST – November 16, 2025 at 1830 EST)
+[^56225]: [Federal Aviation Administration - Graphic TFRs](https://tfr.faa.gov/tfr3/?page=detail_5_6225.html%3C%2FNotamDetail%3E%3C%2FTFR%3E). From November 14, 2025 at 2000 EST – November 16, 2025 at 1830 EST
 [^57736]:  [Federal Aviation Administration - Graphic TFRs](https://tfr.faa.gov/tfr3/?page=detail_5_7736). From December 13, 2025 at 1345 EST – December 13, 2025 at 1830 EST
 [^57734]: [Federal Aviation Administration - Graphic TFRs](https://tfr.faa.gov/tfr3/?page=detail_5_7734)
 From December 13, 2025 at 1345 EST – December 13, 2025 at 1830 EST
