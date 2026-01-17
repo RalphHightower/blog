@@ -20,45 +20,12 @@ toc: true
 {% include_relative TrumpAF1/2026Q1.md %}
 {% include_relative TrumpAF1/2025Q4.md %}
 {% include_relative TrumpAF1/2025Q3.md %}
-{% include_relative TrumpAF1/2025Q3.md %}
+{% include_relative TrumpAF1/2025Q2.md %}
 {% include_relative TrumpAF1/2025Q1.md %}
 
 ### Where Trump Can Be Found On Weekends
 
 {% include TrumpGolf.html %}
-
-| Use | Name |
-|---|---|
-| airport | [Daytona Beach International Airport (DAB)](https://www.flydaytonafirst.com/) |
-| airport | [Harry Reid International Airport (LAS)](https://www.harryreidairport.com/) |
-| airport | [Miami International Airport (MIA) - iflyMIA - Miami International Airport (MIA)](https://miami-airport.com/) |
-| airport | [MMU / Morristown Airport New Jersey / General Aviation Airport (MMU](https://www.mmuair.com/) |
-| airport | [EWR - Newark Liberty International Airport (EWR)](https://www.newarkairport.com/) |
-| airport | [YYC Passengers Home](https://www.yyc.com/en-us/) |
-| airport | [Welcome to Rome Fiumicino "Leonardo da Vinci" Airport (FCO)](https://www.adr.it/web/aeroporti-di-roma-en) |
-| airport | [Hagerstown](https://www.hagerstownmd.org/) Regional Airport (HGR) - Washington County](https://www.washco-md.net/hagerstown-regional-airport/) |
-| airport | [Palm Beach International Airport (PBI)](https://www.pbia.org/) |
-| airport | [PHL Philadelphia International Airport (PHL) / PHL.org](http://www.phl.org/) |
-| airport | [Official Website of St. Peter's Basilica / A masterpiece to explore](https://www.basilicasanpietro.va) |
-| government | [Villa Taverna, The U.S. Ambassador's Residence - U.S. Embassy & Consulates in Italy](https://it.usembassy.gov/our-relationship/policy-history/residence/) |
-| military | [THE COURSES AT ANDREWS / JB Andrews](https://andrewsfss.com/the-courses-at-andrews/) |
-| military | [United States Military Academy West Point](https://www.westpoint.edu/) |
-| military | [NAS JRB New Orleans](https://www.navymwrneworleans.com/) |
-| military | [127th Wing > Home](https://www.127wg.ang.af.mil/) |
-| military | [Michigan National Guard](https://minationalguard.dodlive.mil/) |
-| military | [Naval Support Facility Thurmont (Camp David)](https://ndw.cnic.navy.mil/Installations/NSF-Thurmont/) |
-| military | [Walter Reed National Military Medical Center](https://walterreed.tricare.mil/) |
-| international | [Canada's 2025 G7 Presidency](https://g7.canada.ca) |
-| hotel | [Luxury Las Vegas Hotel on the Strip / Trump Hotel](https://www.trumphotels.com/las-vegas) |
-| resort | [Circa Resort & Casino Las Vegas: The Time of Your Life](https://www.circalasvegas.com/) |
-| resort | [Pomeroy Kananaskis Mountain Lodge](https://lodgeatkananaskis.com/) |
-| sports | [DAYTONA INTERNATIONAL SPEEDWAY](https://www.daytonainternationalspeedway.com/) |
-| venue | [Caesars Superdome](https://www.caesarssuperdome.com/) |
-| venue | [Faena Forum - Event Venues Miami / Faena](https://www.faena.com/miami-beach/gather/venues/faena-forum) |
-| venue | [Kaseya Center](https://www.kaseyacenter.com/) |
-| venue | [Wells Fargo Center](https://www.wellsfargocenterphilly.com/) |
-| venue | [Sports & Expo Center in Macomb County](https://www.macomb.edu/community/conference-event-services/sports-expo-center.html) |
-| venue | [Coleman Coliseum - The University of Alabama](https://calendar.ua.edu/coleman_coliseum_616) |
 
 [^53860]: [TFR 5/3860 – Federal Aviation Administration (FAA)](https://tfr.faa.gov/tfr3/?page=detail_5_3860)
 [^54541]: [TFR 5/4541: Federal Aviation Administration (FAA)](https://tfr.faa.gov/tfr3/?page=detail_5_4541)
