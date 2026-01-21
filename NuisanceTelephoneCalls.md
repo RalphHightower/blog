@@ -20,6 +20,7 @@ The telephone numbers below have called and there is an empty person on the othe
 
 | Telephone Number | Location | Date Time[^11]<sup>,</sup>[^12] | Caller | Social Media |
 |---|---|---|---|---|
+| [\+1 (803) 219-7141](tel:+18032197141) | SC. Blackville | 2026-01-20 10:43 AM | — | |
 | [\+1 (803) 764-3335](tel:+18037643335) | SC. Columbia | 2026-01-19 10:41 AM | JOHN G GERGULIS | |
 | [\+1 (803) 621-4515](tel:+18036214515) | SC. Barnwell | 2026-01-19 10:22 AM | — | |
 | [\+1 (803) 568-3910](tel:+18035683910) | SC. Swansea | 2026-01-16 10:17 AM | Family Affair F (PEGGY A MCIVER) | |
