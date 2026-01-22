@@ -1,13 +1,13 @@
 ---
 layout: post
-tags: []
-categories: []
+tags: [media, MS NOW - Breaking News and News Today / Latest News, Steve Benen, The New York Times (NYT) - Breaking News US News World News and Videos, Roll Call, The Hill - covering Congress Politics Political Campaigns and Capitol Hill, The Wall Street Journal (WSJ) - Breaking News Business Financial & Economic News World News and Video, organizations, World Economic Forum, political parties, Democrat Party, Trumpian Party, foreign governments, Belgian Federal Government · Belgian Federal Government, Prime Minister Bart De Wever, Canadia, Prime Minister of Canada / Premier ministre du Canada, Mark Carney – About / Prime Minister of Canada, Switzerland, Davos, Site officiel du Gouvernement / info.gouv.fr, Bienvenue sur le site de l’Élysée, Emmanuel Macron / Élysée, Greenland, Portal Gov.pl, Premier - Kancelaria Prezesa Rady Ministrów - Portal Gov.pl, Donald Tusk - Kancelaria Prezesa Rady Ministrów - Portal Gov.pl, state local governments, federal government, Constitution of the United States, Supreme Court of the United States (SCOTUS), US Courts, Department of Justice (DOJ), Federal Bureau of Investigation (FBI), Congress, Senate, House of Representatives, President of the United States (POTUS), White House (WH), Trump autocracy, Donald J Trump, President Donald Trump (45), President Donald Trump (47), President Trump (47) Administration, President Trump (47) Cabinet, press secretary, Karoline Leavitt, Pam Bondi – Office of the Attorney General / Meet the Attorney General / United States Department of Justice, Todd Blanche – Office of the Deputy Attorney General / Office of the Deputy Attorney General, Todd Blanche / LinkedIn, Lindsey Halligan, Director Kash Patel — FBI, grifter, self-dealing, corruption, con artist, crime, cryptocurrency, criminal associates, criminal businesses, criminal media, criminal organizations, criminal partners]
+categories: [Donald Trump, World Economic Forum, Switzerland, Davos, Davos Congress Centre, foreign governments, Belgian Federal Government · Belgian Federal Government, Prime Minister Bart De Wever, Canadia, Prime Minister of Canada / Premier ministre du Canada, Mark Carney – About / Prime Minister of Canada, Switzerland, Davos, Site officiel du Gouvernement / info.gouv.fr, Bienvenue sur le site de l’Élysée, Emmanuel Macron / Élysée, Greenland, Portal Gov.pl, Premier - Kancelaria Prezesa Rady Ministrów - Portal Gov.pl, Donald Tusk - Kancelaria Prezesa Rady Ministrów - Portal Gov.pl,]
 date: 2026-01-22 11:56
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: 'title'
+title: "Donald Trump Has Destroyed Respect of America Among Allies"
 ---
 
 
@@ -63,8 +63,6 @@ Steve Benen is a producer for "The Rachel Maddow Show," the editor of MaddowBlog
 - political parties
 - [Democrat Party](https://www.democrats.org/)
 - [Trumpian Party](https://www.gop.com/)
-- universities
-- companies
 - foreign governments
 - [Belgian Federal Government · Belgian Federal Government](https://federale-regering.be/)
     - [Prime Minister Bart De Wever](https://premier.be/nl)
