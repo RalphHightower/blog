@@ -28,6 +28,20 @@ title: "Trump 1.0 Presidential Rankings – C-SPAN 2021〽️"
 | Performance Within Context of Times	| 28.3	| 42 |
 | Overall | 312 | 41 |
 
+
+| Top President In Category	| President	| Score	|
+|---|---|---|
+| Public Persuasion | Franklin D. Roosevelt | 94.8 |
+| Crisis Leadership | Abraham Lincoln | 96.4 |
+| Economic Management | Abraham Lincoln | 81.9 |
+| Moral Authority | Abraham Lincoln | 95.2 |
+| International Relations | Franklin D. Roosevelt | 88.0 |
+| Administrative Skills | Abraham Lincoln | 86.7 |
+| Relations with Congress | George Washington | 83.5 |
+| Vision / Setting an Agenda | Abraham Lincoln | 96.4 |
+| Pursued Equal Justice For All | Abraham Lincoln | 90.9 |
+| Performance Within Context of Times | Abraham Lincoln | 96.5 |
+
 @RalphHightower: [President Joe Biden](https://bidenwhitehouse.archives.gov/) was not ranked in this 2021 survey as his term was just beginning. I'm interested in where [Trump 2.0](https://www.donaldjtrump.com/) ranks since his performance is drastically worse than [Trump 1.0](https://trumpwhitehouse.archives.gov/). Even his ranking in MAGALandia is underwater. 
 
 [Trump](https://www.donaldjtrump.com) did a [Sergeant Schultz](https://en.wikipedia.org/wiki/John_Banner)[^11] when asked about [Project 2025](https://www.project2025.org/). However, the [Authors of Mass Destruction: Project 2025]({% link Project2025AuthorsOfDestruction.md %}) published a blueprint for the systematic destruction of democracy and the [United States](https://constitution.congress.gov/).
