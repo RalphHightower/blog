@@ -9,7 +9,7 @@
   "contributors": [
     "ralph.hightower+blog@gmail.com"
   ],
-  "version": " v1.0.6",
+  "version": "1.0.6",
   "type": "git",
   "homepage": "https://github.com/RalphHightower/blog.git",
   "bugs": {
@@ -34,16 +34,15 @@
     "anti-trump"
   ],
   "devDependencies": {
+    "semantic-release": "^25.0.2"
     "@semantic-release/changelog": "^6.0.3",
     "@semantic-release/git": "^10.0.1",
     "@semantic-release/github": "^12.0.2",
     "@semantic-release/release-notes-generator": "^14.1.0",
     "markdownlint-cli2": "^0.20.0",
-    "markdownlint-cli2-formatter-json": "^0.0.9",
-    "semantic-release": "^25.0.2"
   },
   "dependencies": {
     "npm": "^11.8.0"
   },
-  "packageManager": "npm@11.7.0"
+  "packageManager": "npm@11.8.0"
 }

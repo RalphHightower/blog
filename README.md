@@ -91,7 +91,13 @@ When agents encounter strangers, the Fourth Amendment imposes three core limitat
 2. If, and only if, agents have developed probable cause that a person is guilty of a crime, they can arrest them—restrain their physical movements. That includes, of course, Americans or anyone else who assaults law enforcement.
 3. At all times, including during arrests, agents may not employ force that is unreasonable under the circumstances.
 
-<div id="2025-09-01T23:59:59">
+<!--
+SC Democrat Primary 
+2026-06-09T11:00:00Z – 2026-06-09T23:00:00Z
+
+mid term election 
+2026-11-03T12:00:00Z – 2026-11-04T00:00:00Z
+-->
 
 <ul>
 
