@@ -7,13 +7,13 @@
 - [ ] title
 - [ ] tags
 - [ ] categories
-- [ ] date 
+- [ ] date
 
 <!-
-IS#9999 – Issue created independently of a Pull Request 
+IS#9999 – Issue created independently of a Pull Request
 PR#9999 – Issue created from a Pull Request
 -->
-Issue Number: N/A
+Pull Request/Issue Number: N/A
 
 Please check the type of change your PR introduces:
 
@@ -23,6 +23,7 @@ Please check the type of change your PR introduces:
 - [ ] Jekyll change(s)
 - [ ] Liquid change(s)
 - [ ] Markdown change(s)
+- [ ] npm package(s) 
 - [ ] YAML change(s)
 - [ ] Build error(s)
 - [ ] Feature(s)
@@ -38,9 +39,11 @@ Please check the type of change your PR introduces:
 - [ ] awk
 - [ ] C/C++/C#
 - [ ] HTML
-- [ ] Javascript 
+- [ ] Javascript
+- [ ] Jekyll
 - [ ] Liquid
 - [ ] Markdown
+- [ ] npm package(s)
 - [ ] Ruby
 - [ ] Python
 - [ ] YAML

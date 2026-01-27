@@ -11,9 +11,9 @@
   ],
   "version": "1.0.6",
   "type": "git",
-  "homepage": "https://github.com/RalphHightower/blog.git",
+  "homepage": "https://github.com/ralphhightower/blog.git",
   "bugs": {
-    "url": "https://github.com/RalphHightower/blog/issues",
+    "url": "https://github.com/ralphhightower/blog/issues",
     "email": "ralph.hightower+blog-bugs@gmail.com"
   },
   "license": "Apache-2.0",
