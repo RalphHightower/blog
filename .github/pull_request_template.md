@@ -43,7 +43,7 @@ Please check the type of change your PR introduces:
 - [ ] Jekyll
 - [ ] Liquid
 - [ ] Markdown
-- [ ] npm package(s)
+- [ ] npm package
 - [ ] Ruby
 - [ ] Python
 - [ ] YAML
