@@ -116,7 +116,6 @@ But make no mistake, they would almost certainly welcome a sane [America](https:
 - [Emmanuel Macron / Élysée](https://www.elysee.fr/emmanuel-macron)
 - [Official website of the Government / info.gouv.fr](https://www.info.gouv.fr/)
 - [Naalakkersuisut.gl (GL)](https://naalakkersuisut.gl/)
-- [The State Council of the People's Republic of China](https://www.gov.cn/)
 - [Iraq](https://ur.gov.iq)
 - [D'Lëtzebuerger Regierung (LB)](https://gouvernement.lu/)
     - [FRIEDEN Luc - The Luxembourg Government](https://gouvernement.lu/en/gouvernement/luc-frieden.html)
