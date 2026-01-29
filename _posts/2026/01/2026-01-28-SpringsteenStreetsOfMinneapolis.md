@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: [media, Home / Bruce Springsteen, Streets Of Minneapolis, political parties, Democrat Party, Trumpian Party, state local governments, Minnesota, Minneapolis, Renee Nicole Good, Alex Pretti, federal government, Constitution of the United States, Supreme Court of the United States (SCOTUS), US Courts, Department of Justice (DOJ), Federal Bureau of Investigation (FBI), Department of Homeland Security (DHS), Customs and Border Protection (CBP), Immigration and Customs Enforcement (ICE), Congress, Senate, House of Representatives, President of the United States (POTUS), White House (WH), Trump autocracy, Donald J Trump, President Donald Trump (45), President Donald Trump (47), President Trump (47) Administration, President Trump (47) Cabinet, press secretary, Karoline Leavit, Greg Bovino, Johnathan Ross, Pam Bondi – Office of the Attorney General / Meet the Attorney General / United States Department of Justice, Todd Blanche – Office of the Deputy Attorney General / Office of the Deputy Attorney General, Todd Blanche / LinkedIn, Director Kash Patel — FBI, grifter, self-dealing, corruption, con artist, crime, cryptocurrency, criminal associates, criminal businesses, criminal media, criminal organizations, criminal]
-categories: [Minnesota, Minneapolis, Renee Nicole Good, Alex Pretti, Bruce Springsteen, Streets Of Minneapolis, Donald Trump, Department of Homeland Security (DHS), Customs and Border Protection (CBP),Immigration and Customs Enforcement (ICE), Greg Bovino, Johnathan Ross]
+categories: [Minnesota, Minneapolis, Renee Nicole Good, Alex Pretti, Bruce Springsteen, Streets Of Minneapolis, music, Donald Trump, Department of Homeland Security (DHS), Customs and Border Protection (CBP),Immigration and Customs Enforcement (ICE), Kristi Noem, Greg Bovino, Johnathan Ross]
 date: 2026-01-28 21:26
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
@@ -15,69 +15,23 @@ title: "Bruce Springsteen: Streets Of Minneapolis"
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wWKSoxG1K7w?si=C8iFXojfz8nw-m1z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Jan 28, 2026  #1 on music Trending chart
+Jan 28, 2026  #1 on music Trending chartl
+
 Lyrics:
-Through the winter’s ice and cold
-Down Nicollet Avenue
-A city aflame fought fire and ice
-‘Neath an occupier’s boots
-King Trump’s private army from the DHS
-Guns belted to their coats
-Came to Minneapolis to enforce the law
-Or so their story goes
-Against smoke and rubber bullets
-By the dawn’s early light
-Citizens stood for justice
-Their voices ringing through the night
-And there were bloody footprints
-Where mercy should have stood
-And two dead left to die on snow-filled streets
-Alex Pretti and Renee Good
 
-Oh our Minneapolis, I hear your voice
-Singing through the bloody mist
-We’ll take our stand for this land
-And the stranger in our midst
-Here in our home they killed and roamed
-In the winter of ’26
-We’ll remember the names of those who died
-On the streets of Minneapolis
+Through the winter’s ice and cold<br />Down Nicollet Avenue<br />A city aflame fought fire and ice<br />‘Neath an occupier’s boots<br />King Trump’s private army from the DHS<br />Guns belted to their coats<br />Came to Minneapolis to enforce the law<br />Or so their story goes<br />Against smoke and rubber bullets<br />By the dawn’s early light<br />Citizens stood for justice<br />Their voices ringing through the night<br />And there were bloody footprints<br />Where mercy should have stood<br />And two dead left to die on snow-filled streets<br />Alex Pretti and Renee Good
 
-Trump’s federal thugs beat up on
-His face and his chest
-Then we heard the gunshots
-And Alex Pretti lay in the snow, dead
-Their claim was self defense, sir
-Just don’t believe your eyes
-It’s our blood and bones
-And these whistles and phones
-Against Miller and Noem’s dirty lies
+Oh our Minneapolis, I hear your voice<br />Singing through the bloody mist<br />We’ll take our stand for this land<br />And the stranger in our midst<br />Here in our home they killed and roamed<br />In the winter of ’26<br />We’ll remember the names of those who died<br />On the streets of Minneapolis
 
-Oh our Minneapolis, I hear your voice
-Crying through the bloody mist
-We’ll remember the names of those who died
-On the streets of Minneapolis
+Trump’s federal thugs beat up on<br />His face and his chest<br />Then we heard the gunshots<br />And Alex Pretti lay in the snow, dead<br />Their claim was self defense, sir<br />Just don’t believe your eyes<br />It’s our blood and bones<br />And these whistles and phones<br />Against Miller and Noem’s dirty lies
 
-Now they say they’re here to uphold the law
-But they trample on our rights
-If your skin is black or brown my friend
-You can be questioned or deported on sight
+Oh our Minneapolis, I hear your voice<br />Crying through the bloody mist<br />We’ll remember the names of those who died<br />On the streets of Minneapolis
 
-In chants of ICE out now
-Our city’s heart and soul persists
-Through broken glass and bloody tears
-On the streets of Minneapolis
+Now they say they’re here to uphold the law<br />But they trample on our rights<br />If your skin is black or brown my friend<br />You can be questioned or deported on sight
 
-Oh our Minneapolis, I hear your voice
-Singing through the bloody mist
-Here in our home they killed and roamed
-In the winter of ’26
-We’ll take our stand for this land
-And the stranger in our midst
-We’ll remember the names of those who died
-On the streets of Minneapolis
-We’ll remember the names of those who died
-On the streets of Minneapolis
+In chants of ICE out now<br />Our city’s heart and soul persists<br />Through broken glass and bloody tears<br />On the streets of Minneapolis
+
+Oh our Minneapolis, I hear your voice<br />Singing through the bloody mist<br />Here in our home they killed and roamed<br />In the winter of ’26<br />We’ll take our stand for this land<br />And the stranger in our midst<br />We’ll remember the names of those who died<br />On the streets of Minneapolis<br />We’ll remember the names of those who died<br />On the streets of Minneapolis
 
 ----
 - media
