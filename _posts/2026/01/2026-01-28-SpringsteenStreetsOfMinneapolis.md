@@ -11,6 +11,16 @@ title: "Bruce Springsteen: Streets Of Minneapolis"
 ---
 
 
+
+## Bruce Springsteen - Streets Of Minneapolis (Official Lyric Video)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GDaPdpwA4Iw?si=KDs2ok7TTXg1d5bo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Jan 29, 2026
+Directed by Thom Zimny
+Edited by Thom Zimny and Samuel Shapiro
+Production Footage: Pam Springsteen and Thom Zimny
+
 ## Bruce Springsteen - Streets Of Minneapolis (Official Audio)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wWKSoxG1K7w?si=C8iFXojfz8nw-m1z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
