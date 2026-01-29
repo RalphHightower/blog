@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: [media, MS NOW Breaking News and News Today / Latest News, Rachel Maddow Show, Rachel Maddow, Steve Benen, “Ministry of Truth –  Democracy Reality and the Republicans’ War on the Recent Past.”, Roll Call, TIME / Current & Breaking News / National & World Updates, Kennedy Center, political parties, Democrat Party, Trumpian Party, foreign governments, Russia, Ukrainian President Volodymyr Zelenskyy, federal government, Constitution of the United States, Supreme Court of the United States (SCOTUS), US Courts, Department of Justice (DOJ), Federal Bureau of Investigation (FBI), House Republican Conference, Congress, Senate, Chris Murphy (D-CT), House of Representatives, President of the United States (POTUS), White House (WH), Trump autocracy, Donald J Trump, President Donald Trump (45), President Donald Trump (47), President Trump (47) Administration, President Trump (47) Cabinet, press secretary, Karoline Leavitt, Pam Bondi – Office of the Attorney General / Meet the Attorney General / United States Department of Justice, Todd Blanche – Office of the Deputy Attorney General / Office of the Deputy Attorney General, Todd Blanche / LinkedIn, Lindsey Halligan, Director Kash Patel — FBI, grifter, self-dealing, corruption, con artist, crime, cryptocurrency, criminal associates, criminal businesses, criminal media, criminal organizations, criminal partners]
-categories: [Donald Trump, 2926 midterm elections]
+categories: [Donald Trump, 2926 midterm elections, weaponization]
 date: 2026-01-07 19:18
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'

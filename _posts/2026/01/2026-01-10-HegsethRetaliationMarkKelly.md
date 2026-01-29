@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: [media, MS NOW - Breaking News and News Today / Latest News, Erum Salam, political parties, Democrat Party, Trumpian Party, federal government, Constitution of the United States, Supreme Court of the United States (SCOTUS), US Courts, Department of Justice (DOJ), Federal Bureau of Investigation (FBI), Department of Defense (DOD), Uniform Code of Military Justice, Army National Guard, Congress, Senate, Mark Kelly (D-AZ), House of Representatives, President of the United States (POTUS), White House (WH), Trump autocracy, Donald J Trump, President Donald Trump (45), President Donald Trump (47), President Trump (47) Administration, President Trump (47) Cabinet, press secretary, Karoline Leavitt, Secretary Pete Hegseth, Pam Bondi – Office of the Attorney General / Meet the Attorney General / United States Department of Justice, Todd Blanche – Office of the Deputy Attorney General / Office of the Deputy Attorney General, Todd Blanche / LinkedIn, Lindsey Halligan, Director Kash Patel — FBI, grifter, self-dealing, corruption, con artist, crime, cryptocurrency, criminal associates, criminal businesses, criminal media, criminal organizations, criminal partners]
-categories: [Department of Defense (DOD), Senate,  Mark Kelly (D-AZ), Uniform Code of Military Justice]
+categories: [Department of Defense (DOD), Senate,  Mark Kelly (D-AZ), Uniform Code of Military Justice, weaponization]
 date: 2026-01-10 16:13
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
