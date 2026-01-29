@@ -54,6 +54,7 @@ The [Federal Reserve System](https://www.federalreserve.gov/) has made the follo
 More information regarding open market operations and reinvestments may be found on the [Federal Reserve System](https://www.federalreserve.gov/) [Bank of New York](https://www.newyorkfed.org/)'s [website](https://www.newyorkfed.org/markets/domestic-market-operations).
 
 ----
+
 | [Federal Reserve Board](https://www.federalreserve.gov/) |
 |---|
 | [Home - Federal Reserve Bank of Atlanta](https://www.atlantafed.org/) |
