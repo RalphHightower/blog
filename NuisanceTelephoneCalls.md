@@ -20,6 +20,7 @@ The telephone numbers below have called and there is an empty person on the othe
 
 | Telephone Number | Location | Date Time[^11]<sup>,</sup>[^12] | Caller | Social Media |
 |---|---|---|---|---|
+| [\+1 (803) 494-5277](tel:+18034945277) | SC. Sumter | 2026-01-29 06:56 PM | VANETTA M MATTHEWS | |
 | [\+1 (803) 247-2235](tel:+18032472235) | SC. North | 2026-01-28 06:55 PM | Jean W Redcay | |
 | [\+1 (803) 854-3923](tel:+18038543923) | SC. Santee | 2026-01-28 05:35 PM | James H Boyd | |
 | [\+1 (803) 283-9679](tel:+18032839679) | SC. Lancaster | 2026-01-27 11:30 AM | Thomas Adams | |
