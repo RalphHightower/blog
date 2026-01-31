@@ -62,7 +62,7 @@ Oh our Minneapolis, I hear your voice<br />Singing through the bloody mist<br />
     - [Department of Justice (DOJ)](https://www.justice.gov/)
         - [Federal Bureau of Investigation (FBI)](https://www.fbi.gov/)
     - [Department of Homeland Security (DHS)](https://www.dhs.gov/)
-        - [Customs and Border Protection (CBP)](https://www.cbp.gov%)
+        - [Customs and Border Protection (CBP)](https://www.cbp.gov/)
         - [Immigration and Customs Enforcement (ICE)](https://www.ice.gov/)
     - [Congress](https://www.congress.gov/)
         - [Senate](https://www.senate.gov/)
