@@ -1,7 +1,7 @@
 ---
 layout: post
-tags: [media,MS NOW - Breaking News and News Today / Latest News,“The Rachel Maddow Show”,MaddowBlog,Steve Benen,The New York Times (NYT) - Breaking News US News World News and Videos,The Washington Post - Breaking news and latest headlines U.S. news world news and video - The Washington Post,pbump – some additional thoughts,Federal –  2020 Election Interference January 6 Insurrection,political parties,Democrat Party,Trumpian Party,state local governments,Georgia.gov,Fulton County Government,Atlanta GA / Home,Board of Commissioners,Dana Barrett,District Attorney,Fani Willis,federal government,Constitution of the United States,Supreme Court of the United States (SCOTUS),US Courts,Department of Justice (DOJ),Federal Bureau of Investigation (FBI),2020 Presidential Election Results – Federal Election Commission (FEC),Congress,Senate,Adam Schiff (D-CA),House of Representatives,President of the United States (POTUS),White House (WH),Trump autocracy,Donald J Trump,President Donald Trump (45),President Donald Trump (47),President Trump (47) Administration,President Trump (47) Cabinet,press secretary,Karoline Leavitt,Pam Bondi – Office of the Attorney General / Meet the Attorney General / United States Department of Justice,Todd Blanche – Office of the Deputy Attorney General / Office of the Deputy Attorney General,Todd Blanche / LinkedIn,Director Kash Patel — FBI,grifter,self-dealing,corruption,con artist,crime,cryptocurrency,criminal associates,criminal businesses,criminal media,criminal organizations,criminal partners]
-categories: [weaponization,Donald Trump,Department of Justice (DOJ),Federal Bureau of Investigation (FBI),Immigration and Customs Enforcement (ICE),2020 Presidential Election Results – Federal Election Commission (FEC),Office of Director of National Intelligence (ODNI),Federal – 2020 Election Interference January 6 Insurrection,Kristi Noem,Pam Bondi,Tulsi Gabbard – Director of National Intelligence / Office of the Director of National Intelligence,Kristi Noem / Homeland Security,Georgia.gov,Governor Brian P. Kemp Office of the Governor,Brian Kemp / Georgia.gov,Fulton County Government,About Governor Brian P. Kemp / Governor Brian P. Kemp Office of the Governor,Atlanta GA / Home,Board of Commissioners,Homepage / Georgia Secretary of State,Brad Raffensperger / Georgia.gov,Dana Barrett,About Secretary Raffensperger / Georgia Secretary of State,District Attorney,Fani Willis,Chairman Robb Pitts]
+tags: [media,MS NOW - Breaking News and News Today / Latest News,“The Rachel Maddow Show”,MaddowBlog,Steve Benen,The New York Times (NYT) - Breaking NewsUS NewsWorld News and Videos,The Washington Post - Breaking news and latest headlinesU.S. newsworld newsand video - The Washington Post,Philip Bump – some additional thoughts,Federal –  2020 Election Interference January 6 Insurrection,political parties,Democrat Party,Trumpian Party,state local governments,Georgia.gov,Fulton County Government,Board of Commissioners,Dana Barrett,District Attorney,Fani Willis,Atlanta GA / Home,federal government,Constitution of the United States,Supreme Court of the United States (SCOTUS),US Courts,Department of Justice (DOJ),Federal Bureau of Investigation (FBI),2020 Presidential Election Results – Federal Election Commission (FEC),Congress,Senate,Adam Schiff (D-CA),House of Representatives,President of the United States (POTUS),White House (WH),Trump autocracy,Donald J Trump,President Donald Trump (45),President Donald Trump (47),President Trump (47) Administration,President Trump (47) Cabinet,press secretary,Karoline Leavitt,Pam Bondi – Office of the Attorney General / Meet the Attorney General / United States Department of Justice,Todd Blanche – Office of the Deputy Attorney General / Office of the Deputy Attorney General,Todd Blanche / LinkedIn,Director Kash Patel — FBI,grifter,self-dealing,corruption,con artist,crime,cryptocurrency,criminal associates,criminal businesses,criminal media,criminal organizations,criminal partners]
+categories: [weaponization,Donald Trump,Department of Justice (DOJ),Federal Bureau of Investigation (FBI),Immigration and Customs Enforcement (ICE),2020 Presidential Election Results – Federal Election Commission (FEC),Office of Director of National Intelligence (ODNI),Federal – 2020 Election Interference January 6 Insurrection,Kristi Noem,Pam Bondi,Tulsi Gabbard – Director of National Intelligence / Office of the Director of National Intelligence,Kristi Noem / Homeland Security,Georgia.gov,Governor Brian P. Kemp Office of the Governor,Brian Kemp / Georgia.gov,About Governor Brian P. Kemp / Governor Brian P. Kemp Office of the Governor,Homepage / Georgia Secretary of State,Brad Raffensperger / Georgia.gov,About Secretary Raffensperger / Georgia Secretary of State,Fulton County Government,Elections Hub and Operation Center,Board of Commissioners,Chairman Robb Pitts,Dana Barrett,Mo Ivory,District Attorney,Fani Willis,Atlanta GA / Home]
 date: 2026-01-29 21:59
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
@@ -10,7 +10,7 @@ excerpt: ''
 title: "Stuck In 2020: Trump’s FBI Seized Fulton County,Georgia 2020 Election Ballots"
 ---
 
-- [Federal: 2020 Election Interference,January 6 Insurrection]({% link January6DocumentDocumentLinks.md %})
+- [Federal: 2020 Election Interference, January 6 Insurrection]({% link January6DocumentDocumentLinks.md %})
 - [2020 Presidential Election Results – Federal Election Commission (FEC)](https://www.fec.gov/resources/cms-content/documents/federalelections2020.pdf)
 
 ## [As the FBI searches Fulton County,Trump’s 2020 election fixation has escalated beyond whining](https://www.ms.now/rachel-maddow-show/maddowblog/as-the-fbi-searches-fulton-co-trumps-2020-election-fixation-has-escalated-beyond-whining)
@@ -59,18 +59,18 @@ This post updates our [related earlier coverage](https://www.ms.now/rachel-maddo
 - [The New York Times (NYT) - Breaking News,US News,World News and Videos](https://www.nytimes.com/)
 - [The Washington Post - Breaking news and latest headlines,U.S. news,world news,and video - The Washington Post](https://www.washingtonpost.com/)
 - [Philip Bump – some additional thoughts](https://www.pbump.net/o/)
-- [Federal: 2020 Election Interference,January 6 Insurrection]({% link January6DocumentDocumentLinks.md %})
+- [Federal: 2020 Election Interference, January 6 Insurrection]({% link January6DocumentDocumentLinks.md %})
 - political parties
 - [Democrat Party](https://www.democrats.org/)
 - [Trumpian Party](https://www.gop.com/)
-- state,local governments
+- state, local governments
 - [Georgia.gov](https://georgia.gov/)
     - [Fulton County Government](https://fultoncountyga.gov/)
-            - [Atlanta,GA / Home](https://www.atlantaga.gov/)
         - [Board of Commissioners](https://fultoncountyga.gov/Commissioners)
             - [Dana Barrett](https://fultoncountyga.gov/Commissioners/Dana-Barrett)
         - [District Attorney](https://fultoncountyga.gov/Inside-Fulton-County/Fulton-County-Departments/District-Attorney)
             - [Fani Willis](https://fultoncountyga.gov/Inside-Fulton-County/Fulton-County-Departments/District-Attorney/DA-Executive-Team/Fani-Willis)
+        - [Atlanta, GA / Home](https://www.atlantaga.gov/)
 - federal government
 - [Constitution of the United States](https://constitution.congress.gov/constitution/)
     - [Supreme Court of the United States (SCOTUS)](https://www.supremecourt.gov/)

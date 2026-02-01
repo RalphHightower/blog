@@ -1,7 +1,7 @@
 ---
 layout: post
-tags: [media,MS NOW - Breaking News and News Today / Latest News,“The Rachel Maddow Show”,MaddowBlog,Steve Benen,Axios Breaking news U.S. news and politics and local news,Bloomberg Business News Stock Markets Finance Breaking & World News,Reuters / Breaking International News & Views,Federal –  2020 Election Interference January 6 Insurrection,organizations,National Association of Secretaries of State / NASS,political parties,Democrat Party,Trumpian Party,state local governments,Georgia.gov,Fulton County Government,Atlanta GA / Home,Board of Commissioners,Dana Barrett,District Attorney,Fani Willis,Washington,Hawaii,federal government,Constitution of the United States,Supreme Court of the United States (SCOTUS),US Courts,Department of Justice (DOJ),Federal Bureau of Investigation (FBI),Department of Homeland Security,Office of Director of National Intelligence,2020 Presidential Election Results – Federal Election Commission (FEC),Senate,Adam Schiff (D-CA),Senate Intelligence Committee,Mark Warner (D-VA),Warner –  Why is Tulsi Gabbard in Fulton County Press Releases Mark R. Warner,House of Representatives,President of the United States (POTUS),White House (WH),Trump autocracy,Donald J Trump,President Donald Trump (45),President Donald Trump (47),President Trump (47) Administration,President Trump (47) Cabinet,press secretary,Karoline Leavitt,Tulsi Gabbard – Director of National Intelligence / Office of the Director of National Intelligence,Kristi Noem / Homeland Security,Pam Bondi – Office of the Attorney General / Meet the Attorney General / United States Department of Justice,Todd Blanche – Office of the Deputy Attorney General / Office of the Deputy Attorney General,Todd Blanche / LinkedIn,Director Kash Patel — FBI,grifter,self-dealing,corruption,con artist,crime,cryptocurrency,criminal associates,criminal businesses,criminal media,criminal organizations,criminal partners]
-categories: [weaponization,Donald Trump,Department of Justice (DOJ),Federal Bureau of Investigation (FBI),Immigration and Customs Enforcement (ICE),2020 Presidential Election Results – Federal Election Commission (FEC),Office of Director of National Intelligence (ODNI),Federal – 2020 Election Interference January 6 Insurrection,Kristi Noem,Pam Bondi,Tulsi Gabbard – Director of National Intelligence / Office of the Director of National Intelligence,Kristi Noem / Homeland Security,Georgia.gov,Governor Brian P. Kemp Office of the Governor,Brian Kemp / Georgia.gov,Fulton County Government,About Governor Brian P. Kemp / Governor Brian P. Kemp Office of the Governor,Atlanta GA / Home,Board of Commissioners,Homepage / Georgia Secretary of State,Brad Raffensperger / Georgia.gov,Dana Barrett,About Secretary Raffensperger / Georgia Secretary of State,District Attorney,Fani Willis,Chairman Robb Pitts]
+tags: [media,MS NOW - Breaking News and News Today / Latest News,“The Rachel Maddow Show”,MaddowBlog,Steve Benen,Axios Breaking newsU.S. news and politicsand local news,Bloomberg Business NewsStock MarketsFinanceBreaking & World News,Reuters / Breaking International News & Views,Federal –  2020 Election Interference January 6 Insurrection,organizations,National Association of Secretaries of State / NASS,political parties,Democrat Party,Trumpian Party,statelocal governments,Georgia.gov,Fulton County Government,Board of Commissioners,Dana Barrett,District Attorney,Fani Willis,Atlanta GA / Home,Washington DC,Hawaii,federal government,Constitution of the United States,Supreme Court of the United States (SCOTUS),US Courts,Department of Justice (DOJ),Federal Bureau of Investigation (FBI),Department of Homeland Security,Office of Director of National Intelligence (ODNI),2020 Presidential Election Results – Federal Election Commission (FEC),Senate,Adam Schiff (D-CA),Senate Intelligence Committee,Mark Warner (D-VA),Warner–  Why is Tulsi Gabbard in Fulton County Press Releases Mark R. Warner,House of Representatives,President of the United States (POTUS),White House (WH),Trump autocracy,Donald J Trump,President Donald Trump (45),President Donald Trump (47),President Trump (47) Administration,President Trump (47) Cabinet,press secretary,Karoline Leavitt,Tulsi Gabbard – Director of National Intelligence / Office of the Director of National Intelligence,Kristi Noem / Homeland Security,Pam Bondi – Office of the Attorney General / Meet the Attorney General / United States Department of Justice,Todd Blanche – Office of the Deputy Attorney General / Office of the Deputy Attorney General,Todd Blanche / LinkedIn,Director Kash Patel — FBI,grifter,self-dealing,corruption,con artist,crime,cryptocurrency,criminal associates,criminal businesses,criminal media,criminal organizations,criminal partners]
+categories: [weaponization,Donald Trump,Department of Justice (DOJ),Federal Bureau of Investigation (FBI),Immigration and Customs Enforcement (ICE),2020 Presidential Election Results – Federal Election Commission (FEC),Office of Director of National Intelligence (ODNI),Federal – 2020 Election Interference January 6 Insurrection,Kristi Noem,Pam Bondi,Tulsi Gabbard – Director of National Intelligence / Office of the Director of National Intelligence,Kristi Noem / Homeland Security,Georgia.gov,Governor Brian P. Kemp Office of the Governor,Brian Kemp / Georgia.gov,About Governor Brian P. Kemp / Governor Brian P. Kemp Office of the Governor,Homepage / Georgia Secretary of State,Brad Raffensperger / Georgia.gov,About Secretary Raffensperger / Georgia Secretary of State,Fulton County Government,Elections Hub and Operation Center,Board of Commissioners,Chairman Robb Pitts,Dana Barrett,Mo Ivory,District Attorney,Fani Willis,Atlanta GA / Home]
 date: 2026-01-29 23:57
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
@@ -10,7 +10,7 @@ excerpt: ''
 title: "Stuck In 2020: What The Fuck Is Tulsi Gabbard Doing At FBI Raid Of Fulton County (GA) Elections Office?"
 ---
 
-- [Federal: 2020 Election Interference,January 6 Insurrection]({% link January6DocumentDocumentLinks.md %})
+- [Federal: 2020 Election Interference, January 6 Insurrection]({% link January6DocumentDocumentLinks.md %})
 - [2020 Presidential Election Results – Federal Election Commission (FEC)](https://www.fec.gov/resources/cms-content/documents/federalelections2020.pdf)
 
 ## [Why did Tulsi Gabbard join an FBI raid tied to Trump’s election conspiracy theory?](https://www.ms.now/rachel-maddow-show/maddowblog/why-did-tulsi-gabbard-join-an-fbi-raid-tied-to-trumps-election-conspiracy-theory)
@@ -57,7 +57,7 @@ This post,which has been revised to include a statement from the [administration
 - [Axios Breaking news,U.S. news and politics,and local news](https://www.axios.com/)
 - [Bloomberg Business News,Stock Markets,Finance,Breaking & World News](https://www.bloomberg.com/)
 - [Reuters / Breaking International News & Views](https://www.reuters.com/)
-- [Federal: 2020 Election Interference,January 6 Insurrection]({% link January6DocumentDocumentLinks.md %})
+- [Federal: 2020 Election Interference, January 6 Insurrection]({% link January6DocumentDocumentLinks.md %})
 - organizations
 - [National Association of Secretaries of State / NASS](https://www.nass.org/)
 - political parties
@@ -66,12 +66,12 @@ This post,which has been revised to include a statement from the [administration
 - state,local governments
 - [Georgia.gov](https://georgia.gov/)
     - [Fulton County Government](https://fultoncountyga.gov/)
-            - [Atlanta,GA / Home](https://www.atlantaga.gov/)
         - [Board of Commissioners](https://fultoncountyga.gov/Commissioners)
             - [Dana Barrett](https://fultoncountyga.gov/Commissioners/Dana-Barrett)
         - [District Attorney](https://fultoncountyga.gov/Inside-Fulton-County/Fulton-County-Departments/District-Attorney)
             - [Fani Willis](https://fultoncountyga.gov/Inside-Fulton-County/Fulton-County-Departments/District-Attorney/DA-Executive-Team/Fani-Willis)
-- [Washington](https://dc.gov/)
+    - [Atlanta, GA / Home](https://www.atlantaga.gov/)
+- [Washington, DC](https://dc.gov/)
 - [Hawaii](https://www.hawaii.gov/)
 - federal government
 - [Constitution of the United States](https://constitution.congress.gov/constitution/)

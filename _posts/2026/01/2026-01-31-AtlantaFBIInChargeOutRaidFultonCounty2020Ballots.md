@@ -1,7 +1,7 @@
 ---
 layout: post
-tags: [media,MS NOW - Breaking News and News Today / Latest News,Ebony Davis,Ken Dilanian,Associated Press News (AP) - Breaking News Latest Headlines and Videos / AP News,organizations,political parties,Democrat Party,Trumpian Party,universities,companies,foreign governments,state local governments,Georgia.gov,Governor Brian P. Kemp Office of the Governor,Brian Kemp / Georgia.gov,About Governor Brian P. Kemp / Governor Brian P. Kemp Office of the Governor,Homepage / Georgia Secretary of State,Brad Raffensperger / Georgia.gov,About Secretary Raffensperger / Georgia Secretary of State,Fulton County Government,Atlanta GA / Home,Board of Commissioners,Chairman Robb Pitts,Dana Barrett,District Attorney,Fani Willis,federal government,Constitution of the United States,Supreme Court of the United States (SCOTUS),US Courts,Department of Justice (DOJ),Federal Bureau of Investigation (FBI),Atlanta — FBI,Congress,Senate,House of Representatives,President of the United States (POTUS),White House (WH),President Joe Biden,Trump autocracy,Donald J Trump,President Donald Trump (45),President Donald Trump (47),President Trump (47) Administration,President Trump (47) Cabinet,press secretary,Karoline Leavitt,Pam Bondi – Office of the Attorney General / Meet the Attorney General / United States Department of Justice,Todd Blanche – Office of the Deputy Attorney General / Office of the Deputy Attorney General,Todd Blanche / LinkedIn,Director Kash Patel — FBI,grifter,self-dealing,corruption,con artist,crime,cryptocurrency,criminal associates,criminal businesses,criminal media,criminal organizations,criminal partners]
-categories: [weaponization,Donald Trump,Department of Justice (DOJ),Federal Bureau of Investigation (FBI),Immigration and Customs Enforcement (ICE),2020 Presidential Election Results – Federal Election Commission (FEC),Office of Director of National Intelligence (ODNI),Federal – 2020 Election Interference January 6 Insurrection,Kristi Noem,Pam Bondi,Tulsi Gabbard – Director of National Intelligence / Office of the Director of National Intelligence,Kristi Noem / Homeland Security,Georgia.gov,Governor Brian P. Kemp Office of the Governor,Brian Kemp / Georgia.gov,Fulton County Government,About Governor Brian P. Kemp / Governor Brian P. Kemp Office of the Governor,Atlanta GA / Home,Board of Commissioners,Homepage / Georgia Secretary of State,Brad Raffensperger / Georgia.gov,Dana Barrett,About Secretary Raffensperger / Georgia Secretary of State,District Attorney,Fani Willis,Chairman Robb Pitts]
+tags: [media,MS NOW - Breaking News and News Today / Latest News,Ebony Davis,Ken Dilanian,Associated Press News (AP) - Breaking NewsLatest Headlines and Videos / AP News,political parties,Democrat Party,Trumpian Party,state local governments,Georgia.gov,Governor Brian P. Kemp Office of the Governor,Brian Kemp / Georgia.gov,About Governor Brian P. Kemp / Governor Brian P. Kemp Office of the Governor,Homepage / Georgia Secretary of State,Brad Raffensperger / Georgia.gov,About Secretary Raffensperger / Georgia Secretary of State,Fulton County Government,Elections Hub and Operation Center,Board of Commissioners,Chairman Robb Pitts,Dana Barrett,District Attorney,Fani Willis,Atlanta GA / Home,federal government,Constitution of the United States,Supreme Court of the United States (SCOTUS),US Courts,Department of Justice (DOJ),Federal Bureau of Investigation (FBI),Atlanta — FBI,Congress,Senate,House of Representatives,President of the United States (POTUS),White House (WH),President Joe Biden,Trump autocracy,Donald J Trump,President Donald Trump (45),President Donald Trump (47),President Trump (47) Administration,President Trump (47) Cabinet,press secretary,Karoline Leavitt,Pam Bondi – Office of the Attorney General / Meet the Attorney General / United States Department of Justice,Todd Blanche – Office of the Deputy Attorney General / Office of the Deputy Attorney General,Todd Blanche / LinkedIn,Director Kash Patel — FBI,grifter,self-dealing,corruption,con artist,crime,cryptocurrency,criminal associates,criminal businesses,criminal media,criminal organizations,criminal partners]
+categories: [weaponization,Donald Trump,Department of Justice (DOJ),Federal Bureau of Investigation (FBI),Immigration and Customs Enforcement (ICE),2020 Presidential Election Results – Federal Election Commission (FEC),Office of Director of National Intelligence (ODNI),Federal – 2020 Election Interference January 6 Insurrection,Kristi Noem,Pam Bondi,Tulsi Gabbard – Director of National Intelligence / Office of the Director of National Intelligence,Kristi Noem / Homeland Security,Georgia.gov,Governor Brian P. Kemp Office of the Governor,Brian Kemp / Georgia.gov,About Governor Brian P. Kemp / Governor Brian P. Kemp Office of the Governor,Homepage / Georgia Secretary of State,Brad Raffensperger / Georgia.gov,About Secretary Raffensperger / Georgia Secretary of State,Fulton County Government,Elections Hub and Operation Center,Board of Commissioners,Chairman Robb Pitts,Dana Barrett,Mo Ivory,District Attorney,Fani Willis,Atlanta GA / Home]
 date: 2026-01-31 20:06
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
@@ -10,7 +10,7 @@ excerpt: ''
 title: "Stuck In 2020: FBI Special Agent In Charge of Atlanta Office Removed Over Concerns of Raid of Fulton County 2020 Ballots"
 ---
 
-- [Federal: 2020 Election Interference,January 6 Insurrection]({% link January6DocumentDocumentLinks.md %})
+- [Federal: 2020 Election Interference, January 6 Insurrection]({% link January6DocumentDocumentLinks.md %})
 - [2020 Presidential Election Results – Federal Election Commission (FEC)](https://www.fec.gov/resources/cms-content/documents/federalelections2020.pdf)
 
 ## [FBI ousts its top agent in Atlanta for questioning 2020 election probe](https://www.ms.now/news/atlanta-fbi-boss-ousted-after-balking-at-2020-election-probe)
@@ -40,23 +40,16 @@ During a news conference Friday,[Deputy](https://www.justice.gov/dag/) [Attorney
 
 [Ebony Davis](https://www.ms.now/author/ebony-davis) is a breaking news reporter for [MS NOW](https://www.ms.now/).
 
-
-[Elections Hub and Operation Center](https://www.fultoncountyga.gov/inside-fulton-county/fulton-county-departments/registration-and-elections/elections-contacts)
-
 ----
 - media
 - [MS NOW - Breaking News and News Today / Latest News](https://www.ms.now/)
     - [Ebony Davis](https://www.ms.now/author/ebony-davis)
     - [Ken Dilanian](https://www.ms.now/author/ken-dilanian-2)
 - [Associated Press News (AP) - Breaking News,Latest Headlines and Videos / AP News](https://apnews.com/)
-- organizations
 - political parties
 - [Democrat Party](https://www.democrats.org/)
 - [Trumpian Party](https://www.gop.com/)
-- universities
-- companies
-- foreign governments
-- state,local governments
+- state, local governments
 - [Georgia.gov](https://georgia.gov/)
     - [Governor Brian P. Kemp Office of the Governor](https://gov.georgia.gov/)
         - [Brian Kemp / Georgia.gov](https://georgia.gov/brian-kemp)
@@ -65,12 +58,13 @@ During a news conference Friday,[Deputy](https://www.justice.gov/dag/) [Attorney
         - [Brad Raffensperger / Georgia.gov](https://georgia.gov/brad-raffensperger)
         - [About Secretary Raffensperger / Georgia Secretary of State](https://sos.ga.gov/page/about-secretary-raffensperger)
     - [Fulton County Government](https://fultoncountyga.gov/)
-            - [Atlanta,GA / Home](https://www.atlantaga.gov/)
+        - [Elections Hub and Operation Center](https://www.fultoncountyga.gov/inside-fulton-county/fulton-county-departments/registration-and-elections/elections-contacts)
         - [Board of Commissioners](https://fultoncountyga.gov/Commissioners)
             - [Chairman Robb Pitts](https://fultoncountyga.gov/Commissioners/Robb-Pitts)
             - [Dana Barrett](https://fultoncountyga.gov/Commissioners/Dana-Barrett)
         - [District Attorney](https://fultoncountyga.gov/Inside-Fulton-County/Fulton-County-Departments/District-Attorney)
             - [Fani Willis](https://fultoncountyga.gov/Inside-Fulton-County/Fulton-County-Departments/District-Attorney/DA-Executive-Team/Fani-Willis)
+    - [Atlanta, GA / Home](https://www.atlantaga.gov/)
 - federal government
 - [Constitution of the United States](https://constitution.congress.gov/constitution/)
     - [Supreme Court of the United States (SCOTUS)](https://www.supremecourt.gov/)
