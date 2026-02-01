@@ -74,7 +74,7 @@ This post updates our [related earlier coverage](https://www.ms.now/rachel-maddo
 - companies
 - foreign governments
 - [Russia](http://kremlin.ru)
-- state,local governments
+- state, local governments
 - [Georgia.gov](https://georgia.gov/)
     - [Governor Brian P. Kemp Office of the Governor](https://gov.georgia.gov/)
         - [Brian Kemp / Georgia.gov](https://georgia.gov/brian-kemp)
@@ -100,7 +100,7 @@ This post updates our [related earlier coverage](https://www.ms.now/rachel-maddo
     - [Congress](https://www.congress.gov/)
         - [Senate](https://www.senate.gov/)
             - [Mark Warner (D-VA)](https://www.warner.senate.gov/)
-            - [Senate Intelligence Committee](https://ww w.intelligence.senate.gov/)
+            - [Senate Intelligence Committee](https://www.intelligence.senate.gov/)
         - [House of Representatives](https://www.house.gov/)
     - [President of the United States (POTUS)](https://www.whitehouse.gov/)
     - [White House (WH)](https://www.whitehouse.gov/)
