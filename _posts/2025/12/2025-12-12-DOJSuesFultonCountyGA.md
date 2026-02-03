@@ -7,7 +7,7 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: Stuck In 2020: Trump’s Department of Justice Sues Fulton County (GA) In Election Conspiracy Theory"
+title: "Stuck In 2020: Trump’s Department of Justice Sues Fulton County (GA) In Election Conspiracy Theory"
 ---
 
 - [Federal: 2020 Election Interference, January 6 Insurrection]({% link January6DocumentDocumentLinks.md %})
