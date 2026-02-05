@@ -34,17 +34,17 @@ The lawsuit comes in response to last week’s [FBI](https://www.fbi.gov/) opera
 
 [President](https://www.whitehouse.gov/) [Donald Trump](https://www.donaldjtrump.com/) has continued to claim falsely that widespread voter fraud cost him the [2020 election](https://www.fec.gov/resources/cms-content/documents/federalelections2020.pdf) in [Georgia](https://www.georgia.gov/), despite multiple audits proving that [Joe Biden](https://bidenwhitehouse.archives.gov/) won. [Trump](https://www.donaldjtrump.com/) renewed those baseless claims during an [interview](https://rumble.com/v756t38-im-back-ep.-2443-02022026.html?e9s=src_v1_ucp_a) Monday.
 
-“We have states that I won that show I didn’t win. Now you’re going to see something in [Georgia](https://www.georgia.gov/) where they were able to get with a court order, the ballots. You’re going to see some interesting things come out. But you know, like the [2020 election](https://www.fec.gov/resources/cms-content/documents/federalelections2020.pdf), I won that election by so much. Everybody knows it,” [Trump](https://www.donaldjtrump.com/) said on the internet show hosted by [Dan Bongino](), who recently resigned as deputy director of the [FBI](https://www.fbi.gov/).
+“We have states that I won that show I didn’t win. Now you’re going to see something in [Georgia](https://www.georgia.gov/) where they were able to get with a court order, the ballots. You’re going to see some interesting things come out. But you know, like the [2020 election](https://www.fec.gov/resources/cms-content/documents/federalelections2020.pdf), I won that election by so much. Everybody knows it,” [Trump](https://www.donaldjtrump.com/) said on the internet show hosted by [Dan Bongino](https://podcasts.apple.com/us/podcast/the-dan-bongino-show/id965293227), who recently resigned as deputy director of the [FBI](https://www.fbi.gov/).
 
-Arrington](https://fultoncountyga.gov/Commissioners/Marvin-Arrington) reiterated in an [interview](https://www.youtube.com/watch?time_continue=1&v=sZ7OG_Qy1GA&embeds_referring_euri=https%3A%2F%2Fwww.11alive.com%2F&) Monday that the county’s [2020 results](https://www.fec.gov/resources/cms-content/documents/federalelections2020.pdf) were valid.
+[Arrington](https://fultoncountyga.gov/Commissioners/Marvin-Arrington) reiterated in an [interview](https://www.youtube.com/watch?time_continue=1&v=sZ7OG_Qy1GA&embeds_referring_euri=https%3A%2F%2Fwww.11alive.com%2F&) Monday that the county’s [2020 results](https://www.fec.gov/resources/cms-content/documents/federalelections2020.pdf) were valid.
 
 “They were counted time and time again, and [Trump](https://www.donaldjtrump.com/) lost,” he said.
 
 [Fulton County](https://fultoncountyga.gov/) officials have publicly pushed back against the [FBI](https://www.fbi.gov/)’s operation while maintaining that they complied with the warrant as executed.
 
-“We will not give one inch to those who seek to take control of elections in [Fulton County](https://fultoncountyga.gov/) — not today, not tomorrow, not ever. We’re going to fight this in court with every resource that we have,” County Chairman Robb Pitts told reporters last week.
+“We will not give one inch to those who seek to take control of elections in [Fulton County](https://fultoncountyga.gov/) — not today, not tomorrow, not ever. We’re going to fight this in court with every resource that we have,” [County Chairman Robb Pitts](https://fultoncountyga.gov/Commissioners/Robb-Pitts) told reporters last week.
 
-Ebony Davis is a breaking news reporter for MS NOW.
+[Ebony Davis](https://www.ms.now/author/ebony-davis) is a breaking news reporter for [MS NOW](https://www.ms.now/).
 
 ----
 - media
