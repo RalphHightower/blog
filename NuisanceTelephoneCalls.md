@@ -20,7 +20,19 @@ The telephone numbers below have called and there is an empty person on the othe
 
 | Telephone Number | Location | Date Time[^11]<sup>,</sup>[^12] | Caller | Social Media |
 |---|---|---|---|---|
-| [\+1 (803) 494-5277](tel:+18034945277) | SC. Sumter | 2026-01-29 06:56 PM | VANETTA M MATTHEWS | |
+| [\+1 (803) 764-3793](tel:+18037643793) | SC. Columbia | 2026-02-05 06:26 PM | FRANNETTE L BRADLEY | |
+| [\+1 (803) 913-6545](tel:+18039136545) | SC. Hampton | 2026-02-05 05:41 P | — | |
+| [\+1 (803) 610-1075](tel:+18036101075) | SC. Clover | 2026-02-04 05:39 PM | — | |
+| [\+1 (803) 610-1075](tel:+18036101075) | SC. Clover | 2026-02-04 05:39 PM | — | |
+| [\+1 (803) 756-3824](tel:+18037563824) | SC. Columbia | 2026-02-04 03:49 PM ¤¤ | BUZZ LEWIS | |
+| [\+1 (803) 756-3824](tel:+18037563824) | SC. Columbia | 2026-02-04 03:48 PM | BUZZ LEWIS | |
+| [\+1 (803) 814-9839](tel:+18038149839) | SC. Columbia | 2026-02-04 03:33 PM | — | |
+| [\+1 (803) 283-8154](tel:+18032838154) | SC. Lancaster | 2026-02-02 06:35 PM | P Gregory | |
+| [\+1 (803) 869-8532](tel:+18038698532) | SC. Sumter | 2026-02-02 02:39 PM FRED | — | |
+| [\+1 (839) 800-0944](tel:+18398000944) | SC. New Ellington | 2026-02-02 12:47 PM | — | |
+| [\+1 (803) 675-6067](tel:+18036756067) | SC. Clover | 2026-02-02 09:38 AM | RENE D KUNSE | |
+| [\+1 (803) 897-0703](tel:+18038970703) | SC. Elloree | 2026-01-30 04:19 PM | NATHAN L JORDAN | |
+| [\+1 (803) 494-5277](tel:+18034945277) | SC. Sumter | 2026-01-29 06:56 PM | Vanetta Webb (VANETTA M MATTHEWS) | |
 | [\+1 (803) 247-2235](tel:+18032472235) | SC. North | 2026-01-28 06:55 PM | Jean W Redcay | |
 | [\+1 (803) 854-3923](tel:+18038543923) | SC. Santee | 2026-01-28 05:35 PM | James H Boyd | |
 | [\+1 (803) 283-9679](tel:+18032839679) | SC. Lancaster | 2026-01-27 11:30 AM | Thomas Adams | |
@@ -323,7 +335,7 @@ The telephone numbers below have called and there is an empty person on the othe
 | [\+1 (803) 328-3743](tel:+18033283743) | SC. Rock Hill | 2025-10-13 03:03 PM | Scott Robinette | |
 | [\+1 (803) 583-4109](tel:+18035834109) | SC. Pelion | 2025-10-13 09:28 AM | Heather Graham | |
 | [\+1 (803) 851-3908](tel:+18038513908) | SC. Columbia | 2025-10-10 04:07 PM | — | |
-| [\+1 (803) 775-8802](tel:+18037758802) | | 2025-10-10 03:43 PM | Margaret S Scott | |
+| [\+1 (803) 775-8802](tel:+18037758802) | SC. Sumter | 2025-10-10 03:43 PM | Margaret S Scott (SCOTT MARGARET) | |
 | [\+1 (803) 366-7974](tel:+18033667974) | SC. Rock Hill | 2025-10-10 10:49 AM | Lola Sutherland | |
 | [\+1 (803) 817-9744](tel:+18038179744) | SC. Rock Hill | 2025-10-09 05:01 PM | — | |
 | [\+1 (803) 327-5206](tel:+18033275206) | SC. Rock Hill | 2025-10-09 03:34 PM | Louise McClure | |
@@ -344,7 +356,7 @@ The telephone numbers below have called and there is an empty person on the othe
 | [\+1 (803) 862-5646](tel:+18038625646) | SC. Columbia | 2025-10-07 10:47 AM | — | |
 | [\+1 (803) 884-3119](tel:+18038843119) | SC. Blackville | 2025-10-07 09:59 AM | — | |
 | [\+1 (803) 217-1802](tel:+18032171802) | SC. Columbia | 2025-10-07 09:51 AM | — | |
-| [\+1 (803) 856-5338](tel:+18038565338) | | 2025-10-06 07:22 PM | — | |
+| [\+1 (803) 856-5338](tel:+18038565338) | SC. Bishopville | 2025-10-06 07:22 PM | — | |
 | [\+1 (803) 341-6106](tel:+18033416106) | SC. Beech Island | 2025-10-06 02:00 PM | — | |
 | [\+1 (803) 485-5858](tel:+18034855858) | SC. Manning | 2025-10-06 12:20 PM | — | |
 | [\+1 (803) 200-1043](tel:+18032001043) | SC. Columbia | 2025-10-06 10:26 AM | — | |
