@@ -32,25 +32,25 @@ And yet, more than five years later, [President](https://www.whitehouse.gov/) [T
 
 Americans who believe in free and fair elections should be terrified. But not because the president and his cronies at the [FBI](https://www.fbi.gov/) and the [Justice Department](https://www.justice.gov/) might find some “smoking gun” in those five-year-old boxes that finally validates years of lies and conspiracy theories. They won’t. It doesn’t exist. But Americans should be terrified because of what this portends for the 2026 midterms.
 
-> **Americans should be terrified because of what this portends for the 2026 midterms.** 
+> **Americans should be terrified because of what this portends for the 2026 midterms.**
 
-The [Trump](https://www.donaldjtrump.com/) [administration](https://www.whitehouse.gov/)  dispatched federal officers to remove ballots and voting equipment from the hands of state election officials — where they belong — and placed them under federal control. This is a threat to the very foundation of free and fair elections: that ballots are cast and counted through impartial, statutorily mandated state election processes without interference by candidates on the ballot. 
+The [Trump](https://www.donaldjtrump.com/) [administration](https://www.whitehouse.gov/)  dispatched federal officers to remove ballots and voting equipment from the hands of state election officials — where they belong — and placed them under federal control. This is a threat to the very foundation of free and fair elections: that ballots are cast and counted through impartial, statutorily mandated state election processes without interference by candidates on the ballot.
 
 Let’s be clear about where our society could be headed. This fall, we are increasingly likely to see a president commanding the federal law enforcement apparatus to seize ballots and voting equipment, prosecute election workers, intimidate voters and election officials and interfere with the counting of ballots and the certification of election results.
 
 Public officials cannot afford to wait until it’s too late to act or speak out. Governors, secretaries of state, attorneys general and other state and local election officials know that elections are a state function protected by the [Constitution](https://constitution.congress.gov/). As [Georgia](https://www.georgia.gov/) officials did in the face of threats and heavy criticism in 2020, they must continue to honor the law and the truth. Judges must scrutinize every federal intrusion brought before the courts.
 
-Members of [Congress](https://www.congress.gov/) swore an oath when they took office to defend the [Constitution](https://constitution.congress.gov/) against all enemies, foreign and domestic. What threat to our [Constitution](https://constitution.congress.gov/) is greater than the demolition of impartial elections? 
+Members of [Congress](https://www.congress.gov/) swore an oath when they took office to defend the [Constitution](https://constitution.congress.gov/) against all enemies, foreign and domestic. What threat to our [Constitution](https://constitution.congress.gov/) is greater than the demolition of impartial elections?
 
 > **The [FBI](https://www.fbi.gov/) raid in [Fulton County](https://fultoncountyga.gov/) is only a preview of what might come if [Trump](https://www.donaldjtrump.com/) remains unchecked.**
 
 The [FBI](https://www.fbi.gov/) raid in [Fulton County](https://fultoncountyga.gov/) is only a preview of what might come if [Trump](https://www.donaldjtrump.com/) remains unchecked. There is still time for [Republican](https://www.donaldjtrump.com/)s in the U.S. [House](https://www.house.gov/) and [Senate](https:://www.senate.gov/) to do their duty and protect free and fair elections for future generations of Americans — but it is running short.
 
-As a voter protection lawyer who worked on the two largest recounts in American history, I know that state processes to count ballots are thorough, secure and accurate. I also know that staying silent while the [Trump](https://www.donaldjtrump.com/) [administration](https://www.whitehouse.gov/) takes matters, and ballots, into its own hands would irreparably harm our democracy.  
+As a voter protection lawyer who worked on the two largest recounts in American history, I know that state processes to count ballots are thorough, secure and accurate. I also know that staying silent while the [Trump](https://www.donaldjtrump.com/) [administration](https://www.whitehouse.gov/) takes matters, and ballots, into its own hands would irreparably harm our democracy.
 
 “[It’s meant to sow fear](https://www.democracydocket.com/news-alerts/fulton-co-democrats-allege-fbi-lacked-authority-for-election-center-raid/),” [Fulton County](https://fultoncountyga.gov/) [Commissioner Mo Ivory](https://fultoncountyga.gov/commissioners/mo-ivory) said in the wake of the [FBI](https://www.fbi.gov/) search. “People who normally would stand up to exercise0 their free and fair right to vote get afraid to do that. And that’s exactly what [\[Trump](https://www.donaldjtrump.com/)] hopes will happen.”
 
-She’s right. And we can’t let fear win. 
+She’s right. And we can’t let fear win.
 
 [Jacquelyn Lopez](https://elias.law/bio/jacquelyn-lopez/) is a partner at [Elias Law Group](https://elias.law/) and served as voter protection counsel for the [Biden](https://bidenwhitehouse.archives.gov/)-Harris campaign during the 2020 [Georgia](https://www.georgia.gov/) recount. She also helped lead the 2018 Florida recount team for Sen. Bill Nelson.
 

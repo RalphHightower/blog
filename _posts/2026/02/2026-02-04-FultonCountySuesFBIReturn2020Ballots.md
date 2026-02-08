@@ -24,7 +24,7 @@ By [Ebony Davis](https://www.ms.now/author/ebony-davis)
 
 The motion, filed in [U.S. District Court](https://www.uscourts.gov/) for the [Northern District of Georgia](https://www.gand.uscourts.gov/), challenges the [FBI](https://www.fbi.gov/)’s removal of thousands of original ballots, voter rolls and other election records from the county’s [Election Hub and Operation Center](https://www.fultoncountyga.gov/inside-fulton-county/fulton-county-departments/registration-and-elections/elections-contacts) near [Atlanta](https://www.atlaantaga.gov/).  The court filing also seeks to unseal the affidavit that was filed by the [Trump](https://www.donaldjtrump.com/) [administration](https://www.whitehouse.gov/administration/) to get approval for the unannounced search.
 
-[FBI](https://www.fbi.gov/) agents [executed](https://www.ms.now/news/fbi-searching-elections-office-in-fulton-county-georgia) a search warrant on Jan. 28, seizing about 700 boxes of documents tied to the [November 2020 general election](https://www.fec.gov/resources/cms-content/documents/federalelections2020.pdf). [Fulton County](https://fultoncountyga.gov/) officials argue that the federal government exceeded its authority and violated legal protections for election materials. 
+[FBI](https://www.fbi.gov/) agents [executed](https://www.ms.now/news/fbi-searching-elections-office-in-fulton-county-georgia) a search warrant on Jan. 28, seizing about 700 boxes of documents tied to the [November 2020 general election](https://www.fec.gov/resources/cms-content/documents/federalelections2020.pdf). [Fulton County](https://fultoncountyga.gov/) officials argue that the federal government exceeded its authority and violated legal protections for election materials.
 
 [Fulton County](https://fultoncountyga.gov/) [Chairman Robb Pitts](https://fultoncountyga.gov/Commissioners/Robb-Pitts) said during a press conference on Wednesday that the legal battle is in its early stage and that he is unable to go into further details. The county is not publicly releasing the motion because it is still under seal. He emphasized that [Fulton County](https://fultoncountyga.gov/) is “focused right now on delivering free and fair elections in 2026 in compliance with the law,” adding, “we must do this without interference or threats of a federal takeover.”
 
@@ -114,4 +114,4 @@ On Monday [Trump](https://www.donaldjtrump.com/) called on the [GOP](https://www
 - criminal businesses
 - criminal media
 - criminal organizations
-- criminal partners 
+- criminal partners
