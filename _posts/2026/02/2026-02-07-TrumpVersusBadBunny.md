@@ -7,7 +7,7 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: "SuperBowl LIX: Trump Versus Bsd Bunny"
+title: "SuperBowl LIX: Trump Versus Bad Bunny"
 ---
 
 
