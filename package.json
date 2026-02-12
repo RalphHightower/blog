@@ -42,7 +42,7 @@
     "markdownlint-cli2": "^0.20.0"
   },
   "dependencies": {
-    "npm": "^11.9.0"
+    "npm": "^11.10.0"
   },
   "packageManager": "npm@11.8.0"
 }
