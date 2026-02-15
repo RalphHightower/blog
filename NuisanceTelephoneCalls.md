@@ -20,6 +20,11 @@ The telephone numbers below have called and there is an empty person on the othe
 
 | Telephone Number | Location | Date Time[^11]<sup>,</sup>[^12] | Caller | Social Media |
 |---|---|---|---|---|
+| [\+1 (803) 492-3098](tel:+18034923098) | SC. Eutawville | 2026-02-13 04:31 PM | Sumpter Louisa (ALBERT MANCHA) | |
+| [\+1 (803) 520-7657](tel:+18035207657) | SC. Lexington | 2026-02-13 12:50 PM | Regina Blanc (GLORIA E THOMPSON) | |
+| [\+1 (803) 755-8003](tel:+18037558003) | SC. West Columbia | 2026-02-10 03:01 PM | BLACK ANDREA | |
+| [\+1 (803) 395-3452](tel:+18033953452) | SC. Orangeburg | 2026-02-10 12:58 PM | Regional Medical Center | |
+| [\+1 (803) 499-7856](tel:+18034997856) | SC. Dalzel | 2026-02-09 05:58 PM | Peggy Blackwell | |
 | [\+1 (803) 764-3793](tel:+18037643793) | SC. Columbia | 2026-02-05 06:26 PM | FRANNETTE L BRADLEY | |
 | [\+1 (803) 913-6545](tel:+18039136545) | SC. Hampton | 2026-02-05 05:41 P | — | |
 | [\+1 (803) 610-1075](tel:+18036101075) | SC. Clover | 2026-02-04 05:39 PM | — | |
