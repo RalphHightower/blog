@@ -150,7 +150,7 @@ Class II.
 | Office Locations |
 |---|
 | **Washington D.C. Office** |
-| 211 Russell Senate Office Building <br /> 2 Constitution Ave NE <br /> Washington, DC 20510 <br /> Office: [\+1 (202) 224-5972](tel:+12022245972) <br /> Fax: [\+1 (202) 224-3808](tel:+12022243808) |
+| 211 Russell Senate Office Building <br /> 2 Constitution Ave NE <br /> Washington, DC 20510 <br /> Office: [\+1 (202) 224-5972](tel:+12022245972), <br /> Fax: [\+1 (202) 224-3808](tel:+12022243808) |
 | **Midlands Office** |
 | 2142 Boyce Street, Suite 404 <br /> Columbia, SC 29201 <br /> [\+1 (803) 933-0112](tel:+18039330112) office <br /> [\+1 (803) 933-0957](tel:+18039330957) fax |
 | **Upstate Office** |
@@ -224,6 +224,8 @@ Yes, my assessment has racial overtones, but [Scott](https://www.scott.senate.go
 
 ##### My Dumb State: South Carolina
 
+- 2026-02-15; [My Dumb State: South Carolina Attorney General Attacks ‘Woke’ Cars, Trucks]({% link _posts/2026/02/2026-02-15-SCAGAlanWilsonAttacksWokeCars.md %})
+- 2026-02-14: [My Dumb State: South Carolina Attorney General Alan Wilson Wants to Make Measles Great Again]({% link _posts/2026/02/2026-02-14-MakeMeaslesGreatAgain.md %})
 - 2025-11-20: [My Dumb State: South Carolina We've Been Down This Path Before. There Is No State Sponsored Religion. Ten Commandments Redux]({% link _posts/2025/11/2025-11-20-SCAGWilsonTenCommandments.md %})
 - 2025-11-19: [My Dumb State: South Carolina Attorney General Alan Wilson Supports National Guard 'Kabul Style' Raids In Chicago! 🚨]({% link _posts/2025/11/2025-11-19-SCAGWilsonSupportsKabulStyleRaidsChicago.md %})
 - 2025-11-18: [My Dumb State: South Carolina Attorney General Alan Wilson Wants To Convict Federal Reserve Governor, Lisa Cook, Without a Trial]({% link _posts/2025/11/2025-11-18-SCAGWilsonFireFedReserveLisaCook.md %})
@@ -251,7 +253,6 @@ Yes, my assessment has racial overtones, but [Scott](https://www.scott.senate.go
 | The Honorable Alan Wilson <br /> P.O. Box 11549 <br /> Columbia, S.C. 29211 |
 | **Office Location** |
 | Rembert Dennis Building <br /> 1000 Assembly Street, Room 519 <br /> Columbia, S.C. 29201 <br /> General Information: [\+1 (803) 734-3970](tel:+18037343970) <br /> Constituent Services: [\+1 (803) 737-3953](tel:+18037373953) |
-| **Office Location** |
 
 #### Attorneys General
 
