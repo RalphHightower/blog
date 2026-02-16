@@ -26,13 +26,6 @@ There is no religion that is against vaccines, unless one is a [Patsafarian](htt
 [^111]: [Home - Church of the Flying Spaghetti Monster](https://www.spaghettimonster.org/)
 [^131]: Johovah Witnesses do have a prohibition against blood transfusions.
 
-| Locations |
-|---|
-| **Mailing Address** |
-| The Honorable Alan Wilson <br /> P.O. Box 11549 <br /> Columbia, S.C. 29211 |
-| **Office Location** |
-| Rembert Dennis Building <br /> 1000 Assembly Street, Room 519 <br /> Columbia, S.C. 29201 <br /> General Information: [\1 (803) 734-3970](tel:18037343970) <br /> Constituent Services: [\1 (803) 737-3953](tel:18037373953) |
-
 ## Merriam-Webster WOTD – Dumbassedness 
 
 dumbassedness
@@ -68,6 +61,13 @@ FEB 06, 2026
 (COLUMBIA, S.C.) –South Carolina Attorney General Alan Wilson made the following statement condemning [S.897](https://www.scstatehouse.gov/sess126_2025-2026/bills/897.htm), a bill that would remove the religious exemption for the MMR vaccine for children attending public schools.
 
 “This bill goes too far. Since 2020, we've seen a concerted push to curtail personal liberty in the name of health and safety. Eliminating religious exemptions and mandating medical decisions by force is not who we are as a state or country. The right to be free from compelled bodily intrusion is at the heart of the American experiment. Government should not substitute its judgment for parents, families, or individual conscience. Encouragement is not coercion. Personal freedom and parental rights must come first. As Attorney General, I will always stand for liberty, families, and the Constitution.”
+
+| Locations |
+|---|
+| **Mailing Address** |
+| The Honorable Alan Wilson <br /> P.O. Box 11549 <br /> Columbia, S.C. 29211 |
+| **Office Location** |
+| Rembert Dennis Building <br /> 1000 Assembly Street, Room 519 <br /> Columbia, S.C. 29201 <br /> General Information: [\+1 (803) 734-3970](tel:18037343970) <br /> Constituent Services: [\+1 (803) 737-3953](tel:18037373953) |
 
 ## [2025-2026 Bill 897: Measels Vaccine Required to Attend Public School - South Carolina Legislature Online](https://www.scstatehouse.gov/sess126_2025-2026/bills/897.htm)
 
