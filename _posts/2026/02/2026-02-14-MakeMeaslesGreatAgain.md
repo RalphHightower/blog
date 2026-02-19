@@ -10,6 +10,8 @@ excerpt: ''
 title: "My Dumb State: South Carolina Attorney General Alan Wilson Wants to Make Measles Great Again"
 ---
 
+“(Misspelling appears in the original bill text.)”
+
 [South Carolina](https://www.sc.gov/) [Attorney General](https://www.scag.gov/) [Alan Wilson](https://www.scag.gov/about-the-office/meet-the-attorney-general/) has an extremely severe case of dumbassedness. He wants to remove ftom proposed legislation, the mandatory requirement of the MMR (measles, mumps, rubella) vaccine, claiming religious exemption.
 
 Not vaccinating against measles is a purely selfish decision. It potentially harms im​mu​no​com​pro​mised individuals, cancer patients. Achieving herd immunity prevents diseases from spreading like wildfire.
@@ -19,14 +21,14 @@ Not vaccinating against measles is a purely selfish decision. It potentially har
 
 There is no religion that is against vaccines, unless one is a [Patsafarian](https://www.spaghettimonster.org/)[^111]:
 
-- Amish 
+- Amish
 - Mennonites
 - Jehovah Witnesses[^131]
 
 [^111]: [Home - Church of the Flying Spaghetti Monster](https://www.spaghettimonster.org/)
 [^131]: Johovah Witnesses do have a prohibition against blood transfusions.
 
-## Merriam-Webster WOTD – Dumbassedness 
+## Merriam-Webster WOTD – Dumbassedness
 
 dumbassedness
 noun
@@ -202,7 +204,7 @@ This web page was last updated on February 5, 2026 at 11:36 AM
         - [South Carolina Legislature Online - Senate](https://www.scstatehouse.gov/senate.php)
             - [Senator Margie Bright Matthews –South Carolina Legislature Online](https://www.scstatehouse.gov/member.php?code=0194318159)
     - [2025-2026 Bill 897: Measels Vaccine Required to Attend Public School - South Carolina Legislature Online](https://www.scstatehouse.gov/sess126_2025-2026/bills/897.htm)
-- federal government 
+- federal government
 - [Centers for Disease Control and Prevention](https://www.cdc.gov/)
     - [Measles (Rubeola) / Measles (Rubeola) / CDC](https://www.cdc.gov/measles/index.html)
 [Centers for Disease Control and Prevention](https://www.cdc.gov/)
