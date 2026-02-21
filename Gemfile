@@ -55,7 +55,7 @@ gem 'sqlite3', '~> 1.4', '>= 1.4.4'
 # gem 'zeitwerk', '~> 2.7', '>= 2.7.1'
 # } 2025-01-11 @RalphHightower 
 
-# { 2025-07-22 @RalphHightower
-gem 'nokogiri', '~> 1.18', '>= 1.18.9'
-# } 2025-07-22 @RalphHightower
+# { 2026-02-21 @RalphHightower – Nokogiri does not check the return value from xmlC14NExecute
+gem 'nokogiri', '~> 1.19', '>= 1.19.1'
+# } 2026-02-21 @RalphHightower
 end
