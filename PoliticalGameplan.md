@@ -224,7 +224,8 @@ Yes, my assessment has racial overtones, but [Scott](https://www.scott.senate.go
 
 ##### My Dumb State: South Carolina
 
-- 2026-02-15; [My Dumb State: South Carolina Attorney General Attacks ‘Woke’ Cars, Trucks]({% link _posts/2026/02/2026-02-15-SCAGAlanWilsonAttacksWokeCars.md %})
+- 2026-02-21: [My Dumb State: South Carolina Attorney General Alan Wilson Supports Trump Firing Federal Reserve Governor Without Merit Via Tweet]({% link _posts/2026/02/2026-02-21-SCAGSupportsFiringWOMerit.md %})
+- 2026-02-15: [My Dumb State: South Carolina Attorney General Attacks ‘Woke’ Cars, Trucks]({% link _posts/2026/02/2026-02-15-SCAGAlanWilsonAttacksWokeCars.md %})
 - 2026-02-14: [My Dumb State: South Carolina Attorney General Alan Wilson Wants to Make Measles Great Again]({% link _posts/2026/02/2026-02-14-MakeMeaslesGreatAgain.md %})
 - 2025-11-20: [My Dumb State: South Carolina We've Been Down This Path Before. There Is No State Sponsored Religion. Ten Commandments Redux]({% link _posts/2025/11/2025-11-20-SCAGWilsonTenCommandments.md %})
 - 2025-11-19: [My Dumb State: South Carolina Attorney General Alan Wilson Supports National Guard 'Kabul Style' Raids In Chicago! 🚨]({% link _posts/2025/11/2025-11-19-SCAGWilsonSupportsKabulStyleRaidsChicago.md %})
