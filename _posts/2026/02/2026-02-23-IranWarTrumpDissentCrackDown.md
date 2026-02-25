@@ -7,7 +7,7 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: "Trump Will Crack Down On Dissenters of Iran War"
+title: "Iran War? Goodbye First Amendment! Trump Will Crack Down On Protesters"
 ---
 
 War with [Iran](https://irangov.ir/) will be a [La Brea Tar Pit](https://tarpits.org/).
