@@ -27,21 +27,21 @@ By [Carol Leonnig](https://www.ms.now/author/carol-leonnig) and [Ken Dilanian](h
 
 [Patel](https://www.fbi.gov/about/leadership-and-structure/director-patel), an avid hockey player and fan, will be at the [Olympic festivities](https://www.olympics.com/en/milano-cortina-2026) and plans to attend the [bronze medal](https://www.olympics.com/en/milano-cortina-2026/results/iho/m/team6-------------/fnl-/000200--/team-playbyplay) competition in men’s ice hockey on Saturday and the competition for the [gold medal](https://www.olympics.com/en/milano-cortina-2026/results/iho/m/team6-------------/fnl-/000100--/team-playbyplay) on Sunday, the people said.
 
-An [FBI](https://www.fbi.gov/) official confirmed [Patel](https://www.fbi.gov/about/leadership-and-structure/director-patel)’s travel plans, but said he has several official government purposes for attending, including a meeting with an ambassador, briefings on [Olympics](https://www.olympics.com/en/milano-cortina-2026) security and other government meetings.  
+An [FBI](https://www.fbi.gov/) official confirmed [Patel](https://www.fbi.gov/about/leadership-and-structure/director-patel)’s travel plans, but said he has several official government purposes for attending, including a meeting with an ambassador, briefings on [Olympics](https://www.olympics.com/en/milano-cortina-2026) security and other government meetings.
 
 [Patel](https://www.fbi.gov/about/leadership-and-structure/director-patel)’s travel to [Italy](https://www.governo.it/) was reported Thursday afternoon by [CBS](https://www.cbsnews.com/).
 
-Government accounts estimate it costs U.S. taxpayers at least \$5,000 per flight hour for the [FBI](https://www.fbi.gov/) [Gulfstream](https://www.gulfstream.com/en/aircraft/gulfstream-g500/) to fly, meaning [Patel](https://www.fbi.gov/about/leadership-and-structure/director-patel)’s trip to [Milan](https://www.comune.milano.it/) is likely to cost as much as \$75,000. 
+Government accounts estimate it costs U.S. taxpayers at least \$5,000 per flight hour for the [FBI](https://www.fbi.gov/) [Gulfstream](https://www.gulfstream.com/en/aircraft/gulfstream-g500/) to fly, meaning [Patel](https://www.fbi.gov/about/leadership-and-structure/director-patel)’s trip to [Milan](https://www.comune.milano.it/) is likely to cost as much as \$75,000.
 
-[FBI](https://www.fbi.gov/) spokesperson Ben Williamson [tweeted late Thursday](https://x.com/_WilliamsonBen/status/2024605212858630465) that [Patel](https://www.fbi.gov/about/leadership-and-structure/director-patel)’s trip was not personal and he was invited months ago.
+[FBI](https://www.fbi.gov/) spokesperson [Ben Williamson](https://www.linkedin.com/in/ben-williamson-b6926580/) [tweeted late Thursday](https://x.com/_WilliamsonBen/status/2024605212858630465) that [Patel](https://www.fbi.gov/about/leadership-and-structure/director-patel)’s trip was not personal and he was invited months ago.
 
-“The [FBI](https://www.fbi.gov/) also has a major role in [Olympic](https://www.olympics.com/en/milano-cortina-2026) security – as we do with the World Cup, F1, and more – so we have a U.S. consulate briefing on [Olympic](https://www.olympics.com/en/milano-cortina-2026) security and current [FBI](https://www.fbi.gov/) posture, as well as thanking [FBI](https://www.fbi.gov/) personnel on the ground,” Williamson wrote.
+“The [FBI](https://www.fbi.gov/) also has a major role in [Olympic](https://www.olympics.com/en/milano-cortina-2026) security – as we do with the World Cup, F1, and more – so we have a U.S. consulate briefing on [Olympic](https://www.olympics.com/en/milano-cortina-2026) security and current [FBI](https://www.fbi.gov/) posture, as well as thanking [FBI](https://www.fbi.gov/) personnel on the ground,” [Williamson](https://www.linkedin.com/in/ben-williamson-b6926580/) wrote.
 
-As director, [Patel](https://www.fbi.gov/about/leadership-and-structure/director-patel) is required to fly on the [FBI](https://www.fbi.gov/) jet for his travel in order to ensure he’s able to quickly return to Washington in an emergency, or be available for secure communications during a crisis involving a mass casualty event or national security threat. He is also required to reimburse the taxpayers for personal travel up to the cost of a commercial flight.
+As director, [Patel](https://www.fbi.gov/about/leadership-and-structure/director-patel) is required to fly on the [FBI](https://www.fbi.gov/) jet for his travel in order to ensure he’s able to quickly return to [Washington](https://dc.gov/) in an emergency, or be available for secure communications during a crisis involving a mass casualty event or national security threat. He is also required to reimburse the taxpayers for personal travel up to the cost of a commercial flight.
 
-The [FBI](https://www.fbi.gov/) official said [Patel](https://www.fbi.gov/about/leadership-and-structure/director-patel) would reimburse the government for any portion of his travel that may be personal, but emphasized he is going to Italy for government business.  
+The [FBI](https://www.fbi.gov/) official said [Patel](https://www.fbi.gov/about/leadership-and-structure/director-patel) would reimburse the government for any portion of his travel that may be personal, but emphasized he is going to [Italy](https://www.governo.it/) for government business.
 
-The last known instance of an [FBI](https://www.fbi.gov/) director traveling to an [Olympics](https://www.olympics.com/) setting was in November 2003, when then-Director [Robert Mueller went to Greece](https://www.foxnews.com/story/fbi-director-to-review-greek-security-for-olympics) for a two-day visit. But [Mueller](https://www.fbi.gov/history/directors/robert-s-mueller-iii) made his trip eight months before the [Olympic](https://www.olympics.com/en/milano-cortina-2026) events to review security preparations for the upcoming Summer [Olympics](https://www.olympics.com/en/milano-cortina-2026) there. 
+The last known instance of an [FBI](https://www.fbi.gov/) director traveling to an [Olympics](https://www.olympics.com/) setting was in November 2003, when then-Director [Robert Mueller went to Greece](https://www.foxnews.com/story/fbi-director-to-review-greek-security-for-olympics) for a two-day visit. But [Mueller](https://www.fbi.gov/history/directors/robert-s-mueller-iii) made his trip eight months before the [Olympic](https://www.olympics.com/en/milano-cortina-2026) events to review security preparations for the upcoming Summer [Olympics](https://www.olympics.com/en/milano-cortina-2026) there.
 
 [Carol Leonnig](https://www.ms.now/author/carol-leonnig) is a senior investigative reporter with [MS NOW](https://www.ms.now/).
 
@@ -65,8 +65,8 @@ The last known instance of an [FBI](https://www.fbi.gov/) director traveling to 
 - [Gulfstream Aerospace](https://www.gulfstream.com/en/)
     - [G500 - Gulfstream Aerospace](https://www.gulfstream.com/en/aircraft/gulfstream-g500/)
 - foreign governments
-- [The Government / www.governo.it](https://www.governo.it/en/government)
-    - [Milan](https://www.comune.milano.it/)
+- [The Government / www.governo.it](https://www.governo.it/)
+       - [Milan](https://www.comune.milano.it/)
 - federal government
 - [Constitution of the United States](https://constitution.congress.gov/constitution/)
     - [Supreme Court of the United States (SCOTUS)](https://www.supremecourt.gov/)
@@ -91,6 +91,7 @@ The last known instance of an [FBI](https://www.fbi.gov/) director traveling to 
                     - [Todd Blanche – Office of the Deputy Attorney General / Office of the Deputy Attorney General](https://www.justice.gov/dag)
                     - [Todd Blanche / LinkedIn](https://www.linkedin.com/in/toddblanche/)
                 - [Director Kash Patel — FBI](https://www.fbi.gov/about/leadership-and-structure/director-patel)
+                    - [Ben Williamson](https://www.linkedin.com/in/ben-williamson-b6926580/)
 {% if tags contains "weaponization" or categories contains "weaponization" %}
   {% include TrumpWeaponization.html %}
 {% endif %}
