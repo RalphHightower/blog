@@ -7,7 +7,7 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: "FBI Whistleblower Allegations of Parel's Jet-Setting Lifestyle Challenges Congressional Trumpers"
+title: "FBI Whistleblower Allegations of Patel's Jet-Setting Lifestyle Challenges Congressional Trumpers"
 ---
 
 ## [FBI whistleblower allegations against Patel create a test for congressional Republicans](https://www.ms.now/rachel-maddow-show/maddowblog/fbi-whistleblower-allegations-against-patel-create-a-test-for-congressional-republicans)
