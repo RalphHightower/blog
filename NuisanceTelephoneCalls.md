@@ -20,12 +20,19 @@ The telephone numbers below have called and there is an empty person on the othe
 
 | Telephone Number | Location | Date Time[^11]<sup>,</sup>[^12] | Caller | Social Media |
 |---|---|---|---|---|
+| [\+1 (803) 570-5086](tel:+18035705086) | SC. Orangeburg | 2026-02-27 04:46 PM | — | |
+| [\+1 (803) 563-6984](tel:+18035636984) | SC. Columbia | 2026-02-27 04:17 PM | — | |
+| [\+1 (855) 451-4630](tel:+18554514630) | Toll Free | 2026-02-27 11:25 AM ¤¤🚫 | (Callback) #TaxFraud | |
+| [\+1 (866) 770-0365](tel:+18667700365) | Toll Free | 2026-02-27 11:25 AM ¤¤🚫 | (Originating) #TaxFraud | |
+| [\+1 (803) 771-0923](tel:+18037710923) | SC. Columbia | 2026-02-26 11:39 AM | Robo Caller | |
+| [\+1 (803) 754-0530](tel:+18037540530) | SC. Columbia | 2026-02-25 02:49 PM | ANDRENA J | |
+| [\+1 (864) 786-7947](tel:+18647867947) | SC. Williamston | 2026-02-25 12:19 PM | — | |
 | [\+1 (803) 408-2864](tel:+18034082864) | SC. Elgin | 2026-02-24 12:16 PM | Smith Jeffrey (JEFFERY S SMITH) | |
 | [\+1 (833) 669-4471](tel:+18336694471) | Toll Free | 2026-02-24 12:04 PM ¤¤🚫 | #TaxFraud (Callback) | |
 | [\+1 (888) 741-1336](tel:+18887411336) | Toll Free | 2026-02-24 12:04 PM ¤¤🚫 | #TaxFraud (Originating) | |
 | [\+1 (855) 821-3285](tel:+18558213285) | Toll Free | 2026-02-24 11:47 AM ¤¤🚫 | #TaxFraud (Callback) | |
 | [\+1 (888) 352-0551](tel:+18883520551) | Toll Free | 2026-02-24 11:47 AM ¤¤🚫 | #TaxFraud (Originating) | |
-| [\+1 (803) 286-0756](tel:+18032860756) | SC. Lancaster | 2026-02-24 11:26 AM | | |
+| [\+1 (803) 286-0756](tel:+18032860756) | SC. Lancaster | 2026-02-24 11:26 AM | — | |
 | [\+1 (803) 328-0425](tel:+18033280425) | SC. Rock Hill | 2026-02-23 04:28 PM | Lloyd Snipes (LLOYD A SNIPES) | |
 | [\+1 (803) 779-2198](tel:+18037792198) | SC. Columbia | 2026-02-20 12:22 PM ¤¤🚫 | CROOKS ROBERT | |
 | [\+1 (803) 559-5230](tel:+18035595230) | SC. Wagner | 2026-02-19 03:06 PM | DAVID WAYNE KING | |
@@ -34,12 +41,12 @@ The telephone numbers below have called and there is an empty person on the othe
 | [\+1 (803) 732-3214](tel:+18037323214) | SC. Columbia | 2026-02-18 01:42 PM ¤¤🚫 | ROBINSON E | |
 | [\+1 (803) 324-2764](tel:+18033242764) | SC. Rock Hill | 2026-02-18 11:59 AM | ROBERT ROETHER (ROBERT C ROETHER) | |
 | [\+1 (803) 469-2999](tel:+18034692999) | SC. Sumter | 2026-02-17 02:38 PM | Lillie White (WHITE LILLIE) | |
-| [\+1 (803) 492-3098](tel:+18034923098) | SC. Eutawville | 2026-02-13 04:31 PM | Sumpter Louisa (ALBERT MANCHA) |
-| [\+1 (803) 520-7657](tel:+18035207657) | SC. Lexington | 2026-02-13 12:50 PM | Regina Blanc (GLORIA E THOMPSON) |
-| [\+1 (803) 755-8003](tel:+18037558003) | SC. West COLUMBIA | 2026-02-10 03:01 PM | BLACK ANDREA |
-| [\+1 (803) 395-3452](tel:+18033953452) | SC. Orangeburg | 2026-02-10 12:58 PM | Regional Medical Center |
-| [\+1 (803) 499-7856](tel:+18034997856) | SC. Dalzel | 2026-02-09 05:58 PM | Peggy Blackwell |
-| [\+1 (803) 764-3793](tel:+18037643793) | SC. Columbia | 2026-02-05 06:26 PM | FRANNETTE L BRADLEY |
+| [\+1 (803) 492-3098](tel:+18034923098) | SC. Eutawville | 2026-02-13 04:31 PM | Sumpter Louisa (ALBERT MANCHA) | |
+| [\+1 (803) 520-7657](tel:+18035207657) | SC. Lexington | 2026-02-13 12:50 PM | Regina Blanc (GLORIA E THOMPSON) | |
+| [\+1 (803) 755-8003](tel:+18037558003) | SC. West COLUMBIA | 2026-02-10 03:01 PM | BLACK ANDREA | |
+| [\+1 (803) 395-3452](tel:+18033953452) | SC. Orangeburg | 2026-02-10 12:58 PM | Regional Medical Center | |
+| [\+1 (803) 499-7856](tel:+18034997856) | SC. Dalzel | 2026-02-09 05:58 PM | Peggy Blackwell | |
+| [\+1 (803) 764-3793](tel:+18037643793) | SC. Columbia | 2026-02-05 06:26 PM | FRANNETTE L BRADLEY | |
 | [\+1 (803) 913-6545](tel:+18039136545) | SC. Hampton | 2026-02-05 05:41 PM | — | |
 | [\+1 (803) 610-1075](tel:+18036101075) | SC. Clover | 2026-02-04 05:39 PM | — | |
 | [\+1 (803) 756-3824](tel:+18037563824) | SC. Columbia | 2026-02-04 03:49 PM ¤¤ | BUZZ LEWIS | |
@@ -163,10 +170,10 @@ The telephone numbers below have called and there is an empty person on the othe
 | [\+1 (803) 443-7385](tel:+18034437385) | SC. New Ellington | 2025-11-24 10:44 AM | — | |
 | [\+1 (803) 988-7923](tel:+18039887923) | SC. Columbia | 2025-11-24 09:16 AM | — | |
 | [\+1 (803) 692-1808](tel:+18036921808) | SC. Bishopville | 2025-11-24 09:12 AM | KEYONA R WARREN | |
-| [\+1 (803) 658-4737](tel:+18036584737) | SC. Hickory Grove | 2025-11-22 4:24 PM | Edward Bryant | — | |
+| [\+1 (803) 658-4737](tel:+18036584737) | SC. Hickory Grove | 2025-11-22 4:24 PM | Edward Bryant |  |
 | [\+1 (803) 275-2718](tel:+18032752718) | SC. Johnston | 2025-11-22 03:18 PM | — | |
 | [\+1 (803) 283-4371](tel:+18032834371) | SC. Lancaster | 2025-11-22 01:10 PM | Catrina Bradley (JAMES A BRADLEY) | |
-| [\+1 (803) 705-2673](tel:+18037052673) | SC. Columbia | 2025-11-22 11:31 AM | | — | |
+| [\+1 (803) 705-2673](tel:+18037052673) | SC. Columbia | 2025-11-22 11:31 AM | — | |
 | [\+1 (803) 442-4294](tel:+18034424294) | SC. North Augusta | 2025-11-21 07:47 PM | VICTORIA RAY | |
 | [\+1 (803) 855-0926](tel:+18038550926) | SC. Orangeburg | 2025-11-21 06:46 PM | — | |
 | [\+1 (803) 663-0194](tel:+18036630194) | SC. Graniteville | 2025-11-21 05:33 PM | — | |
@@ -174,10 +181,10 @@ The telephone numbers below have called and there is an empty person on the othe
 | [\+1 (803) 630-3567](tel:+18036303567) | SC. Clover | 2025-11-21 10:53 AM ¤¤🚫 | — | |
 | [\+1 (803) 580-2516](tel:+18035802516) | SC. Batesburg | 2025-11-20 08:34 PM | — | |
 | [\+1 (803) 973-6020](tel:+18039736020) | SC. Columbia | 2025-11-20 06:57 PM ¤¤🚫 | ED BANKS INSURA | |
-| [\+1 (803) 638-5831](tel:+18036385831) | SC. Columbia | 2025-11-20 12:24 PM | | |
-| [\+1 (803) 932-2807](tel:+18039322807) | SC. Little Mountain | 2025-11-20 12:07 PM | | |
+| [\+1 (803) 638-5831](tel:+18036385831) | SC. Columbia | 2025-11-20 12:24 PM | — | |
+| [\+1 (803) 932-2807](tel:+18039322807) | SC. Little Mountain | 2025-11-20 12:07 PM | — | |
 | [\+1 (803) 997-6312](tel:+18039976312) | SC. Orangeburg | 2025-11-20 12:07 PM | Lee Enterprises | |
-| [\+1 (803) 932-2807](tel:+18039322807) | SC. Little Mountain | 2025-11-20 12:06 PM | | |
+| [\+1 (803) 932-2807](tel:+18039322807) | SC. Little Mountain | 2025-11-20 12:06 PM | — | |
 | [\+1 (803) 618-7583](tel:+18036187583) | SC. Johnston | 2025-11-19 08:57 PM | — | |
 | [\+1 (803) 851-8287](tel:+18038518287) | SC. Columbia | 2025-11-19 03:28 PM | — | |
 | [\+1 (803) 868-1059](tel:+18038681059) | SC. Barnwell | 2025-11-19 12:22 PM | — | |
@@ -229,7 +236,7 @@ The telephone numbers below have called and there is an empty person on the othe
 | [\+1 (803) 980-0566](tel:+18039800566) | SC. Rock Hill | 2025-11-11 10:29 AM | ALAN J GROSS | |
 | [\+1 (803) 610-0485](tel:+18036100485) | SC. Clover | 2025-11-11 09:56 AM | Lacey E | |
 | [\+1 (803) 666-6237](tel:+18036666237) | SC. Dalzell | 2025-11-10 05:48 PM | — | |
-| [\+1 (803) 703-9418](tel:+18037039418) | SC. Denmark | 2025-11-10 05:41 PM | | |
+| [\+1 (803) 703-9418](tel:+18037039418) | SC. Denmark | 2025-11-10 05:41 PM | — | |
 | [\+1 (803) 757-7575](tel:+18037577575) | SC. Sumter | 2025-11-10 05:29 PM | JASON KANG | |
 | [\+1 (803) 228-4397](tel:+18032284397) | SC. Fort Mill | 2025-11-10 02:58 PM | SHEBA S JOHNSON | |
 | [\+1 (803) 349-9347](tel:+18033499347) | SC. Beech Island | 2025-11-10 02:47 PM | — | |
@@ -284,7 +291,7 @@ The telephone numbers below have called and there is an empty person on the othe
 | [\+1 (803) 806-1073](tel:+18038061073) | SC. Columbia | 2025-10-28 01:56 PM | — | |
 | [\+1 (803) 981-9366](tel:+18039819366) | SC. Rock Hill | 2025-10-28 01:29 PM | Gail Davis | |
 | [\+1 (803) 886-9895](tel:+18038869895) | SC. Salley | 2025-10-28 01:20 PM | — | |
-| [\+1 (803) 377-8667](tel:+18033778667) | SC. Chester | 2025-10-28 01:08 PM | BILLY MCCAMERON |
+| [\+1 (803) 377-8667](tel:+18033778667) | SC. Chester | 2025-10-28 01:08 PM | BILLY MCCAMERON | |
 | [\+1 (803) 883-4989](tel:+18038834989) | SC. Sumter | 2025-10-28 10:24 AM | Diana Lane | |
 | [\+1 (803) 251-0072](tel:+18032510072) | SC. Columbia | 2025-10-27 01:38 PM | — | |
 | [\+1 (803) 390-0375](tel:+18033900375) | SC. Sumter | 2025-10-27 12:51 PM | JUDI S POTOFF | |
