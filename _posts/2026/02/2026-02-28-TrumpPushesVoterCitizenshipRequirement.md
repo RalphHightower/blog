@@ -7,7 +7,7 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: "Trump Quixotic Quest To Require Proof of Citizenship For Federal Elections"
+title: "Trump's Quixotic Quest To Require Proof of Citizenship For Federal Elections"
 ---
 
 ## [Trump moves to rewrite election rules unilaterally](https://www.ms.now/news/trump-moves-to-rewrite-election-rules-unilaterally)
