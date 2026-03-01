@@ -18,6 +18,12 @@ _I’m a pediatrician — and a [measles](https://www.cdc.gov/measles/index.htm)
 Feb. 15, 2026, 6:00 AM EST
 By [Annie Andrews](https://www.ms.now/author/annie-andrews)
 
+### Annie Andrews Launch Video: "Unafraid"
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/J8wMNLaSNW4?si=VX0vj3y_yKO8Ojvx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+May 29, 2025
+
 I’ve been a pediatrician for 20 years. When I learned how to take a pediatric patient’s history, I was taught to ask parents: “Are your child’s immunizations up to date?” At the beginning of my career I’d already be writing down the answer “yes,” without hesitation or uncertainty. Now when I ask that question, I brace myself.
 
 Right now, a [measles](https://www.cdc.gov/measles/index.htm) outbreak is surging in my home state of [South Carolina](https://www.sc.gov/), where there are [already more than 900 confirmed cases](https://dph.sc.gov/diseases-conditions/infectious-diseases/measles-rubeola/2025-measles-outbreak), most of them unvaccinated children, with hundreds in quarantine and more exposures being reported daily.
