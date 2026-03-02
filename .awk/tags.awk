@@ -3,14 +3,14 @@ BEGIN {
     printf("tags: [")
     }
 {
-    gsub(":", " – ")
+    gsub(":", "– ")
     gsub(",", "")
     gsub("?", "")
     gsub(" #", " ")
     if (substr($0, 1, 2) == "- ")
         $0 = substr($0, 2)
     if (length($0) > 0)
-        printf("%s%s", (NR > 1 ? ", " : ""), $0)
+        printf("%s%s", (NR > 1 ? "," : ""), $0)
     }
 END {
     printf("]\n")
