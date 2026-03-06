@@ -66,7 +66,6 @@ Happy 30th birthday [Section 230](https://uscode.house.gov/view.xhtml?req=granul
 - political parties
 - [Democrat Party](https://www.democrats.org/)
 - [Trumpian Party](https://www.gop.com/)
-- universities
 - companies
 - [Discover — Bluesky](https://bsky.app/)
 - [Reddit - The heart of the internet](https://www.reddit.com/)
@@ -75,7 +74,6 @@ Happy 30th birthday [Section 230](https://uscode.house.gov/view.xhtml?req=granul
 - [Signal >> Home](https://signal.org/)
 - [Wikipedia](https://www.wikipedia.org/)
 - [Bluesky](https://bsky.social/)
-- foreign governments
 - state, local governments
 - [California](https://www.ca.gov/)
 - federal government
