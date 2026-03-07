@@ -8,39 +8,44 @@ BEGIN {
     mktAmericas = ""
     mktEurope = ""
     mktAsia = ""
-    
+    mktDefense = "no data"
+
+    etfSymbol = "|EUAD|ITA|NATO|XAR|PPA|MISL|SHLD|FITE|DFNS|WDEF|ARKX|DFEN|"
+
     regionCount = 0
 
-    rgxDate = "[2-9][0-9][0-9)[0-9]-[01][0-9]-[0-3][0-9]"
-    rgxTime = "([01][0-9]:[0-5][0-9] [A|P]M)|([012][0-9]:[0-5][0-9])"
+    ndxAMERICA = 2
+    ndxEUROPE = 11
+    ndxASIA = 43
+    ndxDEFENSE = 56
 
-    for (ndx = 1; ndx < ARGC; ndx++) {
-        if (match($ndx, rgxDate) > 0) {
-            cur_date = ARGV[ndx]
-            ARGV[ndx] = null
-            }
-        else if (match($ndx, rgxTime) > 0) {
-            curTime = ARGV[ndx]
-            ARGV[ndx] = null
+    region = "|Americas|Europe, Middle East, and Africa|Asia Pacific|Defense ETFs|"
+    cntRegions = split(region, regBreaks, "|")
+    for (ndx = 1; ndx <= cntRegions; ndx ++) {
+        if (regBreaks[ndx] != "") {
+            regionAssessment[regBreaks[ndx]] = "no data"
             }
         }
 
-    region = "|Americas|Europe, Middle East, and Africa|Asia Pacific|"
-    ndxAMERICA = 2
-    ndxEUROPE = 11
-    ndxASIA = 42
     gainers = 0
     losers = 0
     pctChange = 0.0
     line = -1
+    regionHeading = ndxAMERICA
+    tableHeader = "Americas"
     postHeader()
     }
+
 {
-    regionHeading = index(region, $0)
-    #printf("#DEBUG: NR: %d, regionHeading, %s\n", NR, regionHeading, $0)
-    if ((line == -1) || (regionHeading > 0)) {
-        #printf("#DEBUG: regionHeading: %d\n", regionHeading)
-        if (substr($0, 1, 5) != "Index") {
+    cntSub = gsub(/\$/, "")
+    curLine = $0
+    regionHeading  = index(region, curLine)
+    #printf("#DEBUG100: NR: %d, regionHeading: %d, %s\n", NR, regionHeading, curLine)
+    etfFound = index(etfSymbol, curLine)
+        if ((line == -1) || (regionHeading > 0)) {
+        #printf("#DEBUG110: regionHeading: %d\n", regionHeading)
+        #printf("#DEBUG120: index(%s, %s)=%d\n", etfSymbol, curLine, index(etfSymbol, curLine))
+    if (substr(curLine, 1, 5) != "Index") {
             tallySummary(gainers * 1.0, losers * 1.0, pctChange, regionHeading)
             gainers = 0
             losers = 0
@@ -48,20 +53,20 @@ BEGIN {
             line = -1
             }
         }
-    if (substr($0, 1, 5) == "Index") {
+    if ((substr(curLine, 1, 5) == "Index") || (etfFound > 0)) {
         line = 0
         }
     else if (line == 0) {
-        printf("| %s ", $0) # Name
+        printf("| %s ", curLine) # Name
         line ++
         }
     else if (line == 1) {
-        printf("| %s ", $0) # Value
+        printf("| %s ", curLine) # Value
         line ++
         }
     else if (line == 2) {
-        printf("| %s ", $0) # Change
-        direction = substr($0, 1, 1)
+        printf("| %s ", curLine) # Change
+        direction = substr(curLine, 1, 1)
         if (direction == "-")
             losers ++
         else
@@ -70,13 +75,14 @@ BEGIN {
         line ++
         }
     else if (line == 3) {
-        pctChange += substr($0, 1, length($0) - 1) * (arrow == ":arrow_down:" ? -1.0 : 1.0)
-        printf("| %s %s |\n", arrow, $0) # Percent Change
+        pctChange += substr(curLine, 1, length(curLine) - 1) * (arrow == ":arrow_down:" ? -1.0 : 1.0) I
+        printf("| %s %s |\n", arrow, curLine) # Percent Change
         line ++
         }
     }
+
 END {
-#printf("DEBUG: That's All Folks\n")
+    #printf("#DEBUG200: That's All Folks\n")
     tallySummary(gainers * 1.0, losers * 1.0, pctChange, 0)
     postTrailer()
     if (regionCount < 3)
@@ -87,24 +93,34 @@ function tallySummary(gainers, losers, pct, newRegion) {
     regionCount ++
     total = gainers + losers
     marketStrength = ""
-    #printf("\n\nDEBUG: tallySummary(newRegion: %d, pct: %0.2f, gainers: %d, losers: %d, total: %d)\n\n", newRegion, pct, gainers, losers, total)
+    #printf("\n\nDEBUG400: tableHeader: %s: tallySummary(newRegion: %d, pct: %0.2f, gainers: %d, losers: %d, total: %d)\n\n", tableHeader, newRegion, pct, gainers, losers, total)
     if (total > 0) {
         strength = (gainers / total) * 100.0
         marketStrength = assessRegion(strength)
         printf("| <strong>Avg Pct Chg: %0.2f%</strong> | <strong>gainers: %d (%0.2f%)</strong> | <strong>losers: %d (%0.2f%)</strong> | **%s** |\n", (pct / total), gainers, (gainers / total) * 100.0, losers, (losers / total) * 100.0, assessRegion(strength))
 
-        if (newRegion == 11)
-            mktAmericas = marketStrength
-        else if (newRegion == 43)
-            mktEurope = marketStrength
-        else
-            mktAsia = marketStrength
-        #printf("DEBUG: mktAmericas: %s, mktEurope: %s, mktAsia: %s\n", mktAmericas, mktEurope, mktAsia)
+        if (tableHeader != "") {
+            regionAssessment[tableHeader] = marketStrength
+            }
+        else {
+            if (newRegion == ndxEUROPE)
+                mktAmericas = marketStrength
+            else if (newRegion == ndxASIA)
+                mktEurope = marketStrength
+            else if (newRegion == ndxDEFENSE)
+                mktAsia = marketStrength
+            else
+                mktDefense = marketStrength
         }
-    if (newRegion > 0)
-        printf("| **%s** | | | |\n", $0)
 
-    #printf("DEBUG: strength: %f, marketStrength: %s\n", strength, marketStrength)
+        #printf("#DEBUG410: mktAmericas: %s, mktEurope: %s, mktAsia: %s, mktDefense: %s\n", mktAmericas, mktEurope, mktAsia, mktDefense)
+        }
+    if (newRegion > 0) {
+        printf("| **%s** | | | |\n", curLine)
+        tableHeader = curLine
+        }
+
+    #printf("#DEBUG420: strength: %f, marketStrength: %s\n", strength, marketStrength)
 
     gainers = 0
     losers = 0
@@ -112,44 +128,26 @@ function tallySummary(gainers, losers, pct, newRegion) {
     }
 
 function assessRegion(percent) {
-    #printf("DEBUG assessRegion: percent:%f\n", percent)
+    #printf("#DEBUG500: assessRegion: percent:%f\n", percent)
     regionStrength = ""
-    # <= 25% (1)
-    if (percent <= 25)
+    # <= 29% (1)
+    if (percent <= 29)
         regionStrength = "Strong Losses"
-    # <= 29% (2)
-    else if (percent <= 29)
-        regionStrength = "Strong Losses"
-    # <= 33% (3)
-    else if (percent <= 33)
-        regionStrength = "Moderate Losses"
-    # <= 41.5% (4)
+    # <= 41.5% (2)
     else if (percent <= 41.5)
         regionStrength = "Moderate Losses"
-    # <= 50% (5)
-    else if (percent <= 50)
-        regionStrength = "Mixed"
-    # <= 58% (6)
+    # <= 58% (3)
     else if (percent <= 58)
         regionStrength = "Mixed"
-    # <= 66% (7)
-    else if (percent <= 66)
-        regionStrength = "Moderate Gains"
-    # <= 70.5% (8)
+    # <= 66% (4)
     else if (percent <= 70.5)
         regionStrength = "Moderate Gains"
-    # <= 75% (9)
-    else if (percent <= 75)
-        regionStrength = "Strong Gains"
-    # <= 87.5% (10)
-    else if (percent <= 87.5)
-        regionStrength = "Strong Gains"
-    # <= 100% (11)
+    # <= 100% (5)
     else if (percent <= 100)
         regionStrength = "Strong Gains"
     else
         regionStrength = "Strong Gains"
-    #printf("DEBUG assessRegion: regionStrength: %s\n", regionStrength)
+    #printf("#DEBUG510: assessRegion: regionStrength: %s\n", regionStrength)
     return (regionStrength)
         }
 
@@ -169,7 +167,7 @@ function postHeader() {
     printf("#image: 'BASEURL/assets/blog/img/.png'\n")
     printf("#description:\n")
     printf("#permalink:\n")
-    printf("title: \"%s: World Stock Market Closing Indexes: Americas (). Europe, Middle East, & Africa (). Asia Pacific ().\"\n", curDate)
+    printf("title: \"%s: World Stock Market Closing Indexes: Americas (). Europe, Middle East, and Africa (). Asia Pacific ().\"\n", curDate)
     printf("---\n")
 
     printf("\n\n## [Stock Market Indexes - Google Finance](https://www.google.com/finance/markets/indexes/)\n\n")
@@ -179,12 +177,16 @@ function postHeader() {
 
 function printTitle() {
     # print title to move to Jekyll section
-    printf("\ntitle: \"%s: World Stock Market Closing Indexes: Americas (%s). Europe, Middle East, & Africa (%s). Asia Pacific (%s).\"\n---\n", curDate, mktAmericas, mktEurope, mktAsia)
+
+    title = sprintf("World Stock Market Closing Indexes: Americas (%s). Europe, Middle East, & Africa (%s). Asia Pacific (%s). Defense ETFs (%s)", regionAssessment["Americas"], regionAssessment["Europe, Middle East, and Africa"], regionAssessment["Asia Pacific"], regionAssessment["Defense ETFs"])
+    #printf("#DEBUG600: title: %s\n", title)
+
+    printf("\ntitle: \"%s: %s\"\n---\n", curDate, title)
 
     # segment to print Liquid internal link for ../ClosingIndexes.md for yesterday, next day navigation links Filename Format(_posts/YYYY/MM/YYYY-MM-DD-YYYYMMDDClosingIndexes.md)
     path = "_posts/" substr(curDate, 1, 4) "/" substr(curDate, 6, 2) "/" curDate "-" substr(curDate, 1, 4) substr(curDate, 6, 2) substr(curDate,  9, 2) "ClosingIndexes.md"
 
-    printf("\n- [%s: World Stock Market Closing Indexes: Americas (%s). Europe, Middle East, & Africa (%s). Asia Pacific (%s).]({%% link %s %%})\n\n", curDate, mktAmericas, mktEurope, mktAsia, path)
+    printf("\n- [%s: %s]({%% link %s %%})\n\n", curDate, title, path)
     }
 
 function postTrailer() {
@@ -245,7 +247,6 @@ function printTrumpBusinesses() {
     }
 
 function printFederalGovernment() {
-#    printf("\n")
     printf("- [Constitution of the United States](https://constitution.congress.gov/)\n")
     printf("- [Supreme Court of the United States (SCOTUS)](https://www.supremecourt.gov/)\n")
     printf("- [US Courts](https://www.uscourts.gov/)\n")
