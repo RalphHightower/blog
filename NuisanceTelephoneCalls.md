@@ -20,7 +20,13 @@ The telephone numbers below have called and there is an empty person on the othe
 
 | Telephone Number | Location | Date Time[^11]<sup>,</sup>[^12] | Caller | Social Media |
 |---|---|---|---|---|
-| [\+1 (803) 484-5603](tel:+18034845603) | SC. Bishopville | 2026-03-06 12:07 PM | BARBARA M MCDANIEL | — |
+| [\+1 (803) 547-5601](tel:+18035475601) | SC. Fort Mill | 2026-03-13 01:40 PM | W SCHLEMMER(G SCHLEMMER) | |
+| [\+1 (803) 814-2941](tel:+18038142941) | SC. Columbia | 2026-03-12 05:47 PM | BERRY JEARLINE | |
+| [\+1 (803) 233-2327](tel:+18032332327) | SC. Columbia | 2026-03-12 01:34 PM | — | |
+| [\+1 (803) 282-2162](tel:+18032822162) | SC. Blackville | 2026-03-11 05:35 PM | — | |
+| [\+1 (803) 271-0698](tel:+18032710698) | SC. Newberry | 2026-03-11 05:20 PM | loanDepot | |
+| [\+1 (803) 377-7596](tel:+18033777596) | SC. Chester | 2026-03-10 04:37 PM | Palmetto Precious Metals And | |
+| [\+1 (803) 484-5603](tel:+18034845603) | SC. Bishopville | 2026-03-06 12:07 PM | BARBARA M MCDANIEL | |
 | [\+1 (803) 559-5823](tel:+18035595823) | SC. Wagener | 2026-03-02 10:52 AM | CORA LEE TOOMER | |
 | [\+1 (803) 570-5086](tel:+18035705086) | SC. Orangeburg | 2026-02-27 04:46 PM | — | |
 | [\+1 (803) 563-6984](tel:+18035636984) | SC. Columbia | 2026-02-27 04:17 PM | — | |
@@ -581,7 +587,7 @@ The telephone numbers below have called and there is an empty person on the othe
 | [\+1 (864) 788-8709](tel:+18647888709) | SC. Central | 2025-07-19 04:22 PM | — | |
 | [\+1 (803) 705-7072](tel:+18037057072) | SC. Columbia | 2025-07-18 03:23 PM ¤¤ | — | |
 | [\+1 (803) 705-7072](tel:+18037057072) | SC. Columbia | 2025-07-18 03:22 PM | — | |
-| [\+1 (803) 661-8360](tel:+18036618360) | SC. Columbia | 2025-07-18 01:40 PM | Anthony Sams | — |
+| [\+1 (803) 661-8360](tel:+18036618360) | SC. Columbia | 2025-07-18 01:40 PM | Anthony Sams | |
 | [\+1 (803) 806-3495](tel:+18038063495) | SC. Columbia | 2025-07-18 01:20 PM | — | |
 | [\+1 (803) 205-4809](tel:+18032054809) | SC. Columbia | 2025-07-17 05:43 PM | [Gregory Electric](https://www.gregoryelectric.com/) | |
 | [\+1 (803) 945-6495](tel:+18039456495) | SC. Little Mountain | 2025-07-17 03:55 PM | — | |
@@ -1814,7 +1820,7 @@ The telephone numbers below have called and there is an empty person on the othe
 | [\+1 (803) 764-6405](tel:+18037646405) | SC. Columbia | 2024-12-16 11:pm AM | Crumey Arnitha | |
 | [\+1 (803) 238-0160](tel:+18032380160) | SC. Columbia | 2024-12-14 10:46 AM | Mitch Barron | |
 | [\+1 (803) 918-5408](tel:+18039185408) | SC. Barnwell | 2024-12-14 09:40 AM | — | |
-| [\+1 (417) 397-6621](tel:+14173976621) | MO. Springfield | 2024-12-12 01:53 PM | #TaxFraud | — |
+| [\+1 (417) 397-6621](tel:+14173976621) | MO. Springfield | 2024-12-12 01:53 PM | #TaxFraud | |
 | [\+1 (386) 389-5963](tel:+13863895963) | FL. | 2024-12-12 01:54 AM | #TaxFraud ¤¤ | |
 | [\+1 (803) 854-8369](tel:+18038548369) | SC. Santee | 2024-12-11 12:03 PM | — | |
 | [\+1 (803) 360-0000](tel:+18033600000) | SC. Columbia | 2024-12-10 04:57 PM | — | |
@@ -1828,7 +1834,7 @@ The telephone numbers below have called and there is an empty person on the othe
 | [\+1 (205) 300-9065](tel:+12053009065) | AL. Jasper | 2024-12-04 04:57 PM | Potential Spam | |
 | [\+1 (854) 758-6056](tel:+18547586056) | SC. Florence | 2024-12-03 07:51 PM | — | |
 | [\+1 (803) 771-8464](tel:+18037718464) | SC. Columbia | 2024-12-03 07:17 PM | The State Media #SocialSecurityFraud | |
-| [\+1 (803) 771-8464](tel:+18037718464) | SC. Columbia | 2024-12-03 07:17 PM | The State Media #SocialSecurityFraud | — |
+| [\+1 (803) 771-8464](tel:+18037718464) | SC. Columbia | 2024-12-03 07:17 PM | The State Media #SocialSecurityFraud | |
 | [\+1 (478) 834-5139](tel:+14788345139) | GA. East Dublin | 2024-12-03 03:49 PM | #TaxFraud ¤¤ | |
 | [\+1 (803) 886-4431](tel:+18038864431) | SC. Salley | 2024-12-03 01:32 PM | — | |
 | [\+1 (803) 536-8256](tel:+18035368256) | SC. Orangeburg | 2024-12-03 12:26 PM | SC State Govt | |
@@ -1841,7 +1847,7 @@ The telephone numbers below have called and there is an empty person on the othe
 | [\+1 (661) 694-6509](tel:+16616946509) | CA. Bakersfield | 2024-12-02 03:17 PM | Potential Spam | |
 | [\+1 (803) 253-1775](tel:+18032531775) | SC. Columbia | 2024-12-02 03:12 PM | — | |
 | [\+1 (938) 218-7385](tel:+19382187385) | AL. Huntsville | 2024-12-02 01:59 PM | #TaxFraud | |
-| [\+1 (938) 218-7385](tel:+19382187385) | AL. Huntsville | 2024-12-02 01:51 PM | #TaxFraud | — |
+| [\+1 (938) 218-7385](tel:+19382187385) | AL. Huntsville | 2024-12-02 01:51 PM | #TaxFraud | |
 | [\+1 (938) 218-7385](tel:+19382187385) | AL. Huntsville | 2024-12-02 01:51 PM ¤¤ #TaxFraud | — | |
 | [\+1 (803) 592-3812](tel:+18035923812) | SC. Eastover | 2024-12-02 12:35 PM | — | |
 | [\+1 (803) 929-3093](tel:+18039293093) | SC. Columbia | 2024-12-02 10:30 AM | USAO | |
