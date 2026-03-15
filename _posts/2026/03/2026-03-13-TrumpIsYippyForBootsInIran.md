@@ -113,7 +113,6 @@ Jack Fitzpatrick, Nora McKee, and Peggy Helman contributed to this report.
 
 [Kevin Frey](https://www.ms.now/author/kevin-frey) is a congressional reporter for [MS NOW](https://www.ms.now/).
 
-
 ----
 - media
 - [MS NOW - Breaking News and News Today / Latest News](https://www.ms.now/)
