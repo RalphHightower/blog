@@ -91,6 +91,8 @@ When agents encounter strangers, the Fourth Amendment imposes three core limitat
 2. If, and only if, agents have developed probable cause that a person is guilty of a crime, they can arrest them—restrain their physical movements. That includes, of course, Americans or anyone else who assaults law enforcement.
 3. At all times, including during arrests, agents may not employ force that is unreasonable under the circumstances.
 
+South Carolina has blown past 30 No Kings rallies, with new ones popping up hourly. Check NoKings.org for the latest.
+
 <!--
 SC Democrat Primary 
 2026-06-09T11:00:00Z – 2026-06-09T23:00:00Z
@@ -98,66 +100,6 @@ SC Democrat Primary
 mid term election 
 2026-11-03T12:00:00Z – 2026-11-04T00:00:00Z
 -->
-
-<ul>
-
-<li><a href="https://www.mobilize.us/mayday/event/827854/">Columbia SC #WorkersOverBillionaires Labor Day</a><br />Monday, September 1, 2025<br />11am – 2pm EDT<br />South Carolina State House<br />1100 Gervais St<br />Columbia, SC 29208</li>
-
-<li>
-<a href="https://www.mobilize.us/mayday/event/827854/">Aiken, SC #WorkersOverBillionaires Labor Day</a><br />Monday, September 1, 2025<br />10am – 12pm EDT<br />Odell Weeks Activity Center<br />1700 Whiskey Rd<br />Aiken, SC 29803</li>
-<li><a href="https://www.mobilize.us/mayday/event/823582/">Rock Hill #WorkersOverBillionaires Labor Day with York County Rising</a><br />Monday, September 1, 2025<br />1:30 – 3pm EDT<br />Dave Lyle between Main + White<br />111 E White St<br />Rock Hill, SC 29730</li>
-</ul>
-
-</div>
-
-<div id="2025-07-19T23:59:59">
-
-<h4><a href="https://www.whitehouse.gov/presidential-actions/2025/01/declaring-a-national-emergency-at-the-southern-border-of-the-united-states/">Declaring A National Emergency At The Southern Border Of The United States – The White House</a>. Presidential Actions. January 20, 2025</h4>
-
-<h5>July 19, 2025 – Day of Reckoning</h5>
-
-<a href="https://www.donaldjtrump.com/">Trump</a> is considering invoking the Insurrection Act of 1807 to extend his time as king. But the projected status of America will not warrant invoking the act.
-
-Besides, he pardoned all those insurrectionists from January 6, 2021 that stormed the Capitol to halt the certification of the <a href="https://www.fec.gov/resources/cms-content/documents/federalelections2020.pdf">2020 Presidential Election Results – Federal Election Commission (FEC)</a>.
-
-<a href="https://wagingnonviolence.org/2025/04/what-to-do-if-the-insurrection-act-is-invoked/">
-What to do if the Insurrection Act is invoked / Waging Nonviolence</a>
-
-<ul>
-<li><a href="https://indivisible.org/resource/could-trump-invoke-insurrection-act-what-know-and-how-prepare">Could Trump Invoke the Insurrection Act? What to Know—and How to Prepare / Indivisible</a></li>
-<li><a href="https://wagingnonviolence.org/2025/06/american-spring-nonviolent-protest-accelerating/">American Spring? How nonviolent protest in the US is accelerating / Waging Nonviolence</a><br />Contrary to conventional wisdom, the size and scale of anti-Trump protests this year have dwarfed those in 2017, and they have been extraordinarily peaceful.<br />Erica Chenoweth, Soha Hammam, Jeremy Pressman, and Christopher Wiley Shay June 12, 2025</li>
-</ul>
-
-</div>
-
-<div id="2025-06-14T23:59:59">
-
-<h4><a href="https://www.thestate.com/news/state/south-carolina/article308317355.html">‘No Kings’ anti-Trump protests coming to South Carolina soon / The State</a></h4>
-
-<h5>Saturday, June 14, 2025</h5>
-
-<ol>
-
-<li>No Kings Day At The Dome (Columbia): 1100 Gervais St. from 12:30 - 4 p.m. </li>
-<li>Rock Hill: 111 E. White St. from 2 - 4 p.m. </li>
-<li>Spartanburg: 105 N Church St. from 4 - 6 p.m. </li>
-<li>Greenville: 355 S. Hudson St. from 10 - 11:30 a.m. </li>
-<li>Pendleton: 124 Exchange St. from 3 - 5 p.m. </li>
-<li>Seneca: 221 E. North 1st St. from 11:30 a.m. - 1:30 p.m. </li>
-<li>Aiken: 1700 Whiskey Rd. From 12 - 2 p.m. </li>
-<li>Beaufort: 1911 Boundary St. from 12 - 1 p.m. </li>
-<li>Hilton Head: 430 William Hilton Pkwy from 12 - 2 p.m. </li>
-<li>Bluffton: 4819 Bluffton from 4 - 6 p.m. </li>
-<li>Summerville: 500 N. Main St. from 9:30 - 11:30 a.m. </li>
-<li>Charleston: 30 Mary Murray Dr. from 9 - 11 a.m. </li>
-<li>Myrtle Beach: 937 Broadway St. from 2 - 3 p.m. </li>
-<li>Florence: 2099 W Evans St. from 11 a.m. - 1 p.m.</li>
-
-</ol>
-
-@RalphHightower: The <a href="https://naacp.org/">NAACP</a> has "King Day At the Dome" at the State Capitol on Martin Luther King's Day. The rally this Saturday is "<a href="https://www.nokings.org/">No Kings Day</a>".
-
-</div>
 
 Hold [Trump](https://www.donaldjtrump.com/)’s feet to the fire on his campaign promises. He promised to lower grocery prices, gas prices, car/truck prices, inflation, housing prices. Grade him on appliances prices, budget deficit, car and truck prices, consumer goods, economy, energy, groceries, housing prices, inflation, interest rate, stock market, trade deficit, unemployment.
 
@@ -489,8 +431,14 @@ function setElementText(element, text) {
 
 |   |
 |---|
+| ![Ralph Hightower Repository’s Stats](https://github-readme-stats.vercel.app/api?username=RalphHightower&show_icons=true&title_color=73000a&text_color=73000a&border_color=73000a&icon_color=73000a&bg_color=ffffff&include_all_commits=false&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)|
 | ![GitHub Streak](https://streak-stats.vercel.app?user=RalphHightower&date_format=Y-m-d&border=73000a&stroke=73000a&ring=73000a&fire=73000a&currStreakNum=73000a&sideNums=73000a&currStreakLabel=73000a&sideLabels=73000a&dates=73000a) |
 | ![RalphHightower's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RalphHightower&theme=minimal&color=73000a&title_color=73000a&line=73000a&point=73000a) |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RalphHightower&theme=default) |
+
+|    |    |
+|---|---|
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RalphHightower&theme=default) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RalphHightower&theme=default&utcOffset=-5) |
 
 <script>
 
@@ -503,6 +451,44 @@ function getDaysDiff(from, to) {
     const msPerDay = 24 * 60 * 60 * 1000;
     return Math.floor((to - from) / msPerDay);
     }
+
+function easternToISO(dateString) {
+  // Interpret the input as a local date/time in America/New_York
+  const dt = new Date(
+    new Date(dateString).toLocaleString("en-US", {
+      timeZone: "America/New_York"
+    })
+  );
+
+  // Extract the actual Eastern offset for that moment
+  const offsetMinutes = -(
+    new Date(dt.toLocaleString("en-US", { timeZone: "UTC" })) - dt
+  ) / 60000;
+
+  const sign = offsetMinutes <= 0 ? "-" : "+";
+  const pad = n => String(Math.abs(n)).padStart(2, "0");
+  const offset =
+    sign +
+    pad(Math.floor(Math.abs(offsetMinutes) / 60)) +
+    ":" +
+    pad(Math.abs(offsetMinutes) % 60);
+
+  // Build ISO‑8601 string with the correct offset
+  return (
+    dt.getFullYear() +
+    "-" +
+    pad(dt.getMonth() + 1) +
+    "-" +
+    pad(dt.getDate()) +
+    "T" +
+    pad(dt.getHours()) +
+    ":" +
+    pad(dt.getMinutes()) +
+    ":" +
+    pad(dt.getSeconds()) +
+    offset
+  );
+}
 
 function fmtPercent(real) {
     const pct = Math.round(real * 10000) / 100;
