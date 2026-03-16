@@ -25,7 +25,7 @@ But his frequent claims to be “winning” the ongoing war with [Iran](https://
 
 For critics, the tendency to brag about a supposed victory this early in the conflict is reminiscent of former [President George W. Bush](https://georgewbush-whitehouse.archives.gov/)’s ill-advised decision to pose under a [“Mission Accomplished” banner](https://www.ms.now/hardball/10-years-later-mission-accomplished-msna57536) banner on an aircraft carrier in May 2003, six weeks after bombing began. The [Iraq](http://mop.gov.iq/) [War](https://en.wikipedia.org/wiki/Iraq_War?wprov=sfla1) did not officially end until eight years later.
 
-Even longtime allies have warned that the administration will need to decide what winning in [Iran](https://irangov.ir/) would actually look like. 
+Even longtime allies have warned that the administration will need to decide what winning in [Iran](https://irangov.ir/) would actually look like.
 
 “You got to figure out how you have victory, because victory is what matters here,” former [Trump](https://www.donaldjtrump.com/) chief strategist [Steve Bannon](https://warroom.org/) said on his podcast Wednesday. “It would be catastrophic for us to not have victory in this.”
 
@@ -45,15 +45,15 @@ For [Troye](https://www.linkedin.com/in/oftroye/), however, framing the conflict
 
 > **Administration officials point to the efficacy of America’s military campaign.**
 
-Administration officials point to the efficacy of America’s military campaign as evidence for their assertions. The [Pentagon](https;//www.jcs.mil/) on Tuesday repeated estimates that [Iran](https://irangov.ir/)’s ballistic missile attacks have decreased by 90% since the onset of the war, while one-way attack drone strikes have declined by 83%. 
+Administration officials point to the efficacy of America’s military campaign as evidence for their assertions. The [Pentagon](https;//www.jcs.mil/) on Tuesday repeated estimates that [Iran](https://irangov.ir/)’s ballistic missile attacks have decreased by 90% since the onset of the war, while one-way attack drone strikes have declined by 83%.
 
-“We’re winning decisively with brutal efficiency, total air dominance and an unbreakable will to accomplish the [president](https://www.whitehouse.gov/)’s objectives,” [Defense](https://www.defense.gov/) [Secretary Pete Hegseth](https://www.defense.gov/About/Biographies/Biography/Article/4040890/hon-pete-hegseth/) said at a recent press briefing. 
+“We’re winning decisively with brutal efficiency, total air dominance and an unbreakable will to accomplish the [president](https://www.whitehouse.gov/)’s objectives,” [Defense](https://www.defense.gov/) [Secretary Pete Hegseth](https://www.defense.gov/About/Biographies/Biography/Article/4040890/hon-pete-hegseth/) said at a recent press briefing.
 
 But [Trump](https://www.donaldjtrump.com/)’s objectives are not entirely clear. At different times, the [president](https://www.whitehouse.gov/) has said that the conflict will degrade the [Iranian](https://irangov.ir/) military, prevent the regime from building nuclear weapons and give the [Iranian](https://irangov.ir/) people an opportunity to overthrow the government.
 
-[Trump](https://www.donaldjtrump.com/) has also outlined a goal that will be extremely difficult: creating a partnership with [Iran](https://irangov.ir/)’s leader similar to his relationship with new [Venezuelan](https://gob.ve/) [President](https://www.whitehouse.gov/) [Delcy Rodríguez](https://presidencia.gob.ve/Site/Web/Principal/paginas/classIndex.php), who has agreed to an arrangement allowing the U.S. to profit from oil sales there. 
+[Trump](https://www.donaldjtrump.com/) has also outlined a goal that will be extremely difficult: creating a partnership with [Iran](https://irangov.ir/)’s leader similar to his relationship with new [Venezuelan](https://gob.ve/) [President](https://www.whitehouse.gov/) [Delcy Rodríguez](https://presidencia.gob.ve/Site/Web/Principal/paginas/classIndex.php), who has agreed to an arrangement allowing the U.S. to profit from oil sales there.
 
-At least one [Trump](https://www.donaldjtrump.com/) ally in [Congress](https://www.congress.gov/) has echoed this goal. 
+At least one [Trump](https://www.donaldjtrump.com/) ally in [Congress](https://www.congress.gov/) has echoed this goal.
 
 “When this regime goes down, we are going to have a new Mideast. We’re going to make a ton of money,” [Sen.](https://www.senate.gov/) [Lindsey Graham (T-SC)](https://www.lgraham.senate.gov/), said recently on [Faux News](https://www.foxnews.com/). “This is a good investment.”
 
