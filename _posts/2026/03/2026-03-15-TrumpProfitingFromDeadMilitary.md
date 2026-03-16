@@ -25,11 +25,11 @@ By [Emily Hung](https://www.ms.now/author/emily-hung) and [Clarissa-Jan Lim](htt
 
 The email includes a black-and-white version of an official photo taken by the [White House](https://www.whitehouse.gov/) showing the [president](https://www.whitehouse.gov/) in a white “USA” baseball cap saluting a transfer case during the dignified transfer at [Dover Air Force Base](https://www.dover.af.mil/) in [Delaware](https://delaware.gov/) on March 7.
 
-Several links in the email lead to a [donation page](https://secure.winred.com/never-surrender/lp-default-general). 
+Several links in the email lead to a [donation page](https://secure.winred.com/never-surrender/lp-default-general).
 
 The [White House](https://www.whitehouse.gov/) and the [Pentagon](https://www.jba.af.mil/) did not respond to [MS NOW](https://www.ms.now/)’s request for comment on the fundraising email pegged to the Iran war and what the offers of “national security briefings” would entail.
 
-[Trump](https://www.donaldjtrump.com/) is not the first political figure to make offers of special access to big donors, [Daniel Weiner](https://www.brennancenter.org/about/leadership/daniel-i-weiner), director of the elections and government program at the [Brennan Center for Justice](https://www.brennancenter.org/), noted in an interview with [MS NOW](https://www.ms.now/). 
+[Trump](https://www.donaldjtrump.com/) is not the first political figure to make offers of special access to big donors, [Daniel Weiner](https://www.brennancenter.org/about/leadership/daniel-i-weiner), director of the elections and government program at the [Brennan Center for Justice](https://www.brennancenter.org/), noted in an interview with [MS NOW](https://www.ms.now/).
 
 “In this instance, obviously it would be a blatant violation of the law to disclose any sort of classified information or secret information to donors. But assuming that they’re not actually doing that, it’s hard to see that there’s anything illegal about any of this,” [Weiner](https://www.brennancenter.org/about/leadership/daniel-i-weiner) said.
 
