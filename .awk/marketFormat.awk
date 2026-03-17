@@ -10,7 +10,7 @@ BEGIN {
     mktAsia = ""
     mktDefense = "no data"
 
-    etfSymbol = "|EUAD|ITA|NATO|XAR|PPA|MISL|SHLD|FITE|DFNS|WDEF|ARKX|DFEN|"
+    etfDefenseSymbols = "|EUAD|ITA|NATO|XAR|PPA|MISL|SHLD|FITE|DFNS|WDEF|ARKX|DFEN|WAR|JEDI|"
 
     regionCount = 0
 
@@ -21,6 +21,8 @@ BEGIN {
 
     region = "|Americas|Europe, Middle East, and Africa|Asia Pacific|Defense ETFs|"
     cntRegions = split(region, regBreaks, "|")
+ 
+    # Use associative arrays to hold the region's assessment
     for (ndx = 1; ndx <= cntRegions; ndx ++) {
         if (regBreaks[ndx] != "") {
             regionAssessment[regBreaks[ndx]] = "no data"
@@ -41,10 +43,19 @@ BEGIN {
     curLine = $0
     regionHeading  = index(region, curLine)
     #printf("#DEBUG100: NR: %d, regionHeading: %d, %s\n", NR, regionHeading, curLine)
-    etfFound = index(etfSymbol, curLine)
+    etfFound = index(etfDefenseSymbols, curLine)
         if ((line == -1) || (regionHeading > 0)) {
         #printf("#DEBUG110: regionHeading: %d\n", regionHeading)
-        #printf("#DEBUG120: index(%s, %s)=%d\n", etfSymbol, curLine, index(etfSymbol, curLine))
+        #printf("#DEBUG120: index(%s, %s)=%d\n", etfDefenseSymbols, curLine, index(etfDefenseSymbols, curLine))
+
+    ###
+    ### Capturing the individual indexes is state driven
+    ### Line 0: ETF name
+    ### Line 1: Current Net Asset Value
+    ### Line 2: Gain/Loss (also grabs sign for +, - Pct Change)
+    ### Line 3: Percent Change
+    ###
+
     if (substr(curLine, 1, 5) != "Index") {
             tallySummary(gainers * 1.0, losers * 1.0, pctChange, regionHeading)
             gainers = 0
@@ -75,7 +86,7 @@ BEGIN {
         line ++
         }
     else if (line == 3) {
-        pctChange += substr(curLine, 1, length(curLine) - 1) * (arrow == ":arrow_down:" ? -1.0 : 1.0) I
+        pctChange += substr(curLine, 1, length(curLine) - 1) * (arrow == ":arrow_down:" ? -1.0 : 1.0)
         printf("| %s %s |\n", arrow, curLine) # Percent Change
         line ++
         }
@@ -89,6 +100,9 @@ END {
         printf("*** WARNING! A region is missing! ***\n")
     }
 
+###
+### Prints Region's Summary
+###
 function tallySummary(gainers, losers, pct, newRegion) {
     regionCount ++
     total = gainers + losers
@@ -275,24 +289,24 @@ function printTrumpAutocracy() {
     }
 
 function printTrumpCrimeBusinesses() {
-    printf("- Trump crime businesses \n")
+    printf("- Trump crime businesses\n")
     printf("- [Trump Organization](https://www.trump.com/)\n")
     printf("- [World Liberty Financial](https://www.worldlibertyfinancial.com/)\n")
     printf("- [$TRUMP](https://gettrumpmemes.com/)\n")
     printf("- [$MELANIA](https://melaniameme.com/)\n")
-    printf("- [The Mar-a-Lago Club](https://www.maralagoclub.com/) \n")
-    printf("- [Trump International Golf Club](https://www.trumpinternationalpalmbeaches.com/) \n")
-    printf("- [Trump National Doral Golf Club](https://www.trumpgolfdoral.com/) \n")
-    printf("- [Trump National Jupiter Golf Club](https://www.trumpnationaljupiter.com/) \n")
+    printf("- [The Mar-a-Lago Club](https://www.maralagoclub.com/)l\n")
+    printf("- [Trump International Golf Club](https://www.trumpinternationalpalmbeaches.com/)\n")
+    printf("- [Trump National Doral Golf Club](https://www.trumpgolfdoral.com/)\n")
+    printf("- [Trump National Jupiter Golf Club](https://www.trumpnationaljupiter.com/)\n")
     printf("- [Trump National Golf Club Washington, D.C.](https://www.trumpnationaldc.com/)\n")
-    printf("- [Trump National Golf Club Bedminster](https://www.trumpnationalbedminster.com/) \n")
-    printf("- [Trump National Golf Club Colts Neck](https://www.trumpcoltsneck.com/) \n")
-    printf("- [Trump National Golf Club Philadelphia](https://www.trumpnationalphiladelphia.com/) \n")
-    printf("- [Trump National Golf Club Hudson Valley](https://www.trumpnationalhudsonvalley.com/) \n")
-    printf("- [Trump National Golf Club Westchester](https://www.trumpnationalwestchester.com/) \n")
-    printf("- [Trump National Golf Club Los Angeles](https://www.trumpnationallosangeles.com/) \n")
-    printf("- [Trump International Golf Club Dubai](https://www.trumpgolfdubai.com/) \n")
-    printf("- [Trump International Golf Links & Hotel Ireland, Doonbeg](https://www.trumpgolfireland.com/) \n")
+    printf("- [Trump National Golf Club Bedminster](https://www.trumpnationalbedminster.com/)\n")
+    printf("- [Trump National Golf Club Colts Neck](https://www.trumpcoltsneck.com/)\n")
+    printf("- [Trump National Golf Club Philadelphia](https://www.trumpnationalphiladelphia.com/)\n")
+    printf("- [Trump National Golf Club Hudson Valley](https://www.trumpnationalhudsonvalley.com/)\n")
+    printf("- [Trump National Golf Club Westchester](https://www.trumpnationalwestchester.com/)\n")
+    printf("- [Trump National Golf Club Los Angeles](https://www.trumpnationallosangeles.com/)\n")
+    printf("- [Trump International Golf Club Dubai](https://www.trumpgolfdubai.com/)\n")
+    printf("- [Trump International Golf Links & Hotel Ireland, Doonbeg](https://www.trumpgolfireland.com/)\n")
     printf("- [Trump MacLeod House & Lodge Scotland](https://www.trumphotels.com/macleod-house)\n")
     printf("- [Trump Turnberry](https://www.turnberry.co.uk/)\n")
     printf("- Trump crime family\n")
