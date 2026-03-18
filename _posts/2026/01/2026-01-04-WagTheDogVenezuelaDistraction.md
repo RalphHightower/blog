@@ -7,7 +7,7 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: "Wag the Dog: Trump Attempts to Dirvert Attention From Himself"
+title: "Wag the Dog: Trump Attempts to Divert Attention From Himself"
 ---
 
 There's a crescendo of events getting attention on [Congress](https://www.congress.gov/)
