@@ -86,6 +86,17 @@ Surviving “The Apprentice: White House – Wrecking Ball”. [Trump](https://w
 
 ### Call to Action
 
+<div id="2026-03-28T20:00:00">
+
+<h4>Saturday, March 28, 2026</h4>
+
+![WeThePeopleRejectFascism](assets/images/WeThePeopleRejectFascism.png)
+<img src="https://brandfolder.com/indivisibleproject/nokings/#!asset/fccqvh8twm97k8bxjphpmx" width="2844" height="2682" alt="We the People Reject Fascism">
+
+<p>On Saturday, March 28, 2026, multiple <a href="https://www.nokings.org/">No Kings Rallies</a> are being held across South Carolina. <a href="https://www.nokings.org/">Find one near you.</a></p>
+
+</div>
+
 When agents encounter strangers, the Fourth Amendment imposes three core limitations:
 1. If, and only if, agents have particularized suspicion that a person may be guilty of a crime, they can stop the person (make a “Terry stop”) and pose a brief series of questions to dispel or confirm their suspicions. This is the basic dividing line that border czar Tom Homan and others in the administration say the agents are following in nearly every case.
 2. If, and only if, agents have developed probable cause that a person is guilty of a crime, they can arrest them—restrain their physical movements. That includes, of course, Americans or anyone else who assaults law enforcement.
@@ -441,6 +452,8 @@ function setElementText(element, text) {
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RalphHightower&theme=default) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RalphHightower&theme=default&utcOffset=-5) |
 
 <script>
+
+displayUntil("2026-03-28T20:00:00")
 
 // Set your dates here (year, month (0-based), day, hour, minute)
 const startDate = new Date(2025, 0, 19, 0, 0);     // Jan 20, 2025 12:00 PM
