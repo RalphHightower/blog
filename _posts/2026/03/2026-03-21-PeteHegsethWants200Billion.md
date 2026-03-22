@@ -7,7 +7,7 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: "Pete Hegseth Wants $200 Billion For Iron War"
+title: "Pete Hegseth Wants $200 Billion For Iran War"
 ---
 
 ## [The biggest problems with Pete Hegseth’s $200 billion request](https://www.ms.now/opinion/pete-hegseth-200-billion-war-funding-request)
