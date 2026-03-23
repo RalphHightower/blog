@@ -90,7 +90,7 @@ Surviving “The Apprentice: White House – Wrecking Ball”. [Trump](https://w
 
 <h4>Saturday, March 28, 2026</h4>
 
-<img src="./assets/images/WeThePeopleRejectFascism.png" height="2844" width="2682" alt="We the People Reject Fascism">
+<img src="./assets/images/WeThePeopleRejectFascism.png" alt="We the People Reject Fascism">
 
 <p>On Saturday, March 28, 2026, multiple <a href="https://www.nokings.org/">No Kings Rallies</a> are being held across South Carolina. <a href="https://www.nokings.org/">Find one near you.</a></p>
 
