@@ -44,6 +44,11 @@ gem 'jekyll-paginate-v2', '~> 3.0'
 gem 'uri', '~> 1.0', '>= 1.0.3'
 # } 2025-03-03
 
+# Security updates 
+# { 2026-03-23
+gem 'activesupport', '~> 7.2', '>= 7.2.3.1'
+# } 2026-03-23
+
 # { 2025-01-11 @RalphHightower jekyll_ai_related_posts
 # gem 'activerecord', '~> 7.2', '>= 7.2.2.1'
 # gem 'activerecord', '~> 8.0', '>= 8.0.1'
