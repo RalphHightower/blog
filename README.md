@@ -67,9 +67,6 @@ Surviving “The Apprentice: White House – Wrecking Ball”. [Trump](https://w
 | Trump (T) | 74,223,975 | 46.85% | 232 |
 | (Difference) | 7,059,526 | 4.46% | 74 |
 
-*Maine appoints its electors proportionally. Biden-Harris won in the First Congressional District and took the state; Trump-Pence won the Second Congressional District. Maine's electoral votes were proportionally awarded accordingly: for President, Biden 3 and Trump 1; for Vice President, Harris 3 and Pence 1.
-**Nebraska appoints its electors proportionally. Trump-Pence won in the First and Third Congressional Districts and took the state; Biden-Harris won the Second Congressional District. Nebraska's electoral votes were proportionally awarded accordingly: for President, Trump 4 and Biden 1; for Vice President, Pence 4 and Harris 1.
-
 ### [2016 Presidential Election Results – Federal Election Commission (FEC)](https://www.fec.gov/resources/cms-content/documents/federalelections2020.pdf)
 
 | Candidate | Votes | Percentage | Electoral College |
@@ -78,14 +75,9 @@ Surviving “The Apprentice: White House – Wrecking Ball”. [Trump](https://w
 | Trump (T) | 62,984,828 | 46.09% | 304 |
 | (Difference) | 2,868,686 | 2.09% | 77 |
 
-*Hawaii does not appoint its electors proportionally. Due to faithless voting, the electoral votes for Hawaii were: for President, Clinton 3 and Bernie Sanders 1; for Vice President, Kaine 3 and Elizabeth Warren 1.
-**Maine appoints its electors proportionally. Clinton/Kaine won in the First Congressional District and took the state; Trump/Pence won the Second Congressional District. Maine's electoral votes were proportionally awarded accordingly: for President, Clinton 3 and Trump 1; for Vice President, Kaine 3 and Pence 1.
-  ***Texas does not appoint its electors proportionally. Due to faithless voting, the electoral votes for Texas were: for President, Trump 36, Ron Paul 1, and John Kasich 1; for Vice President, Pence 37 and Carly Fiorina 1.
- ****Washington does not appoint its electors proportionally. Due to faithless voting, the electoral votes for Washington were: for President, Clinton 8, Colin Powell 3, and Faith Spotted Eagle 1; for Vice President, Kaine 8, Elizabeth Warren 1, Susan Collins 1, Maria Cantwell 1, and Winona LaDuke 1.
-
 ## Call to Action
 
-<div id="2026-03-28T20:00:00">
+<div id="2026-03-28T20:00:00Z">
 
 <h3>Saturday, March 28, 2026: No Kings International Protests</h3>
 
@@ -96,7 +88,9 @@ South Carolina has blown past 30 No Kings rallies, with new ones popping up hour
 
 </div>
 
+
 When agents encounter strangers, the Fourth Amendment imposes three core limitations:
+
 1. If, and only if, agents have particularized suspicion that a person may be guilty of a crime, they can stop the person (make a “Terry stop”) and pose a brief series of questions to dispel or confirm their suspicions. This is the basic dividing line that border czar Tom Homan and others in the administration say the agents are following in nearly every case.
 2. If, and only if, agents have developed probable cause that a person is guilty of a crime, they can arrest them—restrain their physical movements. That includes, of course, Americans or anyone else who assaults law enforcement.
 3. At all times, including during arrests, agents may not employ force that is unreasonable under the circumstances.
@@ -114,7 +108,7 @@ mid term election
 
 This section documents cultural moments that intersect with America’s civic turbulence. These aren’t entertainment notes or fan‑scrapbook entries; they’re artifacts that reflect the national mood, the pressure in the system, and the ways artists, communities, and public gatherings respond to it. Some events function as release valves, some as mirrors, and some — like Springsteen’s Land of Hope and Dreams tour — operate as full‑scale, collective protest without ever using the word.
 
-<div id="2026-05-24T23:59:59">
+<div id="2026-05-24T23:59:59Z">
 
 <h3><a href="https://brucespringsteen.net/news/2026/getting-ready-for-the-land-of-hope-and-dreams-american-tour/">March 31 – May 27: Getting ready for the Land of Hope and Dreams American Tour! / Bruce Springsteen</a></h3>
 
@@ -197,6 +191,7 @@ This section documents cultural moments that intersect with America’s civic tu
 </table>
 
 </div>
+
 
 ## Make Your Voice Heard
 
@@ -471,8 +466,8 @@ If a security issue is found, I can be notified by one of the following methods:
 
 <script>
 
-displayUntil("2025-06-14T23:59:59");
-displayUntil("2025-09-01T23:59:59");
+displayUntil("2025-06-14T23:59:59Z");
+displayUntil("2025-09-01T23:59:59Z");
 
 function displayUntil(dateUntil) {
     const now = new Date();
