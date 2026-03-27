@@ -114,11 +114,9 @@ This section documents cultural moments that intersect with America’s civic tu
 
 <em>A concert built as a civic pressure valve — a rolling protest wrapped in hope, momentum, and the refusal to surrender the American experiment.</em>
 
-<img src="./assets/images/2026-Bruce-Springsteen-Event-Page-864-x-540-5f70070305.jpg" alt="Bruce Springsteen and the E Street Band – Land of Hope and Dreams Tour">
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/j0-apl9C9rE?si=FBGt8aaNpzo12AMX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
----
+<img src="./assets/images/2026-Bruce-Springsteen-Event-Page-864-x-540-5f70070305.jpg" alt="Bruce Springsteen and the E Street Band – Land of Hope and Dreams Tour">
 
 <table>
     <thead>
