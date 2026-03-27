@@ -541,7 +541,8 @@ function setElementText(element, text) {
 
 <script>
 
-displayUntil("2026-03-28T20:00:00")
+displayUntil("2026-03-28T20:00:00");
+displayUntil("2026-05-24T23:59:59");
 
 // Set your dates here (year, month (0-based), day, hour, minute)
 const startDate = new Date(2025, 0, 19, 0, 0);     // Jan 20, 2025 12:00 PM
