@@ -114,7 +114,7 @@ This section documents cultural moments that intersect with America’s civic tu
 
 <em>A concert built as a civic pressure valve — a rolling protest wrapped in hope, momentum, and the refusal to surrender the American experiment.</em>
 
-<!--iframe width="560" height="315" src="https://www.youtube.com/embed/j0-apl9C9rE?si=FBGt8aaNpzo12AMX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe-->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j0-apl9C9rE?si=FBGt8aaNpzo12AMX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <!--...-->
 <br />
@@ -131,6 +131,7 @@ This section documents cultural moments that intersect with America’s civic tu
             <th>Location</th>
             <th>Date</th>
             <th>Location</th>
+        </tr>
     </thead>
     <tbody>
         <tr>
