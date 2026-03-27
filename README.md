@@ -118,6 +118,9 @@ This section documents cultural moments that intersect with America’s civic tu
 
 <img src="./assets/images/2026-Bruce-Springsteen-Event-Page-864-x-540-5f70070305.jpg" alt="Bruce Springsteen and the E Street Band – Land of Hope and Dreams Tour">
 
+<!--...-->
+<br />
+
 <table>
     <thead>
         <tr>
