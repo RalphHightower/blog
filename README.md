@@ -16,12 +16,12 @@ I am one of the *“enemies within”[^110]*.
 [^116]: Winston Smith, the protagonist of George Orwell’s “1984.”
 
 [^32768]: I freeze time; I photograph. RETIRED Software Engineer (C#, .Net), 50++ years experience; still active for personal projects. Also, I am one of the “enemy within” (D).
- 
+
 Prior to the 2024 election, I had concerns for democracy. Post election, I have fears for democracy. After [Trump](https://www.donaldjtrump.com/)'s second inauguration, democracy won't survive [Trump](https://www.donaldjtrump.com/).
 
-Now, democracy is on life support. 
+Now, democracy is on life support.
 
-## Days Into / Terminal Count Down 
+## Days Into / Terminal Count Down
 
 <div id="current-time"></div>
 
@@ -33,7 +33,7 @@ Now, democracy is on life support.
 
 <div id="daysRemaining"></div>
 
-[^2025]: @RalphHightower: I'm wishing that the time between January 20, 2025 and January 20, 2029 is a just a nightmare Holodeck[^2029] simulation. 
+[^2025]: @RalphHightower: I'm wishing that the time between January 20, 2025 and January 20, 2029 is a just a nightmare Holodeck[^2029] simulation.
 
 [^2029]: [Begin Program: The Reality Of Building a Holodeck Today / Star Trek](https://www.startrek.com/news/begin-program-the-reality-of-building-a-holodeck-today)<br />Star Trek: The Next Generation<br />Published May 18, 2021<br />By Becca Caddy
 
@@ -97,10 +97,10 @@ When agents encounter strangers, the Fourth Amendment imposes three core limitat
 
 
 <!--
-SC Democrat Primary 
+SC Democrat Primary
 2026-06-09T11:00:00Z – 2026-06-09T23:00:00Z
 
-mid term election 
+mid term election
 2026-11-03T12:00:00Z – 2026-11-04T00:00:00Z
 -->
 
@@ -117,6 +117,8 @@ This section documents cultural moments that intersect with America’s civic tu
 <img src="./assets/images/2026-Bruce-Springsteen-Event-Page-864-x-540-5f70070305.jpg" alt="Bruce Springsteen and the E Street Band – Land of Hope and Dreams Tour">
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/j0-apl9C9rE?si=FBGt8aaNpzo12AMX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
 
 <table>
     <thead>
@@ -212,7 +214,7 @@ This section documents cultural moments that intersect with America’s civic tu
 ### Protest Songs
 
 This is my [@YouTube](https://www.youtube com/) curated list of protest related songs for inspiring resistance and uprising against the [Trump](https://www.donaldjtrump.com/) [ap​pa​rat​chik](http://www.merriam-webster.com/dictionary/apparatchik).
- 
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LkQzsDav-oI?si=bTumzZ72t_unOdsY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### January 6, 2021 Insurrection
@@ -228,7 +230,7 @@ This is my [@YouTube](https://www.youtube com/) curated list of protest related 
 - [The Texting Network for the End of the World / WIRED](https://www.wired.com/story/youre-not-ready-for-phone-dead-zones/#intcid=_wired-article-bottom-recirc-bkt-a_32e02728-b9ff-409c-baf4-9fc00d0d8985_closr)
 - ['No Kings’ Protests, Citizen-Run ICE Trackers Trigger Intelligence Warnings / WIRED](https://www.wired.com/story/no-kings-protests-citizen-run-ice-trackers-trigger-intelligence-warnings/#intcid=_wired-article-bottom-recirc-bkt-a_32e02728-b9ff-409c-baf4-9fc00d0d8985_closr)
 
-## Resources 
+## Resources
 
 ### Find out who politicians owe their soul to:
 
@@ -797,13 +799,13 @@ function isMarALagoOpen(today) {
 
     return (isBetween(dateToday, dateMothersDay, dateHalloween) ? false : true);
     }
-    
+
 function mothersDay(param) {
     date = new Date(param);
     year = date.getFullYear();
     mayDay = new Date(year, 4, 1);
     weekDay = mayDay.getDay();
-//May begins : Second Sunday 
+//May begins : Second Sunday
 //1:14
 //2:13
 //3:12
