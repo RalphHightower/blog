@@ -49,106 +49,6 @@ Prior to that long shot of [Trump](https://www.donaldjtrump.com/) 1.0 winning th
 
 Surviving “The Apprentice: White House – Wrecking Ball”. [Trump](https://www.donaldjtrump.com/) 2.0 is about [Trump](https://www.donaldjtrump.com/)’s destruction of America and her democracy. Putting it in his words, “You got to fight for your country, or you won’t have a country.”
 
-## Resources 
-
-### Find out who politicians owe their soul to:
-
-- [OpenSecrets](https://www.opensecrets.org/)
-- [CREW / Citizens for Responsibility and Ethics in Washington](https://www.citizensforethics.org/)
-
-## Get access to your federal data:
-
-- [Office of Privacy and Civil Liberties / Overview of The Privacy Act of 1974 (2020 Edition)](https://www.justice.gov/opcl/overview-privacy-act-1974-2020-edition)
-- [The Privacy Act of 1974](https://osc.gov/Pages/Privacy-Act.aspx)
-
-## Make Your Voice Heard
-
-- [50501 — 50 protests, 50 states, 1 movement](https://www.fiftyfifty.one/)
-- [RepresentUs: Demand Accountable Government](https://represent.us/)
-- [DEFIANCE.org / Defy Trump, Together](https://www.defiance.org/)
-- [Indivisible](https://indivisible.org/)
-- [No Kings](https://www.nokings.org/)
-- [Activist Handbook / Campaigning guides for activists ✊](https://activisthandbook.org/)
-- [American Civil Liberties Union / The ACLU dares to create a more perfect union — beyond one person, party, or side. Our mission is to realize this promise of the United States Constitution for all and expand the reach of its guarantees.](https://www.aclu.org/)
-- [League of Conservation Voters](https://www.lcv.org/)
-- [People's Promise](https://peoplespromise.us/)
-- [The Resistance Lab — Pramila for Congress](https://www.pramilaforcongress.com/the-resistance-lab)
-- [SoSha (Social Share) – We’ve put together a social toolkit that tracks Trump's most unpopular policies and biggest failures. Share these posts with your networks and customize your messages so they break through the social media algorithms.](https://app.sosha.ai/toolkit/trump-news-headlines-media-9938)
-- [Stand Up America - Demanding the Democracy We Deserve](https://standupamerica.com/)
-- [Volunteer Opportunities, Events, and Petitions Near Me · Not Above the Law on Mobilize](https://www.mobilize.us/notabovethelaw/)
-
-## Resistance – WIRED
-
-- [The WIRED Guide to Protecting Yourself From Government Surveillance / WIRED](https://www.wired.com/story/the-wired-guide-to-protecting-yourself-from-government-surveillance/)
-- [How to Win a Fight / WIRED](https://www.wired.com/how-to-win-a-fight/)
-- [The Texting Network for the End of the World / WIRED](https://www.wired.com/story/youre-not-ready-for-phone-dead-zones/#intcid=_wired-article-bottom-recirc-bkt-a_32e02728-b9ff-409c-baf4-9fc00d0d8985_closr)
-- ['No Kings’ Protests, Citizen-Run ICE Trackers Trigger Intelligence Warnings / WIRED](https://www.wired.com/story/no-kings-protests-citizen-run-ice-trackers-trigger-intelligence-warnings/#intcid=_wired-article-bottom-recirc-bkt-a_32e02728-b9ff-409c-baf4-9fc00d0d8985_closr)
-
-### Call to Action
-
-<div id="2026-03-28T20:00:00">
-
-<h4>Saturday, March 28, 2026</h4>
-
-<img src="./assets/images/WeThePeopleRejectFascism.png" alt="We the People Reject Fascism">
-
-<p>On Saturday, March 28, 2026, multiple <a href="https://www.nokings.org/">No Kings Rallies</a> are being held across South Carolina. <a href="https://www.nokings.org/">Find one near you.</a></p>
-
-</div>
-
-When agents encounter strangers, the Fourth Amendment imposes three core limitations:
-1. If, and only if, agents have particularized suspicion that a person may be guilty of a crime, they can stop the person (make a “Terry stop”) and pose a brief series of questions to dispel or confirm their suspicions. This is the basic dividing line that border czar Tom Homan and others in the administration say the agents are following in nearly every case.
-2. If, and only if, agents have developed probable cause that a person is guilty of a crime, they can arrest them—restrain their physical movements. That includes, of course, Americans or anyone else who assaults law enforcement.
-3. At all times, including during arrests, agents may not employ force that is unreasonable under the circumstances.
-
-South Carolina has blown past 30 No Kings rallies, with new ones popping up hourly. Check NoKings.org for the latest.
-
-<!--
-SC Democrat Primary 
-2026-06-09T11:00:00Z – 2026-06-09T23:00:00Z
-
-mid term election 
-2026-11-03T12:00:00Z – 2026-11-04T00:00:00Z
--->
-
-Hold [Trump](https://www.donaldjtrump.com/)’s feet to the fire on his campaign promises. He promised to lower grocery prices, gas prices, car/truck prices, inflation, housing prices. Grade him on appliances prices, budget deficit, car and truck prices, consumer goods, economy, energy, groceries, housing prices, inflation, interest rate, stock market, trade deficit, unemployment.
-
-## Contributing
-
-This is my blog with an extremely anti-[Trump](https://www.donaldjtrump.com/) bias. If you agree that [Trump](https://www.donaldjtrump.com/) is going to destroy America and Democracy, I'll consider your contribution. I'll probably have to make administration changes to accept multiple authors.
-
-I've posted guidelines, rules, and the template for blog posts at: [RalphHightower/blog Guidelines Policies Rules · Discussions · GitHub](https://github.com/RalphHightower/blog/discussions/categories/guidelines-policies-rules)
-
-### Documentation
-
-This blog is built on [Jekyll](https://www.jekyllrb.com/); the source code is available on GitHub at [Jekyll](https://github.com/jekyll). Documentation is in the `docs/` folder. Guidance, rules, and policies are in the `docs/` folder.
-
-### Discussions
-
-- [RalphHightower/blog · Discussions · GitHub](https://github.com/RalphHightower/blog/discussions)
-    - [Announcements](https://github.com/RalphHightower/blog/discussions/categories/announcements)
-    - [Blog Commentary](https://github.com/RalphHightower/blog/discussions/categories/blog-commentary)
-    - [General](https://github.com/RalphHightower/blog/discussions/categories/general)
-    - [Guidelines, Policies, Rules](https://github.com/RalphHightower/blog/discussions/categories/guidelines-policies-rules)
-    - [Ideas](https://github.com/RalphHightower/blog/discussions/categories/ideas)
-    - [Notes](https://github.com/RalphHightower/blog/discussions/categories/notes)
-    - [Polls](https://github.com/RalphHightower/blog/discussions/categories/polls)
-    - [Q&A](https://github.com/RalphHightower/blog/discussions/categories/q-a)
-    - [References](https://github.com/RalphHightower/blog/discussions/categories/references)
-
-### Issues
-
-Issues can be created at [Issues · RalphHightower/blog](https://github.com/RalphHightower/blog/issues).
-
-### License
-
-### Security
-
-If a security issue is found, I can be notified by one of the following methods:
-
-- [Security Policy · RalphHightower/blog](https://github.com/RalphHightower/blog/security/policy)
-- [Security Advisories · RalphHightower/blog](https://github.com/RalphHightower/blog/security/advisories)
-
 ## Election Results
 
 ### [2024 Presidential Election Results – Federal Election Commission (FEC)](https://www.fec.gov/resources/cms-content/documents/2024presgeresults.pdf)
@@ -183,6 +83,113 @@ If a security issue is found, I can be notified by one of the following methods:
   ***Texas does not appoint its electors proportionally. Due to faithless voting, the electoral votes for Texas were: for President, Trump 36, Ron Paul 1, and John Kasich 1; for Vice President, Pence 37 and Carly Fiorina 1.
  ****Washington does not appoint its electors proportionally. Due to faithless voting, the electoral votes for Washington were: for President, Clinton 8, Colin Powell 3, and Faith Spotted Eagle 1; for Vice President, Kaine 8, Elizabeth Warren 1, Susan Collins 1, Maria Cantwell 1, and Winona LaDuke 1.
 
+## Call to Action
+
+<div id="2026-03-28T20:00:00">
+
+<h3>Saturday, March 28, 2026: No Kings International Protests</h3>
+
+<img src="./assets/images/WeThePeopleRejectFascism.png" alt="We the People Reject Fascism">
+
+<p>On Saturday, March 28, 2026, multiple <a href="https://www.nokings.org/">No Kings Rallies</a> are being held across South Carolina. <a href="https://www.nokings.org/">Find one near you.</a></p>
+
+</div>
+
+When agents encounter strangers, the Fourth Amendment imposes three core limitations:
+1. If, and only if, agents have particularized suspicion that a person may be guilty of a crime, they can stop the person (make a “Terry stop”) and pose a brief series of questions to dispel or confirm their suspicions. This is the basic dividing line that border czar Tom Homan and others in the administration say the agents are following in nearly every case.
+2. If, and only if, agents have developed probable cause that a person is guilty of a crime, they can arrest them—restrain their physical movements. That includes, of course, Americans or anyone else who assaults law enforcement.
+3. At all times, including during arrests, agents may not employ force that is unreasonable under the circumstances.
+
+South Carolina has blown past 30 No Kings rallies, with new ones popping up hourly. Check NoKings.org for the latest.
+
+<!--
+SC Democrat Primary 
+2026-06-09T11:00:00Z – 2026-06-09T23:00:00Z
+
+mid term election 
+2026-11-03T12:00:00Z – 2026-11-04T00:00:00Z
+-->
+
+## Events & Culture
+
+This section documents cultural moments that intersect with America’s civic turbulence. These aren’t entertainment notes or fan‑scrapbook entries; they’re artifacts that reflect the national mood, the pressure in the system, and the ways artists, communities, and public gatherings respond to it. Some events function as release valves, some as mirrors, and some — like Springsteen’s Land of Hope and Dreams tour — operate as full‑scale, collective protest without ever using the word.
+
+<div id="2026-05-24T23:59:59">
+
+<h3><a href="https://brucespringsteen.net/news/2026/getting-ready-for-the-land-of-hope-and-dreams-american-tour/">March 31 – May 27: Getting ready for the Land of Hope and Dreams American Tour! / Bruce Springsteen</a></h3>
+
+<em>A concert built as a civic pressure valve — a rolling protest wrapped in hope, momentum, and the refusal to surrender the American experiment.</em>
+
+<img src="./assets/images/2026-Bruce-Springsteen-Event-Page-864-x-540-5f70070305.jpg" alt="Bruce Springsteen and the E Street Band – Land of Hope and Dreams Tour">
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j0-apl9C9rE?si=FBGt8aaNpzo12AMX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+| Date | Location | Date | Location |
+|---|---|---|---|
+| 31 Mar 2026 | Minneapolis, MN | 3 Apr 2026 | Portland, OR |
+| 7 Apr 2026 | Inglewood, CA | 9 Apr 2026 | Inglewood, CA |
+| 13 Apr 2026 | San Francisco, CA | 16 Apr 2026 | Phoenix, AZ |
+| 20 Apr 2026 | Newark, NJ | 23 Apr 2026 | Sunrise, FL |
+| 26 Apr 2026 | Austin, TX | 29 Apr 2026 | Chicago, IL |
+| 2 May 2026 | Atlanta, GA | 5 May 2026 | Belmont Park, NY |
+| 8 May 2026 | Philadelphia, PA | 11 May 2026 | New York, NY |
+| 14 May 2026 | Brooklyn, NY | 16 May 2026 | New York, NY |
+| 19 May 2026 | Pittsburgh, PA | 22 May 2026 | Cleveland, OH |
+| 24 May 2026 | Boston, MA | 27 May 2026 | Washington, D.C. |
+
+</div>
+
+## Make Your Voice Heard
+
+- [50501 — 50 protests, 50 states, 1 movement](https://www.fiftyfifty.one/)
+- [RepresentUs: Demand Accountable Government](https://represent.us/)
+- [DEFIANCE.org / Defy Trump, Together](https://www.defiance.org/)
+- [Indivisible](https://indivisible.org/)
+- [No Kings](https://www.nokings.org/)
+- [Activist Handbook / Campaigning guides for activists ✊](https://activisthandbook.org/)
+- [American Civil Liberties Union / The ACLU dares to create a more perfect union — beyond one person, party, or side. Our mission is to realize this promise of the United States Constitution for all and expand the reach of its guarantees.](https://www.aclu.org/)
+- [League of Conservation Voters](https://www.lcv.org/)
+- [People's Promise](https://peoplespromise.us/)
+- [The Resistance Lab — Pramila for Congress](https://www.pramilaforcongress.com/the-resistance-lab)
+- [SoSha (Social Share) – We’ve put together a social toolkit that tracks Trump's most unpopular policies and biggest failures. Share these posts with your networks and customize your messages so they break through the social media algorithms.](https://app.sosha.ai/toolkit/trump-news-headlines-media-9938)
+- [Stand Up America - Demanding the Democracy We Deserve](https://standupamerica.com/)
+- [Volunteer Opportunities, Events, and Petitions Near Me · Not Above the Law on Mobilize](https://www.mobilize.us/notabovethelaw/)
+
+### Protest Songs
+
+This is my [@YouTube](https://www.youtube com/) curated list of protest related songs for inspiring resistance and uprising against the [Trump](https://www.donaldjtrump.com/) [ap​pa​rat​chik](http://www.merriam-webster.com/dictionary/apparatchik).
+ 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LkQzsDav-oI?si=bTumzZ72t_unOdsY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+### January 6, 2021 Insurrection
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WUB814y5ns0?si=BoffEEe2brDIg2SW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+[Trump](https://www.donaldjtrump.com/)'s actions following the 2020 election should have disqualified him from ever serving again. However, the [Trumpers](https://www.donaldjtrump.com/)[^330] in the [House](https://www.house.gov/) and [Senate](https://www.senate.gov/) chose **"Party Over Country"**
+
+## Resistance – WIRED
+
+- [The WIRED Guide to Protecting Yourself From Government Surveillance / WIRED](https://www.wired.com/story/the-wired-guide-to-protecting-yourself-from-government-surveillance/)
+- [How to Win a Fight / WIRED](https://www.wired.com/how-to-win-a-fight/)
+- [The Texting Network for the End of the World / WIRED](https://www.wired.com/story/youre-not-ready-for-phone-dead-zones/#intcid=_wired-article-bottom-recirc-bkt-a_32e02728-b9ff-409c-baf4-9fc00d0d8985_closr)
+- ['No Kings’ Protests, Citizen-Run ICE Trackers Trigger Intelligence Warnings / WIRED](https://www.wired.com/story/no-kings-protests-citizen-run-ice-trackers-trigger-intelligence-warnings/#intcid=_wired-article-bottom-recirc-bkt-a_32e02728-b9ff-409c-baf4-9fc00d0d8985_closr)
+
+## Resources 
+
+### Find out who politicians owe their soul to:
+
+- [OpenSecrets](https://www.opensecrets.org/)
+- [CREW / Citizens for Responsibility and Ethics in Washington](https://www.citizensforethics.org/)
+
+## Get access to your federal data:
+
+- [Office of Privacy and Civil Liberties / Overview of The Privacy Act of 1974 (2020 Edition)](https://www.justice.gov/opcl/overview-privacy-act-1974-2020-edition)
+- [The Privacy Act of 1974](https://osc.gov/Pages/Privacy-Act.aspx)
+
+## Trump’s Promises Forgotten
+
+Hold [Trump](https://www.donaldjtrump.com/)’s feet to the fire on his campaign promises. He promised to lower grocery prices, gas prices, car/truck prices, inflation, housing prices. Grade him on appliances prices, budget deficit, car and truck prices, consumer goods, economy, energy, groceries, housing prices, inflation, interest rate, stock market, trade deficit, unemployment.
+
 ## I Am One Of the *“Enemy Within”*
 
 I started my blog because I realized that maintaining my opinion/editorial page that [Donald Trump Is a Fucking Idiot](https://ralphhightower.github.io/RalphHightower/Opinions/DonaldTrumpIsAFuckingIdiot.html) was going to be unwieldy to update and maintain. You may have a different opinion from mine. But the only person that can convince me that [Trump](https://www.donaldjtrump.com/) is not a fucking idiot is Donald Trump himself. I probably won't change your opinion or vote. Likewise, you won't be able to change my assessment of [Trump](https://www.donaldjtrump.com/).
@@ -203,19 +210,6 @@ No, I do not have TDS ([Trump](https://www.donaldjtrump.com/) Derangement Syndro
 [^320]: [Wikipedia — Trump derangement syndrome](https://en.wikipedia.org/wiki/Trump_derangement_syndrome?wprov=sfla1)
 [^325]: [Trump](https://www.donaldjtrump.com/)'s sycophants, acolytes, and cult members, are just as infantile as [Trump](https://www.donaldjtrump.com/) with his name calling and labeling.
 [^340]: @RalphHightower: Since [Trumpers](https://www.donaldjtrump.com/) have their TDS for us, I created the *"Rabid [Trump](https://www.donaldjtrump.com/) Disease"* for them. Either that, or [Trump](https://www.donaldjtrump.com/) Cultists.
-
-### Protest Songs
-
-This is my [@YouTube](https://www.youtube com/) curated list of protest related songs for inspiring resistance and uprising against the [Trump](https://www.donaldjtrump.com/) [ap​pa​rat​chik](http://www.merriam-webster.com/dictionary/apparatchik).
- 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LkQzsDav-oI?si=bTumzZ72t_unOdsY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-### January 6, 2021 Insurrection
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WUB814y5ns0?si=BoffEEe2brDIg2SW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-[Trump](https://www.donaldjtrump.com/)'s actions following the 2020 election should have disqualified him from ever serving again. However, the [Trumpers](https://www.donaldjtrump.com/)[^330] in the [House](https://www.house.gov/) and [Senate](https://www.senate.gov/) chose **"Party Over Country"**
-
 [^330]: The [Republican Party](https://www.gop.com/) died July 2016 when it chose [Trump](https://www.donaldjtrump.com/) as its candidate for president.
 
 During [Trump](https://www.donaldjtrump.com/)'s presidential campaigns in 2015 (primary), 2016 campaign and his presidency from January 20, 2017 through January 6, 2020's provoked Insurrection, I assessed these critical character flaws of [Donald Trump](https://www.donaldjtrump.com/).
@@ -364,6 +358,42 @@ I have more information on my website: [Ralph Hightower — Website](https://ral
 | YouTube | [RalphHightower](https://www.youtube.com/@RalphHightower&show_icons) |
 
 [^21]: As of April 27, 2023, I deactivated my Twitter account based on this Elon Musk tweet:<br />[@ElonMusk](https://twitter.com/elonmusk/status/1651602599345373186): *Anyone making materially false statements on this platform will get Community Noted, including you, me, Tucker, advertisers, head of state, etc. No exceptions. <br />Convince the people and let the chips fall where they may.* <br />@RalphHightower: Seriously? Yet you welcomed back a pathological liar, Donald Trump, who incited and welcomed violence in an attempted coup d'état on January 6 in the storming of the U.S. Capitol. Twitter has gone to ***HELL!***
+
+## Contributing
+
+This is my blog with an extremely anti-[Trump](https://www.donaldjtrump.com/) bias. If you agree that [Trump](https://www.donaldjtrump.com/) is going to destroy America and Democracy, I'll consider your contribution. I'll probably have to make administration changes to accept multiple authors.
+
+I've posted guidelines, rules, and the template for blog posts at: [RalphHightower/blog Guidelines Policies Rules · Discussions · GitHub](https://github.com/RalphHightower/blog/discussions/categories/guidelines-policies-rules)
+
+### Documentation
+
+This blog is built on [Jekyll](https://www.jekyllrb.com/); the source code is available on GitHub at [Jekyll](https://github.com/jekyll). Documentation is in the `docs/` folder. Guidance, rules, and policies are in the `docs/` folder.
+
+### Discussions
+
+- [RalphHightower/blog · Discussions · GitHub](https://github.com/RalphHightower/blog/discussions)
+    - [Announcements](https://github.com/RalphHightower/blog/discussions/categories/announcements)
+    - [Blog Commentary](https://github.com/RalphHightower/blog/discussions/categories/blog-commentary)
+    - [General](https://github.com/RalphHightower/blog/discussions/categories/general)
+    - [Guidelines, Policies, Rules](https://github.com/RalphHightower/blog/discussions/categories/guidelines-policies-rules)
+    - [Ideas](https://github.com/RalphHightower/blog/discussions/categories/ideas)
+    - [Notes](https://github.com/RalphHightower/blog/discussions/categories/notes)
+    - [Polls](https://github.com/RalphHightower/blog/discussions/categories/polls)
+    - [Q&A](https://github.com/RalphHightower/blog/discussions/categories/q-a)
+    - [References](https://github.com/RalphHightower/blog/discussions/categories/references)
+
+### Issues
+
+Issues can be created at [Issues · RalphHightower/blog](https://github.com/RalphHightower/blog/issues).
+
+### License
+
+### Security
+
+If a security issue is found, I can be notified by one of the following methods:
+
+- [Security Policy · RalphHightower/blog](https://github.com/RalphHightower/blog/security/policy)
+- [Security Advisories · RalphHightower/blog](https://github.com/RalphHightower/blog/security/advisories)
 
 ### Authored Websites
 
@@ -649,7 +679,7 @@ function floatingHoliday(param) { // 1
         // December 25 (12/24, 12/26, 12/31: NYD)
         case 12: // December
             retVal = ((dateMonth - shift) == 25 ? true : false)
-                || ((dateMonth == 31) && (shift == -1) ? true: false);
+                | ((dateMonth == 31) && (shift == -1) ? true: false);
             break;
         } //2
     return (retVal);
