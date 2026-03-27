@@ -122,20 +122,77 @@ This section documents cultural moments that intersect with America’s civic tu
 
 <img src="./assets/images/2026-Bruce-Springsteen-Event-Page-864-x-540-5f70070305.jpg" alt="Bruce Springsteen and the E Street Band – Land of Hope and Dreams Tour">
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j0-apl9C9rE?si=FBGt8aaNpzo12AMX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-| Date | Location | Date | Location |
-|---|---|---|---|
-| 31 Mar 2026 | Minneapolis, MN | 3 Apr 2026 | Portland, OR |
-| 7 Apr 2026 | Inglewood, CA | 9 Apr 2026 | Inglewood, CA |
-| 13 Apr 2026 | San Francisco, CA | 16 Apr 2026 | Phoenix, AZ |
-| 20 Apr 2026 | Newark, NJ | 23 Apr 2026 | Sunrise, FL |
-| 26 Apr 2026 | Austin, TX | 29 Apr 2026 | Chicago, IL |
-| 2 May 2026 | Atlanta, GA | 5 May 2026 | Belmont Park, NY |
-| 8 May 2026 | Philadelphia, PA | 11 May 2026 | New York, NY |
-| 14 May 2026 | Brooklyn, NY | 16 May 2026 | New York, NY |
-| 19 May 2026 | Pittsburgh, PA | 22 May 2026 | Cleveland, OH |
-| 24 May 2026 | Boston, MA | 27 May 2026 | Washington, D.C. |
+<table>
+    <thead>
+        <tr>
+            <th>Date</th>
+            <th>Location</th>
+            <th>Date</th>
+            <th>Location</th>
+    </thead>
+    <tbody>
+        <tr>
+            <td>31 Mar 2026</td>
+            <td>Minneapolis, MN</td>
+            <td>3 Apr 2026</td>
+            <td>Portland, OR</td>
+        </tr>
+        <tr>
+            <td>7 Apr 2026</td>
+            <td>Inglewood, CA</td>
+            <td>9 Apr 2026</td>
+            <td>Inglewood, CA</td>
+        </tr>
+        <tr>
+            <td>13 Apr 2026</td>
+            <td>San Francisco, CA</td>
+            <td>16 Apr 2026</td>
+            <td>Phoenix, AZ</td>
+        </tr>
+        <tr>
+            <td>20 Apr 2026</td>
+            <td>Newark, NJ</td>
+            <td>23 Apr 2026</td>
+            <td>Sunrise, FL</td>
+        </tr>
+        <tr>
+            <td>26 Apr 2026</td>
+            <td>Austin, TX</td>
+            <td>29 Apr 2026</td>
+            <td>Chicago, IL</td>
+        </tr>
+        <tr>
+            <td>2 May 2026</td>
+            <td>Atlanta, GA</td>
+            <td>5 May 2026</td>
+            <td>Belmont Park, NY</td>
+        </tr>
+        <tr>
+            <td>8 May 2026</td>
+            <td>Philadelphia, PA</td>
+            <td>11 May 2026</td>
+            <td>New York, NY</td>
+        </tr>
+        <tr>
+            <td>14 May 2026</td>
+            <td>Brooklyn, NY</td>
+            <td>16 May 2026</td>
+            <td>New York, NY</td>
+        </tr>
+        <tr>
+            <td>19 May 2026</td>
+            <td>Pittsburgh, PA</td>
+            <td>22 May 2026</td>
+            <td>Cleveland, OH</td>
+        </tr>
+        <tr>
+            <td>24 May 2026</td>
+            <td>Boston, MA</td>
+            <td>27 May 2026</td>
+            <td>Washington, D.C.</td>
+        </tr>
+    </tbody>
+</table>
 
 </div>
 
