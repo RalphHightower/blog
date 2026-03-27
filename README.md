@@ -91,7 +91,8 @@ Surviving “The Apprentice: White House – Wrecking Ball”. [Trump](https://w
 
 <img src="./assets/images/WeThePeopleRejectFascism.png" alt="We the People Reject Fascism">
 
-<p>On Saturday, March 28, 2026, multiple <a href="https://www.nokings.org/">No Kings Rallies</a> are being held across South Carolina. <a href="https://www.nokings.org/">Find one near you.</a></p>
+<p>On Saturday, March 28, 2026 is the third <a href="https://www.nokings.org/">No Kings Rally.</a>
+South Carolina has blown past 30 No Kings rallies, with new ones popping up hourly. Check <a href="https://www.nokings.org/">NoKings.org for the latest.</a> It has gone international with multiple sites in Europe in support of the United States of America.<p/>
 
 </div>
 
@@ -100,7 +101,6 @@ When agents encounter strangers, the Fourth Amendment imposes three core limitat
 2. If, and only if, agents have developed probable cause that a person is guilty of a crime, they can arrest them—restrain their physical movements. That includes, of course, Americans or anyone else who assaults law enforcement.
 3. At all times, including during arrests, agents may not employ force that is unreasonable under the circumstances.
 
-South Carolina has blown past 30 No Kings rallies, with new ones popping up hourly. Check NoKings.org for the latest.
 
 <!--
 SC Democrat Primary 
@@ -121,6 +121,8 @@ This section documents cultural moments that intersect with America’s civic tu
 <em>A concert built as a civic pressure valve — a rolling protest wrapped in hope, momentum, and the refusal to surrender the American experiment.</em>
 
 <img src="./assets/images/2026-Bruce-Springsteen-Event-Page-864-x-540-5f70070305.jpg" alt="Bruce Springsteen and the E Street Band – Land of Hope and Dreams Tour">
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j0-apl9C9rE?si=FBGt8aaNpzo12AMX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <table>
     <thead>
