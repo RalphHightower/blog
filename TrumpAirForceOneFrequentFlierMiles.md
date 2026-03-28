@@ -14,6 +14,7 @@ toc: true
 - 2025-04-05: [Trump Never Let a Weekend of Golf ⛳️🔥💸 Interfere With a Commander-In-Chief’s Solemn Duty to Receive Fallen Military 🪖]({% link _posts/2025/04/2025-04-05-MilitaryFallenDontInterruptTrumpGolfWeekends.md %})
 
 [^666]: @RalphHightower – [Federal Aviation Administration - Graphic TFRs](https://tfr.faa.gov/tfr3/?page=list)
+[^966]: Saudi Private Investment Fund – [Future Investment Initiative Institute](https://en.wikipedia.org/wiki/Future_Investment_Initiative_Institute?wprov=sfla1)
 
 🔥💸 = Government Shutdown
 
