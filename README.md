@@ -108,6 +108,13 @@ mid term election
 
 This section documents cultural moments that intersect with America’s civic turbulence. These aren’t entertainment notes or fan‑scrapbook entries; they’re artifacts that reflect the national mood, the pressure in the system, and the ways artists, communities, and public gatherings respond to it. Some events function as release valves, some as mirrors, and some — like Springsteen’s Land of Hope and Dreams tour — operate as full‑scale, collective protest without ever using the word.
 
+## 🌾 Farm Aid 2026
+Why I’m Highlighting It This Year
+
+The Iran war has triggered a chain reaction in the real economy — LNG, diesel, fertilizer, fishing fuel, freight, plastics, even the coal and metals that keep the grid running. Diesel delivers everything, from crops to catch to coal for power plants, and when it spikes, the whole system tightens. Farmers and fishermen feel it first. With Farm Aid returning in 2026, I’m posting a full breakdown on the blog about how these rising costs ripple through the country we all depend on.
+
+Read the full post →
+
 <div id="2026-05-24T23:59:59Z">
 
 <h3><a href="https://brucespringsteen.net/news/2026/getting-ready-for-the-land-of-hope-and-dreams-american-tour/">March 31 – May 27: Getting ready for the Land of Hope and Dreams American Tour! / Bruce Springsteen</a></h3>
@@ -116,13 +123,7 @@ This section documents cultural moments that intersect with America’s civic tu
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/j0-apl9C9rE?si=FBGt8aaNpzo12AMX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<!--...-->
-<br />
-
 <img src="./assets/images/2026-Bruce-Springsteen-Event-Page-864-x-540-5f70070305.jpg" alt="Bruce Springsteen and the E Street Band – Land of Hope and Dreams Tour">
-
-<!--...-->
-<br />
 
 <table>
     <thead>
