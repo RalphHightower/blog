@@ -116,10 +116,10 @@ At the third <a href="https://www.nokings.org/">No Kings Rally</a> in South Caro
 <script>
 displayUntil("2026-11-04T00:00:00Z");
 displayUntil("2026-06-09T23:00:00Z");
-displayBegin(primary-open, "2026-06-09T11:00:00Z");
-displayBegin(primary-close, "2026-06-09T23:00:00Z");
-displayBegin(midterm-open, "2026-06-09T11:00:00Z");
-displayBegin(midterm-close, "2026-11-04T00:00:00Z");
+displayBegin("primary-open", "2026-06-09T11:00:00Z");
+displayBegin("primary-close", "2026-06-09T23:00:00Z");
+displayBegin("midterm-open", "2026-06-09T11:00:00Z");
+displayBegin("midterm-close", "2026-11-04T00:00:00Z");
 </script>
 
 <div id="2026-11-04T00:00:00Z"> <!-- 2026-11-04T00:00:00Z -->
