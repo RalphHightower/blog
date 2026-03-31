@@ -114,7 +114,7 @@ At the third <a href="https://www.nokings.org/">No Kings Rally</a> in South Caro
 </div> <!-- 2026-05-01T20:00:00Z -->
 
 <script>
-displayUntil("2026-06-09T23:00:00Z")
+displayUntil("2026-06-09T23:00:00Z");
 </script>
 
 <div id="2026-06-09T23:00:00Z"> <!-- 2026-06-09T23:00:00Z -->
@@ -122,7 +122,7 @@ displayUntil("2026-06-09T23:00:00Z")
 <h3>VOTE!</h3> 
 
 <script>
-displayUntil(2026-06-09T23:00:00Z")
+displayUntil(2026-06-09T23:00:00Z") 
 </script>
 
 <div id="2026-06-09T23:00:00Z"> <!-- 2026-06-09T23:00:00Z -->
