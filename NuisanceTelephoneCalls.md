@@ -20,6 +20,11 @@ The telephone numbers below have called and there is an empty person on the othe
 
 | Telephone Number | Location | Date Time[^11]<sup>,</sup>[^12] | Caller | Social Media |
 |---|---|---|---|---|
+| [\+1 (803) 828-3887](tel:+18038283887) | SC. Columbia | 2026-03-30 06:17 PM | Alston, Denise | |
+| [\+1 (803) 545-4548](tel:+18035454548) | SC. Columbia | 2026-03-25 06:14 PM | S C STATE GOVT | |
+| [\+1 (803) 228-0581](tel:+18032280581) | SC. Fort Mills | 2026-03-25 02:17 PM | Susan Anderson | |
+| [\+1 (803) 489-7433](tel:+18034897433) | SC. Beech Island | 2026-03-24 03:31 PM | | |
+| [\+1 (803) 818-5010](tel:+18038185010) | SC. York | 2026-03-18 04:14 PM | Bacon Conrad (JORMETREHEL D ANDERSON) | |
 | [\+1 (803) 547-5601](tel:+18035475601) | SC. Fort Mill | 2026-03-13 01:40 PM | W SCHLEMMER(G SCHLEMMER) | |
 | [\+1 (803) 814-2941](tel:+18038142941) | SC. Columbia | 2026-03-12 05:47 PM | BERRY JEARLINE | |
 | [\+1 (803) 233-2327](tel:+18032332327) | SC. Columbia | 2026-03-12 01:34 PM | — | |
@@ -661,8 +666,6 @@ The telephone numbers below have called and there is an empty person on the othe
 | [\+1 (803) 768-4753](tel:+18037684753) | SC. Newberry | 2025-06-23 05:51 PM | — | |
 | [\+1 (803) 234-5124](tel:+18032345124) | SC. Columbia | 2025-06-23 04:05 PM | Signet | |
 | [\+1 (803) 216-0890](tel:+18032160890) | SC. Columbia | 2025-06-23 02:53 PM | — | |
-| [\+1 (803) 394-3716](tel:+18033943716) | SC. Columbia | 2025-06-23 12:55 PM ¤¤ | Laura Jones | |
-| [\+1 (803) 394-3716](tel:+18033943716) | SC. Columbia | 2025-06-23 12:54 PM | Laura Jones | |
 | [\+1 (803) 694-8524](tel:+18036948524) | SC. Whitmire | 2025-06-23 09:59 AM | — | |
 | [\+1 (803) 738-1506](tel:+18037381506) | SC. Columbia | 2025-06-20 03:27 PM | — | |
 | [\+1 (803) 400-4681](tel:+18034004681) | SC. Columbia | 2025-06-20 02:15 PM | — | |
