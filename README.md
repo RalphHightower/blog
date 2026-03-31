@@ -138,8 +138,6 @@ displayBegin("midterm-close", "2026-11-04T00:00:00Z");
 
 </div> <!-- 2026-06-09T23:00:00Z -->
 
-<div id="2026-11-04T00:00:00Z"> <!-- 2026-11-04T00:00:00Z -->
-
 <h4>Mid Term Election</h4>
 
 <h5>Tuesday, November 3, 2026</h5>
