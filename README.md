@@ -501,7 +501,38 @@ If a security issue is found, I can be notified by one of the following methods:
 [^32]: Support ended with wheelstop of Space Shuttle Atlantis on July 21, 2011 with the end of the Space Shuttle fleet.
 [^33]: @RalphHightower: The Columbia metro area probably encompasses a larger area than those two counties, but Lexington and Richland are as far as we are willing to drive. Plus, crossing the Broad River to the Northeast area of Columbia is a farther distance. I've included Sandhills Shopping Center since we would eat there after meeting with our financial advisor when he was located out that way.
 
+### [USC Gamecocks](https://www.sc.edu/)
+
+| [USC — University of South Carolina](https://www.sc.edu) |
+|---|
+| [USC — College of Engineering and Computing](https://sc.edu/study/colleges_schools/engineering_and_computing/index.php) |
+| [USC Alumni Association](https://uofscalumni.org/) |
+| [USC Gamecock Sports](https://gamecocksonline.com/) |
+| [WUSC-FM 90.5 FM](https://garnetgate.sa.sc.edu/organization/wuscfm)[^61] |
+| [Carolina Band](https://sc.edu/study/colleges_schools/music/ensembles/usc_bands/athletic_bands/carolina_band/index.php) |
+| [University Band](https://sc.edu/study/colleges_schools/music/ensembles/usc_bands/concert_bands/university_band.php) |
+| [Jazz Bands](https://sc.edu/study/colleges_schools/music/ensembles/jazz_ensembles/index.php) |
+
+[^61]: WUSC-FM was an AM Radio 📻 broadcast station when I was a student.
+
+[![OpenSSF Best Practices](https://www.bestpractices.dev/projects/9780/badge)](https://www.bestpractices.dev/projects/9780)
+
+|   |
+|---|
+| ![Ralph Hightower Repository’s Stats](https://github-readme-stats.vercel.app/api?username=RalphHightower&show_icons=true&title_color=73000a&text_color=73000a&border_color=73000a&icon_color=73000a&bg_color=ffffff&include_all_commits=false&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)|
+| ![GitHub Streak](https://streak-stats.vercel.app?user=RalphHightower&date_format=Y-m-d&border=73000a&stroke=73000a&ring=73000a&fire=73000a&currStreakNum=73000a&sideNums=73000a&currStreakLabel=73000a&sideLabels=73000a&dates=73000a) |
+| ![RalphHightower's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RalphHightower&theme=minimal&color=73000a&title_color=73000a&line=73000a&point=73000a) |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RalphHightower&theme=default) |
+
+|    |    |
+|---|---|
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RalphHightower&theme=default) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RalphHightower&theme=default&utcOffset=-5) |
+
 <script>
+
+// Set your dates here (year, month (0-based), day, hour, minute)
+const startDate = new Date(2025, 0, 19, 0, 0);     // Jan 20, 2025 12:00 PM
+const endDate = new Date(2029, 0, 20, 12, 0, 0);      // Jan 20, 2029, 12:00 PM
 
 displayUntil("2026-03-28T20:00:00Z");
 displayUntil("2026-05-01T20:00:00Z");
@@ -555,42 +586,6 @@ function setElementText(element, text) {
         document.getElementById(element).textContent =  text;
         }
     }
-
-</script>
-
-### [USC Gamecocks](https://www.sc.edu/)
-
-| [USC — University of South Carolina](https://www.sc.edu) |
-|---|
-| [USC — College of Engineering and Computing](https://sc.edu/study/colleges_schools/engineering_and_computing/index.php) |
-| [USC Alumni Association](https://uofscalumni.org/) |
-| [USC Gamecock Sports](https://gamecocksonline.com/) |
-| [WUSC-FM 90.5 FM](https://garnetgate.sa.sc.edu/organization/wuscfm)[^61] |
-| [Carolina Band](https://sc.edu/study/colleges_schools/music/ensembles/usc_bands/athletic_bands/carolina_band/index.php) |
-| [University Band](https://sc.edu/study/colleges_schools/music/ensembles/usc_bands/concert_bands/university_band.php) |
-| [Jazz Bands](https://sc.edu/study/colleges_schools/music/ensembles/jazz_ensembles/index.php) |
-
-[^61]: WUSC-FM was an AM Radio 📻 broadcast station when I was a student.
-
-[![OpenSSF Best Practices](https://www.bestpractices.dev/projects/9780/badge)](https://www.bestpractices.dev/projects/9780)
-
-|   |
-|---|
-| ![Ralph Hightower Repository’s Stats](https://github-readme-stats.vercel.app/api?username=RalphHightower&show_icons=true&title_color=73000a&text_color=73000a&border_color=73000a&icon_color=73000a&bg_color=ffffff&include_all_commits=false&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)|
-| ![GitHub Streak](https://streak-stats.vercel.app?user=RalphHightower&date_format=Y-m-d&border=73000a&stroke=73000a&ring=73000a&fire=73000a&currStreakNum=73000a&sideNums=73000a&currStreakLabel=73000a&sideLabels=73000a&dates=73000a) |
-| ![RalphHightower's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RalphHightower&theme=minimal&color=73000a&title_color=73000a&line=73000a&point=73000a) |
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RalphHightower&theme=default) |
-
-|    |    |
-|---|---|
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RalphHightower&theme=default) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RalphHightower&theme=default&utcOffset=-5) |
-
-<script>
-
-// Set your dates here (year, month (0-based), day, hour, minute)
-const startDate = new Date(2025, 0, 19, 0, 0);     // Jan 20, 2025 12:00 PM
-const endDate = new Date(2029, 0, 20, 12, 0, 0);      // Jan 20, 2029, 12:00 PM
-
 
 function getTimeSpan(from, to) {
     return(to, from);
