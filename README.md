@@ -248,7 +248,8 @@ displayUntil("2026-09-31T23:59:59Z");
 
 <div id="2026-09-31T23:59:59Z"> <!-- 2026-09-31T23:59:59Z -->
 
-## 🌾 Farm Aid 2026
+<h3>🌾 Farm Aid 2026</h3>
+
 Why I’m Highlighting It This Year
 
 The Iran war has triggered a chain reaction in the real economy — LNG, diesel, fertilizer, fishing fuel, freight, plastics, even the coal and metals that keep the grid running. Diesel delivers everything, from crops to catch to coal for power plants, and when it spikes, the whole system tightens. Farmers and fishermen feel it first. With Farm Aid returning in 2026, I’m posting a full breakdown on the blog about how these rising costs ripple through the country we all depend on.
