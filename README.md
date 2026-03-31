@@ -77,7 +77,7 @@ Surviving “The Apprentice: White House – Wrecking Ball”. [Trump](https://w
 
 ## Call to Action
 
-<div id="2026-03-28T20:00:00Z">
+<div id="2026-03-28T20:00:00Z"> <!-- 2026-03-28T20:00:00Z -->
 
 <h3>Saturday, March 28, 2026: No Kings International Protests</h3>
 
@@ -86,8 +86,7 @@ Surviving “The Apprentice: White House – Wrecking Ball”. [Trump](https://w
 <p>On Saturday, March 28, 2026 is the third <a href="https://www.nokings.org/">No Kings Rally.</a>
 South Carolina has blown past 30 No Kings rallies, with new ones popping up hourly. Check <a href="https://www.nokings.org/">NoKings.org for the latest.</a> It has gone international with multiple sites in Europe in support of the United States of America.</p>
 
-</div>
-
+</div> <!-- 2026-03-28T20:00:00Z -->
 
 When agents encounter strangers, the Fourth Amendment imposes three core limitations:
 
@@ -95,25 +94,48 @@ When agents encounter strangers, the Fourth Amendment imposes three core limitat
 2. If, and only if, agents have developed probable cause that a person is guilty of a crime, they can arrest them—restrain their physical movements. That includes, of course, Americans or anyone else who assaults law enforcement.
 3. At all times, including during arrests, agents may not employ force that is unreasonable under the circumstances.
 
+<div id="2026-05-01T20:00:00Z"> <!-- 2026-05-01T20:00:00Z -->
 
-<!--
-SC Democrat Primary
-2026-06-09T11:00:00Z – 2026-06-09T23:00:00Z
+<h3>Friday, May 1, 2026: No Kings International Protests</h3>
 
-mid term election
-2026-11-03T12:00:00Z – 2026-11-04T00:00:00Z
--->
+<img src="./assets/images/WeThePeopleRejectFascism.png" alt="We the People Reject Fascism">
+
+<p>On Friday, May 1, 2026 is the fourth <a href="https://www.nokings.org/">No Kings Rally.</a>
+At the third <a href="https://www.nokings.org/">No Kings Rally</a> in South Carolina. there were over 30 No Kings rallies, with new ones popping up hourly. Check <a href="https://www.nokings.org/">NoKings.org for the latest.</a> It has gone international with multiple sites in Europe in support of the United States of America.</p>
+
+</div> <!-- 2026-05-01T20:00:00Z -->
+
+<div id="2026-11-04T00:00:00Z"> <!-- 2026-11-04T00:00:00Z -->
+
+<h3>VOTE!</h3> 
+
+<div id="2026-06-09T23:00:00Z"> <!-- 2026-06-09T23:00:00Z -->
+
+<h4>SC Democrat Primary</h4>
+
+<h5>Tuesday, June 9 2026</h5>
+
+<!-- 2026-06-09T11:00:00Z – 2026-06-09T23:00:00Z -->
+<div id="primary-open"></div>
+<div id="primary-close"></div>
+
+</div> <!-- 2026-06-09T23:00:00Z -->
+
+<div id="2026-11-04T00:00:00Z"> <!-- 2026-11-04T00:00:00Z -->
+
+<h4>Mid Term Election</h4>
+
+<h5>Tuesday, November 3, 2026</h5>
+
+<!-- 2026-11-03T12:00:00Z – 2026-11-04T00:00:00Z -->
+<div id="midterm-open"></div>
+<div id="midterm-close"></div>
+
+</div> <!-- 2026-11-04T00:00:00Z -->
 
 ## Events & Culture
 
 This section documents cultural moments that intersect with America’s civic turbulence. These aren’t entertainment notes or fan‑scrapbook entries; they’re artifacts that reflect the national mood, the pressure in the system, and the ways artists, communities, and public gatherings respond to it. Some events function as release valves, some as mirrors, and some — like Springsteen’s Land of Hope and Dreams tour — operate as full‑scale, collective protest without ever using the word.
-
-## 🌾 Farm Aid 2026
-Why I’m Highlighting It This Year
-
-The Iran war has triggered a chain reaction in the real economy — LNG, diesel, fertilizer, fishing fuel, freight, plastics, even the coal and metals that keep the grid running. Diesel delivers everything, from crops to catch to coal for power plants, and when it spikes, the whole system tightens. Farmers and fishermen feel it first. With Farm Aid returning in 2026, I’m posting a full breakdown on the blog about how these rising costs ripple through the country we all depend on.
-
-Read the full post →
 
 <div id="2026-05-24T23:59:59Z">
 
@@ -200,6 +222,16 @@ Read the full post →
 
 </div>
 
+<div id="2026-09-31T23:59:59Z">
+
+## 🌾 Farm Aid 2026
+Why I’m Highlighting It This Year
+
+The Iran war has triggered a chain reaction in the real economy — LNG, diesel, fertilizer, fishing fuel, freight, plastics, even the coal and metals that keep the grid running. Diesel delivers everything, from crops to catch to coal for power plants, and when it spikes, the whole system tightens. Farmers and fishermen feel it first. With Farm Aid returning in 2026, I’m posting a full breakdown on the blog about how these rising costs ripple through the country we all depend on.
+
+Read the full post →
+
+</div>
 
 ## Make Your Voice Heard
 
@@ -472,10 +504,55 @@ If a security issue is found, I can be notified by one of the following methods:
 [^32]: Support ended with wheelstop of Space Shuttle Atlantis on July 21, 2011 with the end of the Space Shuttle fleet.
 [^33]: @RalphHightower: The Columbia metro area probably encompasses a larger area than those two counties, but Lexington and Richland are as far as we are willing to drive. Plus, crossing the Broad River to the Northeast area of Columbia is a farther distance. I've included Sandhills Shopping Center since we would eat there after meeting with our financial advisor when he was located out that way.
 
+### [USC Gamecocks](https://www.sc.edu/)
+
+| [USC — University of South Carolina](https://www.sc.edu) |
+|---|
+| [USC — College of Engineering and Computing](https://sc.edu/study/colleges_schools/engineering_and_computing/index.php) |
+| [USC Alumni Association](https://uofscalumni.org/) |
+| [USC Gamecock Sports](https://gamecocksonline.com/) |
+| [WUSC-FM 90.5 FM](https://garnetgate.sa.sc.edu/organization/wuscfm)[^61] |
+| [Carolina Band](https://sc.edu/study/colleges_schools/music/ensembles/usc_bands/athletic_bands/carolina_band/index.php) |
+| [University Band](https://sc.edu/study/colleges_schools/music/ensembles/usc_bands/concert_bands/university_band.php) |
+| [Jazz Bands](https://sc.edu/study/colleges_schools/music/ensembles/jazz_ensembles/index.php) |
+
+[^61]: WUSC-FM was an AM Radio 📻 broadcast station when I was a student.
+
+[![OpenSSF Best Practices](https://www.bestpractices.dev/projects/9780/badge)](https://www.bestpractices.dev/projects/9780)
+
+|   |
+|---|
+| ![Ralph Hightower Repository’s Stats](https://github-readme-stats.vercel.app/api?username=RalphHightower&show_icons=true&title_color=73000a&text_color=73000a&border_color=73000a&icon_color=73000a&bg_color=ffffff&include_all_commits=false&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)|
+| ![GitHub Streak](https://streak-stats.vercel.app?user=RalphHightower&date_format=Y-m-d&border=73000a&stroke=73000a&ring=73000a&fire=73000a&currStreakNum=73000a&sideNums=73000a&currStreakLabel=73000a&sideLabels=73000a&dates=73000a) |
+| ![RalphHightower's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RalphHightower&theme=minimal&color=73000a&title_color=73000a&line=73000a&point=73000a) |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RalphHightower&theme=default) |
+
+|    |    |
+|---|---|
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RalphHightower&theme=default) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RalphHightower&theme=default&utcOffset=-5) |
+
 <script>
 
-displayUntil("2025-06-14T23:59:59Z");
-displayUntil("2025-09-01T23:59:59Z");
+// Set your dates here (year, month (0-based), day, hour, minute)
+const startDate = new Date(2025, 0, 19, 0, 0);     // Jan 20, 2025 12:00 PM
+const endDate = new Date(2029, 0, 20, 12, 0, 0);      // Jan 20, 2029, 12:00 PM
+
+displayUntil("2026-03-28T20:00:00Z");
+displayUntil("2026-05-01T20:00:00Z");
+displayUntil("2026-05-24T23:59:59Z");
+displayUntil("2026-06-09T23:00:00Z");
+displayUntil("2026-09-31T23:59:59Z");
+displayUntil("2026-11-04T00:00:00Z");
+
+function displayBegin(dateUntil) {
+    const now = new Date();
+    const until = new Date(dateUntil);
+    span = timeSpan(now, until);
+    if (span > 0)
+        hideElement(dateUntil);
+    else
+        showElement(dateUntil);
+    }
 
 function displayUntil(dateUntil) {
     const now = new Date();
@@ -513,43 +590,9 @@ function setElementText(element, text) {
         }
     }
 
-</script>
-
-### [USC Gamecocks](https://www.sc.edu/)
-
-| [USC — University of South Carolina](https://www.sc.edu) |
-|---|
-| [USC — College of Engineering and Computing](https://sc.edu/study/colleges_schools/engineering_and_computing/index.php) |
-| [USC Alumni Association](https://uofscalumni.org/) |
-| [USC Gamecock Sports](https://gamecocksonline.com/) |
-| [WUSC-FM 90.5 FM](https://garnetgate.sa.sc.edu/organization/wuscfm)[^61] |
-| [Carolina Band](https://sc.edu/study/colleges_schools/music/ensembles/usc_bands/athletic_bands/carolina_band/index.php) |
-| [University Band](https://sc.edu/study/colleges_schools/music/ensembles/usc_bands/concert_bands/university_band.php) |
-| [Jazz Bands](https://sc.edu/study/colleges_schools/music/ensembles/jazz_ensembles/index.php) |
-
-[^61]: WUSC-FM was an AM Radio 📻 broadcast station when I was a student.
-
-[![OpenSSF Best Practices](https://www.bestpractices.dev/projects/9780/badge)](https://www.bestpractices.dev/projects/9780)
-
-|   |
-|---|
-| ![Ralph Hightower Repository’s Stats](https://github-readme-stats.vercel.app/api?username=RalphHightower&show_icons=true&title_color=73000a&text_color=73000a&border_color=73000a&icon_color=73000a&bg_color=ffffff&include_all_commits=false&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)|
-| ![GitHub Streak](https://streak-stats.vercel.app?user=RalphHightower&date_format=Y-m-d&border=73000a&stroke=73000a&ring=73000a&fire=73000a&currStreakNum=73000a&sideNums=73000a&currStreakLabel=73000a&sideLabels=73000a&dates=73000a) |
-| ![RalphHightower's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RalphHightower&theme=minimal&color=73000a&title_color=73000a&line=73000a&point=73000a) |
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RalphHightower&theme=default) |
-
-|    |    |
-|---|---|
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RalphHightower&theme=default) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RalphHightower&theme=default&utcOffset=-5) |
-
-<script>
-
-displayUntil("2026-03-28T20:00:00");
-displayUntil("2026-05-24T23:59:59");
-
-// Set your dates here (year, month (0-based), day, hour, minute)
-const startDate = new Date(2025, 0, 19, 0, 0);     // Jan 20, 2025 12:00 PM
-const endDate = new Date(2029, 0, 20, 12, 0, 0);      // Jan 20, 2029, 12:00 PM
+function getTimeSpan(from, to) {
+    return(to, from);
+    }
 
 function getDaysDiff(from, to) {
     // Calculate difference in milliseconds
@@ -599,6 +642,13 @@ function fmtPercent(real) {
     const pct = Math.round(real * 10000) / 100;
     percent = pct.toFixed(2);
     return percent;
+    }
+    
+function fmtHMS(label, time) {
+    Date dt = new Date(time);
+    const tm = dt.toTimeString();
+    const hhmmss = tm.substring(0, 8);
+    const display = lable + hhmmss;
     }
 
 function showElement(name) { // 1
