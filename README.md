@@ -77,8 +77,7 @@ Surviving “The Apprentice: White House – Wrecking Ball”. [Trump](https://w
 
 ## Call to Action
 
-
-<div id="2026-03-28T20:00:00Z">
+<div id="2026-03-28T20:00:00Z"> <!-- 2026-03-28T20:00:00Z -->
 
 <h3>Saturday, March 28, 2026: No Kings International Protests</h3>
 
@@ -87,7 +86,7 @@ Surviving “The Apprentice: White House – Wrecking Ball”. [Trump](https://w
 <p>On Saturday, March 28, 2026 is the third <a href="https://www.nokings.org/">No Kings Rally.</a>
 South Carolina has blown past 30 No Kings rallies, with new ones popping up hourly. Check <a href="https://www.nokings.org/">NoKings.org for the latest.</a> It has gone international with multiple sites in Europe in support of the United States of America.</p>
 
-</div>
+</div> <!-- 2026-03-28T20:00:00Z -->
 
 When agents encounter strangers, the Fourth Amendment imposes three core limitations:
 
@@ -106,7 +105,7 @@ At the third <a href="https://www.nokings.org/">No Kings Rally</a> in South Caro
 
 </div> <!-- 2026-05-01T20:00:00Z -->
 
-<div id="2026-06-09T23:00:00Z"> <!-- 2026-06-09T23:00:00Z -->
+<div id="2026-11-04T00:00:00Z"> <!-- 2026-11-04T00:00:00Z -->
 
 <h3>VOTE!</h3> 
 
@@ -120,6 +119,10 @@ At the third <a href="https://www.nokings.org/">No Kings Rally</a> in South Caro
 <div id="primary-open"></div>
 <div id="primary-close"></div>
 
+</div> <!-- 2026-06-09T23:00:00Z -->
+
+<div id="2026-11-04T00:00:00Z"> <!-- 2026-11-04T00:00:00Z -->
+
 <h4>Mid Term Election</h4>
 
 <h5>Tuesday, November 3, 2026</h5>
@@ -128,7 +131,7 @@ At the third <a href="https://www.nokings.org/">No Kings Rally</a> in South Caro
 <div id="midterm-open"></div>
 <div id="midterm-close"></div>
 
-</div> <!-- 2026-06-09T23:00:00Z -->
+</div> <!-- 2026-11-04T00:00:00Z -->
 
 ## Events & Culture
 
@@ -539,7 +542,7 @@ displayUntil("2026-05-01T20:00:00Z");
 displayUntil("2026-05-24T23:59:59Z");
 displayUntil("2026-06-09T23:00:00Z");
 displayUntil("2026-09-31T23:59:59Z");
-displayUntil("2026-09-31T23:59:59Z");
+displayUntil("2026-11-04T00:00:00Z");
 
 function displayBegin(dateUntil) {
     const now = new Date();
