@@ -77,6 +77,10 @@ Surviving “The Apprentice: White House – Wrecking Ball”. [Trump](https://w
 
 ## Call to Action
 
+<script>
+displayUntil("2026-03-28T20:00:00Z");
+</script>
+
 <div id="2026-03-28T20:00:00Z"> <!-- 2026-03-28T20:00:00Z -->
 
 <h3>Saturday, March 28, 2026: No Kings International Protests</h3>
@@ -94,6 +98,10 @@ When agents encounter strangers, the Fourth Amendment imposes three core limitat
 2. If, and only if, agents have developed probable cause that a person is guilty of a crime, they can arrest them—restrain their physical movements. That includes, of course, Americans or anyone else who assaults law enforcement.
 3. At all times, including during arrests, agents may not employ force that is unreasonable under the circumstances.
 
+<script>
+displayUntil("2026-05-01T20:00:00Z");
+</script>
+
 <div id="2026-05-01T20:00:00Z"> <!-- 2026-05-01T20:00:00Z -->
 
 <h3>Friday, May 1, 2026: No Kings International Protests</h3>
@@ -105,9 +113,17 @@ At the third <a href="https://www.nokings.org/">No Kings Rally</a> in South Caro
 
 </div> <!-- 2026-05-01T20:00:00Z -->
 
+<script>
+displayUntil("2026-06-09T23:00:00Z");
+</script>
+
 <div id="2026-11-04T00:00:00Z"> <!-- 2026-11-04T00:00:00Z -->
 
 <h3>VOTE!</h3> 
+
+<script>
+displayUntil("2026-11-04T00:00:00Z");
+</script>
 
 <div id="2026-06-09T23:00:00Z"> <!-- 2026-06-09T23:00:00Z -->
 
@@ -137,7 +153,11 @@ At the third <a href="https://www.nokings.org/">No Kings Rally</a> in South Caro
 
 This section documents cultural moments that intersect with America’s civic turbulence. These aren’t entertainment notes or fan‑scrapbook entries; they’re artifacts that reflect the national mood, the pressure in the system, and the ways artists, communities, and public gatherings respond to it. Some events function as release valves, some as mirrors, and some — like Springsteen’s Land of Hope and Dreams tour — operate as full‑scale, collective protest without ever using the word.
 
-<div id="2026-05-24T23:59:59Z">
+<script>
+displayUntil("2026-05-24T23:59:59Z");
+</script>
+
+<div id="2026-05-24T23:59:59Z"> <!-- 2026-05-24T23:59:59Z -->
 
 <h3><a href="https://brucespringsteen.net/news/2026/getting-ready-for-the-land-of-hope-and-dreams-american-tour/">March 31 – May 27: Getting ready for the Land of Hope and Dreams American Tour! / Bruce Springsteen</a></h3>
 
@@ -220,9 +240,13 @@ This section documents cultural moments that intersect with America’s civic tu
     </tbody>
 </table>
 
-</div>
+</div> <!-- 2026-05-24T23:59:59Z -->
 
-<div id="2026-09-31T23:59:59Z">
+<script>
+displayUntil("2026-09-31T23:59:59Z");
+</script>
+
+<div id="2026-09-31T23:59:59Z"> <!-- 2026-09-31T23:59:59Z -->
 
 ## 🌾 Farm Aid 2026
 Why I’m Highlighting It This Year
@@ -231,7 +255,7 @@ The Iran war has triggered a chain reaction in the real economy — LNG, diesel,
 
 Read the full post →
 
-</div>
+</div> <!-- 2026-09-31T23:59:59Z -->
 
 ## Make Your Voice Heard
 
@@ -537,21 +561,14 @@ If a security issue is found, I can be notified by one of the following methods:
 const startDate = new Date(2025, 0, 19, 0, 0);     // Jan 20, 2025 12:00 PM
 const endDate = new Date(2029, 0, 20, 12, 0, 0);      // Jan 20, 2029, 12:00 PM
 
-displayUntil("2026-03-28T20:00:00Z");
-displayUntil("2026-05-01T20:00:00Z");
-displayUntil("2026-05-24T23:59:59Z");
-displayUntil("2026-06-09T23:00:00Z");
-displayUntil("2026-09-31T23:59:59Z");
-displayUntil("2026-11-04T00:00:00Z");
-
-function displayBegin(dateUntil) {
+function displayBegin(dateBegin) {
     const now = new Date();
-    const until = new Date(dateUntil);
-    span = timeSpan(now, until);
+    const begin = new Date(dateBegin);
+    span = timeSpan(begin, now);
     if (span > 0)
-        hideElement(dateUntil);
+        hideElement(dateBegin);
     else
-        showElement(dateUntil);
+        showElement(dateBegin);
     }
 
 function displayUntil(dateUntil) {
