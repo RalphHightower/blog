@@ -114,16 +114,17 @@ At the third <a href="https://www.nokings.org/">No Kings Rally</a> in South Caro
 </div> <!-- 2026-05-01T20:00:00Z -->
 
 <script>
+displayUntil("2026-11-04T00:00:00Z");
 displayUntil("2026-06-09T23:00:00Z");
+displayBegin("primary-open", "2026-06-09T11:00:00Z");
+displayBegin("primary-close", "2026-06-09T23:00:00Z");
+displayBegin("midterm-open", "2026-06-09T11:00:00Z");
+displayBegin("midterm-close", "2026-11-04T00:00:00Z");
 </script>
 
 <div id="2026-11-04T00:00:00Z"> <!-- 2026-11-04T00:00:00Z -->
 
 <h3>VOTE!</h3> 
-
-<script>
-displayUntil("2026-11-04T00:00:00Z");
-</script>
 
 <div id="2026-06-09T23:00:00Z"> <!-- 2026-06-09T23:00:00Z -->
 
@@ -274,13 +275,13 @@ Read the full post →
 - [Stand Up America - Demanding the Democracy We Deserve](https://standupamerica.com/)
 - [Volunteer Opportunities, Events, and Petitions Near Me · Not Above the Law on Mobilize](https://www.mobilize.us/notabovethelaw/)
 
-### Protest Songs
+<h3>Protest Songs</h3>
 
 This is my [@YouTube](https://www.youtube com/) curated list of protest related songs for inspiring resistance and uprising against the [Trump](https://www.donaldjtrump.com/) [ap​pa​rat​chik](http://www.merriam-webster.com/dictionary/apparatchik).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LkQzsDav-oI?si=bTumzZ72t_unOdsY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-### January 6, 2021 Insurrection
+<h3>January 6, 2021 Insurrection</h3>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WUB814y5ns0?si=BoffEEe2brDIg2SW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -562,29 +563,24 @@ If a security issue is found, I can be notified by one of the following methods:
 const startDate = new Date(2025, 0, 19, 0, 0);     // Jan 20, 2025 12:00 PM
 const endDate = new Date(2029, 0, 20, 12, 0, 0);      // Jan 20, 2029, 12:00 PM
 
-function displayBegin(dateBegin) {
+function displayBegin(divid, dateBegin) {
     const now = new Date();
     const begin = new Date(dateBegin);
-    span = timeSpan(begin, now);
+    span = getTimeSpan(begin, now);
     if (span > 0)
-        hideElement(dateBegin);
+        hideElement(divid);
     else
-        showElement(dateBegin);
+        showElement(divid);
     }
 
 function displayUntil(dateUntil) {
     const now = new Date();
     const until = new Date(dateUntil);
-    span = timeSpan(now, until);
+    span = getTimeSpan(now, until);
     if (span > 0)
         showElement(dateUntil);
     else
         hideElement(dateUntil);
-    }
-
-function timeSpan(from, to) {
-    // Calculate difference in milliseconds
-    return Math.floor(to - from);
     }
 
 function showElement(name) { // 1
