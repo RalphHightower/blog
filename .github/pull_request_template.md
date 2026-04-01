@@ -1,97 +1,128 @@
-<!--- Please provide a general summary of your changes in the title above -->
+<!-- Provide a concise summary of your changes above the fold -->
 
-# Pull request type
-<!-- Please try to limit your pull request to one type, submit multiple pull requests if needed -->
+# 🚨 Jekyll Pre‑Merge Verification
+- [ ] Title correct
+- [ ] Tags assigned
+- [ ] Categories assigned
+- [ ] Date correct (no accidental future dates)
+- [ ] Front matter is valid YAML
+- [ ] Liquid used only where required
 
-**🚨 Jekyll Precheck Verify blog(s), page(s) before merge 🚨**
-- [ ] title
-- [ ] tags
-- [ ] categories
-- [ ] date
+---
 
-<!--
-IS#9999 – Issue created independently of a Pull Request
-PR#9999 – Issue created from a Pull Request
--->
-Pull Request/Issue Number: N/A
-
-Please check the type of change your PR introduces:
+# Pull Request Type
+Select one (one PR per logical change/module):
 
 - [ ] New blog post(s)
 - [ ] Bugfix(es)
 - [ ] Code change(s)
+- [ ] Javascript change(s)
 - [ ] Jekyll change(s)
 - [ ] Liquid change(s)
 - [ ] Markdown change(s)
-- [ ] npm package(s) 
+- [ ] npm package(s)
 - [ ] YAML change(s)
 - [ ] Build error(s)
 - [ ] Feature(s)
-- [ ] Code style update (formatting, renaming)
-- [ ] Refactoring (no functional changes, no api changes)
-- [ ] Build related change(s)
-- [ ] Documentation content change(s)
-- [ ] Other (please describe):
+- [ ] Code style update
+- [ ] Refactoring (no functional changes)
+- [ ] Build-related change(s)
+- [ ] Documentation
+- [ ] Security
+- [ ] Other (describe):
 
-## Language(s)
+**PR/Issue Number:** N/A
+<!--
+IS#9999 – Independent issue
+PR#9999 – Issue created from a PR
+-->
 
-- [ ] Assembler
-- [ ] awk
-- [ ] C/C++/C#
+---
+
+# Scope of Change
+<!-- Multi-file fixes are allowed when they belong to the same module or anomaly. -->
+
+- Number of files touched:
+- Why these files belong together:
+
+---
+
+# Reason for Change
+<!-- Why this PR exists. What triggered it? -->
+
+---
+
+# Current Behavior
+<!-- Describe or link to the issue -->
+
+---
+
+# New Behavior
+<!-- Describe what this PR adds or fixes -->
+
+---
+
+# Files Added
+-
+
+# Files Modified
+-
+
+# Files Deleted
+-
+
+---
+
+# Environment
+
+### Languages
+- [ ] Assembly (Complete Hardware Section)
 - [ ] HTML
 - [ ] Javascript
 - [ ] Jekyll
 - [ ] Liquid
 - [ ] Markdown
-- [ ] npm package
 - [ ] Ruby
-- [ ] Python
 - [ ] YAML
+- [ ] Other:
 
-## Operating System(s)
+### Operating Systems
+<details>
+<summary>Expand Operating Systems list</summary>
 
+- [ ] Android
 - [ ] Linux
 - [ ] Unix
 - [ ] Solaris
 - [ ] Windows
 
-## What is the current behavior?
-<!-- Please describe the current behavior that you are modifying, or link to a relevant issue -->
-
-- 
-
-## What is the new behavior?
-<!-- Please describe the behavior or changes that are being added by this PR -->
-
-- 
-
-## Files Added
-
-- 
-
-## Files Modified
-
-- 
-
-## Files Deleted
-
-- 
-
-## Other information
-<!-- Any other information that is important to this PR such as screenshots of how the component looks before and after the change -->
-
-- 
-
-## Hardware
+### Hardware
+<details>
+<summary>Expand Hardware list</summary>
 
 - [ ] ARM
-- [ ] DEC PDP-8
-- [ ] DEC PDP-11
+- [ ] DEC PDP‑8
+- [ ] DEC PDP‑11
 - [ ] DEC VAX
 - [ ] DEC VAXStation
 - [ ] Intel 8080
 - [ ] Intel Core
 - [ ] Motorola 68000
 - [ ] Raspberry Pi
-- [ ] RISC/V
+- [ ] RISC‑V
 - [ ] Sun SPARCStation
+
+</details>
+
+---
+
+# Other Information
+<!-- Screenshots, notes, or anything relevant -->
+
+---
+
+# Branch Lifecycle
+- [ ] This branch is single‑purpose
+- [ ] No overlapping PRs for this repo
+
+<!-- Stale branch cleanup is automated -->
