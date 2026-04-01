@@ -744,7 +744,6 @@ function trumpGPS(date) {
         }
     }
 
-alert("here");
     updateCounters();
     trumpGPS(new Date());
 
