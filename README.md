@@ -77,11 +77,7 @@ Surviving “The Apprentice: White House – Wrecking Ball”. [Trump](https://w
 
 ## Call to Action
 
-<script>
-displayUntil("2026-03-28T20:00:00Z");
-</script>
-
-<div id="2026-03-28T20:00:00Z"> <!-- 2026-03-28T20:00:00Z -->
+<div id="2026-03-28T20:00:00Z"> <!-- No Kings 2026-03-28T20:00:00Z -->
 
 <h3>Saturday, March 28, 2026: No Kings International Protests</h3>
 
@@ -92,17 +88,7 @@ South Carolina has blown past 30 No Kings rallies, with new ones popping up hour
 
 </div> <!-- 2026-03-28T20:00:00Z -->
 
-When agents encounter strangers, the Fourth Amendment imposes three core limitations:
-
-1. If, and only if, agents have particularized suspicion that a person may be guilty of a crime, they can stop the person (make a “Terry stop”) and pose a brief series of questions to dispel or confirm their suspicions. This is the basic dividing line that border czar Tom Homan and others in the administration say the agents are following in nearly every case.
-2. If, and only if, agents have developed probable cause that a person is guilty of a crime, they can arrest them—restrain their physical movements. That includes, of course, Americans or anyone else who assaults law enforcement.
-3. At all times, including during arrests, agents may not employ force that is unreasonable under the circumstances.
-
-<script>
-displayUntil("2026-05-01T20:00:00Z");
-</script>
-
-<div id="2026-05-01T20:00:00Z"> <!-- 2026-05-01T20:00:00Z -->
+<div id="2026-05-01T20:00:00Z"> <!-- No Kings 2026-05-01T20:00:00Z -->
 
 <h3>Friday, May 1, 2026: No Kings International Protests</h3>
 
@@ -113,26 +99,25 @@ At the third <a href="https://www.nokings.org/">No Kings Rally</a> in South Caro
 
 </div> <!-- 2026-05-01T20:00:00Z -->
 
-<script>
-displayUntil("2026-11-04T00:00:00Z");
-displayUntil("2026-06-09T23:00:00Z");
-displayBegin("primary-open", "2026-06-09T11:00:00Z");
-displayBegin("primary-close", "2026-06-09T23:00:00Z");
-displayBegin("midterm-open", "2026-06-09T11:00:00Z");
-displayBegin("midterm-close", "2026-11-04T00:00:00Z");
-</script>
+When agents encounter strangers, the Fourth Amendment imposes three core limitations:
 
-<div id="2026-11-04T00:00:00Z"> <!-- 2026-11-04T00:00:00Z -->
+1. If, and only if, agents have developed probable cause that a person is guilty of a crime, they can arrest them—restrain their physical movements. That includes, of course, Americans or anyone else who assaults law enforcement.
+2. At all times, including during arrests, agents may not employ force that is unreasonable under the circumstances.
 
-<h3>VOTE!</h3> 
+<!-- Tuesday, June 9, 2026 at 11:00:00 – Tuesday, June 9, 2026 at 23:00:00 timeanddate.com GMT -->
+<!-- Primary Election 2026-06-09T11:00:00Z – 2026-06-09T23:00:00Z -->
+<!-- Mid-Term Election Tuesday, November 3, 2026 at 12:00:00 – Wednesday, November 4, 2026 at 00:00:00 timeanddate.com GMT -->
+<!-- 2026-11-03T12:00:00Z – 2026-11-04T00:00:00Z -->
 
-<div id="2026-06-09T23:00:00Z"> <!-- 2026-06-09T23:00:00Z -->
+<h3>VOTE!</h3>
+
+<div id="2026-06-09T23:00:00Z"> <!-- Primary 2026-06-09T23:00:00Z -->
 
 <h4>SC Democrat Primary</h4>
 
 <h5>Tuesday, June 9 2026</h5>
 
-<!-- 2026-06-09T11:00:00Z – 2026-06-09T23:00:00Z -->
+<!-- Primary 2026-06-09T11:00:00Z – 2026-06-09T23:00:00Z P-->
 <div id="primary-open"></div>
 <div id="primary-close"></div>
 
@@ -142,21 +127,15 @@ displayBegin("midterm-close", "2026-11-04T00:00:00Z");
 
 <h5>Tuesday, November 3, 2026</h5>
 
-<!-- 2026-11-03T12:00:00Z – 2026-11-04T00:00:00Z -->
+<!-- Mid Term 2026-11-03T12:00:00Z – 2026-11-04T00:00:00Z -->
 <div id="midterm-open"></div>
 <div id="midterm-close"></div>
-
-</div> <!-- 2026-11-04T00:00:00Z -->
 
 ## Events & Culture
 
 This section documents cultural moments that intersect with America’s civic turbulence. These aren’t entertainment notes or fan‑scrapbook entries; they’re artifacts that reflect the national mood, the pressure in the system, and the ways artists, communities, and public gatherings respond to it. Some events function as release valves, some as mirrors, and some — like Springsteen’s Land of Hope and Dreams tour — operate as full‑scale, collective protest without ever using the word.
 
-<script>
-displayUntil("2026-05-24T23:59:59Z");
-</script>
-
-<div id="2026-05-24T23:59:59Z"> <!-- 2026-05-24T23:59:59Z -->
+<div id="2026-05-24T23:59:59Z"> <!-- Bruce Springsteen Land of Hope and Dreams 2026-05-24T23:59:59Z -->
 
 <h3><a href="https://brucespringsteen.net/news/2026/getting-ready-for-the-land-of-hope-and-dreams-american-tour/">March 31 – May 27: Getting ready for the Land of Hope and Dreams American Tour! / Bruce Springsteen</a></h3>
 
@@ -241,11 +220,7 @@ displayUntil("2026-05-24T23:59:59Z");
 
 </div> <!-- 2026-05-24T23:59:59Z -->
 
-<script>
-displayUntil("2026-09-31T23:59:59Z");
-</script>
-
-<div id="2026-09-31T23:59:59Z"> <!-- 2026-09-31T23:59:59Z -->
+<div id="2026-09-30T23:59:59Z"> <!-- Farm Aid 2026-09-30T23:59:59Z -->
 
 <h3>🌾 Farm Aid 2026</h3>
 
@@ -255,7 +230,7 @@ The Iran war has triggered a chain reaction in the real economy — LNG, diesel,
 
 Read the full post →
 
-</div> <!-- 2026-09-31T23:59:59Z -->
+</div> <!-- 2026-09-30T23:59:59Z -->
 
 ## Make Your Voice Heard
 
@@ -273,13 +248,13 @@ Read the full post →
 - [Stand Up America - Demanding the Democracy We Deserve](https://standupamerica.com/)
 - [Volunteer Opportunities, Events, and Petitions Near Me · Not Above the Law on Mobilize](https://www.mobilize.us/notabovethelaw/)
 
-<h3>Protest Songs</h3>
+### Protest Songs
 
 This is my [@YouTube](https://www.youtube com/) curated list of protest related songs for inspiring resistance and uprising against the [Trump](https://www.donaldjtrump.com/) [ap​pa​rat​chik](http://www.merriam-webster.com/dictionary/apparatchik).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LkQzsDav-oI?si=bTumzZ72t_unOdsY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<h3>January 6, 2021 Insurrection</h3>
+### January 6, 2021 Insurrection
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WUB814y5ns0?si=BoffEEe2brDIg2SW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -564,7 +539,19 @@ const endDate = new Date(2029, 0, 20, 12, 0, 0);      // Jan 20, 2029, 12:00 PM
 function displayBegin(divid, dateBegin) {
     const now = new Date();
     const begin = new Date(dateBegin);
-    span = getTimeSpan(begin, now);
+    const span = getTimeSpan(begin, now);
+
+    if (span > 0) {
+        hideElement(divid);
+    } else {
+        showElement(divid);
+    }
+}
+
+function displayEnd(divid, dateEnd) {
+    const now = new Date();
+    const end = new Date(dateEnd);
+    span = getTimeSpan(now, end);
     if (span > 0)
         hideElement(divid);
     else
@@ -581,30 +568,52 @@ function displayUntil(dateUntil) {
         hideElement(dateUntil);
     }
 
-function showElement(name) { // 1
-    const element = document.getElementById(name);
-    if (element != null) { // 2
-        document.getElementById(name).style.display = 'block';
-        } // 2
-    } // 1
-
-function hideElement(name) {
-    var element = document.getElementById(name);
-    if (element != null) {
-        element.style.display = 'none';
-        }
-    }
-
-function setElementText(element, text) {
-    var element = document.getElementById(name);
-    if (element != null) {
-        document.getElementById(element).textContent =  text;
-        }
-    }
-
 function getTimeSpan(from, to) {
-    return(to, from);
+    return(to - from);
     }
+
+function fmtDaysRemaining(from, to) {
+    const diff = getTimeSpan(from, to);
+    const days = Math.floor(diff / (1000 * 60 * 60 * 24));
+    return days + " days";
+}
+
+function updateCountdown(id, targetTime, mode) {
+    const el = document.getElementById(id);
+    if (!el) return;
+
+    const now = Date.now();
+    const to  = new Date(targetTime).getTime();
+
+    const diff = getTimeSpan(now, to);
+
+    if (diff < 0) {
+        el.textContent = "";
+        return;
+    }
+
+    if (mode === "days") {
+        el.textContent = fmtDaysRemaining(now, to);
+    } else if (mode === "hms") {
+        el.textContent = fmtHMSRemaining(now, to);
+    }
+}
+
+function fmtHMSRemaining(from, to) {
+    const diff = getTimeSpan(from, to);
+
+    let totalSeconds = Math.floor(diff / 1000);
+    let hours = Math.floor(totalSeconds / 3600);
+    totalSeconds %= 3600;
+    let minutes = Math.floor(totalSeconds / 60);
+    let seconds = totalSeconds % 60;
+
+    const hh = String(hours).padStart(2, "0");
+    const mm = String(minutes).padStart(2, "0");
+    const ss = String(seconds).padStart(2, "0");
+
+    return hh + ":" + mm + ":" + ss;
+}
 
 function getDaysDiff(from, to) {
     // Calculate difference in milliseconds
@@ -655,25 +664,26 @@ function fmtPercent(real) {
     percent = pct.toFixed(2);
     return percent;
     }
-    
+
 function fmtHMS(label, time) {
-    Date dt = new Date(time);
+    const dt = new Date(time);
     const tm = dt.toTimeString();
     const hhmmss = tm.substring(0, 8);
-    const display = lable + hhmmss;
-    }
+    const display = label + hhmmss;
+    return display;
+}
 
-function showElement(name) { // 1
+function showElement(name) {
     const element = document.getElementById(name);
-    if (element != null) { // 2
+    if (element != null) {
         document.getElementById(name).style.display = 'block';
-        } // 2
-    } // 1
+        }
+    }
 
 function hideElement(name) {
     var element = document.getElementById(name);
         if (element != null) {
-        element.style.display = 'none';
+            element.style.display = 'none';
         }
     }
 
@@ -698,14 +708,14 @@ function updateCounters() {
     setElementText('daysRemaining', "Days remaining in term: " + (daysRemaining >= 0 ? daysRemaining + " days " + fmtPercent(pctTermRemaing) + "%" : "Event has passed"));
     }
 
-function trumpGPS(date) { // 1
+function trumpGPS(date) {
     now = new Date(date)
     weekDay = now.getDay(); // Sunday = 0
 
     const holiday = isHoliday(now);
     if (holiday)
         weekDay = 7;
-    switch (weekDay) { // 2
+    switch (weekDay) {
         case 0:
         case 6:
         case 7: // out of bounds special: holiday
@@ -721,21 +731,57 @@ function trumpGPS(date) { // 1
             hideElement('golf');
             break;
         case 5: // special case: check time
-            if (now.getHours() > 15) { // 3
+            if (now.getHours() > 15) {
                 showElement('golf');
                 hideElement('burn');
                 whichGolfHome(date);
-               } // 3
-            else { // 3
+               }
+            else {
                 showElement('burn');
                 hideElement('golf');
-                } // 3
+                }
             break;
-        } // 2
-    } // 1
+        }
+    }
 
+alert("here");
     updateCounters();
     trumpGPS(new Date());
+
+function updateCountdowns() {
+    const now = Date.now();
+
+    updateCountdown("primary-open",  "2026-06-09T11:00:00Z", "days");
+    updateCountdown("primary-close", "2026-06-09T23:00:00Z", "hms");
+
+    updateCountdown("midterm-open",  "2026-11-03T12:00:00Z", "days");
+    updateCountdown("midterm-close", "2026-11-04T00:00:00Z", "hms");
+    }
+
+<!-- No Kings 2026-03-28T20:00:00Z -->
+displayUntil("2026-03-28T20:00:00Z");
+
+<!-- No Kings 2026-05-01T20:00:00Z -->
+displayUntil("2026-05-01T20:00:00Z");
+
+<!-- Bruce Springsteen Land of Hope and Dreams 2026-05-24T23:59:59Z -->
+displayUntil("2026-05-24T23:59:59Z");
+
+<!-- Primary Election 2026-06-09T11:00:00Z – 2026-06-09T23:00:00Z -->
+displayUntil("2026-06-09T23:00:00Z");
+displayBegin("primary-open", "2026-06-09T11:00:00Z");
+displayEnd("primary-open", "2026-06-09T23:00:00Z");
+displayBegin("primary-close", "2026-06-09T11:00:00Z");
+displayUntil("primary-close", "2026-06-09T23:00:00Z");
+
+<!-- Farm Aid 2026-09-30T23:59:59Z -->
+displayUntil("2026-09-30T23:59:59Z");
+
+<!-- Mid-Term Election Tuesday, November 3, 2026 at 12:00:00 – Wednesday, November 4, 2026 at 00:00:00 timeanddate.com GMT -->
+displayUntil("2026-11-04T00:00:00Z");
+displayBegin("midterm-open", "2026-11-03T12:00:00Z");
+displayBegin("midterm-close", "2026-11-04T00:00:00Z");
+displayEnd("midterm-close", "2026-11-04T00:00:00Z");
 
 function whichGolfHome(date) {
     showElement("golf");
@@ -763,19 +809,19 @@ function isHoliday(date) {
 //3. Independence Day (July 4)
 //4. Veterans Day (November 11)
 //5. Christmas Day (December 25)
-function floatingHoliday(param) { // 1
+function floatingHoliday(param) {
     const today = new Date(param);
 
     shift = 0;
     day = today.getDay();
-    switch (day) { //2
+    switch (day) {
         case 0: // Sunday
             shift = 1;
             break;
         case 6: // Saturday
             shift = -1;
             break;
-        } //2
+        }
 
     var retVal = false;
 
@@ -784,7 +830,7 @@ function floatingHoliday(param) { // 1
     const month = floatDay.getMonth() + 1; // January = 0
     const weekDay = floatDay.getDay(); // Sunday = 0
     const dateMonth = floatDay.getDate();
-    switch (month) { //2
+    switch (month) {
         // January 1 (12/31, 1/2)
         case 1: // January
             retVal = ((dateMonth - shift) == 1 ? true : false);
@@ -804,11 +850,11 @@ function floatingHoliday(param) { // 1
         // December 25 (12/24, 12/26, 12/31: NYD)
         case 12: // December
             retVal = ((dateMonth - shift) == 25 ? true : false)
-                | ((dateMonth == 31) && (shift == -1) ? true: false);
+                || ((dateMonth == 31) && (shift == -1) ? true: false);
             break;
-        } //2
+        }
     return (retVal);
-    } //1
+    }
 
 //Fixed (fixed day of week)
 //1. Birthday of Martin Luther King, Jr. (Third Monday in January) [15-21]
@@ -817,17 +863,17 @@ function floatingHoliday(param) { // 1
 //4. Labor Day (First Monday in September) [01-07]
 //5. Columbus Day (Second Monday in October) [08-14]
 //6. Thanksgiving Day (Fourth Thursday in November) [22-28]
-function fixedHoliday(param) { //1
+function fixedHoliday(param) {
     retVal = false;
     now = new Date(param);
     const month = now.getMonth() + 1;
     const weekDay = now.getDay(); // Sunday = 0
     const dateMonth = now.getDate();
 
-    if (month != 11) { //2
-        switch (weekDay) { //3
+    if (month != 11) {
+        switch (weekDay) {
             case 1: // Monday
-                switch (month) { //4
+                switch (month) {
                     // Birthday of Martin Luther King, Jr. (Third Monday in January) [15-21]
                     case 1: // January
                         // Washington's Birthday (Also known as Presidents Day; third Monday in February) [15-21]
@@ -846,15 +892,15 @@ function fixedHoliday(param) { //1
                 // Columbus Day
                     retVal = (isBetween(dateMonth, 8, 14));
                     break;
-                    } // 4
-            } //3
-        } //2
+                }
+            }
+        }
     else if ((month == 11) && (weekDay == 4)) { //2
         // Thanksgiving (Fourth Thursday in November) [22-28]
         retVal = (isBetween(dateMonth, 22, 28));
-        } //2
+        }
     return (retVal);
-    } //1
+    }
 
 function isBetween(val, from, to) {
     return ((from <= val) && (val <= to) ? true : false);
