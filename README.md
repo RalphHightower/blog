@@ -95,6 +95,7 @@ Surviving “The Apprentice: White House – Wrecking Ball”. [Trump](https://w
 <!-- Mid Term 2026-11-03T12:00:00Z – 2026-11-04T00:00:00Z -->
 <div id="2026-11-04T00:00:00Z"><!-- Mid Term 2026-11-03T12:00:00Z – 2026-11-04T00:00:00Z -->
 
+</p>
 <h4>Mid Term Election</h4>
 
 <h5>Tuesday, November 3, 2026</h5>
@@ -115,6 +116,8 @@ South Carolina has blown past 30 No Kings rallies, with new ones popping up hour
 </div><!-- No Kings 2026-03-28T20:00:00Z -->
 
 <div id="2026-05-01T20:00:00Z"><!-- No Kings 2026-05-01T20:00:00Z -->
+
+</p>
 
 <h3>Friday, May 1, 2026: No Kings International Protests</h3>
 

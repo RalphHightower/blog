@@ -1,51 +1,34 @@
 <!-- Provide a concise summary of your changes above the fold -->
 
-# 🚨 Jekyll Pre‑Merge Verification
-- [ ] Title correct
-- [ ] Tags assigned
-- [ ] Categories assigned
-- [ ] Date correct (no accidental future dates)
-- [ ] Front matter is valid YAML
-- [ ] Liquid used only where required
-
----
-
-# Pull Request Type
-Select one (one PR per logical change/module):
-
-- [ ] New blog post(s)
-- [ ] Bugfix(es)
-- [ ] Code change(s)
-- [ ] Javascript change(s)
-- [ ] Jekyll change(s)
-- [ ] Liquid change(s)
-- [ ] Markdown change(s)
-- [ ] npm package(s)
-- [ ] YAML change(s)
-- [ ] Build error(s)
-- [ ] Feature(s)
-- [ ] Code style update
-- [ ] Refactoring (no functional changes)
-- [ ] Build-related change(s)
-- [ ] Documentation
-- [ ] Security
-- [ ] Other (describe):
-
-**PR/Issue Number:** N/A
+**Pull Request/Issue Number:** N/A
 <!--
 IS#9999 – Independent issue
 PR#9999 – Issue created from a PR
 -->
 
 ---
-
-# Scope of Change
-<!-- Multi-file fixes are allowed when they belong to the same module or anomaly. -->
-
-- Number of files touched:
-- Why these files belong together:
+# 🚨 Jekyll Pre‑Merge Verification
+- [ ] Title correct
+- [ ] Tags assigned
+- [ ] Categories assigned
+- [ ] Date correct (no accidental future dates)
+- [ ] Front matter is valid YAML
+- [ ] Liquid used only where required (stock‑quote posts)
 
 ---
+
+# Pull Request Type
+Select one (one PR per change):
+
+- [ ] New blog post(s)
+- [ ] Bugfix(es)
+- [ ] Code change(s)
+- [ ] Jekyll / Liquid / Markdown change(s)
+- [ ] Build error(s)
+- [ ] Documentation
+- [ ] Refactor (no functional changes)
+- [ ] Security
+- [ ] Other (describe):
 
 # Reason for Change
 <!-- Why this PR exists. What triggered it? -->
@@ -63,20 +46,19 @@ PR#9999 – Issue created from a PR
 ---
 
 # Files Added
--
+- 
 
 # Files Modified
--
+- 
 
 # Files Deleted
--
+- 
 
 ---
 
 # Environment
 
-### Languages
-- [ ] Assembly (Complete Hardware Section)
+## Languages
 - [ ] HTML
 - [ ] Javascript
 - [ ] Jekyll
@@ -86,25 +68,23 @@ PR#9999 – Issue created from a PR
 - [ ] YAML
 - [ ] Other:
 
-### Operating Systems
-<details>
-<summary>Expand Operating Systems list</summary>
-
+## Operating Systems
 - [ ] Android
 - [ ] Linux
 - [ ] Unix
 - [ ] Solaris
 - [ ] Windows
 
-### Hardware
+## Hardware
 <details>
-<summary>Expand Hardware list</summary>
+<summary>Expand hardware list</summary>
 
 - [ ] ARM
 - [ ] DEC PDP‑8
 - [ ] DEC PDP‑11
 - [ ] DEC VAX
 - [ ] DEC VAXStation
+- [ ] IBM 
 - [ ] Intel 8080
 - [ ] Intel Core
 - [ ] Motorola 68000
@@ -121,8 +101,25 @@ PR#9999 – Issue created from a PR
 
 ---
 
+# Clean Exit
+- [ ] Branch will be deleted after merge
+- [ ] No overlapping PRs for this repo
+- [ ] One change per branch
+<!-- Provide a concise summary of your changes above the fold -->
+
+---
+
 # Branch Lifecycle
 - [ ] This branch is single‑purpose
 - [ ] No overlapping PRs for this repo
 
 <!-- Stale branch cleanup is automated -->
+
+# Scope of Change
+<!-- Multi-file fixes are allowed when they belong to the same module or anomaly. -->
+
+- Number of files touched:
+- Why these files belong together:
+
+---
+
