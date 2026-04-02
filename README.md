@@ -77,7 +77,30 @@ Surviving “The Apprentice: White House – Wrecking Ball”. [Trump](https://w
 
 ## Call to Action
 
-<div id="2026-03-28T20:00:00Z"> <!-- No Kings 2026-03-28T20:00:00Z -->
+<h3>VOTE!</h3>
+
+<h4>SC Democrat Primary</h4>
+
+<h5>Tuesday, June 9 2026</h5>
+
+<!-- Primary Election Tuesday, June 9, 2026 at 11:00:00 – Tuesday, June 9, 2026 at 23:00:00 timeanddate.com GMT -->
+<!-- Primary Election 2026-06-09T11:00:00Z – 2026-06-09T23:00:00Z -->
+<div id="primary-open"></div>
+<div id="primary-close"></div>
+</div><!-- Primary 2026-06-09T23:00:00Z -->
+
+<div id="2026-06-09T23:00:00Z"><!-- Primary 2026-06-09T23:00:00Z -->
+
+<h4>Mid Term Election</h4>
+
+<h5>Tuesday, November 3, 2026</h5>
+
+<!-- Mid-Term Election Tuesday, November 3, 2026 at 12:00:00 – Wednesday, November 4, 2026 at 00:00:00 timeanddate.com GMT -->
+<!-- Mid Term 2026-11-03T12:00:00Z – 2026-11-04T00:00:00Z -->
+<div id="midterm-open"></div>
+<div id="midterm-close"></div>
+
+<div id="2026-03-28T20:00:00Z"><!-- No Kings 2026-03-28T20:00:00Z -->
 
 <h3>Saturday, March 28, 2026: No Kings International Protests</h3>
 
@@ -86,9 +109,9 @@ Surviving “The Apprentice: White House – Wrecking Ball”. [Trump](https://w
 <p>On Saturday, March 28, 2026 is the third <a href="https://www.nokings.org/">No Kings Rally.</a>
 South Carolina has blown past 30 No Kings rallies, with new ones popping up hourly. Check <a href="https://www.nokings.org/">NoKings.org for the latest.</a> It has gone international with multiple sites in Europe in support of the United States of America.</p>
 
-</div> <!-- 2026-03-28T20:00:00Z -->
+</div><!-- No Kings 2026-03-28T20:00:00Z -->
 
-<div id="2026-05-01T20:00:00Z"> <!-- No Kings 2026-05-01T20:00:00Z -->
+<div id="2026-05-01T20:00:00Z"><!-- No Kings 2026-05-01T20:00:00Z -->
 
 <h3>Friday, May 1, 2026: No Kings International Protests</h3>
 
@@ -97,45 +120,18 @@ South Carolina has blown past 30 No Kings rallies, with new ones popping up hour
 <p>On Friday, May 1, 2026 is the fourth <a href="https://www.nokings.org/">No Kings Rally.</a>
 At the third <a href="https://www.nokings.org/">No Kings Rally</a> in South Carolina. there were over 30 No Kings rallies, with new ones popping up hourly. Check <a href="https://www.nokings.org/">NoKings.org for the latest.</a> It has gone international with multiple sites in Europe in support of the United States of America.</p>
 
-</div> <!-- 2026-05-01T20:00:00Z -->
+</div><!-- NoKings 2026-05-01T20:00:00Z -->
 
 When agents encounter strangers, the Fourth Amendment imposes three core limitations:
 
 1. If, and only if, agents have developed probable cause that a person is guilty of a crime, they can arrest them—restrain their physical movements. That includes, of course, Americans or anyone else who assaults law enforcement.
 2. At all times, including during arrests, agents may not employ force that is unreasonable under the circumstances.
 
-<!-- Tuesday, June 9, 2026 at 11:00:00 – Tuesday, June 9, 2026 at 23:00:00 timeanddate.com GMT -->
-<!-- Primary Election 2026-06-09T11:00:00Z – 2026-06-09T23:00:00Z -->
-<!-- Mid-Term Election Tuesday, November 3, 2026 at 12:00:00 – Wednesday, November 4, 2026 at 00:00:00 timeanddate.com GMT -->
-<!-- 2026-11-03T12:00:00Z – 2026-11-04T00:00:00Z -->
-
-<h3>VOTE!</h3>
-
-<div id="2026-06-09T23:00:00Z"> <!-- Primary 2026-06-09T23:00:00Z -->
-
-<h4>SC Democrat Primary</h4>
-
-<h5>Tuesday, June 9 2026</h5>
-
-<!-- Primary 2026-06-09T11:00:00Z – 2026-06-09T23:00:00Z P-->
-<div id="primary-open"></div>
-<div id="primary-close"></div>
-
-</div> <!-- 2026-06-09T23:00:00Z -->
-
-<h4>Mid Term Election</h4>
-
-<h5>Tuesday, November 3, 2026</h5>
-
-<!-- Mid Term 2026-11-03T12:00:00Z – 2026-11-04T00:00:00Z -->
-<div id="midterm-open"></div>
-<div id="midterm-close"></div>
-
 ## Events & Culture
 
 This section documents cultural moments that intersect with America’s civic turbulence. These aren’t entertainment notes or fan‑scrapbook entries; they’re artifacts that reflect the national mood, the pressure in the system, and the ways artists, communities, and public gatherings respond to it. Some events function as release valves, some as mirrors, and some — like Springsteen’s Land of Hope and Dreams tour — operate as full‑scale, collective protest without ever using the word.
 
-<div id="2026-05-24T23:59:59Z"> <!-- Bruce Springsteen Land of Hope and Dreams 2026-05-24T23:59:59Z -->
+<div id="2026-05-24T23:59:59Z"><!-- Bruce Springsteen Land of Hope and Dreams 2026-05-24T23:59:59Z -->
 
 <h3><a href="https://brucespringsteen.net/news/2026/getting-ready-for-the-land-of-hope-and-dreams-american-tour/">March 31 – May 27: Getting ready for the Land of Hope and Dreams American Tour! / Bruce Springsteen</a></h3>
 
@@ -218,9 +214,9 @@ This section documents cultural moments that intersect with America’s civic tu
     </tbody>
 </table>
 
-</div> <!-- 2026-05-24T23:59:59Z -->
+</div><!-- 2026-05-24T23:59:59Z -->
 
-<div id="2026-09-30T23:59:59Z"> <!-- Farm Aid 2026-09-30T23:59:59Z -->
+<div id="2026-09-30T23:59:59Z"><!-- Farm Aid 2026-09-30T23:59:59Z -->
 
 <h3>🌾 Farm Aid 2026</h3>
 
@@ -230,7 +226,7 @@ The Iran war has triggered a chain reaction in the real economy — LNG, diesel,
 
 Read the full post →
 
-</div> <!-- 2026-09-30T23:59:59Z -->
+</div><!-- 2026-09-30T23:59:59Z -->
 
 ## Make Your Voice Heard
 
@@ -589,14 +585,31 @@ function updateCountdown(id, targetTime, mode) {
 
     if (diff < 0) {
         el.textContent = "";
+        hideElement(id);
         return;
     }
 
+    switch(id) {
+        case "primary-open":
+            desc = "Primary opens in " ;
+            break;
+        case "primary-close":
+            desc = "Primary closes in " ;
+            break;
+        case "midterm-open":
+            desc = "Midterm election opens in " ;
+            break;
+        case "midterm-close":
+            desc = "Midterm closes in " ;
+            break;
+        }
+
     if (mode === "days") {
-        el.textContent = fmtDaysRemaining(now, to);
+        el.textContent = desc + fmtDaysRemaining(now, to);
     } else if (mode === "hms") {
-        el.textContent = fmtHMSRemaining(now, to);
+        el.textContent = desc + fmtHMSRemaining(now, to);
     }
+    showElement(id)
 }
 
 function fmtHMSRemaining(from, to) {
@@ -692,6 +705,8 @@ function setElementText(element, text) {
     }
 
 function updateCounters() {
+    updateCountdowns();
+    
     showElement('burn');
     showElement('golf');
     const now = new Date();
@@ -768,10 +783,9 @@ displayUntil("2026-05-24T23:59:59Z");
 
 <!-- Primary Election 2026-06-09T11:00:00Z – 2026-06-09T23:00:00Z -->
 displayUntil("2026-06-09T23:00:00Z");
-displayBegin("primary-open", "2026-06-09T11:00:00Z");
-displayEnd("primary-open", "2026-06-09T23:00:00Z");
+displayBegin("primary-open", "2026-11-03T12:00:00Z");
 displayBegin("primary-close", "2026-06-09T11:00:00Z");
-displayUntil("primary-close", "2026-06-09T23:00:00Z");
+displayEnd("primary-close", "2026-06-09T23:00:00Z");
 
 <!-- Farm Aid 2026-09-30T23:59:59Z -->
 displayUntil("2026-09-30T23:59:59Z");
