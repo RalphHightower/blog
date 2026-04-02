@@ -79,26 +79,29 @@ Surviving “The Apprentice: White House – Wrecking Ball”. [Trump](https://w
 
 <h3>VOTE!</h3>
 
+<!-- Primary Election Tuesday, June 9, 2026 at 11:00:00 – Tuesday, June 9, 2026 at 23:00:00 timeanddate.com GMT -->
+<div id="2026-06-09T23:00:00Z"><!-- Primary 2026-06-09T23:00:00Z -->
+
 <h4>SC Democrat Primary</h4>
 
 <h5>Tuesday, June 9 2026</h5>
 
-<!-- Primary Election Tuesday, June 9, 2026 at 11:00:00 – Tuesday, June 9, 2026 at 23:00:00 timeanddate.com GMT -->
 <!-- Primary Election 2026-06-09T11:00:00Z – 2026-06-09T23:00:00Z -->
 <div id="primary-open"></div>
 <div id="primary-close"></div>
-</div><!-- Primary 2026-06-09T23:00:00Z -->
+</div><!-- Primary Election 2026-06-09T11:00:00Z – 2026-06-09T23:00:00Z -->
 
-<div id="2026-06-09T23:00:00Z"><!-- Primary 2026-06-09T23:00:00Z -->
+<!-- Mid-Term Election Tuesday, November 3, 2026 at 12:00:00 – Wednesday, November 4, 2026 at 00:00:00 timeanddate.com GMT -->
+<!-- Mid Term 2026-11-03T12:00:00Z – 2026-11-04T00:00:00Z -->
+<div id="2026-11-04T00:00:00Z"><!-- Mid Term 2026-11-03T12:00:00Z – 2026-11-04T00:00:00Z -->
 
 <h4>Mid Term Election</h4>
 
 <h5>Tuesday, November 3, 2026</h5>
 
-<!-- Mid-Term Election Tuesday, November 3, 2026 at 12:00:00 – Wednesday, November 4, 2026 at 00:00:00 timeanddate.com GMT -->
-<!-- Mid Term 2026-11-03T12:00:00Z – 2026-11-04T00:00:00Z -->
 <div id="midterm-open"></div>
 <div id="midterm-close"></div>
+</div><!-- Mid Term 2026-11-03T12:00:00Z – 2026-11-04T00:00:00Z -->
 
 <div id="2026-03-28T20:00:00Z"><!-- No Kings 2026-03-28T20:00:00Z -->
 
