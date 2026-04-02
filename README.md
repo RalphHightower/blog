@@ -110,7 +110,7 @@ Surviving “The Apprentice: White House – Wrecking Ball”. [Trump](https://w
 <img src="./assets/images/WeThePeopleRejectFascism.png" alt="We the People Reject Fascism">
 
 <p>On Saturday, March 28, 2026 is the third <a href="https://www.nokings.org/">No Kings Rally.</a>
-South Carolina has blown past 30 No Kings rallies, with new ones popping up hourly. Check <a href="https://www.nokings.org/">NoKings.org for the latest.</a> It has gone international with multiple sites in Europe in support of the United States of America.<p />
+South Carolina has blown past 30 No Kings rallies, with new ones popping up hourly. Check <a href="https://www.nokings.org/">NoKings.org for the latest.</a> It has gone international with multiple sites in Europe in support of the United States of America.</p>
 
 </div><!-- No Kings 2026-03-28T20:00:00Z -->
 
@@ -121,7 +121,7 @@ South Carolina has blown past 30 No Kings rallies, with new ones popping up hour
 <img src="./assets/images/WeThePeopleRejectFascism.png" alt="We the People Reject Fascism">
 
 <p>On Friday, May 1, 2026 is the fourth <a href="https://www.nokings.org/">No Kings Rally.</a>
-At the third <a href="https://www.nokings.org/">No Kings Rally</a> in South Carolina. there were over 30 No Kings rallies, with new ones popping up hourly. Check <a href="https://www.nokings.org/">NoKings.org for the latest.</a> It has gone international with multiple sites in Europe in support of the United States of America.<p />
+At the third <a href="https://www.nokings.org/">No Kings Rally</a> in South Carolina. there were over 30 No Kings rallies, with new ones popping up hourly. Check <a href="https://www.nokings.org/">NoKings.org for the latest.</a> It has gone international with multiple sites in Europe in support of the United States of America.</p>
 
 </div><!-- NoKings 2026-05-01T20:00:00Z -->
 
