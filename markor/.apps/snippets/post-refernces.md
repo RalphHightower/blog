@@ -1,59 +1,18 @@
 ---
 layout: post
 tags: []
-categories: [call script]
+categories: [weaponization]
 date: {{date}} {{time}}
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: "DC/SC Call Scrip"
+title: 'title'
 ---
 
-## ☎️ My Three Calls — DC + Local (tel‑link ready)
 
-### Sen. Lindsey Graham
-DC: [tel:+1(202‑224‑5972](202‑224‑5972)
-Local: [tel:+1](803‑933‑0112)
-- ☐ Spoke to staffer
-- ☐ Left voicemail
-- ☐ Line busy / try again
 
-### Sen. Tim Scott
-DC: [tel:+1](202‑224‑6121)
-Local: [tel:+1](803‑771‑6112)
-- ☐ Spoke to staffer
-- ☐ Left voicemail
-- ☐ Line busy / try again
-
-### Rep. Joe Wilson (SC‑02)
-DC: [tel:+1](202‑225‑2452)
-Local: [tel:+1](803‑939‑0041)
-- ☐ Spoke to staffer
-- ☐ Left voicemail
-- ☐ Line busy / try again
-
----
-
-## ☎️ South Carolina State Leadership — Governor + Attorney General
-(DC‑style structure, state‑level edition)
-
-### Governor of South Carolina
-Office: Governor Henry McMaster
-Columbia: [tel:+1](803‑734‑2100)
-- ☐ Spoke to staffer
-- ☐ Left voicemail
-- ☐ Line busy / try again
-
-### Attorney General of South Carolina
-Office: Attorney General Alan Wilson
-Columbia: [tel:+1](803‑734‑3970)
-- ☐ Spoke to staffer
-- ☐ Left voicemail
-- ☐ Line busy / try again
-
----
-
+----
 - media
 - organizations
 - political parties
