@@ -10,7 +10,7 @@ BEGIN {
     mktAsia = ""
     mktDefense = "no data"
 
-    etfDefenseSymbols = "|EUAD|ITA|NATO|XAR|PPA|MISL|SHLD|FITE|DFNS|WDEF|ARKX|DFEN|WAR|JEDI|"
+    etfDefenseSymbols = "|EUAD|ITA|NATO|XAR|PPA|MISL|SHLD|FITE|DFNS|IDEF|WDEF|ARKX|DFEN|WAR|JEDI|"
 
     regionCount = 0
 
@@ -33,7 +33,8 @@ BEGIN {
     losers = 0
     pctChange = 0.0
     line = -1
-    regionHeading = ndxAMERICA
+    prevRegion = ""
+    currRegion = ""
     tableHeader = "Americas"
     postHeader()
     }
@@ -41,11 +42,14 @@ BEGIN {
 {
     cntSub = gsub(/\$/, "")
     curLine = $0
-    regionHeading  = index(region, curLine)
-    #printf("#DEBUG100: NR: %d, regionHeading: %d, %s\n", NR, regionHeading, curLine)
+    currRegion = index(region, curLine)
+    if (prevRegion != currRegion) {
+        prevRegion = currRegion
+        }
+    #printf("#DEBUG100: NR: %d, currRegion: %d, %s\n", NR, currRegion, curLine)
     etfFound = index(etfDefenseSymbols, curLine)
-        if ((line == -1) || (regionHeading > 0)) {
-        #printf("#DEBUG110: regionHeading: %d\n", regionHeading)
+        if ((line == -1) || (currRegion > 0)) {
+        #printf("#DEBUG110: currRegion: %d\n", currRegion)
         #printf("#DEBUG120: index(%s, %s)=%d\n", etfDefenseSymbols, curLine, index(etfDefenseSymbols, curLine))
 
     ###
@@ -57,7 +61,7 @@ BEGIN {
     ###
 
     if (substr(curLine, 1, 5) != "Index") {
-            tallySummary(gainers * 1.0, losers * 1.0, pctChange, regionHeading)
+            tallySummary(gainers * 1.0, losers * 1.0, pctChange, currRegion)
             gainers = 0
             losers = 0
             pctChange = 0.0
@@ -94,7 +98,7 @@ BEGIN {
 
 END {
     #printf("#DEBUG200: That's All Folks\n")
-    tallySummary(gainers * 1.0, losers * 1.0, pctChange, 0)
+    tallySummary(gainers * 1.0, losers * 1.0, pctChange, currRegion)
     postTrailer()
     if (regionCount < 3)
         printf("*** WARNING! A region is missing! ***\n")
@@ -117,7 +121,7 @@ function tallySummary(gainers, losers, pct, newRegion) {
             regionAssessment[tableHeader] = marketStrength
             }
         else {
-            if (newRegion == ndxEUROPE)
+            if (tableHeader == "Europe, Middle East, and Africa|Asia Pacific")
                 mktAmericas = marketStrength
             else if (newRegion == ndxASIA)
                 mktEurope = marketStrength
@@ -200,11 +204,12 @@ function printTitle() {
     # segment to print Liquid internal link for ../ClosingIndexes.md for yesterday, next day navigation links Filename Format(_posts/YYYY/MM/YYYY-MM-DD-YYYYMMDDClosingIndexes.md)
     path = "_posts/" substr(curDate, 1, 4) "/" substr(curDate, 6, 2) "/" curDate "-" substr(curDate, 1, 4) substr(curDate, 6, 2) substr(curDate,  9, 2) "ClosingIndexes.md"
 
-    printf("\n- [%s: %s]({%% link %s %%})\n\n", curDate, title, path)
+    printf("\n- [%s: %s]({%% link %s %%  }\n\n", curDate, title, path)
     }
 
 function postTrailer() {
 
+    classifyDefenceETF()
     printWorldStockExchanges()
     printTrumpBusinesses()
     printFederalGovernment()
@@ -216,35 +221,12 @@ function postTrailer() {
     printTitle()
     }
 
+function classifyDefenceETF() {
+    printf("{%% include classifyDefenceETF.html %%}\n")
+    }
+
 function printWorldStockExchanges() {
-    printf("\n### List of some of the major stock markets around the world and their locations:\n")
-    printf("\n")
-    printf("| Stock Exchange | Location |\n")
-    printf("|---------------|----------|\n")
-    printf("| **[New York Stock Exchange (NYSE)](https://www.nyse.com/index)** | New York City, USA |\n")
-    printf("| **[Nasdaq Stock Market](https://www.nasdaq.com/)** | New York City, USA |\n")
-    printf("| **[東京証券取引 (TSE)](https://www.jpx.co.jp/)** | Tokyo, Japan |\n")
-    printf("| **[上海证券交易所 (SSE)](https://sse.com.cn/)** | Shanghai, China |\n")
-    printf("| **[香港聯合交易所 (HKEX)](https://www.hkex.com.hk/)** | Hong Kong, China |\n")
-    printf("| **[London Stock Exchange (LSE)](https://www.londonstockexchange.com/)** | London, United Kingdom |\n")
-    printf("| **[Euronext](https://www.euronext.com/)** | Amsterdam, Brussels, Dublin, Lisbon, Milan, Oslo, Paris |\n")
-    printf("| **[Toronto Stock Exchange (TSX)](https://www.tmx.com/)** | Toronto, Canada |\n")
-    printf("| **[नेशनल स्टॉक एक्सचेंज (NSE)](https://www.nseindia.com/)** | Mumbai, India |\n")
-    printf("| **[बंबई स्टॉक एक्सचेंज (BSE)](https://www.bseindia.com/)** | Mumbai, India |\n")
-    printf("| **[深圳证券交易所 (SZSE)](https://www.szse.cn/)** | Shenzhen, China |\n")
-    printf("| **[السوق المالية السعودية (تداول)](https://www.saudiexchange.sa/)** | Riyadh, Saudi Arabia |\n")
-    printf("| **[Australian Securities Exchange (ASX)](https://www.asx.com.au/)** | Sydney, Australia |\n")
-    printf("| **[Deutsche Börse (Frankfurt Stock Exchange)](https://www.deutsche-boerse.com/dbg-en)** | Frankfurt, Germany |\n")
-    printf("| **[SIX Swiss Exchange](https://www.six-group.com/)** | Zurich, Switzerland |\n")
-    printf("| **[한국거래소 (KRX)](https://www.krx.co.kr/)** | Seoul, South Korea |\n")
-    printf("| **[臺灣證券交易所 (TWSE)](https://www.twse.com.tw/)** | Taipei, Taiwan |\n")
-    printf("| **[Johannesburg Stock Exchange (JSE)](https://www.jse.co.za/)** | Johannesburg, South Africa |\n")
-    printf("| **[首页](https://www.bursamalaysia.com/)** | Kuala Lumpur, Malaysia |\n")
-    printf("| **[ตลาดหลักทรัพย์แห่งประเทศไทย (SET)](https://www.set.or.th/)** | Bangkok, Thailand |\n")
-    printf("| **[新加坡交易所 (SGX)](https://www.sgx.com/)** | Singapore |\n")
-    printf("| **[Bolsa Mexicana de Valores (BMV)](https://www.bmv.com.mx/)** | Mexico City, Mexico |\n")
-    printf("| **[Московская Биржа (MOEX)](https://www.moex.com/)** | Moscow, Russia |\n")
-    printf("| **[A Bolsa do Brasil (B3)](https://www.b3.com.br/)** | São Paulo, Brazil |\n")
+    printf("{%% include WorldStockExchanges.html %%}\n")
     }
 
 function printTrumpBusinesses() {
@@ -261,63 +243,17 @@ function printTrumpBusinesses() {
     }
 
 function printFederalGovernment() {
-    printf("- [Constitution of the United States](https://constitution.congress.gov/)\n")
-    printf("- [Supreme Court of the United States (SCOTUS)](https://www.supremecourt.gov/)\n")
-    printf("- [US Courts](https://www.uscourts.gov/)\n")
-    printf("- [Federal Reserve Board](https://www.federalreserve.gov/)\n")
-    printf("- [Jerome H. Powell](https://www.federalreserve.gov/aboutthefed/bios/board/powell.htm)\n")
-    printf("- [Department of Commerce (DOC)](https://www.commerce.gov/)\n")
-    printf("- [Treasury Department](https://home.treasury.gov/)\n")
-    printf("- [Senate](https://www.senate.gov/)\n")
-    printf("- [House of Representatives](https://www.house.gov/)\n")
-    printf("- [U.S. Department of the Treasury](https://home.treasury.gov/)\n")
-    printf("- [Department of Commerce (DOC)](https://www.commerce.gov/)\n")
-    printf("- [President of the United States (POTUS)](https://www.whitehouse.gov/)\n")
-    printf("- [White House (WH)](https://www.whitehouse.gov/)\n")
+    printf("{%% include FederalGovernment.html %%}\n")
     }
 
 function printTrumpAutocracy() {
-    printf("- Trump Autocracy\n")
-    printf("- [Donald J Trump](https://www.donaldjtrump.com/)\n")
-    printf("- [President Donald Trump (45)](https://trumpwhitehouse.archives.gov/)\n")
-    printf("- [President Donald Trump (47)](https://www.whitehouse.gov/administration/donald-j-trump/)\n")
-    printf("- [President Trump (47) Administration](https://www.whitehouse.gov/administration/)\n")
-    printf("- [President Trump (47) Cabinet](https://www.whitehouse.gov/administration/the-cabinet/)\n")
-    printf("- [Howard Lutnick](https://www.commerce.gov/about/leadership/howard-lutnick)\n")
-    printf("- [Howard W. Lutnick](https://www.linkedin.com/in/howardwlutnick/)\n")
-    printf("- [Scott Bessent](https://home.treasury.gov/about/general-information/officials/scott-bessent)\n")
+    printf("{%% include TrumpAutocracy.html %%}\n")
     }
 
-function printTrumpCrimeBusinesses() {
-    printf("- Trump crime businesses\n")
-    printf("- [Trump Organization](https://www.trump.com/)\n")
-    printf("- [World Liberty Financial](https://www.worldlibertyfinancial.com/)\n")
-    printf("- [$TRUMP](https://gettrumpmemes.com/)\n")
-    printf("- [$MELANIA](https://melaniameme.com/)\n")
-    printf("- [The Mar-a-Lago Club](https://www.maralagoclub.com/)l\n")
-    printf("- [Trump International Golf Club](https://www.trumpinternationalpalmbeaches.com/)\n")
-    printf("- [Trump National Doral Golf Club](https://www.trumpgolfdoral.com/)\n")
-    printf("- [Trump National Jupiter Golf Club](https://www.trumpnationaljupiter.com/)\n")
-    printf("- [Trump National Golf Club Washington, D.C.](https://www.trumpnationaldc.com/)\n")
-    printf("- [Trump National Golf Club Bedminster](https://www.trumpnationalbedminster.com/)\n")
-    printf("- [Trump National Golf Club Colts Neck](https://www.trumpcoltsneck.com/)\n")
-    printf("- [Trump National Golf Club Philadelphia](https://www.trumpnationalphiladelphia.com/)\n")
-    printf("- [Trump National Golf Club Hudson Valley](https://www.trumpnationalhudsonvalley.com/)\n")
-    printf("- [Trump National Golf Club Westchester](https://www.trumpnationalwestchester.com/)\n")
-    printf("- [Trump National Golf Club Los Angeles](https://www.trumpnationallosangeles.com/)\n")
-    printf("- [Trump International Golf Club Dubai](https://www.trumpgolfdubai.com/)\n")
-    printf("- [Trump International Golf Links & Hotel Ireland, Doonbeg](https://www.trumpgolfireland.com/)\n")
-    printf("- [Trump MacLeod House & Lodge Scotland](https://www.trumphotels.com/macleod-house)\n")
-    printf("- [Trump Turnberry](https://www.turnberry.co.uk/)\n")
-    printf("- Trump crime family\n")
-    printf("- [Donald J Trump](https://www.donaldjtrump.com/)\n")
-    printf("- [Eric F. Trump / LinkedIn](https://www.linkedin.com/in/erictrump/)\n")
-    printf("- [Donald Trump Jr. / LinkedIn](https://www.linkedin.com/in/donald-trump-jr-4454b862/)\n")
-    printf("- Barron Trump\n")
-    printf("- Ivanka Trump\n")
-    printf("- Jared Kushner\n")
+function printTrumpCrimeBusinesses () {
+    printf("{%% include TrumpCrimeBusinesses.html %%}\n")
     }
 
 function printTrumpStupidity() {
     printf("{%% include TrumpTariffs.html %%}\n")
-    }
+    }Qq
