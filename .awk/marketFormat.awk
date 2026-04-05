@@ -76,6 +76,8 @@ BEGIN {
         line ++
         }
     else if (line == 1) {
+        if (substr(curLine, 1, 1) != "$")
+            curLine = "$" curLine
         printf("| %s ", curLine) # Value
         line ++
         }
@@ -98,7 +100,7 @@ BEGIN {
 
 END {
     #printf("#DEBUG200: That's All Folks\n")
-    tallySummary(gainers * 1.0, losers * 1.0, pctChange, currRegion)
+    tallySummary(gainers * 1.0, losers * 1.0, pctChange, 0)
     postTrailer()
     if (regionCount < 3)
         printf("*** WARNING! A region is missing! ***\n")
@@ -204,7 +206,8 @@ function printTitle() {
     # segment to print Liquid internal link for ../ClosingIndexes.md for yesterday, next day navigation links Filename Format(_posts/YYYY/MM/YYYY-MM-DD-YYYYMMDDClosingIndexes.md)
     path = "_posts/" substr(curDate, 1, 4) "/" substr(curDate, 6, 2) "/" curDate "-" substr(curDate, 1, 4) substr(curDate, 6, 2) substr(curDate,  9, 2) "ClosingIndexes.md"
 
-    printf("\n- [%s: %s]({%% link %s %%  }\n\n", curDate, title, path)
+    # Liquid link to copy to ../ClosingIndexes.md for yesterday's and tomorrow's link for yesterday's file
+    printf("\n- [%s: %s]({%% link %s %%})\n\n", curDate, title, path)
     }
 
 function postTrailer() {
@@ -222,11 +225,11 @@ function postTrailer() {
     }
 
 function classifyDefenceETF() {
-    printf("{%% include classifyDefenceETF.html %%}\n")
+    printf("\n{%% include classifyDefenseETF.html %%}\n")
     }
 
 function printWorldStockExchanges() {
-    printf("{%% include WorldStockExchanges.html %%}\n")
+    printf("\n{%% include WorldStockExchanges.html %%}\n")
     }
 
 function printTrumpBusinesses() {
