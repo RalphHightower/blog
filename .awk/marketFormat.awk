@@ -8,18 +8,23 @@ BEGIN {
     mktAmericas = ""
     mktEurope = ""
     mktAsia = ""
+    # add new sector variable to hold the region's performance assessment 
     mktDefense = "no data"
+    mktEnergy = "no data"
 
+    #
+    # adding <sector> ETFs
+    # 1. add <> ETF symbols 
+    #
     etfDefenseSymbols = "|EUAD|ITA|NATO|XAR|PPA|MISL|SHLD|FITE|DFNS|IDEF|WDEF|ARKX|DFEN|WAR|JEDI|"
+    etfEnergySymbols = "|AMLP|AMZA|ENFR|ERX|FENY|GUSH|IEO|IXC|IYE|MLPX|OIH|OILK|PXE|TEXU|TPYP|VDE|XLE|XOP|"
 
     regionCount = 0
 
-    ndxAMERICA = 2
-    ndxEUROPE = 11
-    ndxASIA = 43
-    ndxDEFENSE = 56
-
-    region = "|Americas|Europe, Middle East, and Africa|Asia Pacific|Defense ETFs|"
+    #
+    # Add the new <sector> name
+    #
+    region = "|Americas|Europe, Middle East, and Africa|Asia Pacific|Defense ETFs|Energy ETFs|"
     cntRegions = split(region, regBreaks, "|")
  
     # Use associative arrays to hold the region's assessment
@@ -28,6 +33,11 @@ BEGIN {
             regionAssessment[regBreaks[ndx]] = "no data"
             }
         }
+    #
+
+    # add <sector> Watch list name to check if a new sector is encountered 
+    #
+    customETF = "|Defense ETFs|Energy ETFs|"
 
     gainers = 0
     losers = 0
@@ -39,65 +49,67 @@ BEGIN {
     postHeader()
     }
 
-{
+{ # 1
     cntSub = gsub(/\$/, "")
     curLine = $0
     currRegion = index(region, curLine)
-    if (prevRegion != currRegion) {
+    if (prevRegion != currRegion) { # 2
         prevRegion = currRegion
-        }
+        } # 2
     #printf("#DEBUG100: NR: %d, currRegion: %d, %s\n", NR, currRegion, curLine)
-    etfFound = index(etfDefenseSymbols, curLine)
-        if ((line == -1) || (currRegion > 0)) {
+    etfFound = index(customETF, curLine)
+    if ((line == -1) || (currRegion > 0)) { # 2
         #printf("#DEBUG110: currRegion: %d\n", currRegion)
         #printf("#DEBUG120: index(%s, %s)=%d\n", etfDefenseSymbols, curLine, index(etfDefenseSymbols, curLine))
+        #printf("#DEBUG125: index(%s, %s)=%d\n", etfEnergySymbols, curLine, index(etfEnergySymbols, curLine))
 
-    ###
-    ### Capturing the individual indexes is state driven
-    ### Line 0: ETF name
-    ### Line 1: Current Net Asset Value
-    ### Line 2: Gain/Loss (also grabs sign for +, - Pct Change)
-    ### Line 3: Percent Change
-    ###
-
-    if (substr(curLine, 1, 5) != "Index") {
-            tallySummary(gainers * 1.0, losers * 1.0, pctChange, currRegion)
-            gainers = 0
-            losers = 0
-            pctChange = 0.0
-            line = -1
+        ###
+        ### Capturing the individual indexes is state driven
+        ### Line 0: ETF name
+        ### Line 1: Current Net Asset Value
+        ### Line 2: Gain/Loss (also grabs sign for +, - Pct Change)
+        ### Line 3: Percent Change
+        ###
+    
+        if (substr(curLine, 1, 5) != "Index") { # 3
+                tallySummary(gainers * 1.0, losers * 1.0, pctChange, currRegion)
+                gainers = 0
+                losers = 0
+                pctChange = 0.0
+                line = -1
+                } # 3
             }
-        }
-    if ((substr(curLine, 1, 5) == "Index") || (etfFound > 0)) {
-        line = 0
-        }
-    else if (line == 0) {
-        printf("| %s ", curLine) # Name
-        line ++
-        }
-    else if (line == 1) {
-        if (substr(curLine, 1, 1) != "$")
-            curLine = "$" curLine
-        printf("| %s ", curLine) # Value
-        line ++
-        }
-    else if (line == 2) {
-        printf("| %s ", curLine) # Change
-        direction = substr(curLine, 1, 1)
-        if (direction == "-")
-            losers ++
-        else
-            gainers ++
-        arrow = (direction == "-" ? ":arrow_down:" : ":arrow_up:")
-        line ++
-        }
-    else if (line == 3) {
-        pctChange += substr(curLine, 1, length(curLine) - 1) * (arrow == ":arrow_down:" ? -1.0 : 1.0)
-        printf("| %s %s |\n", arrow, curLine) # Percent Change
-        line ++
-        }
-    }
-
+        if ((substr(curLine, 1, 5) == "Index") || (etfFound > 0)) { # 3
+            line = 0
+            } # 3
+        else if (line == 0) { # 3
+            printf("| %s ", curLine) # Name
+            line ++
+            } # 3
+        else if (line == 1) { # 3
+            if (substr(curLine, 1, 1) != "$")
+                curLine = "$" curLine
+            printf("| %s ", curLine) # Value
+            line ++
+            } # 3
+        else if (line == 2) { # 3
+            printf("| %s ", curLine) # Change
+            direction = substr(curLine, 1, 1)
+            if (direction == "-")
+                losers ++
+            else
+                gainers ++
+            arrow = (direction == "-" ? ":arrow_down:" : ":arrow_up:")
+            line ++
+            } # 3
+        else if (line == 3) { # 3
+            pctChange += substr(curLine, 1, length(curLine) - 1) * (arrow == ":arrow_down:" ? -1.0 : 1.0)
+            printf("| %s %s |\n", arrow, curLine) # Percent Change
+            line ++
+            } # 3
+        } # 2
+    #} # 1
+    
 END {
     #printf("#DEBUG200: That's All Folks\n")
     tallySummary(gainers * 1.0, losers * 1.0, pctChange, 0)
@@ -122,19 +134,8 @@ function tallySummary(gainers, losers, pct, newRegion) {
         if (tableHeader != "") {
             regionAssessment[tableHeader] = marketStrength
             }
-        else {
-            if (tableHeader == "Europe, Middle East, and Africa|Asia Pacific")
-                mktAmericas = marketStrength
-            else if (newRegion == ndxASIA)
-                mktEurope = marketStrength
-            else if (newRegion == ndxDEFENSE)
-                mktAsia = marketStrength
-            else
-                mktDefense = marketStrength
         }
 
-        #printf("#DEBUG410: mktAmericas: %s, mktEurope: %s, mktAsia: %s, mktDefense: %s\n", mktAmericas, mktEurope, mktAsia, mktDefense)
-        }
     if (newRegion > 0) {
         printf("| **%s** | | | |\n", curLine)
         tableHeader = curLine
@@ -187,7 +188,7 @@ function postHeader() {
     printf("#image: 'BASEURL/assets/blog/img/.png'\n")
     printf("#description:\n")
     printf("#permalink:\n")
-    printf("title: \"%s: World Stock Market Closing Indexes: Americas (). Europe, Middle East, and Africa (). Asia Pacific ().\"\n", curDate)
+    printf("title: \"%s: World Stock Market Closing Indexes: Americas (no data). Europe, Middle East, and Africa (no data). Asia Pacific (no data).\"\n", curDate)
     printf("---\n")
 
     printf("\n\n## [Stock Market Indexes - Google Finance](https://www.google.com/finance/markets/indexes/)\n\n")
@@ -198,7 +199,10 @@ function postHeader() {
 function printTitle() {
     # print title to move to Jekyll section
 
-    title = sprintf("World Stock Market Closing Indexes: Americas (%s). Europe, Middle East, & Africa (%s). Asia Pacific (%s). Defense ETFs (%s)", regionAssessment["Americas"], regionAssessment["Europe, Middle East, and Africa"], regionAssessment["Asia Pacific"], regionAssessment["Defense ETFs"])
+    #
+    # Add the new Sector EFTs. Follow existing code
+    # 
+    title = sprintf("World Stock Market Closing Indexes: Americas (%s). Europe, Middle East, & Africa (%s). Asia Pacific (%s). Defense ETFs (%s), Energy ETFs(%s).\n", regionAssessment["Americas"], regionAssessment["Europe, Middle East, and Africa"], regionAssessment["Asia Pacific"], regionAssessment["Defense ETFs"], regionAssessment["Energy ETFs"])
     #printf("#DEBUG600: title: %s\n", title)
 
     printf("\ntitle: \"%s: %s\"\n---\n", curDate, title)
@@ -212,7 +216,11 @@ function printTitle() {
 
 function postTrailer() {
 
+    #
+    # Add a new subroutine call that prints the table of subcategories of the new sector ETFs
+    # 
     classifyDefenceETF()
+    classifyEnergyETF()
     printWorldStockExchanges()
     printTrumpBusinesses()
     printFederalGovernment()
@@ -224,7 +232,16 @@ function postTrailer() {
     printTitle()
     }
 
+# 
+# Adding a new <sector> ETF:
+# 1. Create a new subroutine in this style
+# 2. Create a new file in the _includes folder containing a table that defines the specialty of the ETF
+#
 function classifyDefenceETF() {
+    printf("\n{%% include classifyDefenseETF.html %%}\n")
+    }
+    
+function classifyEnergyETF() {
     printf("\n{%% include classifyDefenseETF.html %%}\n")
     }
 
@@ -259,4 +276,4 @@ function printTrumpCrimeBusinesses () {
 
 function printTrumpStupidity() {
     printf("{%% include TrumpTariffs.html %%}\n")
-    }Qq
+    }

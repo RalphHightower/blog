@@ -23,11 +23,12 @@ Select one (one PR per change):
 - [ ] New blog post(s)
 - [ ] Bugfix(es)
 - [ ] Code change(s)
-- [ ] Jekyll / Liquid / Markdown change(s)
+- [ ] HTML / Jekyll / Liquid / Markdown change(s)
 - [ ] Build error(s)
 - [ ] Documentation
 - [ ] Refactor (no functional changes)
 - [ ] Security
+- [ ] Templates
 - [ ] Other (describe):
 
 # Reason for Change
@@ -59,12 +60,18 @@ Select one (one PR per change):
 # Environment
 
 ## Languages
+- [ ] APL
+- [ ] awk
+- [ ] C / C++ / C#
+- [ ] Fortran
 - [ ] HTML
+- [ ] Java
 - [ ] Javascript
 - [ ] Jekyll
 - [ ] Liquid
 - [ ] Markdown
 - [ ] Ruby
+- [ ] SNOBOL
 - [ ] YAML
 - [ ] Other:
 
@@ -85,6 +92,11 @@ Select one (one PR per change):
 - [ ] DEC VAX
 - [ ] DEC VAXStation
 - [ ] IBM 
+- [ ] IBM System/360
+- [ ] IBM System/370
+- [ ] IBM System/370-XA
+- [ ] IBM ESA/370
+- [ ] IBM z/Architecture
 - [ ] Intel 8080
 - [ ] Intel Core
 - [ ] Motorola 68000
@@ -106,6 +118,15 @@ Select one (one PR per change):
 - [ ] No overlapping PRs for this repo
 - [ ] One change per branch
 <!-- Provide a concise summary of your changes above the fold -->
+<!--
+Update build status
+-->
+
+# Build Status
+- [ ] Success (assign 'action – success'). This may be delayed and updated in bulk.
+- [ ] Partial Success (build succeeded, but not desired result. HTTP 404, etc.)
+- [ ] Failure (Build failed. Mark status: "action – failed'. Copy build log in comment of this PR. Create Issue  from Comment, click on '…', 'reference in new issue' with PR#{pull request number} as subject.
+- [ ] Canceled (flag PR as 'action – canceled')
 
 ---
 
