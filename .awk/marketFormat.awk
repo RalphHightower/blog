@@ -42,7 +42,7 @@ BEGIN {
     gainers = 0
     losers = 0
     pctChange = 0.0
-    line = -10
+    line = -1
     prevRegion = ""
     currRegion = ""
     tableHeader = "Americas"
@@ -276,4 +276,4 @@ function printTrumpCrimeBusinesses () {
 
 function printTrumpStupidity() {
     printf("{%% include TrumpTariffs.html %%}\n")
-    }Qq
+    }
