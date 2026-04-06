@@ -20,6 +20,10 @@ The telephone numbers below have called and there is an empty person on the othe
 
 | Telephone Number | Location | Date Time[^11]<sup>,</sup>[^12] | Caller | Social Media |
 |---|---|---|---|---|
+| [\+1 (864) 866-6842](tel:+18648666842) | SC. Liberty | 2026-04-04 11:06 AM | — | |
+| [\+1 (833) 263-0531](tel:+18332630531) | Toll Free | 2026-04-03 05:48 PM | #LoanFraud 🚫 National Advisory Group | |
+| [\+8 (669) 901-1319](tel:+886699011319) | Toll Free | 2026-04-03 05:48 PM | #LoanFraud 🚫 | |
+| [\+1 (854) 336-8026](tel:+18543368026) | SC. Jamestown | 2026-04-03 12:46 PM | — | |
 | [\+1 (839) 225-0736](tel:+18392250736) | SC. North | 2026-04-01 06:29 PM | — | |
 | [\+1 (839) 288-2151](tel:+18392882151) | SC. | 2026-04-01 04:36 PM Onvoy | — | |
 | [\+1 (839) 465-8168](tel:+18394658168) | SC. Aiken | 2026-03-31 01:48 PM | — | |
