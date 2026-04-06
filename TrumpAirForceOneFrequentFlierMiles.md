@@ -16,8 +16,12 @@ toc: true
 [^666]: @RalphHightower – [Federal Aviation Administration - Graphic TFRs](https://tfr.faa.gov/tfr3/?page=list)
 [^966]: Saudi Private Investment Fund – [Future Investment Initiative Institute](https://en.wikipedia.org/wiki/Future_Investment_Initiative_Institute?wprov=sfla1)
 
+## Weekend Deviation Table
+
+
 🔥💸 = Government Shutdown
 
+{% include_relative TrumpAF1/2026Q2.md %}
 {% include_relative TrumpAF1/2026Q1.md %}
 {% include_relative TrumpAF1/2025Q4.md %}
 {% include_relative TrumpAF1/2025Q3.md %}
