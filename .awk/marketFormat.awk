@@ -80,8 +80,11 @@ BEGIN {
                 line = -1
                 } # 3
             }
-        etfFound = index("Index" etfCustomLists, curLine)
-        if ((substr(curLine, 1, 5) == "Index") || (etfFound > 0)) { # 3
+        indexFound = index("Index" etfCustomLists, curLine)
+        if (indexFound) { # 3
+        
+        #etfFound = index("Index" etfCustomLists, curLine)
+        #if ((substr(curLine, 1, 5) == "Index") || (etfFound > 0)) { # 3
             line = 0
             } # 3
         else if (line == 0) { # 3
@@ -244,7 +247,7 @@ function classifyDefenceETF() {
     }
     
 function classifyEnergyETF() {
-    printf("\n{%% include classifyDefenseETF.html %%}\n")
+    printf("\n{%% include classifyEnergyETF.html %%}\n")
     }
 
 function printWorldStockExchanges() {
