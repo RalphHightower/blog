@@ -18,6 +18,8 @@ BEGIN {
     #
     etfDefenseSymbols = "|EUAD|ITA|NATO|XAR|PPA|MISL|SHLD|FITE|DFNS|IDEF|WDEF|ARKX|DFEN|WAR|JEDI|"
     etfEnergySymbols = "|AMLP|AMZA|ENFR|ERX|FENY|GUSH|IEO|IXC|IYE|MLPX|OIH|OILK|PXE|TEXU|TPYP|VDE|XLE|XOP|"
+    
+    etfCustomLists = etfDefenseSymbols etfEnergySymbols
 
     regionCount = 0
 
@@ -57,10 +59,9 @@ BEGIN {
         prevRegion = currRegion
         } # 2
     #printf("#DEBUG100: NR: %d, currRegion: %d, %s\n", NR, currRegion, curLine)
-    etfFound = index(customETF, curLine)
     if ((line == -1) || (currRegion > 0)) { # 2
         #printf("#DEBUG110: currRegion: %d\n", currRegion)
-        #printf("#DEBUG120: index(%s, %s)=%d\n", etfDefenseSymbols, curLine, index(etfDefenseSymbols, curLine))
+        #printf("#DEBUG120: index(%s, %s)=%d\n", etfDefenseSymbols, curLine, index(etfDefenseSymbols, curLine)) 
         #printf("#DEBUG125: index(%s, %s)=%d\n", etfEnergySymbols, curLine, index(etfEnergySymbols, curLine))
 
         ###
@@ -79,6 +80,7 @@ BEGIN {
                 line = -1
                 } # 3
             }
+        etfFound = index("Index" etfCustomLists, curLine)
         if ((substr(curLine, 1, 5) == "Index") || (etfFound > 0)) { # 3
             line = 0
             } # 3
@@ -109,7 +111,7 @@ BEGIN {
             } # 3
         } # 2
     #} # 1
-    
+            
 END {
     #printf("#DEBUG200: That's All Folks\n")
     tallySummary(gainers * 1.0, losers * 1.0, pctChange, 0)
@@ -202,7 +204,7 @@ function printTitle() {
     #
     # Add the new Sector EFTs. Follow existing code
     # 
-    title = sprintf("World Stock Market Closing Indexes: Americas (%s). Europe, Middle East, & Africa (%s). Asia Pacific (%s). Defense ETFs (%s), Energy ETFs(%s).\n", regionAssessment["Americas"], regionAssessment["Europe, Middle East, and Africa"], regionAssessment["Asia Pacific"], regionAssessment["Defense ETFs"], regionAssessment["Energy ETFs"])
+    title = sprintf("World Stock Market Closing Indexes: Americas (%s). Europe, Middle East, & Africa (%s). Asia Pacific (%s). Defense ETFs (%s), Energy ETFs(%s).", regionAssessment["Americas"], regionAssessment["Europe, Middle East, and Africa"], regionAssessment["Asia Pacific"], regionAssessment["Defense ETFs"], regionAssessment["Energy ETFs"])
     #printf("#DEBUG600: title: %s\n", title)
 
     printf("\ntitle: \"%s: %s\"\n---\n", curDate, title)
