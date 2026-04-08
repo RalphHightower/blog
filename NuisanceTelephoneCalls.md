@@ -20,6 +20,8 @@ The telephone numbers below have called and there is an empty person on the othe
 
 | Telephone Number | Location | Date Time[^11]<sup>,</sup>[^12] | Caller | Social Media |
 |---|---|---|---|---|
+| [\+1 (803) 548-0864](tel:+18035480864) | SC. Fort Mill | 2026-04-08 01:33 PM | Margaret Bisig (BISIG CHRIS) | |
+| [\+1 (854) 946-3106](tel:+18549463106) | SC. Bluffton | 2026-04-06 12:11 PM | — | |
 | [\+1 (864) 866-6842](tel:+18648666842) | SC. Liberty | 2026-04-04 11:06 AM | — | |
 | [\+1 (833) 263-0531](tel:+18332630531) | Toll Free | 2026-04-03 05:48 PM | #LoanFraud 🚫 National Advisory Group | |
 | [\+8 (669) 901-1319](tel:+886699011319) | Toll Free | 2026-04-03 05:48 PM | #LoanFraud 🚫 | |
