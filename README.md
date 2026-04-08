@@ -37,6 +37,16 @@ Now, democracy is on life support.
 
 [^2029]: [Begin Program: The Reality Of Building a Holodeck Today / Star Trek](https://www.startrek.com/news/begin-program-the-reality-of-building-a-holodeck-today)<br />Star Trek: The Next Generation<br />Published May 18, 2021<br />By Becca Caddy
 
+### Iran War Duration
+
+<div id='iranWar'></div>
+
+#### ⛽️ Fuel Prices Rise Like a Rocket 🚀 and Fall Like a Feather 🪶 
+
+[Donnie Trump](https://www.donaldjtrump.com/), drunk from the success of the [Venezuela](https://www.gob.ve/) raid, thought forcing regime change in [Iran](https://irangov.ir/) was going to be easy-peasy. Instead, he got himself stuck in [La Brea Tar Pits](https://tarpits.org/)
+
+But [Trump](https://www.donaldjtrump.com/) is a _"checkers player"_, not a chess player who is able to see secondary and tertiary ramifications of a move. He didn't think that [Iran](https://irangov.ir/) would block the Strait of Hormuz, forcing a meteoric rise in fuel prices, fertilizer and forcing a dwindling supply of helium which is used for semiconductor manufacturing and in MRI machines. Diesel powers agriculture and fishing fleets, long-haul freight, like trains and tractor trailers. The blockade of the Strait has kicked off a cascade of rising prices at _"the grocery"_ (his words, not mine).
+
 ## Briefly
 
 ### Synopsis
@@ -537,6 +547,34 @@ If a security issue is found, I can be notified by one of the following methods:
 const startDate = new Date(2025, 0, 19, 0, 0);     // Jan 20, 2025 12:00 PM
 const endDate = new Date(2029, 0, 20, 12, 0, 0);      // Jan 20, 2029, 12:00 PM
 
+const warStart = new Date("2026-02-27T20:48:00Z"); // <-- adjust as needed
+
+// Set your war start timestamp (UTC recommended)
+
+function iranWar2026(divID) {
+    const now = new Date();
+    timeSpan = getTimeSpan(warStart, now);
+    fmtWarElapsed = formatElapsed(timeSpan);
+    setElementText(divID, fmtWarElapsed);
+    }
+
+function formatElapsed(ms) {
+  const totalSeconds = Math.floor(ms / 1000);
+
+  const days = Math.floor(totalSeconds / (24 * 3600));
+  const remAfterDays = totalSeconds % (24 * 3600);
+
+  const hours = Math.floor(remAfterDays / 3600);
+  const remAfterHours = remAfterDays % 3600;
+
+  const minutes = Math.floor(remAfterHours / 60);
+  const seconds = remAfterHours % 60;
+
+  const pad = n => String(n).padStart(2, '0');
+
+  return `${days} day(s) / ${pad(hours)}:${pad(minutes)}:${pad(seconds)}`;
+}
+
 function displayBegin(divid, dateBegin) {
     const now = new Date();
     const begin = new Date(dateBegin);
@@ -726,6 +764,7 @@ function updateCounters() {
 
     setElementText('daysSince', "Days into term: " + (daysSince >= 0 ? daysSince + " days " + fmtPercent(pctTermCompleted) + "%" : "Event is in the future"));
     setElementText('daysRemaining', "Days remaining in term: " + (daysRemaining >= 0 ? daysRemaining + " days " + fmtPercent(pctTermRemaing) + "%" : "Event has passed"));
+    iranWar2026('iranWar');
     }
 
 function trumpGPS(date) {
