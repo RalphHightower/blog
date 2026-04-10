@@ -3,6 +3,7 @@
 	AUH { name: "Abu Dhabi International Airport / Zayed International Airport", link: "https://www.zayedinternationalairport.ae/", lat: 0.426437, lon: 0.953842 },
 	AUH { name: "Zayed International Airport", link: "https://www.zayedinternationalairport.ae/", lat: 0.426437, lon: 0.953842 },
 	AVL { name: "Asheville Regional Airport", link: "https://flyavl.com/", lat: 0.618477, lon: 1.440624 },
+	CHO { name: "Charlottesville-Albemarle Airport", link: "https://gocho.com/", lat: 0.665668948, lon: −1.369429927 },
 	CRP { name: "Corpus Christi International Airport", link: "https://corpuschristiairport.com/", lat: 0.484683, lon: 1.701715 },
 	CVG { name: "Cincinnati/Northern Kentucky International Airport", link: "https://www.cvgairport.com/", lat: 0.681532, lon: 1.477731 },
 	DAB { name: "Daytona Beach International Airport", link: "https://www.flydaytonafirst.com/", lat: 0.509369, lon: 1.414774 },
