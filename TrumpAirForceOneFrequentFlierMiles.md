@@ -17,9 +17,14 @@ toc: true
 [^966]: Saudi Private Investment Fund – [Future Investment Initiative Institute](https://en.wikipedia.org/wiki/Future_Investment_Initiative_Institute?wprov=sfla1)
 
 ## Legends To Symbols in Date Fields
-- 🔥💰💸 = Full Government Shutdown; 2025-10-01 – 2025-11-12, 2026-01-31 – 2026-02-03
+- 🔥💰💸 = Full Government Shutdown; 
+    - 2025-10-01 – 2025-11-12
+    - 2026-01-31 – 2026-02-03
 - 🔥💸 = Partial Government Shutdown
+    - January 31 – February 3, 2026-02-27
+- 💰💸 = Fund Raising Activities
 - 🪖🪂 = Iran War 2026-02-08 – 
+- 💰💰💸💸 Fundraiser
 
 {% include_relative TrumpAF1/2026Q2.md %}
 {% include_relative TrumpAF1/2026Q1.md %}

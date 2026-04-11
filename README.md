@@ -4,6 +4,8 @@ title: Reason for Starting a Blog
 toc: true
 ---
 
+## Country Over Party
+
 I am one of the *“enemies within”[^110]*.
 
 [^110]: A tagline that [Donnie Trump](https://www.donaldjtrump.com/) gave to [Senator](https://www.senate.gov/) [Adam Schiff (D-CA)](https://www.schiff.senate.gov/) during an hour long with [NBC News](https://www.nbcnews.com/) [Meet the Press](https://www.nbcnews.com/meet-the-press) with host [Kristen Welker](https://www.nbcnews.com/author/kristen-welker-ncpn6396).
@@ -235,6 +237,8 @@ This section documents cultural moments that intersect with America’s civic tu
 
 <h3>🌾 Farm Aid 2026</h3>
 
+<!-- [Farm Aid – Standing With Family Farmers Since 1985](https://www.farmaid.org/) -->
+
 Why I’m Highlighting It This Year
 
 The Iran war has triggered a chain reaction in the real economy — LNG, diesel, fertilizer, fishing fuel, freight, plastics, even the coal and metals that keep the grid running. Diesel delivers everything, from crops to catch to coal for power plants, and when it spikes, the whole system tightens. Farmers and fishermen feel it first. With Farm Aid returning in 2026, I’m posting a full breakdown on the blog about how these rising costs ripple through the country we all depend on.
@@ -245,11 +249,12 @@ Read the full post →
 
 ## Make Your Voice Heard
 
-- [50501 — 50 protests, 50 states, 1 movement](https://www.fiftyfifty.one/)
-- [RepresentUs: Demand Accountable Government](https://represent.us/)
+- [Democracy Docket](https://www.democracydocket.com/)
 - [DEFIANCE.org / Defy Trump, Together](https://www.defiance.org/)
-- [Indivisible](https://indivisible.org/)
+- [50501 — 50 protests, 50 states, 1 movement](https://www.fiftyfifty.one/)
 - [No Kings](https://www.nokings.org/)
+- [Indivisible](https://indivisible.org/)
+- [RepresentUs: Demand Accountable Government](https://represent.us/)
 - [Activist Handbook / Campaigning guides for activists ✊](https://activisthandbook.org/)
 - [American Civil Liberties Union / The ACLU dares to create a more perfect union — beyond one person, party, or side. Our mission is to realize this promise of the United States Constitution for all and expand the reach of its guarantees.](https://www.aclu.org/)
 - [League of Conservation Voters](https://www.lcv.org/)
