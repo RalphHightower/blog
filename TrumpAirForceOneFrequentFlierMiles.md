@@ -20,10 +20,11 @@ toc: true
 - 🔥💰💸 = Full Government Shutdown; 
     - 2025-10-01 – 2025-11-12
     - 2026-01-31 – 2026-02-03
-- 🔥💸 = Partial Government Shutdown
-    - January 31 – February 3, 2026-02-27
+- 🔥💸  = Partial Government Shutdown
+    - 2026-01-31 – 2026-02-03
+    --2026-02-14 – 
 - 💰💸 = Fund Raising Activities
-- 🪖🪂 = Iran War 2026-02-08 – 
+- 🪖🪂 = Iran War 2026-02-27 – 
 - 💰💰💸💸 Fundraiser
 
 {% include_relative TrumpAF1/2026Q2.md %}
