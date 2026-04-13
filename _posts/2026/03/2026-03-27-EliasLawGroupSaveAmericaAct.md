@@ -12,7 +12,7 @@ title: "Letter to the Elias Law Group: SAVE America Act"
 
 Hello Elias Law Group,
 
-I’m reaching out not from a legal perspective, but from the systems‑engineering and project‑management angle that Frederick Brooks articulated so clearly. The current policy environment is being treated as if complex institutional processes can be compressed, parallelized, or accelerated simply by political will. Brooks’s work shows the opposite: that large, interdependent systems have irreducible timelines, non‑compressible phases, and failure modes that emerge when change is forced too late in the cycle.
+I’m reaching out not from a legal perspective, but from the systems‑engineering and project‑management angle that Frederick Brooks articulated so clearly in his book, [The Mythical Man‑Month (ISBN 978‑0‑201‑83595‑3)](https://www.pearson.com/en-us/subject-catalog/p/mythical-man-month-the-essays-on-software-engineering-anniversary-edition/P200000003464/9780201835953). The current policy environment is being treated as if complex institutional processes can be compressed, parallelized, or accelerated simply by political will. Brooks’s work shows the opposite: that large, interdependent systems have irreducible timelines, non‑compressible phases, and failure modes that emerge when change is forced too late in the cycle.
 
 A second frame comes from mechanical engineering. The State Department’s passport backlog demonstrated what happens when a federal system receives a sudden, overwhelming documentation load: it seizes. Not because the people are incompetent, but because the system architecture cannot absorb that volume without redesign, tooling changes, staffing cycles, and testing windows.
 
@@ -22,7 +22,7 @@ I wanted to share this perspective because the engineering realities are often m
 
 If this framing is useful to your ongoing work, I’m glad to elaborate further.
 
-Best regards,
+Best regards,<br />
 Ralph Hightower
 
 ----
