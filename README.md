@@ -241,9 +241,9 @@ This section documents cultural moments that intersect with America’s civic tu
 
 Why I’m Highlighting It This Year
 
-The Iran war has triggered a chain reaction in the real economy — LNG, diesel, fertilizer, fishing fuel, freight, plastics, even the coal and metals that keep the grid running. Diesel delivers everything, from crops to catch to coal for power plants, and when it spikes, the whole system tightens. Farmers and fishermen feel it first. With Farm Aid returning in 2026, I’m posting a full breakdown on the blog about how these rising costs ripple through the country we all depend on.
+The [Iran](https://irangov.ir/)) war has triggered a chain reaction in the real economy — LNG, diesel, fertilizer, fishing fuel, freight, plastics, even the coal and metals that keep the grid running. Diesel delivers everything, from crops to catch to coal for power plants, and when it spikes, the whole system tightens. Farmers, ranchers, and fishermen feel it first. With [Farm Aid](https://www.farmaid.org/) returning in 2026, I’m posting a full breakdown on the blog about how these rising costs cascade through the country we all depend on.
 
-Read the full post →
+Read the full post [Farm Aid 2026: A Year of Need]({% link _posts/2026/03/2026-03-29-FarmAid.md %})→
 
 </div><!-- 2026-09-30T23:59:59Z -->
 
