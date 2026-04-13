@@ -7,28 +7,28 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: "DC/SC Call Scrip"
+title: "DC/SC Call Script"
 ---
 
-## ☎️ My Three Calls — DC + Local (tel‑link ready)
+## ☎️ My Three or Four/Five Calls — DC + Local (tel‑link ready)
 
 ### Sen. Lindsey Graham
-DC: [tel:+1(202‑224‑5972](202‑224‑5972)
-Local: [tel:+1](803‑933‑0112)
+DC: [tel:+1202‑l2245972](202‑224‑5972)
+Local: [tel:+18039330112](803‑933‑0112)
 - ☐ Spoke to staffer
 - ☐ Left voicemail
 - ☐ Line busy / try again
 
 ### Sen. Tim Scott
-DC: [tel:+1](202‑224‑6121)
-Local: [tel:+1](803‑771‑6112)
+DC: [tel:+1(2022246121](202‑224‑6121)
+Local: [tel:+18037716112](803‑771‑6112)
 - ☐ Spoke to staffer
 - ☐ Left voicemail
 - ☐ Line busy / try again
 
 ### Rep. Joe Wilson (SC‑02)
-DC: [tel:+1](202‑225‑2452)
-Local: [tel:+1](803‑939‑0041)
+DC: [tel:+12022252452](202‑225‑2452)
+Local: [tel:+18039390041](803‑939‑0041)
 - ☐ Spoke to staffer
 - ☐ Left voicemail
 - ☐ Line busy / try again
@@ -40,14 +40,14 @@ Local: [tel:+1](803‑939‑0041)
 
 ### Governor of South Carolina
 Office: Governor Henry McMaster
-Columbia: [tel:+1](803‑734‑2100)
+Columbia: [tel:+1803‑l734‑l2100](803‑734‑2100)
 - ☐ Spoke to staffer
 - ☐ Left voicemail
 - ☐ Line busy / try again
 
 ### Attorney General of South Carolina
 Office: Attorney General Alan Wilson
-Columbia: [tel:+1](803‑734‑3970)
+Columbia: [tel:+18037343970](803‑734‑3970)
 - ☐ Spoke to staffer
 - ☐ Left voicemail
 - ☐ Line busy / try again
