@@ -14,8 +14,7 @@ I decided to play off that classic Christmas song, "The Twelve Days Of Christmas
 
 ## ☎️ My Three or Four/Five Calls — DC + Local (tel‑link ready)
 
-<script src="/assets/js/displayLibrary.js">
-</script>
+<script type="module" src="/assets/js/displayLibrary.js"></script>
 
 <script>
 today = new Date();
