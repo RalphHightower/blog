@@ -21,7 +21,6 @@ I decided to play off that classic Christmas song, "The Twelve Days Of Christmas
 today = new Date();
 // legal locale fr-CA displays YYYY-MM-DD format
 dispDate = today.toLocaleDateString("fr-CA", "full");
-alert(dispDate);
 switch (dispDate) {
     case "2026-04-13":
         dayNAY = 1;
@@ -59,11 +58,10 @@ switch (dispDate) {
     default:
         dayNAY = 0;
 }
-alert(dayNAY);
-
 const dayOf = 'Hello, my name is Ralph Hightower, a constituent from Chapin, South Carolina. Today is day ' + dayNAY.toString() + ' of my Ten NAYS of the + <a href="https://www.congress.gov/bill/119th-congress/house-bill/7296">SAVE America Act</a>. <em>Leave cellphone number and zip code if voicemail.</em>';
 
 alert(dayOf);
+setElementText("tenNays", dayOf);
 
 </script>
 
