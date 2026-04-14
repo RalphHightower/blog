@@ -12,9 +12,9 @@ title: "DC/SC Call Script: Ten NAYS of the SAVE America Act"
 
 I decided to play off that classic Christmas song, "The Twelve Days Of Christmas", expressing my oppositions, one per weekday over two weeks to the [SAVE America Act](https://www.congress.gov/bill/119th-congress/house-bill/7296).
 
-## ☎️ My Three or Four/Five Calls — DC + Local (tel‑link ready)
+## Ten Call Scripts For Two Weeks
 
-<script type="module" src="/assets/js/displayLibrary.js"></script>
+<script type="module" src="{{ site.baseurl }}/assets/js/displayLibrary.js"></script>
 
 <script>
 today = new Date();
@@ -156,7 +156,7 @@ setElementText("tenNays", dayOf);
 
 <details markdown='1'><summary>2026-04-17</summary>
 
-- [ ] 5. The number of illegal registrations is microscopic. A Georgia audit found 8 illegal registrations among 8.4 million registered voters. That's an error rate of 0.000095338%, that is 4 leading zeroes.
+- [ ] 5. The number of illegal registrations is microscopic. A Georgia audit found 8 illegal registrations among 8.4 million registered voters. That's an error rate of 0.000095338%, that is 4 zeroes behind the decimal.
 - [(202) 224-5972 – Graham, Lindsey (T-SC)](tel:+12022245972)
     - [ ] Spoke to staffer
     - [ ] Left voicemail
