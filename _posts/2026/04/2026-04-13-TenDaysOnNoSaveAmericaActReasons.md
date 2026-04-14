@@ -1,79 +1,275 @@
 ---
 layout: post
-tags: []
-categories: [call script]
+tags: [political parties,Democrat Party,Trumpian Party,state local governments,State of South Carolina,Home / S.C. Governor Henry McMaster,Governor’s Biography / S.C. Governor Henry McMaster,South Carolina Attorney General,Attorney General Alan Wilson (T),Homepage / South Carolina Department of Public Health,Vital Records / South Carolina Department of Public Health,federal government,Constitution of the United States,U.S. Constitution - Article I / Library of Congress,U.S. Constitution - Article II / Library of Congress,U.S. Constitution - Article III / Library of Congress,U.S. Constitution - Article IV / Library of Congress,U.S. Constitution - Article V / Library of Congress,U.S. Constitution - Article VI / Library of Congress,U.S. Constitution - Article VII / Library of Congress,U.S. Constitution - First Amendment / Library of Congress,U.S. Constitution - Second Amendment / Library of Congress,U.S. Constitution - Third Amendment / Library of Congress,U.S. Constitution - Fourth Amendment / Library of Congress,U.S. Constitution - Fifth Amendment / Library of Congress,U.S. Constitution - Sixth Amendment / Library of Congress,U.S. Constitution - Seventh Amendment / Library of Congress,U.S. Constitution - Eighth Amendment / Library of Congress,U.S. Constitution - Tenth Amendment / Library of Congress,U.S. Constitution - Eleventh Amendment / Library of Congress,U.S. Constitution - Twelfth Amendment / Library of Congress,U.S. Constitution - Thirteenth Amendment / Library of Congress,U.S. Constitution - Fourteenth Amendment / Library of Congress,U.S. Constitution - Fifteenth Amendment / Library of Congress,U.S. Constitution - Sixteenth Amendment / Library of Congress,U.S. Constitution - Seventeenth Amendment / Library of Congress,U.S. Constitution - Nineteenth Amendment / Library of Congress,U.S. Constitution - Twentieth Amendment / Library of Congress,U.S. Constitution - Twenty-First Amendment / Library of Congress,U.S. Constitution - Twenty-Second Amendment / Library of Congress,U.S. Constitution - Twenty-Third Amendment / Library of Congress,U.S. Constitution - Twenty-Fourth Amendment / Library of Congress,U.S. Constitution - Twenty-Fifth Amendment / Library of Congress,U.S. Constitution - Twenty-Sixth Amendment / Library of Congress,U.S. Constitution - Twenty-Seventh Amendment / Library of Congress,Supreme Court of the United States (SCOTUS),US Courts,Department of Justice (DOJ),Federal Bureau of Investigation (FBI),Department of State (DOS),Get a Passport Homepage,Federal Reserve,Federal Reserve Board - Federal Reserve Act,U.S. Department of the Treasury,Congress,H.R.7296 - 119th Congress (2025-2026)–  SAVE America Act / Library of Congress,Senate,Graham Lindsey (T-SC),Scott Tim (T-SC),House of Representatives,Wilson Joe (T-SC2),President of the United States (POTUS),White House (WH),Trump autocracy,Donald J Trump,President Donald Trump (45),President Donald Trump (47),President Trump (47) Administration,President Trump (47) Cabinet,Ensuring Citizenship Verification and Integrity in Federal Elections. Presidential Actions. Executive Orders. March 31 2026, Preserving and Protecting the Integrity of American Elections. Presidential Actions. Executive Orders. March 25 2025, press secretary,Karoline Leavitt,Todd Blanche – Office of the Deputy Attorney General / Office of the Deputy Attorney General,Todd Blanche / LinkedIn,Director Kash Patel — FBI,grifter,self-dealing,corruption,con artist,crime,cryptocurrency,criminal associates,criminal businesses,criminal media,criminal organizations,criminal partners]
+categories: [call script,H.R.7296 - 119th Congress (2025-2026)–  SAVE America Act / Library of Congress,Donald Trump,Senate,Graham Lindsey (T-SC),Scott Tim (T-SC),House of Representatives,Wilson Joe (T-SC2),Home / S.C. Governor Henry McMaster,Governor’s Biography / S.C. Governor Henry McMaster,South Carolina Attorney General,Attorney General Alan Wilson (T),Homepage / South Carolina Department of Public Health,Vital Records / South Carolina Department of Public Health,Supreme Court of the United States (SCOTUS),US Courts,Department of Justice (DOJ),Department of State (DOS),Get a Passport Homepage]
 date: 2026-04-13 12:23
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: "DC/SC Call Script: Ten Reasons Against SAVE America Act"
+title: "DC/SC Call Script: Ten NAYS of the SAVE America Act"
 ---
 
-- [ ] 1. Article I, Section 4, Clause 1: The Times, Places and Manner of holding Elections for Senators and Representatives, shall be prescribed in each State by the Legislature thereof; but the Congress may at any time by Law make or alter such Regulations, except as to the Places of chusing Senators.
+I decided to play off that classic Christmas song, "The Twelve Days Of Christmas", expressing my oppositions, one per weekday over two weeks to the [SAVE America Act](https://www.congress.gov/bill/119th-congress/house-bill/7296).
+
+## ☎️ My Three or Four/Five Calls — DC + Local (tel‑link ready)
+
+Hello, my name is Ralph Hightower, a constituent from Chapin, South Carolina. Today is day 1 of my Ten NAYS of the [SAVE America Act](https://www.congress.gov/bill/119th-congress/house-bill/7296). _Leave cellphone number and zip code if voicemail._
+
+- [x] 1. Article I, Section 4, Clause 1: The Times, Places and Manner of holding Elections for Senators and Representatives, shall be prescribed in each State by the Legislature thereof; but the Congress may at any time by Law make or alter such Regulations, except as to the Places of chusing Senators.
+- [(202) 224-5972 – Graham, Lindsey (T-SC)](tel:+1202‑224‑5972)
+    - [ ] Spoke to staffer
+    - [x] Left voicemail
+    - [ ] Line busy / try again
+- [(202) 224-6121 – Scott, Tim (T-SC)](tel:+12022246121)
+    - [x] Spoke to staffer
+    - [ ] Left voicemail
+    - [ ] Line busy / try again
+- [(803) 734‑2100 – McMaster, Henry (T)](tel:+18037342100)
+    - [ ] Spoke to staffer
+    - [x] Left voicemail
+    - [ ] Line busy / try again
+- [(803) 734-3970 – Wilson, Alan](tel:+18037343970)
+    - [ ] Spoke to staffer
+    - [x] Left voicemail
+    - [ ] Line busy / try again
+
 - [ ] 2. Decentralization increases the vector size for an organization or state actor to attack and manipulate. One central control simplifies the number of systems to attack and manipulate to one.
+- [(202) 224-5972 – Graham, Lindsey (T-SC)](tel:+1202‑224‑5972)
+    - [ ] Spoke to staffer
+    - [ ] Left voicemail
+    - [ ] Line busy / try again
+- [(202) 224-6121 – Scott, Tim (T-SC)](tel:+12022246121)
+    - [ ] Spoke to staffer
+    - [ ] Left voicemail
+    - [ ] Line busy / try again
+- [(803) 734‑2100 – McMaster, Henry (T)](tel:+18037342100)
+    - [ ] Spoke to staffer
+    - [ ] Left voicemail
+    - [ ] Line busy / try again
+- [(803) 734-3970 – Wilson, Alan](tel:+18037343970)
+    - [ ] Spoke to staffer
+    - [ ] Left voicemail
+    - [ ] Line busy / try again
+
 - [ ] 3. The Purcell Principles decided by the Supreme Court prohibits changes to election laws that creates confusion close to an election.
+- [(202) 224-5972 – Graham, Lindsey (T-SC)](tel:+1202‑224‑5972)
+    - [ ] Spoke to staffer
+    - [ ] Left voicemail
+    - [ ] Line busy / try again
+- [(202) 224-6121 – Scott, Tim (T-SC)](tel:+12022246121)
+    - [ ] Spoke to staffer
+    - [ ] Left voicemail
+    - [ ] Line busy / try again
+- [(803) 734‑2100 – McMaster, Henry (T)](tel:+18037342100)
+    - [ ] Spoke to staffer
+    - [ ] Left voicemail
+    - [ ] Line busy / try again
+- [(803) 734-3970 – Wilson, Alan](tel:+18037343970)
+    - [ ] Spoke to staffer
+    - [ ] Left voicemail
+    - [ ] Line busy / try again
+
 - [ ] 4. There will be simultaneous court challenges. There is "no if". It will be a "now".
+- [(202) 224-5972 – Graham, Lindsey (T-SC)](tel:+1202‑224‑5972)
+    - [ ] Spoke to staffer
+    - [ ] Left voicemail
+    - [ ] Line busy / try again
+- [(202) 224-6121 – Scott, Tim (T-SC)](tel:+12022246121)
+    - [ ] Spoke to staffer
+    - [ ] Left voicemail
+    - [ ] Line busy / try again
+- [(803) 734‑2100 – McMaster, Henry (T)](tel:+18037342100)
+    - [ ] Spoke to staffer
+    - [ ] Left voicemail
+    - [ ] Line busy / try again
+- [(803) 734-3970 – Wilson, Alan](tel:+18037343970)
+    - [ ] Spoke to staffer
+    - [ ] Left voicemail
+    - [ ] Line busy / try again
+
 - [ ] 5. The number of illegal registrations is microscopic. A Georgia audit found 8 illegal registrations among 8.4 million registered voters. That's an error rate of 0.000095338%, that is 4 leading zeroes.
-- [ ] 6. It violates the 24th Amendment. Plain and simply, it is a poll tax. Requiring a passport when the voter has no intention of traveling can exceed $200.
+- [(202) 224-5972 – Graham, Lindsey (T-SC)](tel:+1202‑224‑5972)
+    - [ ] Spoke to staffer
+    - [ ] Left voicemail
+    - [ ] Line busy / try again
+- [(202) 224-6121 – Scott, Tim (T-SC)](tel:+12022246121)
+    - [ ] Spoke to staffer
+    - [ ] Left voicemail
+    - [ ] Line busy / try again
+- [(803) 734‑2100 – McMaster, Henry (T)](tel:+18037342100)
+    - [ ] Spoke to staffer
+    - [ ] Left voicemail
+    - [ ] Line busy / try again
+- [(803) 734-3970 – Wilson, Alan](tel:+18037343970)
+    - [ ] Spoke to staffer
+    - [ ] Left voicemail
+    - [ ] Line busy / try again
+
+- [ ] 6. It violates the 24th Amendment. Plain and simply, it is a poll tax. Requiring a passport, when the voter has no intention of traveling internationally, can exceed $200.
+- [(202) 224-5972 – Graham, Lindsey (T-SC)](tel:+1202‑224‑5972)
+    - [ ] Spoke to staffer
+    - [ ] Left voicemail
+    - [ ] Line busy / try again
+- [(202) 224-6121 – Scott, Tim (T-SC)](tel:+12022246121)
+    - [ ] Spoke to staffer
+    - [ ] Left voicemail
+    - [ ] Line busy / try again
+- [(803) 734‑2100 – McMaster, Henry (T)](tel:+18037342100)
+    - [ ] Spoke to staffer
+    - [ ] Left voicemail
+    - [ ] Line busy / try again
+- [(803) 734-3970 – Wilson, Alan](tel:+18037343970)
+    - [ ] Spoke to staffer
+    - [ ] Left voicemail
+    - [ ] Line busy / try again
+
 - [ ] 7. The calendar is the enemy. There is no way in hell to revise procedures, revise computer systems, data collection, train poll managers and workers with less than 200 days to the midterms.
-- [ ] 8. There is a single points of failure. The State Department will be deluged with passport applications. It is like attempting to use a funnel to direct water from a firehouse.
+- [(202) 224-5972 – Graham, Lindsey (T-SC)](tel:+1202‑224‑5972)
+    - [ ] Spoke to staffer
+    - [ ] Left voicemail
+    - [ ] Line busy / try again
+- [(202) 224-6121 – Scott, Tim (T-SC)](tel:+12022246121)
+    - [ ] Spoke to staffer
+    - [ ] Left voicemail
+    - [ ] Line busy / try again
+- [(803) 734‑2100 – McMaster, Henry (T)](tel:+18037342100)
+    - [ ] Spoke to staffer
+    - [ ] Left voicemail
+    - [ ] Line busy / try again
+- [(803) 734-3970 – Wilson, Alan](tel:+18037343970)
+    - [ ] Spoke to staffer
+    - [ ] Left voicemail
+    - [ ] Line busy / try again
+
+- [ ] 8. There is a single points of failure. The State Department will be deluged with passport applications. It is like attempting to use a funnel to direct water from a firehouse. In South Carolina, Vital Records is the choke point.
+- [(202) 224-5972 – Graham, Lindsey (T-SC)](tel:+1202‑224‑5972)
+    - [ ] Spoke to staffer
+    - [ ] Left voicemail
+    - [ ] Line busy / try again
+- [(202) 224-6121 – Scott, Tim (T-SC)](tel:+12022246121)
+    - [ ] Spoke to staffer
+    - [ ] Left voicemail
+    - [ ] Line busy / try again
+- [(803) 734‑2100 – McMaster, Henry (T)](tel:+18037342100)
+    - [ ] Spoke to staffer
+    - [ ] Left voicemail
+    - [ ] Line busy / try again
+- [(803) 734-3970 – Wilson, Alan](tel:+18037343970)
+    - [ ] Spoke to staffer
+    - [ ] Left voicemail
+    - [ ] Line busy / try again
+
 - [ ] 9. Administrative Procedure Act (APA) timelines. Any federal agency implementing new nationwide election requirements must follow the Administrative Procedure Act, which mandates publishing a proposed rule and allowing a public comment period that typically lasts 30–60 days. Agencies must then review and respond to comments before issuing a final rule, a process that routinely takes months. These steps cannot be legally compressed without risking immediate judicial invalidation.
+- [(202) 224-5972 – Graham, Lindsey (T-SC)](tel:+1202‑224‑5972)
+    - [ ] Spoke to staffer
+    - [ ] Left voicemail
+    - [ ] Line busy / try again
+- [(202) 224-6121 – Scott, Tim (T-SC)](tel:+12022246121)
+    - [ ] Spoke to staffer
+    - [ ] Left voicemail
+    - [ ] Line busy / try again
+- [(803) 734‑2100 – McMaster, Henry (T)](tel:+18037342100)
+    - [ ] Spoke to staffer
+    - [ ] Left voicemail
+    - [ ] Line busy / try again
+- [(803) 734-3970 – Wilson, Alan](tel:+18037343970)
+    - [ ] Spoke to staffer
+    - [ ] Left voicemail
+    - [ ] Line busy / try again
+
 - [ ] 10. State procurement, contracting, and certification cycles. States cannot modify election systems without going through formal procurement cycles: issuing RFPs, evaluating bids, awarding contracts, integrating new systems, and completing mandatory testing and certification. These processes often take months and are constrained by statutory blackout periods that prohibit changes close to an election. Even a single delay in contracting or vendor capacity can push implementation past the legal calendar.
+- [(202) 224-5972 – Graham, Lindsey (T-SC)](tel:+1202‑224‑5972)
+    - [ ] Spoke to staffer
+    - [ ] Left voicemail
+    - [ ] Line busy / try again
+- [(202) 224-6121 – Scott, Tim (T-SC)](tel:+12022246121)
+    - [ ] Spoke to staffer
+    - [ ] Left voicemail
+    - [ ] Line busy / try again
+- [(803) 734‑2100 – McMaster, Henry (T)](tel:+18037342100)
+    - [ ] Spoke to staffer
+    - [ ] Left voicemail
+    - [ ] Line busy / try again
+- [(803) 734-3970 – Wilson, Alan](tel:+18037343970)
+    - [ ] Spoke to staffer
+    - [ ] Left voicemail
+    - [ ] Line busy / try again
 
-## ☎️ My Three Calls — DC + Local (tel‑link ready)
+## Federal Government 
 
-### Sen. Lindsey Graham
-DC: [tel:+1202‑224‑5972](202‑224‑5972)
-Local: [tel:+1](803‑933‑0112)
-- ☐ Spoke to staffer
-- ☐ Left voicemail
-- ☐ Line busy / try again
+### [US House of Representatives](https://www.house.gov/)
 
-### Sen. Tim Scott
-DC: [tel:+1](202‑224‑6121)
-Local: [tel:+1](803‑771‑6112)
-- ☐ Spoke to staffer
-- ☐ Left voicemail
-- ☐ Line busy / try again
+#### [Trump Party](https://www.gop.com/)
+##### [Wilson, Joe (T-SC2)](https://joewilson.house.gov/)
 
-### Rep. Joe Wilson (SC‑02)
-DC: [tel:+1](202‑225‑2452)
-Local: [tel:+1](803‑939‑0041)
-- ☐ Spoke to staffer
-- ☐ Left voicemail
-- ☐ Line busy / try again
+| Office Locations |
+|---|
+| **Washington, DC Office** |
+| 1436 Longworth House Office Building <br /> 1 Independence Ave SE <br /> Washington, DC  20515 <br /> Phone: [\+1 (202) 225-2452](tel:+12022252452) |
+| **The Midlands Office** |
+| 1700 Sunset Blvd (US 378), Suite 1 <br /> West Columbia, SC  29169 <br /> Phone: [\+1 (803) 939-0041](tel:+18039390041) <br /> Fax: [\+1 (803) 939-0078](tel:+18039390078) |
+| **Aiken/Barnwell Office** |
+| 1930 University Parkway, Suite 1600 <br /> Aiken, SC  29801 <br /> Phone: [\+1 (803) 642-6416](tel:+18036426416) <br /> Fax: [\+1 (803) 642-6418](tel:+18036426418) |
 
----
+### [US Senate](https://www.senate.gov/)
 
-## ☎️ South Carolina State Leadership — Governor + Attorney General
-(DC‑style structure, state‑level edition)
+#### [Trump Party](https://www.gop.com/)
 
-### Governor of South Carolina
-Office: Governor Henry McMaster
-Columbia: [tel:+1](803‑734‑2100)
-- ☐ Spoke to staffer
-- ☐ Left voicemail
-- ☐ Line busy / try again
+Class I terms run from the beginning of the 119th Congress on January 3, 2025, to the end of the 121st Congress on January 3, 2031. Senators in Class I were elected to office in the November 2024 general election, unless they took their seat through appointment or special election.
+Class II terms run from the beginning of the 117th Congress on January 3, 2021, to the end of the 119th Congress on January 3, 2027. Senators in Class II were elected to office in the November 2020 general election, unless they took their seat through appointment or special election.
 
-### Attorney General of South Carolina
-Office: Attorney General Alan Wilson
-Columbia: [tel:+1](803‑734‑3970)
-- ☐ Spoke to staffer
-- ☐ Left voicemail
-- ☐ Line busy / try again
+Class III terms run from the beginning of the 118th Congress on January 3, 2023, to the end of the 120th Congress on January 3, 2029. Senators in Class III were elected to office in the November 2022 general election, unless they took their seat through appointment or special election.
 
----
+##### [Graham, Lindsey (T-SC)](https://www.lgraham.senate.gov/)
 
-- media
-- organizations
+Class II.
+
+| Office Locations |
+|---|
+| **Washington D.C. Office** |
+| 211 Russell Senate Office Building <br /> 2 Constitution Ave NE <br /> Washington, DC 20510 <br /> Office: [\+1 (202) 224-5972](tel:+12022245972), <br /> Fax: [\+1 (202) 224-3808](tel:+12022243808) |
+| **Midlands Office** |
+| 2142 Boyce Street, Suite 404 <br /> Columbia, SC 29201 <br /> [\+1 (803) 933-0112](tel:+18039330112) office <br /> [\+1 (803) 933-0957](tel:+18039330957) fax |
+| **Upstate Office** |
+| 2 West Washington Street, Suite 808 <br /> Greenville, SC 29601 <br /> Main: [\+1 (864) 250-1417](tel:+18642501417) <br /> Fax: [\+1 (864) 250-4322](tel:+18642504322) |
+| **Pee Dee Office** |
+| McMillan Federal Building <br /> 401 West Evans Street, Suite 111 <br /> Florence, SC 29501 <br /> Main: [\+1 (843) 669-1505](tel:+18436681505) <br /> Fax: [\+1 (843) 669-9015](tel:+18336699015) |
+| **Lowcountry Office** |
+| 4 Carriage Lane, Suite 401 <br /> Charleston, SC 29407 <br /> Main: [\+1 (843) 849-3887](tel:+18438493887) <br /> Fax: [\+1 (843) 971-3669](tel:+18439713669) |
+| **Piedmont Office** |
+| 235 East Main Street, Suite 100 <br /> Rock Hill, SC 29730 <br /> Main: [\+1 (803) 366-2828](tel:+18033662828) <br /> Fax: [\+1 (803) 366-5353](tel:+18033665353) |
+| **Golden Corner Office** |
+| 124 Exchange Street, Suite A <br /> Pendleton, SC 29670 <br /> Main: [\+1 (864) 646-4090](tel:+18646464090) <br /> Fax: [\+1 (864) 646-8609](tel:+18646468609) |
+
+##### [Scott, Tim (T-SC)](https://www.scott.senate.gov/)
+
+Class III.
+
+| Office Locations |
+|---|
+| **Washington D.C.** |
+| 104 Hart Senate Office <br /> 120 Constitution Ave NE <br /> Washington, DC 20510 <br /> Phone: [\+1 (202) 224-6121](tel:+12022246121) <br /> Fax: [\+1 (202) 228-5143](tel:+12022275143) |
+| **Midlands** |
+| 1901 Main Street <br /> Suite 1425 <br /> Columbia, SC 29201 <br /> Phone: [\+1 (803) 771-6112](tel:+18037716112) <br /> Fax: [\+1 (855) 802-9355](tel:+18558028355) <br /> |
+| **Upstate** |
+| 301 N. Main Street <br /> Suite 1006 <br /> Greenville, SC 29601 <br /> Phone: [\+1 (864) 233-5366](tel:+18642235366) <br /> Fax: [\+1 (855) 802-9355](tel:+18558929355) |
+| **Low Country** |
+| 2500 City Hall Lane <br /> 3rd Floor Suite <br /> North Charleston, SC 29406 <br /> Phone: [\+1 (843) 727-4525](tel:+18437274525) <br /> Fax: [\+1 (855) 802-9355](tel:+18558029355) |
+
+----
+
 - political parties
 - [Democrat Party](https://www.democrats.org/)
 - [Trumpian Party](https://www.gop.com/)
-- universities
-- companies
-- foreign governments
 - state, local governments
+- [State of South Carolina](https://www.sc.gov/)
+    - [Home / S.C. Governor Henry McMaster](https://governor.sc.gov/)
+        - [Governor's Biography / S.C. Governor Henry McMaster](https://governor.sc.gov/governors-biography)
+    - [South Carolina Attorney General](https://www.scag.gov/)
+        - [Attorney General Alan Wilson (T)](https://www.scag.gov/about-the-office/meet-the-attorney-general/)
+- [Homepage / South Carolina Department of Public Health](https://dph.sc.gov/)
+    - [Vital Records / South Carolina Department of Public Health](https://dph.sc.gov/public/vital-records)
 - federal government
 - [Constitution of the United States](https://constitution.congress.gov/constitution/)
     - [U.S. Constitution - Article I / Library of Congress](https://constitution.congress.gov/constitution/article-1/)
@@ -112,12 +308,18 @@ Columbia: [tel:+1](803‑734‑3970)
         - [US Courts](https://www.uscourts.gov/)
     - [Department of Justice (DOJ)](https://www.justice.gov/)
         - [Federal Bureau of Investigation (FBI)](https://www.fbi.gov/)
+    - [Department of State (DOS)](https://www.state.gov/)
+        - [Get a Passport Homepage](https://travel.state.gov/content/travel/en/passports/need-passport.html)
     - [Federal Reserve](https://www.federalreserve.gov/)
         - [Federal Reserve Board - Federal Reserve Act](https://www.federalreserve.gov/aboutthefed/fract.htm)
     - [U.S. Department of the Treasury](https://home.treasury.gov/)
     - [Congress](https://www.congress.gov/)
+        - [H.R.7296 - 119th Congress (2025-2026): SAVE America Act / Library of Congress](https://www.congress.gov/bill/119th-congress/house-bill/7296)
         - [Senate](https://www.senate.gov/)
+            - [Graham, Lindsey (T-SC)](https://www.lgraham.senate.gov/)
+            - [Scott, Tim (T-SC)](https://www.scott.senate.gov/)
         - [House of Representatives](https://www.house.gov/)
+            - [Wilson, Joe (T-SC2)](https://joewilson.house.gov/)
     - [President of the United States (POTUS)](https://www.whitehouse.gov/)
     - [White House (WH)](https://www.whitehouse.gov/)
 - Trump autocracy
@@ -126,11 +328,11 @@ Columbia: [tel:+1](803‑734‑3970)
         - [President Donald Trump (47)](https://www.whitehouse.gov/administration/donald-j-trump/)
             - [President Trump (47) Administration](https://www.whitehouse.gov/administration/)
             - [President Trump (47) Cabinet](https://www.whitehouse.gov/administration/the-cabinet/)
+                - [Ensuring Citizenship Verification and Integrity in Federal Elections](https://www.whitehouse.gov/presidential-actions/2026/03/ensuring-citizenship-verification-and-integrity-in-federal-elections/). Presidential Actions. Executive Orders. March 31 2026
+                - [Preserving and Protecting the Integrity of American Elections](https://www.whitehouse.gov/presidential-actions/2025/03/preserving-and-protecting-the-integrity-of-american-elections/). Presidential Actions. Executive Orders. March 25 2025
                 - press secretary
                     - Karoline Leavitt
-                - [Scott Bessent / U.S. Department of the Treasury](https://home.treasury.gov/about/general-information/officials/scott-bessent)
-                - [Pam Bondi – Office of the Attorney General / Meet the Attorney General / United States Department of Justice](https://www.justice.gov/ag/staff-profile/meet-attorney-general)
-                    - [Todd Blanche – Office of the Deputy Attorney General / Office of the Deputy Attorney General](https://www.justice.gov/dag)
+                - [Todd Blanche – Office of the Deputy Attorney General / Office of the Deputy Attorney General](https://www.justice.gov/dag)
                     - [Todd Blanche / LinkedIn](https://www.linkedin.com/in/toddblanche/)
                 - [Director Kash Patel — FBI](https://www.fbi.gov/about/leadership-and-structure/director-patel)
 {% if tags contains "weaponization" or categories contains "weaponization" %}
