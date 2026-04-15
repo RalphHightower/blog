@@ -3,6 +3,8 @@
 /// Requires: timeLibrary.js 
 ///
 
+console.log("displayLibrary loaded");
+
 /// <summary>
 /// </summary>
 /// <param name=""></param>
