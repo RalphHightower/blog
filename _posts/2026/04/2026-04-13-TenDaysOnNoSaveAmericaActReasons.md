@@ -14,7 +14,7 @@ I decided to play off that classic Christmas song, "The Twelve Days Of Christmas
 
 ## Ten Call Scripts For Two Weeks
 
-<script type="module" src="{{ site.baseurl }}/assets/js/displayLibrary.js"></script>
+<script src="{{ site.baseurl }}/assets/js/displayLibrary.js"></script>
 
 <script>
 today = new Date();
