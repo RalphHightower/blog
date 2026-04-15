@@ -14,6 +14,8 @@ I decided to play off that classic Christmas song, "The Twelve Days Of Christmas
 
 ## Ten Call Scripts For Two Weeks
 
+<div id="tenNays"></div>
+
 <script type="module" src="{{ site.baseurl }}/assets/js/displayLibrary.js"></script>
 
 <script>
@@ -59,13 +61,11 @@ switch (dispDate) {
 }
 const dayOf = 'Hello, my name is Ralph Hightower, a constituent from Chapin, South Carolina. Today is day ' + dayNAY.toString() + ' of my Ten NAYS of the <a href="https://www.congress.gov/bill/119th-congress/house-bill/7296">SAVE America Act</a>. <em>Leave cellphone number and zip code if voicemail.</em>';
 
-alert(dayOf);
 showElement("tenNays");
 setElementText("tenNays", dayOf);
 
 </script>
 
-<div id="tenNays"></div>
 
 Hello, my name is Ralph Hightower, a constituent from Chapin, South Carolina. Today is day 1 of my Ten NAYS of the [SAVE America Act](https://www.congress.gov/bill/119th-congress/house-bill/7296). _Leave cellphone number and zip code if voicemail._
 
