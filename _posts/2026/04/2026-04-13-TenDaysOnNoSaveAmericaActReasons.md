@@ -14,7 +14,7 @@ I decided to play off that classic Christmas song, "The Twelve Days Of Christmas
 
 ## Ten Call Scripts For Two Weeks
 
-<script src="{{ site.baseurl }}/assets/js/displayLibrary.js"></script>
+<script type="module" src="{{ site.baseurl }}/assets/js/displayLibrary.js"></script>
 
 <script>
 today = new Date();
@@ -66,6 +66,8 @@ setElementText("tenNays", dayOf);
 </script>
 
 <div id="tenNays"></div>
+
+Hello, my name is Ralph Hightower, a constituent from Chapin, South Carolina. Today is day 1 of my Ten NAYS of the [SAVE America Act](https://www.congress.gov/bill/119th-congress/house-bill/7296). _Leave cellphone number and zip code if voicemail._
 
 <details markdown='1'><summary>2026-04-13</summary>
 
