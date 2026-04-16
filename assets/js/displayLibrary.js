@@ -1,15 +1,4 @@
-///
-/// Description: Display Functions defined by <div id="XXX">
-/// Requires: timeLibrary.js 
-///
-
-console.log("displayLibrary loaded");
-
-/// <summary>
-/// </summary>
-/// <param name=""></param>
-/// <returns></returns>
-function function displayBegin(divid, dateBegin) {
+function displayBegin(divid, dateBegin) {
     const now = new Date();
     const begin = new Date(dateBegin);
     const span = getTimeSpan(begin, now);
@@ -21,10 +10,6 @@ function function displayBegin(divid, dateBegin) {
     }
 }
 
-/// <summary>
-/// </summary>
-/// <param name=""></param>
-/// <returns></returns>
 function displayEnd(divid, dateEnd) {
     const now = new Date();
     const end = new Date(dateEnd);
@@ -33,12 +18,8 @@ function displayEnd(divid, dateEnd) {
         hideElement(divid);
     else
         showElement(divid);
-}
+    }
 
-/// <summary>
-/// </summary>
-/// <param name=""></param>
-/// <returns></returns>
 function displayUntil(dateUntil) {
     const now = new Date();
     const until = new Date(dateUntil);
@@ -49,38 +30,25 @@ function displayUntil(dateUntil) {
         hideElement(dateUntil);
     }
 
-/// <summary>
-/// </summary>
-/// <param name=""></param>
-/// <returns></returns>
-function setElementText(element, text) {
-    if doesElementExists(name))
-        document.getElementById(element).textContent =  text;
+function getTimeSpan(from, to) {
+    return(to - from);
     }
 
-/// <summary>
-/// </summary>
-/// <param name=""></param>
-/// <returns></returns>
-function hideElement(name) {
-    if doesElementExists(name))
-        element.style.display = 'none';
-}
-
-/// <summary>
-/// </summary>
-/// <param name=""></param>
-/// <returns></returns>
 function showElement(name) {
-    if doesElementExists(name))
+    const element = document.getElementById(name);
+    if (element != null) {
         document.getElementById(name).style.display = 'block';
-}
+        }
+    }
 
-/// <summary>
-/// </summary>
-/// <param name=""></param>
-/// <returns></returns>
-function doesElementExists(name) {
+function hideElement(name) {
     var element = document.getElementById(name);
-    return(element != null : true : false);
-}
+        if (element != null) {
+            element.style.display = 'none';
+        }
+    }
+
+function setElementText(element, text) {
+    document.getElementById(element).textContent =  text;
+    }
+
