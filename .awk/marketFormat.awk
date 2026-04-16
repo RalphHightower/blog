@@ -81,7 +81,7 @@ BEGIN {
 
         ###
         ### Capturing the individual indexes is state driven
-        ### Line 0: ETF name
+        ### Line 0: Index / ETF name
         ### Line 1: Current Net Asset Value
         ### Line 2: Gain/Loss (also grabs sign for +, - Pct Change)
         ### Line 3: Percent Change

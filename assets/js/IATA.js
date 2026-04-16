@@ -1,0 +1,59 @@
+{ name: "Abu Dhabi International Airport (AUH)", link: "https://www.zayedinternationalairport.ae/", lat: 0, long: 0 }
+{ name: "Al Udeid Air Base (XJD)", link: "https://www.afcent.af.mil/Units/379th-Air-Expeditionary-Wing/", lat: 0, long: 0 }
+{ name: "Asheville Regional Airport (AVL)", link: "https://flyavl.com/", lat: 0, long: 0 }
+{ name: "Ben Gurion Airport (TLV)", link: "https://www.iaa.gov.il/", lat: 0, long: 0 }
+{ name: "Calgary International Airport (YYC)", link: "https://www.yyc.com/", lat: 0, long: 0 }
+{ name: "Cincinnati/Northern Kentucky International Airport (CVG)", link: "https://www.cvgairport.com/", lat: 0, long: 0 }
+{ name: "Corpus Christi International Airport (CRP)", link: "https://corpuschristiairport.com/", lat: 0, long: 0 }
+{ name: "Davos Stilli Heliport (ZDV)", link: "https://www.davos-helicopter.com/?menuopen=3&showcontent=2", lat: 0, long: 0 }
+{ name: "Daytona Beach International Airport (DAB)", link: "https://www.flydaytonafirst.com/", lat: 0, long: 0 }
+{ name: "Departed 2:21 PM Actual for
+{ name: "Des Moines International Airport (DSM)", link: "https://www.flydsm.com/", lat: 0, long: 0 }
+{ name: "Detroit Metropolitan Wayne County Airport (DTW)", link: "https://www.metroairport.com/", lat: 0, long: 0 }
+{ name: "Dover Air Force Base (DOV)", link: "https://www.dover.af.mil/", lat: 0, long: 0 }
+{ name: "Downtown Manhattan Heliport (JRB)", link: "https://www.downtownskyportnyc.com/", lat: 0, long: 0 }
+{ name: "Dulles International Airport (IAD)", link: "https://www.flydulles.com/", lat: 0, long: 0 }
+{ name: "Fiumicino Leonardo da Vinci International Airport (FCO)", link: "https://www.adr.it/", lat: 0, long: 0 }
+{ name: "Gimhae International Airport (PUS)", link: "https://gimhaeairport.com/", lat: 0, long: 0 }
+{ name: "Glasgow Prestwick Airport (PIK)", link: "https://www.glasgowprestwick.com/", lat: 0, long: 0 }
+{ name: "Hagerstown Regional Airport (HGR)", link: "https://www.washco-md.net/hagerstown-regional-airport/", lat: 0, long: 0 }
+{ name: "Hamad International Airport (DOH)", link: "https://www.dohahamadairport.com/", lat: 0, long: 0 }
+{ name: "Haneda Airport (HND)", link: "https://tokyo-haneda.com/", lat: 0, long: 0 }
+{ name: "Harry Reid International Airport (LAS)", link: "https://www.harryreidairport.com/", lat: 0, long: 0 }
+{ name: "John F. Kennedy International Airport (JFK)", link: "https://johnfkennedyairport-jfk.com/", lat: 0, long: 0 }
+{ name: "Joint Base Andrews (ADW)", link: "https://www.jba.af.mil/", lat: 0, long: 0 }
+{ name: "Joint Base Elmendorf-Richardson (EDF)", link: "https://www.jber.jb.mil/", lat: 0, long: 0 }
+{ name: "Kelly Field (SKF), Joint Base San Antonio", link: "https://www.jbsa.mil/", lat: 0, long: 0 }
+{ name: "Kerrville Municipal Airport (ERV)", link: "https://www.kerrvilletx.gov/1765/Airport", lat: 0, long: 0 }
+{ name: "King Khalid International Airport (RUH)", link: "https://www.kkia.sa/en", lat: 0, long: 0 }
+{ name: "Kuala Lumpur International Airport (KUL)", link: "https://www.kuala-lumpur-airport.com/", lat: 0, long: 0 }
+{ name: "LaGuardia Airport (LGA)", link: "https://www.laguardiaairport.com/", lat: 0, long: 0 }
+{ name: "Leesburg Executive Airport (JYO)", link: "https://www.leesburgva.gov/departments/airport/about-leesburg-executive-airport", lat: 0, long: 0 }
+{ name: "Lehigh Valley International Airport (ABE)", link: "https://www.flyabe.com/", lat: 0, long: 0 }
+{ name: "Leonardo da Vinci International Airport (FCO)", link: "https://www.adr.it/", lat: 0, long: 0 }
+{ name: "London Stansted Airport (STN)", link: "https://www.stanstedairport.com/", lat: 0, long: 0 }
+{ name: "Los Angeles International Airport (LAX)", link: "https://www.flylax.com/", lat: 0, long: 0 }
+{ name: "Luke Air Force Base (LUF)", link: "https://www.luke.af.mil/", lat: 0, long: 0 }
+{ name: "Memphis International Airport (MEM)", link: "https://flymemphis.com/", lat: 0, long: 0 }
+{ name: "Miami International Airport (MIA)", link: "https://miami-airport.com/", lat: 0, long: 0 }
+{ name: "Morristown Municipal Airport (MMU)", link: "https://www.mmuair.com/", lat: 0, long: 0 }
+{ name: "Newark Liberty International Airport (EWR)", link: "https://www.newarkairport.com/", lat: 0, long: 0 }
+{ name: "North Perry Airport (HWO)", link: "https://www.broward.org/NorthPerryAirport/Pages/Default.aspx", lat: 0, long: 0 }
+{ name: "Palm Beach International Airport (PBI)", link: "https://www.pbia.org/", lat: 0, long: 0 }
+{ name: "Pittsburgh International Airport (PIT)", link: "https://flypittsburgh.com/", lat: 0, long: 0 }
+{ name: "Pope Field (POB)", link: "https://www.pope.af.mil/", lat: 0, long: 0 }
+{ name: "RAF Lossiemouth (LMO)", link: "https://www.raf.mod.uk/our-organisation/stations/raf-lossiemouth/", lat: 0, long: 0 }
+{ name: "RAF Mildenhall (MHZ)", link: "https://www.mildenhall.af.mil/", lat: 0, long: 0 }
+{ name: "Ramstein Air Base (RMS)", link: "https://www.ramstein.af.mil/", lat: 0, long: 0 }
+{ name: "Republic Airport (FRG)", link: "https://republicairport.net/", lat: 0, long: 0 }
+{ name: "Richard B. Russell Airport (RMG)", link: "https://www.russellregionalairport.com/airport", lat: 0, long: 0 }
+{ name: "Rocky Mount-Wilson Regional Airport (KRW)", link: "https://www.krwiairport.org/", lat: 0, long: 0 }
+{ name: "Royal Air Force Mildenhall (MHZ)", link: "https://www.mildenhall.af.mil/", lat: 0, long: 0 }
+{ name: "Selfridge Air National Guard Base (MTC)", link: "https://www.127wg.ang.af.mil/", lat: 0, long: 0 }
+{ name: "Shannon Airport (SNN)", link: "https://www.shannonairport.ie/", lat: 0, long: 0 }
+{ name: "Sharm El-Sheikh International Airport (SSH)", link: "https://sharmelsheikh-airport.com/", lat: 0, long: 0 }
+{ name: "Teterboro Airport (PEB)", link: "https://www.panynj.gov/airports/en/teterboro.html", lat: 0, long: 0 }
+{ name: "Tuscaloosa National Airport (TCL)", link: "https://airport.tuscaloosa.com/", lat: 0, long: 0 }
+{ name: "Washington Dulles International Airport (IAD)", link: "https://www.flydulles.com/", lat: 0, long: 0 }
+{ name: "Zayed International Airport (AUH)", link: "https://www.zayedinternationalairport.ae/", lat: 0, long: 0 }
+{ name: "Zurich Airport (ZRH)", link: "https://www.flughafen-zuerich.ch/", lat: 0, long: 0 }
