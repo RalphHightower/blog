@@ -20,6 +20,7 @@ The telephone numbers below have called and there is an empty person on the othe
 
 | Telephone Number | Location | Date Time[^11]<sup>,</sup>[^12] | Caller | Social Media |
 |---|---|---|---|---|
+| [\+1 (803) 720-2651](tel:+18037202651) | SC. Sumter | 2026-04-15 05:41 PM | LORRAINE J HORTON | |
 | [\+1 (803) 250-5743](tel:+18032505743) | SC. Columbia | 2026-04-09 06:06 PM | — | |
 | [\+1 (854) 244-1137](tel:+18542441137) | SC. Florence | 2026-04-09 12:55 PM | — | |
 | [\+1 (803) 548-0864](tel:+18035480864) | SC. Fort Mill | 2026-04-08 01:33 PM | Margaret Bisig (BISIG CHRIS) | |
