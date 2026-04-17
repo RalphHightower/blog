@@ -64,7 +64,7 @@ Hello, my name is Ralph Hightower, a constituent from Chapin, South Carolina. To
 
 <details markdown='1' id="2026-04-15"><summary>2026-04-15 #3</summary>
 
-- [ ] 3. There will be simultaneous court challenges and injunctions if ratified. There will be "no if". Injunctions will immediately be filed in multiple districts once it becomes law.
+- [x] 3. There will be simultaneous court challenges and injunctions if ratified. There will be "no if". Injunctions will immediately be filed in multiple districts once it becomes law.
 - [(202) 224-5972 – Graham, Lindsey (T-SC)](tel:+12022245972)
     - [x] Spoke to staffer
     - [ ] Left voicemail
