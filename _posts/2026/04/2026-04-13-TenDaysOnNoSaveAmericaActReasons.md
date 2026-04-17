@@ -21,7 +21,7 @@ Hello, my name is Ralph Hightower, a constituent from Chapin, South Carolina. To
 <details markdown='1' id="2026-04-13"><summary>2026-04-13 #1</summary>
 
 - [x] 1. Article I, Section 4, Clause 1: The Times, Places and Manner of holding Elections for Senators and Representatives, shall be prescribed in each State by the Legislature thereof; but the Congress may at any time by Law make or alter such Regulations, except as to the Places of chusing Senators.
-- [(202) 224-5972 – Graham, Lindsey (T-SC)](tel:+12022245972)
+- [(202) 224-5972 *3 – Graham, Lindsey (T-SC)](tel:+12022245972)
     - [ ] Spoke to staffer
     - [x] Left voicemail
     - [ ] Line busy / try again
@@ -33,7 +33,7 @@ Hello, my name is Ralph Hightower, a constituent from Chapin, South Carolina. To
     - [ ] Spoke to staffer
     - [x] Left voicemail
     - [ ] Line busy / try again
-- [(803) 734-3970 – Wilson, Alan (T)](tel:+18037343970)
+- [(803) 734-3970 *3 – Wilson, Alan (T)](tel:+18037343970)
     - [ ] Spoke to staffer
     - [x] Left voicemail
     - [ ] Line busy / try again
@@ -43,7 +43,7 @@ Hello, my name is Ralph Hightower, a constituent from Chapin, South Carolina. To
 <details markdown='1' id="2026-04-14"><summary>2026-04-14 #2</summary>
 
 - [x] 2. Decentralization increases the vector size for an organization or state actor to attack and manipulate. One central control simplifies the number of systems to attack and manipulate to one.
-- [(202) 224-5972 – Graham, Lindsey (T-SC)](tel:+12022245972)
+- [(202) 224-5972 *3 – Graham, Lindsey (T-SC)](tel:+12022245972)
     - [ ] Spoke to staffer
     - [x] Left voicemail
     - [ ] Line busy / try again
@@ -55,7 +55,7 @@ Hello, my name is Ralph Hightower, a constituent from Chapin, South Carolina. To
     - [x] Spoke to staffer
     - [ ] Left voicemail
     - [ ] Line busy / try again
-- [(803) 734-3970 – Wilson, Alan (T)](tel:+18037343970)
+- [(803) 734-3970 *3 – Wilson, Alan (T)](tel:+18037343970)
     - [x] Spoke to staffer
     - [ ] Left voicemail
     - [ ] Line busy / try again
@@ -64,8 +64,8 @@ Hello, my name is Ralph Hightower, a constituent from Chapin, South Carolina. To
 
 <details markdown='1' id="2026-04-15"><summary>2026-04-15 #3</summary>
 
-- [ ] 3. There will be simultaneous court challenges and injunctions if ratified. There will be "no if". Injunctions will immediately be filed in multiple districts once it becomes law.
-- [(202) 224-5972 – Graham, Lindsey (T-SC)](tel:+12022245972)
+- [x] 3. There will be simultaneous court challenges and injunctions if ratified. There will be "no if". Injunctions will immediately be filed in multiple districts once it becomes law.
+- [(202) 224-5972 *3 – Graham, Lindsey (T-SC)](tel:+12022245972)
     - [x] Spoke to staffer
     - [ ] Left voicemail
     - [ ] Line busy / try again
@@ -77,7 +77,7 @@ Hello, my name is Ralph Hightower, a constituent from Chapin, South Carolina. To
     - [ ] Spoke to staffer
     - [x] Left voicemail
     - [ ] Line busy / try again
-- [(803) 734-3970 – Wilson, Alan (T)](tel:+18037343970)
+- [(803) 734-3970 *3 – Wilson, Alan (T)](tel:+18037343970)
     - [x] Spoke to staffer
     - [ ] Left voicemail
     - [ ] Line busy / try again
@@ -87,7 +87,7 @@ Hello, my name is Ralph Hightower, a constituent from Chapin, South Carolina. To
 <details markdown='1' id="2026-04-16"><summary>2026-04-16 #4</summary>
 
 - [x] 4. It violates the 24th Amendment. Plain and simply, it is a poll tax. Requiring a passport, when the voter has no intention of traveling internationally, can exceed $200.
-- [(202) 224-5972 – Graham, Lindsey (T-SC)](tel:+12022245972)
+- [(202) 224-5972 *3 – Graham, Lindsey (T-SC)](tel:+12022245972)
     - [x] Spoke to staffer
     - [ ] Left voicemail
     - [ ] Line busy / try again
@@ -99,7 +99,7 @@ Hello, my name is Ralph Hightower, a constituent from Chapin, South Carolina. To
     - [ ] Spoke to staffer
     - [x] Left voicemail
     - [ ] Line busy / try again
-- [(803) 734-3970 – Wilson, Alan (T)](tel:+18037343970)
+- [(803) 734-3970 *3 – Wilson, Alan (T)](tel:+18037343970)
     - [x] Spoke to staffer
     - [ ] Left voicemail
     - [ ] Line busy / try again
@@ -108,21 +108,21 @@ Hello, my name is Ralph Hightower, a constituent from Chapin, South Carolina. To
 
 <details markdown='1' id="2026-04-17"><summary>2026-04-17 #5</summary>
 
-- [ ] 5. The Purcell Principles decided by the Supreme Court prohibits changes to election laws that creates confusion close to an election. It is 200 days until midterms. 
-- [(202) 224-5972 – Graham, Lindsey (T-SC)](tel:+12022245972)
-    - [ ] Spoke to staffer
+- [ ] 5. The Purcell Principles decided by the Supreme Court prohibits changes to election laws that creates confusion close to an election. It is now 199 days until midterms. 
+- [(202) 224-5972 *3 – Graham, Lindsey (T-SC)](tel:+12022245972)
+    - [x] Spoke to staffer
     - [ ] Left voicemail
     - [ ] Line busy / try again
 - [(202) 224-6121 – Scott, Tim (T-SC)](tel:+12022246121)
     - [ ] Spoke to staffer
-    - [ ] Left voicemail
+    - [x] Left voicemail
     - [ ] Line busy / try again
 - [(803) 734‑2100 – McMaster, Henry (T)](tel:+18037342100)
     - [ ] Spoke to staffer
-    - [ ] Left voicemail
+    - [x] Left voicemail
     - [ ] Line busy / try again
-- [(803) 734-3970 – Wilson, Alan (T)](tel:+18037343970)
-    - [ ] Spoke to staffer
+- [(803) 734-3970 *3 – Wilson, Alan (T)](tel:+18037343970)
+    - [x] Spoke to staffer
     - [ ] Left voicemail
     - [ ] Line busy / try again
 
@@ -130,8 +130,8 @@ Hello, my name is Ralph Hightower, a constituent from Chapin, South Carolina. To
 
 <details markdown='1' id="2026-04-20"><summary>2026-04-20 #6</summary>
 
-- [ ] 5. The number of illegal registrations is microscopic. A Georgia audit found 8 illegal registrations among 8.4 million registered voters. That's an error rate of 0.000095338%, that is 4 zeroes behind the decimal.
-- [(202) 224-5972 – Graham, Lindsey (T-SC)](tel:+12022245972)
+- [ ] 6. The number of illegal registrations is microscopic. A Georgia audit found 8 illegal registrations among 8.4 million registered voters. That's an error rate of 0.000095338%, that is 4 zeroes behind the decimal.
+- [(202) 224-5972 *3 – Graham, Lindsey (T-SC)](tel:+12022245972)
     - [ ] Spoke to staffer
     - [ ] Left voicemail
     - [ ] Line busy / try again
@@ -143,7 +143,7 @@ Hello, my name is Ralph Hightower, a constituent from Chapin, South Carolina. To
     - [ ] Spoke to staffer
     - [ ] Left voicemail
     - [ ] Line busy / try again
-- [(803) 734-3970 – Wilson, Alan (T)](tel:+18037343970)
+- [(803) 734-3970 *3 – Wilson, Alan (T)](tel:+18037343970)
     - [ ] Spoke to staffer
     - [ ] Left voicemail
     - [ ] Line busy / try again
@@ -153,7 +153,7 @@ Hello, my name is Ralph Hightower, a constituent from Chapin, South Carolina. To
 <details markdown='1' id="2026-04-21"><summary>2026-04-20 #7</summary>
 
 - [ ] 7. The calendar is the enemy. There is no way in hell to revise procedures, revise computer systems, data collection, train poll managers and workers with less than 200 days to the midterms.
-- [(202) 224-5972 – Graham, Lindsey (T-SC)](tel:+12022245972)
+- [(202) 224-5972 *3 – Graham, Lindsey (T-SC)](tel:+12022245972)
     - [ ] Spoke to staffer
     - [ ] Left voicemail
     - [ ] Line busy / try again
@@ -165,7 +165,7 @@ Hello, my name is Ralph Hightower, a constituent from Chapin, South Carolina. To
     - [ ] Spoke to staffer
     - [ ] Left voicemail
     - [ ] Line busy / try again
-- [(803) 734-3970 – Wilson, Alan (T)](tel:+18037343970)
+- [(803) 734-3970 *3 – Wilson, Alan (T)](tel:+18037343970)
     - [ ] Spoke to staffer
     - [ ] Left voicemail
     - [ ] Line busy / try again
@@ -175,7 +175,7 @@ Hello, my name is Ralph Hightower, a constituent from Chapin, South Carolina. To
 <details markdown='1' id="2026-04-22"><summary>2026-04-22 #8</summary>
 
 - [ ] 8. There is a single points of failure. The State Department will be deluged with passport applications. It is like attempting to use a funnel to direct water from a firehouse. In South Carolina, Vital Records is the choke point.
-- [(202) 224-5972 – Graham, Lindsey (T-SC)](tel:+12022245972)
+- [(202) 224-5972 *3 – Graham, Lindsey (T-SC)](tel:+12022245972)
     - [ ] Spoke to staffer
     - [ ] Left voicemail
     - [ ] Line busy / try again
@@ -187,7 +187,7 @@ Hello, my name is Ralph Hightower, a constituent from Chapin, South Carolina. To
     - [ ] Spoke to staffer
     - [ ] Left voicemail
     - [ ] Line busy / try again
-- [(803) 734-3970 – Wilson, Alan (T)](tel:+18037343970)
+- [(803) 734-3970 *3 – Wilson, Alan (T)](tel:+18037343970)
     - [ ] Spoke to staffer
     - [ ] Left voicemail
     - [ ] Line busy / try again
@@ -197,7 +197,7 @@ Hello, my name is Ralph Hightower, a constituent from Chapin, South Carolina. To
 <details markdown='1' id="2026-04-23"><summary>2026-04-23 #9</summary>
 
 - [ ] 9. Administrative Procedure Act (APA) timelines. Any federal agency implementing new nationwide election requirements must follow the Administrative Procedure Act, which mandates publishing a proposed rule and allowing a public comment period that typically lasts 30–60 days. Agencies must then review and respond to comments before issuing a final rule, a process that routinely takes months. These steps cannot be legally compressed without risking immediate judicial invalidation.
-- [(202) 224-5972 – Graham, Lindsey (T-SC)](tel:+12022245972)
+- [(202) 224-5972 *3 – Graham, Lindsey (T-SC)](tel:+12022245972)
     - [ ] Spoke to staffer
     - [ ] Left voicemail
     - [ ] Line busy / try again
@@ -209,7 +209,7 @@ Hello, my name is Ralph Hightower, a constituent from Chapin, South Carolina. To
     - [ ] Spoke to staffer
     - [ ] Left voicemail
     - [ ] Line busy / try again
-- [(803) 734-3970 – Wilson, Alan (T)](tel:+18037343970)
+- [(803) 734-3970 *3 – Wilson, Alan (T)](tel:+18037343970)
     - [ ] Spoke to staffer
     - [ ] Left voicemail
     - [ ] Line busy / try again
@@ -219,7 +219,7 @@ Hello, my name is Ralph Hightower, a constituent from Chapin, South Carolina. To
 <details markdown='1' id="2026-04-24"><summary>2026-04-24 #10</summary>
 
 - [ ] 10. State procurement, contracting, and certification cycles. States cannot modify election systems without going through formal procurement cycles: issuing RFPs, evaluating bids, awarding contracts, integrating new systems, and completing mandatory testing and certification. These processes often take months and are constrained by statutory blackout periods that prohibit changes close to an election. Even a single delay in contracting or vendor capacity can push implementation past the legal calendar.
-- [(202) 224-5972 – Graham, Lindsey (T-SC)](tel:+12022245972)
+- [(202) 224-5972 *3 – Graham, Lindsey (T-SC)](tel:+12022245972)
     - [ ] Spoke to staffer
     - [ ] Left voicemail
     - [ ] Line busy / try again
@@ -231,7 +231,7 @@ Hello, my name is Ralph Hightower, a constituent from Chapin, South Carolina. To
     - [ ] Spoke to staffer
     - [ ] Left voicemail
     - [ ] Line busy / try again
-- [(803) 734-3970 – Wilson, Alan (T)](tel:+18037343970)
+- [(803) 734-3970 *3 – Wilson, Alan (T)](tel:+18037343970)
     - [ ] Spoke to staffer
     - [ ] Left voicemail
     - [ ] Line busy / try again
