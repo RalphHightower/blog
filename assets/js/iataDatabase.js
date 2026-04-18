@@ -36,7 +36,7 @@ const iataDB = [
     MTC [ name: "Selfridge Air National Guard Base", link: "https://www.127wg.ang.af.mil/", lat: 0.743656, lon: 1.445753 ],
     PBI [ name: "Palm Beach International Airport", link: "https://www.pbia.org/", lat: 0.465707, lon: 1.397931 ],
     PEB [ name: "Teterboro Airport", link: "https://www.panynj.gov/airports/en/teterboro.html", lat: 0.712967, lon: 1.292605 ],
-    PHX [ name: "Phoenix Sky Harbor International Airport (PHX)", link: "https://www.skyharbor.com/ ", lat: 0, lon: 0 ] // 33°26′03″N 112°00′42″W,
+    PHX [ name: "Phoenix Sky Harbor International Airport (PHX)", link: "https://www.skyharbor.com/ ", lat: 0, lon: 0 ], // 33°26′03″N 112°00′42″W
     PIK [ name: "Glasgow Prestwick Airport", link: "https://www.glasgowprestwick.com/", lat: 0.968823, lon: 0.080188 ],
     PIT [ name: "Pittsburgh International Airport", link: "https://flypittsburgh.com/", lat: 0.706789, lon: 1.400557 ],
     POB [ name: "Pope Field", link: "https://www.pope.af.mil/", lat: 0.613847, lon: 1.379062 ],
