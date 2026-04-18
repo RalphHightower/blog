@@ -127,7 +127,7 @@ function mothersDay(param) {
     }
 
 function trumpGPS(date) { // 1
-    now = new Date(date)
+    now = new Date(date);
     weekDay = now.getDay(); // Sunday = 0
 
     const holiday = isHoliday(now);
