@@ -54,4 +54,6 @@
 	XJD { name: "Al Udeid Air Base", link: "https://www.afcent.af.mil/Units/379th-Air-Expeditionary-Wing/", lat: 0.438402, lon: 0.895679 },
 	YYC { name: "Calgary International Airport", link: "https://www.yyc.com/", lat: 0.892106, lon: 1.990029 },
 	ZDV { name: "Davos Stilli Heliport", link: "https://www.davos-helicopter.com/?menuopen=3&showcontent=2", lat: 0.816826, lon: 0.171590 },
-	ZRH { name: "Zurich Airport", link: "https://www.flughafen-zuerich.ch/", lat: 0.828416, lon: 0.149211 },
+	ZRH { name: "Zurich Airport", link: "https://www.flughafen-zuerich.ch/", lat: 0.630898, lon: −2.010501 },
+	LAS { name: "Harry Reid International Airport", link: "https://www.harryreidairport.com/)", lat: 0.828416, lon: 0.149211 } //36°04′48″N 115°09′08″W
+ 
