@@ -126,62 +126,6 @@ function mothersDay(param) {
     return(dateMotherDay);
     }
 
-function trumpGPS(date) { // 1
-    now = new Date(date);
-    weekDay = now.getDay(); // Sunday = 0
-
-    const holiday = isHoliday(now);
-    if (holiday)
-        weekDay = 7;
-    switch (weekDay) { // 2
-        case 0:
-        case 6:
-        case 7: // out of bounds special: holiday
-            showElement('golf');
-            hideElement('burn');
-            whichGolfHome(date);
-            break;
-        case 1:
-        case 2:
-        case 3:
-        case 4:
-            showElement('burn');
-            hideElement('golf');
-            break;
-        case 5: // special case: check time
-            if (now.getHours() > 15) { // 3
-                showElement('golf');
-                hideElement('burn');
-                whichGolfHome(date);
-               } // 3
-            else { // 3
-                showElement('burn');
-                hideElement('golf');
-                } // 3
-            break;
-        } // 2
-    } // 1
-
-    showElement("golf");
-    hideElement("burn");
-    if (isMarALagoOpen(date)) {
-        showElement('golf-winter');
-        hideElement('golf-summer');
-        }
-    else {
-        showElement('golf-summer');
-        hideElement('golf-winter');
-        }
-    }
-
-function isMarALagoOpen(today) {
-    dateToday = new Date(today);
-    dateMothersDay = new Date(mothersDay(today));
-    dateHalloween = new Date(dateToday.getFullYear(), 9, 31);
-
-    return (isBetween(dateToday, dateMothersDay, dateHalloween) ? false : true);
-    }
-    
 // <!--
 // 01  02  03  04  05  06  07
 // 08  09  10  11  12  13  14
