@@ -1,8 +1,7 @@
-	{
+const iataDB = {
     ABE { name: "Lehigh Valley International Airport", link: "https://www.flyabe.com/", lat: 0.682041, lon: 1.345266 },
     ADW { name: "Joint Base Andrews", link: "https://www.jba.af.mil/", lat: 0.677377, lon: 1.341581 },
     AUH { name: "Abu Dhabi International Airport / Zayed International Airport", link: "https://www.zayedinternationalairport.ae/", lat: 0.426437, lon: 0.953842 },
-    AUH { name: "Zayed International Airport", link: "https://www.zayedinternationalairport.ae/", lat: 0.426437, lon: 0.953842 },
     AVL { name: "Asheville Regional Airport", link: "https://flyavl.com/", lat: 0.618477, lon: 1.440624 },
     CRP { name: "Corpus Christi International Airport", link: "https://corpuschristiairport.com/", lat: 0.484683, lon: 1.701715 },
     CVG { name: "Cincinnati/Northern Kentucky International Airport", link: "https://www.cvgairport.com/", lat: 0.681532, lon: 1.477731 },
@@ -19,7 +18,6 @@
     HGR { name: "Hagerstown Regional Airport", link: "https://www.washco-md.net/hagerstown-regional-airport/", lat: 0.693046, lon: 1.356581 },
     HND { name: "Haneda Airport", link: "https://tokyo-haneda.com/", lat: 0.620523, lon: 2.439641 },
     HWO { name: "North Perry Airport", link: "https://www.broward.org/NorthPerryAirport/Pages/Default.aspx", lat: 0.453805, lon: 1.400467 },
-    IAD { name: "Dulles International Airport", link: "https://www.flydulles.com/", lat: 0.679709, lon: 1.351859 },
     IAD { name: "Washington Dulles International Airport", link: "https://www.flydulles.com/", lat: 0.679709, lon: 1.351859 },
     JFK { name: "John F. Kennedy International Airport", link: "https://johnfkennedyairport-jfk.com/", lat: 0.709297, lon: 1.287685 },
     JRB { name: "Downtown Manhattan Heliport", link: "https://www.downtownskyportnyc.com/", lat: 0.710368, lon: 1.291697 },
@@ -33,12 +31,12 @@
     LUF { name: "Luke Air Force Base", link: "https://www.luke.af.mil/", lat: 0.585296, lon: 1.961454 },
     MEM { name: "Memphis International Airport", link: "https://flymemphis.com/", lat: 0.611607, lon: 1.570389 },
     MHZ { name: "RAF Mildenhall / Royal Air Force Mildenhall", link: "https://www.mildenhall.af.mil/", lat: 0.913942, lon: 0.008392 },
-    MHZ { name: "RAF Mildenhall", link: "https://www.mildenhall.af.mil/", lat: 0.913942, lon: 0.008392 },
     MIA { name: "Miami International Airport", link: "https://miami-airport.com/", lat: 0.450179, lon: 1.401335 },
     MMU { name: "Morristown Municipal Airport", link: "https://www.mmuair.com/", lat: 0.712085, lon: 1.298787 },
     MTC { name: "Selfridge Air National Guard Base", link: "https://www.127wg.ang.af.mil/", lat: 0.743656, lon: 1.445753 },
     PBI { name: "Palm Beach International Airport", link: "https://www.pbia.org/", lat: 0.465707, lon: 1.397931 },
     PEB { name: "Teterboro Airport", link: "https://www.panynj.gov/airports/en/teterboro.html", lat: 0.712967, lon: 1.292605 },
+    PHX [ name: "Phoenix Sky Harbor International Airport (PHX)", link: "https://www.skyharbor.com/ ", lat: 0, lon: 0 } // 33°26′03″N 112°00′42″W
     PIK { name: "Glasgow Prestwick Airport", link: "https://www.glasgowprestwick.com/", lat: 0.968823, lon: 0.080188 },
     PIT { name: "Pittsburgh International Airport", link: "https://flypittsburgh.com/", lat: 0.706789, lon: 1.400557 },
     POB { name: "Pope Field", link: "https://www.pope.af.mil/", lat: 0.613847, lon: 1.379062 },
@@ -55,8 +53,6 @@
     XJD { name: "Al Udeid Air Base", link: "https://www.afcent.af.mil/Units/379th-Air-Expeditionary-Wing/", lat: 0.438402, lon: 0.895679 },
     YYC { name: "Calgary International Airport", link: "https://www.yyc.com/", lat: 0.892106, lon: 1.990029 },
     ZDV { name: "Davos Stilli Heliport", link: "https://www.davos-helicopter.com/?menuopen=3&showcontent=2", lat: 0.816826, lon: 0.171590 },
-    ZRH { name: "Zurich Airport", link: "https://www.flughafen-zuerich.ch/", lat: 0.630898, lon: −2.010501 },
-    LAS { name: "Harry Reid International Airport", link: "https://www.harryreidairport.com/)", lat: 0.828416, lon: 0.149211 }, //36°04′48″N 115°09′08″W
-    PHX [ name: "Phoenix Sky Harbor International Airport (PHX)", link: "https://www.skyharbor.com/ ", lat: 0, lon: 0 } // 33°26′03″N 112°00′42″W
+    ZRH { name: "Zurich Airport", link: "https://www.flughafen-zuerich.ch/", lat: 0.630898, lon: −2.010501 }
  };
  
