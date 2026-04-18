@@ -1,4 +1,4 @@
-iataDB	[
+const iataDB	= [
     ABE { name: "Lehigh Valley International Airport", link: "https://www.flyabe.com/", lat: 0.682041, lon: 1.345266 },
     ADW { name: "Joint Base Andrews", link: "https://www.jba.af.mil/", lat: 0.677377, lon: 1.341581 },
     AUH { name: "Abu Dhabi International Airport / Zayed International Airport", link: "https://www.zayedinternationalairport.ae/", lat: 0.426437, lon: 0.953842 },
