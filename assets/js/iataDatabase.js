@@ -1,4 +1,4 @@
-	{
+iataDB	[
     ABE { name: "Lehigh Valley International Airport", link: "https://www.flyabe.com/", lat: 0.682041, lon: 1.345266 },
     ADW { name: "Joint Base Andrews", link: "https://www.jba.af.mil/", lat: 0.677377, lon: 1.341581 },
     AUH { name: "Abu Dhabi International Airport / Zayed International Airport", link: "https://www.zayedinternationalairport.ae/", lat: 0.426437, lon: 0.953842 },
@@ -56,7 +56,7 @@
     YYC { name: "Calgary International Airport", link: "https://www.yyc.com/", lat: 0.892106, lon: 1.990029 },
     ZDV { name: "Davos Stilli Heliport", link: "https://www.davos-helicopter.com/?menuopen=3&showcontent=2", lat: 0.816826, lon: 0.171590 },
     ZRH { name: "Zurich Airport", link: "https://www.flughafen-zuerich.ch/", lat: 0.630898, lon: −2.010501 },
-    LAS { name: "Harry Reid International Airport", link: "https://www.harryreidairport.com/)", lat: 0.828416, lon: 0.149211 }, //36°04′48″N 115°09′08″W
+   // LAS { name: "Harry Reid International Airport", link: "https://www.harryreidairport.com/)", lat: 0.828416, lon: 0.149211 }, //36°04′48″N 115°09′08″W
     PHX [ name: "Phoenix Sky Harbor International Airport (PHX)", link: "https://www.skyharbor.com/ ", lat: 0, lon: 0 } // 33°26′03″N 112°00′42″W
- };
+ ];
  

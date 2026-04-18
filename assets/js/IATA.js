@@ -1,4 +1,4 @@
-{
+iataRaw {
     { name: "Abu Dhabi International Airport (AUH)", link: "https://www.zayedinternationalairport.ae/", lat: 0, long: 0 },
     { name: "Al Udeid Air Base (XJD)", link: "https://www.afcent.af.mil/Units/379th-Air-Expeditionary-Wing/", lat: 0, long: 0 },
     { name: "Asheville Regional Airport (AVL)", link: "https://flyavl.com/", lat: 0, long: 0 },
