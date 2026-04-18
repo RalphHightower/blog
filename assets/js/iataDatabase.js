@@ -36,14 +36,14 @@ const iataDB = {
     MTC { name: "Selfridge Air National Guard Base", link: "https://www.127wg.ang.af.mil/", lat: 0.743656, lon: 1.445753 },
     PBI { name: "Palm Beach International Airport", link: "https://www.pbia.org/", lat: 0.465707, lon: 1.397931 },
     PEB { name: "Teterboro Airport", link: "https://www.panynj.gov/airports/en/teterboro.html", lat: 0.712967, lon: 1.292605 },
-    PHX [ name: "Phoenix Sky Harbor International Airport (PHX)", link: "https://www.skyharbor.com/ ", lat: 0, lon: 0 } // 33°26′03″N 112°00′42″W
+    PHX { name: "Phoenix Sky Harbor International Airport (PHX)", link: "https://www.skyharbor.com/ ", lat: 0, lon: 0 }, // 33°26′03″N 112°00′42″W
     PIK { name: "Glasgow Prestwick Airport", link: "https://www.glasgowprestwick.com/", lat: 0.968823, lon: 0.080188 },
     PIT { name: "Pittsburgh International Airport", link: "https://flypittsburgh.com/", lat: 0.706789, lon: 1.400557 },
     POB { name: "Pope Field", link: "https://www.pope.af.mil/", lat: 0.613847, lon: 1.379062 },
     PUS { name: "Gimhae International Airport", link: "https://gimhaeairport.com/", lat: 0.613997, lon: 2.250398 },
     RMG { name: "Richard B. Russell Airport", link: "https://www.russellregionalairport.com/airport", lat: 0.599535, lon: 1.486298 },
     RMS { name: "Ramstein Air Base", link: "https://www.ramstein.af.mil/", lat: 0.862837, lon: 0.132645 },
-    RUH { name: "King Khalid International Airport", link: "https://www.kkia.sa/en", lat: 0.435595, lon: 0.815049 },
+    RUH { name: "King Khalid International Airport", link: "https://www.kkia.sa/", lat: 0.435595, lon: 0.815049 },
     SKF { name: "Joint Base San Antonio / Kelly Field", link: "https://www.jbsa.mil/", lat: 0.512836, lon: 1.720560 },
     SNN { name: "Shannon Airport", link: "https://www.shannonairport.ie/", lat: 0.919822, lon: 0.155766 },
     SSH { name: "Sharm El-Sheikh International Airport", link: "https://sharmelsheikh-airport.com/", lat: 0.488295, lon: 0.600301 },
@@ -53,6 +53,5 @@ const iataDB = {
     XJD { name: "Al Udeid Air Base", link: "https://www.afcent.af.mil/Units/379th-Air-Expeditionary-Wing/", lat: 0.438402, lon: 0.895679 },
     YYC { name: "Calgary International Airport", link: "https://www.yyc.com/", lat: 0.892106, lon: 1.990029 },
     ZDV { name: "Davos Stilli Heliport", link: "https://www.davos-helicopter.com/?menuopen=3&showcontent=2", lat: 0.816826, lon: 0.171590 },
-    ZRH { name: "Zurich Airport", link: "https://www.flughafen-zuerich.ch/", lat: 0.630898, lon: −2.010501 }
+    ZRH { name: "Zurich Airport", link: "https://www.flughafen-zuerich.ch/", lat: 0.630898, lon: -2.010501 }
  };
- 
