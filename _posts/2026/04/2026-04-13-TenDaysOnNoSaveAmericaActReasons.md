@@ -16,6 +16,21 @@ I decided to play off that classic Christmas song, "The Twelve Days Of Christmas
 
 <div id="tenNays"></div>
 
+<script>
+  const dayNAY = tenNays(); // your JS logic will compute this dynamically
+
+  const message = `
+    Hello, my name is Ralph Hightower, a constituent from Chapin, South Carolina.
+    Today is day ${dayNAY} of my Ten NAYS of the
+    <a href="https://www.congress.gov/bill/119th-congress/house-bill/7296">
+      SAVE America Act
+    </a>.
+    <em>Leave cellphone number and zip code if voicemail.</em>
+  `;
+
+  document.getElementById("tenNays").innerHTML = message;
+</script>
+
 Hello, my name is Ralph Hightower, a constituent from Chapin, South Carolina. Today is day 0 of my Ten NAYS of the [SAVE America Act](https://www.congress.gov/bill/119th-congress/house-bill/7296). _Leave cellphone number and zip code if voicemail._
 
 <details markdown='1' id="2026-04-13"><summary>2026-04-13 #1</summary>
@@ -108,7 +123,7 @@ Hello, my name is Ralph Hightower, a constituent from Chapin, South Carolina. To
 
 <details markdown='1' id="2026-04-17"><summary>2026-04-17 #5</summary>
 
-- [ ] 5. The Purcell Principles decided by the Supreme Court prohibits changes to election laws that creates confusion close to an election. It is now 199 days until midterms. 
+- [x] 5. The Purcell Principles decided by the Supreme Court prohibits changes to election laws that creates confusion close to an election. It is now 199 days until midterms. 
 - [(202) 224-5972 *3 – Graham, Lindsey (T-SC)](tel:+12022245972)
     - [x] Spoke to staffer
     - [ ] Left voicemail
@@ -132,25 +147,25 @@ Hello, my name is Ralph Hightower, a constituent from Chapin, South Carolina. To
 
 - [ ] 6. The number of illegal registrations is microscopic. A Georgia audit found 8 illegal registrations among 8.4 million registered voters. That's an error rate of 0.000095338%, that is 4 zeroes behind the decimal.
 - [(202) 224-5972 *3 – Graham, Lindsey (T-SC)](tel:+12022245972)
-    - [ ] Spoke to staffer
+    - [x] Spoke to staffer
     - [ ] Left voicemail
     - [ ] Line busy / try again
 - [(202) 224-6121 – Scott, Tim (T-SC)](tel:+12022246121)
     - [ ] Spoke to staffer
-    - [ ] Left voicemail
+    - [x] Left voicemail
     - [ ] Line busy / try again
 - [(803) 734‑2100 – McMaster, Henry (T)](tel:+18037342100)
-    - [ ] Spoke to staffer
+    - [x] Spoke to staffer
     - [ ] Left voicemail
     - [ ] Line busy / try again
 - [(803) 734-3970 *3 – Wilson, Alan (T)](tel:+18037343970)
-    - [ ] Spoke to staffer
+    - [x] Spoke to staffer
     - [ ] Left voicemail
     - [ ] Line busy / try again
 
 </details>
 
-<details markdown='1' id="2026-04-21"><summary>2026-04-20 #7</summary>
+<details markdown='1' id="2026-04-21"><summary>2026-04-21 #7</summary>
 
 - [ ] 7. The calendar is the enemy. There is no way in hell to revise procedures, revise computer systems, data collection, train poll managers and workers with less than 200 days to the midterms.
 - [(202) 224-5972 *3 – Graham, Lindsey (T-SC)](tel:+12022245972)
@@ -417,7 +432,6 @@ Class III.
 
 <script>
 
-akert("here");
 ///
 /// Description: Display Functions defined by <div id="XXX">
 /// Requires: timeLibrary.js 
@@ -507,60 +521,59 @@ function doesElementExists(name) {
 function expandDetails(id) {
     if (doesElementExists(id))
         document.querySelector(id).open = true;
+        document.querySelector(id).open = true;
+    alert('herex');
     }
 
 today = new Date();
 // legal locale fr-CA displays YYYY-MM-DD format
 dispDate = today.toLocaleDateString("fr-CA", "full");
-alert('here');
 
-//expandDetails(dispDate);
-alert(dispDate);
-let dayNAY = 0;
-switch (dispDate) {
-    case "2026-04-13":
-        dayNAY = 1;
-        break;
-    case "2026-04-14":
-        dayNAY = 2;
-        break;
-    case "2026-04-15":
-        dayNAY = 3;
-        break;
-    case "2026-04-16":
-        dayNAY = 4;
-        break;
-    case "2026-04-17":
-        dayNAY = 5;
-        break;
-    case "2026-04-18":
-    case "2026-04-19":
-        break;
-    case "2026-04-20":
-        dayNAY = 6;
-        break;
-    case "2026-04-21":
-        dayNAY = 7;
-        break;
-    case "2026-04-22":
-        dayNAY = 8;
-        break;
-    case "2026-04-23":
-        dayNAY = 9;
-        break;
-    case "2026-04-24":
-        dayNAY = 10;
-        break;
-    default:
-        dayNAY = 0;
-    }
+expandDetails(dispDate);
 
-
-const dayOf = 'Hello, my name is Ralph Hightower, a constituent from Chapin, South Carolina. Today is day ' + dayNAY.toString() + ' of my Ten NAYS of the <a href="https://www.congress.gov/bill/119th-congress/house-bill/7296">SAVE America Act</a>. <em>Leave cellphone number and zip code if voicemail.</em>';
-
-alert(dayOf);
-
+function tenNays() {
+    let dayNAY = 0;
+    switch (dispDate) {
+        case "2026-04-13":
+            dayNAY = 1;
+            break;
+        case "2026-04-14":
+            dayNAY = 2;
+            break;
+        case "2026-04-15":
+            dayNAY = 3;
+            break;
+        case "2026-04-16":
+            dayNAY = 4;
+            break;
+        case "2026-04-17":
+            dayNAY = 5;
+            break;
+        case "2026-04-18":
+            dayNAY = 5;
+        case "2026-04-19":
+            break;
+        case "2026-04-20":
+            dayNAY = 6;
+            break;
+        case "2026-04-21":
+            dayNAY = 7;
+            break;
+        case "2026-04-22":
+            dayNAY = 8;
+            break;
+        case "2026-04-23":
+            dayNAY = 9;
+            break;
+        case "2026-04-24":
+            dayNAY = 10;
+            break;
+        default:
+            dayNAY = 0;
+        }
+    return(dayNAY);
+    
 showElement("tenNays");
-setElementText("tenNays", dayOf);
+setElementText("tenNays", tenNays());
 
 </script>
