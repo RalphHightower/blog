@@ -145,7 +145,7 @@ Hello, my name is Ralph Hightower, a constituent from Chapin, South Carolina. To
 
 <details markdown='1' id="2026-04-20"><summary>2026-04-20 #6</summary>
 
-- [ ] 6. The number of illegal registrations is microscopic. A Georgia audit found 8 illegal registrations among 8.4 million registered voters. That's an error rate of 0.000095338%, that is 4 zeroes behind the decimal.
+- [x] 6. The calendar is the enemy. There is no way in hell to revise procedures, revise computer systems, data collection, train poll managers and workers with less than 200 days to the midterms.
 - [(202) 224-5972 *3 – Graham, Lindsey (T-SC)](tel:+12022245972)
     - [x] Spoke to staffer
     - [ ] Left voicemail
@@ -167,7 +167,7 @@ Hello, my name is Ralph Hightower, a constituent from Chapin, South Carolina. To
 
 <details markdown='1' id="2026-04-21"><summary>2026-04-21 #7</summary>
 
-- [ ] 7. The calendar is the enemy. There is no way in hell to revise procedures, revise computer systems, data collection, train poll managers and workers with less than 200 days to the midterms.
+- [ ] 7. The number of illegal registrations is microscopic. A Georgia audit found 8 illegal registrations among 8.4 million registered voters. That's an error rate of 0.000095338%, that is 4 zeroes behind the decimal.
 - [(202) 224-5972 *3 – Graham, Lindsey (T-SC)](tel:+12022245972)
     - [ ] Spoke to staffer
     - [ ] Left voicemail
