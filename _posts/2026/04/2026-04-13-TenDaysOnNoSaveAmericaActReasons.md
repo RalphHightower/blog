@@ -189,7 +189,7 @@ Hello, my name is Ralph Hightower, a constituent from Chapin, South Carolina. To
 
 <details markdown='1' id="2026-04-22"><summary>2026-04-22 #8</summary>
 
-- [ ] 8. There is a single points of failure. The State Department will be deluged with passport applications. It is like attempting to use a funnel to direct water from a firehouse. In South Carolina, Vital Records is the choke point.
+- [ ] 8. Both the federal government and South Carolina have a single point of failure. The Department of State will be deluged with passport applications. It is like attempting to use a funnel to direct water from a firehouse. In South Carolina, Vital Records is the choke point.
 - [(202) 224-5972 *3 – Graham, Lindsey (T-SC)](tel:+12022245972)
     - [ ] Spoke to staffer
     - [ ] Left voicemail
