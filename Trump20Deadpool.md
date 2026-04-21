@@ -1,7 +1,7 @@
 ---
 layout: post
-tags: []
-categories: [Donald Trump,Deadpool, Voted Off the Island]
+tags: [Donald Trump,cabinet,Deadpool,Voted Off the Island]
+categories: [Donald Trump,cabinet,Deadpool,Voted Off the Island]
 date: 2026-04-20 18:09
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
@@ -10,27 +10,29 @@ excerpt: ''
 title: "Trump 2.0 Deadpool / Voted Off Islad / You're Fired!"
 ---
 
+[^20260324]: A fictional job.
+
 | Trump Sycophant | Position | Voted Off Island | You're Fired! | Date |
 |---|---|---|---|----|
+| Lori Chavez-DeRemer | Secretary, Department of Labor | | private sector | 2026-04-20 |
+| Pam Bondi | Attorney General | | private sector | 2026-04-02 |
+| Kristi Noem | Secretary, Department of Homeland Security | United States Special Envoy for the Shield of the Americas[^20260324] | | 2026-03-24 |
 | Donald Trump | President | | | |
 | JD Vance | Vice President | | | |
 | Marco Rubio | Secretary, Department of State | | | |
 | Scott Bessent | Secretary, Department of Treasury | | | |
 | Pete Hegseth | Secretary, Department of Defense | | | |
-| Pam Bondi | Attorney General | | private sector | 2026-04-02 |
 | Todd Blanche | (Acting) Attorney General | | | |
 | Kash Patel | Director, Federal Bureau of Investigation | | | |
 | Doug Burgum | Secretary, Department of Interior | | | |
 | Brooke Rollins | Secretary, Department of Agriculture | | | |
 | Howard Lutnick | Secretary, Department of Commerce | | | |
-| Lori Chavez-DeRemer | Secretary, Department of Labor | | private sector | 2026-04-20 |
 | Robert F. Kennedy Jr. | Secretary, Department of Health and Human Services | | | |
 | Scott Turner | Secretary, Department of Housing and Urban Development | | | |
 | Sean Duffy | Secretary, Department of Transportation | | | |
 | Chris Wright | Secretary, Department of Energy | | | |
 | Linda McMahon | Secretary, Department of Education | | | |
 | Doug Collins | Secretary, Department of Veterans Affairs | | | |
-| Kristi Noem | Secretary, Department of Homeland Security | United States Special Envoy for the Shield of the Americas | | 2026-03-24 |
 | Markwayne Mullin | Secretary, Department of Homeland Security | | | |
 | Lee Zeldin | Administrator, Department of Environmental Protection | | | |
 | Russell Vought | Director, Department of Office Management and Budget | | | |
