@@ -1,40 +1,42 @@
 ---
 layout: post
-tags: [media,YouTube,people,Jesus Christ,organizations,Paula White Ministries / Step into your Divine Destiny,Franklin Graham – Clean Water. Changed Lives.,Billy Graham Evangelistic Association,political parties,Democrat Party,Trumpian Party,federal government,Constitution of the United States,Supreme Court of the United States (SCOTUS),US Courts,Department of Justice (DOJ),Federal Bureau of Investigation (FBI),Federal Reserve,Federal Reserve Board - Federal Reserve Act,U.S. Department of the Treasury,Congress,Senate,House of Representatives,President of the United States (POTUS),White House (WH),Trump autocracy,Donald J Trump,President Donald Trump (45),President Donald Trump (47),President Trump (47) Administration,President Trump (47) Cabinet,press secretary,Karoline Leavitt,Scott Bessent / U.S. Department of the Treasury,Pam Bondi – Office of the Attorney General / Meet the Attorney General / United States Department of Justice,Todd Blanche – Office of the Deputy Attorney General / Office of the Deputy Attorney General,Todd Blanche / LinkedIn,Director Kash Patel — FBI,grifter,self-dealing,corruption,con artist,crime,cryptocurrency,criminal associates,criminal businesses,criminal media,criminal organizations,criminal partners]
-categories: [Donald Trump,Paula White,Spiritual Adviser]
-date: 2026-04-02 22:34
+tags: []
+categories: [Donald Trump,Paula White,Spiritual Adviser,Mary Trump]
+date: 2026-04-22 17:23
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: "Donald Trump’s Spiritual Adviser, Paula White, Speaks In Tongues"
+title: "Mary Trump's Reaction To Donald Trump’s Spiritual Advisor, Paula White-Cain Is Absolutely Hilarious!"
 ---
 
-## Paula White speaking in tongues with subtitles
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VJVS9RsIrN8?si=exh5jq4hY-fvq9V3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="315" height="560"
+  src="https://www.youtube.com/embed/ldEqONomIH0?si=y0ZsgNIO1t1jGarX
+  title="YouTube video player"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+  allowfullscreen>
+</iframe>
 
 ----
 - media
-- [YouTube](https://www.youtube.com/)
-- people
-- Jesus Christ
+- [Mary Trump Media - by Mary L Trump](https://www.marytrump.org/p/mary-trump-media)
+- [Mary L. Trump](https://en.wikipedia.org/wiki/Mary_L._Trump?wprov=sfla1)
+- [Mary Trump Media - YouTube](https://www.youtube.com/channel/UCSzRlpPbZTA6b8weTKnSHlA)
 - organizations
 - [Paula White Ministries / Step into your Divine Destiny](https://paulawhite.org/)
-- [Franklin Graham – Clean Water. Changed Lives.](https://samaritanspurse.org/our-ministry/clean-water/)
-- [Billy Graham Evangelistic Association](https://billygraham.org/)
 - political parties
 - [Democrat Party](https://www.democrats.org/)
 - [Trumpian Party](https://www.gop.com/)
+- universities
 - federal government
 - [Constitution of the United States](https://constitution.congress.gov/constitution/)
     - [Supreme Court of the United States (SCOTUS)](https://www.supremecourt.gov/)
         - [US Courts](https://www.uscourts.gov/)
     - [Department of Justice (DOJ)](https://www.justice.gov/)
         - [Federal Bureau of Investigation (FBI)](https://www.fbi.gov/)
-    - [Federal Reserve](https://www.federalreserve.gov/)
-        - [Federal Reserve Board - Federal Reserve Act](https://www.federalreserve.gov/aboutthefed/fract.htm)
-    - [U.S. Department of the Treasury](https://home.treasury.gov/)
     - [Congress](https://www.congress.gov/)
         - [Senate](https://www.senate.gov/)
         - [House of Representatives](https://www.house.gov/)

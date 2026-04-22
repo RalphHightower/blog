@@ -12,6 +12,36 @@ title: "DC/SC Call Script: Ten NAYS of the SAVE America Act"
 
 I decided to play off that classic Christmas song, "The Twelve Days Of Christmas", expressing my oppositions, one per weekday over two weeks to the [SAVE America Act](https://www.congress.gov/bill/119th-congress/house-bill/7296).
 
+<details markdown='1'><summary>Ten NAYS Summary</summary>
+
+## Summary Metrics 
+
+### By Date
+
+| Date | Contacted Staffer | Left Voicemail |
+|---|---|---|
+| 2026-04-13 | 1 | 3 |
+| 2026-04-14 | 3 | 1 |
+| 2026-04-15 | 2 | 2 |
+| 2026-04-16 | 3 | 1 |
+| 2026-04-17 | 2 | 2 |
+| 2026-04-20 | 3 | 1 |
+| 2026-04-21 | 1 | 3 |
+| 2026-04-22 | 2 | 3 |
+| 2026-04-23 |  |  |
+| 2026-04-24 |  |  |
+
+### By Politician 
+
+| Politician | Spoke to Staffer | Left Voicemail |
+|---|---|---|
+| Graham, Lindsey (T-SC) | 6 | 2 |
+| Scott, Tim (T-SC) | 4 | 4 |
+| McMaster, Henry (T) | 2 | 6 |
+| Wilson, Alan (T) | 5 | 3 |
+
+</details>
+
 ## Ten Call Scripts For Two Weeks
 
 <div id="tenNays"></div>
@@ -167,22 +197,23 @@ Hello, my name is Ralph Hightower, a constituent from Chapin, South Carolina. To
 
 <details markdown='1' id="2026-04-21"><summary>2026-04-21 #7</summary>
 
-- [ ] 7. The number of illegal registrations is microscopic. A Georgia audit found 8 illegal registrations among 8.4 million registered voters. That's an error rate of 0.000095338%, that is 4 zeroes behind the decimal.
+- [x] 7. The number of illegal registrations is microscopic. A Georgia audit found 8 illegal registrations among 8.4 million registered voters. That's an error rate of 0.000095338%, that is 4 zeroes behind the decimal.
 - [(202) 224-5972 *3 – Graham, Lindsey (T-SC)](tel:+12022245972)
-    - [ ] Spoke to staffer
+    - [x] Spoke to staffer
     - [ ] Left voicemail
     - [ ] Line busy / try again
 - [(202) 224-6121 – Scott, Tim (T-SC)](tel:+12022246121)
     - [ ] Spoke to staffer
-    - [ ] Left voicemail
+    - [x] Left voicemail
     - [ ] Line busy / try again
 - [(803) 734‑2100 – McMaster, Henry (T)](tel:+18037342100)
     - [ ] Spoke to staffer
-    - [ ] Left voicemail
-    - [ ] Line busy / try again
+    - [x] Left voicemail
+    - [ ] ~~Line busy / try again~~ Hung up 
+        - Note: Two dropped calls before successful voicemail; called Wilson in between
 - [(803) 734-3970 *3 – Wilson, Alan (T)](tel:+18037343970)
     - [ ] Spoke to staffer
-    - [ ] Left voicemail
+    - [x] Left voicemail
     - [ ] Line busy / try again
 
 </details>
