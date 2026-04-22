@@ -14,16 +14,16 @@ title: "Trump 2.0 Deadpool / Voted Off Islad / You're Fired!"
 
 | Trump Sycophant | Position | Voted Off Island | You're Fired! | Date |
 |---|---|---|---|----|
-| Lori Chavez-DeRemer | Secretary, Department of Labor | | private sector | 2026-04-20 |
-| Pam Bondi | Attorney General | | private sector | 2026-04-02 |
-| Kristi Noem | Secretary, Department of Homeland Security | United States Special Envoy for the Shield of the Americas[^20260324] | | 2026-03-24 |
+| Lori Chavez-DeRemer | Secretary, [Department of Labor (DOL)](https://www.dol.gov/) | | private sector | 2026-04-20 |
+| Pam Bondi | [Attorney General](https://www.justice.gov/ag), [Department of Justice (DOJ)](https://www.dol.gov/) | | private sector | 2026-04-02 |
+| Kristi Noem | Secretary, [Department of Homeland Security (DHS)](https://www.dhs/) | United States Special Envoy for the Shield of the Americas[^20260324] | | 2026-03-24 |
 | Donald Trump | President | | | |
 | JD Vance | Vice President | | | |
-| Marco Rubio | Secretary, Department of State | | | |
+| Marco Rubio | Secretary, [Department of State (DOS)](https://www.state.gov/) | | | |
 | Scott Bessent | Secretary, Department of Treasury | | | |
 | Pete Hegseth | Secretary, Department of Defense | | | |
 | Todd Blanche | (Acting) Attorney General | | | |
-| Kash Patel | Director, Federal Bureau of Investigation | | | |
+| Kash Patel | Director, [Federal Bureau of Investigation](https://www.fbi.gov/) | | | |
 | Doug Burgum | Secretary, Department of Interior | | | |
 | Brooke Rollins | Secretary, Department of Agriculture | | | |
 | Howard Lutnick | Secretary, Department of Commerce | | | |

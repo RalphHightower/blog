@@ -20,6 +20,12 @@ The telephone numbers below have called and there is an empty person on the othe
 
 | Telephone Number | Location | Date Time[^11]<sup>,</sup>[^12] | Caller | Social Media |
 |---|---|---|---|---|
+| [\+1 (803) 584-3071](tel:+18035843071) | SC. Allendale | 2026-04-21 04:50 PM | ANNIE RUTH WEST | |
+| [\+1 (318) 832-2517](tel:+13188322517) | LA. Cotton Calley | 2026-04-21 10:38 AM | | |
+| [\+1 (480) 493-5237](tel:+14804935237) | AZ. Phoenix | 2026-04-16 10:54 AM | MICHELLE L BOSSLER | |
+| [\+1 (505) 365-0410](tel:+15053650410) | NM. Santa Fe | 2026-04-17 06:39 PM | — | |
+| [\+1 (803) 232-0262](tel:+18032320262) | SC. Graniteville | 2026-04-16 05:25 PM | — | |
+| [\+1 (803) 570-7165](tel:+18035707165) | SC. Orangeburg | 2026-04-16 04:07 PM | — | |
 | [\+1 (803) 720-2651](tel:+18037202651) | SC. Sumter | 2026-04-15 05:41 PM | LORRAINE J HORTON | |
 | [\+1 (803) 250-5743](tel:+18032505743) | SC. Columbia | 2026-04-09 06:06 PM | — | |
 | [\+1 (854) 244-1137](tel:+18542441137) | SC. Florence | 2026-04-09 12:55 PM | — | |
