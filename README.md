@@ -235,13 +235,13 @@ This section documents cultural moments that intersect with America’s civic tu
 
 <div id="2026-09-30T23:59:59Z"><!-- Farm Aid 2026-09-30T23:59:59Z -->
 
-<h3>🌾 Farm Aid 2026</h3>
+<h3><a href="https://www.farmaid.org/">🌾 Farm Aid 2026</a></h3>
 
 <!-- [Farm Aid – Standing With Family Farmers Since 1985](https://www.farmaid.org/) -->
 
 Why I’m Highlighting It This Year
 
-The [Iran](https://irangov.ir/)) war has triggered a chain reaction in the real economy — LNG, diesel, fertilizer, fishing fuel, freight, plastics, even the coal and metals that keep the grid running. Diesel delivers everything, from crops to catch to coal for power plants, and when it spikes, the whole system tightens. Farmers, ranchers, and fishermen feel it first. With [Farm Aid](https://www.farmaid.org/) returning in 2026, I’m posting a full breakdown on the blog about how these rising costs cascade through the country we all depend on.
+The [Iran](https://irangov.ir/) war has triggered a chain reaction in the real economy — LNG, diesel, fertilizer, fishing fuel, freight, plastics, even the coal and metals that keep the grid running. Diesel delivers everything, from crops to catch to coal for power plants, and when it spikes, the whole system tightens. Farmers, ranchers, and fishermen feel it first. With [Farm Aid](https://www.farmaid.org/) returning in 2026, I’m posting a full breakdown on the blog about how these rising costs cascade through the country we all depend on.
 
 Read the full post <a href="https://ralphhightower.github.io/blog/2026/03/FarmAid.html">Farm Aid 2026: A Year of Need→</a>
 
@@ -249,20 +249,25 @@ Read the full post <a href="https://ralphhightower.github.io/blog/2026/03/FarmAi
 
 ## Make Your Voice Heard
 
-- [Democracy Docket](https://www.democracydocket.com/)
+### Organizations 
+
 - [DEFIANCE.org / Defy Trump, Together](https://www.defiance.org/)
 - [50501 — 50 protests, 50 states, 1 movement](https://www.fiftyfifty.one/)
 - [No Kings](https://www.nokings.org/)
 - [Indivisible](https://indivisible.org/)
-- [RepresentUs: Demand Accountable Government](https://represent.us/)
-- [Activist Handbook / Campaigning guides for activists ✊](https://activisthandbook.org/)
 - [American Civil Liberties Union / The ACLU dares to create a more perfect union — beyond one person, party, or side. Our mission is to realize this promise of the United States Constitution for all and expand the reach of its guarantees.](https://www.aclu.org/)
 - [League of Conservation Voters](https://www.lcv.org/)
+- [RepresentUs: Demand Accountable Government](https://represent.us/)
 - [People's Promise](https://peoplespromise.us/)
-- [The Resistance Lab — Pramila for Congress](https://www.pramilaforcongress.com/the-resistance-lab)
-- [SoSha (Social Share) – We’ve put together a social toolkit that tracks Trump's most unpopular policies and biggest failures. Share these posts with your networks and customize your messages so they break through the social media algorithms.](https://app.sosha.ai/toolkit/trump-news-headlines-media-9938)
 - [Stand Up America - Demanding the Democracy We Deserve](https://standupamerica.com/)
 - [Volunteer Opportunities, Events, and Petitions Near Me · Not Above the Law on Mobilize](https://www.mobilize.us/notabovethelaw/)
+
+### News / Resources
+
+- [Democracy Docket](https://www.democracydocket.com/)
+- [Activist Handbook / Campaigning guides for activists ✊](https://activisthandbook.org/)
+- [The Resistance Lab — Pramila for Congress](https://www.pramilaforcongress.com/the-resistance-lab)
+- [SoSha (Social Share) – We’ve put together a social toolkit that tracks Trump's most unpopular policies and biggest failures. Share these posts with your networks and customize your messages so they break through the social media algorithms.](https://app.sosha.ai/toolkit/trump-news-headlines-media-9938)
 
 ### Protest Songs
 
