@@ -10,15 +10,8 @@ excerpt: ''
 title: "Mary Trump's Reaction To Donald Trump’s Spiritual Advisor, Paula White-Cain Is Absolutely Hilarious!"
 ---
 
-<iframe width="315" height="560"
-  src="https://www.youtube.com/embed/ldEqONomIH0?si=y0ZsgNIO1t1jGarX
-  title="YouTube video player"
-  frameborder="0"
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-  allowfullscreen>
-</iframe>
+<iframe width="315" height="560" src="https://www.youtube.com/embed/ldEqONomIH0?si=y0ZsgNIO1t1jGarX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+  allowfullscreen></iframe>
 
 ----
 - media
