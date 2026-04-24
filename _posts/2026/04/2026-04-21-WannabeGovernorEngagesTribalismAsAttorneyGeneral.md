@@ -52,7 +52,7 @@ Chapin, SC
 
 It's disturbing to read a news release from [South Carolina](https://www.sc.gov/)'s [Attorney General](https://www.scag.gov/), [Alan Wilson](https://www.scag.gov/about-the-office/meet-the-attorney-general/), along with other [Trumpian Attorneys General](https://republicanags.com/) assail their citizens who are aligned with the [Democratic Party](https://www.democrats.org/), of their states with tribalistic language such as "left-leaning".
 
-Such a nebulous phrase as "left-leaning" reminds me of a [Calvin and Hobbes](https://en.wikipedia.org/wiki/Calvin_and_Hobbes?wprov=sfla1) cartoon with one of his snow sculptures that features a "snow chicken" gleefully chopping the head off a snowman with Calvin challenging his mom with, \"Oh yeah? Define "Well-Adjusted"?\"
+Such a nebulous phrase as "left-leaning" reminds me of a [Calvin and Hobbes](https://en.wikipedia.org/wiki/Calvin_and_Hobbes?wprov=sfla1) cartoon with one of his snow sculptures that features a "snow chicken" gleefully chopping the head off a snowman with Calvin challenging his mom with, \"Oh yeah? Define "Well-Adjusted."\"
 
 ![Calvin builds a snow chicken that beheads a snowman, and his mom demands normalcy while Calvin fires back “Define Well-Adjusted”](/assets/images/DefineNormal_calvin-made-a-snow-chicken.jpg)
 <br>January 6, 1995.
