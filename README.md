@@ -135,6 +135,41 @@ South Carolina has blown past 30 No Kings rallies, with new ones popping up hour
 <p>On Friday, May 1, 2026 is the fourth <a href="https://www.nokings.org/">No Kings Rally.</a>
 At the third <a href="https://www.nokings.org/">No Kings Rally</a> in South Carolina. there were over 30 No Kings rallies, with new ones popping up hourly. Check <a href="https://www.nokings.org/">NoKings.org for the latest.</a> It has gone international with multiple sites in Europe in support of the United States of America.</p>
 
+<table>
+    <thead>
+        <tr>
+            <th>No Kings May Day 2026 Location</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>
+                <a href="https://www.mobilize.us/mayday/event/929775/">Columbia, SC May Day 2026: Workers Over Billionaires · May Day Strong</a><br />4:00 PM, Friday, May 1, 2026<br /><br />South Carolina State House<br />1100 Gervais St, Columbia
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://www.mobilize.us/mayday/event/939589/">CHARLESTON MAY DAY 2026: WORKERS OVER BILLIONAIRES</a><br />1:00 PM, Friday, May 1, 2026<br /><br />6296 Rivers Ave, Charleston
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://www.mobilize.us/mayday/event/940620/">GREENVILLE, SC MAY DAY 2026: WORKERS OVER BILLIONAIRES</a><br />5:30 PM, Friday, May 1, 2026<br /><br />Greenville City Hall<br />206 S Main St, Greenville
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://www.mobilize.us/mayday/event/941873/">CLEMSON, SC MAY DAY 2026: WORKERS OVER BILLIONAIRES</a><br />5:00 PM, Friday, May 1, 2026<br /><br />Hwy 123 & 76<br />1250 Tiger Blvd, Clemson
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://www.mobilize.us/mayday/event/939176/">GEORGETOWN SC MAY DAY 2026: WORKERS OVER BILLIONAIRES</a><br />3:00 PM, Friday, May 1, 2026<br /><br />On the Sidewalk in front of Georgetown City Hall<br />1134 N Fraser St, Georgetown
+            </td>
+        </tr>
+    </tbody>
+</table>
+
 </div><!-- NoKings 2026-05-01T20:00:00Z -->
 
 When agents encounter strangers, the Fourth Amendment imposes three core limitations:
