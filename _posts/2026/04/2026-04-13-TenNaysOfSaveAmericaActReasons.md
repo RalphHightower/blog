@@ -242,7 +242,7 @@ Hello, my name is Ralph Hightower, a constituent from Chapin, South Carolina. To
 
 <details markdown='1' id="2026-04-23"><summary>2026-04-23 #9</summary>
 
-- [ ] 9. ~~Administrative Procedure Act (APA) timelines.~~ Any federal agency implementing new nationwide election requirements must follow the Administrative Procedure Act, which mandates publishing a proposed rule and allowing a public comment period that typically lasts 30–60 days. Agencies must then review and respond to comments before issuing a final rule, a process that routinely takes months. These steps cannot be legally compressed without risking immediate judicial invalidation. There are 193 days remaining before the midterms. It has to work the first time. There is no redo.
+- [x] 9. ~~Administrative Procedure Act (APA) timelines.~~ Any federal agency implementing new nationwide election requirements must follow the Administrative Procedure Act, which mandates publishing a proposed rule and allowing a public comment period that typically lasts 30–60 days. Agencies must then review and respond to comments before issuing a final rule, a process that routinely takes months. These steps cannot be legally compressed without risking immediate judicial invalidation. There are 193 days remaining before the midterms. It has to work the first time. There is no redo.
 - [(202) 224-5972 *3 – Graham, Lindsey (T-SC)](tel:+12022245972)
     - [x] Spoke to staffer
     - [ ] Left voicemail
@@ -264,7 +264,7 @@ Hello, my name is Ralph Hightower, a constituent from Chapin, South Carolina. To
 
 <details markdown='1' id="2026-04-24"><summary>2026-04-24 #10</summary>
 
-- [ ] 10. ~~State procurement, contracting, and certification cycles.~~ States cannot modify election systems without going through formal procurement cycles: issuing RFPs, evaluating bids, awarding contracts, integrating new systems, and completing mandatory testing and certification. These processes often take months and are constrained by statutory blackout periods that prohibit changes close to an election. Even a single delay in contracting or vendor capacity can push implementation past the legal calendar. There are 192 days remaining before the midterms. It has to work the first time. There is no redo.
+- [x] 10. ~~State procurement, contracting, and certification cycles.~~ States cannot modify election systems without going through formal procurement cycles: issuing RFPs, evaluating bids, awarding contracts, integrating new systems, and completing mandatory testing and certification. These processes often take months and are constrained by statutory blackout periods that prohibit changes close to an election. Even a single delay in contracting or vendor capacity can push implementation past the legal calendar. There are 192 days remaining before the midterms. It has to work the first time. There is no redo.
 - [(202) 224-5972 *3 – Graham, Lindsey (T-SC)](tel:+12022245972)
     - [ ] Spoke to staffer
     - [x] Left voicemail
