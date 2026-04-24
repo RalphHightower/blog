@@ -16,7 +16,7 @@ title: 'This Is How It Starts. First: National Emergency. Next: Martial Law. Arm
 Story by Ryan Bort. November 18, 2024.
 
 - **Mass Deportations**: Donald [Trump](https://x.com/realdonaldtrump) plans to declare a national emergency to use the military for mass deportations of undocumented immigrants.
-- **Immediate Action**: Deportations are expected to start within [Trump's](,https://x.com/realdonaldtrump) first 100 days in office.
+- **Immediate Action**: Deportations are expected to start within [Trump's](https://x.com/realdonaldtrump) first 100 days in office.
 - **High Costs**: The logistical implications of removing millions of people will be expensive.
 - **Aggressive Approach**: [Trump's](https://x.com/realdonaldtrump) administration, led by Tom Homan, aims to deport criminals first with a "shock and awe" strategy.
 
@@ -26,7 +26,7 @@ Story by Ryan Bort. November 18, 2024.
 
 [Trump](https://x.com/realdonaldtrump) wants military boots on US soil, and I'm not talking about the [National Guard](https://www.nationalguard.mil/), but the [Armed Forces: Army, Navy, Marines, Air Force](https://www.defense.gov/About/our-forces/)[^31]
 
-[^31]: Yes, the [National Guard](http://www.nationalguard.mil/) and [Coast Guard](https://www.uscg.mil/) fall under the umbrella of the [Defense Department](https://defense.gov), but generally, their focus is aiding the US; although the [National Guard](https:www.nationalguard.mil) may be deployed to foreign war zones. I'm not sure how [Trump](https://x.com/realdonaldtrump) plans to use the [Space Force](https://www.spaceforce.mil/) against US citizens.
+[^31]: Yes, the [National Guard](http://www.nationalguard.mil/) and [Coast Guard](https://www.uscg.mil/) fall under the umbrella of the [Defense Department](https://defense.gov), but generally, their focus is aiding the US; although the [National Guard](https://www.nationalguard.mil) may be deployed to foreign war zones. I'm not sure how [Trump](https://x.com/realdonaldtrump) plans to use the [Space Force](https://www.spaceforce.mil/) against US citizens.
 
 [Trump](https://x.com/realdonaldtrump) built his 2024 presidential campaign around a vow to lock down the border and forcibly - and violently - deport the undocumented immigrants currently living in the United States. He spoke repeatedly about an "invasion" of migrants who are "poisoning the blood" of the nation and even claiming that undocumented immigrants have been "conquering" American cities.
 
