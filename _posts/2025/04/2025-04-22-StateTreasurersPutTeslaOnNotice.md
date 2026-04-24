@@ -60,11 +60,11 @@ We believe the [Tesla](https://www.tesla.com/) [Board](https://ir.tesla.com/corp
 
 We respectfully request the [Board](https://ir.tesla.com/corporate) provide clarity on the following:
 
-1. How is the [Board](https://ir.tesla.com/corporate) ensuring that [Mr. Musk](https://ir.tesla.com/corporate/elon-musk) and [Tesla](https://www.tesla.com/)’s leadership team are devoting adequate time and focus to resolving recent performance issues and guiding the [company](,https://www.tesla.com/)’s future direction?
-2. In light of the [company](,https://www.tesla.com/)’s underperformance, how is the [Board](https://ir.tesla.com/corporate) evaluating whether executive compensation remains aligned with shareholder value and corporate accountability?
+1. How is the [Board](https://ir.tesla.com/corporate) ensuring that [Mr. Musk](https://ir.tesla.com/corporate/elon-musk) and [Tesla](https://www.tesla.com/)’s leadership team are devoting adequate time and focus to resolving recent performance issues and guiding the [company](https://www.tesla.com/)’s future direction?
+2. In light of the [company](https://www.tesla.com/)’s underperformance, how is the [Board](https://ir.tesla.com/corporate) evaluating whether executive compensation remains aligned with shareholder value and corporate accountability?
 3. How does the [Board](https://ir.tesla.com/corporate) plan to communicate its strategy for navigating this period of uncertainty and restoring investor and public confidence in [Tesla](https://www.tesla.com/)’s leadership?
 
-Finally, we strongly believe [Tesla](https://www.tesla.com/)’s [Board](https://ir.tesla.com/corporate) would benefit from engaging with public sector stakeholders who share an interest in the [company](,https://www.tesla.com/)’s long-term value and societal impact. We welcome the opportunity to speak further about these concerns and discuss how the [Board](https://ir.tesla.com/corporate) can take swift and transparent action to restore investor confidence and public trust in [Tesla](https://www.tesla.com/)’s leadership and the [company](,https://www.tesla.com/)’s future.
+Finally, we strongly believe [Tesla](https://www.tesla.com/)’s [Board](https://ir.tesla.com/corporate) would benefit from engaging with public sector stakeholders who share an interest in the [company](https://www.tesla.com/)’s long-term value and societal impact. We welcome the opportunity to speak further about these concerns and discuss how the [Board](https://ir.tesla.com/corporate) can take swift and transparent action to restore investor confidence and public trust in [Tesla](https://www.tesla.com/)’s leadership and the [company](https://www.tesla.com/)’s future.
 
 We welcome a response and the opportunity for continued dialogue.
 

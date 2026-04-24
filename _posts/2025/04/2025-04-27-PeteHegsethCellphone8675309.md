@@ -13,7 +13,7 @@ title: "Secretary of Defense, Peter Hegseth Is a Great Wingman For a Night 🌙 
 
 ## [Pete Hegseth’s Personal Signal Chat Phone Number Is All Over the Internet](https://www.thedailybeast.com/pete-hegseths-personal-signal-chat-phone-number-is-all-over-the-internet/)
 
-*The [Department of Defense](,https://www.defense.gov/) boss’ number is linked to [Airbnb](https://www.airbnb.com/), a fantasy sports site and a plumber review.*
+*The [Department of Defense](https://www.defense.gov/) boss’ number is linked to [Airbnb](https://www.airbnb.com/), a fantasy sports site and a plumber review.*
 
 David Gardner
 Chief National Correspondent
@@ -37,7 +37,7 @@ Cyber security experts claimed [Hegseth](https://www.defense.gov/About/Biographi
 
 “You just don’t want the secretary of defense’s phone number to be out there and available to anyone,” added Emily Harding, a security expert at the [Center for Strategic and International Studies](https://www.csis.org/).
 
-The [Times](https://www.nytimes.com=) reports that [Hegseth](https://www.linkedin.com/in/petehegseth/)’s personal number was easily accessible as recently as March.
+The [Times](https://www.nytimes.com/) reports that [Hegseth](https://www.linkedin.com/in/petehegseth/)’s personal number was easily accessible as recently as March.
 
 He is said to have used the name “[PeteHegseth](https://www.linkedin.com/in/petehegseth/)” to sign onto [Sleeper.com](https://sleeper.com), a fantasy football and sports betting site, last August, with his wife Jennifer–who was included in one of the chat groups–joining up two weeks later.
 
@@ -49,7 +49,7 @@ He wrote of a dentist clinic, “The staff is amazing”, and praised a plumber 
 
 A mural painter, “painted 2 beautiful flags for us–spot on.”
 
-Glenn S. Gerstell, a former general counsel for the [National Security Agency](,https://www.nsa.gov/), told the [Times](https://www.nytimes.com/): “If you use your phone for just ordinary daily activities, you are leaving a highly, highly visible digital pathway that even a moderately sophisticated person, let alone a nefarious actor, can follow.”
+Glenn S. Gerstell, a former general counsel for the [National Security Agency](https://www.nsa.gov/), told the [Times](https://www.nytimes.com/): “If you use your phone for just ordinary daily activities, you are leaving a highly, highly visible digital pathway that even a moderately sophisticated person, let alone a nefarious actor, can follow.”
 
 “Phone numbers are like the street address that tell you what house to break into. Once you get the street address, you get to the house, and there might be locks on the doors, and you ask yourself, ‘Do I have the tools to bypass or break the locks?’” another cyber security expert, James A. Lewis, said in the report.
 
@@ -95,6 +95,6 @@ The [Pentagon](https://www.defense.gov/) has been contacted for comment.
 - [Department of Defense (DOD)](https://www.defense.gov/)
 - [Pete Hegseth – Secretary of Defense](https://www.defense.gov/About/Biographies/Biography/Article/4040890/hon-pete-hegseth/)
 - [National Counterintelligence and Security Center](https://www.dni.gov/index.php/ncsc-home)
-- [National Security Agency](,https://www.nsa.gov/)
+- [National Security Agency](https://www.nsa.gov/)
 - security 
 - politics 
