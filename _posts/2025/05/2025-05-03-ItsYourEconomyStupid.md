@@ -53,7 +53,7 @@ First, [Trump](https://www.donaldjtrump.com/)’s efforts to shift blame are lik
 
 Second, [Trump](https://www.donaldjtrump.com/)’s attempts will probably prove unpersuasive because they’re meandering and incoherent. The more he [careens wildly](https://www.nbcnews.com/politics/donald-trump/trump-pins-stock-market-struggles-biden-weeks-taking-credit-rcna203702) between “give me credit for apparent good news” and “blame the guy who isn’t in office for bad news,” the more people will simply tune out his palaver.
 
-And third, the [president](,https://www.whitehouse.gov/)’s pitiful attempt at the blame game will almost certainly fail because it’s far too late to work. As [New York magazine](https://nymag.com/)’s [Ed Kilgore explained](https://nymag.com/intelligencer/article/trumps-megalomania-undermines-biden-blame-game.html), “Rarely if ever, and certainly not since FDR, has a new administration taken office more determined to own the country, its policies, and its overall direction.”
+And third, the [president](https://www.whitehouse.gov/)’s pitiful attempt at the blame game will almost certainly fail because it’s far too late to work. As [New York magazine](https://nymag.com/)’s [Ed Kilgore explained](https://nymag.com/intelligencer/article/trumps-megalomania-undermines-biden-blame-game.html), “Rarely if ever, and certainly not since FDR, has a new administration taken office more determined to own the country, its policies, and its overall direction.”
 
 [Trump](https://www.donaldjtrump.com/) and his team made a choice: Move fast and break things. Throw caution to the wind. Shock and awe. Overwhelm the opposition. Caution is for losers.
 
