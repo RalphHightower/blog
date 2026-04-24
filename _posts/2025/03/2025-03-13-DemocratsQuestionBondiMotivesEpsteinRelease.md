@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: [media, MSNBC, Deadline –  Legal Blog, Jordan Rubin, Wall Street Journal (WSJ), organizations, National Association of Criminal Defense Lawyers, companies, Dow Jones – Trusted News & Data, News Corp, foreign countries, state local governments, New York City (NYC) New York, Eric Adams – Mayor - Overview - City of New York, political parties, Trumpian Party, Democrat Party, Federal Government, Constitution of the United States, Supreme Court of the United States (SCOTUS), US Courts, Department of Justice (DOJ), New York Southern District, Southern District of New York / About, BOP –  Federal Bureau of Prisons Web Site, Department of State (DOS), Federal Bureau of Investigation (FBI), James Comey, Congress, President of the United States (POTUS), Senate, House of Representatives, White House (WH), William J. Clinton Presidential Library and Museum, Donald J Trump, President Donald Trump (45), President Donald Trump (47), President Trump (47) Administration, President Trump (47) Cabinet, JD Vance, Vice President JD Vance, Pam Bondi, Kash Patel, Deputy Director Dan Bongino — FBI, Robert F Kennedy Jr, tariffs, politics, stupidity, grift, self-dealing, corruption, con, crime, cryptocurrency, criminal businesses, criminal associates, criminal partners, criminal businesses, criminal associates, human trafficking, sex trafficking, pedophile, Jeffrey Epstein, Ghislaine Maxwell, Bill Clinton]
-categories: [Jeffrey Epstein, Ghislaine Maxwell, Trump Crime Family, Donald Trump]
+categories: [Jeffrey Epstein, Ghislaine Maxwell, human trafficking, sex trafficking, pedophile, Trump Crime Family, Donald Trump, Department of Justice (DOJ), Pam Bondi, Todd Blanche, Federal Bureau of Investigation (FBI), Kash Patel, Dan Bongino]
 date: 2025-03-13 9:05 AM
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
@@ -13,7 +13,7 @@ title: "Senate Democrats Push Trump’s Personal Lawyer, Pam Bondi, Over Her Bun
 
 ## [Senate Democrats question Pam Bondi’s motives in 'Epstein files' documents release](https://www.msnbc.com/top-stories/latest/pam-bondi-epstein-files-senate-democrats-rcna196113)
 
-*The [Democratic](https://www.democrats.org/,) [Senate Judiciary Committee](http://www.judiciary.senate.gov/)’s [X](,https://x.com/) account flagged that the attorney who handled Ghislaine Maxwell’s case was put on leave.*
+*The [Democratic](https://www.democrats.org/,) [Senate Judiciary Committee](http://www.judiciary.senate.gov/)’s [X](https://x.com/) account flagged that the attorney who handled Ghislaine Maxwell’s case was put on leave.*
 
 March 12, 2025, 6:43 PM EDT
 By [Ja'han Jones](https://www.msnbc.com/author/jahan-jones-ncpn371241)
@@ -69,7 +69,7 @@ Ja’han Jones is an MSNBC opinion blogger. He previously wrote The ReidOut Blog
     - [BOP: Federal Bureau of Prisons Web Site](https://www.bop.gov/)
     - [Department of State (DOS)](https://www.state.gov/)
     - [Federal Bureau of Investigation (FBI)](https://www.fbi.gov/)
-        - [James Comey](https://www.fbi.gov/history/directors/james-b-comey)
+        - [James B. Comey, September 4, 2013 - May 9, 2017 — FBI](https://www.fbi.gov/history/directors/james-b-comey)
     - [Congress](https://www.congress.gov/)
     - [President of the United States (POTUS)](https://www.whitehouse.gov/)
         - [Senate](https://www.senate.gov/)

@@ -54,11 +54,11 @@ But the [White House](https://www.whitehouse.gov/) held firm on [Trump’s](http
 
 After the firings, the [FTC](https://www.ftc.gov/) has only two commissioners, both Trumpian: [Ferguson](https://www.ftc.gov/about-ftc/commissioners-staff/andrew-n-ferguson) and [Melissa Holyoak](https://www.ftc.gov/about-ftc/commissioners-staff/melissa-holyoak), a lawyer seen as a pro-business regulator with narrow views of agency authority.
 
-It is unclear how any future [Democratic](https://www.democrats.org/) commissioners would be nominated or approved. Given the current atmosphere in Washington, [University of Washington](https:www.uw.edu/) [law professor](https://www.law.uw.edu/) [Douglas Ross](https://www.law.uw.edu/directory/faculty/ross-douglas/) said it’s unlikely that [Donald Trump](https://www.whitehouse.gov/administration/donald-j-trump/) is going to take nominations from [Senate](https://www.senate.gov/) Minority Leader [Chuck Schumer (D-NY)](https://www.schumer.senate.gov/), who would traditionally get to fill the Democratic vacancies.
+It is unclear how any future [Democratic](https://www.democrats.org/) commissioners would be nominated or approved. Given the current atmosphere in Washington, [University of Washington](https://www.uw.edu/) [law professor](https://www.law.uw.edu/) [Douglas Ross](https://www.law.uw.edu/directory/faculty/ross-douglas/) said it’s unlikely that [Donald Trump](https://www.whitehouse.gov/administration/donald-j-trump/) is going to take nominations from [Senate](https://www.senate.gov/) Minority Leader [Chuck Schumer (D-NY)](https://www.schumer.senate.gov/), who would traditionally get to fill the Democratic vacancies.
 
 “We are in a time of breaking all norms,” said [Ross](https://www.law.uw.edu/directory/faculty/ross-douglas/). “What are the odds [Trump](https://www.whitehouse.gov/administration/donald-j-trump/) goes to [Chuck](https://www.schumer.senate.gov/)?”
 
-A commission without [Democratic](https://www.democrats.org=) members presents a new set of reputational and legal challenges for the [FTC](https://www.ftc.gov/).
+A commission without [Democratic](https://www.democrats.org/) members presents a new set of reputational and legal challenges for the [FTC](https://www.ftc.gov/).
 
 Though commissioners in the political minority didn’t drive policy and often disagreed vehemently with the majority’s decisions, their relative independence offered a counterweight and reservoir of expertise that strengthened the commission’s hand in court and created stability, said [Calkins](https://www.linkedin.com/in/stephen-calkins-2110107/).
 
@@ -80,7 +80,7 @@ Many see the [FTC](https://www.ftc.gov/) move as part of a broader strategy to f
 
 [Trump](https://www.whitehouse.gov/administration/donald-j-trump/) is already using the lawsuits filed by ejected [Democrats](https://www.democrats.org/) in at least four federal agencies in an attempt to overturn a 1935 [Supreme Court](https://www.supremecourt.gov/) decision, [Humphrey’s Executor](https://supreme.justia.com/cases/federal/us/295/602/), that upheld limits passed by [Congress](https://www.congress.gov/) on the president’s powers to fire independent agency members.
 
-[Trump’s](https://www.whitehouse.gov/administration/donald-j-trump/) [Justice Department](,https://www.justice.gov/) said on Feb. 12 it determined that agency powers have changed so much since 1935 that those protections are no longer constitutional.
+[Trump’s](https://www.whitehouse.gov/administration/donald-j-trump/) [Justice Department](https://www.justice.gov/) said on Feb. 12 it determined that agency powers have changed so much since 1935 that those protections are no longer constitutional.
 
 [Trump’s](https://www.whitehouse.gov/administration/donald-j-trump/) removal of the commissioners earned wide condemnation by [Democrats](https://www.democrats.org/) on Capitol Hill, including a letter signed by 28 [Democratic](https://www.democrats.org/) senators demanding that [Trump](https://www.whitehouse.gov/administration/donald-j-trump/) reinstate [Bedoya](https://www.ftc.gov/about-ftc/commissioners-staff/alvaro-bedoya) and [Slaughter](https://www.linkedin.com/in/becca-kelly-slaughter-360a8467/).
 
