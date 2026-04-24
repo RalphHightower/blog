@@ -18,7 +18,7 @@ title: "FEMA In Turmoil: New Administrator Unqualified and Unprepared For Hurric
 June 3, 2025, 8:57 AM EDT
 By [Steve Benen](https://www.msnbc.com/author/steve-benen-ncpn433601)
 
-The [Trump](https://www.donaldjtrump.com/) [administration](https://www.whitehouse.gov/administration/) had a credible official leading the [Federal Emergency Management Agency](https://www.fema.gov/). His name was [Cameron Hamilton](https://www.linkedin.com/in/cameron-hamilton-90854b299/), and he had experience, not only as a [Navy](,https://www.navy.mil/) [SEAL](https://www.nsw.navy.mil/) and former combat medic, but also as the former director of the Emergency Medical Services Division at the [Department of Homeland Security](https://www.dhs.gov/).
+The [Trump](https://www.donaldjtrump.com/) [administration](https://www.whitehouse.gov/administration/) had a credible official leading the [Federal Emergency Management Agency](https://www.fema.gov/). His name was [Cameron Hamilton](https://www.linkedin.com/in/cameron-hamilton-90854b299/), and he had experience, not only as a [Navy](https://www.navy.mil/) [SEAL](https://www.nsw.navy.mil/) and former combat medic, but also as the former director of the Emergency Medical Services Division at the [Department of Homeland Security](https://www.dhs.gov/).
 
 He was nevertheless [fired last month](https://www.msnbc.com/rachel-maddow-show/maddowblog/fema-chief-fired-cameron-hamilton-trump-rcna205676), not because he did something wrong, but because [Hamilton](https://www.linkedin.com/in/cameron-hamilton-90854b299/) — a lifelong conservative [Republican](https://www.gop.com/) — testified before [Congress](https://www.congress.gov/) and told lawmakers that it would be in the public’s interest if [FEMA](https://www.fema.gov/) continued to exist. [Donald Trump](https://www.donaldjtrump.com/), of course, [wants to eliminate FEMA altogether](https://truthsocial.com/@realDonaldTrump/113985962341531654), and so [Hamilton](https://www.linkedin.com/in/cameron-hamilton-90854b299/), [one day after his testimony](https://www.washingtonpost.com/politics/2025/05/09/trump-presidency-news/#link-THSXFS5I6FGMDJSZ54KHQJAHOY), found himself [out of a job](https://www.msnbc.com/rachel-maddow-show/maddowblog/fema-chief-fired-cameron-hamilton-trump-rcna205676).
 
@@ -42,7 +42,7 @@ And while that might seem like a reasonable solution — especially given the fa
 
 All of this comes on the heels of [The Washington Post reporting](https://www.washingtonpost.com/nation/2025/05/23/fema-disaster-declaration-delays/) that [FEMA](https://www.fema.gov/) was already facing a backlog of 19 unprocessed emergency aid requests — and that was before hurricane season began.
 
-What’s more, the broader concerns are not limited to [FEMA](https://www.fema.gov/). There are related issues at the [the National Oceanic and Atmospheric Administration](https://www.washingtonpost.com/opinions/2025/05/11/trump-disasters-noaa-fema-climate-change/), while at the [National Weather Service](https://www.weather.gov/), [The Guardian](https://www.theguardian.com/) reported this week, “There is a lack of meteorologists in 15 of the regional weather service offices along the coastline from [Texas](https://www.texas.gov/) to [Florida](https://www.myflorida.com/), as well as in [Puerto Rico](https://www.pr.gov/).”
+What’s more, the broader concerns are not limited to [FEMA](https://www.fema.gov/). There are related issues at the [the National Oceanic and Atmospheric Administration](https://www.washingtonpost.com/opinions/2025/05/11/trump-disasters-noaa-fema-climate-change/), while at the [National Weather Service](https://www.weather.gov/), [The Guardian](https://www.theguardian.com/) reported this week, “There is a lack of meteorologists in 15 of the regional weather service offices along the coastline from [Texas](https://www.texas.gov/) to [Florida](https://www.myflorida.gov/), as well as in [Puerto Rico](https://www.pr.gov/).”
 
 The same [Guardian](https://www.theguardian.com/) report, which has not been independently verified by [MSNBC](https://www.msnbc.com/) or [NBC News](https://www.nbcnews.com/), added, that the Miami-based [National Hurricane Center](https://www.nhc.noaa.gov/) “is short five specialists.”
 
@@ -71,7 +71,7 @@ Steve Benen is a producer for "[The Rachel Maddow Show](https://www.msnbc.com/ra
 - [The Guardian](https://www.theguardian.com/)
 - [Trump Party](https://www.gop.com/)
 - state governments 
-- [Florida](https://www.myflorida.com/)
+- [Florida](https://www.myflorida.gov/)
 - [Texas](https://www.texas.gov/)
 - [PR.gov / Gobierno de Puerto Rico](https://www.pr.gov/)
 - Federal Government 

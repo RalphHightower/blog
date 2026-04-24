@@ -225,6 +225,7 @@ Yes, my assessment has racial overtones, but [Scott](https://www.scott.senate.go
 ##### My Dumb State: South Carolina
 
 - 2026-04-21: [My Dumb State: Wannabe Governor Engages Tribalism As Attorney General]({% link _posts/2026/04/2026-04-21-WannabeGovernorEngagesTribalismAsAttorneyGeneral.md %})
+- 2026-02-15: [My Dumb State: South Carolina Attorney General Attacks ‘Woke’ Cars, Trucks]({% link _posts/2025/12/2026-02-15-SCAGAlanWilsonAttacksWokeCars.md %})
 - 2026-02-21: [My Dumb State: South Carolina Attorney General Alan Wilson Supports Trump Firing Federal Reserve Governor Without Merit Via Tweet]({% link _posts/2026/02/2026-02-21-SCAGSupportsFiringWOMerit.md %})
 - 2026-02-15: [My Dumb State: South Carolina Attorney General Attacks ‘Woke’ Cars, Trucks]({% link _posts/2026/02/2026-02-15-SCAGAlanWilsonAttacksWokeCars.md %})
 - 2026-02-14: [My Dumb State: South Carolina Attorney General Alan Wilson Wants to Make Measles Great Again]({% link _posts/2026/02/2026-02-14-MakeMeaslesGreatAgain.md %})

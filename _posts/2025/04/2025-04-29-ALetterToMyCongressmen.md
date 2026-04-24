@@ -18,7 +18,7 @@ Elections have consequences, and the choices we make today will shape the future
 
 [Trump](https://www.donaldjtrump.com/) has ir​rep​a​ra​bly damaged the United States reputation on the world's stage.
 
-As [Trumpian legislators](https://www.gop.com/) are the majority in the red state of [South Carolina](https://www.sc.gov/), your elected seat is safe. However, there are other voters in the [United States](,https://www.usa.gov/) who can flip the majority in the [House](https://www.house.gov/) and [Senate](https://www.senate.gov/) to [Democrats](https://www.democrats.org/).
+As [Trumpian legislators](https://www.gop.com/) are the majority in the red state of [South Carolina](https://www.sc.gov/), your elected seat is safe. However, there are other voters in the [United States](https://www.usa.gov/) who can flip the majority in the [House](https://www.house.gov/) and [Senate](https://www.senate.gov/) to [Democrats](https://www.democrats.org/).
 
 This oath is not just ceremonial; it is a solemn promise to uphold the principles that define our nation.
 
@@ -48,7 +48,7 @@ However, since Mount Denali is within America's borders, it will now be recogniz
 
 Imagine if a [Democratic](https://www.democrats.org/) president, [Obama](https://obamawhitehouse.archives.gov/), [Biden](https://bidenwhitehouse.archives.gov/), or a future president, banned your law practice from practicing in federal courts and banned the firm's employees from entering federal buildings.
 
-According to their respective [Wikipedia](https://en.wikipedia.org/) pages, [Wilson](https://joewilson.house.gov/), [Fry](https://fry.house.gov/), [Timmons](https://timmons.house.gov/), and [Graham](https://www.lgraham.senate.gov/) are lawyers representing [South Carolina](https://www.sc.gov/) in the [House](https://www.house.gov/) and [Senate](,https://www.senate.gov/). Imagine if a [Democratic](https://www.democrats.org/) president banned them and their firm from Federal buildings. They wouldn't be able to represent clients in [Federal Court](https://www.uscourts.gov/), or even enter a [Post Office](https://www.usps.com/). 
+According to their respective [Wikipedia](https://en.wikipedia.org/) pages, [Wilson](https://joewilson.house.gov/), [Fry](https://fry.house.gov/), [Timmons](https://timmons.house.gov/), and [Graham](https://www.lgraham.senate.gov/) are lawyers representing [South Carolina](https://www.sc.gov/) in the [House](https://www.house.gov/) and [Senate](https://www.senate.gov/). Imagine if a [Democratic](https://www.democrats.org/) president banned them and their firm from Federal buildings. They wouldn't be able to represent clients in [Federal Court](https://www.uscourts.gov/), or even enter a [Post Office](https://www.usps.com/). 
 
 ### Weaponizing Federal Government:
 
@@ -56,7 +56,7 @@ According to their respective [Wikipedia](https://en.wikipedia.org/) pages, [Wil
 
 Calling for the [Department of Justice](https://www.justice.gov/) to persecute [Christopher Krebs](https://www.linkedin.com/in/christopherckrebs/) and [Miles Taylor](https://www.linkedin.com/in/miles-taylor-65707671/). While [Krebs](https://www.linkedin.com/in/christopherckrebs/) led the [Cybersecurity and Infrastructure Security Agency (CISA)](https://www.cisa.gov/), he affirmed that the [2020 election](https://www.fec.gov/resources/cms-content/documents/federalelections2020.pdf) was the most secure. 
 
-[Miles Taylor](https://www.linkedin.com/in/miles-taylor-65707671/) worked in the [Department of Homeland Security](https://www.dhs.gov/). [Taylor](https://www.linkedin.com/in/miles-taylor-65707671/) contributed to expanding [U.S.](,https://www.usa.gov/) protections against weaponized drones, and led sensitive counterterrorism activities at [DHS](https://www.dhs.gov, /), including work to disrupt terrorist plots that spanned multiple cells, multiple countries, and multiple attack vectors.
+[Miles Taylor](https://www.linkedin.com/in/miles-taylor-65707671/) worked in the [Department of Homeland Security](https://www.dhs.gov/). [Taylor](https://www.linkedin.com/in/miles-taylor-65707671/) contributed to expanding [U.S.](https://www.usa.gov/) protections against weaponized drones, and led sensitive counterterrorism activities at [DHS](https://www.dhs.gov, /), including work to disrupt terrorist plots that spanned multiple cells, multiple countries, and multiple attack vectors.
 
 My use of the word persecute is intentional. 
 

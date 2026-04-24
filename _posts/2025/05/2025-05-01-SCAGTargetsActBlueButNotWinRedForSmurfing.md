@@ -66,7 +66,7 @@ You can read the letter [here](https://www.scag.gov/media/gcpd0vsr/final-letter-
 - [South Carolina Law Enforcement Division](https://sled.sc.gov/)
 - [Constitution of the United States](https://constitution.congress.gov/)
 - [Supreme Court of the United States (SCOTUS)](https://www.supremecourt.gov/)
-- [US Courts](,https://www.uscourts.gov/)
+- [US Courts](https://www.uscourts.gov/)
 - [Congress](https://www.congress.gov/)
 - [Senate](https://www.senate.gov/)
 - [House of Representatives](https://www.house.gov/)
