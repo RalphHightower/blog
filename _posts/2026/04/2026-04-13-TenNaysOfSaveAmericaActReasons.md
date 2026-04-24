@@ -29,16 +29,16 @@ I decided to play off that classic Christmas song, "The Twelve Days Of Christmas
 | 2026-04-21 | 1 | 3 |
 | 2026-04-22 | 2 | 2 |
 | 2026-04-23 | 2 | 2 |
-| 2026-04-24 |  |  |
+| 2026-04-24 | 1 | 3 |
 
 ### By Politician 
 
 | Politician | Spoke to Staffer | Left Voicemail |
 |---|---|---|
-| Graham, Lindsey (T-SC) | 7 | 2 |
-| Scott, Tim (T-SC) | 5 | 4 |
-| McMaster, Henry (T) | 2 | 7 |
-| Wilson, Alan (T) | 5 | 4 |
+| Graham, Lindsey (T-SC) | 7 | 3 |
+| Scott, Tim (T-SC) | 6 | 4 |
+| McMaster, Henry (T) | 2 | 8 |
+| Wilson, Alan (T) | 5 | 6 |
 
 </details>
 
@@ -267,19 +267,19 @@ Hello, my name is Ralph Hightower, a constituent from Chapin, South Carolina. To
 - [ ] 10. ~~State procurement, contracting, and certification cycles.~~ States cannot modify election systems without going through formal procurement cycles: issuing RFPs, evaluating bids, awarding contracts, integrating new systems, and completing mandatory testing and certification. These processes often take months and are constrained by statutory blackout periods that prohibit changes close to an election. Even a single delay in contracting or vendor capacity can push implementation past the legal calendar. There are 192 days remaining before the midterms. It has to work the first time. There is no redo.
 - [(202) 224-5972 *3 – Graham, Lindsey (T-SC)](tel:+12022245972)
     - [ ] Spoke to staffer
-    - [ ] Left voicemail
+    - [x] Left voicemail
     - [ ] Line busy / try again
 - [(202) 224-6121 – Scott, Tim (T-SC)](tel:+12022246121)
-    - [ ] Spoke to staffer
+    - [x] Spoke to staffer
     - [ ] Left voicemail
     - [ ] Line busy / try again
 - [(803) 734‑2100 – McMaster, Henry (T)](tel:+18037342100)
     - [ ] Spoke to staffer
-    - [ ] Left voicemail
+    - [x] Left voicemail
     - [ ] Line busy / try again
 - [(803) 734-3970 *3 – Wilson, Alan (T)](tel:+18037343970)
     - [ ] Spoke to staffer
-    - [ ] Left voicemail
+    - [x] Left voicemail
     - [ ] Line busy / try again
 
 </details>
