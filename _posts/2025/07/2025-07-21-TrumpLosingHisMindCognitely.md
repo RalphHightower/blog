@@ -54,7 +54,7 @@ At the same gathering, [Trump asserted](https://x.com/atrupar/status/19448131979
 
 In the run-up to passage of his massive tax and spending bill, he repeatedly claimed that it would [eliminate taxes on Social Security](https://www.politifact.com/factchecks/2025/jun/30/donald-trump/trump-tax-social-security-reconciliation-bill/?) — a claim that massively exaggerates the impact of the bill. Of even greater concern is a story that received almost no attention. [NOTUS](https www.notus.org/,) reported that, only days before the legislation was signed into law, [told House Republicans](https://www.notus.org/congress/reconciliation-timeline-slipping-trump) that if the party wants to win elections, it shouldn’t cut [Medicaid](https://www.medicaid.gov/), [Medicare](https://www.medicare.gov/) and [Social Security](https://www.ssa.gov/). According to three sources, one [GOP](https://www.gop.com/) member had to tell [Trump](https://www.donaldjtrump.com/), “But we’re touching [Medicaid](https://www.medicaid.gov/) in this bill.”
 
-Additionally, [Trump](https://www.donaldjtrump.com/) made an exceedingly odd comment when asked why his [administration](https://www.whitehouse.gov/administration/) [had paused military aid shipments](https://www.newsweek.com/trump-reacts-ukraine-weapons-pause-i-would-know-watch-video-2096851) to [Ukraine](https://www.gov.ua/), going so far as [to ask a reporter](https://www.cnn.com/2025/07/08/politics/video/collins-trump-ukraine-weapons-pause-digvid) whether she knew who had ordered the halt.
+Additionally, [Trump](https://www.donaldjtrump.com/) made an exceedingly odd comment when asked why his [administration](https://www.whitehouse.gov/administration/) [had paused military aid shipments](https://www.newsweek.com/trump-reacts-ukraine-weapons-pause-i-would-know-watch-video-2096851) to [Ukraine](https://www.kmu.gov.ua/), going so far as [to ask a reporter](https://www.cnn.com/2025/07/08/politics/video/collins-trump-ukraine-weapons-pause-digvid) whether she knew who had ordered the halt.
 
 One might conclude from this compendium of stories that America is in the midst of a governing crisis. The [president](https://www.whitehouse.gov/) of the [United States](https://www.usa.gov/) is making up stories, repeatedly making false claims and attacking other public officials.
 
@@ -74,7 +74,7 @@ One can certainly debate the extent to which [Biden](https://bidenwhitehouse.arc
 
 To quote [Thompson](https://www.axios.com/authors/athompson), where are the truth-tellers about the current occupant of the [White House](https://www.whitehouse.gov/)?
 
-Michael A. Cohen is a columnist for [MSNBC](https://www.msnbc.com/) and a senior fellow and co-director of the [Afghanistan Assumptions Project](https://sites.tufts.edu/css/?page_id=1510) at the [Center for Strategic Studies](https://sites.tufts.edu/css/) at the [Fletcher School](https://fletcher.tufts.edu/), [Tufts University](,https://www.tufts.edu/). He writes the political newsletter [Truth and Consequences](https://urldefense.com/v3/__https://truthandcons.substack.com/__;!!PIZeeW5wscynRQ!u_XKZjv-lWH23z1mnHythaCOP6PFQIIYCwx9LK8Bsf1E8Fq24bv3BUSOnMKMGac4phxnOcJrub5z8w_Bku4b2cg$). He has been a columnist at [The Boston Globe](https://www.bostonglobe.com/), [The Guardian](https://www.theguardian.com/) and [Foreign Policy](https://foreignpolicy.com/), and he is the author of three books, the [most recent being](https://urldefense.com/v3/__https://www.amazon.com/dp/B07P77NDT6/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1__;!!PIZeeW5wscynRQ!u_XKZjv-lWH23z1mnHythaCOP6PFQIIYCwx9LK8Bsf1E8Fq24bv3BUSOnMKMGac4phxnOcJrub5z8w_BrJq41KY$) “Clear and Present Safety: The World Has Never Been Better and Why That Matters to Americans.”
+Michael A. Cohen is a columnist for [MSNBC](https://www.msnbc.com/) and a senior fellow and co-director of the [Afghanistan Assumptions Project](https://sites.tufts.edu/css/?page_id=1510) at the [Center for Strategic Studies](https://sites.tufts.edu/css/) at the [Fletcher School](https://fletcher.tufts.edu/), [Tufts University](https://www.tufts.edu/). He writes the political newsletter [Truth and Consequences](https://urldefense.com/v3/__https://truthandcons.substack.com/__;!!PIZeeW5wscynRQ!u_XKZjv-lWH23z1mnHythaCOP6PFQIIYCwx9LK8Bsf1E8Fq24bv3BUSOnMKMGac4phxnOcJrub5z8w_Bku4b2cg$). He has been a columnist at [The Boston Globe](https://www.bostonglobe.com/), [The Guardian](https://www.theguardian.com/) and [Foreign Policy](https://foreignpolicy.com/), and he is the author of three books, the [most recent being](https://urldefense.com/v3/__https://www.amazon.com/dp/B07P77NDT6/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1__;!!PIZeeW5wscynRQ!u_XKZjv-lWH23z1mnHythaCOP6PFQIIYCwx9LK8Bsf1E8Fq24bv3BUSOnMKMGac4phxnOcJrub5z8w_BrJq41KY$) “Clear and Present Safety: The World Has Never Been Better and Why That Matters to Americans.”
 
 ----
 - media
@@ -96,7 +96,8 @@ Michael A. Cohen is a columnist for [MSNBC](https://www.msnbc.com/) and a senior
 - [Massachusetts Institute of Technology (MIT)](https://www.mit.edu/)
 - [Harvard University](https://www.harvard.edu/)
 - foreign governments 
-- [Ukraine (UA)](https://www.gov.ua/)
+- [Головна / Кабінет Міністрів України (UA)](https://www.kmu.gov.ua/)
+- 
 - political parties 
 - [Democrat Party](https://www.democrats.org/)
 - [Trumpian Party](https://www.gop.com/)
