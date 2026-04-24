@@ -18,7 +18,7 @@ title: "My Dumb State: Wannabe Governor Engages Tribalism As Attorney General"
 Hi, this is Ralph Hightower from Chapin.
 My allegiance is to America – Country Over Party. I was an independent voter for decades, and I only voted straight‑ticket [Democrat](https://www.democrats.org/) in 2018 because, in my view, [Donald Trump](https://www.donaldjtrump.com/) corrupted the [Republican Party](https://www.gop.com/)’s values and normalized tribalism — dividing Americans into opposing camps.
 
-Now I see [Attorney General](https://www.scag.gov/) [Alan Wilson](https://www.scag.gov/about-the-office/meet-the-attorney-general/) using similar tribal language, calling [Democrats](https://www.democrats.org/) “left‑leaning activists” in an official press release. [South Carolina](https://www.sc.gov/) governors average about 54.81% of the vote.
+Now I see [Attorney General](https://www.scag.gov/) [Alan Wilson](https://www.scag.gov/about-the-office/meet-the-attorney-general/) using similar tribal language, calling [Democrats](https://www.democrats.org/) “left‑leaning activists” in an official press release. [South Carolina](https://www.sc.gov/) governors average 54.81% of the vote over four election cycles.
 
 If he wants to be [governor](https://governor.sc.gov/), does he plan to serve all [South Carolinians](https://www.sc.gov/), or only the narrow majority that agrees with him?
 
@@ -52,7 +52,7 @@ Chapin, SC
 
 It's disturbing to read a news release from [South Carolina](https://www.sc.gov/)'s [Attorney General](https://www.scag.gov/), [Alan Wilson](https://www.scag.gov/about-the-office/meet-the-attorney-general/), along with other [Trumpian Attorneys General](https://republicanags.com/) assail their citizens who are aligned with the [Democratic Party](https://www.democrats.org/), of their states with tribalistic language such as "left-leaning".
 
-Such a nebulous phrase as "left-leaning" reminds me of a [Calvin and Hobbes](https://en.wikipedia.org/wiki/Calvin_and_Hobbes?wprov=sfla1) cartoon with one of his snow sculptures that features a "snow chicken" gleefully chopping the head off a snowman with Calvin challenging his mom with, "Oh yeah? Define \"Well-Adjusted\"?"
+Such a nebulous phrase as "left-leaning" reminds me of a [Calvin and Hobbes](https://en.wikipedia.org/wiki/Calvin_and_Hobbes?wprov=sfla1) cartoon with one of his snow sculptures that features a "snow chicken" gleefully chopping the head off a snowman with Calvin challenging his mom with, \"Oh yeah? Define "Well-Adjusted"?\"
 
 ![Calvin builds a snow chicken that beheads a snowman, and his mom demands normalcy while Calvin fires back “Define Well-Adjusted”](/assets/images/DefineNormal_calvin-made-a-snow-chicken.jpg)
 <br>January 6, 1995.

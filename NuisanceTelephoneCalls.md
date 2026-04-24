@@ -20,6 +20,9 @@ The telephone numbers below have called and there is an empty person on the othe
 
 | Telephone Number | Location | Date Time[^11]<sup>,</sup>[^12] | Caller | Social Media |
 |---|---|---|---|---|
+| [\+1 (803) 255-2475](tel:+18032552475) | SC. Columbia | 2026-04-23 03:43 PM | | |
+| [\+1 (803) 202-7548](tel:+18032027548) | SC. North Augusta | 2026-04-23 01:32 PM | | |
+| [\+1 (803) 349-3796](tel:+18033493796) | SC. Beech Island | 2026-04-23 10:11 AM | ROBINSON BYRON | |
 | [\+1 (803) 584-3071](tel:+18035843071) | SC. Allendale | 2026-04-21 04:50 PM | ANNIE RUTH WEST | |
 | [\+1 (318) 832-2517](tel:+13188322517) | LA. Cotton Calley | 2026-04-21 10:38 AM | | |
 | [\+1 (480) 493-5237](tel:+14804935237) | AZ. Phoenix | 2026-04-16 10:54 AM | MICHELLE L BOSSLER | |
