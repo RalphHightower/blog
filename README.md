@@ -1,6 +1,6 @@
 ---
 layout: base_toc
-title: Reason for Starting a Blog
+title: Ralph Hightower’s blog. Trying to Save Democracy. Country Over Party
 toc: true
 ---
 
@@ -43,7 +43,7 @@ Now, democracy is on life support.
 
 <div id='iranWar'></div>
 
-#### ⛽️ Fuel Prices Rise Like a Rocket 🚀 and Fall Like a Feather 🪶 
+#### ⛽️ Fuel Prices Rise Like a Rocket 🚀 and Fall Like a Feather 🪶
 
 [Donnie Trump](https://www.donaldjtrump.com/), drunk from the success of the [Venezuela](https://www.gob.ve/) raid, thought forcing regime change in [Iran](https://irangov.ir/) was going to be easy-peasy. Instead, he got himself stuck in [La Brea Tar Pits](https://tarpits.org/)
 
@@ -284,7 +284,7 @@ Read the full post <a href="https://ralphhightower.github.io/blog/2026/03/FarmAi
 
 ## Make Your Voice Heard
 
-### Organizations 
+### Organizations
 
 - [DEFIANCE.org / Defy Trump, Together](https://www.defiance.org/)
 - [50501 — 50 protests, 50 states, 1 movement](https://www.fiftyfifty.one/)
@@ -794,7 +794,7 @@ function setElementText(element, text) {
 
 function updateCounters() {
     updateCountdowns();
-    
+
     showElement('burn');
     showElement('golf');
     const now = new Date();
