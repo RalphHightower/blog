@@ -63,6 +63,8 @@ Surviving “The Apprentice: White House – Wrecking Ball”. [Trump](https://w
 
 ## Election Results
 
+Free pins 📌 available for popping balloons 🎈.
+
 ### [2024 Presidential Election Results – Federal Election Commission (FEC)](https://www.fec.gov/resources/cms-content/documents/2024presgeresults.pdf)
 
 | Candidate | Votes | Percentage | Electoral College |
