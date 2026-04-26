@@ -10,23 +10,23 @@ excerpt: ''
 title: "My Dumb State: South Carolina Attorney General Attacks ‘Woke’ Cars, Trucks"
 ---
 
-Who knew that cars and trucks can be woke? I didn't. 
+Who knew that cars and trucks can be woke? I didn't.
 
 Personally, any politician that uses ‘woke’ is a divider and not a uniter. [Alan Wilson (R)](https://wilsonforsc.com/) is running for governor of [South Carolina](https://www.sc.gov/)
 
 The following are drawbacks that I think holding back the wide spread adoptions of electric vehicles (EV):
 
-1. Range Anxiety 
+1. Range Anxiety
 2. Infrastructure (Charging stations are not as common as gas/diesel stations)
 3. Charging Time to Full Capacity (Until changing times are about the same as filling up a tank, they are not viable for road trips.)
 
-[South Carolina](https://www.sc.gov/) deserves a governor who understands the difference between governing and grandstanding, not a candidate who treats federal rulemaking like a culture‑war talent show. If “woke cars” are the biggest threat he can find, maybe he’s not looking in the right direction — though I’m sure he’ll remind us to carry an extra quart of blinker fluid just in case.
+[South Carolina](https://www.sc.gov/) deserves a [governor](https://governor.sc.gov/) who understands the difference between governing and grandstanding, not a candidate who treats federal rulemaking like a culture‑war talent show. If “woke cars” are the biggest threat he can find, maybe he’s not looking in the right direction — though I’m sure he’ll remind us to carry an extra quart of blinker fluid just in case.
 
 ## [Attorney General Alan Wilson sends letter to EPA to remove woke EV standards - South Carolina Attorney General](https://www.scag.gov/about-the-office/news/attorney-general-alan-wilson-sends-letter-to-epa-to-remove-woke-ev-standards/)
 
 FEB 06, 2026
 
-([COLUMBIA](https://www.columbiasc.gov/), [S.C.](https://www.sc.gov/)) –[South Carolina](,https://www.sc.gov/) [Attorney General](https://www.scag.gov/) [Alan [Wilson](https://www.scag.gov/about-the-office/meet-the-attorney-general/) joined a letter to the [EPA](https://www.epa.gov/) alongside 23 states supporting the end of the [Biden](https://bidenwhitehouse.archives.gov/)-era electric vehicle mandates.
+([COLUMBIA](https://www.columbiasc.gov/), [S.C.](https://www.sc.gov/)) –[South Carolina](https://www.sc.gov/) [Attorney General](https://www.scag.gov/) [Alan [Wilson](https://www.scag.gov/about-the-office/meet-the-attorney-general/) joined a letter to the [EPA](https://www.epa.gov/) alongside [23 states](https://republicanags.com/) supporting the end of the [Biden](https://bidenwhitehouse.archives.gov/)-era electric vehicle mandates.
 
 "These mandates to increase the number of electric vehicles on the road only raised the costs of vehicles for Americans," [Attorney General](https://www.scag.gov/) [Wilson](https://www.scag.gov/about-the-office/meet-the-attorney-general/) said. "Bringing these fuel standards back in line ensures our vehicles are safe, efficient, and affordable."
 
@@ -64,6 +64,9 @@ You can read the letter [here](https://gcc02.safelinks.protection.outlook.com/?u
 - [Keith G. Kautz](https://ag.wyo.gov/law-office-division/administrative-division/administrative-division-staff), [Attorney General](https://ag.wyo.gov/) of [Wyoming](https://www.wyo.gov/)
 
 ----
+- organizations
+- [Democratic Attorneys General Association](https://dems.ag/)
+- [Trumpian Attorneys General Association](https://republicanags.com/)
 - political parties
 - [Democrat Party](https://www.democrats.org/)
 - [Trumpian Party](https://www.gop.com/)
