@@ -7,7 +7,7 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: "My Dumb State, South Carolina: Attorney General, Alan Wilson, Wants To Amend The Fourteenth Amendment"
+title: "My Dumb State: South Carolina Attorney General, Alan Wilson, Wants To Amend The Fourteenth Amendment"
 ---
 
 
@@ -32,7 +32,7 @@ https://en.wikipedia.org/wiki/Donald_Trump?wprov=sfla1
 FEB 03, 2025
 
 [Attorney General](https://www.scag.gov/) [Alan Wilson](https://www.scag.gov/about-the-office/meet-the-attorney-general/) defends Trump Birthright Citizenship order
-(COLUMBIA, S.C.) - Attorney General [Alan Wilson](https://www.scag.gov/about-the-office/meet-the-attorney-general/) today joined [17 other states](https://republicanags.com/) in defending [President](https://www.whitehouse.gov/) Trump’s [executive order](https://www.whitehouse.gov/presidential-actions/2025/01/protecting-the-meaning-and-value-of-american-citizenship/) that restores the original meaning and value of American citizenship while ending birthright citizenship and the loophole for birth tourism and illegal aliens.
+([COLUMBIA](https://www.columbiasc.gov/), [S.C.](https://www.sc.gov/)) - Attorney General [Alan Wilson](https://www.scag.gov/about-the-office/meet-the-attorney-general/) today joined [17 other states](https://republicanags.com/) in defending [President](https://www.whitehouse.gov/) Trump’s [executive order](https://www.whitehouse.gov/presidential-actions/2025/01/protecting-the-meaning-and-value-of-american-citizenship/) that restores the original meaning and value of American citizenship while ending birthright citizenship and the loophole for birth tourism and illegal aliens.
 
 In 2023, an estimated 225,000-250,000, or 7% of all births in the U.S. were to illegal aliens. The [executive order](https://www.whitehouse.gov/presidential-actions/2025/01/protecting-the-meaning-and-value-of-american-citizenship/) comes in the shadow of record-breaking illegal crossings on the southern border under the [Biden-Harris administration](https://bidenwhitehouse.archives.gov), including convicted criminals, violent gang members, and suspected terrorists.
 

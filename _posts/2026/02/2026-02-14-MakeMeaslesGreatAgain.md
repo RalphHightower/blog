@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: [political parties,Democrat Party,Trumpian Party,organizations,Home - Church of the Flying Spaghetti Monster,Patsafarians,state local governments,South Carolina (SC),South Carolina Department of Public Health,Attorney General,Alan Wilson,South Carolina Legislature Online,South Carolina Legislature Online - Senate,Senator Margie Bright Matthews –South Carolina Legislature Online,2025-2026 Bill 897–  Measels Vaccine Required to Attend Public School - South Carolina Legislature Online,federal government,Centers for Disease Control and Prevention,Measles (Rubeola) / Measles (Rubeola) / CDC,Centers for Disease Control and Prevention,Measles (Rubeola) / Measles (Rubeola) / CDC]
-categories: [South Carolina (SC),Attorney General,Alan Wilson (T),General Assembly,Senate,Margie Bright Matthews,vaccination,measles,mandatory,dumbassedness]
+categories: [South Carolina (SC),South Carolina Constitution,Attorney General,Alan Wilson (T),General Assembly,Senate,Margie Bright Matthews,vaccination,measles,mandatory,dumbassedness]
 date: 2026-02-14 13:56
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
@@ -60,9 +60,9 @@ prudence, sound judgment, competence, sense
 
 FEB 06, 2026
 
-(COLUMBIA, S.C.) –South Carolina Attorney General Alan Wilson made the following statement condemning [S.897](https://www.scstatehouse.gov/sess126_2025-2026/bills/897.htm), a bill that would remove the religious exemption for the MMR vaccine for children attending public schools.
+([COLUMBIA](https://www.columbiasc.gov/), [S.C.](https://www.sc.gov/)) – [South Carolina](https://www.sc.gov/) [Attorney General](https://www.scag.gov/) [Alan Wilson](https://www.scag.gov/about-the-office/meet-the-attorney-general/) made the following statement condemning [S.897](https://www.scstatehouse.gov/sess126_2025-2026/bills/897.htm), a bill that would remove the religious exemption for the MMR vaccine for children attending public schools.
 
-“This bill goes too far. Since 2020, we've seen a concerted push to curtail personal liberty in the name of health and safety. Eliminating religious exemptions and mandating medical decisions by force is not who we are as a state or country. The right to be free from compelled bodily intrusion is at the heart of the American experiment. Government should not substitute its judgment for parents, families, or individual conscience. Encouragement is not coercion. Personal freedom and parental rights must come first. As Attorney General, I will always stand for liberty, families, and the Constitution.”
+“This bill goes too far. Since 2020, we've seen a concerted push to curtail personal liberty in the name of health and safety. Eliminating religious exemptions and mandating medical decisions by force is not who we are as a state or country. The right to be free from compelled bodily intrusion is at the heart of the American experiment. Government should not substitute its judgment for parents, families, or individual conscience. Encouragement is not coercion. Personal freedom and parental rights must come first. As [Attorney General](https://www.scag.gov/), I will always stand for liberty, families, and the Constitution.”
 
 | Locations |
 |---|
@@ -89,15 +89,15 @@ General Bill
 Sponsors: [Senator Matthews](https://www.scstatehouse.gov/member.php?code=0194318159)
 [Document Path:](SR-0106CEM26.docx)
 
-Introduced in the Senate on February 5, 2026
-Currently residing in the Senate Committee on Medical Affairs
+Introduced in the [Senate](https://www.scstatehouse.gov/senate.php) on February 5, 2026
+Currently residing in the [Senate](https://www.scstatehouse.gov/senate.php) [Committee on Medical Affairs](https://www.scstatehouse.gov/CommitteeInfo/senatemedical.php)
 
 Summary: Measels Vaccine Required to Attend Public School
 HISTORY OF LEGISLATIVE ACTIONS
 
 Date	Body	Action Description with journal page number
-2/5/2026	Senate	Introduced and read first time ([Senate Journal-page 4](https://www.scstatehouse.gov/sess126_2025-2026/sj26/20260205.htm#p4))
-2/5/2026	Senate	Referred to Committee on Medical Affairs ([Senate Journal-page 4](https://www.scstatehouse.gov/sess126_2025-2026/sj26/20260205.htm#p4))
+2/5/2026	[Senate](https://www.scstatehouse.gov/senate.php)	Introduced and read first time ([[Senate](https://www.scstatehouse.gov/senate.php) Journal-page 4](https://www.scstatehouse.gov/sess126_2025-2026/sj26/20260205.htm#p4))
+2/5/2026	[Senate](https://www.scstatehouse.gov/senate.php)	Referred to [Committee on Medical Affairs](https://www.scstatehouse.gov/CommitteeInfo/senatemedical.php) ([[Senate](https://www.scstatehouse.gov/senate.php) Journal-page 4](https://www.scstatehouse.gov/sess126_2025-2026/sj26/20260205.htm#p4))
 View the latest [legislative information](https://www.scstatehouse.gov/billsearch.php?billnumbers=897&session126&summary=B) at the website
 
 VERSIONS OF THIS BILL
@@ -130,7 +130,7 @@ TO AMEND THE SOUTH CAROLINA CODE OF LAWS BY AMENDING SECTION [44-29-180](https:/
 
 
 
-Be it enacted by the General Assembly of the State of South Carolina:
+Be it enacted by the General Assembly of the [State of South Carolina](https://www.sc.gov/):
 
 
 SECTION 1.  Section [44-29-180](https://www.scstatehouse.gov/code/t44c029.php#44-29-180) of the S.C. Code is amended to read:
@@ -171,7 +171,7 @@ SECTION 3.  Section [59-41-20](https://www.scstatehouse.gov/code/t59c041.php#59-
 
 
 
-Section [59-41-20](https://www.scstatehouse.gov/code/t59c041.php#59-41-20).  Subject to the terms and provisions of this chapter every school child in the State who has not yet finished or graduated from high school,<u> has a valid South Carolina Certificate of Immunization that shows the student has been administered at least two doses of the measles, mumps, and rubella (MMR) vaccine or a valid South Carolina Certificate of Medcical Exemption</u>, and who desires to attend a private school located within the State shall be eligible for and entitled to receive a State scholarship grant in an amount equal to the per pupil cost to the State of public education as certified by the Governor.
+Section [59-41-20](https://www.scstatehouse.gov/code/t59c041.php#59-41-20).  Subject to the terms and provisions of this chapter every school child in the State who has not yet finished or graduated from high school,<u> has a valid South Carolina Certificate of Immunization that shows the student has been administered at least two doses of the measles, mumps, and rubella (MMR) vaccine or a valid South Carolina Certificate of Medcical Exemption</u>, and who desires to attend a private school located within the State shall be eligible for and entitled to receive a State scholarship grant in an amount equal to the per pupil cost to the State of public education as certified by the [Governor](https://governor.sc.gov/).
 
 
 SECTION 4.  Chapter 101, Title 59 of the S.C. Code is amended by adding:
@@ -182,7 +182,7 @@ Section [59-101-600](https://www.scstatehouse.gov/code/t59c101.php#59-101-600). 
 
 
 
-SECTION 5.  This act takes effect upon approval by the Governor.
+SECTION 5.  This act takes effect upon approval by the [Governor](https://governor.sc.gov/).
 
 ----XX----
 
@@ -197,11 +197,12 @@ This web page was last updated on February 5, 2026 at 11:36 AM
     - [Patsafarians](https://www.spaghettimonster.org/)
 - state, local governments
 - [South Carolina (SC)](https://www.sc.gov/)
+    - [South Carolina Constitution - South Carolina Legislature Online](https://www.scstatehouse.gov/scconstitution/scconst.php)
     - [South Carolina Department of Public Health](https://dph.sc.gov/)
     - [Attorney General](https://www.scag.gov/)
         - [Alan Wilson](https://www.scag.gov/about-the-office/meet-the-attorney-general/)
     - [South Carolina Legislature Online](https://www.scstatehouse.gov/)
-        - [South Carolina Legislature Online - Senate](https://www.scstatehouse.gov/senate.php)
+        - [South Carolina Legislature Online - [Senate](https://www.scstatehouse.gov/senate.php)
             - [Senator Margie Bright Matthews –South Carolina Legislature Online](https://www.scstatehouse.gov/member.php?code=0194318159)
     - [2025-2026 Bill 897: Measels Vaccine Required to Attend Public School - South Carolina Legislature Online](https://www.scstatehouse.gov/sess126_2025-2026/bills/897.htm)
 - federal government

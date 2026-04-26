@@ -8,11 +8,11 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: "My Dumb State, South Carolina: Attorney General, Alan Wilson, Wants To Amend The Fourteenth Amendment – Part 3 (Supreme Court)"
+title: "My Dumb State: South Carolina Attorney General, Alan Wilson, Wants To Amend The Fourteenth Amendment – Part 3 (Supreme Court)"
 ---
 
-- [My Dumb State, South Carolina: South Carolina's Attorney General, Alan Wilson, Wants To Amend The Fourteenth Amendment – Part 1]({% link _posts/2025/02/2025-02-07-SCAGWants14thAmendmentAmended.md %}). @RalphHightower. February 7, 2025
-- [My Dumb State, South Carolina: South Carolina's Attorney General, Alan Wilson, Wants To Amend The Fourteenth Amendment – Part 2 (Ninth Appeals Court)]({% link _posts/2025/03/2025-03-14-SCAGAmend14AmendmentPart2.md %}). @RalphHightower. March 14, 2025
+- [My Dumb State: South Carolina South Carolina's Attorney General, Alan Wilson, Wants To Amend The Fourteenth Amendment – Part 1]({% link _posts/2025/02/2025-02-07-SCAGWants14thAmendmentAmended.md %}). @RalphHightower. February 7, 2025
+- [My Dumb State: South Carolina South Carolina's Attorney General, Alan Wilson, Wants To Amend The Fourteenth Amendment – Part 2 (Ninth Appeals Court)]({% link _posts/2025/03/2025-03-14-SCAGAmend14AmendmentPart2.md %}). @RalphHightower. March 14, 2025
 
 
 ## [Attorney General Alan Wilson defends Trump’s Birthright Citizenship Executive Order in Supreme Court brief - South Carolina Attorney General](https://www.scag.gov/about-the-office/news/attorney-general-alan-wilson-defends-trump-s-birthright-citizenship-executive-order-in-supreme-court-brief/)

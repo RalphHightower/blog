@@ -12,52 +12,52 @@ title: "My Dumb State: South Carolina Attorney General Alan Wilson Supports Trum
 
 ## The Battle Between the President and the Federal Reserve: A Structural Summary
 
-1. The Trigger: A President Attempts to Fire a Fed Governor by Social‑Media Decree
+1. The Trigger: A [President](https://www.whitehouse.gov/) Attempts to Fire a [Fed Governor](https://www.federalreserve.gov/aboutthefed/bios/board/default.htm) by Social‑Media Decree
 
-President Trump announced the removal of Federal Reserve Governor Lisa Cook via a Truth Social post, alleging misconduct related to mortgage documentation.
+[President](https://www.whitehouse.gov/) [Trump](https://www.donaldjtrump.com/) announced the removal of [Federal Reserve Governor](https://www.federalreserve.gov/aboutthefed/bios/board/default.htm) [Lisa Cook](https://www.federalreserve.gov/aboutthefed/bios/board/cook.htm) via a [Truth Social](https://truthsocial.com/) post, alleging misconduct related to mortgage documentation.
 From your document:
 
-> “President Trump says he can fire her for cause because he alleges Cook falsified records…”
+> “[President](https://www.whitehouse.gov/) [Trump](https://www.donaldjtrump.com/) says he can fire her for cause because he alleges [Cook](https://www.federalreserve.gov/aboutthefed/bios/board/cook.htm) falsified records…”
 
-This was an attempted unilateral removal, without adjudication, without due process, and without the statutory procedures required under the Federal Reserve Act.
+This was an attempted unilateral removal, without adjudication, without due process, and without the statutory procedures required under the [Federal Reserve Act](https://www.federalreserve.gov/aboutthefed/fract.htm).
 
-The Fed Act provides for‑cause removal, but historically that has required:
+The [Fed Act](https://www.federalreserve.gov/aboutthefed/fract.htm) provides for‑cause removal, but historically that has required:
 - evidence,
 - process,
 - and a legal determination —
 not a presidential declaration.
 
 
-2. The Supreme Court Intervenes
-The Court blocked immediate removal and agreed to hear the case.
+2. The [Supreme Court](https://www.supremecourt.gov/) Intervenes
+The [Court](https://www.supremecourt.gov/) blocked immediate removal and agreed to hear the case.
 From the document:
 
-> “The Supreme Court ruled that President Trump could not remove Cook immediately…”
+> “The [Supreme Court](https://www.supremecourt.gov/) ruled that [President](https://www.whitehouse.gov/) [Trump](https://www.donaldjtrump.com/) could not remove [Cook](https://www.federalreserve.gov/aboutthefed/bios/board/cook.htm) immediately…”
 
 This transformed the conflict from a political fight into a constitutional test of:
 - presidential removal power,
-- the independence of the Federal Reserve,
-- and the limits of Article II.
+- the independence of the [Federal Reserve](https://www.federalreserve.gov/),
+- and the limits of [Article II](https://constitution.congress.gov/constitution/article-2/)).
 
 ---
 
 3. The States Enter the Arena
-Twenty‑three attorneys general filed an amicus brief supporting the President’s authority to remove Cook.
+[Twenty‑three attorneys general](https://republicanags.com/) filed an amicus brief supporting the [President](https://www.whitehouse.gov/)’s authority to remove [Cook](https://www.federalreserve.gov/aboutthefed/bios/board/cook.htm).
 Their argument:
 
-> “Any such restriction on the President’s authority to remove should be construed as narrowly as possible…”
+> “Any such restriction on the [President](https://www.whitehouse.gov/)’s authority to remove should be construed as narrowly as possible…”
 
-This is the unitary executive theory applied to the Fed — a theory that would collapse the wall between monetary policy and presidential control.
+This is the unitary executive theory applied to the [Fed](https://www.federalreserve.gov/) — a theory that would collapse the wall between monetary policy and presidential control.
 
-But the deeper point is that this coalition is pushing to redefine the Fed as an executive‑branch instrument, not an independent agency.
+But the deeper point is that this coalition is pushing to redefine the [Fed](https://www.federalreserve.gov/) as an executive‑branch instrument, not an independent agency.
 
 ---
 
-4. The Fed Pushes Back — Quietly but Institutionally
-Fed leadership took the extraordinary step of attending oral arguments in person — Powell, Bernanke, and others — signaling that the institution views this case as existential.
+4. The [Fed](https://www.federalreserve.gov/) Pushes Back — Quietly but Institutionally
+[Fed](https://www.federalreserve.gov/) leadership took the extraordinary step of attending oral arguments in person — Powell, Bernanke, and others — signaling that the institution views this case as existential.
 
-The Fed’s position is simple:
-- Governors serve 14‑year terms
+The [Fed](https://www.federalreserve.gov/)’s position is simple:
+- [Governors](https://www.federalreserve.gov/aboutthefed/bios/board/default.htm) serve 14‑year terms
 - They are protected from political retaliation
 - Monetary policy must remain insulated from presidential pressure
 
@@ -69,10 +69,10 @@ This is the architecture that has underpinned global confidence in U.S. financia
 You’ve been mapping this as part of a larger pattern:
 
 - The tariff ruling already clipped presidential power in foreign commerce.
-- The Cook case tests presidential power over independent governance.
+- The [Cook](https://www.federalreserve.gov/aboutthefed/bios/board/cook.htm) case tests presidential power over independent governance.
 - Together, they define the outer boundary of the modern presidency.
 
-The Cook case is the stress test for whether the United States still maintains:
+The [Cook](https://www.federalreserve.gov/aboutthefed/bios/board/cook.htm) case is the stress test for whether the United States still maintains:
 - independent monetary policy,
 - statutory guardrails,
 - and institutional resilience.
@@ -80,12 +80,12 @@ The Cook case is the stress test for whether the United States still maintains:
 ---
 
 6. The Stakes: Global Markets and U.S. Credibility
-If the President could fire a Fed Governor at will:
+If the [President](https://www.whitehouse.gov/) could fire a [Fed Governor](https://www.federalreserve.gov/aboutthefed/bios/board/default.htm) at will:
 - institutional investors would reassess U.S. stability,
 - foreign holders of Treasuries could diversify,
 - and the dollar’s reserve‑currency status would face pressure.
 
-> “The firing of Lisa Cook by tweet, without merit, illegal by the Federal Reserve Act.”
+> “The firing of [Lisa Cook](https://www.federalreserve.gov/aboutthefed/bios/board/cook.htm) by tweet, without merit, illegal by the [Federal Reserve Act](https://www.federalreserve.gov/aboutthefed/fract.htm).”
 
 It’s not about one governor — it’s about the architecture of global trust.
 
@@ -96,31 +96,31 @@ This conflict is not personal.
 It is not partisan.
 It is structural.
 
-The President is asserting the power to control an institution designed to be independent.
-The Federal Reserve is asserting the statutory and constitutional protections that keep monetary policy insulated from political pressure.
-The Supreme Court is being asked to decide which architecture survives.
+The [President](https://www.whitehouse.gov/) is asserting the power to control an institution designed to be independent.
+The [Federal Reserve](https://www.federalreserve.gov/) is asserting the statutory and constitutional protections that keep monetary policy insulated from political pressure.
+The [Supreme Court](https://www.supremecourt.gov/) is being asked to decide which architecture survives.
 
 That’s the battle — cleanly drawn.
 
 
 ---
 
-The Core Contradiction in Wilson’s “Unelected Bureaucrats” Rant
+The Core Contradiction in [Wilson](https://www.scag.gov/about-the-office/meet-the-attorney-general/)’s “Unelected Bureaucrats” Rant
 
-1. South Carolina’s executive branch is not elected — it is appointed.
-South Carolina voters elect:
-- Governor
-- Lt. Governor
-- Attorney General
+1. [South Carolina](https://www.sc.gov/)’s executive branch is not elected — it is appointed.
+[South Carolina](https://www.sc.gov/) voters elect:
+- [Governor](https://governor.sc.gov/)
+- [Lt. Governor](https://governor.sc.gov/lieutenant-governor)
+- [Attorney General](https://www.scag.gov/)
 - A handful of other constitutional officers
 
 But voters do not elect agency heads.
 They do not elect cabinet secretaries.
 They do not elect the directors who run the machinery of state government.
 
-Under South Carolina law, the governor appoints them.
+Under [South Carolina](https://www.sc.gov/) law, the [governor](https://governor.sc.gov/) appoints them.
 
-So if Wilson becomes governor, he will personally create:
+So if [Wilson](https://www.scag.gov/about-the-office/meet-the-attorney-general/) becomes [governor](https://governor.sc.gov/), he will personally create:
 - an entire cabinet of unelected bureaucrats,
 - dozens of agency heads who answer only to him,
 - and hundreds of political appointees embedded throughout state government.
@@ -130,13 +130,13 @@ That is how the system is designed.
 ---
 
 2. His rhetoric collapses under his own job description.
-When Wilson says:
+When [Wilson](https://www.scag.gov/about-the-office/meet-the-attorney-general/) says:
 
-> “The President gets to exercise executive power — not unelected bureaucrats.”
+> “The [President](https://www.whitehouse.gov/) gets to exercise executive power — not unelected bureaucrats.”
 
 He is trying to frame “unelected bureaucrats” as illegitimate.
 
-But if he becomes governor, he will:
+But if he becomes [governor](https://governor.sc.gov/), he will:
 - appoint them,
 - direct them,
 - rely on them,
@@ -144,41 +144,41 @@ But if he becomes governor, he will:
 
 He cannot govern without them.
 
-So the phrase “unelected bureaucrats” is not a principle — it’s a weaponized talking point that evaporates the moment he steps into the governor’s office.
+So the phrase “unelected bureaucrats” is not a principle — it’s a weaponized talking point that evaporates the moment he steps into the [governor](https://governor.sc.gov/)’s office.
 
 ---
 
-3. The Federal Reserve is not his playground.
-This is where your point about the Federal Reserve Act becomes decisive.
+3. The [Federal Reserve](https://www.federalreserve.gov/) is not his playground.
+This is where your point about the [Federal Reserve Act](https://www.federalreserve.gov/aboutthefed/fract.htm) becomes decisive.
 
-South Carolina’s agencies
-→ Governor appoints the heads
+[South Carolina](https://www.sc.gov/)’s agencies
+→ [Governor](https://governor.sc.gov/) appoints the heads
 → They are unelected
 → They serve at the governor’s pleasure
 → This is lawful and intended
 
-Federal Reserve Board Governors
-→ Appointed by the President
-→ Confirmed by the Senate
+[Federal Reserve](https://www.federalreserve.gov/) [Board Governors](https://www.federalreserve.gov/aboutthefed/bios/board/default.htm)
+→ Appointed by the [President](https://www.whitehouse.gov/)
+→ Confirmed by the [Senate](https://www.senate.gov/)
 → Serve 14‑year terms
 → Protected by statute
 → Removable only for cause, not at will
 
-Wilson can fire his own appointees.
-He cannot fire a Federal Reserve Governor.
-He cannot rewrite the Federal Reserve Act.
+[Wilson](https://www.scag.gov/about-the-office/meet-the-attorney-general/) can fire his own appointees.
+He cannot fire a [Federal Reserve Governor](https://www.federalreserve.gov/aboutthefed/bios/board/default.htm).
+He cannot rewrite the [Federal Reserve Act](https://www.federalreserve.gov/aboutthefed/fract.htm).
 He cannot convert an independent monetary authority into a gubernatorial cabinet agency.
 
-So when he claims the President should be able to remove Lisa Cook at will, he is applying South Carolina’s executive model to a federal independent agency where that model does not — and cannot — apply.
+So when he claims the [President](https://www.whitehouse.gov/) should be able to remove [Lisa Cook](https://www.federalreserve.gov/aboutthefed/bios/board/cook.htm) at will, he is applying [South Carolina](https://www.sc.gov/)’s executive model to a federal independent agency where that model does not — and cannot — apply.
 
 ---
 
 4. The contradiction is structural, not personal.
-This isn’t about whether Wilson likes Lisa Cook.
+This isn’t about whether, [Wilson](https://www.scag.gov/about-the-office/meet-the-attorney-general/) likes [Lisa Cook](https://www.federalreserve.gov/aboutthefed/bios/board/cook.htm).
 It’s about whether he understands the architecture of the institutions he’s talking about.
 
-- In South Carolina, unelected bureaucrats are his own team.
-- In the Federal Reserve, unelected governors are a statutory safeguard against political manipulation of monetary policy.
+- In [South Carolina](https://www.sc.gov/), unelected bureaucrats are his own team.
+- In the [Federal Reserve](https://www.federalreserve.gov/), unelected governors are a statutory safeguard against political manipulation of monetary policy.
 
 He collapses the distinction because the talking point is useful — not because it is accurate.
 
@@ -186,7 +186,7 @@ He collapses the distinction because the talking point is useful — not because
 
 1. The clean, archival formulation
 
-Wilson attacks “unelected bureaucrats” while running for an office whose power depends entirely on appointing unelected bureaucrats. South Carolina law gives the governor broad appointment authority; the Federal Reserve Act does not. His rhetoric applies to his own cabinet but not to the Federal Reserve, which is intentionally insulated from political control.
+[Wilson](https://www.scag.gov/about-the-office/meet-the-attorney-general/) attacks “unelected bureaucrats” while running for an office whose power depends entirely on appointing unelected bureaucrats. [South Carolina](https://www.sc.gov/) law gives the [governor](https://governor.sc.gov/) broad appointment authority; the [Federal Reserve Act](https://www.federalreserve.gov/aboutthefed/fract.htm) does not. His rhetoric applies to his own cabinet but not to the [Federal Reserve](https://www.federalreserve.gov/), which is intentionally insulated from political control.
 
 ---
 
@@ -194,7 +194,7 @@ Wilson attacks “unelected bureaucrats” while running for an office whose pow
 
 NOV 03, 2025
 
-(COLUMBIA, S.C.) – [South Carolina](https://www.sc.gov/) [Attorney General](https://www.scag.gov/) [Alan Wilson](https://www.scag.gov/about-the-office/meet-the-attorney-general/) joined [22 other states](https://republicanags.com/) in filing a friend-of-the-court brief supporting [President](https://www.whitehouse.gov/) [Trump](https://www.donaldjtrump.com/)’s authority to fire [Lisa Cook](https://www.federalreserve.gov/aboutthefed/bios/board/cook.htm), [Governor](https://www.federalreserve.gov/aboutthefed.htm) of the [Federal Reserve Board](https://www.federalreserve.gov/).
+([COLUMBIA](https://www.columbiasc.gov/), [S.C.](https://www.sc.gov/)) – [South Carolina](https://www.sc.gov/) [Attorney General](https://www.scag.gov/) [Alan Wilson](https://www.scag.gov/about-the-office/meet-the-attorney-general/) joined [22 other states](https://republicanags.com/) in filing a friend-of-the-court brief supporting [President](https://www.whitehouse.gov/) [Trump](https://www.donaldjtrump.com/)’s authority to fire [Lisa Cook](https://www.federalreserve.gov/aboutthefed/bios/board/cook.htm), [Governor](https://www.federalreserve.gov/aboutthefed.htm) of the [Federal Reserve Board](https://www.federalreserve.gov/).
 
 “I’m proud to stand with [President](https://www.whitehouse.gov/) [Trump](https://www.donaldjtrump.com/) in this case. I think the [Constitution](https://constitution.congress.gov/constitution/) and federal law give him the authority to fire her in these circumstances, and he is on solid ground in attempting to fire her for cause. At the end of the day, the [President](https://www.whitehouse.gov/) gets to exercise executive power—not unelected bureaucrats,” [Attorney General](https://www.scag.gov/) [Wilson](https://www.scag.gov/about-the-office/meet-the-attorney-general/) said.
 

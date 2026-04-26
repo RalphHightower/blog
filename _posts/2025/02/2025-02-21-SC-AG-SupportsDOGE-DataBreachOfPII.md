@@ -7,7 +7,7 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: "🚨 My Dumb State, South Carolina: Attorney General Alan Wilson Is Not Interested In Protecting South Carolinians' Personal Identifiable Information (PII) In the Biggest Data Breach of the US Treasury Central Payment System! 🚨"
+title: "🚨 My Dumb State: South Carolina Attorney General Alan Wilson Is Not Interested In Protecting South Carolinians' Personal Identifiable Information (PII) In the Biggest Data Breach of the US Treasury Central Payment System! 🚨"
 ---
 
 
@@ -15,7 +15,7 @@ title: "🚨 My Dumb State, South Carolina: Attorney General Alan Wilson Is Not 
 
 FEB 14, 2025
 
-**(COLUMBIA, S.C.)** – [South Carolina](https://www.sc.gov/) [Attorney General](https://www.scag.gov/) [Alan Wilson](https://www.scag.gov/about-the-office/meet-the-attorney-general/) today joined [19 other states](https://republicanags.com/) in defending [President Trump’s administration](https://www.whitehouse.gov/) against politically-motivated lawsuits attempting to stop his team from protecting taxpayer dollars.
+**([COLUMBIA](https://www.columbiasc.gov/), [S.C.](https://www.sc.gov/))** – [South Carolina](https://www.sc.gov/) [Attorney General](https://www.scag.gov/) [Alan Wilson](https://www.scag.gov/about-the-office/meet-the-attorney-general/) today joined [19 other states](https://republicanags.com/) in defending [President Trump’s administration](https://www.whitehouse.gov/) against politically-motivated lawsuits attempting to stop his team from protecting taxpayer dollars.
 
 When the American people elected [President Trump](https://www.whitehouse.gov/) in a decisive victory[^21], they also voted for his America First agenda. [President Trump](https://www.whitehouse.gov/) got straight to work by directing his [Department of Government Efficiency employees](https://www.scag.gov/) to investigate and cut billions of dollars in federal waste, fraud, and abuse. [President Trump’s](https://www.whitehouse.gov) political opponents are now suing to block his team from accessing federal databases with information needed to eliminate federal fraud.
 

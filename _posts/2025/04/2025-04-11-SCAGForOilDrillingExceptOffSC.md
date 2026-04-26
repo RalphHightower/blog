@@ -24,7 +24,7 @@ Renewable energy sources have so far been too unreliable and weak to replace fos
 
 [President](https://www.whitehouse.gov/) [Trump](https://www.donaldjtrump.com/)’s [Executive Order 14156](https://www.federalregister.gov/documents/2025/01/29/2025-02003/declaring-a-national-energy-emergency) declares a national energy emergency and restores and revitalizes our traditional energy sources, including coal-fired power plants. The Biden administration adopted anti-fossil fuel policies that reduced our nation’s energy production. “The result is the lowest level of coal production since 1960 – at a time when grid reliability is in a precarious state,” the attorneys general write in their letter.
 
-It's not just about keeping up with current needs, though. Artificial intelligence requires chips, data, and electricity. But we might soon lack adequate electricity, as American AI energy consumption is expected to increase dramatically over the next five years. “Without increased coal-fired energy production, we will not be ready to meet this spike in power demand,” the letter states. If current trends don’t change, China has the ability to surpass the United States as the world leader in AI.
+It's not just about keeping up with current needs, though. Artificial intelligence requires chips, data, and electricity. But we might soon lack adequate electricity, as American AI energy consumption is expected to increase dramatically over the next five years. “Without increased coal-fired energy production, we will not be ready to meet this spike in power demand,” the letter states. If current trends don’t change, [China](https://www.gov.cn/) has the ability to surpass the United States as the world leader in AI.
 
 The [attorneys general](https://republicanags.com/) say the U.S. is in an energy crisis, and if we fail to meet the demands of the AI industry and other key sectors, we will face increased threats to our prosperity and national security.
 
@@ -59,7 +59,7 @@ You can read the complaint [here](https://www.scag.gov/wp-content/uploads/2019/0
 - [Trumpian Attorneys General Association](https://republicanags.com/)
 - [Steve Marshall](https://www.alabamaag.gov/about/), [Attorney General](https://www.alabamaag.gov/) of [Alabama](https://www.alabama.gov/)
 - [Tim Griffin](https://arkansasag.gov/meet-tim/), [Attorney General](https://arkansasag.gov/) of [Arkansas](https://www.az.gov/) 
-- John Guard, [Acting Attorney General](https://www.myfloridalegal.com/) of [Florida](https://www.myflorida.com/)
+- John Guard, [Acting Attorney General](https://www.myfloridalegal.com/) of [Florida](https://www.myflorida.gov/)
 - [Chris Carr](https://georgia.gov/chris-carr), [Attorney General](https://law.georgia.gov/) of [Georgia](https://georgia.gov/) 
 - [Todd Rokita](https://www.in.gov/attorneygeneral/about-the-office/about-the-attorney-general/), [Attorney General](https://www.in.gov/attorneygeneral/) of [Indiana](https://www.in.gov/)
 - [Brenna Bird](https://www.iowaattorneygeneral.gov/about-us/about-attorney-general-brenna-bird), [Attorney General](https://www.iowaattorneygeneral.gov/) of [Iowa](https://iowa.gov/) 
