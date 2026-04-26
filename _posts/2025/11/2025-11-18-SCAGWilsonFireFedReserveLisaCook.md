@@ -13,7 +13,7 @@ title: "My Dumb State: South Carolina Attorney General Alan Wilson Wants To Conv
 In [Trump’s](https://www.donaldjtrump.com/) America, one is presumed guilty until proven innocent. 
 
 [Trump](https://www.donaldjtrump.com/) is severely lacking in business acumen. 
-1. He has bankrupted his [Trump Company](https://www.trump.com/)
+1. He has bankrupted his [Trump Company](https://www.trump.com/) six times. 
 2. Lost two casinos. How? When the house always wins?
 3. Lost an airline. 
 4. Lost a football team. 
@@ -44,11 +44,16 @@ Look at [Argentina](https://www.argentina.gob.ar/): their central bank answers t
 
 ### Hypocrisy on Bureaucrats: 
 
-[Wilson](https://www.scag.gov/about-the-office/meet-the-attorney-general/) rails against “unelected bureaucrats,” yet if elected governor, he will appoint unelected officials to run agencies. [Congress](https://www.congress.gov/) intentionally gave agencies long terms — [FBI](https://www.fbi.gov/) Director (10 years), [FTC](https://www.ftc.gov/) Commissioners (7 years) — to protect them from political meddling. Undermining that design erodes stability.
+[Wilson](https://www.scag.gov/about-the-office/meet-the-attorney-general/) rails against “unelected bureaucrats,” yet if elected [governor](https://governor.sc.gov/), he will appoint unelected officials to run agencies. [Congress](https://www.congress.gov/) intentionally gave agencies long terms — [FBI](https://www.fbi.gov/) Director (10 years), [FTC](https://www.ftc.gov/) Commissioners (7 years) — to protect them from political meddling. Undermining that design erodes stability.
 
 ### Closing: 
 
 [Attorney General](https://www.scag.gov/) [Wilson](https://www.scag.gov/about-the-office/meet-the-attorney-general/) should respect the independence of institutions rather than politicize them. America’s financial credibility depends on it.
+
+- [(803) 734-3970 *3 – Wilson, Alan (T)](tel:+18037343970)
+    - [ ] Spoke to staffer
+    - [x] Left voicemail
+    - [ ] Line busy / try again
 
 🎯 Why this works
 Concise: Each section is 2–3 sentences, perfect for a call.
