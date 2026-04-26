@@ -7,7 +7,7 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: "My Dumb State, South Carolina: Attorney General Alan Wilson Supports Trump’s Illegal, Lawless Firings Of Government Watchdogs"
+title: "My Dumb State: South Carolina Attorney General Alan Wilson Supports Trump’s Illegal, Lawless Firings Of Government Watchdogs"
 ---
 
 
@@ -15,12 +15,12 @@ title: "My Dumb State, South Carolina: Attorney General Alan Wilson Supports Tru
 
 FEB 24, 2025
 
-**(COLUMBIA, S.C.)** – Today, [South Carolina](https://www.sc.gov/) [Attorney General](https://www.scag.gov/) [Alan Wilson](https://www.scag.gov/about-the-office/meet-the-attorney-general/) joined [19 other state attorneys general](https://republicanags.com/) in filing a friend-of-the-court brief in the [United States](https://www.usa.gov/) [District Court for the District of Columbia](https://www.dcd.uscourts.gov/) to uphold the [President’s](https://www.whitehouse.gov/) constitutional at-will removal authority over executive branch officials. Within one week, [South Carolina](https://www.sc.gov/) has joined in [Bessent](https://home.treasury.gov/about/general-information/officials/scott-bessent) v. Dellinger, Storch v. Hegseth, and Wilcox v. [Trump](https://www.whitehouse.gov/), reinforcing the vital principles of separation of powers and state sovereignty.
+**([COLUMBIA](https://www.columbiasc.gov/), [S.C.](https://www.sc.gov/))** – Today, [South Carolina](https://www.sc.gov/) [Attorney General](https://www.scag.gov/) [Alan Wilson](https://www.scag.gov/about-the-office/meet-the-attorney-general/) joined [19 other state attorneys general](https://republicanags.com/) in filing a friend-of-the-court brief in the [United States](https://www.usa.gov/) [District Court for the District of Columbia](https://www.dcd.uscourts.gov/) to uphold the [President’s](https://www.whitehouse.gov/) constitutional at-will removal authority over executive branch officials. Within one week, [South Carolina](https://www.sc.gov/) has joined in [Bessent](https://home.treasury.gov/about/general-information/officials/scott-bessent) v. Dellinger, Storch v. Hegseth, and Wilcox v. [Trump](https://www.whitehouse.gov/), reinforcing the vital principles of separation of powers and state sovereignty.
 
 The three briefs defend [President Trump’s](https://www.whitehouse.gov/) ability to hire and fire cabinet officials within both the [executive branch](https://www.whitehouse.gov/) and independent agencies. Indeed, the [President](https://www.whitehouse.gov/)
  wields the [Constitutional authority](https://constitution.congress.gov/constitution/) to remove such officers without restrictions.
 
-“The [Constitution](https://constitution.congress.gov/constitution/) gives the [President](https://www.whitehouse.gov/) clear authority to manage the [executive branch](https://www.whitehouse.gov/), and that includes removing officials who no longer have his confidence,” said Attorney General [Wilson](https://www.scag.gov/about-the-office/meet-the-attorney-general/). “When [Congress](https://www.congress.gov/) or courts interfere with that power, they disrupt the accountability [South Carolinians](https://www.sc.gov/) and all Americans expect from their federal government. This case is about protecting the balance of power that safeguards our state’s sovereignty.”
+“The [Constitution](https://constitution.congress.gov/constitution/) gives the [President](https://www.whitehouse.gov/) clear authority to manage the [executive branch](https://www.whitehouse.gov/), and that includes removing officials who no longer have his confidence,” said [Attorney General](https://www.scag.gov/) [Wilson](https://www.scag.gov/about-the-office/meet-the-attorney-general/). “When [Congress](https://www.congress.gov/) or courts interfere with that power, they disrupt the accountability [South Carolinians](https://www.sc.gov/) and all Americans expect from their federal government. This case is about protecting the balance of power that safeguards our state’s sovereignty.”
 The [20-state coalition](https://republicanags.com/)—including [Alabama](https://www.alabamaag.gov/), [Alaska](https://law.alaska.gov/department/about.html), [Arkansas](https://arkansasag.gov/), [Florida](https://www.myfloridalegal.com/), [Georgia](https://law.georgia.gov/), [Indiana](https://www.in.gov/attorneygeneral/), [Iowa](https://www.iowaattorneygeneral.gov/j), [Kansas](https://www.ag.ks.gov/), [Louisiana](https://ag.louisiana.gov/), [Mississippi](https://www.ms.gov/Agencies/attorney-general), [Missouri](https://ago.mo.gov/), [Montana](https://dojmt.gov/), [Nebraska](https://ago.nebraska.gov/), [North Dakota](https://attorneygeneral.nd.gov/), [Ohio](https://www.ohioattorneygeneral.gov/), [Oklahoma](https://oklahoma.gov/oag.html), [South Dakota](https://atg.sd.gov/#gsc.tab=0), [Texas](https://www.texasattorneygeneral.gov/), and [West Virginia](https://ago.wv.gov/Pages/default.aspx)—warns that the concept of maintaining independent executive officers free from [Presidential](https://www.whitehouse.gov/) oversight threatens our Federalist system. Recent [Supreme Court](https://www.supremecourt.gov/) cases like Seila Law v. [CFPB](https://www.cfpb.gov/)  underscore the [President’s](https://www.whitehouse.gov/) plenary removal power and highlight the historical limits on judicial intervention in such cases.
 
 
@@ -30,9 +30,9 @@ The three cases are [Bessent](https://home.treasury.gov/about/general-informatio
 
 The as-filed briefs are available [here](https://www.scag.gov/media/onaat03s/dellinger-amicus-brief-final.pdf)[^1101], [here](https://www.scag.gov/media/znfepbrs/wilcox-amicus-brief-of-florida-and-19-states-2-21-25.pdf)[^1201], and [here](https://www.scag.gov/media/0w2doede/storch-amicus-brief-of-florida-and-19-other-states-in-support-of-defendants.pdf)[^1301].
 
-[^1101]: [Office of Special Counsel (OSC)](https://osc.gov/). The Office of Special Counsel (OSC) is an investigative and prosecutorial office that works to end government and political corruption and to protect government employees and whistleblowers.
+[^1101]: [Office of Special Counsel (OSC)](https://osc.gov/). The [Office of Special Counsel (OSC)](https://osc.gov/) is an investigative and prosecutorial office that works to end government and political corruption and to protect government employees and whistleblowers.
 
-[^1201]: Gwynne A. Wilcox[^1202] [National Labor Relations Board (NLRB)](https://www.nlrb.gov/). The National Labor Relations Board (NLRB) enforces the National Labor Relations Act by investigating allegations of wrong-doing brought by workers, unions, or employers, conducting elections, and deciding and resolving cases.
+[^1201]: Gwynne A. Wilcox[^1202] [National Labor Relations Board (NLRB)](https://www.nlrb.gov/). The [National Labor Relations Board (NLRB)](https://www.nlrb.gov/) enforces the National Labor Relations Act by investigating allegations of wrong-doing brought by workers, unions, or employers, conducting elections, and deciding and resolving cases.
 
 [^1202]: The Board has five Members and primarily acts as a quasi-judicial body in deciding cases on the basis of formal records in administrative proceedings. Board Members are appointed by the President to [5-year terms, with Senate consent, the term of one Member expiring each year](https://www.nlrb.gov/about-nlrb/who-we-are/the-board). Gwen Wilcox term does not end until August 27, 2028. This is another blatant example of [Trump](https://www.whitehouse.gov/administration/donald-j-trump/u) ignoring laws.
 
@@ -71,6 +71,7 @@ The as-filed briefs are available [here](https://www.scag.gov/media/onaat03s/del
 - [Constitution](https://constitution.congress.gov/constitution/)
 - [Treasury Department](https://home.treasury.gov/)
 - [Scott Bessent](https://home.treasury.gov/about/general-information/officials/scott-bessent)
+- [Office of Special Counsel](https://osc.gov/)
 - [President of the United States (POTUS)](https://www.whitehouse.gov/)
 - [White House (WH)](https://www.whitehouse.gov/)
 - [President Donald J Trump](https://www.whitehouse.gov/administration/donald-j-trump/)
