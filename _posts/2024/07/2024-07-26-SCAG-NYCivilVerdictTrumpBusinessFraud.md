@@ -7,7 +7,7 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: "My Dumb State, South Carolina: Attorney General Alan Wilson Whines About New York Fine of Trump Organization For 34 Felony Civil Guilty Verdicts of Business Records Falsification For Fraud (Financial, Insurance, Property Tax)"
+title: "My Dumb State: South Carolina Attorney General Alan Wilson Whines About New York Fine of Trump Organization For 34 Felony Civil Guilty Verdicts of Business Records Falsification For Fraud (Financial, Insurance, Property Tax)"
 ---
 
 
@@ -15,11 +15,11 @@ title: "My Dumb State, South Carolina: Attorney General Alan Wilson Whines About
 
 JUL 26, 2024
 
-COLUMBIA, [S.C.) – [South Carolina](https://www.sc.gov/) [Attorney General](https://www.scag.gov/) [Alan Wilson](https://www.scag.gov/about-the-office/meet-the-attorney-general/) led a [15-state coalition](https://republicanags.com/) in filing a brief today supporting former [President Trump’s](https://www.donaldjtrump.com/) appeal of a court ordering him to pay around [\$355 million](https://ag.ny.gov/press-release/2024/attorney-general-james-wins-landmark-victory-case-against-donald-trump) for allegedly making false real estate statements.
+[COLUMBIA](https://www.columbiasc.gov/), [S.C.) – [South Carolina](https://www.sc.gov/) [Attorney General](https://www.scag.gov/) [Alan Wilson](https://www.scag.gov/about-the-office/meet-the-attorney-general/) led a [15-state coalition](https://republicanags.com/) in filing a brief today supporting former [President](https://www.whitehouse.gov/) [Trump](https://www.donaldjtrump.com/)’s appeal of a court ordering him to pay around [\$355 million](https://ag.ny.gov/press-release/2024/attorney-general-james-wins-landmark-victory-case-against-donald-trump) for allegedly making false real estate statements.
 
-Earlier this year, a state court judge in [New York](https://www.ny.gov/) found [former President Trump](https://www.donaldjtrump.com/) liable for allegedly “[submitting false financial statements to banks and insurance companies to obtain better rates on loans and insurance coverage](https://ag.ny.gov/press-release/2021/statement-attorney-general-james-criminal-indictment-trump-organization-and-cfo).” The judge then awarded a “disgorgement of ill-gotten gains” against former President Trump in the amount of approximately [\$355 million](https://ag.ny.gov/press-release/2024/attorney-general-james-wins-landmark-victory-case-against-donald-trump), before pre-judgment interest. Mr. Trump has appealed to New York’s intermediate appellate court.
+Earlier this year, a state court judge in [New York](https://www.ny.gov/) found [former President](https://www.whitehouse.gov/) [Trump](https://www.donaldjtrump.com/) liable for allegedly “[submitting false financial statements to banks and insurance companies to obtain better rates on loans and insurance coverage](https://ag.ny.gov/press-release/2021/statement-attorney-general-james-criminal-indictment-trump-organization-and-cfo).” The judge then awarded a “disgorgement of ill-gotten gains” against former [President](https://www.whitehouse.gov/) [Trump](https://www.donaldjtrump.com/) in the amount of approximately [\$355 million](https://ag.ny.gov/press-release/2024/attorney-general-james-wins-landmark-victory-case-against-donald-trump), before pre-judgment interest. [Mr. Trump](https://www.donaldjtrump.com/) has appealed to [New York](https://www.ny.gov/)’s intermediate appellate court.
 
-“Our brief isn’t about [Donald Trump](https://www.donaldjtrump.com/), it’s about upholding the rule of law and the [Constitution](https://constitution.congress.gov/),” [Attorney General](https://www.scag.gov/) [Wilson](https://www.scag.gov/about-the-office/meet-the-attorney-general/) said. “We argue that this award is an excessive fine under the [Eighth Amendment](https://constitution.congress.gov/constitution/amendment-8/) and also violates the Due Process Clause of the [Fourteenth Amendment](https://constitution.congress.gov/constitution/amendment-14/).”
+“Our brief isn’t about [Donald Trump](https://www.donaldjtrump.com/), it’s about upholding the rule of law and the [Constitution](https://constitution.congress.gov/constitution/),” [Attorney General](https://www.scag.gov/) [Wilson](https://www.scag.gov/about-the-office/meet-the-attorney-general/) said. “We argue that this award is an excessive fine under the [Eighth Amendment](https://constitution.congress.gov/constitution/amendment-8/) and also violates the [Due Process Clause](https://constitution.congress.gov/constitution/amendment-14/#amendment-14-section-1) of the [Fourteenth Amendment](https://constitution.congress.gov/constitution/amendment-14/).”
 
 The citizens of [South Carolina](https://www.sc.gov/) and the other states in this coalition conduct business in [New York](https://www.ny.gov/), primarily [New York City](https://www.nyc.gov/), [the brief states](https://ag.ny.gov/press-release/2021/statement-attorney-general-james-criminal-indictment-trump-organization-and-cfo), “And they need confidence that their customary business dealings in [New York](https://www.ny.gov/) will not subject them to devastating fines. The [Supreme Court’s](https://www.supremecourt.gov/) disgorgement order will have a chilling effect on business conducted by citizens of amici states.”
 
@@ -30,7 +30,7 @@ You can read the brief [here](https://www.scag.gov/media/3nzpqgev/ny-v-trump-sta
 - [Steve Marshall](https://www.alabamaag.gov/about/) – [Attorney General](https://www.alabamaag.gov/) of [Alabama](https://www.alabama.gov/)
 - Treg Taylor, [Attorney General](https://law.alaska.gov/department/about.html) of [Alaska](https://www.alaska.gov/)
 - [Tim Griffin](https://arkansasag.gov/meet-tim/) – [Attorney General](https://arkansasag.gov/) of [Arkansas](https://www.az.gov/)
-- John Guard – [Acting Attorney General](https://www.myfloridalegal.com/) of [Florida](https://www.myflorida.com/)
+- John Guard – [Acting Attorney General](https://www.myfloridalegal.com/) of [Florida](https://www.myflorida.gov/)
 - [Chris Carr](https://georgia.gov/chris-carr) – [Attorney General](https://law.georgia.gov/) of [Georgia](https://georgia.gov/)
 - [Todd Rokita](https://www.in.gov/attorneygeneral/about-the-office/about-the-attorney-general/) – [Attorney General](https://www.in.gov/attorneygeneral/) of [Indiana](https://www.in.gov/)
 - [Raúl Labrador](https://www.ag.idaho.gov/about/) – [Attorney General](https://www.ag.idaho.gov/) of [Idaho](https://www.idaho.gov/)
@@ -97,7 +97,7 @@ You can read the brief [here](https://www.scag.gov/media/3nzpqgev/ny-v-trump-sta
 - [New York State Attorney General](https://ag.ny.gov/)
 - [Letitia James / New York State Attorney General](https://ag.ny.gov/about/meet-letitia-james)
 
-- [Constitution](https://constitution.congress.gov/)
+- [Constitution](https://constitution.congress.gov/constitution/)
 - [U.S. Constitution - Eighth Amendment / Resources / Constitution Annotated / Congress.gov / Library of Congress](https://constitution.congress.gov/constitution/amendment-8/)
 - [U.S. Constitution - Fourteenth Amendment / Resources / Constitution Annotated / Congress.gov / Library of Congress](https://constitution.congress.gov/constitution/amendment-14/)
 - [Department of Justice (DOJ)](https://www.justice.gov/)
