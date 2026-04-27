@@ -591,8 +591,8 @@ If a security issue is found, I can be notified by one of the following methods:
 <script>
 
 // Set your dates here (year, month (0-based), day, hour, minute)
-const startDate = new Date(2025, 0, 19, 0, 0);     // Jan 20, 2025 12:00 PM
-const endDate = new Date(2029, 0, 20, 12, 0, 0);      // Jan 20, 2029, 12:00 PM
+const startPresidency47 = new Date("2025-01-19T12:00:00-05:00");     // Jan 20, 2025 12:00 PM
+const endPresidency47 = new Date("2029-01-20T12:00:00-05:00");      // Jan 20, 2029, 12:00 PM
 
 const warStart = new Date("2026-02-27T20:48:00Z"); // <-- adjust as needed
 
@@ -803,9 +803,9 @@ function updateCounters() {
     setElementText('current-time', now.toString());
     // Set time to noon for today
     now.setHours(12, 0, 0, 0);
-    const daysSince = getDaysDiff(startDate, now);
-    const daysRemaining = getDaysDiff(now, endDate);
-    const daysTotal = getDaysDiff(startDate, endDate);
+    const daysSince = getDaysDiff(startPresidency47, now);
+    const daysRemaining = getDaysDiff(now, endPresidency47);
+    const daysTotal = getDaysDiff(startPresidency47, endPresidency47);
     const pctTermCompleted = daysSince / daysTotal;
     const pctTermRemaing = daysRemaining / daysTotal;
 
