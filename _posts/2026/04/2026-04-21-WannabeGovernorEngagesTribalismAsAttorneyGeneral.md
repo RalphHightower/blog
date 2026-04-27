@@ -15,16 +15,15 @@ title: "My Dumb State: Wannabe Governor Engages Tribalism As Attorney General"
 📞 Voicemail Script (Revised With Tribalism)
 (20–25 seconds)
 
-Hi, this is Ralph Hightower from Chapin.
-My allegiance is to America – Country Over Party. I was an independent voter for decades, and I only voted straight‑ticket [Democrat](https://www.democrats.org/) in 2018 because, in my view, [Donald Trump](https://www.donaldjtrump.com/) corrupted the [Republican Party](https://www.gop.com/)’s values and normalized tribalism — dividing Americans into opposing camps.
+Hi, my name is Ralph Hightower, a constituent from Chapin. South Carolina. My allegiance is to America – Country Over Party. I was an independent voter for decades, and I only started voting straight‑ticket [Democrat](https://www.democrats.org/) in 2018 because, in my view, [Donald Trump](https://www.donaldjtrump.com/) corrupted the [Republican Party](https://www.gop.com/)’s values and normalized tribalism — further fracturing Americans into opposing camps.
 
-Now I see [Attorney General](https://www.scag.gov/) [Alan Wilson](https://www.scag.gov/about-the-office/meet-the-attorney-general/) using similar tribal language, calling [Democrats](https://www.democrats.org/) “left‑leaning activists” in an official press release. [South Carolina](https://www.sc.gov/) governors average 54.81% of the vote over four election cycles.
+Now I see [Attorney General](https://www.scag.gov/) [Alan Wilson](https://www.scag.gov/about-the-office/meet-the-attorney-general/) using similar tribal language, calling [Democrats](https://www.democrats.org/) “left‑leaning activists” in an official press release dated April 21 2026. [South Carolina](https://www.sc.gov/) governors average 54.81% of the vote over four election cycles.
 
 If he wants to be [governor](https://governor.sc.gov/), does he plan to serve all [South Carolinians](https://www.sc.gov/), or only the narrow majority that agrees with him?
 
 - [(803) 734-3970 *3 – Wilson, Alan (T)](tel:+18037343970)
     - [ ] Spoke to staffer
-    - [ ] Left voicemail
+    - [x] Left voicemail
     - [ ] Line busy / try again
 
 ---
@@ -35,11 +34,11 @@ Subject: Concern About Tribal Language in [Attorney General](https://www.scag.go
 
 Hello,
 
-My name is Ralph Hightower, and I live in Chapin. My allegiance is to America — Country Over Party. I was an independent voter from 1972 through 2018. I voted straight‑ticket [Democrat](https://www.democrats.org/) for the first time in 2018 because, in my view, [Donald Trump](https://www.donaldjtrump.com/) perverted — meaning corrupted — the values of the [Republican Party](https://www.gop.com/) and normalized a style of tribalism that divides Americans into opposing groups.
+My name is Ralph Hightower, and I live in Chapin. My allegiance is to America — Country Over Party. I was an independent voter from 1972 through 2018. I started voting straight‑ticket [Democrat](https://www.democrats.org/) for the first time in 2018 because, in my view, [Donald Trump](https://www.donaldjtrump.com/) perverted — meaning corrupted — the values of the [Republican Party](https://www.gop.com/) and normalized a style of tribalism that divides Americans into opposing groups.
 
 This pattern includes labeling political opponents as “radical leftists” or “communists,” and it contributes to what many people describe as the Divided States of America.
 
-I was concerned to see [Attorney General](https://www.scag.gov/) [Alan Wilson](https://www.scag.gov/about-the-office/meet-the-attorney-general/) adopt similar tribal language in his recent press release, referring to [Democrats](https://www.democrats.org/) as “left‑leaning activists.” For someone now running for [governor](https://governor.sc.gov/), this raises an important question about whether he intends to govern for the entire state.
+I was concerned to see [Attorney General](https://www.scag.gov/) [Alan Wilson](https://www.scag.gov/about-the-office/meet-the-attorney-general/) adopt similar tribal language in his recent press release dated April 21 2026, referring to [Democrats](https://www.democrats.org/) as “left‑leaning activists.” For someone now running for [governor](https://governor.sc.gov/), this raises an important question about whether he intends to govern for the entire state.
 
 [South Carolina](https://www.sc.gov/) governors have averaged 54.81% of the vote over the last four elections. With that in mind:
 
