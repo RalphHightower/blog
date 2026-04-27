@@ -802,7 +802,7 @@ function updateCounters() {
     const now = new Date();
     setElementText('current-time', now.toString());
     // Set time to noon for today
-    now.setHours(12, 0, 0, 0);
+    //now.setHours(12, 0, 0, 0);
     const daysSince = getDaysDiff(startPresidency47, now);
     const daysRemaining = getDaysDiff(now, endPresidency47);
     const daysTotal = getDaysDiff(startPresidency47, endPresidency47);
