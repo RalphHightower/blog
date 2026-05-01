@@ -20,6 +20,14 @@ The telephone numbers below have called and there is an empty person on the othe
 
 | Telephone Number | Location | Date Time[^11]<sup>,</sup>[^12] | Caller | Social Media |
 |---|---|---|---|---|
+| [\+1 (803) 570-7621](tel:+18035707621) | SC. Orangeburg | 2026-04-30 11:20 AM | | |
+| [\+1 (803) 321-2406](tel:+18033212406) | SC. Newberry | 2026-04-29 06:09 PM | FIRST COMMUNITY | |
+| [\+1 (803) 492-5635](tel:+18034925635) | SC. Eutawville | 2026-04-29 03:34 PM | | |
+| [\+1 (803) 739-6807](tel:+18037396807) | SC. Columbia | 2026-04-28 01:36 PM MCGEE | — | |
+| [\+1 (281) 674-1562](tel:+12816741562) | TX. Houston | 2026-04-24 06:14 PM | [Ovintiv](https://www.ovintiv.com/) | |
+| [\+1 (803) 358-0657](tel:+18033580657) | SC. Lexington | 2026-04-24 01:23 PM | DAWN W FELLERS | |
+| [\+1 (803) 529-1604](tel:+18035291604) | SC. Columbia | 2026-04-24 09:48 AM ¤¤ | MOHAMMAD M ISLAM | |
+| [\+1 (803) 529-1604](tel:+18035291604) | SC. Columbia | 2026-04-24 09:47 AM | MOHAMMAD M ISLAM | |
 | [\+1 (803) 255-2475](tel:+18032552475) | SC. Columbia | 2026-04-23 03:43 PM | |
 | [\+1 (803) 202-7548](tel:+18032027548) | SC. North Augusta | 2026-04-23 01:32 PM | |
 | [\+1 (803) 349-3796](tel:+18033493796) | SC. Beech Island | 2026-04-23 10:11 AM | ROBINSON BYRON |
