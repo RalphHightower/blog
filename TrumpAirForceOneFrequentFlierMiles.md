@@ -16,13 +16,19 @@ toc: true
 [^666]: @RalphHightower – [Federal Aviation Administration - Graphic TFRs](https://tfr.faa.gov/tfr3/?page=list)
 [^966]: Saudi Private Investment Fund – [Future Investment Initiative Institute](https://en.wikipedia.org/wiki/Future_Investment_Initiative_Institute?wprov=sfla1)
 
+## Golf Tournaments At Trump Properties 
+
+- [AUG 06-09, 2026](https://www.livgolf.com/schedule/new-york-2026/)</>Trump National Golf Club Bedminster, NJ, USA
+- [MAY 07-10, 2026](https://www.livgolf.com/schedule/virginia-2026/) – Liv Golf</>Trump National Golf Club, Washington, D.C., USA
+- ~~[APR 04-06, 2025](https://www.livgolf.com/schedule/miami-2025/leaderboard) – Liv Golf</>Trump National Doral, USA~~
+
 ## Legends To Symbols in Date Fields
 - 🔥💰💸 = Full Government Shutdown; 
     - 2025-10-01 – 2025-11-12
     - 2026-01-31 – 2026-02-03
 - 🔥💸  = Partial Government Shutdown
     - 2026-01-31 – 2026-02-03
-    --2026-02-14 – 
+    - 2026-02-14 – 2026-04-30
 - 💰💸 = Fund Raising Activities
 - 🪖🪂 = Iran War 2026-02-27 – 
 - 💰💰💸💸 Fundraiser
