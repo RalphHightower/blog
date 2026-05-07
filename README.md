@@ -174,11 +174,6 @@ At the third <a href="https://www.nokings.org/">No Kings Rally</a> in South Caro
 
 </div><!-- NoKings 2026-05-01T20:00:00Z -->
 
-When agents encounter strangers, the Fourth Amendment imposes three core limitations:
-
-1. If, and only if, agents have developed probable cause that a person is guilty of a crime, they can arrest them—restrain their physical movements. That includes, of course, Americans or anyone else who assaults law enforcement.
-2. At all times, including during arrests, agents may not employ force that is unreasonable under the circumstances.
-
 ## Events & Culture
 
 This section documents cultural moments that intersect with America’s civic turbulence. These aren’t entertainment notes or fan‑scrapbook entries; they’re artifacts that reflect the national mood, the pressure in the system, and the ways artists, communities, and public gatherings respond to it. Some events function as release valves, some as mirrors, and some — like Springsteen’s Land of Hope and Dreams tour — operate as full‑scale, collective protest without ever using the word.
@@ -590,16 +585,28 @@ If a security issue is found, I can be notified by one of the following methods:
 
 <script>
 
-// Set your dates here (year, month (0-based), day, hour, minute)
-const startPresidency47 = new Date("2025-01-19T12:00:00-05:00");     // Jan 20, 2025 12:00 PM
-const endPresidency47 = new Date("2029-01-20T12:00:00-05:00");      // Jan 20, 2029, 12:00 PM
+function fourthAmendment() {
+//When agents encounter strangers, the Fourth Amendment imposes three core limitations:
+//
+//1. If, and only if, agents have developed probable cause that a person is guilty of a crime, they can arrest them—restrain their physical movements. That includes, of course, Americans or anyone else who assaults law enforcement.
+//2. At all times, including during arrests, agents may not employ force that is unreasonable under the circumstances.
+}
 
-const warStart = new Date("2026-02-27T20:48:00Z"); // <-- adjust as needed
+// Set your dates here (year, month (0-based), day, hour, minute)
+const startPresidency47 = toNY(new Date("2025-01-19T12:00:00-05:00"));     // Jan 20, 2025 12:00 PM
+const endPresidency47 = toNY(new Date("2029-01-20T12:00:00-05:00"));      // Jan 20, 2029, 12:00 PM
 
 // Set your war start timestamp (UTC recommended)
+const warStart = new Date("2026-02-27T20:48:00Z"); // <-- adjust as needed
+
+function toNY(d) {
+  return new Date(
+    d.toLocaleString("en-US", { timeZone: "America/New_York" })
+  );
+}
 
 function iranWar2026(divID) {
-    const now = new Date();
+    const now = toNY(new Date());
     timeSpan = getTimeSpan(warStart, now);
     fmtWarElapsed = formatElapsed(timeSpan);
     setElementText(divID, fmtWarElapsed);
@@ -623,8 +630,8 @@ function formatElapsed(ms) {
 }
 
 function displayBegin(divid, dateBegin) {
-    const now = new Date();
-    const begin = new Date(dateBegin);
+    const now = toNY(new Date());
+    const begin = toNY(new Date(dateBegin));
     const span = getTimeSpan(begin, now);
 
     if (span > 0) {
@@ -635,8 +642,8 @@ function displayBegin(divid, dateBegin) {
 }
 
 function displayEnd(divid, dateEnd) {
-    const now = new Date();
-    const end = new Date(dateEnd);
+    const now = toNY(new Date());
+    const end = toNY(new Date(dateEnd));
     span = getTimeSpan(now, end);
     if (span > 0)
         hideElement(divid);
@@ -668,7 +675,7 @@ function updateCountdown(id, targetTime, mode) {
     const el = document.getElementById(id);
     if (!el) return;
 
-    const now = Date.now();
+    const now = (Date.now());
     const to  = new Date(targetTime).getTime();
 
     const diff = getTimeSpan(now, to);
