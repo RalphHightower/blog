@@ -593,7 +593,7 @@ function fourthAmendment() {
 }
 
 // Set your dates here (year, month (0-based), day, hour, minute)
-const startPresidency47 = toNY(new Date("2025-01-19T12:00:00-05:00"));     // Jan 20, 2025 12:00 PM
+const startPresidency47 = new Date("2025-01-19T12:00:00-05:00");     // Jan 20, 2025 12:00 PM
 const endPresidency47 = toNY(new Date("2029-01-20T12:00:00-05:00"));      // Jan 20, 2029, 12:00 PM
 
 // Set your war start timestamp (UTC recommended)

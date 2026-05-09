@@ -20,6 +20,10 @@ The telephone numbers below have called and there is an empty person on the othe
 
 | Telephone Number | Location | Date Time[^11]<sup>,</sup>[^12] | Caller | Social Media |
 |---|---|---|---|---|
+| [\+1 (803) 757-7293](tel:+18037577293) | SC. Sumter | 2026-05-08 05:48 PM | — | |
+| [\+1 (803) 746-4159](tel:+18037464159) | SC. Clover | 2026-05-08 05:10 PM | | |
+| [\+1 (803) 642-0596](tel:+18036420596) | SC. Aiken | 2026-05-01 12:59 PM | DENNI MOSELEY | |
+| [\+1 (803) 894-6218](tel:+18038946218) | SC. Pelion | 2026-05-01 11:42 AM | Misty Barr (HILL DARRYL) | |
 | [\+1 (803) 570-7621](tel:+18035707621) | SC. Orangeburg | 2026-04-30 11:20 AM | | |
 | [\+1 (803) 321-2406](tel:+18033212406) | SC. Newberry | 2026-04-29 06:09 PM | FIRST COMMUNITY | |
 | [\+1 (803) 492-5635](tel:+18034925635) | SC. Eutawville | 2026-04-29 03:34 PM | | |
