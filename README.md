@@ -1,6 +1,5 @@
 ---
 layout: base_toc
-title: Ralph Hightower’s blog. Trying to Save Democracy. Country Over Party
 toc: true
 ---
 
