@@ -20,7 +20,7 @@ toc: true
 
 - [AUG 06-09, 2026](https://www.livgolf.com/schedule/new-york-2026/)<br />[Trump National Golf Club Bedminster, NJ, USA](https://www.trumpnationalbedminster.com/)
 - [MAY 07-10, 2026](https://www.livgolf.com/schedule/virginia-2026/) – Liv Golf<br />[Trump National Golf Club, Washington, D.C., USA](https://www.trumpnationaldc.com/)
-- ~~[APR 04-06, 2025](https://www.livgolf.com/schedule/miami-2025/leaderboard) – Liv Golf<br />[[Trump National Doral, USA](https://www.trumpgolfdoral.com/)~~
+- ~~[APR 04-06, 2025](https://www.livgolf.com/schedule/miami-2025/leaderboard) – Liv Golf<br />[Trump National Doral, USA](https://www.trumpgolfdoral.com/)~~
 
 ## Legends To Symbols in Date Fields
 - 🔥💰💸 = Full Government Shutdown; 
