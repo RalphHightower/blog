@@ -7,7 +7,7 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: "Trump On Casualties If War: It Happens"
+title: "Trump On Casualties Of War: It Happens"
 ---
 
 

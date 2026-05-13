@@ -45,7 +45,7 @@ For [Troye](https://www.linkedin.com/in/oftroye/), however, framing the conflict
 
 > **Administration officials point to the efficacy of America’s military campaign.**
 
-Administration officials point to the efficacy of America’s military campaign as evidence for their assertions. The [Pentagon](https;//www.jcs.mil/) on Tuesday repeated estimates that [Iran](https://irangov.ir/)’s ballistic missile attacks have decreased by 90% since the onset of the war, while one-way attack drone strikes have declined by 83%.
+Administration officials point to the efficacy of America’s military campaign as evidence for their assertions. The [Pentagon](https://www.jcs.mil/) on Tuesday repeated estimates that [Iran](https://irangov.ir/)’s ballistic missile attacks have decreased by 90% since the onset of the war, while one-way attack drone strikes have declined by 83%.
 
 “We’re winning decisively with brutal efficiency, total air dominance and an unbreakable will to accomplish the [president](https://www.whitehouse.gov/)’s objectives,” [Defense](https://www.defense.gov/) [Secretary Pete Hegseth](https://www.defense.gov/About/Biographies/Biography/Article/4040890/hon-pete-hegseth/) said at a recent press briefing.
 
@@ -83,7 +83,7 @@ Akayla Gardner is a White House correspondent for MS NOW.
     - [Ministry of Foreign Affairs (IR)](http://www.mfa.gov.ir/)
         - [Foreign Minister Abbas Araghchi](http://www.mfa.gov.ir/)
     - [Supreme Leader Ayatollah Ali Khamenei](https://www.leader.ir/)
-    - [Islamic Revolutionary Guard Corps (IRGC)](https://sepahnews.ir)
+    - [Islamic Revolutionary Guard Corps (IRGC)](https://sepahnews.ir/)
     - [Tehran](https://tehran.ir/)
 - [Venezuela](https://gob.ve/)
     - [M.P.P.D.P.S.G.G. (main) website](https://presidencia.gob.ve/Site/Web/Principal/paginas/classIndex.php)

@@ -33,7 +33,7 @@ The [Navy](https://www.navy.mil/) recently decommissioned [four aging mine sweep
 
 “Mine countermeasure routinely found itself at the bottom of the priority list,” he said. “The amount of capacity the [Navy](https://www.navy.mil/) has was never much and dwindled over time.”
 
-The [Trump](https://www.donaldjtrump.com/) [White House](https://www.whitehouse.gov/)’s rush to war doesn’t appear to have allowed time to move adequate resources into the region, according to Gen. Mark Hertling, a former general and [MS NOW](https;//www.ms.now/) national security contributor. “It’s just a lack of understanding,” he said, “fueled by [[Defense](https://www.defense.gov/) [Secretary Pete](https://www.defense.gov/About/Biographies/Biography/Article/4040890/hon-pete-hegseth/)] [Hegseth](https://www.defense.gov/About/Biographies/Biography/Article/4040890/hon-pete-hegseth/) and [Trump](https://www.donaldjtrump.com/) not having an understanding of how the military works.”
+The [Trump](https://www.donaldjtrump.com/) [White House](https://www.whitehouse.gov/)’s rush to war doesn’t appear to have allowed time to move adequate resources into the region, according to Gen. Mark Hertling, a former general and [MS NOW](https://www.ms.now/) national security contributor. “It’s just a lack of understanding,” he said, “fueled by [[Defense](https://www.defense.gov/) [Secretary Pete](https://www.defense.gov/About/Biographies/Biography/Article/4040890/hon-pete-hegseth/)] [Hegseth](https://www.defense.gov/About/Biographies/Biography/Article/4040890/hon-pete-hegseth/) and [Trump](https://www.donaldjtrump.com/) not having an understanding of how the military works.”
 
 On March 3, three days after the strikes began, [Donald Trump](https://www.donaldjtrump.com/) announced that “the United States [Navy](https://www.navy.mil/) will begin escorting tankers through the Strait of Hormuz, as soon as possible.” But when captains of oil tankers contacted the [U.S. Navy](https://www.navy.mil/) escorts, they were [told no ships were available](https://www.reuters.com/world/middle-east/us-navy-tells-shipping-industry-hormuz-escorts-not-possible-now-2026-03-10/).
 
@@ -47,7 +47,7 @@ As [Iran](https://irangov.ir/) has [fired on several ships](https://www.pbs.org/
 
 On Tuesday, [Energy](https://www.energy.gov/) [Secretary](https://www.energy.gov/person/chris-wright) [Chris Wright posted on X](https://www.ms.now/rachel-maddow-show/maddowblog/energy-secretarys-strait-of-hormuz-tweet-reflects-team-trumps-incompetence) that a [Navy](https://www.navy.mil/) ship had escorted a tanker through the strait. After the [White House](https://www.whitehouse.gov/) said that was false, [Wright](https://www.energy.gov/person/chris-wright) deleted the post, blaming it on a staffer.
 
-[Wright](https://www.energy.gov/person/chris-wright) said Thursday in an interview on [CNBC](https;//www.cnbc.com/) that [Navy](https://www.navy.mil/) escorts would begin “relatively soon.” “We’re not ready,” he said. “All of our military assets are focused on destroying [Iran](https://irangov.ir/)’s offensive capabilities.” Asked if escorts would begin by April, he replied, it was “quite likely” but declined to give an exact date.
+[Wright](https://www.energy.gov/person/chris-wright) said Thursday in an interview on [CNBC](https://www.cnbc.com/) that [Navy](https://www.navy.mil/) escorts would begin “relatively soon.” “We’re not ready,” he said. “All of our military assets are focused on destroying [Iran](https://irangov.ir/)’s offensive capabilities.” Asked if escorts would begin by April, he replied, it was “quite likely” but declined to give an exact date.
 
 [Treasury](https://home.treasury.gov/) [Secretary Scott Bessent](https://home.treasury.gov/about/general-information/officials/scott-bessent) said on Thursday that U.S. naval ships would escort tankers, also without offering a timeline for how quickly that could happen. [Hegseth](https://www.defense.gov/About/Biographies/Biography/Article/4040890/hon-pete-hegseth/) made similar assurances the next day, also with no clarity on timing.
 
@@ -55,7 +55,7 @@ On Tuesday, [Energy](https://www.energy.gov/) [Secretary](https://www.energy.gov
 
 “I don’t think the admin understands the global impact of this,” he said. “What we have done is put a clamp on the femoral artery” of the world’s oil supply.
 
-David Rohde is the senior national security reporter for [MS NOW](https;//www.ms.now/). Previously he was the senior executive editor for national security and law for [NBC News](https://www.nbcnews.com/).
+David Rohde is the senior national security reporter for [MS NOW](https://www.ms.now/). Previously he was the senior executive editor for national security and law for [NBC News](https://www.nbcnews.com/).
 
 ----
 - media
@@ -80,7 +80,7 @@ David Rohde is the senior national security reporter for [MS NOW](https;//www.ms
 - [Bahrain (BH)](https://bahrain.bh/)
 - [Islamic Republic of Iran (IR)](https://irangov.ir/)
     - [Ministry of Foreign Affairs (IR)](http://www.mfa.gov.ir/)
-    - [Islamic Revolutionary Guard Corps (IRGC)](https://sepahnews.ir)
+    - [Islamic Revolutionary Guard Corps (IRGC)](https://sepahnews.ir/)
     - [Tehran](https://tehran.ir/)
 - federal government
 - [Constitution of the United States](https://constitution.congress.gov/constitution/)

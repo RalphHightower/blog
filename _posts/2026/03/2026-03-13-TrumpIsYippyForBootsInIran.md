@@ -53,7 +53,7 @@ When [Speaker](https://speaker.house.gov/) [Mike Johnson (T-LA4)](https://mikejo
 
 “We have asserted ourselves,” [Johnson](https://mikejohnson.house.gov/) claimed. “The [president](https://www.whitehouse.gov/), up to this moment, and his [administration](https://www.whitehouse.gov/administration/) have complied in every way with every provision of law.”
 
-Speaking at the [House](https://www.house.gov/) [GOP](https://www.gop.com/) retreat in [Florida](https;//www.myflorida.gov/), [Johnson](https://mikejohnson.house.gov/) suggested the [White House](https://www.whitehouse.gov/) had fulfilled its “legal obligation” by keeping [Congress](https://www.congress.gov/) informed “during the operation.”
+Speaking at the [House](https://www.house.gov/) [GOP](https://www.gop.com/) retreat in [Florida](https://www.myflorida.gov/), [Johnson](https://mikejohnson.house.gov/) suggested the [White House](https://www.whitehouse.gov/) had fulfilled its “legal obligation” by keeping [Congress](https://www.congress.gov/) informed “during the operation.”
 
 “If it comes to a declaration of war, then [Congress](https://www.congress.gov/) would still act and exercise its authority,” [Johnson](https://mikejohnson.house.gov/) said. “But we all know that that has not happened in many decades, in spite of the various excursions we’ve been involved in.”
 
@@ -133,7 +133,7 @@ Jack Fitzpatrick, Nora McKee, and Peggy Helman contributed to this report.
     - [Ministry of Foreign Affairs (IR)](http://www.mfa.gov.ir/)
         - [Foreign Minister Abbas Araghchi](http://www.mfa.gov.ir/)
     - [Supreme Leader Ayatollah Ali Khamenei](https://www.leader.ir/)
-    - [Islamic Revolutionary Guard Corps (IRGC)](https://sepahnews.ir)
+    - [Islamic Revolutionary Guard Corps (IRGC)](https://sepahnews.ir/)
     - [Tehran](https://tehran.ir/)
 - [Venezuela](https://gob.ve/)
     - [M.P.P.D.P.S.G.G. (main) website](https://presidencia.gob.ve/Site/Web/Principal/paginas/classIndex.php)
