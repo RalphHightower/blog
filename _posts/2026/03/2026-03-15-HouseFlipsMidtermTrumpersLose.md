@@ -43,7 +43,7 @@ He called on the [House](https://www.house.gov/) [GOP](https://www.gop.com/) to 
 “Because America wants it,” [Burchett](https://burchett.house.gov/) said.
 
 ‘They see [Congress](https://www.congress.gov/) as a bunch of do-nothing, kind of idiots’
-Those sentiments came into clear view on March 1, when [House](https://www.house.gov/) [Republicans](https://www.whitehouse.gov/) convened for a member-only call that was meant to focus on the joint U.S.-[Israeli](https;//www.gov.il/) strikes on [Iran](https://irangov.ir/) — which began one day earlier — but quickly devolved into an airing of grievances over the party’s lack of accomplishments and struggles surrounding the passage of the [SAVE America Act](https://www.congress.gov/bill/119th-congress/house-bill/7296), which would require voter ID to cast a ballot and proof of citizenship to register to vote.
+Those sentiments came into clear view on March 1, when [House](https://www.house.gov/) [Republicans](https://www.whitehouse.gov/) convened for a member-only call that was meant to focus on the joint U.S.-[Israeli](https://www.gov.il/) strikes on [Iran](https://irangov.ir/) — which began one day earlier — but quickly devolved into an airing of grievances over the party’s lack of accomplishments and struggles surrounding the passage of the [SAVE America Act](https://www.congress.gov/bill/119th-congress/house-bill/7296), which would require voter ID to cast a ballot and proof of citizenship to register to vote.
 
 During the conversation, [Rep.](https://www.house.gov/) [Brandon Gill (T-TX26)](https://gill.house.gov/), president of the [House](https://www.house.gov/) [GOP](https://www.gop.com/) conference’s freshman class, spoke up and said voters “have to have something to vote for, not just against,” according to a source on the call. Voters, he argued, don’t think [Congress](https://www.congress.gov/) has given them enough to root for.
 
@@ -156,7 +156,7 @@ Syedah Asghar covers [Congress](https://www.congress.gov/) for MSNBC.
 - foreign governments
 - [Islamic Republic of Iran (IR)](https://irangov.ir/)
     - [Ministry of Foreign Affairs (IR)](http://www.mfa.gov.ir/)
-    - [Islamic Revolutionary Guard Corps (IRGC)](https://sepahnews.ir)
+    - [Islamic Revolutionary Guard Corps (IRGC)](https://sepahnews.ir/)
     - [Tehran](https://tehran.ir/)
 - state, local governments
 - federal government

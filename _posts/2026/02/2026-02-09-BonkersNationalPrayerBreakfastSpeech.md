@@ -10,7 +10,7 @@ excerpt: ''
 title: "Stuck In 2020: Trump’s National Prayer Breakfast Speech Is Past Grievances"
 ---
 
-[Donnie](https://www.donaldjtrump.com/) is stuck in the year 2020. He can't believe that he lost to [Joe Biden](https://bidenwhitehouse.archives.gov/).
+[Donnie](https://www.donaldjtrump.com/) is stuck in the year 2020. He can't believe that he lost to [Joe Biden](https://bidenwhitehouse.archives.gov/). With him, there is no win-win negotiation. It's "I win-win. You lose."
 
 ## [2020 Presidential Election Results – Federal Election Commission (FEC)](https://www.fec.gov/resources/cms-content/documents/federalelections2020.pdf)
 
@@ -51,7 +51,7 @@ As is true in so many areas of public life, things now are … different. [The B
 
 > _[President](https://www.whitehouse.gov/) [Trump](https://www.donaldjtrump.com/) attacked [Representative](https://www.house.gov/) [Thomas Massie (T-KY4)](https://massie.house.gov/), an outspoken critic of the [president](https://www.whitehouse.gov/), during his speech at the [National Prayer Breakfast](https://npbfoundation.com/) in [Washington](https://dc.gov/) on Thursday, calling him a ‘moron.’ […]_
 
-[Trump](https://www.donaldjtrump.com/) then attacked [Democrat](https://www.democrats.org/)s in his speech saying, ‘I don’t know how a person of faith can vote for a [Democrat](https://www.democrats.org/). I really don’t.’ Later, [Trump](https://www.donaldjtrump.com/) repeated his false claims that he won the popular vote in [2016](https://www.fec.gov/resources/cms-content/documents/federalelections2020.pdf) and that his [2020](https://www.fec.gov/resources/cms-content/documents/federalelections2020.pdf) loss to former [president Joe Biden](https;//bidenwhitehouse.archives.gov%0) was ‘rigged.’
+[Trump](https://www.donaldjtrump.com/) then attacked [Democrat](https://www.democrats.org/)s in his speech saying, ‘I don’t know how a person of faith can vote for a [Democrat](https://www.democrats.org/). I really don’t.’ Later, [Trump](https://www.donaldjtrump.com/) repeated his false claims that he won the popular vote in [2016](https://www.fec.gov/resources/cms-content/documents/federalelections2020.pdf) and that his [2020](https://www.fec.gov/resources/cms-content/documents/federalelections2020.pdf) loss to former [president Joe Biden](https://bidenwhitehouse.archives.gov%0) was ‘rigged.’
 
 Over the course of [roughly 75 minutes](https://rollcall.com/factbase/trump/transcript/donald-trump-remarks-national-prayer-breakfast-capitol-february-5-2026/), the Republican turned the [National Prayer Breakfast](https://npbfoundation.com/) into a roast of sorts, lashing out at enemies, condemning immigrants, peddling absurd election conspiracy theories, expressing annoyance that [House](https://www.house.gov/) [Speaker](https://speaker.house.gov/) [Mike Johnson (T-LA4)](https://mikejohnson.house.gov/) wants to pray before meals, lying about the [repeal of the Johnson Amendment](https://www.nbcnews.com/politics/trump-administration/live-blog/trump-nj-election-sherrill-congress-dhs-ice-russia-harris-live-updates-rcna256968#rcrd98683) (which still has not actually happened, no matter how many times [Trump](https://www.donaldjtrump.com/) claims otherwise) — all while complaining about transgender people and diversity, equity and inclusion initiatives.
 
@@ -89,7 +89,7 @@ Every speech, interview and appearance, public or private, is rooted in the same
 - state, local governments
 - [Minnesota.gov Portal / mn.gov // Minnesota's State Portal](https://mn.gov/portal/)
     - [Attorney General's Office](https://www.ag.state.mn.us/)
-    - [Biography of Minnesota Attorney General Keith Ellison](https://www.ag.state.mn.us/Office/AGBio.asp)
+        - [Biography of Minnesota Attorney General Keith Ellison](https://www.ag.state.mn.us/Office/AGBio.asp)
     - [City of Minneapolis](https://www.minneapolismn.gov/)
         - [Mayor City of Minneapolis](https://www.minneapolismn.gov/government/mayor/)
             - [About the Mayor City of Minneapolis](https://www.minneapolismn.gov/government/mayor/)

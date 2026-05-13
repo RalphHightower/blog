@@ -111,8 +111,8 @@ _@RalphHightower: [Donnie](https://www.donaldjtrump.com/), you're still a loser!
         - [Senate](https://www.senate.gov/)
         - [House of Representatives](https://www.house.gov/)
     - [President of the United States (POTUS)](https://www.whitehouse.gov/)
-    - [President Bill Clinton](https://www.clintonlibrary.gov/)
     - [White House (WH)](https://www.whitehouse.gov/)
+        - [President Bill Clinton](https://www.clintonlibrary.gov/)
         - [President Bill Clinton](https://clintonwhitehouse2.archives.gov/)
         - [President Joe Biden](https://bidenwhitehouse.archives.gov/)
 - Trump autocracy
