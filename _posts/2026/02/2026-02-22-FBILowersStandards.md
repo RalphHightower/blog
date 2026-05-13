@@ -14,7 +14,7 @@ The [FBI](https://www.fbi.gov/) wouldn't have to lower standards if [Trump](http
 
 ## [FBI reportedly lowers standards for agents, adding to an unfortunate pattern](https://www.ms.now/rachel-maddow-show/maddowblog/fbi-reportedly-lowers-standards-for-agents-adding-to-an-unfortunate-pattern)
 
-_[Trumpism](https;//www.donaldjtrump.com/) is defined in large part by a lowering of standards. The bureau is apparently just keeping up._
+_[Trumpism](https://www.donaldjtrump.com/) is defined in large part by a lowering of standards. The bureau is apparently just keeping up._
 
 Feb. 20, 2026, 10:58 AM EST
 By [Steve Benen](https://www.ms.now/author/steve-benen)

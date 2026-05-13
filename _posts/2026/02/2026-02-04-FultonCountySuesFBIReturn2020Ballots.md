@@ -42,7 +42,7 @@ While federal officials have characterized the action as a court-authorized law 
 
 On Monday [Trump](https://www.donaldjtrump.com/) called on the [GOP](https://www.gop.com/) to “nationalize the voting” ahead of the midterm elections.
 
-“The [Republicans](https;//www.gop.com/) should say, ‘We want to take over, we should take over the voting, the voting in at least many, 15 places.’ The [Republicans](https;//www.gop.com/) ought to nationalize the voting,” [Trump](https://www.donaldjtrump.com/) said on a podcast with [Dan Bongino](https://open.spotify.com/show/4sftHO603JaFqpuQBEZReL), the former deputy director of the [FBI](https://www.fbi.gov/).
+“The [Republicans](https://www.gop.com/) should say, ‘We want to take over, we should take over the voting, the voting in at least many, 15 places.’ The [Republicans](https://www.gop.com/) ought to nationalize the voting,” [Trump](https://www.donaldjtrump.com/) said on a podcast with [Dan Bongino](https://open.spotify.com/show/4sftHO603JaFqpuQBEZReL), the former deputy director of the [FBI](https://www.fbi.gov/).
 
 [Ebony Davis](https://www.ms.now/author/ebony-davis) is a breaking news reporter for [MS NOW](https://www.ms.now/).
 

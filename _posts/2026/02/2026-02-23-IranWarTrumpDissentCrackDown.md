@@ -74,8 +74,6 @@ If the [president](https://www.whitehouse.gov/) puts America on a war-footing, d
 - political parties
 - [Democrat Party](https://www.democrats.org/)
 - [Trumpian Party](https://www.gop.com/)
-- universities
-- companies
 - foreign governments
 - [Afghanistan](https://moi.gov.af/)
 - [Iraq](https://ur.gov.iq/)
@@ -86,7 +84,6 @@ If the [president](https://www.whitehouse.gov/) puts America on a war-footing, d
 - [الصفحة الرئيسة](https://moqawama.org.lb/index.php)
 - [Houthis](https://ansarollah.com.ye/)
 - [Ansar Allah](https://ansarollah.com.ye/)
-- state, local governments
 - federal government
 - [Constitution of the United States](https://constitution.congress.gov/constitution/)
     - [U.S. Constitution - First Amendment /  Library of Congress](https://constitution.congress.gov/constitution/amendment-1/)

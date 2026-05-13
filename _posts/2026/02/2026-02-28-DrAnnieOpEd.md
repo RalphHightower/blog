@@ -40,7 +40,7 @@ At the highest levels of our federal government, we have watched medical experti
 
 That message has consequences. It becomes the air people breathe. It shapes what a parent believes about vaccinations as they scroll their social media feed in the preschool pickup line. It erodes trust in medicine and threatens the fabric of our nation’s public health system.
 
-The outbreak isn’t the fault of [Health and Human Services](https://www.hhs.gov/) [Secretary Robert F. Kennedy Jr.](https://www.hhs.gov/about/leadership/robert-kennedy.html) alone, but we’re kidding ourselves if we pretend leadership doesn’t matter. 
+The outbreak isn’t the fault of [Health and Human Services](https://www.hhs.gov/) [Secretary Robert F. Kennedy Jr.](https://www.hhs.gov/about/leadership/robert-kennedy.html) alone, but we’re kidding ourselves if we pretend leadership doesn’t matter.
 
 > **Stop letting politicians play games with public health.**
 
@@ -70,7 +70,7 @@ If you want to stop the next iteration of this, you stop rewarding people who pr
     - [Annie Andrews](https://www.ms.now/author/annie-andrews)
         - [Dr. Annie Andrews for Senate](https://drannieandrews.com/)
             - [Dr. Annie Andrews / LinkedIn](https://www.linkedin.com/in/dr-annie-andrews-a95643264/)
-- organizations 
+- organizations
 - [World Health Organization (WHO)](https://www.who.int/)
 - political parties
 - [Democrat Party](https://www.democrats.org/)
