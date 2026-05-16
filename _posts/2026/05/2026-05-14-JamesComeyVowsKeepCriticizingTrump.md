@@ -7,7 +7,7 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: "Non Intimated By Trump, James Comey Vows to Continue Criticizing Trump."
+title: "Not Intimated By Trump, James Comey Vows to Continue Criticizing Trump."
 ---
 
 ## [James Comey vows to keep criticizing Donald Trump despite latest criminal case](https://www.ms.now/news/james-comey-nicole-wallace-interview-trump)
