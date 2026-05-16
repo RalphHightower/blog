@@ -7,7 +7,7 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: 'title'
+title: "Farmers Facing Bankruptcies Are Blaming Trump"
 ---
 
 ## [‘Just ain’t fair’: America’s farmers are going bankrupt — and blaming Trump](https://www.ms.now/news/trump-farm-bankruptcies-rural-voters-iran)
@@ -31,7 +31,7 @@ He is more troubled by the second: a trade war last year that resulted in [China
 
 “That’s when it really hurts the most,” [Nelson](https://www.linkedin.com/in/willis-nelson-8098562a5/) said. “Because it’s self-inflicted. We got trade wars. We got the war in [Iran](https://irangov.ir/). We got low commodity prices. Just ain’t fair for us right now, you know? Yeah, they give us government assistance, but it’s always a year, two years late.”
 
-![Farm Bankruptcies by Presidents](260515-farm-bankrupcies-chart.webp)
+![Farm Bankruptcies by Presidents](/assets/images/260515-farm-bankrupcies-chart.webp)
 Chart: [Carson Elm-Picard](https://www.linkedin.com/in/carsonelmpicard/) / [MS NOW](https://www.ms.now/); Source: [U.S. Bankruptcy Courts](https://www.uscourts.gov/court-programs/bankruptcy)
 
 Farm bankruptcies were high during [President](https://www.whitehouse.gov/) [Donald Trump](https://www.donaldjtrump.com/)’s first term, but dipped during [Joe Biden](https://bidenwhitehouse.archives.gov_)’s years in office. With [Trump](https://www.donaldjtrump.com/) back in office, they have spiked again, jumping 46% between 2024 and 2025 as economic woes from pandemic-era supply chain disruptions and grain shortages caused by the war in [Ukraine](https://www.kmu.gov.ua/) met new financial headwinds caused by [Trump](https://www.donaldjtrump.com/)’s tariff policies and a $20 billion bailout of [Argentina](https://www.casarosada.gob.ar/) that spurred [China](https://www.gov.cn/) to reduce its U.S. agricultural imports.
@@ -46,7 +46,7 @@ What distinguishes this downturn from past agricultural crises — including the
 
 “We are not shooting for the highest yield, especially on corn,” explained [Nelson](https://www.linkedin.com/in/willis-nelson-8098562a5/), the farmer in [Louisiana](https://www.louisiana.gov/). “Like normally, we put 220 units out, trying to get 200 bushels of corn. This year … we’re not financially able to do that. We just don’t have the margin, the money to be able to pay for all the fertilizer we actually need. We had to cut.”
 
-![Farm Bankruptcies by State](260515-farm-bankrupcies-map.webp)Map: [Carson Elm-Picard](https://www.linkedin.com/in/carsonelmpicard/) / [MS NOW](https://www.ms.now/); Source: [U.S. Bankruptcy Courts](https://www.uscourts.gov/court-programs/bankruptcy)
+![Farm Bankruptcies by State](/assets/images/260515-farm-bankrupcies-map.webp)Map: [Carson Elm-Picard](https://www.linkedin.com/in/carsonelmpicard/) / [MS NOW](https://www.ms.now/); Source: [U.S. Bankruptcy Courts](https://www.uscourts.gov/court-programs/bankruptcy)
 
 For decades, farmers like [Sparrow](https://www.cottongrower.com/cotton-marketer-of-the-year/meet-2024-cotton-marketer-of-the-year-fate-sparrow/) have been among the most reliable [Republican](https://www.gop.com/) voters in the country. That may be changing. 
 
