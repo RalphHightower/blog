@@ -20,6 +20,9 @@ The telephone numbers below have called and there is an empty person on the othe
 
 | Telephone Number | Location | Date Time[^11]<sup>,</sup>[^12] | Caller | Social Media |
 |---|---|---|---|---|
+| [\+1 (720) 547-0380](tel:+17205470380) | CO. Keenesburg | 2026-05-15 02:19 PM | | Text fr/ Headhunter |
+| [\+1 (803) 486-7196](tel:+18034867196) | SC. Bishopville | 2026-05-15 11:38 AM | — | |
+| [\+1 (803) 271-0365](tel:+18032710365) | SC. Newberry | 2026-05-15 11:30 AM | SUZANNE JEAN WILLIAMS | |
 | [\+1 (803) 541-2816](tel:+18035412816) | SC. Barnwell | 2026-05-14 05:12 PM | YOLANDO JENKIN | |
 | [\+1 (803) 462-5285](tel:+18034625285) | SC. Columbia | 2026-05-14 04:47 PM | — | |
 | [\+1 (803) 226-9681](tel:+18032269681) | SC. Aiken | 2026-05-14 03:52 PM | KATIE Y WASHINGTON | |
