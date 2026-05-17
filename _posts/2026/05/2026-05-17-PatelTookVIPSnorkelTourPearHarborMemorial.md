@@ -1,13 +1,13 @@
 ---
 layout: post
-tags: []
-categories: [weaponization]
+tags: [media,MS NOW - Breaking News and News Today / Latest News,Rachel Maddow Show,MaddowBlog,Rachel Maddow,Steve Benen,Associated Press News (AP) - Breaking News Latest Headlines and Videos / AP News,The New Republic,The New York Times (NYT) - Breaking News US News World News and Videos,NOTUS - NOTUS — News of the United States,POLITICO - Politics Policy Political News,The Atlantic,organizations,Justice Connection - A Lifeline for DOJ Employees,Who We Are - Justice Connection,Stacey Young / LinkedIn,political parties,Democrat Party,Trumpian Party,foreign governments,Home / MI5 - The Security Service,state local governments,Hawaii.gov / The Official Website of the Aloha State,federal government,Constitution of the United States,Supreme Court of the United States (SCOTUS),US Courts,Department of Justice (DOJ),Federal Bureau of Investigation (FBI),Federal Reserve,Federal Reserve Board - Federal Reserve Act,Department of Defense (DOD),US Navy,Marines,Pearl Harbor National Memorial (U.S. National Park Service),Joint Base Pearl Harbor-Hickam,Joint Base Pearl Harbor-Hickam,U.S. Department of the Treasury,Congress,Senate,House of Representatives,President of the United States (POTUS),White House (WH),Trump autocracy,Donald J Trump,President Donald Trump (45),President Donald Trump (47),President Trump (47) Administration,President Trump (47) Cabinet,press secretary,Karoline Leavitt,Scott Bessent / U.S. Department of the Treasury,Pam Bondi – Office of the Attorney General / Meet the Attorney General / United States Department of Justice,Todd Blanche – Office of the Deputy Attorney General / Office of the Deputy Attorney General,Todd Blanche / LinkedIn,Director Kash Patel — FBI,grifter,self-dealing,corruption,con artist,crime,cryptocurrency,criminal associates,criminal businesses,criminal media,criminal organizations,criminal partners]
+categories: [Donald Trump,Federal Bureau of Investigation (FBI),Kash Patel, snorkel,Pearl Harbor Memorial,USS Arizona]
 date: 2026-05-17 16:56
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: 'title'
+title: "Kash Patel Takes ‘VIP Snorkel Tour’ of Pearl Harbor Memorial"
 ---
 
 ## [Patel’s new mess: Emails show his Hawaii trip included ‘VIP snorkel’ at Pearl Harbor memorial](https://www.ms.now/rachel-maddow-show/maddowblog/patel-snorkel-hawaii-emails-pearl-harbor)
@@ -19,7 +19,7 @@ By  [Steve Benen](https://www.ms.now/author/steve-benen)
 
 [FBI](https://www.fbi.gov/) [Director Kash Patel](https://www.fbi.gov/about/leadership-and-structure/director-patel) has certainly generated a lot of headlines recently. A week ago, for example, the public learned about [his personally branded liquor bottles](https://www.ms.now/rachel-maddow-show/maddowblog/kash-patel-bourbon-bottles-fbi-atlantic). The same day, [MS NOW](https://www.ms.now/) reported that the bureau had [launched a highly controversial criminal leak investigation](https://www.ms.now/news/fbi-investigating-leaks-to-journalist-who-wrote-explosive-article-on-kash-patel-sources) focusing on a journalist at [The Atlantic](https://www.theatlantic.com/) who wrote a deeply unflattering account of [Patel](https://www.fbi.gov/about/leadership-and-structure/director-patel).
 
-Days later, the former podcast personality [threw a bit of a tantrum](https://newrepublic.com/post/210327/kash-patel-freaks-senate-asked-drinking) during a [Senate](https://www.senate.gov/) hearing. The same day, [NOTUS reported](https://www.notus.org/trump-white-house/fbi-kash-patel-trump-payback-squad-political-cases-james-comey-john-brennan) that [Patel](https://www.fbi.gov/about/leadership-and-structure/director-patel)’s [FBI](https://www.fbi.gov/) had put together a team of special agents that has been internally referred to as the “payback squad,” featuring members “willing to pursue political targets set by the [Trump](https://www.donaldjtrump.com/) [administration](https://www.whitehouse.gov/administration/).” One day later, [MS NO also reported](https://www.ms.now/news/fbi-insiders-kash-patel-is-padding-the-stats-to-boost-his-record-of-arrests) that, according to [FBI](https://www.fbi.gov/) insiders, [Patel](https://www.fbi.gov/about/leadership-and-structure/director-patel) had manipulated data and was “padding the stats” in order to exaggerate federal arrest data and make himself look better.
+Days later, the former podcast personality [threw a bit of a tantrum](https://newrepublic.com/post/210327/kash-patel-freaks-senate-asked-drinking) during a [Senate](https://www.senate.gov/) hearing. The same day, [NOTUS reported](https://www.notus.org/trump-white-house/fbi-kash-patel-trump-payback-squad-political-cases-james-comey-john-brennan) that [Patel](https://www.fbi.gov/about/leadership-and-structure/director-patel)’s [FBI](https://www.fbi.gov/) had put together a team of special agents that has been internally referred to as the “payback squad,” featuring members “willing to pursue political targets set by the [Trump](https://www.donaldjtrump.com/) [administration](https://www.whitehouse.gov/administration/).” One day later, [MS NOW also reported](https://www.ms.now/news/fbi-insiders-kash-patel-is-padding-the-stats-to-boost-his-record-of-arrests) that, according to [FBI](https://www.fbi.gov/) insiders, [Patel](https://www.fbi.gov/about/leadership-and-structure/director-patel) had manipulated data and was “padding the stats” in order to exaggerate federal arrest data and make himself look better.
 
 He might not have needed another mess, but the director appears to have one anyway. [The Associated Press reported](https://apnews.com/article/fbi-kash-patel-snorkel-hawaii-pearl-harbor-192a81cde7a5879aab747bc0ba4b78b9) on [Patel](https://www.fbi.gov/about/leadership-and-structure/director-patel)’s visit to [Hawaii](https://www.hawaii.gov/) last summer, which the [FBI](https://www.fbi.gov/) insisted was not a vacation. There’s fresh evidence to the contrary:
 
@@ -29,7 +29,7 @@ He might not have needed another mess, but the director appears to have one anyw
 
 An [FBI](https://www.fbi.gov/) spokesman did not answer questions about the snorkeling session, according to the [AP](https://apnews.com/), though it acknowledged that regional commanders hosted [Patel](https://www.fbi.gov/about/leadership-and-structure/director-patel) at [Joint Base Pearl Harbor-Hickam](https://cnrh.cnic.navy.mil/) “as they commonly do with US government officials on official travel.”
 
-The [AP](https://apnews.com/) also quoted [Stacey Young](https://www.linkedin.com/in/stacey-young-08462a2a8/), who founded Justice [Connection](https://www.thejusticeconnection.org/), a network of former federal prosecutors and agents who advocate for the [Department of Justice](https://www.justice.gov/)’s independence, who said, “It fits a pattern of [Director Patel](https://www.fbi.gov/about/leadership-and-structure/director-patel) getting tangled up in unseemly distractions — this time at a site commemorating the second deadliest attack in U.S. history — instead of staying laser-focused on keeping Americans safe.”
+The [AP](https://apnews.com/) also quoted [Stacey Young](https://www.linkedin.com/in/stacey-young-08462a2a8/), who founded [Justice Connection](https://www.thejusticeconnection.org/), a network of former federal prosecutors and agents who advocate for the [Department of Justice](https://www.justice.gov/)’s independence, who said, “It fits a pattern of [Director Patel](https://www.fbi.gov/about/leadership-and-structure/director-patel) getting tangled up in unseemly distractions — this time at a site commemorating the second deadliest attack in U.S. history — instead of staying laser-focused on keeping Americans safe.”
 
 Part of what makes the new allegations so striking is the fact that many of [Patel](https://www.fbi.gov/about/leadership-and-structure/director-patel)’s troubles stem from leaks from [FBI](https://www.fbi.gov/) insiders. The director has struggled for months with critics within the bureau, but there’s every reason to believe the problem is getting worse.
 
@@ -47,10 +47,21 @@ The director started [scrambling soon after to save his job](https://www.ms.now/
 
 This post updates our [related earlier coverage](https://www.ms.now/rachel-maddow-show/maddowblog/kash-patel-bourbon-bottles-fbi-atlantic).
 
-Steve Benen is a producer for "The Rachel Maddow Show," the editor of MaddowBlog and an [MS NOW](https://www.ms.now/) political contributor. He's also the bestselling author of "Ministry of Truth: Democracy, Reality, and the Republicans' War on the Recent Past."
+Steve Benen is a producer for ["The Rachel Maddow Show,"](https://www.ms.now/rachel-maddow-show) the editor of [MaddowBlog](https://www.ms.now/maddowblog) and an [MS NOW](https://www.ms.now/) political contributor. He's also the bestselling author of "Ministry of Truth: Democracy, Reality, and the Republicans' War on the Recent Past."
 
 ----
 - media
+- [MS NOW - Breaking News and News Today / Latest News](https://www.ms.now/)
+    - [Rachel Maddow Show](https://www.ms.now/rachel-maddow-show)
+        - [MaddowBlog](https://www.ms.now/maddowblog)
+            - [Rachel Maddow](https://www.ms.now/rachel-maddow-show/rachel-maddow-biography-n1157621)
+            - [Steve Benen](https://www.ms.now/author/steve-benen)
+- [Associated Press News (AP) - Breaking News, Latest Headlines and Videos / AP News](https://apnews.com/)
+- [The New Republic](https://newrepublic.com/)
+- [The New York Times (NYT) - Breaking News, US News, World News and Videos](https://www.nytimes.com/)
+- [NOTUS - NOTUS — News of the United States](https://www.notus.org/)
+- [POLITICO - Politics, Policy, Political News](https://www.politico.com/)
+- [The Atlantic](https://www.theatlantic.com/)
 - organizations
 - [Justice Connection - A Lifeline for DOJ Employees](https://www.thejusticeconnection.org/)
     - [Who We Are - Justice Connection](https://www.thejusticeconnection.org/our-team/)
@@ -72,6 +83,7 @@ Steve Benen is a producer for "The Rachel Maddow Show," the editor of MaddowBlog
         - [Federal Reserve Board - Federal Reserve Act](https://www.federalreserve.gov/aboutthefed/fract.htm)
     - [Department of Defense (DOD)](https://www.defense.gov/)
         - [US Navy](https://www.navy.mil/)
+        - [Marines](https://www.marines.mil/)
 - [Pearl Harbor National Memorial (U.S. National Park Service)](https://www.nps.gov/perl/)
 - [Joint Base Pearl Harbor-Hickam](https://cnrh.cnic.navy.mil/)
 - [Joint Base Pearl Harbor-Hickam](https://cnrh.cnic.navy.mil/Installations/JB-Pearl-Harbor-Hickam/)
