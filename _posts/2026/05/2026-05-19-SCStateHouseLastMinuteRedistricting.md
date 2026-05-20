@@ -10,6 +10,10 @@ excerpt: ''
 title: "My Dumb State: SC Statehouse's Last Minute Gerrymandering for June 9 Primary"
 ---
 
+[Senator Tom Davis (T-Beaufort)](https://www.scstatehouse.gov/member.php?code=0456818127) wrote an op-ed on FITSNews why he is not supporting the midterm redistricting. He referenced that the Supreme Court viewed South Carolina's map favorably in the Louisiana vs Callais decision. 
+
+- [Tom Davis: Thoughts on South Carolina's Redistricting Vote - FITSNews](https://www.fitsnews.com/2026/05/20/tom-davis-thoughts-on-south-carolinas-redistricting-vote/)
+
 ## SC Statehouse
 ### Call Script
 - [(803) 212-6963](tel:+18032126963) Rep. Kilmartin, "Jay"
@@ -49,6 +53,30 @@ I urge you to oppose the use of extraordinary‑session authority for this purpo
 Respectfully,
 Ralph Hightower
 Chapin, South Carolina
+
+#### Response: Rep. Kilmartin, "Jay"
+From: Jay Kilmartin 
+
+I agree Ralph.  If they had listened and considered Rep. Jordan Pace's redistricting resolution months ago, we would not be in this mess.
+
+But they wouldn't. 
+
+This is another reason to support the SC Freedom Caucus.
+
+Jay Kilmartin
+SC House of Representatives
+District 85
+803.212.6963
+
+To: Representative Kilmartin,
+I appreciate your response. I just want to be clear that, unlike Louisiana in Louisiana v. Callais, South Carolina has not been ordered by any court to redraw its districts.
+
+Without a new census or a court order like Louisiana had, I don’t see any basis for mid‑cycle redistricting in South Carolina.
+
+And delaying the primary would run straight into federal UOCAVA deadlines for military and overseas voters.
+
+For what it’s worth, I was an independent voter for decades before Trump pushed me to become a Democrat. I’m not shifting my views or my politics here — my only concern is staying within both state and federal law.
+– Ralph Hightower 
 
 ## Governor McMaster, Henry
 ### Call Script
