@@ -35,7 +35,6 @@
     LUF { name: "Luke Air Force Base", link: "https://www.luke.af.mil/", lat: 0.585296, lon: 1.961454 },
     MEM { name: "Memphis International Airport", link: "https://flymemphis.com/", lat: 0.611607, lon: 1.570389 },
     MHZ { name: "RAF Mildenhall / Royal Air Force Mildenhall", link: "https://www.mildenhall.af.mil/", lat: 0.913942, lon: 0.008392 },
-    MHZ { name: "RAF Mildenhall", link: "https://www.mildenhall.af.mil/", lat: 0.913942, lon: 0.008392 },
     MIA { name: "Miami International Airport", link: "https://miami-airport.com/", lat: 0.450179, lon: 1.401335 },
     MMU { name: "Morristown Municipal Airport", link: "https://www.mmuair.com/", lat: 0.712085, lon: 1.298787 },
     MTC { name: "Selfridge Air National Guard Base", link: "https://www.127wg.ang.af.mil/", lat: 0.743656, lon: 1.445753 },
