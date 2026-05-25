@@ -21,7 +21,6 @@
     HGR { name: "Hagerstown Regional Airport", link: "https://www.washco-md.net/hagerstown-regional-airport/", lat: 0.693046, lon: 1.356581 },
     HND { name: "Haneda Airport", link: "https://tokyo-haneda.com/", lat: 0.620523, lon: 2.439641 },
     HWO { name: "North Perry Airport", link: "https://www.broward.org/NorthPerryAirport/Pages/Default.aspx", lat: 0.453805, lon: 1.400467 },
-    IAD { name: "Dulles International Airport", link: "https://www.flydulles.com/", lat: 0.679709, lon: 1.351859 },
     IAD { name: "Washington Dulles International Airport", link: "https://www.flydulles.com/", lat: 0.679709, lon: 1.351859 },
     JFK { name: "John F. Kennedy International Airport", link: "https://johnfkennedyairport-jfk.com/", lat: 0.709297, lon: 1.287685 },
     JRB { name: "Downtown Manhattan Heliport", link: "https://www.downtownskyportnyc.com/", lat: 0.710368, lon: 1.291697 },
