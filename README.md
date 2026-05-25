@@ -264,6 +264,23 @@ This section documents cultural moments that intersect with America’s civic tu
 
 </div><!-- 2026-05-24T23:59:59Z -->
 
+<div id=""><!-- 2026-06-25T23:00:00Z-->
+<h3>MS NOW LIVE Presents We the People: America 250</h3>
+
+<a href="https://www.ensembleartsphilly.org/rent-our-spaces/special-events-and-performances/we-the-people-america-250">Country at a Crossroads</a>
+
+Philadelphia, Pennsylvania
+June 25, 2026
+7:00PM
+
+Buy tickets now!
+As we celebrate America’s 250th anniversary, join trusted and fan-favorite MS NOW hosts Rachel Maddow, Ali Velshi and more, along with special guest constitutional legal expert Sherrilyn Ifill, for a news-packed evening in Philadelphia. Members of the MS NOW community will gather together for lively conversation, connection, and reflection on our country’s history and the most pressing issues facing our democracy today.
+
+To commemorate this historical milestone in the American journey, each ticket to MS NOW’s America 250 event includes an offer for a one-year MS NOW Membership, a new subscription experience that brings MS NOW fans like you closer to our hosts and to each other. With the MS NOW year-long membership, you’ll have unprecedented access to MS NOW journalists and our community, through exclusive content and experiences you can’t get “on-air.” Terms and restrictions apply.
+
+Don’t miss the chance to honor America’s 250 Anniversary with the MS NOW community in Philadelphia on June 25!
+</div><!-- 2026-06-25T23:00:00Z-->
+
 <h3><a href="https://www.farmaid.org/">🌾 Farm Aid 2026</a></h3>
 
 <!-- [Farm Aid – Standing With Family Farmers Since 1985](https://www.farmaid.org/) -->
@@ -881,6 +898,9 @@ displayUntil("2026-06-09T23:00:00Z");
 displayBegin("primary-open", "2026-11-03T12:00:00Z");
 displayBegin("primary-close", "2026-06-09T11:00:00Z");
 displayEnd("primary-close", "2026-06-09T23:00:00Z");
+
+<!-- MS NOW LIVE Presents We the People: America 250 Country at a Crossroads -->
+displayUntil("2026-06-25T23:00:00Z");
 
 <!-- Farm Aid 2026-09-30T23:59:59Z -->
 displayUntil("2026-09-30T23:59:59Z");
