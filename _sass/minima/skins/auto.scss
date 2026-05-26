@@ -127,8 +127,8 @@ $dm-border-color-03:       $dm-brand-color !default;
 $dm-table-text-color:      $dm-text-color !default;
 $dm-table-zebra-color:     lighten($dm-background-color, 20%) !default;
 $dm-table-header-bg-color: lighten($dm-background-color, 10%) !default;
-$dm-table-header-border:   darken($dm-link-base-color, 20%) !default;
-$dm-table-border-color:    lighten($dm-link-base-color, 20%) !default;
+$dm-table-header-border:   $dm-border-color-01 !default;
+$dm-table-border-color:    $dm-border-color-02 !default;
 
 
 // Syntax highlighting styles should be adjusted appropriately for every "skin"
