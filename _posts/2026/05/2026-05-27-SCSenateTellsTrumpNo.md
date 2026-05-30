@@ -63,8 +63,7 @@ Alexander Tabet contributed reporting.
     - [South Carolina Legislature Online - House of Representatives](https://www.scstatehouse.gov/house.php)
     - [South Carolina Legislature Online - Senate](https://www.scstatehouse.gov/senate.php)
         [Senator Richard J. Cash (T-District 3 - Anderson County)](https://www.scstatehouse.gov/member.php?code=0328409052)
-        [Senator A. Shane Massey
-        (T-District 25 - Aiken, Edgefield, Lexington, McCormick & Saluda Counties)](https://www.scstatehouse.gov/member.php?code=1185227131)
+        [Senator A. Shane Massey (T-District 25 - Aiken, Edgefield, Lexington, McCormick & Saluda Counties)](https://www.scstatehouse.gov/member.php?code=1185227131)
 - federal government
 - [Constitution of the United States](https://constitution.congress.gov/constitution/)
     - [Voting Rights Act](https://www.govinfo.gov/content/pkg/STATUTE-79/pdf/STATUTE-79-Pg437.pdf)
