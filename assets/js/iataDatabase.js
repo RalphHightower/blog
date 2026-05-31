@@ -1,4 +1,4 @@
-	const iataDB = {
+const iataDatabase = {
     ABE { name: "Lehigh Valley International Airport", link: "https://www.flyabe.com/", lat: 0.682041, lon: 1.345266 },
     ADW { name: "Joint Base Andrews", link: "https://www.jba.af.mil/", lat: 0.677377, lon: 1.341581 },
     ANC { name: "Ted Stevens Anchorage International Airport", link: "https://dot.alaska.gov/anc/", lat: 1.066443297, lon: 2.610932276 }, // 61°10′27″N 149°59′54″W
