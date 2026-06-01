@@ -10,6 +10,8 @@ excerpt: ''
 title: "Dirty Dozen Republican SC Statehouse Senator Spoil Governot McMaster's Special Session to Redistrict Midterm"
 ---
 
+[South Carolina](https://www.sc.gov/) is not a totally red state. It's more 55% [Trumpian](https://www.gop.com/) and 45% [Democrat](https://www.democrats.org/); that is is average margin of victory for statewide officers and for the [US Senate](https://www.senate.gov/).. [South Carolina](https://www.sc.gov/) is represented by seven members in the [House Of Representatives](https://www.house.gov/). A more equitable representation would be 4/7 which is 57% /43%.
+
 ## [Why a dozen South Carolina senators bucked Trump on redistricting](https://www.ms.now/news/why-a-dozen-south-carolina-senators-bucked-trump-on-redistricting)
 
 _Objections to the process and outside pressure helped scuttle the [GOP](https://www.gop.com/)’s plan to steal [Rep.](https://www.house.gov/) [James Clyburn](https://clyburn.house.gov/)’s seat, for now._

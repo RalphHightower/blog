@@ -10,6 +10,8 @@ excerpt: ''
 title: "Trump Itching For a Fight With Cuba"
 ---
 
+Cuba is a demolition buy. It will cost more to fix Cuba than to tear it down and start over.
+
 ## [The U.S. is picking a fight with Cuba. It’s not clear how it’s supposed to end](https://www.ms.now/news/news-analysis/trump-cuba-foreign-policy-project-47)
 
 _The [Trump](https://www.donaldjtrump.com/) [administration](https://www.whitehouse.gov/administration/) has not bothered to outline its strategy, plans or even demands._

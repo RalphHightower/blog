@@ -10,6 +10,8 @@ excerpt: ''
 title: "South Carolina State Senate Gives Trump the Middle Finger On Midterm Redistricting"
 ---
 
+[South Carolina](https://www.sc.gov/) is not a totally red state. It's more 55% [Trumpian](https://www.gop.com/) and 45% [Democrat](https://www.democrats.org/); that is is average margin of victory for statewide officers and for the [US Senate](https://www.senate.gov/).. [South Carolina](https://www.sc.gov/) is represented by seven members in the [House Of Representatives](https://www.house.gov/). A more equitable representation would be 4/7 which is 57% /43%.
+
 ## [South Carolina Senate rejects Trump push to redraw Clyburn district on congressional map](https://www.ms.now/news/south-carolina-senate-rejects-trump-push-congressional-map-clyburn)
 
 _The vote was an unexpected rebuff of the [president](https://www.whitehouse.gov/), who pushed for redistricting in the hopes of retaining his party’s slim majority in the [U.S. House](https://www.house.gov/)._

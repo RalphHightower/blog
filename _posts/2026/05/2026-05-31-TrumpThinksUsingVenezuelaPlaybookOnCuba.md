@@ -10,6 +10,8 @@ excerpt: ''
 title: "Trump Brazenly Views Takeover of Cuba"
 ---
 
+Cuba is a demolition buy. It will cost more to fix Cuba than to tear it down and start over.
+
 ## [Trump abandons subtlety, eyes Venezuela playbook for Cuba](https://www.ms.now/rachel-maddow-show/maddowblog/trump-cuba-castro-venezuela-playbook)
 
 _The American [president](https://www.whitehouse.gov/)’s ambitions toward [Cuba](http://cubaminrex.cu/) are increasingly obvious. They’re also eerily familiar._

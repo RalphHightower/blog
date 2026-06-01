@@ -10,6 +10,8 @@ excerpt: ''
 title: "Al Sharpton Said South Carolina Did Right In Refusing To Redistrict"
 ---
 
+[South Carolina](https://www.sc.gov/) is not a totally red state. It's more 55% [Trumpian](https://www.gop.com/) and 45% [Democrat](https://www.democrats.org/); that is is average margin of victory for statewide officers and for the [US Senate](https://www.senate.gov/).. [South Carolina](https://www.sc.gov/) is represented by seven members in the [House Of Representatives](https://www.house.gov/). A more equitable representation would be 4/7 which is 57% /43%.
+
 ## [Al Sharpton: South Carolina GOP did the ‘right thing’ rejecting Trump’s redistricting push](https://www.ms.now/news/al-sharpton-south-carolina-rejects-trump-redistricting-push-james-clyburn)
 
 _“The history of the civil rights movement was always reconciliation, and we had a small example of that yesterday,” the [MS NOW](https://www.ms.now/) host said._
