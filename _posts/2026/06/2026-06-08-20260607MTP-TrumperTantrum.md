@@ -10,6 +10,10 @@ excerpt: ''
 title: "2026-06-07 NBC News Meet the Press: Trumper Tantrum"
 ---
 
+![Comparison Of Obama interviewed by OReilly versus Trump interviewed by Welker.](/assets/images/ObamaTrumpComparison.jpg)
+
+![Four Stages of a Trumper Tantrum](/assets/images/MTPTrumperTantrum.jpg)
+
 If you watched the June 7th edition of [NBC News](https://www.nbcnews.com/)' [Meet the Press](https://www.nbcnews.com/meet-the-press), you saw what I saw: a petulant child — a full-on man‑child — throwing what can only be described as a "Trumper Tantrum." This behavior came from the individual who leads your party. If you missed it, the full episode is available on YouTube.
 
 I am calling your attention to this because leadership demands composure, accountability, and respect for the institutions you serve. What the public witnessed on national television was the opposite. I urge you to reflect on what this means for your responsibilities to the people of this state and this country.
@@ -22,23 +26,23 @@ Ralph Hightower
 - [Sen.](https://www.senate.gov/) [Lindsey Graham (T-SC)](https://www.lgraham.senate.gov/)
 DC: [(202) 2245972](tel:+1202‑224‑5972)
 Local: [(803) 933-0112](tel:+18039330112)
-    - ☐ Spoke to staffer
-    - ☐ Left voicemail
-    - ☐ Line busy / try again
+    - [ ] Spoke to staffer
+    - [x] Left voicemail
+    - [ ] Line busy / try again
 
 - [Sen.](https://www.senate.gov/) [Tim Scott (T-SC)](https://www.scott.senate.gov/)
 DC: [(202) 224-6121](tel:+12022246121)
 Local: [(803) 771-6112](tel:+18037716112)
-    - ☐ Spoke to staffer
-    - ☐ Left voicemail
-    - ☐ Line busy / try again
+    - [x] Spoke to staffer
+    - [ ] Left voicemail
+    - [ ] Line busy / try again
 
 - [Rep.](https://www.house.gov/) [Joe Wilson (T-SC2)](https://joewilson.house.gov/)
 DC: [(202) 225-2452](tel:+12022252452)
 Local: [(803) 939-0041](tel:+18039390041)
-    - ☐ Spoke to staffer
-    - ☐ Left voicemail
-    - ☐ Line busy / try again
+    - [x] Spoke to staffer
+    - [ ] Left voicemail
+    - [ ] Line busy / try again
 
 ---
 
@@ -48,16 +52,23 @@ Local: [(803) 939-0041](tel:+18039390041)
 [Governor of South Carolina](https://governor.sc.gov/)
 - Office: [Governor](https://governor.sc.gov/) [Henry McMaster (T-SC)](https://governor.sc.gov/governors-biography/)
 Columbia: [(803) 734‑2100](tel:+18037342100)
-    - ☐ Spoke to staffer
-    - ☐ Left voicemail
-    - ☐ Line busy / try again
+    - [ ] Spoke to staffer
+    - [x] Left voicemail
+    - [ ] Line busy / try again
 
 - [Attorney General of South Carolina](https://www.scag.gov/)
 Office: [Attorney General](https://www.scag.gov/) [Alan Wilson (T-SC)](https://www.scag.gov/about-the-office/meet-the-attorney-general/)
 Columbia: [(803) 734-3970](tel:+18037343970)
-    - ☐ Spoke to staffer
-    - ☐ Left voicemail
-    - ☐ Line busy / try again
+    - [x] Spoke to staffer
+    - [ ] Left voicemail
+    - [ ] Line busy / try again
+
+### [Trump Throws a Trumper Tantrum — Meet the Press / NBC News June 7 - YouTube](https://www.youtube.com/watch?v=4EusZcKt5fs)
+
+Jun 7, 2026
+[Kristen Welker](https://www.nbcnews.com/author/kristen-welker-ncpn6396) sits down exclusively with [President](https://www.whitehouse.gov/) [Donald Trump](https://www.donaldjtrump.com/) to talk about the economy, the war with Iran and the path to peace. Ashley Etienne, Marc Short and Carol Lee join the roundtable.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4EusZcKt5fs?si=sSiJQmz7AFpIjgTU&amp;start=2040" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 - media
