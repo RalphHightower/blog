@@ -269,27 +269,33 @@ This section documents cultural moments that intersect with America’s civic tu
 
 <a href="https://www.ensembleartsphilly.org/rent-our-spaces/special-events-and-performances/we-the-people-america-250">Country at a Crossroads</a>
 
-Philadelphia, Pennsylvania
-June 25, 2026
-7:00PM
+<p>Philadelphia, Pennsylvania<br />
+June 25, 2026<br />
+7:00 PM</p>
 
 Buy tickets now!
-As we celebrate America’s 250th anniversary, join trusted and fan-favorite MS NOW hosts Rachel Maddow, Ali Velshi and more, along with special guest constitutional legal expert Sherrilyn Ifill, for a news-packed evening in Philadelphia. Members of the MS NOW community will gather together for lively conversation, connection, and reflection on our country’s history and the most pressing issues facing our democracy today.
+As we celebrate America’s 250th anniversary, join trusted and fan-favorite <a href="https://www.ms.now/">MS NOW</a> hosts Rachel Maddow, Ali Velshi and more, along with special guest constitutional legal expert Sherrilyn Ifill, for a news-packed evening in Philadelphia. Members of the <a href="https://www.ms.now/">MS NOW</a> community will gather together for lively conversation, connection, and reflection on our country’s history and the most pressing issues facing our democracy today.
 
-To commemorate this historical milestone in the American journey, each ticket to MS NOW’s America 250 event includes an offer for a one-year MS NOW Membership, a new subscription experience that brings MS NOW fans like you closer to our hosts and to each other. With the MS NOW year-long membership, you’ll have unprecedented access to MS NOW journalists and our community, through exclusive content and experiences you can’t get “on-air.” Terms and restrictions apply.
+To commemorate this historical milestone in the American journey, each ticket to <a href="https://www.ms.now/">MS NOW</a>’s America 250 event includes an offer for a one-year <a href="https://www.ms.now/">MS NOW</a> Membership, a new subscription experience that brings <a href="https://www.ms.now/">MS NOW</a> fans like you closer to our hosts and to each other. With the <a href="https://www.ms.now/">MS NOW</a> year-long membership, you’ll have unprecedented access to <a href="https://www.ms.now/">MS NOW</a> journalists and our community, through exclusive content and experiences you can’t get “on-air.” Terms and restrictions apply.
 
-Don’t miss the chance to honor America’s 250 Anniversary with the MS NOW community in Philadelphia on June 25!
+Don’t miss the chance to honor America’s 250 Anniversary with the <a href="https://www.ms.now/">MS NOW</a> community in Philadelphia on June 25!
 </div><!-- 2026-06-25T23:00:00Z-->
 
 <h3><a href="https://www.farmaid.org/">🌾 Farm Aid 2026</a></h3>
 
 <!-- [Farm Aid – Standing With Family Farmers Since 1985](https://www.farmaid.org/) -->
 
+<p>
+<strong>September 26, 2026</strong><br />
+<strong>Venue</strong><br />
+<a href="https://www.virginiabeachamphitheater.com/">Veterans United Home Loans Amphitheater / Latest Events & Information / Virginia Beach</a><br />
+<a href="https://virginiabeach.gov/">Virginia Beach</a>, <a href="https://www.virginia.gov/">Virginia</p>
+
 Why I’m Highlighting It This Year
 
 The [Iran](https://irangov.ir/) war has triggered a chain reaction in the real economy — LNG, diesel, fertilizer, fishing fuel, freight, plastics, even the coal and metals that keep the grid running. Diesel delivers everything, from crops to catch to coal for power plants, and when it spikes, the whole system tightens. Farmers, ranchers, and fishermen feel it first.
 
-[Farm Aid](https://www.farmaid.org/) has now set its 2026 date for September 26. The location is still TBD, but the need is not. With the [Iran](https://irangov.ir/) war driving up the cost of diesel, fertilizer, freight, and every input that keeps American farms running, the pressure on farmers and fishermen is only getting worse. That’s why I’m keeping [Farm Aid](https://www.farmaid.org/) on the homepage this year instead of letting it expire. The economic strain isn’t temporary, and neither is the support they need.
+With the [Iran](https://irangov.ir/) war driving up the cost of diesel, fertilizer, freight, and every input that keeps American farms running, the pressure on farmers and fishermen is only getting worse. That’s why I’m keeping [Farm Aid](https://www.farmaid.org/) on the homepage this year instead of letting it expire. The economic strain isn’t temporary, and neither is the support they need.
 
 Read the full post <a href="https://ralphhightower.github.io/blog/2026/03/FarmAid.html">Farm Aid 2026: A Year of Need→</a>
 
@@ -365,7 +371,7 @@ Both political parties fucked up in 2016.
 
 Both candidates were polarizing! [Trump](https://www.donaldjtrump.com/) still is.
 
-No, I do not have TDS ([Trump](https://www.donaldjtrump.com/) Derangement Syndrome)[^320]<sup>,</sup>[^325]. I certainly never was a member of the Cult of [Trump](https://www.donaldjtrump.com/). [Trumpers](https://www.donaldjtrump.com/) are infected with RTD[^340]. My assessment of [Trump](https://www.donaldjtrump.com/) hasn't wavered from when he first announced his candidacy in 2015. He's still a fucking idiot.
+I got the TDS ([Trump](https://www.donaldjtrump.com/) Derangement Syndrome)[^320]<sup>,</sup>[^325] vaccine.l; I determined that [Donald Trump](https://www.donaldjtrump.com/) was a fucking idiot when he announced his candidacy. I certainly never was a member of the Cult of [Trump](https://www.donaldjtrump.com/). [Trumpers](https://www.donaldjtrump.com/) are infected with RTD[^340]. My assessment of [Trump](https://www.donaldjtrump.com/) hasn't wavered from when he first announced his candidacy in 2015. He's still a fucking idiot.
 
 [^320]: [Wikipedia — Trump derangement syndrome](https://en.wikipedia.org/wiki/Trump_derangement_syndrome?wprov=sfla1)
 [^325]: [Trump](https://www.donaldjtrump.com/)'s sycophants, acolytes, and cult members, are just as infantile as [Trump](https://www.donaldjtrump.com/) with his name calling and labeling.
@@ -682,7 +688,7 @@ function getTimeSpan(from, to) {
 function fmtDaysRemaining(from, to) {
     const diff = getTimeSpan(from, to);
     const days = Math.floor(diff / (1000 * 60 * 60 * 24));
-    return days + (days > 1 ? " days" : "day");
+    return days + (days > 1 ? " days" : " day");
 }
 
 function updateCountdown(id, targetTime, mode) {
