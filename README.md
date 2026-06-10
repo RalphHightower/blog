@@ -320,7 +320,7 @@ Read the full post <a href="https://ralphhightower.github.io/blog/2026/03/FarmAi
 
 ### Protest Songs
 
-This is my [@YouTube](https://www.youtube com/) curated list of protest related songs for inspiring resistance and uprising against the [Trump](https://www.donaldjtrump.com/) [ap​pa​rat​chik](http://www.merriam-webster.com/dictionary/apparatchik).
+This is my [@YouTube](https://www.youtube.com/) curated list of protest related songs for inspiring resistance and uprising against the [Trump](https://www.donaldjtrump.com/) [ap​pa​rat​chik](http://www.merriam-webster.com/dictionary/apparatchik).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LkQzsDav-oI?si=bTumzZ72t_unOdsY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
