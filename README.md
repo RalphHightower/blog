@@ -285,17 +285,15 @@ Don’t miss the chance to honor America’s 250 Anniversary with the <a href="h
 
 <!-- [Farm Aid – Standing With Family Farmers Since 1985](https://www.farmaid.org/) -->
 
-<p>
-<strong>September 26, 2026</strong><br />
+<p><strong>September 26, 2026</strong><br />
 <strong>Venue</strong><br />
-<a href="https://www.virginiabeachamphitheater.com/">Veterans United Home Loans Amphitheater / Latest Events & Information / Virginia Beach</a><br />
-<a href="https://virginiabeach.gov/">Virginia Beach</a>, <a href="https://www.virginia.gov/">Virginia</p>
+<a href="https://www.virginiabeachamphitheater.com/">Veterans United Home Loans Amphitheater / Latest Events & Information / Virginia Beach</a><br /><a href="https://virginiabeach.gov/">Virginia Beach</a>, <a href="https://www.virginia.gov/">Virginia</p>
 
 Why I’m Highlighting It This Year
 
-The [Iran](https://irangov.ir/) war has triggered a chain reaction in the real economy — LNG, diesel, fertilizer, fishing fuel, freight, plastics, even the coal and metals that keep the grid running. Diesel delivers everything, from crops to catch to coal for power plants, and when it spikes, the whole system tightens. Farmers, ranchers, and fishermen feel it first.
+The <a href="https://irangov.ir">Iran</a> war has triggered a chain reaction in the real economy — LNG, diesel, fertilizer, fishing fuel, freight, plastics, even the coal and metals that keep the grid running. Diesel delivers everything, from crops to catch to coal for power plants, and when it spikes, the whole system tightens. Farmers, ranchers, and fishermen feel it first.
 
-With the [Iran](https://irangov.ir/) war driving up the cost of diesel, fertilizer, freight, and every input that keeps American farms running, the pressure on farmers and fishermen is only getting worse. That’s why I’m keeping [Farm Aid](https://www.farmaid.org/) on the homepage this year instead of letting it expire. The economic strain isn’t temporary, and neither is the support they need.
+With the <a href="https://irangov.ir">Iran</a> war driving up the cost of diesel, fertilizer, freight, and every input that keeps American farms running, the pressure on farmers and fishermen is only getting worse. That’s why I’m keeping [Farm Aid](https://www.farmaid.org/) on the homepage this year instead of letting it expire. The economic strain isn’t temporary, and neither is the support they need.
 
 Read the full post <a href="https://ralphhightower.github.io/blog/2026/03/FarmAid.html">Farm Aid 2026: A Year of Need→</a>
 
