@@ -20,6 +20,37 @@ The telephone numbers below have called and there is an empty person on the othe
 
 | Telephone Number | Location | Date Time[^11]<sup>,</sup>[^12] | Caller | Social Media |
 |---|---|---|---|---|
+| [\+1 (803) 482-6347](tel:+18034826347) | SC. Great Falls | 2026-06-08 11:31 AM ¤¤ | CATHERINE JORDAN | |
+| [\+1 (803) 482-6347](tel:+18034826347) | SC. Great Falls | 2026-06-08 11:30 AM | CATHERINE JORDAN | |
+| [\+1 (803) 455-9123](tel:+18034559123) | SC. Jackson | 2026-06-08 10:21 AM ¤¤ | BEECH IS, SC | |
+| [\+1 (803) 325-8114](tel:+18033258114) | SC. Rock Hill | 2026-06-05 03:13 PM | DENNIS ALLEN HAMRICK | |
+| [\+1 (803) 325-8114](tel:+18033258114) | SC. Rock Hill | 2026-06-05 03:13 PM ¤¤ | DENNIS ALLEN HAMRICK | |
+| [\+1 (803) 498-6175](tel:+18034986175) | SC. Shaw AFB | 2026-06-05 02:47 PM | SARA W PURVIS | |
+| [\+1 (803) 496-3843](tel:+18034963843) | SC. Holly Hill | 2026-06-05 11:52 AM | BRANDON L FOGLE | |
+| [\+1 (803) 462-3709](tel:+18034623709) | SC. Columbia | 2026-06-04 06:25 PM | CINDY M ROBINSON | |
+| [\+1 (803) 871-4345](tel:+18038714345) | SC. Summerton | 2026-06-04 03:28 PM | DONNA CLARK | |
+| [\+1 (803) 432-9274](tel:+18034329274) | SC. Camden | 2026-06-04 01:04 PM | — | |
+| [\+1 (330) 377-0258](tel:+13303770258) | OH. Glenmont | 2026-06-02 03:10 PM | HALEY J GRAGES | |
+| [\+1 (803) 267-7954](tel:+18032677954) | SC. Ehrhardt | 2026-06-02 11:08 AM | — | |
+| [\+1 (803) 708-4149](tel:+18037084149) | SC. Columbia | 2026-06-01 05:35 PM | Randolph, Dawn (RANDOLPH DAWN) | |
+| [\+1 (803) 245-7451](tel:+18032457451) | SC. Bamberg | 2026-06-01 02:32 PM | Herndon, Shannon (SHANNON B HERNDON) | |
+| [\+1 (803) 233-5237](tel:+18032335237) | SC. Columbia | 2026-06-01 01:48 PM | Sleep Management | |
+| [\+1 (803) 776-9605](tel:+18037769605) | SC. Columbia | 2026-05-28 02:03 PM | [HANSEN INTERNAT](https://www.hansenint.com/) | |
+| [\+1 (803) 776-6279](tel:+18037766279) | SC. Columbia | 2026-05-28 01:44 PM | Prioleau Grocer (WILLIAM I PRIOLEAU) | |
+| [\+1 (803) 734-6053](tel:+18037346053) | SC. Columbia | 2026-05-27 03:59 PM | S C STATE GOVT | |
+| [\+1 (803) 324-4827](tel:+18033244827) | SC. Rock Hill | 2026-05-23 02:18 PM | PAMELA BARCO | |
+| [\+1 (803) 423-6034](tel:+18034236034) | SC. Bishopville | 2026-05-21 04:14 PM | EARNESTINE P GODBOLT | |
+| [\+1 (803) 756-0920](tel:+18037560920) | SC. Lexington | 2026-05-20 03:45 PM | — | |
+| [\+1 (803) 756-0920](tel:+18037560920) | SC. Lexington | 2026-05-20 03:45 PM | — | |
+| [\+1 (803) 256-6841](tel:+18032566841) | SC. Columbia | 2026-05-20 11:29 AM | HUNTER EUGENE | |
+| [\+1 (803) 393-6017](tel:+18033936017) | SC. Jackson | 2026-05-20 10:03 AM | — | |
+| [\+1 (803) 910-9180](tel:+18039109180) | SC. Bowman | 2026-05-19 05:38 PM | — | |
+| [\+1 (803) 966-6971](tel:+18039666971) | SC. Columbia | 2026-05-19 02:22 PM | — | |
+| [\+1 (803) 782-3805](tel:+18037823805) | SC. Columbia | 2026-05-19 11:01 AM | — | |
+| [\+1 (844) 616-3442](tel:+18446163442) | TF. Toll Free | 2026-05-19 01:29 AM ¤¤ | #LoanFraud | |
+| [\+1 (845) 561-0251](tel:+18455610251) | TF. Toll Free | 2026-05-19 01:29 AM ¤¤ | #LoanFraud (Call Back) | |
+| [\+1 (844) 616-3442](tel:+18446163442) | TF. Toll Free | 2026-05-19 01:28 AM | #LoanFraud | |
+| [\+1 (844) 616-3442](tel:+18446163442) | TF. Toll Free | 2026-05-19 01:28 AM 🚫 | #LoanFraud | |
 | [\+1 (720) 547-0380](tel:+17205470380) | CO. Keenesburg | 2026-05-15 02:19 PM | | Text fr/ Headhunter |
 | [\+1 (803) 486-7196](tel:+18034867196) | SC. Bishopville | 2026-05-15 11:38 AM | — | |
 | [\+1 (803) 271-0365](tel:+18032710365) | SC. Newberry | 2026-05-15 11:30 AM | SUZANNE JEAN WILLIAMS | |
@@ -65,8 +96,8 @@ The telephone numbers below have called and there is an empty person on the othe
 | [\+1 (803) 548-0864](tel:+18035480864) | SC. Fort Mill | 2026-04-08 01:33 PM | Margaret Bisig (BISIG CHRIS) |
 | [\+1 (854) 946-3106](tel:+18549463106) | SC. Bluffton | 2026-04-06 12:11 PM | — |
 | [\+1 (864) 866-6842](tel:+18648666842) | SC. Liberty | 2026-04-04 11:06 AM | — |
-| [\+1 (833) 263-0531](tel:+18332630531) | Toll Free | 2026-04-03 05:48 PM | #LoanFraud 🚫 National Advisory Group |
-| [\+8 (669) 901-1319](tel:+886699011319) | Toll Free | 2026-04-03 05:48 PM | #LoanFraud 🚫 |
+| [\+1 (833) 263-0531](tel:+18332630531) | TF. Toll Free | 2026-04-03 05:48 PM | #LoanFraud 🚫 National Advisory Group |
+| [\+8 (669) 901-1319](tel:+886699011319) | TF. Toll Free | 2026-04-03 05:48 PM | #LoanFraud 🚫 |
 | [\+1 (854) 336-8026](tel:+18543368026) | SC. Jamestown | 2026-04-03 12:46 PM | — |
 | [\+1 (839) 225-0736](tel:+18392250736) | SC. North | 2026-04-01 06:29 PM | — |
 | [\+1 (839) 288-2151](tel:+18392882151) | SC. | 2026-04-01 04:36 PM Onvoy | — |
@@ -86,16 +117,16 @@ The telephone numbers below have called and there is an empty person on the othe
 | [\+1 (803) 559-5823](tel:+18035595823) | SC. Wagener | 2026-03-02 10:52 AM | CORA LEE TOOMER |
 | [\+1 (803) 570-5086](tel:+18035705086) | SC. Orangeburg | 2026-02-27 04:46 PM | — |
 | [\+1 (803) 563-6984](tel:+18035636984) | SC. Columbia | 2026-02-27 04:17 PM | — |
-| [\+1 (855) 451-4630](tel:+18554514630) | Toll Free | 2026-02-27 11:25 AM ¤¤🚫 | (Callback) #TaxFraud |
-| [\+1 (866) 770-0365](tel:+18667700365) | Toll Free | 2026-02-27 11:25 AM ¤¤🚫 | (Originating) #TaxFraud |
+| [\+1 (855) 451-4630](tel:+18554514630) | TF. Toll Free | 2026-02-27 11:25 AM ¤¤🚫 | (Callback) #TaxFraud |
+| [\+1 (866) 770-0365](tel:+18667700365) | TF. Toll Free | 2026-02-27 11:25 AM ¤¤🚫 | (Originating) #TaxFraud |
 | [\+1 (803) 771-0923](tel:+18037710923) | SC. Columbia | 2026-02-26 11:39 AM | Robo Caller |
 | [\+1 (803) 754-0530](tel:+18037540530) | SC. Columbia | 2026-02-25 02:49 PM | ANDRENA J |
 | [\+1 (864) 786-7947](tel:+18647867947) | SC. Williamston | 2026-02-25 12:19 PM | — |
 | [\+1 (803) 408-2864](tel:+18034082864) | SC. Elgin | 2026-02-24 12:16 PM | Smith Jeffrey (JEFFERY S SMITH) |
-| [\+1 (833) 669-4471](tel:+18336694471) | Toll Free | 2026-02-24 12:04 PM ¤¤🚫 | #TaxFraud (Callback) |
-| [\+1 (888) 741-1336](tel:+18887411336) | Toll Free | 2026-02-24 12:04 PM ¤¤🚫 | #TaxFraud (Originating) |
-| [\+1 (855) 821-3285](tel:+18558213285) | Toll Free | 2026-02-24 11:47 AM ¤¤🚫 | #TaxFraud (Callback) |
-| [\+1 (888) 352-0551](tel:+18883520551) | Toll Free | 2026-02-24 11:47 AM ¤¤🚫 | #TaxFraud (Originating) |
+| [\+1 (833) 669-4471](tel:+18336694471) | TF. Toll Free | 2026-02-24 12:04 PM ¤¤🚫 | #TaxFraud (Callback) |
+| [\+1 (888) 741-1336](tel:+18887411336) | TF. Toll Free | 2026-02-24 12:04 PM ¤¤🚫 | #TaxFraud (Originating) |
+| [\+1 (855) 821-3285](tel:+18558213285) | TF. Toll Free | 2026-02-24 11:47 AM ¤¤🚫 | #TaxFraud (Callback) |
+| [\+1 (888) 352-0551](tel:+18883520551) | TF. Toll Free | 2026-02-24 11:47 AM ¤¤🚫 | #TaxFraud (Originating) |
 | [\+1 (803) 286-0756](tel:+18032860756) | SC. Lancaster | 2026-02-24 11:26 AM | — |
 | [\+1 (803) 328-0425](tel:+18033280425) | SC. Rock Hill | 2026-02-23 04:28 PM | Lloyd Snipes (LLOYD A SNIPES) |
 | [\+1 (803) 779-2198](tel:+18037792198) | SC. Columbia | 2026-02-20 12:22 PM ¤¤🚫 | CROOKS ROBERT |
@@ -163,7 +194,7 @@ The telephone numbers below have called and there is an empty person on the othe
 | [\+1 (803) 739-4358](tel:+18037394358) | SC. Columbia | 2025-12-17 09:36 AM | Wanda Lorick |
 | [\+1 (803) 482-2236](tel:+18034822236) | SC. Great Falls | 2025-12-13 10:15 AM | Jimmy Williams |
 | [\+1 (803) 768-5416](tel:+18037685416) | SC. Newberry | 2025-12-12 10:13 AM | — |
-| [\+1 (888) 264-1083](tel:+18882641083) | Toll Free | 2025-12-11 02:53 PM | — |
+| [\+1 (888) 264-1083](tel:+18882641083) | TF. Toll Free | 2025-12-11 02:53 PM | — |
 | [\+1 (803) 548-3415](tel:+18035483415) | SC. Fort Mill | 2025-12-11 09:43 AM | KEITH J GRIFFIN |
 | [\+1 (803) 454-3241](tel:+18034543241) | SC. Columbia | 2025-12-09 03:45 PM ¤¤ | — |
 | [\+1 (803) 454-3241](tel:+18034543241) | SC. Columbia | 2025-12-09 03:44 PM | — |
@@ -317,7 +348,7 @@ The telephone numbers below have called and there is an empty person on the othe
 | [\+1 (803) 987-9102](tel:+18039879102) | SC. Orangeburg | 2025-11-05 01:25 PM | City of Orangeburg |
 | [\+1 (803) 709-7491](tel:+18037097491) | SC. Barnwell | 2025-11-05 01:11 PM | — |
 | [\+1 (283) 444-1229](tel:+12834441229) | OH. Bethel | 2025-11-05 10:48 AM ¤¤🚫 | #TaxFraud |
-| [\+1 (866) 597-9106](tel:+18665979106) | Toll Free | 2025-11-05 10:48 AM | Tax Mediation Assistance #TaxFraud |
+| [\+1 (866) 597-9106](tel:+18665979106) | TF. Toll Free | 2025-11-05 10:48 AM | Tax Mediation Assistance #TaxFraud |
 | [\+1 (803) 631-2143](tel:+18036312143) | SC. Fort Mill | 2025-11-05 09:10 AM | — |
 | [\+1 (803) 599-8947](tel:+18035998947) | SC. Beech Island | 2025-11-04 06:47 PM | — |
 | [\+1 (803) 758-4854](tel:+18037584854) | SC. Columbia | 2025-11-04 06:18 PM | — |
@@ -581,7 +612,7 @@ The telephone numbers below have called and there is an empty person on the othe
 | [\+1 (803) 275-4361](tel:+18032754361) | SC. Johnston | 2025-08-13 07:03 PM | J B Burton |
 | [\+1 (803) 299-4014](tel:+18032994014) | SC. Columbia | 2025-08-12 05:58 PM | — |
 | [\+1 (864) 274-0533](tel:+18642740533) | SC. Greenville | 2025-08-12 04:45 PM ¤¤ | #TaxFraud |
-| [\+1 (888) 344-9662](tel:+18883449662) | Toll Free | 2025-08-12 04:45 PM | #TaxFraud |
+| [\+1 (888) 344-9662](tel:+18883449662) | TF. Toll Free | 2025-08-12 04:45 PM | #TaxFraud |
 | [\+1 (864) 274-0533](tel:+18642740533) | SC. Greenville | 2025-08-12 04:43 PM | #TaxFraud |
 | [\+1 (803) 988-7798](tel:+18039887798) | SC. Columbia | 2025-08-12 02:58 PM | — |
 | [\+1 (803) 653-7453](tel:+18036537453) | SC. Salley | 2025-08-12 09:15 AM | — |
