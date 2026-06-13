@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [media,Marsh Family - YouTube,political parties,Democrat Party,Trumpian Party,federal government,Constitution of the United States,Supreme Court of the United States (SCOTUS),US Courts,Department of Justice (DOJ),Federal Bureau of Investigation (FBI),Federal Reserve,Federal Reserve Board - Federal Reserve Act,U.S. Department of the Treasury,Congress,Senate,House of Representatives,President of the United States (POTUS),White House (WH),Trump autocracy,Donald J Trump,President Donald Trump (45),President Donald Trump (47),President Trump (47) Administration,President Trump (47) Cabinet,press secretary,Karoline Leavitt,Scott Bessent / U.S. Department of the Treasury,Pam Bondi – Office of the Attorney General / Meet the Attorney General / United States Department of Justice,Todd Blanche – Office of the Deputy Attorney General / Office of the Deputy Attorney General,Todd Blanche / LinkedIn,Director Kash Patel — FBI,grifter,self-dealing,corruption,con artist,crime,cryptocurrency,criminal associates,criminal businesses,criminal media,criminal organizations,criminal partners]
+tags: [media,Marsh Family - YouTube,organizations,America250,Rise Up Sing Out — A Concert for the First Amendment,The John F. Kennedy Memorial Center for the Performing Arts,political parties,Democrat Party,Trumpian Party,federal government,Constitution of the United States,Supreme Court of the United States (SCOTUS),US Courts,Department of Justice (DOJ),Federal Bureau of Investigation (FBI),Federal Reserve,Federal Reserve Board - Federal Reserve Act,U.S. Department of the Treasury,Congress,Senate,House of Representatives,President of the United States (POTUS),White House (WH),Trump autocracy,Donald J Trump,President Donald Trump (45),President Donald Trump (47),President Trump (47) Administration,President Trump (47) Cabinet,press secretary,Karoline Leavitt,Scott Bessent / U.S. Department of the Treasury,Pam Bondi – Office of the Attorney General / Meet the Attorney General / United States Department of Justice,Todd Blanche – Office of the Deputy Attorney General / Office of the Deputy Attorney General,Todd Blanche / LinkedIn,Director Kash Patel — FBI,grifter,self-dealing,corruption,con artist,crime,cryptocurrency,criminal associates,criminal businesses,criminal media,criminal organizations,criminal partners]
 categories: [Donald Trump,Yankee Doodle,parody,Marsh Family]
 date: 2026-06-12 11:51
 excerpt: ''
@@ -15,14 +15,14 @@ title: "Yankee Doodle: America 250th Anniversary Edition"
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EnZY_08vnHc?si=8ZBLPhAaEo49Xhys" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Jun 12, 2026  FAVERSHAM
-"Yankee Doodle" was a traditional song (Roud 4501) that predated the American Revolution and was adapted by both British and Americans to mock one another in the eighteenth century. So we felt it was a fitting tune to repurpose on the occasion of the 250th anniversary of the birth of the United States, and the No Kings musical protests occurring this weekend which happens to be the 80th birthday of Donald Trump. 
+"Yankee Doodle" was a traditional song (Roud 4501) that predated the American Revolution and was adapted by both British and Americans to mock one another in the eighteenth century. So we felt it was a fitting tune to repurpose on the occasion of the [250th anniversary of the birth of the United States](https://america250.org/), and the [No Kings](https://www.nokings.org/) [musical protests](https://riseupsingout.com/) occurring this weekend which happens to be the 80th birthday of [Donald Trump](https://www.donaldjtrump.com/). 
 
 The word 'doodle' likely comes from German 'Dödel' meaning fool or simpleton or nob. It may also reference Low German 'dudel' = playing music badly. So it works whether you like or hate this parody arrangement! The earliest known version of the lyrics was the 1750s when it was sung during the Seven Years' War (or "French and Indian War" in the colonies), and it had become a patriotic song for the USA by 1781, when new verses mentioned a certain George Washington, who also crops up in ours as a bringer of political or national liberty (though, of course, also a slaveholder and denier of liberty). 
 
 In case anyone needs a backstory to the events cited:
 [Freedom 250 and America250: How is the US celebrating its big birthday?](https://www.bbc.com/news/articles/c5y8nnj33e1o)
 
-And for a good little primer on the backstory of the song from the "Kennedy Center" which features briefly in the graphics:
+And for a good little primer on the backstory of the song from the ["Kennedy Center"](https://www.kennedy-center.org/) which features briefly in the graphics:
 [Yankee Doodle](https://www.kennedy-center.org/education/resources-for-educators/classroom-resources/media-and-interactives/media/music/story-behind-the-song/the-story-behind-the-song/yankee-doodle/)
 
 ### [Marsh Family - YouTube](https://www.youtube.com/@MarshFamilySongs)
@@ -39,6 +39,10 @@ The Marsh Family (Ben, Danielle, Alfie, Thomas, Ella, & Tess)
 ----
 - media
 - [Marsh Family - YouTube](https://www.youtube.com/@MarshFamilySongs)
+- organizations
+- [America250](https://america250.org/)
+- [Rise Up Sing Out — A Concert for the First Amendment](https://riseupsingout.com/)
+- [The John F. Kennedy Memorial Center for the Performing Arts](https://www.kennedy-center.org/)
 - political parties
 - [Democrat Party](https://www.democrats.org/)
 - [Trumpian Party](https://www.gop.com/)
