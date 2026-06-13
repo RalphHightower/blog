@@ -7,7 +7,7 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: "Trump 2.0 Deadpool / Voted Off Islad / You're Fired!"
+title: "Trump 2.0 Deadpool / Voted Off Island / You're Fired!"
 ---
 
 [^20260324]: A fictional job.
