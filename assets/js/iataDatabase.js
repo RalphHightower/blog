@@ -11,11 +11,13 @@ const iataDatabase = {
     DOV { name: "Dover Air Force Base", link: "https://www.dover.af.mil/", lat: 0.682918, lon: 1.317108 },
     DSM { name: "Des Moines International Airport", link: "https://www.flydsm.com/", lat: 0.724903, lon: 1.634729 },
     DTW { name: "Detroit Metropolitan Wayne County Airport", link: "https://www.metroairport.com/", lat: 0.736747, lon: 1.454790 },
+    EAU { name: "Chippewa Valley Regional Airport", link: "https://www.chippewavalleyairport.com/", lat:  0.776945534, lon:  1.593316310 }, // 44°51′57″N 091°29′03″W
     EDF { name: "Joint Base Elmendorf-Richardson", link: "https://www.jber.jb.mil/", lat: 1.069038, lon: 2.614615 },
     ERV { name: "Kerrville Municipal Airport", link: "https://www.kerrvilletx.gov/1765/Airport", lat: 0.523192, lon: 1.729369 },
     EWR { name: "Newark Liberty International Airport", link: "https://www.newarkairport.com/", lat: 0.710218, lon: 1.294486 },
     FCO { name: "Fiumicino Leonardo da Vinci International Airport / Rome Fiumicino Airport", link: "https://www.adr.it/", lat: 0.729552, lon: 0.213609 },
     FRG { name: "Republic Airport", link: "https://republicairport.net/", lat: 0.710853, lon: 1.281304 },
+    GVA { name: "Geneva Airport", link: "http://www.gva.ch/", lat:  0.805321097, lon:  0.105825072 }, // 46°14′15″N 6°06′33″E
     GON { name: "Groton-New London Airport", link: "https://ctairports.org/airports/groton-newlondon/", lat;  0.718984895, lon:  1.257059431 }, // 41°19′48″N 072°02′42″W
     HNL { name: "Joint Base Pearl Harbor–Hickam / Daniel K. Inouye International Airport", link: "https://airports.hawaii.gov/hnl/", lon: 0.369847486, lat: 2.749802888 },	//21°19′07″N 157°55′21″W
     HGR { name: "Hagerstown Regional Airport", link: "https://www.washco-md.net/hagerstown-regional-airport/", lat: 0.693046, lon: 1.356581 },
@@ -48,6 +50,7 @@ const iataDatabase = {
     RMS { name: "Ramstein Air Base", link: "https://www.ramstein.af.mil/", lat: 0.862837, lon: 0.132645 },
     RUH { name: "King Khalid International Airport", link: "https://www.kkia.sa/en", lat: 0.435595, lon: 0.815049 },
     SKF { name: "Joint Base San Antonio / Kelly Field", link: "https://www.jbsa.mil/", lat: 0.512836, lon: 1.720560 },
+    SMQ { name: "Somerset Airport", link: "https://www.somersetairport.com/", lat:  0.704648760, lon:  1.298545907 }, // 40°37′34″N 074°40′12″W
     SNN { name: "Shannon Airport", link: "https://www.shannonairport.ie/", lat: 0.919822, lon: 0.155766 },
     SSH { name: "Sharm El-Sheikh International Airport", link: "https://sharmelsheikh-airport.com/", lat: 0.488295, lon: 0.600301 },
     STN { name: "London Stansted Airport", link: "https://www.stanstedairport.com/", lat: 0.905564, lon: 0.004102 },
