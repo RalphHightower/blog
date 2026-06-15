@@ -59,6 +59,7 @@ Jon Stewart and The Best Fucking News Team host [The Daily Show](https://www.cc.
 - [The official site of the NBA for the latest NBA Scores, Stats & News. / NBA.com](https://www.nba.com/)
     - [New York Knicks Official Website / Knicks Basketball](https://www.nba.com/knicks/)
     - [2026 NBA Finals](https://www.nba.com/playoffs/2026/nba-finals)
+        - [Spurs 115, Knicks 111](https://www.nba.com/game/sas-vs-nyk-0042500403)
 - federal government
 - [Constitution of the United States](https://constitution.congress.gov/constitution/)
     - [Supreme Court of the United States (SCOTUS)](https://www.supremecourt.gov/)
