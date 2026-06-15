@@ -7,7 +7,7 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: 'title'
+title: "Trump Put UpTariffs"
 ---
 
 ## "I Put Up Tariffs" - Marsh Family adaptation of Bob Marley and the Wailers, "I Shot the Sheriff"
