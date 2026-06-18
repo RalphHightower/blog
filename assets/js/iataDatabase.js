@@ -1,4 +1,4 @@
-const iataDatabase = {
+const iataDatabase = [
     ABE { name: "Lehigh Valley International Airport", link: "https://www.flyabe.com/", lat: 0.682041, lon: 1.345266 },
     ADW { name: "Joint Base Andrews", link: "https://www.jba.af.mil/", lat: 0.677377, lon: 1.341581 },
     ANC { name: "Ted Stevens Anchorage International Airport", link: "https://dot.alaska.gov/anc/", lat: 1.066443297, lon: 2.610932276 }, // 61°10′27″N 149°59′54″W
@@ -39,6 +39,7 @@ const iataDatabase = {
     MIA { name: "Miami International Airport", link: "https://miami-airport.com/", lat: 0.450179, lon: 1.401335 },
     MMU { name: "Morristown Municipal Airport", link: "https://www.mmuair.com/", lat: 0.712085, lon: 1.298787 },
     MTC { name: "Selfridge Air National Guard Base", link: "https://www.127wg.ang.af.mil/", lat: 0.743656, lon: 1.445753 },
+    ORY { name: "Aéroport Paris-Orly - Paris Aéroport", link: "https://www.parisaeroport.fr/en/passengers/orly-airport", lat:  0.845304845, lon:  0.038826595 }, // 48°43′24″N 02°22′46″E
     PBI { name: "Palm Beach International Airport", link: "https://www.pbia.org/", lat: 0.465707, lon: 1.397931 },
     PEB { name: "Teterboro Airport", link: "https://www.panynj.gov/airports/en/teterboro.html", lat: 0.712967, lon: 1.292605 },
     PEK { name: "Beijing Capital International Airport", link: "https://www.bcia.com.cn/", lat: 0.698876956, lon: 2.030779596 }, //40°04′21″N 116°35′51″E
@@ -60,5 +61,5 @@ const iataDatabase = {
     YYC { name: "Calgary International Airport", link: "https://www.yyc.com/", lat: 0.892106, lon: 1.990029 },
     ZDV { name: "Davos Stilli Heliport", link: "https://www.davos-helicopter.com/?menuopen=3&showcontent=2", lat: 0.816826, lon: 0.171590 },
     ZRH { name: "Zurich Airport", link: "https://www.flughafen-zuerich.ch/", lat: 0.630898, lon: −2.010501 }
-    };
+    ];
 	
