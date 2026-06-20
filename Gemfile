@@ -39,7 +39,7 @@ gem 'jekyll-toc', '~> 0.19.0'
 gem 'jemoji', '~> 0.13.0'
 gem 'jekyll-paginate-v2', '~> 3.0'
 
-gem "sqlite-vss", "0.1.1" ## bundle update sqlite-vss
+gem 'sqlite-vss', '>= 0.1.2'
 
 # Security updates
 # { 2025-03-03 
@@ -59,7 +59,6 @@ gem 'activesupport', '~> 7.2', '>= 7.2.3.1'
 # gem 'sqlite3', '~> 2.5'
 gem 'sqlite3', '~> 1.4', '>= 1.4.4'
 #gem 'sqlite3', '~> 1.7', '>= 1.7.3' # March 15, 2024
-gem 'sqlite-vss', '>= 0.1.2'
 # gem 'zeitwerk', '~> 2.6', '>= 2.6.18'
 # gem 'zeitwerk', '~> 2.7', '>= 2.7.1'
 # } 2025-01-11 @RalphHightower 
