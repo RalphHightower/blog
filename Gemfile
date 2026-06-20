@@ -39,6 +39,8 @@ gem 'jekyll-toc', '~> 0.19.0'
 gem 'jemoji', '~> 0.13.0'
 gem 'jekyll-paginate-v2', '~> 3.0'
 
+gem "sqlite-vss", "0.1.1" ## bundle update sqlite-vss
+
 # Security updates
 # { 2025-03-03 
 gem 'uri', '~> 1.1', '>= 1.1.1'
@@ -61,7 +63,7 @@ gem 'sqlite3', '~> 1.4', '>= 1.4.4'
 # gem 'zeitwerk', '~> 2.7', '>= 2.7.1'
 # } 2025-01-11 @RalphHightower 
 
-# { 2026-02-21 @RalphHightower – Nokogiri does not check the return value from xmlC14NExecute
-gem 'nokogiri', '~> 1.19', '>= 1.19.1'
-# } 2026-02-21 @RalphHightower
+# { 2026-06-20 @RalphHightower – Nokogiri patches vendored libxml2 to resolve multiple CVEs #15
+gem 'nokogiri', '>= 1.19.4'
+# } 2026-06-20 @RalphHightower
 end
