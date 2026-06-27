@@ -7,7 +7,7 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: "Vive la Révolution"
+title: "Vive la Résistance"
 ---
 
 ## [Why Trump’s White House executive order blitz stalled out](https://www.ms.now/opinion/trump-first-year-blitzkrieg-stalled-out)
