@@ -20,6 +20,57 @@ The telephone numbers below have called and there is an empty person on the othe
 
 | Telephone Number | Location | Date Time[^11]<sup>,</sup>[^12] | Caller | Social Media |
 |---|---|---|---|---|
+| [\+1 (803) 263-7108](tel:+18032637108) | SC. Norway | 2026-06-26 05:29 PM | — | |
+| [\+1 (803) 443-0121](tel:+18034430121) | SC. New Ellington | 2026-06-25 04:20 PM ¤¤ | JOHNSON G | |
+| [\+1 (803) 443-0121](tel:+18034430121) | SC. New Ellington | 2026-06-25 04:19 PM ¤¤ | JOHNSON G | |
+| [\+1 (803) 335-4780](tel:+18033354780) | SC. Aiken | 2026-06-25 10:02 AM ¤¤ | [YORK COUNTY GOV](https://www.yorkcountysc.gov/) | |
+| [\+1 (803) 335-4780](tel:+18033354780) | SC. Aiken | 2026-06-25 10:01 AM | [YORK COUNTY GOV](https://www.yorkcountysc.gov/) | |
+| [\+1 (803) 335-4780](tel:+18033354780) | SC. Aiken | 2026-06-25 10:01 AM | [YORK COUNTY GOV](https://www.yorkcountysc.gov/) | |
+| [\+1 (803) 721-3855](tel:+18037213855) | SC. Batesburg | 2026-06-24 06:10 PM ¤¤ | — | |
+| [\+1 (803) 721-3855](tel:+18037213855) | SC. Batesburg | 2026-06-24 06:09 PM | — | |
+| [\+1 (803) 336-5266](tel:+18033365266) | SC. Edgefield | 2026-06-24 03:21 PM ¤¤ | — | |
+| [\+1 (803) 496-5469](tel:+18034965469) | SC. Holly Hill | 2026-06-24 02:12 PM | MEGAN TENNILLE WILLIAMS | |
+| [\+1 (803) 897-4579](tel:+18038974579) | SC. Elloree | 2026-06-24 12:12 PM | — | |
+| [\+1 (803) 919-7298](tel:+18039197298) | SC. Sumter | 2026-06-24 11:38 AM | — | |
+| [\+1 (803) 239-4800](tel:+18032394800) | SC. Columbia | 2026-06-22 05:22 PM ¤¤ | Burr Forman | |
+| [\+1 (803) 239-4800](tel:+18032394800) | SC. Columbia | 2026-06-22 05:21 PM | Burr Forman | |
+| [\+1 (803) 713-6736](tel:+18037136736) | SC. Camden | 2026-06-22 03:10 PM | Kershaw County | |
+| [\+1 (803) 625-9748](tel:+18036259748) | SC. Estill | 2026-06-22 11:07 AM | KEVIN E JARRELL | |
+| [\+1 (803) 207-8803](tel:+18032078803) | SC. Rock Hill | 2026-06-19 10:32 AM ¤¤ | [Agape Senior](https://sc.agapecaregroup.com/) | |
+| [\+1 (803) 207-8803](tel:+18032078803) | SC. Rock Hill | 2026-06-19 10:31 AM | [Agape Senior](https://sc.agapecaregroup.com/) | |
+| [\+1 (803) 254-9664](tel:+18032549664) | SC. Columbia | 2026-06-18 05:50 PM | Henry Arthur | |
+| [\+1 (803) 254-9664](tel:+18032549664) | SC. Columbia | 2026-06-18 05:50 PM ¤¤ | Henry Arthur | |
+| [\+1 (803) 955-5649](tel:+18039555649) | SC. West Colombia | 2026-06-18 01:40 PM | — | |
+| [\+1 (803) 955-5649](tel:+18039555649) | SC. West Colombia | 2026-06-18 01:40 PM ¤¤ | — | |
+| [\+1 (803) 869-6287](tel:+18038696287) | SC. Sumter | 2026-06-18 10:32 AM ¤¤ | — | |
+| [\+1 (803) 869-6287](tel:+18038696287) | SC. Sumter | 2026-06-18 10:31 AM | — | |
+| [\+1 (803) 440-8484](tel:+18034408484) | SC. Columbia | 2026-06-16 05:13 PM ¤¤ | [Palmetto Club](https://www.palmettoclub.org/) | |
+| [\+1 (803) 440-8484](tel:+18034408484) | SC. Columbia | 2026-06-16 05:12 PM | [Palmetto Club](https://www.palmettoclub.org/) | |
+| [\+1 (803) 929-3187](tel:+18039293187) | SC. Columbia | 2026-06-16 03:40 PM ¤¤ | MARY BELTON | |
+| [\+1 (803) 929-3187](tel:+18039293187) | SC. Columbia | 2026-06-16 03:39 PM | MARY BELTON | |
+| [\+1 (803) 226-0974](tel:+18032260974) | SC. Aiken | 2026-06-16 12:21 PM | Kevin & Stacey Kelly (AARON JOHNNY) | |
+| [\+1 (803) 259-1049](tel:+18032591049) | SC. Barnwell | 2026-06-16 10:43 AM | Karen H Still | |
+| [\+1 (803) 892-4250](tel:+18038924250) | SC. Gilbert | 2026-06-15 03:19 PM | Lawson Barr (BARR LAWSON) | |
+| [\+1 (803) 892-4250](tel:+18038924250) | SC. Gilbert | 2026-06-15 03:19 PM ¤¤ | Lawson Barr (BARR LAWSON) | |
+| [\+1 (803) 662-9278](tel:+18036629278) | SC. Orangeburg | 2026-06-15 12:00 PM ¤¤ | JANAE | |
+| [\+1 (803) 568-3700](tel:+18035683700) | SC. Swansea | 2026-06-12 07:24 PM ¤¤ | Jeffcoat Ivory (IVORY M JEFFCOAT) | |
+| [\+1 (803) 568-3700](tel:+18035683700) | SC. Swansea | 2026-06-12 07:23 PM | Jeffcoat Ivory (IVORY M JEFFCOAT) | |
+| [\+1 (803) 499-6442](tel:+18034996442) | SC. Shaw AFB | 2026-06-12 06:40 PM ¤¤ | Johnson George (GEORGE R JOHNSON) | |
+| [\+1 (803) 499-6442](tel:+18034996442) | SC. Shaw AFB | 2026-06-12 06:39 PM | Johnson George (GEORGE R JOHNSON) | |
+| [\+1 (803) 305-1720](tel:+18033051720) | SC. Sumter | 2026-06-12 05:44 PM ¤¤ | Kee, Lee | |
+| [\+1 (803) 305-1720](tel:+18033051720) | SC. Sumter | 2026-06-12 05:43 PM | Kee, Lee | |
+| [\+1 (803) 590-2887](tel:+18035902887) | SC. Little Mountain | 2026-06-12 01:47 PM ¤¤🚫 | — | |
+| [\+1 (803) 226-0958](tel:+18032260958) | SC. | 2026-06-12 01:01 PM | Edna Keiser (EDNA B KEISER) | |
+| [\+1 (803) 274-8651](tel:+18032748651) | SC. Branchville | 2026-06-12 11:48 AM | Mary L Wilson | |
+| [\+1 (803) 572-3249](tel:+18035723249) | SC. Camden | 2026-06-12 11:19 AM | B075LUGOFF (MARSHA M STONE) | |
+| [\+1 (803) 325-1088](tel:+18033251088) | SC. Rock Hill | 2026-06-11 05:21 PM | IRIS W HARRIS | |
+| [\+1 (803) 325-1088](tel:+18033251088) | SC. Rock Hill | 2026-06-11 05:21 PM ¤¤ | IRIS W HARRIS | |
+| [\+1 (803) 626-9860](tel:+18036269860) | SC. Columbia | 2026-06-11 01:21 PM | — | |
+| [\+1 (803) 993-7812](tel:+18039937812) | SC. Denmark | 2026-06-11 11:29 AM | — | |
+| [\+1 (803) 232-2783](tel:+18032322783) | SC. Graniteville | 2026-06-11 10:46 AM | Bridgestone AME (BRIDGESTONE FIRESTONE) | |
+| [\+1 (803) 569-6762](tel:+18035696762) | SC. Columbia | 2026-06-11 09:58 AM | CHRISTIE MICHELLE DOOLEY | |
+| [\+1 (803) 496-7248](tel:+18034967248) | SC. Holly Hill | 2026-06-11 04:59 AM | Behr Gene (GENE BEHR) | |
+| [\+1 (803) 719-5249](tel:+18037195249) | SC. | 2026-06-10 12:37 PM | Associates In G ([Nova Health](https://www.novahealthcare.com/member.html) spoofed number) | |
 | [\+1 (803) 482-6347](tel:+18034826347) | SC. Great Falls | 2026-06-08 11:31 AM ¤¤ | CATHERINE JORDAN | |
 | [\+1 (803) 482-6347](tel:+18034826347) | SC. Great Falls | 2026-06-08 11:30 AM | CATHERINE JORDAN | |
 | [\+1 (803) 455-9123](tel:+18034559123) | SC. Jackson | 2026-06-08 10:21 AM ¤¤ | BEECH IS, SC | |
