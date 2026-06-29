@@ -14,6 +14,7 @@ title: 'title'
 
 ----
 - media
+- keywords
 - organizations
 - political parties
 - [Democrat Party](https://www.democrats.org/)
@@ -74,10 +75,13 @@ title: 'title'
         - [President Donald Trump (47)](https://www.whitehouse.gov/administration/donald-j-trump/)
             - [President Trump (47) Administration](https://www.whitehouse.gov/administration/)
             - [President Trump (47) Cabinet](https://www.whitehouse.gov/administration/the-cabinet/)
+                - [Vice President JD Vance](https://www.whitehouse.gov/administration/jd-vance/)
+                - [JD Vance / LinkedIn](https://www.linkedin.com/in/jd-vance-770a9047/)
+                - [Susie Wiles](https://www.linkedin.com/in/susiewiles/)
                 - press secretary
                     - Karoline Leavitt
                 - [Scott Bessent / U.S. Department of the Treasury](https://home.treasury.gov/about/general-information/officials/scott-bessent)
-                - [Pam Bondi – Office of the Attorney General / Meet the Attorney General / United States Department of Justice](https://www.justice.gov/ag/staff-profile/meet-attorney-general)
+                - ~~[Pam Bondi – Office of the Attorney General / Meet the Attorney General / United States Department of Justice](https://www.justice.gov/ag/staff-profile/meet-attorney-general)~~
                     - [Todd Blanche – Office of the Deputy Attorney General / Office of the Deputy Attorney General](https://www.justice.gov/dag)
                     - [Todd Blanche / LinkedIn](https://www.linkedin.com/in/toddblanche/)
                 - [Director Kash Patel — FBI](https://www.fbi.gov/about/leadership-and-structure/director-patel)

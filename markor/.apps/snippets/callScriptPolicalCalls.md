@@ -12,50 +12,48 @@ title: "DC/SC Call Script"
 
 ## ☎️ My Three or Four/Five Calls — DC + Local (tel‑link ready)
 
-### Sen. Lindsey Graham
+- [Sen.](https://www.senate.gov/) [Lindsey Graham (T-SC)](https://www.lgraham.senate.gov/)
 DC: [(202) 2245972](tel:+1202‑224‑5972)
 Local: [(803) 933-0112](tel:+18039330112)
-- ☐ Spoke to staffer
-- ☐ Left voicemail
-- ☐ Line busy / try again
+    - [ ] Spoke to staffer
+    - [ ] Left voicemail
+    - [ ] Line busy / try again
 
-### Sen. Tim Scott
+- [Sen.](https://www.senate.gov/) [Tim Scott (T-SC)](https://www.scott.senate.gov/)
 DC: [(202) 224-6121](tel:+12022246121)
-Local: [(803) 771,6112](tel:+18037716112)
-- ☐ Spoke to staffer
-- ☐ Left voicemail
-- ☐ Line busy / try again
+Local: [(803) 771-6112](tel:+18037716112)
+    - [ ] Spoke to staffer
+    - [ ] Left voicemail
+    - [ ] Line busy / try again
 
-### Rep. Joe Wilson (SC‑02)
+- [Rep.](https://www.house.gov/) [Joe Wilson (T-SC2)](https://joewilson.house.gov/)
 DC: [(202) 225-2452](tel:+12022252452)
 Local: [(803) 939-0041](tel:+18039390041)
-- ☐ Spoke to staffer
-- ☐ Left voicemail
-- ☐ Line busy / try again
+    - [ ] Spoke to staffer
+    - [ ] Left voicemail
+    - [ ] Line busy / try again
 
 ---
 
 ## ☎️ South Carolina State Leadership — Governor + Attorney General
 (DC‑style structure, state‑level edition)
 
-### Governor of South Carolina
-Office: Governor Henry McMaster
+[Governor of South Carolina](https://governor.sc.gov/)
+- Office: [Governor](https://governor.sc.gov/) [Henry McMaster (T-SC)](https://governor.sc.gov/governors-biography/)
 Columbia: [(803) 734‑2100](tel:+18037342100)
-- ☐ Spoke to staffer
-- ☐ Left voicemail
-- ☐ Line busy / try again
+    - [ ] Spoke to staffer
+    - [ ] Left voicemail
+    - [ ] Line busy / try again
 
-### Attorney General of South Carolina
-Office: Attorney General Alan Wilson
+- [Attorney General of South Carolina](https://www.scag.gov/)
+Office: [Attorney General](https://www.scag.gov/) [Alan Wilson (T-SC)](https://www.scag.gov/about-the-office/meet-the-attorney-general/)
 Columbia: [(803) 734-3970](tel:+18037343970)
-- ☐ Spoke to staffer
-- ☐ Left voicemail
-- ☐ Line busy / try again
+    - [ ] Spoke to staffer
+    - [ ] Left voicemail
+    - [ ] Line busy / try again
 
 ---
-
 - media
-- organizations
 - political parties
 - [Democrat Party](https://www.democrats.org/)
 - [Trumpian Party](https://www.gop.com/)
@@ -63,6 +61,16 @@ Columbia: [(803) 734-3970](tel:+18037343970)
 - companies
 - foreign governments
 - state, local governments
+- [Government of South Carolina](https://www.sc.gov/)
+    - [Governor](https://governor.sc.gov/)
+        - [Henry McMaster](https://governor.sc.gov/governors-biography/)
+    - [Attorney General](https://www.scag.gov/)
+        - [Alan Wilson (T-SC)](https://www.scag.gov/about-the-office/meet-the-attorney-general/)
+    - [South Carolina General Assembly](https://www.scstatehouse.gov/)
+        - [South Carolina Legislature Online - House of Representatives](https://www.scstatehouse.gov/senate.php)
+            - [Senator Ronnie W. Cromer – South Carolina Legislature Online - Member Biography – District 18](https://www.scstatehouse.gov/member.php?code=438636311)
+        - [South Carolina Legislature Online - House of Representatives](https://www.scstatehouse.gov/house.php)
+            - [Representative John Gregory "Jay" Kilmartin – South Carolina Legislature Online - Member Biography – District 85](https://www.scstatehouse.gov/member.php?code=993323745)
 - federal government
 - [Constitution of the United States](https://constitution.congress.gov/constitution/)
     - [U.S. Constitution - Article I / Library of Congress](https://constitution.congress.gov/constitution/article-1/)
@@ -106,7 +114,10 @@ Columbia: [(803) 734-3970](tel:+18037343970)
     - [U.S. Department of the Treasury](https://home.treasury.gov/)
     - [Congress](https://www.congress.gov/)
         - [Senate](https://www.senate.gov/)
+            - [Lindsey Graham (T-SC)](https://www.lgraham.senate.gov/)
+            - [Tim Scott (T-SC)](https://www.scott.senate.gov/)
         - [House of Representatives](https://www.house.gov/)
+            - [Joe Wilson (T-SC2)](https://joewilson.house.gov/)
     - [President of the United States (POTUS)](https://www.whitehouse.gov/)
     - [White House (WH)](https://www.whitehouse.gov/)
 - Trump autocracy
@@ -118,7 +129,7 @@ Columbia: [(803) 734-3970](tel:+18037343970)
                 - press secretary
                     - Karoline Leavitt
                 - [Scott Bessent / U.S. Department of the Treasury](https://home.treasury.gov/about/general-information/officials/scott-bessent)
-                - [Pam Bondi – Office of the Attorney General / Meet the Attorney General / United States Department of Justice](https://www.justice.gov/ag/staff-profile/meet-attorney-general)
+                - ~~[Pam Bondi – Office of the Attorney General / Meet the Attorney General / United States Department of Justice](https://www.justice.gov/ag/staff-profile/meet-attorney-general)~~
                     - [Todd Blanche – Office of the Deputy Attorney General / Office of the Deputy Attorney General](https://www.justice.gov/dag)
                     - [Todd Blanche / LinkedIn](https://www.linkedin.com/in/toddblanche/)
                 - [Director Kash Patel — FBI](https://www.fbi.gov/about/leadership-and-structure/director-patel)
