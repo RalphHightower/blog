@@ -7,6 +7,7 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
+toc: true
 title: "Wall Street Is Buying Private Veterinary Practices, Privatization, Raising Costs"
 ---
 

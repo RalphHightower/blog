@@ -7,6 +7,7 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
+toc: true
 title: "2026-06-07 NBC News Meet the Press: Trumper Tantrum"
 ---
 
