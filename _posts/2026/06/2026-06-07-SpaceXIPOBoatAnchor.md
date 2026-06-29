@@ -7,6 +7,7 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
+toc: true
 title: "SpaceX IPO: Great For Musk Fan Bois. Disastrous For Investors"
 ---
 

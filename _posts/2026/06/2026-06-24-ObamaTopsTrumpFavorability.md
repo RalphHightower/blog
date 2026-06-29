@@ -19,7 +19,7 @@ By [Steve Benen](https://www.ms.now/author/steve-benen)
 
 About a year ago, [a national YouGov poll](https://today.yougov.com/politics/articles/52037-what-americans-think-of-120-political-leaders) found that [Barack Obama](https://obamawhitehouse.archives.gov/) was “by far” the nation’s most well-liked political figure. A [national CNN poll](https://www.cnn.com/2026/06/18/politics/cnn-poll-presidents-obama-biden-trump) released last week pointed in a similar direction. From the network’s report:
 
-> _[Obama](https://obamawhitehouse.archives.gov/) is viewed positively by 57% of Americans, a new [CNN](https://www.cnn.com%) poll conducted by SSRS finds, far surpassing the ratings for his two [Oval Office](https://www.whitehouse.gov/) successors. Only 34% of the public offers a favorable opinion of [President](https://www.whitehouse.gov/) [Donald Trump](https://www.donaldjtrump.com/), with former [President](https://www.whitehouse.gov/) [Joe Biden](https://bidenwhitehouse.archives.gov/)’s favorability trailing at just 30%.
+> _[Obama](https://obamawhitehouse.archives.gov/) is viewed positively by 57% of Americans, a new [CNN](https://www.cnn.com/) poll conducted by SSRS finds, far surpassing the ratings for his two [Oval Office](https://www.whitehouse.gov/) successors. Only 34% of the public offers a favorable opinion of [President](https://www.whitehouse.gov/) [Donald Trump](https://www.donaldjtrump.com/), with former [President](https://www.whitehouse.gov/) [Joe Biden](https://bidenwhitehouse.archives.gov/)’s favorability trailing at just 30%.
 > 
 > (The poll was conducted before the recent coverage of the opening of the [Obama Center](https://www.obama.org/visit/) in [Chicago](https://www.chicago.gov/), which offered the former [president](https://www.whitehouse.gov/) a hearty dose of positive coverage.)
 > _
@@ -39,7 +39,7 @@ As recently as last week, [Trump](https://www.donaldjtrump.com/) participated in
 
 The more the [Republican](https://www.gop.com/) incumbent tries to convince people to prefer him to [Obama](https://obamawhitehouse.archives.gov/), the more we’re confronted with evidence that most Americans still have far more favorable views of the [former president](https://obamawhitehouse.archives.gov/) than of [Trump](https://www.donaldjtrump.com/).
 
-[Steve Benen](https://www.ms.now/author/steve-benen) is a producer for ["The Rachel Maddow Show,"](https://www.ms.now/rachel-maddow-show) the editor of [MaddowBlog](https://www.ms.now/maddowblog) and an [MS NOW](https://www.ms.now%) political contributor. He's also the bestselling author of "Ministry of Truth: Democracy, Reality, and the Republicans' War on the Recent Past."
+[Steve Benen](https://www.ms.now/author/steve-benen) is a producer for ["The Rachel Maddow Show,"](https://www.ms.now/rachel-maddow-show) the editor of [MaddowBlog](https://www.ms.now/maddowblog) and an [MS NOW](https://www.ms.now/) political contributor. He's also the bestselling author of "Ministry of Truth: Democracy, Reality, and the Republicans' War on the Recent Past."
 
 ----
 - media
