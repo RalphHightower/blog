@@ -9,7 +9,7 @@
   "contributors": [
     "ralph.hightower+blog@gmail.com"
   ],
-  "version": "1.0.6",
+  "version": "1.0.7",
   "type": "git",
   "homepage": "https://github.com/ralphhightower/blog.git",
   "bugs": {
@@ -44,5 +44,5 @@
   "dependencies": {
     "npm": "^11.17.0"
   },
-  "packageManager": "npm@11.8.0"
+  "packageManager": "npm@11.18.0"
 }
