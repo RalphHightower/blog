@@ -33,6 +33,7 @@ toc: true
 - 🪖🪂 = Iran War 2026-02-27 – 
 - 💰💰💸💸 Fundraiser
 
+{% include_relative TrumpAF1/2026Q3.md %}
 {% include_relative TrumpAF1/2026Q2.md %}
 {% include_relative TrumpAF1/2026Q1.md %}
 {% include_relative TrumpAF1/2025Q4.md %}
