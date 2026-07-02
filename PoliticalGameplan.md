@@ -224,7 +224,7 @@ Yes, my assessment has racial overtones, but [Scott](https://www.scott.senate.go
 
 ##### My Dumb State: South Carolina
 
-- 2026-07-01 [My Dumb State: South Carolina Attorney General Alan Wilson Loses Battle to End Birthright Citizenship of the Fourteenth Amendment]({% link _posts/2026/07/2026-07-01-WilsonLoses14thAmendment.mdv%})
+- 2026-07-01 [My Dumb State: South Carolina Attorney General Alan Wilson Loses Battle to End Birthright Citizenship of the Fourteenth Amendment]({% link _posts/2026/07/2026-07-01-WilsonLoses14thAmendment.md %})
 - 2026-07-01 [My Dumb State: South Carolina Attorney General Doesn't Like Supreme Court Ruling Of Mail-In Ballots Received Window]({% link _posts/2026/07/2026-07-01-WilsonLosesSupremeCourtMailInBallots.md %})
 - 2026-04-21: [My Dumb State: Wannabe Governor Engages Tribalism As Attorney General]({% link _posts/2026/04/2026-04-21-WannabeGovernorEngagesTribalismAsAttorneyGeneral.md %})
 - 2026-02-21: [My Dumb State: South Carolina Attorney General Alan Wilson Supports Trump Firing Federal Reserve Governor Without Merit Via Tweet]({% link _posts/2026/02/2026-02-21-SCAGSupportsFiringWOMerit.md %})
