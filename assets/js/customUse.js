@@ -1,16 +1,109 @@
-///
-/// <title>Custom Javascript functions for page<title>
-/// <dependency>
-/// displayLibrary.js 
-/// timeLibrary.js 
-/// </dependency>
-///
+function updateCountdown(id, targetTime, mode) {
+    const el = document.getElementById(id);
+    if (!el) return;
 
-/// <summary>
-/// </summary>
-/// <param name=""></param>
-/// <returns></returns>
-		
+    const now = Date.now();
+    const to  = new Date(targetTime).getTime();
+
+    const diff = getTimeSpan(now, to);
+
+    if (diff < 0) {
+        el.textContent = "";
+        hideElement(id);
+        return;
+    }
+
+    switch(id) {
+        case "primary-open":
+            desc = "Primary opens in " ;
+            break;
+        case "primary-close":
+            desc = "Primary closes in " ;
+            break;
+        case "midterm-open":
+            desc = "Midterm election opens in " ;
+            break;
+        case "midterm-close":
+            desc = "Midterm closes in " ;
+            break;
+        }
+
+    if (mode === "days") {
+        el.textContent = desc + fmtDaysRemaining(now, to);
+    } else if (mode === "hms") {
+        el.textContent = desc + fmtHMSRemaining(now, to);
+    }
+    showElement(id)
+}
+
+function updateCounters() {
+    updateCountdowns();
+    
+    showElement('burn');
+    showElement('golf');
+    const now = new Date();
+    setElementText('current-time', now.toString());
+    // Set time to noon for today
+    now.setHours(12, 0, 0, 0);
+    const daysSince = getDaysDiff(startDate, now);
+    const daysRemaining = getDaysDiff(now, endDate);
+    const daysTotal = getDaysDiff(startDate, endDate);
+    const pctTermCompleted = daysSince / daysTotal;
+    const pctTermRemaing = daysRemaining / daysTotal;
+
+    setElementText('daysSince', "Days into term: " + (daysSince >= 0 ? daysSince + " days " + fmtPercent(pctTermCompleted) + "%" : "Event is in the future"));
+    setElementText('daysRemaining', "Days remaining in term: " + (daysRemaining >= 0 ? daysRemaining + " days " + fmtPercent(pctTermRemaing) + "%" : "Event has passed"));
+    }
+
+function trumpGPS(date) {
+    now = new Date(date)
+    weekDay = now.getDay(); // Sunday = 0
+
+    const holiday = isHoliday(now);
+    if (holiday)
+        weekDay = 7;
+    switch (weekDay) {
+        case 0:
+        case 6:
+        case 7: // out of bounds special: holiday
+            showElement('golf');
+            hideElement('burn');
+            whichGolfHome(date);
+            break;
+        case 1:
+        case 2:
+        case 3:
+        case 4:
+            showElement('burn');
+            hideElement('golf');
+            break;
+        case 5: // special case: check time
+            if (now.getHours() > 15) {
+                showElement('golf');
+                hideElement('burn');
+                whichGolfHome(date);
+               }
+            else {
+                showElement('burn');
+                hideElement('golf');
+                }
+            break;
+        }
+    }
+
+    updateCounters();
+    trumpGPS(new Date());
+
+function updateCountdowns() {
+    const now = Date.now();
+
+    updateCountdown("primary-open",  "2026-06-09T11:00:00Z", "days");
+    updateCountdown("primary-close", "2026-06-09T23:00:00Z", "hms");
+
+    updateCountdown("midterm-open",  "2026-11-03T12:00:00Z", "days");
+    updateCountdown("midterm-close", "2026-11-04T00:00:00Z", "hms");
+    }
+
 <!-- No Kings 2026-03-28T20:00:00Z -->
 displayUntil("2026-03-28T20:00:00Z");
 
@@ -34,95 +127,4 @@ displayUntil("2026-11-04T00:00:00Z");
 displayBegin("midterm-open", "2026-11-03T12:00:00Z");
 displayBegin("midterm-close", "2026-11-04T00:00:00Z");
 displayEnd("midterm-close", "2026-11-04T00:00:00Z");
-
-/// <summary>
-/// </summary>
-/// <param name=""></param>
-/// <returns></returns>
-function iranWar2026(divID) {
-    const now = new Date();
-    timeSpan = getTimeSpan(warStart, now);
-    fmtWarElapsed = fmtElapsed(timeSpan);
-    setElementText(divID, fmtWarElapsed);
-    }
-
-/// <summary>
-/// </summary>
-/// <param name=""></param>
-/// <returns></returns>
-function updateDateCounters() {
-    const now = Date.now();
-
-    updateDateCounter("primary-open",  "2026-06-09T11:00:00Z", "days");
-    updateDateCounter("primary-close", "2026-06-09T23:00:00Z", "hms");
-
-    updateDateCounter("midterm-open",  "2026-11-03T12:00:00Z", "days");
-    updateDateCounter("midterm-close", "2026-11-04T00:00:00Z", "hms");
-    }
-
-/// <summary>
-/// </summary>
-/// <param name=""></param>
-/// <returns></returns>
-function updateDateCounter(id, targetTime, mode) {
-    if (doesElementExists(id)) {
-
-        const now = Date.now();
-        const to  = new Date(targetTime).getTime();
-    
-        const diff = getTimeSpan(now, to);
-    
-        if (diff < 0) {
-            setElement(id, "");
-            hideElement(id);
-            return;
-        }
-    
-        switch(id) {
-            case "primary-open":
-                desc = "Primary opens in " ;
-                break;
-            case "primary-close":
-                desc = "Primary closes in " ;
-                break;
-            case "midterm-open":
-                desc = "Midterm election opens in " ;
-                break;
-            case "midterm-close":
-                desc = "Midterm closes in " ;
-                break;
-            }
-    
-        if (mode === "days") {
-            setElement(id, desc + fmtDaysRemaining(now, to));
-        } else if (mode === "hms") {
-            setElement(id, desc + fmtHMSRemaining(now, to));
-        }
-        showElement(id)
-    }
-}
-
-/// <summary>
-/// </summary>
-/// <param name=""></param>
-/// <returns></returns>
-function updateCounters() {
-    updateDateCounters();
-    
-    showElement('burn');
-    showElement('golf');
-    const now = new Date();
-    setElementText('current-time', now.toString());
-    // Set time to noon for today
-    now.setHours(12, 0, 0, 0);
-    const daysSince = getDaysDiff(startDate, now);
-    const daysRemaining = getDaysDiff(now, endDate);
-    const daysTotal = getDaysDiff(startDate, endDate);
-    const pctTermCompleted = daysSince / daysTotal;
-    const pctTermRemaing = daysRemaining / daysTotal;
-
-    setElementText('daysSince', "Days into term: " + (daysSince >= 0 ? daysSince + " days " + fmtPercent(pctTermCompleted) + "%" : "Event is in the future"));
-    setElementText('daysRemaining', "Days remaining in term: " + (daysRemaining >= 0 ? daysRemaining + " days " + fmtPercent(pctTermRemaing) + "%" : "Event has passed"));
-    iranWar2026('iranWar');
-    }
 
