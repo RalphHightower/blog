@@ -7,7 +7,7 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: "Dr. Annie Andrews Is South Carolina's Best Opportunity to Send Senator Lindsey Graham (T-SC)"
+title: "Dr. Annie Andrews Is South Carolina's Best Opportunity to Send Senator Lindsey Graham (T-SC) Home"
 ---
 
 I’m voting for Dr. Annie because she brings a calm, evidence‑based approach to public service and treats institutions as something to strengthen rather than tear down.
