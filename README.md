@@ -264,7 +264,9 @@ This section documents cultural moments that intersect with America’s civic tu
 
 </div><!-- 2026-05-24T23:59:59Z -->
 
-<div id=""><!-- 2026-06-25T23:00:00Z-->
+
+
+<div id="2026-06-25T23:00:00Z"><!-- 2026-06-25T23:00:00Z -->
 <h3>MS NOW LIVE Presents We the People: America 250</h3>
 
 <a href="https://www.ensembleartsphilly.org/rent-our-spaces/special-events-and-performances/we-the-people-america-250">Country at a Crossroads</a>
