@@ -14,7 +14,7 @@ title: "Trump’s ‘Moby-Dick’ Is the 2020 Election"
 - [Federal: 2020 Election Interference, January 6 Insurrection]({% link January6DocumentDocumentLinks.md %})
 - [2020 Presidential Election Results – Federal Election Commission (FEC)](https://www.fec.gov/resources/cms-content/documents/federalelections2020.pdf)
 
-Today, I saw the corollary between Trump's obsession with the 2020 election and the and Captain Ahab in Herman Melville’s book, Moby Dick.
+Today, I saw the corollary between Trump's obsession with the 2020 election and Captain Ahab in Herman Melville’s book, Moby Dick.
 
 ## Donald Trump as Captain Ahab in Moby-Dick
 

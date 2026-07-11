@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: [media,MS NOW - Breaking News and News Today / Latest News,Carol Leonnig,Ken Dilanian,Priya Sridhar,keywords,Donald Trump,Air Force One,RAF Mildenhall / Royal Air Force Mildenhall (MHZ),NATO Summit,flying palace,flying fortress,foreign emoluments,Qatar,$400 million bribe,political parties,Democrat Party,Trumpian Party,companies,Boeing,organizations,North Atlantic Treaty Organization (NATO),foreign governments,Islamic Republic of Iran (IR),State of Qatar (QA),Republic of Türkiye (TR),Ankara,United Kingdom (UK),RAF Mildenhall / Royal Air Force Mildenhall (MHZ),federal government,Constitution of the United States,Supreme Court of the United States (SCOTUS),US Courts,Department of Justice (DOJ),Federal Bureau of Investigation (FBI),Federal Reserve,Federal Reserve Board - Federal Reserve Act,U.S. Department of the Treasury,Department of Defense (DOD),Air Force,Air Force One,Congress,Senate,House of Representatives,Jim Himes (D-CT4),Permanent Select Committee on Intelligence,President of the United States (POTUS),White House (WH),Trump autocracy,Donald J Trump,President Donald Trump (45),President Donald Trump (47),President Trump (47) Administration,President Trump (47) Cabinet,Vice President JD Vance,JD Vance / LinkedIn,Susie Wiles,press secretary,Karoline Leavitt,Scott Bessent / U.S. Department of the Treasury,Pam Bondi – Office of the Attorney General / Meet the Attorney General / United States Department of Justice,Todd Blanche – Office of the Deputy Attorney General / Office of the Deputy Attorney General,Todd Blanche / LinkedIn,Director Kash Patel — FBI,grifter,self-dealing,corruption,con artist,crime,cryptocurrency,criminal associates,criminal businesses,criminal media,criminal organizations,criminal partners]
-categories: [Donald Trump,Air Force One,RAF Mildenhall / Royal Air Force Mildenhall (MHZ),NATO Summit,flying palace,flying fortress,foreign emoluments,Qatar,$400 million bribe]
+categories: [Donald Trump,Air Force One,RAF Mildenhall / Royal Air Force Mildenhall (MHZ),NATO Summit,flying palace,flying fortress,foreign emoluments,Qatar,$400 million bribe,flying palace,flying fortress]
 date: 2026-07-10 10:38
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
@@ -10,7 +10,7 @@ excerpt: ''
 title: "Trump's Flying Palace Ain't No Flying Fortress"
 ---
 
-It's still wrong, but I'm feeling better about the [Qatari](https://hukoomi.gov.qa/) \$400,000,000 to [Trump](https://www.donaldjtrump.com/). It is not being converted to a Command and Control Center with secure communications, in-flight refueling, missile defense, ir Electromagnetic Pulse (EMP) protection. In fact, it is not suitable for any president to Fly nationally or internationally.
+It's still wrong, but I'm feeling better about the [Qatari](https://hukoomi.gov.qa/) \$400,000,000 bribe/Trojan horse to [Trump](https://www.donaldjtrump.com/). It is not being converted to a Command and Control Center with secure communications, in-flight refueling, missile defense, or Electromagnetic Pulse (EMP) protection. In fact, it is not suitable for any president to Fly nationally or internationally.
 
 ## [Officials say Trump switched out new Air Force One over security concerns](https://www.ms.now/news/officials-say-trump-switched-out-new-air-force-one-over-security-concerns)
 
@@ -75,6 +75,8 @@ David Rohde and Vaughn Hillyard contributed to this story.
 - foreign emoluments
 - Qatar
 - $400 million bribe
+- flying palace
+- flying fortress
 - political parties
 - [Democrat Party](https://www.democrats.org/)
 - [Trumpian Party](https://www.gop.com/)
@@ -99,8 +101,8 @@ David Rohde and Vaughn Hillyard contributed to this story.
         - [Federal Reserve Board - Federal Reserve Act](https://www.federalreserve.gov/aboutthefed/fract.htm)
     - [U.S. Department of the Treasury](https://home.treasury.gov/)
     - [Department of Defense (DOD)](https://www.defense.gov/)
-    - [Air Force](https://www.af.mil/)
-        - [Air Force One](https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104588/vc-25-air-force-one/)
+        - [Air Force](https://www.af.mil/)
+            - [Air Force One](https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104588/vc-25-air-force-one/)
     - [Congress](https://www.congress.gov/)
         - [Senate](https://www.senate.gov/)
         - [House of Representatives](https://www.house.gov/)
