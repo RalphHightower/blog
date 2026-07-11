@@ -292,7 +292,7 @@ Don’t miss the chance to honor America’s 250 Anniversary with the <a href="h
 
 Why I’m Highlighting It This Year
 
-The <a href="https://irangov.ir/>Iran</a> war has triggered a chain reaction in the real economy — LNG, diesel, fertilizer, fishing fuel, freight, plastics, even the coal and metals that keep the grid running. Diesel delivers everything, from crops to catch to coal for power plants, and when it spikes, the whole system tightens. Farmers, ranchers, and fishermen feel it first.
+The <a href="https://irangov.ir/">Iran</a> war has triggered a chain reaction in the real economy — LNG, diesel, fertilizer, fishing fuel, freight, plastics, even the coal and metals that keep the grid running. Diesel delivers everything, from crops to catch to coal for power plants, and when it spikes, the whole system tightens. Farmers, ranchers, and fishermen feel it first.
 
 With the <a href="https://irangov.ir/>Iran</a> war driving up the cost of diesel, fertilizer, freight, and every input that keeps American farms running, the pressure on farmers and fishermen is only getting worse. That’s why I’m keeping <a href="https://www.farmaid.org/">Farm Aid</a>on the homepage this year instead of letting it expire. The economic strain isn’t temporary, and neither is the support they need.
 
