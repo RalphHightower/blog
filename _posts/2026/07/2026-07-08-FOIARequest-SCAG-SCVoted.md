@@ -1,13 +1,13 @@
 ---
 layout: post
-tags: []
-categories: [weaponization]
+tags: [Ralph Hightower,Freedom of Information Act (FOIA),South Carolina (SC),Attorney General,Alan Wilson,Election Commission (SCVOTES),election fraud,election totals,illegal voter registrations,federal elections,federal offices]
+categories: [Freedom of Information Act (FOIA),South Carolina (SC),Attorney General,Alan Wilson,Election Commission (SCVOTES),election fraud,election totals,illegal voter registrations,federal elections,federal offices]
 date: 2026-07-08 14:55
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: 'title'
+title: "FOIA Requests: SC Attorney General & SC Election Commission"
 ---
 
 ## FOIA Requests
