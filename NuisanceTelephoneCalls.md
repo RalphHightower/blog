@@ -20,6 +20,24 @@ The telephone numbers below have called and there is an empty person on the othe
 
 | Telephone Number | Location | Date Time[^11]<sup>,</sup>[^12] | Caller | Social Media |
 |---|---|---|---|---|
+| [\+1 (909) 453-4473](tel:+19094534473) | CA. San Berbadito | 2026-07-10 04:57 PM 🚫¤¤ | — | |
+| [\+1 (803) 534-5523](tel:+18035345523) | SC. Orangeburg | 2026-07-10 04:41 PM | [Lee's Sausage Co](https://lee-s-sausage-co-inc.hub.biz/) | |
+| [\+1 (803) 534-5523](tel:+18035345523) | SC. Orangeburg | 2026-07-10 04:41 PM ¤¤ | [Lee's Sausage Co](https://lee-s-sausage-co-inc.hub.biz/) | |
+| [\+1 (803) 274-4491](tel:+18032744491) | SC. Branchville | 2026-07-10 10:47 AM | Felder Kaitlin (MYERS TOMMIE) | |
+| [\+1 (803) 661-9462](tel:+18036619462) | SC. Columbia | 2026-07-08 11:11 AM | [CHS GROUP SC LLC](http://www.chsgroupcarolina.com/) (HERNANDEZ,YOARY) | |
+| [\+1 (803) 534-1781](tel:+18035341781) | SC. Orangeburg | 2026-07-07 03:26 PM | Margaret Roberts | |
+| [\+1 (803) 547-4300](tel:+18035474300) | SC. Fort Mill | 2026-07-07 10:17 AM | [Magenta Technologies](http://magentatech.com/) (PATRICIA T TERRY) | |
+| [\+1 (803) 581-7293](tel:+18035817293) | SC. Chester | 2026-07-06 12:24 PM | Margie Crank | |
+| [\+1 (803) 712-0804](tel:+18037120804) | SC. Winnsboro | 2026-07-06 11:36 AM | | |
+| [\+1 (803) 741-9615](tel:+18037419615) | SC. Columbia | 2026-07-03 02:28 PM | DOUGLAS STEVEN HART | |
+| [\+1 (435) 317-0344](tel:+14353170344) | UT. Logan | 2026-07-02 10:14 AM | #TaxFraud(Tax Resolution Services) | |
+| [\+1 (888) 269-0067](tel:+18882690067) | TF. TollFee | 2026-07-02 10:14 AM | #TaxFraud Inbound Call | |
+| [\+1 (803) 699-1620](tel:+18036991620) | SC. Columbia | 2026-07-02 09:10 AM | PONTIAC FOODS | |
+| [\+1 (803) 921-8827](tel:+18039218827) | SC. Eutawville | 2026-07-01 04:12 PM 🚫¤¤ | — | |
+| [\+1 (803) 395-0440](tel:+18033950440) | SC. Orangeburg | 2026-06-30 12:17 PM ¤¤ | Sheryl Galardo | |
+| [\+1 (803) 395-0440](tel:+18033950440) | SC. Orangeburg | 2026-06-30 12:16 PM | Sheryl Galardo | |
+| [\+1 (803) 345-0722](tel:+18033450722) | SC. Little Mountain | 2026-06-30 09:44 AM 🚫¤¤ | TERMINIX | |
+| [\+1 (803) 336-6984](tel:+18033366984) | SC. Edgefield | 2026-06-29 11:31 AM | LAURA B STARNES | |
 | [\+1 (803) 263-7108](tel:+18032637108) | SC. Norway | 2026-06-26 05:29 PM | — | |
 | [\+1 (803) 443-0121](tel:+18034430121) | SC. New Ellington | 2026-06-25 04:20 PM ¤¤ | JOHNSON G | |
 | [\+1 (803) 443-0121](tel:+18034430121) | SC. New Ellington | 2026-06-25 04:19 PM ¤¤ | JOHNSON G | |
