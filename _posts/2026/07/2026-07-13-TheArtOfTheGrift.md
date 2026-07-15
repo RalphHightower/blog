@@ -43,7 +43,7 @@ It’s a plan that opens the door to an obvious line of criticism: This isn’t 
 
 This post updates our [related earlier coverage](https://www.ms.now/rachel-maddow-show/maddowblog/republican-midterm-convention-dallas-trump-election).
 
-[Steve Benen](https://www.ms.now/author/steve-benen) is a producer for ["The Rachel Maddow Show,"](https://www.ms.now/rachel-maddow-show) the editor of MaddowBlog and an [MS NOW](https://www.ms.now/) political contributor. He's also the bestselling author of "Ministry of Truth: Democracy, Reality, and the Republicans' War on the Recent Past."
+[Steve Benen](https://www.ms.now/author/steve-benen) is a producer for ["The Rachel Maddow Show,"](https://www.ms.now/rachel-maddow-show) the editor of [MaddowBlog](https://www.ms.now/maddowblog) and an [MS NOW](https://www.ms.now/) political contributor. He's also the bestselling author of "Ministry of Truth: Democracy, Reality, and the Republicans' War on the Recent Past."
 
 ----
 - media
@@ -52,7 +52,7 @@ This post updates our [related earlier coverage](https://www.ms.now/rachel-maddo
         - [MaddowBlog](https://www.ms.now/maddowblog)
             - [Rachel Maddow](https://www.ms.now/rachel-maddow-show/rachel-maddow-biography-n1157621)
                 - [Steve Benen](https://www.ms.now/author/steve-benen)
-- [Faux News - Breaking News Updates / Latest News Headlines / Photos & News Videos](https://www.foxnews.com/)
+ - [Faux News - Breaking News Updates / Latest News Headlines / Photos & News Videos](https://www.foxnews.com/)
 - [HuffPost - Breaking News, Politics, Entertainment & Opinion](https://www.huffpost.com/)
 - [The New York Times (NYT) - Breaking News, US News, World News and Videos](https://www.nytimes.com/)
 - [Political Wire](https://politicalwire.com/)
