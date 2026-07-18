@@ -12,9 +12,8 @@ title: "DC/SC Call Script"
 
 ## ☎️ My Three or Four/Five Calls — DC + Local (tel‑link ready)
 
-- [Sen.](https://www.senate.gov/) [Lindsey Graham (T-SC)](https://www.lgraham.senate.gov/)
-DC: [(202) 2245972](tel:+1202‑224‑5972)
-Local: [(803) 933-0112](tel:+18039330112)
+- [Sen.](https://www.senate.gov/) [Darline Graham (T-SC)](https://www.dgraham.senate.gov/)
+DC: [202-224-5972](+12022245972)
     - [ ] Spoke to staffer
     - [ ] Left voicemail
     - [ ] Line busy / try again
@@ -114,7 +113,7 @@ Columbia: [(803) 734-3970](tel:+18037343970)
     - [U.S. Department of the Treasury](https://home.treasury.gov/)
     - [Congress](https://www.congress.gov/)
         - [Senate](https://www.senate.gov/)
-            - [Lindsey Graham (T-SC)](https://www.lgraham.senate.gov/)
+            - [Darline Graham (T-SC)](https://www.dgraham.senate.gov/)
             - [Tim Scott (T-SC)](https://www.scott.senate.gov/)
         - [House of Representatives](https://www.house.gov/)
             - [Joe Wilson (T-SC2)](https://joewilson.house.gov/)

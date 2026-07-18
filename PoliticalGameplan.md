@@ -134,35 +134,13 @@ Class II terms run from the beginning of the 117th Congress on January 3, 2021, 
 
 Class III terms run from the beginning of the 118th Congress on January 3, 2023, to the end of the 120th Congress on January 3, 2029. Senators in Class III were elected to office in the November 2022 general election, unless they took their seat through appointment or special election.
 
-###### [Graham, Lindsey (T-SC)](https://www.lgraham.senate.gov/)
+###### [Senator Darline Graham (T-SC)](https://www.dgraham.senate.gov/)
 
-[Trump's](https://www.whitehouse.gov/administration/donald-j-trump/) Poodle.
-
-Class II.
-
-- 2025-11-13: [Senator Lindsey Graham (T-SC), Like Trump, Intends To Extort the Federal Government]({% link _posts/2025/11/2025-11-13-LindseyGrahamIntendsExtortFederalGovernment.md %})
-- 2025-10-08: [Latest Lies From Trumpian Senators: FBI 'Wiretapped' Them. No, They Didn't Listen In; They Captured Number Dialed & Call Duration]({% link _posts/2025/10/2025-10-08-TrumpianLiesOnJan6Investigation.md %})
-- 2025-01-26: [Trump's Poodle, Senator Lindsey Graham (T-SC), On NBC Meet The Press]({% link _posts/2025/01/2025-01-26-TrumpsPoodleOnMTP.md %})
-- 2024-12-15: [Sen. Lindsey Graham (T-SC) States That Trump Won't Prosecute Political Enemies. Yea, Right!]({% link _posts/2024/12/2024-12-15-LindseyGraham20241215MTP.md %})
-- 2024-12-12: [MSNBC Morning Joe Panel Discusses Kash Patel as Trump's Pick for FBI Director]({% link _posts/2024/12/2024-12-12-LindseyGrahamSupportsPatek4FBI.md %})
-- 2024-10-20: [Bless His Heart – Senator Lindsey Graham (T-SC): Why Are You "Republicans" Supporting Harris?]({% link _posts/2024/10/2024-10-20-AnswerToTrumpersSupportingHarris.md %})
+Class II
 
 | Office Locations |
 |---|
-| **Washington D.C. Office** |
-| 211 Russell Senate Office Building <br /> 2 Constitution Ave NE <br /> Washington, DC 20510 <br /> Office: [\+1 (202) 224-5972](tel:+12022245972), <br /> Fax: [\+1 (202) 224-3808](tel:+12022243808) |
-| **Midlands Office** |
-| 2142 Boyce Street, Suite 404 <br /> Columbia, SC 29201 <br /> [\+1 (803) 933-0112](tel:+18039330112) office <br /> [\+1 (803) 933-0957](tel:+18039330957) fax |
-| **Upstate Office** |
-| 2 West Washington Street, Suite 808 <br /> Greenville, SC 29601 <br /> Main: [\+1 (864) 250-1417](tel:+18642501417) <br /> Fax: [\+1 (864) 250-4322](tel:+18642504322) |
-| **Pee Dee Office** |
-| McMillan Federal Building <br /> 401 West Evans Street, Suite 111 <br /> Florence, SC 29501 <br /> Main: [\+1 (843) 669-1505](tel:+18436681505) <br /> Fax: [\+1 (843) 669-9015](tel:+18336699015) |
-| **Lowcountry Office** |
-| 4 Carriage Lane, Suite 401 <br /> Charleston, SC 29407 <br /> Main: [\+1 (843) 849-3887](tel:+18438493887) <br /> Fax: [\+1 (843) 971-3669](tel:+18439713669) |
-| **Piedmont Office** |
-| 235 East Main Street, Suite 100 <br /> Rock Hill, SC 29730 <br /> Main: [\+1 (803) 366-2828](tel:+18033662828) <br /> Fax: [\+1 (803) 366-5353](tel:+18033665353) |
-| **Golden Corner Office** |
-| 124 Exchange Street, Suite A <br /> Pendleton, SC 29670 <br /> Main: [\+1 (864) 646-4090](tel:+18646464090) <br /> Fax: [\+1 (864) 646-8609](tel:+18646468609) |
+| SR-B33 Russell Senate Office Building<br />Washington, DC 20510<br />Phone: [202-224-5972](+12022245972) |
 
 ###### [Scott, Tim (T-SC)](https://www.scott.senate.gov/)
 
@@ -182,6 +160,23 @@ Yes, my assessment has racial overtones, but [Scott](https://www.scott.senate.go
 | 301 N. Main Street <br /> Suite 1006 <br /> Greenville, SC 29601 <br /> Phone: [\+1 (864) 233-5366](tel:+18642235366) <br /> Fax: [\+1 (855) 802-9355](tel:+18558929355) |
 | **Low Country** |
 | 2500 City Hall Lane <br /> 3rd Floor Suite <br /> North Charleston, SC 29406 <br /> Phone: [\+1 (843) 727-4525](tel:+18437274525) <br /> Fax: [\+1 (855) 802-9355](tel:+18558029355) |
+
+###### [Graham, Lindsey (T-SC)](https://www.lgraham.senate.gov/)
+
+1955-07-09 – 2026-07-11
+
+_Death deserves dignity. Legacy requires scrutiny._ 
+
+~~[Trump's](https://www.whitehouse.gov/administration/donald-j-trump/) Poodle.~~
+
+~~Class II.~~
+
+- 2025-11-13: [Senator Lindsey Graham (T-SC), Like Trump, Intends To Extort the Federal Government]({% link _posts/2025/11/2025-11-13-LindseyGrahamIntendsExtortFederalGovernment.md %})
+- 2025-10-08: [Latest Lies From Trumpian Senators: FBI 'Wiretapped' Them. No, They Didn't Listen In; They Captured Number Dialed & Call Duration]({% link _posts/2025/10/2025-10-08-TrumpianLiesOnJan6Investigation.md %})
+- 2025-01-26: [Trump's Poodle, Senator Lindsey Graham (T-SC), On NBC Meet The Press]({% link _posts/2025/01/2025-01-26-TrumpsPoodleOnMTP.md %})
+- 2024-12-15: [Sen. Lindsey Graham (T-SC) States That Trump Won't Prosecute Political Enemies. Yea, Right!]({% link _posts/2024/12/2024-12-15-LindseyGraham20241215MTP.md %})
+- 2024-12-12: [MSNBC Morning Joe Panel Discusses Kash Patel as Trump's Pick for FBI Director]({% link _posts/2024/12/2024-12-12-LindseyGrahamSupportsPatek4FBI.md %})
+- 2024-10-20: [Bless His Heart – Senator Lindsey Graham (T-SC): Why Are You "Republicans" Supporting Harris?]({% link _posts/2024/10/2024-10-20-AnswerToTrumpersSupportingHarris.md %})
 
 #### President
 
