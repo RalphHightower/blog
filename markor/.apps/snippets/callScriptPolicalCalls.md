@@ -7,6 +7,7 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
+toc: false
 title: "DC/SC Call Script"
 ---
 
