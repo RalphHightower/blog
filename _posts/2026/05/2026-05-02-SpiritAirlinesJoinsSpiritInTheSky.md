@@ -14,7 +14,9 @@ title: "Spirit Airlines Joins ‘Spirit In The Sky’"
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YqYN-1vMM9k?si=UdN8Sjb3UOKEfSce" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-I think that since [Spirit Airlines](https://www.spiritrestructuring.com/) was HQ'ed in [Dania Beach](https://www.daniabeachfl.gov/), [Florida](https://www.myflorida.gov/) was the reason for the federal government's interest in loaning [Spirit](https://www.spiritrestructuring.com/) \$500,000. Fortunately, the creditors decided to let [Spirit](https://www.spiritrestructuring.com/) fie.
+I think that since [Spirit Airlines](https://www.spiritrestructuring.com/) was HQ'ed in [Dania Beach](https://www.daniabeachfl.gov/), [Florida](https://www.myflorida.gov/) was the reason for the federal government's interest in loaning [Spirit](https://www.spiritrestructuring.com/) \$500,000. Fortunately, the creditors decided to let [Spirit](https://www.spiritrestructuring.com/) die.
+
+Creditors perhaps remembered Trump’s own short‑lived Trump Air experiment — an airline they ultimately had to take back from him.
 
 - Democrats slam Trump over failed Spirit Airlines bailout: ‘No real economic agenda’
 [May 02, 2026 - American families are feeling the strain on their paychecks as gas prices continue climbing to new highs during the war ...](https://www.ms.now/weekends-with-alex-witt/watch/democrats-slam-trump-over-failed-spirit-airlines-bailout-no-real-economic-agenda-2498638915709)
