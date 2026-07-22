@@ -235,4 +235,5 @@ The contrast becomes symbolic: sultry DC represents duty, heaviness, and the wei
 - criminal media
 - criminal organizations
 - criminal partners
+
 {% include TrumpGolf.html %}
