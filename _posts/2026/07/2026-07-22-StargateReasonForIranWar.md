@@ -8,7 +8,7 @@ excerpt: ''
 #description:
 #permalink:
 toc: false
-title: "The Tehran Anomaly — A Portal, A President, and a Pattern of Conflic"
+title: "The Tehran Anomaly — A Portal, A President, and a Pattern of Conflict"
 ---
 
 The desert doesn’t make a sound at night. It just holds its breath.
