@@ -2,6 +2,13 @@ const iataDatabase = [
   ABE { name: "Lehigh Valley International Airport", link: "https://www.flyabe.com/", lat: 0.682041, lon: 1.345266 },
   ADW { name: "Joint Base Andrews", link: "https://www.jba.af.mil/", lat: 0.677377, lon: 1.341581 },
   ANC { name: "Ted Stevens Anchorage International Airport", link: "https://dot.alaska.gov/anc/", lat: 1.066443297, lon: 2.610932276 }, // 61°10′27″N 149°59′54″W
+ANK: {
+  name: "Etimesgut Air Base",
+  link: "https://www.hvkk.tsk.tr",   // Turkish Air Force
+  lat: 0.691876017,                 // 39.949° N → radians
+  long: 0.555014123                 // 32.688° E → radians
+},
+  ARB { name: "Dobbins Air Reserve Base", link: "https://www.afrc.af.mil/dobbins/", lat:  0.602932717, lon:  1.471415534 }, // 33°54′55″N 084°30′59″W
   AUH { name: "Abu Dhabi International Airport / Zayed International Airport", link: "https://www.zayedinternationalairport.ae/", lat: 0.426437, lon: 0.953842 },
   AVL { name: "Asheville Regional Airport", link: "https://flyavl.com/", lat: 0.618477, lon: 1.440624 },
   BIS { name: "Bismarck Municipal Airport", link: "https://bismarckairport.com/", lat: 0.810255143, lon: 1.753087241 }, // 46°46′22″N 100°44′45″W
@@ -16,6 +23,7 @@ const iataDatabase = [
   EAU { name: "Chippewa Valley Regional Airport", link: "https://www.chippewavalleyairport.com/", lat: 0.776945534, lon: 1.593316310 }, // 44°51′57″N 091°29′03″W
   EDF { name: "Joint Base Elmendorf-Richardson", link: "https://www.jber.jb.mil/", lat: 1.069038, lon: 2.614615 },
   ERV { name: "Kerrville Municipal Airport", link: "https://www.kerrvilletx.gov/1765/Airport", lat: 0.523192, lon: 1.729369 },
+  ESB { name: "Ankara Esenboğa Airport", link: "https://esenbogaairport.com/", lat: 0, lon: 0 }, // 40°07′41″N 032°59′42″E
   EWR { name: "Newark Liberty International Airport", link: "https://www.newarkairport.com/", lat: 0.710218, lon: 1.294486 },
   FCO { name: "Fiumicino Leonardo da Vinci International Airport / Rome Fiumicino Airport", link: "https://www.adr.it/", lat: 0.729552, lon: 0.213609 },
   FRG { name: "Republic Airport", link: "https://republicairport.net/", lat: 0.710853, lon: 1.281304 },
