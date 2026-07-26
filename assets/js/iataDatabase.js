@@ -17,7 +17,8 @@ ANK: {
   CVG { name: "Cincinnati/Northern Kentucky International Airport", link: "https://www.cvgairport.com/", lat: 0.681532, lon: 1.477731 },
   DAB { name: "Daytona Beach International Airport", link: "https://www.flydaytonafirst.com/", lat: 0.509369, lon: 1.414774 },
   DOH { name: "Hamad International Airport", link: "https://www.dohahamadairport.com/", lat: 0.441098, lon: 0.900730 },
-  DOV { name: "Dover Air Force Base", link: "https://www.dover.af.mil/", lat: 0.682918, lon: 1.317108 },
+  DOV { name: "Dover Air Force Base", link: "https://www.dm.af.mil/", lat: 0.682918, lon: 1.317108 },
+  DMA { name: "Davis-Monthan Air Force Base (The Boneyard)", link: "https://www.dover.af.mil/", lat:  0.560144225, lon:  1.928690053 }, // 32°09′49″N 110°50′58″W
   DSM { name: "Des Moines International Airport", link: "https://www.flydsm.com/", lat: 0.724903, lon: 1.634729 },
   DTW { name: "Detroit Metropolitan Wayne County Airport", link: "https://www.metroairport.com/", lat: 0.736747, lon: 1.454790 },
   EAU { name: "Chippewa Valley Regional Airport", link: "https://www.chippewavalleyairport.com/", lat: 0.776945534, lon: 1.593316310 }, // 44°51′57″N 091°29′03″W
