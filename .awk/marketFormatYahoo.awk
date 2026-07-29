@@ -35,7 +35,7 @@ BEGIN {
     #
     # Add the new <sector> name
     #
-    region = "|Americas|Europe, Middle East, and Africa|Asia Pacific|Defense ETFs|Energy ETFs|"
+    region = "Americas|Europe, Middle East, and Africa|Asia, Pacific|Defense ETFs|Energy ETFs"
     cntRegions = split(region, regBreaks, "|")
 
     # Use associative arrays to hold the region's assessment
@@ -50,14 +50,10 @@ BEGIN {
     #
     customETF = "|Defense ETFs|Energy ETFs|"
 
-    gainers = 0
-    losers = 0
-    pctChange = 0.0
-    line = -1
     prevRegion = ""
     currRegion = ""
-    tableHeader = "Americas"
-    postHeader()
+    resetStats()
+    postJekyllHeader()
     buildRegionMapping()
     buildIndexMapping()
 
@@ -84,21 +80,27 @@ BEGIN {
 
 {
     #
-    if ($0 == newFileBegins) {
-        #printf("#DEBUG100: FILENAME: %s\n", FILENAME)
+    if (FNR == 1) {
+        #printf("#DEBUG100: FILENAME: %s, map: %s\n", FILENAME, lookupRegion(FILENAME))
+        if (NR > 1) {
+            tallySummary(gainers * 1.0, losers * 1.0, pctChange, length(region) > 0)
+            }
         region = lookupRegion(FILENAME)
+        printf("| **%s** | | | |\n", region)
         #printf("#DEBUG110: FILENAME: %s. region: %s\n", FILENAME, region)
-        tallySummary(gainers * 1.0, losers * 1.0, pctChange, currRegion)
-        gainers = 0
-        losers = 0
-        pctChange = 0.0
-        line = -1
+        resetStats()
         }
     else {
         pct = percentDiff($CurrentPrice, $Change)
-        arrow = (pct < 0.0 ? ":arrow_down:" : ":arrow_up:")
-        printf("| %s | %d | %s | %s |\n",
-        lookupSymbol($Symbol), formatCurrency($CurrentPrice), formatCurrency($Change), arrow percentDiff($CurrentPrice, $Change))
+        sign = ($Change * 1.0 < 0.0 ? -1.0 : 1.0)
+        if (sign < 0.0)
+            losers ++
+        else
+            gainers ++
+        pctChange += pct
+        arrow = (sign < 0.0 ? ":arrow_down:" : ":arrow_up:") " "
+        printf("| %s | %s | %s | %s |\n",
+        lookupSymbol($Symbol), formatCurrency($CurrentPrice), formatCurrency($Change), arrow formatPercent(pct))
         }
     }
 
@@ -116,15 +118,31 @@ function percentDiff(current, change) {
     diffPct = (current - (original)) / (original) * 100.0
     pctChange += pctDiff
     #printf("DEBUG000: pctChg: %f\n", diffPct)
-    if (diffPct > -0.1 && diffPct < 0.1)
-        return sprintf("%.3f%%", p)
+    return(diffPct)
+    }
+    
+function formatPercent(pct) {
+    if (pct > -0.1 && pct < 0.1)
+        return sprintf("%0.3f%%", pct)
     else
-        return sprintf("%.2f%%", p)
+        return sprintf("%0.2f%%", pct)
     }
     
 function formatCurrency(amount) {
-    money = "$ " sprintf("%'0.2f", amount)
+    sign = (amount < 0.0 ? "-" : "") "\\$"
+    #printf("#DEBUG1000: formatCurrency(%0.2f)\n", amount)
+    money = sign sprintf("%'0.2f", abs(amount))
     return(money)
+    }
+    
+function abs(value) {
+    return(value < 0.0 ? -1 * value : value)
+    }
+
+function resetStats() {
+    gainers = 0
+    losers = 0
+    pctChange = 0.0
     }
 
 ###
@@ -134,7 +152,7 @@ function tallySummary(gainers, losers, pct, newRegion) {
     regionCount ++
     total = gainers + losers
     marketStrength = ""
-    #printf("\n\nDEBUG400: tableHeader: %s: tallySummary(newRegion: %d, pct: %0.2f, gainers: %d, losers: %d, total: %d)\n\n", tableHeader, newRegion, pct, gainers, losers, total)
+    #printf("\n\n#DEBUG400: region: %s: tallySummary(newRegion: %d, pct: %0.2f, gainers: %d, losers: %d, total: %d)\n\n", region, newRegion, pct, gainers, losers, total)
     if (total > 0) {
         strength = (gainers / total) * 100.0
         marketStrength = assessRegion(strength)
@@ -142,21 +160,14 @@ function tallySummary(gainers, losers, pct, newRegion) {
         tierShort = abbrMovement(tierLong)
         printf("| <strong>Avg Pct Chg: %0.2f% (%s)</strong> | <strong>gainers: %d (%0.2f%)</strong> | <strong>losers: %d (%0.2f%)</strong> | **%s** |\n", (pct / total), tierLong, gainers, (gainers / total) * 100.0, losers, (losers / total) * 100.0, assessRegion(strength))
 
-        if (tableHeader != "") {
-            regionAssessment[tableHeader] = marketStrength ", " tierShort
+        if (region != "") {
+            regionAssessment[region] = marketStrength ", " tierShort
             }
-        }
-
-    if (newRegion > 0) {
-        printf("| **%s** | | | |\n", curLine)
-        tableHeader = curLine
         }
 
     #printf("#DEBUG420: strength: %f, marketStrength: %s\n", strength, marketStrength)
 
-    gainers = 0
-    losers = 0
-    pctChange = 0.0
+    resetStats()
     }
 
 function assessRegion(percent) {
@@ -192,7 +203,7 @@ function abbrMovement(move) {
     return(abbr)
     }
 
-function postHeader() {
+function postJekyllHeader() {
     printf("---\n")
     printf("layout: post\n")
     printTags()
@@ -208,7 +219,7 @@ function postHeader() {
     printf("#image: 'BASEURL/assets/blog/img/.png'\n")
     printf("#description:\n")
     printf("#permalink:\n")
-    printf("title: \"%s: World Stock Market Closing Indexes: Americas (no data). Europe, Middle East, & Africa (no data). Asia Pacific (no data). Defense ETFs (no data), Energy ETFs(no data).\"\n", curDate)
+    printf("title: \"%s: World Stock Market Closing Indexes: Americas (no data). Europe, Middle East, & Africa (no data). Asia, Pacific (no data). Defense ETFs (no data), Energy ETFs(no data).\"\n", curDate)
     printf("---\n")
 
     printf("\n\n## [Yahoo Finance - Stock Market Live, Quotes, Business & Finance News](https://finance.yahoo.com/)\n\n")
@@ -222,7 +233,7 @@ function printTitle() {
     #
     # Add the new Sector EFTs. Follow existing code
     #
-    title = sprintf("World Stock Market Closing Indexes: Americas (%s). Europe, Middle East, & Africa (%s). Asia Pacific (%s). Defense ETFs (%s). Energy ETFs(%s).", regionAssessment["Americas"], regionAssessment["Europe, Middle East, and Africa"], regionAssessment["Asia Pacific"], regionAssessment["Defense ETFs"], regionAssessment["Energy ETFs"])
+    title = sprintf("World Stock Market Closing Indexes: Americas (%s). Europe, Middle East, & Africa (%s). Asia, Pacific (%s). Defense ETFs (%s). Energy ETFs(%s).", regionAssessment["Americas"], regionAssessment["Europe, Middle East, and Africa"], regionAssessment["Asia, Pacific"], regionAssessment["Defense ETFs"], regionAssessment["Energy ETFs"])
     #printf("#DEBUG600: title: %s\n", title)
 
     printf("\ntitle: \"%s: %s\"\n---\n", curDate, title)
@@ -316,14 +327,19 @@ function cleanDumpReset() {
     
 function buildRegionMapping() {
     regionMap["portfolio.csv"] = "Americas"
-    regionMap["portfolio.csv (1)"] = "Europe, Middle East Africa"
-    regionMap["portfolio.csv (2)"] = "Asia, Pacific"
-    regionMap["portfolio.csv (3)"] = "Defense ETF"
-    regionMap["portfolio.csv (4)"] = "Energy TFS"
+    regionMap["portfolio (1).csv"] = "Europe, Middle East, and Africa"
+    regionMap["portfolio (2).csv"] = "Asia, Pacific"
+    regionMap["portfolio (3).csv"] = "Defense ETFs"
+    regionMap["portfolio (4).csv"] = "Energy ETFs"
     }
     
 function lookupRegion(file) {
-    region = regionMap[file]
+    cntFileParts = split(file, fileParts, "/")
+#    for (ndx = 1; ndx <= cntFileParts; ndx ++) {
+#        printf("#DEBUG900: fileParts[%d]=%s\n", ndx, fileParts[ndx])
+#        }
+    region = regionMap[fileParts[2]]
+    #printf("DEBUG910: fileParts[2]: %s, region: %s\n", fileParts[2], region)
     return(region != "" ? region : file)
     }
 
@@ -445,5 +461,5 @@ function printTags() {
     }
     
 function printCategories() {
-    printf("categories: [finance,investing,stocks,indexes,world stock market indexes]\n")
+    printf("categories: [finance,investing,stocks,indexes,world stock market indexes,Americas,Europe Middle East Africa,Asia, Pacific,Defense ETFs,Energy ETFs]\n")
     }
