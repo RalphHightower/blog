@@ -80,6 +80,7 @@ BEGIN {
 
 {
     #
+    #printf("#DEBUG0010: record: %s\n", $0)
     if (FNR == 1) {
         #printf("#DEBUG100: FILENAME: %s, map: %s\n", FILENAME, lookupRegion(FILENAME))
         if (NR > 1) {
@@ -99,8 +100,7 @@ BEGIN {
             gainers ++
         pctChange += pct
         arrow = (sign < 0.0 ? ":arrow_down:" : ":arrow_up:") " "
-        printf("| %s | %s | %s | %s |\n",
-        lookupSymbol($Symbol), formatCurrency($CurrentPrice), formatCurrency($Change), arrow formatPercent(pct))
+        printf("| %s | %s | %s | %s |\n", lookupSymbol($Symbol), formatCurrency($CurrentPrice), formatCurrency($Change), arrow formatPercent(pct))
         }
     }
 
@@ -114,28 +114,62 @@ END {
     }
 
 function percentDiff(current, change) {
-    original =  current + change
+    original =  current - change
     diffPct = (current - (original)) / (original) * 100.0
+    #printf("#DEBUG1210: original: %f, current: %f, change: %f, diffPct: %f\n", original, current, change, diffPct)
     pctChange += pctDiff
     return(diffPct)
     }
     
 function formatPercent(pct) {
-    if (pct > -0.1 && pct < 0.1)
+    #if (pct > -0.1 && pct < 0.1)
         return sprintf("%0.3f%%", pct)
-    else
-        return sprintf("%0.2f%%", pct)
+    #else
+        #return sprintf("%0.2f%%", pct)
     }
     
 function formatCurrency(amount) {
-    sign = (amount < 0.0 ? "-" : "") "\\$"
-    #printf("#DEBUG1000: formatCurrency(%0.2f)\n", amount)
-    money = sign sprintf("%'0.2f", abs(amount))
-    return(money)
+    temp = sprintf("%0.3f", amount * 1.0)
+    #printf("#DEBUG1310: amount: %f, temp: %f\n", amount, temp * 1.0)
+    retVal = temp
+    cnt = split(temp, money, ".")
+    if (cnt == 2) {
+        dollars = money[1]
+        cents = money[2]
+        #cents = substr(money[2] "0", 1, 3)
+        len = length(dollars)
+        commas = len / 3 - 1
+        retVal = dollars "." cents
+        #printf("#DEBUG1320: cnt: %d, dollars: %s, cents: %s, len: %d, commas: %d\n", cnt, dollars, cents, len, commas)
+        if (commas > 0) {
+            #0000000
+            #000000
+            #00000
+            #0000
+            retVal = ""
+            comma = 3
+            for (ndx = len; ndx > 0; ndx --) {
+                retVal = substr(dollars, ndx, 1) retVal
+                comma --
+                #printf("#DEBUG1330: ndx: %d, comma: %s, retVal: %s\n", ndx, comma, retVal)
+                if ((comma == 0) && (ndx > 1)){
+                    retVal = "," retVal
+                    comma = 3
+                    }
+                }
+            retVal = retVal "." cents
+            }
+        } # concat
+    #printf("#DEBUG1390: retVat: %s\n", retVal)
+    return(retVal)
     }
     
 function abs(value) {
     return(value < 0.0 ? -1 * value : value)
+    }
+    
+function log10(value) {
+    return(log(value) / log(10))
     }
 
 function resetStats() {
@@ -151,7 +185,7 @@ function tallySummary(gainers, losers, pct, newRegion) {
     regionCount ++
     total = gainers + losers
     marketStrength = ""
-    #printf("\n\n#DEBUG400: region: %s: tallySummary(newRegion: %d, pct: %0.2f, gainers: %d, losers: %d, total: %d)\n\n", region, newRegion, pct, gainers, losers, total)
+    #printf("\n\n#DEBUG400: region: %s: tallySummary(newRegion: %d, pct: %f, gainers: %d, losers: %d, total: %d)\n\n", region, newRegion, pct, gainers, losers, total)
     if (total > 0) {
         strength = (gainers / total) * 100.0
         marketStrength = assessRegion(strength)
@@ -221,7 +255,7 @@ function postJekyllHeader() {
     printf("title: \"%s: World Stock Market Closing Indexes: Americas (no data). Europe, Middle East, & Africa (no data). Asia, Pacific (no data). Defense ETFs (no data), Energy ETFs(no data).\"\n", curDate)
     printf("---\n")
 
-    printf("\n\n## [Yahoo Finance - Stock Market Live, Quotes, Business & Finance News](https://finance.yahoo.com/)\n\n")
+    printf("\n\n## [Stock Portfolio Management & Tracker - Yahoo Finance](https://finance.yahoo.com/portfolios)\n\n")
     printf("| Index | Closing Value | Gain/Loss | Percentage Change |\n")
     printf("|---|---:|---:|---:|\n")
     }
@@ -366,7 +400,7 @@ function buildIndexesAmericas() {
     IndexName["^B400"]    = "Bloomberg 400"
     IndexName["^NDX"]     = "NASDAQ 100"
     IndexName["^NDXTR"]   = "NASDAQ 100 Total Return"
-    IndexName["^NDXTRD"]   = "Pacer Nasdaq-100 Trendpilot Index"
+    IndexName["^NDXTRND"]   = "Pacer Nasdaq-100 Trendpilot Index"
     IndexName["^TRAN"]    = "Dow Jones Transportation Average"
     IndexName["^NBI"]     = "NASDAQ Biotechnology Index"
     IndexName["^BANK"]    = "NASDAQ Bank Index"
