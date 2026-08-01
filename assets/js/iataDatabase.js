@@ -30,8 +30,8 @@ ANK: {
   FRG { name: "Republic Airport", link: "https://republicairport.net/", lat: 0.710853, lon: 1.281304 },
   GVA { name: "Geneva Airport", link: "http://www.gva.ch/", lat: 0.805321097, lon: 0.105825072 }, // 46°14′15″N 6°06′33″E
   GON { name: "Groton-New London Airport", link: "https://ctairports.org/airports/groton-newlondon/", lat; 0.718984895, lon: 1.257059431 }, // 41°19′48″N 072°02′42″W
+  HGR { name: "Hagerstown Regional Airport - Washington County", link: "https://www.washco-md.net/hagerstown-regional-airport/", lat: 0.693046, lon: 1.356581 },
   HNL { name: "Joint Base Pearl Harbor–Hickam / Daniel K. Inouye International Airport", link: "https://airports.hawaii.gov/hnl/", lon: 0.369847486, lat: 2.749802888 },	//21°19′07″N 157°55′21″W
-  HGR { name: "Hagerstown Regional Airport", link: "https://www.washco-md.net/hagerstown-regional-airport/", lat: 0.693046, lon: 1.356581 },
   HND { name: "Haneda Airport", link: "https://tokyo-haneda.com/", lat: 0.620523, lon: 2.439641 },
   HWO { name: "North Perry Airport", link: "https://www.broward.org/NorthPerryAirport/Pages/Default.aspx", lat: 0.453805, lon: 1.400467 },
   IAD { name: "Washington Dulles International Airport", link: "https://www.flydulles.com/", lat: 0.679709, lon: 1.351859 },
@@ -57,6 +57,7 @@ ANK: {
   PIK { name: "Glasgow Prestwick Airport", link: "https://www.glasgowprestwick.com/", lat: 0.968823, lon: 0.080188 },
   PIT { name: "Pittsburgh International Airport", link: "https://flypittsburgh.com/", lat: 0.706789, lon: 1.400557 },
   POB { name: "Pope Field", link: "https://www.pope.af.mil/", lat: 0.613847, lon: 1.379062 },
+  PTK { name: "Oakland County International Airport", link: "https://www.oakgov.com/community/airports/oakland-county-international-airport", lat:  0.739413974, lon:  1.453009292 }, // 42°39′56″N 083°25′13″W
   PUS { name: "Gimhae International Airport", link: "https://gimhaeairport.com/", lat: 0.613997, lon: 2.250398 },
   RCA { name: "Ellsworth Air Force Base", link: "https://www.ellsworth.af.mil/", lat:  0.769423165, lon:  1.798432640 }, // 44°08′47″N 103°04′29″W
   RDG { name: "Reading Regional Airport", link: "https://readingairport.org/", lat: 0.702046474, lon: 1.319041309 }, // 40°22′43″N 075°57′55″W
