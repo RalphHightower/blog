@@ -11,25 +11,6 @@ BEGIN {
     mktDefense = "no data"
     mktEnergy = "no data"
 
-    DUMP = "Your watchlist in the news"
-
-    #
-    # adding <sector> ETFs
-    # 1. add <> ETF symbols
-    #
-    etfAmericasSymbols = "^GSPC|^DJI|^IXIC|^RUT|^GSPTSE|^BVSP|^NYA|^DJT|^DJU|^VIX|^RUI|^DWCF|^B400|^NDX|^NDXTR|^TRAN|^NBI|^BANK|^INSR|^INDS|^MID|^RUA|^XAX|^VALUG|^BTK|^DRG|^BKX|^XAU|^OSX|^SOX"
-
-    etfEMEASymbols = "^GDAXI|^FTSE|^FCHI|^IBEX|^STOXX50E|^SPEU|^TA125|^AEX|^PSI20|^WIG|^TASI|^SSMI|^SPE350|^STOXX600|^FTAI|^FTAS|^OMXC20|^OMXC25|^WIG20|^WIG30|^SBF120|^HDAXI|^OMXH25|^AMX|^ATX|^OMXS30|^OMXSBGI|^OMXR|^OMXT|^OMXV|^TA35"
-
-    etfAsiaPacificSymbols = "^N225|^HSI|^BSESN|^NSEI|^TWII|^KS11|^AXJO|^NZ50|^SSE180|^SSE50|^HSCE|^JKLQ45|^JKSE|^FTSEASEAN|^AXKO"
-
-    etfDefenseSymbols = "ARKQ|ARKX|DFEN|EUAD|FITE|GCAD|IDEF|ITA|JEDI|KDEF|MISL|NATO|PPA|SHLD|UFO|WAR|WDAF|WDEF|WDGF|XAR"
-
-    etfEnergySymbols = "AMLP|AMZA|BNO|BOIL|BWET|CCNR|CRAK|CSNR|DBO|DIG|DRIP|DUG|EINC|EIPI|EMLP|ENFR|ERX|ERY|FCG|FENY|FENY|FTRI|FTXN|FUTY|FXM|FXU|GII|GNR|GUNR|GUSH|IDU|IEO|IEZ|IFRA|IGF|IXC|IYE|JXI|KOLD|MLPX|NANR|NFRA|NLR|NRGD|NRGU|OIH|OILD|OILK|OILT|OILU|PSCE|PUI|PXE|PXI|PXJ|RBLD|RSPG|RSPU|SCO|TEXU|TOLZ|TPYP|UCO|UGA|UMI|UNG|UPW|URA|URNG|URNM|USAI|USL|USO|USOY|UTES|UTSL|VDE|VPU|XES|XLE|XLU|XOP"
-# URNJ|NUKZ
-
-    etfCustomLists = etfDefenseSymbols etfEnergySymbols
-
     regionCount = 0
 
     #
@@ -45,10 +26,6 @@ BEGIN {
             }
         }
     #
-
-    # add <sector> Watch list name to check if a new sector is encountered
-    #
-    customETF = "|Defense ETFs|Energy ETFs|"
 
     prevRegion = ""
     currRegion = ""
@@ -191,7 +168,7 @@ function tallySummary(gainers, losers, pct, newRegion) {
         marketStrength = assessRegion(strength)
         tierLong = assessMovement(pct / total)
         tierShort = abbrMovement(tierLong)
-        printf("| <strong>Avg Pct Chg: %0.2f% (%s)</strong> | <strong>gainers: %d (%0.2f%)</strong> | <strong>losers: %d (%0.2f%)</strong> | **%s** |\n", (pct / total), tierLong, gainers, (gainers / total) * 100.0, losers, (losers / total) * 100.0, assessRegion(strength))
+        printf("| <strong>Avg Pct Chg: %0.3f% (%s)[^910]</strong> | <strong>gainers: %d (%0.2f%)</strong> | <strong>losers: %d (%0.2f%)</strong> | **%s** |\n", (pct / total), tierLong, gainers, (gainers / total) * 100.0, losers, (losers / total) * 100.0, assessRegion(strength))
 
         if (region != "") {
             regionAssessment[region] = marketStrength ", " tierShort
@@ -217,16 +194,20 @@ function assessRegion(percent) {
     }
 
 function assessMovement(pctChg) {
+    tmpPctChg = sprintf("%0.3f", pctChg) * 1.0
+    #printf("#DEBUG701: tmpPctChg: %f, pctChg: %f\n", tmpPctChg, pctChg)
     movement = ""
-    direction = (pctChg >= 0 ? " Positive " : " Negative ")
-    absPct = (pctChg > 0.0 ? pctChg : -pctChg)
-    #printf("#DEBUG710 assessMovement(%f)\n", absPct)
+    direction = tmpPctChg == 0.0 ? "" :
+        tmpPctChg < 0.0 ? " Negative " : " Positive "
+    tmpPctChg = abs(tmpPctChg)
+    #printf("#DEBUG710 assessMovement(%f)\n", tmpPctChg)
 
-    movement = absPct < 1.0 ? "Small" direction "Movement" :
-        absPct < 3.0 ? "Medium" direction "Movement" :
-        "Large" direction "Movement"
+    movement = (tmpPctChg == 0.0 ? "No" : 
+        (tmpPctChg < 1.0 ? "Small" direction : 
+        (tmpPctChg < 3.0 ? "Medium" direction : 
+            "Large" direction))) " Movement"
         return(movement)
-    }
+        }
 
 function abbrMovement(move) {
     abbr = move
@@ -255,9 +236,18 @@ function postJekyllHeader() {
     printf("title: \"%s: World Stock Market Closing Indexes: Americas (no data). Europe, Middle East, & Africa (no data). Asia, Pacific (no data). Defense ETFs (no data), Energy ETFs(no data).\"\n", curDate)
     printf("---\n")
 
-    printf("\n\n## [Stock Portfolio Management & Tracker - Yahoo Finance](https://finance.yahoo.com/portfolios)\n\n")
+    printWatchlistSource()
+    printfTableHeader()
+    }
+    
+function printfTableHeader() {
     printf("| Index | Closing Value | Gain/Loss | Percentage Change |\n")
     printf("|---|---:|---:|---:|\n")
+    }
+    
+function printWatchlistSource() {
+    printf("\n\n## [Stock Portfolio Management & Tracker - Yahoo Finance](https://finance.yahoo.com/portfolios)[^101]\n\n")
+    printf("[^101]: @RalphHightower: This link is my personalized watchlist for tracking stock indexes and sector ETFs.  [Yahoo Finance - Stock Market Live, Quotes, Business & Finance News](https://finance.yahoo.com/) is the generic link to build your own.\n\n")
     }
 
 function printTitle() {
@@ -297,8 +287,8 @@ function postTrailer() {
     }
 
 function explainMovement() {
-    printf("\nAverage Percent Change Movement Basis — Magnitude of percentage change for regions and sectors. [^11]\n\n")
-        printf("[^11]: Average Percent Change Movement Definition<br />• Small — less than 1.0%. Indicates a minor change in the region or sector.<br />• Medium — between 1.0% and 3.0%. Indicates a moderate change in the region or sector.<br />• Large — greater than 3.0%. Indicates a significant change in the region or sector.<br />• Direction (Positive or Negative) comes directly from the sign of the Avg Pct Chg value.\n")
+    printf("\nAverage Percent Change Movement Basis — Magnitude of percentage change for regions and sectors. [^910]\n\n")
+        printf("[^910]: Average Percent Change Movement Definition<br />• Small — less than 1.0%. Indicates a minor change in the region or sector.<br />• Medium — between 1.0% and 3.0%. Indicates a moderate change in the region or sector.<br />• Large — greater than 3.0%. Indicates a significant change in the region or sector.<br />• Direction (Positive or Negative) comes directly from the sign of the Avg Pct Chg value.\n")
     }
 
 #
@@ -347,17 +337,6 @@ function printTrumpStupidity() {
     printf("{%% include TrumpTariffs.html %%}\n")
     }
 
-function cleanDumpReset() {
-    #Turn dump OFF when the next ETF sector header appears
-    if (dump == 1 && index(etfCustomLists, $0) > 0) {
-        dump = 0
-        }
-
-    # Skip dumped lines
-    if (dump == 1)
-        next
-    }
-    
 function buildRegionMapping() {
     regionMap["portfolio.csv"] = "Americas"
     regionMap["portfolio (1).csv"] = "Europe, Middle East, and Africa"
@@ -373,6 +352,11 @@ function lookupRegion(file) {
     return(region != "" ? region : file)
     }
 
+function lookupSymbol(symbol) {
+    idx = IndexName[symbol]
+    return(idx != "" ? idx : symbol)
+    }
+    
 function buildIndexMapping() {
     buildIndexesAmericas()
     buildIndexesEMEA()
@@ -385,99 +369,112 @@ function buildIndexesAmericas() {
     # -------------------------
     # Americas
     # -------------------------
-    IndexName["^GSPC"]    = "S&P 500"
-    IndexName["^DJI"]     = "Dow Jones Industrial Average"
-    IndexName["^IXIC"]    = "NASDAQ Composite"
-    IndexName["^RUT"]     = "Russell 2000 Index"
-    IndexName["^GSPTSE"]  = "S&P/TSX Composite Index"
-    IndexName["^BVSP"]    = "IBOVESPA"
-    IndexName["^NYA"]     = "NYSE Composite Index"
-    IndexName["^DJT"]     = "Dow Jones Transportation"
-    IndexName["^DJU"]     = "Dow Jones U.S. Index"
-    IndexName["^VIX"]     = "CBOE Volatility Index"
-    IndexName["^RUI"]     = "Russell 1000"
-    IndexName["^DWCF"]    = "Dow Jones U.S. Completion"
-    IndexName["^B400"]    = "Bloomberg 400"
-    IndexName["^NDX"]     = "NASDAQ 100"
-    IndexName["^NDXTR"]   = "NASDAQ 100 Total Return"
-    IndexName["^NDXTRND"]   = "Pacer Nasdaq-100 Trendpilot Index"
-    IndexName["^TRAN"]    = "Dow Jones Transportation Average"
-    IndexName["^NBI"]     = "NASDAQ Biotechnology Index"
-    IndexName["^BANK"]    = "NASDAQ Bank Index"
-    IndexName["^INSR"]    = "NASDAQ Insurance Index"
-    IndexName["^INDS"]    = "NASDAQ Industrial Index"
-    IndexName["^MID"]     = "S&P MidCap 400"
-    IndexName["^RUA"]     = "Russell 3000"
-    IndexName["^XAX"]     = "NYSE AMEX Composite"
-    IndexName["^VALUG"]   = "NYSE Value Line Geometric"
-    IndexName["^BTK"]     = "NYSE Biotechnology Index"
-    IndexName["^DRG"]     = "NYSE Pharmaceutical Index"
-    IndexName["^BKX"]     = "KBW Bank Index"
-    IndexName["^XAU"]     = "Philadelphia Gold & Silver Index"
-    IndexName["^OSX"]     = "Philadelphia Oil Service Index"
-    IndexName["^SOX"]     = "Philadelphia Semiconductor Index"
+    IndexName["^B400"] = "Bloomberg 400"
+    IndexName["^BANK"] = "NASDAQ Bank Index"
+    IndexName["^BKX"] = "KBW Bank Index"
+    IndexName["^BTK"] = "NYSE Biotechnology Index"
+    IndexName["^BVSP"] = "IBOVESPA"
+    IndexName["^DJGT"] = "Dow Jones Global Titans 50 Inde"
+    IndexName["^DJI"] = "Dow Jones Industrial Average"
+    IndexName["^DJT"] = "Dow Jones Transportation"
+    IndexName["^DJU"] = "Dow Jones U.S. Index"
+    IndexName["^DRG"] = "NYSE Pharmaceutical Index"
+    IndexName["^DWCF"] = "Dow Jones U.S. Completion"
+    IndexName["^DWRTF"] = "Dow Jones U.S. Select REIT Inde"
+    IndexName["^GSPC"] = "S&P 500"
+    IndexName["^GSPTSE"] = "S&P/TSX Composite Index"
+    IndexName["^INDS"] = "NASDAQ Industrial Index"
+    IndexName["^INSR"] = "NASDAQ Insurance Index"
+    IndexName["^IXIC"] = "NASDAQ Composite"
+    IndexName["^MERV"] = "MERVAL"
+    IndexName["^MID"] = "S&P MidCap 400"
+    IndexName["^MXX"] = "IPC MEXICO"
+    IndexName["^NBI"] = "NASDAQ Biotechnology Index"
+    IndexName["^NDX"] = "NASDAQ 100"
+    IndexName["^NDXTR"] = "NASDAQ 100 Total Return"
+    IndexName["^NDXTRND"] = "Pacer Nasdaq-100 Trendpilot Index"
+    IndexName["^NYA"] = "NYSE Composite Index"
+    IndexName["^OSX"] = "Philadelphia Oil Service Index"
+    IndexName["^RUA"] = "Russell 3000"
+    IndexName["^RUI"] = "Russell 1000"
+    IndexName["^RUT"] = "Russell 2000 Index"
+    IndexName["^SOX"] = "Philadelphia Semiconductor Index"
+    IndexName["^TRAN"] = "Dow Jones Transportation Average"
+    IndexName["^VALUG"] = "NYSE Value Line Geometric"
+    IndexName["^VIX"] = "CBOE Volatility Index"
+    IndexName["^XAU"] = "Philadelphia Gold & Silver Index"
+    IndexName["^XAX"] = "NYSE AMEX Composite"
     }
     
 function buildIndexesEMEA() {
     # -------------------------
     # EMEA
     # -------------------------
-    IndexName["^GDAXI"]   = "DAX"
-    IndexName["^FTSE"]    = "FTSE 100"
-    IndexName["^FCHI"]    = "CAC 40"
-    IndexName["^IBEX"]    = "IBEX 35"
-    IndexName["^STOXX50E"]= "Euro Stoxx 50"
-    IndexName["^SPEU"]    = "S&P Europe 350"
-    IndexName["^TA125"]   = "TA-125 Index"
-    IndexName["^AEX"]     = "AEX Amsterdam"
-    IndexName["^PSI20"]   = "PSI 20"
-    IndexName["^WIG"]     = "WIG"
-    IndexName["^TASI"]    = "Tadawul All Share Index"
-    IndexName["^SSMI"]    = "Swiss Market Index"
-    IndexName["^SPE350"]  = "S&P Europe 350"
-    IndexName["^STOXX600"]= "STOXX Europe 600"
-    IndexName["^FTAI"]    = "FTSE All-Share Index"
-    IndexName["^FTAS"]    = "FTSE All-Share"
-    IndexName["^OMXC20"]  = "OMX Copenhagen 20"
-    IndexName["^OMXC25"]  = "OMX Copenhagen 25"
-    IndexName["^WIG20"]   = "WIG 20"
-    IndexName["^WIG30"]   = "WIG 30"
-    IndexName["^SBF120"]  = "SBF 120"
-    IndexName["^HDAXI"]   = "HDAX"
-    IndexName["^OMXH25"]  = "OMX Helsinki 25"
-    IndexName["^AMX"]     = "AMX Midcap"
-    IndexName["^ATX"]     = "ATX Austria"
-    IndexName["^OMXS30"]  = "OMX Stockholm 30"
-    IndexName["^OMXSBGI"] = "OMX Stockholm Benchmark GI"
-    IndexName["^OMXR"]    = "OMX Riga"
-    IndexName["^OMXT"]    = "OMX Tallinn"
-    IndexName["^OMXV"]    = "OMX Vilnius"
-    IndexName["^TA35"]    = "TA-35 Index"
+    
     IndexName["211.TA"] = "TA35 EW"
-    IndexName["X2HZ.DE"] = "HDAX I"
-    IndexName["WIG30.WA"] ="WIG30"
     IndexName["WIG20.WA"] ="WIG20"
+    IndexName["WIG30.WA"] ="WIG30"
+    IndexName["X2HZ.DE"] = "HDAX I"
+    IndexName["^AEX"] = "AEX Amsterdam"
+    IndexName["^AEX"] = "AEX-Index"
+    IndexName["^AMX"] = "AMX Midcap"
+    IndexName["^ATX"] = "ATX Austria"
+    IndexName["^BFX"] = "BEL 20"
+    IndexName["^BUK100P"] = "Cboe UK 100"
+    IndexName["^CASE30"] = "EGX 30 Price Return Index"
+    IndexName["^FCHI"] = "CAC 40"
+    IndexName["^FTAI"] = "FTSE All-Share Index"
+    IndexName["^FTAS"] = "FTSE All-Share"
+    IndexName["^FTSE"] = "FTSE 100"
+    IndexName["^GDAXI"] = "DAX P"
+    IndexName["^GDAXI"] = "DAX"
+    IndexName["^HDAXI"] = "HDAX"
+    IndexName["^IBEX"] = "IBEX 35"
+    IndexName["^OMXC20"] = "OMX Copenhagen 20"
+    IndexName["^OMXC25"] = "OMX Copenhagen 25"
+    IndexName["^OMXH25"] = "OMX Helsinki 25"
+    IndexName["^OMXR"] = "OMX Riga"
+    IndexName["^OMXS30"] = "OMX Stockholm 30"
+    IndexName["^OMXSBGI"] = "OMX Stockholm Benchmark GI"
+    IndexName["^OMXT"] = "OMX Tallinn"
+    IndexName["^OMXV"] = "OMX Vilnius"
+    IndexName["^PSI20"] = "PSI 20"
+    IndexName["^SBF120"] = "SBF 120"
+    IndexName["^SPE350"] = "S&P Europe 350"
+    IndexName["^SPEU"] = "S&P Europe 350"
+    IndexName["^SSMI"] = "Swiss Market Index"
+    IndexName["^STOXX50E"]= "Euro Stoxx 50"
+    IndexName["^STOXX600"]= "STOXX Europe 600"
+    IndexName["^TA125"] = "TA-125 Index"
+    IndexName["^TA35"] = "TA-35 Index"
+    IndexName["^TASI"] = "Tadawul All Share Index"
+    IndexName["^WIG"] = "WIG"
+    IndexName["^WIG20"] = "WIG 20"
+    IndexName["^WIG30"] = "WIG 30"
     }
     
 function buildIndexesAsiaPacific() {
     # -------------------------
     # Asia-Pacific
     # -------------------------
-    IndexName["^N225"]    = "Nikkei 225"
-    IndexName["^HSI"]     = "Hang Seng Index"
-    IndexName["^BSESN"]   = "BSE Sensex"
-    IndexName["^NSEI"]    = "Nifty 50"
-    IndexName["^TWII"]    = "Taiwan Weighted Index"
-    IndexName["^KS11"]    = "KOSPI Composite"
-    IndexName["^AXJO"]    = "ASX 200"
-    IndexName["^NZ50"]    = "NZX 50"
-    IndexName["^SSE180"]  = "SSE 180 Index"
-    IndexName["^SSE50"]   = "SSE 50 Index"
-    IndexName["^HSCE"]    = "Hang Seng China Enterprises Index"
-    IndexName["^JKLQ45"]  = "Jakarta LQ45 Index"
-    IndexName["^JKSE"]    = "Jakarta Composite Index"
+    
+    IndexName["000001.SS"] = "SSE Composite Index"
+    IndexName["^AXJO"] = "ASX 200"
+    IndexName["^AXKO"] = "ASX All Ordinaries"
+    IndexName["^BSESN"] = "BSE Sensex"
     IndexName["^FTSEASEAN"]= "FTSE ASEAN Index"
-    IndexName["^AXKO"]    = "ASX All Ordinaries"
+    IndexName["^HSCE"] = "Hang Seng China Enterprises Index"
+    IndexName["^HSI"] = "Hang Seng Index"
+    IndexName["^JKLQ45"] = "Jakarta LQ45 Index"
+    IndexName["^JKSE"] = "Jakarta Composite Index"
+    IndexName["^KLSE"] = "FTSE Bursa Malaysia KLCI"
+    IndexName["^KS11"] = "KOSPI Composite"
+    IndexName["^N225"] = "Nikkei 225"
+    IndexName["^NSEI"] = "Nifty 50"
+    IndexName["^NZ50"] = "NZX 50"
+    IndexName["^SSE180"] = "SSE 180 Index"
+    IndexName["^SSE50"] = "SSE 50 Index"
+    IndexName["^TWII"] = "Taiwan Weighted Index"
     }
     
 function buildIndexesDefenseETF() {
@@ -584,11 +581,6 @@ function buildIndexesEnergyETF() {
     IndexName["XOP"] = "State Street SPDR S&P Oil & Gas Exploration & Production ETF"
     }
 
-function lookupSymbol(symbol) {
-    idx = IndexName[symbol]
-    return(idx != "" ? idx : symbol)
-    }
-    
 function printCategories() {
     printf("categories: [finance,investing,stocks,indexes,world stock market indexes,Americas,Europe Middle East Africa,Asia, Pacific,Defense ETFs,Energy ETFs]\n")
     }
