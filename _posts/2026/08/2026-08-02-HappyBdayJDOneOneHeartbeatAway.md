@@ -1,17 +1,18 @@
 ---
 layout: post
-tags: [media,Marsh Family - YouTube,ABBA / The one and only ABBA Official Fanclub,political parties,Democrat Party,Trumpian Party,foreign governments,Russia,Vladimir Putin,Welcome to GOV.UK,federal government,USA,Constitution of the United States,Supreme Court of the United States (SCOTUS),US Courts,Department of Justice (DOJ),Federal Bureau of Investigation (FBI),Federal Reserve,Federal Reserve Board - Federal Reserve Act,U.S. Department of the Treasury,Congress,Senate,House of Representatives,President of the United States (POTUS),White House (WH),President Joe Biden,Trump autocracy,Donald J Trump,President Donald Trump (45),President Donald Trump (47),President Trump (47) Administration,President Trump (47) Cabinet,Vice President JD Vance,JD Vance / LinkedIn,press secretary,Karoline Leavitt,Scott Bessent / U.S. Department of the Treasury,Pam Bondi – Office of the Attorney General / Meet the Attorney General / United States Department of Justice,Todd Blanche – Office of the Deputy Attorney General / Office of the Deputy Attorney General,Todd Blanche / LinkedIn,Director Kash Patel — FBI,grifter,self-dealing,corruption,con artist,crime,cryptocurrency,criminal associates,criminal businesses,criminal media,criminal organizations,criminal partners]
-categories: [JD “John Boy” Vance,birthday,Marsh Family,parody,ABBA,Dancing Queen]
+tags: [media,Marsh Family - YouTube,ABBA / The one and only ABBA Official Fanclub,The Independent / Latest news and features from US UK and worldwide,Fury over Trump’s running mate JD Vance claiming UK is an ‘Islamist country’ / The Independent,Hillbilly Elegy – HarperCollins,keywords,Marsh Family - YouTube,“Vance VP”,JD “John Boy” Vance,JD Vance / LinkedIn,Vice President JD Vance,“Hillbilly Elegy”,ABBA / The one and only ABBA Official Fanclub,“Dancing Queen”,President Joe Biden,United States of America (USA),Russia,Putin,Vladimir Putin,Fury over Trump’s running mate JD Vance claiming UK is an ‘Islamist country’ / The Independent,United Kingdom of Great Britain and Northern Ireland (UK),political parties,Democrat Party,Trumpian Party,foreign governments,Russia,Vladimir Putin,United Kingdom of Great Britain and Northern Ireland (UK),federal government,USA,Constitution of the United States,Supreme Court of the United States (SCOTUS),US Courts,Department of Justice (DOJ),Federal Bureau of Investigation (FBI),Federal Reserve,Federal Reserve Board - Federal Reserve Act,U.S. Department of the Treasury,Congress,Senate,House of Representatives,President of the United States (POTUS),White House (WH),President Joe Biden,Trump autocracy,Donald J Trump,President Donald Trump (45),President Donald Trump (47),President Trump (47) Administration,President Trump (47) Cabinet,Vice President JD Vance,JD Vance / LinkedIn,press secretary,Karoline Leavitt,Scott Bessent / U.S. Department of the Treasury,Pam Bondi – Office of the Attorney General / Meet the Attorney General / United States Department of Justice,Todd Blanche – Office of the Deputy Attorney General / Office of the Deputy Attorney General,Todd Blanche / LinkedIn,Director Kash Patel — FBI,grifter,self-dealing,corruption,con artist,crime,cryptocurrency,criminal associates,criminal businesses,criminal media,criminal organizations,criminal partners]
+categories: [Marsh Family - YouTube,“Vance VP”,JD “John Boy” Vance,JD Vance / LinkedIn,Vice President JD Vance,“Hillbilly Elegy”,ABBA / The one and only ABBA Official Fanclub,“Dancing Queen”,President Joe Biden,United States of America (USA),Russia,Putin,Vladimir Putin,Fury over Trump’s running mate JD Vance claiming UK is an ‘Islamist country’ / The Independent,United Kingdom of Great Britain and Northern Ireland (UK)]
 date: 2026-08-02 12:00 AM
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: "Happy Birthday Vance VP"
+title: "Happy Birthday JD “John Boy” Vance"
 ---
 
-August 2<sup>nd</sup> happens to be the birthday of JD “John Boy” Vance. 
+August 2<sup>nd</sup> happens to be the birthday of [JD “John Boy” Vance](https://www.whitehouse.gov/administration/jd-vance/). 
 
+Since [Vance](https://www.whitehouse.gov/administration/jd-vance/) plays off his upbringing in Appalachia, I thought it would be a fun parody of his name from the TV Series, The Waltons, of John “John Boy” Walton Jr.
 
 ## "Vance VP" - Marsh Family parody adaptation of "Dancing Queen" by ABBA, on JD Vance
 
@@ -30,13 +31,32 @@ So since he dished it out, and since - for obvious (but different) reasons - now
 - media
 - [Marsh Family - YouTube](https://www.youtube.com/@MarshFamilySongs)
 - [ABBA / The one and only ABBA Official Fanclub](https://abbasite.com/)
-- political parties
+- [The Independent / Latest news and features from US, UK and worldwide](https://www.independent.co.uk/)
+- [Fury over Trump’s running mate JD Vance claiming UK is an ‘Islamist country’ / The Independent](https://www.independent.co.uk/news/uk/politics/jd-vance-uk-trump-running-mate-islamist-country-b2581061.html)
+- [Hillbilly Elegy – HarperCollins](https://www.harpercollins.com/products/hillbilly-elegy-j-d-vance?variant=32207704424482)
+- keywords
+- [Marsh Family - YouTube](https://www.youtube.com/@MarshFamilySongs)
+- “Vance VP”
+- JD “John Boy” Vance
+- [JD Vance / LinkedIn](https://www.linkedin.com/in/jd-vance-770a9047/)
+- [Vice President JD Vance](https://www.whitehouse.gov/administration/jd-vance/)
+- “Hillbilly Elegy”
+- [ABBA / The one and only ABBA Official Fanclub](https://abbasite.com/)
+- “Dancing Queen”
+- [President Joe Biden](https://bidenwhitehouse.archives.gov/)
+- [United States of America (USA)](https://www.usa.gov/)
+- [Russia](http://kremlin.ru/)
+- [Putin](http://putin.kremlin.ru/)
+- [Vladimir Putin](http://putin.kremlin.ru/)
+- [Fury over Trump’s running mate JD Vance claiming UK is an ‘Islamist country’ / The Independent](https://www.independent.co.uk/news/uk/politics/jd-vance-uk-trump-running-mate-islamist-country-b2581061.html)
+- [United Kingdom of Great Britain and Northern Ireland (UK)](https://www.gov.uk/)
+political parties
 - [Democrat Party](https://www.democrats.org/)
 - [Trumpian Party](https://www.gop.com/)
 - foreign governments
 - [Russia](http://kremlin.ru/)
     - [Vladimir Putin](http://putin.kremlin.ru/)
-- [Welcome to GOV.UK](https://www.gov.uk/)
+- [United Kingdom of Great Britain and Northern Ireland (UK)](https://www.gov.uk/)
 - federal government
 - [USA](https://www.usa.gov/)
 - [Constitution of the United States](https://constitution.congress.gov/constitution/)
