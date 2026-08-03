@@ -39,7 +39,6 @@ gem 'jekyll-paginate-v2', '~> 3.0'
 
 gem 'sqlite-vss', '>= 0.1.2'
 
-gem 'activerecord', '>= 8.1.3.1'
 gem 'activerecord', '>= 7.2.3.2'
 gem 'faraday', '>= 2.14.3'
 gem 'nokogiri', '>= 1.19.4'
