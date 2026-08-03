@@ -12,58 +12,41 @@ source 'https://rubygems.org'
 
 gem 'jekyll', '~> 4.4', '>= 4.4.1'
 gem 'kramdown', '~> 2.5', '>= 2.5.1'
-gem 'jekyll-sass-converter', '~> 3.1'
-# gem 'rake', '~> 13.3'
-gem 'rake', '~> 13.2', '>= 13.2.1'
-gem 'minima', '~> 2.5', '>= 2.5.2'
+gem 'jekyll-sass-converter', '>= 3.1'
+gem 'rake', '>= 13.4.2'
+gem 'minima', '>= 2.5.2'
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
 gem 'jekyll_ai_related_posts', '~> 0.2.0'
 gem 'jekyll-avatar', '~> 0.8.0'
-gem 'jekyll-default-layout', '~> 0.1.5'
+gem 'jekyll-default-layout', '>= 0.2.0'
 gem 'jekyll-feed', '~> 0.17.0'
-gem 'jekyll-github-metadata', '~> 2.16', '>= 2.16.1'
+gem 'jekyll-github-metadata', '>= 2.16.1'
 # gem 'jekyll-include-cache', '~> 0.2.1'
-gem 'jekyll-last-modified-at', '~> 1.3', '>= 1.3.2'
+gem 'jekyll-last-modified-at', '>= 1.3.2'
 gem 'jekyll-mentions', '~> 1.6'
-gem 'jekyll-optional-front-matter', '~> 0.3.2'
-gem 'jekyll-readme-index', '~> 0.3.0'
-gem 'jekyll-relative-links', '~> 0.7.0'
-gem 'jekyll-seo-tag', '~> 2.8'
+gem 'jekyll-optional-front-matter', '>= 0.3.3'
+gem 'jekyll-readme-index', '>= 0.4.0'
+gem 'jekyll-relative-links', '~> 0.8.0'
+gem 'jekyll-seo-tag', '>= 2.9'
 gem 'jekyll-sitemap', '~> 1.4'
-# gem 'jekyll-tagging', github: 'RalphHightower/jekyll-tagging', branch: 'master'
-# gem 'jekyll-tagging', '~> 1.1'
-gem 'jekyll-titles-from-headings', '~> 0.5.3'
+# gem 'jekyll-tagging', '>= 1.1'
+gem 'jekyll-titles-from-headings', '>= 0.5.4'
 gem 'jekyll-toc', '~> 0.19.0'
 gem 'jemoji', '~> 0.13.0'
 gem 'jekyll-paginate-v2', '~> 3.0'
 
 gem 'sqlite-vss', '>= 0.1.2'
 
-# Security updates
-# { 2025-03-03 
-gem 'uri', '~> 1.1', '>= 1.1.1'
-#gem 'uri', '~> 1.0', '>= 1.0.3'
-# } 2025-03-03
-
-# Security updates 
-# { 2026-03-23
-gem 'activesupport', '~> 7.2', '>= 7.2.3.1'
-# } 2026-03-23
-
-# { 2025-01-11 @RalphHightower jekyll_ai_related_posts
-# gem 'activerecord', '~> 7.2', '>= 7.2.2.1'
-# gem 'activerecord', '~> 8.0', '>= 8.0.1'
-# gem 'faraday', '~> 2.12', '>= 2.12.2'
-# gem 'sqlite3', '~> 2.5'
-gem 'sqlite3', '~> 1.4', '>= 1.4.4'
-#gem 'sqlite3', '~> 1.7', '>= 1.7.3' # March 15, 2024
-# gem 'zeitwerk', '~> 2.6', '>= 2.6.18'
-# gem 'zeitwerk', '~> 2.7', '>= 2.7.1'
-# } 2025-01-11 @RalphHightower 
-
-# { 2026-06-20 @RalphHightower – Nokogiri patches vendored libxml2 to resolve multiple CVEs #15
+gem 'activerecord', '>= 8.1.3.1'
+gem 'activerecord', '>= 7.2.3.2'
+gem 'faraday', '>= 2.14.3'
 gem 'nokogiri', '>= 1.19.4'
-# } 2026-06-20 @RalphHightower
+gem 'json', '>= 2.21.2'
+gem 'json', '>= 2.19.9'
+gem 'rexml', '>= 3.4.4'
+gem 'sqlite3', '>= 2.9.5'
+gem 'uri', '>= 1.1.1'
+
 end
