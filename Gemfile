@@ -44,7 +44,7 @@ gem 'faraday', '>= 2.14.3'
 gem 'nokogiri', '>= 1.19.4'
 gem 'json', '>= 2.21.2'
 gem 'rexml', '>= 3.4.4'
-gem 'sqlite3', '>= 2.9.5'
+gem 'sqlite3', '>= 1.4.4'
 gem 'uri', '>= 1.1.1'
 
 end
