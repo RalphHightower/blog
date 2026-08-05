@@ -11,6 +11,8 @@ toc: false
 title: "Capital One Responds to Trump’s Debanking Lawsuit with Suspicious Money Laundering Transactions"
 ---
 
+![Samuel L Jackson telling Trump "Capital One is not in your wallet"](/assets/images/CapitalOneDebankedTrump.jpeg)
+
 ## [Capital One says money laundering concerns led to closure of Trump Org accounts, not politics](https://www.ms.now/opinion/capital-one-trump-organization-debanking-money-laundering-accounts)
 
 _[Trump](https://www.donaldjtrump.com/)’s claims that various banks closed accounts linked to his family over political reasons after Jan. 6 just took a fresh turn._
