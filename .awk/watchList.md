@@ -92,6 +92,7 @@ X2HZ.DE:HDAX I:Europe, Middle East and Africa:2
 ^SSE180:SSE 180 Index:Asia, Pacific:3
 ^SSE50:SSE 50 Index:Asia, Pacific:3
 ^TWII:Taiwan Weighted Index:Asia, Pacific:3
+AMMO:VistaShares Defense Supercycle ETF:Defense ETF:4
 ARKQ:ARK Autonomous Technology & Robotics ETF:Defense ETF:4
 ARKX:ARK Space & Defense Innovation ETF:Defense ETF:4
 DFEN:Direxion Daily Aerospace & Defense Bull 3X Shares:Defense ETF:4
@@ -99,6 +100,8 @@ DRNZ:REX Drone ETF:Defense ETF:4
 DUTY:U.S. Defense ETF:Defense ETF:4
 EUAD:Select STOXX Europe Aerospace & Defense ETF:Defense ETF:4
 FITE:State Street SPDR S&P Kensho Future Security ETF:Defense ETF:4
+FSPC:First Trust Bloomberg Space Economy ETF:Defense ETF:4
+GALX:VistaShares Space Supercycle ETF:Defense ETF:4
 GCAD:Gabelli Commercial Aerospace & Defense ETF:Defense ETF:4
 IDEF:iShares Defense Industrials Act:Defense ETF:4
 ITA:iShares U.S. Aerospace & Defense ETF:Defense ETF:4

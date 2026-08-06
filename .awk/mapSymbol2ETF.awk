@@ -12,7 +12,7 @@ BEGIN {
     Header = ""
     }
 {
-    if (NR > 2) {
+    if (NR > 1) {
         if (Header != $RegionSector) {
             printf("%s}\n\nfunction buildIndexes%s() {\n", tab, map[$RegionSector])
 printf("    # -------------------------\n    # %s\n    # -------------------------\n", $RegionSector)
