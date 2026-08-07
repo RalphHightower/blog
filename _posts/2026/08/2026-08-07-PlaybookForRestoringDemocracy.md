@@ -145,7 +145,7 @@ Full text of the [For Our Republic Act](https://www.merkley.senate.gov/wp-conten
 
 A section-by-section summary of the [For Our Republic Act](https://www.merkley.senate.gov/wp-content/uploads/For-Our-Republic-Act.pdf) can be found by clicking [here](https://www.merkley.senate.gov/wp-content/uploads/For-Our-Republic-Act-Section-by-Section.pdf).
 
-###
+\###
 
 ----
 - keywords
