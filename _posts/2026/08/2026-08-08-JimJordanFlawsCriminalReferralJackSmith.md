@@ -78,7 +78,7 @@ The [Justice Department](https://www.justice.gov/) should read the question [Smi
 - [Nixon and Watergate](https://www.archives.gov/exhibits/american_originals/nixon.html)
 - [Ronald Reagan Presidential Library & Museum / Ronald Reagan](https://www.reaganlibrary.gov/)
 - [Iran-Contra affair](https://www.reaganlibrary.gov/archives/audiovisual/white-house-photo-collection-galleries/iran-contra)
-political parties
+- political parties
 - [Democrat Party](https://www.democrats.org/)
 - [Trumpian Party](https://www.gop.com/)
 - universities
