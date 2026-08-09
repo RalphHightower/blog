@@ -8,7 +8,7 @@ excerpt: ''
 #description:
 #permalink:
 toc: false
-title: Ring the Alarm Bells: The Oath We Swore and the Authoritarian Playbook We’re Now Living Through"
+title: "Ring the Alarm Bells: The Oath We Swore and the Authoritarian Playbook We’re Now Living Through"
 ---
 
 Democracies rarely collapse in a single dramatic moment. They erode slowly — through fear, loyalty tests, and the quiet normalization of power that was never meant to exist. Senator Jeff Merkley’s *Ten Rules of Trump’s Authoritarian Playbook* lays out that erosion with unsettling clarity, and it matches what many of us have been seeing with our own eyes.
