@@ -198,3 +198,29 @@ XES:State Street SPDR S&P Oil & Gas Equipment & Services ETF:Energy ETF:5
 XLE:State Street Energy Select Sector SPDR ETF:Energy ETF:5
 XLU:State Street Utilities Select Sector SPDR ETF:Energy ETF:5
 XOP:State Street SPDR S&P Oil & Gas Exploration & Production ETF:Energy ETF:5
+NLR:VanEck Uranium and Nuclear ETF:Energy ETF:5
+NUKZ:Range Nuclear Renaissance ETF:Energy ETF:5
+URNJ:Sprott Junior Uranium Miners ETF:Energy ETF:5
+MARS:Roundhill Space & Technology ETF:Defense ETF:4
+WARP:VanEck Space ETF:Defense ETF:4
+^SPTMI:S&P Total Market Index (TMI):Americas:1
+^SKEW:CBOE SKEW INDEX:Americas:1
+^UTY:PHLX Utility Sector:Americas:1
+^NYFANG:NYSE FANG+ Index:Americas:1
+^SPEUP:S&P EUROPE 350:Europe, Middle East and Africa:2
+^FTMC:FTSE 250:Europe, Middle East and Africa:2
+^STOXX:STXE 600 I:Europe, Middle East and Africa:2
+^SPEURO:S&P EURO:Europe, Middle East and Africa:2
+^OMXSPI:OMX Stockholm_PI:Europe, Middle East and Africa:2
+:OMX Stockholm 30 Index:Europe, Middle East and Africa:2
+^OMX:NASDAQ France Small Cap Index (^NQFRSC)
+^BSESN:S&P BSE SENSEX:Asia, Pacific:3
+^NSEBANK:NIFTY BANK:Asia, Pacific:3
+^NQJP20N:NASDAQ Japan Health Care NTR In:Asia, Pacific:3
+^HXC:NASDAQ Golden Dragon China Inde:Asia, Pacific:3
+^STI:STI (Singapore Times) Index:Asia, Pacific:3
+^ROBOTR:ROBO Global Robotics and Automa:Defense ETF:4
+^KDRONE:S&P Kensho Drones Index (USD) T:Defense ETF:4
+^DXSSPADE Defense Index:Defense ETF:4
+^R2ICBENYT:Russell 2000 Energy Supersector:Energy ETF:5
+^SPGCL2LTS&P GSCI Crude Oil 2X Leveraged:Energy ETF:5
