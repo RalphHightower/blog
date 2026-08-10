@@ -1,0 +1,1 @@
+30 18 * * 1-5 /path/to/index-update.sh

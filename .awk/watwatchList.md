@@ -1,4 +1,7 @@
 $Symbol:$Name:$RegionSector:$RegionSectorSortKey
+^DXSSPADE Defense Index:Defense ETF:4
+^SPGCL2LTS&P GSCI Crude Oil 2X Leveraged:Energy ETF:5
+^OMX:NASDAQ France Small Cap Index (^NQFRSC)
 ^B400:Bloomberg 400:Americas:1
 ^SKEW:CBOE SKEW INDEX:Americas:1
 ^VIX:CBOE Volatility Index:Americas:1
@@ -57,7 +60,6 @@ $Symbol:$Name:$RegionSector:$RegionSectorSortKey
 ^HDAXI:HDAX:Europe, Middle East and Africa:2
 X2HZ.DE:HDAX I:Europe, Middle East and Africa:2
 ^IBEX:IBEX 35:Europe, Middle East and Africa:2
-^NQFRSC:NASDAQ France Small Cap Index:Europe, Middle East and Africa:2
 ^OMXC20:OMX Copenhagen 20:Europe, Middle East and Africa:2
 ^OMXC25:OMX Copenhagen 25:Europe, Middle East and Africa:2
 ^OMXH25:OMX Helsinki 25:Europe, Middle East and Africa:2
@@ -127,7 +129,6 @@ DRNZ:REX Drone ETF:Defense ETF:4
 MARS:Roundhill Space & Technology ETF:Defense ETF:4
 ^KDRONE:S&P Kensho Drones Index (USD) T:Defense ETF:4
 EUAD:Select STOXX Europe Aerospace & Defense ETF:Defense ETF:4
-^DXS:SPADE Defense Index:Defense ETF:4
 XAR:State Street SPDR S&P Aerospace & Defense:Defense ETF:4
 ROKT:State Street SPDR S&P Kensho Final Frontiers:Defense ETF:4
 FITE:State Street SPDR S&P Kensho Future Security ETF:Defense ETF:4
@@ -199,8 +200,7 @@ UPW:ProShares Ultra Utilities:Energy ETF:5
 KOLD:ProShares UltraShort Bloomberg Natural Gas:Energy ETF:5
 DUG:ProShares UltraShort Energy ETF:Energy ETF:5
 NUKZ:Range Nuclear Renaissance ETF:Energy ETF:5
-^R2ICBENYT:Russell 2000 Energy Supersector:Americas:1
-^SPGCL2LT:S&P GSCI Crude Oil 2X Leveraged:Energy ETF:5
+^R2ICBENYT:Russell 2000 Energy Supersector:Energy ETF:5
 URNJ:Sprott Junior Uranium Miners ETF:Energy ETF:5
 URNM:Sprott Uranium Miners ETF:Energy ETF:5
 XLE:State Street Energy Select Sector SPDR ETF:Energy ETF:5
