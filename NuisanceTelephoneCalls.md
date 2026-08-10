@@ -20,6 +20,21 @@ The telephone numbers below have called and there is an empty person on the othe
 
 | Telephone Number | Location | Date Time[^11]<sup>,</sup>[^12] | Caller | Social Media |
 |---|---|---|---|---|
+| [\+1 (803) 245-0393](tel:+18032450393) | SC. Bamberg | 2026-08-07 11:18 AM | JOHNSON BJ | |
+| [\+1 (803) 325-2979](tel:+18033252979) | SC. Rock Hill | 2026-08-04 12:01 PM | PAUL M BURBANK | |
+| [\+1 (803) 325-1245](tel:+18033251245) | SC. Rock Hill | 2026-08-03 10:28 AM | James Simpson (ANGELA P SIMPSON) | |
+| [\+1 (803) 274-8304](tel:+18032748304) | SC. Branchville | 2026-07-30 06:43 PM | Athea M Dickson (DICKSON ALTHEA) | |
+| [\+1 (803) 377-7537](tel:+18033777537) | SC. Chester | 2026-07-29 11:39 AM | S H LANIER | |
+| [\+1 (803) 432-8697](tel:+18034328697) | SC. Camden | 2026-07-28 01:39 PM | LONG WALTER (LONG WALTER W) | |
+| [\+1 (385) 365-3866](tel:+13853653866) | UT AMERICANFORK | 2026-07-26 03:04 PM | — | |
+| [\+1 (803) 913-5178](tel:+18039135178) | SC. Hampton | 2026-07-21 02:21 PM ¤¤ 🚫 | — | |
+| [\+1 (803) 328-1945](tel:+18033281945) | SC. Rock Hill | 2026-07-20 02:03 PM | C Varnadore (THELMA L DILL) | |
+| [\+1 (803) 490-1375](tel:+18034901375) | SC. Lexington | 2026-07-17 01:43 PM | — | |
+| [\+1 (803) 759-8462](tel:+18037598462) | SC. Holly Hill | 2026-07-17 01:10 PM ¤¤ | — | |
+| [\+1 (803) 547-0235](tel:+18035470235) | SC. Fort Mill | 2026-07-16 06:45 PM | Linda Bowen (BOWEN JAMES) | |
+| [\+1 (803) 619-3103](tel:+18036193103) | SC. Fort Mill | 2026-07-16 11:09 AM 🚫 | RAE SWETLAND | |
+| [\+1 (659) 348-1517](tel:+16593481517) | AL. Birmingham | 2026-07-13 11:48 AM | BESSEMER, AL | |
+| [\+1 (401) 216-5219](tel:+14012165219) | RI Woonsocket | 2026-07-13 10:27 AM 🚫¤¤ | — | |
 | [\+1 (909) 453-4473](tel:+19094534473) | CA. San Berbadito | 2026-07-10 04:57 PM 🚫¤¤ | — | |
 | [\+1 (803) 534-5523](tel:+18035345523) | SC. Orangeburg | 2026-07-10 04:41 PM | [Lee's Sausage Co](https://lee-s-sausage-co-inc.hub.biz/) | |
 | [\+1 (803) 534-5523](tel:+18035345523) | SC. Orangeburg | 2026-07-10 04:41 PM ¤¤ | [Lee's Sausage Co](https://lee-s-sausage-co-inc.hub.biz/) | |
