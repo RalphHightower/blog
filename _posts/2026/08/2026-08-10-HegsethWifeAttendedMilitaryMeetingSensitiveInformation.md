@@ -22,7 +22,7 @@ A few months ago, when I put together a tally of the number of [Faux News](https
 
 If we include [Faux News](https://www.foxnews.com/) veterans who worked as producers at the network, the list grows to include folks like [Jennifer Rauchet Hegseth](https://www.linkedin.com/in/jennifer-hegseth-190b7890/), [Defense](https://www.defense.gov/) [Secretary Pete Hegseth](https://www.defense.gov/About/Biographies/Biography/Article/4040890/hon-pete-hegseth/)’s third wife, whose portfolio at the [Pentagon](https://www.defense.gov/) appears to be growing. [The Hill reported](https://thehill.com/policy/defense/6006186-trump-signs-military-spouse-commission/):
 
-> _>[President](https://www.whitehouse.gov/) [Trump](https://www.donaldjtrump.com/) signed an executive order on Monday to form a new commission focused on improving the lives of military spouses and families and addressing the challenges they encounter._
+> _[President](https://www.whitehouse.gov/) [Trump](https://www.donaldjtrump.com/) signed an executive order on Monday to form a new commission focused on improving the lives of military spouses and families and addressing the challenges they encounter._
 
 The new commission, called the [President](https://www.whitehouse.gov/)’s [Military Spouse Commission](https://www.whitehouse.gov/presidential-actions/2026/08/establishing-the-presidents-military-spouse-commission-af64/), will be chaired by [Jennifer Rauchet](https://www.linkedin.com/in/jennifer-hegseth-190b7890/), the wife of the [Defense](https://www.defense.gov/) [Secretary Pete Hegseth](https://www.defense.gov/About/Biographies/Biography/Article/4040890/hon-pete-hegseth/).
 
