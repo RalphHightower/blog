@@ -59,7 +59,7 @@ If there’s ever been a defense secretary’s spouse with a portfolio like this
 - [The Hill covering Congress, Politics, Political Campaigns and Capitol Hill](https://thehill.com/)
 - [The Washington Post Breaking news and latest headlines, U.S. news, world news, and video The Washington Post](https://www.washingtonpost.com/)
 - [The Wall Street Journal (WSJ) Breaking News, Business, Financial & Economic News, World News and Video](https://www.wsj.com/)
-- [Shit You Can’t Make Up: Yemen Houthi Strike Planning Held On Unsecured Phones In Group Chat]({% llink _posts/2025/03/2025-03-25-YemenHouthiWarPlansTextedUnsecured.md %})
+- [Shit You Can’t Make Up: Yemen Houthi Strike Planning Held On Unsecured Phones In Group Chat]({% link _posts/2025/03/2025-03-25-YemenHouthiWarPlansTextedUnsecured.md %})
 - [Secretary of Defense, Peter Hegseth Is a Great Wingman For a Night 🌙 of Drinking 🍸 and Strip Clubs 👙. Call 867-5309]({% link _posts/2025/04/2025-04-27-PeteHegsethCellphone8675309.md %})
 - keywords
 - [Jennifer Rauchet Hegseth](https://www.linkedin.com/in/jennifer-hegseth-190b7890/)
