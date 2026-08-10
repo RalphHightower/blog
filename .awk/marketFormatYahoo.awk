@@ -379,25 +379,12 @@ function buildIndexMapping() {
     buildIndexesEMEA()
     }
 
-function buildIndexes() {
-    # -------------------------
-    # 4
-    # -------------------------
-    IndexName["^DXSSPADE Defense Index"] = "Defense ETF"
-    }
-
-function buildIndexes() {
-    # -------------------------
-    # 5
-    # -------------------------
-    IndexName["^SPGCL2LTS&P GSCI Crude Oil 2X Leveraged"] = "Energy ETF"
-    }
-
-function buildIndexes() {
-    # -------------------------
-    # 
-    # -------------------------
-    IndexName["^OMX"] = "NASDAQ France Small Cap Index (^NQFRSC)"
+function buildIndexMapping() {
+    buildIndexesEnergyETF()
+    buildIndexesAsiaPacific()
+    buildIndexesAmericas()
+    buildIndexesDefenseETF()
+    buildIndexesEMEA()
     }
 
 function buildIndexesAmericas() {
@@ -468,6 +455,7 @@ function buildIndexesEMEA() {
     IndexName["^HDAXI"] = "HDAX"
     IndexName["X2HZ.DE"] = "HDAX I"
     IndexName["^IBEX"] = "IBEX 35"
+    IndexName["^NQFRSC"] = "NASDAQ France Small Cap Index"
     IndexName["^OMXC20"] = "OMX Copenhagen 20"
     IndexName["^OMXC25"] = "OMX Copenhagen 25"
     IndexName["^OMXH25"] = "OMX Helsinki 25"
@@ -549,6 +537,7 @@ function buildIndexesDefenseETF() {
     IndexName["MARS"] = "Roundhill Space & Technology ETF"
     IndexName["^KDRONE"] = "S&P Kensho Drones Index (USD) T"
     IndexName["EUAD"] = "Select STOXX Europe Aerospace & Defense ETF"
+    IndexName["^DXS"] = "SPADE Defense Index"
     IndexName["XAR"] = "State Street SPDR S&P Aerospace & Defense"
     IndexName["ROKT"] = "State Street SPDR S&P Kensho Final Frontiers"
     IndexName["FITE"] = "State Street SPDR S&P Kensho Future Security ETF"
@@ -627,6 +616,7 @@ function buildIndexesEnergyETF() {
     IndexName["DUG"] = "ProShares UltraShort Energy ETF"
     IndexName["NUKZ"] = "Range Nuclear Renaissance ETF"
     IndexName["^R2ICBENYT"] = "Russell 2000 Energy Supersector"
+    IndexName["^SPGCL2LT"] = "S&P GSCI Crude Oil 2X Leveraged"
     IndexName["URNJ"] = "Sprott Junior Uranium Miners ETF"
     IndexName["URNM"] = "Sprott Uranium Miners ETF"
     IndexName["XLE"] = "State Street Energy Select Sector SPDR ETF"
@@ -651,5 +641,4 @@ function buildIndexesEnergyETF() {
     IndexName["VPU"] = "Vanguard Utilities Index Fund ETF Shares"
     IndexName["UTES"] = "Virtus Reaves Utilities ETF"
     }
-
 
