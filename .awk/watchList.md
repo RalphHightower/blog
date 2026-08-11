@@ -8,6 +8,7 @@ $Symbol:$Name:$RegionSector:$RegionSectorSortKey
 ^TRAN:Dow Jones Transportation Average:Americas:1
 ^DWCF:Dow Jones U.S. Completion:Americas:1
 ^DJU:Dow Jones U.S. Index:Americas:1
+^DJUS:Dow Jones U.S. Index:Americas:1
 ^DWRTF:Dow Jones U.S. Select REIT Inde:Americas:1
 ^BVSP:IBOVESPA:Americas:1
 ^MXX:IPC MEXICO:Americas:1
@@ -32,9 +33,11 @@ $Symbol:$Name:$RegionSector:$RegionSectorSortKey
 ^SOX:Philadelphia Semiconductor Index:Americas:1
 ^UTY:PHLX Utility Sector:Americas:1
 ^RUI:Russell 1000:Americas:1
+^R2ICBENYT:Russell 2000 Energy Supersector:Americas:1
 ^RUT:Russell 2000 Index:Americas:1
 ^RUA:Russell 3000:Americas:1
 ^GSPC:S&P 500:Americas:1
+^SPX:S&P 500 INDEX:Americas:1
 ^IPSA:S&P IPSA (Chile):Americas:1
 ^MID:S&P MidCap 400:Americas:1
 ^SPTMI:S&P Total Market Index (TMI):Americas:1
@@ -64,6 +67,7 @@ X2HZ.DE:HDAX I:Europe, Middle East and Africa:2
 ^OMXR:OMX Riga:Europe, Middle East and Africa:2
 ^OMXS30:OMX Stockholm 30:Europe, Middle East and Africa:2
 :OMX Stockholm 30 Index:Europe, Middle East and Africa:2
+^OMX:OMX Stockholm 30 Index:Europe, Middle East and Africa:2
 ^OMXSBGI:OMX Stockholm Benchmark GI:Europe, Middle East and Africa:2
 ^OMXSPI:OMX Stockholm_PI:Europe, Middle East and Africa:2
 ^OMXT:OMX Tallinn:Europe, Middle East and Africa:2
@@ -142,6 +146,7 @@ WDAF:WisdomTree Asia Defense Fund:Defense ETF:4
 WDGF:WisdomTree Global Defense Fund:Defense ETF:4
 WDEF:WisdomTree Trust:Defense ETF:4
 ENFR:Alerian Energy Infrastructure ETF:Energy ETF:5
+^AMNA:Alerian Midstream Energy Total:Energy ETF:5
 AMLP:Alerian MLP ETF:Energy ETF:5
 CCNR:ALPS/CoreCommodity Natural Resources ETF:Energy ETF:5
 BWET:Breakwave Tanker Shipping ETF:Energy ETF:5
@@ -199,7 +204,6 @@ UPW:ProShares Ultra Utilities:Energy ETF:5
 KOLD:ProShares UltraShort Bloomberg Natural Gas:Energy ETF:5
 DUG:ProShares UltraShort Energy ETF:Energy ETF:5
 NUKZ:Range Nuclear Renaissance ETF:Energy ETF:5
-^R2ICBENYT:Russell 2000 Energy Supersector:Americas:1
 ^SPGCL2LT:S&P GSCI Crude Oil 2X Leveraged:Energy ETF:5
 URNJ:Sprott Junior Uranium Miners ETF:Energy ETF:5
 URNM:Sprott Uranium Miners ETF:Energy ETF:5
