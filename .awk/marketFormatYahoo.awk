@@ -322,7 +322,7 @@ function printTrumpBusinesses() {
     printf("|---|\n")
     printf("| **[White House](https://www.whitehouse.gov)** |\n")
     printf("| 1600 Pennsylvania Ave., NW <br /> Washington, DC 20500 <br /> <a href=\"tel:+12024561111\">+1 (202) 456-1111</a> (comments) <br /> <a href=\"tel:+12024561414\">+1 (202) 456-1414</a> (switchboard) |\n")
-    printf("\n#### If It’s The Weekend, Find Trump On One Of His Golf Courses\n\n")
+    printf("\n#### If It’s The Weekend, Find Trump On One Of His Golf Courses\n")
     printf("\n{%% include TrumpGolf.html %%}\n")
 
     printf("\n{%% include TrumpLodging.html %%}\n\n")
@@ -378,6 +378,13 @@ function buildIndexMapping() {
     buildIndexesAmericas()
     buildIndexesDefenseETF()
     buildIndexesEMEA()
+    }
+
+function buildIndexes() {
+    # -------------------------
+    # 300
+    # -------------------------
+    IndexName["FTSE/ASEAN 40 Net Return Index"] = "Asia, Pacific"
     }
 
 function buildIndexesAmericas() {
@@ -447,6 +454,7 @@ function buildIndexesEMEA() {
     IndexName["^FTMC"] = "FTSE 250"
     IndexName["^FTAS"] = "FTSE All-Share"
     IndexName["^FTAI"] = "FTSE All-Share Index"
+    IndexName["FTSEMIB.MI"] = "FTSE MIB Index"
     IndexName["^MIB"] = "FTSE MIB Index (Italy)"
     IndexName["^HDAXI"] = "HDAX"
     IndexName["X2HZ.DE"] = "HDAX I"
@@ -492,6 +500,8 @@ function buildIndexesAsiaPacific() {
     IndexName["^BSESN"] = "BSE Sensex"
     IndexName["^FTSEASEAN"] = "FTSE ASEAN Index"
     IndexName["^KLSE"] = "FTSE Bursa Malaysia KLCI"
+    IndexName["ASEAN40.FGI"] = "FTSE/ASEAN 40 Index"
+    IndexName["ASEAN4WN.FGI"] = "FTSE/ASEAN 40 WM Net Tax Index"
     IndexName["^HSCE"] = "Hang Seng China Enterprises Index"
     IndexName["^HSI"] = "Hang Seng Index"
     IndexName["^JKSE"] = "Jakarta Composite Index"
@@ -507,6 +517,8 @@ function buildIndexesAsiaPacific() {
     IndexName["^SSE180"] = "SSE 180 Index"
     IndexName["^SSE50"] = "SSE 50 Index"
     IndexName["000001.SS"] = "SSE Composite Index"
+    IndexName["000129.SS"] = "SSE180 Volatility Weighted Inde"
+    IndexName["000052.SS"] = "SSE50 Fundamental Weighted Index"
     IndexName["^STI"] = "STI (Singapore Times) Index"
     IndexName["^TWII"] = "Taiwan Weighted Index"
     }
@@ -638,4 +650,3 @@ function buildIndexesEnergyETF() {
     IndexName["VPU"] = "Vanguard Utilities Index Fund ETF Shares"
     IndexName["UTES"] = "Virtus Reaves Utilities ETF"
     }
-
