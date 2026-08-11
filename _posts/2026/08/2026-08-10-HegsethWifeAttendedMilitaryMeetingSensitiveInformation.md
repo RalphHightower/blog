@@ -22,7 +22,7 @@ A few months ago, when I put together a tally of the number of [Faux News](https
 
 If we include [Faux News](https://www.foxnews.com/) veterans who worked as producers at the network, the list grows to include folks like [Jennifer Rauchet Hegseth](https://www.linkedin.com/in/jennifer-hegseth-190b7890/), [Defense](https://www.defense.gov/) [Secretary Pete Hegseth](https://www.defense.gov/About/Biographies/Biography/Article/4040890/hon-pete-hegseth/)’s third wife, whose portfolio at the [Pentagon](https://www.defense.gov/) appears to be growing. [The Hill reported](https://thehill.com/policy/defense/6006186-trump-signs-military-spouse-commission/):
 
-> _>[President](https://www.whitehouse.gov/) [Trump](https://www.donaldjtrump.com/) signed an executive order on Monday to form a new commission focused on improving the lives of military spouses and families and addressing the challenges they encounter._
+> _[President](https://www.whitehouse.gov/) [Trump](https://www.donaldjtrump.com/) signed an executive order on Monday to form a new commission focused on improving the lives of military spouses and families and addressing the challenges they encounter._
 
 The new commission, called the [President](https://www.whitehouse.gov/)’s [Military Spouse Commission](https://www.whitehouse.gov/presidential-actions/2026/08/establishing-the-presidents-military-spouse-commission-af64/), will be chaired by [Jennifer Rauchet](https://www.linkedin.com/in/jennifer-hegseth-190b7890/), the wife of the [Defense](https://www.defense.gov/) [Secretary Pete Hegseth](https://www.defense.gov/About/Biographies/Biography/Article/4040890/hon-pete-hegseth/).
 
@@ -34,7 +34,7 @@ Just two months into [Pete Hegseth](https://www.defense.gov/About/Biographies/Bi
 
 > _[President](https://www.whitehouse.gov/) [Trump](https://www.donaldjtrump.com/) signed an executive order on Monday to form a new commission focused on improving the lives of military spouses and families and addressing the challenges they encounter._
 
-A month later, we learned that [Pete Hegseth](https://www.defense.gov/About/Biographies/Biography/Article/4040890/hon-pete-hegseth/) used his personal phone to send highly specific details about an imminent U.S. military strike to a 13-person [Signal](https://signal.org/) [group chat]({% _posts/2025/03/2025-03-25-YemenHouthiWarPlansTextedUnsecured.md %}), [which also included his wife](https://www.ms.now/rachel-maddow-show/maddowblog/intensifying-scandals-pete-hegseth-keeps-trumps-backing-long-rcna202315).
+A month later, we learned that [Pete Hegseth](https://www.defense.gov/About/Biographies/Biography/Article/4040890/hon-pete-hegseth/) used his personal phone to send highly specific details about an imminent U.S. military strike to a 13-person [Signal](https://signal.org/) [group chat]({% link _posts/2025/03/2025-03-25-YemenHouthiWarPlansTextedUnsecured.md %}), [which also included his wife](https://www.ms.now/rachel-maddow-show/maddowblog/intensifying-scandals-pete-hegseth-keeps-trumps-backing-long-rcna202315).
 
 A week later, [The Washington Post reported](https://www.washingtonpost.com/national-security/2025/04/30/jennifer-hegseth-pentagon-trump/):
 
@@ -59,8 +59,8 @@ If there’s ever been a defense secretary’s spouse with a portfolio like this
 - [The Hill covering Congress, Politics, Political Campaigns and Capitol Hill](https://thehill.com/)
 - [The Washington Post Breaking news and latest headlines, U.S. news, world news, and video The Washington Post](https://www.washingtonpost.com/)
 - [The Wall Street Journal (WSJ) Breaking News, Business, Financial & Economic News, World News and Video](https://www.wsj.com/)
-- [Shit You Can’t Make Up: Yemen Houthi Strike Planning Held On Unsecured Phones In Group Chat]({% _posts/2025/03/2025-03-25-YemenHouthiWarPlansTextedUnsecured.md %})
-- [Secretary of Defense, Peter Hegseth Is a Great Wingman For a Night 🌙 of Drinking 🍸 and Strip Clubs 👙. Call 867-5309]({% _posts/2025/04/2025-04-27-PeteHegsethCellphone8675309.md %})
+- [Shit You Can’t Make Up: Yemen Houthi Strike Planning Held On Unsecured Phones In Group Chat]({% link _posts/2025/03/2025-03-25-YemenHouthiWarPlansTextedUnsecured.md %})
+- [Secretary of Defense, Peter Hegseth Is a Great Wingman For a Night 🌙 of Drinking 🍸 and Strip Clubs 👙. Call 867-5309]({% link _posts/2025/04/2025-04-27-PeteHegsethCellphone8675309.md %})
 - keywords
 - [Jennifer Rauchet Hegseth](https://www.linkedin.com/in/jennifer-hegseth-190b7890/)
 - [America First Policy Institute](https://www.americafirstpolicy.com/)
@@ -68,8 +68,8 @@ If there’s ever been a defense secretary’s spouse with a portfolio like this
 - [Pete Hegseth](https://www.defense.gov/About/Biographies/Biography/Article/4040890/hon-pete-hegseth/)
 - [Pete Hegseth / LinkedIn](https://www.linkedin.com/in/petehegseth/)
 - [Department of Defense (DOD)](https://www.defense.gov/)
-- [Shit You Can’t Make Up: Yemen Houthi Strike Planning Held On Unsecured Phones In Group Chat]({% _posts/2025/03/2025-03-25-YemenHouthiWarPlansTextedUnsecured.md %})
-- [Secretary of Defense, Peter Hegseth Is a Great Wingman For a Night 🌙 of Drinking 🍸 and Strip Clubs 👙. Call 867-5309]({% _posts/2025/04/2025-04-27-PeteHegsethCellphone8675309.md %})
+- [Shit You Can’t Make Up: Yemen Houthi Strike Planning Held On Unsecured Phones In Group Chat]({% link _posts/2025/03/2025-03-25-YemenHouthiWarPlansTextedUnsecured.md %})
+- [Secretary of Defense, Peter Hegseth Is a Great Wingman For a Night 🌙 of Drinking 🍸 and Strip Clubs 👙. Call 867-5309]({% link _posts/2025/04/2025-04-27-PeteHegsethCellphone8675309.md %})
 - [Donald J Trump](https://www.donaldjtrump.com/)
 - [Military Spouse Commission](https://www.whitehouse.gov/presidential-actions/2026/08/establishing-the-presidents-military-spouse-commission-af64/)
 - [Signal](https://signal.org/)
