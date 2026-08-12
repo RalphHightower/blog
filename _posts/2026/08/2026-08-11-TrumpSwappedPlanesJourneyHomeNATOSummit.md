@@ -11,11 +11,29 @@ toc: false
 title: "Trump Hid in a Catering Truck to Swap From the Flying Palace to the Flying Fortress For Journey Home From NATO Summit"
 ---
 
+- [Purported Iranian Threat Sparked Air Force One Subterfuge - FITSNews](https://www.fitsnews.com/2026/08/11/purported-iranian-threat-sparked-air-force-one-subterfuge/#comment-882212)<br /> _Presidential jet used as decoy, leader of the free world secretly smuggled off plane in airport catering truck…_<br /><br />by Will Folks. August 11, 2026
+
 Flying two [Boeing](https://www.boeing.com/) 747s over seas just so [Trump](https://www.donaldjtrump.com/) can satisfy his vanity by flying in a gilded royal palace fit for a king or a despot is an extreme waste of taxpayers' dollars.
 
 The [Qatari](https://hukoomi.gov.qa/) \$400,000,000 flying palace, including a fucking chandelier, is not something that the [president](https://www.whitehouse.gov/) should be flying in. It is not secure like the flying fortress, [Air Force One](https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104588/vc-25-air-force-one/).
 
 The message that it sends to [White House](https://www.whitehouse.gov/) flying back home on the flying palace is that you're expendable if [Iran](https://irangov.ir/) decides to launch a missile to the "fake Air Force One".
+
+## Behind the scenes of Trump's secret plane switch
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NYnma1un3MY?si=MN0DNCOkCkbIMQ-P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+Aug 12, 2026  [#Trump](https://www.donaldjtrump.com/) #Iran #News
+A [CNN](https://www.cnn.com/) review of videos and photos sheds light on how an elaborate ruse to fly [President](https://www.whitehouse.gov/) [Donald Trump](https://www.donaldjtrump.com/) out of [Turkey](https://global.tbmm.gov.tr/) by secretly switching planes unfolded. [CNN](https://www.cnn.com/)’s Kevin Liptak reports. 
+
+Also, [Trump](https://www.donaldjtrump.com/) offers his perspective on the [Secret Service](https://www.secretservice.gov/) tactics to keep him safe, and [CNN](https://www.cnn.com/)'s Audie Cornish gauges reaction from her "group chat." 
+
+0:00 The timeline of [Trump](https://www.donaldjtrump.com/)'s secret plane switch in [Turkey](https://global.tbmm.gov.tr/) 
+2:08 What did flight tracking data show about [Trump](https://www.donaldjtrump.com/)'s flight? 
+3:25 [Trump](https://www.donaldjtrump.com/) commented about security precautions during the final flight home 
+4:13 [Trump](https://www.donaldjtrump.com/)'s first remarks about the flight since the ruse was revealed publicly 
+6:52 Analyst describes "the big mistake" the [Trump](https://www.donaldjtrump.com/) admin made 
 
 ## [Trump secretly swapped planes at NATO summit due to security threat](https://www.ms.now/news/trump-plane-swap-air-force-one-catering-truck-turkey)
 
