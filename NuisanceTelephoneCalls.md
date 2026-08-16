@@ -20,6 +20,13 @@ The telephone numbers below have called and there is an empty person on the othe
 
 | Telephone Number | Location | Date Time[^11]<sup>,</sup>[^12] | Caller | Social Media |
 |---|---|---|---|---|
+| [\+1 (425) 368-3757](tel:+14253683757) | WA. Bothell | 2026-08-14 10:59 AM | Wells Fargo #PHISHING | |
+| [\+1 (833) 302-3302](tel:+18333023302) | TF. Toll Free | 2026-08-14 10:59 AM | Wells Fargo #PHISHING | |
+| [\+1 (803) 831-5814](tel:+18038315814) | SC. Clover | 2026-08-12 06:23 PM | JEANNETTE B SNEED | |
+| [\+1 (803) 327-0825](tel:+18033270825) | SC. Rock Hill | 2026-08-11 10:59 AM | Don Patenaude | |
+| [\+1 (803) 548-2166](tel:+18035482166) | SC. Fort Mill | 2026-08-10 06:55 PM | Denise Jowers (MICHELLE HURLBERT) | |
+| [\+1 (803) 573-3846](tel:+18035733846) | SC. Allendale | 2026-08-10 02:48 PM ¤¤ | — | |
+| [\+1 (803) 573-3846](tel:+18035733846) | SC. Allendale | 2026-08-10 02:47 PM | — | |
 | [\+1 (803) 245-0393](tel:+18032450393) | SC. Bamberg | 2026-08-07 11:18 AM | JOHNSON BJ | |
 | [\+1 (803) 325-2979](tel:+18033252979) | SC. Rock Hill | 2026-08-04 12:01 PM | PAUL M BURBANK | |
 | [\+1 (803) 325-1245](tel:+18033251245) | SC. Rock Hill | 2026-08-03 10:28 AM | James Simpson (ANGELA P SIMPSON) | |
