@@ -136,7 +136,7 @@ organizations
         - [Qasem Soleimani](https://en.wikipedia.org/wiki/Qasem_Soleimani?wprov=sfla1)
 - [State of Qatar (QA)](https://hukoomi.gov.qa/)
 - [Republic of Türkiye (TR)](https://global.tbmm.gov.tr/)
-    - [Şeffaflık ve Hesapverebilirlik Ankara)](https://www.ankara.bel.tr/seffaflik-ve-hesapverebilirlik)
+    [Şeffaflık ve Hesapverebilirlik (Ankara)](https://www.ankara.bel.tr/seffaflik-ve-hesapverebilirlik)
 - [United Kingdom](https://www.gov.uk/)
 - state, local governments
 - [North Dakota](https://www.nd.gov/)
