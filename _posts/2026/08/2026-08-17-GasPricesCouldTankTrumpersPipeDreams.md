@@ -204,8 +204,7 @@ Lillie Boudreaux is a desk associate at [MS NOW](https://www.ms.now/). She prima
 - cryptocurrency
 - criminal associates
 - criminal businesses
-{% include TrumpGolf.html %}
-{% include TrumpLodging.html %}
+{% include TrumpCrimeBusinesses.html %}
 - criminal media
 - criminal organizations
 - criminal partners

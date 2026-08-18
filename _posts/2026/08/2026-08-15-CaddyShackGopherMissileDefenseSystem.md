@@ -156,8 +156,7 @@ Agents have conducted some 3,000 protective visits to people who have threatened
 - cryptocurrency
 - criminal associates
 - criminal businesses
-{% include TrumpGolf.html %}
-{% include TrumpLodging.html %}
+{% include TrumpCrimeBusinesses.html %}
 - criminal media
 - criminal organizations
 - criminal partners

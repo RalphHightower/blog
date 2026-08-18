@@ -75,7 +75,7 @@ All this is to say: [Trump](https://www.donaldjtrump.com/) isn’t someone who s
 - [Capital One / Credit Cards, Checking, Savings & Auto Loans](https://www.capitalone.com/)
 - [Deutsche Bank](https://www.db.com/)
 - [JPMorganChase](https://www.jpmorganchase.com/)
-- [Merriam-Webster's definition of "vexatious":](http://www.merriam-webster.com/dictionary/vexatious)
+- [Merriam-Webster's definition of "vexatious":](https://www.merriam-webster.com/dictionary/vexatious)
 - [Florida Attorney General James Uthmeier](https://www.myfloridalegal.com/ag-bio)
 - [Trumpian Attorneys General Association](https://republicanags.com/)
 - organizations
