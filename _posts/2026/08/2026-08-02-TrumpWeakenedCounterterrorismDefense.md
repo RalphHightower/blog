@@ -18,7 +18,7 @@ _[Democratic](https://www.democrats.org/) [senators](https://www.senate.gov/) ar
 Jul. 30, 2026, 5:00 AM EDT
 By [Ken Dilanian](https://www.ms.now/author/ken-dilanian-2)
 
-The [Trump](https://www.donaldjtrump.com/) [administration](https://www.whitehouse.gov/administration/) has weakened America’s counterterrorism defenses by downsizing staff, politicizing intelligence, cutting grants and forcing federal agents to focus on immigration enforcement, [according to a new report](https://www.hsgac.senate.gov/media/dems/peters-report-finds-trump-administration-has-dismantled-critical-counterterrorism-infrastructure-and-weaponized-what-remains-against-political-opponents-leaving-americans-vulnerable-to-terror-threats/) by [Democratic](https://www.democrats.org/) lawmakers on the [Senate Homeland Security Committee](http://www.hsgac.senate.gov/) that was obtained by [MS NOW](https://www.ms.now/).
+The [Trump](https://www.donaldjtrump.com/) [administration](https://www.whitehouse.gov/administration/) has weakened America’s counterterrorism defenses by downsizing staff, politicizing intelligence, cutting grants and forcing federal agents to focus on immigration enforcement, [according to a new report](https://www.hsgac.senate.gov/media/dems/peters-report-finds-trump-administration-has-dismantled-critical-counterterrorism-infrastructure-and-weaponized-what-remains-against-political-opponents-leaving-americans-vulnerable-to-terror-threats/) by [Democratic](https://www.democrats.org/) lawmakers on the [Senate Homeland Security Committee](https://www.hsgac.senate.gov/) that was obtained by [MS NOW](https://www.ms.now/).
 
 The [37-page report](https://www.hsgac.senate.gov/media/dems/peters-report-finds-trump-administration-has-dismantled-critical-counterterrorism-infrastructure-and-weaponized-what-remains-against-political-opponents-leaving-americans-vulnerable-to-terror-threats/) also accuses the [administration](https://www.whitehouse.gov/administration/) of skewing its focus on domestic terrorism almost exclusively to left-wing groups, ignoring significant threats from far-right and white supremacist extremists.
 
@@ -58,7 +58,7 @@ And it says [Trump](https://www.donaldjtrump.com/) has downplayed certain kinds 
 
 For example, the [report](https://www.hsgac.senate.gov/media/dems/peters-report-finds-trump-administration-has-dismantled-critical-counterterrorism-infrastructure-and-weaponized-what-remains-against-political-opponents-leaving-americans-vulnerable-to-terror-threats/) says the [administration](https://www.whitehouse.gov/administration/) quietly removed a [DOJ](https://www.justice.gov/) study from its website showing that since 1990, far-right extremist attacks have outpaced all other types of terrorism and domestic violent extremism.
 
-The most recent [Annual Threats Assessment of the Intelligence Community](https://archive.dni.gov/files/ODNI/documents/assessments/ATA-2026-Unclassified-Report.pdf), released March 17, “also bears out fears of politicized intelligence, particularly with regards to terrorism and Iran,” the [report](https://www.hsgac.senate.gov/media/dems/peters-report-finds-trump-administration-has-dismantled-critical-counterterrorism-infrastructure-and-weaponized-what-remains-against-political-opponents-leaving-americans-vulnerable-to-terror-threats/) says. “It makes no mention of domestic terrorism including lone actors, white supremacists, or threats to U.S. elections.”
+The most recent [Annual Threats Assessment of the Intelligence Community](https://archive.dni.gov/files/ODNI/documents/assessments/ATA-2026-Unclassified-Report.pdf), released March 17, “also bears out fears of politicized intelligence, particularly with regards to terrorism and [Iran](https://irangov.ir/),” the [report](https://www.hsgac.senate.gov/media/dems/peters-report-finds-trump-administration-has-dismantled-critical-counterterrorism-infrastructure-and-weaponized-what-remains-against-political-opponents-leaving-americans-vulnerable-to-terror-threats/) says. “It makes no mention of domestic terrorism including lone actors, white supremacists, or threats to U.S. elections.”
 
 The [administration](https://www.whitehouse.gov/administration/)’s [May 2026 counterterrorism strategy](https://www.whitehouse.gov/wp-content/uploads/2026/05/2026-USCT-Strategy-1.pdf) focuses on cartels, gangs and “legacy Islamist terrorists,” the [report](https://www.hsgac.senate.gov/media/dems/peters-report-finds-trump-administration-has-dismantled-critical-counterterrorism-infrastructure-and-weaponized-what-remains-against-political-opponents-leaving-americans-vulnerable-to-terror-threats/) says, along with a third priority: “violent leftwing extremists, including anarchists and anti-Fascists.”
 
@@ -88,7 +88,7 @@ But the [report](https://www.hsgac.senate.gov/media/dems/peters-report-finds-tru
 - [Domestic Terrorism Operations Section](https://www.fbi.gov/investigate/terrorism)
 - [Department of Justice (DOJ)](https://www.justice.gov/)
 - [National Security Division / National Security Division](https://www.justice.gov/nsd)
-- [Senate Homeland Security and Governmental Affairs](http://www.hsgac.senate.gov/)
+- [Senate Homeland Security and Governmental Affairs](https://www.hsgac.senate.gov/)
 - [Peters Report Finds Trump Administration Has Dismantled Critical Counterterrorism Infrastructure and Weaponized What Remains Against Political Opponents, Leaving Americans Vulnerable to Terror Threats - Committee on Homeland Security & Governmental Affairs](https://www.hsgac.senate.gov/media/dems/peters-report-finds-trump-administration-has-dismantled-critical-counterterrorism-infrastructure-and-weaponized-what-remains-against-political-opponents-leaving-americans-vulnerable-to-terror-threats/)
 - [Gary Peters (D-MI)](https://www.peters.senate.gov/)
 - [President Donald Trump (47)](https://www.whitehouse.gov/administration/donald-j-trump/)
@@ -123,7 +123,7 @@ But the [report](https://www.hsgac.senate.gov/media/dems/peters-report-finds-tru
     - [Congress](https://www.congress.gov/)
         - [Senate](https://www.senate.gov/)
             - [Gary Peters (D-MI)](https://www.peters.senate.gov/)
-            - [Senate Homeland Security and Governmental Affairs](http://www.hsgac.senate.gov/)
+            - [Senate Homeland Security and Governmental Affairs](https://www.hsgac.senate.gov/)
         - [House of Representatives](https://www.house.gov/)
     - [President of the United States (POTUS)](https://www.whitehouse.gov/)
     - [White House (WH)](https://www.whitehouse.gov/)

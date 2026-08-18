@@ -78,6 +78,8 @@ From start to finish this incident reveals too many elevated risks threatening n
 - [Islamic Revolutionary Guard Corps (IRGC)](https://sepahnews.ir/)
 - organizations
 - [Asia-Pacific Economic Cooperation (APEC)](https://www.apec.org/)
+- [North Atlantic Treaty Organization (NATO)](https://www.nato.int/)
+    - [NATO Summit 2026, 07-Jul-2026](https://www.nato.int/en/news-and-events/events/event-programmes/2026/07/nato-summit-2026?selectedLocale=)
 - political parties
 - [Democrat Party](https://www.democrats.org/)
 - [Trumpian Party](https://www.gop.com/)
@@ -139,8 +141,7 @@ From start to finish this incident reveals too many elevated risks threatening n
 - cryptocurrency
 - criminal associates
 - criminal businesses
-{% include TrumpGolf.html %}
-{% include TrumpLodging.html %}
+{% include TrumpCrimeBusinesses.html %}
 - criminal media
 - criminal organizations
 - criminal partners
