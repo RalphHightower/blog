@@ -12,6 +12,8 @@ ANK: {
   AUH { name: "Abu Dhabi International Airport / Zayed International Airport", link: "https://www.zayedinternationalairport.ae/", lat: 0.426437, lon: 0.953842 },
   AVL { name: "Asheville Regional Airport", link: "https://flyavl.com/", lat: 0.618477, lon: 1.440624 },
   BIS { name: "Bismarck Municipal Airport", link: "https://bismarckairport.com/", lat: 0.810255143, lon: 1.753087241 }, // 46°46′22″N 100°44′45″W
+  BIS { name: "Bismarck Municipal Airport", link: "https://bismarckairport.com/", lat: 0.810255143, lon: 1.753087241 }, // 46°46′22″N 100°44′45″W
+  CLE { name: "Cleveland Hopkins International Airport", link: "https://www.clevelandairport.com/", lat:  0.719847087, lon:  1.422546315 }, // 41°24′42″N 081°50′59″W
   CPR { name: "Casper–Natrona County International Airport", link: "https://iflycasper.com/", lat: 0.742513678, lon: 1.854852153 }, // 42°54′29″N 106°27′52″W
   CRP { name: "Corpus Christi International Airport", link: "https://corpuschristiairport.com/", lat: 0.484683, lon: 1.701715 },
   CVG { name: "Cincinnati/Northern Kentucky International Airport", link: "https://www.cvgairport.com/", lat: 0.681532, lon: 1.477731 },
@@ -50,6 +52,7 @@ ANK: {
   MIA { name: "Miami International Airport", link: "https://miami-airport.com/", lat: 0.450179, lon: 1.401335 },
   MMU { name: "Morristown Municipal Airport", link: "https://www.mmuair.com/", lat: 0.712085, lon: 1.298787 },
   MTC { name: "Selfridge Air National Guard Base", link: "https://www.127wg.ang.af.mil/", lat: 0.743656, lon: 1.445753 },
+  MYR { name: "Myrtle Beach International Airport", link: "https://www.flymyrtlebeach.com/", lat:  0.583022001, lon:  1.371029431 }, // 33°40′47″N 078°55′42″W
   ORY { name: "Aéroport Paris-Orly - Paris Aéroport", link: "https://www.parisaeroport.fr/en/passengers/orly-airport", lat: 0.845304845, lon: 0.038826595 }, // 48°43′24″N 02°22′46″E
   PBI { name: "Palm Beach International Airport", link: "https://www.pbia.org/", lat: 0.465707, lon: 1.397931 },
   PEB { name: "Teterboro Airport", link: "https://www.panynj.gov/airports/en/teterboro.html", lat: 0.712967, lon: 1.292605 },
