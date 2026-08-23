@@ -28,7 +28,7 @@ Earlier this month, [Donald Trump](https://www.donaldjtrump.com/) announced that
 
 As [The New York Times reported](https://www.nytimes.com/2026/08/19/style/jennifer-hegseth.html) this week, “There has never been a [Pentagon](https://www.defense.gov/) spouse quite like [Jennifer Hegseth](https://en.wikipedia.org/wiki/Jennifer_Hegseth?wprov=sfla1).” From the article:
 
-![Jenny & Pete Hegseth Exercise with Navy & Marines on Deck of USS Boxer](assets/images/JennyHegsethAircraftCarrierExercise.jpg)
+![Jenny & Pete Hegseth Exercise with Navy & Marines on Deck of USS Boxer](/assets/images/JennyHegsethAircraftCarrierExercise.jpg)
 
 > _In May she was in camouflage shorts and a sweat-drenched T-shirt that said “This Is War” working out with [sailors](https://www.navy.mil/), [Marines](https://www.marines.mil/) and her husband, [Defense](https://www.defense.gov/) [Secretary Pete Hegseth](https://www.defense.gov/About/Biographies/Biography/Article/4040890/hon-pete-hegseth/), on the deck of the [U.S.S. Boxer](https://www.surfpac.navy.mil/lhd4/) in [Singapore](https://www.gov.sg/). In June she and six of the couple’s seven children accompanied [Mr. Hegseth](https://www.defense.gov/About/Biographies/Biography/Article/4040890/hon-pete-hegseth/) to the D-Day commemoration in [Normandy](https://www.abmc.gov/cemeteries-memorials/about-normandy-american-cemetery/), where a [Defense Department](https://www.defense.gov/) promotional video with a swelling, cinematic soundtrack captured husband and wife walking arm in arm on [Omaha Beach](https://en.normandie-tourisme.fr/discover/d-day-and-the-battle-of-normandy/dday-landing-beaches/omaha-beach/). The imagery seemed to cast her as the first lady of the [Pentagon](https://www.defense.gov/)._
 
