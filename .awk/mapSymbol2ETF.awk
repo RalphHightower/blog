@@ -37,5 +37,5 @@ function initializeMaps() {
         printf("%sbuildIndexes%s()\n", tab, map[regionSector])
         }
     # buildIndexMapping() is closed with first region/sector mapping
-    # printf("%s}\n\n", tab)
+    # printf("%s}\n", tab)
     }
