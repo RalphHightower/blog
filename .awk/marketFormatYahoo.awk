@@ -109,47 +109,35 @@ function formatPercent(pct) {
     }
     
 function formatCurrency(amount) {
-    temp = sprintf("%0.3f", amount * 1.0)
-    #printf("#DEBUG1310: amount: %f, temp: %f\n", amount, temp * 1.0)
-    retVal = temp
-    cnt = split(temp, money, ".")
-    if (cnt == 2) {
-        dollars = money[1]
-        cents = money[2]
-        #cents = substr(money[2] "0", 1, 3)
-        len = length(dollars)
-        commas = len / 3 - 1
-        retVal = dollars "." cents
-        #printf("#DEBUG1320: cnt: %d, dollars: %s, cents: %s, len: %d, commas: %d\n", cnt, dollars, cents, len, commas)
-        if (commas > 0) {
-            #0000000
-            #000000
-            #00000
-            #0000
-            retVal = ""
-            comma = 3
-            for (ndx = len; ndx > 0; ndx --) {
-                retVal = substr(dollars, ndx, 1) retVal
-                comma --
-                #printf("#DEBUG1330: ndx: %d, comma: %s, retVal: %s\n", ndx, comma, retVal)
-                if ((comma == 0) && (ndx > 1)){
-                    retVal = "," retVal
-                    comma = 3
-                    }
-                }
-            retVal = retVal "." cents
-            }
-        } # concat
-    #printf("#DEBUG1390: retVat: %s\n", retVal)
-    return(retVal)
+    temp = sprintf("%0.3f", amount)
+    split(temp, money, ".")
+    dollars = money[1]
+    cents   = money[2]
+
+    # Insert commas from the RIGHT, one group at a time
+    while (match(dollars, /[0-9]{4,}/)) {
+        start = RSTART
+        len   = RLENGTH
+
+        # Only comma the RIGHTMOST 4 digits of that run
+        dollars = \
+            substr(dollars, 1, start + len - 4) "," \
+            substr(dollars, start + len - 3)
     }
-    
+
+    return dollars "." cents
+}
+
 function abs(value) {
     return(value < 0.0 ? -1 * value : value)
     }
     
 function log10(value) {
     return(log(value) / log(10))
+    }
+    
+function isnum(digit) {
+    return (index("0123456789", digit) > 0)
     }
 
 function resetStats() {
@@ -322,7 +310,7 @@ function printTrumpBusinesses() {
     printf("|---|\n")
     printf("| **[White House](https://www.whitehouse.gov)** |\n")
     printf("| 1600 Pennsylvania Ave., NW <br /> Washington, DC 20500 <br /> <a href=\"tel:+12024561111\">+1 (202) 456-1111</a> (comments) <br /> <a href=\"tel:+12024561414\">+1 (202) 456-1414</a> (switchboard) |\n")
-    printf("\n#### If It’s The Weekend, Find Trump On One Of His Golf Courses\n\n")
+    printf("\n#### If It’s The Weekend, Find Trump On One Of His Golf Courses\n")
     printf("\n{%% include TrumpGolf.html %%}\n")
 
     printf("\n{%% include TrumpLodging.html %%}\n\n")
@@ -385,16 +373,22 @@ function buildIndexesAmericas() {
     # Americas
     # -------------------------
     IndexName["^B400"] = "Bloomberg 400"
+    IndexName["^VXN"] = "CBOE NASDAQ 100 Voltility"
+    IndexName["^VIX3M"] = "CBOE S&P 500 3-Month Volatility"
     IndexName["^SKEW"] = "CBOE SKEW INDEX"
+    IndexName["^VVIX"] = "CBOE VIX VOLATILITY INDEX"
     IndexName["^VIX"] = "CBOE Volatility Index"
-    IndexName["^DJGT"] = "Dow Jones Global Titans 50 Inde"
+    IndexName["^RCIT"] = "Dow Jones Composite All REIT To"
+    IndexName["^REI"] = "Dow Jones Equity All REIT Index"
+    IndexName["^DJGT"] = "Dow Jones Global Titans 50 Index"
     IndexName["^DJI"] = "Dow Jones Industrial Average"
     IndexName["^DJT"] = "Dow Jones Transportation"
-    IndexName["^TRAN"] = "Dow Jones Transportation Average"
     IndexName["^DWCF"] = "Dow Jones U.S. Completion"
-    IndexName["^DJU"] = "Dow Jones U.S. Index"
-    IndexName["^DJUS"] = "Dow Jones U.S. Index"
-    IndexName["^DWRTF"] = "Dow Jones U.S. Select REIT Inde"
+    IndexName["^DWCPF"] = "Dow Jones U.S. Completion Total"
+    IndexName["^DJUSRE"] = "Dow Jones U.S. Real Estate Index"
+    IndexName["^DWRTF"] = "Dow Jones U.S. Select REIT Index"
+    IndexName["^DJUS"] = "Dow Jones U.S. Total Market Index"
+    IndexName["^DJU"] = "Dow Jones U.S. Utilities Average"
     IndexName["^BVSP"] = "IBOVESPA"
     IndexName["^MXX"] = "IPC MEXICO"
     IndexName["^BKX"] = "KBW Bank Index"
@@ -406,7 +400,9 @@ function buildIndexesAmericas() {
     IndexName["^IXIC"] = "NASDAQ Composite"
     IndexName["^INDS"] = "NASDAQ Industrial Index"
     IndexName["^INSR"] = "NASDAQ Insurance Index"
+    IndexName["^ABQX"] = "NASDAQ OMX ABA Community Bank T"
     IndexName["^XAX"] = "NYSE AMEX Composite"
+    IndexName["^HUI"] = "NYSE Arca Gold BUGS Index"
     IndexName["^BTK"] = "NYSE Biotechnology Index"
     IndexName["^NYA"] = "NYSE Composite Index"
     IndexName["^NYFANG"] = "NYSE FANG+ Index"
@@ -418,11 +414,20 @@ function buildIndexesAmericas() {
     IndexName["^SOX"] = "Philadelphia Semiconductor Index"
     IndexName["^UTY"] = "PHLX Utility Sector"
     IndexName["^RUI"] = "Russell 1000"
+    IndexName["^R1ICBFBT"] = "Russell 1000 Food, Beverage and"
+    IndexName["^RLG"] = "Russell 1000 Growth"
+    IndexName["^RUITR"] = "Russell 1000 Total Return"
     IndexName["^R2ICBENYT"] = "Russell 2000 Energy Supersector"
     IndexName["^RUT"] = "Russell 2000 Index"
+    IndexName["^RUTTR"] = "Russell 2000 Total Return"
     IndexName["^RUA"] = "Russell 3000"
+    IndexName["^OEX"] = "S&P 100 INDEX"
     IndexName["^GSPC"] = "S&P 500"
     IndexName["^SPX"] = "S&P 500 INDEX"
+    IndexName["^SPVFM1IT"] = "S&P 500 VIX Front Month Futures"
+    IndexName["^SPVIXMT"] = "S&P 500 VIX Mid-Term Index MCAP"
+    IndexName["^SPVIXST"] = "S&P 500 VIX Short-Term Index MC"
+    IndexName["^SP1500-45203030"] = "S&P Composite 1500 - Technology"
     IndexName["^IPSA"] = "S&P IPSA (Chile)"
     IndexName["^MID"] = "S&P MidCap 400"
     IndexName["^SPTMI"] = "S&P Total Market Index (TMI)"
@@ -437,6 +442,7 @@ function buildIndexesEMEA() {
     IndexName["^AMX"] = "AMX Midcap"
     IndexName["^ATX"] = "ATX Austria"
     IndexName["^BFX"] = "BEL 20"
+    IndexName["^BET-XT.RO"] = "BET-XT (Romania)"
     IndexName["^FCHI"] = "CAC 40"
     IndexName["^BUK100P"] = "Cboe UK 100"
     IndexName["^GDAXI"] = "DAX"
@@ -451,19 +457,21 @@ function buildIndexesEMEA() {
     IndexName["^HDAXI"] = "HDAX"
     IndexName["X2HZ.DE"] = "HDAX I"
     IndexName["^IBEX"] = "IBEX 35"
+    IndexName["^NQDMEU4030LM"] = "Nasdaq DM Europe Media Large Mi"
     IndexName["^NQFRSC"] = "NASDAQ France Small Cap Index"
     IndexName["^OMXC20"] = "OMX Copenhagen 20"
     IndexName["^OMXC25"] = "OMX Copenhagen 25"
     IndexName["^OMXH25"] = "OMX Helsinki 25"
     IndexName["^OMXR"] = "OMX Riga"
     IndexName["^OMXS30"] = "OMX Stockholm 30"
-    IndexName[""] = "OMX Stockholm 30 Index"
     IndexName["^OMX"] = "OMX Stockholm 30 Index"
     IndexName["^OMXSBGI"] = "OMX Stockholm Benchmark GI"
     IndexName["^OMXSPI"] = "OMX Stockholm_PI"
     IndexName["^OMXT"] = "OMX Tallinn"
     IndexName["^OMXV"] = "OMX Vilnius"
+    IndexName["^JS2013.JO"] = "Pharmaceuticals and Biotechnolo"
     IndexName["^PSI20"] = "PSI 20"
+    IndexName["^SPXHDGUP"] = "S&P 500 High Dividend Growth In"
     IndexName["^SPEURO"] = "S&P EURO"
     IndexName["^SPE350"] = "S&P Europe 350"
     IndexName["^SPEU"] = "S&P Europe 350"
@@ -479,34 +487,44 @@ function buildIndexesEMEA() {
     IndexName["^WIG"] = "WIG"
     IndexName["^WIG20"] = "WIG 20"
     IndexName["^WIG30"] = "WIG 30"
-    IndexName["WIG20.WA"] = "WIG20"
-    IndexName["WIG30.WA"] = "WIG30"
     }
 
 function buildIndexesAsiaPacific() {
     # -------------------------
     # Asia, Pacific
     # -------------------------
-    IndexName["^AXJO"] = "ASX 200"
     IndexName["^AXKO"] = "ASX All Ordinaries"
     IndexName["^BSESN"] = "BSE Sensex"
+    IndexName["^000300.SS"] = "CSI 300 Index"
     IndexName["^FTSEASEAN"] = "FTSE ASEAN Index"
     IndexName["^KLSE"] = "FTSE Bursa Malaysia KLCI"
+    IndexName["ASEAN40.FGI"] = "FTSE/ASEAN 40 Index"
+    IndexName["ASEAN40N.FGI"] = "FTSE/ASEAN 40 Net Return Index"
+    IndexName["ASEAN4WN.FGI"] = "FTSE/ASEAN 40 WM Net Tax Index"
     IndexName["^HSCE"] = "Hang Seng China Enterprises Index"
     IndexName["^HSI"] = "Hang Seng Index"
+    IndexName["^INDIAVIX"] = "INDIA VIX"
     IndexName["^JKSE"] = "Jakarta Composite Index"
     IndexName["^JKLQ45"] = "Jakarta LQ45 Index"
     IndexName["^KS11"] = "KOSPI Composite"
-    IndexName["^HXC"] = "NASDAQ Golden Dragon China Inde"
+    IndexName["^HXC"] = "NASDAQ Golden Dragon China Index"
     IndexName["^NQJP20N"] = "NASDAQ Japan Health Care NTR In"
     IndexName["^NSEI"] = "Nifty 50"
     IndexName["^NSEBANK"] = "NIFTY BANK"
     IndexName["^N225"] = "Nikkei 225"
     IndexName["^NZ50"] = "NZX 50"
     IndexName["^BSESN"] = "S&P BSE SENSEX"
+    IndexName["^ATLI"] = "S&P/ASX 20"
+    IndexName["^AXJO"] = "S&P/ASX 200"
+    IndexName["^AXVI"] = "S&P/ASX 200 VIX INDEX [XVI]"
+    IndexName["^AXKO"] = "S&P/ASX 300"
+    IndexName["^AXAT"] = "S&P/ASX ALL AUSTRALIAN 200"
+    IndexName["^AXEC"] = "S&P/ASX Emerging Companies [XEC]"
     IndexName["^SSE180"] = "SSE 180 Index"
     IndexName["^SSE50"] = "SSE 50 Index"
     IndexName["000001.SS"] = "SSE Composite Index"
+    IndexName["000129.SS"] = "SSE180 Volatility Weighted Index"
+    IndexName["000052.SS"] = "SSE50 Fundamental Weighted Index"
     IndexName["^STI"] = "STI (Singapore Times) Index"
     IndexName["^TWII"] = "Taiwan Weighted Index"
     }
@@ -638,4 +656,3 @@ function buildIndexesEnergyETF() {
     IndexName["VPU"] = "Vanguard Utilities Index Fund ETF Shares"
     IndexName["UTES"] = "Virtus Reaves Utilities ETF"
     }
-

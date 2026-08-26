@@ -3,14 +3,29 @@
 # Output: Links 
 # @RalphHightower 
 BEGIN {
+    keywordExtract = 0
+    extractLinks = 1
+    for (ndx = 0; ndx <= ARGC; ndx ++) {
+        printf("#DEBUG000: ARGV[%d]=\"%s\"\n", ndx, ARGV[ndx])
+        if (ARGV[ndx] == "-k") {
+            keywordExtract = 1
+            extractLinks = 0
+            ARGV[ndx] = ""
+            }
+        }
     # https is standard use, except Russian websites are not
     HTTP = "(http"
-        news = ".msnbc.com/|MSNBC News - Breaking News and News Today / Latest News:.nbcnews.com/|NBC News - Breaking Headlines and Video Reports on World, U.S. and Local Angles / NBC News:.cbsnews.com/|CBS News / Breaking news, top stories & today's latest headlines:.abcnews.go.com/|ABC News - Breaking News, Latest News and Videos:.nytimes.com/|The New York Times (NYT) - Breaking News, US News, World News and Videos:.wsj.com/|The Wall Street Journal (WSJ) - Breaking News, Business, Financial & Economic News, World News and Video:.washingtonpost.com/|The Washington Post - Breaking news and latest headlines, U.S. news, world news, and video - The Washington Post:.wired.com/|WIRED - The Latest in Technology, Science, Culture and Business:apnews.com/|Associated Press News (AP) - Breaking News, Latest Headlines and Videos / AP News:.reuters.com/|Reuters / Breaking International News & Views:.cnn.com/|CNN / Breaking News, Latest News and Videos:.bbc.com/|BBC Home - Breaking News, World News, US News, Sports, Business, Innovation, Climate, Culture, Travel, Video & Audio:.bloomberg.com/|Bloomberg - Business News, Stock Markets, Finance, Breaking & World News:.businessinsider.com/|Business Insider (BI) - Latest News in Tech, Markets, Economy & Innovation:thehill.com/|The Hill - covering Congress, Politics, Political Campaigns and Capitol Hill:politico.com/|POLITICO - Politics, Policy, Political News:.thedailybeast.com/|The Daily Beast / The Latest in Politics, Media & Entertainment News:.theatlantic.com/|The Atlantic:.rollingstone.com/|Rolling Stone – Music, Film, TV and Political News Coverage:rollcall.com/|Roll Call:.newsweek.com/|Newsweek - News, Analysis, Politics, Business, Technology:newrepublic.com/|The New Republic:.huffpost.com/|HuffPost - Breaking News, Politics, Entertainment & Opinion:.foxbusiness.com/|Faux Business / Business News & Stock Quotes - Saving & Investing:.theguardian.com/|The Guardian – Latest news, sport and opinion:.yahoo.com/|Yahoo / Mail, Weather, Search, Politics, News, Finance, Sports & Videos:.foxnews.com/|Faux News - Breaking News Updates / Latest News Headlines / Photos & News Videos:.newsmax.com/|News Min:nypost.com/|New York Post – Breaking News, Top Headlines, Photos & Videos:.mediamatters.org/|Homepage / Media Matters for America:.thebulwark.com/|The Bulwark / Substack:.thedailybeast.com/|The Daily Beast – The Latest in Politics, Media & Entertainment News:talkingpointsmemo.com/|TPM – Talking Points Memo - Breaking News and Analysis:.pbs.org/|PBS News – News, Analysis, Top Headlines, Live Coverage:.cnbc.com/|Stock Markets, Business News, Financials, Earnings - CNBC:abcnews.go.com/|ABC News - Breaking News, Latest News and Video:axios.com/|Axios - Breaking news, U.S. news and politics, and local news:.npr.org/|NPR - Breaking News, Analysis, Music, Arts & Podcasts – NPR:/time.com/|TIME / Current & Breaking News / National & World Updates:www.propublica.org/|ProPublica — Investigative Journalism and News in the Public Interest:.notus.org/|NOTUS - NOTUS — News of the United States:.usatoday.com/|USA TODAY - Breaking News and Latest News Today:.courtlistener.com/|Non-Profit Free Legal Search Engine and Alert System – CourtListener.com:.nbc.com/|NBC TV Network - Shows, Episodes, Schedule:.cbs.com|CBS TV Network Primetime, Daytime, Late Night and Classic Television Shows:/abc.com/|ABC Network - ABC.com:.ms.now/|MS NOW - Breaking News and News Today / Latest News:.bloomberglaw.com|Bloomberg Law - Legal Research Software:/abcnews.com|ABC News - Breaking News, Latest News and Videos:.motherjones.com/|Mother Jones – Smart, fearless journalism:.ft.com/|Home - Financial Times:.newyorker.com/|The New Yorker:.fitsnews.com/|FITSNews - Independent. Unapologetic.:.forbes.com/|Forbes:.independent.co.uk/|The Independent / Latest news and features from US, UK and worldwide"
+        news = ".msnbc.com/|MSNBC News - Breaking News and News Today / Latest News:.nbcnews.com/|NBC News - Breaking Headlines and Video Reports on World, U.S. and Local Angles / NBC News:.cbsnews.com/|CBS News / Breaking news, top stories & today's latest headlines:.abcnews.go.com/|ABC News - Breaking News, Latest News and Videos:.nytimes.com/|The New York Times (NYT) - Breaking News, US News, World News and Videos:.wsj.com/|The Wall Street Journal (WSJ) - Breaking News, Business, Financial & Economic News, World News and Video:.washingtonpost.com/|The Washington Post - Breaking news and latest headlines, U.S. news, world news, and video - The Washington Post:.wired.com/|WIRED - The Latest in Technology, Science, Culture and Business:apnews.com/|Associated Press News (AP) - Breaking News, Latest Headlines and Videos / AP News:.reuters.com/|Reuters / Breaking International News & Views:.cnn.com/|CNN / Breaking News, Latest News and Videos:.bbc.com/|BBC Home - Breaking News, World News, US News, Sports, Business, Innovation, Climate, Culture, Travel, Video & Audio:.bloomberg.com/|Bloomberg - Business News, Stock Markets, Finance, Breaking & World News:.businessinsider.com/|Business Insider (BI) - Latest News in Tech, Markets, Economy & Innovation:thehill.com/|The Hill - covering Congress, Politics, Political Campaigns and Capitol Hill:politico.com/|POLITICO - Politics, Policy, Political News:.thedailybeast.com/|The Daily Beast / The Latest in Politics, Media & Entertainment News:.theatlantic.com/|The Atlantic:.rollingstone.com/|Rolling Stone – Music, Film, TV and Political News Coverage:rollcall.com/|Roll Call:.newsweek.com/|Newsweek - News, Analysis, Politics, Business, Technology:newrepublic.com/|The New Republic:.huffpost.com/|HuffPost - Breaking News, Politics, Entertainment & Opinion:.foxbusiness.com/|Faux Business / Business News & Stock Quotes - Saving & Investing:.theguardian.com/|The Guardian – Latest news, sport and opinion:.yahoo.com/|Yahoo / Mail, Weather, Search, Politics, News, Finance, Sports & Videos:.foxnews.com/|Faux News - Breaking News Updates / Latest News Headlines / Photos & News Videos:.newsmax.com/|News Min:nypost.com/|New York Post – Breaking News, Top Headlines, Photos & Videos:.mediamatters.org/|Homepage / Media Matters for America:.thebulwark.com/|The Bulwark / Substack:.thedailybeast.com/|The Daily Beast – The Latest in Politics, Media & Entertainment News:talkingpointsmemo.com/|TPM – Talking Points Memo - Breaking News and Analysis:.pbs.org/|PBS News – News, Analysis, Top Headlines, Live Coverage:.cnbc.com/|Stock Markets, Business News, Financials, Earnings - CNBC:abcnews.go.com/|ABC News - Breaking News, Latest News and Video:axios.com/|Axios - Breaking news, U.S. news and politics, and local news:.npr.org/|NPR - Breaking News, Analysis, Music, Arts & Podcasts – NPR:/time.com/|TIME / Current & Breaking News / National & World Updates:www.propublica.org/|ProPublica — Investigative Journalism and News in the Public Interest:.notus.org/|NOTUS - NOTUS — News of the United States:.usatoday.com/|USA TODAY - Breaking News and Latest News Today:.courtlistener.com/|Non-Profit Free Legal Search Engine and Alert System – CourtListener.com:.nbc.com/|NBC TV Network - Shows, Episodes, Schedule:.cbs.com|CBS TV Network Primetime, Daytime, Late Night and Classic Television Shows:/abc.com/|ABC Network - ABC.com:.ms.now/|MS NOW - Breaking News and News Today / Latest News:.bloomberglaw.com|Bloomberg Law - Legal Research Software:/abcnews.com|ABC News - Breaking News, Latest News and Videos:.motherjones.com/|Mother Jones – Smart, fearless journalism:.ft.com/|Home - Financial Times:.newyorker.com/|The New Yorker:.fitsnews.com/|FITSNews - Independent. Unapologetic.:.forbes.com/|Forbes:.independent.co.uk/|The Independent / Latest news and features from US, UK and worldwide:rollcall.com/|Roll Call – Covering Capitol Hill Since 1955"
     cntNewsLinks = split(news, newsLinks, ":")
     #for (ndx = 1; ndx <= cntNewsLinks; ndx ++)
         #printf("#00DEBUG: %d=%s\n", ndx, newsLinks[ndx])
     }
 { # 1
+    if ((keywordExtract == 1) && (substr($0, 1, 4) == "----"))
+    {
+        extractLinks = 1
+        printf("#DEBUG05: Capturing\n")
+        }
     line = $0 "◇"
     https = index(line, HTTP)
     
@@ -37,13 +52,16 @@ BEGIN {
                     if (substr(line, leftBracket + 1, 1) != "^") { # 6
                         link = substr(line, leftBracket, rightParen - leftBracket)
                         #printf("#45DEBUG: %s=》%s《\n", link, newsMedia(link))
-                        printf("%s\n", link)
+                        if (extractLinks == 1)
+                            printf("%s\n", link)
                         reference = newsMedia(link)
                         if (link != reference) {
                             if (!(reference in PRINTED)) {
                                 #printf("#47DEBUG: link=%s, reference=%s\n", link, reference)
-                                if (index(reference, "https://link.ms") == 0)
-                                    printf("- %s\n", reference)
+                                if (index(reference, "https://link.ms") == 0) {
+                                    if (extractLinks == 1)
+                                        printf("- %s\n", reference)
+                                        }
                                 PRINTED[ reference ] = reference 
                                 }
                             }
