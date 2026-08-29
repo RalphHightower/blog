@@ -8,7 +8,7 @@ excerpt: ''
 #description:
 #permalink:
 toc: false
-title: "Darline Graham (T-SC), the DEI Hire, Trapped in the MAGAZone Where Incompetence Rules (Twilight Zone Parody"
+title: "Darline Graham (T-SC), the DEI Hire, Trapped in the MAGAZone Where Incompetence Rules (Twilight Zone Parody)"
 ---
 
 ## THE MAGA ZONE / A Twilight Zone-Inspired Political Satire
