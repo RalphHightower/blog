@@ -26,9 +26,9 @@ With the pressure on, [Graham](https://www.dgraham.senate.gov) flubbed the test.
 
 Asked a straightforward question about U.S. policy toward [Taiwan](https://www.taiwan.gov.tw/) and the [South China Sea](https://en.wikipedia.org/wiki/South_China_Sea?wprov=sfla1), [the appointed senator conceded](https://www.ms.now/rachel-maddow-show/maddowblog/darline-graham-debate-south-carolina-norman), “I’m not on national security,” adding, “National security is not my thing.” (As part of the same debate, [Graham](https://www.dgraham.senate.gov) [also said](https://x.com/RonFilipkowski/status/2089893090219663770), of her own home state, that [South Carolina](https://www.sc.gov/) has a population of “50 million people.” She was off by about 45 million.)
 
-@RalphHightower: Hon, you betta get up to speed on national security. [Taiwan](https://www.taiwan.gov.tw/) is a free republic. Communist [China](https://www.gov.cn/) claims that it’s theirs. [Taiwan](https://www.taiwan.gov.tw/) is a major manufacturer of advanced computer chips.
+@RalphHightower: _Hon, you betta get up to speed on national security. [Taiwan](https://www.taiwan.gov.tw/) is a free republic. Communist [China](https://www.gov.cn/) claims that it’s theirs. [Taiwan](https://www.taiwan.gov.tw/) is a major manufacturer of advanced computer chips._
 
-@RalphHightower: 50 million people! That would make us bigger than [California](https://www.ca.gov/) with a population of 39,355,309 people. Your imagination is on scale with [Trump](https://www.donaldjtrump.com/).
+@RalphHightower: _50 million people! That would make us bigger than [California](https://www.ca.gov/) with a population of 39,355,309 people. Your imagination is on scale with [Trump](https://www.donaldjtrump.com/)._
 
 The morning after the debate, [Norman](https://norman.house.gov/), [Graham](https://www.dgraham.senate.gov)’s rival, told [MS NOW](https://www.ms.now/)’s [Mychael Schnell](https://www.ms.now/author/mychael-schnell) that he “couldn’t believe it” when he heard her onstage comments. “It’s a little bit shocking,” the [congressman](https://norman.house.gov/) added.
 
@@ -50,7 +50,7 @@ As the short interview continued, the [Republican](https://www.gop.com/) said, �
 
 Amid tensions between a U.S. ally and our most important global rival, and as much of the world questions whether the war in [Iran](https://irangov.ir/) has weakened our ability to extend security assistance to our global partners, [Lindsey Graham](https://en.wikipedia.org/wiki/Lindsey_Graham?wprov=sfla1)’s sister apparently thinks what really matters is [transgender kids playing sports](https://www.ms.now/11th-hour/watch/part-1-a-special-panel-discussion-on-transgender-youth-in-athletics-194634309980).
 
-@RalphHightower: Darline, Darline, we've got more pressing issues facing America than transgender kids playing kickball and marbles. 
+@RalphHightower: _Darline, Darline, we've got more pressing issues facing America than transgender kids playing kickball and marbles._
 
 If the interview was intended to calm concerns about whether [Darline Graham](https://www.dgraham.senate.gov) is up to the job, it was the second missed opportunity in as many days.
 
@@ -91,7 +91,7 @@ This post updates our [related earlier coverage](https://www.ms.now/rachel-maddo
     - [South Carolina Trumpian Party](https://sc.gop/)
 - companies
 - [Taiwan Semiconductor – Taiwan Semiconductor Global Official Website (TSMC)](https://www.taiwansemi.com/en/)
-- geography 
+- geography
 - [South China Sea](https://en.wikipedia.org/wiki/South_China_Sea?wprov=sfla1)
 - foreign governments
 - [People's Republic of China (CN)](https://www.gov.cn/)
