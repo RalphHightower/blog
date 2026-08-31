@@ -15,6 +15,8 @@ title: "Call Script: Tim Scott (T-SC), Banking Committee chair. Reason Capital O
 
 ## ☎️ My Three or Four/Five Calls — DC + Local (tel‑link ready)
 
+![What's Not In Your Wallet?](/assets/images/CapitalOneDebankedTrump.jpeg)
+
 Tim Scott (T-SC), chair of the Senate Banking Committee:
 
 Given the vex​a​tious nature of Trump suing anybody and everybody for $10B, in response to Trump suing Capital One for debanking Trump and his myriad of shell companies, Capital One countered that Trump was debanked due to money laundering within the bank's antifrauad division.
