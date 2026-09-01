@@ -80,15 +80,15 @@ Just over five weeks after [Macron](https://www.elysee.fr/emmanuel-macron)’s a
 - [President Donald Trump (47)](https://www.whitehouse.gov/administration/donald-j-trump/)
 - [Iran](https://irangov.ir/) war
 - [Strait of Hormuz](https://en.wikipedia.org/wiki/Strait_of_Hormuz?wprov=sfla1)
-- high fuel prices 
-- high fertilizer prices 
-- personal attacks 
-- [Iran](https://irangov.ir/) negotiators 
+- high fuel prices
+- high fertilizer prices
+- personal attacks
+- [Iran](https://irangov.ir/) negotiators
 - [Steve Witkoff](https://www.witkoff.com/)
 - [Jared Kushner](https://en.wikipedia.org/wiki/Jared_Kushner?wprov=sfla1)
 - [U.S. Department of the Treasury](https://home.treasury.gov/)
 - [Scott Bessent](https://home.treasury.gov/about/general-information/officials/scott-bessent)
-- alienation 
+- alienation
 - isolation
 - allies
 - [Retired Gen. Barry McCaffrey](https://www.linkedin.com/in/general-barry-mccaffrey/)

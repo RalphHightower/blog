@@ -8,7 +8,7 @@ excerpt: ''
 #description:
 #permalink:
 toc: false
-title: "Darline Graham (T-SC), the DEI Hire, Trapped in the MAGAZone Where Incompetence Rules (Twilight Zone Parody)"
+title: "Darline Graham (T-SC), the DEI Hire, Trapped in the MAGAZone Where Incompetence Rules (Twilight Zone Parody"
 ---
 
 ## THE MAGA ZONE / A Twilight Zone-Inspired Political Satire
@@ -30,7 +30,7 @@ THE MAGA ZONE.
 
 A brand-new black-and-white supernatural television parody from Mr. Newberger’s AI Funnies, inspired by the eerie anthology television dramas of the early 1960s.
 
-Look for the Cameo by [Crossing.The.Line.Podcast](https://www.youtube.com/@Crossing.The.Line.Podcast) stars Jay and Angela.
+Look for the Cameo by ‪[‪@Crossing.The.Line.Podcast‬](https://www.youtube.com/@Crossing.The.Line.Podcast) stars Jay and Angela.
 
 If you enjoy the video, LIKE, COMMENT and SHARE — it makes a huge difference in helping independent comedy reach more people.
 

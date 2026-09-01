@@ -79,7 +79,7 @@ Agents have conducted some 3,000 protective visits to people who have threatened
 - [Secret Service](https://www.secretservice.gov/)
 - flying fortress
 - [Air Force One](https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104588/vc-25-air-force-one/)
-- foreign emoluments 
+- foreign emoluments
 - flying palace
 - [State of Qatar (QA)](https://hukoomi.gov.qa/)
 - [Boeing](https://www.boeing.com/)

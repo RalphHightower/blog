@@ -67,7 +67,7 @@ From start to finish this incident reveals too many elevated risks threatening n
 - [Republic of Ireland (IE)](https://www.gov.ie/en/)
 - [State of Israel (IL)](https://www.gov.il/)
 - [Benjamin Netanyahu Prime Minister's Office](https://www.gov.il/en/pages/netanyahu-b)
-- foreign emoluments 
+- foreign emoluments
 - flying palace
 - [State of Qatar (QA)](https://hukoomi.gov.qa/)
 - [Boeing](https://www.boeing.com/)

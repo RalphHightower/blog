@@ -34,7 +34,7 @@ The comments suggest that if [Iranian](https://irangov.ir/) leaders want [Trump]
 
 This week’s [revelation](https://www.ms.now/news/trump-plane-swap-air-force-one-catering-truck-turkey) that [Trump](https://www.donaldjtrump.com/) left his [presidential aircraft](https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104588/vc-25-air-force-one/) and allowed it to become a decoy plane has consumed [Washington](https://dc.gov/). It has also highlighted the realities of heightened threats to his life, alongside questions about [Iran](https://irangov.ir/)’s true ability to eliminate an American [president](https://www.whitehouse.gov/).
 
-[Trump](https://www.donaldjtrump.com/), in fact, is the focus of more threats than any modern American [president](https://www.whitehouse.gov/) has been. Last month, a senior [Secret Service](https://www.secretservice.gov/) official said the agency was investigating the highest number of threat cases in its history. The official said agents had examined 10,000 threat cases, 40% more than last year. 
+[Trump](https://www.donaldjtrump.com/), in fact, is the focus of more threats than any modern American [president](https://www.whitehouse.gov/) has been. Last month, a senior [Secret Service](https://www.secretservice.gov/) official said the agency was investigating the highest number of threat cases in its history. The official said agents had examined 10,000 threat cases, 40% more than last year.
 
 “What we are seeing now is something I’ve never seen before,” the senior official said, speaking on the condition of anonymity to discuss internal matters. “Threat environment is the highest we have seen.”
 
@@ -42,13 +42,13 @@ Agents have conducted some 3,000 protective visits to people who threatened to k
 
 Threats against the [president](https://www.whitehouse.gov/) have prompted the [Secret Service](https://www.secretservice.gov/) to place anti-aircraft and anti-drone systems near his homes in [Bedminster](https://www.bedminster.us/), [New Jersey](https://www.nj.gov/), and [West Palm Beach](https://www.wpb.org/), [Florida](https://www.myflorida.gov/), during this second term — locations that did not have such systems in [Trump](https://www.donaldjtrump.com/)’s first term, according to two law enforcement sources with direct knowledge of the matter who spoke on the condition of anonymity to describe the sensitive measures.
 
-Earlier this month, [Trump](https://www.donaldjtrump.com/) aide Margo Martin posted a video to her [X account](https://x.com/MargoMartin47/status/2083578489920184542?s=20) showing [Trump](https://www.donaldjtrump.com/), wearing golf clothes, shaking hands with soldiers in [New Jersey](https://www.nj.gov/), where he owns a golf club. “I’m not worried about missiles or drones,” [Trump](https://www.donaldjtrump.com/) says in the video, opening his arms wide. 
+Earlier this month, [Trump](https://www.donaldjtrump.com/) aide Margo Martin posted a video to her [X account](https://x.com/MargoMartin47/status/2083578489920184542?s=20) showing [Trump](https://www.donaldjtrump.com/), wearing golf clothes, shaking hands with soldiers in [New Jersey](https://www.nj.gov/), where he owns a golf club. “I’m not worried about missiles or drones,” [Trump](https://www.donaldjtrump.com/) says in the video, opening his arms wide.
 
-“We got it covered right there,” says a soldier, gesturing over his shoulder at the tan-colored missile launchers of an [Avenger short-range air defense system](https://odin.t2com.army.mil/WEG/Asset/AN::TWQ-1_Avenger_American_4x4_Mobile_Air_Defense_Missile_System) behind them. 
+“We got it covered right there,” says a soldier, gesturing over his shoulder at the tan-colored missile launchers of an [Avenger short-range air defense system](https://odin.t2com.army.mil/WEG/Asset/AN::TWQ-1_Avenger_American_4x4_Mobile_Air_Defense_Missile_System) behind them.
 
-Evidence of [Iranian](https://irangov.ir/) threats against [Trump](https://www.donaldjtrump.com/) has been emerging for years. 
+Evidence of [Iranian](https://irangov.ir/) threats against [Trump](https://www.donaldjtrump.com/) has been emerging for years.
 
-During the investigation of the 2024 assassination attempt on [Trump](https://www.donaldjtrump.com/) in [Butler](https://cityofbutler.org/), [Pennsylvania](https://www.pa.gov/), investigators uncovered evidence that while [Iran](https://irangov.ir/) played no role in that attempt, [Iranian](https://irangov.ir/) officials were interested in assassinating [Trump](https://www.donaldjtrump.com/). 
+During the investigation of the 2024 assassination attempt on [Trump](https://www.donaldjtrump.com/) in [Butler](https://cityofbutler.org/), [Pennsylvania](https://www.pa.gov/), investigators uncovered evidence that while [Iran](https://irangov.ir/) played no role in that attempt, [Iranian](https://irangov.ir/) officials were interested in assassinating [Trump](https://www.donaldjtrump.com/).
 
 [Iran](https://irangov.ir/) has had reasons to want to retaliate against [Trump](https://www.donaldjtrump.com/). During his first term, in January 2020, [Trump](https://www.donaldjtrump.com/) ordered an American drone strike that killed [Gen. Qassem Soleimani](https://en.wikipedia.org/wiki/Qasem_Soleimani?wprov=sfla1), the commander of [Iran](https://irangov.ir/)’s [Islamic Revolutionary Guard Corps](https://sepahnews.ir/), or [IRGC](https://sepahnews.ir/).
 
@@ -60,13 +60,13 @@ While [Trump](https://www.donaldjtrump.com/) was running for re-election in Octo
 
 In [Ankara](https://www.ankara.bel.tr/seffaflik-ve-hesapverebilirlik) last month, the [Secret Service](https://www.secretservice.gov/) deployed the extraordinary ruse of having [Trump](https://www.donaldjtrump.com/) secretly switch planes after receiving information regarding a potential [Iranian](https://irangov.ir/) plot to target [Air Force One](https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104588/vc-25-air-force-one/) with a shoulder-fired missile, [The New York Times reported](https://www.nytimes.com/2026/08/11/us/politics/trump-iran-threat-air-force-one.html?smid=nytcore-ios-share).
 
-[Marc Polymeropoulos](https://en.wikipedia.org/wiki/Marc_Polymeropoulos?wprov=sfla1), a former senior [CIA](https://www.cia.gov/) official and an [MS NOW](https://www.ms.now/) contributor, said the [Secret Service](https://www.secretservice.gov/) was right to take the reports of a potential threat seriously. 
+[Marc Polymeropoulos](https://en.wikipedia.org/wiki/Marc_Polymeropoulos?wprov=sfla1), a former senior [CIA](https://www.cia.gov/) official and an [MS NOW](https://www.ms.now/) contributor, said the [Secret Service](https://www.secretservice.gov/) was right to take the reports of a potential threat seriously.
 
 “[Turkey](https://global.tbmm.gov.tr/) is not a benign environment for counterintelligence or terrorist threats. [Iranian](https://irangov.ir/) intelligence historically has had reach there, and has run aggressive operations against the U.S. in the past, per open-source reporting,” [Polymeropoulos](https://en.wikipedia.org/wiki/Marc_Polymeropoulos?wprov=sfla1) said. “The U.S. [Secret Service](https://www.secretservice.gov/) would be right to take any threats seriously there, with these factors in mind.”
 
-The [president](https://www.whitehouse.gov/) himself keeps coming back to the idea that he expected [Iran](https://irangov.ir/) to try to assassinate him. 
+The [president](https://www.whitehouse.gov/) himself keeps coming back to the idea that he expected [Iran](https://irangov.ir/) to try to assassinate him.
 
-Days after joint [Israeli](https://www.gov.il/) and U.S. strikes killed [Iran](https://irangov.ir/)’s supreme leader, [Ayatollah Ali Khamenei](https://www.leader.ir/), on Feb. 28, [Trump](https://www.donaldjtrump.com/) struck a morbid note in one of his many phone interviews with reporters. 
+Days after joint [Israeli](https://www.gov.il/) and U.S. strikes killed [Iran](https://irangov.ir/)’s supreme leader, [Ayatollah Ali Khamenei](https://www.leader.ir/), on Feb. 28, [Trump](https://www.donaldjtrump.com/) struck a morbid note in one of his many phone interviews with reporters.
 
 “I got him before he got me,” [Trump](https://www.donaldjtrump.com/) [told ABC News](https://abcnews.com/Politics/iran-operation-weeks-trump-tells-abc-news-khamenei/story?id=130673718). “They tried twice. Well, I got him first.”
 
@@ -118,7 +118,7 @@ And on Tuesday, [Trump](https://www.donaldjtrump.com/) again talked about his ow
 - Carlisle Rivera
 - [Staten Island (NYC)](https://www.statenislandusa.com/)
 - Jonathan Loadholt
-- defensive measures 
+- defensive measures
 - [Secret Service](https://www.secretservice.gov/)
 - [Central Intelligence Agency (CIA)](https://www.cia.gov/)
 - [Trump](https://www.donaldjtrump.com) fortified snowbird golf courses
@@ -149,7 +149,7 @@ And on Tuesday, [Trump](https://www.donaldjtrump.com/) again talked about his ow
 - [747-8](https://www.boeing.com/commercial/747-8)
 - allies
 - [State of Israel](https://www.gov.il/)
-- America 250 subversion 
+- America 250 subversion
 - [Freedom Fest 250](https://freedom250.org/)
 - [Patriot Games](https://freedom250.org/celebration/the-2026-patriot-games)
 - [New York (NY)](https://www.ny.gov/)

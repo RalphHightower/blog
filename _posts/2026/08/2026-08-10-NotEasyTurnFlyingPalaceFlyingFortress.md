@@ -32,7 +32,7 @@ Weeks later, [Kendall](https://www.linkedin.com/in/frank-kendall-84483a5/) [also
 The good news is, the [Trump](https://www.donaldjtrump.com/) [administration](https://www.whitehouse.gov/administration/) finally found someone to punish for the [Air Force One](https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104588/vc-25-air-force-one/) debacle. The bad news is, officials decided to punish [Kendall](https://www.linkedin.com/in/frank-kendall-84483a5/). [The Wall Street Journal reported](https://www.wsj.com/politics/hegseth-strips-security-clearance-from-bidens-air-force-secretary-565eb26f?mod=lead_feature_below_a_pos1):
 
 > _[Defense](https://www.defense.gov/) [Secretary Pete Hegseth](https://www.defense.gov/About/Biographies/Biography/Article/4040890/hon-pete-hegseth/) revoked the security clearance of a former high-ranking [Biden](https://bidenwhitehouse.archives.gov/) [administration](https://www.whitehouse.gov/administration/) defense official for allegedly leaking classified information about [Air Force One](https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104588/vc-25-air-force-one/). […]_
-> 
+>
 > _“Safeguarding classified information is a non-negotiable duty,” [Pentagon](https://www.defense.gov/) spokesman Sean Parnell wrote in a post on X. “Those who violate that trust forfeit the privilege of access and any role requiring it.” Parnell’s post didn’t specifically say what classified information [Kendall](https://www.linkedin.com/in/frank-kendall-84483a5/) released, but referenced “classified information regarding [Air Force One](https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104588/vc-25-air-force-one/)’s capabilities.”_
 
 “I’m mystified,” [Kendall](https://www.linkedin.com/in/frank-kendall-84483a5/) told the Journal soon after. “I’ve been extremely careful to not say anything that could be classified, and as far as I know I have not said anything classified. … So far no one has told me what I’m supposed to have revealed.”
@@ -67,12 +67,12 @@ This post updates our [related earlier coverage](https://www.ms.now/rachel-maddo
 - [The Atlantic](https://www.theatlantic.com/)
 - [The Wall Street Journal (WSJ) - Breaking News, Business, Financial & Economic News, World News and Video](https://www.wsj.com/)
 - [NOTUS - NOTUS — News of the United States](https://www.notus.org/)
-- people 
+- people
 - [Frank Kendall / LinkedIn](https://www.linkedin.com/in/frank-kendall-84483a5/)
 - keywords
 - [Donald J Trump](https://www.donaldjtrump.com/)
-- King Trump 
-- flying palace 
+- King Trump
+- flying palace
 - [State of Qatar (QA)](https://hukoomi.gov.qa/)
 - [Air Force](https://www.af.mil/)
 - [Air Force One](https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104588/vc-25-air-force-one/)

@@ -48,7 +48,7 @@ https://www.gofundme.com/f/help-fund-mr-newbergers-ai-funnies
 - [Three's Company](https://en.wikipedia.org/wiki/Three%27s_Company?wprov=sfla1)
 - keywords
 - [Donald Trump](https://www.donaldjtrump.com/)
-- Melania Trump 
+- Melania Trump
 - Natalie Harp
 - [Three's Company](https://en.wikipedia.org/wiki/Three%27s_Company?wprov=sfla1)
 - parody

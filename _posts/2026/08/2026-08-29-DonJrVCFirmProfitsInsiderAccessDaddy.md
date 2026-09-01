@@ -19,33 +19,33 @@ By [Kevin Frey](https://www.ms.now/author/kevin-frey)
 
 Aug. 27, 2026, 5:00 AM EDT
 
-[House](https://www.house.gov/) [Democrat](https://www.democrats.org/)s are launching a new probe into [Donald Trump Jr.](https://1789capital.vc/don-trump-jr) and the venture capital firm he joined as a partner shortly after his father won a second term, alleging possible fraud and insider trading. 
+[House](https://www.house.gov/) [Democrat](https://www.democrats.org/)s are launching a new probe into [Donald Trump Jr.](https://1789capital.vc/don-trump-jr) and the venture capital firm he joined as a partner shortly after his father won a second term, alleging possible fraud and insider trading.
 
 In a letter shared first with [MS NOW](https://www.ms.now/), [Rep.](https://www.house.gov/) [Jamie Raskin (D-MD8](https://raskin.house.gov/), the top [Democrat](https://www.democrats.org/) on the [House Judiciary Committee](https://judiciary.house.gov/), asks the younger [Trump](https://1789capital.vc/don-trump-jr) to account for the recent run of success at [1789 Capital](https://1789capital.vc/), whose investments over the past year and a half, he says, have been timed with “almost clairvoyant accuracy.”
 
 “With [Don Jr.](https://1789capital.vc/don-trump-jr)’s new leadership role, [1789 Capital](https://1789capital.vc/) has developed an uncanny ability to identify companies that are about to receive massive influxes of cash from the [Trump](https://www.donaldjtrump.com/) [Administration](https://www.whitehouse.gov/administration/) or to benefit from significant changes in federal policies and regulations,” [Raskin](https://raskin.house.gov/) writes. “They say there is no such thing as a sure thing in investing, but this is about as close as you can get.”
 
-[Raskin](https://raskin.house.gov/) specifically asks [1789 Capital](https://1789capital.vc/) to turn over records of its communications with federal government officials and elected officials. He also asks for a list of companies it has invested in, among other materials. 
+[Raskin](https://raskin.house.gov/) specifically asks [1789 Capital](https://1789capital.vc/) to turn over records of its communications with federal government officials and elected officials. He also asks for a list of companies it has invested in, among other materials.
 
-[MS NOW](https://www.ms.now/) has no evidence that [1789 Capital](https://1789capital.vc/) has violated any laws. In a statement, AJ Merton, counsel for the firm, dismissed the accusations against it as “unsubstantiated talking points.” 
+[MS NOW](https://www.ms.now/) has no evidence that [1789 Capital](https://1789capital.vc/) has violated any laws. In a statement, AJ Merton, counsel for the firm, dismissed the accusations against it as “unsubstantiated talking points.”
 
 “Repackaging press clippings on congressional letterhead does not turn news headlines into evidence, and that practice is a hallmark of partisan stunts and politically motivated harassment, not oversight,” he said.
 
 The [Trump Organization](https://www.trump.com/) did not immediately respond to [MS NOW](https://www.ms.now/)’s request for a comment from [Donald Trump Jr.](https://1789capital.vc/don-trump-jr)
 
-The younger [Trump](https://1789capital.vc/don-trump-jr) announced that he was joining [1789 Capital as a partner](https://www.nytimes.com/2024/11/11/us/donald-trump-jr-firm.html) in November 2024. That year, the firm managed a few hundred million dollars, according to a profile in [The New York Times](https://www.nytimes.com/2026/07/22/business/donald-trump-jr-1789-capital.html). It now manages \$3 billion. 
+The younger [Trump](https://1789capital.vc/don-trump-jr) announced that he was joining [1789 Capital as a partner](https://www.nytimes.com/2024/11/11/us/donald-trump-jr-firm.html) in November 2024. That year, the firm managed a few hundred million dollars, according to a profile in [The New York Times](https://www.nytimes.com/2026/07/22/business/donald-trump-jr-1789-capital.html). It now manages \$3 billion.
 
 It is “impossible to believe that your firm’s astonishing growth and success are due to anything other than insider political influence and thoroughgoing corruption,” [Raskin](https://raskin.house.gov/) alleges in his letter.
 
 Citing news reports, the Maryland [Democrat](https://www.democrats.org/) questioned the timing of several of the firm’s investments. Among them is [1789 Capital](https://1789capital.vc/)’s [2025 investment in Vulcan Elements](https://www.linkedin.com/feed/update/urn:li:activity:7360630907000496128/), a rare-earths magnet company. In the months that followed, [Vulcan announced](https://vulcanelements.com/vulcan-elements-forges-1-4-billion) a \$620 million loan from the [Pentagon](https://www.defense.gov/) plus a \$50 million grant from the [CHIPS and Science Act(https://www.congress.gov/bill/117th-congress/house-bill/4346), the 2022 law signed by [President Joe Biden](https://bidenwhitehouse.archives.gov/).
 
-“This was an amazing turn of events when the [Trump](https://www.donaldjtrump.com/) [Administration](https://www.whitehouse.gov/administration/) decided to pump over half a billion dollars into an unproven start-up company,” [Raskin](https://raskin.house.gov/) writes. 
+“This was an amazing turn of events when the [Trump](https://www.donaldjtrump.com/) [Administration](https://www.whitehouse.gov/administration/) decided to pump over half a billion dollars into an unproven start-up company,” [Raskin](https://raskin.house.gov/) writes.
 
-For [an article published last month](https://www.nytimes.com/2026/07/22/business/donald-trump-jr-1789-capital.html), [Donald Trump Jr.](https://1789capital.vc/don-trump-jr) told the [New York Times](https://www.nytimes.com/) that he didn’t have “inside information.” The [Times](https://www.nytimes.com/) cited him and [Omeed Malik](https://www.linkedin.com/in/omeed-malik-b483b1186/), the [president](https://www.whitehouse.gov/) of [1789 Capital](https://1789capital.vc/), as explaining that they made a “reasonable assumption” that [Vulcan Elements](https://vulcanelements.com/) would be a winning investment at the time. 
+For [an article published last month](https://www.nytimes.com/2026/07/22/business/donald-trump-jr-1789-capital.html), [Donald Trump Jr.](https://1789capital.vc/don-trump-jr) told the [New York Times](https://www.nytimes.com/) that he didn’t have “inside information.” The [Times](https://www.nytimes.com/) cited him and [Omeed Malik](https://www.linkedin.com/in/omeed-malik-b483b1186/), the [president](https://www.whitehouse.gov/) of [1789 Capital](https://1789capital.vc/), as explaining that they made a “reasonable assumption” that [Vulcan Elements](https://vulcanelements.com/) would be a winning investment at the time.
 
-“It’s not like it takes a genius to figure this out,” [Donald Trump Jr.](https://1789capital.vc/don-trump-jr) told the [Times](https://www.nytimes.com/). 
+“It’s not like it takes a genius to figure this out,” [Donald Trump Jr.](https://1789capital.vc/don-trump-jr) told the [Times](https://www.nytimes.com/).
 
-In the letter, [Raskin](https://raskin.house.gov/) also questions [1789 Capital](https://1789capital.vc/)’s investments in e-cigarette maker [Juul](https://www.juul.com/), the prediction market [Polymarket](https://polymarket.com/) and [Anduril Industries](https://www.anduril.com/), a defense technology company. 
+In the letter, [Raskin](https://raskin.house.gov/) also questions [1789 Capital](https://1789capital.vc/)’s investments in e-cigarette maker [Juul](https://www.juul.com/), the prediction market [Polymarket](https://polymarket.com/) and [Anduril Industries](https://www.anduril.com/), a defense technology company.
 
 In the case of [Juul](https://www.juul.com/), [Raskin](https://raskin.house.gov/) invokes an investment [1789 Capital](https://1789capital.vc/) made in March 2025, according to a [Reuters report](https://archive.is/20250912151709/https://www.reuters.com/investigations/trump-linked-venture-fund-1789-capital-tops-1-billion-assets-2025-09-08/). Later that year, the [Food and Drug Administration](https://www.fda.gov/) [reversed a ban](https://thehill.com/policy/healthcare/5406647-fda-reverses-ban-juul-e-cigarettes/) on certain e-cigarette products, providing a boost to the company.
 
@@ -53,15 +53,15 @@ This is not the first time [Donald Trump Jr.](https://1789capital.vc/don-trump-j
 
 In March, [Democrats](https://www.democrats.org/) on a [House Committee on Natural Resources](https://naturalresources.house.gov/) [subcommittee](https://naturalresources.house.gov/issues/issue/?IssueID=5062) [tried to subpoena him](https://www.cnbc.com/2026/03/25/donald-trump-jr-subpoena.html) to force testimony about the [Vulcan](https://vulcanelements.com/) investment. [Republicans](https://www.gop.com/) blocked the effort.
 
-[Raskin](https://raskin.house.gov/)’s new inquiry faces the same constraint: In the minority, House [Democrat](https://www.democrats.org/)s have no subpoena power. But Thursday’s announcement offers another preview of what the party would pursue if it wins control of the House in November — and with it, subpoena power. 
+[Raskin](https://raskin.house.gov/)’s new inquiry faces the same constraint: In the minority, House [Democrat](https://www.democrats.org/)s have no subpoena power. But Thursday’s announcement offers another preview of what the party would pursue if it wins control of the House in November — and with it, subpoena power.
 
-[Raskin](https://raskin.house.gov/) has already announced an investigation into another key member of [Trump](https://www.donaldjtrump.com/)’s orbit: his [son-in-law Jared Kushner](https://www.ms.now/news/iran-negotiator-private-investor-raskin-launches-investigation-jared-kushner), accusing him of a “glaring and incurable conflict of interest” due to his dual roles as [White House](https://www.whitehouse.gov/) peace envoy and private investor. And earlier this week, [MS NOW was first to report](https://www.ms.now/news/kushner-albania-deal-investigation) that [Raskin](https://raskin.house.gov/) was expanding that probe to include Kushner’s planned luxury resort project in Albania. 
+[Raskin](https://raskin.house.gov/) has already announced an investigation into another key member of [Trump](https://www.donaldjtrump.com/)’s orbit: his [son-in-law Jared Kushner](https://www.ms.now/news/iran-negotiator-private-investor-raskin-launches-investigation-jared-kushner), accusing him of a “glaring and incurable conflict of interest” due to his dual roles as [White House](https://www.whitehouse.gov/) peace envoy and private investor. And earlier this week, [MS NOW was first to report](https://www.ms.now/news/kushner-albania-deal-investigation) that [Raskin](https://raskin.house.gov/) was expanding that probe to include Kushner’s planned luxury resort project in Albania.
 
-[Kushner](https://en.wikipedia.org/wiki/Jared_Kushner?wprov=sfla1)’s team has pushed back on allegations of wrongdoing. 
+[Kushner](https://en.wikipedia.org/wiki/Jared_Kushner?wprov=sfla1)’s team has pushed back on allegations of wrongdoing.
 
 [Democrat](https://www.democrats.org/)s are laying the groundwork for an extensive [roster of investigations related to the Trump administration they are expected to pursue](https://www.ms.now/news/news-analysis/trump-investigations-congress-democrats-project-47) starting as early as next year.
 
-In a statement, [White House](https://www.whitehouse.gov/) spokesperson [Davis Ingle](https://www.linkedin.com/in/davis-r-ingle-837899119/) did not directly engage with allegations involving the [president](https://www.whitehouse.gov/)’s son, but said that [President](https://www.whitehouse.gov/) [Donald Trump](https://www.donaldjtrump.com/) “stock and bond portfolio is independently managed by third-party financial institutions.” 
+In a statement, [White House](https://www.whitehouse.gov/) spokesperson [Davis Ingle](https://www.linkedin.com/in/davis-r-ingle-837899119/) did not directly engage with allegations involving the [president](https://www.whitehouse.gov/)’s son, but said that [President](https://www.whitehouse.gov/) [Donald Trump](https://www.donaldjtrump.com/) “stock and bond portfolio is independently managed by third-party financial institutions.”
 
 “Neither [President](https://www.whitehouse.gov/) [Trump](https://www.donaldjtrump.com/) nor any member of his family has any ability to direct, influence, or provide input regarding how the portfolio is invested or when investments are bought or sold,” he said.
 
@@ -79,8 +79,9 @@ In a statement, [White House](https://www.whitehouse.gov/) spokesperson [Davis I
 [Vulcan Elements - Rare Earth Magnets for a Resilient Future](https://vulcanelements.com/)
 - [Wikipedia](https://en.wikipedia.org/)
 - keywords
+- [Trump](https://www.trump.com/) crime family
 - corruption
-- nepotism 
+- nepotism
 - [1789 Capital](https://1789capital.vc/)
 - [Don Trump Jr — 1789 Capital](https://1789capital.vc/don-trump-jr)
 - [Donald Trump Jr. / LinkedIn](https://www.linkedin.com/in/donald-trump-jr-4454b862/)

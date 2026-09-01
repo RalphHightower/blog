@@ -25,15 +25,15 @@ The message that it sends to [White House](https://www.whitehouse.gov/) flying b
 
 
 Aug 12, 2026  [#Trump](https://www.donaldjtrump.com/) #Iran #News
-A [CNN](https://www.cnn.com/) review of videos and photos sheds light on how an elaborate ruse to fly [President](https://www.whitehouse.gov/) [Donald Trump](https://www.donaldjtrump.com/) out of [Turkey](https://global.tbmm.gov.tr/) by secretly switching planes unfolded. [CNN](https://www.cnn.com/)’s Kevin Liptak reports. 
+A [CNN](https://www.cnn.com/) review of videos and photos sheds light on how an elaborate ruse to fly [President](https://www.whitehouse.gov/) [Donald Trump](https://www.donaldjtrump.com/) out of [Turkey](https://global.tbmm.gov.tr/) by secretly switching planes unfolded. [CNN](https://www.cnn.com/)’s Kevin Liptak reports.
 
-Also, [Trump](https://www.donaldjtrump.com/) offers his perspective on the [Secret Service](https://www.secretservice.gov/) tactics to keep him safe, and [CNN](https://www.cnn.com/)'s Audie Cornish gauges reaction from her "group chat." 
+Also, [Trump](https://www.donaldjtrump.com/) offers his perspective on the [Secret Service](https://www.secretservice.gov/) tactics to keep him safe, and [CNN](https://www.cnn.com/)'s Audie Cornish gauges reaction from her "group chat."
 
-0:00 The timeline of [Trump](https://www.donaldjtrump.com/)'s secret plane switch in [Turkey](https://global.tbmm.gov.tr/) 
-2:08 What did flight tracking data show about [Trump](https://www.donaldjtrump.com/)'s flight? 
-3:25 [Trump](https://www.donaldjtrump.com/) commented about security precautions during the final flight home 
-4:13 [Trump](https://www.donaldjtrump.com/)'s first remarks about the flight since the ruse was revealed publicly 
-6:52 Analyst describes "the big mistake" the [Trump](https://www.donaldjtrump.com/) admin made 
+0:00 The timeline of [Trump](https://www.donaldjtrump.com/)'s secret plane switch in [Turkey](https://global.tbmm.gov.tr/)
+2:08 What did flight tracking data show about [Trump](https://www.donaldjtrump.com/)'s flight?
+3:25 [Trump](https://www.donaldjtrump.com/) commented about security precautions during the final flight home
+4:13 [Trump](https://www.donaldjtrump.com/)'s first remarks about the flight since the ruse was revealed publicly
+6:52 Analyst describes "the big mistake" the [Trump](https://www.donaldjtrump.com/) admin made
 
 ## [Trump secretly swapped planes at NATO summit due to security threat](https://www.ms.now/news/trump-plane-swap-air-force-one-catering-truck-turkey)
 
@@ -104,7 +104,7 @@ David Rohde contributed to this report.
 - flying fortress
 - [United Kingdom](https://www.gov.uk/)
 - [Air Force One](https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104588/vc-25-air-force-one/)
-- foreign emoluments 
+- foreign emoluments
 - flying palace
 - [State of Qatar (QA)](https://hukoomi.gov.qa/)
 - [Boeing](https://www.boeing.com/)
@@ -113,7 +113,7 @@ David Rohde contributed to this report.
 - [Islamic Republic of Iran (IR)](https://irangov.ir/)
 - [Islamic Revolutionary Guard Corps (IRGC)](https://sepahnews.ir/)
 - [Qasem Soleimani](https://en.wikipedia.org/wiki/Qasem_Soleimani?wprov=sfla1)
-- state, local governments 
+- state, local governments
 - [North Dakota (ND)](https://www.nd.gov/)
 - federal government
 - [Jim Himes (D-CT4)](https://himes.house.gov/)

@@ -53,7 +53,7 @@ If you voted for the [GOP](https://www.gop.com/) ticket because you were moved b
 - Iran war
 - [Islamic Republic of Iran (IR)](https://irangov.ir/)
 - dumbassedness
-- annexation 
+- annexation
 - [Strait of Hormuz](https://en.wikipedia.org/wiki/Strait_of_Hormuz?wprov=sfla1)
 - [Islamic Emirate of Afghanistan (AF)](https://moi.gov.af/)
 - [Canada (CA)](https://www.canada.ca/)

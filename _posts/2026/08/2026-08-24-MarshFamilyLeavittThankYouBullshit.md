@@ -19,7 +19,7 @@ title: "Goodbye Karoline Leavitt: Thank You For the Bullshit!"
 Aug 24, 2026
 ### [Marsh Family - YouTube](https://www.youtube.com/@MarshFamilySongs)
 
-[Karoline Leavitt](https://en.wikipedia.org/wiki/Karoline_Leavitt?wprov=sfla1) is leaving her role as [White House](https://www.whitehouse.gov/) Press Secretary and spokesperson for [Donald Trump](https://www.donaldjtrump.com/) at the end of this week. So we didn't want to let the moment pass without marking it. We used for our parody the emotional and uplifting [ABBA](https://abbasite.com/) ballad farewell song "Thank You For The Music" - originally released in 1978 and penned by the inimitable Benny Andersson and Björn Ulvaeus. 
+[Karoline Leavitt](https://en.wikipedia.org/wiki/Karoline_Leavitt?wprov=sfla1) is leaving her role as [White House](https://www.whitehouse.gov/) Press Secretary and spokesperson for [Donald Trump](https://www.donaldjtrump.com/) at the end of this week. So we didn't want to let the moment pass without marking it. We used for our parody the emotional and uplifting [ABBA](https://abbasite.com/) ballad farewell song "Thank You For The Music" - originally released in 1978 and penned by the inimitable Benny Andersson and Björn Ulvaeus.
 
 ----
 - media

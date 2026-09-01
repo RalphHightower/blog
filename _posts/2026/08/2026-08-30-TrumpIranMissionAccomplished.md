@@ -57,7 +57,7 @@ As for the political and electoral context, with 10 weeks remaining before the m
 - ‘Mission Accomplished’
 - [President Donald Trump (47)](https://www.whitehouse.gov/administration/donald-j-trump/)
 - [Donald Trump](https://www.donaldjtrump.com/)
-- [Iran](https://irangov.ir/) war 2026 — 
+- [Iran](https://irangov.ir/) war 2026 —
 - [Islamic Republic of Iran (IR)](https://irangov.ir/)
 - [Strait of Hormuz](https://en.wikipedia.org/wiki/Strait_of_Hormuz?wprov=sfla1)
 - [Supreme Leader Ayatollah Ali Khamenei](https://www.leader.ir/)
@@ -67,7 +67,7 @@ As for the political and electoral context, with 10 weeks remaining before the m
 - political parties
 - [Democrat Party](https://www.democrats.org/)
 - [Trumpian Party](https://www.gop.com/)
-- geography 
+- geography
 - [Strait of Hormuz](https://en.wikipedia.org/wiki/Strait_of_Hormuz?wprov=sfla1)
 - foreign governments
 - [State of Israel (IL)](https://www.gov.il/)
