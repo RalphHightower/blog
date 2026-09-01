@@ -38,7 +38,7 @@ The report continued:
 
 > _[Capital One](https://www.capitalone.com/) has never accused the [Trump Organization](https://www.trump.com/) of illegal money laundering. But Friday’s filing argues that “documents and Plaintiffs’ own allegations make clear that [Capital One](https://www.capitalone.com/) closed Plaintiffs’ accounts for anti-money laundering (“AML”) reasons. The closures were the result of months of analysis and a careful review by [Capital One](https://www.capitalone.com/)’s AML team in accordance with bank policies and regulatory guidance.”_
 
-[Capital One](https://www.capitalone.com/) gave notice of its plans to close more than 300 [Trump](https://www.trump.com/)-affiliated bank accounts in March 2021. 
+[Capital One](https://www.capitalone.com/) gave notice of its plans to close more than 300 [Trump](https://www.trump.com/)-affiliated bank accounts in March 2021.
 
 The claim brings to mind [Trump](https://www.donaldjtrump.com/)’s past ties to [Deutsche Bank](https://www.db.com/), an institution with a history of [anti-money laundering failures](https://www.theguardian.com/business/2019/jul/08/what-went-wrong-at-deutsche-bank) and one that — according to reports back in 2019 — [maintained relationships with Trump-related entities after staffers flagged suspicious activity](https://www.youtube.com/watch?v=36Lnp_m6Obg). (Such flags do not constitute proof of a crime.)
 
@@ -129,7 +129,7 @@ All this is to say: [Trump](https://www.donaldjtrump.com/) isn’t someone who s
 - corruption
 - con artist
 - crime
-- crime family 
+- crime family
 - [Donald Trump Jr. / LinkedIn](https://www.linkedin.com/in/donald-trump-jr-4454b862/)
 - [Eric F. Trump / LinkedIn](https://www.linkedin.com/in/erictrump/)
 - cryptocurrency

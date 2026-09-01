@@ -39,7 +39,7 @@ A month later, we learned that [Pete Hegseth](https://www.defense.gov/About/Biog
 A week later, [The Washington Post reported](https://www.washingtonpost.com/national-security/2025/04/30/jennifer-hegseth-pentagon-trump/):
 
 > _[Jennifer Hegseth](https://www.linkedin.com/in/jennifer-hegseth-190b7890/) on multiple occasions has informed her husband’s staff of media interviews he planned to do, underscoring a belief among some officials that she wields outsize influence over certain [Pentagon](https://www.defense.gov/) operations. Typically, such responsibilities fall to dedicated media-engagement professionals employed by the [Defense](https://www.defense.gov/) Department, not the secretary’s wife._
-> 
+>
 > _She met with potential political appointees as the [Trump](https://www.donaldjtrump.com/) [administration](https://www.whitehouse.gov/administration/) scrutinized people for positions at the [Pentagon](https://www.defense.gov/), two people familiar with the issue said. The role effectively had her conducting job interviews, they said._
 
 What’s more, she also serves as [a senior adviser](https://www.americafirstpolicy.com/issues/afpi-leaders-jennifer-hegseth-and-christie-mullin-appointed-to-military-spouse-commission) to the [America First Policy Institute](https://www.americafirstpolicy.com/), [a Trump-oriented think tank](https://www.ms.now/rachel-maddow-show/maddowblog/why-world-would-team-trump-need-policy-institute-n1264039) created five years ago.

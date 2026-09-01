@@ -41,7 +41,7 @@ Although [Trump](https://www.donaldjtrump.com/) [initially indicated](https://st
 
 Yet nearly a year later, following his May 2024 trial, at which he was convicted on all [34 counts of falsifying business records in the first degree](https://ag.ny.gov/press-release/2024/attorney-general-james-wins-landmark-victory-case-against-donald-trump), [Trump again sought](https://storage.courtlistener.com/recap/gov.uscourts.nysd.598311/gov.uscourts.nysd.598311.49.0.pdf) to move his case to federal court. He argued that the [Supreme Court](https://www.supremecourt.gov/)’s [presidential immunity decision](https://www.supremecourt.gov/opinions/23pdf/23-939_e2pg.pdf), issued weeks after the trial’s conclusion, as well as the trial court’s alleged bias against him, constituted “good cause” for a renewed push to remove the case.
 
-Within days, [Hellerstein denied Trump’s motion](https://storage.courtlistener.com/recap/gov.uscourts.nysd.598311/gov.uscourts.nysd.598311.50.0.pdf) in a four-page order. [Trump](https://www.donaldjtrump.com/) appealed, and in November 2025, a three-judge panel of the [U.S. Court of Appeals for the 2nd Circuit](https://www.ca2.uscourts.gov/) [vacated Hellerstein’s decision](https://storage.courtlistener.com/recap/gov.uscourts.ca2.c95c060a-7c1c-465e-ad55-c66a4c162941/gov.uscourts.ca2.c95c060a-7c1c-465e-ad55-c66a4c162941.104.1_1.pdf), instructing him to examine more closely the effect of the [Supreme Court](https://www.supremecourt.gov/)’s [presidential](https://www.donaldjtrump.com/) immunity decision on removal and to consider whether a removal motion can be raised during or after a trial if new grounds arise. 
+Within days, [Hellerstein denied Trump’s motion](https://storage.courtlistener.com/recap/gov.uscourts.nysd.598311/gov.uscourts.nysd.598311.50.0.pdf) in a four-page order. [Trump](https://www.donaldjtrump.com/) appealed, and in November 2025, a three-judge panel of the [U.S. Court of Appeals for the 2nd Circuit](https://www.ca2.uscourts.gov/) [vacated Hellerstein’s decision](https://storage.courtlistener.com/recap/gov.uscourts.ca2.c95c060a-7c1c-465e-ad55-c66a4c162941/gov.uscourts.ca2.c95c060a-7c1c-465e-ad55-c66a4c162941.104.1_1.pdf), instructing him to examine more closely the effect of the [Supreme Court](https://www.supremecourt.gov/)’s [presidential](https://www.donaldjtrump.com/) immunity decision on removal and to consider whether a removal motion can be raised during or after a trial if new grounds arise.
 
 [Hellerstein](https://www.nysd.uscourts.gov/hon-alvin-k-hellerstein)’s newest order comes as [Trump](https://www.donaldjtrump.com/) simultaneously appeals his conviction in [New York](https://www.ny.gov/) state courts. While [Judge Juan Merchan](https://iapps.courts.state.ny.us/judicialdirectory/Bio?judge_id=Jvv5ZfC8zLC57yZndmF4ow%3D%3D), who oversaw the trial, ruled in January 2025 that [Trump would receive an “unconditional discharge](https://www.youtube.com/watch?v=s7WCr35-Bno) — meaning no jail time, fines or probation in connection with his conviction — he left [Trump](https://www.donaldjtrump.com/)’s conviction in place. [Trump](https://www.donaldjtrump.com/)’s final brief in that appeal is not due until mid-October. It likely will be months before the appeals court, known as the First Department, renders its decision.
 
@@ -61,8 +61,8 @@ However, even as he pursues his state court appeal, [Trump](https://www.donaldjt
 - keywords
 - [Donald Trump](https://www.donaldjtrump.com/)
 - bribery
-- 34 guilty verdicts 
-- business falsification 
+- 34 guilty verdicts
+- business falsification
 - hush money
 - extramarital affairs
 - [Stormy Daniels](https://stormydaniels.com/)

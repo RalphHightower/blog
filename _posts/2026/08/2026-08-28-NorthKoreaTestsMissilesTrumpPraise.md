@@ -13,7 +13,7 @@ title: "Trump’s Pen Pal, Kim Jong Un, Tests Ballistic Missiles After Trump Pra
 
 ## [North Korea launches ballistic missiles after Trump praises Kim Jong Un](https://www.ms.now/news/north-korea-launches-ballistic-missiles-trump-kim-jong-un-well-behaved)
 
-_News of the missiles comes after [President](https://www.whitehouse.gov/) [Donald Trump](https://www.donaldjtrump.com/) announced plans to meet with the [North Korea](http://www.naenara.com.kp/)n leader._ 
+_News of the missiles comes after [President](https://www.whitehouse.gov/) [Donald Trump](https://www.donaldjtrump.com/) announced plans to meet with the [North Korea](http://www.naenara.com.kp/)n leader._
 
 By [Erum Salam](https://www.ms.now/author/erum-salam)
 
@@ -79,7 +79,7 @@ The [president](https://www.whitehouse.gov/) is expected to travel to [Asia](htt
 - political parties
 - [Democrat Party](https://www.democrats.org/)
 - [Trumpian Party](https://www.gop.com/)
-- geography 
+- geography
 - [Asia](https://en.wikipedia.org/wiki/Asia?wprov=sfla1)
 - foreign governments
 - [People's Republic of China (CN)](https://www.gov.cn/)
