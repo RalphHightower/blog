@@ -11,7 +11,7 @@ toc: false
 title: "Whistleblower Exposes Ridks/Dangers of Trump’s Latest Attempt to Suppress Mail-In Ballots"
 ---
 
-There is no way in hell that the **USPS Federal Ballot Mail Portal** can be developed, tested, implemented, and have election personnel trained on the system on time for the midterm elections. 
+The calendar is the enemy. There is no way in hell that the **USPS Federal Ballot Mail Portal** can be developed, tested, implemented, and have election personnel trained on the system on time for the midterm elections. 
 
 There are a number of points that [Frederick P. Brooks, Jr.](https://www.cs.unc.edu/~brooks/) made in his [The Mythical Man-Month: Essays on Software Engineering, Anniversary Edition](https://www.informit.com/store/mythical-man-month-essays-on-software-engineering-anniversary-9780201835953)
 
