@@ -117,7 +117,6 @@ The [Republicans](https://www.gop.com/) who are now frantically begging for a sl
 - [Senator](https://www.senate.gov/) [Texas](https://www.texas.gov/)
     - [James Talarico (D-TX)](https://www.jamestalarico.com/)
     - [Ken Paxton (T-TX)](https://kenpaxton.com/)
-    - 
 - [Wisconsin (WI)](https://www.wisconsin.gov/) governor 
     - [Joel Brennan / LinkedIn](https://www.linkedin.com/in/joel-brennan-7554276/)
 - state, local governments
