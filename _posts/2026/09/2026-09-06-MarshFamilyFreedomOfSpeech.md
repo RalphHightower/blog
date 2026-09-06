@@ -10,7 +10,7 @@ excerpt: ''
 toc: false
 title: "The Marsh Family Defend “Freedom of Speech”"
 ---
-"Freedom of Speech"
+
 ## "Freedom of Speech" - Marsh Family parody of "Under the Sea" from Disney's "The Little Mermaid"
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DyoYRN8cc-g?si=m6q9wcUkDV-D3nUz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
