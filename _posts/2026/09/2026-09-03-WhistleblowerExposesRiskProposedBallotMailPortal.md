@@ -11,7 +11,7 @@ toc: false
 title: "Whistleblower Exposes Ridks/Dangers of Trump’s Latest Attempt to Suppress Mail-In Ballots"
 ---
 
-The calendar is the enemy. There is no way in hell that the **USPS Federal Ballot Mail Portal** can be developed, tested, implemented, and have election personnel trained on the system on time for the midterm elections. 
+The calendar is the enemy. There is no way in hell that the **USPS Federal Ballot Mail Portal** can be developed, tested, implemented, and have election personnel trained on the system on time for the midterm elections.
 
 There are a number of points that [Frederick P. Brooks, Jr.](https://www.cs.unc.edu/~brooks/) made in his [The Mythical Man-Month: Essays on Software Engineering, Anniversary Edition](https://www.informit.com/store/mythical-man-month-essays-on-software-engineering-anniversary-9780201835953)
 
@@ -74,7 +74,7 @@ The first mail ballots that could test this new system may be from [North Caroli
 - [Donald Trump](https://www.donaldjtrump.com/)
 - [President Donald Trump (47)](https://www.whitehouse.gov/administration/donald-j-trump/)
 - [Ensuring Citizenship Verification and Integrity in Federal Elections – The White House](https://www.whitehouse.gov/presidential-actions/2026/03/ensuring-citizenship-verification-and-integrity-in-federal-elections/). Executive Orders. March 31, 2026
-- whistleblower 
+- whistleblower
 - [Whistleblower Aid 501(c)(3)](https://whistlebloweraid.org/)
 - [US Postal Service (USPS)](https://www.usps.com/)
 - [Office of Inspector General OIG](https://www.uspsoig.gov/)

@@ -8,21 +8,21 @@ excerpt: ''
 #description:
 #permalink:
 toc: false
-title: "Trump Is Sitting On Top Of Money In His PACs That He Intends To Spend On Himself"
+title: "Trump Is Sitting On Mountains Of Cash In His PACs That He Intends To Spend On Himself"
 ---
 
 - 2026-09-04: [Trump Guards His Campaign PAC ‘Gold’ Like Smaug]({% link _posts/2026/09/2026-09-04-TrumpGuardsHisGoldLikeSmaug.md %})
 
 ## [Trump sits on $850 million as Republicans wait](https://www.ms.now/news/trump-maga-inc-midterms-republicans)
 
-[Senate](https://www.senate.gov/) races in reliably [Republican](https://www.gop.com/) [Texas](https://www.texas.gov/), [Alaska](https://alaska.gov/) and [Ohio](https://ohio.gov/) are competitive while the [president](https://www.whitehouse.gov/)’s war chest stays parked.
+_[Senate](https://www.senate.gov/) races in reliably [Republican](https://www.gop.com/) [Texas](https://www.texas.gov/), [Alaska](https://alaska.gov/) and [Ohio](https://ohio.gov/) are competitive while the [president](https://www.whitehouse.gov/)’s war chest stays parked._
 
-By 
+By
 [Vaughn Hillyard](https://www.ms.now/author/vaughn-hillyard), [Ali Vitali](https://www.ms.now/author/ali-vitali) and [Mychael Schnell](https://www.ms.now/author/mychael-schnell)
 
 Sept. 4, 2026, 4:58 PM EDT
 
-On the eve of a [Trumpified](https://www.donaldjtrump.com/) [midterm convention](https://www.gopconvention.com/) in [Dallas](https://dallascityhall.com/Pages/default.aspx), prominent [Republican](https://www.gop.com/) congressional members, allies and donors are now openly scrutinizing what [President](https://www.whitehouse.gov/) [Donald Trump](https://www.donaldjtrump.com/) intends to do with the roughly \$850 million his political operation has amassed but has yet to meaningfully spend, with Election Day now less than 60 days away. 
+On the eve of a [Trumpified](https://www.donaldjtrump.com/) [midterm convention](https://www.gopconvention.com/) in [Dallas](https://dallascityhall.com/Pages/default.aspx), prominent [Republican](https://www.gop.com/) congressional members, allies and donors are now openly scrutinizing what [President](https://www.whitehouse.gov/) [Donald Trump](https://www.donaldjtrump.com/) intends to do with the roughly \$850 million his political operation has amassed but has yet to meaningfully spend, with Election Day now less than 60 days away.
 
 [Trump](https://www.donaldjtrump.com/) and his political associates spent much of the past year telling [Republicans](https://www.gop.com/) to expect a substantial investment from [Trump](https://www.donaldjtrump.com/)’s super PAC, [MAGA Inc.](https://www.magapac.com/), according to multiple sources familiar with the conversations. So far, it has not materialized.
 
@@ -30,29 +30,29 @@ Two sources familiar with the group’s plans said [MAGA Inc.](https://www.magap
 
 While [MAGA Inc.](https://www.magapac.com/) has refused to preview its specific spending plans, an official with the group told [MS NOW](https://www.ms.now/) it intends to play in these races, and will do so soon. The official also said [MAGA Inc.](https://www.magapac.com/) has been in close contact with the [Congressional Leadership Fund](https://congressionalleadershipfund.org/) and [Senate Leadership Fund](https://senateleadershipfund.org/) — the super PACs designed to bolster [Republicans](https://www.gop.com/) in House and [Senate](https://www.senate.gov/) races, respectively — about helping [GOP](https://www.gop.com/) candidates in competitive campaigns.
 
-[America PAC](https://theamericapac.org/) did not respond to [MS NOW](https://www.ms.now/)’s multiple requests for interviews for this piece. 
+[America PAC](https://theamericapac.org/) did not respond to [MS NOW](https://www.ms.now/)’s multiple requests for interviews for this piece.
 
 Speaking from the [White House](https://www.whitehouse.gov/) on Friday, [Trump](https://www.donaldjtrump.com/) suggested that he has “around a billion dollars” to spend, and said he would spend up to \$500 million and that he is the one who controls spending by his political operation.
 
 “I do this, I do that. I’m going to be making contributions to various campaigns,” he said. “This is my money, that I control.”
 
-The [Trump](https://www.donaldjtrump.com/) operation’s money is believed to be split between two entities: more than \$400 million in [MAGA Inc.](https://www.magapac.com/), which can spend directly on races, and another \$450 million in a nonprofit arm, according to [Trump](https://www.donaldjtrump.com/), that can advocate on policy but not directly tout individual campaigns. 
+The [Trump](https://www.donaldjtrump.com/) operation’s money is believed to be split between two entities: more than \$400 million in [MAGA Inc.](https://www.magapac.com/), which can spend directly on races, and another \$450 million in a nonprofit arm, according to [Trump](https://www.donaldjtrump.com/), that can advocate on policy but not directly tout individual campaigns.
 
 One [GOP](https://www.gop.com/) source working on the midterm effort said the party would be stunned if [MAGA Inc.](https://www.magapac.com/) spent less than \$200 million on November’s races — a sum that would still amount to a fraction of the broader effort’s coffers.
 
 The [Republican](https://www.gop.com/) working on the midterm effort likened it to a sort of bait-and-switch on [Republican](https://www.gop.com/) campaigns that were led to expect money that has not arrived. “We’re three weeks away from mail voting in some states — it’s crazy,” said the individual, who was granted anonymity to speak candidly without facing retribution. “They’ve created such high expectations thumping their chest.”
 
-One vulnerable [House](https://www.house.gov/) [Republican](https://www.gop.com/) told [MS NOW](https://www.ms.now/) that [Trump](https://www.donaldjtrump.com/) and the political associates representing him made repeated commitments over the past 18 months that [MAGA Inc.](https://www.magapac.com/) would use its resources to defend their votes back home. 
+One vulnerable [House](https://www.house.gov/) [Republican](https://www.gop.com/) told [MS NOW](https://www.ms.now/) that [Trump](https://www.donaldjtrump.com/) and the political associates representing him made repeated commitments over the past 18 months that [MAGA Inc.](https://www.magapac.com/) would use its resources to defend their votes back home.
 
 “‘Don’t worry, you’re gonna have plenty of air cover. We’re gonna make sure messaging is out there,’” the [Republican](https://www.gop.com/) member said their [House](https://www.house.gov/) colleagues were told, particularly as they were asked to take politically difficult votes. “Commitments were made over the last year and a half that people would be helped, and they’re not showing up.”
 
 The member added, “And I think it makes people feel like they’ve given up on the idea of the majority, and they’re saving their money for something else.”
 
-Several [Republicans](https://www.gop.com/) told [MS NOW](https://www.ms.now/) a theory has taken hold among some in the party that the operation is saving its money, in part, to help cover future legal bills ahead of expected investigative inquiries by [Democrats](https://www.democrats.org/) in [Congress](https://www.congress.gov) next year. 
+Several [Republicans](https://www.gop.com/) told [MS NOW](https://www.ms.now/) a theory has taken hold among some in the party that the operation is saving its money, in part, to help cover future legal bills ahead of expected investigative inquiries by [Democrats](https://www.democrats.org/) in [Congress](https://www.congress.gov) next year.
 
 Asked specifically about concerns the group’s money will be used for legal expenses[^101], the [MAGA Inc.](https://www.magapac.com/) official dismissed the notion.
 
-[^101]: @RalphHightower: [Trump](https://www.donaldjtrump.com%) is going to hoard that money for himself. 
+[^101]: @RalphHightower: [Trump](https://www.donaldjtrump.com%) is going to hoard that money for himself.
 
 [Trump](https://www.donaldjtrump.com/)-aligned PACs have [already spent](https://www.ms.now/news/trump-legal-bills-pac-millions) more than \$100 million toward legal bills since 2023[^201].
 
@@ -60,7 +60,7 @@ Asked specifically about concerns the group’s money will be used for legal exp
 
 The [president](https://www.whitehouse.gov/) said Friday in the [Oval Office](https://www.whitehouse.gov/) that he could also use the money in 2028.
 
-“Talking to our friends in [Washington](https://dc.gov/), I’m told to not expect anything from [MAGA Inc.](https://www.magapac.com/), and I think the general consensus is that [congressional](https://www.congress.gov/) races should not expect to see much from [MAGA Inc.](https://www.magapac.com/),” said [Jason Cabel Roe](https://www.linkedin.com/in/jcroe/), a longtime [Michigan](https://www.michigan.gov/) [Republican](https://www.gop.com/) strategist who is currently advising [Rep.](https://www.house.gov/) [Tom Barrett (T-MI7)](https://barrett.house.gov/)’s campaign in the state’s swingy 7th District. 
+“Talking to our friends in [Washington](https://dc.gov/), I’m told to not expect anything from [MAGA Inc.](https://www.magapac.com/), and I think the general consensus is that [congressional](https://www.congress.gov/) races should not expect to see much from [MAGA Inc.](https://www.magapac.com/),” said [Jason Cabel Roe](https://www.linkedin.com/in/jcroe/), a longtime [Michigan](https://www.michigan.gov/) [Republican](https://www.gop.com/) strategist who is currently advising [Rep.](https://www.house.gov/) [Tom Barrett (T-MI7)](https://barrett.house.gov/)’s campaign in the state’s swingy 7th District.
 
 [Barrett](https://barrett.house.gov/) was among the [Republican](https://www.gop.com/) lawmakers who attended the [White House](https://www.whitehouse.gov/)’s [Rose Garden](https://georgewbush-whitehouse.archives.gov/history/grounds/garden/) dinner Wednesday night for vulnerable incumbents — but there were no financial commitments made to the attendees present, according to individuals familiar with the [House](https://www.house.gov/) members’ dinner.
 
@@ -70,7 +70,7 @@ While the [Senate](https://www.senate.gov/) map is a source of concern for the [
 
 It is not about currying favor with [Trump](https://www.donaldjtrump.com/), one member told [MS NOW](https://www.ms.now/) in recent days. It is about waiting for the support they were promised.
 
-Other [House](https://www.house.gov/) [Republicans](https://www.gop.com/), however, are not so sure [Trump](https://www.donaldjtrump.com/)’s cash will reach their coffers. 
+Other [House](https://www.house.gov/) [Republicans](https://www.gop.com/), however, are not so sure [Trump](https://www.donaldjtrump.com/)’s cash will reach their coffers.
 
 “We’re starting to see members get nervous, like, ‘They’re not going to do anything, they’re saving the money,’” the member said.
 
@@ -150,7 +150,7 @@ In July, [Republican](https://www.gop.com/) operatives familiar with [MAGA Inc.]
         - [Trumpian National Committee (TNC) chair](https://gop.com/about-our-party/rnc-leaders/)
 - political consultants
 - [Jason Cabel Roe / LinkedIn](https://www.linkedin.com/in/jcroe/)
-- candidates 
+- candidates
 - [Senator](https://www.senate.gov/) [Texas](https://www.texas.gov/)
     - [James Talarico (D-TX)](https://www.jamestalarico.com/)
     - [Ken Paxton (T-TX)](https://kenpaxton.com/)
