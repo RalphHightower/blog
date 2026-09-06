@@ -33,23 +33,23 @@ Veteran political strategist [Karl Rove](https://www.karlrove.com/) told [Faux N
 
 > **Despite sitting on a game-changing \$400 million war chest, [Trump](https://www.donaldjtrump.com/)’s super PACs haven’t distributed a dime to [Paxton](https://kenpaxton.com/) — or any other [Republican](https://www.gop.com/), for that matter.**
 
-[Trump](https://www.donaldjtrump.com/) has guarded his gold like [Smaug](https://www.youtube.com/embed/rPCPFqGh4SU?si=AtpqBqpUAPIg1MOh), and congressional [Republican](https://www.gop.com/) leaders are panicking that he may continue to [hoard all of that cash for himself](https://www.washingtonpost.com/politics/2026/09/03/trumps-super-pac-has-not-spent-key-midterm-races-gop-fears-he-never-will/) instead of sharing it with his party’s most vulnerable candidates. The only surprise here is that [Republicans](https://www.gop.com/) seem surprised by [Trump](https://www.donaldjtrump.com/)’s self-serving greed. [Trump](https://www.donaldjtrump.com/)’s entire public career has focused on soliciting staggering sums of money from megacorporations and the megarich for [unprecedented White House access and influence](https://www.nytimes.com/2025/08/02/us/politics/donor-list-suggests-scale-of-trumps-pay-for-access-operation.html). [Republicans](https://www.gop.com/) who sold their loyalty to [Trump](https://www.donaldjtrump.com/) in the hopes he’d share his cash are belatedly realizing that he doesn’t care about anyone’s future but his own and never has. 
+[Trump](https://www.donaldjtrump.com/) has guarded his gold like [Smaug](https://www.youtube.com/embed/rPCPFqGh4SU?si=AtpqBqpUAPIg1MOh), and congressional [Republican](https://www.gop.com/) leaders are panicking that he may continue to [hoard all of that cash for himself](https://www.washingtonpost.com/politics/2026/09/03/trumps-super-pac-has-not-spent-key-midterm-races-gop-fears-he-never-will/) instead of sharing it with his party’s most vulnerable candidates. The only surprise here is that [Republicans](https://www.gop.com/) seem surprised by [Trump](https://www.donaldjtrump.com/)’s self-serving greed. [Trump](https://www.donaldjtrump.com/)’s entire public career has focused on soliciting staggering sums of money from megacorporations and the megarich for [unprecedented White House access and influence](https://www.nytimes.com/2025/08/02/us/politics/donor-list-suggests-scale-of-trumps-pay-for-access-operation.html). [Republicans](https://www.gop.com/) who sold their loyalty to [Trump](https://www.donaldjtrump.com/) in the hopes he’d share his cash are belatedly realizing that he doesn’t care about anyone’s future but his own and never has.
 
 [Trump](https://www.donaldjtrump.com/)’s approach to political fundraising can best be summed up in a phrase his chief fundraising guru, [Meredith O’Rourke](https://www.nationalparks.org/about-foundation/national-council-and-board-of-directors/meredith-orourke), uses when calling corporations: “[The boss wants this money.](https://www.wsj.com/politics/policy/trump-donations-company-fundraising-1e34a78f)” The pet projects [Trump](https://www.donaldjtrump.com/) asks companies to fund make some [Republicans](https://www.gop.com/) fear that’s where his super PAC money might go. His [Miami](https://www.miami.gov/Home)-based [presidential library]() is expected to cost [more than \$1 billion](http://google.com/search?q=trumplibrary%241billion&sca_esv=daafaa10f68735e4&rlz=1C1GCEA_enUS1086US1086&sxsrf=APpeQnvYgbsVOFLScxcm8D8BRB_n007WLw%3A1788454501589&ei=ZaaZasvJI5rtptQPuL22wAI&biw=2560&bih=1271&ved=2ahUKEwiLkI6a8NKWAxWatokEHbieDSgQ4dUDegQIBhAM&uact=5&oq=trumplibrary%241billion&gs_lp=Egxnd3Mtd2l6LXNlcnAiGHRydW1wIGxpYnJhcnkgJDEgYmlsbGlvbkjHFlAAWLcVcAB4AZABAJgBbaAB5Q-qAQQyMy4xuAEDyAEA-AEBmAIQoAKUC8ICBBAjGCfCAg0QIxjwBRieBhiiBxgnwgIKEAAYgAQYigUYQ8ICCxAAGIAEGIoFGJECwgIREC4YgAQYigUYkQIYxwEYrwHCAhAQLhhDGIMBGLEDGIAEGIoFwgIREC4YgAQYigUYkQIYxwEY0QPCAgsQLhiRAhiABBiKBcICDRAjGKIHGJ4GGPAFGCfCAhAQLhgUGIMBGIcCGLEDGIAEwgILEC4YgAQYigUYkQLCAg0QABiABBgUGIcCGLEDwgIOEAAYgAQYigUYsQMYgwHCAggQABiABBixA8ICBBAuGAPCAgsQABiABBixAxiDAcICBBAAGAPCAg4QLhivARjHARiABBiOBcICBRAAGIAEwgIOEC4YgAQYxwEYrwEYjgXCAgoQABiABBgUGIcCwgIGEAAYFhgewgILEAAYgAQYigUYhgPCAggQABiABBiiBMICBRAAGO8FmAMAkgcEMTEuNaAHuqwBsgcEMTEuNbgHlAvCBwYwLjEuMTXIB1aACAE&sclient=gws-wiz-serp), which would make it, by far, the most expensive [presidential center]() in history. The [Washington Post](https://www.washingtonpost.com/) reported that [Trump](https://www.donaldjtrump.com/) might also use super PAC money to finance his postpresidential travel and events at his swanky [Mar-a-Lago club](https://www.maralagoclub.com/).
 
-Embattled [Republican](https://www.gop.com/) candidates got a sense of how [Trump](https://www.donaldjtrump.com/)  might spend some of that campaign cash this week. Super PAC [MAGA Inc.](https://www.magapac.com/) and pro-[Trump](https://www.donaldjtrump.com/) group [Securing American Greatness](https://amgreatness.com/) [bought \$1 million in airtime](https://www.cnn.com/2026/09/02/politics/trump-midterm-ad-spending) for campaign ads in major media markets including [New York](https://www.nyc.gov/); [Washington, D.C.](https://dc.gov/); and [Chicago](https://www.chicago.gov/), and those spots don’t mention any of the [GOP](https://www.gop.com/)’s at-risk [House](https://www.house.gov/) or [Senate](https://www.senate.gov/) candidates. A typical ad is the one titled “[Toughest Guy](https://host2.adimpact.com/admo/viewer/a33b44a7-9809-4bbc-8e38-20ef435fda42/),” which focuses on [Trump](https://www.donaldjtrump.com/)’s strength. 
+Embattled [Republican](https://www.gop.com/) candidates got a sense of how [Trump](https://www.donaldjtrump.com/)  might spend some of that campaign cash this week. Super PAC [MAGA Inc.](https://www.magapac.com/) and pro-[Trump](https://www.donaldjtrump.com/) group [Securing American Greatness](https://amgreatness.com/) [bought \$1 million in airtime](https://www.cnn.com/2026/09/02/politics/trump-midterm-ad-spending) for campaign ads in major media markets including [New York](https://www.nyc.gov/); [Washington, D.C.](https://dc.gov/); and [Chicago](https://www.chicago.gov/), and those spots don’t mention any of the [GOP](https://www.gop.com/)’s at-risk [House](https://www.house.gov/) or [Senate](https://www.senate.gov/) candidates. A typical ad is the one titled “[Toughest Guy](https://host2.adimpact.com/admo/viewer/a33b44a7-9809-4bbc-8e38-20ef435fda42/),” which focuses on [Trump](https://www.donaldjtrump.com/)’s strength.
 
 [Republican](https://www.gop.com/) strategists are scratching their heads over why [Trump](https://www.donaldjtrump.com/) would spend money in [New York City](https://www.nyc.gov/) and [Chicago](https://www.chicago.gov/) when so many swing-district races are trending against the [GOP](https://www.gop.com/), but [Trump](https://www.donaldjtrump.com/)’s logic is easy to deduce. The latest [UMass Amherst poll](https://www.amherstindy.org/2026/09/01/new-umass-amherst-poll-finds-trumps-approval-down-to-32/) put [Trump](https://www.donaldjtrump.com/)’s approval rating at a new low of just 32%, while an [Economist](https://www.economist.com/)/[YouGov](https://yougov.com/) survey found him [underwater with voters in 47 states](https://www.economist.com/interactive/trump-approval-tracker). [Trump](https://www.donaldjtrump.com/)’s fragile ego would never let such humiliating numbers go unchallenged, so the [MAGAverse](https://www.donaldjtrump.com/) is taking to the airwaves to boost the boss — even if that means hanging out to dry [Republicans](https://www.gop.com/) running for [Congress](https://www.congress.gov/).
 
 > [Republican](https://www.gop.com/) strategists are scratching their heads over why [Trump](https://www.donaldjtrump.com/) would spend money in [New York City](https://www.nyc.gov/) and [Chicago](https://www.chicago.gov/) when so many swing-district races are trending against the [GOP](https://www.gop.com/), but [Trump](https://www.donaldjtrump.com/)’s logic is easy to deduce.
 
-While [Trump](https://www.donaldjtrump.com/) sits, the clock ticks. [Democrats](https://www.democrats.org/) like [Wisconsin](https://www.wisconsin.gov/) gubernatorial candidate [Joel Brennan](https://www.linkedin.com/in/joel-brennan-7554276/) are [buying up ad space statewide](https://www.jsonline.com/story/news/politics/2026/06/09/democrat-joel-brennans-governor-campaign-launches-statewide-ad-buy/90462000007/?gnt-cfr=1&gca-cat=p&gca-uir=true&gca-epti=z11xx38p119550l003250c119550e1175xxv11xx38d--52--b--52--&gca-ft=195&gca-ds=sophi) ahead of the party’s planned late-campaign media blitz. Some [GOP](https://www.gop.com/) donors are worried that if [Trump](https://www.donaldjtrump.com/) doesn’t start spending within days, there will be precious little ad space left to buy during the final sprint to Election Day. 
+While [Trump](https://www.donaldjtrump.com/) sits, the clock ticks. [Democrats](https://www.democrats.org/) like [Wisconsin](https://www.wisconsin.gov/) gubernatorial candidate [Joel Brennan](https://www.linkedin.com/in/joel-brennan-7554276/) are [buying up ad space statewide](https://www.jsonline.com/story/news/politics/2026/06/09/democrat-joel-brennans-governor-campaign-launches-statewide-ad-buy/90462000007/?gnt-cfr=1&gca-cat=p&gca-uir=true&gca-epti=z11xx38p119550l003250c119550e1175xxv11xx38d--52--b--52--&gca-ft=195&gca-ds=sophi) ahead of the party’s planned late-campaign media blitz. Some [GOP](https://www.gop.com/) donors are worried that if [Trump](https://www.donaldjtrump.com/) doesn’t start spending within days, there will be precious little ad space left to buy during the final sprint to Election Day.
 
 “Our threat level should be up and people are going to have an expectation that you deploy all your resources,” one [GOP](https://www.gop.com/) donor recently [told Politico’s Alex Gangitano](https://www.politico.com/news/2026/09/01/maga-superpac-spending-republicans-01057871). “He’s sitting on hundreds of millions of dollars, not doing that. We’re in September.”
 
 “Oh my God, it’s September — this guy is not going to spend the money,” another [Trump](https://www.donaldjtrump.com/) fundraiser told [Gangitano](https://www.politico.com/staff/alex-gangitano).
 
-The [Republicans](https://www.gop.com/) who are now frantically begging for a slice of [Trump](https://www.donaldjtrump.com/)’s cash are in many cases the same ones who allowed him to create the parallel fundraising network starving their party. They assumed, wrongly, that [Trump](https://www.donaldjtrump.com/) would unleash a flood of cash if the party ever found itself in dire political straits. Instead, [Trump](https://www.donaldjtrump.com/) is counting his cash while the [Republican Party](https://www.gop.com/) burns around him. 
+The [Republicans](https://www.gop.com/) who are now frantically begging for a slice of [Trump](https://www.donaldjtrump.com/)’s cash are in many cases the same ones who allowed him to create the parallel fundraising network starving their party. They assumed, wrongly, that [Trump](https://www.donaldjtrump.com/) would unleash a flood of cash if the party ever found itself in dire political straits. Instead, [Trump](https://www.donaldjtrump.com/) is counting his cash while the [Republican Party](https://www.gop.com/) burns around him.
 
 [Trump](https://www.donaldjtrump.com/)’s unrivaled personal greed may lead his party into a historic electoral rout this November, but the donors who funneled \$400 million into his pocket should rest easy. With all that cash to spend, the [Mar-a-Lago](https://www.maralagoclub.com/) afterparty is certain to be spectacular.
 
@@ -77,15 +77,15 @@ The [Republicans](https://www.gop.com/) who are now frantically begging for a sl
 - [The Wall Street Journal (WSJ) - Breaking News, Business, Financial & Economic News, World News and Video](https://www.wsj.com/)
 - [YouGov US: Data Analytics & Market Research Services](https://yougov.com/en-us)
 - [The Texas Tribune](https://www.texastribune.org/)
-- villains 
+- villains
 - [Smaug](https://www.youtube.com/embed/rPCPFqGh4SU?si=AtpqBqpUAPIg1MOh)
 - keywords
 - [Donald Trump](https://www.donaldjtrump.com/)
 - [President Donald Trump (47)](https://www.whitehouse.gov/administration/donald-j-trump/)
 - gold
 - [Smaug](https://www.youtube.com/embed/rPCPFqGh4SU?si=AtpqBqpUAPIg1MOh)
-- money 
-- slush fund 
+- money
+- slush fund
 - political action committee (PAC)
 - [Trump](https://www.donaldjtrump.com/) criminal slush fund political action committee (PAC)
 - [MAGA Inc.](https://www.magapac.com/)
@@ -95,16 +95,16 @@ The [Republicans](https://www.gop.com/) who are now frantically begging for a sl
 - [Meredith O’Rourke](https://www.nationalparks.org/about-foundation/national-council-and-board-of-directors/meredith-orourke)
 - Trump criminal business
 - [Mar-a-Lago](https://www.maralagoclub.com/)
-- Trump gold enamored trailer park trash presidential library 
+- Trump gold enamored trailer park trash presidential library
 - [Donald J. Trump Presidential Library](https://www.trumplibrary.gov/)
-- [Texas (TX)](https://www.texas.gov/) [Senate](https://www.senate.gov/) candidates 
+- [Texas (TX)](https://www.texas.gov/) [Senate](https://www.senate.gov/) candidates
 - [James Talarico (D-TX)](https://www.jamestalarico.com/)
 - [Ken Paxton (T-TX)](https://kenpaxton.com/)
-- [Texas (TX)](https://www.texas.gov/) lame duck senator 
+- [Texas (TX)](https://www.texas.gov/) lame duck senator
 - [John Cornyn (T-TX)](https://www.cornyn.senate.gov/)
 - [Wisconsin (WI)](https://www.wisconsin.gov/) governor candidate
 - [Joel Brennan](https://www.linkedin.com/in/joel-brennan-7554276/)
-- [Texas (TX)](https://www.texas.gov/) lame duck attorney general 
+- [Texas (TX)](https://www.texas.gov/) lame duck attorney general
 - [Ken Paxton / Attorney General (T-TX)](https://www.texasattorneygeneral.gov/about-office)
 - political consultant
 - [Karl Rove](https://www.karlrove.com/)
@@ -118,11 +118,11 @@ The [Republicans](https://www.gop.com/) who are now frantically begging for a sl
 - political consultants
 - [Karl Rove / LinkedIn](https://www.linkedin.com/in/karlrove/)
 - [Karl Rove](https://www.karlrove.com/)
-- candidates 
+- candidates
 - [Senator](https://www.senate.gov/) [Texas](https://www.texas.gov/)
     - [James Talarico (D-TX)](https://www.jamestalarico.com/)
     - [Ken Paxton (T-TX)](https://kenpaxton.com/)
-- [Wisconsin (WI)](https://www.wisconsin.gov/) governor 
+- [Wisconsin (WI)](https://www.wisconsin.gov/) governor
     - [Joel Brennan / LinkedIn](https://www.linkedin.com/in/joel-brennan-7554276/)
 - state, local governments
 - [Illinois (IL)](https://www.illinois.gov/)
@@ -186,7 +186,7 @@ The [Republicans](https://www.gop.com/) who are now frantically begging for a sl
 - [American Greatness › Next Generation Conservatism](https://amgreatness.com/)
 - [Securing American Greatness](https://amgreatness.com/)
 - [MAGA Inc.](https://www.magapac.com/)
-- Trump criminal presidential library 
+- Trump criminal presidential library
 - [Donald J. Trump Presidential Library](https://www.trumplibrary.gov/)
 - criminal businesses
 [Mar-a-Lago](https://www.maralagoclub.com/)

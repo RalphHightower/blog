@@ -26,7 +26,7 @@ _From [California](https://www.ca.gov/)’s [Yosemite](https://www.nps.gov/yose/
 By [Jacob Soboroff](https://www.ms.now/author/jacob-soboroff) and [Amel Ahmed](https://www.ms.now/author/amel-ahmed)
 Sept. 1, 2026, 6:00 AM EDT
 
-This is an adapted excerpt from the [Aug. 29](https://www.ms.now/connect) episode of [“Connect with Jacob Soboroff.”](https://www.ms.now/connect) 
+This is an adapted excerpt from the [Aug. 29](https://www.ms.now/connect) episode of [“Connect with Jacob Soboroff.”](https://www.ms.now/connect)
 
 Last week, the public learned the [Trump](https;//www.donaldjtrump.com/) [administration](https://www.whitehouse.gov/administration/) reportedly has been quietly working out how to hand a piece of [Yosemite National Park](https://www.ms.now/the-briefing-with-jen-psaki/watch/report-trump-aims-to-give-piece-of-yosemite-to-private-developer-guess-who-benefits-2512526915971) — one of America’s great national treasures — to a private developer.
 
@@ -63,7 +63,7 @@ That “applicable law” still includes the [National Environmental Policy Act]
 
 It still includes the [National Historic Preservation Act,](https://www.achp.gov/digital-library-section-106-landing/national-historic-preservation-act), which requires the government to identify historic sites, consult the tribes connected to that land and avoid harm before digging.
 
-And now, the people who know the park service best, the agency charged with carrying out these laws, are sounding the alarm. The [Coalition to Protect America’s National Parks](https://protectnps.org/welcome/), whose membership includes more than 5,000 retired, former and current park service employees, filed formal comments in July. 
+And now, the people who know the park service best, the agency charged with carrying out these laws, are sounding the alarm. The [Coalition to Protect America’s National Parks](https://protectnps.org/welcome/), whose membership includes more than 5,000 retired, former and current park service employees, filed formal comments in July.
 
 Along with pointing to these laws, they flagged what the government is floating as so-called mitigation: surveying the sites, documenting them and archiving that documentation. In the group’s words, all that would do is “document destruction of a historic landscape and prehistoric archeological sites for the purposes of building and constructing a pathway for a comparatively small number of persons.”
 
@@ -132,7 +132,7 @@ Nov 6, 2018 You're watching the 2018 official lyric video for Joni Mitchell's cl
 - political parties
 - [Democrat Party](https://www.democrats.org/)
 - [Trumpian Party](https://www.gop.com/)
-- geography 
+- geography
 - [Grand Canyon](https://en.wikipedia.org/wiki/Grand_Canyon?wprov=sfla1)
 - [Moose-Wilson Road](https://en.wikipedia.org/wiki/Moose%E2%80%93Wilson_Road?wprov=sfla1)
 - [Sierra Nevada](https://en.wikipedia.org/wiki/Sierra_Nevada?wprov=sfla1)
