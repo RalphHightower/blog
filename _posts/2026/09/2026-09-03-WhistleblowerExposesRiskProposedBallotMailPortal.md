@@ -8,7 +8,7 @@ excerpt: ''
 #description:
 #permalink:
 toc: false
-title: "Whistleblower Exposes Ridks/Dangers of Trump’s Latest Attempt to Suppress Mail-In Ballots"
+title: "Whistleblower Exposes Risks/Dangers of Trump’s Latest Attempt to Suppress Mail-In Ballots"
 ---
 
 The calendar is the enemy. There is no way in hell that the **USPS Federal Ballot Mail Portal** can be developed, tested, implemented, and have election personnel trained on the system on time for the midterm elections.
