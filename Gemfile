@@ -41,8 +41,8 @@ gem 'sqlite-vss', '>= 0.1.2'
 gem 'sqlite3', '>= 1.4.4'
 
 gem 'addressable', '>= 2.9'
-# gem 'activerecord', '>= 7.2.3.2'
-gem 'activerecord', '>= 8.1.3.1'
+gem 'activerecord', '>= 7.2.3.2'
+# gem 'activerecord', '>= 8.1.3.1' # incompatible with jekyll_ai_related_posts
 gem 'activesupport', '>= 8.1.3.1'
 gem 'concurrent-ruby', '>= 1.3.8'
 gem 'faraday', '>= 2.14.3'
