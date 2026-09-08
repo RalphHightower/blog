@@ -34,16 +34,18 @@ gem 'jekyll-sitemap', '~> 1.4'
 gem 'jekyll-titles-from-headings', '>= 0.5.4'
 gem 'jekyll-toc', '~> 0.19.0'
 gem 'jemoji', '~> 0.13.0'
-gem 'jekyll-paginate-v2', '~> 3.0'
+gem 'jekyll-paginate-v2', '>= 3.0'
 
 gem 'jekyll_ai_related_posts', '~> 0.2.0'
 gem 'sqlite-vss', '>= 0.1.2'
-gem 'sqlite3', '>= 1.4.4'
+gem 'sqlite3', '>= 1.7.3'
+# gem 'sqlite3', '>= 1.4.4'
 
 gem 'addressable', '>= 2.9'
 gem 'activerecord', '>= 7.2.3.2'
 # gem 'activerecord', '>= 8.1.3.1' # incompatible with jekyll_ai_related_posts
-gem 'activesupport', '>= 8.1.3.1'
+gem 'activerecord', '>= 7.2.3.2'
+# gem 'activesupport', '>= 8.1.3.1' # incompatible with jekyll_ai_related_posts
 gem 'concurrent-ruby', '>= 1.3.8'
 gem 'faraday', '>= 2.14.3'
 gem 'json', '>= 2.21.2'
@@ -51,5 +53,6 @@ gem 'json', '>= 2.21.2'
 gem 'nokogiri', '>= 1.19.4'
 gem 'rexml', '>= 3.4.4'
 gem 'uri', '>= 1.1.1'
+gem 'zeitwerk', '>= 2.8.3'
 
 end
