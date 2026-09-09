@@ -79,7 +79,7 @@ The [Washington Post](https://www.washingtonpost.com/world/2026/08/27/us-interve
 I’m going to spend some time doomscrolling about if artificial intelligence has a [consciousness](https://www.nytimes.com/2026/08/31/science/ai-consciousness-agents-email.html) because from the [reports](https://www.nytimes.com/2026/09/03/technology/openai-hugging-face-hacking.html), it seems pretty clear that [many AI CEOs](https://www.axios.com/2026/09/04/astra-openai-how-ai-models-think) don’t [know](https://www.axios.com/2026/09/04/ai-dangers-risks-superintelligence) what’s [happening](https://www.reuters.com/world/europe/openai-agents-hijacked-german-website-previously-undisclosed-ai-breakout-this-2026-09-04/) with their own technology. But hey, that’s not stopping them from [rolling](https://openai.com/index/gpt-6-astra/) it out.
 
 [Charlie Herman](https://www.ms.now/author/charlie-herman) is coordinating producer for “Money, Power, Politics” on [MS NOW](https://www.ms.now/).
- 
+
 [Ryan Teague Beckwith](https://www.ms.now/author/ryan-teague-beckwith) is a newsletter editor for [MS NOW](https://www.ms.now/).
 
 ----
@@ -104,11 +104,11 @@ I’m going to spend some time doomscrolling about if artificial intelligence ha
 - [Donald Trump](https://www.donaldjtrump.com/)
 - [President Donald Trump (47)](https://www.whitehouse.gov/administration/donald-j-trump/)
 - socialism
-- government ownership public companies 
+- government ownership public companies
 - [Exxon Mobil Corporation / ExxonMobil](https://corporate.exxonmobil.com/)
 - [Energy Information Administration (EIA)](https://www.eia.gov/)
 - [Richard Nixon](https://www.nixonlibrary.gov/)
-- price controls 
+- price controls
 - wage controls
 - [Cato Institute](https://www.cato.org/)
 - [Council on Foreign Relations](https://www.cfr.org/)
@@ -122,14 +122,14 @@ I’m going to spend some time doomscrolling about if artificial intelligence ha
 - political parties
 - [Democrat Party](https://www.democrats.org/)
 - [Trumpian Party](https://www.gop.com/)
-- organizations 
+- organizations
 - [Cato Institute](https://www.cato.org/)
 - [Council on Foreign Relations](https://www.cfr.org/)
 - companies
 - [Exxon Mobil Corporation / ExxonMobil](https://corporate.exxonmobil.com/)
     - [Management Committee / ExxonMobil](https://corporate.exxonmobil.com/who-we-are/our-approach/management-committee)
 - [Marathon Petroleum Corporation - Providing Energy Solutions](https://www.marathonpetroleum.com/)
-- geography 
+- geography
 - [Strait of Hormuz](https://en.wikipedia.org/wiki/Strait_of_Hormuz?wprov=sfla1)
 - foreign governments
 - [Swiss Confederation (CH)](https://www.admin.ch/gov/)
