@@ -223,9 +223,9 @@ _Death deserves dignity. Legacy requires scrutiny._
 
 ##### My Dumb State: South Carolina
 
-- 2026-07-01 [My Dumb State: South Carolina Attorney General Alan Wilson Loses Battle to End Birthright Citizenship of the Fourteenth Amendment]({% link _posts/2026/07/2026-07-01-WilsonLoses14thAmendment.md %})
 - 2026-07-20 [My Dumb State: South Carolina Attorney General Alan Wilson Wants USPS Denial of Service of Mail-In Ballots – Supreme Court Appeal]({% link _posts/2026/07/2026-07-20-20260720-SCAGWilsonUSPSDenialOfService.md %})
 - 2026-07-07 [My Dumb State: South Carolina Attorney General Alan Wilson Wants USPS Denial of Service of Mail-In Ballots – USPS Letter]({% link _posts/2026/07/2026-07-07-20260707-SCAGAlanWilsonSupportsUSPSDenialOfService.md %})
+- 2026-07-01 [My Dumb State: South Carolina Attorney General Alan Wilson Loses Battle to End Birthright Citizenship of the Fourteenth Amendment]({% link _posts/2026/07/2026-07-01-WilsonLoses14thAmendment.md %})
 - 2026-07-01 [My Dumb State: South Carolina Attorney General Doesn't Like Supreme Court Ruling Of Mail-In Ballots Received Window]({% link _posts/2026/07/2026-07-01-WilsonLosesSupremeCourtMailInBallots.md %})
 - 2026-04-21: [My Dumb State: Wannabe Governor Engages Tribalism As Attorney General]({% link _posts/2026/04/2026-04-21-WannabeGovernorEngagesTribalismAsAttorneyGeneral.md %})
 - 2026-02-21: [My Dumb State: South Carolina Attorney General Alan Wilson Supports Trump Firing Federal Reserve Governor Without Merit Via Tweet]({% link _posts/2026/02/2026-02-21-SCAGSupportsFiringWOMerit.md %})
