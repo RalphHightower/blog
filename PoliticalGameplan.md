@@ -134,14 +134,6 @@ Class II terms run from the beginning of the 117th Congress on January 3, 2021, 
 
 Class III terms run from the beginning of the 118th Congress on January 3, 2023, to the end of the 120th Congress on January 3, 2029. Senators in Class III were elected to office in the November 2022 general election, unless they took their seat through appointment or special election.
 
-###### [Senator Darline Graham (T-SC)](https://www.dgraham.senate.gov/)
-
-Class II
-
-| Office Locations |
-|---|
-| SR-B33 Russell Senate Office Building<br />Washington, DC 20510<br />Phone: [202-224-5972](+12022245972) |
-
 ###### [Scott, Tim (T-SC)](https://www.scott.senate.gov/)
 
 Class III.
@@ -161,7 +153,15 @@ Yes, my assessment has racial overtones, but [Scott](https://www.scott.senate.go
 | **Low Country** |
 | 2500 City Hall Lane <br /> 3rd Floor Suite <br /> North Charleston, SC 29406 <br /> Phone: [\+1 (843) 727-4525](tel:+18437274525) <br /> Fax: [\+1 (855) 802-9355](tel:+18558029355) |
 
-###### [Graham, Lindsey (T-SC)](https://www.lgraham.senate.gov/)
+###### [Graham, Darline (T-SC)](https://www.dgraham.senate.gov/)
+
+Class II
+
+| Office Locations |
+|---|
+| SR-B33 Russell Senate Office Building<br />Washington, DC 20510<br />Phone: [\+1 (202) 224-5972](+12022245972) |
+
+###### ~~[Graham, Lindsey (T-SC)](https://www.lgraham.senate.gov/)~~
 
 1955-07-09 – 2026-07-11
 
@@ -177,6 +177,10 @@ _Death deserves dignity. Legacy requires scrutiny._
 - 2024-12-15: [Sen. Lindsey Graham (T-SC) States That Trump Won't Prosecute Political Enemies. Yea, Right!]({% link _posts/2024/12/2024-12-15-LindseyGraham20241215MTP.md %})
 - 2024-12-12: [MSNBC Morning Joe Panel Discusses Kash Patel as Trump's Pick for FBI Director]({% link _posts/2024/12/2024-12-12-LindseyGrahamSupportsPatek4FBI.md %})
 - 2024-10-20: [Bless His Heart – Senator Lindsey Graham (T-SC): Why Are You "Republicans" Supporting Harris?]({% link _posts/2024/10/2024-10-20-AnswerToTrumpersSupportingHarris.md %})
+
+**Sen. Lindsey Graham delivers "Count me out" remarks on Capitol breach—Jan 6, 2021**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3jA7pYlQcK0?si=R0B-MGimx4Fv6FfC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 #### President
 
@@ -220,6 +224,8 @@ _Death deserves dignity. Legacy requires scrutiny._
 ##### My Dumb State: South Carolina
 
 - 2026-07-01 [My Dumb State: South Carolina Attorney General Alan Wilson Loses Battle to End Birthright Citizenship of the Fourteenth Amendment]({% link _posts/2026/07/2026-07-01-WilsonLoses14thAmendment.md %})
+- 2026-07-20 [My Dumb State: South Carolina Attorney General Alan Wilson Wants USPS Denial of Service of Mail-In Ballots – Supreme Court Appeal]({% link _posts/2026/07/2026-07-20-20260720-SCAGWilsonUSPSDenialOfService.md %})
+- 2026-07-07 [My Dumb State: South Carolina Attorney General Alan Wilson Wants USPS Denial of Service of Mail-In Ballots – USPS Letter]({% link _posts/2026/07/2026-07-07-20260707-SCAGAlanWilsonSupportsUSPSDenialOfService.md %})
 - 2026-07-01 [My Dumb State: South Carolina Attorney General Doesn't Like Supreme Court Ruling Of Mail-In Ballots Received Window]({% link _posts/2026/07/2026-07-01-WilsonLosesSupremeCourtMailInBallots.md %})
 - 2026-04-21: [My Dumb State: Wannabe Governor Engages Tribalism As Attorney General]({% link _posts/2026/04/2026-04-21-WannabeGovernorEngagesTribalismAsAttorneyGeneral.md %})
 - 2026-02-21: [My Dumb State: South Carolina Attorney General Alan Wilson Supports Trump Firing Federal Reserve Governor Without Merit Via Tweet]({% link _posts/2026/02/2026-02-21-SCAGSupportsFiringWOMerit.md %})
