@@ -20,6 +20,11 @@ The telephone numbers below have called and there is an empty person on the othe
 
 | Telephone Number | Location | Date Time[^11]<sup>,</sup>[^12] | Caller | Social Media |
 |---|---|---|---|---|
+| [\+1 (803) 701-9535](tel:+18037019535) | SC. Clover | 2026-09-08 06:39 PM | — | |
+| [\+1 (803) 850-8118](tel:+18038508118) | SC. Fairfax | 2026-09-04 09:18 AM | DEBRA BARNES | |
+| [\+1 (803) 512-6933](tel:+18035126933) | SC Shaw AFB | 2026-09-01 07:39 PM | Shaw AFB | |
+| [\+1 (771) 222-1177](tel:+17712221177) | DC. Washington | 2026-08-28 09:55 AM | #TaxFraud (Outbound Call) | |
+| [\+1 (844) 384-0114](tel:+18443840114) | TF. Toll Free | 2026-08-28 09:55 AM | #TaxFraud (Inbound Call) | |
 | [\+1 (425) 368-3757](tel:+14253683757) | WA. Bothell | 2026-08-14 10:59 AM | Wells Fargo #PHISHING | |
 | [\+1 (833) 302-3302](tel:+18333023302) | TF. Toll Free | 2026-08-14 10:59 AM | Wells Fargo #PHISHING | |
 | [\+1 (803) 831-5814](tel:+18038315814) | SC. Clover | 2026-08-12 06:23 PM | JEANNETTE B SNEED | |
