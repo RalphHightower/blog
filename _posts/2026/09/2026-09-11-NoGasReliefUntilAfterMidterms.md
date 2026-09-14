@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [media,MS NOW - Breaking News and News Today / Latest News,“The Rachel Maddow Show”,MaddowBlog,Rachel Maddow,Steve Benen,The New York Times (NYT) - Breaking News US News World News and Videos,Roll Call,keywords,2026-11-03 midterms,Donald Trump,President Donald Trump (47),Iran war,Islamic Republic of Iran (IR),Strait of Hormuz,American Automobile Association (AAA),fuel prices,gasoline,diesel,events,2026-11-03 midterms,Strait of Hormuz,Islamic Republic of Iran (IR),political parties,Democrat Party,Trumpian Party,companies,Best Insurance Roadside Assistance Travel & More / AAA,geography,Strait of Hormuz,foreign governments,Islamic Republic of Iran (IR),federal government,Constitution of the United States,Supreme Court of the United States (SCOTUS),US Courts,Department of Justice (DOJ),Federal Bureau of Investigation (FBI),Federal Reserve,Federal Reserve Board - Federal Reserve Act,U.S. Department of the Treasury,Department of Defense (DOD),Department of State (DOS),Congress,Senate,House of Representatives,President of the United States (POTUS),White House (WH),Trump autocracy,Donald J Trump,President Donald Trump (45),President Donald Trump (47),President Trump (47) Administration,President Trump (47) Cabinet,Vice President JD Vance,JD Vance / LinkedIn,Susie Wiles,press secretary,Karoline Leavitt,Scott Bessent / U.S. Department of the Treasury,Todd Blanche – Office of the Attorney General / Meet the Attorney General / United States Department of Justice,Todd Blanche / LinkedIn,Director Kash Patel — FBI,Secretary Pete Hegseth,Pete Hegseth / LinkedIn,Marco Rubio - United States Department of State,Marco Rubio,grifter,self-dealing,corruption,con artist,crime,cryptocurrency,criminal associates,criminal businesses,criminal media,criminal organizations,criminal partners]
+tags: [media,MS NOW - Breaking News and News Today / Latest News,“The Rachel Maddow Show”,MaddowBlog,Rachel Maddow,Steve Benen,The New York Times (NYT) - Breaking News US News World News and Videos,Roll Call,keywords,2026-11-03 midterms,Donald Trump,President Donald Trump (47),Iran war,Islamic Republic of Iran (IR),Strait of Hormuz,American Automobile Association (AAA),fuel prices,gasoline,diesel,events,2026-11-03 midterms,Strait of Hormuz,Islamic Republic of Iran (IR),political parties,Democrat Party,Trumpian Party,companies,American Automobile Association (AAA),geography,Strait of Hormuz,foreign governments,Islamic Republic of Iran (IR),federal government,Constitution of the United States,Supreme Court of the United States (SCOTUS),US Courts,Department of Justice (DOJ),Federal Bureau of Investigation (FBI),Federal Reserve,Federal Reserve Board - Federal Reserve Act,U.S. Department of the Treasury,Department of Defense (DOD),Department of State (DOS),Congress,Senate,House of Representatives,President of the United States (POTUS),White House (WH),Trump autocracy,Donald J Trump,President Donald Trump (45),President Donald Trump (47),President Trump (47) Administration,President Trump (47) Cabinet,Vice President JD Vance,JD Vance / LinkedIn,Susie Wiles,press secretary,Karoline Leavitt,Scott Bessent / U.S. Department of the Treasury,Todd Blanche – Office of the Attorney General / Meet the Attorney General / United States Department of Justice,Todd Blanche / LinkedIn,Director Kash Patel — FBI,Secretary Pete Hegseth,Pete Hegseth / LinkedIn,Marco Rubio - United States Department of State,Marco Rubio,grifter,self-dealing,corruption,con artist,crime,cryptocurrency,criminal associates,criminal businesses,criminal media,criminal organizations,criminal partners]
 categories: [2026-11-03 midterms,Donald Trump,President Donald Trump (47),Iran war,Islamic Republic of Iran (IR),Strait of Hormuz,American Automobile Association (AAA),fuel prices,gasoline,diesel]
 date: 2026-09-11 13:16
 excerpt: ''
@@ -44,7 +44,7 @@ But which is it? Is [Iran](https://irangov.ir/) a defeated force or not? Do we c
 ----
 - media
 - [MS NOW - Breaking News and News Today / Latest News](https://www.ms.now/)
-    - ["The Rachel Maddow Show,"](https://www.ms.now/rachel-maddow-show)
+    - ["The Rachel Maddow Show"](https://www.ms.now/rachel-maddow-show)
         - [MaddowBlog](https://www.ms.now/maddowblog)
             - [Rachel Maddow](https://www.ms.now/rachel-maddow-show/rachel-maddow-biography-n1157621)
                 - [Steve Benen](https://www.ms.now/author/steve-benen)
@@ -69,7 +69,7 @@ But which is it? Is [Iran](https://irangov.ir/) a defeated force or not? Do we c
 - [Democrat Party](https://www.democrats.org/)
 - [Trumpian Party](https://www.gop.com/)
 - companies
-- [Best Insurance, Roadside Assistance, Travel & More / AAA](https://www.aaa.com/)
+- [American Automobile Association (AAA)](https://www.aaa.com/)
 - geography 
 - [Strait of Hormuz](https://en.wikipedia.org/wiki/Strait_of_Hormuz?wprov=sfla1)
 - foreign governments
