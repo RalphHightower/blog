@@ -123,6 +123,7 @@ This post updates our [related earlier coverage](https://www.ms.now/rachel-maddo
                 - [Pete Hegseth / LinkedIn](https://www.linkedin.com/in/petehegseth/)
                 - [Marco Rubio - United States Department of State](https://www.state.gov/biographies/marco-rubio/)
                 - [Marco Rubio](https://www.linkedin.com/in/marcorubio16/)
+- [Further Ensuring Affordable Beef for the American Consumer – The White House](https://www.whitehouse.gov/presidential-actions/2026/08/further-ensuring-affordable-beef-for-the-american-consumer/?). Proclamations. August 26, 2026
 {% if tags contains "weaponization" or categories contains "weaponization" %}
   {% include TrumpWeaponization.html %}
 {% endif %}

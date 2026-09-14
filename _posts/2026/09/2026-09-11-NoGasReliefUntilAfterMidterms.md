@@ -44,7 +44,7 @@ But which is it? Is [Iran](https://irangov.ir/) a defeated force or not? Do we c
 ----
 - media
 - [MS NOW - Breaking News and News Today / Latest News](https://www.ms.now/)
-    - ["The Rachel Maddow Show,"](https://www.ms.now/rachel-maddow-show)
+    - ["The Rachel Maddow Show"](https://www.ms.now/rachel-maddow-show)
         - [MaddowBlog](https://www.ms.now/maddowblog)
             - [Rachel Maddow](https://www.ms.now/rachel-maddow-show/rachel-maddow-biography-n1157621)
                 - [Steve Benen](https://www.ms.now/author/steve-benen)
@@ -69,7 +69,7 @@ But which is it? Is [Iran](https://irangov.ir/) a defeated force or not? Do we c
 - [Democrat Party](https://www.democrats.org/)
 - [Trumpian Party](https://www.gop.com/)
 - companies
-- [Best Insurance, Roadside Assistance, Travel & More / AAA](https://www.aaa.com/)
+- [American Automobile Association (AAA)](https://www.aaa.com/)
 - geography 
 - [Strait of Hormuz](https://en.wikipedia.org/wiki/Strait_of_Hormuz?wprov=sfla1)
 - foreign governments
