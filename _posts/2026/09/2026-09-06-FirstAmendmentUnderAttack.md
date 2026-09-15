@@ -7,7 +7,7 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-toc: false
+toc: true
 title: "The First Amendment Is Under Attack From Donald Trump"
 ---
 

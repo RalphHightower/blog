@@ -7,7 +7,7 @@ excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-toc: false
+toc: true
 title: "Diesel Is Over $6 per Gallon. Expect Higher Groceries, Surcharges On Shipping From Amazon, FedEx,  UPS!"
 ---
 
