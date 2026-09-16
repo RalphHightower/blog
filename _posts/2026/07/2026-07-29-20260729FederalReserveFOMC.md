@@ -15,7 +15,7 @@ title: "2026-07-29: Federal Reserve Issues Federal Open Market Committee (FOMC) 
 
 July 29, 2026
 
-[Federal Reserve](https://www.federalreserve.gov/) issues [FOMC](https://www.federalreserve.gov/monetarypolicy/fomc.htm) statement
+[Federal Reserve](https://www.federalreserve.gov/)  issues [FOMC](https://www.federalreserve.gov/monetarypolicy/fomc.htm) statement
 For release at 2:00 p.m. EDT
 
 The [Federal Open Market Committee](https://www.federalreserve.gov/monetarypolicy/fomc.htm) approved the following statement for release by a 9 – 3 vote:
@@ -26,7 +26,7 @@ Economic activity is expanding at a solid pace despite elevated uncertainty that
 
 Inflation remains elevated relative to the [Committee](https://www.federalreserve.gov/monetarypolicy/fomc.htm)'s 2 percent goal, in part reflecting supply shocks that have driven price increases in certain sectors, including energy. The [Committee](https://www.federalreserve.gov/monetarypolicy/fomc.htm) will deliver price stability.
 
-Voting against the monetary policy action were [Beth M. Hammack](), [Neel Kashkari](), and [Lorie K. Logan](), who preferred to raise the target range for the federal funds rate by 1/4 percentage point at this meeting.
+Voting against the monetary policy action were [Beth M. Hammack](https://www.clevelandfed.org/people/profiles/h/hammack-beth-m), [Neel Kashkari](https://www.minneapolisfed.org/people/neel-kashkari), and [Lorie K. Logan](https://www.dallasfed.org/fed/leadership/logan), who preferred to raise the target range for the federal funds rate by 1/4 percentage point at this meeting.
 
 For media inquiries, please email [media@frb.gov](mailto:media@frb.gov) or call [202-452-2955](tel:+12024522955).
 
@@ -49,7 +49,7 @@ The [Federal Reserve](https://www.federalreserve.gov/) has made the following de
 
     - Undertake open market operations as necessary to maintain the federal funds rate in a target range of 3-1/2 to 3‑3/4 percent.
     - Conduct standing overnight repurchase agreement operations at a rate of 3.75 percent.
-    - Conduct standing overnight reverse repurchase agreement operations at an offering rate of 3.5 percent and with a per-counterparty limit of $160 billion per day.
+    - Conduct standing overnight reverse repurchase agreement operations at an offering rate of 3.5 percent and with a per-counterparty limit of \$160 billion per day.
     - When appropriate, increase the [System Open Market Account](https://www.federalreserve.gov/monetarypolicy/bst_openmarketops.htm) holdings of securities through purchases of [Treasury](https://home.treasury.gov/) bills and, if needed, other [Treasury](https://home.treasury.gov/) securities with remaining maturities of 3 years or less to maintain an ample level of reserves.
     - Roll over at auction all principal payments from the [Federal Reserve](https://www.federalreserve.gov/)'s holdings of [Treasury](https://home.treasury.gov/) securities. Reinvest all principal payments from the [Federal Reserve](https://www.federalreserve.gov/)'s holdings of agency securities into Treasury bills."
     - In a related action, the [Board of Governors](https://www.federalreserve.gov/aboutthefed/bios/board/default.htm) of the [Federal Reserve System](https://www.federalreserve.gov/) voted unanimously to approve the establishment of the primary credit rate at the existing level of 3.75 percent.
