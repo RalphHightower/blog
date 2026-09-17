@@ -13,7 +13,7 @@ title: "2026-09-16: Federal Reserve Issues Federal Open Market Committee (FOMC) 
 
 September 16, 2026
 
-[Federal Reserve](https://www.federalreserve.gov/) issues [FOMC](https://www.federalreserve.gov/monetarypolicy/fomc.htm) statement
+## [Federal Reserve](https://www.federalreserve.gov/) issues [FOMC](https://www.federalreserve.gov/monetarypolicy/fomc.htm) statement
 For release at 2:00 p.m. EDT
 
 Share
@@ -33,7 +33,7 @@ Last Update: September 16, 2026
 
 September 16, 2026
 
-Implementation Note issued September 16, 2026
+## Implementation Note issued September 16, 2026
 Decisions Regarding Monetary Policy Implementation
 
 The [Federal Reserve](https://www.federalreserve.gov/) has made the following decisions to implement the monetary policy stance announced by the [Federal Open Market Committee](https://www.federalreserve.gov/monetarypolicy/fomc.htm) in its [statement](https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm) on September 16, 2026:
