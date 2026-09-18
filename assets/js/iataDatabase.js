@@ -51,7 +51,7 @@ const iataDatabase = {
     MMU: { name: "Morristown Municipal Airport", link: "https://www.mmuair.com/", lat: 0.712085, lon: 1.298787 }, //, 40°47′58″N, 074°24′54″W
     MTC: { name: "Selfridge Air National Guard Base", link: "https://www.127wg.ang.af.mil/", lat: 0.743656, lon: 1.445753 }, //, 42°36′30″N, 082°50′08″W
     MYR: { name: "Myrtle Beach International Airport", link: "https://www.flymyrtlebeach.com/", lat:  0.583022001, lon:  1.371029431 }, //, 33°40′47″N, 078°55′42″W
-    ORY: { name: "Aéroport Paris-Orly - Paris Aéroport", link: "https://www.parisaeroport.fr/en/passengers/orly-airport", lat: 0.845304845, lon: 0.038826595 }, //, 48°43′24″N, 02°22′46″E
+    ORY: { name: "Aéroport Paris-Orly - Paris Aéroport", link: "https://www.parisaeroport.fr/en/passengers/orly-airport", lat: 0.845304845, lon: 0.038826595 }, //, 48°43'24"N, 02°22'46"E
     PBI: { name: "Palm Beach International Airport", link: "https://www.pbia.org/", lat: 0.465707, lon: 1.397931 }, //, 26°40′59″N, 80°05′44″W
     DJT: { name: "President Donald J. Trump International Airport", link: "https://flydjt.org/", lat: 0.465707, lon: 1.397931 }, //, 26°40′59″N, 80°05′44″W
     PEB: { name: "Teterboro Airport", link: "https://www.panynj.gov/airports/en/teterboro.html", lat: 0.712967, lon: 1.292605 }, //, 40°51′00″N, 074°03′39″W
@@ -59,7 +59,7 @@ const iataDatabase = {
     PIK: { name: "Glasgow Prestwick Airport", link: "https://www.glasgowprestwick.com/", lat: 0.968823, lon: 0.080188 }, //, 55°30′34″N, 004°35′40″W
     PIT: { name: "Pittsburgh International Airport", link: "https://flypittsburgh.com/", lat: 0.706789, lon: 1.400557 }, //, 40.496°N, 80.246°W
     POB: { name: "Pope Field", link: "https://www.pope.af.mil/", lat: 0.613847, lon: 1.379062 }, //, 35°10′15″N, 79°00′52″W
-    PTK: { name: "Oakland County International Airport", link: "https://www.oakgov.com/community/airports/oakland-county-international-airport", lat:  0.739413974, lon:  1.453009292 }, //, 42°39′56″N, 083°25′13″W
+    PTK: { name: "Oakland County International Airport", link: "https://www.oakgov.com/community/airports/oakland-county-international-airport", lat:  0.739413974, lon:  1.453009292 }, //, 42°39'56"N, 083°25'13"W
     PUS: { name: "Gimhae International Airport", link: "https://gimhaeairport.com/", lat: 0.613997, lon: 2.250398 }, //, 35°10′46″N, 128°56′18″E
     RCA: { name: "Ellsworth Air Force Base", link: "https://www.ellsworth.af.mil/", lat:  0.769423165, lon:  1.798432640 }, //, 44°08′47″N, 103°04′29″W
     RDG: { name: "Reading Regional Airport", link: "https://readingairport.org/", lat: 0.702046474, lon: 1.319041309 }, //, 40°22′43″N, 075°57′55″W
