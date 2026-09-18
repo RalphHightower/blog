@@ -160,19 +160,18 @@ function trumpGPS(date) { // 1
                 } // 3
             break;
         } // 2
-    } // 1
 
     showElement("golf");
     hideElement("burn");
-    if (isMarALagoOpen(date)) {
+    if (isMarALagoOpen(date)) { // 2
         showElement('golf-winter');
         hideElement('golf-summer');
-        }
-    else {
+        } // 2
+    else { // 2
         showElement('golf-summer');
         hideElement('golf-winter');
-        }
-    }
+        } // 2
+    } // 1
 
 function isMarALagoOpen(today) {
     dateToday = new Date(today);
