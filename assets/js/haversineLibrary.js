@@ -1,5 +1,5 @@
 function haversineMiles(lat1, lon1, lat2, lon2) {
-  const toRad = deg => deg * Math.PI / 180;
+  // const toRad = deg => deg * Math.PI / 180;
 
   const φ1 = toRad(lat1);
   const φ2 = toRad(lat2);
@@ -35,7 +35,7 @@ for (const leg of day) {
 
 console.log(total);
 function haversineMiles(lat1, lon1, lat2, lon2) {
-  const toRad = deg => deg * Math.PI / 180;
+  // const toRad = deg => deg * Math.PI / 180;
 
   const φ1 = toRad(lat1);
   const φ2 = toRad(lat2);
