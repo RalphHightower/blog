@@ -8,7 +8,7 @@ excerpt: ''
 #description:
 #permalink:
 toc: false
-title: When It Comes to Reporting He Doesn't Like, Trump is the Bully Stealing Lunch Money From That 
+title: "When It Comes to Reporting He Doesn't Like, Trump is the Bully Stealing Lunch Money. It Never Stops!" 
 ---
 
 ## A Moment of Constitutional Clarity for America’s Media
