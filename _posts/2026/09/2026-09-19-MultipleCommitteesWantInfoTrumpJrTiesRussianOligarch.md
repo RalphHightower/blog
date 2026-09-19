@@ -1,0 +1,191 @@
+---
+layout: post
+tags: [media,MS NOW Breaking News and News Today / Latest News,David Rohde,Ebony Davis,Marc Polymeropoulos,Faux News Breaking News Updates / Latest News Headlines / Photos & News Videos,ProPublica — Investigative Journalism and News in the Public Interest,Wikipedia,keywords,2026-05-21 DJ & Bettina Trump wedding,Bettina Trump / LinkedIn,Donald Trump Jr. / LinkedIn,Commonwealth of The Bahamas (BS),Russian Oligarch lavish gift to honeymoon Trump newly weds,Umar Kremlev,PJSC Gazprom,investigations,Richard Blumenthal (D-CT),Jim Himes (D-CT4),Robert Garcia (D-CA42),U.S. House of Representatives Permanent Select Committee on Intelligence Democrats,Permanent Select Committee on Intelligence,House Oversight Committee,Senate Judiciary Committee,Central Intelligence Agency (CIA),Federal Bureau of Investigation (FBI),Trump crime family,Bettina Trump / LinkedIn,Donald Trump Jr. / LinkedIn,Donald Trump Jr. / LinkedIn,Bettina Trump / LinkedIn,Donald Trump,PJSC Gazprom,Donald Trump Jr. Official Biography,Eric Trump / LinkedIn,Eric Trump Official Biography,Lara Trump Host of My View with Lara Trump / Fox News,Barron Trump,Ivanka Trump,Kai Trump,Melania Trump,Michael Boulos,Tiffany Trump,Director Kash Patel — FBI,Senate,President Donald Trump (47),Umar Kremlev,PJSC Gazprom,Vladimir Putin,Russian Federation (RU),organizations,The Pulitzer Prizes,events,2026-05-21 DJ & Bettina Trump wedding,political parties,Democrat Party,Trumpian Party,universities,companies,geography,foreign governments,Commonwealth of The Bahamas (BS),Russian Federation (RU),Vladimir Putin,PJSC Gazprom,Umar Kremlev,state local governments,federal government,Constitution of the United States,Supreme Court of the United States (SCOTUS),US Courts,Department of Justice (DOJ),Federal Bureau of Investigation (FBI),Central Intelligence Agency (CIA),Federal Reserve,Federal Reserve Board - Federal Reserve Act,U.S. Department of the Treasury,Department of Defense (DOD),Department of State (DOS),Congress,Senate,Richard Blumenthal (D-CT),Judiciary Committee,House of Representatives,Jim Himes (D-CT4),Robert Garcia (D-CA42),U.S. House of Representatives Permanent Select Committee on Intelligence Democrats,Permanent Select Committee on Intelligence,House Oversight Committee,President of the United States (POTUS),White House (WH),Trump autocracy,Donald J Trump,President Donald Trump (45),President Donald Trump (47),President Trump (47) Administration,President Trump (47) Cabinet,Vice President JD Vance,JD Vance / LinkedIn,Susie Wiles,press secretary,Karoline Leavitt,Scott Bessent / U.S. Department of the Treasury,Todd Blanche – Office of the Attorney General / Meet the Attorney General / United States Department of Justice,Todd Blanche / LinkedIn,Director Kash Patel — FBI,Secretary Pete Hegseth,Pete Hegseth / LinkedIn,Marco Rubio - United States Department of State,Marco Rubio,grifter,self-dealing,corruption,con artist,crime,cryptocurrency,Trump crime family,Donald Trump Jr. / LinkedIn,Donald Trump Jr. Official Biography,Bettina Trump / LinkedIn,Eric Trump / LinkedIn,Eric Trump Official Biography,Lara Trump - Host of My View with Lara Trump / Fox News,Ivanka Trump,Melania Trump,Barron Trump,Tiffany Trump,Michael Boulos,Kai Trump,criminal associates,criminal businesses,criminal media,criminal organizations,criminal partners]
+categories: [2026-05-21 DJ & Bettina Trump wedding,Bettina Trump / LinkedIn,Donald Trump Jr. / LinkedIn,Commonwealth of The Bahamas (BS),Russian Oligarch lavish gift to honeymoon Trump newly weds,Umar Kremlev,PJSC Gazprom,investigations,Richard Blumenthal (D-CT),Jim Himes (D-CT4),Robert Garcia (D-CA42),U.S. House of Representatives Permanent Select Committee on Intelligence Democrats,Permanent Select Committee on Intelligence,House Oversight Committee,Senate Judiciary Committee,Central Intelligence Agency (CIA),Federal Bureau of Investigation (FBI),Trump crime family,Bettina Trump / LinkedIn,Donald Trump Jr. / LinkedIn,Donald Trump Jr. / LinkedIn,Bettina Trump / LinkedIn,Donald Trump,PJSC Gazprom,Donald Trump Jr. Official Biography,Eric Trump / LinkedIn,Eric Trump Official Biography,Lara Trump Host of My View with Lara Trump / Fox News,Barron Trump,Ivanka Trump,Kai Trump,Melania Trump,Michael Boulos,Tiffany Trump,Director Kash Patel — FBI,Senate,President Donald Trump (47),Umar Kremlev,PJSC Gazprom,Vladimir Putin,Russian Federation (RU)]
+date: 2026-09-19 16:24
+excerpt: ''
+#image: 'BASEURL/assets/blog/img/.png'
+#description:
+#permalink:
+toc: false
+title: "Trump Crime Family: Multiple Congressional Committees Want to Scrutinize DJ's Financial Ties to Russian Oligarch, Umar Kremlev, Wedding Shindig Gift"
+---
+
+## [Rep. Jim Himes demands FBI investigate Russian oligarch’s funding of Trump Jr. wedding events](https://www.ms.now/news/rep-jim-himes-demands-fbi-investigate-russian-oligarchs-funding-of-trump-jr-wedding-events)
+
+_The top [Democrat](https://www.democrats.org/) on the [House Intelligence Committee](https://intelligence.house.gov/) said the funding raises “significant counterintelligence concerns.”_
+
+By [Ebony Davis](https://www.ms.now/author/ebony-davis) and [David Rohde](https://www.ms.now/author/david-rohde)
+
+Sept. 17, 2026, 4:58 PM EDT
+
+The top [Democrat](https://www.democrats.org/) on the [House Intelligence Committee](https://intelligence.house.gov/) is [pressing](https://democrats-intelligence.house.gov/news/documentsingle.aspx?DocumentID=1506) [FBI](https://www.fbi.gov/) [Director Kash [mPatel](https://www.fbi.gov/about/leadership-and-structure/director-patel) to examine whether a [Russian oligarch’s financial support](https://www.ms.now/news/bettina-trump-wedding-putin-trump-jr-umar-kremlev) for [Donald Trump Jr.](https://www.linkedin.com/in/donald-trump-jr-4454b862/)’s [wedding celebrations](https://www.ms.now/opinion/donald-trump-jr-wedding-gift-russian-oligarch-umar-kremlev) poses a counterintelligence risk.
+
+[Rep.](https://www.house.gov/) [Jim Himes (D-CT4)](https://himes.house.gov/) [sent Patel a letter](https://democrats-intelligence.house.gov/uploadedfiles/rm_himes_letter_to_dir_patel_9.17.2026_.pdf) Thursday demanding information about the [FBI](https://www.fbi.gov/)’s response to reports that [Umar Kremlev](https://en.wikipedia.org/wiki/Umar_Kremlev?wprov=sfla1), a [Russian](http://kremlin.ru/) businessman with ties to [President Vladimir Putin](http://putin4), paid hundreds of thousands of dollars toward the May wedding events in the [Bahamas](https://www.bahamas.gov.bs/).
+
+“If accurate,” [Himes](https://himes.house.gov/) wrote, the reporting “presents significant counterintelligence concerns that must be thoroughly investigated by the [FBI](https://www.fbi.gov/).”
+
+[ProPublica](https://www.propublica.org/) [reported Monday](https://www.propublica.org/article/donald-trump-jr-wedding-bankrolled-russian-oligarch-umar-kremlev-putin) that [Kremlev](https://en.wikipedia.org/wiki/Umar_Kremlev?wprov=sfla1) paid for expenses that included the rental of a private island where a reception was held and guests stayed, as well as a fireworks display. [Trump Jr.](https://www.linkedin.com/in/donald-trump-jr-4454b862/) and his wife, [Bettina](https://www.linkedin.com/in/bettina-anderson-54abba60/), [confirmed](https://www.ms.now/news/bettina-trump-wedding-putin-trump-jr-umar-kremlev) that [Kremlev](https://en.wikipedia.org/wiki/Umar_Kremlev?wprov=sfla1) hosted two nights of celebrations after their private wedding ceremony. [Bettina Trump](https://www.linkedin.com/in/bettina-anderson-54abba60/) described it as an “extraordinarily generous wedding gift from a friend” and rejected suggestions that the gift carried a political motive.
+
+[Himes](https://himes.house.gov/) asked whether the [FBI](https://www.fbi.gov/) knew about [Kremlev](https://en.wikipedia.org/wiki/Umar_Kremlev?wprov=sfla1)’s relationship with [Trump Jr.](https://www.linkedin.com/in/donald-trump-jr-4454b862/) or the payments before they became public and whether the bureau had assessed if [Kremlev](https://en.wikipedia.org/wiki/Umar_Kremlev?wprov=sfla1), his organizations or [Russian](http://kremlin.ru/) nationals who attended the event acted on behalf of the [Russian](http://kremlin.ru/) government. He also asked whether the [FBI](https://www.fbi.gov/) had provided or planned to provide [Trump Jr.](https://www.linkedin.com/in/donald-trump-jr-4454b862/) and U.S. government officials who attended with a defensive counterintelligence briefing.
+
+[Himes](https://himes.house.gov/) requested a written response by Sept. 30.
+
+The arrangement has drawn scrutiny from congressional [Democrat](https://www.democrats.org/)s. [House Oversight Committee](https://oversight.house.gov/) ranking member [Robert Garcia (D-CA42)](https://robertgarcia.house.gov/), opened[opened an investigation](https://www.ms.now/rachel-maddow-show/maddowblog/donald-trump-jr-wedding-party-russian-oligarch-putin-garcia) this week, seeking records from [Trump Jr.](https://www.linkedin.com/in/donald-trump-jr-4454b862/) and the [White House](https://www.whitehouse.gov/) about the celebrations and [Trump Jr.](https://www.linkedin.com/in/donald-trump-jr-4454b862/)’s relationship with [Kremlev](https://en.wikipedia.org/wiki/Umar_Kremlev?wprov=sfla1).
+
+“The idea that the son of a president is going to have this wedding paid for essentially by someone with close ties to the state, close ties to [Putin](http://putin.kremlin.ru/), is pretty outrageous and, quite frankly, just completely corrupt,” [Garcia](https://robertgarcia.house.gov/) [told MS NOW](https://www.youtube.com/watch?v=sXS4dW_3r-0) on Tuesday.
+
+[Patel](https://www.fbi.gov/about/leadership-and-structure/director-patel) was questioned about the matter on Tuesday during a [Senate](https://www.senate.gov/) [Judiciary Committee](http://www.judiciary.senate.gov/) hearing. [Sen.](https://www.senate.gov/) [Richard Blumenthal (D-CT)](https://www.blumenthal.senate.gov/), asked [Patel](https://www.fbi.gov/about/leadership-and-structure/director-patel) whether the [FBI](https://www.fbi.gov/) was examining potential counterintelligence concerns about [Kremlev](https://en.wikipedia.org/wiki/Umar_Kremlev?wprov=sfla1)’s relationship with [Trump Jr.](https://www.linkedin.com/in/donald-trump-jr-4454b862/) [Patel](https://www.fbi.gov/about/leadership-and-structure/director-patel) said he was unfamiliar with the reporting but the [FBI](https://www.fbi.gov/) would “look at whatever information comes our way, and analyze it.”
+
+[Himes](https://himes.house.gov/) argued in the letter that although [Trump Jr.](https://www.linkedin.com/in/donald-trump-jr-4454b862/) is not a public official, his status as the president’s son and his regular access to senior policymakers could make him a “natural target for foreign espionage and influence operations.”
+
+Former U.S. intelligence officials have also raised concerns, saying the funding of part of the wedding celebrations had hallmarks of the tactics foreign intelligence services use to cultivate relationships and gain access.
+
+[Marc Polymeropoulos](https://www.ms.now/author/marc-polymeropoulos), a former senior [CIA](https://www.cia.gov/) official who contributes to [MS NOW](https://www.ms.now/), [wrote on X](https://x.com/Mpolymer/status/2100104384407298322?s=20) that intelligence services use social gatherings to collect information, develop relationships and try to influence perceptions.
+
+“If I was invited for a multi day wedding bash with multiple targets everywhere, available to chat with and schmooze and build relationships with in a beautiful tropical setting filled with booze and relaxation,” [Polymeropoulos](https://www.ms.now/author/marc-polymeropoulos) wrote. “I’d think I’d hit the recruitment jackpot.”
+
+[Ebony Davis](https://www.ms.now/author/ebony-davis) is a breaking news reporter for [MS NOW](https://www.ms.now/) based in Washington, D.C. She previously worked at CNN as a campaign reporter covering elections and politics.
+
+[David Rohde](https://www.ms.now/author/david-rohde) is the senior national security reporter for [MS NOW](https://www.ms.now/) and a two-time winner of the [Pulitzer Prize](https://www.pulitzer.org/) for International Reporting. Previously he was the senior executive editor for national security and law for NBC News.
+
+
+----
+- media
+- [MS NOW Breaking News and News Today / Latest News](https://www.ms.now/)
+    - [David Rohde](https://www.ms.now/author/david-rohde)
+    - [Ebony Davis](https://www.ms.now/author/ebony-davis)
+    - [Marc Polymeropoulos](https://www.ms.now/author/marc-polymeropoulos)
+- [Faux News Breaking News Updates / Latest News Headlines / Photos & News Videos](https://www.foxnews.com/)
+- [ProPublica — Investigative Journalism and News in the Public Interest](https://www.propublica.org/)
+- [Wikipedia](https://en.wikipedia.org/)
+- keywords
+- 2026-05-21 DJ & Bettina Trump wedding
+- [Bettina Trump / LinkedIn](https://www.linkedin.com/in/bettina-anderson-54abba60/)
+- [Donald Trump Jr. / LinkedIn](https://www.linkedin.com/in/donald-trump-jr-4454b862/)
+- [Commonwealth of The Bahamas (BS)](https://www.bahamas.gov.bs/)
+- [Russian Oligarch](http://kremlin.ru/) lavish gift to honeymoon Trump newly weds
+- [Umar Kremlev](https://en.wikipedia.org/wiki/Umar_Kremlev?wprov=sfla1)
+- [PJSC Gazprom](http://gazprom.com/)
+- investigations
+- [Richard Blumenthal (D-CT)](https://www.blumenthal.senate.gov/)
+- [Jim Himes (D-CT4)](https://himes.house.gov/)
+- [Robert Garcia (D-CA42)](https://robertgarcia.house.gov/)
+- [U.S. House of Representatives Permanent Select Committee on Intelligence Democrats](https://democrats-intelligence.house.gov/)
+- [Permanent Select Committee on Intelligence](https://intelligence.house.gov/)
+- [House Oversight Committee](https://oversight.house.gov/)
+- [Senate Judiciary Committee](http://www.judiciary.senate.gov/)
+- [Central Intelligence Agency (CIA)](https://www.cia.gov/)
+- [Federal Bureau of Investigation (FBI)](https://www.fbi.gov/)
+- [Trump crime family](https://www.trump.com/)
+- [Bettina Trump / LinkedIn](https://www.linkedin.com/in/bettina-anderson-54abba60/)
+- [Donald Trump Jr. / LinkedIn](https://www.linkedin.com/in/donald-trump-jr-4454b862/)
+- [Donald Trump Jr. / LinkedIn](https://www.linkedin.com/in/donald-trump-jr-4454b862/)
+- [Bettina Trump / LinkedIn](https://www.linkedin.com/in/bettina-anderson-54abba60/)
+- [Donald Trump](https://www.donaldjtrump.com/)
+- [PJSC Gazprom](http://gazprom.com/)
+- [Donald Trump Jr. Official Biography](https://www.trump.com/leadership/donald-trump-jr-biography)
+- [Eric Trump / LinkedIn](https://www.linkedin.com/in/erictrump/)
+- [Eric Trump Official Biography](https://www.trump.com/leadership/eric-trump-biography)
+- [Lara Trump Host of My View with Lara Trump / Fox News](https://www.foxnews.com/person/t/lara-trump)
+- [Barron Trump](https://en.wikipedia.org/wiki/Barron_Trump?wprov=sfla1)
+- [Ivanka Trump](https://en.wikipedia.org/wiki/Ivanka_Trump?wprov=sfla1)
+- [Kai Trump](https://en.wikipedia.org/wiki/Kai_Trump?wprov=sfla1)
+- [Melania Trump](https://en.wikipedia.org/wiki/Melania_Trump?wprov=sfla1)
+- [Michael Boulos](https://en.wikipedia.org/wiki/Michael_Boulos?wprov=sfla1)
+- [Tiffany Trump](https://en.wikipedia.org/wiki/Tiffany_Trump?wprov=sfla1)
+- [Director Kash Patel — FBI](https://www.fbi.gov/about/leadership-and-structure/director-patel)
+- [Senate](https://www.senate.gov/)
+- [President Donald Trump (47)](https://www.whitehouse.gov/administration/donald-j-trump/)
+- [Umar Kremlev](https://en.wikipedia.org/wiki/Umar_Kremlev?wprov=sfla1)
+- [PJSC Gazprom](http://gazprom.com/)
+- [Vladimir Putin](http://putin.kremlin.ru/)
+- [Russian Federation (RU)](http://kremlin.ru/)
+- organizations
+- [The Pulitzer Prizes](https://www.pulitzer.org/)
+- events
+- 2026-05-21 DJ & Bettina Trump wedding
+- political parties
+- [Democrat Party](https://www.democrats.org/)
+- [Trumpian Party](https://www.gop.com/)
+- universities
+- companies
+- geography 
+- foreign governments
+- [Commonwealth of The Bahamas (BS)](https://www.bahamas.gov.bs/)
+- [Russian Federation (RU)](http://kremlin.ru/)
+    - [Vladimir Putin](http://putin.kremlin.ru/)
+    - [PJSC Gazprom](http://gazprom.com/)
+        - [Umar Kremlev](https://en.wikipedia.org/wiki/Umar_Kremlev?wprov=sfla1)
+- state, local governments
+- federal government
+- [Constitution of the United States](https://constitution.congress.gov/constitution/)
+    - [Supreme Court of the United States (SCOTUS)](https://www.supremecourt.gov/)
+        - [US Courts](https://www.uscourts.gov/)
+    - [Department of Justice (DOJ)](https://www.justice.gov/)
+        - [Federal Bureau of Investigation (FBI)](https://www.fbi.gov/)
+    - [Central Intelligence Agency (CIA)](https://www.cia.gov/)
+    - [Federal Reserve](https://www.federalreserve.gov/)
+        - [Federal Reserve Board - Federal Reserve Act](https://www.federalreserve.gov/aboutthefed/fract.htm)
+    - [U.S. Department of the Treasury](https://home.treasury.gov/)
+    - [Department of Defense (DOD)](https://www.defense.gov/)
+    - [Department of State (DOS)](https://www.state.gov/)
+    - [Congress](https://www.congress.gov/)
+        - [Senate](https://www.senate.gov/)
+            - [Richard Blumenthal (D-CT)](https://www.blumenthal.senate.gov/)
+            - [Judiciary Committee](http://www.judiciary.senate.gov/)
+        - [House of Representatives](https://www.house.gov/)
+            - [Jim Himes (D-CT4)](https://himes.house.gov/)
+            - [Robert Garcia (D-CA42)](https://robertgarcia.house.gov/)
+            - [U.S. House of Representatives Permanent Select Committee on Intelligence Democrats](https://democrats-intelligence.house.gov/)
+            - [Permanent Select Committee on Intelligence](https://intelligence.house.gov/)
+            - [House Oversight Committee](https://oversight.house.gov/)
+    - [President of the United States (POTUS)](https://www.whitehouse.gov/)
+    - [White House (WH)](https://www.whitehouse.gov/)
+- Trump autocracy
+    - [Donald J Trump](https://www.donaldjtrump.com/)
+        - [President Donald Trump (45)](https://trumpwhitehouse.archives.gov/)
+        - [President Donald Trump (47)](https://www.whitehouse.gov/administration/donald-j-trump/)
+            - [President Trump (47) Administration](https://www.whitehouse.gov/administration/)
+            - [President Trump (47) Cabinet](https://www.whitehouse.gov/administration/the-cabinet/)
+                - [Vice President JD Vance](https://www.whitehouse.gov/administration/jd-vance/)
+                - [JD Vance / LinkedIn](https://www.linkedin.com/in/jd-vance-770a9047/)
+                - [Susie Wiles](https://www.linkedin.com/in/susiewiles/)
+                - press secretary
+                    - Karoline Leavitt
+                - [Scott Bessent / U.S. Department of the Treasury](https://home.treasury.gov/about/general-information/officials/scott-bessent)
+                - [Todd Blanche – Office of the Attorney General / Meet the Attorney General / United States Department of Justice](https://www.justice.gov/ag/staff-profile/meet-attorney-general)
+                    - [Todd Blanche / LinkedIn](https://www.linkedin.com/in/toddblanche/)
+                - [Director Kash Patel — FBI](https://www.fbi.gov/about/leadership-and-structure/director-patel)
+                - [Secretary Pete Hegseth](https://www.defense.gov/About/Biographies/Biography/Article/4040890/hon-pete-hegseth/)
+                - [Pete Hegseth / LinkedIn](https://www.linkedin.com/in/petehegseth/)
+                - [Marco Rubio - United States Department of State](https://www.state.gov/biographies/marco-rubio/)
+                - [Marco Rubio](https://www.linkedin.com/in/marcorubio16/)
+{% if tags contains "weaponization" or categories contains "weaponization" %}
+  {% include TrumpWeaponization.html %}
+{% endif %}
+- grifter
+- self-dealing
+- corruption
+- con artist
+- crime
+- cryptocurrency
+- [Trump crime family](https://www.trump.com/)
+- [Donald Trump Jr. / LinkedIn](https://www.linkedin.com/in/donald-trump-jr-4454b862/)
+- [Donald Trump Jr. Official Biography](https://www.trump.com/leadership/donald-trump-jr-biography)
+- [Bettina Trump / LinkedIn](https://www.linkedin.com/in/bettina-anderson-54abba60/)
+- [Eric Trump / LinkedIn](https://www.linkedin.com/in/erictrump/)
+- [Eric Trump Official Biography](https://www.trump.com/leadership/eric-trump-biography)
+- [Lara Trump - Host of My View with Lara Trump / Fox News](https://www.foxnews.com/person/t/lara-trump)
+- [Ivanka Trump](https://en.wikipedia.org/wiki/Ivanka_Trump?wprov=sfla1)
+- [Melania Trump](https://en.wikipedia.org/wiki/Melania_Trump?wprov=sfla1)
+- [Barron Trump](https://en.wikipedia.org/wiki/Barron_Trump?wprov=sfla1)
+- [Tiffany Trump](https://en.wikipedia.org/wiki/Tiffany_Trump?wprov=sfla1)
+- [Michael Boulos](https://en.wikipedia.org/wiki/Michael_Boulos?wprov=sfla1)
+- [Kai Trump](https://en.wikipedia.org/wiki/Kai_Trump?wprov=sfla1)
+- criminal associates
+- criminal businesses
+{% include TrumpCrimeBusinesses.html %}
+- criminal media
+- criminal organizations
+- criminal partners
