@@ -51,6 +51,24 @@ You can watch [Wallace](https://www.ms.now/deadline-white-house)’s full commen
 
 [Allison Detzel](https://www.ms.now/author/allison-detzel) is an editor/producer for [MS NOW](https://www.ms.now/). She was previously a segment producer for “AYMAN” and “The Mehdi Hasan Show.”
 
+### [Merriam-Webster's definition of "kompromat":](http://www.merriam-webster.com/dictionary/kompromat)
+
+noun
+kom·​pro·​mat | \ ˈkäm-prə-ˌmat , -ˌmät \
+
+#### Definition
+: compromising information that is used to blackmail or discredit a person or group usually for political purposes
+//… alleged to have kompromat on elites from two continents and across the political spectrum …
+— Tim Dickinson
+//The Russian press and Internet thrive on kompromat, "compromised material," which is usually bought from underpaid government security-force employees or former security agents …
+— Maureen Orth
+//… technology companies may already have more info about your personal life than a Russian kompromat dossier.
+— Jeremy Horwitz
+#### First Known Use
+1990, in the meaning defined above
+History and Etymology
+borrowed from Russian kompromát, from komprometírujuščij materiál "compromising material"
+
 ----
 - media
 - [MS NOW - Breaking News and News Today / Latest News](https://www.ms.now/)
