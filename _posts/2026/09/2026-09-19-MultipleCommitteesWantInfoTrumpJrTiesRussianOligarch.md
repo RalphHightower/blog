@@ -1,7 +1,7 @@
 ---
 layout: post
-tags: [media,MS NOW Breaking News and News Today / Latest News,David Rohde,Ebony Davis,Marc Polymeropoulos,Faux News Breaking News Updates / Latest News Headlines / Photos & News Videos,ProPublica — Investigative Journalism and News in the Public Interest,Wikipedia,keywords,2026-05-21 DJ & Bettina Trump wedding,Bettina Trump / LinkedIn,Donald Trump Jr. / LinkedIn,Commonwealth of The Bahamas (BS),Russian Oligarch lavish gift to honeymoon Trump newly weds,Umar Kremlev,PJSC Gazprom,investigations,Richard Blumenthal (D-CT),Jim Himes (D-CT4),Robert Garcia (D-CA42),U.S. House of Representatives Permanent Select Committee on Intelligence Democrats,Permanent Select Committee on Intelligence,House Oversight Committee,Senate Judiciary Committee,Central Intelligence Agency (CIA),Federal Bureau of Investigation (FBI),Trump crime family,Bettina Trump / LinkedIn,Donald Trump Jr. / LinkedIn,Donald Trump Jr. / LinkedIn,Bettina Trump / LinkedIn,Donald Trump,PJSC Gazprom,Donald Trump Jr. Official Biography,Eric Trump / LinkedIn,Eric Trump Official Biography,Lara Trump Host of My View with Lara Trump / Fox News,Barron Trump,Ivanka Trump,Kai Trump,Melania Trump,Michael Boulos,Tiffany Trump,Director Kash Patel — FBI,Senate,President Donald Trump (47),Umar Kremlev,PJSC Gazprom,Vladimir Putin,Russian Federation (RU),organizations,The Pulitzer Prizes,events,2026-05-21 DJ & Bettina Trump wedding,political parties,Democrat Party,Trumpian Party,universities,companies,geography,foreign governments,Commonwealth of The Bahamas (BS),Russian Federation (RU),Vladimir Putin,PJSC Gazprom,Umar Kremlev,state local governments,federal government,Constitution of the United States,Supreme Court of the United States (SCOTUS),US Courts,Department of Justice (DOJ),Federal Bureau of Investigation (FBI),Central Intelligence Agency (CIA),Federal Reserve,Federal Reserve Board - Federal Reserve Act,U.S. Department of the Treasury,Department of Defense (DOD),Department of State (DOS),Congress,Senate,Richard Blumenthal (D-CT),Judiciary Committee,House of Representatives,Jim Himes (D-CT4),Robert Garcia (D-CA42),U.S. House of Representatives Permanent Select Committee on Intelligence Democrats,Permanent Select Committee on Intelligence,House Oversight Committee,President of the United States (POTUS),White House (WH),Trump autocracy,Donald J Trump,President Donald Trump (45),President Donald Trump (47),President Trump (47) Administration,President Trump (47) Cabinet,Vice President JD Vance,JD Vance / LinkedIn,Susie Wiles,press secretary,Karoline Leavitt,Scott Bessent / U.S. Department of the Treasury,Todd Blanche – Office of the Attorney General / Meet the Attorney General / United States Department of Justice,Todd Blanche / LinkedIn,Director Kash Patel — FBI,Secretary Pete Hegseth,Pete Hegseth / LinkedIn,Marco Rubio - United States Department of State,Marco Rubio,grifter,self-dealing,corruption,con artist,crime,cryptocurrency,Trump crime family,Donald Trump Jr. / LinkedIn,Donald Trump Jr. Official Biography,Bettina Trump / LinkedIn,Eric Trump / LinkedIn,Eric Trump Official Biography,Lara Trump - Host of My View with Lara Trump / Fox News,Ivanka Trump,Melania Trump,Barron Trump,Tiffany Trump,Michael Boulos,Kai Trump,criminal associates,criminal businesses,criminal media,criminal organizations,criminal partners]
-categories: [2026-05-21 DJ & Bettina Trump wedding,Bettina Trump / LinkedIn,Donald Trump Jr. / LinkedIn,Commonwealth of The Bahamas (BS),Russian Oligarch lavish gift to honeymoon Trump newly weds,Umar Kremlev,PJSC Gazprom,investigations,Richard Blumenthal (D-CT),Jim Himes (D-CT4),Robert Garcia (D-CA42),U.S. House of Representatives Permanent Select Committee on Intelligence Democrats,Permanent Select Committee on Intelligence,House Oversight Committee,Senate Judiciary Committee,Central Intelligence Agency (CIA),Federal Bureau of Investigation (FBI),Trump crime family,Bettina Trump / LinkedIn,Donald Trump Jr. / LinkedIn,Donald Trump Jr. / LinkedIn,Bettina Trump / LinkedIn,Donald Trump,PJSC Gazprom,Donald Trump Jr. Official Biography,Eric Trump / LinkedIn,Eric Trump Official Biography,Lara Trump Host of My View with Lara Trump / Fox News,Barron Trump,Ivanka Trump,Kai Trump,Melania Trump,Michael Boulos,Tiffany Trump,Director Kash Patel — FBI,Senate,President Donald Trump (47),Umar Kremlev,PJSC Gazprom,Vladimir Putin,Russian Federation (RU)]
+tags: [media,MS NOW Breaking News and News Today / Latest News,David Rohde,Ebony Davis,Marc Polymeropoulos,Faux News Breaking News Updates / Latest News Headlines / Photos & News Videos,ProPublica — Investigative Journalism and News in the Public Interest,Wikipedia,keywords,2026-05-21 DJ & Bettina Trump wedding,Russian Oligarch lavish gift to honeymoon Trump newly weds,Bettina Trump / LinkedIn,Donald Trump Jr. / LinkedIn,Donald Trump Jr. Official Biography,Donald Trump,President Donald Trump (47),Trump crime family,Barron Trump,Eric Trump / LinkedIn,Eric Trump Official Biography,Ivanka Trump,Kai Trump,Lara Trump - Host of My View with Lara Trump / Fox News,Lara Trump Host of My View with Lara Trump / Fox News,Melania Trump,Michael Boulos,Tiffany Trump,Trump Tower NYC,Director Kash Patel — FBI,Susie Wiles,Commonwealth of The Bahamas (BS),Vladimir Putin,Russian Federation (RU),Order of Friendship,Umar Kremlev,PJSC Gazprom,People’s Republic of China (CN),Ukraine,investigations,Jim Himes (D-CT4),Richard Blumenthal (D-CT),Robert Garcia (D-CA42),House Oversight Committee,Permanent Select Committee on Intelligence,Senate Judiciary Committee,U.S. House of Representatives Permanent Select Committee on Intelligence Democrats,Central Intelligence Agency (CIA),Federal Bureau of Investigation (FBI),Russian 2016 election interference,Robert Mueller / September 4 20- September 4 2013,Hillary Clinton,President Donald Trump (45),International Boxing Association,organizations,The Pulitzer Prizes,events,2026-05-21 DJ & Bettina Trump wedding,political parties,Democrat Party,Trumpian Party,foreign governments,Commonwealth of The Bahamas (BS),Russian Federation (RU),Vladimir Putin,PJSC Gazprom,Umar Kremlev,federal government,Constitution of the United States,Supreme Court of the United States (SCOTUS),US Courts,Department of Justice (DOJ),Federal Bureau of Investigation (FBI),Central Intelligence Agency (CIA),Federal Reserve,Federal Reserve Board - Federal Reserve Act,U.S. Department of the Treasury,Department of Defense (DOD),Department of State (DOS),Congress,Senate,Richard Blumenthal (D-CT),Judiciary Committee,House of Representatives,Jim Himes (D-CT4),Robert Garcia (D-CA42),U.S. House of Representatives Permanent Select Committee on Intelligence Democrats,Permanent Select Committee on Intelligence,House Oversight Committee,President of the United States (POTUS),White House (WH),Trump autocracy,Donald J Trump,President Donald Trump (45),President Donald Trump (47),President Trump (47) Administration,President Trump (47) Cabinet,Vice President JD Vance,JD Vance / LinkedIn,Susie Wiles,press secretary,Karoline Leavitt,Scott Bessent / U.S. Department of the Treasury,Todd Blanche – Office of the Attorney General / Meet the Attorney General / United States Department of Justice,Todd Blanche / LinkedIn,Director Kash Patel — FBI,Secretary Pete Hegseth,Pete Hegseth / LinkedIn,Marco Rubio - United States Department of State,Marco Rubio,grifter,self-dealing,corruption,con artist,crime,cryptocurrency,Trump crime family,Donald Trump Jr. / LinkedIn,Donald Trump Jr. Official Biography,Bettina Trump / LinkedIn,Eric Trump / LinkedIn,Eric Trump Official Biography,Lara Trump - Host of My View with Lara Trump / Fox News,Ivanka Trump,Melania Trump,Barron Trump,Tiffany Trump,Michael Boulos,Kai Trump,criminal associates,criminal businesses,criminal media,criminal organizations,criminal partners]
+categories: [2026-05-21 DJ & Bettina Trump wedding,Russian Oligarch lavish gift to honeymoon Trump newly weds,Bettina Trump / LinkedIn,Donald Trump Jr. / LinkedIn,Donald Trump Jr. Official Biography,Donald Trump,President Donald Trump (47),Trump crime family,Barron Trump,Eric Trump / LinkedIn,Eric Trump Official Biography,Ivanka Trump,Kai Trump,Lara Trump - Host of My View with Lara Trump / Fox News,Lara Trump Host of My View with Lara Trump / Fox News,Melania Trump,Michael Boulos,Tiffany Trump,Trump Tower NYC,Director Kash Patel — FBI,Susie Wiles,Commonwealth of The Bahamas (BS),Vladimir Putin,Russian Federation (RU),Order of Friendship,Umar Kremlev,PJSC Gazprom,People’s Republic of China (CN),Ukraine,investigations,Jim Himes (D-CT4),Richard Blumenthal (D-CT),Robert Garcia (D-CA42),House Oversight Committee,Permanent Select Committee on Intelligence,Senate Judiciary Committee,U.S. House of Representatives Permanent Select Committee on Intelligence Democrats,Central Intelligence Agency (CIA),Federal Bureau of Investigation (FBI),Russian 2016 election interference,Robert Mueller / September 4 20- September 4 2013,Hillary Clinton,President Donald Trump (45),International Boxing Association,organizations,The Pulitzer Prizes,events,2026-05-21 DJ & Bettina Trump wedding,political parties,Democrat Party,Trumpian Party,universities,companies,geography,foreign governments,Commonwealth of The Bahamas (BS),Russian Federation (RU),Vladimir Putin,PJSC Gazprom,Umar Kremlev]
 date: 2026-09-19 16:24
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
@@ -61,46 +61,49 @@ Former U.S. intelligence officials have also raised concerns, saying the funding
 - [Wikipedia](https://en.wikipedia.org/)
 - keywords
 - 2026-05-21 DJ & Bettina Trump wedding
-- [Bettina Trump / LinkedIn](https://www.linkedin.com/in/bettina-anderson-54abba60/)
-- [Donald Trump Jr. / LinkedIn](https://www.linkedin.com/in/donald-trump-jr-4454b862/)
-- [Commonwealth of The Bahamas (BS)](https://www.bahamas.gov.bs/)
 - [Russian Oligarch](http://kremlin.ru/) lavish gift to honeymoon Trump newly weds
-- [Umar Kremlev](https://en.wikipedia.org/wiki/Umar_Kremlev?wprov=sfla1)
-- [PJSC Gazprom](http://gazprom.com/)
-- investigations
-- [Richard Blumenthal (D-CT)](https://www.blumenthal.senate.gov/)
-- [Jim Himes (D-CT4)](https://himes.house.gov/)
-- [Robert Garcia (D-CA42)](https://robertgarcia.house.gov/)
-- [U.S. House of Representatives Permanent Select Committee on Intelligence Democrats](https://democrats-intelligence.house.gov/)
-- [Permanent Select Committee on Intelligence](https://intelligence.house.gov/)
-- [House Oversight Committee](https://oversight.house.gov/)
-- [Senate Judiciary Committee](http://www.judiciary.senate.gov/)
-- [Central Intelligence Agency (CIA)](https://www.cia.gov/)
-- [Federal Bureau of Investigation (FBI)](https://www.fbi.gov/)
-- [Trump crime family](https://www.trump.com/)
 - [Bettina Trump / LinkedIn](https://www.linkedin.com/in/bettina-anderson-54abba60/)
 - [Donald Trump Jr. / LinkedIn](https://www.linkedin.com/in/donald-trump-jr-4454b862/)
-- [Donald Trump Jr. / LinkedIn](https://www.linkedin.com/in/donald-trump-jr-4454b862/)
-- [Bettina Trump / LinkedIn](https://www.linkedin.com/in/bettina-anderson-54abba60/)
-- [Donald Trump](https://www.donaldjtrump.com/)
-- [PJSC Gazprom](http://gazprom.com/)
 - [Donald Trump Jr. Official Biography](https://www.trump.com/leadership/donald-trump-jr-biography)
+- [Donald Trump](https://www.donaldjtrump.com/)
+- [President Donald Trump (47)](https://www.whitehouse.gov/administration/donald-j-trump/)
+- [Trump crime family](https://www.trump.com/)
+- [Barron Trump](https://en.wikipedia.org/wiki/Barron_Trump?wprov=sfla1)
 - [Eric Trump / LinkedIn](https://www.linkedin.com/in/erictrump/)
 - [Eric Trump Official Biography](https://www.trump.com/leadership/eric-trump-biography)
-- [Lara Trump Host of My View with Lara Trump / Fox News](https://www.foxnews.com/person/t/lara-trump)
-- [Barron Trump](https://en.wikipedia.org/wiki/Barron_Trump?wprov=sfla1)
 - [Ivanka Trump](https://en.wikipedia.org/wiki/Ivanka_Trump?wprov=sfla1)
 - [Kai Trump](https://en.wikipedia.org/wiki/Kai_Trump?wprov=sfla1)
+- [Lara Trump - Host of My View with Lara Trump / Fox News](https://www.foxnews.com/person/t/lara-trump)
+- [Lara Trump Host of My View with Lara Trump / Fox News](https://www.foxnews.com/person/t/lara-trump)
 - [Melania Trump](https://en.wikipedia.org/wiki/Melania_Trump?wprov=sfla1)
 - [Michael Boulos](https://en.wikipedia.org/wiki/Michael_Boulos?wprov=sfla1)
 - [Tiffany Trump](https://en.wikipedia.org/wiki/Tiffany_Trump?wprov=sfla1)
+- [Trump Tower NYC](https://www.trumptowerny.com/)
 - [Director Kash Patel — FBI](https://www.fbi.gov/about/leadership-and-structure/director-patel)
-- [Senate](https://www.senate.gov/)
-- [President Donald Trump (47)](https://www.whitehouse.gov/administration/donald-j-trump/)
-- [Umar Kremlev](https://en.wikipedia.org/wiki/Umar_Kremlev?wprov=sfla1)
-- [PJSC Gazprom](http://gazprom.com/)
+- [Susie Wiles](https://www.linkedin.com/in/susiewiles/)
+- [Commonwealth of The Bahamas (BS)](https://www.bahamas.gov.bs/)
 - [Vladimir Putin](http://putin.kremlin.ru/)
 - [Russian Federation (RU)](http://kremlin.ru/)
+- [Order of Friendship](http://award.gov.ru/)
+- [Umar Kremlev](https://en.wikipedia.org/wiki/Umar_Kremlev?wprov=sfla1)
+- [PJSC Gazprom](http://gazprom.com/)
+- [People's Republic of China (CN)](https://www.gov.cn/)
+- [Ukraine](https://www.kmu.gov.ua/en)
+- investigations
+- [Jim Himes (D-CT4)](https://himes.house.gov/)
+- [Richard Blumenthal (D-CT)](https://www.blumenthal.senate.gov/)
+- [Robert Garcia (D-CA42)](https://robertgarcia.house.gov/)
+- [House Oversight Committee](https://oversight.house.gov/)
+- [Permanent Select Committee on Intelligence](https://intelligence.house.gov/)
+- [Senate Judiciary Committee](http://www.judiciary.senate.gov/)
+- [U.S. House of Representatives Permanent Select Committee on Intelligence Democrats](https://democrats-intelligence.house.gov/)
+- [Central Intelligence Agency (CIA)](https://www.cia.gov/)
+- [Federal Bureau of Investigation (FBI)](https://www.fbi.gov/)
+- Russian 2016 election interference 
+- [Robert Mueller / September 4, 20- September 4, 2013](https://www.fbi.gov/history/directors/robert-s-mueller-iii)
+- [Hillary Clinton](https://www.hillaryclinton.com/)
+- [President Donald Trump (45)](https://trumpwhitehouse.archives.gov/)
+- [International Boxing Association](https://www.iba.sport/)
 - organizations
 - [The Pulitzer Prizes](https://www.pulitzer.org/)
 - events
@@ -108,16 +111,12 @@ Former U.S. intelligence officials have also raised concerns, saying the funding
 - political parties
 - [Democrat Party](https://www.democrats.org/)
 - [Trumpian Party](https://www.gop.com/)
-- universities
-- companies
-- geography 
 - foreign governments
 - [Commonwealth of The Bahamas (BS)](https://www.bahamas.gov.bs/)
 - [Russian Federation (RU)](http://kremlin.ru/)
     - [Vladimir Putin](http://putin.kremlin.ru/)
     - [PJSC Gazprom](http://gazprom.com/)
         - [Umar Kremlev](https://en.wikipedia.org/wiki/Umar_Kremlev?wprov=sfla1)
-- state, local governments
 - federal government
 - [Constitution of the United States](https://constitution.congress.gov/constitution/)
     - [Supreme Court of the United States (SCOTUS)](https://www.supremecourt.gov/)
