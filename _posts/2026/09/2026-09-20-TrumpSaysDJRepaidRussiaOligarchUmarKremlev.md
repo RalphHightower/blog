@@ -8,7 +8,7 @@ excerpt: ''
 #description:
 #permalink:
 toc: false
-title: "Trump Says That DJ (DonJr) Paid Russian Oligarch, Umar Kremlev For Wedding Shindig In Bahamas. Or He's In the Process"
+title: "Trump Crime Family: Trump Says That DJ (DonJr) Paid Russian Oligarch, Umar Kremlev For Wedding Shindig In Bahamas. Or He's In the Process"
 ---
 
 ## [Trump says Don Jr. repaid Russian oligarch who spent hundreds of thousands on wedding celebrations](https://www.ms.now/news/trump-says-don-jr-repaid-russian-oligarch-who-spent-hundreds-of-thousands-on-wedding-celebrations)
