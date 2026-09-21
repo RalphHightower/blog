@@ -69,15 +69,20 @@ BEGIN {
         resetStats()
         }
     else {
-        pct = percentDiff($CurrentPrice, $Change)
-        sign = ($Change * 1.0 < 0.0 ? -1.0 : 1.0)
-        if (sign < 0.0)
-            losers ++
-        else
-            gainers ++
-        pctChange += pct
-        arrow = (sign < 0.0 ? ":arrow_down:" : ":arrow_up:") " "
-        printf("| %s | %s | %s | %s |\n", lookupSymbol($Symbol), formatCurrency($CurrentPrice), formatCurrency($Change), arrow formatPercent(pct))
+        if (sanityCheck()) {
+            pct = percentDiff($CurrentPrice, $Change)
+            sign = ($Change * 1.0 < 0.0 ? -1.0 : 1.0)
+            if (sign < 0.0)
+                losers ++
+            else
+                gainers ++
+            pctChange += pct
+            arrow = (sign < 0.0 ? ":arrow_down:" : ":arrow_up:") " "
+            printf("| %s | %s | %s | %s |\n", lookupSymbol($Symbol), formatCurrency($CurrentPrice), formatCurrency($Change), arrow formatPercent(pct))
+            }
+        else {
+            printf("| ~~%s~~ | (no data) | (no data) | (no data) |\n", lookupSymbol($Symbol))
+            }
         }
     }
 
@@ -91,6 +96,11 @@ END {
     for (ndx = 1; ndx <= cntRegions; ndx ++) {
         #printf("#DEBUG210: regionAssessment[%s] = \"%s\"\n", regBreaks[ndx], regionAssessment[regBreaks[ndx]])
         }
+    }
+    
+function sanityCheck() {
+    allGood = ($CurrentPrice > 0.0) * (length($Date) > 0) * (length($Time) > 0) * ($Open > 0.0) * (($High > 0.0) * + ($Low > 0.0))
+    return(allGood)
     }
 
 function percentDiff(current, change) {
@@ -392,7 +402,7 @@ function buildIndexesAmericas() {
     IndexName["^BVSP"] = "IBOVESPA"
     IndexName["^MXX"] = "IPC MEXICO"
     IndexName["^BKX"] = "KBW Bank Index"
-    IndexName["^MERV"] = "MERVAL"
+    IndexName["^MERV"] = "Mercado de Valores (MERVAL)"
     IndexName["^NDX"] = "NASDAQ 100"
     IndexName["^NDXTR"] = "NASDAQ 100 Total Return"
     IndexName["^BANK"] = "NASDAQ Bank Index"
@@ -431,6 +441,7 @@ function buildIndexesAmericas() {
     IndexName["^IPSA"] = "S&P IPSA (Chile)"
     IndexName["^MID"] = "S&P MidCap 400"
     IndexName["^SPTMI"] = "S&P Total Market Index (TMI)"
+    IndexName["TX60.TS"] = "S&P/TSX 60 Index"
     IndexName["^GSPTSE"] = "S&P/TSX Composite Index"
     }
 
@@ -449,6 +460,7 @@ function buildIndexesEMEA() {
     IndexName["^CASE30"] = "EGX 30 Price Return Index"
     IndexName["^STOXX50E"] = "Euro Stoxx 50"
     IndexName["^N100"] = "Euronext 100 Index"
+    IndexName["^PSI20"] = "EURONEXT LISBON PSI INDEX"
     IndexName["^FTSE"] = "FTSE 100"
     IndexName["^FTMC"] = "FTSE 250"
     IndexName["^FTAS"] = "FTSE All-Share"
@@ -457,6 +469,8 @@ function buildIndexesEMEA() {
     IndexName["^HDAXI"] = "HDAX"
     IndexName["X2HZ.DE"] = "HDAX I"
     IndexName["^IBEX"] = "IBEX 35"
+    IndexName["^J203.JO"] = "Johannesburg All Share Index"
+    IndexName["^J200.JO"] = "JohannesburgTop 40 Index"
     IndexName["^NQDMEU4030LM"] = "Nasdaq DM Europe Media Large Mi"
     IndexName["^NQFRSC"] = "NASDAQ France Small Cap Index"
     IndexName["^OMXC20"] = "OMX Copenhagen 20"
@@ -470,7 +484,6 @@ function buildIndexesEMEA() {
     IndexName["^OMXT"] = "OMX Tallinn"
     IndexName["^OMXV"] = "OMX Vilnius"
     IndexName["^JS2013.JO"] = "Pharmaceuticals and Biotechnolo"
-    IndexName["^PSI20"] = "PSI 20"
     IndexName["^SPXHDGUP"] = "S&P 500 High Dividend Growth In"
     IndexName["^SPEURO"] = "S&P EURO"
     IndexName["^SPE350"] = "S&P Europe 350"
@@ -495,6 +508,7 @@ function buildIndexesAsiaPacific() {
     # -------------------------
     IndexName["^AXKO"] = "ASX All Ordinaries"
     IndexName["^BSESN"] = "BSE Sensex"
+    IndexName["000300.SS"] = "CSI 300 Index"
     IndexName["^000300.SS"] = "CSI 300 Index"
     IndexName["^FTSEASEAN"] = "FTSE ASEAN Index"
     IndexName["^KLSE"] = "FTSE Bursa Malaysia KLCI"
@@ -545,6 +559,7 @@ function buildIndexesDefenseETF() {
     IndexName["PPA"] = "Invesco Aerospace & Defense ETF"
     IndexName["IDEF"] = "iShares Defense Industrials Act"
     IndexName["ITA"] = "iShares U.S. Aerospace & Defense ETF"
+    IndexName["^DFI"] = "NYSE Arca Defense Index"
     IndexName["KDEF"] = "PLUS Korea Defense Industry Index ETF"
     IndexName["UFO"] = "Procure Space ETF"
     IndexName["DRNZ"] = "REX Drone ETF"
