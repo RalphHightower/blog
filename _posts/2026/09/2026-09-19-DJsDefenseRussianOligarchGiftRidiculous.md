@@ -65,7 +65,7 @@ Perhaps [Kremlev](https://en.wikipedia.org/wiki/Umar_Kremlev?wprov=sfla1)’s ex
 - [The Great Gatsby by F. Scott Fitzgerald / Project Gutenberg](https://www.gutenberg.org/ebooks/64317)
 - [The Office of Hillary Rodham Clinton](https://www.hillaryclinton.com/)
 - keywords
-- 2026-05-21 DJ & Bettina Trump wedding
+- 2026-05-21 [DJ](https://www.linkedin.com/in/donald-trump-jr-4454b862/) & [Bettina](https://www.linkedin.com/in/bettina-anderson-54abba60/) [Trump](https://www.trump.com/) wedding
 - [Russian Oligarch](http://kremlin.ru/) lavish gift to honeymoon Trump newly weds
 - [Bettina Trump / LinkedIn](https://www.linkedin.com/in/bettina-anderson-54abba60/)
 - [Donald Trump Jr. / LinkedIn](https://www.linkedin.com/in/donald-trump-jr-4454b862/)
@@ -110,7 +110,7 @@ Perhaps [Kremlev](https://en.wikipedia.org/wiki/Umar_Kremlev?wprov=sfla1)’s ex
 - [President Donald Trump (45)](https://trumpwhitehouse.archives.gov/)
 - [International Boxing Association](https://www.iba.sport/)
 - events
-- 2026-05-21 DJ & Bettina Trump wedding
+- 2026-05-21 [DJ](https://www.linkedin.com/in/donald-trump-jr-4454b862/) & [Bettina](https://www.linkedin.com/in/bettina-anderson-54abba60/) [Trump](https://www.trump.com/) wedding
 - political parties
 - [Democrat Party](https://www.democrats.org/)
 - [Trumpian Party](https://www.gop.com/)

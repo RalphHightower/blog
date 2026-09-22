@@ -49,7 +49,6 @@ Former U.S. intelligence officials have also raised concerns, saying the funding
 
 [David Rohde](https://www.ms.now/author/david-rohde) is the senior national security reporter for [MS NOW](https://www.ms.now/) and a two-time winner of the [Pulitzer Prize](https://www.pulitzer.org/) for International Reporting. Previously he was the senior executive editor for national security and law for NBC News.
 
-
 ----
 - media
 - [MS NOW Breaking News and News Today / Latest News](https://www.ms.now/)
@@ -60,13 +59,19 @@ Former U.S. intelligence officials have also raised concerns, saying the funding
 - [ProPublica — Investigative Journalism and News in the Public Interest](https://www.propublica.org/)
 - [Wikipedia](https://en.wikipedia.org/)
 - keywords
-- 2026-05-21 DJ & Bettina Trump wedding
+- 2026-05-21 [DJ](https://www.linkedin.com/in/donald-trump-jr-4454b862/) & [Bettina](https://www.linkedin.com/in/bettina-anderson-54abba60/) [Trump](https://www.trump.com/) wedding
 - [Russian Oligarch](http://kremlin.ru/) lavish gift to honeymoon Trump newly weds
 - [Bettina Trump / LinkedIn](https://www.linkedin.com/in/bettina-anderson-54abba60/)
 - [Donald Trump Jr. / LinkedIn](https://www.linkedin.com/in/donald-trump-jr-4454b862/)
 - [Donald Trump Jr. Official Biography](https://www.trump.com/leadership/donald-trump-jr-biography)
 - [Donald Trump](https://www.donaldjtrump.com/)
 - [President Donald Trump (47)](https://www.whitehouse.gov/administration/donald-j-trump/)
+- [Commonwealth of The Bahamas (BS)](https://www.bahamas.gov.bs/)
+- [Vladimir Putin](http://putin.kremlin.ru/)
+- [Russian Federation (RU)](http://kremlin.ru/)
+- [Order of Friendship](http://award.gov.ru/)
+- [Umar Kremlev](https://en.wikipedia.org/wiki/Umar_Kremlev?wprov=sfla1)
+- [PJSC Gazprom](http://gazprom.com/)
 - [Trump crime family](https://www.trump.com/)
 - [Barron Trump](https://en.wikipedia.org/wiki/Barron_Trump?wprov=sfla1)
 - [Eric Trump / LinkedIn](https://www.linkedin.com/in/erictrump/)
@@ -81,12 +86,6 @@ Former U.S. intelligence officials have also raised concerns, saying the funding
 - [Trump Tower NYC](https://www.trumptowerny.com/)
 - [Director Kash Patel — FBI](https://www.fbi.gov/about/leadership-and-structure/director-patel)
 - [Susie Wiles](https://www.linkedin.com/in/susiewiles/)
-- [Commonwealth of The Bahamas (BS)](https://www.bahamas.gov.bs/)
-- [Vladimir Putin](http://putin.kremlin.ru/)
-- [Russian Federation (RU)](http://kremlin.ru/)
-- [Order of Friendship](http://award.gov.ru/)
-- [Umar Kremlev](https://en.wikipedia.org/wiki/Umar_Kremlev?wprov=sfla1)
-- [PJSC Gazprom](http://gazprom.com/)
 - [People's Republic of China (CN)](https://www.gov.cn/)
 - [Ukraine](https://www.kmu.gov.ua/en)
 - investigations
@@ -107,7 +106,7 @@ Former U.S. intelligence officials have also raised concerns, saying the funding
 - organizations
 - [The Pulitzer Prizes](https://www.pulitzer.org/)
 - events
-- 2026-05-21 DJ & Bettina Trump wedding
+- 2026-05-21 [DJ](https://www.linkedin.com/in/donald-trump-jr-4454b862/) & [Bettina](https://www.linkedin.com/in/bettina-anderson-54abba60/) [Trump](https://www.trump.com/) wedding
 - political parties
 - [Democrat Party](https://www.democrats.org/)
 - [Trumpian Party](https://www.gop.com/)
