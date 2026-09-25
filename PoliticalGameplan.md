@@ -81,7 +81,7 @@ Friends with our enemies
 
 ## Political Contacts
 
-### Federal Government 
+### Federal Government
 
 #### [US House of Representatives](https://www.house.gov/)
 
@@ -165,7 +165,7 @@ Class II
 
 1955-07-09 – 2026-07-11
 
-_Death deserves dignity. Legacy requires scrutiny._ 
+_Death deserves dignity. Legacy requires scrutiny._
 
 ~~[Trump's](https://www.whitehouse.gov/administration/donald-j-trump/) Poodle.~~
 
@@ -210,6 +210,12 @@ _Death deserves dignity. Legacy requires scrutiny._
 
 #### [Governor Henry McMaster (T)](https://governor.sc.gov/)
 
+##### My Dumb State: South Carolina Governor
+
+- 2025-08-19: [My Dumb State: South Carolina Governor McMaster, With Other Sycophantic Governors Send National Guard Troops to Patrol D.C.]({% link _posts/2025/08/2025-08-19-RedStatesSendGuardTroopsDC.md %})
+
+##### Office Location
+
 | Office Location |
 |---|
 | [State House](https://www.scstatehouse.gov/)<br />
@@ -219,9 +225,9 @@ _Death deserves dignity. Legacy requires scrutiny._
 
 ##### [Wilson, Alan](https://www.scag.gov/about-the-office/meet-the-attorney-general/)
 
-[Alan Wilson (T)](https://www.scag.gov/about-the-office/meet-the-attorney-general/) is the most nakedly partisan [Attorney General](https://www.scag.gov/) that [South Carolina](https://www.s.gov/) has ever had. Wilson is an election denier; he thinks that the [Democrats](https://www.democrats.org/) stole the 2020 election.
+[Alan Wilson (T)](https://www.scag.gov/about-the-office/meet-the-attorney-general/) is the most nakedly hyper partisan [Attorney General](https://www.scag.gov/) that [South Carolina](https://www.s.gov/) has ever had. Wilson is an election denier; he thinks that the [Democrats](https://www.democrats.org/) stole the 2020 election.
 
-##### My Dumb State: South Carolina
+###### My Dumb State: South Carolina Attorney General
 
 - 2026-07-20 [My Dumb State: South Carolina Attorney General Alan Wilson Wants USPS Denial of Service of Mail-In Ballots – Supreme Court Appeal]({% link _posts/2026/07/2026-07-20-20260720-SCAGWilsonUSPSDenialOfService.md %})
 - 2026-07-07 [My Dumb State: South Carolina Attorney General Alan Wilson Wants USPS Denial of Service of Mail-In Ballots – USPS Letter]({% link _posts/2026/07/2026-07-07-20260707-SCAGAlanWilsonSupportsUSPSDenialOfService.md %})
