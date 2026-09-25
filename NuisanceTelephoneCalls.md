@@ -20,7 +20,8 @@ The telephone numbers below have called and there is an empty person on the othe
 
 | Telephone Number | Location | Date Time[^11]<sup>,</sup>[^12] | Caller | Social Media |
 |---|---|---|---|---|
-| Telephone Number | Location | Date Time[^11]<sup>,</sup>[^12] | Caller | Social Media |
+| [\+1 (803) 567-3092](tel:+18035673092) | SC. Columbia | 2026-09-24 06:07 PM | — | ~ |
+| [\+1 (803) 456-9102](tel:+18034569102) | SC. Saint Matthews | 2026-09-18 11:59 AM | JOANNA G JONES | ~ |
 | [\+1 (803) 523-9899](tel:+18035239899) | SC. Fort Lawn | 2026-09-16 02:03 PM | — | ~ |
 | [\+1 (803) 740-6616](tel:+18037406616) | SC. Columbia | 2026-09-15 12:02 PM | — | ~ |
 | [\+1 (803) 430-5766](tel:+18034305766) | SC. Johnston | 2026-09-15 11:44 AM | — | ~ |
