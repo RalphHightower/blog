@@ -62,7 +62,7 @@ const iataDatabase = {
     MMU: { name: "Morristown Municipal Airport", link: "https://www.mmuair.com/", lat: 0.712085, lon: -1.298787 }, //, 40°47′58″N, 074°24′54″W
     MTC: { name: "Selfridge Air National Guard Base", link: "https://www.127wg.ang.af.mil/", lat: 0.743656, lon: -1.445753 }, //, 42°36′30″N, 082°50′08″W
     MYR: { name: "Myrtle Beach International Airport", link: "https://www.flymyrtlebeach.com/", lat: 0.587822, lon: -1.377559 }, //, 33°40′47″N, 078°55′42″W
-    OMA { name: "Eppley Airfield / Omaha Airport", link: "https://www.flyoma.com/", lat: 0.720821, lon: -1.673683 }, //, 41.30°N, 95.895°W
+    OMA: { name: "Eppley Airfield / Omaha Airport", link: "https://www.flyoma.com/", lat: 0.720821, lon: -1.673683 }, //, 41.30°N, 95.895°W
     ORD: { name: "Chicago O'Hare International Airport", link: "https://www.flychicago.com/ohare/", lat: 0.732665, lon: -1.534227 }, //,41°58′43″N, 87°54′17″W
     ORY: { name: "Aéroport Paris-Orly - Paris Aéroport", link: "https://www.parisaeroport.fr/en/passengers/orly-airport", lat: 0.850383, lon: 0.041529 }, //, 48°43'24"N, 02°22'46"E
     PBI: { name: "Palm Beach International Airport", link: "https://www.pbia.org/", lat: 0.465707, lon: -1.397931 }, //, 26°40′59″N, 80°05′44″W
@@ -98,4 +98,4 @@ const iataDatabase = {
     ZRH: { name: "Zurich Airport", link: "https://www.flughafen-zuerich.ch/", lat: 0.828416, lon: 0.149211 }, //, 47°27′53″N, 008°32′57″E
     ZZZ: { name: "", link: "", lat: 0.0, lon: 0.0 } //, 
     };
-	// @RalphHightower: remove the comma after the closing brace for the last airport record
+// @RalphHightower: remove the comma after the closing brace for the last airport record
