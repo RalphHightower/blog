@@ -8,29 +8,33 @@ BEGIN {
     SOCIALMEDIA = 5
     }
 {
-    link = "| " linkTele($PHONE)
-    dt = $DATETIME 
-    if (substr(dt, 1, 1) == " ")
-        dt = substr(dt, 2)
-    if (substr(dt, length(dt), 1) == " ")
-        dt = substr(dt, 1, length(dt) - 1)
-    cntdt = split(dt, parts, " ")
-    date = parts[1]
-    time = parts[2]
-    noon = toupper(parts[3])
-    voiceMail = (cntdt > 3 ? " " parts[4] : "")
-    $DATETIME = date " " (length(time) == 5 ? time : "0" time) " " noon voiceMail
-    for (ndx = LOCATION; ndx <= SOCIALMEDIA; ndx++) {
-        $ndx = $ndx ""
-        if (ndx <= NF)
-            link = link " | " (ndx != CALLER ? $ndx : (length($ndx) == 0 ? "—" : $ndx))
-        else
-            link = link " | "
+    if (NF >= DATETIME) {
+        link = "| " linkTele($PHONE)
+        dt = $DATETIME 
+        if (substr(dt, 1, 1) == " ")
+            dt = substr(dt, 2)
+        if (substr(dt, length(dt), 1) == " ")
+            dt = substr(dt, 1, length(dt) - 1)
+        cntdt = split(dt, parts, " ")
+        date = parts[1]
+        time = parts[2]
+        noon = toupper(parts[3])
+        if (length($SOCIALMEDIA) < 1)
+            $SOCIALMEDIA = "~"
+        voiceMail = (cntdt > 3 ? " " parts[4] : "")
+        $DATETIME = date " " (length(time) == 5 ? time : "0" time) " " noon voiceMail
+        for (ndx = LOCATION; ndx <= SOCIALMEDIA; ndx++) {
+            $ndx = $ndx ""
+            if (ndx <= NF)
+                link = link " | " (ndx != CALLER ? $ndx : (length($ndx) == 0 ? "—" : $ndx))
+            else
+                link = link " ~ | "
+            }
+        link = link " |"
+        gsub(" [ ]*", " ", link)
+        printf("%s\n", link)
         }
-    link = link " |"
-    gsub(" [ ]*", " ", link)
-    printf("%s\n", link)
-}
+    }
     
 function linkTele(phone) {
     #printf("DEBUG: len(%s)=%d\n", phone, length(phone))

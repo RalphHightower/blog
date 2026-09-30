@@ -21,11 +21,13 @@ BEGIN {
     }
   link = "| " linkTele($PHONE)
   #printf("%s\n", $0)
+  if (length($SOCIALMEDIA) == 0)
+      $SOCIALMEDIA = "~"
   for (ndx = LOCATION; ndx <= SOCIALMEDIA; ndx++) {
     if (ndx <= NF)
       link = link " | " $ndx
     else
-      link = link " | "
+      link = link "~ | "
     }
   link = link " |"
   gsub(" [ ]*", " ", link)
