@@ -18,21 +18,22 @@ toc: true
 
 ## Golf Tournaments At Trump Properties 
 
-- [AUG 06-09, 2026](https://www.livgolf.com/schedule/new-york-2026/)<br />[Trump National Golf Club Bedminster, NJ, USA](https://www.trumpnationalbedminster.com/)
-- [MAY 07-10, 2026](https://www.livgolf.com/schedule/virginia-2026/) – Liv Golf<br />[Trump National Golf Club, Washington, D.C., USA](https://www.trumpnationaldc.com/)
+~~- [AUG 06-09, 2026](https://www.livgolf.com/schedule/new-york-2026/)<br />[Trump National Golf Club Bedminster, NJ, USA](https://www.trumpnationalbedminster.com/)~~
+~~- [MAY 07-10, 2026](https://www.livgolf.com/schedule/virginia-2026/) – Liv Golf<br />[Trump National Golf Club, Washington, D.C., USA](https://www.trumpnationaldc.com/)~~
 - ~~[APR 04-06, 2025](https://www.livgolf.com/schedule/miami-2025/leaderboard) – Liv Golf<br />[Trump National Doral, USA](https://www.trumpgolfdoral.com/)~~
 
 ## Legends To Symbols in Date Fields
 - 🔥💰💸 = Full Government Shutdown; 
+    - 2026-01-31 – 2026-02-03
     - 2025-10-01 – 2025-11-12
-    - 2026-01-31 – 2026-02-03
 - 🔥💸  = Partial Government Shutdown
-    - 2026-01-31 – 2026-02-03
     - 2026-02-14 – 2026-04-30
+    - 2026-01-31 – 2026-02-03
 - 💰💸 = Fund Raising Activities
 - 🪖🪂 = Iran War 2026-02-27 – 
 - 💰💰💸💸 Fundraiser
 
+{% include_relative TrumpAF1/2026Q4.md %}
 {% include_relative TrumpAF1/2026Q3.md %}
 {% include_relative TrumpAF1/2026Q2.md %}
 {% include_relative TrumpAF1/2026Q1.md %}
