@@ -87,11 +87,9 @@ function deg_to_rad(x) {
         out = ""
         for (ndx = 1; ndx < NF; ndx ++) {
             if (substr($ndx, 1, 5) == " lat:") {
-                p_lat = sprintf("lat: %.6f,", to_radians(lat))
                 printf(" lat: %f, ", to_radians(lat))
                 }
             else if (substr($ndx, 1, 5) == " lon:") {
-                p_lon = sprintf("lon: %.6f ", to_radians(lon))
                 printf("lon: %f },", to_radians(lon))
                 }
             else {

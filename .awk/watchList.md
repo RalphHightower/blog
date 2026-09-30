@@ -19,7 +19,7 @@ $Symbol:$Name:$RegionSector:$RegionSectorSortKey
 ^BVSP:IBOVESPA:Americas:100
 ^MXX:IPC MEXICO:Americas:100
 ^BKX:KBW Bank Index:Americas:100
-^MERV:MERVAL:Americas:100
+^MERV:Mercado de Valores (MERVAL):Americas:100
 ^NDX:NASDAQ 100:Americas:100
 ^NDXTR:NASDAQ 100 Total Return:Americas:100
 ^BANK:NASDAQ Bank Index:Americas:100
@@ -58,6 +58,7 @@ $Symbol:$Name:$RegionSector:$RegionSectorSortKey
 ^IPSA:S&P IPSA (Chile):Americas:100
 ^MID:S&P MidCap 400:Americas:100
 ^SPTMI:S&P Total Market Index (TMI):Americas:100
+TX60.TS:S&P/TSX 60 Index:Americas:100
 ^GSPTSE:S&P/TSX Composite Index:Americas:100
 ^AEX:AEX Amsterdam:Europe, Middle East and Africa:200
 ^AMX:AMX Midcap:Europe, Middle East and Africa:200
@@ -70,6 +71,7 @@ $Symbol:$Name:$RegionSector:$RegionSectorSortKey
 ^CASE30:EGX 30 Price Return Index:Europe, Middle East and Africa:200
 ^STOXX50E:Euro Stoxx 50:Europe, Middle East and Africa:200
 ^N100:Euronext 100 Index:Europe, Middle East and Africa:200
+^PSI20:EURONEXT LISBON PSI INDEX:Europe, Middle East and Africa:200
 ^FTSE:FTSE 100:Europe, Middle East and Africa:200
 ^FTMC:FTSE 250:Europe, Middle East and Africa:200
 ^FTAS:FTSE All-Share:Europe, Middle East and Africa:200
@@ -78,6 +80,8 @@ $Symbol:$Name:$RegionSector:$RegionSectorSortKey
 ^HDAXI:HDAX:Europe, Middle East and Africa:200
 X2HZ.DE:HDAX I:Europe, Middle East and Africa:200
 ^IBEX:IBEX 35:Europe, Middle East and Africa:200
+^J203.JO:Johannesburg All Share Index:Europe, Middle East and Africa:200
+^J200.JO:JohannesburgTop 40 Index:Europe, Middle East and Africa:200
 ^NQDMEU4030LM:Nasdaq DM Europe Media Large Mi:Europe, Middle East and Africa:200
 ^NQFRSC:NASDAQ France Small Cap Index:Europe, Middle East and Africa:200
 ^OMXC20:OMX Copenhagen 20:Europe, Middle East and Africa:200
@@ -91,7 +95,6 @@ X2HZ.DE:HDAX I:Europe, Middle East and Africa:200
 ^OMXT:OMX Tallinn:Europe, Middle East and Africa:200
 ^OMXV:OMX Vilnius:Europe, Middle East and Africa:200
 ^JS2013.JO:Pharmaceuticals and Biotechnolo:Europe, Middle East and Africa:200
-^PSI20:PSI 20:Europe, Middle East and Africa:200
 ^SPXHDGUP:S&P 500 High Dividend Growth In:Europe, Middle East and Africa:200
 ^SPEURO:S&P EURO:Europe, Middle East and Africa:200
 ^SPE350:S&P Europe 350:Europe, Middle East and Africa:200
@@ -110,6 +113,7 @@ X2HZ.DE:HDAX I:Europe, Middle East and Africa:200
 ^WIG30:WIG 30:Europe, Middle East and Africa:200
 ^AXKO:ASX All Ordinaries:Asia, Pacific:300
 ^BSESN:BSE Sensex:Asia, Pacific:300
+000300.SS:CSI 300 Index:Asia, Pacific:300
 ^000300.SS:CSI 300 Index:Asia, Pacific:300
 ^FTSEASEAN:FTSE ASEAN Index:Asia, Pacific:300
 ^KLSE:FTSE Bursa Malaysia KLCI:Asia, Pacific:300
@@ -154,6 +158,7 @@ ORBX:Global X Space Tech ETF:Defense ETF:400
 PPA:Invesco Aerospace & Defense ETF:Defense ETF:400
 IDEF:iShares Defense Industrials Act:Defense ETF:400
 ITA:iShares U.S. Aerospace & Defense ETF:Defense ETF:400
+^DFI:NYSE Arca Defense Index:Defense ETF:400
 KDEF:PLUS Korea Defense Industry Index ETF:Defense ETF:400
 UFO:Procure Space ETF:Defense ETF:400
 DRNZ:REX Drone ETF:Defense ETF:400

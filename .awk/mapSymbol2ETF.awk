@@ -22,7 +22,7 @@ printf("    # -------------------------\n    # %s\n    # -----------------------
         }
     }
 END {
-    printf("%s}\n\n", tab)
+    printf("%s}\n", tab)
     }
     
 function initializeMaps() {
