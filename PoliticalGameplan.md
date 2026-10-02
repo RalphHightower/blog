@@ -225,8 +225,8 @@ _Death deserves dignity. Legacy requires scrutiny._
 
 ##### My Dumb State: South Carolina Governor
 
-- 2025-08-19: [My Dumb State: South Carolina Governor McMaster, With Other Sycophantic Governors Send National Guard Troops to Patrol D.C.]({% link _posts/2025/08/2025-08-19-RedStatesSendGuardTroopsDC.md %})
 - 2026-05-14: [My Dumb State: South Carolina Governor, Henry McMaster, Wants Mid-Cycle Redistricting James Clyburn Out of Existence]({% link _posts/2026/05/2026-05-14-SCGovernorMidCycleDummymandering.md %})
+- 2025-08-19: [My Dumb State: South Carolina Governor McMaster, With Other Sycophantic Governors Send National Guard Troops to Patrol D.C.]({% link _posts/2025/08/2025-08-19-RedStatesSendGuardTroopsDC.md %})
 
 ##### Office Location
 
