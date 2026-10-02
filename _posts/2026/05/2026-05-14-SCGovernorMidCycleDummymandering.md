@@ -11,6 +11,12 @@ toc: false
 title: "My Dumb State: South Carolina Governor, Henry McMaster, Wants Mid-Cycle Redistricting James Clyburn Out of Existence"
 ---
 
+Frankly, in my opinion, South Carolina is not a 100% ruby red state. Heck, it's not even 75% [Trumpian](https://www.gop.com/). Statewide races, state constitutional officers and senators, win with, on average 56 percent of the electorate.
+
+Instead of a 1/6 split (16.67% [Democrats](https://www.democrats.org/)) among [House](https://www.house.gov/) representation, a more equitable distribution of representation would be 4/7 split (57% [Trumpian](https://www.gop.com/), 43% [Democrats](https://www.democrats.org/)),
+
+@RalphHightower
+
 ### 🧭 What is defined in SC law South Carolina does define:
 
 - Emergencies
