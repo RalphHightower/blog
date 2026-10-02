@@ -159,7 +159,20 @@ Class II
 
 | Office Locations |
 |---|
-| SR-B33 Russell Senate Office Building<br />Washington, DC 20510<br />Phone: [\+1 (202) 224-5972](+12022245972) |
+| **Washington, DC** |
+| 211 Russell Senate Office Building<br />Washington, DC 20510<br />Phone: [\+1 202-224-5972](tel:+1202-224-5972)<br />|
+| **Midlands** |
+| 2142 Boyce Street<br />Suite 404<br />Columbia, SC 29201<br />Phone: [\+1 803-933-0112](tel:+1803-933-0112)<br />|
+| **Pee Dee** |
+| McMillan Federal Bldg<br />401 West Evans Street<br />Suite 111<br />Florence, SC 29501<br />Phone: [\+1 843-669-1505](tel:+1843-669-1505)<br />|
+| **Upstate** |
+| 2 West Washington Street<br />Suite 808<br />Greenville, SC 29601<br />Phone: [\+1 864-250-1417](tel:+1864-250-1417)<br />|
+| **Low Country** |
+| 4 Carriage Lane<br />Suite 401<br />Charleston, SC 29407<br />Phone: [\+1 843-849-3887](tel:+1843-849-3887)<br />|
+| **Rock Hill** |
+| 134 N. Wilson Street<br />Suite 100<br />Rock Hill, SC 29730<br />Phone: [\+1 803-366-2828](tel:+1803-366-2828)<br />|
+| **Golden Corner** |
+| 124 Exchange Street<br />Suite A<br />Pendleton, SC 29670<br />Phone: [\+1 864-646-4090](tel:+1864-646-4090) |
 
 ###### ~~[Graham, Lindsey (T-SC)](https://www.lgraham.senate.gov/)~~
 
@@ -213,6 +226,7 @@ _Death deserves dignity. Legacy requires scrutiny._
 ##### My Dumb State: South Carolina Governor
 
 - 2025-08-19: [My Dumb State: South Carolina Governor McMaster, With Other Sycophantic Governors Send National Guard Troops to Patrol D.C.]({% link _posts/2025/08/2025-08-19-RedStatesSendGuardTroopsDC.md %})
+- 2026-05-14: [My Dumb State: South Carolina Governor, Henry McMaster, Wants Mid-Cycle Redistricting James Clyburn Out of Existence]({% link _posts/2026/05/2026-05-14-SCGovernorMidCycleDummymandering.md %})
 
 ##### Office Location
 
