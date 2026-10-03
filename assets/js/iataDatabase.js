@@ -78,7 +78,7 @@ const iataDatabase = {
     PBI: { name: "Palm Beach International Airport", link: "https://www.pbia.org/", lat: 0.465707, lon: -1.397931 }, //, 26°40′59″N, 80°05′44″W
     PEB: { name: "Teterboro Airport", link: "https://www.panynj.gov/airports/en/teterboro.html", lat: 0.712967, lon: -1.292605 }, //, 40°51′00″N, 074°03′39″W
     PEK: { name: "Beijing Capital International Airport", link: "https://www.bcia.com.cn/", lat: 0.699397, lon: 2.035010 }, //, 40°04′21″N, 116°35′51″E
-    PHL { name: "Philadelphia International Airport", link: "https://www.phl.org/", lat: 0.695897, lon: -1.313205 }, //🛫, 39°52′19″N, 075°14′28″W
+    PHL: { name: "Philadelphia International Airport", link: "https://www.phl.org/", lat: 0.695897, lon: -1.313205 }, //🛫, 39°52′19″N, 075°14′28″W
     PIK: { name: "Glasgow Prestwick Airport", link: "https://www.glasgowprestwick.com/", lat: 0.968823, lon: -0.080188 }, //, 55°30′34″N, 004°35′40″W
     PIT: { name: "Pittsburgh International Airport", link: "https://flypittsburgh.com/", lat: 0.706789, lon: -1.400557 }, //🛫, 40.496°N, 80.246°W
     POB: { name: "Pope Field", link: "https://www.pope.af.mil/", lat: 0.613847, lon: -1.379062 }, //, 35°10′15″N, 79°00′52″W
