@@ -89,11 +89,14 @@ Sep 29, 2026
 
 For more from TYT Investigates, SUBSCRIBE at:    / tytinvestigatesreports  
 
-You can read our stories at https://www.TYT.com/investigates
 
-LIKE and FOLLOW us at   / tytinvestigates  .
+You can read our stories at https://www.TYT.com/investigates
 
-And connect with us on Twitter @TYTInvestigates
+
+LIKE and FOLLOW us at   / tytinvestigates  .
+
+
+And connect with us on Twitter @TYTInvestigates
 
 ### January 6, 2021 Insurrection
 
