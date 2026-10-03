@@ -16,7 +16,7 @@ const iataDatabase = {
     BFM: { name: "Mobile International Airport", link: "https://www.mobileairportauthority.com/downtown/", lat: 0.534536, lon: -1.537078 }, //, 30°37'36"N, 088°04'05"W
     BIS: { name: "Bismarck Municipal Airport", link: "https://bismarckairport.com/", lat: 0.816339, lon: -1.758346 }, //, 46°46′22″N, 100°44′45″W
     CAE: { name: "Columbia Metropolitan Airport", link: "https://flycae.com/", lat: 0.592345, lon: -1.415801 }, //🛫, 33°56′20″N, 081°07′10″W
-    CHS: { name: "Charleston International Airport", link: "https://iflychs.com/", lat: 0.574189, lon: -1.396971 }, 32°53′55″N, 080°02′26″W
+    CHS: { name: "Charleston International Airport", link: "https://iflychs.com/", lat: 0.574189, lon: -1.396971 }, //, 32°53′55″N, 080°02′26″W
     CID: { name: "Eastern Iowa Airport / Cedar Rapids Airport", link: "https://flycid.com/", lat: 0.731026, lon: -1.600656 }, //🛫, 41°53′04.9″N, 91°42′38.9″W
     CLE: { name: "Cleveland Hopkins International Airport", link: "https://www.clevelandairport.com/", lat: 0.722770, lon: 1.428547 }, //, 41°24′42″N, 081°50′59″
     CLT: { name: "Charlotte Douglas International Airport", link: "https://www.cltairport.com/", lat: 0.614598, lon: -1.412723 }, //🛫, 35°12′50″N, 080°56′35″W
@@ -55,8 +55,8 @@ const iataDatabase = {
     JYO: { name: "Leesburg Executive Airport", link: "https://www.leesburgva.gov/departments/airport/about-leesburg-executive-airport", lat: 0.682041, lon: -1.353634 }, //, 39°04′41″N, 077°33′27″W
     KCHS: { name: "Joint Base Lindsey Graham (Charleston)", link: "https://www.jbcharleston.jb.mil/", lat: 0.574189, lon: -1.396971 }, 32°53′55″N, 080°02′26″W
     KHNL: { name: "Joint Base Pearl Harbor–Hickam", link: "https://cnrh.cnic.navy.mil/Installations/JB-Pearl-Harbor-Hickam/", lat: 0.372080, lon: -2.756268 },	//, 21°19′07″N, 157°55′21″W
-    KMMT: { name: "McEntire Joint National Guard Base", link: "https://www.169fw.ang.af.mil/", lat: 0.592030, lon: -1.410245 }, 33°55'15"N, 080°48'04"W
-    KNBC: { name: "Marine Corps Air Station Beaufort", link: "https://www.beaufort.marines.mil/", lat: 0.566834, lon: -1.408883 }, 32°28'38"N, 080°43'23"W
+    KMMT: { name: "McEntire Joint National Guard Base", link: "https://www.169fw.ang.af.mil/", lat: 0.592030, lon: -1.410245 }, //, 33°55'15"N, 080°48'04"W
+    KNBC: { name: "Marine Corps Air Station Beaufort", link: "https://www.beaufort.marines.mil/", lat: 0.566834, lon: -1.408883 }, //, 32°28'38"N, 080°43'23"W
     KRW: { name: "Rocky Mount-Wilson Regional Airport", link: "https://www.krwiairport.org/", lat: 0.625812, lon: -1.359471 }, //, 35°51′23″N, 077°53′31″W
     KSSC: { name: "Shaw Air Force Base", link: "https://www.shaw.af.mil/", lat: 0.592942, lon: -1.404515 }, 33°58'23"N, 080°28′22″W
     KUL: { name: "Kuala Lumpur International Airport", link: "https://www.kuala-lumpur-airport.com/", lat: 0.047880, lon: 1.774966 }, //, 02°44′36″N, 101°41′53″E
