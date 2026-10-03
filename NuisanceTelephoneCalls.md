@@ -20,6 +20,14 @@ The telephone numbers below have called and there is an empty person on the othe
 
 | Telephone Number | Location | Date Time[^11]<sup>,</sup>[^12] | Caller | Social Media |
 |---|---|---|---|---|
+| [\+1 (803) 334-3478](tel:+18033343478) | SC. Johnston | 2026-10-02 03:01 PM | HENRY C MURDAUGH | ~ |
+| [](tel:) | | 2026-10-02 0 | — | ~ |
+| [\+1 (803) 813-9651](tel:+18038139651) | SC. Orangeburg | 2026-10-01 06:38 PM | — | ~ |
+| [\+1 (803) 888-7990](tel:+18038887990) | SC. Columbia | 2026-10-01 03:16 PM | JONES DENISE | ~ |
+| [\+1 (803) 232-8394](tel:+18032328394) | SC. Granitville | 2026-09-30 01:55 AM | — | ~ |
+| [\+1 (803) 768-3717](tel:+18037683717) | SC. Newberry | 2026-09-28 05:18 PM | | ~ |
+| [\+1 (803) 615-5850](tel:+18036155850) | SC. Edgefield | 2026-09-28 05:02 PM | SORRELLS BARBAR | ~ |
+| [\+1 (803) 296-8155](tel:+18032968155) | SC. Columbia | 2026-09-28 03:51 PM | [Prisma Health](https://prismahealth.org/) (spoofed) #InsuranceFraud | ~ |
 | [\+1 (803) 567-3092](tel:+18035673092) | SC. Columbia | 2026-09-24 06:07 PM | — | ~ |
 | [\+1 (803) 456-9102](tel:+18034569102) | SC. Saint Matthews | 2026-09-18 11:59 AM | JOANNA G JONES | ~ |
 | [\+1 (803) 523-9899](tel:+18035239899) | SC. Fort Lawn | 2026-09-16 02:03 PM | — | ~ |
