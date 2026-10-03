@@ -26,7 +26,7 @@ const iataDatabase = {
     CVG: { name: "Cincinnati/Northern Kentucky International Airport", link: "https://www.cvgairport.com/", lat: 0.681532, lon: -1.477731 }, //🛫, 39°02′56″N, 084°40′04″W
     DAB: { name: "Daytona Beach International Airport", link: "https://www.flydaytonafirst.com/", lat: 0.509369, lon: -1.414774 }, //, 29°11′05″N, 81°03′38″W
     DAY: { name: "James M. Cox Dayton International Airport", link: "https://flydayton.com/", lat: 0.696425, lon: -1.469907 }, //🛫, 39°54′08″N, 84°13′10″W
-    DFW: { name: "Dallas Fort Worth International Airport", link: "https://www.dfwairport.com/", lat: 0.574160, lon: -1.693634 }, 32°53′49″N, 97°02′17″W
+    DFW: { name: "Dallas Fort Worth International Airport", link: "https://www.dfwairport.com/", lat: 0.574160, lon: -1.693634 }, //, 32°53′49″N, 97°02′17″W
     DJT: { name: "President Donald J. Trump International Airport", link: "https://flydjt.org/", lat: 0.465707, lon: -1.397931 }, //, 26°40′59″N, 80°05′44″W
     DMA: { name: "Davis-Monthan Air Force Base (The Boneyard)", link: "https://www.dover.af.mil/", lat: 0.561361, lon: -1.934688 }, //, 32°09′49″N, 110°50′58″W
     DOH: { name: "Hamad International Airport", link: "https://www.dohahamadairport.com/", lat: 0.441098, lon: 0.900730 }, //, 25°16′23″N, 51°36′29″E
