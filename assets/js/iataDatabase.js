@@ -13,7 +13,7 @@ const iataDatabase = {
     ATL: { name: "Hartsfield–Jackson Atlanta International Airport", link: "https://www.atl.com/", lat: 0.587071, lon: -1.473548 }, //🛫, 33°38′12″N, 84°25′41″W
     AUH: { name: "Abu Dhabi International Airport / Zayed International Airport", link: "https://www.zayedinternationalairport.ae/", lat: 0.426437, lon: 0.953842 }, //, 24°25′59″N, 054°39′04″E
     AVL: { name: "Asheville Regional Airport", link: "https://flyavl.com/", lat: 0.618477, lon: -1.440624 }, //, 35°26′10″N, 082°32′30″W
-    BFM: { name: "Mobile International Airport", link: "https://www.mobileairportauthority.com/downtown/", lat: 0.534536, lon: -1.537078 }, 30°37′36″N, 088°04′05″W
+    BFM: { name: "Mobile International Airport", link: "https://www.mobileairportauthority.com/downtown/", lat: 0.534536, lon: -1.537078 }, 30°37'36"N, 088°04'05"W
     BIS: { name: "Bismarck Municipal Airport", link: "https://bismarckairport.com/", lat: 0.816339, lon: -1.758346 }, //, 46°46′22″N, 100°44′45″W
     CAE: { name: "Columbia Metropolitan Airport", link: "https://flycae.com/", lat: 0.592345, lon: -1.415801 }, //🛫, 33°56′20″N, 081°07′10″W
     CHS: { name: "Charleston International Airport", link: "https://iflychs.com/", lat: 0.574189, lon: -1.396971 }, 32°53′55″N, 080°02′26″W
