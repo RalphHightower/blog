@@ -11,7 +11,7 @@ toc: false
 title: "Supreme Court of South Carolina (SCOSC) Hears Arguments to Determine Legality of Gov. McMaster's National Guard Deployment to District of Columbia"
 ---
 
-- 2025-08-19: [My Dumb State: South Carolina Governor McMaster, With Other Sycophantic Governors Send National Guard Troops to Patrol D.C.]({% _posts/2025/08/2025-08-19-RedStatesSendGuardTroopsDC.md %})
+- 2025-08-19: [My Dumb State: South Carolina Governor McMaster, With Other Sycophantic Governors Send National Guard Troops to Patrol D.C.]({% link _posts/2025/08/2025-08-19-RedStatesSendGuardTroopsDC.md %})
 
 ## SC Supreme Court Hears Challenge To McMaster’s National Guard Deployment
 
