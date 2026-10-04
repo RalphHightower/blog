@@ -58,7 +58,7 @@ const iataDatabase = {
     KMMT: { name: "McEntire Joint National Guard Base", link: "https://www.169fw.ang.af.mil/", lat: 0.592030, lon: -1.410245 }, //, 33°55'15"N, 080°48'04"W
     KNBC: { name: "Marine Corps Air Station Beaufort", link: "https://www.beaufort.marines.mil/", lat: 0.566834, lon: -1.408883 }, //, 32°28'38"N, 080°43'23"W
     KRW: { name: "Rocky Mount-Wilson Regional Airport", link: "https://www.krwiairport.org/", lat: 0.625812, lon: -1.359471 }, //, 35°51′23″N, 077°53′31″W
-    KSSC: { name: "Shaw Air Force Base", link: "https://www.shaw.af.mil/", lat: 0.592942, lon: -1.404515 }, 33°58'23"N, 080°28′22″W
+    KSSC: { name: "Shaw Air Force Base", link: "https://www.shaw.af.mil/", lat: 0.592942, lon: -1.404515 }, //, 33°58'23"N, 080°28′22″W
     KUL: { name: "Kuala Lumpur International Airport", link: "https://www.kuala-lumpur-airport.com/", lat: 0.047880, lon: 1.774966 }, //, 02°44′36″N, 101°41′53″E
     LAS: { name: "Harry Reid International Airport", link: "https://www.harryreidairport.com/)", lat: 0.629715, lon: -2.009785 }, //, 36°04′48″N, 115°09′08″W
     LAX: { name: "Los Angeles International Airport", link: "https://www.flylax.com/", lat: 0.592408, lon: -2.066610 }, //, 33°56′33″N, 118°24′29″W
