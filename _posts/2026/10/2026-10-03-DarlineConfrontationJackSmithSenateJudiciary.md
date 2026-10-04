@@ -8,7 +8,7 @@ excerpt: ''
 #description:
 #permalink:
 toc: true
-title: "Senator Darline Graham (T-SC) Engages in Southern Tribalism during Jack Smith's Testimony Before the Senate Judiciary Committee"
+title: "My Dumb State: Senator Darline Graham (T-SC) Engages in Southern Tribalism During Jack Smith's Testimony Before the Senate Judiciary Committee"
 ---
 
 The [Jack Smith](https://www.justice.gov/archives/sco-smith) testimony before the [Senate Judiciary Committee](http://www.judiciary.senate.gov/) was a whole bunch of nothing. The senators followed along party lines. 
@@ -21,7 +21,7 @@ Below is my page covering the documents from the 2020 election interference and 
 
 This wasn’t an Emmy‑winning Scarlett O’Hara debut, but [Darline](https://www.dgraham.senate.gov/) sure acted like she was stepping onto the veranda for the first time. The charm, the outrage, the practiced indignation — it all felt like a debut performance in televised [Senate](https://www.senate.gov/) business. 
 
-![We have met the enemy and he is us. – Pogo](assets/images/PogoWeHaveMetTheEnemy.jpeg)
+![We have met the enemy and he is us. – Pogo](/assets/images/PogoWeHaveMetTheEnemy.jpeg)
 
 ## [September 29, 2026. ICYMI: Senator Darline Graham Grills Former Special Counsel Jack Smith at Senate Judiciary Committee Hearing - Senator Darline Graham](https://www.dgraham.senate.gov/press-releases/icymi-senator-darline-graham-grills-former-special-counsel-jack-smith-at-senate-judiciary-committee-hearing/)
 
@@ -89,14 +89,11 @@ Sep 29, 2026
 
 For more from TYT Investigates, SUBSCRIBE at:    / tytinvestigatesreports  
 
+You can read our stories at https://www.TYT.com/investigates
 
-You can read our stories at https://www.TYT.com/investigates
+LIKE and FOLLOW us at   / tytinvestigates  .
 
-
-LIKE and FOLLOW us at   / tytinvestigates  .
-
-
-And connect with us on Twitter @TYTInvestigates
+And connect with us on Twitter @TYTInvestigates
 
 ### January 6, 2021 Insurrection
 
@@ -104,9 +101,14 @@ And connect with us on Twitter @TYTInvestigates
 
 ----
 - media
+- [Ralph Hightower/blog – Trying to Save Democracy. Country Over Party](https://ralphhightower.github.io/blog/)
+- My Dumb State
+- [State of South Carolina (SC)](https://www.sc.gov/)
 - [Associated Press News (AP) - Breaking News, Latest Headlines and Videos / AP News](https://apnews.com/)
 - [Pogo (comic strip)](https://en.wikipedia.org/wiki/Pogo_%28comic_strip%29?wprov=sfla1)
 - keywords
+- [Ralph Hightower/blog – Trying to Save Democracy. Country Over Party](https://ralphhightower.github.io/blog/)
+- My Dumb State [South Carolina (SC)](https://www.sc.gov/)
 - political parties
 - [Democrat Party](https://www.democrats.org/)
 - [Trumpian Party](https://www.gop.com/)
