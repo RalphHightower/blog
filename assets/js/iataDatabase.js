@@ -53,7 +53,7 @@ const iataDatabase = {
     JFK: { name: "John F. Kennedy International Airport", link: "https://johnfkennedyairport-jfk.com/", lat: 0.709297, lon: -1.287685 }, //, 40°38′23″N, 73°46′44″W
     JRB: { name: "Downtown Manhattan Heliport", link: "https://www.downtownskyportnyc.com/", lat: 0.710368, lon: -1.291697 }, //, 40.701116°N, 74.008801°W
     JYO: { name: "Leesburg Executive Airport", link: "https://www.leesburgva.gov/departments/airport/about-leesburg-executive-airport", lat: 0.682041, lon: -1.353634 }, //, 39°04′41″N, 077°33′27″W
-    KCHS: { name: "Joint Base Lindsey Graham (Charleston)", link: "https://www.jbcharleston.jb.mil/", lat: 0.574189, lon: -1.396971 }, 32°53′55″N, 080°02′26″W
+    KCHS: { name: "Joint Base Lindsey Graham (Charleston)", link: "https://www.jbcharleston.jb.mil/", lat: 0.574189, lon: -1.396971 }, //, 32°53′55″N, 080°02′26″W
     KHNL: { name: "Joint Base Pearl Harbor–Hickam", link: "https://cnrh.cnic.navy.mil/Installations/JB-Pearl-Harbor-Hickam/", lat: 0.372080, lon: -2.756268 },	//, 21°19′07″N, 157°55′21″W
     KMMT: { name: "McEntire Joint National Guard Base", link: "https://www.169fw.ang.af.mil/", lat: 0.592030, lon: -1.410245 }, //, 33°55'15"N, 080°48'04"W
     KNBC: { name: "Marine Corps Air Station Beaufort", link: "https://www.beaufort.marines.mil/", lat: 0.566834, lon: -1.408883 }, //, 32°28'38"N, 080°43'23"W
