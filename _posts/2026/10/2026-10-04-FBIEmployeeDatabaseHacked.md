@@ -8,10 +8,10 @@ excerpt: ''
 #description:
 #permalink:
 toc: false
-title: "Incompetence Is Root Cause of FBI Employee Data Breach and Theft"
+title: "Fucking Incompetence Is Root Cause of FBI Employee Data Breach and Theft"
 ---
 
-@RalphHightower: My bets are that one of the [Department of Government Efficiency (DOGE)] bros were instrumental in moving the siloed data to a internet connected database.
+@RalphHightower: My bets are that one of the [Department of Government Efficiency (DOGE)](https://doge.gov/) bros were instrumental in moving the siloed data to a internet connected database.
 
 - 2026-09-26 [Dutch Police Arrest ‘Reformed’ Hacker in Shiny Hunters Investigation – Krebs on Security](https://krebsonsecurity.com/2026/09/dutch-police-arrest-reformed-hacker-in-shiny-hunters-investigation/)
 
@@ -139,8 +139,8 @@ In the employee notifications, the [FBI](https://www.fbi.gov/) said it would off
                 - [Pete Hegseth / LinkedIn](https://www.linkedin.com/in/petehegseth/)
                 - [Marco Rubio - United States Department of State](https://www.state.gov/biographies/marco-rubio/)
                 - [Marco Rubio](https://www.linkedin.com/in/marcorubio16/)
-{% if tags contains "weaponization" or categories contains "weaponization" %}
-  {% include TrumpWeaponization.html %}
+{% if post.tags contains "weaponization" or post.categories contains "weaponization" %}
+{% include TrumpWeaponization.html %}
 {% endif %}
 - grifter
 - self-dealing
