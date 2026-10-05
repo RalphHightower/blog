@@ -155,7 +155,7 @@ Yes, my assessment has racial overtones, but [Scott](https://www.scott.senate.go
 
 ###### [Graham, Darline (T-SC)](https://www.dgraham.senate.gov/)
 
-- [My Dumb State: Senator Darline Graham (T-SC) Engages in Southern Tribalism during Jack Smith's Testimony Before the Senate Judiciary Committee]({% link _posts/2026/10/2026-10-03-Darline ConfrontationJackSmithSenateJudiciary.md %})
+- [My Dumb State: Senator Darline Graham (T-SC) Engages in Southern Tribalism during Jack Smith's Testimony Before the Senate Judiciary Committee]({% link _posts/2026/10/2026-10-03-DarlineConfrontationJackSmithSenateJudiciary.md %})
 
 Class II
 
