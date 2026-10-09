@@ -8,7 +8,7 @@ excerpt: ''
 #description:
 #permalink:
 toc: false
-title: "Senate Trumpers Condemn Trump’s Propaganda Commercials"
+title: "Senate Trumpers Condemn Trump’s Taxpayer Funded Propaganda Commercials"
 ---
 
 ## [‘I hate it’: Republicans call out Trump for his taxpayer-funded campaign ads](https://www.ms.now/news/republicans-criticize-trump-public-service-announcements)
