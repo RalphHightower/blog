@@ -14,11 +14,15 @@ const iataDatabase = {
     AUH: { name: "Abu Dhabi International Airport / Zayed International Airport", link: "https://www.zayedinternationalairport.ae/", lat: 0.426437, lon: 0.953842 }, //, 24°25′59″N, 054°39′04″E
     AVL: { name: "Asheville Regional Airport", link: "https://flyavl.com/", lat: 0.618477, lon: -1.440624 }, //, 35°26′10″N, 082°32′30″W
     BFM: { name: "Mobile International Airport", link: "https://www.mobileairportauthority.com/downtown/", lat: 0.534536, lon: -1.537078 }, //, 30°37'36"N, 088°04'05"W
+    BHM: { name: "Birmingham–Shuttlesworth International Airport", link: "", lat: 0.585800, lon: -1.514112 }, //, 33°33′50″N, 086°45′08″W
+    BNA: { name: "Nashville International Airport", link: "https://flynashville.com/", lat: 0.630529, lon: -1.512885 }, //, 36°07′36″N, 086°40′55″W
     BIS: { name: "Bismarck Municipal Airport", link: "https://bismarckairport.com/", lat: 0.816339, lon: -1.758346 }, //, 46°46′22″N, 100°44′45″W
+    BWI: { name: "Baltimore/Washington International Thurgood Marshall Airport", link: "https://bwiairport.com/", lat: 0.683738, lon: -1.338115 }, //, 39°10′31″N, 76°40′06″W
     CAE: { name: "Columbia Metropolitan Airport", link: "https://flycae.com/", lat: 0.592345, lon: -1.415801 }, //🛫, 33°56′20″N, 081°07′10″W
+    CGN: { name: "Cologne Bonn Airport", link: "https://www.koeln-bonn-airport.de/", lat: 0.887776, lon: 0.124665 }, //, 50°51′57″N, 7°8′34″E
     CHS: { name: "Charleston International Airport", link: "https://iflychs.com/", lat: 0.574189, lon: -1.396971 }, //, 32°53′55″N, 080°02′26″W
     CID: { name: "Eastern Iowa Airport / Cedar Rapids Airport", link: "https://flycid.com/", lat: 0.731026, lon: -1.600656 }, //🛫, 41°53′04.9″N, 91°42′38.9″W
-    CLE: { name: "Cleveland Hopkins International Airport", link: "https://www.clevelandairport.com/", lat: 0.722770, lon: 1.428547 }, //, 41°24′42″N, 081°50′59″
+    CLE: { name: "Cleveland Hopkins International Airport", link: "https://www.clevelandairport.com/", lat: 0.722770, lon: 1.428547 }, //🛫, 41°24′42″N, 081°50′59″
     CLT: { name: "Charlotte Douglas International Airport", link: "https://www.cltairport.com/", lat: 0.614598, lon: -1.412723 }, //🛫, 35°12′50″N, 080°56′35″W
     CMH: { name: "John Glenn Columbus International Airport", link: "https://flycolumbus.com/", lat: 0.698098, lon: -1.446737 }, //🛫, 39°59′53″N, 082°53′31″W
     CPR: { name: "Casper–Natrona County International Airport", link: "https://iflycasper.com/", lat: 0.748887, lon: -1.858155 }, //, 42°54′29″N, 106°27′52″W
@@ -36,13 +40,17 @@ const iataDatabase = {
     DUB: { name: "Dublin International Airport", link: "https://www.dublinairport.com/", lat: 0.932379, lon: -0.109432 }, //, 53°25′17″N, 006°16′12″W
     EAU: { name: "Chippewa Valley Regional Airport", link: "https://www.chippewavalleyairport.com/", lat: 0.783057, lon: -1.596700 }, //, 44°51′57″N, 091°29′03″W
     EDF: { name: "Joint Base Elmendorf-Richardson", link: "https://www.jber.jb.mil/", lat: 1.069038, lon: -2.614615 }, //, 61°15′05″N, 149°48′23″W
+    EDW: { name: "Edwards Air Force Base", link: "https://www.edwards.af.mil/", lat: 0.609217, lon: -2.057457 }, //, 34°54′20″N, 117°53′01″W
     EFD: { name: "Ellington Field Joint Reserve Base", link: "https://www.147atkw.ang.af.mil/", lat: 0.516744, lon: -1.660836 }, //, 29°36′26″N, 095°09′32″W
     ERV: { name: "Kerrville Municipal Airport", link: "https://www.kerrvilletx.gov/1765/Airport", lat: 0.523192, lon: -1.729369 }, //, 29°58′36″N, 99°05′08″W
     ESB: { name: "Ankara Esenboğa Airport", link: "https://esenbogaairport.com/", lat: 0.700367, lon: 0.575871 }, //, 40°07′41″N, 032°59′42″E
     EWR: { name: "Newark Liberty International Airport", link: "https://www.newarkairport.com/", lat: 0.710218, lon: -1.294486 }, //, 40°41′33″N, 074°10′07″W
+    FCA: { name: "Glacier Park International Airport", link: "https://iflyglacier.com/", lat: 0.630529, lon: -1.512885 }, //, 48°18′38″N  114°15′22″W
     FCO: { name: "Fiumicino Leonardo da Vinci International Airport / Rome Fiumicino Airport", link: "https://www.adr.it/", lat: 0.729552, lon: 0.213609 }, //, 41°48′01″N, 012°14′20″E
     FRG: { name: "Republic Airport", link: "https://republicairport.net/", lat: 0.710853, lon: -1.281304 }, //, 40°43′44″N, 073°24′48″W
     GON: { name: "Groton-New London Airport", link: "https://ctairports.org/airports/groton-newlondon/", lat: 0.721345, lon: -1.257422 }, //, 41°19′48″N, 072°02′42″W
+    GRI: { name: "Central Nebraska Regional Airport / 
+Grand Island Central Regional Airport", link: "https://flygrandisland.com/", lat: 0.715018, lon: -1.715828 }, //, 40°58'03"N, 098°18'35"W
     GSP: { name: "Greenville–Spartanburg International Airport", link: "https://gspairport.com/", lat: 0.609042, lon: -1.434990 }, //🛫, 34°53′44″N, 082°13′08″W
     GVA: { name: "Geneva Airport", link: "http://www.gva.ch/", lat: 0.806997, lon: 0.106625 }, //, 46°14′15″N, 6°06′33″E
     HGR: { name: "Hagerstown Regional Airport", link: "https://www.washco-md.net/hagerstown-regional-airport/", lat: 0.693046, lon: -1.356581 }, //, 39°42′31″N, 077°43′35″W
@@ -50,6 +58,7 @@ const iataDatabase = {
     HNL: { name: "Daniel K. Inouye International Airport", link: "https://airports.hawaii.gov/hnl/", lat: 0.372080, lon: -2.756268 },	//, 21°19′07″N, 157°55′21″W
     HWO: { name: "North Perry Airport", link: "https://www.broward.org/NorthPerryAirport/Pages/Default.aspx", lat: 0.453805, lon: -1.400467 }, //, 26°00′04″N, 080°14′27″W
     IAD: { name: "Washington Dulles International Airport", link: "https://www.flydulles.com/", lat: 0.679709, lon: -1.351859 }, //, 38°56′40″N, 077°27′21″W
+    IFP: { name: "Laughlin/Bullhead International Airport", link: "https://flyifp.com/", lat: 0.613590, lon: -1.999439 }, //, 35°09′22″N, 114°33′34″W
     JFK: { name: "John F. Kennedy International Airport", link: "https://johnfkennedyairport-jfk.com/", lat: 0.709297, lon: -1.287685 }, //, 40°38′23″N, 73°46′44″W
     JRB: { name: "Downtown Manhattan Heliport", link: "https://www.downtownskyportnyc.com/", lat: 0.710368, lon: -1.291697 }, //, 40.701116°N, 74.008801°W
     JYO: { name: "Leesburg Executive Airport", link: "https://www.leesburgva.gov/departments/airport/about-leesburg-executive-airport", lat: 0.682041, lon: -1.353634 }, //, 39°04′41″N, 077°33′27″W
@@ -84,7 +93,7 @@ const iataDatabase = {
     POB: { name: "Pope Field", link: "https://www.pope.af.mil/", lat: 0.613847, lon: -1.379062 }, //, 35°10′15″N, 79°00′52″W
     PTK: { name: "Oakland County International Airport", link: "https://www.oakgov.com/community/airports/oakland-county-international-airport", lat: 0.744654, lon: -1.455959 }, //, 42°39'56"N, 083°25'13"W
     PUS: { name: "Gimhae International Airport", link: "https://gimhaeairport.com/", lat: 0.613997, lon: 2.250398 }, //, 35°10′46″N, 128°56′18″E
-    PVD: { name: "Rhode Island T. F. Green International Airport", link: "https://flyri.com/", lat: 0.728221, lon: -1.246671 }, //, 41.724°N, 71.429°W
+    PVD: { name: "Rhode Island T. F. Green International Airport", link: "https://flyri.com/", lat: 0.728221, lon: -1.246671 }, //🛫, 41.724°N, 71.429°W
     QQS: { name: "Shuttle Landing Facility (SLF)", link: "https://maps.app.goo.gl/5dKv3ZQxpu4BKbx7A?g_st=ac", lat: 0.499426, lon: -1.408385 }, //📷, 28.615°N, 80.6945°W
     RCA: { name: "Ellsworth Air Force Base", link: "https://www.ellsworth.af.mil/", lat: 0.770500, lon: -1.798993 }, //, 44°08′47″N, 103°04′29″W
     RDG: { name: "Reading Regional Airport", link: "https://readingairport.org/", lat: 0.704740, lon: -1.325844 }, //, 40°22′43″N, 075°57′55″W
@@ -92,6 +101,7 @@ const iataDatabase = {
     RMG: { name: "Richard B. Russell Airport", link: "https://www.russellregionalairport.com/airport", lat: 0.599535, lon: -1.486298 }, //, 34°21′03″N, 085°09′31″W
     RMS: { name: "Ramstein Air Base", link: "https://www.ramstein.af.mil/", lat: 0.862837, lon: 0.132645 }, //, 49°26′13″N, 7°36′0″E
     RUH: { name: "King Khalid International Airport", link: "https://www.kkia.sa/en", lat: 0.435595, lon: 0.815049 }, //, 24°57′28″N, 046°41′56″E
+    SAT: { name: "San Antonio International Airport", link: "https://flysanantonio.com/", lat: 0.515338, lon: -1.718660 }, //, 29°31′36″N, 098°28′19″W
     SKF: { name: "Joint Base San Antonio", link: "https://www.jbsa.mil/", lat: 0.513980, lon: -1.718257 }, //, 29°26′56″N, 098°26′56″W
     SKF_KF: { name: "Kelly Field", link: "https://www.jbsa.mil/", lat: 0.512836, lon: -1.720560 }, //, 29°23′00″N, 098°34′51″W
     SMQ: { name: "Somerset Airport", link: "https://www.somersetairport.com/", lat: 0.709059, lon: -1.303237 }, //, 40°37′34″N, 074°40′12″W
@@ -100,13 +110,18 @@ const iataDatabase = {
     STL: { name: "St. Louis Lambert International Airport", link: "", lat: 0.676267, lon: -1.577104 }, //, 38°44′50″N, 090°21′41″W
     STN: { name: "London Stansted Airport", link: "https://www.stanstedairport.com/", lat: 0.905564, lon: 0.004102 }, //, 51°53′06″N, 0°14′06″E
     SUX: { name: "Sioux Gateway Airport", link: "https://www.sioux-city.org/163/Airport", lat: 0.740063, lon: -1.682226 }, //, 42°24′09″N, 096°23′04″W
+    SYR: { name: "Syracuse Hancock International Airport", link: "https://syrairport.org/", lat: 0.752431, lon: -1.328307 }, //, 43°06′40″N, 076°06′23″W
     TCL: { name: "Tuscaloosa National Airport", link: "https://airport.tuscaloosa.com/", lat: 0.579808, lon: -1.529107 }, //, 33°13′14″N, 87°36′41″W
+    TER: { name: "Lajes Field / Lajes Air Base", link: "https://www.emfa.pt/unit-27-", lat: 0.676524, lon: -0.472824 }, //, 38°45′43″N, 027°05′27″W
     TLV: { name: "Ben Gurion Airport", link: "https://www.iaa.gov.il/", lat: 0.558670, lon: 0.608819 }, //, 32°00′34″N, 034°52′58″E
     TYS: { name: "McGhee Tyson Airport", link: "https://flyknoxville.com/", lat: 0.625022, lon: -1.465970 }, //, 35°48′40″N, 083°59′38″W
     KTYS: { name: "McGhee Tyson Air National Guard Base", link: "https://www.134arw.ang.af.mil/", lat: 0.625022, lon: -1.465970 }, //, 35°48′40″N, 083°59′38″W
+    UAM: { name: "Andersen Air Force Base", link: "https://www.andersen.af.mil/", lat: 0.236948, lon: 2.529409 }, //, 13°34′34″N, 144°55′28″E
     VBT: { name: "Bentonville Municipal Airport", link: "https://www.bentonville.ar.gov/385/Airport", lat: 0.634354, lon: -1.644440 }, //🛫, 36°20′45″N, 094°13′10″W
     XJD: { name: "Al Udeid Air Base", link: "https://www.afcent.af.mil/Units/379th-Air-Expeditionary-Wing/", lat: 0.438402, lon: 0.895679 }, //, 25°07′07″N, 51°19′07″E
+    YNG: { name: "Youngstown–Warren Regional Airport", link: "https://yngairport.com/", lat: 0.720137, lon: -1.408117 }, //, 41°15′39″N, 080°40′45″W
     YYC: { name: "Calgary International Airport", link: "https://www.yyc.com/", lat: 0.892106, lon: -1.990029 }, //, 51°06′50″N, 114°01′13″W
+    ZAZ: { name: "Zaragoza Airport", link: "https://www.aena.es/es/zaragoza.html", lat: 0.727211, lon: -0.018181 }, //, 41°39′58″N, 01°02′30″W
     ZDV: { name: "Davos Stilli Heliport", link: "https://www.davos-helicopter.com/?menuopen=3&showcontent=2", lat: 0.817027, lon: 0.171913 }, //, 46.8122°N, 9.8499°E
     ZRH: { name: "Zurich Airport", link: "https://www.flughafen-zuerich.ch/", lat: 0.828416, lon: 0.149211 }, //, 47°27′53″N, 008°32′57″E
     ZZZ: { name: "", link: "", lat: 0.0, lon: 0.0 } //,
