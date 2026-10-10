@@ -116,7 +116,7 @@ That they’re not speaks volumes.
 - [Ohio (OH)](https://ohio.gov/)
 - [South Carolina (SC)](https://www.sc.gov/)
 - [South Carolina](https://www.sc.gov/)
-- candidates 
+- candidates
 - [Dr. Annie Andrews for Senate (SC)](https://www.drannieandrews.com/)
 - [Adam Hamilton for Kansas (KS) (D)](https://hamiltonforkansas.com/)
 - [Dan Osborn / Independent for U.S. Senate (KS)](https://www.osbornforsenate.com/)

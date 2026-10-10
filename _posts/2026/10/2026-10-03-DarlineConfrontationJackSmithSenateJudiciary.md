@@ -11,7 +11,7 @@ toc: true
 title: "My Dumb State: Senator Darline Graham (T-SC) Engages in Southern Tribalism During Jack Smith's Testimony Before the Senate Judiciary Committee"
 ---
 
-The [Jack Smith](https://www.justice.gov/archives/sco-smith) testimony before the [Senate Judiciary Committee](http://www.judiciary.senate.gov/) was a whole bunch of nothing. The senators followed along party lines. 
+The [Jack Smith](https://www.justice.gov/archives/sco-smith) testimony before the [Senate Judiciary Committee](http://www.judiciary.senate.gov/) was a whole bunch of nothing. The senators followed along party lines.
 
 What struck me the most is that the [Trumpian](https://www.gop.com/) [senators](https://www.senate.gov/) have J6 amnesia. To refresh those who don't remember January 6, 2021 when [Trump](https://www.donaldjtrump.com/) instructed his cult members to lay siege to the [Capitol](https://www.congress.gov/), I've embedded a collection of YouTube videos recorded news media below the blog.
 
@@ -19,7 +19,7 @@ Below is my page covering the documents from the 2020 election interference and 
 
 - [Federal: 2020 Election Interference, January 6 Insurrection ⛓️‍💥]({% link January6DocumentDocumentLinks.md %})
 
-This wasn’t an Emmy‑winning Scarlett O’Hara debut, but [Darline](https://www.dgraham.senate.gov/) sure acted like she was stepping onto the veranda for the first time. The charm, the outrage, the practiced indignation — it all felt like a debut performance in televised [Senate](https://www.senate.gov/) business. 
+This wasn’t an Emmy‑winning Scarlett O’Hara debut, but [Darline](https://www.dgraham.senate.gov/) sure acted like she was stepping onto the veranda for the first time. The charm, the outrage, the practiced indignation — it all felt like a debut performance in televised [Senate](https://www.senate.gov/) business.
 
 ![We have met the enemy and he is us. – Pogo](/assets/images/PogoWeHaveMetTheEnemy.jpeg)
 
@@ -87,7 +87,7 @@ Sep 29, 2026
 Sep 29, 2026
 [Jack Smith](https://www.justice.gov/archives/sco-smith), the former [Justice Department](https://www.justice.gov/) special counsel who brought 2 federal indictments against [President](https://www.whitehouse.gov/) [Donald Trump](https://www.donaldjtrump.com/), was testifying to the [Judiciary Committee](http://www.judiciary.senate.gov/)
 
-For more from TYT Investigates, SUBSCRIBE at:    / tytinvestigatesreports  
+For more from TYT Investigates, SUBSCRIBE at:    / tytinvestigatesreports
 
 You can read our stories at https://www.TYT.com/investigates
 
