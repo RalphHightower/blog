@@ -49,8 +49,7 @@ const iataDatabase = {
     FCO: { name: "Fiumicino Leonardo da Vinci International Airport / Rome Fiumicino Airport", link: "https://www.adr.it/", lat: 0.729552, lon: 0.213609 }, //, 41°48′01″N, 012°14′20″E
     FRG: { name: "Republic Airport", link: "https://republicairport.net/", lat: 0.710853, lon: -1.281304 }, //, 40°43′44″N, 073°24′48″W
     GON: { name: "Groton-New London Airport", link: "https://ctairports.org/airports/groton-newlondon/", lat: 0.721345, lon: -1.257422 }, //, 41°19′48″N, 072°02′42″W
-    GRI: { name: "Central Nebraska Regional Airport / 
-Grand Island Central Regional Airport", link: "https://flygrandisland.com/", lat: 0.715018, lon: -1.715828 }, //, 40°58'03"N, 098°18'35"W
+    GRI: { name: "Central Nebraska Regional Airport / Grand Island Central Regional Airport", link: "https://flygrandisland.com/", lat: 0.715018, lon: -1.715828 }, //, 40°58'03"N, 098°18'35"W
     GSP: { name: "Greenville–Spartanburg International Airport", link: "https://gspairport.com/", lat: 0.609042, lon: -1.434990 }, //🛫, 34°53′44″N, 082°13′08″W
     GVA: { name: "Geneva Airport", link: "http://www.gva.ch/", lat: 0.806997, lon: 0.106625 }, //, 46°14′15″N, 6°06′33″E
     HGR: { name: "Hagerstown Regional Airport", link: "https://www.washco-md.net/hagerstown-regional-airport/", lat: 0.693046, lon: -1.356581 }, //, 39°42′31″N, 077°43′35″W
