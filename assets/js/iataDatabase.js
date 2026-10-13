@@ -3,7 +3,6 @@
 //03 Shared civilian/military airport rule:
 //04 Civilian airports use the [IATA code](https://en.wikipedia.org/wiki/IATA_airport_code?wprov=sfla1) and civilian website.
 //05 Military airports use the [ICAO code](https://en.wikipedia.org/wiki/ICAO_airport_code?wprov=sfla1) and military website
-const iataDatabase = {
     ABE: { name: "Lehigh Valley International Airport", link: "https://www.flyabe.com/", lat: 0.709517, lon: -1.316685 }, //, 40°39′08.4″N, 075°26′25.7″W
     ADW: { name: "Joint Base Andrews", link: "https://www.jba.af.mil/", lat: 0.677377, lon: -1.341581 }, //, 38°48′39″N, 076°52′01″W
     AKH: { name: "Gastonia Municipal Airport", link: "https://gastonianc.gov/municipal-airport.html", lat: 0.614404, lon: -1.416330 }, //, 35°12′10″N, 081°08′59″W
@@ -15,8 +14,8 @@ const iataDatabase = {
     AVL: { name: "Asheville Regional Airport", link: "https://flyavl.com/", lat: 0.618477, lon: -1.440624 }, //, 35°26′10″N, 082°32′30″W
     BFM: { name: "Mobile International Airport", link: "https://www.mobileairportauthority.com/downtown/", lat: 0.534536, lon: -1.537078 }, //, 30°37'36"N, 088°04'05"W
     BHM: { name: "Birmingham–Shuttlesworth International Airport", link: "", lat: 0.585800, lon: -1.514112 }, //, 33°33′50″N, 086°45′08″W
-    BNA: { name: "Nashville International Airport", link: "https://flynashville.com/", lat: 0.630529, lon: -1.512885 }, //, 36°07′36″N, 086°40′55″W
     BIS: { name: "Bismarck Municipal Airport", link: "https://bismarckairport.com/", lat: 0.816339, lon: -1.758346 }, //, 46°46′22″N, 100°44′45″W
+    BNA: { name: "Nashville International Airport", link: "https://flynashville.com/", lat: 0.630529, lon: -1.512885 }, //, 36°07′36″N, 086°40′55″W
     BWI: { name: "Baltimore/Washington International Thurgood Marshall Airport", link: "https://bwiairport.com/", lat: 0.683738, lon: -1.338115 }, //, 39°10′31″N, 76°40′06″W
     CAE: { name: "Columbia Metropolitan Airport", link: "https://flycae.com/", lat: 0.592345, lon: -1.415801 }, //🛫, 33°56′20″N, 081°07′10″W
     CGN: { name: "Cologne Bonn Airport", link: "https://www.koeln-bonn-airport.de/", lat: 0.887776, lon: 0.124665 }, //, 50°51′57″N, 7°8′34″E
@@ -33,9 +32,9 @@ const iataDatabase = {
     DFW: { name: "Dallas Fort Worth International Airport", link: "https://www.dfwairport.com/", lat: 0.574160, lon: -1.693634 }, //, 32°53′49″N, 97°02′17″W
     DJT: { name: "President Donald J. Trump International Airport", link: "https://flydjt.org/", lat: 0.465707, lon: -1.397931 }, //, 26°40′59″N, 80°05′44″W
     DMA: { name: "Davis-Monthan Air Force Base (The Boneyard)", link: "https://www.dover.af.mil/", lat: 0.561361, lon: -1.934688 }, //, 32°09′49″N, 110°50′58″W
+    DNN: { name: "Dalton Municipal Airport", link: "https://www.daltonga.gov/291/City-of-Dalton-Municipal-Airport", lat: 0.606030,  lat: 0.606030,  //, 34°43'22.58"N, 84°52'12.869"W
     DOH: { name: "Hamad International Airport", link: "https://www.dohahamadairport.com/", lat: 0.441098, lon: 0.900730 }, //, 25°16′23″N, 51°36′29″E
     DOV: { name: "Dover Air Force Base", link: "https://www.dm.af.mil/", lat: 0.682918, lon: -1.317108 }, //, 39°07′42″N, 075°27′53″W
-    DNN: { name: "Dalton Municipal Airport", link: "https://www.daltonga.gov/291/City-of-Dalton-Municipal-Airport", lat: 0.606030,  lat: 0.606030,  //, 34°43'22.58"N, 84°52'12.869"W
     DSM: { name: "Des Moines International Airport", link: "https://www.flydsm.com/", lat: 0.724903, lon: -1.634729 }, //, 41°32′02″N, 093°39′47″W
     DTW: { name: "Detroit Metropolitan Wayne County Airport", link: "https://metroairport.com/", lat: 0.736747, lon: -1.454790 }, //🛫, 42°12′45″N, 083°21′12″W
     DUB: { name: "Dublin International Airport", link: "https://www.dublinairport.com/", lat: 0.932379, lon: -0.109432 }, //, 53°25′17″N, 006°16′12″W
@@ -70,8 +69,9 @@ const iataDatabase = {
     KNBC: { name: "Marine Corps Air Station Beaufort", link: "https://www.beaufort.marines.mil/", lat: 0.566834, lon: -1.408883 }, //, 32°28'38"N, 080°43'23"W
     KRW: { name: "Rocky Mount-Wilson Regional Airport", link: "https://www.krwiairport.org/", lat: 0.625812, lon: -1.359471 }, //, 35°51′23″N, 077°53′31″W
     KSSC: { name: "Shaw Air Force Base", link: "https://www.shaw.af.mil/", lat: 0.592942, lon: -1.404515 }, //, 33°58'23"N, 080°28′22″W
-    KYNG: { name: "Youngstown Air Reserve Station", link: "https://www.afrc.af.mil/Units/youngstown/", lat: 0.720136, lon: -1.408116 }, //, 41°15′38.64″N, 80°40′44.74″W
+    KTYS: { name: "McGhee Tyson Air National Guard Base", link: "https://www.134arw.ang.af.mil/", lat: 0.625022, lon: -1.465970 }, //, 35°48′40″N, 083°59′38″W
     KUL: { name: "Kuala Lumpur International Airport", link: "https://www.kuala-lumpur-airport.com/", lat: 0.047880, lon: 1.774966 }, //, 02°44′36″N, 101°41′53″E
+    KYNG: { name: "Youngstown Air Reserve Station", link: "https://www.afrc.af.mil/Units/youngstown/", lat: 0.720136, lon: -1.408116 }, //, 41°15′38.64″N, 80°40′44.74″W
     LAS: { name: "Harry Reid International Airport", link: "https://www.harryreidairport.com/)", lat: 0.629715, lon: -2.009785 }, //, 36°04′48″N, 115°09′08″W
     LAX: { name: "Los Angeles International Airport", link: "https://www.flylax.com/", lat: 0.592408, lon: -2.066610 }, //, 33°56′33″N, 118°24′29″W
     LGA: { name: "LaGuardia Airport", link: "https://www.laguardiaairport.com/", lat: 0.711658, lon: -1.289362 }, //, 40°46′30″N, 73°52′30″W
@@ -118,7 +118,6 @@ const iataDatabase = {
     TER: { name: "Lajes Field / Lajes Air Base", link: "https://www.emfa.pt/unit-27-", lat: 0.676524, lon: -0.472824 }, //, 38°45′43″N, 027°05′27″W
     TLV: { name: "Ben Gurion Airport", link: "https://www.iaa.gov.il/", lat: 0.558670, lon: 0.608819 }, //, 32°00′34″N, 034°52′58″E
     TYS: { name: "McGhee Tyson Airport", link: "https://flyknoxville.com/", lat: 0.625022, lon: -1.465970 }, //, 35°48′40″N, 083°59′38″W
-    KTYS: { name: "McGhee Tyson Air National Guard Base", link: "https://www.134arw.ang.af.mil/", lat: 0.625022, lon: -1.465970 }, //, 35°48′40″N, 083°59′38″W
     UAM: { name: "Andersen Air Force Base", link: "https://www.andersen.af.mil/", lat: 0.236948, lon: 2.529409 }, //, 13°34′34″N, 144°55′28″E
     VBT: { name: "Bentonville Municipal Airport", link: "https://www.bentonville.ar.gov/385/Airport", lat: 0.634354, lon: -1.644440 }, //🛫, 36°20′45″N, 094°13′10″W
     XJD: { name: "Al Udeid Air Base", link: "https://www.afcent.af.mil/Units/379th-Air-Expeditionary-Wing/", lat: 0.438402, lon: 0.895679 }, //, 25°07′07″N, 51°19′07″E
@@ -130,3 +129,4 @@ const iataDatabase = {
     ZZZ: { name: "", link: "", lat: 0.0, lon: 0.0 } //,
     };
 //99 @RalphHightower: remove the comma after the closing brace for the last airport record
+const iataDatabase = {
