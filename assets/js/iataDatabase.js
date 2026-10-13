@@ -3,6 +3,8 @@
 //03 Shared civilian/military airport rule:
 //04 Civilian airports use the [IATA code](https://en.wikipedia.org/wiki/IATA_airport_code?wprov=sfla1) and civilian website.
 //05 Military airports use the [ICAO code](https://en.wikipedia.org/wiki/ICAO_airport_code?wprov=sfla1) and military website
+
+const iataDatabase = {
     ABE: { name: "Lehigh Valley International Airport", link: "https://www.flyabe.com/", lat: 0.709517, lon: -1.316685 }, //, 40°39′08.4″N, 075°26′25.7″W
     ADW: { name: "Joint Base Andrews", link: "https://www.jba.af.mil/", lat: 0.677377, lon: -1.341581 }, //, 38°48′39″N, 076°52′01″W
     AKH: { name: "Gastonia Municipal Airport", link: "https://gastonianc.gov/municipal-airport.html", lat: 0.614404, lon: -1.416330 }, //, 35°12′10″N, 081°08′59″W
@@ -129,4 +131,3 @@
     ZZZ: { name: "", link: "", lat: 0.0, lon: 0.0 } //,
     };
 //99 @RalphHightower: remove the comma after the closing brace for the last airport record
-const iataDatabase = {
