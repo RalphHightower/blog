@@ -73,7 +73,6 @@ The [White House](https://www.whitehouse.gov/) did not comment on the lawsuits, 
 - [Leadership - Democrats](https://democrats.org/leadership/)
 - Ken Martin
 - [Common Cause / Fighting For The Democracy We Deserve - Common Cause](https://www.commoncause.org/)
-- Ken Martin
 - political parties
 - [Democrat Party](https://www.democrats.org/)
     - [Democratic National Committee (DNC)](https://www.democrats.org/)
