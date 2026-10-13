@@ -35,6 +35,7 @@ const iataDatabase = {
     DMA: { name: "Davis-Monthan Air Force Base (The Boneyard)", link: "https://www.dover.af.mil/", lat: 0.561361, lon: -1.934688 }, //, 32°09′49″N, 110°50′58″W
     DOH: { name: "Hamad International Airport", link: "https://www.dohahamadairport.com/", lat: 0.441098, lon: 0.900730 }, //, 25°16′23″N, 51°36′29″E
     DOV: { name: "Dover Air Force Base", link: "https://www.dm.af.mil/", lat: 0.682918, lon: -1.317108 }, //, 39°07′42″N, 075°27′53″W
+    DNN: { name: "Dalton Municipal Airport", link: "https://www.daltonga.gov/291/City-of-Dalton-Municipal-Airport", lat: 0.606030,  lat: 0.606030,  //, 34°43'22.58"N, 84°52'12.869"W
     DSM: { name: "Des Moines International Airport", link: "https://www.flydsm.com/", lat: 0.724903, lon: -1.634729 }, //, 41°32′02″N, 093°39′47″W
     DTW: { name: "Detroit Metropolitan Wayne County Airport", link: "https://metroairport.com/", lat: 0.736747, lon: -1.454790 }, //🛫, 42°12′45″N, 083°21′12″W
     DUB: { name: "Dublin International Airport", link: "https://www.dublinairport.com/", lat: 0.932379, lon: -0.109432 }, //, 53°25′17″N, 006°16′12″W
@@ -49,12 +50,14 @@ const iataDatabase = {
     FCO: { name: "Fiumicino Leonardo da Vinci International Airport / Rome Fiumicino Airport", link: "https://www.adr.it/", lat: 0.729552, lon: 0.213609 }, //, 41°48′01″N, 012°14′20″E
     FRG: { name: "Republic Airport", link: "https://republicairport.net/", lat: 0.710853, lon: -1.281304 }, //, 40°43′44″N, 073°24′48″W
     GON: { name: "Groton-New London Airport", link: "https://ctairports.org/airports/groton-newlondon/", lat: 0.721345, lon: -1.257422 }, //, 41°19′48″N, 072°02′42″W
+    GPI: { name: "Glacier Park International Airport", link: "https://iflyglacier.com/", lat: 0.843178, lon: -1.994145 }, //, 48°18′38″N, 114°15′22″W
     GRI: { name: "Central Nebraska Regional Airport / Grand Island Central Regional Airport", link: "https://flygrandisland.com/", lat: 0.715018, lon: -1.715828 }, //, 40°58'03"N, 098°18'35"W
     GSP: { name: "Greenville–Spartanburg International Airport", link: "https://gspairport.com/", lat: 0.609042, lon: -1.434990 }, //🛫, 34°53′44″N, 082°13′08″W
     GVA: { name: "Geneva Airport", link: "http://www.gva.ch/", lat: 0.806997, lon: 0.106625 }, //, 46°14′15″N, 6°06′33″E
     HGR: { name: "Hagerstown Regional Airport", link: "https://www.washco-md.net/hagerstown-regional-airport/", lat: 0.693046, lon: -1.356581 }, //, 39°42′31″N, 077°43′35″W
     HND: { name: "Haneda Airport", link: "https://tokyo-haneda.com/", lat: 0.620523, lon: 2.439641 }, //, 35°33′12″N, 139°46′52″E
     HNL: { name: "Daniel K. Inouye International Airport", link: "https://airports.hawaii.gov/hnl/", lat: 0.372080, lon: -2.756268 },	//, 21°19′07″N, 157°55′21″W
+    HOP: { name: "Campbell Army Airfield", link: "https://home.army.mil/campbell/", lat: 0.640051, lon: -1.527032 }, //, 36°40′20″N, 087°29′33″W
     HWO: { name: "North Perry Airport", link: "https://www.broward.org/NorthPerryAirport/Pages/Default.aspx", lat: 0.453805, lon: -1.400467 }, //, 26°00′04″N, 080°14′27″W
     IAD: { name: "Washington Dulles International Airport", link: "https://www.flydulles.com/", lat: 0.679709, lon: -1.351859 }, //, 38°56′40″N, 077°27′21″W
     IFP: { name: "Laughlin/Bullhead International Airport", link: "https://flyifp.com/", lat: 0.613590, lon: -1.999439 }, //, 35°09′22″N, 114°33′34″W
@@ -67,6 +70,7 @@ const iataDatabase = {
     KNBC: { name: "Marine Corps Air Station Beaufort", link: "https://www.beaufort.marines.mil/", lat: 0.566834, lon: -1.408883 }, //, 32°28'38"N, 080°43'23"W
     KRW: { name: "Rocky Mount-Wilson Regional Airport", link: "https://www.krwiairport.org/", lat: 0.625812, lon: -1.359471 }, //, 35°51′23″N, 077°53′31″W
     KSSC: { name: "Shaw Air Force Base", link: "https://www.shaw.af.mil/", lat: 0.592942, lon: -1.404515 }, //, 33°58'23"N, 080°28′22″W
+    KYNG: { name: "Youngstown Air Reserve Station", link: "https://www.afrc.af.mil/Units/youngstown/", lat: 0.720136, lon: -1.408116 }, //, 41°15′38.64″N, 80°40′44.74″W
     KUL: { name: "Kuala Lumpur International Airport", link: "https://www.kuala-lumpur-airport.com/", lat: 0.047880, lon: 1.774966 }, //, 02°44′36″N, 101°41′53″E
     LAS: { name: "Harry Reid International Airport", link: "https://www.harryreidairport.com/)", lat: 0.629715, lon: -2.009785 }, //, 36°04′48″N, 115°09′08″W
     LAX: { name: "Los Angeles International Airport", link: "https://www.flylax.com/", lat: 0.592408, lon: -2.066610 }, //, 33°56′33″N, 118°24′29″W
@@ -125,4 +129,4 @@ const iataDatabase = {
     ZRH: { name: "Zurich Airport", link: "https://www.flughafen-zuerich.ch/", lat: 0.828416, lon: 0.149211 }, //, 47°27′53″N, 008°32′57″E
     ZZZ: { name: "", link: "", lat: 0.0, lon: 0.0 } //,
     };
-// @RalphHightower: remove the comma after the closing brace for the last airport record
+//99 @RalphHightower: remove the comma after the closing brace for the last airport record
