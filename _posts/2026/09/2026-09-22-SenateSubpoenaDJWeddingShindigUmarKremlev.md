@@ -8,7 +8,7 @@ excerpt: ''
 #description:
 #permalink:
 toc: false
-title: "Trumpian Senators Look to Subpoena DJ (DonJr) on Russian Oligarch, Umar Kremlev of Lavish Wedding Party Shindig for DJ & Bettina"
+title: "Inside the Trump Crime Family: Trumpian Senators Look to Subpoena DJ (DonJr) on Russian Oligarch, Umar Kremlev of Lavish Wedding Party Shindig for DJ & Bettina"
 ---
 
 ## [Republican senator seeks subpoena for Donald Trump Jr. over wedding party controversy](https://www.ms.now/rachel-maddow-show/maddowblog/curtis-trump-jr-wedding-russian-putin-grassley-republicans-subpoena-scandal)
@@ -187,6 +187,7 @@ This post updates [related earlier coverage](https://www.ms.now/rachel-maddow-sh
 - [Michael Boulos](https://en.wikipedia.org/wiki/Michael_Boulos?wprov=sfla1)
 - [Kai Trump](https://en.wikipedia.org/wiki/Kai_Trump?wprov=sfla1)
 - criminal associates
+- [Umar Kremlev](https://en.wikipedia.org/wiki/Umar_Kremlev?wprov=sfla1)
 - criminal businesses
 {% include TrumpCrimeBusinesses.html %}
 - criminal media

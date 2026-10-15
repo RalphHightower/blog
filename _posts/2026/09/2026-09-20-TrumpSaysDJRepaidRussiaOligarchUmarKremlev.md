@@ -177,6 +177,7 @@ The arrangement has drawn scrutiny from congressional [Democrats](https://www.de
 - [Michael Boulos](https://en.wikipedia.org/wiki/Michael_Boulos?wprov=sfla1)
 - [Kai Trump](https://en.wikipedia.org/wiki/Kai_Trump?wprov=sfla1)
 - criminal associates
+- [Umar Kremlev](https://en.wikipedia.org/wiki/Umar_Kremlev?wprov=sfla1)
 - criminal businesses
 {% include TrumpCrimeBusinesses.html %}
 - criminal media
