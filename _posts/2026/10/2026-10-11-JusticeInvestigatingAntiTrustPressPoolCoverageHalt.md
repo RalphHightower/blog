@@ -8,7 +8,7 @@ excerpt: ''
 #description:
 #permalink:
 toc: false
-title: "Justice Department Investigates Antitrust Violations of Press Pool Halted Television Coverage After Trump Violated Thei Freedom of Speech Rights"
+title: "Justice Department Investigates Antitrust Violations of Press Pool Halted Television Coverage After Trump Violated Their Freedom of Speech Rights"
 ---
 
 - 2026-09-23 [WHCA Joins Amicus Brief In First Amendment Case](https://whca.press/2026/09/23/whca-joins-amicus-brief-in-first-amendment-case/)
