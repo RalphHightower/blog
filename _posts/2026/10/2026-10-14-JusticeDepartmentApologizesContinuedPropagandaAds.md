@@ -5,7 +5,7 @@ categories: [Hon. Jennifer L. Rochon / Southern District of New York / U.S Distr
 date: 2026-10-14 14:45
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
-#description:
+#description: 
 #permalink:
 toc: false
 title: "Department of Justice (DOJ) Issues Rare Apology to Judge For Continuing Trump’s Propaganda Ads"

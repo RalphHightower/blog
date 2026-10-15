@@ -5,7 +5,7 @@ categories: [propaganda,taxpayer money,taxpayer funded,taxpayer waste,Donald Tru
 date: 2026-10-10 14:42
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
-#description:
+#description: 
 #permalink:
 toc: false
 title: "Trump Influenced Creation of his Propaganda Ads"

@@ -6,7 +6,7 @@ date: 2026-10-09 17:47
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
-#permalink:
+#permalink: 
 toc: false
 title: "Federal Communications Commission (FCC) Chair on Trump’s Taxpayer Funded Propaganda Commercials: “No Big Deal”"
 ---

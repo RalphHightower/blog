@@ -5,7 +5,7 @@ categories: [propaganda,taxpayer money,taxpayer funded,taxpayer waste,Donald Tru
 date: 2026-10-10 19:02
 excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
-#description:
+#description: 
 #permalink:
 toc: false
 title: "Democrats Sue Trump Over His Taxpayer Funded Propaganda Ads"
