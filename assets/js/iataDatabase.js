@@ -48,6 +48,7 @@ const iataDatabase = {
     ESB: { name: "Ankara Esenboğa Airport", link: "https://esenbogaairport.com/", lat: 0.700367, lon: 0.575871 }, //, 40°07′41″N, 032°59′42″E
     EWR: { name: "Newark Liberty International Airport", link: "https://www.newarkairport.com/", lat: 0.710218, lon: -1.294486 }, //, 40°41′33″N, 074°10′07″W
     FCA: { name: "Glacier Park International Airport", link: "https://iflyglacier.com/", lat: 0.630529, lon: -1.512885 }, //, 48°18′38″N  114°15′22″W
+    GPI: { name: "Glacier Park International Airport", link: "https://iflyglacier.com/", lat: 0.630529, lon: -1.512885 }, //, 48°18′38″N  114°15′22″W
     FCO: { name: "Fiumicino Leonardo da Vinci International Airport / Rome Fiumicino Airport", link: "https://www.adr.it/", lat: 0.729552, lon: 0.213609 }, //, 41°48′01″N, 012°14′20″E
     FRG: { name: "Republic Airport", link: "https://republicairport.net/", lat: 0.710853, lon: -1.281304 }, //, 40°43′44″N, 073°24′48″W
     GON: { name: "Groton-New London Airport", link: "https://ctairports.org/airports/groton-newlondon/", lat: 0.721345, lon: -1.257422 }, //, 41°19′48″N, 072°02′42″W
@@ -60,7 +61,9 @@ const iataDatabase = {
     HNL: { name: "Daniel K. Inouye International Airport", link: "https://airports.hawaii.gov/hnl/", lat: 0.372080, lon: -2.756268 },	//, 21°19′07″N, 157°55′21″W
     HOP: { name: "Campbell Army Airfield", link: "https://home.army.mil/campbell/", lat: 0.640051, lon: -1.527032 }, //, 36°40′20″N, 087°29′33″W
     HWO: { name: "North Perry Airport", link: "https://www.broward.org/NorthPerryAirport/Pages/Default.aspx", lat: 0.453805, lon: -1.400467 }, //, 26°00′04″N, 080°14′27″W
+    IAB: { name: "McConnell Air Force Base", link: "https://www.mcconnell.af.mil/", lat: 0.656646, lon: 1.697633 }, //, 37°37′23″N, 097°16′02″
     IAD: { name: "Washington Dulles International Airport", link: "https://www.flydulles.com/", lat: 0.679709, lon: -1.351859 }, //, 38°56′40″N, 077°27′21″W
+    ICT: { name: "Wichita Dwight D. Eisenhower National Airport", link: "https://www.flywichita.com/", lat: 0.657116, lon: -1.700528 }, //, 37°39′0″N, 97°25′59″W
     IFP: { name: "Laughlin/Bullhead International Airport", link: "https://flyifp.com/", lat: 0.613590, lon: -1.999439 }, //, 35°09′22″N, 114°33′34″W
     JFK: { name: "John F. Kennedy International Airport", link: "https://johnfkennedyairport-jfk.com/", lat: 0.709297, lon: -1.287685 }, //, 40°38′23″N, 73°46′44″W
     JRB: { name: "Downtown Manhattan Heliport", link: "https://www.downtownskyportnyc.com/", lat: 0.710368, lon: -1.291697 }, //, 40.701116°N, 74.008801°W
@@ -84,6 +87,7 @@ const iataDatabase = {
     MHZ: { name: "RAF Mildenhall / Royal Air Force Mildenhall", link: "https://www.mildenhall.af.mil/", lat: 0.913942, lon: 0.008392 }, //, 52°21′54″N, 000°28′51″E
     MIA: { name: "Miami International Airport", link: "https://miami-airport.com/", lat: 0.450179, lon: -1.401335 }, //, 25°47′36″N, 080°17′26″W
     MMU: { name: "Morristown Municipal Airport", link: "https://www.mmuair.com/", lat: 0.712085, lon: -1.298787 }, //, 40°47′58″N, 074°24′54″W
+    MSO: { name: "Missoula International Airport", link: "https://flymissoula.com/", lat: 0.818845,  lon 0.0 }, //, 46°54′59″N, 114°05′26″W
     MTC: { name: "Selfridge Air National Guard Base", link: "https://www.127wg.ang.af.mil/", lat: 0.743656, lon: -1.445753 }, //, 42°36′30″N, 082°50′08″W
     MYR: { name: "Myrtle Beach International Airport", link: "https://www.flymyrtlebeach.com/", lat: 0.587822, lon: -1.377559 }, //, 33°40′47″N, 078°55′42″W
     OMA: { name: "Eppley Airfield / Omaha Airport", link: "https://www.flyoma.com/", lat: 0.720821, lon: -1.673683 }, //, 41.30°N, 95.895°W
@@ -92,6 +96,7 @@ const iataDatabase = {
     PBI: { name: "Palm Beach International Airport", link: "https://www.pbia.org/", lat: 0.465707, lon: -1.397931 }, //, 26°40′59″N, 80°05′44″W
     PEB: { name: "Teterboro Airport", link: "https://www.panynj.gov/airports/en/teterboro.html", lat: 0.712967, lon: -1.292605 }, //, 40°51′00″N, 074°03′39″W
     PEK: { name: "Beijing Capital International Airport", link: "https://www.bcia.com.cn/", lat: 0.699397, lon: 2.035010 }, //, 40°04′21″N, 116°35′51″E
+    PGV: { name: "Pitt–Greenville Airport", link: "https://flypgv.com/", lat: 0.621953, lon: -1.350628 }, //, 35°38′07″N, 77°23′07″W
     PHL: { name: "Philadelphia International Airport", link: "https://www.phl.org/", lat: 0.695897, lon: -1.313205 }, //🛫, 39°52′19″N, 075°14′28″W
     PIK: { name: "Glasgow Prestwick Airport", link: "https://www.glasgowprestwick.com/", lat: 0.968823, lon: -0.080188 }, //, 55°30′34″N, 004°35′40″W
     PIT: { name: "Pittsburgh International Airport", link: "https://flypittsburgh.com/", lat: 0.706789, lon: -1.400557 }, //🛫, 40.496°N, 80.246°W
@@ -122,12 +127,13 @@ const iataDatabase = {
     TYS: { name: "McGhee Tyson Airport", link: "https://flyknoxville.com/", lat: 0.625022, lon: -1.465970 }, //, 35°48′40″N, 083°59′38″W
     UAM: { name: "Andersen Air Force Base", link: "https://www.andersen.af.mil/", lat: 0.236948, lon: 2.529409 }, //, 13°34′34″N, 144°55′28″E
     VBT: { name: "Bentonville Municipal Airport", link: "https://www.bentonville.ar.gov/385/Airport", lat: 0.634354, lon: -1.644440 }, //🛫, 36°20′45″N, 094°13′10″W
+    WWA: { name: "Wasilla Airport", link: "https://www.cityofwasilla.gov/246/Municipal-Airport", lat: 1.074633,   lon: 0.0 }, //, 61°34′19″N, 149°32′22″W
     XJD: { name: "Al Udeid Air Base", link: "https://www.afcent.af.mil/Units/379th-Air-Expeditionary-Wing/", lat: 0.438402, lon: 0.895679 }, //, 25°07′07″N, 51°19′07″E
     YNG: { name: "Youngstown–Warren Regional Airport", link: "https://yngairport.com/", lat: 0.720137, lon: -1.408117 }, //, 41°15′39″N, 080°40′45″W
     YYC: { name: "Calgary International Airport", link: "https://www.yyc.com/", lat: 0.892106, lon: -1.990029 }, //, 51°06′50″N, 114°01′13″W
     ZAZ: { name: "Zaragoza Airport", link: "https://www.aena.es/es/zaragoza.html", lat: 0.727211, lon: -0.018181 }, //, 41°39′58″N, 01°02′30″W
     ZDV: { name: "Davos Stilli Heliport", link: "https://www.davos-helicopter.com/?menuopen=3&showcontent=2", lat: 0.817027, lon: 0.171913 }, //, 46.8122°N, 9.8499°E
     ZRH: { name: "Zurich Airport", link: "https://www.flughafen-zuerich.ch/", lat: 0.828416, lon: 0.149211 }, //, 47°27′53″N, 008°32′57″E
-    ZZZ: { name: "", link: "", lat: 0.0, lon: 0.0 } //,
+    ZZZ: { name: "", link: "", lat: 0.0, lon: 0.0 } //, N, W
     };
 //99 @RalphHightower: remove the comma after the closing brace for the last airport record
