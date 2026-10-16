@@ -34,7 +34,7 @@ const iataDatabase = {
     DFW: { name: "Dallas Fort Worth International Airport", link: "https://www.dfwairport.com/", lat: 0.574160, lon: -1.693634 }, //, 32°53′49″N, 97°02′17″W
     DJT: { name: "President Donald J. Trump International Airport", link: "https://flydjt.org/", lat: 0.465707, lon: -1.397931 }, //, 26°40′59″N, 80°05′44″W
     DMA: { name: "Davis-Monthan Air Force Base (The Boneyard)", link: "https://www.dover.af.mil/", lat: 0.561361, lon: -1.934688 }, //, 32°09′49″N, 110°50′58″W
-    DNN: { name: "Dalton Municipal Airport", link: "https://www.daltonga.gov/291/City-of-Dalton-Municipal-Airport", lat: 0.606030, lat: 0.606030, //, 34°43'22.58"N, 84°52'12.869"W
+    DNN: { name: "Dalton Municipal Airport", link: "https://www.daltonga.gov/291/City-of-Dalton-Municipal-Airport", lat: 0.606030, lat: 0.606030 }, //, 34°43'22.58"N, 84°52'12.869"W
     DOH: { name: "Hamad International Airport", link: "https://www.dohahamadairport.com/", lat: 0.441098, lon: 0.900730 }, //, 25°16′23″N, 51°36′29″E
     DOV: { name: "Dover Air Force Base", link: "https://www.dm.af.mil/", lat: 0.682918, lon: -1.317108 }, //, 39°07′42″N, 075°27′53″W
     DSM: { name: "Des Moines International Airport", link: "https://www.flydsm.com/", lat: 0.724903, lon: -1.634729 }, //, 41°32′02″N, 093°39′47″W
@@ -134,6 +134,6 @@ const iataDatabase = {
     ZAZ: { name: "Zaragoza Airport", link: "https://www.aena.es/es/zaragoza.html", lat: 0.727211, lon: -0.018181 }, //, 41°39′58″N, 01°02′30″W
     ZDV: { name: "Davos Stilli Heliport", link: "https://www.davos-helicopter.com/?menuopen=3&showcontent=2", lat: 0.817027, lon: 0.171913 }, //, 46.8122°N, 9.8499°E
     ZRH: { name: "Zurich Airport", link: "https://www.flughafen-zuerich.ch/", lat: 0.828416, lon: 0.149211 }, //, 47°27′53″N, 008°32′57″E
-    ZZZ: { name: "", link: "", lat: 0.0, lon: 0.0 } //, N, W
+    ZZZ: { name: "", link: "", lat: 0.0, lon: 0.0 }
     };
 //99 @RalphHightower: remove the comma after the closing brace for the last airport record
