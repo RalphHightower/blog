@@ -42,7 +42,7 @@ An [An AP-NORC Center for Public Affairs Research poll](https://apnorc.org/proje
 
 His colleagues in [Congress](https://www.congress.gov/) responded with bipartisan support after his death and [Trump](https://www.donaldjtrump.com/) attached his signature to the legislation — then changed his mind Friday.
 
-The package had been meant to starve [Russian](http://kremlin.ru/) [President](http://putin.kremlin.ru/) [Vladimir Putin](https://apnews.com/hub/vladimir-putin) of the resources [Moscow](https://www.mos.ru/) needs to continue its war in [Ukraine](https://www.kmu.gov.ua/) after invading its neighbor more than four years ago. The bill, also drafted by [Sen.](https://www.senate.gov/) [Richard Blumenthal (D-CT](https://www.blumenthal.senate.gov/), had sought to sanction [Russia](http://kremlin.ru/)n officials, banks and a shadow fleet of tankers that keeps [Russian](http://kremlin.ru/) energy moving.
+The package had been meant to starve [Russian](http://kremlin.ru/) [President](http://putin.kremlin.ru/) [Vladimir Putin](https://apnews.com/hub/vladimir-putin) of the resources [Moscow](https://www.mos.ru/) needs to continue its war in [Ukraine](https://www.kmu.gov.ua/) after invading its neighbor more than four years ago. The bill, also drafted by [Sen.](https://www.senate.gov/) [Richard Blumenthal (D-CT)(https://www.blumenthal.senate.gov/), had sought to sanction [Russia](http://kremlin.ru/)n officials, banks and a shadow fleet of tankers that keeps [Russian](http://kremlin.ru/) energy moving.
 
 It also directed [Trump](https://www.donaldjtrump.com/) to impose up to 100% tariffs on the top five importers of [Russian](http://kremlin.ru/) oil or natural gas, with an exception for countries that import less than 15% of [Russia](http://kremlin.ru/)’s natural gas exports and have taken significant steps to reduce those imports.
 
@@ -98,7 +98,7 @@ She acknowledged, however, that it was the [president](https://www.whitehouse.go
 - [Dr. Annie Andrews for Senate](https://drannieandrews.com/)
 - [Dr. Annie Andrews / LinkedIn](https://www.linkedin.com/in/dr-annie-andrews-a95643264/)
 - [Don Beyer (D-VA8)](https://beyer.house.gov/)
-- [Richard Blumenthal (D-CT](https://www.blumenthal.senate.gov/)
+- [Richard Blumenthal (D-CT)(https://www.blumenthal.senate.gov/)
 - [The Associated Press-NORC Center for Public Affairs Research](https://apnorc.org/)
 - [South Carolina (SC)](https://www.sc.gov/)
 - political parties
@@ -134,7 +134,7 @@ She acknowledged, however, that it was the [president](https://www.whitehouse.go
     - [Congress](https://www.congress.gov/)
         - [Text - H.R.5334 - 119th Congress (2025-2026): Lindsey O. Graham Sanctioning Russia and Iran Act of 2026 / Congress.gov / Library of Congress](https://www.congress.gov/bill/119th-congress/house-bill/5334/text)
         - [Senate](https://www.senate.gov/)
-            - [Richard Blumenthal (D-CT](https://www.blumenthal.senate.gov/)
+            - [Richard Blumenthal (D-CT)(https://www.blumenthal.senate.gov/)
             - [Darline Graham (T-SC)](https://www.dgraham.senate.gov/)
                 - [Lindsey Graham (T-SC) 1955 – 2026](https://en.wikipedia.org/wiki/Lindsey_Graham?wprov=sfla1)
         - [House of Representatives](https://www.house.gov/)
