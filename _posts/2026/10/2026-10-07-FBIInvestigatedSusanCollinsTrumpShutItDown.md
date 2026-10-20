@@ -74,7 +74,7 @@ And yet, with just six weeks remaining in the midterm election cycle and polls s
 
 [Jackson](https://www.jacksonformaine.com/)’s statement concluded, “We deserve answers about every contract and every conversation that [Collins](https://www.collins.senate.gov/) and her team facilitated on the backs of taxpayers. The jig is up.”
 
-[Steve Benen](https://www.ms.now/author/steve-benen) is a producer for "The Rachel Maddow Show," the editor of MaddowBlog and an MS NOW political contributor. He's also the bestselling author of "Ministry of Truth: Democracy, Reality, and the Republicans' War on the Recent Past."
+[Steve Benen](https://www.ms.now/author/steve-benen) is a producer for ["The Rachel Maddow Show,"](https://www.ms.now/rachel-maddow-show) the editor of [MaddowBlog](https://www.ms.now/maddowblog) and an [MS NOW](https://www.ms.now/) political contributor. He's also the bestselling author of "Ministry of Truth: Democracy, Reality, and the Republicans' War on the Recent Past."
 
 ----
 - media
