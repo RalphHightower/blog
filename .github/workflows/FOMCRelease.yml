@@ -45,7 +45,7 @@ jobs:
           GH_REPO: ${{ github.repository }}
           TITLE: "FOMC Release"
           ASSIGNEES: "RalphHightower"
-          LABELS: "maintenance,release – minor"
+          LABELS: "blog,article – economy,article – government,article – finance,article – politics"
           BODY: |
 
             - [ ] [Federal Reserve Board - News & Events](https://www.federalreserve.gov/newsevents.htm)
