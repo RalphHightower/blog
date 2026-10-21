@@ -1,0 +1,54 @@
+name: Blog Federal Reserve FOMC Release
+
+on:
+  schedule:
+    - cron: 0 18 28 10 *
+    - cron: 0 19 9 12 *
+    # [The Fed - 2027 FOMC Meeting calendar](https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm#45694)
+    - cron: 0 19 27 1 *
+    - cron: 0 18 17 3 *
+    - cron: 0 18 28 4 *
+    - cron: 0 18 9 6 *
+    - cron: 0 18 28 7 *
+    - cron: 0 18 15 9 *
+    - cron: 0 18 27 10 *
+    - cron: 0 19 8 12 *
+    #workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  create-issue:
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write
+
+    steps:
+      - name: Harden the runner (Audit all outbound calls)
+        uses: step-security/harden-runner@ccd8616d44fd3846e67624a50d5aad6d37bf2d25 # v2.22.1
+        with:
+          egress-policy: audit
+
+      - name: Blog Federal Reserve FOMC Release
+        run: |
+          new_issue_url=$(gh issue create \
+            --title "$(date +%F) $TITLE" \
+            --assignee "$ASSIGNEES" \
+            --label "$LABELS" \
+            --body "$BODY")
+          if [[ $PINNED == true ]]; then
+            gh issue pin "$new_issue_url"
+          fi
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_REPO: ${{ github.repository }}
+          TITLE: "FOMC Release"
+          ASSIGNEES: "RalphHightower"
+          LABELS: "maintenance,release – minor"
+          BODY: |
+
+            - [ ] [Federal Reserve Board - News & Events](https://www.federalreserve.gov/newsevents.htm)
+
+          PINNED: false
+          CLOSE_PREVIOUS: false
