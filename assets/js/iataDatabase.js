@@ -134,7 +134,7 @@ const iataDatabase = {
     TYS: { name: "McGhee Tyson Airport", link: "https://flyknoxville.com/", lat: 0.625022, lon: -1.465970 }, //, 35°48′40″N, 083°59′38″W
     UAM: { name: "Andersen Air Force Base", link: "https://www.andersen.af.mil/", lat: 0.236948, lon: 2.529409 }, //, 13°34′34″N, 144°55′28″E
     VBT: { name: "Bentonville Municipal Airport", link: "https://www.bentonville.ar.gov/385/Airport", lat: 0.634354, lon: -1.644440 }, //🛫, 36°20′45″N, 094°13′10″W
-    WRB: { name: "Robins Air Force Base", link: "https://www.robins.af.mil/", lat: 0.569675, lon: -1.458950 }, 32°38′24″N, 083°35′30″W
+    WRB: { name: "Robins Air Force Base", link: "https://www.robins.af.mil/", lat: 0.569675, lon: -1.458950 }, //, 32°38′24″N, 083°35′30″W
     WWA: { name: "Wasilla Airport", link: "https://www.cityofwasilla.gov/246/Municipal-Airport", lat: 1.074633, lon: -2.609956 }, //, 61°34'19"N, 149°32'22"W
     XJD: { name: "Al Udeid Air Base", link: "https://www.afcent.af.mil/Units/379th-Air-Expeditionary-Wing/", lat: 0.438402, lon: 0.895679 }, //, 25°07′07″N, 51°19′07″E
     YNG: { name: "Youngstown–Warren Regional Airport", link: "https://yngairport.com/", lat: 0.720137, lon: -1.408117 }, //, 41°15′39″N, 080°40′45″W
