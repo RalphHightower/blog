@@ -2,17 +2,17 @@ name: Blog Federal Reserve FOMC Release
 
 on:
   schedule:
-    - cron: 0 18 28 10 *
-    - cron: 0 19 9 12 *
+    - cron: 58 17 28 10 *
+    - cron: 58 18 9 12 *
     # [The Fed - 2027 FOMC Meeting calendar](https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm#45694)
-    - cron: 0 19 27 1 *
-    - cron: 0 18 17 3 *
-    - cron: 0 18 28 4 *
-    - cron: 0 18 9 6 *
-    - cron: 0 18 28 7 *
-    - cron: 0 18 15 9 *
-    - cron: 0 18 27 10 *
-    - cron: 0 19 8 12 *
+    - cron: 58 18 27 1 *
+    - cron: 58 17 17 3 *
+    - cron: 58 17 28 4 *
+    - cron: 58 17 9 6 *
+    - cron: 58 17 28 7 *
+    - cron: 58 17 15 9 *
+    - cron: 58 17 27 10 *
+    - cron: 58 18 8 12 *
     #workflow_dispatch:
 
 permissions:
@@ -26,7 +26,7 @@ jobs:
 
     steps:
       - name: Harden the runner (Audit all outbound calls)
-        uses: step-security/harden-runner@dc2769abcc0fcfbadfc1df54081c1608579ef6b2 # v2.22.2
+        uses: step-security/harden-runner@ccd8616d44fd3846e67624a50d5aad6d37bf2d25 # v2.22.1
         with:
           egress-policy: audit
 
