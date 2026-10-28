@@ -1,8 +1,8 @@
-name: Test GitHub Cron Jitter
+name: jitter.yml – Test GitHub Cron Jitter
 
 on:
   schedule:
-     0,43 * 28,29 10 *
+     - cron: 0,43 * 28,29 10 * #
 
 permissions:
   contents: read
