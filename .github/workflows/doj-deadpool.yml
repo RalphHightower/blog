@@ -1,0 +1,41 @@
+name: DOJ Deadpool Auto-Update
+
+on:
+  schedule:
+    - cron: "0 2 * * *"   # Runs every day at 2 AM Eastern
+  workflow_dispatch:       # Allows manual runs
+
+jobs:
+  update-doj-deadpool:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Fetch latest DOJ data
+        run: node doj-deadpool/scripts/fetch-doj.js
+
+      - name: Diff against previous data
+        run: node doj-deadpool/scripts/diff-doj.js
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+          git add doj-deadpool/data/*.json
+          git commit -m "Auto-update DOJ Deadpool data" || echo "No changes to commit"
+          git push
+
+      - name: Trigger GitHub Pages rebuild
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: .

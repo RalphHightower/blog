@@ -1,0 +1,33 @@
+name: Create Issues from Security Reports
+
+on:
+  workflow_dispatch:
+
+jobs:
+  parse-and-create:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Parse security reports
+        id: report
+        uses: peter-murray/github-security-report-action@v2
+        with:
+          token: ${{ secrets.SECURITY_TOKEN }}
+          sarifReportDir: ./results
+
+      - name: Create issue for each finding
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const findings = JSON.parse(process.env.SECURITY_JSON);
+            for (const f of findings) {
+              await github.rest.issues.create({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                title: `Security finding: ${f.ruleId}`,
+                body: f.description
+              });
+            }
+        env:
+          SECURITY_JSON: ${{ steps.report.outputs.json }}
