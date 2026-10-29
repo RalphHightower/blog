@@ -2,7 +2,7 @@ name: jitter.yml – Test GitHub Cron Jitter
 
 on:
   schedule:
-     - cron: 0,43 * 28,29 10 *
+     - cron: 0,43 * 29,30 10 *
 
 permissions:
   contents: read
@@ -21,4 +21,4 @@ jobs:
 
       - name: Jitter Test
         run: |
-          echo `date '+%F %T.%L'`
+          echo `date +'%F %T.%L'`
