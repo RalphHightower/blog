@@ -22,3 +22,4 @@ jobs:
       - name: Jitter Test
         run: |
           echo `date +'%F %T.%L'`
+          echo github.event.schedule
