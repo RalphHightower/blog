@@ -94,7 +94,7 @@ const iataDatabase = {
     MIA: { name: "Miami International Airport", link: "https://miami-airport.com/", lat: 0.450179, lon: -1.401335 }, //, 25°47′36″N, 080°17′26″W
     MMU: { name: "Morristown Municipal Airport", link: "https://www.mmuair.com/", lat: 0.712085, lon: -1.298787 }, //, 40°47′58″N, 074°24′54″W
     MSO: { name: "Missoula International Airport", link: "https://flymissoula.com/", lat: 0.818845, lon: -1.991256 }, //, 46°54′59″N, 114°05'26"W
-    MSP: { name: "Minneapolis–Saint Paul International Airport', link: "https://www.mspairport.com/", lat: 0.783338, lon: -1.627025 }, //, 44°52′55″N, 093°13′18″W
+    MSP: { name: "Minneapolis–Saint Paul International Airport", link: "https://www.mspairport.com/", lat: 0.783338, lon: -1.627025 }, //, 44°52′55″N, 093°13′18″W
     MTC: { name: "Selfridge Air National Guard Base", link: "https://www.127wg.ang.af.mil/", lat: 0.743656, lon: -1.445753 }, //, 42°36′30″N, 082°50′08″W
     MYR: { name: "Myrtle Beach International Airport", link: "https://www.flymyrtlebeach.com/", lat: 0.587822, lon: -1.377559 }, //, 33°40′47″N, 078°55′42″W
     OMA: { name: "Eppley Airfield / Omaha Airport", link: "https://www.flyoma.com/", lat: 0.720821, lon: -1.673683 }, //, 41.30°N, 95.895°W
@@ -123,7 +123,7 @@ const iataDatabase = {
     SAT: { name: "San Antonio International Airport", link: "https://flysanantonio.com/", lat: 0.515338, lon: -1.718660 }, //, 29°31′36″N, 098°28′19″W
     SKF: { name: "Joint Base San Antonio", link: "https://www.jbsa.mil/", lat: 0.513980, lon: -1.718257 }, //, 29°26′56″N, 098°26′56″W
     SKF_KF: { name: "Kelly Field", link: "https://www.jbsa.mil/", lat: 0.512836, lon: -1.720560 }, //, 29°23′00″N, 098°34′51″W
-    SLN: { name: "Salina Regional Airport', link: "https://www.salinaairport.com/", lat: 0.677023, lon: -1.704353 }, //, 38°47′26″N, 097°39′08″W
+    SLN: { name: "Salina Regional Airport", link: "https://www.salinaairport.com/", lat: 0.677023, lon: -1.704353 }, //, 38°47′26″N, 097°39′08″W
     SMQ: { name: "Somerset Airport", link: "https://www.somersetairport.com/", lat: 0.709059, lon: -1.303237 }, //, 40°37′34″N, 074°40′12″W
     SNN: { name: "Shannon Airport", link: "https://www.shannonairport.ie/", lat: 0.919822, lon: -0.155766 }, //, 52°42′07″N, 008°55′29″W
     SSH: { name: "Sharm El-Sheikh International Airport", link: "https://sharmelsheikh-airport.com/", lat: 0.488295, lon: 0.600301 }, //, 27°58′38″N, 34°23′41″E
