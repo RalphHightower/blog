@@ -28,10 +28,11 @@ const iataDatabase = {
     CMH: { name: "John Glenn Columbus International Airport", link: "https://flycolumbus.com/", lat: 0.698098, lon: -1.446737 }, //🛫, 39°59′53″N, 082°53′31″W
     CPR: { name: "Casper–Natrona County International Airport", link: "https://iflycasper.com/", lat: 0.748887, lon: -1.858155 }, //, 42°54′29″N, 106°27′52″W
     CRP: { name: "Corpus Christi International Airport", link: "https://corpuschristiairport.com/", lat: 0.484683, lon: -1.701715 }, //, 27°46′13″N, 097°30′04″W
-    CTP: { name: "Corpus Christi International Airport", link: "https://corpuschristiairport.com/", lat: 0.484683, lon: -1.701715 }, //, 27°46′13″N, 097°30′04″W
+    CRX: { name: "Roscoe Turner Airport", link: "https://goo.gl/maps/WD5ruKpuxdh7yStE8?g_st=ac", lat: 0.609382, lon: -1.546425 }, //, 34°54′54″N, 088°36′13″W
     CVG: { name: "Cincinnati/Northern Kentucky International Airport", link: "https://www.cvgairport.com/", lat: 0.681532, lon: -1.477731 }, //🛫, 39°02′56″N, 084°40′04″W
     DAB: { name: "Daytona Beach International Airport", link: "https://www.flydaytonafirst.com/", lat: 0.509369, lon: -1.414774 }, //, 29°11′05″N, 81°03′38″W
     DAY: { name: "James M. Cox Dayton International Airport", link: "https://flydayton.com/", lat: 0.696425, lon: -1.469907 }, //🛫, 39°54′08″N, 84°13′10″W
+    DBQ: { name: "Dubuque Regional Airport", link: "https://www.flydbq.com/", lat: 0.740054, lon: -1.583178 }, //, 42°24′07″N, 090°42′34″W
     DFW: { name: "Dallas Fort Worth International Airport", link: "https://www.dfwairport.com/", lat: 0.574160, lon: -1.693634 }, //, 32°53′49″N, 97°02′17″W
     DJT: { name: "President Donald J. Trump International Airport", link: "https://flydjt.org/", lat: 0.465707, lon: -1.397931 }, //, 26°40′59″N, 80°05′44″W
     DMA: { name: "Davis-Monthan Air Force Base (The Boneyard)", link: "https://www.dover.af.mil/", lat: 0.561361, lon: -1.934688 }, //, 32°09′49″N, 110°50′58″W
@@ -49,11 +50,11 @@ const iataDatabase = {
     ERV: { name: "Kerrville Municipal Airport", link: "https://www.kerrvilletx.gov/1765/Airport", lat: 0.523192, lon: -1.729369 }, //, 29°58′36″N, 99°05′08″W
     ESB: { name: "Ankara Esenboğa Airport", link: "https://esenbogaairport.com/", lat: 0.700367, lon: 0.575871 }, //, 40°07′41″N, 032°59′42″E
     EWR: { name: "Newark Liberty International Airport", link: "https://www.newarkairport.com/", lat: 0.710218, lon: -1.294486 }, //, 40°41′33″N, 074°10′07″W
-    FCA: { name: "Glacier Park International Airport", link: "https://iflyglacier.com/", lat: 0.630529, lon: -1.512885 }, //, 48°18′38″N 114°15′22″W
+    FCA: { name: "Glacier Park International Airport", link: "https://iflyglacier.com/", lat: 0.630529, lon: -1.512885 }, //, 48°18′38″N, 114°15′22″W
     FCO: { name: "Fiumicino Leonardo da Vinci International Airport / Rome Fiumicino Airport", link: "https://www.adr.it/", lat: 0.729552, lon: 0.213609 }, //, 41°48′01″N, 012°14′20″E
     FRG: { name: "Republic Airport", link: "https://republicairport.net/", lat: 0.710853, lon: -1.281304 }, //, 40°43′44″N, 073°24′48″W
     GON: { name: "Groton-New London Airport", link: "https://ctairports.org/airports/groton-newlondon/", lat: 0.721345, lon: -1.257422 }, //, 41°19′48″N, 072°02′42″W
-    GPI: { name: "Glacier Park International Airport", link: "https://iflyglacier.com/", lat: 0.630529, lon: -1.512885 }, //, 48°18′38″N 114°15′22″W
+    GPI: { name: "Glacier Park International Airport", link: "https://iflyglacier.com/", lat: 0.630529, lon: -1.512885 }, //, 48°18′38″N  114°15′22″W
     GPI: { name: "Glacier Park International Airport", link: "https://iflyglacier.com/", lat: 0.843178, lon: -1.994145 }, //, 48°18′38″N, 114°15′22″W
     GRI: { name: "Central Nebraska Regional Airport / Grand Island Central Regional Airport", link: "https://flygrandisland.com/", lat: 0.715018, lon: -1.715828 }, //, 40°58'03"N, 098°18'35"W
     GRR: { name: "Grand Rapids Gerald R. Ford International Airport", link: "https://www.grr.org/", lat: 0.748412, lon: -1.492654 }, //, 42°52′51″N, 85°31′22″W
@@ -88,11 +89,12 @@ const iataDatabase = {
     LMO: { name: "RAF Lossiemouth", link: "https://www.raf.mod.uk/our-organisation/stations/raf-lossiemouth/", lat: 1.007147, lon: -0.058279 }, //, 57°42′19″N, 003°20′21″W
     LUF: { name: "Luke Air Force Base", link: "https://www.luke.af.mil/", lat: 0.585296, lon: -1.961454 }, //, 33°32′06″N, 112°22′59″W
     MCI: { name: "Kansas City International Airport", link: "https://flykc.com/", lat: 0.685871, lon: -1.653069 }, //, 39°17′51″N, 94°42′50″W
-    MEM: { name: "Memphis International Airport", link: "https://flymemphis.com/", lat: 0.611607, lon: -1.570389 }, //🛫, 35°02′33″N, 089°58′36″W
+    MEM: { name: "Memphis International Airport / Frederick W. Smith International Airport", link: "https://flymemphis.com/", lat: 0.611607, lon: -1.570389 }, //🛫, 35°02′33″N, 089°58′36″W
     MHZ: { name: "RAF Mildenhall / Royal Air Force Mildenhall", link: "https://www.mildenhall.af.mil/", lat: 0.913942, lon: 0.008392 }, //, 52°21′54″N, 000°28′51″E
     MIA: { name: "Miami International Airport", link: "https://miami-airport.com/", lat: 0.450179, lon: -1.401335 }, //, 25°47′36″N, 080°17′26″W
     MMU: { name: "Morristown Municipal Airport", link: "https://www.mmuair.com/", lat: 0.712085, lon: -1.298787 }, //, 40°47′58″N, 074°24′54″W
     MSO: { name: "Missoula International Airport", link: "https://flymissoula.com/", lat: 0.818845, lon: -1.991256 }, //, 46°54′59″N, 114°05'26"W
+    MSP: { name: "Minneapolis–Saint Paul International Airport', link: "https://www.mspairport.com/", lat: 0.783338, lon: -1.627025 }, //, 44°52′55″N, 093°13′18″W
     MTC: { name: "Selfridge Air National Guard Base", link: "https://www.127wg.ang.af.mil/", lat: 0.743656, lon: -1.445753 }, //, 42°36′30″N, 082°50′08″W
     MYR: { name: "Myrtle Beach International Airport", link: "https://www.flymyrtlebeach.com/", lat: 0.587822, lon: -1.377559 }, //, 33°40′47″N, 078°55′42″W
     OMA: { name: "Eppley Airfield / Omaha Airport", link: "https://www.flyoma.com/", lat: 0.720821, lon: -1.673683 }, //, 41.30°N, 95.895°W
@@ -121,20 +123,23 @@ const iataDatabase = {
     SAT: { name: "San Antonio International Airport", link: "https://flysanantonio.com/", lat: 0.515338, lon: -1.718660 }, //, 29°31′36″N, 098°28′19″W
     SKF: { name: "Joint Base San Antonio", link: "https://www.jbsa.mil/", lat: 0.513980, lon: -1.718257 }, //, 29°26′56″N, 098°26′56″W
     SKF_KF: { name: "Kelly Field", link: "https://www.jbsa.mil/", lat: 0.512836, lon: -1.720560 }, //, 29°23′00″N, 098°34′51″W
+    SLN: { name: "Salina Regional Airport', link: "https://www.salinaairport.com/", lat: 0.677023, lon: -1.704353 }, //, 38°47′26″N, 097°39′08″W
     SMQ: { name: "Somerset Airport", link: "https://www.somersetairport.com/", lat: 0.709059, lon: -1.303237 }, //, 40°37′34″N, 074°40′12″W
     SNN: { name: "Shannon Airport", link: "https://www.shannonairport.ie/", lat: 0.919822, lon: -0.155766 }, //, 52°42′07″N, 008°55′29″W
     SSH: { name: "Sharm El-Sheikh International Airport", link: "https://sharmelsheikh-airport.com/", lat: 0.488295, lon: 0.600301 }, //, 27°58′38″N, 34°23′41″E
+    STC: { name: "St. Cloud Sky Central Airport", link: "https://www.stcloudairport.com/", lat: 0.794939, lon: -1.641657 }, //, 45°32′48″N, 094°03′36″W
     STL: { name: "St. Louis Lambert International Airport", link: "", lat: 0.676267, lon: -1.577104 }, //, 38°44′50″N, 090°21′41″W
     STN: { name: "London Stansted Airport", link: "https://www.stanstedairport.com/", lat: 0.905564, lon: 0.004102 }, //, 51°53′06″N, 0°14′06″E
     SUX: { name: "Sioux Gateway Airport", link: "https://www.sioux-city.org/163/Airport", lat: 0.740063, lon: -1.682226 }, //, 42°24′09″N, 096°23′04″W
     SYR: { name: "Syracuse Hancock International Airport", link: "https://syrairport.org/", lat: 0.752431, lon: -1.328307 }, //, 43°06′40″N, 076°06′23″W
     TCL: { name: "Tuscaloosa National Airport", link: "https://airport.tuscaloosa.com/", lat: 0.579808, lon: -1.529107 }, //, 33°13′14″N, 87°36′41″W
     TER: { name: "Lajes Field / Lajes Air Base", link: "https://www.emfa.pt/unit-27-", lat: 0.676524, lon: -0.472824 }, //, 38°45′43″N, 027°05′27″W
+    TUP: { name: "Tupelo Regional Airport", link: "https://flytupelo.com/", lat: 0.598090, lon: -1.549329 }, //, 34°16′05″N, 088°46′12″W
     TLV: { name: "Ben Gurion Airport", link: "https://www.iaa.gov.il/", lat: 0.558670, lon: 0.608819 }, //, 32°00′34″N, 034°52′58″E
     TYS: { name: "McGhee Tyson Airport", link: "https://flyknoxville.com/", lat: 0.625022, lon: -1.465970 }, //, 35°48′40″N, 083°59′38″W
     UAM: { name: "Andersen Air Force Base", link: "https://www.andersen.af.mil/", lat: 0.236948, lon: 2.529409 }, //, 13°34′34″N, 144°55′28″E
     VBT: { name: "Bentonville Municipal Airport", link: "https://www.bentonville.ar.gov/385/Airport", lat: 0.634354, lon: -1.644440 }, //🛫, 36°20′45″N, 094°13′10″W
-    WRB: { name: "Robins Air Force Base", link: "https://www.robins.af.mil/", lat: 0.569675, lon: -1.458950 }, //, 32°38′24″N, 083°35′30″W
+    WRB: { name: "Robins Air Force Base", link: "https://www.robins.af.mil/", lat: 0.569675, lon: -1.458950 }, 32°38′24″N, 083°35′30″W
     WWA: { name: "Wasilla Airport", link: "https://www.cityofwasilla.gov/246/Municipal-Airport", lat: 1.074633, lon: -2.609956 }, //, 61°34'19"N, 149°32'22"W
     XJD: { name: "Al Udeid Air Base", link: "https://www.afcent.af.mil/Units/379th-Air-Expeditionary-Wing/", lat: 0.438402, lon: 0.895679 }, //, 25°07′07″N, 51°19′07″E
     YNG: { name: "Youngstown–Warren Regional Airport", link: "https://yngairport.com/", lat: 0.720137, lon: -1.408117 }, //, 41°15′39″N, 080°40′45″W
