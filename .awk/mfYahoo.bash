@@ -19,23 +19,23 @@ echo $FILENAME
 
 mkdir -p $DATE
 
-if ! test -f $DATE/portfolio.csv;
+if ! test -f $DATE/watchlist.csv;
 then {
-    # cp ~/storage/downloads/portfolio*.csv $DATE
-    mv ~/storage/downloads/portfolio*.csv $DATE
-    # awk -f marketFormatYahoo.awk $(ls "$DATE"/portfolio*.csv | sort -V)
+    # cp ~/storage/downloads/watchlist*.csv $DATE
+    mv ~/storage/downloads/watchlist*.csv $DATE
+    # awk -f marketFormatYahoo.awk $(ls "$DATE"/watchlist*.csv | sort -V)
     }
 fi
     
-if test -f $DATE/portfolio.csv;
+if test -f $DATE/watchlist.csv;
 then {
     files=()
     while IFS= read -r f; do
         files+=("$f")
-    done < <(ls "$DATE"/portfolio*.csv | sort -V)
+    done < <(ls "$DATE"/watchlist*.csv | sort -V)
     
     awk -f marketFormatYahoo.awk "${files[@]}" | tee $FILENAME
-    # rm ~/storage/downloads/portfolio*.csv
+    # rm ~/storage/downloads/watchlist*.csv
     }
 else {
     echo No files!
