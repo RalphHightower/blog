@@ -10,6 +10,12 @@ BEGIN {
     # add new sector variable to hold the region's performance assessment
     mktDefense = "no data"
     mktEnergy = "no data"
+    
+    mapWatchList["watchlist.csv"] = "Americas"
+    mapWatchList["watchlist (1).csv"] = "Europe, Middle East, and Africa"
+    mapWatchList["watchlist (2).csv"] = "Asia, Pacific"
+    mapWatchList["watchlist (3).csv"] = "Defense ETFs"
+    mapWatchList["watchlist (4).csv"] = "Energy ETFs"
 
     regionCount = 0
 
@@ -348,11 +354,11 @@ function printTrumpStupidity() {
     }
 
 function buildRegionMapping() {
-    regionMap["portfolio.csv"] = "Americas"
-    regionMap["portfolio (1).csv"] = "Europe, Middle East, and Africa"
-    regionMap["portfolio (2).csv"] = "Asia, Pacific"
-    regionMap["portfolio (3).csv"] = "Defense ETFs"
-    regionMap["portfolio (4).csv"] = "Energy ETFs"
+    regionMap["watchlist.csv"] = "Americas"
+    regionMap["watchlist (1).csv"] = "Europe, Middle East, and Africa"
+    regionMap["watchlist (2).csv"] = "Asia, Pacific"
+    regionMap["watchlist (3).csv"] = "Defense ETFs"
+    regionMap["watchlist (4).csv"] = "Energy ETFs"
     }
     
 function lookupRegion(file) {
