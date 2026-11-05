@@ -20,6 +20,7 @@ The telephone numbers below have called and there is an empty person on the othe
 
 | Telephone Number | Location | Date Time[^11]<sup>,</sup>[^12] | Caller | Social Media |
 |---|---|---|---|---|
+| [\+1 (803) 547-9989](tel:+18035479989) | SC. Fort Mill | 2026-10-28 05:54 PM | CLARK J & C (Healthcare) | ~ |
 | [\+1 (803) 717-0741](tel:+18037170741) | SC. Shaw Afb Heights | 2026-10-21 01:44 PM | — | ~ |
 | [\+1 (803) 563-6850](tel:+18035636850) | SC. Columbia | 2026-10-21 01:05 PM | — | ~ |
 | [\+1 (803) 563-6850](tel:+18035636850) | SC. Columbia | 2026-10-21 01:05 PM | — | ~ |

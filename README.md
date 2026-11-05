@@ -88,11 +88,37 @@ Free pins 📌 available for popping balloons 🎈.
 | Trump (T) | 62,984,828 | 46.09% | 304 |
 | (Difference) | 2,868,686 | 2.09% | 77 |
 
-## Call to Action
 
-<h3>VOTE!</h3>
+### 2026 Midterm Blue Tsunami – South Carolina
+
+| name | party | total votes | percent of votes | registered voters |
+|---|---|---:|---:|---:|
+|  **Senate**  |  |  |  |  |
+| Darline Graham | REP | 951,165 | 46.65% | 3,438,317 |
+| Kasie Whitener | LIB | 235,60 | 1.16% | 3,438,317 |
+| **Annie Andrews** | DEM | 1,042,362 | 51.13% | 3,438,317 |
+| Mark Hackett | CON | 16,799 | 0.82% | 3,438,317 |
+| Write-In | NON | 4,894 | 0.24% | 3,438,317 |
+| _Total_ | - | 2,038,780 | _participation rate_ | 59.296% |
+|  **House SC1**  |  |  |  |  |
+| Jenny Costa Honeycutt | REP | 158,570 | 48.64% | 744,056 |
+| Bill Reeside | LIB | 5,346 | 1.64% | 744,056 |
+| **Nancy Lacore**[^20261103SC1] | DEM | 161,878 | 49.65% | 744,056 |
+| Write-In | NON | 218 | 0.07% | 744,056 |
+| _Total_ | - | 326,012 | _participation rate_ | 43.816% |
+|  **House SC2**[^20261103SC2]  |  |  |  |  |
+| **Joe Wilson** | REP | 147,620 | 49.84% | 631,559 |
+| Zyon Khalifa | DEM | 144,593 | 48.81% | 631,559 |
+| Dayna Alane Smith | WRK | 3,665 | 1.24% | 631,559 |
+| Write-In | NON | 332 | 0.11% | 631,559 |
+| _Total_ |  | 296,210 | _participation rate_ | 46.901% |
+
+[^20261103SC1]: Nancy Lacore served our nation for 35 years in the [Navy](https://www.navy.mil/), a career that began as a helicopter pilot and culminated as a three star admiral and the Chief of Navy Reserve where she was entrusted to lead more than 60,000 sailors. Lacore was pushed out of the [Navy](https://www.navy.mil/) by [Department of Defense (DOD)](https://www.defense.gov/) [Secretary Pete Hegseth](https://www.defense.gov/About/Biographies/Biography/Article/4040890/hon-pete-hegseth/)
+[^20261103SC2]: The result of the House SC-2 outcome is significant because political chameleon, [Rep. Joe Wilson (T-SC2)](https://joewilson.house.gov/), won by his slimmest of margins from the past 16 years with 1.03% capturing 49.84% of the vote compared to Khalifa’s 48.81%.
 
 <!-- Primary Election Tuesday, June 9, 2026 at 11:00:00 – Tuesday, June 9, 2026 at 23:00:00 timeanddate.com GMT -->
+<h2>Call to Action (CTA)</h2>
+<h3>VOTE!</h3>
 <div id="2026-06-09T23:00:00Z"><!-- Primary 2026-06-09T23:00:00Z -->
 
 <h4>SC Democrat Primary</h4>
@@ -115,6 +141,17 @@ Free pins 📌 available for popping balloons 🎈.
 <div id="midterm-open"></div>
 <div id="midterm-close"></div>
 </div><!-- Mid Term 2026-11-03T12:00:00Z – 2026-11-04T00:00:00Z -->
+
+<div id="2026-10-17T20:00:00Z"><!-- No Kings 2026-10-17T20:00:00Z -->
+<h3>2026-10-17 <a href="https://www.nokings.org/">No Kings: Vote Early
+No Thrones. No Crowns. No Kings.</a></h3>
+
+<p>Voting early means your voice is locked in and safe, days before anyone else can decide what happens next, and it gives you room to fix anything that goes wrong, a signature mismatch, a missing form, waiting in a line that's too long, or not being able to make it if your shift runs late. </p>
+<p>No matter what the laws look like where you live, early preparation is universal. Cast your ballot at an early voting site (where available), request and return an absentee ballot, double check your registration, or make it a whole day! However you do it, our goal is to make a clear voting plan, and voting early.</p>
+<p>No one person, no institution, and no political party gets to decide our future, before voters do.</p>
+<p>In America, the people get to choose their leaders and who represents them. No one person gets to choose who votes, whose voices matter, or what future our communities deserve, but us.</p>
+
+</div><!-- No Kings 2026-10-17T20:00:00Z -->
 
 <div id="2026-03-28T20:00:00Z"><!-- No Kings 2026-03-28T20:00:00Z -->
 
@@ -294,7 +331,7 @@ Why I’m Highlighting It This Year
 
 The <a href="https://irangov.ir/">Iran</a> war has triggered a chain reaction in the real economy — LNG, diesel, fertilizer, fishing fuel, freight, plastics, even the coal and metals that keep the grid running. Diesel delivers everything, from crops to catch to coal for power plants, and when it spikes, the whole system tightens. Farmers, ranchers, and fishermen feel it first.
 
-With the <a href="https://irangov.ir/">Iran</a> war driving up the cost of diesel, fertilizer, freight, and every input that keeps American farms running, the pressure on farmers and fishermen is only getting worse. That’s why I’m keeping <a href="https://www.farmaid.org/">Farm Aid</a>on the homepage this year instead of letting it expire. The economic strain isn’t temporary, and neither is the support they need.
+With the <a href="https://irangov.ir/">Iran</a> war driving up the cost of diesel, fertilizer, freight, and every input that keeps American farms running, the pressure on farmers and fishermen is only getting worse. That’s why I’m keeping <a href="https://www.farmaid.org/">Farm Aid</a> on the homepage this year instead of letting it expire. The economic strain isn’t temporary, and neither is the support they need.
 
 Read the full post <a href="https://ralphhightower.github.io/blog/2026/03/FarmAid.html">Farm Aid 2026: A Year of Need→</a>
 
@@ -891,6 +928,8 @@ function updateCountdowns() {
     updateCountdown("midterm-open",  "2026-11-03T12:00:00Z", "days");
     updateCountdown("midterm-close", "2026-11-04T00:00:00Z", "hms");
     }
+
+displayUntil("2026-10-17T20:00:00Z");
 
 <!-- No Kings 2026-03-28T20:00:00Z -->
 displayUntil("2026-03-28T20:00:00Z");
