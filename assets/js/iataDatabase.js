@@ -142,6 +142,7 @@ const iataDatabase = {
     WRB: { name: "Robins Air Force Base", link: "https://www.robins.af.mil/", lat: 0.569675, lon: -1.458950 }, //, 32°38′24″N, 083°35′30″W
     WWA: { name: "Wasilla Airport", link: "https://www.cityofwasilla.gov/246/Municipal-Airport", lat: 1.074633, lon: -2.609956 }, //, 61°34'19"N, 149°32'22"W
     XJD: { name: "Al Udeid Air Base", link: "https://www.afcent.af.mil/Units/379th-Air-Expeditionary-Wing/", lat: 0.438402, lon: 0.895679 }, //, 25°07′07″N, 51°19′07″E
+    XMR: { name: "Cape Canaveral Space Force Station", link: "https://www.patrick.spaceforce.mil/", lat: 0.497225, lon: 1.406348 }, //, 28°29′20″N, 80°34′40″
     YNG: { name: "Youngstown–Warren Regional Airport", link: "https://yngairport.com/", lat: 0.720137, lon: -1.408117 }, //, 41°15′39″N, 080°40′45″W
     YYC: { name: "Calgary International Airport", link: "https://www.yyc.com/", lat: 0.892106, lon: -1.990029 }, //, 51°06′50″N, 114°01′13″W
     ZAZ: { name: "Zaragoza Airport", link: "https://www.aena.es/es/zaragoza.html", lat: 0.727211, lon: -0.018181 }, //, 41°39′58″N, 01°02′30″W
