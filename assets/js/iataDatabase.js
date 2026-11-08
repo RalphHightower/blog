@@ -18,7 +18,7 @@ const iataDatabase = {
     BHM: { name: "Birmingham–Shuttlesworth International Airport", link: "", lat: 0.585800, lon: -1.514112 }, //, 33°33′50″N, 086°45′08″W
     BIS: { name: "Bismarck Municipal Airport", link: "https://bismarckairport.com/", lat: 0.816339, lon: -1.758346 }, //, 46°46′22″N, 100°44′45″W
     BNA: { name: "Nashville International Airport", link: "https://flynashville.com/", lat: 0.630529, lon: -1.512885 }, //, 36°07′36″N, 086°40′55″W
-    BTR: { name: "Baton Rouge Metropolitan Airport', link: "https://www.flybtr.com/", lat: 0.532898, lon: -1.590868 }, //, 30°31′58″N, 091°09′00″W
+    BTR: { name: "Baton Rouge Metropolitan Airport", link: "https://www.flybtr.com/", lat: 0.532898, lon: -1.590868 }, //, 30°31′58″N, 091°09′00″W
     BWI: { name: "Baltimore/Washington International Thurgood Marshall Airport", link: "https://bwiairport.com/", lat: 0.683738, lon: -1.338115 }, //, 39°10′31″N, 76°40′06″W
     CAE: { name: "Columbia Metropolitan Airport", link: "https://flycae.com/", lat: 0.592345, lon: -1.415801 }, //🛫, 33°56′20″N, 081°07′10″W
     CGN: { name: "Cologne Bonn Airport", link: "https://www.koeln-bonn-airport.de/", lat: 0.887776, lon: 0.124665 }, //, 50°51′57″N, 7°8′34″E
