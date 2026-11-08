@@ -9,7 +9,7 @@
   "contributors": [
     "ralph.hightower+blog@gmail.com"
   ],
-  "version": "1.0.7",
+  "version": "1.0.9.1",
   "type": "git",
   "homepage": "https://github.com/ralphhightower/blog.git",
   "bugs": {
@@ -42,7 +42,7 @@
     "markdownlint-cli2": "^0.24.0"
   },
   "dependencies": {
-    "npm": "^12.2.1"
+    "npm": "^12.2.2"
   },
   "packageManager": "npm@11.18.0"
 }
