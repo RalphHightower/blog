@@ -4,21 +4,26 @@
 # https://docs.github.com/github/administering-a-repository/configuration-options-for-dependency-updates
 
 version: 2
+
+permissions:
+  pull-requests: write
+  issues: write
+
 updates:
   - package-ecosystem: "github-actions"
     directory: "/.github/workflows"
     schedule:
       interval: "daily"
-      prefix: "[info](sec): /github-actions/ "
+      prefix: "info(sec): /github-actions/ "
 
   - package-ecosystem: "bundler"
     directory: "/"
     schedule:
       interval: "daily"
-      prefix: "[info](sec): /bundler/ "
+      prefix: "info(sec): /bundler/ "
 
   - package-ecosystem: "npm"
     directory: "/"
     schedule:
       interval: "daily"
-      prefix: "[info](sec): /npm/ "
+      prefix: "info(sec): /npm/ "
