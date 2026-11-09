@@ -8,7 +8,7 @@ excerpt: ''
 #description:
 #permalink:
 toc: false
-title: "Damage Control: Harmeet Dhillon Destruction of Department of Justice Civil Rights Division Is Difficult to Repair"
+title: "Damage Control: Harmeet Dhillon Destruction of Department of Justice Civil Rights Division Impossible  For Scotty to Repair"
 ---
 
 ## [Harmeet Dhillon's destruction of the Civil Rights Division will be hard to fix](https://www.ms.now/opinion/harmeet-dhillon-leaves-civil-rights-division)
