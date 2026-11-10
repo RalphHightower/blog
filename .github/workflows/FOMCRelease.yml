@@ -1,4 +1,4 @@
-name: Blog Federal Reserve FOMC Release
+name: FOMCRelease.yml – Blog Federal Reserve FOMC Release
 
 on:
   schedule:
