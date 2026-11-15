@@ -2,8 +2,8 @@ name: stale-branches.yml – Delete Stale Branches
 
 on:
   workflow_dispatch:  # Manual trigger from GitHub UI
-  schedule:
-    - cron: '0 6 * * 0'
+  schedule: # 2	3	5	7	11	13	17	19	23	29	31	37	41	43	47	53	59
+    - cron: '7 0 * * 0'
 
 permissions: 
   contents: read
