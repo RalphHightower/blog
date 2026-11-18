@@ -20,6 +20,13 @@ The telephone numbers below have called and there is an empty person on the othe
 
 | Telephone Number | Location | Date Time[^11]<sup>,</sup>[^12] | Caller | Social Media |
 |---|---|---|---|---|
+| [\+1 (803) 405-7671](tel:+18034057671) | SC. Newberry | 2026-11-17 11:43 AM | [Newberry Hospital](https://www.newberryhealth.org/) ([NEWBERRY COUNTY](https://www.newberrycounty.gov/)) | ~ |
+| [\+1 (803) 485-3875](tel:+18034853875) | SC. Manning | 2026-11-12 11:51 AM | (SC. Summerton) | ~ |
+| [\+1 (803) 865-4669](tel:+18038654669) | SC. Columbia | 2026-11-11 09:34 AM | Provident Health | ~ |
+| [\+1 (803) 263-7065](tel:+18032637065) | SC. Norway | 2026-11-10 04:44 PM | — | ~ |
+| [\+1 (803) 262-5891](tel:+18032625891) | SC. Aiken | 2026-11-10 12:22 PM | — | ~ |
+| [\+1 (803) 642-1405](tel:+18036421405) | SC. Aiken | 2026-11-09 12:41 PM | REGIONS BANK MK | ~ |
+| [\+1 (803) 740-4558](tel:+18037404558) | SC. Columbia | 2026-11-09 10:51 AM | Barbara Hawkins (EVERLAST LOCKSMITH) | ~ |
 | [\+1 (803) 547-9989](tel:+18035479989) | SC. Fort Mill | 2026-10-28 05:54 PM | CLARK J & C (Healthcare) | ~ |
 | [\+1 (803) 717-0741](tel:+18037170741) | SC. Shaw Afb Heights | 2026-10-21 01:44 PM | — | ~ |
 | [\+1 (803) 563-6850](tel:+18035636850) | SC. Columbia | 2026-10-21 01:05 PM | — | ~ |
