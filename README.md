@@ -88,37 +88,43 @@ Free pins 📌 available for popping balloons 🎈.
 | Trump (T) | 62,984,828 | 46.09% | 304 |
 | (Difference) | 2,868,686 | 2.09% | 77 |
 
-
 ### 2026 Midterm Blue Tsunami – South Carolina
+
+Watching the [Democrats](https://www.democrats.org/) trounce the [Trumpian Party](https://www.gop.com/) was a joy to behold. 
 
 | name | party | total votes | percent of votes | registered voters |
 |---|---|---:|---:|---:|
-|  **Senate**  |  |  |  |  |
-| Darline Graham | REP | 951,165 | 46.65% | 3,438,317 |
-| Kasie Whitener | LIB | 235,60 | 1.16% | 3,438,317 |
-| **Annie Andrews** | DEM | 1,042,362 | 51.13% | 3,438,317 |
-| Mark Hackett | CON | 16,799 | 0.82% | 3,438,317 |
-| Write-In | NON | 4,894 | 0.24% | 3,438,317 |
-| _Total_ | - | 2,038,780 | _participation rate_ | 59.296% |
-|  **House SC1**  |  |  |  |  |
-| Jenny Costa Honeycutt | REP | 158,570 | 48.64% | 744,056 |
-| Bill Reeside | LIB | 5,346 | 1.64% | 744,056 |
-| **Nancy Lacore**[^20261103SC1] | DEM | 161,878 | 49.65% | 744,056 |
+| **Senate** | | | | |
+| Darline Graham | REP | 952,191 | 46.64% | 3,438,317 |
+| Kasie Whitener | LIB | 23,585 | 1.16% | 3,438,317 |
+| **Annie Andrews** | DEM | 1,044,001 | 51.14% | 3,438,317 |
+|  Mark Hackett | CON | 16,811 | 0.82% | 3,438,317 |
+| Write-In | NON | 4,899 | 0.24% | 3,438,317 |
+| _Total_	| - |	_2,041,487_ |	_participation rate_ | _59.37%_ |
+| **House District  1**  | | | | |
+| Jenny Costa Honeycutt | REP | 15,8751 | 48.63% | 744,056 |
+| Bill Reeside | LIB | 5,351 | 1.64% | 744,056 |
+| **Nancy Lacore**[^20261103SC1] | DEM | 162,103 | 49.66% | 744,056 |
 | Write-In | NON | 218 | 0.07% | 744,056 |
-| _Total_ | - | 326,012 | _participation rate_ | 43.816% |
-|  **House SC2**[^20261103SC2]  |  |  |  |  |
-| **Joe Wilson** | REP | 147,620 | 49.84% | 631,559 |
-| Zyon Khalifa | DEM | 144,593 | 48.81% | 631,559 |
-| Dayna Alane Smith | WRK | 3,665 | 1.24% | 631,559 |
-| Write-In | NON | 332 | 0.11% | 631,559 |
-| _Total_ |  | 296,210 | _participation rate_ | 46.901% |
+| _Total_	| - |	_326,423_ |	_participation rate_ | _43.871%_ |
+| **House District  2** | | | | |
+| **Joe Wilson**[^20261110SC2] | REP | 147,791 | 49.82% | 631,559 |
+| Zyon Khalifa | DEM | 144,865 | 48.83% | 631,559 |
+| Dayna Alane Smith | WRK | 3,674 | 1.24% | 631,559 |
+| Write-In | NON | 334 | 0.11% | 631,559 |
+| _Total_	| - |	_296,664_ |	_participation rate_ | _46.973%_ |
+| **House District  2<br />Recount 2026-11-10** | | | | |
+| **Joe Wilson** | REP | 147,785 | 49.80% | 597,567 |
+| Zyon Khalifa | DEM | 144,945 | 48.85% | 597,567 |
+| Dayna Alane Smith | WRK | 3,673 | 1.24% | 597,567 |
+| Write-In | NON | 334 | 0.11% | 597,567 |
+| _Total_	| - |	_296,737_ |	_participation rate_ | _49.658%_ |
 
 [^20261103SC1]: Nancy Lacore served our nation for 35 years in the [Navy](https://www.navy.mil/), a career that began as a helicopter pilot and culminated as a three star admiral and the Chief of Navy Reserve where she was entrusted to lead more than 60,000 sailors. Lacore was pushed out of the [Navy](https://www.navy.mil/) by [Department of Defense (DOD)](https://www.defense.gov/) [Secretary Pete Hegseth](https://www.defense.gov/About/Biographies/Biography/Article/4040890/hon-pete-hegseth/)
-[^20261103SC2]: The result of the House SC-2 outcome is significant because political chameleon, [Rep. Joe Wilson (T-SC2)](https://joewilson.house.gov/), won by his slimmest of margins from the past 16 years with 1.03% capturing 49.84% of the vote compared to Khalifa’s 48.81%.
+[^20261103SC2]: The result of the House SC-2 outcome is significant because political chameleon, [Rep. Joe Wilson (T-SC2)](https://joewilson.house.gov/), won by his slimmest of margins from the past 16 years with 0.99%, capturing 49.82% of the vote compared to Khalifa’s 48.83%.
+[^20261110SC2]: In the House SC-2 recount, political chameleon [Rep. Joe Wilson (T-SC2)](https://joewilson.house.gov/), shrank 0.004% to a razor-thin margin of 0.95% capturing 49.80% of the vote compared to Khalifa’s 48.85%.
 
-<!-- Primary Election Tuesday, June 9, 2026 at 11:00:00 – Tuesday, June 9, 2026 at 23:00:00 timeanddate.com GMT -->
-<h2>Call to Action (CTA)</h2>
-<h3>VOTE!</h3>
+
 <div id="2026-06-09T23:00:00Z"><!-- Primary 2026-06-09T23:00:00Z -->
 
 <h4>SC Democrat Primary</h4>
