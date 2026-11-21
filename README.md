@@ -94,27 +94,27 @@ Watching the [Democrats](https://www.democrats.org/) trounce the [Trumpian Party
 
 | name | party | total votes | percent of votes | registered voters |
 |---|---|---:|---:|---:|
-| **Senate** | | | | |
+| **[Senate](https://www.enr-scvotes.org/SC/127300/web.345435/#/detail/26000)** | | | | |
 | Darline Graham | REP | 952,191 | 46.64% | 3,438,317 |
 | Kasie Whitener | LIB | 23,585 | 1.16% | 3,438,317 |
 | **Annie Andrews** | DEM | 1,044,001 | 51.14% | 3,438,317 |
 |  Mark Hackett | CON | 16,811 | 0.82% | 3,438,317 |
 | Write-In | NON | 4,899 | 0.24% | 3,438,317 |
 | _Total_	| - |	_2,041,487_ |	_participation rate_ | _59.37%_ |
-| **House District  1**  | | | | |
+| **[House District  1](https://www.enr-scvotes.org/SC/127300/web.345435/#/detail/27002)**  | | | | |
 | Jenny Costa Honeycutt | REP | 15,8751 | 48.63% | 744,056 |
 | Bill Reeside | LIB | 5,351 | 1.64% | 744,056 |
 | **Nancy Lacore**[^20261103SC1] | DEM | 162,103 | 49.66% | 744,056 |
 | Write-In | NON | 218 | 0.07% | 744,056 |
 | _Total_	| - |	_326,423_ |	_participation rate_ | _43.871%_ |
-| **House District  2** | | | | |
-| **Joe Wilson**[^20261110SC2] | REP | 147,791 | 49.82% | 631,559 |
+| **[House District  2](https://www.enr-scvotes.org/SC/127300/web.345435/#/detail/27004)** | | | | |
+| **Joe Wilson**[^20261103SC2] | REP | 147,791 | 49.82% | 631,559 |
 | Zyon Khalifa | DEM | 144,865 | 48.83% | 631,559 |
 | Dayna Alane Smith | WRK | 3,674 | 1.24% | 631,559 |
 | Write-In | NON | 334 | 0.11% | 631,559 |
 | _Total_	| - |	_296,664_ |	_participation rate_ | _46.973%_ |
-| **House District  2<br />Recount 2026-11-10** | | | | |
-| **Joe Wilson** | REP | 147,785 | 49.80% | 597,567 |
+| **[House District  2<br />Recount 2026-11-10](https://www.enr-scvotes.org/SC/127592/web.345435/#/detail/27004)** | | | | |
+| **Joe Wilson**[^20261110SC2] | REP | 147,785 | 49.80% | 597,567 |
 | Zyon Khalifa | DEM | 144,945 | 48.85% | 597,567 |
 | Dayna Alane Smith | WRK | 3,673 | 1.24% | 597,567 |
 | Write-In | NON | 334 | 0.11% | 597,567 |
@@ -122,7 +122,7 @@ Watching the [Democrats](https://www.democrats.org/) trounce the [Trumpian Party
 
 [^20261103SC1]: Nancy Lacore served our nation for 35 years in the [Navy](https://www.navy.mil/), a career that began as a helicopter pilot and culminated as a three star admiral and the Chief of Navy Reserve where she was entrusted to lead more than 60,000 sailors. Lacore was pushed out of the [Navy](https://www.navy.mil/) by [Department of Defense (DOD)](https://www.defense.gov/) [Secretary Pete Hegseth](https://www.defense.gov/About/Biographies/Biography/Article/4040890/hon-pete-hegseth/)
 [^20261103SC2]: The result of the House SC-2 outcome is significant because political chameleon, [Rep. Joe Wilson (T-SC2)](https://joewilson.house.gov/), won by his slimmest of margins from the past 16 years with 0.99%, capturing 49.82% of the vote compared to Khalifa’s 48.83%.
-[^20261110SC2]: In the House SC-2 recount, political chameleon [Rep. Joe Wilson (T-SC2)](https://joewilson.house.gov/), shrank 0.004% to a razor-thin margin of 0.95% capturing 49.80% of the vote compared to Khalifa’s 48.85%.
+[^20261110SC2]: In the House SC-2 recount, political chameleon [Rep. Joe Wilson (T-SC2)](https://joewilson.house.gov/), shrank 0.04% to a razor-thin margin of 0.95% capturing 49.80% of the vote compared to Khalifa’s 48.85%.
 
 
 <div id="2026-06-09T23:00:00Z"><!-- Primary 2026-06-09T23:00:00Z -->
