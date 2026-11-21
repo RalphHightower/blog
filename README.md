@@ -64,33 +64,9 @@ Surviving “The Apprentice: White House – Wrecking Ball”. [Trump](https://w
 
 Free pins 📌 available for popping balloons 🎈.
 
-### [2024 Presidential Election Results – Federal Election Commission (FEC)](https://www.fec.gov/resources/cms-content/documents/2024presgeresults.pdf)
-
-| Candidate | Votes | Percentage | Electoral College |
-|---|--:|---:|---:|
-| Harris (D) | 75,017,613 | 48.32% | 226 |
-| Trump (T) | 77,302,580 | 49.80% | 312 |
-| (Difference) | 2,284,967 | 1.48% | 86 |
-
-### [2020 Presidential Election Results – Federal Election Commission (FEC)](https://www.fec.gov/resources/cms-content/documents/federalelections2020.pdf)
-
-| Candidate | Votes | Percentage | Electoral College |
-|---|--:|---:|---:|
-| Biden (D) | 81,283,501 | 51.31% | 306 |
-| Trump (T) | 74,223,975 | 46.85% | 232 |
-| (Difference) | 7,059,526 | 4.46% | 74 |
-
-### [2016 Presidential Election Results – Federal Election Commission (FEC)](https://www.fec.gov/resources/cms-content/documents/federalelections2020.pdf)
-
-| Candidate | Votes | Percentage | Electoral College |
-|---|--:|---:|---:|
-| Clinton (D) | 65,853,514 | 48.18% | 227 |
-| Trump (T) | 62,984,828 | 46.09% | 304 |
-| (Difference) | 2,868,686 | 2.09% | 77 |
-
 ### 2026 Midterm Blue Tsunami – South Carolina
 
-Watching the [Democrats](https://www.democrats.org/) trounce the [Trumpian Party](https://www.gop.com/) was a joy to behold. 
+Watching the [Democrats](https://www.democrats.org/) trample the [Trumpian Party](https://www.gop.com/) was a joy to behold. 
 
 | name | party | total votes | percent of votes | registered voters |
 |---|---|---:|---:|---:|
@@ -123,6 +99,30 @@ Watching the [Democrats](https://www.democrats.org/) trounce the [Trumpian Party
 [^20261103SC1]: Nancy Lacore served our nation for 35 years in the [Navy](https://www.navy.mil/), a career that began as a helicopter pilot and culminated as a three star admiral and the Chief of Navy Reserve where she was entrusted to lead more than 60,000 sailors. Lacore was pushed out of the [Navy](https://www.navy.mil/) by [Department of Defense (DOD)](https://www.defense.gov/) [Secretary Pete Hegseth](https://www.defense.gov/About/Biographies/Biography/Article/4040890/hon-pete-hegseth/)
 [^20261103SC2]: The result of the House SC-2 outcome is significant because political chameleon, [Rep. Joe Wilson (T-SC2)](https://joewilson.house.gov/), won by his slimmest of margins from the past 16 years with 0.99%, capturing 49.82% of the vote compared to Khalifa’s 48.83%.
 [^20261110SC2]: In the House SC-2 recount, political chameleon [Rep. Joe Wilson (T-SC2)](https://joewilson.house.gov/), shrank 0.04% to a razor-thin margin of 0.95% capturing 49.80% of the vote compared to Khalifa’s 48.85%.
+
+### [2024 Presidential Election Results – Federal Election Commission (FEC)](https://www.fec.gov/resources/cms-content/documents/2024presgeresults.pdf)
+
+| Candidate | Votes | Percentage | Electoral College |
+|---|--:|---:|---:|
+| Harris (D) | 75,017,613 | 48.32% | 226 |
+| Trump (T) | 77,302,580 | 49.80% | 312 |
+| (Difference) | 2,284,967 | 1.48% | 86 |
+
+### [2020 Presidential Election Results – Federal Election Commission (FEC)](https://www.fec.gov/resources/cms-content/documents/federalelections2020.pdf)
+
+| Candidate | Votes | Percentage | Electoral College |
+|---|--:|---:|---:|
+| Biden (D) | 81,283,501 | 51.31% | 306 |
+| Trump (T) | 74,223,975 | 46.85% | 232 |
+| (Difference) | 7,059,526 | 4.46% | 74 |
+
+### [2016 Presidential Election Results – Federal Election Commission (FEC)](https://www.fec.gov/resources/cms-content/documents/federalelections2020.pdf)
+
+| Candidate | Votes | Percentage | Electoral College |
+|---|--:|---:|---:|
+| Clinton (D) | 65,853,514 | 48.18% | 227 |
+| Trump (T) | 62,984,828 | 46.09% | 304 |
+| (Difference) | 2,868,686 | 2.09% | 77 |
 
 
 <div id="2026-06-09T23:00:00Z"><!-- Primary 2026-06-09T23:00:00Z -->
