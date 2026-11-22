@@ -96,7 +96,7 @@ Watching the [Democrats](https://www.democrats.org/) trample the [Trumpian Party
 | Write-In | NON | 334 | 0.11% | 597,567 |
 | _Total_	| - |	_296,737_ |	_participation rate_ | _49.658%_ |
 
-[^20261103SC1]: Nancy Lacore served our nation for 35 years in the [Navy](https://www.navy.mil/), a career that began as a helicopter pilot and culminated as a three star admiral and the Chief of Navy Reserve where she was entrusted to lead more than 60,000 sailors. Lacore was pushed out of the [Navy](https://www.navy.mil/) by [Department of Defense (DOD)](https://www.defense.gov/) [Secretary Pete Hegseth](https://www.defense.gov/About/Biographies/Biography/Article/4040890/hon-pete-hegseth/)
+[^20261103SC1]: From her campaign website: “Nancy Lacore served our nation for 35 years in the [Navy](https://www.navy.mil/), a career that began as a helicopter pilot and culminated as a three star admiral and the Chief of Navy Reserve where she was entrusted to lead more than 60,000 sailors.” <br />@RalphHightower: Lacore was pushed out of the [Navy](https://www.navy.mil/) by [Department of Defense (DOD)](https://www.defense.gov/) [Secretary Pete Hegseth](https://www.defense.gov/About/Biographies/Biography/Article/4040890/hon-pete-hegseth/)
 [^20261103SC2]: The result of the House SC-2 outcome is significant because political chameleon, [Rep. Joe Wilson (T-SC2)](https://joewilson.house.gov/), won by his slimmest of margins from the past 16 years with 0.99%, capturing 49.82% of the vote compared to Khalifa’s 48.83%.
 [^20261110SC2]: In the House SC-2 recount, political chameleon [Rep. Joe Wilson (T-SC2)](https://joewilson.house.gov/), shrank 0.04% to a razor-thin margin of 0.95% capturing 49.80% of the vote compared to Khalifa’s 48.85%.
 
@@ -634,19 +634,19 @@ If a security issue is found, I can be notified by one of the following methods:
 
 [![OpenSSF Best Practices](https://www.bestpractices.dev/projects/9780/badge)](https://www.bestpractices.dev/projects/9780)
 
-
-|   |
-|---|
-| [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=RalphHightower&custom_title=RalphHightower%20GitHub%20Stats&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&include_all_commits=true&theme=transparent)](https://github-stats-extended.vercel.app/api?username=RalphHightower&custom_title=RalphHightower%20GitHub%20Stats&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&include_all_commits=true&theme=transparent) |
-| [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=RalphHightower&layout=donut&langs_count=4&theme=transparent)](https://github-stats-extended.vercel.app/api/top-langs?username=RalphHightower&layout=donut&langs_count=4&theme=transparent) |
 | |
-| ![GitHub Streak](https://streak-stats.vercel.app?user=RalphHightower&date_format=Y-m-d&border=73000a&stroke=73000a&ring=73000a&fire=73000a&currStreakNum=73000a&sideNums=73000a&currStreakLabel=73000a&sideLabels=73000a&dates=73000a) |
-| ![RalphHightower's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RalphHightower&theme=minimal&color=73000a&title_color=73000a&line=73000a&point=73000a) |
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RalphHightower&theme=default) |
+|---|
+| [![GitHub Streak](https://streak-stats.demolab.com?user=RalphHightower&timezone=America/New_York&date_format=M%20j%5B%2C%20Y%5D&border=73000a&stroke=73000a&ring=73000a&fire=73000a&currStreakNum=73000a&sideNums=73000a&currStreakLabel=73000a&sideLabels=73000a&dates=73000a)](https://git.io/streak-stats) |
+| [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=RalphHightower&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=default)](https://github-stats-extended.vercel.app/api?username=RalphHightower&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=default&title_color=73000a&text_color=73000a&icon_color=73000a&border_color=ffffff) |
+| ![RalphHightower's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RalphHightower&theme=default&color=73000a&title_color=73000a&line=73000a&point=73000a&bg_color=ffffff) |
+| ![profile-details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RalphHightower&theme=default) |
 
 |    |    |
 |---|---|
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RalphHightower&theme=default) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RalphHightower&theme=default&utcOffset=-5) |
+| ![repos-per-language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RalphHightower&theme=default) | ![most-commit-language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RalphHightower&theme=default) |
+| ![stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RalphHightower&theme=default) | ![productive-time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RalphHightower&theme=default&utcOffset=-5) |
+<!-- ![stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RalphHightower&theme=transparent) -->
+<!-- ![productive-time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RalphHightower&theme=transparent&timeZone=America%2FNewYork) -->
 
 <script>
 
